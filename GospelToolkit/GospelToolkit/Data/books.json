@@ -1,0 +1,82 @@
+[
+  {
+    "id": "book-001",
+    "author_zh": "C.S. 路易斯",
+    "author_en": "C.S. Lewis",
+    "title_zh": "返璞归真",
+    "title_en": "Mere Christianity",
+    "summary_zh": "C.S.路易斯最著名的护教经典，从理性的角度论证基督教信仰的合理性。全书从道德律的存在出发，逐步论证上帝的存在、基督教的核心教义，以及基督徒生活的实践。",
+    "summary_en": "C.S. Lewis's most famous apologetic work, arguing for the reasonableness of Christian faith from a rational perspective. Starting from the existence of the moral law, it progressively argues for God's existence, core Christian doctrines, and the practice of Christian living.",
+    "chapters": [
+      {
+        "number": 1,
+        "title_zh": "论是非",
+        "title_en": "Right and Wrong as a Clue to the Meaning of the Universe",
+        "summary_zh": "路易斯从人类普遍的道德直觉出发，论证存在一个超越文化的客观道德律，这个道德律指向一位道德的立法者。",
+        "summary_en": "Lewis starts from humanity's universal moral intuitions, arguing for an objective moral law that transcends culture and points to a moral Lawgiver.",
+        "key_quotes": ["人人都知道自然法则，人人都违反它。这两个事实是我们对自己和所居住之宇宙进行清晰思考的基础。"]
+      },
+      {
+        "number": 2,
+        "title_zh": "基督徒的信仰",
+        "title_en": "What Christians Believe",
+        "summary_zh": "论证基督教的核心信仰：上帝的本质、罪的问题、以及耶稣基督的身份和救赎工作。",
+        "summary_en": "Argues for core Christian beliefs: the nature of God, the problem of sin, and the identity and redemptive work of Jesus Christ.",
+        "key_quotes": ["耶稣要么是疯子、骗子，要么就是主。"]
+      }
+    ],
+    "recommend_for": ["初信者", "慕道友", "知识分子"],
+    "tags": ["apologetics", "classic", "beginner"],
+    "epub_filename": "mere_christianity_summary.epub",
+    "summary_epub_filename": "mere_christianity_summary.epub",
+    "full_epub_filename": null
+  },
+  {
+    "id": "book-002",
+    "author_zh": "提摩太·凯勒",
+    "author_en": "Timothy Keller",
+    "title_zh": "为何是祂",
+    "title_en": "The Reason for God",
+    "summary_zh": "凯勒牧师在纽约这个世俗化城市牧会多年，本书回应了现代人对基督教最常见的疑问和反对意见，用理性和同理心搭建信仰与怀疑之间的桥梁。",
+    "summary_en": "Drawing from years of ministry in secular New York City, Pastor Keller addresses the most common doubts and objections to Christianity, building bridges between faith and skepticism with reason and empathy.",
+    "chapters": [
+      {
+        "number": 1,
+        "title_zh": "不可能只有一个真宗教",
+        "title_en": "There Can't Be Just One True Religion",
+        "summary_zh": "回应宗教排他性的质疑，论证宗教多元主义本身也是一种排他性的立场。",
+        "summary_en": "Addresses the objection of religious exclusivity, arguing that religious pluralism is itself an exclusive position.",
+        "key_quotes": ["所有的世界观都是排他性的——包括那些声称不排他的世界观。"]
+      }
+    ],
+    "recommend_for": ["慕道友", "大学生", "专业人士"],
+    "tags": ["apologetics", "modern", "intermediate"],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": null
+  },
+  {
+    "id": "book-003",
+    "author_zh": "R.C. 史普罗",
+    "author_en": "R.C. Sproul",
+    "title_zh": "神的圣洁",
+    "title_en": "The Holiness of God",
+    "summary_zh": "史普罗博士深入探讨了上帝最核心的属性——圣洁，帮助读者重新认识上帝的威严和人在上帝面前的真实光景。本书被誉为改变生命的经典之作。",
+    "summary_en": "Dr. Sproul deeply explores God's most essential attribute — holiness — helping readers rediscover God's majesty and humanity's true condition before Him. This book is regarded as a life-changing classic.",
+    "chapters": [
+      {
+        "number": 1,
+        "title_zh": "圣洁的创伤",
+        "title_en": "The Holy Grail",
+        "summary_zh": "通过以赛亚在圣殿中的异象，展现人遇见圣洁上帝时的震撼与转变。",
+        "summary_en": "Through Isaiah's vision in the temple, reveals the shock and transformation when a person encounters the holy God.",
+        "key_quotes": ["当以赛亚看见上帝的圣洁时，他看到的不仅是上帝的伟大，更是自己的污秽。"]
+      }
+    ],
+    "recommend_for": ["基督徒", "神学生"],
+    "tags": ["theology", "holiness", "intermediate"],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": null
+  }
+]
