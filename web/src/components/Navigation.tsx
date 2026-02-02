@@ -17,7 +17,7 @@ const navItems = [
   {
     href: '/qa',
     label: '福音问答',
-    labelEn: 'Q&A',
+    labelEn: 'Gospel Q&A',
     icon: (
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
         <path fillRule="evenodd" d="M4.848 2.771A49.144 49.144 0 0112 2.25c2.43 0 4.817.178 7.152.52 1.978.292 3.348 2.024 3.348 3.97v6.02c0 1.946-1.37 3.678-3.348 3.97a48.901 48.901 0 01-3.476.383.39.39 0 00-.297.17l-2.755 4.133a.75.75 0 01-1.248 0l-2.755-4.133a.39.39 0 00-.297-.17 48.9 48.9 0 01-3.476-.384c-1.978-.29-3.348-2.024-3.348-3.97V6.741c0-1.946 1.37-3.68 3.348-3.97zM6.75 8.25a.75.75 0 01.75-.75h9a.75.75 0 010 1.5h-9a.75.75 0 01-.75-.75zm.75 2.25a.75.75 0 000 1.5H12a.75.75 0 000-1.5H7.5z" clipRule="evenodd" />
@@ -45,6 +45,26 @@ const navItems = [
     ),
   },
   {
+    href: '/youth',
+    label: '青少年',
+    labelEn: 'Youth',
+    icon: (
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z" />
+      </svg>
+    ),
+  },
+  {
+    href: '/worship',
+    label: '敬拜诗歌',
+    labelEn: 'Worship',
+    icon: (
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
+        <path fillRule="evenodd" d="M19.952 1.651a.75.75 0 01.298.599V16.303a3 3 0 01-2.176 2.884l-1.32.377a2.553 2.553 0 11-1.403-4.909l2.311-.66a1.5 1.5 0 001.088-1.442V6.994l-9 2.572v9.737a3 3 0 01-2.176 2.884l-1.32.377a2.553 2.553 0 11-1.402-4.909l2.31-.66a1.5 1.5 0 001.088-1.442V5.25a.75.75 0 01.544-.721l10.5-3a.75.75 0 01.658.122z" clipRule="evenodd" />
+      </svg>
+    ),
+  },
+  {
     href: '/library',
     label: '书库',
     labelEn: 'Library',
@@ -62,12 +82,12 @@ export function Sidebar() {
   return (
     <aside className="hidden lg:flex flex-col w-64 h-screen sticky top-0 border-r border-[var(--color-border)] bg-[var(--color-bg)] p-4">
       <Link href="/" className="flex items-center gap-3 mb-8 px-2">
-        <div className="w-10 h-10 rounded-xl bg-[var(--color-primary)] flex items-center justify-center">
-          <span className="text-white font-bold text-lg">✝</span>
+        <div className="w-10 h-10 rounded-full overflow-hidden">
+          <img src="/logo.png" alt="真理磐石" className="w-full h-full object-cover" />
         </div>
         <div>
-          <h1 className="font-serif-cn font-bold text-lg text-[var(--color-primary)] dark:text-[var(--color-accent)]">福音工具箱</h1>
-          <p className="text-xs text-[var(--color-text-secondary)]">Gospel Toolkit</p>
+          <h1 className="font-serif-cn font-bold text-lg text-[var(--color-primary)] dark:text-[var(--color-accent)]">真理磐石</h1>
+          <p className="text-xs text-[var(--color-text-secondary)]">Rock of Truth</p>
         </div>
       </Link>
       <nav className="flex-1 space-y-1">
@@ -84,7 +104,10 @@ export function Sidebar() {
               }`}
             >
               {item.icon}
-              <span>{item.label}</span>
+              <div className="flex flex-col">
+                <span>{item.label}</span>
+                <span className="text-[10px] opacity-60 -mt-0.5">{item.labelEn}</span>
+              </div>
             </Link>
           );
         })}
@@ -112,7 +135,7 @@ export function BottomNav() {
               }`}
             >
               <span className={isActive ? 'text-[var(--color-primary)] dark:text-[var(--color-accent)]' : ''}>{item.icon}</span>
-              <span>{item.label}</span>
+              <span>{item.labelEn}</span>
             </Link>
           );
         })}

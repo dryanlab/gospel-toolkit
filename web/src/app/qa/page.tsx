@@ -21,8 +21,12 @@ export default function QAPage() {
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-6">
-      <h1 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-1">福音问答</h1>
-      <p className="text-sm text-[var(--color-text-secondary)] mb-4">Gospel Q&A — {qaQuestions.length} questions</p>
+      <div className="text-center mb-6">
+        <h1 className="font-serif-cn text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">💬 福音问答</h1>
+        <p className="text-[var(--color-text-secondary)]">Gospel Q&A</p>
+        <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto">你们必晓得真理，真理必叫你们得以自由。— 约翰福音 8:32</p>
+        <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-lg mx-auto italic">Then you will know the truth, and the truth will set you free. — John 8:32</p>
+      </div>
 
       <input
         type="text"

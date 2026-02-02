@@ -1,17 +1,41 @@
 'use client';
-import { useState, use } from 'react';
+import { useState, useEffect, use } from 'react';
 import Link from 'next/link';
-import { getBookById } from '@/lib/data';
+import dynamic from 'next/dynamic';
+import { getBookById, books } from '@/lib/data';
 import LanguageToggle from '@/components/LanguageToggle';
 import FavoriteButton from '@/components/FavoriteButton';
+import { useMarkAsRead } from '@/hooks/useReadStatus';
 import type { Language } from '@/lib/types';
+
+const EpubReader = dynamic(() => import('@/components/EpubReader'), { ssr: false });
 
 export default function BookDetailClient({ paramsPromise }: { paramsPromise: Promise<{ id: string }> }) {
   const { id } = use(paramsPromise);
   const [lang, setLang] = useState<Language>('both');
+  const [showReader, setShowReader] = useState(false);
+  const [savedProgress, setSavedProgress] = useState<number | null>(null);
   const book = getBookById(id);
+  useMarkAsRead(id);
+  const bIdx = books.findIndex(b => b.id === id);
+  const prevBook = bIdx > 0 ? books[bIdx - 1] : null;
+  const nextBook = bIdx < books.length - 1 ? books[bIdx + 1] : null;
+
+  useEffect(() => {
+    if (book?.epub_filename) {
+      const saved = localStorage.getItem(`epub-progress-${book.id}`);
+      if (saved) {
+        // We stored a CFI, but also check if there's a percentage we can show
+        setSavedProgress(-1); // indicates "has progress"
+      }
+    }
+  }, [book]);
 
   if (!book) return <div className="p-8 text-center">Book not found</div>;
+
+  if (showReader && book.epub_filename) {
+    return <EpubReader url={`/epubs/${book.epub_filename}`} bookId={book.id} onClose={() => setShowReader(false)} />;
+  }
 
   const showZh = lang === 'zh' || lang === 'both';
   const showEn = lang === 'en' || lang === 'both';
@@ -24,6 +48,23 @@ export default function BookDetailClient({ paramsPromise }: { paramsPromise: Pro
           <FavoriteButton id={book.id} />
           <LanguageToggle value={lang} onChange={setLang} />
         </div>
+      </div>
+
+      {/* Top Prev / Next */}
+      <div className="flex items-center justify-between mb-6 pb-4 border-b border-[var(--color-border)]">
+        {prevBook ? (
+          <Link href={`/library/${prevBook.id}`} className="flex-1 group">
+            <span className="text-xs text-[var(--color-text-secondary)]">← 上一本</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{prevBook.title_zh}</p>
+          </Link>
+        ) : <div className="flex-1" />}
+        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{bIdx + 1} / {books.length}</span>
+        {nextBook ? (
+          <Link href={`/library/${nextBook.id}`} className="flex-1 text-right group">
+            <span className="text-xs text-[var(--color-text-secondary)]">下一本 →</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{nextBook.title_zh}</p>
+          </Link>
+        ) : <div className="flex-1" />}
       </div>
 
       <div className="mb-8">
@@ -39,6 +80,17 @@ export default function BookDetailClient({ paramsPromise }: { paramsPromise: Pro
         {showZh && <p className="text-[var(--color-text)] mb-2 leading-relaxed">{book.summary_zh}</p>}
         {showEn && <p className="text-[var(--color-text-secondary)] italic leading-relaxed">{book.summary_en}</p>}
       </div>
+
+      {book.epub_filename && (
+        <div className="mb-8">
+          <button
+            onClick={() => setShowReader(true)}
+            className="w-full py-3 px-6 rounded-xl bg-[var(--color-accent)] text-white font-semibold text-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+          >
+            📖 {savedProgress !== null ? '继续阅读 Continue Reading' : '开始阅读 Start Reading'}
+          </button>
+        </div>
+      )}
 
       <div className="mb-6 flex gap-2 flex-wrap">
         <span className="text-sm text-[var(--color-text-secondary)]">推荐给：</span>
@@ -69,11 +121,36 @@ export default function BookDetailClient({ paramsPromise }: { paramsPromise: Pro
                     ))}
                   </div>
                 )}
+                {ch.content_en && showEn && (
+                  <details className="mt-3">
+                    <summary className="text-sm text-[var(--color-accent)] cursor-pointer hover:underline font-medium">📖 阅读全文 Read Full Text</summary>
+                    <div className="mt-2 p-4 rounded-lg bg-[var(--color-bg-secondary)] text-sm text-[var(--color-text-secondary)] leading-relaxed whitespace-pre-line max-h-96 overflow-y-auto">
+                      {ch.content_en}
+                    </div>
+                  </details>
+                )}
               </div>
             ))}
           </div>
         </div>
       )}
+
+      {/* Bottom Prev / Next */}
+      <div className="flex items-center justify-between mt-8 pt-4 border-t border-[var(--color-border)]">
+        {prevBook ? (
+          <Link href={`/library/${prevBook.id}`} className="flex-1 group">
+            <span className="text-xs text-[var(--color-text-secondary)]">← 上一本</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{prevBook.title_zh}</p>
+          </Link>
+        ) : <div className="flex-1" />}
+        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{bIdx + 1} / {books.length}</span>
+        {nextBook ? (
+          <Link href={`/library/${nextBook.id}`} className="flex-1 text-right group">
+            <span className="text-xs text-[var(--color-text-secondary)]">下一本 →</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{nextBook.title_zh}</p>
+          </Link>
+        ) : <div className="flex-1" />}
+      </div>
     </div>
   );
 }

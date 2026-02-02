@@ -1,0 +1,302 @@
+[
+  {
+    "id": "youth-001",
+    "category": "信仰基础",
+    "title_zh": "福音是什么？",
+    "title_en": "What is the Gospel?",
+    "content_zh": "福音就是"好消息"。简单来说：上帝创造了我们，但我们都犯了罪，离开了上帝。罪的代价是死亡和永远的分离。但上帝太爱我们了！祂差遣自己的独生子耶稣来到世界，为我们的罪死在十字架上，三天后复活了。现在，只要我们相信耶稣、承认自己的罪、接受祂做我们的主，我们就能被上帝完全接纳，成为祂的儿女。这不是靠我们自己有多好，而是靠上帝白白给我们的恩典。就像你收到了一份超级贵重的礼物——你不需要付钱，只需要伸手接过来。",
+    "content_en": "The Gospel means 'good news.' Here's the short version: God made us, but we all messed up (that's called sin) and got separated from Him. The penalty for sin is death and eternal separation from God. But God loves us SO much! He sent His only Son, Jesus, into the world. Jesus died on the cross to pay for our sins and rose again three days later. Now, if we believe in Jesus, admit we've sinned, and accept Him as our Lord, we're fully accepted by God and become His children. It's not about being good enough — it's about God's free gift of grace. Think of it like receiving the most expensive gift ever — you don't have to pay, just reach out and take it.",
+    "bible_verses": ["John 3:16", "Romans 6:23", "Ephesians 2:8-9", "Romans 10:9"],
+    "discussion_questions": [
+      "如果有人问你'福音是什么'，你会怎么用一两句话回答？ If someone asked you 'what is the Gospel,' how would you answer in one or two sentences?",
+      "福音跟'做个好人'有什么不同？ How is the Gospel different from just 'being a good person'?",
+      "你第一次听到福音时的反应是什么？ What was your reaction when you first heard the Gospel?"
+    ],
+    "tags": ["faith-basics", "gospel", "youth"]
+  },
+  {
+    "id": "youth-002",
+    "category": "信仰基础",
+    "title_zh": "我怎么知道上帝是真的？",
+    "title_en": "How Do I Know God Is Real?",
+    "content_zh": "这是一个超棒的问题！其实，证据无处不在。首先，看看这个世界——从宇宙的精确运行到DNA的复杂设计，这一切不可能是随机发生的。就像看到一部iPhone，你不会说它是石头碰撞自然形成的，对吧？其次，每个人心里都有一种对公义、爱和永恒的渴望——这是上帝放在我们心中的。第三，历史上耶稣的复活是有大量证据支持的事实，不是编的故事。最后也是最重要的：你可以亲自经历祂。当你真诚地祷告，读圣经，你会开始在生活中看到上帝的作为。信心不是盲目的，而是基于证据的信任。",
+    "content_en": "This is an awesome question! Actually, the evidence is everywhere. First, look at the world — from the precise way the universe operates to the incredible complexity of DNA, all of this couldn't have happened randomly. It's like seeing an iPhone and saying rocks just bumped into each other to make it, right? Second, every person has a deep longing for justice, love, and eternity — God placed that in our hearts. Third, Jesus' resurrection is a well-evidenced historical event, not a made-up story. And most importantly: you can experience Him personally. When you sincerely pray and read the Bible, you'll start seeing God at work in your life. Faith isn't blind — it's trust based on evidence.",
+    "bible_verses": ["Romans 1:20", "Psalm 19:1", "Acts 17:27-28", "Hebrews 11:1"],
+    "discussion_questions": [
+      "你觉得自然界中最让你感到'这不可能是巧合'的是什么？ What in nature makes you feel 'this can't be a coincidence'?",
+      "信心和盲信有什么区别？ What's the difference between faith and blind belief?",
+      "如果朋友说'你不能证明上帝存在'，你会怎么回应？ If a friend says 'you can't prove God exists,' how would you respond?"
+    ],
+    "tags": ["faith-basics", "apologetics", "youth"]
+  },
+  {
+    "id": "youth-003",
+    "category": "信仰基础",
+    "title_zh": "为什么耶稣要死在十字架上？",
+    "title_en": "Why Did Jesus Die on the Cross?",
+    "content_zh": "想象一下：你犯了一个大错，需要付出巨大的代价，但你根本付不起。这时候有人站出来说：'我来替你付。'这就是耶稣做的事情。圣经告诉我们，罪的工价就是死（罗马书6:23），而我们每一个人都犯过罪。上帝是完全公义的，罪必须被审判。但祂同时也完全爱我们。所以上帝做了一件不可思议的事——祂让自己的儿子耶稣代替我们接受了罪的惩罚。耶稣在十字架上承担了我们所有的罪，让我们可以重新和上帝和好。这不是因为耶稣软弱，恰恰相反——这是最伟大的爱和最大的能力的彰显。",
+    "content_en": "Imagine this: you made a huge mistake and owe a debt you can never pay. Then someone steps up and says, 'I'll pay it for you.' That's exactly what Jesus did. The Bible tells us that the wages of sin is death (Romans 6:23), and every one of us has sinned. God is perfectly just — sin must be judged. But He also loves us completely. So God did something incredible — He let His own Son Jesus take the punishment for our sins. On the cross, Jesus carried ALL our sins so we could be reconnected with God. This wasn't weakness — it was the greatest display of love and power ever.",
+    "bible_verses": ["Romans 5:8", "Isaiah 53:5-6", "1 Peter 2:24", "2 Corinthians 5:21"],
+    "discussion_questions": [
+      "如果有人替你承担了巨大的代价，你会有什么感受？ How would you feel if someone paid a huge price for you?",
+      "为什么上帝不能'直接原谅'我们的罪而不需要十字架？ Why couldn't God just 'forgive' our sins without the cross?",
+      "十字架对你个人意味着什么？ What does the cross mean to you personally?"
+    ],
+    "tags": ["faith-basics", "cross", "atonement", "youth"]
+  },
+  {
+    "id": "youth-004",
+    "category": "信仰基础",
+    "title_zh": "怎样祷告？",
+    "title_en": "How to Pray?",
+    "content_zh": "祷告就是和上帝说话，就像跟一个最亲密的朋友聊天一样。不需要用特别高深的词，也不需要固定的姿势。你可以随时随地祷告——在上学路上、考试前、开心的时候、难过的时候。一个简单的方法是ACTS模式：A-赞美(Adoration)：感谢上帝是谁；C-认罪(Confession)：承认自己做错的事；T-感恩(Thanksgiving)：感谢上帝的恩典；S-祈求(Supplication)：把你的需要告诉祂。记住，祷告不是在念咒语，上帝不是自动售货机。祂是你的天父，祂更在意你的心，而不是你的措辞。有时候上帝的回答是'是'，有时候是'还没有'，有时候是'我有更好的计划'。",
+    "content_en": "Prayer is just talking to God — like chatting with your closest friend. You don't need fancy words or a special posture. You can pray anytime, anywhere — on the way to school, before a test, when you're happy, when you're sad. A simple method is ACTS: A-Adoration (praise God for who He is), C-Confession (admit what you've done wrong), T-Thanksgiving (thank God for His blessings), S-Supplication (tell Him what you need). Remember, prayer isn't casting a spell, and God isn't a vending machine. He's your heavenly Father who cares about your heart, not your vocabulary. Sometimes God's answer is 'yes,' sometimes 'not yet,' and sometimes 'I have a better plan.'",
+    "bible_verses": ["Philippians 4:6-7", "Matthew 6:9-13", "1 Thessalonians 5:17", "Psalm 62:8"],
+    "discussion_questions": [
+      "你平时祷告时觉得最难的是什么？ What do you find hardest about praying?",
+      "如果上帝没有按照你祷告的回应，你会怎么想？ How do you feel when God doesn't answer your prayer the way you expected?",
+      "试着用ACTS的方式祷告一次，分享你的感受。 Try praying using the ACTS method and share how it felt."
+    ],
+    "tags": ["faith-basics", "prayer", "youth"]
+  },
+  {
+    "id": "youth-005",
+    "category": "信仰基础",
+    "title_zh": "怎样读圣经？",
+    "title_en": "How to Read the Bible?",
+    "content_zh": "圣经可能看起来很厚很吓人，但别慌！你不需要从第一页读到最后一页。这里有一些实用的建议：1）从福音书开始（马可福音是最短的，很适合入门），先认识耶稣。2）每天读一小段就好，比如一章或者几节经文，重要的是坚持。3）读的时候问自己三个问题：这段经文在说什么？它告诉我关于上帝的什么事？我今天可以怎么应用？4）用手机圣经APP（比如微读圣经、YouVersion），可以听可以读。5）找一个读经伙伴或加入一个小组一起读，互相分享和讨论。圣经不是普通的书，它是上帝活泼的话语，每次读都会有新的收获。",
+    "content_en": "The Bible might look thick and intimidating, but don't panic! You don't have to read it from cover to cover. Here are some practical tips: 1) Start with the Gospels (Mark is the shortest — great for beginners) to get to know Jesus. 2) Read a little each day — even just one chapter or a few verses. Consistency matters more than quantity. 3) Ask yourself three questions: What is this passage saying? What does it tell me about God? How can I apply it today? 4) Use a Bible app (like YouVersion) — you can listen or read. 5) Find a reading buddy or join a small group to read together, share, and discuss. The Bible isn't just any book — it's God's living Word, and you'll discover something new every time you read it.",
+    "bible_verses": ["2 Timothy 3:16-17", "Psalm 119:105", "Hebrews 4:12", "Joshua 1:8"],
+    "discussion_questions": [
+      "你读圣经时遇到的最大挑战是什么？ What's your biggest challenge when reading the Bible?",
+      "有没有一节经文特别打动过你？分享一下。 Is there a verse that has especially touched you? Share it.",
+      "你觉得怎样才能养成每天读圣经的习惯？ How do you think you can build a daily Bible-reading habit?"
+    ],
+    "tags": ["faith-basics", "bible", "devotion", "youth"]
+  },
+  {
+    "id": "youth-006",
+    "category": "校园生活",
+    "title_zh": "同学嘲笑我的信仰怎么办？",
+    "title_en": "What If Classmates Mock My Faith?",
+    "content_zh": "这真的很难受，但你不是一个人。耶稣自己说过：'世人若恨你们，你们知道恨你们以先，已经恨我了'（约翰福音15:18）。首先，被嘲笑不代表你错了。真理有时候确实让人不舒服。其次，不要用愤怒回应，试着用温柔和尊重来面对（彼得前书3:15）。你可以说：'我理解你的看法，但这对我很重要。'第三，记住你的身份——你是上帝的孩子，你的价值不是由同学的评价决定的。第四，找到你的团队——教会的青少年团契、基督徒同学，他们会支持你。最后，为那些嘲笑你的人祷告。有时候，他们的嘲笑背后其实是好奇。你忠心、温柔的生命见证可能是他们认识上帝的第一步。",
+    "content_en": "This really hurts, but you're not alone. Jesus Himself said: 'If the world hates you, know that it hated me before it hated you' (John 15:18). First, being mocked doesn't mean you're wrong. Truth can make people uncomfortable. Second, don't respond with anger — try gentleness and respect (1 Peter 3:15). You can say, 'I understand your view, but this is important to me.' Third, remember your identity — you're a child of God, and your worth isn't determined by classmates' opinions. Fourth, find your crew — church youth group, Christian friends who will have your back. Finally, pray for those who mock you. Sometimes their mockery is actually curiosity in disguise. Your faithful, gentle witness might be their first step toward knowing God.",
+    "bible_verses": ["John 15:18-19", "1 Peter 3:15-16", "Matthew 5:11-12", "Romans 1:16"],
+    "discussion_questions": [
+      "你有没有因为信仰被嘲笑过？当时你是怎么处理的？ Have you ever been mocked for your faith? How did you handle it?",
+      "用温柔回应嘲笑和忍气吞声有什么区别？ What's the difference between responding gently and just swallowing it?",
+      "如何在不让别人讨厌的情况下坚持自己的信仰？ How can you stand firm in your faith without being annoying?"
+    ],
+    "tags": ["campus-life", "persecution", "witness", "youth"]
+  },
+  {
+    "id": "youth-007",
+    "category": "校园生活",
+    "title_zh": "科学和信仰矛盾吗？",
+    "title_en": "Does Science Contradict Faith?",
+    "content_zh": "很多人觉得科学和信仰是对立的，但事实并非如此！历史上许多伟大的科学家都是基督徒——牛顿、法拉第、帕斯卡等等。科学研究的是'怎么运作'（How），信仰回答的是'为什么存在'（Why）。它们不是互相矛盾，而是互相补充。比如，科学可以告诉你水的化学成分是H₂O，但科学不能告诉你生命的意义是什么。宇宙的精密设计、自然规律的稳定性，反而指向一位智慧的创造者。进化论、大爆炸这些理论也不一定跟圣经冲突——关键是理解圣经的文体和上帝启示的目的。上帝创造了可以被科学研究的世界，科学其实是在探索上帝的作品！",
+    "content_en": "Many people think science and faith are opposites, but that's not true! Many of history's greatest scientists were Christians — Newton, Faraday, Pascal, and more. Science studies 'how things work,' while faith answers 'why things exist.' They're not contradictory — they're complementary. For example, science can tell you water is H₂O, but it can't tell you the meaning of life. The fine-tuning of the universe and the stability of natural laws actually point to an intelligent Creator. Theories like evolution and the Big Bang don't necessarily conflict with the Bible — the key is understanding the genre of Scripture and the purpose of God's revelation. God created a world that CAN be studied by science. Science is actually exploring God's handiwork!",
+    "bible_verses": ["Psalm 19:1-2", "Proverbs 25:2", "Colossians 1:16-17", "Romans 1:20"],
+    "discussion_questions": [
+      "你在学校学到的哪些科学知识让你觉得跟信仰有冲突？ What scientific knowledge from school makes you feel it conflicts with faith?",
+      "科学能回答所有问题吗？有哪些问题科学回答不了？ Can science answer everything? What questions can't it answer?",
+      "你会怎么跟一个'科学至上'的同学分享信仰？ How would you share your faith with a classmate who thinks science has all the answers?"
+    ],
+    "tags": ["campus-life", "science", "apologetics", "youth"]
+  },
+  {
+    "id": "youth-008",
+    "category": "校园生活",
+    "title_zh": "考试压力大怎么办？",
+    "title_en": "How to Handle Exam Stress?",
+    "content_zh": "考试压力是真实的，上帝理解你的感受。但记住：你的价值不是由分数定义的。这里有一些实用建议：1）做好准备——信仰不是让你不学习然后等奇迹。该复习的还是要复习，这是忠心管理上帝给你的才能。2）祷告交托——把你的焦虑交给上帝（彼得前书5:7）。考前花一分钟安静祷告，深呼吸，把心交给祂。3）保持健康——充足的睡眠、适当的运动、合理的饮食，这些都是照顾上帝给你身体的方式。4）调整心态——尽力而为，结果交给上帝。就算考得不好，天不会塌。上帝对你人生的计划远大于一次考试。5）互相鼓励——和朋友一起复习，互相祷告。压力不需要一个人扛。",
+    "content_en": "Exam stress is real, and God understands how you feel. But remember: your worth isn't defined by your grades. Here are some practical tips: 1) Prepare well — faith doesn't mean you skip studying and wait for a miracle. Review what you need to; it's being a faithful steward of the abilities God gave you. 2) Pray and surrender — cast your anxiety on God (1 Peter 5:7). Take a minute before the exam to pray quietly and breathe. 3) Stay healthy — enough sleep, some exercise, good food. Taking care of your body is honoring God's gift. 4) Adjust your mindset — do your best, leave the results to God. Even if you don't do well, the world won't end. God's plan for your life is way bigger than one exam. 5) Encourage each other — study with friends, pray for each other. You don't have to carry the pressure alone.",
+    "bible_verses": ["1 Peter 5:7", "Philippians 4:6-7", "Matthew 6:34", "Proverbs 16:3"],
+    "discussion_questions": [
+      "你在考试前通常会做什么来缓解压力？ What do you usually do to relieve stress before exams?",
+      "如果你尽力了但成绩不理想，你觉得上帝会怎么看？ If you tried your best but the grades aren't great, how do you think God sees it?",
+      "信仰怎么帮助你面对学业压力？ How does your faith help you deal with academic pressure?"
+    ],
+    "tags": ["campus-life", "stress", "anxiety", "youth"]
+  },
+  {
+    "id": "youth-009",
+    "category": "校园生活",
+    "title_zh": "如何交到好朋友？",
+    "title_en": "How to Find Good Friends?",
+    "content_zh": "圣经说：'滥交朋友的，自取败坏；但有一朋友，比弟兄更亲密'（箴言18:24）。好的朋友会帮助你成长，而不是把你拉远离上帝。怎么找到这样的朋友呢？1）先做一个好朋友——主动关心别人，倾听别人，真诚待人。2）参加教会青少年团契——这里有一群跟你有同样信仰的同龄人。3）不要害怕跟非基督徒做朋友——耶稣也跟'罪人'一起吃饭。关键是你影响他们，而不是被他们影响。4）学会设立界限——如果一段友谊总是让你做违背良心的事，那要勇敢说不。5）最重要的：耶稣是你最好的朋友。在你孤单的时候，祂永远不会离开你。好的友谊需要时间，不要着急。",
+    "content_en": "The Bible says, 'One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a brother' (Proverbs 18:24). Good friends help you grow and don't pull you away from God. How to find them? 1) BE a good friend first — care for others, listen, be genuine. 2) Join a church youth group — you'll find peers who share your faith. 3) Don't be afraid to befriend non-Christians — Jesus ate with 'sinners' too. The key is that you influence them, not the other way around. 4) Learn to set boundaries — if a friendship keeps pushing you to do things against your conscience, have the courage to say no. 5) Most importantly: Jesus is your best friend. When you're lonely, He will never leave you. Good friendships take time — don't rush it.",
+    "bible_verses": ["Proverbs 18:24", "Proverbs 27:17", "1 Corinthians 15:33", "Ecclesiastes 4:9-10"],
+    "discussion_questions": [
+      "你觉得好朋友最重要的品质是什么？ What's the most important quality in a good friend?",
+      "你有没有经历过一段让你远离上帝的友谊？你是怎么处理的？ Have you had a friendship that pulled you away from God? How did you handle it?",
+      "作为基督徒，跟非基督徒交朋友时需要注意什么？ As a Christian, what should you be mindful of when befriending non-Christians?"
+    ],
+    "tags": ["campus-life", "friendship", "relationships", "youth"]
+  },
+  {
+    "id": "youth-010",
+    "category": "校园生活",
+    "title_zh": "社交媒体和信仰",
+    "title_en": "Social Media and Faith",
+    "content_zh": "社交媒体是一个工具——它本身不是坏的，但可以被用好也可以被用坏。作为基督徒，这里有一些要注意的：1）比较是快乐的小偷——当你刷到别人的'完美生活'，记住那只是精心挑选的片段。你的价值在上帝面前已经被完全确定了。2）管理你的时间——如果你花在手机上的时间比跟上帝相处的时间多得多，可能需要调整一下。3）小心你消费的内容——不合适的内容会悄悄影响你的思想。'你们要谨守你们的心'（箴言4:23）。4）积极使用——分享鼓励的经文，为朋友祷告，传播正能量。5）线下关系更重要——再多的点赞也比不上一个真实的拥抱。定期放下手机，和真实的人在一起。",
+    "content_en": "Social media is a tool — it's not bad in itself, but it can be used well or poorly. As a Christian, here are some things to watch for: 1) Comparison is the thief of joy — when you see others' 'perfect lives,' remember those are curated highlights. Your worth is already fully established before God. 2) Manage your time — if you spend way more time on your phone than with God, it might be time to adjust. 3) Be careful what you consume — inappropriate content quietly shapes your thinking. 'Guard your heart' (Proverbs 4:23). 4) Use it positively — share encouraging verses, pray for friends, spread good vibes. 5) Offline relationships matter more — no amount of likes beats a real hug. Regularly put down your phone and be with real people.",
+    "bible_verses": ["Proverbs 4:23", "Philippians 4:8", "Ephesians 5:15-16", "Colossians 3:2"],
+    "discussion_questions": [
+      "你每天大约花多少时间在社交媒体上？你觉得合适吗？ How much time do you spend on social media daily? Do you think it's appropriate?",
+      "社交媒体上什么内容最容易影响你的情绪和信仰？ What content on social media most easily affects your mood and faith?",
+      "你觉得怎样才能在社交媒体上做一个好的见证？ How can you be a good witness on social media?"
+    ],
+    "tags": ["campus-life", "social-media", "digital", "youth"]
+  },
+  {
+    "id": "youth-011",
+    "category": "成长挑战",
+    "title_zh": "我总是犯同样的罪怎么办？",
+    "title_en": "I Keep Sinning the Same Way",
+    "content_zh": "首先，知道你不是唯一一个有这种挣扎的人。使徒保罗也说过：'我所愿意的善，我反不做；我所不愿意的恶，我倒去做'（罗马书7:19）。连保罗都有这样的挣扎！但这不是你放弃的理由。几个关键点：1）不要绝望——上帝的恩典够用。你跌倒了，祂会一次又一次扶你起来。2）认罪要具体——不是笼统地说'上帝求你赦免我的罪'，而是具体承认你做了什么。3）找到触发点——是什么环境或情况让你容易犯这个罪？尽量避开。4）找一个问责伙伴——一个信任的弟兄或姐妹，定期互相问责。5）靠圣灵的力量——改变不是靠意志力，而是靠圣灵在你里面工作。每天求圣灵帮助你。成圣是一个过程，不是一蹴而就的。",
+    "content_en": "First, know you're not the only one struggling with this. The Apostle Paul himself said, 'I do not do the good I want to do, but the evil I do not want to do — this I keep on doing' (Romans 7:19). Even Paul had this struggle! But that's not a reason to give up. Key points: 1) Don't despair — God's grace is sufficient. When you fall, He'll pick you up again and again. 2) Be specific in confession — don't just say 'God forgive my sins.' Name what you did. 3) Identify triggers — what situations make you vulnerable? Avoid them. 4) Find an accountability partner — a trusted brother or sister you check in with regularly. 5) Rely on the Holy Spirit — change doesn't come from willpower but from the Spirit working in you. Ask for the Spirit's help daily. Sanctification is a process, not an instant fix.",
+    "bible_verses": ["Romans 7:19-25", "1 John 1:9", "2 Corinthians 12:9", "Galatians 5:16"],
+    "discussion_questions": [
+      "当你一再犯同样的罪时，你对上帝有什么感受？ When you keep sinning the same way, how do you feel toward God?",
+      "有问责伙伴对你有帮助吗？为什么？ Would having an accountability partner help you? Why?",
+      "你觉得'靠圣灵的力量'具体是什么意思？ What do you think 'relying on the Holy Spirit's power' practically looks like?"
+    ],
+    "tags": ["growth", "sin", "sanctification", "youth"]
+  },
+  {
+    "id": "youth-012",
+    "category": "成长挑战",
+    "title_zh": "怎么知道上帝的旨意？",
+    "title_en": "How to Know God's Will?",
+    "content_zh": "这是每个年轻基督徒都会问的问题——选什么专业？交什么朋友？未来做什么工作？首先要分清两种旨意：上帝的'显明旨意'（圣经里明确写的，比如爱人如己、不撒谎等）和'隐秘旨意'（比如你该去哪个大学）。对于显明旨意，直接照着做就好。对于隐秘旨意，这里有一些原则：1）读圣经——上帝的旨意不会违反圣经。2）祷告——求上帝赐你智慧（雅各书1:5）。3）听建议——请教你信任的长辈、牧师、父母。4）看环境——上帝会通过环境开门或关门。5）用理性——上帝给了你大脑，分析利弊也是好的。6）平安——当你做对的决定时，圣灵会给你心里的平安。不要焦虑——上帝是好牧人，祂会引导你。",
+    "content_en": "This is a question every young Christian asks — what major to choose? What friends to make? What career to pursue? First, distinguish two types of God's will: His 'revealed will' (clearly stated in Scripture, like love your neighbor, don't lie) and His 'secret will' (like which college you should attend). For the revealed will, just obey it. For the secret will, here are some principles: 1) Read the Bible — God's will never contradicts Scripture. 2) Pray — ask God for wisdom (James 1:5). 3) Seek counsel — ask trusted mentors, pastors, and parents. 4) Watch circumstances — God opens and closes doors. 5) Use your mind — God gave you a brain; analyzing pros and cons is good. 6) Peace — when you make the right decision, the Holy Spirit gives you inner peace. Don't stress — God is a good Shepherd and He will guide you.",
+    "bible_verses": ["James 1:5", "Proverbs 3:5-6", "Romans 12:2", "Psalm 32:8"],
+    "discussion_questions": [
+      "你现在面临的最大的'旨意'问题是什么？ What's the biggest 'God's will' question you're facing right now?",
+      "你觉得上帝的引导通常是通过什么方式来的？ How do you think God's guidance usually comes?",
+      "如果你做了一个决定后来发现不太对，你觉得上帝会怎么做？ If you make a decision and later realize it wasn't quite right, what do you think God will do?"
+    ],
+    "tags": ["growth", "guidance", "decisions", "youth"]
+  },
+  {
+    "id": "youth-013",
+    "category": "成长挑战",
+    "title_zh": "感觉不到上帝怎么办？",
+    "title_en": "What If I Can't Feel God?",
+    "content_zh": "几乎每个基督徒都经历过这个——明明信了上帝，但祷告像对着天花板说话，读经像读教科书，感觉上帝很遥远。这叫'灵里的干旱期'，是正常的！不要因此怀疑自己的信仰。几个真相：1）信仰不是建立在感觉上的——感觉会变，但上帝的应许不会变。你感觉不到祂，不代表祂不在。2）检查一下原因——有没有未认的罪？是不是太忙忽略了灵修？有时候是我们自己拉远了距离。3）坚持属灵习惯——越是感觉不到，越要坚持祷告和读经。这就像在黑暗中走路，你不需要看到整条路，只需要看到下一步。4）跟别人分享——不要一个人闷着，跟信任的朋友或牧者说。5）等候上帝——有些时候上帝用安静来训练我们的信心。这个季节会过去的。",
+    "content_en": "Almost every Christian goes through this — you believe in God, but prayer feels like talking to the ceiling, reading the Bible feels like reading a textbook, and God seems far away. This is called a 'spiritual dry season,' and it's normal! Don't doubt your faith because of it. Some truths: 1) Faith isn't based on feelings — feelings change, but God's promises don't. Not feeling Him doesn't mean He's not there. 2) Check the reason — any unconfessed sin? Been too busy to do devotions? Sometimes WE create the distance. 3) Keep spiritual habits — especially when you don't feel it, keep praying and reading. It's like walking in the dark: you don't need to see the whole path, just the next step. 4) Share with someone — don't bottle it up. Talk to a trusted friend or pastor. 5) Wait on God — sometimes God uses silence to train our faith. This season will pass.",
+    "bible_verses": ["Psalm 42:1-2", "Isaiah 41:10", "Hebrews 11:1", "Psalm 13:1-2"],
+    "discussion_questions": [
+      "你有没有经历过'感觉不到上帝'的时期？那是什么感受？ Have you experienced a season of 'not feeling God'? What was it like?",
+      "当感觉消失时，什么帮助你继续坚持信仰？ When feelings fade, what helps you keep going in faith?",
+      "信心和感觉之间是什么关系？ What's the relationship between faith and feelings?"
+    ],
+    "tags": ["growth", "doubt", "dry-season", "youth"]
+  },
+  {
+    "id": "youth-014",
+    "category": "成长挑战",
+    "title_zh": "父母不理解我的信仰",
+    "title_en": "Parents Don't Understand My Faith",
+    "content_zh": "这可能是华人基督徒青少年最常见的挣扎之一。也许你的父母信佛教、拜祖先，或者根本不信任何宗教。他们可能觉得你'被洗脑了'或者'信了洋教'。怎么办？1）尊重父母——圣经命令我们孝敬父母（出埃及记20:12）。不同意他们的信仰不等于可以不尊重他们。2）用行动说话——与其跟父母辩论神学，不如让他们看到你的改变：更孝顺、更诚实、更有爱心。行动比言语更有说服力。3）耐心等待——你可能不能一夜之间改变他们，但你可以持续为他们祷告。4）保持沟通——告诉父母你在教会做什么，让他们放心。5）寻求帮助——跟教会牧师或青少年辅导谈谈，他们可能有类似的经历和智慧。记住，上帝在你的家庭中也有祂的计划。",
+    "content_en": "This might be one of the most common struggles for Chinese Christian teens. Maybe your parents are Buddhist, practice ancestor worship, or aren't religious at all. They might think you've been 'brainwashed' or joined a 'foreign religion.' What to do? 1) Respect your parents — the Bible commands us to honor our parents (Exodus 20:12). Disagreeing with their beliefs doesn't mean you can disrespect them. 2) Let your actions speak — instead of debating theology with your parents, show them the change in you: more respectful, more honest, more loving. Actions speak louder than words. 3) Be patient — you might not change them overnight, but you can keep praying for them. 4) Keep communicating — tell your parents what you do at church so they feel at ease. 5) Seek help — talk to your pastor or youth leader; they may have similar experiences and wisdom. Remember, God has a plan for your family too.",
+    "bible_verses": ["Exodus 20:12", "1 Peter 3:1-2", "Proverbs 22:6", "Matthew 10:37"],
+    "discussion_questions": [
+      "你的父母对你的信仰是什么态度？ What is your parents' attitude toward your faith?",
+      "你觉得'尊重父母'和'坚持信仰'之间有冲突吗？怎么平衡？ Do you think 'honoring parents' and 'standing firm in faith' conflict? How to balance?",
+      "你为你的家人祷告过什么？ What have you prayed for your family?"
+    ],
+    "tags": ["growth", "family", "parents", "youth"]
+  },
+  {
+    "id": "youth-015",
+    "category": "成长挑战",
+    "title_zh": "如何面对诱惑？",
+    "title_en": "How to Face Temptation?",
+    "content_zh": "诱惑不是罪——连耶稣都被试探过（马太福音4章）！关键是你怎么回应。诱惑可能来自很多方面：不合适的视频、谎言、作弊、八卦、愤怒等。这里有一些实战技巧：1）认识你的弱点——你最容易在什么时候被诱惑？（无聊？独处？生气？）提前做好防备。2）远离试探——'逃避'不是软弱，是智慧。约瑟面对波提乏的妻子时就是跑掉的（创世记39章）。3）用圣经对抗——耶稣受试探时用经文回应。记住一些关键经文，在诱惑来的时候默念。4）找人帮忙——告诉一个信任的人你的挣扎，让他们为你祷告和问责。5）依靠上帝——'你们所遇见的试探，无非是人所能受的。上帝是信实的，必不叫你们受试探过于所能受的'（哥林多前书10:13）。跌倒了不可怕，可怕的是躺着不起来。",
+    "content_en": "Temptation isn't sin — even Jesus was tempted (Matthew 4)! What matters is how you respond. Temptation comes in many forms: inappropriate content, lying, cheating, gossip, anger, etc. Here are some battle tactics: 1) Know your weakness — when are you most vulnerable? (Bored? Alone? Angry?) Prepare in advance. 2) Flee from temptation — 'running away' isn't weakness, it's wisdom. Joseph literally ran from Potiphar's wife (Genesis 39). 3) Fight with Scripture — Jesus responded to temptation with God's Word. Memorize key verses and recite them when temptation hits. 4) Get help — tell a trusted person about your struggle so they can pray for and hold you accountable. 5) Rely on God — 'No temptation has overtaken you except what is common to mankind. God is faithful; he will not let you be tempted beyond what you can bear' (1 Corinthians 10:13). Falling isn't the disaster — staying down is.",
+    "bible_verses": ["1 Corinthians 10:13", "James 4:7", "Matthew 4:1-11", "Hebrews 2:18"],
+    "discussion_questions": [
+      "你觉得你最大的诱惑是什么？（可以不具体说） What do you think your biggest temptation is? (You don't have to be specific)",
+      "'逃避'试探是软弱还是智慧？为什么？ Is 'fleeing' temptation weakness or wisdom? Why?",
+      "你有没有一节'对抗诱惑'的经文？分享一下。 Do you have a go-to verse for fighting temptation? Share it."
+    ],
+    "tags": ["growth", "temptation", "holiness", "youth"]
+  },
+  {
+    "id": "youth-016",
+    "category": "门训材料",
+    "title_zh": "什么是门徒？",
+    "title_en": "What Is a Disciple?",
+    "content_zh": "门徒（disciple）这个词的意思就是'学生'或'跟随者'。在圣经的时代，门徒不只是坐在教室里听课——他们跟老师一起生活、一起吃饭、一起工作，学习老师的一切。做耶稣的门徒也是一样：不只是周日去教会坐一坐，而是24/7地跟随耶稣、学习耶稣、活出耶稣。耶稣说：'若有人要跟从我，就当舍己，天天背起他的十字架来跟从我'（路加福音9:23）。这意味着：把耶稣放在第一位，而不是自己的欲望；愿意为了信仰付出代价；每天都在成长和改变。做门徒不是'额外学分'——这是每个基督徒的基本身份。你不是在'考虑要不要做门徒'，你已经被呼召成为门徒了！",
+    "content_en": "The word 'disciple' means 'student' or 'follower.' In Bible times, disciples didn't just sit in a classroom — they lived with their teacher, ate with them, worked alongside them, and learned everything from them. Being Jesus' disciple is the same: it's not just showing up at church on Sunday, it's following Jesus, learning from Jesus, and living like Jesus 24/7. Jesus said, 'Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me' (Luke 9:23). This means: putting Jesus first instead of your own desires; being willing to pay a price for your faith; growing and changing every day. Being a disciple isn't 'extra credit' — it's the basic identity of every Christian. You're not 'considering' whether to be a disciple; you've already been called to be one!",
+    "bible_verses": ["Luke 9:23", "Matthew 28:19-20", "John 8:31-32", "Luke 14:27"],
+    "discussion_questions": [
+      "你觉得'做门徒'和'去教会'有什么区别？ What's the difference between 'being a disciple' and 'going to church'?",
+      "'天天背起十字架'在你的日常生活中是什么样子的？ What does 'taking up your cross daily' look like in your everyday life?",
+      "你觉得做耶稣的门徒最难的部分是什么？ What do you think is the hardest part of being Jesus' disciple?"
+    ],
+    "tags": ["discipleship", "following-jesus", "youth"]
+  },
+  {
+    "id": "youth-017",
+    "category": "门训材料",
+    "title_zh": "属灵习惯的建立",
+    "title_en": "Building Spiritual Habits",
+    "content_zh": "属灵生命就像身体一样需要锻炼。你不会期望一天不吃饭还能有力气，属灵生命也一样。这里有几个核心的属灵习惯：1）每日灵修——每天花15-20分钟读经和祷告。可以从早上起来或晚上睡前开始。找一个固定的时间和地点。2）祷告——不只是'饭前祷告'，而是随时跟上帝对话。开心的时候感谢，困难的时候求助，犯错的时候认罪。3）敬拜——每周参加主日崇拜。这不是'任务'，是跟上帝的家人一起庆祝。4）团契——加入小组，跟其他基督徒定期见面、分享、祷告。5）服事——用上帝给你的恩赐去帮助别人。开始不需要很大，也许就是帮教会摆椅子。关键是：从小处开始，坚持下去。习惯不是一天养成的，给自己恩典。",
+    "content_en": "Your spiritual life needs exercise just like your body. You wouldn't expect to have energy if you don't eat — your spiritual life works the same way. Here are some core spiritual habits: 1) Daily devotions — spend 15-20 minutes reading Scripture and praying each day. Start with morning or bedtime. Find a consistent time and place. 2) Prayer — not just before meals, but ongoing conversation with God. Thank Him when happy, ask for help when struggling, confess when you mess up. 3) Worship — attend Sunday service weekly. It's not a 'task'; it's celebrating with God's family. 4) Fellowship — join a small group to meet, share, and pray with other Christians regularly. 5) Service — use the gifts God gave you to help others. Start small — maybe setting up chairs at church. The key: start small, stay consistent. Habits aren't built in a day. Give yourself grace.",
+    "bible_verses": ["Psalm 1:1-3", "Hebrews 10:24-25", "1 Timothy 4:7-8", "Acts 2:42"],
+    "discussion_questions": [
+      "你目前有哪些属灵习惯？哪些是你想要开始的？ What spiritual habits do you currently have? Which ones do you want to start?",
+      "坚持属灵习惯最大的阻碍是什么？ What's the biggest obstacle to keeping spiritual habits?",
+      "你觉得'属灵习惯'跟'律法主义'有什么区别？ What's the difference between 'spiritual habits' and 'legalism'?"
+    ],
+    "tags": ["discipleship", "spiritual-habits", "devotion", "youth"]
+  },
+  {
+    "id": "youth-018",
+    "category": "门训材料",
+    "title_zh": "如何在小组中成长",
+    "title_en": "Growing in Small Groups",
+    "content_zh": "小组不是一个额外的活动——它是你属灵成长最重要的环境之一。在小组里，你可以：1）真实地分享——不需要假装很属灵。分享你的挣扎、困惑和软弱，这才是真正的团契。2）彼此学习——听别人的经历和见解，你会发现上帝在不同人生命中不同的作为。3）互相代祷——当你知道有人在为你祷告，那种感觉是很不一样的。4）互相问责——帮助彼此在信仰上保持忠心。5）一起服事——小组可以一起做一些服事项目。怎么在小组中做一个好成员？准时到、积极参与讨论、保守别人的隐私、主动关心组员、愿意承担一些责任。小组不完美——里面都是罪人。但就是在这种不完美中，你学会了爱和被爱。",
+    "content_en": "Small group isn't just another activity — it's one of the most important environments for your spiritual growth. In a small group, you can: 1) Share authentically — no need to pretend you're super spiritual. Share your struggles, confusion, and weakness. That's real fellowship. 2) Learn from each other — hearing others' experiences and insights shows you how God works differently in each person's life. 3) Pray for each other — knowing someone is praying for you makes a real difference. 4) Hold each other accountable — help one another stay faithful. 5) Serve together — take on a service project as a group. How to be a good group member? Show up on time, participate actively in discussion, keep others' sharing confidential, care for group members proactively, and be willing to take on some responsibility. Small groups aren't perfect — they're full of sinners. But it's in that imperfection that you learn to love and be loved.",
+    "bible_verses": ["Hebrews 10:24-25", "Galatians 6:2", "James 5:16", "Ecclesiastes 4:9-12"],
+    "discussion_questions": [
+      "你在小组中最喜欢什么？最不喜欢什么？ What do you like most about small group? Least?",
+      "你觉得'真实地分享'为什么这么难？ Why do you think 'sharing authentically' is so hard?",
+      "一个好的小组应该是什么样子的？ What should a good small group look like?"
+    ],
+    "tags": ["discipleship", "small-group", "community", "youth"]
+  },
+  {
+    "id": "youth-019",
+    "category": "门训材料",
+    "title_zh": "服事他人",
+    "title_en": "Serving Others",
+    "content_zh": "耶稣——宇宙的王——却蹲下来给门徒洗脚（约翰福音13章）。如果连祂都愿意服事，我们还有什么理由不呢？服事不是'高大上'的事，它就在你的日常生活中：帮同学解答一道题、主动做家务、在教会搬桌椅、陪一个孤独的人聊天、为朋友祷告。服事的关键不是做了什么，而是你的心态——是出于爱，还是出于想被表扬？真正的服事是不求回报的。当你服事别人的时候，你其实是在服事耶稣。'这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了'（马太福音25:40）。找到你的恩赐——也许你擅长音乐、写作、运动、科技、做饭——然后用它来祝福别人。你不需要等到'长大'才开始服事，现在就可以！",
+    "content_en": "Jesus — the King of the universe — knelt down and washed His disciples' feet (John 13). If He was willing to serve, what excuse do we have? Service isn't some grand, heroic act; it's in your daily life: helping a classmate with homework, doing chores at home, setting up chairs at church, spending time with someone who's lonely, praying for a friend. The key to service isn't what you do but your heart — is it out of love, or desire for praise? True service expects nothing in return. When you serve others, you're actually serving Jesus. 'Whatever you did for one of the least of these brothers and sisters of mine, you did for me' (Matthew 25:40). Find your gifts — maybe you're good at music, writing, sports, tech, or cooking — and use them to bless others. You don't have to wait until you're 'older' to start serving. You can start now!",
+    "bible_verses": ["John 13:14-15", "Matthew 25:40", "Galatians 5:13", "Mark 10:45"],
+    "discussion_questions": [
+      "你最近为别人做过什么服事的事？ What's something you've done recently to serve someone?",
+      "你觉得自己有什么恩赐可以用来服事？ What gifts do you have that you could use to serve?",
+      "服事别人和'被别人利用'有什么区别？ What's the difference between serving others and being taken advantage of?"
+    ],
+    "tags": ["discipleship", "service", "gifts", "youth"]
+  },
+  {
+    "id": "youth-020",
+    "category": "门训材料",
+    "title_zh": "分享你的信仰",
+    "title_en": "Sharing Your Faith",
+    "content_zh": "分享信仰（传福音）可能是很多基督徒觉得最难的事。'如果被拒绝怎么办？''如果说错了怎么办？''我又不是牧师。'但事实是：你不需要是神学家才能分享。最有力的见证就是你自己的故事——你信主前是什么样、你怎么认识了耶稣、你信主后有了什么改变。没有人能否定你的亲身经历。几个实用技巧：1）先建立关系——人们不在乎你知道多少，直到他们知道你有多在乎。2）自然地分享——不需要硬塞，可以在聊天中自然提到。3）学会倾听——了解对方的想法和需要，然后用福音来回应。4）随时预备——'常作准备，好回答每一个问你们心中盼望缘由的人'（彼得前书3:15）。5）靠圣灵——改变人心是上帝的工作，不是你的。你只负责撒种，上帝负责收割。不要怕——最坏的结果不过是对方说'不'。但万一呢？",
+    "content_en": "Sharing your faith (evangelism) might feel like the hardest thing for many Christians. 'What if I get rejected?' 'What if I say the wrong thing?' 'I'm not a pastor.' But here's the truth: you don't need to be a theologian. The most powerful testimony is YOUR story — what you were like before, how you met Jesus, and how you've changed since. No one can deny your personal experience. Some practical tips: 1) Build relationships first — people don't care how much you know until they know how much you care. 2) Share naturally — don't force it. Bring it up naturally in conversation. 3) Learn to listen — understand what the other person thinks and needs, then connect the Gospel to that. 4) Always be ready — 'Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have' (1 Peter 3:15). 5) Rely on the Spirit — changing hearts is God's job, not yours. You just plant the seed; God does the harvesting. Don't be afraid — the worst that happens is they say 'no.' But what if they don't?",
+    "bible_verses": ["1 Peter 3:15", "Matthew 28:19-20", "Romans 1:16", "Acts 1:8"],
+    "discussion_questions": [
+      "你有没有跟别人分享过你的信仰？什么感觉？ Have you ever shared your faith with someone? How did it feel?",
+      "如果你有30秒来分享福音，你会说什么？ If you had 30 seconds to share the Gospel, what would you say?",
+      "传福音时最让你害怕的是什么？怎么克服？ What scares you most about evangelism? How can you overcome it?"
+    ],
+    "tags": ["discipleship", "evangelism", "witness", "youth"]
+  }
+]

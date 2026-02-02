@@ -1,18 +1,26 @@
 'use client';
 import { useState, use } from 'react';
 import Link from 'next/link';
-import { getCatechismById } from '@/lib/data';
+import { getCatechismById, catechismQuestions, catechismWlcQuestions } from '@/lib/data';
 import LanguageToggle from '@/components/LanguageToggle';
 import FavoriteButton from '@/components/FavoriteButton';
 import BibleVerse from '@/components/BibleVerse';
+import { useMarkAsRead } from '@/hooks/useReadStatus';
 import type { Language } from '@/lib/types';
 
 export default function CatechismDetailClient({ paramsPromise }: { paramsPromise: Promise<{ id: string }> }) {
   const { id } = use(paramsPromise);
   const [lang, setLang] = useState<Language>('both');
   const q = getCatechismById(id);
+  useMarkAsRead(id);
 
   if (!q) return <div className="p-8 text-center">Question not found</div>;
+
+  const isWlc = q.catechism === 'westminster_larger';
+  const list = isWlc ? catechismWlcQuestions : catechismQuestions;
+  const idx = list.findIndex(item => item.id === q.id);
+  const prev = idx > 0 ? list[idx - 1] : null;
+  const next = idx < list.length - 1 ? list[idx + 1] : null;
 
   const showZh = lang === 'zh' || lang === 'both';
   const showEn = lang === 'en' || lang === 'both';
@@ -20,11 +28,28 @@ export default function CatechismDetailClient({ paramsPromise }: { paramsPromise
   return (
     <div className="max-w-3xl mx-auto px-4 py-6">
       <div className="flex items-center justify-between mb-6">
-        <Link href="/catechism" className="text-sm text-[var(--color-accent)] hover:underline">← 返回列表</Link>
+        <Link href={`/catechism${isWlc ? '?tab=wlc' : ''}`} className="text-sm text-[var(--color-accent)] hover:underline">← 返回{isWlc ? '大要理' : '小要理'}列表</Link>
         <div className="flex items-center gap-3">
           <FavoriteButton id={q.id} />
           <LanguageToggle value={lang} onChange={setLang} />
         </div>
+      </div>
+
+      {/* Prev / Next navigation */}
+      <div className="flex items-center justify-between mb-6 pb-4 border-b border-[var(--color-border)]">
+        {prev ? (
+          <Link href={`/catechism/${prev.id}`} className="flex-1 group">
+            <span className="text-xs text-[var(--color-text-secondary)]">← 上一题</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">Q{prev.number}. {prev.question_zh}</p>
+          </Link>
+        ) : <div className="flex-1" />}
+        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">Q{q.number} / {list.length}</span>
+        {next ? (
+          <Link href={`/catechism/${next.id}`} className="flex-1 text-right group">
+            <span className="text-xs text-[var(--color-text-secondary)]">下一题 →</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">Q{next.number}. {next.question_zh}</p>
+          </Link>
+        ) : <div className="flex-1" />}
       </div>
 
       <span className="text-xs font-bold px-2 py-0.5 rounded bg-[var(--color-primary)] text-white mb-4 inline-block">Q{q.number}</span>
@@ -56,6 +81,24 @@ export default function CatechismDetailClient({ paramsPromise }: { paramsPromise
           {showEn && q.notes_en && <p className="text-sm text-[var(--color-text-secondary)] italic">{q.notes_en}</p>}
         </div>
       )}
+
+      {/* Bottom Prev / Next navigation */}
+      <div className="flex items-center justify-between mt-8 pt-4 border-t border-[var(--color-border)]">
+        {prev ? (
+          <Link href={`/catechism/${prev.id}`} className="flex-1 group">
+            <span className="text-xs text-[var(--color-text-secondary)]">← 上一题</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">Q{prev.number}. {prev.question_zh}</p>
+          </Link>
+        ) : <div className="flex-1" />}
+        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">Q{q.number} / {list.length}</span>
+        {next ? (
+          <Link href={`/catechism/${next.id}`} className="flex-1 text-right group">
+            <span className="text-xs text-[var(--color-text-secondary)]">下一题 →</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">Q{next.number}. {next.question_zh}</p>
+          </Link>
+        ) : <div className="flex-1" />}
+      </div>
+
     </div>
   );
 }

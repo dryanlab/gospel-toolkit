@@ -1,36 +1,86 @@
 'use client';
 import { useState, use } from 'react';
 import Link from 'next/link';
-import { getApologeticsById, worldviewLabels } from '@/lib/data';
+import { getApologeticsById, getApologeticsBySection, apologeticsSectionLabels, worldviewLabels } from '@/lib/data';
 import LanguageToggle from '@/components/LanguageToggle';
 import FavoriteButton from '@/components/FavoriteButton';
 import BibleVerse from '@/components/BibleVerse';
+import { useMarkAsRead } from '@/hooks/useReadStatus';
 import type { Language } from '@/lib/types';
+
+const sectionGradients: Record<string, string> = {
+  'foundations': 'from-indigo-600 to-blue-700',
+  'scripture': 'from-amber-600 to-yellow-700',
+  'gospel-evidence': 'from-red-600 to-rose-700',
+  'presuppositional': 'from-purple-600 to-violet-700',
+  'objections': 'from-teal-600 to-cyan-700',
+  'faith-culture': 'from-green-600 to-emerald-700',
+  'comparative': 'from-orange-600 to-red-700',
+  'discernment': 'from-pink-600 to-fuchsia-700',
+};
 
 export default function ApologeticsDetailClient({ paramsPromise }: { paramsPromise: Promise<{ id: string }> }) {
   const { id } = use(paramsPromise);
   const [lang, setLang] = useState<Language>('both');
   const [openObj, setOpenObj] = useState<number | null>(null);
   const t = getApologeticsById(id);
+  useMarkAsRead(id);
 
   if (!t) return <div className="p-8 text-center">Topic not found</div>;
+
+  const sectionInfo = apologeticsSectionLabels[t.section];
+  const sectionItems = getApologeticsBySection(t.section);
+  const idx = sectionItems.findIndex(item => item.id === t.id);
+  const prev = idx > 0 ? sectionItems[idx - 1] : null;
+  const next = idx < sectionItems.length - 1 ? sectionItems[idx + 1] : null;
 
   const showZh = lang === 'zh' || lang === 'both';
   const showEn = lang === 'en' || lang === 'both';
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-6">
+      {/* Breadcrumb */}
+      <div className="flex items-center gap-1.5 text-sm text-[var(--color-text-secondary)] mb-4 flex-wrap">
+        <Link href="/apologetics" className="text-[var(--color-accent)] hover:underline">护教学</Link>
+        <span>›</span>
+        <Link href={`/apologetics/section/${t.section}`} className="text-[var(--color-accent)] hover:underline">{sectionInfo?.icon} {sectionInfo?.zh}</Link>
+        <span>›</span>
+        <span className="truncate max-w-[200px]">{t.topic_zh}</span>
+      </div>
+
       <div className="flex items-center justify-between mb-6">
-        <Link href="/apologetics" className="text-sm text-[var(--color-accent)] hover:underline">← 返回列表</Link>
+        <Link href={`/apologetics/section/${t.section}`} className="text-sm text-[var(--color-accent)] hover:underline">← 返回{sectionInfo?.zh}列表</Link>
         <div className="flex items-center gap-3">
           <FavoriteButton id={t.id} />
           <LanguageToggle value={lang} onChange={setLang} />
         </div>
       </div>
 
-      <span className="text-xs px-2 py-0.5 rounded-full bg-[var(--color-accent)]/15 text-[var(--color-accent)] mb-3 inline-block">
-        {worldviewLabels[t.target_worldview]?.zh} / {worldviewLabels[t.target_worldview]?.en}
-      </span>
+      {/* Prev / Next navigation */}
+      <div className="flex items-center justify-between mb-6 pb-4 border-b border-[var(--color-border)]">
+        {prev ? (
+          <Link href={`/apologetics/${prev.id}`} className="flex-1 group">
+            <span className="text-xs text-[var(--color-text-secondary)]">← 上一篇</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{prev.topic_zh}</p>
+          </Link>
+        ) : <div className="flex-1" />}
+        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{idx + 1} / {sectionItems.length}</span>
+        {next ? (
+          <Link href={`/apologetics/${next.id}`} className="flex-1 text-right group">
+            <span className="text-xs text-[var(--color-text-secondary)]">下一篇 →</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{next.topic_zh}</p>
+          </Link>
+        ) : <div className="flex-1" />}
+      </div>
+
+      <div className="flex flex-wrap items-center gap-2 mb-3">
+        <span className={`inline-flex items-center gap-1.5 text-xs px-3 py-1 rounded-full bg-gradient-to-r ${sectionGradients[t.section]} text-white font-medium`}>
+          {sectionInfo?.icon} {sectionInfo?.zh}
+        </span>
+        <span className="text-xs px-2 py-0.5 rounded-full bg-[var(--color-accent)]/15 text-[var(--color-accent)]">
+          {worldviewLabels[t.target_worldview]?.zh} / {worldviewLabels[t.target_worldview]?.en}
+        </span>
+      </div>
 
       <div className="mb-8">
         {showZh && <h1 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">{t.topic_zh}</h1>}
@@ -62,7 +112,7 @@ export default function ApologeticsDetailClient({ paramsPromise }: { paramsPromi
                 </svg>
               </button>
               {openObj === i && (
-                <div className="p-4 pt-0 border-t border-[var(--color-border)] bg-[var(--color-bg-secondary)]">
+                <div className="p-5 border-t border-[var(--color-border)] bg-[var(--color-bg-secondary)]">
                   {showZh && <p className="text-[var(--color-text)] mb-2 leading-relaxed">✅ {obj.response_zh}</p>}
                   {showEn && <p className="text-[var(--color-text-secondary)] italic leading-relaxed">{obj.response_en}</p>}
                 </div>
@@ -88,6 +138,23 @@ export default function ApologeticsDetailClient({ paramsPromise }: { paramsPromi
             </li>
           ))}
         </ul>
+      </div>
+
+      {/* Bottom Prev / Next navigation */}
+      <div className="flex items-center justify-between mt-8 pt-4 border-t border-[var(--color-border)]">
+        {prev ? (
+          <Link href={`/apologetics/${prev.id}`} className="flex-1 group">
+            <span className="text-xs text-[var(--color-text-secondary)]">← 上一篇</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{prev.topic_zh}</p>
+          </Link>
+        ) : <div className="flex-1" />}
+        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{idx + 1} / {sectionItems.length}</span>
+        {next ? (
+          <Link href={`/apologetics/${next.id}`} className="flex-1 text-right group">
+            <span className="text-xs text-[var(--color-text-secondary)]">下一篇 →</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{next.topic_zh}</p>
+          </Link>
+        ) : <div className="flex-1" />}
       </div>
     </div>
   );

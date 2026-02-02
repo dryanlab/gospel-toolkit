@@ -32,8 +32,11 @@ export interface Objection {
   response_en: string;
 }
 
+export type ApologeticsSection = 'foundations' | 'scripture' | 'gospel-evidence' | 'presuppositional' | 'objections' | 'faith-culture' | 'comparative' | 'discernment';
+
 export interface ApologeticsTopic {
   id: string;
+  section: ApologeticsSection;
   target_worldview: string;
   topic_zh: string;
   topic_en: string;
@@ -52,6 +55,8 @@ export interface BookChapter {
   summary_zh: string;
   summary_en: string;
   key_quotes: string[];
+  content_en?: string;
+  content_zh?: string;
 }
 
 export interface Book {
@@ -69,6 +74,23 @@ export interface Book {
   summary_epub_filename: string | null;
   full_epub_filename: string | null;
 }
+
+export interface YouthItem {
+  id: string;
+  category: string;
+  section: string; // 新增：faith-basics, bible-guide, campus, growth, faith-science, devotion, discipleship, heroes
+  title_zh: string;
+  title_en: string;
+  content_zh: string;
+  content_en: string;
+  bible_verses: string[];
+  discussion_questions: string[];
+  tags: string[];
+}
+
+export type YouthSection = 'faith-basics' | 'bible-guide' | 'campus' | 'growth' | 'faith-science' | 'devotion' | 'discipleship' | 'heroes';
+
+export type YouthCategory = 'all' | '信仰基础' | '校园生活' | '成长挑战' | '门训材料';
 
 export type Language = 'zh' | 'en' | 'both';
 

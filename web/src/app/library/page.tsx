@@ -12,8 +12,12 @@ const bookColors = [
 export default function LibraryPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 py-6">
-      <h1 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-1">书库</h1>
-      <p className="text-sm text-[var(--color-text-secondary)] mb-6">Library — {books.length} books</p>
+      <div className="text-center mb-6">
+        <h1 className="font-serif-cn text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">📚 书库</h1>
+        <p className="text-[var(--color-text-secondary)]">Library</p>
+        <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto">你的话是我脚前的灯，是我路上的光。— 诗篇 119:105</p>
+        <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-lg mx-auto italic">Your word is a lamp for my feet, a light on my path. — Psalm 119:105</p>
+      </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
         {books.map((book, i) => (

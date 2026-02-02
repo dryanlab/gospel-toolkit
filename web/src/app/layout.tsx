@@ -4,8 +4,16 @@ import { Sidebar, BottomNav } from "@/components/Navigation";
 import Header from "@/components/Header";
 
 export const metadata: Metadata = {
-  title: "福音工具箱 | Gospel Toolkit",
-  description: "福音问答、要理问答、护教学、书库 — 帮助你传扬福音的全方位工具",
+  title: "真理磐石 | Rock of Truth",
+  description: "福音问答、要理问答、护教学、书库 — 扎根真理，传扬福音",
+  icons: {
+    icon: [
+      { url: "/favicon.png", sizes: "256x256", type: "image/png" },
+      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
+      { url: "/icon-512.png", sizes: "512x512", type: "image/png" },
+    ],
+    apple: "/apple-touch-icon.png",
+  },
 };
 
 export default function RootLayout({

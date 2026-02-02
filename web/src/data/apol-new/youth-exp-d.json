@@ -1,0 +1,640 @@
+[
+  {
+    "id": "youth-093",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "马丁·路德 - 改教先锋",
+    "title_en": "Martin Luther - Pioneer of Reformation",
+    "content_zh": "马丁·路德（1483-1546）是个德国修道士，他改变了整个基督教历史！路德出生在德国艾斯莱本，父亲希望他成为律师，但一场差点丧命的雷暴让他决定进入修道院。在修道院里，路德拼命想靠苦修来赢得上帝的喜悦——禁食、苦行、彻夜祷告——但内心始终找不到平安，罪疚感像大山一样压在他身上。直到他研读罗马书，发现「义人必因信得生」，才豁然开朗——救恩不是靠自己赚的，而是上帝白白赐给的礼物！当时的教会腐败不堪，特别是卖赎罪券，声称花钱就能减少炼狱之苦。路德极为愤怒，在1517年把《九十五条论纲》贴到维腾堡教堂门上，公开挑战教廷的错误。教皇下令要他撤回主张，路德在沃尔姆斯议会上面对皇帝和众多主教，却坚定地说：「这是我的立场，我别无选择，求上帝帮助我。」虽然被教皇开除教籍、被帝国通缉，路德没有退缩。他躲在瓦尔特堡城堡里，仅用十一周就把新约翻译成德文，让普通农民也能亲自阅读上帝的话语。路德还写了许多赞美诗，其中《坚固保障》至今传唱。他提出的「唯独信心、唯独恩典、唯独圣经、唯独基督、唯独上帝的荣耀」五个唯独，成为改革宗信仰的根基。路德的勇气提醒我们：当真理受到威胁时，哪怕全世界都反对，一个人坚持真理也能改变历史！",
+    "content_en": "Martin Luther (1483-1546) was a German monk who changed all of Christian history! Born in Eisleben, Germany, his father wanted him to become a lawyer, but a near-fatal thunderstorm led him to enter a monastery. There, Luther desperately tried to earn God's favor through ascetic practices — fasting, penance, all-night prayers — but never found inner peace; guilt weighed on him like a mountain. Only when he studied Romans and discovered 'the righteous shall live by faith' did everything become clear — salvation is not earned but freely given by God! The church was deeply corrupt, especially in selling indulgences, claiming money could reduce suffering in purgatory. Luther was furious and in 1517 nailed his 95 Theses to the Wittenberg church door, publicly challenging Rome's errors. When the Pope demanded he recant, Luther stood before the Emperor and assembled bishops at the Diet of Worms and declared: 'Here I stand, I can do no other. God help me.' Though excommunicated and declared an outlaw, Luther didn't back down. Hiding in Wartburg Castle, he translated the New Testament into German in just eleven weeks, enabling ordinary farmers to read God's Word. Luther also wrote many hymns, including 'A Mighty Fortress,' still sung today. His five 'solas' — faith alone, grace alone, Scripture alone, Christ alone, to God's glory alone — became the foundation of Reformed faith. His courage reminds us: when truth is under attack, even one person standing firm can change history!",
+    "bible_verses": [
+      "Romans 1:17",
+      "Ephesians 2:8-9",
+      "Galatians 2:16"
+    ],
+    "discussion_questions": [
+      "如果你生活在路德的时代，你会支持他吗？为什么？ If you lived in Luther's time, would you have supported him? Why?",
+      "今天的教会是否也有需要改革的地方？ Are there areas in today's church that need reform?",
+      "你有勇气为真理站立吗，即使代价很大？ Do you have the courage to stand for truth, even when the cost is high?"
+    ],
+    "tags": [
+      "heroes",
+      "reformation",
+      "courage",
+      "truth"
+    ]
+  },
+  {
+    "id": "youth-094",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "约翰·加尔文 - 神学巨匠",
+    "title_en": "John Calvin - Theological Giant",
+    "content_zh": "约翰·加尔文（1509-1564）是法国改教家，虽然比路德年轻，但影响力一样大！加尔文出生在法国努瓦永，年轻时接受了优秀的人文主义教育，精通拉丁文和希腊文。大约在二十五岁时，他经历了一次「突然的归正」，从此委身于改革宗信仰。26岁时他写了《基督教要义》，这部巨著系统地阐述了基督教信仰的核心教义，成为改革宗神学的经典之作。加尔文强调上帝的绝对主权：上帝掌管万有，包括我们的救恩，完全出于祂的恩典和拣选，不是因为我们有多好。他路过日内瓦时，本想只是暂停，却被法惹勒恳求留下来，从此在那里服侍了近三十年。在日内瓦，加尔文不仅改革了教会，还重视教育、关心穷人和难民、建立了日内瓦学院（后来发展为日内瓦大学），培养了大批传道人和改教领袖。他推动的长老制教会治理模式影响了苏格兰、荷兰、美国等地的教会和社会制度。虽然有人觉得他太严格，但加尔文深深爱上帝，一生的座右铭是「我将我的心献给你，主啊，真诚而毫无保留」。他提醒我们：学习神学不是为了炫耀知识，而是为了更深地认识上帝，过荣耀祂的生活。今天全世界的改革宗教会——从韩国到美国到非洲——都深深受益于加尔文的神学遗产。你每次在教会中听到「上帝的主权」「预定」「恩典」这些词，都与加尔文有关。",
+    "content_en": "John Calvin (1509-1564) was a French reformer who, though younger than Luther, had equal impact! Born in Noyon, France, Calvin received an excellent humanist education, mastering Latin and Greek. Around age twenty-five, he experienced a 'sudden conversion' and committed himself to the Reformed faith. At 26, he wrote the 'Institutes of the Christian Religion,' a monumental work systematically laying out core Christian doctrine that became the classic of Reformed theology. Calvin emphasized God's absolute sovereignty: God governs all things, including our salvation, entirely by His grace and election, not because of our merit. Passing through Geneva, he intended only a brief stop, but William Farel's urgent plea convinced him to stay, and he served there for nearly thirty years. In Geneva, Calvin not only reformed the church but also championed education, cared for the poor and refugees, and founded Geneva Academy (later the University of Geneva), training generations of preachers and reform leaders. His presbyterian model of church governance influenced churches and institutions in Scotland, the Netherlands, America, and beyond. Though some thought him too strict, Calvin deeply loved God, and his life motto was 'I offer my heart to you, Lord, promptly and sincerely.' He reminds us: we study theology not to show off knowledge, but to know God more deeply and live for His glory. Today, Reformed churches worldwide — from Korea to America to Africa — owe a deep debt to Calvin's theological legacy. Whenever you hear 'God's sovereignty,' 'predestination,' or 'grace' in church, you're hearing Calvin's influence.",
+    "bible_verses": [
+      "Ephesians 1:4-5",
+      "Romans 8:29-30",
+      "1 Corinthians 10:31"
+    ],
+    "discussion_questions": [
+      "上帝的主权对你来说意味着什么？ What does God's sovereignty mean to you?",
+      "我们如何平衡学习神学与实际生活？ How do we balance studying theology with practical living?",
+      "加尔文注重教育，今天的基督徒如何看待学习？ Calvin valued education - how should Christians view learning today?"
+    ],
+    "tags": [
+      "heroes",
+      "theology",
+      "sovereignty",
+      "education"
+    ]
+  },
+  {
+    "id": "youth-095",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "威廉·威伯福斯 - 废奴斗士",
+    "title_en": "William Wilberforce - Anti-Slavery Crusader",
+    "content_zh": "威廉·威伯福斯（1759-1833）是英国政治家，用一生与奴隶制度斗争！威伯福斯出生在约克郡的富裕家庭，年轻时就当选为国会议员，口才出众，前途无量。他信主后，曾考虑离开政坛全心服侍上帝，但约翰·牛顿（《奇异恩典》的作者，自己曾是奴隶船船长）劝他留在政治岗位上为主发光。从此威伯福斯找到了上帝交给他的使命：废除奴隶贸易。在18至19世纪，奴隶贸易给英国带来巨大利润，几乎所有权贵都反对废除。但威伯福斯深信每个人都是按上帝形象造的，奴役他人是严重的罪。他在议会里一次次提出废奴法案，连续失败了十八年！同事嘲笑他，利益集团攻击他，他的健康也每况愈下，但他绝不放弃。1807年，英国终于通过了废除奴隶贸易法案，议会全体起立为他鼓掌。1833年，就在威伯福斯去世前三天，英帝国全面废除了奴隶制度。他的坚持拯救了无数人的生命和尊严！威伯福斯告诉我们：即使全世界都反对，基督徒也要为正义而战，因为上帝看每一个生命都是宝贵的。他的故事也告诉我们，上帝可以使用你在任何岗位上——政治、商业、教育——为祂的公义发声。你不一定要做牧师才能改变世界。问问自己：上帝把你放在什么位置上？你能在那里为公义做什么？上帝需要各行各业的基督徒在自己的岗位上发出真理的光芒。",
+    "content_en": "William Wilberforce (1759-1833) was a British politician who spent his life fighting slavery! Born into a wealthy Yorkshire family, Wilberforce was elected to Parliament as a young man, blessed with outstanding eloquence and a brilliant future. After becoming a Christian, he considered leaving politics to serve God full-time, but John Newton (author of 'Amazing Grace,' himself a former slave ship captain) urged him to stay in politics and shine for Christ there. Wilberforce then found the mission God had given him: abolishing the slave trade. In the 18th-19th centuries, the slave trade brought enormous profits to Britain, and nearly all the powerful opposed abolition. But Wilberforce deeply believed every person is made in God's image, and enslaving others is a grave sin. He introduced abolition bills in Parliament again and again, failing for eighteen consecutive years! Colleagues mocked him, interest groups attacked him, and his health declined, but he refused to give up. In 1807, Britain finally passed the Abolition of the Slave Trade Act, and the entire Parliament rose to applaud him. In 1833, just three days before Wilberforce's death, slavery was abolished throughout the British Empire. His persistence saved countless lives and restored human dignity! Wilberforce shows us: even when the whole world opposes us, Christians must fight for justice, because God sees every life as precious. His story also tells us God can use you in any position — politics, business, education — to speak for His justice. You don't have to be a pastor to change the world. Ask yourself: where has God placed you? What can you do for justice right there? God needs Christians in every profession shining the light of truth in their own positions.",
+    "bible_verses": [
+      "Genesis 1:27",
+      "Galatians 3:28",
+      "Micah 6:8"
+    ],
+    "discussion_questions": [
+      "今天还有哪些'奴隶制'需要我们去对抗？ What forms of 'slavery' exist today that we should oppose?",
+      "如何在不公义的社会中坚持做对的事？ How can we keep doing right in an unjust society?",
+      "基督徒应该如何参与社会正义？ How should Christians engage in social justice?"
+    ],
+    "tags": [
+      "heroes",
+      "justice",
+      "perseverance",
+      "social reform"
+    ]
+  },
+  {
+    "id": "youth-096",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "戴德生 - 内地会之父",
+    "title_en": "Hudson Taylor - Father of China Inland Mission",
+    "content_zh": "戴德生（1832-1905）是英国宣教士，被称为「内地会之父」。他从小就对中国有负担，十七岁时就开始学中文。21岁时只身前往中国传教，发现沿海城市已有不少宣教士，但内陆数亿中国人还从未听过福音！这让他心碎不已。戴德生做了一个在当时看来疯狂的决定：深入中国内地，而且穿中国服装、留中国发型，完全融入当地文化。很多外国人觉得他丢了面子，甚至连其他宣教士也批评他，但戴德生只在乎把福音带给更多人。1865年他在英国海边散步时，想到中国内地还有千千万万没听过福音的人，心中极度痛苦，于是创立了中国内地会。他的原则是从不募款，只凭祷告仰望上帝供应一切需要。他曾说：「如果我有一千磅英镑，中国可以全部支取；如果我有一千条性命，决不留下一条不给中国。」内地会后来派遣了超过八百名宣教士深入中国各省。虽然面对疾病、义和团动乱、妻子和孩子相继在中国离世的巨大痛苦，戴德生从未退缩。他的信心口号至今激励无数人：「神的工作，按神的方法去做，绝不缺少神的供应。」戴德生让我们看到：真正的爱是愿意付出一切代价，真正的信心是在看不见的时候依然信靠上帝。今天内地会已经更名为海外基督使团，继续在亚洲各地传扬福音，延续着戴德生的异象。",
+    "content_en": "Hudson Taylor (1832-1905) was a British missionary called the 'Father of the China Inland Mission.' From childhood he felt a burden for China, beginning to study Chinese at seventeen. At 21, he traveled alone to China and discovered that while coastal cities had missionaries, hundreds of millions inland had never heard the Gospel — this broke his heart. Taylor made a decision considered crazy at the time: going deep into inland China, wearing Chinese clothes, adopting Chinese hairstyle, and fully immersing in local culture. Many foreigners thought he was degrading himself, and even fellow missionaries criticized him, but Taylor only cared about bringing the Gospel to more people. In 1865, walking along the English coast, the thought of millions in China's interior who had never heard the Gospel caused him such anguish that he founded the China Inland Mission. His principle was never to fundraise, relying solely on prayer for God to provide every need. He famously said: 'If I had a thousand pounds, China should have it all; if I had a thousand lives, China should have them all.' The CIM eventually sent over eight hundred missionaries deep into China's provinces. Despite disease, the Boxer Uprising, and the devastating loss of his wife and children in China, Taylor never retreated. His faith motto still inspires countless people: 'God's work, done in God's way, will never lack God's supply.' Taylor shows us: true love pays any price, and true faith trusts God even when you cannot see. Today the CIM has been renamed OMF International, continuing to spread the Gospel across Asia, carrying on Taylor's vision.",
+    "bible_verses": [
+      "Matthew 28:19-20",
+      "Romans 10:14-15",
+      "Philippians 2:17"
+    ],
+    "discussion_questions": [
+      "什么阻止了你分享福音？ What prevents you from sharing the Gospel?",
+      "戴德生为了宣教付出了巨大代价，值得吗？ Taylor paid a huge price for missions - was it worth it?",
+      "今天的年轻人如何参与大使命？ How can young people today participate in the Great Commission?"
+    ],
+    "tags": [
+      "heroes",
+      "missions",
+      "sacrifice",
+      "cultural adaptation"
+    ]
+  },
+  {
+    "id": "youth-097",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "潘霍华 - 殉道神学家",
+    "title_en": "Dietrich Bonhoeffer - Martyred Theologian",
+    "content_zh": "迪特里希·潘霍华（1906-1945）是德国牧师和神学家，在纳粹时期勇敢反抗希特勒！潘霍华出生在德国布雷斯劳一个学术世家，十四岁就决定要学神学，二十一岁获得博士学位。当希特勒上台、德国教会纷纷向纳粹屈服时，潘霍华和巴特等人帮助建立了「认信教会」，发表《巴门宣言》，坚决拒绝将基督的主权让渡给任何独裁者。他公开反对反犹太主义，在纳粹德国为犹太人发声。潘霍华本来可以留在美国安全地教书——纽约协和神学院已经给了他教职。但1939年他毅然登上返回德国的轮船，写信给朋友说：「如果我不和德国人民共同承担这个时代的苦难，我就没有资格参与战后重建工作。」回国后他建立了地下神学院，培训年轻牧师。他写了《门徒的代价》，严厉批评「便宜的恩典」——那种认为恩典不需要付代价、不需要悔改、不需要改变生命的廉价信仰。潘霍华说：「当基督呼召一个人，祂是叫他来为祂死。」1943年他因参与反纳粹行动被盖世太保逮捕，在狱中度过了两年，仍然写作、祷告、安慰狱友。1945年4月9日，在盟军解放集中营前仅仅几周，潘霍华被处以绞刑，年仅39岁。他用生命证明：跟随基督不是廉价的口号，而是愿意为真理付出一切的决心。潘霍华的著作至今在全球广泛传读，不断挑战基督徒反思自己的信仰是否真实、是否愿意为主付代价。",
+    "content_en": "Dietrich Bonhoeffer (1906-1945) was a German pastor and theologian who courageously opposed Hitler during Nazi rule! Born in Breslau into an academic family, Bonhoeffer decided at fourteen to study theology and earned his doctorate at twenty-one. When Hitler rose to power and German churches surrendered to the Nazis, Bonhoeffer joined Karl Barth and others in establishing the 'Confessing Church,' issuing the Barmen Declaration and firmly refusing to surrender Christ's lordship to any dictator. He publicly opposed anti-Semitism, speaking up for Jews in Nazi Germany. Bonhoeffer could have stayed safely in America — Union Theological Seminary in New York had offered him a position. But in 1939 he resolutely boarded a ship back to Germany, writing to a friend: 'If I don't share in Germany's suffering during this time, I have no right to participate in reconstruction afterward.' Back home, he established an underground seminary training young pastors. He wrote 'The Cost of Discipleship,' sharply criticizing 'cheap grace' — the belief that grace requires no cost, no repentance, no life transformation. Bonhoeffer declared: 'When Christ calls a man, He bids him come and die.' In 1943, the Gestapo arrested him for anti-Nazi activities; he spent two years in prison, continuing to write, pray, and comfort fellow prisoners. On April 9, 1945, just weeks before Allied forces liberated the camp, Bonhoeffer was hanged at age 39. He proved with his life: following Christ is no cheap slogan, but a commitment to pay any price for truth. His writings continue to challenge and inspire Christians worldwide to reject comfortable, costless faith.",
+    "bible_verses": [
+      "Luke 9:23",
+      "Acts 5:29",
+      "Revelation 12:11"
+    ],
+    "discussion_questions": [
+      "什么时候基督徒应该反抗政府？ When should Christians resist government?",
+      "潘霍华选择回德国是明智的吗？ Was Bonhoeffer wise to return to Germany?",
+      "'便宜的恩典'今天在哪里存在？ Where does 'cheap grace' exist today?"
+    ],
+    "tags": [
+      "heroes",
+      "martyrdom",
+      "resistance",
+      "costly grace"
+    ]
+  },
+  {
+    "id": "youth-098",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "奥古斯丁 - 恩典博士",
+    "title_en": "Augustine - Doctor of Grace",
+    "content_zh": "奥古斯丁（354-430）是早期教会最重要的神学家之一，被尊称为「恩典博士」！他出生在北非的塔加斯特，父亲是异教徒，母亲莫妮卡则是虔诚的基督徒。奥古斯丁年轻时非常聪明，但也非常叛逆——他沉迷哲学、追求享乐、与情人同居生子，还一度信奉摩尼教的异端。母亲莫妮卡为他流了无数眼泪，日夜不停地祷告。有位主教曾安慰莫妮卡说：「为这孩子流了这么多泪的母亲，他不可能灭亡。」奥古斯丁辗转来到米兰，受到安波罗修主教的影响。32岁那年在花园里，他听到隔壁小孩反复唱「拿起来读，拿起来读」，于是打开圣经翻到罗马书13章13至14节：「不可荒宴醉酒，不可好色邪荡……总要披戴主耶稣基督。」圣灵光照他的心，他当场悔改信主！奥古斯丁后来写了《忏悔录》，坦诚分享自己的罪和上帝不可抗拒的恩典，成为历史上第一本属灵自传。他担任北非希波城主教三十多年，深入阐述原罪和恩典的教义，有力地反对伯拉纠异端——伯拉纠认为人可以靠自己的意志行善得救，奥古斯丁坚持人完全败坏，唯有上帝的恩典能拯救罪人。他的思想深深影响了后来的改教运动，路德和加尔文都以他为先驱。他的名言「我们的心如不安息在你里面，便不会安宁」激励了无数人。奥古斯丁证明：没有人坏到上帝不能拯救，母亲的祷告拥有超乎想象的力量！",
+    "content_en": "Augustine (354-430) was one of the most important theologians of the early church, honored as the 'Doctor of Grace'! Born in Thagaste, North Africa, his father was pagan while his mother Monica was a devout Christian. Augustine was brilliant but rebellious — he indulged in philosophy and pleasure, lived with a mistress, fathered a son, and even embraced the Manichean heresy. Monica shed countless tears and prayed ceaselessly for him. A bishop once comforted her: 'The child of so many tears cannot perish.' Augustine eventually came to Milan, where Bishop Ambrose profoundly influenced him. At 32, sitting in a garden, he heard a child next door repeatedly chanting 'Take up and read, take up and read.' He opened his Bible to Romans 13:13-14: 'Not in orgies and drunkenness, not in sexual immorality... but put on the Lord Jesus Christ.' The Holy Spirit illuminated his heart, and he repented and believed on the spot! Augustine later wrote 'Confessions,' honestly sharing his sins and God's irresistible grace — history's first spiritual autobiography. He served as Bishop of Hippo for over thirty years, deeply developing doctrines of original sin and grace, powerfully opposing the Pelagian heresy — Pelagius claimed people could save themselves through willpower, but Augustine insisted humans are totally depraved and only God's grace can save sinners. His thought profoundly influenced the later Reformation; both Luther and Calvin regarded him as a forerunner. His famous words, 'Our hearts are restless until they rest in You,' have inspired countless people. Augustine proves: no one is too bad for God to save, and a mother's prayers have power beyond imagination!",
+    "bible_verses": [
+      "Romans 13:13-14",
+      "Ephesians 2:1-5",
+      "Psalm 51:5"
+    ],
+    "discussion_questions": [
+      "奥古斯丁从放荡到圣徒的转变给你什么启发？ What does Augustine's transformation from wild living to sainthood teach you?",
+      "为什么母亲的祷告如此重要？ Why are a mother's prayers so important?",
+      "你如何理解'原罪'的概念？ How do you understand the concept of 'original sin'?"
+    ],
+    "tags": [
+      "heroes",
+      "conversion",
+      "grace",
+      "prayer"
+    ]
+  },
+  {
+    "id": "youth-099",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "约翰·卫斯理 - 循道宗之父",
+    "title_en": "John Wesley - Father of Methodism",
+    "content_zh": "约翰·卫斯理（1703-1791）是英国传道人，循道宗（卫理公会）创始人！他出生在牧师家庭，母亲苏珊娜非常敬虔，亲自教导十九个孩子读圣经和祷告。卫斯理在牛津大学时成立了「圣洁俱乐部」，同学嘲笑他们是「循道友」，意思是太讲究规条。年轻时他曾到美洲宣教，却失败而归，内心极为沮丧。直到34岁那年，1738年5月24日晚上，在伦敦阿尔德斯门街的聚会上，有人朗读路德对罗马书的注释序言，卫斯理说：「我感到心中奇妙地温暖起来，我觉得我确实信靠了基督，唯独基督，来拯救我。」从此他的生命彻底改变，成为火热无比的传道人！当时英国国教冷淡形式化，教堂不欢迎卫斯理的热情讲道，他就走到露天野外，对矿工、农民、工人讲道。他一生骑马走了二十四万英里（差不多绕地球十圈），讲了四万次道，平均每天讲三次！卫斯理不只传讲个人得救的福音，也关心社会公义——他强烈反对奴隶制，开办学校帮助穷人子弟受教育，建立诊所照顾病人。他说：「世界就是我的教区。」卫斯理提醒我们：真正的基督徒生命应当既有火热的心灵，又有实际的行动，信仰和行为缺一不可。历史学家认为，卫斯理带来的属灵复兴从根本上改变了英国社会的道德面貌，甚至可能使英国避免了像法国大革命那样的暴力动荡。一个被圣灵点燃的人，就能影响整个国家！",
+    "content_en": "John Wesley (1703-1791) was a British preacher and founder of Methodism! Born into a clergy family, his mother Susanna was deeply devout, personally teaching nineteen children Bible and prayer. At Oxford, Wesley formed a 'Holy Club'; classmates mockingly called them 'Methodists' for being too methodical. As a young man he went on a failed mission to America and returned deeply discouraged. Then at age 34, on the evening of May 24, 1738, at a meeting on Aldersgate Street in London, someone read Luther's preface to the commentary on Romans. Wesley wrote: 'I felt my heart strangely warmed. I felt I did trust in Christ, Christ alone, for salvation.' His life was completely transformed — he became an extraordinarily passionate preacher! The established Church of England was cold and formal, its pulpits unwelcoming to Wesley's fervent preaching, so he went outdoors, preaching to miners, farmers, and laborers. In his lifetime he rode 240,000 miles on horseback (nearly ten times around the earth), preached 40,000 sermons — an average of three per day! Wesley didn't just preach personal salvation; he cared about social justice — strongly opposing slavery, founding schools for poor children, and establishing clinics for the sick. He declared: 'The world is my parish.' Wesley reminds us: a true Christian life should have both a burning heart and practical action — faith and works are inseparable. Historians believe Wesley's spiritual revival fundamentally transformed England's moral landscape and may have even spared Britain the violent upheaval of a French-style revolution. One person set ablaze by the Spirit can impact an entire nation!",
+    "bible_verses": [
+      "Romans 1:16",
+      "Luke 24:32",
+      "James 2:17"
+    ],
+    "discussion_questions": [
+      "什么是'心中奇妙温暖'的体验？ What is the experience of 'heart strangely warmed'?",
+      "如何平衡个人信仰与社会关怀？ How do we balance personal faith with social concern?",
+      "今天的基督徒如何效法卫斯理的热忱？ How can Christians today imitate Wesley's zeal?"
+    ],
+    "tags": [
+      "heroes",
+      "revival",
+      "evangelism",
+      "social concern"
+    ]
+  },
+  {
+    "id": "youth-100",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "乔治·慕勒 - 信心之父",
+    "title_en": "George Müller - Man of Faith",
+    "content_zh": "乔治·慕勒（1805-1898）是德国人，在英国建立孤儿院，被称为「信心之父」！他年轻时是个小偷和赌徒，甚至在父亲给他的学费上动手脚，品行极差。但信主后生命彻底改变，成为教会历史上信心祷告最伟大的见证人之一。慕勒在英国布里斯托建立了五所孤儿院，先后照顾了超过一万名孤儿。最令人惊叹的是，他从不向任何人募款，从不公开提及经济需要，只凭祷告仰望上帝供应一切！有一次孤儿院完全没有食物了，早餐时间到了，孩子们坐在空桌子前，慕勒照样带领大家感谢上帝。就在祷告刚结束，一个面包师敲门送来新鲜面包——他凌晨被上帝感动起来烘焙。紧接着一辆牛奶车又恰好坏在孤儿院门口，司机把牛奶全部送给了孩子们。这样的故事在慕勒的一生中反复上演。他详细记录了五万个祷告蒙应允的具体事例，从遗失的钥匙到数万英镑的大额需要，无一例外。慕勒73岁后还开始环球布道旅行，走遍四十多个国家，分发了将近三百万本圣经和福音单张。他的一生就是一部活的信心教科书，告诉我们：上帝真的听祷告，祂的供应永远及时而充足。只要我们凭信心来到祂面前，没有什么需要是太小或太大的！慕勒去世时，他所经手管理的资金总额超过了一百五十万英镑（在当时是天文数字），而他自己几乎身无分文，因为他把一切都用在了孤儿和福音事工上。",
+    "content_en": "George Müller (1805-1898) was a German who established orphanages in England, known as the 'Man of Faith'! In his youth he was a thief and gambler who even swindled his father's tuition money — his character was terrible. But after conversion his life was utterly transformed, and he became one of the greatest witnesses of faith-filled prayer in church history. Müller built five orphanages in Bristol, England, caring for over ten thousand orphans in total. Most astonishingly, he never solicited donations from anyone, never publicly mentioned financial needs — he simply prayed and trusted God for everything! Once the orphanage had absolutely no food. Breakfast time arrived, children sat at empty tables, and Müller led them in thanking God as usual. The moment the prayer ended, a baker knocked on the door with fresh bread — God had prompted him to bake in the early morning hours. Immediately after, a milk cart broke down right at the orphanage door, and the driver gave all the milk to the children. Such stories repeated throughout Müller's life. He meticulously recorded fifty thousand specific answered prayers, from lost keys to needs of tens of thousands of pounds — without exception. After age 73, Müller even began global preaching tours, visiting over forty countries and distributing nearly three million Bibles and Gospel tracts. His life is a living textbook of faith, telling us: God truly hears prayer, and His provision is always timely and sufficient. When we come to Him in faith, no need is too small or too great! When Müller died, the total funds that passed through his hands exceeded £1.5 million (an astronomical sum at the time), yet he himself died with almost nothing — he had given everything to orphans and gospel work.",
+    "bible_verses": [
+      "Philippians 4:19",
+      "Matthew 7:7-8",
+      "Hebrews 11:6"
+    ],
+    "discussion_questions": [
+      "为什么慕勒不募款，只祷告？ Why did Müller only pray instead of fundraising?",
+      "你相信今天上帝还会这样供应吗？ Do you believe God still provides this way today?",
+      "如何培养像慕勒一样的信心？ How can we develop faith like Müller's?"
+    ],
+    "tags": [
+      "heroes",
+      "faith",
+      "prayer",
+      "provision"
+    ]
+  },
+  {
+    "id": "youth-101",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "大卫·李文斯顿 - 非洲之光",
+    "title_en": "David Livingstone - Light of Africa",
+    "content_zh": "大卫·李文斯顿（1813-1873）是苏格兰宣教士和探险家，被称为「非洲之光」！他出生在苏格兰布兰太尔的贫穷工人家庭，十岁就在纺织厂做工，但一边做工一边读书，后来考上大学学医。他原本想去中国宣教，因为鸦片战争改去非洲。李文斯顿不只传福音，还是出色的医生和地理学家。他致力于消除非洲内部的奴隶贸易，相信「商业和基督教」能取代奴隶买卖。他深入非洲内陆三十年，走了四万多公里，发现了维多利亚瀑布，绘制了大量非洲地图，为后来的宣教士和探险家铺平了道路。这些探索并非冒险旅游，而是充满了致命的危险——他多次感染疟疾，曾被狮子咬伤左臂导致终身残疾，妻子玛丽也在非洲病逝。尽管如此，李文斯顿从未放弃。他说：「我愿意去任何地方，只要是向前走。」1873年5月1日凌晨，仆人发现他跪在非洲小屋里祷告时已经去世。当地人将他的心脏取出埋在一棵大树下，因为他们说「他的心属于非洲」，然后把他的遗体跋涉千里运到海岸，送回英国安葬在威斯敏斯特大教堂。李文斯顿证明：真正的宣教士不只传道，更要以生命去爱当地人民，为他们的福祉献出一切。他那句「我愿意去任何地方，只要是向前走」的名言，至今仍在激励每一代信徒为基督勇往直前，不畏艰难。",
+    "content_en": "David Livingstone (1813-1873) was a Scottish missionary and explorer known as the 'Light of Africa'! Born into a poor working-class family in Blantyre, Scotland, he began working in a cotton mill at age ten, studying while working, and eventually attending university to study medicine. He originally planned to go to China, but the Opium War redirected him to Africa. Livingstone was not only an evangelist but also an excellent doctor and geographer. He was committed to eradicating the African slave trade, believing 'commerce and Christianity' could replace it. He spent thirty years deep in Africa's interior, traveling over 40,000 kilometers, discovering Victoria Falls, and mapping vast areas of Africa — paving the way for future missionaries and explorers. These expeditions were no adventure tours but fraught with deadly peril: he contracted malaria repeatedly, was mauled by a lion leaving his left arm permanently disabled, and his wife Mary died of illness in Africa. Despite everything, Livingstone never gave up. He said: 'I am prepared to go anywhere, provided it be forward.' On May 1, 1873, his servants found him kneeling in prayer in an African hut, already dead. The local people removed his heart and buried it beneath a great tree, saying 'his heart belongs to Africa,' then carried his body over a thousand miles to the coast for transport back to England, where he was buried in Westminster Abbey. Livingstone proves: true missionaries don't just preach — they love the local people with their very lives, giving everything for their welfare. His famous words, 'I am prepared to go anywhere, provided it be forward,' still challenge every generation of believers to press on courageously and fearlessly for Christ.",
+    "bible_verses": [
+      "Matthew 28:19",
+      "Mark 16:15",
+      "1 Corinthians 9:22"
+    ],
+    "discussion_questions": [
+      "李文斯顿为什么要做医生和探险家，不只做传道人？ Why did Livingstone work as doctor and explorer, not just preacher?",
+      "宣教士如何平衡传福音与社会服务？ How do missionaries balance evangelism with social service?",
+      "'心留在非洲'对你有什么启发？ What does 'heart remaining in Africa' inspire in you?"
+    ],
+    "tags": [
+      "heroes",
+      "missions",
+      "exploration",
+      "holistic ministry"
+    ]
+  },
+  {
+    "id": "youth-102",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "王明道 - 中国教会柱石",
+    "title_en": "Wang Mingdao - Pillar of Chinese Church",
+    "content_zh": "王明道（1900-1991）是中国著名传道人，被誉为「中国教会的柱石」！他生于北京，出生时正值庚子之乱，父亲在动乱中去世，母亲含辛茹苦将他抚养长大。少年时王明道曾想自杀，但上帝保守了他，并呼召他做传道人。他没有上过正规神学院，完全靠自学圣经和刻苦读书来装备自己。王明道的讲道以直率著称，从不讨好听众，只忠于圣经真理。他强调「重生」和「圣洁」，严厉批评当时教会流行的自由主义神学——那些否认童贞女生子、否认基督身体复活的假教师。他在北京建立了基督徒会堂，坚持完全自立自养，不接受任何外国差会的资助，证明中国教会可以自己站立。抗日战争期间，日本人威胁利诱想让他合作，王明道断然拒绝。新中国成立后，政府推行「三自」运动，要求教会接受政府领导。王明道写了著名的文章《我们是为了信仰》，公开表明立场：教会的元首只有基督，任何世俗权力都不能取代。1955年他被捕入狱，在极大的精神压力下曾短暂写了认罪书妥协，但很快就深深悔改，撤回了妥协的声明，宁可再次坐牢也不违背良心。这一坐就是二十二年！直到1977年才获释，出狱时已双目失明。王明道说：「我们的神乃是烈火。」他用一生证明：宁可在监牢里做自由人，也不在监牢外做奴隶。他的勇气激励了无数中国基督徒在逼迫中站稳脚跟。",
+    "content_en": "Wang Mingdao (1900-1991) was a famous Chinese preacher honored as the 'Pillar of the Chinese Church'! Born in Beijing during the Boxer Rebellion, his father died in the upheaval, and his mother raised him through great hardship. As a teenager, Wang once contemplated suicide, but God preserved him and called him to preach. Without formal seminary training, he equipped himself entirely through self-study of Scripture and diligent reading. Wang's preaching was known for its directness — he never pandered to audiences, only faithfully proclaimed biblical truth. He emphasized 'rebirth' and 'holiness,' sharply criticizing the liberal theology popular in churches — those false teachers who denied the virgin birth and Christ's bodily resurrection. He established the Christian Tabernacle in Beijing, insisting on complete self-governance and self-support without any foreign mission funding, proving the Chinese church could stand on its own. During the Japanese occupation, the Japanese tried threats and incentives to win his cooperation; Wang flatly refused. After 1949, the government launched the 'Three-Self' movement requiring churches to accept government leadership. Wang wrote his famous essay 'We Are for the Faith,' publicly declaring: Christ alone is head of the church, and no secular power can replace Him. In 1955 he was arrested; under extreme psychological pressure he briefly wrote a confession compromising, but quickly repented deeply, retracted the statement, and chose imprisonment over violating his conscience. He served twenty-two years! Released in 1977, he emerged blind in both eyes. Wang declared: 'Our God is a consuming fire.' He proved with his life: better to be a free man in prison than a slave outside it. His courage inspired countless Chinese Christians to stand firm under persecution.",
+    "bible_verses": [
+      "Hebrews 12:29",
+      "Acts 5:29",
+      "2 Timothy 2:12"
+    ],
+    "discussion_questions": [
+      "王明道选择坐监牢而不妥协，你怎么看？ What do you think of Wang's choice to be imprisoned rather than compromise?",
+      "今天的基督徒如何面对信仰与政治的冲突？ How should Christians today handle conflicts between faith and politics?",
+      "什么时候应该顺服政府，什么时候应该抗议？ When should we obey government, and when should we resist?"
+    ],
+    "tags": [
+      "heroes",
+      "Chinese church",
+      "persecution",
+      "integrity"
+    ]
+  },
+  {
+    "id": "youth-103",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "宋尚节 - 中华奋兴家",
+    "title_en": "John Sung - Chinese Revivalist",
+    "content_zh": "宋尚节（1901-1944）是中国著名奋兴布道家，被称为「中华奋兴家」！他出生在福建莆田一个牧师家庭，从小就跟父亲一起去教会，被人叫做「小牧师」。宋尚节读书极其出色，获得奖学金赴美留学，在俄亥俄州立大学仅用两年半就拿到化学博士学位，前途一片光明。然而在美国期间，他感到内心空虚，信仰也几乎崩塌。直到在一次奋兴会上，他真正经历了圣灵的大能，生命被完全翻转。他做了一个惊人的决定——把博士文凭扔进大海（也有说是烧掉），表示与世俗的荣耀彻底决裂，全心全意投入传道事工。宋尚节的讲道风格独特，充满火一般的热情，经常用生动的比喻和戏剧化的动作，有时甚至在讲台上又跳又喊。他的信息直击人心，每到一处都带来大规模的复兴——听众常常在会场中痛哭悔改，公开认罪，生命被彻底更新。他走遍中国大江南北，也到新加坡、马来西亚、印尼、菲律宾等东南亚华人教会布道，所到之处复兴之火熊熊燃烧。可惜宋尚节长期忽视身体健康，过度劳累导致重病，仅仅活了四十三岁。但他十五年的传道生涯影响了数十万华人基督徒，至今在东南亚华人教会中依然被深深纪念。宋尚节常说：「我不过是上帝手中的一根火柴，点燃了就要为主发光发热。」他用短暂但炽热的一生告诉我们：人生的价值不在于活得多长久，而在于你是否为上帝的荣耀燃烧自己。",
+    "content_en": "John Sung (1901-1944) was a famous Chinese revivalist preacher known as the 'Chinese Revivalist'! Born in Putian, Fujian, to a pastor's family, he accompanied his father to church from childhood and was nicknamed 'little pastor.' Sung excelled academically, winning a scholarship to study in America and earning his PhD in chemistry at Ohio State University in just two and a half years — his future seemed brilliant. Yet in America he felt an inner emptiness and his faith nearly collapsed. Only at a revival meeting did he truly experience the Holy Spirit's power, and his life was completely transformed. He made a stunning decision — throwing his diploma into the sea (some say burning it), signaling a total break with worldly glory and wholehearted commitment to preaching. Sung's preaching style was unique — ablaze with fiery passion, filled with vivid analogies and dramatic gestures; sometimes he leapt and shouted on the platform. His messages struck hearts directly; wherever he went, massive revival followed — audiences wept in repentance, publicly confessed sins, and experienced total life renewal. He traveled throughout China and preached in Chinese churches across Southeast Asia — Singapore, Malaysia, Indonesia, the Philippines — igniting revival fires wherever he went. Sadly, Sung long neglected his health, and overwork led to serious illness; he lived only forty-three years. Yet his fifteen-year ministry influenced hundreds of thousands of Chinese Christians and remains deeply remembered in Southeast Asian Chinese churches today. Sung often said: 'I'm just a match in God's hand — once lit, I must shine and burn for the Lord.' Through his brief but blazing life he tells us: life's value isn't in how long you live, but whether you burn for God's glory.",
+    "bible_verses": [
+      "2 Timothy 4:2",
+      "Acts 2:37",
+      "Matthew 5:16"
+    ],
+    "discussion_questions": [
+      "宋尚节放弃博士学位去传道，值得吗？ Was Sung wise to give up his PhD to preach?",
+      "什么样的讲道最能感动人心？ What kind of preaching most touches people's hearts?",
+      "如何像宋尚节一样为主'发光发热'？ How can we 'shine and burn' for the Lord like Sung?"
+    ],
+    "tags": [
+      "heroes",
+      "revival",
+      "preaching",
+      "sacrifice"
+    ]
+  },
+  {
+    "id": "youth-104",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "倪柝声 - 地方教会创始人",
+    "title_en": "Watchman Nee - Founder of Local Church Movement",
+    "content_zh": "倪柝声（1903-1972）是中国教会领袖，地方教会（聚会所）创始人！他出生在福州一个基督徒家庭，原名倪述祖，十七岁在余慈度的奋兴会上信主后，就改名「柝声」，意思是守望者的打更声，提醒沉睡的人。倪柝声非常聪明好学，广泛阅读西方神学著作，尤其深受弟兄会达秘等人的影响。他强调教会的「地方性」原则，认为每个城市只应该有一个教会，不应该有宗派分裂，基督徒应该简单地以「地方」为单位聚会——比如「上海教会」「福州教会」。这个理念吸引了大批信徒。倪柝声写了许多深刻的属灵著作，《正常的基督徒生活》阐述了罗马书中与基督同死同活的真理，《属灵人》详细教导灵、魂、体三分法的属灵操练。这些著作至今被翻译成数十种语言，在全球广受欢迎。他重视信徒的内在属灵生命，教导十字架的功课——破碎天然的自我，让基督的生命从里面流出来。到1949年前，地方教会在中国已发展到数百处聚会。1952年倪柝声被政府逮捕，以「反革命」罪名被判十五年，后来刑期又延长，在监狱中度过了生命最后二十年。虽然长期被监禁、被劳改，遭受各种压力和折磨，他从未否认信仰。1972年他在安徽劳改农场去世。狱友在他枕头下发现了一张纸条，上面用颤抖的字迹写道：「基督是神的儿子，为人赎罪而死，三日复活，这是宇宙间最大的事实。我信基督而死。倪柝声。」这张纸条成为他一生信仰最有力的总结，激励了无数中国基督徒在苦难中持守信仰到底。",
+    "content_en": "Watchman Nee (1903-1972) was a Chinese church leader and founder of the Local Church movement! Born in Fuzhou to a Christian family, originally named Nee Shu-tsu, he believed at seventeen during Dora Yu's revival meeting and changed his name to 'Watchman' (Tuosheng) — the sound of a night watchman's clapper, warning those asleep. Brilliantly studious, Nee read widely in Western theology, especially influenced by the Brethren movement and J.N. Darby. He emphasized the 'locality' principle of the church, believing each city should have only one church without denominational divisions — Christians should simply gather by locality, such as 'the church in Shanghai' or 'the church in Fuzhou.' This vision attracted multitudes of believers. Nee wrote many profound spiritual works: 'The Normal Christian Life' expounded Romans' truths of dying and rising with Christ; 'The Spiritual Man' taught detailed spiritual exercises based on the tripartite division of spirit, soul, and body. These works have been translated into dozens of languages and remain globally popular. He emphasized believers' inner spiritual life, teaching the lesson of the cross — breaking the natural self so Christ's life can flow from within. By 1949, local churches had grown to hundreds of assemblies across China. In 1952, Nee was arrested by the government on 'counter-revolutionary' charges, sentenced to fifteen years, later extended, spending his final twenty years in prison. Despite prolonged imprisonment, labor reform, and various pressures and torment, he never denied his faith. He died in 1972 at a labor reform farm in Anhui. Fellow inmates found a note under his pillow, written in trembling handwriting: 'Christ is the Son of God who died for the redemption of sinners and resurrected after three days. This is the greatest fact in the universe. I die believing in Christ. Watchman Nee.' This note became the most powerful summary of his lifelong faith, inspiring countless Chinese Christians to hold fast through suffering to the very end.",
+    "bible_verses": [
+      "Hebrews 4:12",
+      "Galatians 2:20",
+      "2 Timothy 4:7"
+    ],
+    "discussion_questions": [
+      "倪柝声对教会'地方性'的观点你怎么看？ What do you think of Nee's view on church 'locality'?",
+      "他在监狱中20年还坚持信仰说明什么？ What does his 20-year faithfulness in prison show?",
+      "今天的基督徒如何学习他的属灵功课？ How can Christians today learn from his spiritual lessons?"
+    ],
+    "tags": [
+      "heroes",
+      "Chinese church",
+      "persecution",
+      "spirituality"
+    ]
+  },
+  {
+    "id": "youth-105",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "苏格兰殉道者 - 为信仰而死",
+    "title_en": "Scottish Martyrs - Dying for Faith",
+    "content_zh": "在16至17世纪的苏格兰，许多基督徒为了保卫改革宗信仰而殉道！当时英格兰国王想要控制苏格兰教会，强迫他们放弃长老制，接受主教制度和英式礼仪。但许多苏格兰人深信教会的元首只有基督，长老制是最合乎圣经的教会治理方式，于是坚决抵抗。1638年，成千上万的苏格兰人签署了《全国誓约》，有人甚至用自己的鲜血签名，庄严宣誓要保卫真正的改革宗信仰和教会自由。此后数十年，政府对这些「誓约派」展开了残酷的镇压，最惨烈的是1680年到1688年的「杀戮时代」。很多信徒被迫离开家园，在荒野山间秘密聚会敬拜，被称为「野战聚会」。政府军四处搜捕，一旦发现就当场处决。其中最感人的故事之一是两位名叫玛格丽特的女性：18岁的玛格丽特·威尔逊和约63岁的玛格丽特·麦克拉克伦。她们因为拒绝承认国王是教会的元首，被绑在索尔韦湾的木桩上。行刑者故意先淹没年长的那位，想吓唬年轻的玛格丽特妥协。但威尔逊看着海水涨起，不但没有恐惧，反而大声背诵罗马书第八章：「谁能使我们与基督的爱隔绝呢？」围观的人含泪恳求她只要说一句效忠国王的话就能活命，她坚定地回答：「不，我不会。我是基督的，让我走吧。」潮水淹没了她们，一老一少，年龄相差悬殊，却怀着同样坚不可摧的信仰，一起殉道。苏格兰殉道者们提醒我们：有些原则比生命更重要，当信仰和生存发生冲突时，真正的基督徒会选择永恒的冠冕而非暂时的安逸。",
+    "content_en": "In 16th-17th century Scotland, many Christians died as martyrs defending the Reformed faith! English kings sought to control the Scottish church, forcing them to abandon presbyterianism for episcopacy and Anglican liturgy. But many Scots firmly believed Christ alone is head of the church and that presbyterianism best follows Scripture, so they resisted resolutely. In 1638, tens of thousands of Scots signed the National Covenant — some even signing in their own blood — solemnly vowing to defend true Reformed faith and church freedom. Over the following decades, the government brutally suppressed these 'Covenanters,' with the worst period being the 'Killing Times' of 1680-1688. Many believers were forced from their homes, worshipping secretly in wild hills and moors in gatherings called 'conventicles.' Government troops hunted them relentlessly, executing those caught on the spot. Among the most moving stories is that of two women named Margaret: 18-year-old Margaret Wilson and roughly 63-year-old Margaret McLauchlan. They were tied to stakes in the Solway Firth for refusing to acknowledge the king as head of the church. Executioners deliberately drowned the older woman first, hoping to frighten young Margaret into submission. But Wilson, watching the waters rise, showed no fear — instead she loudly recited Romans 8: 'Who shall separate us from the love of Christ?' Weeping onlookers begged her to say just one word of allegiance to the king to save her life. She answered firmly: 'No, I will not. I am Christ's; let me go.' The tide engulfed them both — one old, one young, vastly different in age yet sharing the same unbreakable faith, martyred together. The Scottish martyrs remind us: some principles matter more than life itself; when faith and survival collide, true Christians choose the eternal crown over temporary comfort.",
+    "bible_verses": [
+      "Revelation 12:11",
+      "Matthew 10:28",
+      "Acts 7:59-60"
+    ],
+    "discussion_questions": [
+      "为什么苏格兰人宁死也不接受主教制？ Why did Scots prefer death over accepting episcopacy?",
+      "你认为有什么信仰原则值得殉道？ What faith principles do you think are worth dying for?",
+      "今天的基督徒如何纪念这些殉道者？ How should Christians today commemorate these martyrs?"
+    ],
+    "tags": [
+      "heroes",
+      "martyrdom",
+      "Scotland",
+      "religious freedom"
+    ]
+  },
+  {
+    "id": "youth-106",
+    "category": "信仰英雄",
+    "section": "heroes",
+    "title_zh": "早期教会殉道者 - 血染的见证",
+    "title_en": "Early Church Martyrs - Blood-Stained Witnesses",
+    "content_zh": "早期教会的殉道者们用鲜血为基督作见证，他们的勇气震撼了整个罗马帝国！司提反是第一个殉道者，他被犹太公会审问时，面貌如同天使。当他讲完长篇讲道指出犹太人的罪后，愤怒的人群用石头打他。临死时他看见天开了，耶稣站在神的右边迎接他，他大声喊道：「主啊，不要将这罪归于他们！」罗马皇帝尼禄更是残酷至极，他把基督徒钉在十字架上排成一排，浇上沥青点燃，当做花园里的照明火把！他还把基督徒扔进竞技场喂狮子，供市民娱乐。但这些迫害不但没有消灭基督教，反而使教会更加壮大。波利卡普是使徒约翰的学生，86岁时被押到竞技场处刑。官员要他咒骂基督就可以释放，他庄严地回答：「八十六年来基督从未亏待我，我怎能亵渎拯救我的王？」火焰点燃后据说如同帐幕一样围着他却不伤害他，刽子手只好用刀刺死他。年仅14岁的少女阿格尼丝在被斩首前平静地说：「我在这世界是客旅，但在天国是公主。」里昂教会的女奴布兰迪娜被带到斗兽场，被铁网烤、被野牛顶、被各种酷刑折磨了整整一天，她始终反复说着同一句话：「我是基督徒，我们无恶行。」她的坚忍让连刽子手都感到震撼和疲惫。早期教父德尔图良说过一句名言：「殉道者的血是教会的种子。」果然，越是迫害，越多人被殉道者的勇气打动而归信基督。这些殉道者告诉我们：当你真正知道天国的价值和复活的盼望，地上的苦难就算不得什么了！",
+    "content_en": "Early church martyrs witnessed for Christ with their blood, and their courage shook the entire Roman Empire! Stephen was the first martyr; when questioned by the Sanhedrin, his face shone like an angel's. After his lengthy sermon exposing the people's sins, the enraged crowd stoned him. As he died, he saw heaven opened and Jesus standing at God's right hand to receive him, crying out: 'Lord, do not hold this sin against them!' Emperor Nero was even more brutal — he crucified Christians in rows, coated them in pitch, and lit them as garden torches! He threw Christians into the arena to be devoured by lions for public entertainment. Yet persecution didn't destroy Christianity — it made the church grow stronger. Polycarp, a student of the Apostle John, was brought to the arena at age 86. When officials told him to curse Christ for his release, he solemnly replied: 'For 86 years Christ has never wronged me — how can I blaspheme my Savior King?' When flames were lit, they reportedly formed a canopy around him without harming him, so the executioner had to use a sword. Agnes, a girl of only 14, said calmly before her beheading: 'I am a stranger in this world, but a princess in heaven.' Blandina, a slave woman from the church in Lyon, was brought to the arena, tortured on a heated iron grate, tossed by a wild bull, and tormented by various cruelties for an entire day, yet she kept repeating the same words: 'I am a Christian; we do no evil.' Her endurance shocked and exhausted even the executioners. The early church father Tertullian famously declared: 'The blood of martyrs is the seed of the church.' Indeed, the more persecution came, the more people were moved by the martyrs' courage to believe in Christ. These martyrs tell us: when you truly grasp the value of heaven and the hope of resurrection, earthly suffering counts for nothing!",
+    "bible_verses": [
+      "Acts 7:59-60",
+      "Revelation 2:10",
+      "Romans 8:18"
+    ],
+    "discussion_questions": [
+      "为什么殉道者们能如此勇敢面对死亡？ Why could martyrs face death so courageously?",
+      "他们的见证今天对我们有什么意义？ What meaning does their witness have for us today?",
+      "如何在小的试炼中培养殉道者的勇气？ How can we develop martyrs' courage through small trials?"
+    ],
+    "tags": [
+      "heroes",
+      "martyrdom",
+      "early church",
+      "persecution"
+    ]
+  },
+  {
+    "id": "youth-107",
+    "section": "heroes",
+    "category": "信仰英雄",
+    "title_zh": "赵紫宸 — 本色化神学的反思",
+    "title_en": "T.C. Chao — Reflections on Contextualization",
+    "content_zh": "赵紫宸（1888-1979）是中国近代有影响力的神学家，他的故事提供了一个值得深思的教训。赵紫宸出生在浙江德清，自幼接受良好教育，后赴美留学深造。他致力于让基督教信仰与中国文化对话，用中国人能理解的语言和思维方式表达信仰。这个出发点是好的——保罗在雅典也用当地文化来传福音（使徒行传17章），向什么人就作什么人。然而，赵紫宸的神学立场存在严重问题。他深受自由派神学影响，对圣经的完全权威性、基督的神性、童贞女生子、基督身体复活等核心教义持怀疑甚至否认的态度。他试图用中国传统哲学来重新诠释基督教，结果不是让福音扎根于中国文化，而是让文化稀释了福音的核心内容。他参与了世界基督教协进会，该组织以神学自由主义著称，后来他也参与了三自爱国运动。赵紫宸的故事给我们一个非常重要的警醒：本色化——让福音在本地文化中扎根——是必要的，但绝不能以牺牲核心教义为代价。福音确实需要用中国人能理解的方式来表达，但福音的内容本身——基督的神性、代赎的十字架、身体的复活、唯独因信称义——这些不能被删减或重新定义。真正的本色化是把不变的福音用新的文化形式来表达和传递，而不是改变福音本身来迎合文化的口味。这就好比把清水倒进不同形状的杯子里——杯子的样式可以变，水的本质不能变。",
+    "content_en": "T.C. Chao (Zhao Zichen, 1888-1979) was an influential Chinese theologian whose story provides a thought-provoking lesson. Born in Deqing, Zhejiang, Chao received an excellent education from childhood and later studied in America. He worked to bring Christian faith into dialogue with Chinese culture, expressing faith in language and thought patterns Chinese people could understand. This starting point was good — Paul did the same in Athens (Acts 17), becoming all things to all people. However, Chao's theological positions had serious problems. Deeply influenced by liberal theology, he questioned or even denied core doctrines including Scripture's full authority, Christ's deity, the virgin birth, and Christ's bodily resurrection. He tried to reinterpret Christianity through traditional Chinese philosophy, but instead of rooting the Gospel in Chinese culture, he allowed culture to dilute the Gospel's core content. He was involved with the World Council of Churches, known for theological liberalism, and later participated in the Three-Self Patriotic Movement. Chao's story gives us a critically important warning: contextualization — rooting the Gospel in local culture — is necessary, but never at the cost of core doctrine. The Gospel does need to be expressed in culturally accessible ways, but the Gospel's content itself — Christ's deity, the atoning cross, bodily resurrection, justification by faith alone — cannot be reduced or redefined. True contextualization expresses the unchanging Gospel through new cultural forms, rather than changing the Gospel itself to suit cultural tastes. It's like pouring pure water into differently shaped cups — the cup's form can change, but the water's essence must not.",
+    "bible_verses": [
+      "Acts 17:22-28",
+      "2 Timothy 4:3-4",
+      "Galatians 1:8-9",
+      "Jude 1:3"
+    ],
+    "discussion_questions": [
+      "本色化和妥协有什么区别？如何把握这个界限？ What's the difference between contextualization and compromise? How do we draw the line?",
+      "哪些教义是绝对不能改变的核心？哪些表达方式可以灵活调整？ Which doctrines are absolutely non-negotiable? Which expressions can be flexible?",
+      "如何用中国文化中的概念来帮助人理解福音，而不改变福音本身？ How can Chinese cultural concepts help explain the Gospel without changing it?"
+    ],
+    "tags": [
+      "chinese-church",
+      "theology",
+      "culture",
+      "contextualization"
+    ]
+  },
+  {
+    "id": "youth-108",
+    "section": "heroes",
+    "category": "信仰英雄",
+    "title_zh": "林献羔 — 广州家庭教会之父",
+    "title_en": "Samuel Lamb — Father of Guangzhou House Churches",
+    "content_zh": "林献羔（1924-2013）是中国家庭教会运动最具代表性的人物之一。他出生在澳门一个牧师家庭，父亲林保罗是浸信会牧师，从小就在信仰氛围中成长。年轻时他就立志做传道人，在广州开始了自己的牧养事工。建国后他因为坚持信仰，拒绝在真理上妥协，两次被关进监狱，总共坐了超过二十年的牢。在煤矿劳改营里，他被强迫在极其恶劣的条件下做苦工，身体遭受了严重的摧残，但他从未否认基督。他在劳改营中偷偷背诵圣经经文来坚固自己的信心，还暗中向其他犯人传福音。出狱后，他在广州荣桂里自己家的小阁楼上开始聚会，起初只有几个人。但因为他忠心的讲道和对圣经真理的坚守，越来越多的人慕名而来，最终每周有超过一千人参加聚会，小楼里挤得水泄不通，楼下街道上都站满了人用扩音器听道。政府多次施压要求他关闭聚会或加入三自教会，公安局的人反复上门警告和骚扰，他总是平静而坚定地说：「我必须顺从神，不顺从人。」林献羔的一生告诉我们：真正的信仰不是在舒适环境中才有的装饰品，而是在逼迫和苦难中也能站立得住的生命根基。他的秘诀很简单——每天读经、恒切祷告、完全信靠上帝的主权。即使在最黑暗的日子里，他始终相信上帝掌管一切，人的逼迫永远不能胜过上帝的保守。",
+    "content_en": "Samuel Lamb (Lin Xiangao, 1924-2013) was one of the most iconic figures in China's house church movement. Born in Macau to a pastor's family — his father Lin Paul was a Baptist minister — he grew up steeped in faith. As a young man he resolved to become a preacher, beginning his pastoral ministry in Guangzhou. After 1949, his refusal to compromise on truth led to two imprisonments totaling over twenty years. In coal mine labor camps, he was forced to work under brutal conditions that severely damaged his body, yet he never denied Christ. In the camps he secretly memorized Scripture verses to strengthen his faith and quietly shared the Gospel with fellow prisoners. After release, he began holding meetings in a small attic of his home on Rongguili Street in Guangzhou, starting with just a handful of people. But his faithful preaching and unwavering commitment to biblical truth drew ever more people, until over a thousand attended weekly — the small building packed beyond capacity, with crowds standing in the street below listening through loudspeakers. Authorities repeatedly pressured him to shut down or join the Three-Self Church; public security officers visited again and again to warn and harass him. He always responded calmly and firmly: 'I must obey God rather than men.' Lamb's life teaches us that true faith is no ornament for comfortable times — it's a foundation that stands firm through persecution and suffering. His secret was simple: daily Bible reading, persistent prayer, and complete trust in God's sovereignty. Even in the darkest days, he believed God controls everything and that human persecution can never overcome God's protection.",
+    "bible_verses": [
+      "Acts 5:29",
+      "Romans 8:28",
+      "2 Timothy 1:12",
+      "Philippians 1:21"
+    ],
+    "discussion_questions": [
+      "如果你因为信仰被嘲笑或受压力，你会怎么做？ What would you do if you were mocked or pressured because of your faith?",
+      "林献羔坐了20年牢却不放弃信仰，是什么力量支撑他？ What sustained Samuel Lamb through 20 years of imprisonment?"
+    ],
+    "tags": [
+      "chinese-church",
+      "house-church",
+      "persecution",
+      "faithfulness"
+    ]
+  },
+  {
+    "id": "youth-109",
+    "section": "heroes",
+    "category": "信仰英雄",
+    "title_zh": "杨格非 — 华中宣教巨人",
+    "title_en": "Griffith John — Missionary Giant of Central China",
+    "content_zh": "杨格非（1831-1912）是威尔士人，但他把一生中最好的五十五年都献给了中国。他出生在威尔士斯旺西，很小就失去了母亲，由姑姑抚养长大。十四岁时他就在教会讲道，展现出非凡的口才和传道恩赐。1855年他来到上海，很快发现沿海城市已有不少宣教士，便决定深入内陆那些从未听过福音的地方。他后来在武汉扎根，成为华中地区最有影响力的宣教士之一。杨格非刻苦学习中文，达到了令中国人都惊叹的流利程度，能用中文讲道、写作和辩论。他把新约圣经翻译成通俗易懂的官话白话文，让更多普通百姓能够阅读。他建立了多间教会，开办了学校和医院，在太平天国运动和各种战乱中从不退缩。他的妻子和几个孩子都先后在中国因疾病去世，这些打击让他痛彻心扉，但他选择留在中国继续服侍。有人问他为什么不回英国安享晚年，他说：「如果我有一千条命，我愿意把每一条都献给中国。」杨格非的故事让我们深思：什么样的爱能让一个人为异国的人民付出一切，甚至忍受丧妻丧子之痛也不离开？答案是：基督的爱。哥林多后书五章14节说「原来基督的爱激励我们」，当你被基督舍命的爱抓住，你就愿意跟随祂去到任何地方，付出任何代价。杨格非的一生就是这节经文最生动的注脚，值得我们每个人深思。",
+    "content_en": "Griffith John (1831-1912) was Welsh, but he gave the best fifty-five years of his life to China. Born in Swansea, Wales, he lost his mother very young and was raised by an aunt. At fourteen he was already preaching in church, displaying remarkable eloquence and pastoral gifts. Arriving in Shanghai in 1855, he quickly realized the coast already had many missionaries and resolved to penetrate inland areas where the Gospel had never been heard. He settled in Wuhan and became one of the most influential missionaries in Central China. John studied Chinese so diligently that his fluency amazed even native speakers — he could preach, write, and debate in Chinese. He translated the New Testament into accessible Mandarin vernacular so ordinary people could read it. He planted multiple churches, founded schools and hospitals, and never retreated through the Taiping Rebellion and various upheavals. His wife and several children died of disease in China one after another — devastating blows that pierced his heart — yet he chose to remain and continue serving. When asked why he didn't return to England for a comfortable retirement, he replied: 'If I had a thousand lives, I would give every one to China.' His story raises a profound question: what kind of love drives someone to give everything for a foreign people, enduring the loss of wife and children without leaving? The answer: the love of Christ. 2 Corinthians 5:14 says 'the love of Christ compels us' — when Christ's sacrificial love captures you, you're willing to follow Him anywhere and pay any price. Griffith John's life is the most vivid commentary on this verse — one worth pondering deeply.",
+    "bible_verses": [
+      "2 Corinthians 5:14",
+      "Romans 10:14-15",
+      "Matthew 28:19-20"
+    ],
+    "discussion_questions": [
+      "杨格非为中国付出了一切，你觉得宣教士的牺牲值得吗？ Griffith John gave everything for China. Do you think missionaries' sacrifices are worth it?",
+      "如果神呼召你去一个陌生的地方服侍，你愿意去吗？ If God called you to serve in an unfamiliar place, would you go?"
+    ],
+    "tags": [
+      "missions",
+      "china",
+      "sacrifice",
+      "calling"
+    ]
+  },
+  {
+    "id": "youth-110",
+    "section": "heroes",
+    "category": "信仰英雄",
+    "title_zh": "计志文 — 中国的布道家",
+    "title_en": "Andrew Gih — China's Evangelist",
+    "content_zh": "计志文（1901-1985）是20世纪中国最伟大的布道家之一。他出生在上海一个贫困家庭，童年经历了许多艰辛。年轻时信主后，他的生命发生了翻天覆地的变化，从此把一生完全献给了传福音的事业。1925年他参加了伯特利环游布道团，与宋尚节等人一起走遍中国各省传道，所到之处带来极大的属灵复兴。计志文的讲道充满热情和能力，他善于用生动的故事和例子来传递福音的信息，让听众深受感动。他不仅在中国布道，也去到东南亚各国的华人教会讲道，影响了无数海外华人的信仰生命。1947年他创办了中华传道会，致力于差遣华人宣教士向自己的同胞传福音。后来局势变化，他辗转到了香港和海外，继续忠心服侍华人教会。计志文有一句名言：「传福音是教会唯一的事业。」他坚信教会存在的核心目的就是把耶稣基督的救恩传给每一个人。他不只是在讲台上传道，更是在日常生活中活出福音——无论是坐火车、在饭桌旁、还是走在路上，他都会抓住机会向人分享耶稣。即使在最困难的时候、面对战乱和流亡的压力，他也从不停止传讲基督。他的一生提醒我们：每一个基督徒都是福音的使者，不只是牧师和传道人。你今天就可以用你的言语和生命向身边的人分享耶稣的故事。不要等到「准备好」了才开始——现在就是最好的时候！",
+    "content_en": "Andrew Gih (Ji Zhiwen, 1901-1985) was one of 20th-century China's greatest evangelists. Born into poverty in Shanghai, he experienced much hardship in childhood. After coming to faith as a young man, his life was utterly transformed, and he devoted himself entirely to evangelism. In 1925, he joined the Bethel Worldwide Evangelistic Band, traveling with John Sung and others throughout China's provinces, bringing tremendous spiritual revival wherever they went. Gih's preaching overflowed with passion and power; he excelled at using vivid stories and illustrations to convey the Gospel, deeply moving his audiences. He preached not only across China but also in Chinese churches throughout Southeast Asia, impacting the faith lives of countless overseas Chinese. In 1947, he founded the Evangelize China Fellowship, dedicated to sending Chinese missionaries to reach their own people. When circumstances changed, he relocated to Hong Kong and overseas, continuing to faithfully serve Chinese churches. His famous quote: 'Evangelism is the church's only business.' He firmly believed the church's core purpose is sharing Jesus Christ's salvation with everyone. He didn't just preach from pulpits — he lived the Gospel daily. Whether on a train, at a dinner table, or walking down the street, he seized every opportunity to share Jesus. Even in the most difficult times — facing war and the pressures of exile — he never stopped proclaiming Christ. His life reminds us: every Christian is an ambassador of the Gospel, not just pastors and preachers. You can share Jesus' story with those around you starting today. Don't wait until you feel 'ready' — now is the best time!",
+    "bible_verses": [
+      "Romans 1:16",
+      "2 Corinthians 5:20",
+      "Acts 1:8",
+      "Mark 16:15"
+    ],
+    "discussion_questions": [
+      "计志文说'传福音是教会唯一的事业'，你同意吗？ Andrew Gih said 'Evangelism is the church's only business.' Do you agree?",
+      "你觉得在你的学校或社区里，传福音最大的挑战是什么？ What's the biggest challenge to sharing the Gospel in your school or community?"
+    ],
+    "tags": [
+      "evangelism",
+      "chinese-church",
+      "preaching",
+      "calling"
+    ]
+  },
+  {
+    "id": "youth-113",
+    "section": "discipleship",
+    "category": "门训材料",
+    "title_zh": "大使命",
+    "title_en": "The Great Commission",
+    "content_zh": "耶稣升天前给门徒的最后命令是：「所以，你们要去，使万民作我的门徒，奉父、子、圣灵的名给他们施洗，凡我所吩咐你们的，都教训他们遵守。我就常与你们同在，直到世界的末了。」（马太福音28:19-20）这不只是给十二个使徒的命令，而是给每一代、每一个基督徒的。大使命的核心动词是「使万民作门徒」，围绕这个核心有三个伴随动作：去、施洗、教导。「去」意味着我们不能只是坐在教会里等人来，而要主动走出舒适圈，进入人群当中。对青少年来说，你的学校、球队、社交圈就是你的「万民」。「施洗」代表带领人公开认信，进入基督的身体——教会这个信仰群体。「教导」意味着信主只是一个开始，还需要持续不断的门训和栽培，帮助新信徒在真理中扎根成长。很多教会只注重传福音带人决志，却忽略了后续的门训，结果很多人信了之后不久就离开了。大使命要求我们两者都做——既领人归主，又帮助他们成为成熟的门徒。最让人安心的是耶稣的应许：「我就常与你们同在，直到世界的末了。」你不是一个人在完成这个使命，全能的主与你同行，圣灵赐你力量，天父为你开路。所以不要害怕，不要觉得自己太年轻或太渺小。大使命不是等你长大了、装备好了才开始的——它从今天就开始了。",
+    "content_en": "Jesus' final command before ascending was: 'Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.' (Matthew 28:19-20) This wasn't just for the twelve apostles — it's for every generation, every Christian. The Great Commission's core verb is 'make disciples of all nations,' accompanied by three actions: go, baptize, teach. 'Go' means we can't just sit in church waiting — we must step out of our comfort zones and into the crowd. For teenagers, your school, sports team, and social circles are your 'nations.' 'Baptize' means leading people to public confession and into Christ's body — the church community. 'Teach' means conversion is just the beginning; ongoing discipleship and nurture are essential, helping new believers root and grow in truth. Many churches focus only on evangelism and altar calls but neglect follow-up discipleship, causing many new believers to drift away. The Great Commission requires both — winning people to Christ and helping them become mature disciples. The most reassuring part is Jesus' promise: 'I am with you always, to the end of the age.' You're not fulfilling this mission alone — the Almighty walks with you, the Holy Spirit empowers you, and the Father opens the way. So don't be afraid, and don't think you're too young or too small. The Great Commission doesn't wait until you've grown up and feel ready — it starts today.",
+    "bible_verses": [
+      "Matthew 28:19-20",
+      "Acts 1:8",
+      "Romans 10:14-15"
+    ],
+    "discussion_questions": [
+      "大使命是给每个基督徒的吗？你觉得自己有什么角色？ Is the Great Commission for every Christian? What role do you think you have?",
+      "你的「万民」是谁？你身边有哪些人还没听过福音？ Who are 'the nations' for you? Who around you hasn't heard the Gospel?"
+    ],
+    "tags": [
+      "great-commission",
+      "missions",
+      "evangelism"
+    ]
+  },
+  {
+    "id": "youth-114",
+    "section": "discipleship",
+    "category": "门训材料",
+    "title_zh": "属灵恩赐发现",
+    "title_en": "Discovering Your Spiritual Gifts",
+    "content_zh": "每个基督徒都有从圣灵领受的属灵恩赐（哥林多前书12:7）。恩赐不是才能——才能是天生的，恩赐是圣灵为了建造教会而特别赐给你的超自然能力。圣经提到的恩赐包括：教导、服侍、鼓励、给予、领导、怜悯、智慧、信心、分辨诸灵等等。每种恩赐都很重要，没有高低之分，就像身体的每个器官都不可或缺一样。怎么发现你的属灵恩赐呢？第一，祷告求圣灵显明，求上帝让你看见祂放在你里面的礼物。第二，尝试不同的服侍——你在哪个领域服侍时感到喜乐、有果效、充满力量？那很可能就是你的恩赐所在。第三，认真听取别人的反馈——有时候别人比你更容易看到你的恩赐，当几个人不约而同地说「你很会鼓励人」或「你讲解圣经特别清楚」，这就是重要的信号。第四，留意你内心的负担和感动——你特别关心什么事情？看到什么需要会心痛？那往往指向你恩赐的方向。要注意的是，恩赐不是用来炫耀或比较的，而是用来彼此服侍、建造教会的。哥林多前书13章1到3节清楚地说，最大的恩赐如果没有爱，就什么都不是。一个默默在教会厨房服侍弟兄姐妹的人，如果充满了基督的爱，比一个讲台上口若悬河却没有爱心的讲员更蒙上帝喜悦。所以发现恩赐之后，更重要的是用爱心来运用恩赐，让基督的身体在爱中被建造起来。",
+    "content_en": "Every Christian has spiritual gifts from the Holy Spirit (1 Corinthians 12:7). Gifts aren't talents — talents are natural abilities, while spiritual gifts are supernatural abilities the Spirit specifically gives for building up the church. Biblical gifts include: teaching, serving, encouraging, giving, leading, showing mercy, wisdom, faith, discerning spirits, and more. Every gift matters equally, with no hierarchy — just as every organ in the body is indispensable. How do you discover your spiritual gifts? First, pray for the Holy Spirit to reveal them — ask God to show you the gift He's placed within you. Second, try different ministries — in which area do you feel joy, effectiveness, and energy? That likely points to your gift. Third, seriously listen to others' feedback — sometimes others see your gifts more clearly than you; when multiple people independently say 'you're great at encouraging people' or 'you explain the Bible so clearly,' that's an important signal. Fourth, notice your inner burdens and convictions — what do you care deeply about? What needs make your heart ache? These often point toward your gifting. An important caution: gifts aren't for showing off or comparing, but for mutual service and building up the church. 1 Corinthians 13:1-3 makes clear that the greatest gift without love is nothing. Someone quietly serving in the church kitchen with Christ's love pleases God more than an eloquent speaker without love. So after discovering your gifts, what matters most is exercising them with love, building up Christ's body in love.",
+    "bible_verses": [
+      "1 Corinthians 12:7",
+      "Romans 12:6-8",
+      "1 Peter 4:10"
+    ],
+    "discussion_questions": [
+      "你觉得自己可能有什么属灵恩赐？ What spiritual gifts do you think you might have?",
+      "恩赐和才能有什么区别？ What's the difference between spiritual gifts and natural talents?"
+    ],
+    "tags": [
+      "spiritual-gifts",
+      "service",
+      "holy-spirit"
+    ]
+  },
+  {
+    "id": "youth-115",
+    "section": "discipleship",
+    "category": "门训材料",
+    "title_zh": "小组查经方法",
+    "title_en": "How to Lead a Small Group Bible Study",
+    "content_zh": "小组查经是门训的核心工具之一，也是青少年灵命成长最有效的方式。一个好的查经不是牧师单方面讲课，而是大家一起发现圣经的真理，在互动中彼此学习和激励。最简单实用的方法是「观察—解释—应用」三步法：第一步，观察：经文说了什么？注意其中的人物、事件、地点、时间和方式。仔细读，不要急着跳到应用。第二步，解释：经文是什么意思？为什么作者这样写？在当时的历史文化背景下意味着什么？这一步需要做一些功课，比如查看注释书或研读相关的上下文。第三步，应用：这段经文对我今天的生活有什么意义？我需要改变什么想法、态度或行为？应用要具体，不是笼统地说「我要更爱上帝」，而是「这周我要在什么具体事情上信靠上帝」。带领小组查经有几个实用技巧：多问开放性问题，而不是只能回答是或否的问题；给大家足够的时间思考，不要急着自己回答；鼓励每个人发言，不要让一两个人垄断讨论；当讨论偏离时，温和地把大家引回到经文本身。最重要的是记住：你不需要知道所有答案！你的角色不是老师，而是引导者——带领大家一起在上帝的话语中寻找真理。如果遇到真的不懂的问题，诚实地说「这个我不确定，我们一起去查」，比装作什么都知道要好得多。谦卑求真的态度反而会赢得组员的信任和尊重。",
+    "content_en": "Small group Bible study is a core discipleship tool and one of the most effective ways for youth to grow spiritually. A good study isn't a one-way lecture but everyone discovering Scripture's truth together, learning and encouraging each other through interaction. The simplest, most practical method is the three-step 'Observe-Interpret-Apply' approach: Step 1, Observe: What does the text say? Note the people, events, places, times, and methods. Read carefully — don't rush to application. Step 2, Interpret: What does it mean? Why did the author write this? What did it mean in its historical and cultural context? This step requires some homework, like consulting commentaries or studying the surrounding context. Step 3, Apply: What does this passage mean for my life today? What thoughts, attitudes, or behaviors do I need to change? Application should be specific — not vaguely 'I should love God more,' but 'this week I will trust God in this specific situation.' Practical tips for leading: ask open-ended questions rather than yes/no ones; give everyone enough time to think rather than rushing to answer yourself; encourage everyone to speak up rather than letting one or two people dominate; when discussion drifts, gently guide everyone back to the text. Most importantly, remember: you don't need all the answers! Your role isn't teacher but facilitator — guiding everyone to seek truth together in God's Word. If you genuinely don't know something, honestly saying 'I'm not sure about this — let's look it up together' is far better than pretending to know everything. A humble, truth-seeking attitude actually earns the group's trust and respect.",
+    "bible_verses": [
+      "2 Timothy 2:15",
+      "Acts 17:11",
+      "Psalm 119:105"
+    ],
+    "discussion_questions": [
+      "你觉得小组查经和自己读经有什么不同？ How is group Bible study different from reading alone?",
+      "在查经中遇到读不懂的经文怎么办？ What do you do when you encounter difficult passages?"
+    ],
+    "tags": [
+      "bible-study",
+      "small-group",
+      "hermeneutics"
+    ]
+  },
+  {
+    "id": "youth-117",
+    "section": "discipleship",
+    "category": "门训材料",
+    "title_zh": "教会生活参与",
+    "title_en": "Getting Involved in Church Life",
+    "content_zh": "有些人觉得「我信耶稣就好了，去不去教会无所谓」。但圣经的教导恰恰相反——基督徒不是独行侠，而是身体上的肢体。希伯来书10:25说：「你们不可停止聚会，好像那些停止惯了的人。」教会不是一栋建筑物，而是一群被基督的宝血拯救、被圣灵联合在一起的人所组成的属灵群体。为什么教会生活如此重要？第一，你需要被教导——牧师和长老受过神学训练，他们的讲道和教导帮助你正确理解圣经，避免自己读经时产生偏差。第二，你需要群体——在爱中互相扶持、互相监督、互相鼓励。信仰道路上你会遇到软弱、怀疑、试探，这时候弟兄姐妹的陪伴和代祷是无比宝贵的。一根柴容易熄灭，一堆柴却能烧旺。第三，你需要服侍的机会——教会是你操练和运用属灵恩赐、服侍他人的地方。你的恩赐是为建造教会而赐的，不使用就会荒废。第四，圣礼——洗礼和圣餐是主耶稣亲自设立的，它们是在教会群体中进行的，不是个人独自完成的。怎么更好地参与教会生活？不要只做「观众」——每周来坐一坐就走，而要成为真正的「参与者」：加入一个小组，参与某项服侍（哪怕只是帮忙摆椅子或做茶水），主动与弟兄姐妹建立真实的关系，而不只是表面的寒暄。你投入教会多少，教会就能祝福你多少。记住：教会不完美，但她是基督用宝血买赎的新妇。",
+    "content_en": "Some think 'I believe in Jesus — going to church doesn't matter.' But Scripture teaches the exact opposite: Christians aren't lone rangers but members of one body. Hebrews 10:25 says: 'Do not neglect meeting together, as is the habit of some.' The church isn't a building but a spiritual community of people redeemed by Christ's blood and united by the Holy Spirit. Why is church life so important? First, you need teaching — pastors and elders with theological training preach and teach to help you understand Scripture correctly, preventing misinterpretations from reading alone. Second, you need community — supporting, holding accountable, and encouraging one another in love. On the faith journey you'll face weakness, doubt, and temptation; the companionship and prayers of brothers and sisters are invaluable. One stick easily burns out; a bundle of sticks blazes strong. Third, you need opportunities to serve — the church is where you practice and exercise spiritual gifts to serve others. Your gifts were given to build up the church; unused, they atrophy. Fourth, sacraments — baptism and the Lord's Supper were personally instituted by Jesus and are practiced within the church community, not performed individually. How to participate better? Don't just be an 'audience member' who sits through the service and leaves — become a genuine 'participant': join a small group, serve in some capacity (even setting up chairs or making tea), and proactively build authentic relationships with brothers and sisters beyond surface greetings. The more you invest in the church, the more the church can bless you. Remember: the church isn't perfect, but she is Christ's bride, purchased with His precious blood.",
+    "bible_verses": [
+      "Hebrews 10:25",
+      "1 Corinthians 12:27",
+      "Acts 2:42-47"
+    ],
+    "discussion_questions": [
+      "你觉得去教会和自己在家读经祷告有什么不同？ How is going to church different from reading and praying at home?",
+      "你在教会里可以参与哪些服侍？ What ministries could you get involved in at church?"
+    ],
+    "tags": [
+      "church",
+      "community",
+      "worship",
+      "service"
+    ]
+  },
+  {
+    "id": "youth-118",
+    "section": "discipleship",
+    "category": "门训材料",
+    "title_zh": "奉献的意义",
+    "title_en": "The Meaning of Giving",
+    "content_zh": "奉献不是教会向你要钱——而是你对上帝恩典的回应和感恩的表达。圣经说：「各人要随本心所酌定的，不要作难，不要勉强，因为捐得乐意的人是神所喜爱的。」（哥林多后书9:7）上帝不缺我们的钱，祂看重的是我们的心。旧约有十一奉献的原则，就是将收入的十分之一献给上帝，承认一切丰盛的源头都在于祂。新约并没有废除这个原则，但更强调甘心乐意和慷慨的心态——不是律法式的计算，而是出于爱的回应。奉献的意义包括几个层面：第一，承认一切都是上帝的——你的金钱、时间、才能、甚至你的生命，都是上帝托付给你管理的。你是管家，不是主人。第二，操练信心——奉献意味着把一部分收入交给上帝，相信祂会供应你剩余的需要。这对贪心和安全感的偶像是很好的对付。第三，支持教会的事工——牧师的薪水和生活需要弟兄姐妹来供应，教会的日常运作、宣教的差遣和支持都需要经济基础。哥林多前书9:14说「主也命定叫传福音的靠着福音养生」。第四，帮助有需要的人——圣经一再教导我们要关顾穷人、孤儿和寡妇。作为青少年，你可能还没有固定收入，但你已经可以开始操练奉献的功课——把零花钱的一部分奉献给教会，更重要的是，你可以奉献你的时间和才能来服侍。奉献不只是金钱的事，而是整个生命的态度：我愿意把最好的献给上帝。",
+    "content_en": "Giving isn't the church asking for your money — it's your response to God's grace and an expression of gratitude. The Bible says: 'Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.' (2 Corinthians 9:7) God doesn't need our money; He cares about our hearts. The Old Testament established tithing — giving a tenth of income to God, acknowledging Him as the source of all abundance. The New Testament doesn't abolish this principle but emphasizes a willing, generous attitude — not legalistic calculation but a response of love. Giving has several dimensions: First, acknowledging everything belongs to God — your money, time, talents, even your life are entrusted to you as a steward. You're a manager, not the owner. Second, exercising faith — giving means entrusting part of your income to God, trusting Him to provide for your remaining needs. This effectively combats the idols of greed and false security. Third, supporting church ministry — pastors' salaries and living needs depend on the congregation's support; the church's daily operations, missionary sending, and outreach all require financial foundation. 1 Corinthians 9:14 says 'the Lord commanded that those who proclaim the gospel should get their living by the gospel.' Fourth, helping those in need — Scripture repeatedly teaches us to care for the poor, orphans, and widows. As a teenager, you may not have a regular income yet, but you can already begin practicing giving — dedicating part of your allowance to the church. More importantly, you can give your time and talents to serve. Giving isn't just about money but an attitude of the whole life: I'm willing to offer my best to God.",
+    "bible_verses": [
+      "2 Corinthians 9:7",
+      "Malachi 3:10",
+      "Luke 6:38"
+    ],
+    "discussion_questions": [
+      "你觉得奉献和「交会费」有什么区别？ What's the difference between giving and 'paying dues'?",
+      "除了金钱，你还能怎样奉献？ Besides money, how else can you give?"
+    ],
+    "tags": [
+      "giving",
+      "stewardship",
+      "generosity"
+    ]
+  },
+  {
+    "id": "youth-119",
+    "section": "discipleship",
+    "category": "门训材料",
+    "title_zh": "宣教意识",
+    "title_en": "Developing a Missions Mindset",
+    "content_zh": "宣教不只是去非洲或亚马逊丛林——宣教是基督徒生活的本质和呼吸。耶稣说：「你们要在耶路撒冷、犹太全地和撒马利亚，直到地极，作我的见证。」（使徒行传1:8）这里有四个层次：你的城市（耶路撒冷）、你的地区和国家（犹太全地）、跨文化的邻居（撒马利亚）、世界各地（地极）。宣教从你所在的地方开始——你的学校、你的家庭、你的社区就是你的第一个宣教工场。同时，上帝也呼召我们放眼全球。你知道吗？今天世界上还有大约七千个未得之民群体，他们当中没有教会，没有圣经翻译，从来没有人向他们传过福音。培养宣教意识的方法有很多：为不同国家的福音事工祷告，可以用「万国代祷手册」作为指引；了解世界上还有哪些未得之民，关注他们的需要；用实际行动支持你教会的宣教士——为他们祷告、写信鼓励他们、参与奉献；趁着年轻参加短期宣教体验，亲身感受跨文化传福音的挑战和喜乐；学习不同的文化和语言，拓宽你的视野。也许上帝没有呼召你做全职宣教士，但每一个基督徒都可以而且应该通过祷告、奉献和关注来参与全球宣教。你的心有多大，上帝使用你的空间就有多大。从今天开始，为一个你从未听说过的民族祷告，你就已经参与了大使命。宣教不是少数人的特权，而是每个基督徒的荣耀责任。",
+    "content_en": "Missions isn't just going to Africa or the Amazon — it's the very essence and breath of Christian life. Jesus said: 'You will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.' (Acts 1:8) This presents four levels: your city (Jerusalem), your region and country (Judea), cross-cultural neighbors (Samaria), and worldwide (ends of the earth). Missions starts where you are — your school, family, and community are your first mission field. Yet God also calls us to look globally. Did you know there are still about seven thousand unreached people groups worldwide with no church, no Bible translation, and no one who has ever shared the Gospel with them? There are many ways to develop a missions mindset: pray for gospel work in different countries, using resources like 'Operation World' as a guide; learn about unreached peoples and their needs; actively support your church's missionaries — pray for them, write encouraging letters, give financially; take advantage of your youth to join a short-term mission trip, experiencing firsthand the challenges and joys of cross-cultural evangelism; learn about different cultures and languages to broaden your horizons. Maybe God isn't calling you to full-time missions, but every Christian can and should participate in global missions through prayer, giving, and awareness. The bigger your heart, the bigger the space for God to use you. Starting today, pray for a people group you've never heard of — and you've already joined the Great Commission. Missions isn't a privilege for the few — it's the glorious responsibility of every Christian.",
+    "bible_verses": [
+      "Acts 1:8",
+      "Matthew 9:37-38",
+      "Isaiah 6:8"
+    ],
+    "discussion_questions": [
+      "你的「耶路撒冷」是哪里？你身边有哪些宣教机会？ Where is your 'Jerusalem'? What mission opportunities are around you?",
+      "你对哪个国家或民族有特别的负担？ Is there a country or people group you feel particularly burdened for?"
+    ],
+    "tags": [
+      "missions",
+      "global",
+      "prayer",
+      "unreached"
+    ]
+  },
+  {
+    "id": "youth-120",
+    "section": "discipleship",
+    "category": "门训材料",
+    "title_zh": "属灵导师的重要性",
+    "title_en": "The Importance of a Spiritual Mentor",
+    "content_zh": "每个成长中的基督徒都需要一位属灵导师——一个在信仰上比你更成熟、愿意花时间陪伴你成长的人。圣经中最好的榜样就是保罗和提摩太的关系：保罗称提摩太为「因信主作我真儿子的」（提摩太前书1:2），他不只教导提摩太神学知识，更是在生活中示范如何跟随基督，在困难中如何坚持信仰。属灵导师不是完美无缺的超人，而是一个愿意敞开分享自己的经历、失败和功课的属灵长辈。真正好的导师不会给你一个「完美基督徒」的假象，而是诚实地告诉你他们也曾挣扎、也曾跌倒，但上帝的恩典够用。怎么找到属灵导师？首先在你的教会里寻找——找一个你敬佩的、生命有美好见证的长辈或年长弟兄姐妹。不要被动等待，要主动出击：鼓起勇气邀请他们定期见面，可以一起读经、一起祷告、讨论你在信仰和生活中的挣扎与困惑。好的导师关系有几个重要特点：定期见面（至少每月一次），不能三天打鱼两天晒网；真实分享（不装属灵），有什么说什么，包括你的怀疑和软弱；一切以圣经为根基，不是分享个人意见，而是一起回到上帝的话语中寻找答案；彼此代祷，互相在祷告中记念。同时你也要记住：门训是一条链条，提摩太后书2:2说「你在许多见证人面前听见我所教训的，也要交托那忠心能教导别人的人」。你在被别人牧养的同时，也可以成为比你更年轻的弟兄姐妹的导师。在帮助别人成长的过程中，你自己也会经历更深的成长。",
+    "content_en": "Every growing Christian needs a spiritual mentor — someone more mature in faith who's willing to invest time walking alongside you. Scripture's best example is the relationship between Paul and Timothy: Paul called Timothy 'my true son in the faith' (1 Timothy 1:2). He didn't just teach Timothy theology but demonstrated in daily life how to follow Christ and persevere through difficulties. A spiritual mentor isn't a flawless superhero but a spiritual elder willing to openly share their experiences, failures, and lessons. A truly good mentor won't project a 'perfect Christian' image but honestly tells you they've also struggled and stumbled, yet God's grace proved sufficient. How do you find one? Start in your church — look for someone you respect whose life bears beautiful testimony. Don't wait passively; take initiative: muster the courage to invite them to meet regularly — read the Bible together, pray together, discuss your faith struggles and life questions. Good mentoring relationships share key features: regular meetings (at least monthly) with no on-again-off-again commitment; authentic sharing (no spiritual pretending) — say what's real, including your doubts and weaknesses; everything grounded in Scripture, not personal opinions but jointly returning to God's Word for answers; mutual prayer, remembering each other before God. Also remember: discipleship is a chain. 2 Timothy 2:2 says 'what you have heard from me in the presence of many witnesses entrust to faithful men who will be able to teach others also.' While being mentored yourself, you can also become a mentor to younger believers. In helping others grow, you'll experience deeper growth yourself.",
+    "bible_verses": [
+      "2 Timothy 2:2",
+      "Proverbs 27:17",
+      "Titus 2:3-5"
+    ],
+    "discussion_questions": [
+      "你有属灵导师吗？如果没有，你想找怎样的人？ Do you have a spiritual mentor? If not, what kind of person would you look for?",
+      "你觉得自己可以在哪些方面帮助比你年轻的基督徒？ How could you help younger Christians?"
+    ],
+    "tags": [
+      "mentoring",
+      "discipleship",
+      "community",
+      "growth"
+    ]
+  },
+  {
+    "id": "youth-121",
+    "section": "discipleship",
+    "category": "门训材料",
+    "title_zh": "背诵经文的方法",
+    "title_en": "How to Memorize Scripture",
+    "content_zh": "背诵经文是属灵生命中最有价值的操练之一。诗篇119:11说：「我将你的话藏在心里，免得我得罪你。」当你把上帝的话存在心里，圣灵会在你最需要的时候提醒你——当你面对试探时，一节经文涌上心头帮你抵挡；当你感到沮丧时，上帝的应许成为你的安慰和力量。耶稣自己在旷野受撒但试探时，也是用背诵的经文来击退仇敌的（马太福音4:1-11），连主自己都用这个方法，我们岂不更应该学习吗？背诵经文的实用方法有以下几个：第一，选择对你当下生命有意义的经文——从短的开始，比如腓立比书4:13「我靠着那加给我力量的，凡事都能做」，或者箴言3:5-6「你要专心仰赖耶和华，不可倚靠自己的聪明」。选那些真正触动你心的经文，更容易记住。第二，每天反复朗读——早上起来读几遍，写在卡片上贴在镜子旁、课桌上或手机壁纸上，让你随时都能看到。第三，理解经文的意思——不是死记硬背，而是真正明白这节经文在说什么、为什么重要。理解了的经文比机械背诵更容易记住，也更容易应用。第四，在实际生活中应用——当你遇到相关情境时，有意识地回想那节经文并按照它去行。经文活在你的生活中，就不会轻易忘记。第五，与朋友互相分享和检查——找一个同伴一起背经文，互相提问、互相监督，学习效果会好很多。建议从经典的背经系统开始，比如每周背一节经文，一年下来就是五十二节！坚持两三年，你就拥有了超过一百节随时可以取用的属灵宝剑。",
+    "content_en": "Memorizing Scripture is one of the most valuable spiritual disciplines. Psalm 119:11 says: 'I have stored up your word in my heart, that I might not sin against you.' When God's Word is stored in your heart, the Holy Spirit reminds you when you need it most — when facing temptation, a verse rises up to help you resist; when feeling discouraged, God's promises become your comfort and strength. Jesus Himself used memorized Scripture to repel Satan's temptations in the wilderness (Matthew 4:1-11) — if the Lord Himself used this method, shouldn't we learn it even more? Here are practical methods for memorizing Scripture: First, choose verses meaningful to your current life — start short, like Philippians 4:13 'I can do all things through him who strengthens me,' or Proverbs 3:5-6 'Trust in the Lord with all your heart, and do not lean on your own understanding.' Choose verses that truly touch your heart — they're easier to remember. Second, read aloud repeatedly every day — read several times each morning, write on cards posted by your mirror, on your desk, or as your phone wallpaper so you see them constantly. Third, understand the meaning — don't just rote memorize but truly grasp what the verse says and why it matters. Understood verses stick better and are easier to apply than mechanically memorized ones. Fourth, apply in real life — when you encounter relevant situations, consciously recall the verse and act on it. Scripture that lives in your daily life won't be easily forgotten. Fifth, share and quiz with friends — find a partner to memorize together, testing and holding each other accountable; this dramatically improves learning. Start with a classic memory system — try one verse per week, yielding fifty-two per year! Keep it up for two or three years and you'll possess over a hundred spiritual swords ready for use at any time.",
+    "bible_verses": [
+      "Psalm 119:11",
+      "Joshua 1:8",
+      "Colossians 3:16"
+    ],
+    "discussion_questions": [
+      "你现在能背出哪些经文？ What verses can you recite right now?",
+      "你觉得背经文对日常生活有什么帮助？ How does memorizing Scripture help in daily life?"
+    ],
+    "tags": [
+      "scripture-memory",
+      "bible",
+      "discipline",
+      "practical"
+    ]
+  }
+]

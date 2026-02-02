@@ -1,12 +1,12 @@
 import Link from 'next/link';
-import { catechismQuestions } from '@/lib/data';
+import { allCatechismQuestions } from '@/lib/data';
 
 const modules = [
   {
     href: '/qa',
     title: '福音问答',
     subtitle: 'Gospel Q&A',
-    desc: '20个关键问题，中英双语解答',
+    desc: '126个关键问题，中英双语解答',
     color: 'from-blue-600 to-indigo-700',
     icon: '💬',
   },
@@ -14,7 +14,7 @@ const modules = [
     href: '/catechism',
     title: '要理问答',
     subtitle: 'Catechism',
-    desc: '威斯敏斯特小要理问答107题',
+    desc: '威斯敏斯特小要理107题 + 大要理196题',
     color: 'from-emerald-600 to-teal-700',
     icon: '📖',
   },
@@ -22,15 +22,31 @@ const modules = [
     href: '/apologetics',
     title: '护教学',
     subtitle: 'Apologetics',
-    desc: '回应各类世界观的挑战',
+    desc: '50篇护教文章，回应各类世界观的挑战',
     color: 'from-amber-600 to-orange-700',
     icon: '🛡️',
+  },
+  {
+    href: '/youth',
+    title: '青少年',
+    subtitle: 'Youth',
+    desc: '118篇文章，8大分区，专为青少年打造',
+    color: 'from-cyan-600 to-teal-700',
+    icon: '🌱',
+  },
+  {
+    href: '/worship',
+    title: '敬拜诗歌',
+    subtitle: 'Worship',
+    desc: '精选华语敬拜赞美诗歌，在歌声中亲近神',
+    color: 'from-rose-600 to-pink-700',
+    icon: '🎵',
   },
   {
     href: '/library',
     title: '书库',
     subtitle: 'Library',
-    desc: '精选经典护教与灵修书籍',
+    desc: '10本精选经典护教与灵修书籍',
     color: 'from-purple-600 to-violet-700',
     icon: '📚',
   },
@@ -38,7 +54,7 @@ const modules = [
 
 function DailyCatechism() {
   const dayOfYear = Math.floor((Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) / 86400000);
-  const q = catechismQuestions[dayOfYear % catechismQuestions.length];
+  const q = allCatechismQuestions[dayOfYear % allCatechismQuestions.length];
 
   return (
     <div className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6">
@@ -61,15 +77,18 @@ export default function HomePage() {
     <div className="max-w-5xl mx-auto px-4 py-8">
       {/* Hero */}
       <div className="text-center mb-12">
-        <div className="inline-flex items-center justify-center w-20 h-20 rounded-2xl bg-gradient-to-br from-[#1e3a5f] to-[#2a4f7f] mb-4 shadow-lg">
-          <span className="text-4xl">✝</span>
+        <div className="inline-flex items-center justify-center w-24 h-24 rounded-full mb-4 shadow-lg overflow-hidden">
+          <img src="/logo.png" alt="真理磐石" className="w-full h-full object-cover" />
         </div>
         <h1 className="font-serif-cn text-4xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">
-          福音工具箱
+          真理磐石
         </h1>
-        <p className="text-lg text-[var(--color-text-secondary)]">Gospel Toolkit</p>
+        <p className="text-lg text-[var(--color-text-secondary)]">Rock of Truth</p>
         <p className="mt-3 text-sm text-[var(--color-text-secondary)] max-w-md mx-auto">
-          装备自己，传扬福音。涵盖福音问答、要理问答、护教学与精选书库。
+          你们必晓得真理，真理必叫你们得以自由。
+        </p>
+        <p className="text-xs text-[var(--color-text-secondary)] max-w-md mx-auto italic">
+          You will know the truth, and the truth will set you free. — John 8:32
         </p>
       </div>
 
