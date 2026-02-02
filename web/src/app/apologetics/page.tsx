@@ -15,8 +15,8 @@ const sectionGradients: Record<string, string> = {
 
 export default function ApologeticsPage() {
   return (
-    <div className="max-w-6xl mx-auto px-4 py-6">
-      <div className="text-center mb-8">
+    <div className="max-w-5xl mx-auto px-4 py-6">
+      <div className="text-center mb-6">
         <h1 className="font-serif-cn text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">
           🛡️ 护教学
         </h1>
@@ -27,17 +27,6 @@ export default function ApologeticsPage() {
         <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-lg mx-auto italic">
           But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect. — 1 Peter 3:15
         </p>
-      </div>
-
-      {/* Progress path */}
-      <div className="hidden md:flex items-center justify-center gap-1 mb-8 text-xs text-[var(--color-text-secondary)]">
-        {apologeticsSections.map((section, i) => (
-          <span key={section} className="flex items-center gap-1">
-            <span>{apologeticsSectionLabels[section].icon}</span>
-            <span>{apologeticsSectionLabels[section].zh}</span>
-            {i < apologeticsSections.length - 1 && <span className="mx-1">→</span>}
-          </span>
-        ))}
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">

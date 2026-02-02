@@ -1,5 +1,5 @@
 'use client';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { catechismQuestions, catechismWlcQuestions } from '@/lib/data';
@@ -27,7 +27,15 @@ const wlcRanges = [
 
 type CatechismTab = 'wsc' | 'wlc';
 
-export default function CatechismPage() {
+export default function CatechismPageWrapper() {
+  return (
+    <Suspense fallback={<div className="max-w-5xl mx-auto px-4 py-6 text-center">加载中...</div>}>
+      <CatechismPage />
+    </Suspense>
+  );
+}
+
+function CatechismPage() {
   const searchParams = useSearchParams();
   const [tab, setTab] = useState<CatechismTab>('wsc');
   
@@ -65,7 +73,7 @@ export default function CatechismPage() {
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-6">
-      <div className="text-center mb-4">
+      <div className="text-center mb-6">
         <h1 className="font-serif-cn text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">📖 要理问答</h1>
         <p className="text-[var(--color-text-secondary)]">Catechism</p>
         <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto">

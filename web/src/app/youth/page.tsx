@@ -39,8 +39,8 @@ function getPlannedCount(section: YouthSection): number {
 
 export default function YouthPage() {
   return (
-    <div className="max-w-6xl mx-auto px-4 py-6">
-      <div className="text-center mb-8">
+    <div className="max-w-5xl mx-auto px-4 py-6">
+      <div className="text-center mb-6">
         <h1 className="font-serif-cn text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">
           🌱 青少年专区
         </h1>
