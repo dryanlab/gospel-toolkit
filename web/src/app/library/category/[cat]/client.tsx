@@ -36,7 +36,17 @@ function normalize(str: string): string {
 
 export default function CategoryClient({ paramsPromise }: { paramsPromise: Promise<{ cat: string }> }) {
   const { cat: rawCat } = use(paramsPromise);
-  const cat = decodeURIComponent(rawCat);
+  // rawCat may be URL-encoded or already decoded depending on Next.js version
+  let cat: string;
+  try {
+    cat = decodeURIComponent(rawCat);
+  } catch {
+    cat = rawCat;
+  }
+  // If decode didn't change anything and it looks encoded, try again
+  if (cat === rawCat && rawCat.includes('%')) {
+    try { cat = decodeURIComponent(rawCat); } catch { /* keep as is */ }
+  }
   const [search, setSearch] = useState('');
   const info = categoryInfo[cat] || { icon: '📘', en: cat };
 
