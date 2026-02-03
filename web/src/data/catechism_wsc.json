@@ -3,41 +3,45 @@
     "id": "wsc_001",
     "catechism": "westminster_shorter",
     "number": 1,
-    "question_zh": "人的首要目的是什么？",
+    "question_zh": "人一生的首要目的（chief end）是什么？",
     "question_en": "What is the chief end of man?",
-    "answer_zh": "人的首要目的就是荣耀神，并且永远以祂为乐。",
-    "answer_en": "Man's chief end is to glorify God, and to enjoy Him forever.",
+    "answer_zh": "（一）荣耀神；（二）以祂为乐，直到永远。",
+    "answer_en": "Man’s chief end is to glorify God, and to enjoy him forever.",
     "proof_texts": [
       "哥林多前书 10:31",
       "诗篇 73:25-28",
       "罗马书 11:36"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is the chief end of man?",
+    "answer": "Man’s chief end is to glorify God, and to enjoy him forever."
   },
   {
     "id": "wsc_002",
     "catechism": "westminster_shorter",
     "number": 2,
-    "question_zh": "神赐给我们什么准则，指导我们怎样荣耀祂、以祂为乐？",
-    "question_en": "What rule hath God given to direct us how we may glorify and enjoy Him?",
-    "answer_zh": "神的话语，就是旧约和新约圣经，是指导我们怎样荣耀神、以祂为乐的唯一准则。",
-    "answer_en": "The Word of God, which is contained in the Scriptures of the Old and New Testaments, is the only rule to direct us how we may glorify and enjoy Him.",
+    "question_zh": "神曾赐下什么准则，指教我们可以怎样荣耀祂，以祂为乐？",
+    "question_en": "What rule hath God given to direct us how we may glorify and enjoy him?",
+    "answer_zh": "神的道（就是载于新旧两约的圣经）是惟一的准则，指教我们可以怎样荣耀神，以祂为乐。",
+    "answer_en": "The Word of God, which is contained in the Scriptures of the Old and New Testaments, is the only rule to direct us how we may glorify and enjoy him.",
     "proof_texts": [
       "提摩太后书 3:16",
       "以弗所书 2:20",
       "约翰壹书 1:3-4"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What rule hath God given to direct us how we may glorify and enjoy him?",
+    "answer": "The Word of God, which is contained in the Scriptures of the Old and New Testaments, is the only rule to direct us how we may glorify and enjoy him."
   },
   {
     "id": "wsc_003",
     "catechism": "westminster_shorter",
     "number": 3,
-    "question_zh": "圣经主要教导什么？",
+    "question_zh": "圣经主要教导的是什么？",
     "question_en": "What do the Scriptures principally teach?",
-    "answer_zh": "圣经主要教导的，就是人对于神应当信什么，以及神要求人当尽什么责任。",
+    "answer_zh": "（一） 人对于神当信的真理，（二） 神要求人当尽的本分。",
     "answer_en": "The Scriptures principally teach what man is to believe concerning God, and what duty God requires of man.",
     "proof_texts": [
       "提摩太后书 1:13",
@@ -45,16 +49,18 @@
       "约翰福音 20:31"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What do the Scriptures principally teach?",
+    "answer": "The Scriptures principally teach what man is to believe concerning God, and what duty God requires of man."
   },
   {
     "id": "wsc_004",
     "catechism": "westminster_shorter",
     "number": 4,
-    "question_zh": "神是什么？",
+    "question_zh": "神是怎样的神？",
     "question_en": "What is God?",
-    "answer_zh": "神是灵，祂的存在、智慧、权能、圣洁、公义、良善和信实，都是无限的、永恒的、不变的。",
-    "answer_en": "God is a Spirit, infinite, eternal, and unchangeable, in His being, wisdom, power, holiness, justice, goodness, and truth.",
+    "answer_zh": "神是个灵，祂的本体、智慧、权能、圣洁、公义、恩慈、真实，都是无限无量、无始无终，永无改变的。",
+    "answer_en": "God is a spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness and truth.",
     "proof_texts": [
       "约翰福音 4:24",
       "诗篇 147:5",
@@ -62,70 +68,80 @@
       "雅各书 1:17"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is God?",
+    "answer": "God is a spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness and truth."
   },
   {
     "id": "wsc_005",
     "catechism": "westminster_shorter",
     "number": 5,
-    "question_zh": "神是否不止一位？",
+    "question_zh": "神是独一的吗？",
     "question_en": "Are there more Gods than one?",
-    "answer_zh": "独一无二的真神，只有一位。",
+    "answer_zh": "神是独一无二、又真又活的。",
     "answer_en": "There is but one only, the living and true God.",
     "proof_texts": [
       "申命记 6:4",
       "耶利米书 10:10"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Are there more Gods than one?",
+    "answer": "There is but one only, the living and true God."
   },
   {
     "id": "wsc_006",
     "catechism": "westminster_shorter",
     "number": 6,
-    "question_zh": "神的位格有几位？",
-    "question_en": "How many persons are there in the Godhead?",
-    "answer_zh": "神的位格有三位：圣父、圣子、圣灵；这三位就是同一的神，同质、同权、同荣。",
-    "answer_en": "There are three persons in the Godhead: the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.",
+    "question_zh": "神有几个位格？",
+    "question_en": "How many persons are there in the godhead?",
+    "answer_zh": "神有三个位格：就是圣父、圣子、圣灵；这三个位格是同一位神，同质、同权、同荣。",
+    "answer_en": "There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.",
     "proof_texts": [
       "马太福音 28:19",
       "哥林多后书 13:14",
       "约翰壹书 5:7"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How many persons are there in the godhead?",
+    "answer": "There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory."
   },
   {
     "id": "wsc_007",
     "catechism": "westminster_shorter",
     "number": 7,
-    "question_zh": "神的预旨是什么？",
+    "question_zh": "神的元旨是什么？",
     "question_en": "What are the decrees of God?",
-    "answer_zh": "神的预旨就是祂从永远所定的旨意，为着祂自己的荣耀，预定了一切将要发生的事。",
-    "answer_en": "The decrees of God are His eternal purpose, according to the counsel of His will, whereby, for His own glory, He hath foreordained whatsoever comes to pass.",
+    "answer_zh": "神的元旨（decrees of God）就是祂在永恒中所定的心意；这乃是照着祂旨意的计划，借此预定一切将要发生的事，使祂自己得荣耀。",
+    "answer_en": "The decrees of God are his eternal purpose, according to the counsel of his will, whereby, for his own glory, he hath foreordained whatsoever comes to pass.",
     "proof_texts": [
       "以弗所书 1:11",
       "罗马书 11:36",
       "但以理书 4:35"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What are the decrees of God?",
+    "answer": "The decrees of God are his eternal purpose, according to the counsel of his will, whereby, for his own glory, he hath foreordained whatsoever comes to pass."
   },
   {
     "id": "wsc_008",
     "catechism": "westminster_shorter",
     "number": 8,
-    "question_zh": "神怎样执行祂的预旨？",
-    "question_en": "How doth God execute His decrees?",
-    "answer_zh": "神在创造和护理之工中执行祂的预旨。",
-    "answer_en": "God executeth His decrees in the works of creation and providence.",
+    "question_zh": "神怎样执行祂的元旨？",
+    "question_en": "How doth God execute his decrees?",
+    "answer_zh": "神用创造和护理之工来执行祂的元旨。",
+    "answer_en": "God executeth his decrees in the works of creation and providence.",
     "proof_texts": [
       "创世记 1:1",
       "诗篇 36:6",
       "启示录 4:11"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How doth God execute his decrees?",
+    "answer": "God executeth his decrees in the works of creation and providence."
   },
   {
     "id": "wsc_009",
@@ -133,15 +149,17 @@
     "number": 9,
     "question_zh": "创造之工是什么？",
     "question_en": "What is the work of creation?",
-    "answer_zh": "创造之工就是神用祂全能的话语，在六日之内，从无有中造出万有，并且都甚好。",
-    "answer_en": "The work of creation is God's making all things of nothing, by the word of His power, in the space of six days, and all very good.",
+    "answer_zh": "创造之工，是神用祂权能的话，在六日之内，从无有中造出万有，并且都甚好。",
+    "answer_en": "The work of creation is God’s making all things of nothing, by the word of his power, in the space of six days, and all very good.",
     "proof_texts": [
       "创世记 1:1",
       "希伯来书 11:3",
       "创世记 1:31"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is the work of creation?",
+    "answer": "The work of creation is God’s making all things of nothing, by the word of his power, in the space of six days, and all very good."
   },
   {
     "id": "wsc_010",
@@ -149,8 +167,8 @@
     "number": 10,
     "question_zh": "神怎样造人？",
     "question_en": "How did God create man?",
-    "answer_zh": "神照着自己的形像，按着自己的样式，造男造女，赐给他们有知识、公义、圣洁，并且管理一切被造之物。",
-    "answer_en": "God created man male and female, after His own image, in knowledge, righteousness, and holiness, with dominion over the creatures.",
+    "answer_zh": "神照着自己的形像造男造女，有知识、仁义、圣洁，并赋予他们管理、支配一切受造之物的权柄。",
+    "answer_en": "God created man male and female, after his own image, in knowledge, righteousness and holiness, with dominion over the creatures.",
     "proof_texts": [
       "创世记 1:27",
       "歌罗西书 3:10",
@@ -158,16 +176,18 @@
       "创世记 1:28"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How did God create man?",
+    "answer": "God created man male and female, after his own image, in knowledge, righteousness and holiness, with dominion over the creatures."
   },
   {
     "id": "wsc_011",
     "catechism": "westminster_shorter",
     "number": 11,
     "question_zh": "神的护理之工是什么？",
-    "question_en": "What are God's works of providence?",
-    "answer_zh": "神的护理之工，就是祂用至高的圣洁、智慧和权能，保守并管理祂所造的万物，以及万物一切的行动。",
-    "answer_en": "God's works of providence are His most holy, wise, and powerful preserving and governing all His creatures, and all their actions.",
+    "question_en": "What are God’s works of providence?",
+    "answer_zh": "神的护理之工，就是用祂至高的圣洁、智慧、权能，保护祂所造的万物，并且管理他们一切的动作。",
+    "answer_en": "God’s works of providence are his most holy, wise and powerful preserving and governing all his creatures, and all their actions.",
     "proof_texts": [
       "诗篇 145:17",
       "以赛亚书 28:29",
@@ -175,30 +195,34 @@
       "诗篇 103:19"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What are God’s works of providence?",
+    "answer": "God’s works of providence are his most holy, wise and powerful preserving and governing all his creatures, and all their actions."
   },
   {
     "id": "wsc_012",
     "catechism": "westminster_shorter",
     "number": 12,
-    "question_zh": "当人被造处于生命之约的地位时，神向人施行了什么特别的护理之工？",
+    "question_zh": "神造人的时候，有什么特别的护理之工？",
     "question_en": "What special act of providence did God exercise toward man in the estate wherein he was created?",
-    "answer_zh": "当人被造的时候，神与人立了一个生命之约，以完全的顺服为条件，并以违约必死来警告人。",
-    "answer_en": "When God had created man, He entered into a covenant of life with him, upon condition of perfect obedience; forbidding him to eat of the tree of the knowledge of good and evil, upon pain of death.",
+    "answer_zh": "当神造人时，就与人立了生命之约（covenant of life）──这约是以完全顺服为条件，禁止人吃分别善恶树的果子，否则必受死亡的刑罚。",
+    "answer_en": "When God had created man, he entered into a covenant of life with him, upon condition of perfect obedience; forbidding him to eat of the tree of the knowledge of good and evil, upon pain of death.",
     "proof_texts": [
       "加拉太书 3:12",
       "创世记 2:17"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What special act of providence did God exercise toward man in the estate wherein he was created?",
+    "answer": "When God had created man, he entered into a covenant of life with him, upon condition of perfect obedience; forbidding him to eat of the tree of the knowledge of good and evil, upon pain of death."
   },
   {
     "id": "wsc_013",
     "catechism": "westminster_shorter",
     "number": 13,
-    "question_zh": "我们的始祖有没有保持住他们受造时的地位？",
+    "question_zh": "始祖守住他们被造的地位吗？",
     "question_en": "Did our first parents continue in the estate wherein they were created?",
-    "answer_zh": "我们的始祖，在自由意志的情况下，犯了罪，违背了神，从而从受造时的地位堕落了。",
+    "answer_zh": "始祖因为神让他们凭自己的意思作决定，于是他们犯罪违背了神，就从被造的地位堕落了。",
     "answer_en": "Our first parents, being left to the freedom of their own will, fell from the estate wherein they were created, by sinning against God.",
     "proof_texts": [
       "创世记 3:6-8",
@@ -206,7 +230,9 @@
       "罗马书 5:12"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Did our first parents continue in the estate wherein they were created?",
+    "answer": "Our first parents, being left to the freedom of their own will, fell from the estate wherein they were created, by sinning against God."
   },
   {
     "id": "wsc_014",
@@ -214,7 +240,7 @@
     "number": 14,
     "question_zh": "罪是什么？",
     "question_en": "What is sin?",
-    "answer_zh": "罪就是不遵行或违背神的律法。",
+    "answer_zh": "凡不遵守或违背神的律法的，都是罪。",
     "answer_en": "Sin is any want of conformity unto, or transgression of, the law of God.",
     "proof_texts": [
       "约翰壹书 3:4",
@@ -222,61 +248,69 @@
       "罗马书 3:23"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is sin?",
+    "answer": "Sin is any want of conformity unto, or transgression of, the law of God."
   },
   {
     "id": "wsc_015",
     "catechism": "westminster_shorter",
     "number": 15,
-    "question_zh": "我们的始祖是因什么罪从受造时的地位堕落的？",
+    "question_zh": "始祖犯了什么罪，而从被造的地位中堕落呢？",
     "question_en": "What was the sin whereby our first parents fell from the estate wherein they were created?",
-    "answer_zh": "我们的始祖从受造时的地位堕落，是因为他们吃了禁果。",
+    "answer_zh": "始祖因吃了禁果，就从被造的地位堕落了。",
     "answer_en": "The sin whereby our first parents fell from the estate wherein they were created was their eating the forbidden fruit.",
     "proof_texts": [
       "创世记 3:6",
       "创世记 3:12-13"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What was the sin whereby our first parents fell from the estate wherein they were created?",
+    "answer": "The sin whereby our first parents fell from the estate wherein they were created was their eating the forbidden fruit."
   },
   {
     "id": "wsc_016",
     "catechism": "westminster_shorter",
     "number": 16,
-    "question_zh": "全人类都因亚当首次犯罪而堕落了吗？",
-    "question_en": "Did all mankind fall in Adam's first transgression?",
-    "answer_zh": "神与亚当所立的约不仅仅是为他自己，也是为他的后裔；所以全人类都因他首次犯罪而堕落了，与他一同犯了罪，一同落在罪中。",
+    "question_zh": "亚当初次犯罪时，世人都在这罪中和他一同堕落了吗？",
+    "question_en": "Did all mankind fall in Adam’s first transgression?",
+    "answer_zh": "神和亚当所立的约，不是单为他自己，也是为他的后裔；所以，所有的人类──凡按一般的方式从亚当而生的人，都在亚当初次的过犯中和他一同犯了罪、一同堕落了。",
     "answer_en": "The covenant being made with Adam, not only for himself, but for his posterity; all mankind, descending from him by ordinary generation, sinned in him, and fell with him, in his first transgression.",
     "proof_texts": [
       "罗马书 5:12",
       "哥林多前书 15:21-22"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Did all mankind fall in Adam’s first transgression?",
+    "answer": "The covenant being made with Adam, not only for himself, but for his posterity; all mankind, descending from him by ordinary generation, sinned in him, and fell with him, in his first transgression."
   },
   {
     "id": "wsc_017",
     "catechism": "westminster_shorter",
     "number": 17,
-    "question_zh": "堕落将人类带入了什么境况？",
+    "question_zh": "始祖堕落将世人陷入什么境况中？",
     "question_en": "Into what estate did the fall bring mankind?",
-    "answer_zh": "堕落将人类带入了罪与愁苦的境况。",
+    "answer_zh": "始祖堕落将世人陷入罪恶和苦境中。",
     "answer_en": "The fall brought mankind into an estate of sin and misery.",
     "proof_texts": [
       "罗马书 5:12",
       "罗马书 3:23"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Into what estate did the fall bring mankind?",
+    "answer": "The fall brought mankind into an estate of sin and misery."
   },
   {
     "id": "wsc_018",
     "catechism": "westminster_shorter",
     "number": 18,
-    "question_zh": "人在罪的境况中的罪性是什么？",
+    "question_zh": "世人堕落陷入罪恶的境况，这罪恶的实质内容是什么？",
     "question_en": "Wherein consists the sinfulness of that estate whereinto man fell?",
-    "answer_zh": "人在罪的境况中的罪性包括：亚当首次犯罪的罪咎、原义的丧失、全人性情的败坏（通常称为原罪），以及由此而来的一切本罪。",
-    "answer_en": "The sinfulness of that estate whereinto man fell consists in the guilt of Adam's first sin, the want of original righteousness, and the corruption of his whole nature, which is commonly called original sin; together with all actual transgressions which proceed from it.",
+    "answer_zh": "（一） 我们要承担亚当初次犯罪所负的罪债；（二） 我们丧失了原有的仁义，整个人性因而败坏，这就是所谓的原罪；（三） 从原罪所犯的一切本罪。",
+    "answer_en": "The sinfulness of that estate whereinto man fell consists in the guilt of Adam’s first sin, the want of original righteousness, and the corruption of his whole nature, which is commonly called original sin; together with all actual transgressions which proceed from it.",
     "proof_texts": [
       "罗马书 5:19",
       "罗马书 3:10",
@@ -284,16 +318,18 @@
       "雅各书 1:14-15"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Wherein consists the sinfulness of that estate whereinto man fell?",
+    "answer": "The sinfulness of that estate whereinto man fell consists in the guilt of Adam’s first sin, the want of original righteousness, and the corruption of his whole nature, which is commonly called original sin; together with all actual transgressions which proceed from it."
   },
   {
     "id": "wsc_019",
     "catechism": "westminster_shorter",
     "number": 19,
-    "question_zh": "人在罪的境况中的愁苦是什么？",
+    "question_zh": "世人因着堕落，陷入怎样的苦境中？",
     "question_en": "What is the misery of that estate whereinto man fell?",
-    "answer_zh": "全人类因为堕落，便失去了与神的相交，处在神的忿怒和咒诅之下，因此就应受今生一切的愁苦、死亡本身，以及地狱永远的痛苦。",
-    "answer_en": "All mankind by their fall lost communion with God, are under His wrath and curse, and so made liable to all miseries in this life, to death itself, and to the pains of hell forever.",
+    "answer_zh": "全人类由于堕落，丧失了与神之间的相交，反落在神的忿怒和咒诅之下，要受今生的一切愁苦悲惨，就是要死亡，并且永远在地狱受苦。",
+    "answer_en": "All mankind by their fall lost communion with God, are under his wrath and curse, and so made liable to all the miseries in this life, to death itself, and to the pains of hell forever.",
     "proof_texts": [
       "创世记 3:8,24",
       "以弗所书 2:3",
@@ -301,32 +337,36 @@
       "马太福音 25:41,46"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is the misery of that estate whereinto man fell?",
+    "answer": "All mankind by their fall lost communion with God, are under his wrath and curse, and so made liable to all the miseries in this life, to death itself, and to the pains of hell forever."
   },
   {
     "id": "wsc_020",
     "catechism": "westminster_shorter",
     "number": 20,
-    "question_zh": "神有没有让全人类在罪与愁苦的境况中灭亡？",
+    "question_zh": "神任凭世人在罪恶和苦境中沉沦吗？",
     "question_en": "Did God leave all mankind to perish in the estate of sin and misery?",
-    "answer_zh": "神既然从永远就拣选了一些人得永生，于是就与他们立了恩典之约，借着一位救赎主救他们脱离罪与愁苦的境况，使他们进入得救的境况。",
-    "answer_en": "God having, out of His mere good pleasure, from all eternity, elected some to everlasting life, did enter into a covenant of grace, to deliver them out of the estate of sin and misery, and to bring them into an estate of salvation by a Redeemer.",
+    "answer_zh": "神在永恒里，按着自己意旨所喜悦的，拣选了一些人得永生，就为他们立下恩典之约，要借着一位救主，救他们脱离罪恶和苦境，而进入蒙拯救的地位。",
+    "answer_en": "God having, out of his mere good pleasure, from all eternity, elected some to everlasting life, did enter into a covenant of grace, to deliver them out of the estate of sin and misery, and to bring them into an estate of salvation by a redeemer.",
     "proof_texts": [
       "以弗所书 1:4-5",
       "创世记 3:15",
       "罗马书 8:29-30"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Did God leave all mankind to perish in the estate of sin and misery?",
+    "answer": "God having, out of his mere good pleasure, from all eternity, elected some to everlasting life, did enter into a covenant of grace, to deliver them out of the estate of sin and misery, and to bring them into an estate of salvation by a redeemer."
   },
   {
     "id": "wsc_021",
     "catechism": "westminster_shorter",
     "number": 21,
-    "question_zh": "神的选民的救赎主是谁？",
-    "question_en": "Who is the Redeemer of God's elect?",
-    "answer_zh": "神的选民的唯一救赎主就是主耶稣基督，祂是神的永恒之子，却成为人，这样就是一个位格中的神人二性，从此直到永远。",
-    "answer_en": "The only Redeemer of God's elect is the Lord Jesus Christ, who, being the eternal Son of God, became man, and so was, and continueth to be, God and man in two distinct natures, and one person, forever.",
+    "question_zh": "谁是神选民的救赎主？",
+    "question_en": "Who is the redeemer of God’s elect?",
+    "answer_zh": "神选民惟一的救赎主就是主耶稣基督。祂从永恒就是神的儿子，但在时候满足时，便降世为人；此后，神人两性虽在同一位格里却清晰可分，并成为一位，直到永远。",
+    "answer_en": "The only redeemer of God’s elect is the Lord Jesus Christ, who, being the eternal Son of God, became man, and so was, and continueth to be, God and man in two distinct natures, and one person, forever.",
     "proof_texts": [
       "提摩太前书 2:5",
       "约翰福音 1:14",
@@ -334,96 +374,108 @@
       "希伯来书 7:24-25"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Who is the redeemer of God’s elect?",
+    "answer": "The only redeemer of God’s elect is the Lord Jesus Christ, who, being the eternal Son of God, became man, and so was, and continueth to be, God and man in two distinct natures, and one person, forever."
   },
   {
     "id": "wsc_022",
     "catechism": "westminster_shorter",
     "number": 22,
-    "question_zh": "基督既是神的儿子，怎样成为人？",
+    "question_zh": "基督既为神的儿子，又是如何成为人的？",
     "question_en": "How did Christ, being the Son of God, become man?",
-    "answer_zh": "基督，神的儿子，取了真实的人体和有理性的灵魂，由童贞女马利亚所生，借着圣灵的大能在她的腹中成孕，但没有罪。",
-    "answer_en": "Christ, the Son of God, became man, by taking to Himself a true body and a reasonable soul, being conceived by the power of the Holy Ghost in the womb of the Virgin Mary, and born of her, yet without sin.",
+    "answer_zh": "神的儿子耶稣基督成为人，乃是取了人真实的身体和有理性的灵魂（reasonable soul），借着圣灵的能力，在童女马利亚的腹中成胎而生，但是没有罪。",
+    "answer_en": "Christ, the Son of God, became man, by taking to himself a true body and a reasonable soul, being conceived by the power of the Holy Ghost in the womb of the virgin Mary, and born of her, yet without sin.",
     "proof_texts": [
       "希伯来书 2:14",
       "路加福音 1:35",
       "希伯来书 4:15"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How did Christ, being the Son of God, become man?",
+    "answer": "Christ, the Son of God, became man, by taking to himself a true body and a reasonable soul, being conceived by the power of the Holy Ghost in the womb of the virgin Mary, and born of her, yet without sin."
   },
   {
     "id": "wsc_023",
     "catechism": "westminster_shorter",
     "number": 23,
-    "question_zh": "基督作为我们的救赎主执行什么职分？",
-    "question_en": "What offices doth Christ execute as our Redeemer?",
-    "answer_zh": "基督作为我们的救赎主执行先知、祭司和君王的职分，在祂降卑和升高的两种状态中都是如此。",
-    "answer_en": "Christ, as our Redeemer, executeth the offices of a prophet, of a priest, and of a king, both in His estate of humiliation and exaltation.",
+    "question_zh": "基督作为我们的救赎主，所要执行的职分是什么？",
+    "question_en": "What offices doth Christ execute as our redeemer?",
+    "answer_zh": "基督作为我们的救赎主，在降卑与升高的境况中执行先知、祭司、君王的职分。",
+    "answer_en": "Christ, as our redeemer, executeth the offices of a prophet, of a priest, and of a king, both in his estate of humiliation and exaltation.",
     "proof_texts": [
       "使徒行传 3:22",
       "希伯来书 5:6",
       "诗篇 2:6"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What offices doth Christ execute as our redeemer?",
+    "answer": "Christ, as our redeemer, executeth the offices of a prophet, of a priest, and of a king, both in his estate of humiliation and exaltation."
   },
   {
     "id": "wsc_024",
     "catechism": "westminster_shorter",
     "number": 24,
-    "question_zh": "基督怎样执行先知的职分？",
+    "question_zh": "基督如何执行先知的职分？",
     "question_en": "How doth Christ execute the office of a prophet?",
-    "answer_zh": "基督执行先知的职分，是借着祂的话语和圣灵，将神的旨意向我们启示出来，使我们得以得救。",
-    "answer_en": "Christ executeth the office of a prophet, in revealing to us, by His Word and Spirit, the will of God for our salvation.",
+    "answer_zh": "基督执行先知的职分，在于用祂的道和圣灵，将神的旨意启示给我们，为要叫我们得救。",
+    "answer_en": "Christ executeth the office of a prophet, in revealing to us, by his word and Spirit, the will of God for our salvation.",
     "proof_texts": [
       "约翰福音 1:18",
       "约翰福音 15:15",
       "约翰福音 14:26"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How doth Christ execute the office of a prophet?",
+    "answer": "Christ executeth the office of a prophet, in revealing to us, by his word and Spirit, the will of God for our salvation."
   },
   {
     "id": "wsc_025",
     "catechism": "westminster_shorter",
     "number": 25,
-    "question_zh": "基督怎样执行祭司的职分？",
+    "question_zh": "基督如何执行祭司的职分？",
     "question_en": "How doth Christ execute the office of a priest?",
-    "answer_zh": "基督执行祭司的职分，是将祂自己一次献上作为祭物，满足了神的公义，使我们与神和好，并为我们不断代求。",
-    "answer_en": "Christ executeth the office of a priest, in His once offering up of Himself a sacrifice to satisfy divine justice, and reconcile us to God, and in making continual intercession for us.",
+    "answer_zh": "基督执行祭司的职分，在于将自己一次献上为祭，以满足人对神公义的亏欠，并使我们与神和好；又持续不断地为我们代求。",
+    "answer_en": "Christ executeth the office of a priest, in his once offering up of himself a sacrifice to satisfy divine justice, and reconcile us to God; and in making continual intercession for us.",
     "proof_texts": [
       "希伯来书 9:28",
       "希伯来书 2:17",
       "希伯来书 7:25"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How doth Christ execute the office of a priest?",
+    "answer": "Christ executeth the office of a priest, in his once offering up of himself a sacrifice to satisfy divine justice, and reconcile us to God; and in making continual intercession for us."
   },
   {
     "id": "wsc_026",
     "catechism": "westminster_shorter",
     "number": 26,
-    "question_zh": "基督怎样执行君王的职分？",
+    "question_zh": "基督如何执行君王的职分？",
     "question_en": "How doth Christ execute the office of a king?",
-    "answer_zh": "基督执行君王的职分，是使我们归服于祂，统管并保护我们，并且制伏、征服祂和我们一切的仇敌。",
-    "answer_en": "Christ executeth the office of a king, in subduing us to Himself, in ruling and defending us, and in restraining and conquering all His and our enemies.",
+    "answer_zh": "基督执行君王的职分，在于使我们降服、归向祂，治理、保护我们；并且克制、征服祂和我们的仇敌。",
+    "answer_en": "Christ executeth the office of a king, in subduing us to himself, in ruling and defending us, and in restraining and conquering all his and our enemies.",
     "proof_texts": [
       "诗篇 110:3",
       "以赛亚书 33:22",
       "哥林多前书 15:25"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How doth Christ execute the office of a king?",
+    "answer": "Christ executeth the office of a king, in subduing us to himself, in ruling and defending us, and in restraining and conquering all his and our enemies."
   },
   {
     "id": "wsc_027",
     "catechism": "westminster_shorter",
     "number": 27,
-    "question_zh": "基督的降卑是什么？",
-    "question_en": "Wherein did Christ's humiliation consist?",
-    "answer_zh": "基督的降卑在于：祂降生，并且降生在卑微的境况中，受律法的管束，忍受今生各样的愁苦、神的忿怒以及十字架上可咒诅的死；又被埋葬，暂处于死亡的权势之下。",
-    "answer_en": "Christ's humiliation consisted in His being born, and that in a low condition, made under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross; in being buried, and continuing under the power of death for a time.",
+    "question_zh": "「基督的降卑」所指为何？",
+    "question_en": "Wherein did Christ’s humiliation consist?",
+    "answer_zh": "基督的降卑在于降生为人，且生在卑微的环境中，又服在律法之下；忍受今生的苦难、神的震怒，和被咒诅的十架死亡；被埋葬，暂时伏于死权之下。",
+    "answer_en": "Christ’s humiliation consisted in his being born, and that in a low condition, made under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross; in being buried, and continuing under the power of death for a time.",
     "proof_texts": [
       "路加福音 2:7",
       "加拉太书 4:4",
@@ -432,16 +484,18 @@
       "使徒行传 2:24,31"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Wherein did Christ’s humiliation consist?",
+    "answer": "Christ’s humiliation consisted in his being born, and that in a low condition, made under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross; in being buried, and continuing under the power of death for a time."
   },
   {
     "id": "wsc_028",
     "catechism": "westminster_shorter",
     "number": 28,
-    "question_zh": "基督的升高是什么？",
-    "question_en": "Wherein consisteth Christ's exaltation?",
-    "answer_zh": "基督的升高在于：祂在第三日从死里复活，升天，坐在父神全能者的右边，并且在末日要再来审判世界。",
-    "answer_en": "Christ's exaltation consisteth in His rising again from the dead on the third day, in ascending up into heaven, in sitting at the right hand of God the Father, and in coming to judge the world at the last day.",
+    "question_zh": "「基督的升高」所指为何？",
+    "question_en": "Wherein consisteth Christ’s exaltation?",
+    "answer_zh": "基督的升高，在于第三日从死里复活，升上高天，坐在父神的右边，并要在末日来审判世界。",
+    "answer_en": "Christ’s exaltation consisteth in his rising again from the dead on the third day, in ascending up into heaven, in sitting at the right hand of God the Father, and in coming to judge the world at the last day.",
     "proof_texts": [
       "哥林多前书 15:4",
       "使徒行传 1:9",
@@ -449,30 +503,34 @@
       "使徒行传 17:31"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Wherein consisteth Christ’s exaltation?",
+    "answer": "Christ’s exaltation consisteth in his rising again from the dead on the third day, in ascending up into heaven, in sitting at the right hand of God the Father, and in coming to judge the world at the last day."
   },
   {
     "id": "wsc_029",
     "catechism": "westminster_shorter",
     "number": 29,
-    "question_zh": "基督所购买的救赎怎样施行在我们身上？",
+    "question_zh": "我们如何才能领受基督所完成的赎罪之恩？",
     "question_en": "How are we made partakers of the redemption purchased by Christ?",
-    "answer_zh": "基督所购买的救赎施行在我们身上，是借着祂的圣灵在我们里面所做的有效之工。",
-    "answer_en": "We are made partakers of the redemption purchased by Christ, by the effectual application of it to us by His Holy Spirit.",
+    "answer_zh": "我们要领受基督所完成的赎罪之恩，必须借着圣灵将这恩有效应用在我们身上。",
+    "answer_en": "We are made partakers of the redemption purchased by Christ, by the effectual application of it to us by his Holy Spirit.",
     "proof_texts": [
       "约翰福音 3:5-6",
       "提多书 3:5-6"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How are we made partakers of the redemption purchased by Christ?",
+    "answer": "We are made partakers of the redemption purchased by Christ, by the effectual application of it to us by his Holy Spirit."
   },
   {
     "id": "wsc_030",
     "catechism": "westminster_shorter",
     "number": 30,
-    "question_zh": "圣灵怎样将基督所购买的救赎施行在我们身上？",
+    "question_zh": "圣灵如何使基督赎罪之恩，有效应用在我们身上？",
     "question_en": "How doth the Spirit apply to us the redemption purchased by Christ?",
-    "answer_zh": "圣灵将基督所购买的救赎施行在我们身上，是借着在我们里面作工使我们产生信心，并借着信心使我们与基督在有效的恩召中联合。",
+    "answer_zh": "圣灵使基督赎罪之恩在我们心里发生效力，乃是借着祂运行在我们里面的信心，又借着祂有效的恩召（effectual calling），使我们与基督联合。",
     "answer_en": "The Spirit applieth to us the redemption purchased by Christ, by working faith in us, and thereby uniting us to Christ in our effectual calling.",
     "proof_texts": [
       "以弗所书 2:8",
@@ -480,16 +538,18 @@
       "哥林多前书 1:9"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How doth the Spirit apply to us the redemption purchased by Christ?",
+    "answer": "The Spirit applieth to us the redemption purchased by Christ, by working faith in us, and thereby uniting us to Christ in our effectual calling."
   },
   {
     "id": "wsc_031",
     "catechism": "westminster_shorter",
     "number": 31,
-    "question_zh": "有效的恩召是什么？",
+    "question_zh": "「有效的恩召」是什么？",
     "question_en": "What is effectual calling?",
-    "answer_zh": "有效的恩召是圣灵的作为，祂使我们觉悟到自己的罪和愁苦，光照我们的心使我们认识基督，更新我们的意志，劝说我们并使我们能够接受在福音中白白提供给我们的耶稣基督。",
-    "answer_en": "Effectual calling is the work of God's Spirit, whereby, convincing us of our sin and misery, enlightening our minds in the knowledge of Christ, and renewing our wills, He doth persuade and enable us to embrace Jesus Christ, freely offered to us in the gospel.",
+    "answer_zh": "有效的恩召是神的灵所完成的工作，使我们觉悟自己的罪恶和苦境，又光照我们的心使我们认识基督，并更新我们的心志；借以劝服我们，叫我们能接受在福音中所白白赐给我们的耶稣基督。",
+    "answer_en": "Effectual calling is the work of God’s Spirit, whereby, convincing us of our sin and misery, enlightening our minds in the knowledge of Christ, and renewing our wills, he doth persuade and enable us to embrace Jesus Christ, freely offered to us in the gospel.",
     "proof_texts": [
       "帖撒罗尼迦后书 2:13-14",
       "使徒行传 26:18",
@@ -497,32 +557,36 @@
       "约翰福音 6:44-45"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is effectual calling?",
+    "answer": "Effectual calling is the work of God’s Spirit, whereby, convincing us of our sin and misery, enlightening our minds in the knowledge of Christ, and renewing our wills, he doth persuade and enable us to embrace Jesus Christ, freely offered to us in the gospel."
   },
   {
     "id": "wsc_032",
     "catechism": "westminster_shorter",
     "number": 32,
-    "question_zh": "蒙有效恩召的人在今生享有哪些益处？",
+    "question_zh": "人蒙了有效的恩召，可以在今世得着什么益处？",
     "question_en": "What benefits do they that are effectually called partake of in this life?",
-    "answer_zh": "蒙有效恩召的人在今生享有的益处是：称义、被收纳为儿女、成圣，以及在今生伴随这些或由此而来的种种益处。",
-    "answer_en": "They that are effectually called do in this life partake of justification, adoption, and sanctification, and the several benefits which in this life do either accompany or flow from them.",
+    "answer_zh": "人蒙了有效的恩召，在今世所得的益处就是称义、得儿子的名分、成圣，并因着这些在今世所带来的一切福乐。",
+    "answer_en": "They that are effectually called do in this life partake of justification, adoption and sanctification, and the several benefits which in this life do either accompany or flow from them.",
     "proof_texts": [
       "罗马书 8:30",
       "以弗所书 1:5",
       "哥林多前书 1:30"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What benefits do they that are effectually called partake of in this life?",
+    "answer": "They that are effectually called do in this life partake of justification, adoption and sanctification, and the several benefits which in this life do either accompany or flow from them."
   },
   {
     "id": "wsc_033",
     "catechism": "westminster_shorter",
     "number": 33,
-    "question_zh": "称义是什么？",
+    "question_zh": "「称义」是什么？",
     "question_en": "What is justification?",
-    "answer_zh": "称义是神白白恩典的作为，神借此赦免我们一切的罪，悦纳我们在祂面前为义人，这只是因为基督的义归算给我们，并且只是借着信心被我们所领受。",
-    "answer_en": "Justification is an act of God's free grace, wherein He pardoneth all our sins, and accepteth us as righteous in His sight, only for the righteousness of Christ imputed to us, and received by faith alone.",
+    "answer_zh": "「称义」是我们从神白白领受恩典的动作，神借此赦免我们一切的罪恶，接纳我们在祂面前为义人；这都因为祂将基督的义算为我们的义，而我们只是凭信心接受而已。",
+    "answer_en": "Justification is an act of God’s free grace, wherein he pardoneth all our sins, and accepteth us as righteous in his sight, only for the righteousness of Christ imputed to us, and received by faith alone.",
     "proof_texts": [
       "罗马书 3:24-25",
       "哥林多后书 5:21",
@@ -530,32 +594,36 @@
       "加拉太书 2:16"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is justification?",
+    "answer": "Justification is an act of God’s free grace, wherein he pardoneth all our sins, and accepteth us as righteous in his sight, only for the righteousness of Christ imputed to us, and received by faith alone."
   },
   {
     "id": "wsc_034",
     "catechism": "westminster_shorter",
     "number": 34,
-    "question_zh": "被收纳为儿女是什么？",
+    "question_zh": "「得儿子的名分」是什么？",
     "question_en": "What is adoption?",
-    "answer_zh": "被收纳为儿女是神白白恩典的作为，借此我们被接纳到神儿女的行列中，有权享有神儿女的一切特权。",
-    "answer_en": "Adoption is an act of God's free grace, whereby we are received into the number, and have a right to all the privileges, of the sons of God.",
+    "answer_zh": "「得儿子的名分」是我们从神白白领受恩典的作为，我们因此被收纳算为神众子的一员，有权享受神众子一切的特权。",
+    "answer_en": "Adoption is an act of God’s free grace, whereby we are received into the number, and have a right to all the privileges of, the sons of God.",
     "proof_texts": [
       "约翰壹书 3:1",
       "约翰福音 1:12",
       "罗马书 8:17"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is adoption?",
+    "answer": "Adoption is an act of God’s free grace, whereby we are received into the number, and have a right to all the privileges of, the sons of God."
   },
   {
     "id": "wsc_035",
     "catechism": "westminster_shorter",
     "number": 35,
-    "question_zh": "成圣是什么？",
+    "question_zh": "「成圣」是什么？",
     "question_en": "What is sanctification?",
-    "answer_zh": "成圣是神白白恩典的作工，借此我们的全人按着神的形像逐渐更新，越来越能向罪死、向义活。",
-    "answer_en": "Sanctification is the work of God's free grace, whereby we are renewed in the whole man after the image of God, and are enabled more and more to die unto sin, and live unto righteousness.",
+    "answer_zh": "「成圣」是我们从神白白领受恩典的工作，祂按自己的形像，更新我们的全人，使我们愈来愈能向罪死，并向义而活。",
+    "answer_en": "Sanctification is the work of God’s free grace, whereby we are renewed in the whole man after the image of God, and are enabled more and more to die unto sin, and live unto righteousness.",
     "proof_texts": [
       "帖撒罗尼迦前书 5:23",
       "以弗所书 4:23-24",
@@ -563,16 +631,18 @@
       "罗马书 8:1"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is sanctification?",
+    "answer": "Sanctification is the work of God’s free grace, whereby we are renewed in the whole man after the image of God, and are enabled more and more to die unto sin, and live unto righteousness."
   },
   {
     "id": "wsc_036",
     "catechism": "westminster_shorter",
     "number": 36,
-    "question_zh": "在今生伴随称义、被收纳为儿女和成圣，或由此而来的益处是什么？",
-    "question_en": "What are the benefits which in this life do accompany or flow from justification, adoption, and sanctification?",
-    "answer_zh": "在今生伴随称义、被收纳为儿女和成圣，或由此而来的益处，就是：确信神的爱、良心的平安、在圣灵里的喜乐、恩典的增长，以及在恩典中至终蒙保守。",
-    "answer_en": "The benefits which in this life do accompany or flow from justification, adoption, and sanctification, are assurance of God's love, peace of conscience, joy in the Holy Ghost, increase of grace, and perseverance therein to the end.",
+    "question_zh": "称义、得儿子的名分与成圣，在今生所带给我们的福乐是什么？",
+    "question_en": "What are the benefits which in this life do accompany or flow from justification, adoption and sanctification?",
+    "answer_zh": "称义、得儿子的名分与成圣，在今生所带给我们的福乐，就是确知神的慈爱、得良心的平安、在圣灵中的喜乐、在恩典上长进，并持守（persevere）在恩典中。",
+    "answer_en": "The benefits which in this life do accompany or flow from justification, adoption and sanctification, are, assurance of God’s love, peace of conscience, joy in the Holy Ghost, increase of grace, and perseverance therein to the end.",
     "proof_texts": [
       "罗马书 5:5",
       "罗马书 5:1",
@@ -581,15 +651,17 @@
       "腓立比书 1:6"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What are the benefits which in this life do accompany or flow from justification, adoption and sanctification?",
+    "answer": "The benefits which in this life do accompany or flow from justification, adoption and sanctification, are, assurance of God’s love, peace of conscience, joy in the Holy Ghost, increase of grace, and perseverance therein to the end."
   },
   {
     "id": "wsc_037",
     "catechism": "westminster_shorter",
     "number": 37,
-    "question_zh": "信徒在死的时候从基督领受什么益处？",
+    "question_zh": "信徒离世的时候，从基督得着什么益处？",
     "question_en": "What benefits do believers receive from Christ at death?",
-    "answer_zh": "信徒的灵魂在死的时候就得以完全成圣，立即进入荣耀；他们的身体仍然与基督联合，安息在坟墓中，等候复活。",
+    "answer_zh": "信徒离世时，灵魂就得以完全圣洁，立刻进入荣耀里；他们的身体则等待与基督联合，所以暂时在坟墓里安然歇息，直等到复活的时候。",
     "answer_en": "The souls of believers are at their death made perfect in holiness, and do immediately pass into glory; and their bodies, being still united to Christ, do rest in their graves till the resurrection.",
     "proof_texts": [
       "希伯来书 12:23",
@@ -598,15 +670,17 @@
       "帖撒罗尼迦前书 4:14"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What benefits do believers receive from Christ at death?",
+    "answer": "The souls of believers are at their death made perfect in holiness, and do immediately pass into glory; and their bodies, being still united to Christ, do rest in their graves till the resurrection."
   },
   {
     "id": "wsc_038",
     "catechism": "westminster_shorter",
     "number": 38,
-    "question_zh": "信徒在复活的时候从基督领受什么益处？",
+    "question_zh": "在复活的时候，信徒又从基督得着什么益处？",
     "question_en": "What benefits do believers receive from Christ at the resurrection?",
-    "answer_zh": "在复活的时候，信徒在荣耀中复活，在审判的日子被公开承认并得到无罪开释，得以在灵魂和身体上完全享受神至终的福乐，直到永远。",
+    "answer_zh": "在复活的时候，信徒要在荣耀中复活。并在审判的日子，在众人面前被主承认；又被断定无罪，全然蒙福，以神为乐，直到永远。",
     "answer_en": "At the resurrection, believers, being raised up in glory, shall be openly acknowledged and acquitted in the day of judgment, and made perfectly blessed in the full enjoying of God to all eternity.",
     "proof_texts": [
       "哥林多前书 15:43",
@@ -614,464 +688,526 @@
       "帖撒罗尼迦前书 4:17"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What benefits do believers receive from Christ at the resurrection?",
+    "answer": "At the resurrection, believers, being raised up in glory, shall be openly acknowledged and acquitted in the day of judgment, and made perfectly blessed in the full enjoying of God to all eternity."
   },
   {
     "id": "wsc_039",
     "catechism": "westminster_shorter",
     "number": 39,
-    "question_zh": "神要求人当尽什么责任？",
+    "question_zh": "神要人尽什么本分？",
     "question_en": "What is the duty which God requireth of man?",
-    "answer_zh": "神要求人当尽的责任，就是顺服祂所启示的旨意。",
-    "answer_en": "The duty which God requireth of man is obedience to His revealed will.",
+    "answer_zh": "神所要人尽的本分，就是顺服祂所启示的旨意。",
+    "answer_en": "The duty which God requireth of man is obedience to his revealed will.",
     "proof_texts": [
       "弥迦书 6:8",
       "撒母耳记上 15:22",
       "申命记 29:29"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is the duty which God requireth of man?",
+    "answer": "The duty which God requireth of man is obedience to his revealed will."
   },
   {
     "id": "wsc_040",
     "catechism": "westminster_shorter",
     "number": 40,
-    "question_zh": "神最初向人启示的、作为顺服准则的是什么？",
+    "question_zh": "神起初向人启示了什么法则，好使人能以顺服？",
     "question_en": "What did God at first reveal to man for the rule of his obedience?",
-    "answer_zh": "神最初向人启示的、作为顺服准则的，就是道德律。",
+    "answer_zh": "神起初向人启示了道德律，作为顺服的法则。",
     "answer_en": "The rule which God at first revealed to man for his obedience was the moral law.",
     "proof_texts": [
       "罗马书 2:14-15",
       "罗马书 10:5"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What did God at first reveal to man for the rule of his obedience?",
+    "answer": "The rule which God at first revealed to man for his obedience was the moral law."
   },
   {
     "id": "wsc_041",
     "catechism": "westminster_shorter",
     "number": 41,
-    "question_zh": "道德律在哪里有概括性的总结？",
+    "question_zh": "神所赐的道德律，可以总括在什么里面？",
     "question_en": "Where is the moral law summarily comprehended?",
-    "answer_zh": "道德律概括性地总结在十条诫命中。",
-    "answer_en": "The moral law is summarily comprehended in the Ten Commandments.",
+    "answer_zh": "道德律总括在十诫里面。",
+    "answer_en": "The moral law is summarily comprehended in the ten commandments.",
     "proof_texts": [
       "申命记 10:4",
       "马太福音 19:17-19"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Where is the moral law summarily comprehended?",
+    "answer": "The moral law is summarily comprehended in the ten commandments."
   },
   {
     "id": "wsc_042",
     "catechism": "westminster_shorter",
     "number": 42,
-    "question_zh": "十条诫命的总纲是什么？",
-    "question_en": "What is the sum of the Ten Commandments?",
-    "answer_zh": "十条诫命的总纲就是：要尽心、尽性、尽意、尽力爱主我们的神，又要爱邻舍如同自己。",
-    "answer_en": "The sum of the Ten Commandments is to love the Lord our God with all our heart, with all our soul, with all our strength, and with all our mind; and our neighbor as ourselves.",
+    "question_zh": "十诫的总纲是什么？",
+    "question_en": "What is the sum of the ten commandments?",
+    "answer_zh": "十诫的总纲就是：要尽心、尽性、尽意、尽力爱主──我们的神，并且爱邻舍如己。",
+    "answer_en": "The sum of the ten commandments is to love the Lord our God with all our heart, with all our soul, with all our strength, and with all our mind; and our neighbor as ourselves.",
     "proof_texts": [
       "马太福音 22:37-40",
       "路加福音 10:27"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is the sum of the ten commandments?",
+    "answer": "The sum of the ten commandments is to love the Lord our God with all our heart, with all our soul, with all our strength, and with all our mind; and our neighbor as ourselves."
   },
   {
     "id": "wsc_043",
     "catechism": "westminster_shorter",
     "number": 43,
-    "question_zh": "十诫的序言是什么？",
-    "question_en": "What is the preface to the Ten Commandments?",
-    "answer_zh": "十诫的序言是：「我是耶和华你的神，曾将你从埃及地为奴之家领出来。」",
-    "answer_en": "The preface to the Ten Commandments is in these words, 'I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.'",
+    "question_zh": "十诫的序言说什么？",
+    "question_en": "What is the preface to the ten commandments?",
+    "answer_zh": "十诫的序言说：「我是耶和华──你的神，曾将你从埃及地为奴之家领出来。」",
+    "answer_en": "The preface to the ten commandments is in these words, I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage .",
     "proof_texts": [
       "出埃及记 20:2"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is the preface to the ten commandments?",
+    "answer": "The preface to the ten commandments is in these words, I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
   },
   {
     "id": "wsc_044",
     "catechism": "westminster_shorter",
     "number": 44,
-    "question_zh": "十诫的序言教导我们什么？",
-    "question_en": "What doth the preface to the Ten Commandments teach us?",
-    "answer_zh": "十诫的序言教导我们：因为神是主，是我们的神和救赎主，所以我们有责任遵守祂一切的诫命。",
-    "answer_en": "The preface to the Ten Commandments teacheth us that because God is the Lord, and our God, and Redeemer, therefore we are bound to keep all His commandments.",
+    "question_zh": "十诫的序言教导我们什么事？",
+    "question_en": "What doth the preface to the ten commandments teach us?",
+    "answer_zh": "十诫的序言教导我们：因为耶和华是主、是我们的神，又是我们的救赎主，所以我们应当遵守祂一切的诫命。",
+    "answer_en": "The preface to the ten commandments teacheth us that because God is the Lord, and our God, and redeemer, therefore we are bound to keep all his commandments.",
     "proof_texts": [
       "路加福音 1:74-75",
       "彼得前书 1:15-18"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What doth the preface to the ten commandments teach us?",
+    "answer": "The preface to the ten commandments teacheth us that because God is the Lord, and our God, and redeemer, therefore we are bound to keep all his commandments."
   },
   {
     "id": "wsc_045",
     "catechism": "westminster_shorter",
     "number": 45,
-    "question_zh": "第一条诫命是什么？",
+    "question_zh": "第一诫是什么？",
     "question_en": "Which is the first commandment?",
-    "answer_zh": "第一条诫命是：「除了我以外，你不可有别的神。」",
-    "answer_en": "The first commandment is, 'Thou shalt have no other gods before Me.'",
+    "answer_zh": "第一诫是：除了我以外，你不可有别的神（出廿3）。",
+    "answer_en": "The first commandment is, Thou shalt have no other gods before me .",
     "proof_texts": [
       "出埃及记 20:3"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Which is the first commandment?",
+    "answer": "The first commandment is, Thou shalt have no other gods before me."
   },
   {
     "id": "wsc_046",
     "catechism": "westminster_shorter",
     "number": 46,
-    "question_zh": "第一条诫命要求什么？",
+    "question_zh": "第一诫吩咐我们做什么？",
     "question_en": "What is required in the first commandment?",
-    "answer_zh": "第一条诫命要求我们认识并承认神是独一的真神，是我们的神，并且照着这个去敬拜祂、荣耀祂。",
-    "answer_en": "The first commandment requireth us to know and acknowledge God to be the only true God, and our God; and to worship and glorify Him accordingly.",
+    "answer_zh": "第一诫吩咐我们要认识神，并且承认祂是独一的真神，又是我们的神，因此我们当敬拜、荣耀祂。",
+    "answer_en": "The first commandment requireth us to know and acknowledge God to be the only true God, and our God; and to worship and glorify him accordingly.",
     "proof_texts": [
       "历代志上 28:9",
       "申命记 26:17",
       "马太福音 4:10"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is required in the first commandment?",
+    "answer": "The first commandment requireth us to know and acknowledge God to be the only true God, and our God; and to worship and glorify him accordingly."
   },
   {
     "id": "wsc_047",
     "catechism": "westminster_shorter",
     "number": 47,
-    "question_zh": "第一条诫命禁止什么？",
+    "question_zh": "第一诫禁止我们做什么？",
     "question_en": "What is forbidden in the first commandment?",
-    "answer_zh": "第一条诫命禁止否认神、不以祂为真神和我们的神、不敬拜荣耀祂为真神和我们的神，以及将只应归给祂的敬拜和荣耀归给其他任何事物。",
-    "answer_en": "The first commandment forbiddeth the denying, or not worshipping and glorifying, the true God as God, and our God; and the giving of that worship and glory to any other which is due to Him alone.",
+    "answer_zh": "第一诫禁止我们（一） 否认真神，或不将祂当作神、当作我们的神来敬拜、荣耀祂；（二） 禁止我们将那只当归与神的敬拜和荣耀归给其他任何受造之物。",
+    "answer_en": "The first commandment forbiddeth the denying, or not worshiping and glorifying the true God as God, and our God; and the giving of that worship and glory to any other, which is due to him alone.",
     "proof_texts": [
       "诗篇 14:1",
       "罗马书 1:20-21,25"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is forbidden in the first commandment?",
+    "answer": "The first commandment forbiddeth the denying, or not worshiping and glorifying the true God as God, and our God; and the giving of that worship and glory to any other, which is due to him alone."
   },
   {
     "id": "wsc_048",
     "catechism": "westminster_shorter",
     "number": 48,
-    "question_zh": "第一条诫命中「在我面前」特别教导我们什么？",
-    "question_en": "What are we specially taught by these words, 'before Me,' in the first commandment?",
-    "answer_zh": "第一条诫命中「在我面前」这句话特别教导我们：神鉴察万事，祂对有别神的罪感到极大的不悦。",
-    "answer_en": "These words, 'before Me,' in the first commandment teach us that God, who seeth all things, taketh notice of, and is much displeased with, the sin of having any other god.",
+    "question_zh": "第一诫中的「在我面前」，这句话所要教导我们的是什么？",
+    "question_en": "What are we specially taught by these words before me in the first commandment?",
+    "answer_zh": "第一诫中的「在我面前」意思是：那鉴察万物的神，祂留心观看世人，并且十分憎恶人敬拜别神的罪。",
+    "answer_en": "These words before me in the first commandment teach us that God, who seeth all things, taketh notice of, and is much displeased with, the sin of having any other god.",
     "proof_texts": [
       "以西结书 8:5-6",
       "诗篇 44:20-21"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What are we specially taught by these words before me in the first commandment?",
+    "answer": "These words before me in the first commandment teach us that God, who seeth all things, taketh notice of, and is much displeased with, the sin of having any other god."
   },
   {
     "id": "wsc_049",
     "catechism": "westminster_shorter",
     "number": 49,
-    "question_zh": "第二条诫命是什么？",
+    "question_zh": "第二诫是什么？",
     "question_en": "Which is the second commandment?",
-    "answer_zh": "第二条诫命是：「不可为自己雕刻偶像，也不可做什么形像仿佛上天、下地和地底下、水中的百物。不可跪拜那些像，也不可侍奉它们。因为我耶和华你的神是忌邪的神。恨我的，我必追讨他的罪，自父及子，直到三四代。爱我、守我诫命的，我必向他们发慈爱直到千代。」",
-    "answer_en": "The second commandment is, 'Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. Thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate Me; and showing mercy unto thousands of them that love Me, and keep My commandments.'",
+    "answer_zh": "第二诫是：「不可为自己雕刻偶像，也不可做什么形像，彷彿上天、下地和地底下、水中的百物。不可跪拜那些像，也不可事奉它，因为我耶和华──你的神是忌邪的神。恨我的，我必追讨他的罪，自父及子，直到三四代；爱我、守我诫命的，我必向他们发慈爱，直到千代」（出廿4-6）。",
+    "answer_en": "The second commandment is, Thou shalt not make unto thee any graven image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto thousands of them that love me, and keep my commandments .",
     "proof_texts": [
       "出埃及记 20:4-6"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Which is the second commandment?",
+    "answer": "The second commandment is, Thou shalt not make unto thee any graven image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto thousands of them that love me, and keep my commandments."
   },
   {
     "id": "wsc_050",
     "catechism": "westminster_shorter",
     "number": 50,
-    "question_zh": "第二条诫命要求什么？",
+    "question_zh": "第二诫吩咐我们做什么？",
     "question_en": "What is required in the second commandment?",
-    "answer_zh": "第二条诫命要求我们领受、遵守并保全神所设立的一切宗教敬拜和典章，使之纯净完备。",
-    "answer_en": "The second commandment requireth the receiving, observing, and keeping pure and entire, all such religious worship and ordinances as God hath appointed in His Word.",
+    "answer_zh": "第二诫吩咐我们要领受、遵从神在圣经中所规定一切有关崇拜的规则，并保守其纯全与完整。",
+    "answer_en": "The second commandment requireth the receiving, observing, and keeping pure and entire, all such religious worship and ordinances as God hath appointed in his word.",
     "proof_texts": [
       "申命记 12:32",
       "马太福音 28:20",
       "使徒行传 2:42"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is required in the second commandment?",
+    "answer": "The second commandment requireth the receiving, observing, and keeping pure and entire, all such religious worship and ordinances as God hath appointed in his word."
   },
   {
     "id": "wsc_051",
     "catechism": "westminster_shorter",
     "number": 51,
-    "question_zh": "第二条诫命禁止什么？",
+    "question_zh": "第二诫禁止我们做什么？",
     "question_en": "What is forbidden in the second commandment?",
-    "answer_zh": "第二条诫命禁止以偶像来敬拜神，或以任何不是神话语中所设立的方式来敬拜祂。",
-    "answer_en": "The second commandment forbiddeth the worshipping of God by images, or any other way not appointed in His Word.",
+    "answer_zh": "第二诫禁止我们用任何图像、样式来敬拜神，或用圣经所未规定的任何方式敬拜祂。",
+    "answer_en": "The second commandment forbiddeth the worshiping of God by images, or any other way not appointed in his word.",
     "proof_texts": [
       "申命记 4:15-19",
       "歌罗西书 2:23"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is forbidden in the second commandment?",
+    "answer": "The second commandment forbiddeth the worshiping of God by images, or any other way not appointed in his word."
   },
   {
     "id": "wsc_052",
     "catechism": "westminster_shorter",
     "number": 52,
-    "question_zh": "附加在第二条诫命上的理由是什么？",
+    "question_zh": "第二诫告诉我们什么理由，使我们遵守这诫？",
     "question_en": "What are the reasons annexed to the second commandment?",
-    "answer_zh": "附加在第二条诫命上的理由是：神对我们的主权、祂对我们的所有权，以及祂对自己的敬拜所怀的热心。",
-    "answer_en": "The reasons annexed to the second commandment are God's sovereignty over us, His propriety in us, and the zeal He hath to His own worship.",
+    "answer_zh": "我们当守第二诫，因为「我耶和华──你的神是忌邪的神」，所以惟独神在我们身上有主权──我们是祂的子民、祂的产业；并且神切切要我们专心敬拜祂。",
+    "answer_en": "The reasons annexed to the second commandment are, God’s sovereignty over us, his propriety in us, and the zeal he hath to his own worship.",
     "proof_texts": [
       "诗篇 95:2-3,6-7",
       "出埃及记 34:14"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What are the reasons annexed to the second commandment?",
+    "answer": "The reasons annexed to the second commandment are, God’s sovereignty over us, his propriety in us, and the zeal he hath to his own worship."
   },
   {
     "id": "wsc_053",
     "catechism": "westminster_shorter",
     "number": 53,
-    "question_zh": "第三条诫命是什么？",
+    "question_zh": "第三诫是什么？",
     "question_en": "Which is the third commandment?",
-    "answer_zh": "第三条诫命是：「不可妄称耶和华你神的名；因为妄称耶和华名的，耶和华必不以他为无罪。」",
-    "answer_en": "The third commandment is, 'Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh His name in vain.'",
+    "answer_zh": "第三诫是：「不可妄称耶和华──你神的名；因为妄称耶和华名的，耶和华必不以他为无罪」（出廿7）。",
+    "answer_en": "The third commandment is, Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh his name in vain .",
     "proof_texts": [
       "出埃及记 20:7"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Which is the third commandment?",
+    "answer": "The third commandment is, Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh his name in vain."
   },
   {
     "id": "wsc_054",
     "catechism": "westminster_shorter",
     "number": 54,
-    "question_zh": "第三条诫命要求什么？",
+    "question_zh": "第三诫吩咐我们做什么？",
     "question_en": "What is required in the third commandment?",
-    "answer_zh": "第三条诫命要求我们圣洁而恭敬地使用神的名号、称谓、属性、典章、话语和作为。",
-    "answer_en": "The third commandment requireth the holy and reverent use of God's names, titles, attributes, ordinances, Word, and works.",
+    "answer_zh": "第三诫吩咐我们当存圣洁、敬畏的心使用神一切的名字、称号、属性、法则、圣经的话，和祂一切的作为、工作。",
+    "answer_en": "The third commandment requireth the holy and reverent use of God’s names, titles, attributes, ordinances, word and works.",
     "proof_texts": [
       "诗篇 29:2",
       "启示录 15:3-4",
       "传道书 5:1"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is required in the third commandment?",
+    "answer": "The third commandment requireth the holy and reverent use of God’s names, titles, attributes, ordinances, word and works."
   },
   {
     "id": "wsc_055",
     "catechism": "westminster_shorter",
     "number": 55,
-    "question_zh": "第三条诫命禁止什么？",
+    "question_zh": "第三诫禁止我们做什么？",
     "question_en": "What is forbidden in the third commandment?",
-    "answer_zh": "第三条诫命禁止亵渎或滥用任何神用来彰显祂自己的事物。",
-    "answer_en": "The third commandment forbiddeth all profaning or abusing of anything whereby God maketh Himself known.",
+    "answer_zh": "第三诫禁止我们亵渎、妄用神借以彰显祂自己的任何事物。",
+    "answer_en": "The third commandment forbiddeth all profaning or abusing of anything whereby God maketh himself known.",
     "proof_texts": [
       "玛拉基书 1:6-7,12",
       "利未记 19:12"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is forbidden in the third commandment?",
+    "answer": "The third commandment forbiddeth all profaning or abusing of anything whereby God maketh himself known."
   },
   {
     "id": "wsc_056",
     "catechism": "westminster_shorter",
     "number": 56,
-    "question_zh": "附加在第三条诫命上的理由是什么？",
+    "question_zh": "第三诫告诉我们什么理由，使我们遵守这诫？",
     "question_en": "What is the reason annexed to the third commandment?",
-    "answer_zh": "附加在第三条诫命上的理由是：违犯这条诫命的人，虽然可以逃脱人的审判，但绝不能逃脱主我们神的公义审判。",
-    "answer_en": "The reason annexed to the third commandment is that however the breakers of this commandment may escape punishment from men, yet the Lord our God will not suffer them to escape His righteous judgment.",
+    "answer_zh": "我们当守第三诫，因为这诫告诉我们：凡干犯它的人，虽能逃避人的刑罚，但主我们的神决不容他逃脱神公义的审判。",
+    "answer_en": "The reason annexed to the third commandment is that however the breakers of this commandment may escape punishment from men, yet the Lord our God will not suffer them to escape his righteous judgment.",
     "proof_texts": [
       "申命记 28:58-59",
       "撒母耳记上 3:13"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is the reason annexed to the third commandment?",
+    "answer": "The reason annexed to the third commandment is that however the breakers of this commandment may escape punishment from men, yet the Lord our God will not suffer them to escape his righteous judgment."
   },
   {
     "id": "wsc_057",
     "catechism": "westminster_shorter",
     "number": 57,
-    "question_zh": "第四条诫命是什么？",
+    "question_zh": "第四诫是什么？",
     "question_en": "Which is the fourth commandment?",
-    "answer_zh": "第四条诫命是：「当记念安息日，守为圣日。六日要劳碌做你一切的工，但第七日是向耶和华你神当守的安息日。这一日你和你的儿女、仆婢、牲畜，并你城里寄居的客旅，无论何工都不可做。因为六日之内，耶和华造天、地、海和其中的万物，第七日便安息了。所以耶和华赐福与安息日，定为圣日。」",
-    "answer_en": "The fourth commandment is, 'Remember the Sabbath day, to keep it holy. Six days shalt thou labor, and do all thy work: but the seventh day is the Sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates: for in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the Sabbath day, and hallowed it.'",
+    "answer_zh": "第四诫是：「当记念安息日，守为圣日。六日要劳碌做你一切的工，但第七日是向耶和华──你神当守的安息日。这一日你和你的儿女、仆婢、牲畜和你城里寄居的客旅，无论何工都不可做；因为六日之内，耶和华造天、地、海，和其中的万物，第七日便安息，所以耶和华赐福与安息日，定为圣日」（出廿8-11）。",
+    "answer_en": "The fourth commandment is, Remember the sabbath day, to keep it holy. Six days shalt thou labor, and do all thy work: but the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates: for in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the sabbath day, and hallowed it .",
     "proof_texts": [
       "出埃及记 20:8-11"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Which is the fourth commandment?",
+    "answer": "The fourth commandment is, Remember the sabbath day, to keep it holy. Six days shalt thou labor, and do all thy work: but the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates: for in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the sabbath day, and hallowed it."
   },
   {
     "id": "wsc_058",
     "catechism": "westminster_shorter",
     "number": 58,
-    "question_zh": "第四条诫命要求什么？",
+    "question_zh": "第四诫吩咐我们做什么？",
     "question_en": "What is required in the fourth commandment?",
-    "answer_zh": "第四条诫命要求我们将神话语中所定的一整天守为祂的圣安息日。",
-    "answer_en": "The fourth commandment requireth the keeping holy to God such set times as He hath appointed in His Word; expressly one whole day in seven, to be a holy Sabbath to Himself.",
+    "answer_zh": "第四诫吩咐我们，要将神在圣经中所规定的时日都向祂守为圣。特别是七日中要有一个整天向祂守为圣安息日。",
+    "answer_en": "The fourth commandment requireth the keeping holy to God such set times as he hath appointed in his word; expressly one whole day in seven, to be a holy sabbath to himself.",
     "proof_texts": [
       "出埃及记 31:13,16-17",
       "利未记 19:30"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is required in the fourth commandment?",
+    "answer": "The fourth commandment requireth the keeping holy to God such set times as he hath appointed in his word; expressly one whole day in seven, to be a holy sabbath to himself."
   },
   {
     "id": "wsc_059",
     "catechism": "westminster_shorter",
     "number": 59,
-    "question_zh": "在神所指定的七天之中，哪一天是基督徒的安息日？",
-    "question_en": "Which day of the seven hath God appointed to be the weekly Sabbath?",
-    "answer_zh": "从基督复活起，基督徒的安息日是每周的第一天，就是主日，并且要持续到世界的末了。这就是基督徒的安息日。",
-    "answer_en": "From the beginning of the world to the resurrection of Christ, God appointed the seventh day of the week to be the weekly Sabbath; and the first day of the week, ever since, to continue to the end of the world, which is the Christian Sabbath.",
+    "question_zh": "神指定七日的哪一日为安息日？",
+    "question_en": "Which day of the seven hath God appointed to be the weekly sabbath?",
+    "answer_zh": "从世界的起头直到基督复活之前，神是规定七日的第七日为安息日；基督复活之后，神就规定七日的头一日为基督徒的安息日，直到世界的末了。",
+    "answer_en": "From the beginning of the world to the resurrection of Christ, God appointed the seventh day of the week to be the weekly sabbath; and the first day of the week ever since, to continue to the end of the world, which is the Christian sabbath.",
     "proof_texts": [
       "使徒行传 20:7",
       "哥林多前书 16:1-2",
       "启示录 1:10"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Which day of the seven hath God appointed to be the weekly sabbath?",
+    "answer": "From the beginning of the world to the resurrection of Christ, God appointed the seventh day of the week to be the weekly sabbath; and the first day of the week ever since, to continue to the end of the world, which is the Christian sabbath."
   },
   {
     "id": "wsc_060",
     "catechism": "westminster_shorter",
     "number": 60,
-    "question_zh": "安息日当怎样守为圣日？",
-    "question_en": "How is the Sabbath to be sanctified?",
-    "answer_zh": "安息日当如此守为圣日：整日圣洁地安息，即停止世俗的工作和娱乐（即使在其他日子是合法的）；将全部时间花在公共和个人的敬拜神的事上，除了必须做的事和行怜悯的事以外。",
-    "answer_en": "The Sabbath is to be sanctified by a holy resting all that day, even from such worldly employments and recreations as are lawful on other days; and spending the whole time in the public and private exercises of God's worship, except so much as is to be taken up in the works of necessity and mercy.",
+    "question_zh": "当如何守安息日为圣？",
+    "question_en": "How is the sabbath to be sanctified?",
+    "answer_zh": "守安息日为圣，当在那一整天中有合乎圣洁的休息，连平日正当的世事和娱乐也不可做；除了必要的和怜悯人的事外，那一天所有的时间都当与众人或个人私下敬拜神。",
+    "answer_en": "The sabbath is to be sanctified by a holy resting all that day, even from such worldly employments and recreations as are lawful on other days; and spending the whole time in the public and private exercises of God’s worship, except so much as is to be taken up in the works of necessity and mercy.",
     "proof_texts": [
       "以赛亚书 58:13-14",
       "马太福音 12:11-12"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How is the sabbath to be sanctified?",
+    "answer": "The sabbath is to be sanctified by a holy resting all that day, even from such worldly employments and recreations as are lawful on other days; and spending the whole time in the public and private exercises of God’s worship, except so much as is to be taken up in the works of necessity and mercy."
   },
   {
     "id": "wsc_061",
     "catechism": "westminster_shorter",
     "number": 61,
-    "question_zh": "第四条诫命禁止什么？",
+    "question_zh": "第四诫禁止我们做什么？",
     "question_en": "What is forbidden in the fourth commandment?",
-    "answer_zh": "第四条诫命禁止疏忽或不尽该尽的本分，以及因无所事事、做本身有罪的事，或不必要的工作和娱乐而亵渎这一天。",
-    "answer_en": "The fourth commandment forbiddeth the omission or careless performance of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words, or works, about our worldly employments or recreations.",
+    "answer_zh": "第四诫禁止我们推卸或忽略安息日所当尽的本分，也禁止以閒懒妄用这日，或行那本来为罪的事；更禁止我们思想、谈论和从事一切不必要的俗务和娱乐，以免亵渎这日。",
+    "answer_en": "The fourth commandment forbiddeth the omission or careless performance of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words or works, about our worldly employments or recreations.",
     "proof_texts": [
       "以西结书 22:26",
       "阿摩司书 8:5",
       "以赛亚书 58:13"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is forbidden in the fourth commandment?",
+    "answer": "The fourth commandment forbiddeth the omission or careless performance of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words or works, about our worldly employments or recreations."
   },
   {
     "id": "wsc_062",
     "catechism": "westminster_shorter",
     "number": 62,
-    "question_zh": "附加在第四条诫命上的理由是什么？",
+    "question_zh": "第四诫附加什么理由要我们守安息日？",
     "question_en": "What are the reasons annexed to the fourth commandment?",
-    "answer_zh": "附加在第四条诫命上的理由是：神容许我们使用六天从事我们自己合法的事务，祂要求第七天归祂为圣，祂自己给了我们榜样，并且祝福了安息日。",
-    "answer_en": "The reasons annexed to the fourth commandment are God's allowing us six days of the week for our own employments, His challenging a special propriety in the seventh, His own example, and His blessing the Sabbath day.",
+    "answer_zh": "我们当守安息日，因为神吩咐我们六日内要劳碌做自己一切的工作；但祂要我们特别尊重第七日，作为祂的日子，祂也给我们作榜样，并赐福与安息日。",
+    "answer_en": "The reasons annexed to the fourth commandment are, God’s allowing us six days of the week for our own employments, his challenging a special propriety in the seventh, his own example, and his blessing the sabbath day.",
     "proof_texts": [
       "出埃及记 20:9-11"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What are the reasons annexed to the fourth commandment?",
+    "answer": "The reasons annexed to the fourth commandment are, God’s allowing us six days of the week for our own employments, his challenging a special propriety in the seventh, his own example, and his blessing the sabbath day."
   },
   {
     "id": "wsc_063",
     "catechism": "westminster_shorter",
     "number": 63,
-    "question_zh": "第五条诫命是什么？",
+    "question_zh": "第五诫是什么？",
     "question_en": "Which is the fifth commandment?",
-    "answer_zh": "第五条诫命是：「当孝敬父母，使你的日子在耶和华你神所赐你的地上得以长久。」",
-    "answer_en": "The fifth commandment is, 'Honor thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee.'",
+    "answer_zh": "第五诫是：「当孝敬父母，使你的日子在耶和华──你神所赐你的地上，得以长久」（出廿12）。",
+    "answer_en": "The fifth commandment is, Honor thy father and thy mother; that thy days may be long upon the land which the Lord thy God giveth thee .",
     "proof_texts": [
       "出埃及记 20:12"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Which is the fifth commandment?",
+    "answer": "The fifth commandment is, Honor thy father and thy mother; that thy days may be long upon the land which the Lord thy God giveth thee."
   },
   {
     "id": "wsc_064",
     "catechism": "westminster_shorter",
     "number": 64,
-    "question_zh": "第五条诫命要求什么？",
+    "question_zh": "第五诫吩咐我们做什么？",
     "question_en": "What is required in the fifth commandment?",
-    "answer_zh": "第五条诫命要求我们在各等关系中，无论上级、下级或平辈，都尽各人当尽的本分，给予应有的尊荣和顺从。",
-    "answer_en": "The fifth commandment requireth the preserving the honor, and performing the duties, belonging to everyone in their several places and relations, as superiors, inferiors, or equals.",
+    "answer_zh": "第五诫吩咐我们无论是对长辈（或位分大的）、晚辈（或位分小的），或平辈（或位分相同的），总要按着彼此的辈分和关系尽本分、表尊崇。",
+    "answer_en": "The fifth commandment requireth the preserving the honor, and performing the duties, belonging to every one in their several places and relations, as superiors, inferiors or equals.",
     "proof_texts": [
       "以弗所书 5:21-22",
       "以弗所书 6:1,5,9",
       "罗马书 13:1"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is required in the fifth commandment?",
+    "answer": "The fifth commandment requireth the preserving the honor, and performing the duties, belonging to every one in their several places and relations, as superiors, inferiors or equals."
   },
   {
     "id": "wsc_065",
     "catechism": "westminster_shorter",
     "number": 65,
-    "question_zh": "第五条诫命禁止什么？",
+    "question_zh": "第五诫禁止我们做什么？",
     "question_en": "What is forbidden in the fifth commandment?",
-    "answer_zh": "第五条诫命禁止忽略或违反各等关系中各人的地位和当尽的本分。",
-    "answer_en": "The fifth commandment forbiddeth the neglecting of, or doing anything against, the honor and duty which belongeth to everyone in their several places and relations.",
+    "answer_zh": "第五诫禁止我们轻忽或损害各人按其辈分和地位当得的尊崇、当受的服事。",
+    "answer_en": "The fifth commandment forbiddeth the neglecting of, or doing anything against, the honor and duty which belongeth to every one in their several places and relations.",
     "proof_texts": [
       "罗马书 13:8",
       "马太福音 15:4-6"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is forbidden in the fifth commandment?",
+    "answer": "The fifth commandment forbiddeth the neglecting of, or doing anything against, the honor and duty which belongeth to every one in their several places and relations."
   },
   {
     "id": "wsc_066",
     "catechism": "westminster_shorter",
     "number": 66,
-    "question_zh": "附加在第五条诫命上的理由是什么？",
+    "question_zh": "第五诫附加什么理由要我们遵守？",
     "question_en": "What is the reason annexed to the fifth commandment?",
-    "answer_zh": "附加在第五条诫命上的理由是：凡遵守这条诫命的，都有长寿兴盛的应许（只要这是为了神的荣耀和他们自己的益处）。",
-    "answer_en": "The reason annexed to the fifth commandment is a promise of long life and prosperity (as far as it shall serve for God's glory and their own good) to all such as keep this commandment.",
+    "answer_zh": "我们当守第五诫，因为神应许凡遵守这诫命的，在世可得享长寿与昌盛。",
+    "answer_en": "The reason annexed to the fifth commandment is a promise of long life and prosperity (as far as it shall serve for God’s glory and their own good) to all such as keep this commandment.",
     "proof_texts": [
       "以弗所书 6:2-3",
       "申命记 5:16"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is the reason annexed to the fifth commandment?",
+    "answer": "The reason annexed to the fifth commandment is a promise of long life and prosperity (as far as it shall serve for God’s glory and their own good) to all such as keep this commandment."
   },
   {
     "id": "wsc_067",
     "catechism": "westminster_shorter",
     "number": 67,
-    "question_zh": "第六条诫命是什么？",
+    "question_zh": "第六诫是什么？",
     "question_en": "Which is the sixth commandment?",
-    "answer_zh": "第六条诫命是：「不可杀人。」",
-    "answer_en": "The sixth commandment is, 'Thou shalt not kill.'",
+    "answer_zh": "第六诫是：「不可杀人」（出廿13）。",
+    "answer_en": "The sixth commandment is, Thou shalt not kill .",
     "proof_texts": [
       "出埃及记 20:13"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Which is the sixth commandment?",
+    "answer": "The sixth commandment is, Thou shalt not kill."
   },
   {
     "id": "wsc_068",
     "catechism": "westminster_shorter",
     "number": 68,
-    "question_zh": "第六条诫命要求什么？",
+    "question_zh": "第六诫吩咐我们做什么？",
     "question_en": "What is required in the sixth commandment?",
-    "answer_zh": "第六条诫命要求我们尽一切合法的努力来保全我们自己和他人的生命。",
+    "answer_zh": "第六诫吩咐我们要竭尽全力依法保守自己与别人的生命。",
     "answer_en": "The sixth commandment requireth all lawful endeavors to preserve our own life, and the life of others.",
     "proof_texts": [
       "以弗所书 5:28-29",
       "诗篇 82:3-4"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is required in the sixth commandment?",
+    "answer": "The sixth commandment requireth all lawful endeavors to preserve our own life, and the life of others."
   },
   {
     "id": "wsc_069",
     "catechism": "westminster_shorter",
     "number": 69,
-    "question_zh": "第六条诫命禁止什么？",
+    "question_zh": "第六诫禁止我们做什么？",
     "question_en": "What is forbidden in the sixth commandment?",
-    "answer_zh": "第六条诫命禁止夺去我们自己或他人的生命，或任何不义地导向此目的的行为。",
+    "answer_zh": "第六诫禁止我们夺去自己的生命，或以不义的手段夺取别人的生命，并一切有这倾向的事。",
     "answer_en": "The sixth commandment forbiddeth the taking away of our own life, or the life of our neighbor unjustly, or whatsoever tendeth thereunto.",
     "proof_texts": [
       "使徒行传 16:28",
@@ -1079,74 +1215,84 @@
       "马太福音 5:22"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is forbidden in the sixth commandment?",
+    "answer": "The sixth commandment forbiddeth the taking away of our own life, or the life of our neighbor unjustly, or whatsoever tendeth thereunto."
   },
   {
     "id": "wsc_070",
     "catechism": "westminster_shorter",
     "number": 70,
-    "question_zh": "第七条诫命是什么？",
+    "question_zh": "第七诫是什么？",
     "question_en": "Which is the seventh commandment?",
-    "answer_zh": "第七条诫命是：「不可奸淫。」",
-    "answer_en": "The seventh commandment is, 'Thou shalt not commit adultery.'",
+    "answer_zh": "第七诫是：「不可奸淫」（出廿14）。",
+    "answer_en": "The seventh commandment is, Thou shalt not commit adultery .",
     "proof_texts": [
       "出埃及记 20:14"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Which is the seventh commandment?",
+    "answer": "The seventh commandment is, Thou shalt not commit adultery."
   },
   {
     "id": "wsc_071",
     "catechism": "westminster_shorter",
     "number": 71,
-    "question_zh": "第七条诫命要求什么？",
+    "question_zh": "第七诫吩咐我们做什么？",
     "question_en": "What is required in the seventh commandment?",
-    "answer_zh": "第七条诫命要求我们在心思、言语和行为上保守自己和他人的贞洁。",
-    "answer_en": "The seventh commandment requireth the preservation of our own and our neighbor's chastity, in heart, speech, and behavior.",
+    "answer_zh": "第七诫吩咐我们，无论存心、说话、行事，都要保守自己与别人的贞洁。",
+    "answer_en": "The seventh commandment requireth the preservation of our own and our neighbor’s chastity, in heart, speech and behavior.",
     "proof_texts": [
       "帖撒罗尼迦前书 4:4-5",
       "约伯记 31:1",
       "哥林多前书 7:2"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is required in the seventh commandment?",
+    "answer": "The seventh commandment requireth the preservation of our own and our neighbor’s chastity, in heart, speech and behavior."
   },
   {
     "id": "wsc_072",
     "catechism": "westminster_shorter",
     "number": 72,
-    "question_zh": "第七条诫命禁止什么？",
+    "question_zh": "第七诫禁止我们做什么？",
     "question_en": "What is forbidden in the seventh commandment?",
-    "answer_zh": "第七条诫命禁止一切不洁的心思、言语和行为。",
-    "answer_en": "The seventh commandment forbiddeth all unchaste thoughts, words, and actions.",
+    "answer_zh": "第七诫禁止我们一切不纯洁的意念、言语和行为。",
+    "answer_en": "The seventh commandment forbiddeth all unchaste thoughts, words and actions.",
     "proof_texts": [
       "马太福音 5:28",
       "以弗所书 5:3-4"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is forbidden in the seventh commandment?",
+    "answer": "The seventh commandment forbiddeth all unchaste thoughts, words and actions."
   },
   {
     "id": "wsc_073",
     "catechism": "westminster_shorter",
     "number": 73,
-    "question_zh": "第八条诫命是什么？",
+    "question_zh": "第八诫是什么？",
     "question_en": "Which is the eighth commandment?",
-    "answer_zh": "第八条诫命是：「不可偷盗。」",
-    "answer_en": "The eighth commandment is, 'Thou shalt not steal.'",
+    "answer_zh": "第八诫是：「不可偷盗」（出廿15）。",
+    "answer_en": "The eighth commandment is, Thou shalt not steal .",
     "proof_texts": [
       "出埃及记 20:15"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Which is the eighth commandment?",
+    "answer": "The eighth commandment is, Thou shalt not steal."
   },
   {
     "id": "wsc_074",
     "catechism": "westminster_shorter",
     "number": 74,
-    "question_zh": "第八条诫命要求什么？",
+    "question_zh": "第八诫吩咐我们做什么？",
     "question_en": "What is required in the eighth commandment?",
-    "answer_zh": "第八条诫命要求我们用合法的途径来获取和增加自己和他人的财富和外在的产业。",
+    "answer_zh": "第八诫吩咐我们合法地取得并增进自己和别人的财富与产业。",
     "answer_en": "The eighth commandment requireth the lawful procuring and furthering the wealth and outward estate of ourselves and others.",
     "proof_texts": [
       "创世记 30:30",
@@ -1154,91 +1300,103 @@
       "利未记 25:35"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is required in the eighth commandment?",
+    "answer": "The eighth commandment requireth the lawful procuring and furthering the wealth and outward estate of ourselves and others."
   },
   {
     "id": "wsc_075",
     "catechism": "westminster_shorter",
     "number": 75,
-    "question_zh": "第八条诫命禁止什么？",
+    "question_zh": "第八诫禁止我们做什么？",
     "question_en": "What is forbidden in the eighth commandment?",
-    "answer_zh": "第八条诫命禁止一切不义地夺取或妨碍自己或他人的财富和外在产业的行为。",
-    "answer_en": "The eighth commandment forbiddeth whatsoever doth, or may, unjustly hinder our own or our neighbor's wealth or outward estate.",
+    "answer_zh": "第八诫禁止我们非法地妨碍自己和别人财富、产业的增进。",
+    "answer_en": "The eighth commandment forbiddeth whatsoever doth or may unjustly hinder our own or our neighbor’s wealth or outward estate.",
     "proof_texts": [
       "箴言 21:17",
       "帖撒罗尼迦后书 3:10",
       "以弗所书 4:28"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is forbidden in the eighth commandment?",
+    "answer": "The eighth commandment forbiddeth whatsoever doth or may unjustly hinder our own or our neighbor’s wealth or outward estate."
   },
   {
     "id": "wsc_076",
     "catechism": "westminster_shorter",
     "number": 76,
-    "question_zh": "第九条诫命是什么？",
+    "question_zh": "第九诫是什么？",
     "question_en": "Which is the ninth commandment?",
-    "answer_zh": "第九条诫命是：「不可作假见证陷害人。」",
-    "answer_en": "The ninth commandment is, 'Thou shalt not bear false witness against thy neighbor.'",
+    "answer_zh": "第九诫是：「不可作假见证陷害人」（出廿16）。",
+    "answer_en": "The ninth commandment is, Thou shalt not bear false witness against thy neighbor .",
     "proof_texts": [
       "出埃及记 20:16"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Which is the ninth commandment?",
+    "answer": "The ninth commandment is, Thou shalt not bear false witness against thy neighbor."
   },
   {
     "id": "wsc_077",
     "catechism": "westminster_shorter",
     "number": 77,
-    "question_zh": "第九条诫命要求什么？",
+    "question_zh": "第九诫吩咐我们做什么？",
     "question_en": "What is required in the ninth commandment?",
-    "answer_zh": "第九条诫命要求我们维护和促进人与人之间的真实，以及我们自己和邻舍的好名声，特别是在作见证的时候。",
-    "answer_en": "The ninth commandment requireth the maintaining and promoting of truth between man and man, and of our own and our neighbor's good name, especially in witness-bearing.",
+    "answer_zh": "第九诫吩咐我们要促进人与人之间的真诚，并要保守自己和邻舍的名声，特别在作见证时，更当如此。",
+    "answer_en": "The ninth commandment requireth the maintaining and promoting of truth between man and man, and of our own and our neighbor’s good name, especially in witness-bearing.",
     "proof_texts": [
       "撒迦利亚书 8:16",
       "约翰三书 12",
       "箴言 14:5,25"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is required in the ninth commandment?",
+    "answer": "The ninth commandment requireth the maintaining and promoting of truth between man and man, and of our own and our neighbor’s good name, especially in witness-bearing."
   },
   {
     "id": "wsc_078",
     "catechism": "westminster_shorter",
     "number": 78,
-    "question_zh": "第九条诫命禁止什么？",
+    "question_zh": "第九诫禁止我们做什么？",
     "question_en": "What is forbidden in the ninth commandment?",
-    "answer_zh": "第九条诫命禁止一切有损真实、有害于自己或他人好名声的事。",
-    "answer_en": "The ninth commandment forbiddeth whatsoever is prejudicial to truth, or injurious to our own or our neighbor's good name.",
+    "answer_zh": "第九诫禁止我们行一切有损真理的事，或有害自己和邻舍名声的事。",
+    "answer_en": "The ninth commandment forbiddeth whatsoever is prejudicial to truth, or injurious to our own or our neighbor’s good name.",
     "proof_texts": [
       "撒母耳记上 17:28",
       "利未记 19:16",
       "诗篇 15:3"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is forbidden in the ninth commandment?",
+    "answer": "The ninth commandment forbiddeth whatsoever is prejudicial to truth, or injurious to our own or our neighbor’s good name."
   },
   {
     "id": "wsc_079",
     "catechism": "westminster_shorter",
     "number": 79,
-    "question_zh": "第十条诫命是什么？",
+    "question_zh": "第十诫是什么？",
     "question_en": "Which is the tenth commandment?",
-    "answer_zh": "第十条诫命是：「不可贪恋人的房屋；也不可贪恋人的妻子、仆婢、牛驴，并他一切所有的。」",
-    "answer_en": "The tenth commandment is, 'Thou shalt not covet thy neighbor's house, thou shalt not covet thy neighbor's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbor's.'",
+    "answer_zh": "第十诫是：「不可贪恋人的房屋；也不可贪恋人的妻子、仆婢、牛驴，并他一切所有的」（出廿17）。",
+    "answer_en": "The tenth commandment is, Thou shalt not covet thy neighbor’s house, thou shalt not covet thy neighbor’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor anything that is thy neighbor’s .",
     "proof_texts": [
       "出埃及记 20:17"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Which is the tenth commandment?",
+    "answer": "The tenth commandment is, Thou shalt not covet thy neighbor’s house, thou shalt not covet thy neighbor’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor anything that is thy neighbor’s."
   },
   {
     "id": "wsc_080",
     "catechism": "westminster_shorter",
     "number": 80,
-    "question_zh": "第十条诫命要求什么？",
+    "question_zh": "第十诫吩咐我们做什么？",
     "question_en": "What is required in the tenth commandment?",
-    "answer_zh": "第十条诫命要求我们对自己的处境完全满足，以正当而充满爱心的态度对待邻舍和他一切所有的。",
+    "answer_zh": "第十诫吩咐我们无论处在什么境遇，总要知足，并要对邻舍和他一切所有的，存正直、仁爱之心。",
     "answer_en": "The tenth commandment requireth full contentment with our own condition, with a right and charitable frame of spirit toward our neighbor, and all that is his.",
     "proof_texts": [
       "希伯来书 13:5",
@@ -1247,15 +1405,17 @@
       "哥林多前书 13:4-7"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is required in the tenth commandment?",
+    "answer": "The tenth commandment requireth full contentment with our own condition, with a right and charitable frame of spirit toward our neighbor, and all that is his."
   },
   {
     "id": "wsc_081",
     "catechism": "westminster_shorter",
     "number": 81,
-    "question_zh": "第十条诫命禁止什么？",
+    "question_zh": "第十诫禁止我们做什么？",
     "question_en": "What is forbidden in the tenth commandment?",
-    "answer_zh": "第十条诫命禁止对自己的处境不满、嫉妒或为别人的好处忧伤，以及对他人所有的产生不正当的情感或行为。",
+    "answer_zh": "第十诫禁止我们不以自己所有的为满足，也禁止我们嫉妒别人的福分，而对他所有的起贪恋的私心。",
     "answer_en": "The tenth commandment forbiddeth all discontentment with our own estate, envying or grieving at the good of our neighbor, and all inordinate motions and affections to anything that is his.",
     "proof_texts": [
       "哥林多前书 10:10",
@@ -1264,62 +1424,70 @@
       "歌罗西书 3:5"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is forbidden in the tenth commandment?",
+    "answer": "The tenth commandment forbiddeth all discontentment with our own estate, envying or grieving at the good of our neighbor, and all inordinate motions and affections to anything that is his."
   },
   {
     "id": "wsc_082",
     "catechism": "westminster_shorter",
     "number": 82,
-    "question_zh": "有谁能完全遵守神的诫命吗？",
+    "question_zh": "人能完全遵守神的诫命吗？",
     "question_en": "Is any man able perfectly to keep the commandments of God?",
-    "answer_zh": "从堕落以来，没有一个人在今生能够完全遵守神的诫命，而是在心思、言语和行为上天天违犯。",
-    "answer_en": "No mere man since the fall is able in this life perfectly to keep the commandments of God, but doth daily break them in thought, word, and deed.",
+    "answer_zh": "不能；从始祖堕落以来，除了耶稣以外，没有人能在今生将神的诫命守得完全；反倒天天在意念、言语和行为上，触犯神的诫命。",
+    "answer_en": "No mere man since the fall is able in this life perfectly to keep the commandments of God, but doth daily break them in thought, word and deed.",
     "proof_texts": [
       "传道书 7:20",
       "约翰壹书 1:8,10",
       "雅各书 3:8"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Is any man able perfectly to keep the commandments of God?",
+    "answer": "No mere man since the fall is able in this life perfectly to keep the commandments of God, but doth daily break them in thought, word and deed."
   },
   {
     "id": "wsc_083",
     "catechism": "westminster_shorter",
     "number": 83,
-    "question_zh": "违犯律法的罪都一样严重吗？",
+    "question_zh": "所有违背律法的罪都是一样可憎吗？",
     "question_en": "Are all transgressions of the law equally heinous?",
-    "answer_zh": "在神面前，有些罪本身比其他的罪更严重，并且因为某些加重的因素而更加严重。",
+    "answer_zh": "有一些罪会因其本身性质的缘故，或因人累犯而更形可憎；所以有的罪在神眼中就比别的罪更为可憎。",
     "answer_en": "Some sins in themselves, and by reason of several aggravations, are more heinous in the sight of God than others.",
     "proof_texts": [
       "约翰福音 19:11",
       "以西结书 8:6,13,15"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Are all transgressions of the law equally heinous?",
+    "answer": "Some sins in themselves, and by reason of several aggravations, are more heinous in the sight of God than others."
   },
   {
     "id": "wsc_084",
     "catechism": "westminster_shorter",
     "number": 84,
-    "question_zh": "每一个罪所应得的是什么？",
+    "question_zh": "每一项罪当受什么样的刑罚？",
     "question_en": "What doth every sin deserve?",
-    "answer_zh": "每一个罪所应得的是神今生和来生的忿怒和咒诅。",
-    "answer_en": "Every sin deserveth God's wrath and curse, both in this life, and that which is to come.",
+    "answer_zh": "每个人每次犯每一项罪，在今世和来世都当受到神的忿怒和咒诅。",
+    "answer_en": "Every sin deserveth God’s wrath and curse, both in this life, and that which is to come.",
     "proof_texts": [
       "以弗所书 5:6",
       "加拉太书 3:10",
       "马太福音 25:41"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What doth every sin deserve?",
+    "answer": "Every sin deserveth God’s wrath and curse, both in this life, and that which is to come."
   },
   {
     "id": "wsc_085",
     "catechism": "westminster_shorter",
     "number": 85,
-    "question_zh": "神要求我们做什么才能逃脱因犯罪而应受的忿怒和咒诅？",
-    "question_en": "What doth God require of us, that we may escape His wrath and curse due to us for sin?",
-    "answer_zh": "为了逃脱因犯罪而应受的神的忿怒和咒诅，神要求我们信靠耶稣基督、悔改得生命，并且殷勤使用基督所赐的一切外在的施恩媒介。",
+    "question_zh": "为使我们能以逃脱因罪所当受之神的忿怒和咒诅，神吩咐我们做什么？",
+    "question_en": "What doth God require of us that we may escape his wrath and curse due to us for sin?",
+    "answer_zh": "为要逃脱因罪所当受的忿怒和咒诅，神吩咐我们信服耶稣基督──悔改以致得生，并勤用基督所设立的一切外在蒙恩的管道（means of grace），好叫救赎的益处归于我们。",
     "answer_en": "To escape the wrath and curse of God due to us for sin, God requireth of us faith in Jesus Christ, repentance unto life, with the diligent use of all the outward means whereby Christ communicateth to us the benefits of redemption.",
     "proof_texts": [
       "使徒行传 20:21",
@@ -1327,31 +1495,35 @@
       "使徒行传 2:38"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What doth God require of us that we may escape his wrath and curse due to us for sin?",
+    "answer": "To escape the wrath and curse of God due to us for sin, God requireth of us faith in Jesus Christ, repentance unto life, with the diligent use of all the outward means whereby Christ communicateth to us the benefits of redemption."
   },
   {
     "id": "wsc_086",
     "catechism": "westminster_shorter",
     "number": 86,
-    "question_zh": "信靠耶稣基督是什么？",
+    "question_zh": "「信服耶稣基督」是什么意思？",
     "question_en": "What is faith in Jesus Christ?",
-    "answer_zh": "信靠耶稣基督是一种拯救性的恩典，借此我们照着福音所提供的基督来接受祂，唯独倚靠祂得救。",
-    "answer_en": "Faith in Jesus Christ is a saving grace, whereby we receive and rest upon Him alone for salvation, as He is offered to us in the gospel.",
+    "answer_zh": "信服耶稣基督是神所赐的得救恩典；使我们借此可以照着福音的信息与劝勉而接受基督，并惟独靠祂得救。",
+    "answer_en": "Faith in Jesus Christ is a saving grace, whereby we receive and rest upon him alone for salvation, as he is offered to us in the gospel.",
     "proof_texts": [
       "希伯来书 10:39",
       "约翰福音 1:12",
       "腓立比书 3:9"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is faith in Jesus Christ?",
+    "answer": "Faith in Jesus Christ is a saving grace, whereby we receive and rest upon him alone for salvation, as he is offered to us in the gospel."
   },
   {
     "id": "wsc_087",
     "catechism": "westminster_shorter",
     "number": 87,
-    "question_zh": "悔改得生命是什么？",
+    "question_zh": "「悔改以致得生」是什么意思？",
     "question_en": "What is repentance unto life?",
-    "answer_zh": "悔改得生命是一种拯救性的恩典，借此罪人因真正觉悟到自己的罪，并且领悟到神在基督里的恩惠，就带着忧伤和对罪的恨恶转离罪，归向神，立定心志竭力追求新的顺服。",
+    "answer_zh": "「悔改以致得生」是神所赐的得救恩典；一个真实觉悟自己有罪，而又确知神在基督里之怜悯的罪人，就会因此为罪忧伤痛悔，恨恶并离弃自己的罪，而归向神，立志竭力重新顺服。",
     "answer_en": "Repentance unto life is a saving grace, whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, doth, with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavor after, new obedience.",
     "proof_texts": [
       "使徒行传 2:37-38",
@@ -1360,48 +1532,54 @@
       "诗篇 119:59"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is repentance unto life?",
+    "answer": "Repentance unto life is a saving grace, whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, doth, with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavor after, new obedience."
   },
   {
     "id": "wsc_088",
     "catechism": "westminster_shorter",
     "number": 88,
-    "question_zh": "基督借以将救赎的益处传递给我们的外在媒介是什么？",
-    "question_en": "What are the outward means whereby Christ communicateth to us the benefits of redemption?",
-    "answer_zh": "基督借以将救赎的益处传递给我们的外在媒介是：祂所设立的典章，特别是圣道、圣礼和祷告。这一切对于选民都成为有效的得救途径。",
-    "answer_en": "The outward and ordinary means whereby Christ communicateth to us the benefits of redemption are His ordinances, especially the Word, sacraments, and prayer; all which are made effectual to the elect for salvation.",
+    "question_zh": "基督设立了哪些外在的蒙恩管道，好叫救赎的益处能归于我们？",
+    "question_en": "What are the outward and ordinary means whereby Christ communicateth to us the benefits of redemption?",
+    "answer_zh": "基督为叫救赎的益处归于我们，所设立那明显而常用的蒙恩管道就是：圣经、圣礼和祈祷；这些方法对选民的得救都是有效力的。",
+    "answer_en": "The outward and ordinary means whereby Christ communicateth to us the benefits of redemption, are his ordinances, especially the word, sacraments, and prayer; all which are made effectual to the elect for salvation.",
     "proof_texts": [
       "使徒行传 2:41-42",
       "罗马书 10:17",
       "哥林多前书 11:23-26"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What are the outward and ordinary means whereby Christ communicateth to us the benefits of redemption?",
+    "answer": "The outward and ordinary means whereby Christ communicateth to us the benefits of redemption, are his ordinances, especially the word, sacraments, and prayer; all which are made effectual to the elect for salvation."
   },
   {
     "id": "wsc_089",
     "catechism": "westminster_shorter",
     "number": 89,
-    "question_zh": "圣道怎样成为有效的得救途径？",
-    "question_en": "How is the Word made effectual to salvation?",
-    "answer_zh": "神的灵使读经、尤其是传道，成为有效的途径，使罪人知罪归正，并在圣洁和安慰中得到建立，以至于得救。",
-    "answer_en": "The Spirit of God maketh the reading, but especially the preaching, of the Word, an effectual means of convincing and converting sinners, and of building them up in holiness and comfort, through faith, unto salvation.",
+    "question_zh": "圣经如何有得救的效力？",
+    "question_en": "How is the word made effectual to salvation?",
+    "answer_zh": "神的灵时常借着诵读、听讲圣经而使罪人醒悟，因而知罪、回转归正，并借着信心在圣洁与安慰上建造他们，以致得救。",
+    "answer_en": "The Spirit of God maketh the reading, but especially the preaching, of the word, an effectual means of convincing and converting sinners, and of building them up in holiness and comfort, through faith, unto salvation.",
     "proof_texts": [
       "诗篇 19:7-8",
       "帖撒罗尼迦前书 1:6",
       "罗马书 1:16"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How is the word made effectual to salvation?",
+    "answer": "The Spirit of God maketh the reading, but especially the preaching, of the word, an effectual means of convincing and converting sinners, and of building them up in holiness and comfort, through faith, unto salvation."
   },
   {
     "id": "wsc_090",
     "catechism": "westminster_shorter",
     "number": 90,
-    "question_zh": "怎样读听圣道才能使之成为有效的得救途径？",
-    "question_en": "How is the Word to be read and heard, that it may become effectual to salvation?",
-    "answer_zh": "为使圣道成为有效的得救途径，我们必须殷勤地参加聚会，预备自己的心，以祷告的心聆听，凭信心领受、存记在心中，并且在生活中实行出来。",
-    "answer_en": "That the Word may become effectual to salvation, we must attend thereunto with diligence, preparation, and prayer; receive it with faith and love, lay it up in our hearts, and practice it in our lives.",
+    "question_zh": "圣经要怎样读、怎样听，才能有得救的效力？",
+    "question_en": "How is the word to be read and heard, that it may become effectual to salvation?",
+    "answer_zh": "要使圣经有救人的效力，我们必须以专注、殷勤、预备、祷告的态度，来读、来听圣经的话，用信心和爱心领受并存记在心，更要在日常生活中实行出来。",
+    "answer_en": "That the word may become effectual to salvation, we must attend thereunto with diligence, preparation and prayer; receive it with faith and love, lay it up in our hearts, and practice it in our lives.",
     "proof_texts": [
       "箴言 8:34",
       "彼得前书 2:1-2",
@@ -1409,23 +1587,27 @@
       "雅各书 1:25"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How is the word to be read and heard, that it may become effectual to salvation?",
+    "answer": "That the word may become effectual to salvation, we must attend thereunto with diligence, preparation and prayer; receive it with faith and love, lay it up in our hearts, and practice it in our lives."
   },
   {
     "id": "wsc_091",
     "catechism": "westminster_shorter",
     "number": 91,
-    "question_zh": "圣礼怎样成为有效的得救途径？",
+    "question_zh": "圣礼如何成为得救的有效工具？",
     "question_en": "How do the sacraments become effectual means of salvation?",
-    "answer_zh": "圣礼成为有效的得救途径，不是因为圣礼本身或施行圣礼的人有什么能力，而是唯独借着基督的祝福和圣灵在那些凭信心领受圣礼的人心里的作工。",
-    "answer_en": "The sacraments become effectual means of salvation, not from any virtue in them, or in him that doth administer them; but only by the blessing of Christ, and the working of His Spirit in them that by faith receive them.",
+    "answer_zh": "圣礼之所以是一种得救的有效方法，并不是因为圣礼本身有能力，也不是因为施行圣礼的人有能力，乃惟独借基督所赐的恩典，和圣灵在那些以信领受的人心中所做的工作。",
+    "answer_en": "The sacraments become effectual means of salvation, not from any virtue in them, or in him that doth administer them; but only by the blessing of Christ, and the working of his Spirit in them that by faith receive them.",
     "proof_texts": [
       "彼得前书 3:21",
       "哥林多前书 3:7",
       "哥林多前书 12:13"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "How do the sacraments become effectual means of salvation?",
+    "answer": "The sacraments become effectual means of salvation, not from any virtue in them, or in him that doth administer them; but only by the blessing of Christ, and the working of his Spirit in them that by faith receive them."
   },
   {
     "id": "wsc_092",
@@ -1433,92 +1615,104 @@
     "number": 92,
     "question_zh": "圣礼是什么？",
     "question_en": "What is a sacrament?",
-    "answer_zh": "圣礼是一种神圣的典章，由基督所设立，其中借着可感知的记号，基督和新约的益处被呈现给信徒，印证在信徒身上，并施行在信徒身上。",
-    "answer_en": "A sacrament is a holy ordinance instituted by Christ, wherein, by sensible signs, Christ, and the benefits of the new covenant, are represented, sealed, and applied to believers.",
+    "answer_zh": "圣礼是基督所设立的仪式，用有形的记号将基督和新约的益处，向信徒表明、印证，并应用在他们心里。",
+    "answer_en": "A sacrament is an holy ordinance instituted by Christ; wherein, by sensible signs, Christ, and the benefits of the new covenant, are represented, sealed, and applied to believers.",
     "proof_texts": [
       "创世记 17:7,10",
       "马太福音 26:26-28",
       "马太福音 28:19"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is a sacrament?",
+    "answer": "A sacrament is an holy ordinance instituted by Christ; wherein, by sensible signs, Christ, and the benefits of the new covenant, are represented, sealed, and applied to believers."
   },
   {
     "id": "wsc_093",
     "catechism": "westminster_shorter",
     "number": 93,
-    "question_zh": "新约的圣礼有哪些？",
+    "question_zh": "新约中的圣礼有几个？",
     "question_en": "Which are the sacraments of the New Testament?",
-    "answer_zh": "新约的圣礼有洗礼和主的圣餐。",
-    "answer_en": "The sacraments of the New Testament are Baptism and the Lord's Supper.",
+    "answer_zh": "新约的圣礼有两个，就是洗礼和主的晚餐。",
+    "answer_en": "The sacraments of the New Testament are baptism and the Lord’s supper.",
     "proof_texts": [
       "马太福音 28:19",
       "哥林多前书 11:23-26"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "Which are the sacraments of the New Testament?",
+    "answer": "The sacraments of the New Testament are baptism and the Lord’s supper."
   },
   {
     "id": "wsc_094",
     "catechism": "westminster_shorter",
     "number": 94,
     "question_zh": "洗礼是什么？",
-    "question_en": "What is Baptism?",
-    "answer_zh": "洗礼是一种圣礼，其中奉父、子、圣灵的名用水洗，表明并印证我们被接入基督里，有份于恩典之约的益处，以及我们与主立约，属于主。",
-    "answer_en": "Baptism is a sacrament, wherein the washing with water in the name of the Father, and of the Son, and of the Holy Ghost, doth signify and seal our ingrafting into Christ, and partaking of the benefits of the covenant of grace, and our engagement to be the Lord's.",
+    "question_en": "What is baptism?",
+    "answer_zh": "洗礼是一种圣礼，在洗礼中要奉父、子、圣灵的名用水洗；借此表明且印证我们归入耶稣，可以承受恩典之约的益处，并且许配给耶稣，成为主的人。",
+    "answer_en": "Baptism is a sacrament, wherein the washing with water in the name of the Father, and of the Son, and of the Holy Ghost, doth signify and seal our ingrafting into Christ, and partaking of the benefits of the covenant of grace, and our engagement to be the Lord’s.",
     "proof_texts": [
       "马太福音 28:19",
       "罗马书 6:3-4",
       "加拉太书 3:27"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is baptism?",
+    "answer": "Baptism is a sacrament, wherein the washing with water in the name of the Father, and of the Son, and of the Holy Ghost, doth signify and seal our ingrafting into Christ, and partaking of the benefits of the covenant of grace, and our engagement to be the Lord’s."
   },
   {
     "id": "wsc_095",
     "catechism": "westminster_shorter",
     "number": 95,
-    "question_zh": "洗礼应该施行给谁？",
-    "question_en": "To whom is Baptism to be administered?",
-    "answer_zh": "洗礼不可施行给在可见教会以外的人，直到他们宣认信仰基督并顺服祂为止；但可见教会成员的婴孩也应接受洗礼。",
-    "answer_en": "Baptism is not to be administered to any that are out of the visible church, till they profess their faith in Christ, and obedience to Him; but the infants of such as are members of the visible church are to be baptized.",
+    "question_zh": "当为谁施行洗礼？",
+    "question_en": "To whom is baptism to be administered?",
+    "answer_zh": "教会以外的人，必须等他们相信了基督，并承诺顺服基督之后，才可以为他们施洗；但是教会内信徒的婴孩都当接受洗礼。",
+    "answer_en": "Baptism is not to be administered to any that are out of the visible church, till they profess their faith in Christ, and obedience to him; but the infants of such as are members of the visible church are to be baptized.",
     "proof_texts": [
       "使徒行传 2:38-39",
       "使徒行传 16:33",
       "创世记 17:7,10"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "To whom is baptism to be administered?",
+    "answer": "Baptism is not to be administered to any that are out of the visible church, till they profess their faith in Christ, and obedience to him; but the infants of such as are members of the visible church are to be baptized."
   },
   {
     "id": "wsc_096",
     "catechism": "westminster_shorter",
     "number": 96,
-    "question_zh": "主的圣餐是什么？",
-    "question_en": "What is the Lord's Supper?",
-    "answer_zh": "主的圣餐是一种圣礼，照基督所设立的，以饼和酒来表明祂的死，凡按理领受的人，不是按照身体的方式，而是凭着信心，有份于基督的身体和血，以及祂一切的益处，借以得到属灵的滋养和在恩典中的长进。",
-    "answer_en": "The Lord's Supper is a sacrament, wherein, by giving and receiving bread and wine, according to Christ's appointment, His death is showed forth; and the worthy receivers are, not after a corporal and carnal manner, but by faith, made partakers of His body and blood, with all His benefits, to their spiritual nourishment, and growth in grace.",
+    "question_zh": "圣餐是什么？",
+    "question_en": "What is the Lord’s supper?",
+    "answer_zh": "圣餐是一种圣礼。我们在圣餐中照着基督的吩咐分饼喝杯，借此表明主的死。得以领受圣餐的人，不是凭着肉体，乃是凭着信心来领用主的身体和血，并祂一切的益处，以致灵性得着餵养，并在恩典上有所长进。",
+    "answer_en": "The Lord’s supper is a sacrament, wherein, by giving and receiving bread and wine according to Christ’s appointment, his death is showed forth; and the worthy receivers are, not after a corporal and carnal manner, but by faith, made partakers of his body and blood, with all his benefits, to their spiritual nourishment and growth in grace.",
     "proof_texts": [
       "哥林多前书 11:23-26",
       "哥林多前书 10:16"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is the Lord’s supper?",
+    "answer": "The Lord’s supper is a sacrament, wherein, by giving and receiving bread and wine according to Christ’s appointment, his death is showed forth; and the worthy receivers are, not after a corporal and carnal manner, but by faith, made partakers of his body and blood, with all his benefits, to their spiritual nourishment and growth in grace."
   },
   {
     "id": "wsc_097",
     "catechism": "westminster_shorter",
     "number": 97,
-    "question_zh": "要按理领受主的圣餐，需要什么准备？",
-    "question_en": "What is required to the worthy receiving of the Lord's Supper?",
-    "answer_zh": "凡要按理领受主的圣餐的人，需要省察自己对主的身体的分辨力、对基督的信心和依靠基督得滋养的心、悔改、爱心和新的顺服，免得不按理吃喝，使自己受审。",
-    "answer_en": "It is required of them that would worthily partake of the Lord's Supper, that they examine themselves of their knowledge to discern the Lord's body, of their faith to feed upon Him, of their repentance, love, and new obedience; lest, coming unworthily, they eat and drink judgment to themselves.",
+    "question_zh": "当如何领受圣餐？",
+    "question_en": "What is required to the worthy receiving of the Lord’s supper?",
+    "answer_zh": "为要按理领受圣餐，应当先自己省察：（一）是否分辨是主的身体？（二）是否凭信心吃喝主自己？（三）有没有悔改的心、爱心并重新顺服的心？免得因不按理吃喝，就吃喝自己的罪了。",
+    "answer_en": "It is required of them that would worthily partake of the Lord’s supper, that they examine themselves of their knowledge to discern the Lord’s body, of their faith to feed upon him, of their repentance, love, and new obedience; lest, coming unworthily, they eat and drink judgment to themselves.",
     "proof_texts": [
       "哥林多前书 11:28-29",
       "哥林多前书 5:8"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is required to the worthy receiving of the Lord’s supper?",
+    "answer": "It is required of them that would worthily partake of the Lord’s supper, that they examine themselves of their knowledge to discern the Lord’s body, of their faith to feed upon him, of their repentance, love, and new obedience; lest, coming unworthily, they eat and drink judgment to themselves."
   },
   {
     "id": "wsc_098",
@@ -1526,8 +1720,8 @@
     "number": 98,
     "question_zh": "祷告是什么？",
     "question_en": "What is prayer?",
-    "answer_zh": "祷告就是奉基督的名，向神倾心吐意，承认我们的罪，感谢祂的怜悯，并祈求祂的恩惠。",
-    "answer_en": "Prayer is an offering up of our desires unto God, for things agreeable to His will, in the name of Christ, with confession of our sins, and thankful acknowledgment of His mercies.",
+    "answer_zh": "祷告是奉基督的名，向神祈求心中所愿而又合乎神旨意的事；并承认自己的罪，也为神诸般的怜悯献上感恩。",
+    "answer_en": "Prayer is an offering up of our desires unto God, for things agreeable to his will, in the name of Christ, with confession of our sins, and thankful acknowledgment of his mercies.",
     "proof_texts": [
       "诗篇 62:8",
       "约翰福音 16:23",
@@ -1536,145 +1730,165 @@
       "但以理书 9:4"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What is prayer?",
+    "answer": "Prayer is an offering up of our desires unto God, for things agreeable to his will, in the name of Christ, with confession of our sins, and thankful acknowledgment of his mercies."
   },
   {
     "id": "wsc_099",
     "catechism": "westminster_shorter",
     "number": 99,
-    "question_zh": "圣经给我们什么指导来帮助我们祷告？",
+    "question_zh": "神赐下什么准则指教我们如何祷告？",
     "question_en": "What rule hath God given for our direction in prayer?",
-    "answer_zh": "圣经全部的话语都有助于指导我们祷告，但特别指导我们祷告的准则是基督教导门徒的那个祷告，通称为主祷文。",
-    "answer_en": "The whole Word of God is of use to direct us in prayer; but the special rule of direction is that form of prayer which Christ taught His disciples, commonly called the Lord's Prayer.",
+    "answer_zh": "整本圣经都在指教我们怎样祷告。但基督教导门徒的主祷文，特别是我们祷告的准则。",
+    "answer_en": "The whole word of God is of use to direct us in prayer; but the special rule of direction is that form of prayer which Christ taught his disciples, commonly called the Lord’s prayer.",
     "proof_texts": [
       "约翰壹书 5:14",
       "马太福音 6:9-13"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What rule hath God given for our direction in prayer?",
+    "answer": "The whole word of God is of use to direct us in prayer; but the special rule of direction is that form of prayer which Christ taught his disciples, commonly called the Lord’s prayer."
   },
   {
     "id": "wsc_100",
     "catechism": "westminster_shorter",
     "number": 100,
-    "question_zh": "主祷文的序言教导我们什么？",
-    "question_en": "What doth the preface of the Lord's Prayer teach us?",
-    "answer_zh": "主祷文的序言（「我们在天上的父」）教导我们，要以圣洁的敬畏和信心亲近神，如同儿女亲近父亲一般，因祂有能力、也愿意帮助我们；并且教导我们要与众人一同祷告、为众人祈求。",
-    "answer_en": "The preface of the Lord's Prayer (which is, 'Our Father which art in heaven') teacheth us to draw near to God with all holy reverence and confidence, as children to a father, able and ready to help us; and that we should pray with and for others.",
+    "question_zh": "主祷文的首句教导我们什么？",
+    "question_en": "What doth the preface of the Lord’s prayer teach us?",
+    "answer_zh": "主祷文的首句：「我们在天上的父」，教导我们存恭敬、信靠的心，坦然无惧地来亲近父神；就如同儿女亲近父亲一样，笃信祂肯帮助、且能帮助我们。并且这句话也教导我们要和他人一同祷告，并要为人代祷。",
+    "answer_en": "The preface of the Lord’s prayer, which is, Our Father which art in heaven , teacheth us to draw near to God with all holy reverence and confidence, as children to a father able and ready to help us; and that we should pray with and for others.",
     "proof_texts": [
       "罗马书 8:15",
       "路加福音 11:13",
       "以弗所书 6:18"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What doth the preface of the Lord’s prayer teach us?",
+    "answer": "The preface of the Lord’s prayer, which is, Our Father which art in heaven, teacheth us to draw near to God with all holy reverence and confidence, as children to a father able and ready to help us; and that we should pray with and for others."
   },
   {
     "id": "wsc_101",
     "catechism": "westminster_shorter",
     "number": 101,
-    "question_zh": "在第一个祈求中我们求什么？",
+    "question_zh": "主祷文的第一条所祈求的是什么？",
     "question_en": "What do we pray for in the first petition?",
-    "answer_zh": "在第一个祈求中（「愿人都尊你的名为圣」），我们求神使我们和他人都能在一切荣耀祂自己的事上荣耀祂，并求祂使万事互相效力以显出祂的荣耀。",
-    "answer_en": "In the first petition (which is, 'Hallowed be Thy name') we pray that God would enable us and others to glorify Him in all that whereby He maketh Himself known; and that He would dispose all things to His own glory.",
+    "answer_zh": "主祷文第一条说：「愿人都尊你的名为圣」，我们在此求神赐力量，使我们和众人在祂显明自己的一切事上，能荣耀祂的名，并求祂为自己的荣耀调度万事。",
+    "answer_en": "In the first petition, which is, Hallowed be thy name , we pray that God would enable us and others to glorify him in all that whereby he maketh himself known; and that he would dispose all things to his own glory.",
     "proof_texts": [
       "诗篇 67:2-3",
       "罗马书 11:36"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What do we pray for in the first petition?",
+    "answer": "In the first petition, which is, Hallowed be thy name, we pray that God would enable us and others to glorify him in all that whereby he maketh himself known; and that he would dispose all things to his own glory."
   },
   {
     "id": "wsc_102",
     "catechism": "westminster_shorter",
     "number": 102,
-    "question_zh": "在第二个祈求中我们求什么？",
+    "question_zh": "主祷文的第二条所祈求的是什么？",
     "question_en": "What do we pray for in the second petition?",
-    "answer_zh": "在第二个祈求中（「愿你的国降临」），我们求撒但的国被消灭，恩典之国日益兴盛，使我们自己和他人都被引入其中并蒙保守，并求荣耀之国早日来临。",
-    "answer_en": "In the second petition (which is, 'Thy kingdom come') we pray that Satan's kingdom may be destroyed; and that the kingdom of grace may be advanced, ourselves and others brought into it, and kept in it; and that the kingdom of glory may be hastened.",
+    "answer_zh": "主祷文第二条说：「愿你的国降临」，我们在此求神使撒但的国衰败，而祂恩典的国度则更加兴旺，并使我们自己和众人都得以进入并一直住在其内；又求祂荣耀的国早日降临。",
+    "answer_en": "In the second petition, which is, Thy kingdom come , we pray that Satan’s kingdom may be destroyed; and that the kingdom of grace may be advanced, ourselves and others brought into it, and kept in it; and that the kingdom of glory may be hastened.",
     "proof_texts": [
       "诗篇 68:1,18",
       "罗马书 10:1",
       "启示录 22:20"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What do we pray for in the second petition?",
+    "answer": "In the second petition, which is, Thy kingdom come, we pray that Satan’s kingdom may be destroyed; and that the kingdom of grace may be advanced, ourselves and others brought into it, and kept in it; and that the kingdom of glory may be hastened."
   },
   {
     "id": "wsc_103",
     "catechism": "westminster_shorter",
     "number": 103,
-    "question_zh": "在第三个祈求中我们求什么？",
+    "question_zh": "主祷文的第三条所祈求的是什么？",
     "question_en": "What do we pray for in the third petition?",
-    "answer_zh": "在第三个祈求中（「愿你的旨意行在地上，如同行在天上」），我们求神借祂的恩典使我们在万事上都能知道、顺服并服从祂的旨意，如同天上的众天使一样。",
-    "answer_en": "In the third petition (which is, 'Thy will be done in earth, as it is in heaven') we pray that God, by His grace, would make us able and willing to know, obey, and submit to His will in all things, as the angels do in heaven.",
+    "answer_zh": "主祷文第三条说：「愿你的旨意行在地上，如同行在天上」，我们在此求神赐恩，使我们能在凡事上明白祂的旨意，并甘心乐意地遵从、降服祂的旨意，如同天使在天上所行的一样。",
+    "answer_en": "In the third petition, which is, Thy will be done in earth, as it is in heaven , we pray that God, by his grace, would make us able and willing to know, obey and submit to his will in all things, as the angels do in heaven.",
     "proof_texts": [
       "诗篇 103:20-21",
       "诗篇 119:36"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What do we pray for in the third petition?",
+    "answer": "In the third petition, which is, Thy will be done in earth, as it is in heaven, we pray that God, by his grace, would make us able and willing to know, obey and submit to his will in all things, as the angels do in heaven."
   },
   {
     "id": "wsc_104",
     "catechism": "westminster_shorter",
     "number": 104,
-    "question_zh": "在第四个祈求中我们求什么？",
+    "question_zh": "主祷文的第四条所祈求的是什么？",
     "question_en": "What do we pray for in the fourth petition?",
-    "answer_zh": "在第四个祈求中（「我们日用的饮食，今日赐给我们」），我们求神白白地赐给我们充足的今生需用之物，并求我们能够享受祂在一切事物中的祝福。",
-    "answer_en": "In the fourth petition (which is, 'Give us this day our daily bread') we pray that of God's free gift we may receive a competent portion of the good things of this life, and enjoy His blessing with them.",
+    "answer_zh": "主祷文第四条说：「我们日用的饮食，今日赐给我们」，我们在此求神因祂白白的恩典，使我们得着今生所需要的够用而美善的东西，并使我们在使用这些东西时也能同时享受到祂所赐的福乐。",
+    "answer_en": "In the fourth petition, which is, Give us this day our daily bread , we pray that of God’s free gift we may receive a competent portion of the good things of this life, and enjoy his blessing with them.",
     "proof_texts": [
       "箴言 30:8-9",
       "提摩太前书 4:4-5"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What do we pray for in the fourth petition?",
+    "answer": "In the fourth petition, which is, Give us this day our daily bread, we pray that of God’s free gift we may receive a competent portion of the good things of this life, and enjoy his blessing with them."
   },
   {
     "id": "wsc_105",
     "catechism": "westminster_shorter",
     "number": 105,
-    "question_zh": "在第五个祈求中我们求什么？",
+    "question_zh": "主祷文的第五条所祈求的是什么？",
     "question_en": "What do we pray for in the fifth petition?",
-    "answer_zh": "在第五个祈求中（「免我们的债，如同我们免了人的债」），我们求神因基督的缘故白白赦免我们一切的罪；我们敢于如此祈求，是因为借着祂的恩典，我们能够从心里饶恕别人。",
-    "answer_en": "In the fifth petition (which is, 'And forgive us our debts, as we forgive our debtors') we pray that God, for Christ's sake, would freely pardon all our sins; which we are the rather encouraged to ask, because by His grace we are enabled from the heart to forgive others.",
+    "answer_zh": "主祷文第五条说：「免我们的债，如同我们免了人的债」，我们在这里求神开恩，因基督的缘故白白赦免我们一切的罪；并且我们之所以敢这样求，是因为我们蒙了神的恩典也能从心里去饶恕别人。",
+    "answer_en": "In the fifth petition, which is, And forgive us our debts, as we forgive our debtors , we pray that God, for Christ’s sake, would freely pardon all our sins; which we are the rather encouraged to ask, because by his grace we are enabled from the heart to forgive others.",
     "proof_texts": [
       "诗篇 51:1-2",
       "马太福音 6:14-15",
       "路加福音 11:4"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What do we pray for in the fifth petition?",
+    "answer": "In the fifth petition, which is, And forgive us our debts, as we forgive our debtors, we pray that God, for Christ’s sake, would freely pardon all our sins; which we are the rather encouraged to ask, because by his grace we are enabled from the heart to forgive others."
   },
   {
     "id": "wsc_106",
     "catechism": "westminster_shorter",
     "number": 106,
-    "question_zh": "在第六个祈求中我们求什么？",
+    "question_zh": "主祷文的第六条所祈求的是什么？",
     "question_en": "What do we pray for in the sixth petition?",
-    "answer_zh": "在第六个祈求中（「不叫我们遇见试探，救我们脱离凶恶」），我们求神或者保守我们不遇见试探，或者扶持拯救我们脱离试探。",
-    "answer_en": "In the sixth petition (which is, 'And lead us not into temptation, but deliver us from evil') we pray that God would either keep us from being tempted to sin, or support and deliver us when we are tempted.",
+    "answer_zh": "主祷文第六条说：「不叫我们遇见试探，救我们脱离凶恶」，我们在此求神保守我们不受试探而犯罪，或在受试探时扶助并拯救我们脱离凶恶。",
+    "answer_en": "In the sixth petition, which is, And lead us not into temptation, but deliver us from evil , we pray that God would either keep us from being tempted to sin, or support and deliver us when we are tempted.",
     "proof_texts": [
       "马太福音 26:41",
       "哥林多前书 10:13"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What do we pray for in the sixth petition?",
+    "answer": "In the sixth petition, which is, And lead us not into temptation, but deliver us from evil, we pray that God would either keep us from being tempted to sin, or support and deliver us when we are tempted."
   },
   {
     "id": "wsc_107",
     "catechism": "westminster_shorter",
     "number": 107,
-    "question_zh": "主祷文的结尾教导我们什么？",
-    "question_en": "What doth the conclusion of the Lord's Prayer teach us?",
-    "answer_zh": "主祷文的结尾（「因为国度、权柄、荣耀，全是你的，直到永远。阿们。」）教导我们：在祷告中，当从神支取我们的勇气，以祂为我们祷告的满足，并以颂赞来结束祷告，表明我们祷告的确信和热切的愿望。",
-    "answer_en": "The conclusion of the Lord's Prayer (which is, 'For Thine is the kingdom, and the power, and the glory, forever. Amen.') teacheth us to take our encouragement in prayer from God only, and in our prayers to praise Him, ascribing kingdom, power, and glory to Him; and in testimony of our desire, and assurance to be heard, we say, Amen.",
+    "question_zh": "主祷文的结语教导我们什么？",
+    "question_en": "What doth the conclusion of the Lord’s prayer teach us?",
+    "answer_zh": "主祷文的结语说：「因为国度、权柄、荣耀，全是你的，直到永远，阿们」，这是教导我们：惟独神能应允我们的祷告，并且我们要在祷告中来称颂祂，将国度、权柄、荣耀都归给祂。末了为要证明所求的是诚心所愿，又深信这是必蒙应允的，所以就说：「阿们」。",
+    "answer_en": "The conclusion of the Lord’s prayer, which is, For thine is the kingdom, and the power, and the glory, forever, Amen , teacheth us to take our encouragement in prayer from God only, and in our prayers to praise him, ascribing kingdom, power and glory to him. And in testimony of our desire, and assurance to be heard, we say, Amen . The Orthodox Presbyterian Church CONTACT US +1 215 830 0900 Contact Form Find a Church ABOUT US Our History Our Standards General Assembly Worldwide Outreach © 2026 The Orthodox Presbyterian Church CHURCHES © 2020 OPC STANDARDS NEW HORIZONS ORDAINED SERVANT NEWS © 2026 The Orthodox Presbyterian Church",
     "proof_texts": [
       "但以理书 9:4,7-9,16-19",
       "历代志上 29:11-13",
       "哥林多前书 14:16"
     ],
     "notes_zh": "",
-    "notes_en": ""
+    "notes_en": "",
+    "question": "What doth the conclusion of the Lord’s prayer teach us?",
+    "answer": "The conclusion of the Lord’s prayer, which is, For thine is the kingdom, and the power, and the glory, forever, Amen, teacheth us to take our encouragement in prayer from God only, and in our prayers to praise him, ascribing kingdom, power and glory to him. And in testimony of our desire, and assurance to be heard, we say, Amen. The Orthodox Presbyterian Church CONTACT US +1 215 830 0900 Contact Form Find a Church ABOUT US Our History Our Standards General Assembly Worldwide Outreach © 2026 The Orthodox Presbyterian Church CHURCHES © 2020 OPC STANDARDS NEW HORIZONS ORDAINED SERVANT NEWS © 2026 The Orthodox Presbyterian Church"
   }
 ]

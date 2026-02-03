@@ -99,6 +99,12 @@ export default function CatechismDetailClient({ paramsPromise }: { paramsPromise
         ) : <div className="flex-1" />}
       </div>
 
+      {/* Attribution */}
+      <p className="text-xs text-[var(--color-text-secondary)] text-center mt-6 leading-relaxed">
+        中文译文参考{' '}
+        <a href="https://zh.ligonier.org" target="_blank" rel="noopener noreferrer" className="text-[var(--color-accent)] hover:underline">林格尼尔福音事工</a>
+        {' '}及《历代教会信条精选》
+      </p>
     </div>
   );
 }

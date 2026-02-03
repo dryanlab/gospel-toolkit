@@ -197,6 +197,34 @@ function CatechismPage() {
       {questions.length > 0 && filtered.length === 0 && (
         <p className="text-center text-[var(--color-text-secondary)] py-10">没有找到相关问答</p>
       )}
+
+      {/* Attribution */}
+      <div className="mt-8 pt-6 border-t border-[var(--color-border)]">
+        <p className="text-xs text-[var(--color-text-secondary)] text-center leading-relaxed">
+          中文译文参考{' '}
+          <a 
+            href="https://zh.ligonier.org" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="text-[var(--color-accent)] hover:underline"
+          >
+            林格尼尔福音事工
+          </a>
+          {' '}及《历代教会信条精选》（改革宗出版社）
+          <br />
+          <span className="italic">
+            Chinese translation referenced from{' '}
+            <a 
+              href="https://www.ligonier.org" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-[var(--color-accent)] hover:underline"
+            >
+              Ligonier Ministries
+            </a>
+          </span>
+        </p>
+      </div>
     </div>
   );
 }
