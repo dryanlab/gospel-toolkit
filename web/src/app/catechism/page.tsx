@@ -171,9 +171,15 @@ function CatechismPage() {
         </div>
       ) : (
         <div className="space-y-2">
+          {/* 版权声明 */}
+          <div className="rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 p-4 mb-4">
+            <p className="text-sm text-amber-800 dark:text-amber-200">
+              ⚠️ 要理问答内容正在获取版权授权中，暂时无法查看详情。感谢您的理解！
+            </p>
+          </div>
           {filtered.map(q => (
-            <Link key={q.id} href={`/catechism/${q.id}`} className="block">
-              <div className="rounded-xl border border-[var(--color-border)] p-4 hover:border-[var(--color-accent)] hover:shadow-md transition-all bg-[var(--color-bg)]">
+            <div key={q.id} className="block cursor-not-allowed opacity-50">
+              <div className="rounded-xl border border-[var(--color-border)] p-4 bg-[var(--color-bg)]">
                 <div className="flex items-start justify-between gap-2">
                   <div className="flex-1">
                     <div className="flex items-center gap-2 mb-1">
@@ -190,7 +196,7 @@ function CatechismPage() {
                   <FavoriteButton id={q.id} />
                 </div>
               </div>
-            </Link>
+            </div>
           ))}
         </div>
       )}

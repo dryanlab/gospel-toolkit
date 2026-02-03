@@ -85,19 +85,6 @@ export default function YouthPage() {
         })}
       </div>
       
-      <div className="mt-8 p-6 rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)]">
-        <h3 className="font-semibold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-3">
-          🎯 扩充计划
-        </h3>
-        <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed">
-          我们正在将青少年专区从4个分类20篇内容扩充为8个专门分区，总计120-160篇精心编写的内容。
-          每个分区都针对青少年的实际需要，用生动有趣的语言传达改革宗神学真理。
-          所有内容都是中英双语，并包含圣经经文、讨论问题和实用标签。
-        </p>
-        <p className="text-xs text-[var(--color-text-secondary)] mt-2">
-          目标完成时间：2024年2月 | 语言风格：适合13-18岁青少年 | 神学立场：改革宗/归正
-        </p>
-      </div>
     </div>
   );
 }
