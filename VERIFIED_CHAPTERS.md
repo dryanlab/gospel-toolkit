@@ -1,0 +1,149 @@
+# 书库章节验收记录
+
+总计有chapters的书：133本
+
+## ✅ 已亲自验证 (10本)
+
+- [x] book-037: The Abolition of Man (C.S. Lewis) — 4章
+- [x] book-118: Knowing God (J.I. Packer) — 19章
+- [x] book-165: Desiring God (John Piper) — 11章
+- [x] book-170: Basic Christianity (John Stott) — 4章
+- [x] book-171: The Cross of Christ (John Stott) — 3章
+- [x] book-177: Evidence That Demands a Verdict (Josh McDowell) — 0章
+- [x] book-252: What is Reformed Theology? (R.C. Sproul) — 0章
+- [x] book-291: Prayer (Tim Keller) — 14章
+- [x] book-294: The Reason for God (Tim Keller) — 14章
+- [x] book-311: Systematic Theology (Wayne Grudem) — 0章
+
+## 🔍 待验证 (123本)
+
+- [ ] book-001: Mere Christianity (C.S. Lewis) — 33章
+- [ ] book-002: The Reason for God: Belief in an Age of Skepticism (Timothy Keller) — 16章
+- [ ] book-003: Institutes of the Christian Religion (John Calvin) — 24章
+- [ ] book-004: Defending Your Faith: An Introduction to Apologetics (R.C. Sproul) — 17章
+- [ ] book-005: The Holiness of God (R.C. Sproul) — 12章
+- [ ] book-006: The Screwtape Letters (C.S. Lewis) — 32章
+- [ ] book-007: The Problem of Pain (C.S. Lewis) — 10章
+- [ ] book-008: The Four Loves (C.S. Lewis) — 6章
+- [ ] book-009: Miracles (C.S. Lewis) — 17章
+- [ ] book-010: Queen of the Dark Chamber (Christiana Tsai) — 9章
+- [ ] book-011: The Case for Christ (Lee Strobel) — 14章
+- [ ] book-012: The Problem of Poverty (Abraham Kuyper) — 12章
+- [ ] book-013: Original Sin (Alan Jacobs) — 10章
+- [ ] book-014: Paul the Convert (Alan Segal) — 13章
+- [ ] book-015: The Principle of Sufficient Reason (Alexander Pruss) — 10章
+- [ ] book-016: The Life and Times of Jesus the Messiah (Alfred Edersheim) — 25章
+- [ ] book-017: Science and Religion (Alister McGrath) — 12章
+- [ ] book-018: Science and Religion: A New Introduction (Alister McGrath) — 12章
+- [ ] book-019: The Territories of Human Reason (Alister McGrath) — 12章
+- [ ] book-020: Against Materialism (Alvin Plantinga) — 12章
+- [ ] book-021: God, Freedom, and Evil (Alvin Plantinga) — 12章
+- [ ] book-022: Warranted Christian Belief (Alvin Plantinga) — 14章
+- [ ] book-023: Where the Conflict Really Lies (Alvin Plantinga) — 13章
+- [ ] book-024: How Christianity Changed the World (Alvin Schmidt) — 13章
+- [ ] book-025: God and the Transgender Debate (Andrew Walker) — 12章
+- [ ] book-026: Cur Deus Homo (Anselm of Canterbury) — 12章
+- [ ] book-027: Proslogion (Anselm of Canterbury) — 11章
+- [ ] book-028: Created in God's Image (Anthony Hoekema) — 11章
+- [ ] book-029: The Bible and the Future (Anthony Hoekema) — 8章
+- [ ] book-030: The Four Major Cults (Anthony Hoekema) — 8章
+- [ ] book-031: Mormonism 101 (Bill McKeever) — 8章
+- [ ] book-032: Pensees (Blaise Pascal) — 10章
+- [ ] book-033: Putting Jesus in His Place (Bowman & Komoszewski) — 10章
+- [ ] book-034: The Canon of the New Testament (Bruce Metzger) — 12章
+- [ ] book-035: The Text of the New Testament (Bruce Metzger) — 6章
+- [ ] book-036: Did Adam and Eve Really Exist? (C. John Collins) — 6章
+- [ ] book-038: The Great Divorce (C.S. Lewis) — 12章
+- [ ] book-039: Did Jesus Really Rise from the Dead? (Carl Sweatman) — 7章
+- [ ] book-040: The Creedal Imperative (Carl Trueman) — 8章
+- [ ] book-041: The Evidential Force of Religious Experience (Caroline Franks Davis) — 7章
+- [ ] book-042: Anselm's Discovery (Charles Hartshorne) — 7章
+- [ ] book-043: Christianity and Classical Culture (Charles Norris Cochrane) — 8章
+- [ ] book-044: Hell Under Fire (Christopher Morgan & Robert Peterson) — 8章
+- [ ] book-045: The God I Don (Christopher Wright) — 7章
+- [ ] book-046: The Triune Creator (Colin Gunton) — 8章
+- [ ] book-047: The Trellis and the Vine (Colin Marshall) — 8章
+- [ ] book-048: Between Death and the Resurrection (Cornelis Venema) — 8章
+- [ ] book-049: Not the Way It's Supposed to Be (Cornelius Plantinga) — 8章
+- [ ] book-050: A Christian Theory of Knowledge (Cornelius Van Til) — 8章
+- [ ] book-051: The Defense of the Faith (Cornelius Van Til) — 8章
+- [ ] book-052: Jesus and His World (Craig A. Evans) — 8章
+- [ ] book-053: The Historical Reliability of the Gospels (Craig Blomberg) — 8章
+- [ ] book-054: A Call to Spiritual Reformation (D.A. Carson) — 8章
+- [ ] book-055: How Long, O Lord? (D.A. Carson) — 8章
+- [ ] book-057: Showing the Spirit (D.A. Carson) — 8章
+- [ ] book-059: The Cross and Christian Ministry (D.A. Carson) — 8章
+- [ ] book-060: The Difficult Doctrine of the Love of God (D.A. Carson) — 8章
+- [ ] book-061: The Gagging of God: Christianity Confronts Pluralism (D.A. Carson) — 10章
+- [ ] book-062: Their Rock Is Not Like Our Rock (Daniel Strange) — 10章
+- [ ] book-063: Revisiting the Corruption of the New Testament (Daniel Wallace) — 10章
+- [ ] book-064: Blasphemy and Exaltation in Judaism and the Final Examination of Jesus (Darrell Bock) — 10章
+- [ ] book-065: The Missing Gospels (Darrell Bock) — 10章
+- [ ] book-066: Atheist Delusions: The Christian Revolution and Its Fashionable Enemies (David Bentley Hart) — 10章
+- [ ] book-067: The Conscious Mind (David Chalmers) — 10章
+- [ ] book-068: Spiritual Warfare (David Powlison) — 10章
+- [ ] book-069: The Five Points of Calvinism (David Steele & Curtis Thomas) — 10章
+- [ ] book-070: The Triumph of the Lamb (Dennis Johnson) — 10章
+- [ ] book-071: Shaping a Digital World (Derek C. Schuurman) — 10章
+- [ ] book-072: Life Together (Dietrich Bonhoeffer) — 10章
+- [ ] book-073: The Cost of Discipleship (Dietrich Bonhoeffer) — 12章
+- [ ] book-074: The Person of Christ (Donald Macleod) — 10章
+- [ ] book-075: Ascension and Ecclesia (Douglas Farrow) — 10章
+- [ ] book-076: Truth Decay (Douglas Groothuis) — 10章
+- [ ] book-077: The Last Superstition (Edward Feser) — 10章
+- [ ] book-078: On Beauty and Being Just (Elaine Scarry) — 10章
+- [ ] book-079: God's Devil (Erwin Lutzer) — 10章
+- [ ] book-080: The Book of the Acts (NICNT) (F.F. Bruce) — 12章
+- [ ] book-081: The Canon of Scripture (F.F. Bruce) — 10章
+- [ ] book-082: The New Testament Documents (F.F. Bruce) — 5章
+- [ ] book-083: The New Testament Documents: Are They Reliable? (F.F. Bruce) — 5章
+- [ ] book-084: How to Read the Bible for All Its Worth (Fee & Stuart) — 6章
+- [ ] book-085: Relativism: Feet Firmly Planted in Mid-Air (Francis Beckwith & Greg Koukl) — 5章
+- [ ] book-086: The Language of God (Francis Collins) — 5章
+- [ ] book-087: Escape from Reason (Francis Schaeffer) — 5章
+- [ ] book-088: He Is There and He Is Not Silent (Francis Schaeffer) — 5章
+- [ ] book-089: The Deep Things of God (Fred Sanders) — 6章
+- [ ] book-090: We Become What We Worship (G.K. Beale) — 6章
+- [ ] book-094: The Historical Jesus (Gary Habermas) — 2章
+- [ ] book-101: Presuppositional Apologetics: Stated and Defended (Greg Bahnsen) — 5章
+- [ ] book-102: Van Til's Apologetic (Greg Bahnsen) — 5章
+- [ ] book-112: Evangelicalism Divided (Iain Murray) — 2章
+- [ ] book-116: Evangelism and the Sovereignty of God (J.I. Packer) — 2章
+- [ ] book-133: The King James Only Controversy (James White) — 4章
+- [ ] book-134: The Potter's Freedom (James White) — 4章
+- [ ] book-135: What Every Christian Needs to Know About the Qur'an (James White) — 4章
+- [ ] book-136: What Every Christian Needs to Know About the Quran (James White) — 4章
+- [ ] book-137: The Age of AI: Artificial Intelligence and the Future of Humanity (Jason Thacker) — 10章
+- [ ] book-138: The Discipline of Grace (Jerry Bridges) — 10章
+- [ ] book-139: Transforming Grace (Jerry Bridges) — 10章
+- [ ] book-140: Trusting God (Jerry Bridges) — 4章
+- [ ] book-141: Overcoming the World (Joel Beeke) — 4章
+- [ ] book-142: Grace Abounding (John Bunyan) — 4章
+- [ ] book-143: Grace Abounding to the Chief of Sinners (John Bunyan) — 4章
+- [ ] book-158: Redemption Accomplished and Applied (John Murray) — 5章
+- [ ] book-160: Sanctification (John Owen) — 5章
+- [ ] book-161: The Death of Death in the Death of Christ (John Owen) — 4章
+- [ ] book-162: The Mortification of Sin (John Owen) — 4章
+- [ ] book-163: The Perseverance of the Saints (John Owen) — 5章
+- [ ] book-164: A Marginal Jew (John P. Meier) — 3章
+- [ ] book-166: Don't Waste Your Life (John Piper) — 3章
+- [ ] book-167: The Pleasures of God (John Piper) — 3章
+- [ ] book-168: Suffering and the Sovereignty of God (John Piper & Justin Taylor) — 3章
+- [ ] book-169: Baptism and Fullness (John Stott) — 3章
+- [ ] book-174: The Church Discipline (Jonathan Leeman) — 3章
+- [ ] book-179: Covenantal Apologetics (K. Scott Oliphint) — 4章
+- [ ] book-189: Why We Love the Church (Kevin DeYoung) — 3章
+- [ ] book-192: Nine Marks of a Healthy Church (Mark Dever) — 3章
+- [ ] book-193: The Compelling Community (Mark Dever) — 3章
+- [ ] book-196: Sanctification (Michael Allen) — 5章
+- [ ] book-199: Answering Jewish Objections to Jesus (Michael Brown) — 4章
+- [ ] book-200: Answering Jewish Objections to Jesus, 5 vols. (Michael Brown) — 4章
+- [ ] book-203: Evangelism in the Early Church (Michael Green) — 3章
+- [ ] book-221: Baker Encyclopedia of Christian Apologetics (Norman Geisler) — 4章
+- [ ] book-237: Embodied: Transgender Identities, the Church, and What the Bible Has to Say (Preston Sprinkle) — 3章
+- [ ] book-253: What is the Church? (R.C. Sproul) — 3章
+- [ ] book-271: Reasoning from the Scriptures with Jehovah's Witnesses (Ron Rhodes) — 4章
+
+## 📝 无chapters待修复 (190本)
+
+见 CHAPTERS_CHECKLIST.md
