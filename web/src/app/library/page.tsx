@@ -105,7 +105,7 @@ export default function LibraryPage() {
         {bookCategories.map(([cat, count], i) => {
           const info = categoryInfo[cat] || { icon: '📘', en: cat, description_zh: '' };
           return (
-            <Link key={cat} href={`/library/category/${encodeURIComponent(cat)}`} className="block group">
+            <Link key={cat} href={`/library/category/${cat}`} className="block group">
               <div className={`rounded-2xl bg-gradient-to-br ${categoryGradients[i % categoryGradients.length]} p-6 text-white shadow-lg hover:shadow-xl transition-all hover:-translate-y-1 h-full`}>
                 <div className="flex items-start justify-between mb-4">
                   <div className="text-3xl">{info.icon}</div>
