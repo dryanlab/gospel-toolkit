@@ -8,7 +8,7 @@ export interface QAQuestion {
   detailed_answer_zh: string;
   detailed_answer_en: string;
   bible_verses: string[];
-  related_readings: string[];
+  related_readings: (string | { text: string; book_id: string | null })[];
   tags: string[];
 }
 
@@ -44,7 +44,7 @@ export interface ApologeticsTopic {
   core_argument_en: string;
   common_objections: Objection[];
   bible_verses: string[];
-  recommended_resources: string[];
+  recommended_resources: (string | { text: string; book_id: string | null })[];
   tags: string[];
 }
 
@@ -54,7 +54,7 @@ export interface BookChapter {
   title_en: string;
   summary_zh: string;
   summary_en: string;
-  key_quotes: string[];
+  key_quotes: (string | { zh: string; en: string })[];
   content_en?: string;
   content_zh?: string;
 }
@@ -67,6 +67,7 @@ export interface Book {
   title_en: string;
   summary_zh: string;
   summary_en: string;
+  category: string;
   chapters: BookChapter[];
   recommend_for: string[];
   tags: string[];

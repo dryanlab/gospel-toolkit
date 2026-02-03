@@ -99,7 +99,7 @@ export default function BookDetailClient({ paramsPromise }: { paramsPromise: Pro
         ))}
       </div>
 
-      {book.chapters.length > 0 && (
+      {book.chapters && book.chapters.length > 0 && (
         <div className="mb-8">
           <h3 className="font-semibold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-4 text-lg">📑 章节 Chapters</h3>
           <div className="space-y-4">
@@ -116,7 +116,7 @@ export default function BookDetailClient({ paramsPromise }: { paramsPromise: Pro
                   <div className="mt-3 space-y-2">
                     {ch.key_quotes.map((quote, qi) => (
                       <blockquote key={qi} className="border-l-4 border-[var(--color-accent)] pl-3 text-sm text-[var(--color-accent)] italic font-serif-cn">
-                        &ldquo;{quote}&rdquo;
+                        &ldquo;{typeof quote === 'string' ? quote : `${quote.zh}\n${quote.en}`}&rdquo;
                       </blockquote>
                     ))}
                   </div>

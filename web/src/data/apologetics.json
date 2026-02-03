@@ -33,9 +33,18 @@
       "Psalm 19:1"
     ],
     "recommended_resources": [
-      "William Lane Craig, 'Reasonable Faith'",
-      "R.C. Sproul, 'Defending Your Faith'",
-      "Stephen Meyer, 'Return of the God Hypothesis'"
+      {
+        "text": "威廉·莱恩·克雷格，《合理的信仰》；William Lane Craig, *Reasonable Faith*",
+        "book_id": "book-322"
+      },
+      {
+        "text": "R.C.史普罗，《护卫你的信仰》；R.C. Sproul, *Defending Your Faith*",
+        "book_id": "book-240"
+      },
+      {
+        "text": "斯蒂芬·迈尔，《上帝假说的回归》；Stephen Meyer, *Return of the God Hypothesis*",
+        "book_id": "book-279"
+      }
     ],
     "tags": [
       "cosmology",
@@ -79,9 +88,18 @@
       "Micah 6:8"
     ],
     "recommended_resources": [
-      "C.S. Lewis, 'Mere Christianity' (Book I)",
-      "R.C. Sproul, 'The Consequences of Ideas'",
-      "William Lane Craig, 'On Guard'"
+      {
+        "text": "C.S.路易斯，《返璞归真》（第一卷）；C.S. Lewis, *Mere Christianity* (Book I)",
+        "book_id": "book-001"
+      },
+      {
+        "text": "R.C.史普罗，《观念的后果》；R.C. Sproul, *The Consequences of Ideas*",
+        "book_id": "book-247"
+      },
+      {
+        "text": "威廉·莱恩·克雷格，《护卫真道》；William Lane Craig, *On Guard*",
+        "book_id": "book-321"
+      }
     ],
     "tags": [
       "moral-argument",
@@ -126,9 +144,18 @@
       "2 Corinthians 4:17"
     ],
     "recommended_resources": [
-      "C.S. Lewis, 'The Problem of Pain'",
-      "Timothy Keller, 'Walking with God through Pain and Suffering'",
-      "D.A. Carson, 'How Long, O Lord?'"
+      {
+        "text": "C.S.路易斯，《痛苦的奥秘》；C.S. Lewis, *The Problem of Pain*",
+        "book_id": "book-007"
+      },
+      {
+        "text": "提摩太·凯勒，《与上帝同行穿越苦难》；Timothy Keller, *Walking with God through Pain and Suffering*",
+        "book_id": "book-300"
+      },
+      {
+        "text": "D.A.卡森，《主啊，要到几时？》；D.A. Carson, *How Long, O Lord?*",
+        "book_id": "book-055"
+      }
     ],
     "tags": [
       "problem-of-evil",
@@ -172,9 +199,18 @@
       "Jeremiah 10:12"
     ],
     "recommended_resources": [
-      "Robin Collins, 'The Fine-Tuning Argument'",
-      "Stephen Meyer, 'Return of the God Hypothesis'",
-      "Hugh Ross, 'The Creator and the Cosmos'"
+      {
+        "text": "罗宾·柯林斯，《精细调节论证》；Robin Collins, *The Fine-Tuning Argument*",
+        "book_id": "book-267"
+      },
+      {
+        "text": "斯蒂芬·迈尔，《上帝假说的回归》；Stephen Meyer, *Return of the God Hypothesis*",
+        "book_id": "book-279"
+      },
+      {
+        "text": "休·罗斯，《创造者与宇宙》；Hugh Ross, *The Creator and the Cosmos*",
+        "book_id": "book-110"
+      }
     ],
     "tags": [
       "fine-tuning",
@@ -225,9 +261,18 @@
       "Acts 1:3"
     ],
     "recommended_resources": [
-      "Gary Habermas, 'The Case for the Resurrection of Jesus'",
-      "N.T. Wright, 'The Resurrection of the Son of God'",
-      "Lee Strobel, 'The Case for Christ'"
+      {
+        "text": "加里·哈伯马斯，《耶稣复活的证据》；Gary Habermas, *The Case for the Resurrection of Jesus*",
+        "book_id": "book-093"
+      },
+      {
+        "text": "N.T.赖特，《神儿子的复活》；N.T. Wright, *The Resurrection of the Son of God*",
+        "book_id": "book-214"
+      },
+      {
+        "text": "李·史特博，《重审耶稣》；Lee Strobel, *The Case for Christ*",
+        "book_id": "book-011"
+      }
     ],
     "tags": [
       "resurrection",
@@ -271,9 +316,18 @@
       "2 Timothy 3:16"
     ],
     "recommended_resources": [
-      "James White, 'What Every Christian Needs to Know About the Qur'an'",
-      "Norman Geisler, 'Answering Islam'",
-      "David Wood, 'Answering-Islam.org'"
+      {
+        "text": "詹姆斯·怀特，《每个基督徒都应了解的古兰经知识》；James White, *What Every Christian Needs to Know About the Qur'an*",
+        "book_id": "book-135"
+      },
+      {
+        "text": "诺曼·盖斯勒，《回应伊斯兰》；Norman Geisler, *Answering Islam*",
+        "book_id": "book-220"
+      },
+      {
+        "text": "大卫·伍德，Answering-Islam.org（回应伊斯兰网站）；David Wood, Answering-Islam.org",
+        "book_id": null
+      }
     ],
     "tags": [
       "tahrif",
@@ -318,9 +372,18 @@
       "Philippians 2:5-11"
     ],
     "recommended_resources": [
-      "James White, 'The Forgotten Trinity'",
-      "Nabeel Qureshi, 'No God but One: Allah or Jesus?'",
-      "Robert Letham, 'The Holy Trinity'"
+      {
+        "text": "詹姆斯·怀特，《被遗忘的三位一体》；James White, *The Forgotten Trinity*",
+        "book_id": "book-132"
+      },
+      {
+        "text": "纳比尔·乔瑞希，《独一真神：安拉还是耶稣？》；Nabeel Qureshi, *No God but One: Allah or Jesus?*",
+        "book_id": "book-215"
+      },
+      {
+        "text": "罗伯特·莱瑟姆，《圣三位一体》；Robert Letham, *The Holy Trinity*",
+        "book_id": "book-265"
+      }
     ],
     "tags": [
       "trinity",
@@ -365,9 +428,18 @@
       "1 Peter 2:24"
     ],
     "recommended_resources": [
-      "Nabeel Qureshi, 'Seeking Allah, Finding Jesus'",
-      "John Stott, 'The Cross of Christ'",
-      "James White, 'What Every Christian Needs to Know About the Qur'an'"
+      {
+        "text": "纳比尔·乔瑞希，《寻找安拉，发现耶稣》；Nabeel Qureshi, *Seeking Allah, Finding Jesus*",
+        "book_id": "book-216"
+      },
+      {
+        "text": "约翰·斯托特，《基督十架》；John Stott, *The Cross of Christ*",
+        "book_id": "book-171"
+      },
+      {
+        "text": "詹姆斯·怀特，《每个基督徒都应了解的古兰经知识》；James White, *What Every Christian Needs to Know About the Qur'an*",
+        "book_id": "book-135"
+      }
     ],
     "tags": [
       "crucifixion",
@@ -411,9 +483,18 @@
       "Jeremiah 29:13"
     ],
     "recommended_resources": [
-      "Ravi Zacharias, 'The Lotus and the Cross'",
-      "Harold Netland, 'Christianity and Religious Diversity'",
-      "Daniel Strange, 'Their Rock Is Not Like Our Rock'"
+      {
+        "text": "拉维·撒迦利亚，《莲花与十字架》；Ravi Zacharias, *The Lotus and the Cross*",
+        "book_id": "book-258"
+      },
+      {
+        "text": "哈罗德·内特兰，《基督教与宗教多元性》；Harold Netland, *Christianity and Religious Diversity*",
+        "book_id": "book-107"
+      },
+      {
+        "text": "丹尼尔·斯特兰奇，《他们的磐石不像我们的磐石》；Daniel Strange, *Their Rock Is Not Like Our Rock*",
+        "book_id": "book-062"
+      }
     ],
     "tags": [
       "personal-god",
@@ -458,9 +539,18 @@
       "Titus 3:5"
     ],
     "recommended_resources": [
-      "Timothy Keller, 'The Reason for God' (Ch. 12)",
-      "R.C. Sproul, 'Grace Unknown'",
-      "Jerry Bridges, 'Transforming Grace'"
+      {
+        "text": "提摩太·凯勒，《为何是上帝》（第12章）；Timothy Keller, *The Reason for God* (Ch. 12)",
+        "book_id": "book-299"
+      },
+      {
+        "text": "R.C.史普罗，《未知的恩典》；R.C. Sproul, *Grace Unknown*",
+        "book_id": "book-244"
+      },
+      {
+        "text": "杰里·布里奇斯，《改变生命的恩典》；Jerry Bridges, *Transforming Grace*",
+        "book_id": "book-139"
+      }
     ],
     "tags": [
       "grace",
@@ -505,9 +595,18 @@
       "1 Corinthians 6:19-20"
     ],
     "recommended_resources": [
-      "Ravi Zacharias, 'The Lotus and the Cross'",
-      "C.S. Lewis, 'Mere Christianity' (Book IV)",
-      "J.P. Moreland, 'The Soul'"
+      {
+        "text": "拉维·撒迦利亚，《莲花与十字架》；Ravi Zacharias, *The Lotus and the Cross*",
+        "book_id": "book-258"
+      },
+      {
+        "text": "C.S.路易斯，《返璞归真》（第四卷）；C.S. Lewis, *Mere Christianity* (Book IV)",
+        "book_id": "book-001"
+      },
+      {
+        "text": "J.P.莫兰德，《灵魂》；J.P. Moreland, *The Soul*",
+        "book_id": "book-121"
+      }
     ],
     "tags": [
       "anatta",
@@ -552,9 +651,18 @@
       "Revelation 22:8-9"
     ],
     "recommended_resources": [
-      "Ron Rhodes, 'Reasoning from the Scriptures with Jehovah's Witnesses'",
-      "James White, 'The Forgotten Trinity'",
-      "Walter Martin, 'The Kingdom of the Cults'"
+      {
+        "text": "罗恩·罗德斯，《用圣经与耶和华见证人辩论》；Ron Rhodes, *Reasoning from the Scriptures with Jehovah's Witnesses*",
+        "book_id": "book-271"
+      },
+      {
+        "text": "詹姆斯·怀特，《被遗忘的三位一体》；James White, *The Forgotten Trinity*",
+        "book_id": "book-132"
+      },
+      {
+        "text": "沃尔特·马丁，《异端的王国》；Walter Martin, *The Kingdom of the Cults*",
+        "book_id": "book-309"
+      }
     ],
     "tags": [
       "jehovahs-witnesses",
@@ -599,9 +707,18 @@
       "Jeremiah 17:9"
     ],
     "recommended_resources": [
-      "Walter Martin, 'The Kingdom of the Cults'",
-      "James White, 'Letters to a Mormon Elder'",
-      "Bill McKeever, 'Mormonism 101'"
+      {
+        "text": "沃尔特·马丁，《异端的王国》；Walter Martin, *The Kingdom of the Cults*",
+        "book_id": "book-309"
+      },
+      {
+        "text": "詹姆斯·怀特，《致摩门教长老的信》；James White, *Letters to a Mormon Elder*",
+        "book_id": "book-130"
+      },
+      {
+        "text": "比尔·麦基弗，《摩门教入门》；Bill McKeever, *Mormonism 101*",
+        "book_id": "book-031"
+      }
     ],
     "tags": [
       "mormonism",
@@ -647,9 +764,18 @@
       "2 Corinthians 11:14"
     ],
     "recommended_resources": [
-      "Chinese Church Heresy Discernment Resources",
-      "Walter Martin, 'The Kingdom of the Cults'",
-      "Anthony Hoekema, 'The Four Major Cults'"
+      {
+        "text": "中国教会异端辨别资源；Chinese Church Heresy Discernment Resources",
+        "book_id": null
+      },
+      {
+        "text": "沃尔特·马丁，《异端的王国》；Walter Martin, *The Kingdom of the Cults*",
+        "book_id": "book-309"
+      },
+      {
+        "text": "安东尼·乌克马，《四大异端》；Anthony Hoekema, *The Four Major Cults*",
+        "book_id": "book-030"
+      }
     ],
     "tags": [
       "eastern-lightning",
@@ -706,11 +832,26 @@
       "Colossians 1:17"
     ],
     "recommended_resources": [
-      "Alister McGrath, 'Science and Religion: A New Introduction'",
-      "John Lennox, 'God's Undertaker: Has Science Buried God?'",
-      "R.C. Sproul, 'Not a Chance'",
-      "John Lennox, Can Science Explain Everything?",
-      "Alister McGrath, Science and Religion"
+      {
+        "text": "阿利斯特·麦格拉思，《科学与宗教：新导论》；Alister McGrath, *Science and Religion: A New Introduction*",
+        "book_id": "book-018"
+      },
+      {
+        "text": "约翰·列诺克斯，《上帝的掘墓人：科学埋葬了上帝吗？》；John Lennox, *God's Undertaker: Has Science Buried God?*",
+        "book_id": "book-153"
+      },
+      {
+        "text": "R.C.史普罗，《绝非偶然》；R.C. Sproul, *Not a Chance*",
+        "book_id": "book-245"
+      },
+      {
+        "text": "约翰·列诺克斯，《科学能解释一切吗？》；John Lennox, *Can Science Explain Everything?*",
+        "book_id": "book-152"
+      },
+      {
+        "text": "阿利斯特·麦格拉思，《科学与宗教》；Alister McGrath, *Science and Religion*",
+        "book_id": "book-017"
+      }
     ],
     "tags": [
       "science-faith",
@@ -754,9 +895,18 @@
       "Matthew 5:44"
     ],
     "recommended_resources": [
-      "Timothy Keller, 'The Reason for God' (Ch. 1)",
-      "Lesslie Newbigin, 'The Gospel in a Pluralist Society'",
-      "Harold Netland, 'Christianity and Religious Diversity'"
+      {
+        "text": "提摩太·凯勒，《为何是上帝》（第1章）；Timothy Keller, *The Reason for God* (Ch. 1)",
+        "book_id": "book-299"
+      },
+      {
+        "text": "莱斯利·纽比金，《多元社会中的福音》；Lesslie Newbigin, *The Gospel in a Pluralist Society*",
+        "book_id": "book-191"
+      },
+      {
+        "text": "哈罗德·内特兰，《基督教与宗教多元性》；Harold Netland, *Christianity and Religious Diversity*",
+        "book_id": "book-107"
+      }
     ],
     "tags": [
       "pluralism",
@@ -801,9 +951,18 @@
       "John 13:34-35"
     ],
     "recommended_resources": [
-      "Timothy Keller, 'The Reason for God' (Ch. 4)",
-      "Rodney Stark, 'The Rise of Christianity'",
-      "Tom Holland, 'Dominion: How the Christian Revolution Remade the World'"
+      {
+        "text": "提摩太·凯勒，《为何是上帝》（第4章）；Timothy Keller, *The Reason for God* (Ch. 4)",
+        "book_id": "book-299"
+      },
+      {
+        "text": "罗德尼·斯塔克，《基督教的兴起》；Rodney Stark, *The Rise of Christianity*",
+        "book_id": "book-269"
+      },
+      {
+        "text": "汤姆·霍兰德，《统治：基督教革命如何重塑世界》；Tom Holland, *Dominion: How the Christian Revolution Remade the World*",
+        "book_id": "book-302"
+      }
     ],
     "tags": [
       "social-justice",
@@ -848,9 +1007,18 @@
       "Romans 1:19-20"
     ],
     "recommended_resources": [
-      "J.P. Moreland, 'The Recalcitrant Imago Dei'",
-      "David Chalmers, 'The Conscious Mind'",
-      "Alvin Plantinga, 'Against Materialism'"
+      {
+        "text": "J.P.莫兰德，《顽固的上帝形象》；J.P. Moreland, *The Recalcitrant Imago Dei*",
+        "book_id": "book-120"
+      },
+      {
+        "text": "大卫·查尔默斯，《有意识的心灵》；David Chalmers, *The Conscious Mind*",
+        "book_id": "book-067"
+      },
+      {
+        "text": "阿尔文·普兰丁格，《反对唯物主义》；Alvin Plantinga, *Against Materialism*",
+        "book_id": "book-020"
+      }
     ],
     "tags": [
       "consciousness",
@@ -894,9 +1062,18 @@
       "Colossians 1:16-17"
     ],
     "recommended_resources": [
-      "Stephen Meyer, 'Signature in the Cell'",
-      "Stephen Meyer, 'Darwin's Doubt'",
-      "Michael Behe, 'Darwin's Black Box'"
+      {
+        "text": "斯蒂芬·迈尔，《细胞中的签名》；Stephen Meyer, *Signature in the Cell*",
+        "book_id": "book-280"
+      },
+      {
+        "text": "斯蒂芬·迈尔，《达尔文的疑惑》；Stephen Meyer, *Darwin's Doubt*",
+        "book_id": "book-278"
+      },
+      {
+        "text": "迈克尔·贝希，《达尔文的黑匣子》；Michael Behe, *Darwin's Black Box*",
+        "book_id": "book-197"
+      }
     ],
     "tags": [
       "information",
@@ -940,9 +1117,18 @@
       "John 21:24"
     ],
     "recommended_resources": [
-      "F.F. Bruce, 'The New Testament Documents: Are They Reliable?'",
-      "Craig Blomberg, 'The Historical Reliability of the Gospels'",
-      "Daniel Wallace, 'Revisiting the Corruption of the New Testament'"
+      {
+        "text": "F.F.布鲁斯，《新约文件可靠吗？》；F.F. Bruce, *The New Testament Documents: Are They Reliable?*",
+        "book_id": "book-083"
+      },
+      {
+        "text": "克雷格·布隆伯格，《福音书的历史可靠性》；Craig Blomberg, *The Historical Reliability of the Gospels*",
+        "book_id": "book-053"
+      },
+      {
+        "text": "丹尼尔·华莱士，《重访新约文本》；Daniel Wallace, *Revisiting the Corruption of the New Testament*",
+        "book_id": "book-063"
+      }
     ],
     "tags": [
       "manuscripts",
@@ -971,12 +1157,6 @@
         "objection_en": "Evolution can explain our moral intuitions without needing God.",
         "response_zh": "进化可以解释我们为什么会有某些道德感受，但不能证明这些感受反映了客观真理。如果道德直觉只是进化为了生存而赋予我们的心理倾向，那么我们就没有理由信任这些直觉是客观正确的。这意味着无神论者说“恶真的存在”时，他们没有认识论的基础。进化给了我们相信道德的倾向，但没有给这种信念提供真理保证。唯有上帝才能同时解释道德直觉的存在和它们的客观有效性。",
         "response_en": "Evolution can explain why we have certain moral feelings but cannot validate those feelings as objectively true. If moral intuitions are merely psychological dispositions evolution gave us for survival, we have no reason to trust them as objectively correct. This means when atheists say 'evil really exists,' they lack epistemological grounding. Evolution gives us the disposition to believe in morality but provides no truth-guarantee for that belief. Only God can simultaneously explain both the existence of moral intuitions and their objective validity."
-      },
-      {
-        "objection_zh": "进化假说可以解释我们的道德直觉，不需要上帝。",
-        "objection_en": "Evolution can explain our moral intuitions without needing God.",
-        "response_zh": "进化可以解释我们为什么会有某些道德感受，但不能证明这些感受反映了客观真理。如果道德直觉只是进化为生存而赋予我们的心理倾向，那么我们没有理由信任这些直觉是客观正确的。进化给了我们相信道德的倾向，但没有给这种信念提供真理保证。唯有上帝才能同时解释道德直觉的存在和它们的客观有效性。正如C.S.路易斯所论证的，我们对道德的认知不是进化的意外产物，而是造物主在我们心中留下的印记。",
-        "response_en": "Evolution can explain why we have certain moral feelings but cannot validate them as objectively true. If moral intuitions are merely psychological dispositions evolution gave us for survival, we have no reason to trust them as objectively correct. Evolution gives the disposition to believe in morality but provides no truth-guarantee. Only God can simultaneously explain moral intuitions' existence and their objective validity. As C.S. Lewis argued, our moral awareness is not an accidental evolutionary byproduct but the Creator's imprint upon our hearts."
       }
     ],
     "bible_verses": [
@@ -986,9 +1166,18 @@
       "Isaiah 5:20"
     ],
     "recommended_resources": [
-      "Alvin Plantinga, 'God, Freedom, and Evil'",
-      "C.S. Lewis, 'Mere Christianity' (Book I)",
-      "Greg Bahnsen, 'Always Ready'"
+      {
+        "text": "阿尔文·普兰丁格，《上帝、自由与恶》；Alvin Plantinga, *God, Freedom, and Evil*",
+        "book_id": "book-021"
+      },
+      {
+        "text": "C.S.路易斯，《返璞归真》（第一卷）；C.S. Lewis, *Mere Christianity* (Book I)",
+        "book_id": "book-001"
+      },
+      {
+        "text": "格雷格·巴恩森，《随时预备》；Greg Bahnsen, *Always Ready*",
+        "book_id": "book-100"
+      }
     ],
     "tags": [
       "problem-of-evil",
@@ -1033,9 +1222,18 @@
       "1 Corinthians 15:3"
     ],
     "recommended_resources": [
-      "James White, 'What Every Christian Needs to Know About the Qur'an'",
-      "John Gilchrist, 'The Quran and the Historical Jesus'",
-      "Gary Habermas, 'The Historical Jesus'"
+      {
+        "text": "詹姆斯·怀特，《每个基督徒都应了解的古兰经知识》；James White, *What Every Christian Needs to Know About the Qur'an*",
+        "book_id": "book-135"
+      },
+      {
+        "text": "约翰·吉尔克里斯特，《古兰经与历史上的耶稣》；John Gilchrist, *The Quran and the Historical Jesus*",
+        "book_id": "book-149"
+      },
+      {
+        "text": "加里·哈伯马斯，《历史上的耶稣》；Gary Habermas, *The Historical Jesus*",
+        "book_id": "book-094"
+      }
     ],
     "tags": [
       "crucifixion",
@@ -1080,9 +1278,18 @@
       "Acts 5:3-4"
     ],
     "recommended_resources": [
-      "James White, 'The Forgotten Trinity'",
-      "Robert Letham, 'The Holy Trinity'",
-      "Fred Sanders, 'The Deep Things of God'"
+      {
+        "text": "詹姆斯·怀特，《被遗忘的三位一体》；James White, *The Forgotten Trinity*",
+        "book_id": "book-132"
+      },
+      {
+        "text": "罗伯特·莱瑟姆，《圣三位一体》；Robert Letham, *The Holy Trinity*",
+        "book_id": "book-265"
+      },
+      {
+        "text": "弗雷德·桑德斯，《上帝的深奥之事》；Fred Sanders, *The Deep Things of God*",
+        "book_id": "book-089"
+      }
     ],
     "tags": [
       "trinity",
@@ -1126,9 +1333,18 @@
       "Colossians 2:9"
     ],
     "recommended_resources": [
-      "James White, 'What Every Christian Needs to Know About the Qur'an'",
-      "Nabeel Qureshi, 'Seeking Allah, Finding Jesus'",
-      "Norman Geisler & Abdul Saleeb, 'Answering Islam'"
+      {
+        "text": "詹姆斯·怀特，《每个基督徒都应了解的古兰经知识》；James White, *What Every Christian Needs to Know About the Qur'an*",
+        "book_id": "book-135"
+      },
+      {
+        "text": "纳比尔·乔瑞希，《寻找安拉，发现耶稣》；Nabeel Qureshi, *Seeking Allah, Finding Jesus*",
+        "book_id": "book-216"
+      },
+      {
+        "text": "诺曼·盖斯勒、阿卜杜勒·萨利布，《回应伊斯兰》；Norman Geisler & Abdul Saleeb, *Answering Islam*",
+        "book_id": "book-222"
+      }
     ],
     "tags": [
       "jesus",
@@ -1172,9 +1388,18 @@
       "1 Peter 1:25"
     ],
     "recommended_resources": [
-      "Keith Small, 'Textual Criticism and Qur'an Manuscripts'",
-      "Daniel Wallace, 'Revisiting the Corruption of the New Testament'",
-      "James White, 'The King James Only Controversy'"
+      {
+        "text": "基思·斯莫尔，《Textual Criticism and Qur》（an Manuscripts'）；Keith Small, *Textual Criticism and Qur* (an Manuscripts')",
+        "book_id": "book-184"
+      },
+      {
+        "text": "丹尼尔·华莱士，《重访新约文本》；Daniel Wallace, *Revisiting the Corruption of the New Testament*",
+        "book_id": "book-063"
+      },
+      {
+        "text": "詹姆斯·怀特，《钦定本唯一争议》；James White, *The King James Only Controversy*",
+        "book_id": "book-133"
+      }
     ],
     "tags": [
       "textual-criticism",
@@ -1218,9 +1443,18 @@
       "Isaiah 53:4-5"
     ],
     "recommended_resources": [
-      "Timothy Keller, 'Walking with God through Pain and Suffering'",
-      "Ravi Zacharias, 'The Lotus and the Cross'",
-      "C.S. Lewis, 'The Problem of Pain'"
+      {
+        "text": "提摩太·凯勒，《与上帝同行穿越苦难》；Timothy Keller, *Walking with God through Pain and Suffering*",
+        "book_id": "book-300"
+      },
+      {
+        "text": "拉维·撒迦利亚，《莲花与十字架》；Ravi Zacharias, *The Lotus and the Cross*",
+        "book_id": "book-258"
+      },
+      {
+        "text": "C.S.路易斯，《痛苦的奥秘》；C.S. Lewis, *The Problem of Pain*",
+        "book_id": "book-007"
+      }
     ],
     "tags": [
       "suffering",
@@ -1265,9 +1499,18 @@
       "Romans 2:14-15"
     ],
     "recommended_resources": [
-      "Francis Beckwith & Greg Koukl, 'Relativism: Feet Firmly Planted in Mid-Air'",
-      "C.S. Lewis, 'The Abolition of Man'",
-      "Greg Koukl, 'Tactics'"
+      {
+        "text": "弗朗西斯·贝克维斯、格雷格·库克尔，《相对主义：双脚踩在半空中》；Francis Beckwith & Greg Koukl, *Relativism: Feet Firmly Planted in Mid-Air*",
+        "book_id": "book-085"
+      },
+      {
+        "text": "C.S.路易斯，《人的废黜》；C.S. Lewis, *The Abolition of Man*",
+        "book_id": "book-037"
+      },
+      {
+        "text": "格雷格·库克尔，《策略》；Greg Koukl, *Tactics*",
+        "book_id": "book-105"
+      }
     ],
     "tags": [
       "relativism",
@@ -1311,9 +1554,18 @@
       "James 3:9"
     ],
     "recommended_resources": [
-      "Nicholas Wolterstorff, 'Justice: Rights and Wrongs'",
-      "Tom Holland, 'Dominion: How the Christian Revolution Remade the World'",
-      "Vishal Mangalwadi, 'The Book That Made Your World'"
+      {
+        "text": "尼古拉斯·沃尔特斯多夫，《公义：权利与错误》；Nicholas Wolterstorff, *Justice: Rights and Wrongs*",
+        "book_id": "book-218"
+      },
+      {
+        "text": "汤姆·霍兰德，《统治：基督教革命如何重塑世界》；Tom Holland, *Dominion: How the Christian Revolution Remade the World*",
+        "book_id": "book-302"
+      },
+      {
+        "text": "维沙尔·曼格瓦迪，《改变你世界的那本书》；Vishal Mangalwadi, *The Book That Made Your World*",
+        "book_id": "book-307"
+      }
     ],
     "tags": [
       "human-rights",
@@ -1358,9 +1610,18 @@
       "Revelation 4:11"
     ],
     "recommended_resources": [
-      "Timothy Keller, 'Making Sense of God'",
-      "C.S. Lewis, 'Mere Christianity'",
-      "Blaise Pascal, 'Pensees'"
+      {
+        "text": "提摩太·凯勒，《理解上帝》；Timothy Keller, *Making Sense of God*",
+        "book_id": "book-297"
+      },
+      {
+        "text": "C.S.路易斯，《返璞归真》；C.S. Lewis, *Mere Christianity*",
+        "book_id": "book-001"
+      },
+      {
+        "text": "布莱斯·帕斯卡，《沉思录》；Blaise Pascal, *Pensees*",
+        "book_id": "book-032"
+      }
     ],
     "tags": [
       "meaning",
@@ -1404,9 +1665,18 @@
       "1 Timothy 6:20"
     ],
     "recommended_resources": [
-      "John Lennox, 'God's Undertaker: Has Science Buried God?'",
-      "Alvin Plantinga, 'Where the Conflict Really Lies'",
-      "J.P. Moreland, 'Scientism and Secularism'"
+      {
+        "text": "约翰·列诺克斯，《上帝的掘墓人：科学埋葬了上帝吗？》；John Lennox, *God's Undertaker: Has Science Buried God?*",
+        "book_id": "book-153"
+      },
+      {
+        "text": "阿尔文·普兰丁格，《冲突真正的所在》；Alvin Plantinga, *Where the Conflict Really Lies*",
+        "book_id": "book-023"
+      },
+      {
+        "text": "J.P.莫兰德，《唯科学主义与世俗主义》；J.P. Moreland, *Scientism and Secularism*",
+        "book_id": "book-119"
+      }
     ],
     "tags": [
       "scientism",
@@ -1451,9 +1721,18 @@
       "2 Timothy 4:3-4"
     ],
     "recommended_resources": [
-      "Walter Martin, 'The Kingdom of the Cults'",
-      "Ron Rhodes, 'The Challenge of the Cults and New Religions'",
-      "Anthony Hoekema, 'The Four Major Cults'"
+      {
+        "text": "沃尔特·马丁，《异端的王国》；Walter Martin, *The Kingdom of the Cults*",
+        "book_id": "book-309"
+      },
+      {
+        "text": "罗恩·罗德斯，《异端与新兴宗教的挑战》；Ron Rhodes, *The Challenge of the Cults and New Religions*",
+        "book_id": "book-272"
+      },
+      {
+        "text": "安东尼·乌克马，《四大异端》；Anthony Hoekema, *The Four Major Cults*",
+        "book_id": "book-030"
+      }
     ],
     "tags": [
       "cults",
@@ -1498,9 +1777,18 @@
       "Colossians 2:9"
     ],
     "recommended_resources": [
-      "Robert Bowman & Ed Komoszewski, 'Putting Jesus in His Place'",
-      "James White, 'The Forgotten Trinity'",
-      "Murray Harris, 'Jesus as God'"
+      {
+        "text": "罗伯特·鲍曼、艾德·科莫谢夫斯基，《把耶稣放在他的位置上》；Robert Bowman & Ed Komoszewski, *Putting Jesus in His Place*",
+        "book_id": "book-264"
+      },
+      {
+        "text": "詹姆斯·怀特，《被遗忘的三位一体》；James White, *The Forgotten Trinity*",
+        "book_id": "book-132"
+      },
+      {
+        "text": "穆雷·哈里斯，《耶稣是上帝》；Murray Harris, *Jesus as God*",
+        "book_id": "book-210"
+      }
     ],
     "tags": [
       "deity-of-christ",
@@ -1544,9 +1832,18 @@
       "John 19:12-16"
     ],
     "recommended_resources": [
-      "Craig A. Evans, 'Jesus and His World'",
-      "John P. Meier, 'A Marginal Jew'",
-      "Joseph Ratzinger (Benedict XVI), 'Jesus of Nazareth'"
+      {
+        "text": "克雷格·A·埃文斯，《耶稣与他的世界》；Craig A. Evans, *Jesus and His World*",
+        "book_id": "book-052"
+      },
+      {
+        "text": "约翰·P·迈尔，《边缘的犹太人》；John P. Meier, *A Marginal Jew*",
+        "book_id": "book-164"
+      },
+      {
+        "text": "约瑟夫·拉辛格（本笃十六世），《纳匝勒的耶稣》；Joseph Ratzinger (Benedict XVI), *Jesus of Nazareth*",
+        "book_id": "book-176"
+      }
     ],
     "tags": [
       "historical-evidence",
@@ -1590,9 +1887,18 @@
       "John 8:58"
     ],
     "recommended_resources": [
-      "C.S. Lewis, 'Mere Christianity'",
-      "John Stott, 'Basic Christianity'",
-      "N.T. Wright, 'Simply Jesus'"
+      {
+        "text": "C.S.路易斯，《返璞归真》；C.S. Lewis, *Mere Christianity*",
+        "book_id": "book-001"
+      },
+      {
+        "text": "约翰·斯托特，《基要基督教》；John Stott, *Basic Christianity*",
+        "book_id": "book-170"
+      },
+      {
+        "text": "N.T.赖特，《简明耶稣》；N.T. Wright, *Simply Jesus*",
+        "book_id": "book-212"
+      }
     ],
     "tags": [
       "trilemma",
@@ -1636,9 +1942,18 @@
       "1 Corinthians 15:3-4"
     ],
     "recommended_resources": [
-      "William Lane Craig, 'Reasonable Faith'",
-      "N.T. Wright, 'The Resurrection of the Son of God'",
-      "Lee Strobel, 'The Case for Christ'"
+      {
+        "text": "威廉·莱恩·克雷格，《合理的信仰》；William Lane Craig, *Reasonable Faith*",
+        "book_id": "book-322"
+      },
+      {
+        "text": "N.T.赖特，《神儿子的复活》；N.T. Wright, *The Resurrection of the Son of God*",
+        "book_id": "book-214"
+      },
+      {
+        "text": "李·史特博，《重审耶稣》；Lee Strobel, *The Case for Christ*",
+        "book_id": "book-011"
+      }
     ],
     "tags": [
       "empty-tomb",
@@ -1682,9 +1997,14 @@
       "Acts 4:19-20"
     ],
     "recommended_resources": [
-      "Richard Bauckham, 'Jesus and the Eyewitnesses'",
-      "Richard Bauckham, 'Jesus and the Eyewitnesses'",
-      "Gary Habermas, 'The Case for the Resurrection of Jesus'"
+      {
+        "text": "理查德·鲍克汉姆，《耶稣与目击者》；Richard Bauckham, *Jesus and the Eyewitnesses*",
+        "book_id": "book-260"
+      },
+      {
+        "text": "加里·哈伯马斯，《耶稣复活的证据》；Gary Habermas, *The Case for the Resurrection of Jesus*",
+        "book_id": "book-093"
+      }
     ],
     "tags": [
       "disciple-transformation",
@@ -1728,9 +2048,18 @@
       "Galatians 1:15-16"
     ],
     "recommended_resources": [
-      "Alan Segal, 'Paul the Convert'",
-      "N.T. Wright, 'Paul: A Biography'",
-      "Richard Longenecker, 'The Road from Damascus'"
+      {
+        "text": "阿兰·西格尔，《归信者保罗》；Alan Segal, *Paul the Convert*",
+        "book_id": "book-014"
+      },
+      {
+        "text": "N.T.赖特，《保罗传》；N.T. Wright, *Paul: A Biography*",
+        "book_id": "book-211"
+      },
+      {
+        "text": "理查德·朗格内克，《从大马士革的路》；Richard Longenecker, *The Road from Damascus*",
+        "book_id": "book-261"
+      }
     ],
     "tags": [
       "paul-conversion",
@@ -1774,9 +2103,18 @@
       "1 Corinthians 15:6"
     ],
     "recommended_resources": [
-      "Rodney Stark, 'The Rise of Christianity'",
-      "Michael Green, 'Evangelism in the Early Church'",
-      "Charles Norris Cochrane, 'Christianity and Classical Culture'"
+      {
+        "text": "罗德尼·斯塔克，《基督教的兴起》；Rodney Stark, *The Rise of Christianity*",
+        "book_id": "book-269"
+      },
+      {
+        "text": "迈克尔·格林，《早期教会的福音传播》；Michael Green, *Evangelism in the Early Church*",
+        "book_id": "book-203"
+      },
+      {
+        "text": "查尔斯·诺里斯·科克伦，《基督教与古典文化》；Charles Norris Cochrane, *Christianity and Classical Culture*",
+        "book_id": "book-043"
+      }
     ],
     "tags": [
       "early-church",
@@ -1821,9 +2159,18 @@
       "Matthew 15:3-6"
     ],
     "recommended_resources": [
-      "Keith Mathison, 'The Shape of Sola Scriptura'",
-      "R.C. Sproul, 'Scripture Alone'",
-      "James White, 'Scripture Alone'"
+      {
+        "text": "基思·马西森，《唯独圣经的形态》；Keith Mathison, *The Shape of Sola Scriptura*",
+        "book_id": "book-183"
+      },
+      {
+        "text": "R.C.史普罗，《唯独圣经》；R.C. Sproul, *Scripture Alone*",
+        "book_id": "book-246"
+      },
+      {
+        "text": "詹姆斯·怀特，《唯独圣经》；James White, *Scripture Alone*",
+        "book_id": "book-131"
+      }
     ],
     "tags": [
       "sola-scriptura",
@@ -1868,11 +2215,26 @@
       "John 8:58"
     ],
     "recommended_resources": [
-      "Alvin Plantinga, 'God, Freedom, and Evil'",
-      "Anselm of Canterbury, 'Proslogion'",
-      "William Lane Craig, 'Reasonable Faith'",
-      "Charles Hartshorne, 'Anselm's Discovery'",
-      "Norman Malcolm, 'Anselm's Ontological Arguments'"
+      {
+        "text": "阿尔文·普兰丁格，《上帝、自由与恶》；Alvin Plantinga, *God, Freedom, and Evil*",
+        "book_id": "book-021"
+      },
+      {
+        "text": "坎特伯雷的安瑟伦，《宣讲》；Anselm of Canterbury, *Proslogion*",
+        "book_id": "book-027"
+      },
+      {
+        "text": "威廉·莱恩·克雷格，《合理的信仰》；William Lane Craig, *Reasonable Faith*",
+        "book_id": "book-322"
+      },
+      {
+        "text": "查尔斯·哈茨霍恩，《安瑟伦的发现》；Charles Hartshorne, *Anselm's Discovery*",
+        "book_id": "book-042"
+      },
+      {
+        "text": "诺曼·马尔科姆，《安瑟伦的本体论论证》；Norman Malcolm, *Anselm's Ontological Arguments*",
+        "book_id": "book-225"
+      }
     ],
     "tags": [
       "ontological-argument",
@@ -1919,11 +2281,26 @@
       "1 Peter 3:15"
     ],
     "recommended_resources": [
-      "C.S. Lewis, 'Miracles'",
-      "Alvin Plantinga, 'Warranted Christian Belief'",
-      "Victor Reppert, 'C.S. Lewis's Dangerous Idea'",
-      "William Hasker, 'The Emergent Self'",
-      "Thomas Nagel, 'Mind and Cosmos'"
+      {
+        "text": "C.S.路易斯，《神迹》；C.S. Lewis, *Miracles*",
+        "book_id": "book-009"
+      },
+      {
+        "text": "阿尔文·普兰丁格，《有保证的基督教信仰》；Alvin Plantinga, *Warranted Christian Belief*",
+        "book_id": "book-022"
+      },
+      {
+        "text": "维克多·雷珀特，《C.S.路易斯的危险思想》；Victor Reppert, *C.S. Lewis's Dangerous Idea*",
+        "book_id": "book-306"
+      },
+      {
+        "text": "威廉·哈斯克，《涌现的自我》；William Hasker, *The Emergent Self*",
+        "book_id": "book-317"
+      },
+      {
+        "text": "托马斯·内格尔，《心灵与宇宙》；Thomas Nagel, *Mind and Cosmos*",
+        "book_id": "book-283"
+      }
     ],
     "tags": [
       "argument-from-reason",
@@ -1969,11 +2346,26 @@
       "Philippians 4:8"
     ],
     "recommended_resources": [
-      "Francis Schaeffer, 'He Is There and He Is Not Silent'",
-      "Hans Urs von Balthasar, 'The Glory of the Lord'",
-      "Elaine Scarry, 'On Beauty and Being Just'",
-      "Umberto Eco, 'History of Beauty'",
-      "Patrick Sherry, 'Spirit and Beauty'"
+      {
+        "text": "弗朗西斯·薛华，《他在那里且并不沉默》；Francis Schaeffer, *He Is There and He Is Not Silent*",
+        "book_id": "book-088"
+      },
+      {
+        "text": "汉斯·乌尔斯·冯·巴尔塔萨，《主的荣耀》；Hans Urs von Balthasar, *The Glory of the Lord*",
+        "book_id": "book-106"
+      },
+      {
+        "text": "伊莱恩·斯嘉丽，《论美与公正》；Elaine Scarry, *On Beauty and Being Just*",
+        "book_id": "book-078"
+      },
+      {
+        "text": "翁贝托·艾柯，《美的历史》；Umberto Eco, *History of Beauty*",
+        "book_id": "book-304"
+      },
+      {
+        "text": "帕特里克·谢里，《灵与美》；Patrick Sherry, *Spirit and Beauty*",
+        "book_id": "book-229"
+      }
     ],
     "tags": [
       "argument-from-beauty",
@@ -2019,11 +2411,26 @@
       "Galatians 2:20"
     ],
     "recommended_resources": [
-      "Richard Swinburne, 'The Existence of God'",
-      "William James, 'The Varieties of Religious Experience'",
-      "Caroline Franks Davis, 'The Evidential Force of Religious Experience'",
-      "William Alston, 'Perceiving God'",
-      "Gary Gutting, 'Religious Belief and Religious Skepticism'"
+      {
+        "text": "理查德·斯温伯恩，《上帝的存在》；Richard Swinburne, *The Existence of God*",
+        "book_id": "book-262"
+      },
+      {
+        "text": "威廉·詹姆斯，《宗教经验之种种》；William James, *The Varieties of Religious Experience*",
+        "book_id": "book-319"
+      },
+      {
+        "text": "卡罗琳·弗兰克斯·戴维斯，《宗教经验的证据力》；Caroline Franks Davis, *The Evidential Force of Religious Experience*",
+        "book_id": "book-041"
+      },
+      {
+        "text": "威廉·阿尔斯顿，《感知上帝》；William Alston, *Perceiving God*",
+        "book_id": "book-313"
+      },
+      {
+        "text": "加里·古廷，《宗教信仰与宗教怀疑论》；Gary Gutting, *Religious Belief and Religious Skepticism*",
+        "book_id": "book-092"
+      }
     ],
     "tags": [
       "religious-experience",
@@ -2070,11 +2477,26 @@
       "Revelation 4:11"
     ],
     "recommended_resources": [
-      "Alexander Pruss, 'The Principle of Sufficient Reason'",
-      "Richard Taylor, 'Metaphysics'",
-      "William Rowe, 'The Cosmological Argument'",
-      "Joshua Rasmussen, 'Necessary Existence'",
-      "Edward Feser, 'The Last Superstition'"
+      {
+        "text": "亚历山大·普鲁斯，《充足理由原则》；Alexander Pruss, *The Principle of Sufficient Reason*",
+        "book_id": "book-015"
+      },
+      {
+        "text": "理查德·泰勒，《形而上学》；Richard Taylor, *Metaphysics*",
+        "book_id": "book-263"
+      },
+      {
+        "text": "威廉·罗，《宇宙论论证》；William Rowe, *The Cosmological Argument*",
+        "book_id": "book-323"
+      },
+      {
+        "text": "约书亚·拉斯穆森，《必然存在》；Joshua Rasmussen, *Necessary Existence*",
+        "book_id": "book-178"
+      },
+      {
+        "text": "爱德华·费瑟，《最后的迷信》；Edward Feser, *The Last Superstition*",
+        "book_id": "book-077"
+      }
     ],
     "tags": [
       "contingency-argument",
@@ -2119,9 +2541,18 @@
       "Romans 1:18-20"
     ],
     "recommended_resources": [
-      "Cornelius Van Til, 'A Christian Theory of Knowledge'",
-      "Greg Bahnsen, 'Van Til's Apologetic'",
-      "John Frame, 'Apologetics to the Glory of God'"
+      {
+        "text": "科尼利厄斯·范泰尔，《基督教知识论》；Cornelius Van Til, *A Christian Theory of Knowledge*",
+        "book_id": "book-050"
+      },
+      {
+        "text": "格雷格·巴恩森，《范泰尔的护教学》；Greg Bahnsen, *Van Til's Apologetic*",
+        "book_id": "book-102"
+      },
+      {
+        "text": "约翰·弗雷姆，《荣耀上帝的护教学》；John Frame, *Apologetics to the Glory of God*",
+        "book_id": "book-146"
+      }
     ],
     "tags": [
       "presuppositionalism",
@@ -2166,9 +2597,18 @@
       "Hebrews 1:3"
     ],
     "recommended_resources": [
-      "Greg Bahnsen vs Gordon Stein, 'The Great Debate: Does God Exist?' (audio)",
-      "Greg Bahnsen, 'Presuppositional Apologetics: Stated and Defended'",
-      "Michael Butler, 'The Transcendental Argument for God's Existence'"
+      {
+        "text": "格雷格·巴恩森 vs 戈登·斯坦因，《大辩论：上帝存在吗？》（音频）；Greg Bahnsen vs Gordon Stein, *The Great Debate: Does God Exist?* (audio)",
+        "book_id": "book-103"
+      },
+      {
+        "text": "格雷格·巴恩森，《前设护教学：陈述与辩护》；Greg Bahnsen, *Presuppositional Apologetics: Stated and Defended*",
+        "book_id": "book-101"
+      },
+      {
+        "text": "迈克尔·巴特勒，《上帝存在的先验论证》；Michael Butler, *The Transcendental Argument for God's Existence*",
+        "book_id": "book-202"
+      }
     ],
     "tags": [
       "TAG",
@@ -2213,9 +2653,18 @@
       "Jeremiah 33:25"
     ],
     "recommended_resources": [
-      "Cornelius Van Til, 'The Defense of the Faith'",
-      "John Frame, 'Apologetics to the Glory of God'",
-      "Michael Butler, 'The Transcendental Argument for God's Existence'"
+      {
+        "text": "科尼利厄斯·范泰尔，《信仰的辩护》；Cornelius Van Til, *The Defense of the Faith*",
+        "book_id": "book-051"
+      },
+      {
+        "text": "约翰·弗雷姆，《荣耀上帝的护教学》；John Frame, *Apologetics to the Glory of God*",
+        "book_id": "book-146"
+      },
+      {
+        "text": "迈克尔·巴特勒，《上帝存在的先验论证》；Michael Butler, *The Transcendental Argument for God's Existence*",
+        "book_id": "book-202"
+      }
     ],
     "tags": [
       "epistemology",
@@ -2260,9 +2709,18 @@
       "2 Timothy 3:16-17"
     ],
     "recommended_resources": [
-      "Francis Schaeffer, 'Escape from Reason'",
-      "James Sire, 'The Universe Next Door'",
-      "James Anderson, 'What's Your Worldview?'"
+      {
+        "text": "弗朗西斯·薛华，《理性的逃亡》；Francis Schaeffer, *Escape from Reason*",
+        "book_id": "book-087"
+      },
+      {
+        "text": "詹姆斯·赛尔，《隔壁的宇宙》；James Sire, *The Universe Next Door*",
+        "book_id": "book-129"
+      },
+      {
+        "text": "詹姆斯·安德森，《你的世界观是什么？》；James Anderson, *What's Your Worldview?*",
+        "book_id": "book-123"
+      }
     ],
     "tags": [
       "worldview",
@@ -2307,9 +2765,14 @@
       "John 8:32"
     ],
     "recommended_resources": [
-      "John Frame, 'The Doctrine of the Knowledge of God'",
-      "John Frame, 'The Doctrine of the Knowledge of God'",
-      "K. Scott Oliphint, 'Covenantal Apologetics'"
+      {
+        "text": "约翰·弗雷姆，《上帝知识的教义》；John Frame, *The Doctrine of the Knowledge of God*",
+        "book_id": "book-147"
+      },
+      {
+        "text": "K.斯科特·奥利芬特，《圣约护教学》；K. Scott Oliphint, *Covenantal Apologetics*",
+        "book_id": "book-179"
+      }
     ],
     "tags": [
       "circular-reasoning",
@@ -2354,9 +2817,18 @@
       "1 Corinthians 2:4-5"
     ],
     "recommended_resources": [
-      "John Frame, 'Apologetics to the Glory of God'",
-      "K. Scott Oliphint, 'Covenantal Apologetics'",
-      "Norman Geisler, 'Baker Encyclopedia of Christian Apologetics'"
+      {
+        "text": "约翰·弗雷姆，《荣耀上帝的护教学》；John Frame, *Apologetics to the Glory of God*",
+        "book_id": "book-146"
+      },
+      {
+        "text": "K.斯科特·奥利芬特，《圣约护教学》；K. Scott Oliphint, *Covenantal Apologetics*",
+        "book_id": "book-179"
+      },
+      {
+        "text": "诺曼·盖斯勒，《贝克基督教护教学百科全书》；Norman Geisler, *Baker Encyclopedia of Christian Apologetics*",
+        "book_id": "book-221"
+      }
     ],
     "tags": [
       "classical-apologetics",
@@ -2402,10 +2874,22 @@
       "Isaiah 2:4"
     ],
     "recommended_resources": [
-      "David Bentley Hart, 'Atheist Delusions: The Christian Revolution and Its Fashionable Enemies'",
-      "William Cavanaugh, 'The Myth of Religious Violence'",
-      "Rodney Stark, 'God's Battalions: The Case for the Crusades'",
-      "Alvin Schmidt, 'How Christianity Changed the World'"
+      {
+        "text": "大卫·本特利·哈特，《无神论的幻觉：基督教革命及其时髦的敌人》；David Bentley Hart, *Atheist Delusions: The Christian Revolution and Its Fashionable Enemies*",
+        "book_id": "book-066"
+      },
+      {
+        "text": "威廉·卡瓦诺，《宗教暴力的神话》；William Cavanaugh, *The Myth of Religious Violence*",
+        "book_id": "book-315"
+      },
+      {
+        "text": "罗德尼·斯塔克，《上帝的军队：为十字军辩护》；Rodney Stark, *God's Battalions: The Case for the Crusades*",
+        "book_id": "book-268"
+      },
+      {
+        "text": "阿尔文·施密特，《基督教如何改变了世界》；Alvin Schmidt, *How Christianity Changed the World*",
+        "book_id": "book-024"
+      }
     ],
     "tags": [
       "violence",
@@ -2451,10 +2935,22 @@
       "Titus 3:5"
     ],
     "recommended_resources": [
-      "R.C. Sproul, 'The Holiness of God'",
-      "Timothy Keller, 'The Prodigal God'",
-      "John Stott, 'The Cross of Christ'",
-      "Jerry Bridges, 'The Discipline of Grace'"
+      {
+        "text": "R.C.史普罗，《上帝的圣洁》；R.C. Sproul, *The Holiness of God*",
+        "book_id": "book-005"
+      },
+      {
+        "text": "提摩太·凯勒，《挥霍的上帝》；Timothy Keller, *The Prodigal God*",
+        "book_id": "book-298"
+      },
+      {
+        "text": "约翰·斯托特，《基督十架》；John Stott, *The Cross of Christ*",
+        "book_id": "book-171"
+      },
+      {
+        "text": "杰里·布里奇斯，《恩典的操练》；Jerry Bridges, *The Discipline of Grace*",
+        "book_id": "book-138"
+      }
     ],
     "tags": [
       "grace",
@@ -2500,10 +2996,22 @@
       "Hebrews 11:3"
     ],
     "recommended_resources": [
-      "John Lennox, 'God's Undertaker: Has Science Buried God?'",
-      "Francis Collins, 'The Language of God'",
-      "Alister McGrath, 'The Territories of Human Reason'",
-      "James Hannam, 'God's Philosophers: How the Medieval World Laid the Foundations of Modern Science'"
+      {
+        "text": "约翰·列诺克斯，《上帝的掘墓人：科学埋葬了上帝吗？》；John Lennox, *God's Undertaker: Has Science Buried God?*",
+        "book_id": "book-153"
+      },
+      {
+        "text": "弗朗西斯·柯林斯，《The Language of God》；Francis Collins, *The Language of God*",
+        "book_id": "book-086"
+      },
+      {
+        "text": "阿利斯特·麦格拉思，《人类理性的领域》；Alister McGrath, *The Territories of Human Reason*",
+        "book_id": "book-019"
+      },
+      {
+        "text": "詹姆斯·汉南，《上帝的哲学家们：中世纪如何奠定了现代科学的基础》；James Hannam, *God's Philosophers: How the Medieval World Laid the Foundations of Modern Science*",
+        "book_id": "book-127"
+      }
     ],
     "tags": [
       "science",
@@ -2549,10 +3057,22 @@
       "Romans 6:23"
     ],
     "recommended_resources": [
-      "C.S. Lewis, 'The Great Divorce'",
-      "D.A. Carson, 'The Difficult Doctrine of the Love of God'",
-      "Timothy Keller, 'The Reason for God', Ch. 5",
-      "Robert Peterson, 'Hell on Trial: The Case for Eternal Punishment'"
+      {
+        "text": "C.S.路易斯，《梦幻巴士》；C.S. Lewis, *The Great Divorce*",
+        "book_id": "book-038"
+      },
+      {
+        "text": "D.A.卡森，《上帝之爱的困难教义》；D.A. Carson, *The Difficult Doctrine of the Love of God*",
+        "book_id": "book-060"
+      },
+      {
+        "text": "提摩太·凯勒，《为何是上帝》（, Ch. 5）；Timothy Keller, *The Reason for God* (, Ch. 5)",
+        "book_id": "book-299"
+      },
+      {
+        "text": "罗伯特·彼得森，《地狱受审：永刑的辩护》；Robert Peterson, *Hell on Trial: The Case for Eternal Punishment*",
+        "book_id": "book-266"
+      }
     ],
     "tags": [
       "hell",
@@ -2598,10 +3118,22 @@
       "Romans 12:19"
     ],
     "recommended_resources": [
-      "Paul Copan, 'Is God a Moral Monster?'",
-      "Paul Copan & Matthew Flannagan, 'Did God Really Command Genocide?'",
-      "Christopher Wright, 'The God I Don't Understand'",
-      "Tremper Longman III & Daniel Reid, 'God Is a Warrior'"
+      {
+        "text": "保罗·科潘，《上帝是道德怪物吗？》；Paul Copan, *Is God a Moral Monster?*",
+        "book_id": "book-230"
+      },
+      {
+        "text": "保罗·科潘、马修·弗拉纳根，《上帝真的命令种族灭绝了吗？》；Paul Copan & Matthew Flannagan, *Did God Really Command Genocide?*",
+        "book_id": "book-231"
+      },
+      {
+        "text": "克里斯托弗·赖特，《The God I Don》（t Understand'）；Christopher Wright, *The God I Don* (t Understand')",
+        "book_id": "book-045"
+      },
+      {
+        "text": "特雷珀·朗曼三世、丹尼尔·里德，《上帝是战士》；Tremper Longman III & Daniel Reid, *God Is a Warrior*",
+        "book_id": "book-303"
+      }
     ],
     "tags": [
       "old-testament",
@@ -2647,10 +3179,22 @@
       "Romans 1:20"
     ],
     "recommended_resources": [
-      "Timothy Keller, 'The Reason for God', Ch. 1",
-      "Lesslie Newbigin, 'The Gospel in a Pluralist Society'",
-      "Harold Netland, 'Encountering Religious Pluralism'",
-      "Ravi Zacharias, 'Jesus Among Other Gods'"
+      {
+        "text": "提摩太·凯勒，《为何是上帝》（, Ch. 1）；Timothy Keller, *The Reason for God* (, Ch. 1)",
+        "book_id": "book-299"
+      },
+      {
+        "text": "莱斯利·纽比金，《多元社会中的福音》；Lesslie Newbigin, *The Gospel in a Pluralist Society*",
+        "book_id": "book-191"
+      },
+      {
+        "text": "哈罗德·内特兰，《遭遇宗教多元主义》；Harold Netland, *Encountering Religious Pluralism*",
+        "book_id": "book-108"
+      },
+      {
+        "text": "拉维·撒迦利亚，《诸神中的耶稣》；Ravi Zacharias, *Jesus Among Other Gods*",
+        "book_id": "book-257"
+      }
     ],
     "tags": [
       "exclusivity",
@@ -2696,12 +3240,30 @@
       "Hebrews 11:3"
     ],
     "recommended_resources": [
-      "Michael Behe, 'Darwin's Black Box'",
-      "Stephen Meyer, 'Signature in the Cell'",
-      "Stephen Meyer, 'Darwin's Doubt'",
-      "Alvin Plantinga, 'Where the Conflict Really Lies'",
-      "C. John Collins, 'Did Adam and Eve Really Exist?'",
-      "Jonathan Wells, 'Icons of Evolution'"
+      {
+        "text": "迈克尔·贝希，《达尔文的黑匣子》；Michael Behe, *Darwin's Black Box*",
+        "book_id": "book-197"
+      },
+      {
+        "text": "斯蒂芬·迈尔，《细胞中的签名》；Stephen Meyer, *Signature in the Cell*",
+        "book_id": "book-280"
+      },
+      {
+        "text": "斯蒂芬·迈尔，《达尔文的疑惑》；Stephen Meyer, *Darwin's Doubt*",
+        "book_id": "book-278"
+      },
+      {
+        "text": "阿尔文·普兰丁格，《冲突真正的所在》；Alvin Plantinga, *Where the Conflict Really Lies*",
+        "book_id": "book-023"
+      },
+      {
+        "text": "C.约翰·柯林斯，《亚当和夏娃真的存在吗？》；C. John Collins, *Did Adam and Eve Really Exist?*",
+        "book_id": "book-036"
+      },
+      {
+        "text": "乔纳森·韦尔斯，《进化论的偶像》；Jonathan Wells, *Icons of Evolution*",
+        "book_id": "book-175"
+      }
     ],
     "tags": [
       "evolution",
@@ -2753,10 +3315,22 @@
       "Daniel 9:25-26"
     ],
     "recommended_resources": [
-      "F.F. Bruce, 《新约文件可靠吗？》(The New Testament Documents: Are They Reliable?)",
-      "Michael Brown, 《回答犹太人的反对意见》(Answering Jewish Objections to Jesus, 5 vols.)",
-      "Peter Stoner, 《科学辩道》(Science Speaks)",
-      "J. Barton Payne, 《圣经预言百科全书》(Encyclopedia of Biblical Prophecy)"
+      {
+        "text": "F.F.布鲁斯，《新约文件可靠吗？》；F.F. Bruce, *The New Testament Documents: Are They Reliable?*",
+        "book_id": "book-083"
+      },
+      {
+        "text": "迈克尔·布朗，《回答犹太人的反对意见》；Michael Brown, *Answering Jewish Objections to Jesus, 5 vols.*",
+        "book_id": "book-200"
+      },
+      {
+        "text": "彼得·斯通纳，《科学辩道》；Peter Stoner, *Science Speaks*",
+        "book_id": "book-234"
+      },
+      {
+        "text": "J.巴顿·佩恩，《圣经预言百科全书》；J. Barton Payne, *Encyclopedia of Biblical Prophecy*",
+        "book_id": "book-114"
+      }
     ],
     "topic_zh": "旧约预言的应验：弥赛亚预言",
     "topic_en": "Fulfilled Prophecy: Messianic Predictions"
@@ -2803,10 +3377,22 @@
       "Genesis 23:10"
     ],
     "recommended_resources": [
-      "Kenneth Kitchen, 《论旧约的可靠性》(On the Reliability of the Old Testament)",
-      "Craig Blomberg, 《耶稣与福音书的历史可靠性》(The Historical Reliability of the Gospels)",
-      "Randall Price, 《考古学的石头在呐喊》(The Stones Cry Out)",
-      "Titus Kennedy, 《挖掘圣经的证据》(Unearthing the Bible)"
+      {
+        "text": "肯尼斯·基钦，《论旧约的可靠性》；Kenneth Kitchen, *On the Reliability of the Old Testament*",
+        "book_id": "book-186"
+      },
+      {
+        "text": "克雷格·布隆伯格，《福音书的历史可靠性》；Craig Blomberg, *The Historical Reliability of the Gospels*",
+        "book_id": "book-053"
+      },
+      {
+        "text": "兰德尔·普赖斯，《考古学的石头在呐喊》；Randall Price, *The Stones Cry Out*",
+        "book_id": "book-254"
+      },
+      {
+        "text": "提多·肯尼迪，《挖掘圣经的证据》；Titus Kennedy, *Unearthing the Bible*",
+        "book_id": "book-301"
+      }
     ],
     "topic_zh": "考古学对圣经的印证",
     "topic_en": "Archaeology Confirms the Bible"
@@ -2852,10 +3438,22 @@
       "John 5:39"
     ],
     "recommended_resources": [
-      "Graeme Goldsworthy, 《福音与智慧》(Gospel and Wisdom)",
-      "Norman Geisler & William Nix, 《圣经概论》(A General Introduction to the Bible)",
-      "F.F. Bruce, 《圣经正典》(The Canon of Scripture)",
-      "Michael Williams, 《远非无聊的故事》(Far as the Curse Is Found)"
+      {
+        "text": "格雷姆·高士韦，《福音与智慧》；Graeme Goldsworthy, *Gospel and Wisdom*",
+        "book_id": "book-098"
+      },
+      {
+        "text": "诺曼·盖斯勒、威廉·尼克斯，《圣经概论》；Norman Geisler & William Nix, *A General Introduction to the Bible*",
+        "book_id": "book-224"
+      },
+      {
+        "text": "F.F.布鲁斯，《圣经正典》；F.F. Bruce, *The Canon of Scripture*",
+        "book_id": "book-081"
+      },
+      {
+        "text": "迈克尔·威廉斯，《远非无聊的故事》；Michael Williams, *Far as the Curse Is Found*",
+        "book_id": "book-208"
+      }
     ],
     "topic_zh": "圣经的内在一致性（66卷·40位作者·1500年）",
     "topic_en": "The Internal Consistency of the Bible"
@@ -2901,10 +3499,22 @@
       "John 10:35"
     ],
     "recommended_resources": [
-      "Bruce Metzger, 《新约正典》(The Canon of the New Testament)",
-      "Michael Kruger, 《正典再审视》(Canon Revisited)",
-      "F.F. Bruce, 《圣经正典》(The Canon of Scripture)",
-      "Darrell Bock, 《遗失的福音书》(The Missing Gospels)"
+      {
+        "text": "布鲁斯·梅茨格，《新约正典》；Bruce Metzger, *The Canon of the New Testament*",
+        "book_id": "book-034"
+      },
+      {
+        "text": "迈克尔·克鲁格，《正典再审视》；Michael Kruger, *Canon Revisited*",
+        "book_id": "book-204"
+      },
+      {
+        "text": "F.F.布鲁斯，《圣经正典》；F.F. Bruce, *The Canon of Scripture*",
+        "book_id": "book-081"
+      },
+      {
+        "text": "达雷尔·博克，《遗失的福音书》；Darrell Bock, *The Missing Gospels*",
+        "book_id": "book-065"
+      }
     ],
     "topic_zh": "正典形成过程：谁「选」了圣经？",
     "topic_en": "Canon Formation: Who \"Chose\" the Bible?"
@@ -2950,10 +3560,22 @@
       "Matthew 5:18"
     ],
     "recommended_resources": [
-      "Bruce Metzger, 《新约文本》(The Text of the New Testament)",
-      "Daniel Wallace, 《重访新约文本》(Revisiting the Corruption of the New Testament)",
-      "F.F. Bruce, 《新约文件可靠吗？》(The New Testament Documents: Are They Reliable?)",
-      "Gleason Archer, 《旧约概论》(A Survey of Old Testament Introduction)"
+      {
+        "text": "布鲁斯·梅茨格，《新约文本》；Bruce Metzger, *The Text of the New Testament*",
+        "book_id": "book-035"
+      },
+      {
+        "text": "丹尼尔·华莱士，《重访新约文本》；Daniel Wallace, *Revisiting the Corruption of the New Testament*",
+        "book_id": "book-063"
+      },
+      {
+        "text": "F.F.布鲁斯，《新约文件可靠吗？》；F.F. Bruce, *The New Testament Documents: Are They Reliable?*",
+        "book_id": "book-083"
+      },
+      {
+        "text": "格里森·阿彻，《旧约概论》；Gleason Archer, *A Survey of Old Testament Introduction*",
+        "book_id": "book-095"
+      }
     ],
     "topic_zh": "圣经抄本传承 vs 其他古代文献",
     "topic_en": "Biblical Manuscripts vs. Other Ancient Texts"
@@ -2999,10 +3621,22 @@
       "Proverbs 30:5"
     ],
     "recommended_resources": [
-      "Gleason Archer, 《圣经难题百科全书》(Encyclopedia of Bible Difficulties)",
-      "Craig Blomberg, 《耶稣与福音书的历史可靠性》(The Historical Reliability of the Gospels)",
-      "Paul Copan, 《上帝真是暴君吗？》(Is God a Moral Monster?)",
-      "Norman Geisler & Thomas Howe, 《圣经疑难大全》(The Big Book of Bible Difficulties)"
+      {
+        "text": "格里森·阿彻，《圣经难题百科全书》；Gleason Archer, *Encyclopedia of Bible Difficulties*",
+        "book_id": "book-096"
+      },
+      {
+        "text": "克雷格·布隆伯格，《福音书的历史可靠性》；Craig Blomberg, *The Historical Reliability of the Gospels*",
+        "book_id": "book-053"
+      },
+      {
+        "text": "保罗·科潘，《上帝是道德怪物吗？》；Paul Copan, *Is God a Moral Monster?*",
+        "book_id": "book-230"
+      },
+      {
+        "text": "诺曼·盖斯勒、托马斯·豪，《圣经疑难大全》；Norman Geisler & Thomas Howe, *The Big Book of Bible Difficulties*",
+        "book_id": "book-223"
+      }
     ],
     "topic_zh": "回应「圣经有矛盾」的常见挑战",
     "topic_en": "Responding to \"The Bible Has Contradictions\""
@@ -3043,10 +3677,22 @@
       "Proverbs 1:7"
     ],
     "recommended_resources": [
-      "D.A. Carson, 'The Gagging of God: Christianity Confronts Pluralism'",
-      "Timothy Keller, 'The Reason for God'",
-      "James K.A. Smith, 'Who's Afraid of Postmodernism?'",
-      "Francis Schaeffer, 'Escape from Reason'"
+      {
+        "text": "D.A.卡森，《上帝被噤声：基督教面对多元主义》；D.A. Carson, *The Gagging of God: Christianity Confronts Pluralism*",
+        "book_id": "book-061"
+      },
+      {
+        "text": "提摩太·凯勒，《为何是上帝》；Timothy Keller, *The Reason for God*",
+        "book_id": "book-299"
+      },
+      {
+        "text": "詹姆斯·K.A.史密斯，《谁害怕后现代主义？》；James K.A. Smith, *Who's Afraid of Postmodernism?*",
+        "book_id": "book-128"
+      },
+      {
+        "text": "弗朗西斯·薛华，《理性的逃亡》；Francis Schaeffer, *Escape from Reason*",
+        "book_id": "book-087"
+      }
     ],
     "tags": [
       "postmodernism",
@@ -3091,10 +3737,22 @@
       "Ecclesiastes 3:11"
     ],
     "recommended_resources": [
-      "John Lennox, '2084: Artificial Intelligence and the Future of Humanity'",
-      "Roger Penrose, 'The Emperor's New Mind'",
-      "Jason Thacker, 'The Age of AI: Artificial Intelligence and the Future of Humanity'",
-      "Derek C. Schuurman, 'Shaping a Digital World'"
+      {
+        "text": "约翰·列诺克斯，《2084：人工智能与人类的未来》；John Lennox, *2084: Artificial Intelligence and the Future of Humanity*",
+        "book_id": "book-151"
+      },
+      {
+        "text": "罗杰·彭罗斯，《皇帝的新脑》；Roger Penrose, *The Emperor's New Mind*",
+        "book_id": "book-270"
+      },
+      {
+        "text": "杰森·萨克，《AI时代：人工智能与人类的未来》；Jason Thacker, *The Age of AI: Artificial Intelligence and the Future of Humanity*",
+        "book_id": "book-137"
+      },
+      {
+        "text": "德里克·C·舒尔曼，《塑造数字世界》；Derek C. Schuurman, *Shaping a Digital World*",
+        "book_id": "book-071"
+      }
     ],
     "tags": [
       "AI",
@@ -3140,10 +3798,22 @@
       "Psalm 139:13-16"
     ],
     "recommended_resources": [
-      "Ryan T. Anderson, 'When Harry Became Sally: Responding to the Transgender Moment'",
-      "Oliver O'Donovan, 'Transsexualism and Christian Marriage'",
-      "Andrew Walker, 'God and the Transgender Debate'",
-      "Preston Sprinkle, 'Embodied: Transgender Identities, the Church, and What the Bible Has to Say'"
+      {
+        "text": "瑞安·T·安德森，《当哈利变成萨莉：回应跨性别潮流》；Ryan T. Anderson, *When Harry Became Sally: Responding to the Transgender Moment*",
+        "book_id": "book-273"
+      },
+      {
+        "text": "奥利弗·奥多诺万，《变性与基督教婚姻》；Oliver O'Donovan, *Transsexualism and Christian Marriage*",
+        "book_id": "book-226"
+      },
+      {
+        "text": "安德鲁·沃克，《上帝与跨性别辩论》；Andrew Walker, *God and the Transgender Debate*",
+        "book_id": "book-025"
+      },
+      {
+        "text": "普雷斯顿·斯普林克尔，《身体化：跨性别身份、教会与圣经的教导》；Preston Sprinkle, *Embodied: Transgender Identities, the Church, and What the Bible Has to Say*",
+        "book_id": "book-237"
+      }
     ],
     "tags": [
       "gender",
@@ -3190,10 +3860,22 @@
       "Leviticus 25:10"
     ],
     "recommended_resources": [
-      "Wayne Grudem, 'Business for the Glory of God'",
-      "Michael Novak, 'The Spirit of Democratic Capitalism'",
-      "Abraham Kuyper, 'The Problem of Poverty'",
-      "Timothy Keller, 'Generous Justice'"
+      {
+        "text": "韦恩·格鲁登，《为上帝的荣耀经商》；Wayne Grudem, *Business for the Glory of God*",
+        "book_id": "book-310"
+      },
+      {
+        "text": "迈克尔·诺瓦克，《民主资本主义的精神》；Michael Novak, *The Spirit of Democratic Capitalism*",
+        "book_id": "book-206"
+      },
+      {
+        "text": "亚伯拉罕·凯波尔，《贫穷问题》；Abraham Kuyper, *The Problem of Poverty*",
+        "book_id": "book-012"
+      },
+      {
+        "text": "提摩太·凯勒，《慷慨的公义》；Timothy Keller, *Generous Justice*",
+        "book_id": "book-296"
+      }
     ],
     "tags": [
       "economics",
@@ -3239,10 +3921,22 @@
       "Deuteronomy 18:20-22"
     ],
     "recommended_resources": [
-      "Walter Martin, 'The Kingdom of the Cults'",
-      "Richard Abanes, 'Cults, New Religious Movements, and Your Family'",
-      "Ron Rhodes, 'The Challenge of the Cults and New Religions'",
-      "J. Isamu Yamamoto, 'Unification Church' (Zondervan Guide)"
+      {
+        "text": "沃尔特·马丁，《异端的王国》；Walter Martin, *The Kingdom of the Cults*",
+        "book_id": "book-309"
+      },
+      {
+        "text": "理查德·阿巴尼斯，《异端、新兴宗教运动与你的家庭》；Richard Abanes, *Cults, New Religious Movements, and Your Family*",
+        "book_id": "book-259"
+      },
+      {
+        "text": "罗恩·罗德斯，《异端与新兴宗教的挑战》；Ron Rhodes, *The Challenge of the Cults and New Religions*",
+        "book_id": "book-272"
+      },
+      {
+        "text": "J.山本勇，《Unification Church》（Zondervan Guide）；J. Isamu Yamamoto, *Unification Church* (Zondervan Guide)",
+        "book_id": "book-115"
+      }
     ],
     "tags": [
       "unification-church",
@@ -3288,10 +3982,22 @@
       "2 Corinthians 11:13-15"
     ],
     "recommended_resources": [
-      "Gordon Fee & Douglas Stuart, 'How to Read the Bible for All Its Worth'",
-      "Grant Osborne, 'Revelation (BECNT)'",
-      "Steven Banhegyi, 'Shincheonji and the NCPCOG: An Analysis'",
-      "Korea Christian Heresy Research Institute resources (한국기독교이단연구소)"
+      {
+        "text": "戈登·费、道格拉斯·斯图尔特，《如何读懂圣经》；Gordon Fee & Douglas Stuart, *How to Read the Bible for All Its Worth*",
+        "book_id": "book-097"
+      },
+      {
+        "text": "格兰特·奥斯邦，《Revelation (BECNT)》；Grant Osborne, *Revelation (BECNT)*",
+        "book_id": "book-099"
+      },
+      {
+        "text": "史蒂文·班海吉，《新天地与NCPCOG：分析》；Steven Banhegyi, *Shincheonji and the NCPCOG: An Analysis*",
+        "book_id": "book-282"
+      },
+      {
+        "text": "韩国基督教异端研究所资源；Korea Christian Heresy Research Institute resources",
+        "book_id": null
+      }
     ],
     "tags": [
       "shincheonji",
@@ -3339,10 +4045,22 @@
       "Hebrews 4:9-10"
     ],
     "recommended_resources": [
-      "Wayne Grudem, 'Systematic Theology' (chapters on baptism and spiritual gifts)",
-      "D.A. Carson, 'Showing the Spirit: A Theological Exposition of 1 Corinthians 12-14'",
-      "F.F. Bruce, 'The Book of the Acts (NICNT)'",
-      "Anthony Hoekema, 'The Four Major Cults'"
+      {
+        "text": "韦恩·格鲁登，《系统神学》（论洗礼与属灵恩赐）；Wayne Grudem, *Systematic Theology* (chapters on baptism and spiritual gifts)",
+        "book_id": "book-311"
+      },
+      {
+        "text": "D.A.卡森，《彰显圣灵：哥林多前书12-14章的神学释义》；D.A. Carson, *Showing the Spirit: A Theological Exposition of 1 Corinthians 12-14*",
+        "book_id": "book-058"
+      },
+      {
+        "text": "F.F.布鲁斯，《使徒行传（NICNT）》；F.F. Bruce, *The Book of the Acts (NICNT)*",
+        "book_id": "book-080"
+      },
+      {
+        "text": "安东尼·乌克马，《四大异端》；Anthony Hoekema, *The Four Major Cults*",
+        "book_id": "book-030"
+      }
     ],
     "tags": [
       "true-jesus-church",
@@ -3391,10 +4109,22 @@
       "Jude 1:3"
     ],
     "recommended_resources": [
-      "John MacArthur, 'Strange Fire'",
-      "Michael Brown, 'Playing with Holy Fire'",
-      "Sam Storms, 'Practicing the Power'",
-      "D.A. Carson, 'The Cross and Christian Ministry'"
+      {
+        "text": "约翰·麦克阿瑟，《奇异的火》；John MacArthur, *Strange Fire*",
+        "book_id": "book-156"
+      },
+      {
+        "text": "迈克尔·布朗，《玩圣火》；Michael Brown, *Playing with Holy Fire*",
+        "book_id": "book-201"
+      },
+      {
+        "text": "萨姆·斯多姆斯，《操练能力》；Sam Storms, *Practicing the Power*",
+        "book_id": "book-274"
+      },
+      {
+        "text": "D.A.卡森，《十字架与基督徒事工》；D.A. Carson, *The Cross and Christian Ministry*",
+        "book_id": "book-059"
+      }
     ],
     "tags": [
       "charismatic",
@@ -3438,10 +4168,22 @@
       "John 14:6"
     ],
     "recommended_resources": [
-      "James White, 'What Every Christian Needs to Know About the Quran'",
-      "Nabeel Qureshi, 'Seeking Allah, Finding Jesus'",
-      "Miroslav Volf, 'Allah: A Christian Response'",
-      "Samuel Zwemer, 'The Muslim Christ'"
+      {
+        "text": "詹姆斯·怀特，《每个基督徒都应了解的古兰经知识》；James White, *What Every Christian Needs to Know About the Quran*",
+        "book_id": "book-136"
+      },
+      {
+        "text": "纳比尔·乔瑞希，《寻找安拉，发现耶稣》；Nabeel Qureshi, *Seeking Allah, Finding Jesus*",
+        "book_id": "book-216"
+      },
+      {
+        "text": "米洛斯拉夫·沃尔夫，《安拉：一个基督徒的回应》；Miroslav Volf, *Allah: A Christian Response*",
+        "book_id": "book-209"
+      },
+      {
+        "text": "塞缪尔·兹韦默，《穆斯林的基督》；Samuel Zwemer, *The Muslim Christ*",
+        "book_id": "book-275"
+      }
     ],
     "tags": [
       "islam",
@@ -3489,10 +4231,22 @@
       "Revelation 4:11"
     ],
     "recommended_resources": [
-      "Paul Williams, 'The Unexpected Way: On Converting from Buddhism to Catholicism'",
-      "Keith Ward, 'Religion and Creation'",
-      "Colin Gunton, 'The Triune Creator'",
-      "Harold Netland, 'Christianity and Religious Diversity'"
+      {
+        "text": "保罗·威廉斯，《意想不到的道路：从佛教归信天主教》；Paul Williams, *The Unexpected Way: On Converting from Buddhism to Catholicism*",
+        "book_id": "book-232"
+      },
+      {
+        "text": "基思·沃德，《宗教与创造》；Keith Ward, *Religion and Creation*",
+        "book_id": "book-185"
+      },
+      {
+        "text": "科林·冈顿，《三一创造者》；Colin Gunton, *The Triune Creator*",
+        "book_id": "book-046"
+      },
+      {
+        "text": "哈罗德·内特兰，《基督教与宗教多元性》；Harold Netland, *Christianity and Religious Diversity*",
+        "book_id": "book-107"
+      }
     ],
     "tags": [
       "buddhism",
@@ -3541,10 +4295,22 @@
       "Acts 17:24-25"
     ],
     "recommended_resources": [
-      "Ravi Zacharias, 'Jesus Among Other Gods'",
-      "Lesslie Newbigin, 'The Gospel in a Pluralist Society'",
-      "Tim Keller, 'The Reason for God'",
-      "Harold Netland, 'Encountering Religious Pluralism'"
+      {
+        "text": "拉维·撒迦利亚，《诸神中的耶稣》；Ravi Zacharias, *Jesus Among Other Gods*",
+        "book_id": "book-257"
+      },
+      {
+        "text": "莱斯利·纽比金，《多元社会中的福音》；Lesslie Newbigin, *The Gospel in a Pluralist Society*",
+        "book_id": "book-191"
+      },
+      {
+        "text": "提摩太·凯勒，《为何是神》；Tim Keller, *The Reason for God*",
+        "book_id": "book-294"
+      },
+      {
+        "text": "哈罗德·内特兰，《遭遇宗教多元主义》；Harold Netland, *Encountering Religious Pluralism*",
+        "book_id": "book-108"
+      }
     ],
     "tags": [
       "hinduism",
@@ -3594,10 +4360,22 @@
       "Psalm 22:16-18"
     ],
     "recommended_resources": [
-      "Michael Brown, 'Answering Jewish Objections to Jesus' (5 volumes)",
-      "Alfred Edersheim, 'The Life and Times of Jesus the Messiah'",
-      "Walter Kaiser, 'The Messiah in the Old Testament'",
-      "Darrell Bock, 'Blasphemy and Exaltation in Judaism and the Final Examination of Jesus'"
+      {
+        "text": "迈克尔·布朗，《回应犹太人对耶稣的反对》（5 volumes）；Michael Brown, *Answering Jewish Objections to Jesus* (5 volumes)",
+        "book_id": "book-199"
+      },
+      {
+        "text": "阿尔弗雷德·爱德生，《弥赛亚耶稣的生平与时代》；Alfred Edersheim, *The Life and Times of Jesus the Messiah*",
+        "book_id": "book-016"
+      },
+      {
+        "text": "沃尔特·凯泽，《旧约中的弥赛亚》；Walter Kaiser, *The Messiah in the Old Testament*",
+        "book_id": "book-308"
+      },
+      {
+        "text": "达雷尔·博克，《犹太教中的亵渎与尊荣及耶稣的最终审问》；Darrell Bock, *Blasphemy and Exaltation in Judaism and the Final Examination of Jesus*",
+        "book_id": "book-064"
+      }
     ],
     "tags": [
       "judaism",

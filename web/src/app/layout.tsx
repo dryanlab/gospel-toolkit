@@ -25,6 +25,17 @@ export default function RootLayout({
     <html lang="zh-CN" suppressHydrationWarning>
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-5KE7BNDTY3"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-5KE7BNDTY3');
+            `,
+          }}
+        />
       </head>
       <body className="antialiased min-h-screen">
         <div className="flex">

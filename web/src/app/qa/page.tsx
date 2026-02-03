@@ -1,81 +1,125 @@
 'use client';
-import { useState } from 'react';
 import Link from 'next/link';
 import { qaQuestions, categoryLabels } from '@/lib/data';
-import FavoriteButton from '@/components/FavoriteButton';
-import type { QACategory } from '@/lib/types';
 
-const categories: QACategory[] = ['all', 'existence_of_god', 'problem_of_evil', 'bible_reliability', 'science_and_faith', 'uniqueness_of_jesus', 'sin_and_salvation', 'life_after_death', 'moral_foundation'];
+const categoryGradients: Record<string, string> = {
+  sin_and_salvation: 'from-red-600 to-rose-700',
+  existence_of_god: 'from-indigo-600 to-blue-700',
+  church: 'from-green-600 to-emerald-700',
+  holy_spirit: 'from-cyan-600 to-teal-700',
+  uniqueness_of_jesus: 'from-amber-600 to-yellow-700',
+  eschatology: 'from-purple-600 to-violet-700',
+  predestination: 'from-slate-600 to-gray-700',
+  two_natures_of_christ: 'from-orange-600 to-red-700',
+  problem_of_evil: 'from-teal-600 to-cyan-700',
+  trinity: 'from-blue-600 to-indigo-700',
+  authority_of_scripture: 'from-emerald-600 to-green-700',
+  original_sin: 'from-rose-600 to-pink-700',
+  sacraments: 'from-violet-600 to-purple-700',
+  bible_reliability: 'from-yellow-600 to-amber-700',
+  life_after_death: 'from-sky-600 to-blue-700',
+  faith_and_works: 'from-lime-600 to-green-700',
+  heaven_and_hell: 'from-fuchsia-600 to-pink-700',
+  science_and_faith: 'from-teal-600 to-emerald-700',
+  moral_foundation: 'from-orange-600 to-amber-700',
+  prayer: 'from-pink-600 to-rose-700',
+};
+
+const categoryIcons: Record<string, string> = {
+  sin_and_salvation: '✝️',
+  existence_of_god: '🌌',
+  church: '⛪',
+  holy_spirit: '🕊️',
+  uniqueness_of_jesus: '👑',
+  eschatology: '⏳',
+  predestination: '📜',
+  two_natures_of_christ: '🔄',
+  problem_of_evil: '💔',
+  trinity: '🔺',
+  authority_of_scripture: '📖',
+  original_sin: '🍎',
+  sacraments: '🍷',
+  bible_reliability: '🔍',
+  life_after_death: '🌅',
+  faith_and_works: '🤝',
+  heaven_and_hell: '⚖️',
+  science_and_faith: '🔬',
+  moral_foundation: '🧭',
+  prayer: '🙏',
+};
 
 export default function QAPage() {
-  const [category, setCategory] = useState<QACategory>('all');
-  const [search, setSearch] = useState('');
-
-  const filtered = qaQuestions.filter(q => {
-    const matchCat = category === 'all' || q.category === category;
-    const matchSearch = !search ||
-      q.question_zh.toLowerCase().includes(search.toLowerCase()) ||
-      q.question_en.toLowerCase().includes(search.toLowerCase());
-    return matchCat && matchSearch;
+  // Build categories with counts
+  // Logical order: from foundational to applied
+  const categoryOrder = [
+    'existence_of_god',        // 上帝存在 — 最根本的问题
+    'trinity',                 // 三位一体
+    'authority_of_scripture',  // 圣经权威
+    'bible_reliability',       // 圣经可靠
+    'uniqueness_of_jesus',     // 耶稣独特性
+    'two_natures_of_christ',   // 基督二性
+    'original_sin',            // 原罪
+    'sin_and_salvation',       // 罪与救恩
+    'predestination',          // 预定论
+    'faith_and_works',         // 信心与行为
+    'holy_spirit',             // 圣灵
+    'sacraments',              // 圣礼
+    'church',                  // 教会生活
+    'prayer',                  // 祷告
+    'problem_of_evil',         // 苦难问题
+    'moral_foundation',        // 道德基础
+    'science_and_faith',       // 科学与信仰
+    'heaven_and_hell',         // 天堂与地狱
+    'life_after_death',        // 死后生命
+    'eschatology',             // 末世与永恒
+  ];
+  const catCounts: Record<string, number> = {};
+  qaQuestions.forEach(q => {
+    catCounts[q.category] = (catCounts[q.category] || 0) + 1;
   });
+  const categories = categoryOrder
+    .filter(c => catCounts[c])
+    .map(c => [c, catCounts[c]] as [string, number]);
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-6">
       <div className="text-center mb-6">
         <h1 className="font-serif-cn text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">💬 福音问答</h1>
         <p className="text-[var(--color-text-secondary)]">Gospel Q&A</p>
-        <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto">你们必晓得真理，真理必叫你们得以自由。— 约翰福音 8:32</p>
-        <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-lg mx-auto italic">Then you will know the truth, and the truth will set you free. — John 8:32</p>
+        <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto">你们祈求，就给你们；寻找，就寻见；叩门，就给你们开门。— 马太福音 7:7</p>
+        <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-lg mx-auto italic">Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. — Matthew 7:7</p>
       </div>
 
-      <input
-        type="text"
-        value={search}
-        onChange={e => setSearch(e.target.value)}
-        placeholder="搜索问题..."
-        className="w-full px-4 py-2.5 rounded-xl border border-[var(--color-border)] bg-[var(--color-bg)] mb-4 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)]"
-      />
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+        {categories.map(([cat, count], i) => {
+          const label = categoryLabels[cat] || { zh: cat, en: cat };
+          const icon = categoryIcons[cat] || '❓';
+          const gradient = categoryGradients[cat] || 'from-gray-600 to-slate-700';
 
-      <div className="flex gap-2 overflow-x-auto pb-3 mb-4 scrollbar-hide">
-        {categories.map(cat => (
-          <button
-            key={cat}
-            onClick={() => setCategory(cat)}
-            className={`px-3 py-1.5 rounded-full text-sm whitespace-nowrap font-medium transition-colors ${
-              category === cat
-                ? 'bg-[var(--color-primary)] text-white'
-                : 'bg-[var(--color-bg-secondary)] text-[var(--color-text-secondary)] hover:bg-[var(--color-border)]'
-            }`}
-          >
-            {categoryLabels[cat]?.zh || cat}
-          </button>
-        ))}
-      </div>
-
-      <div className="space-y-3">
-        {filtered.map(q => (
-          <Link key={q.id} href={`/qa/${q.id}`} className="block">
-            <div className="rounded-xl border border-[var(--color-border)] p-4 hover:border-[var(--color-accent)] hover:shadow-md transition-all bg-[var(--color-bg)]">
-              <div className="flex items-start justify-between gap-2">
-                <div className="flex-1">
-                  <h3 className="font-serif-cn font-semibold text-[var(--color-text)] mb-1">{q.question_zh}</h3>
-                  <p className="text-sm text-[var(--color-text-secondary)] italic">{q.question_en}</p>
-                  <p className="text-sm text-[var(--color-text-secondary)] mt-2 line-clamp-2">{q.short_answer_zh}</p>
-                  <div className="flex gap-2 mt-2">
-                    <span className="text-xs px-2 py-0.5 rounded-full bg-[var(--color-accent)]/15 text-[var(--color-accent)]">
-                      {categoryLabels[q.category]?.zh || q.category}
-                    </span>
+          return (
+            <Link key={cat} href={`/qa/category/${cat}`} className="block group">
+              <div className={`rounded-2xl bg-gradient-to-br ${gradient} p-6 text-white shadow-lg hover:shadow-xl transition-all hover:-translate-y-1 h-full`}>
+                <div className="flex items-start justify-between mb-4">
+                  <div className="text-3xl">{icon}</div>
+                  <div className="text-xs bg-white/25 px-2 py-1 rounded-full">
+                    {count}
                   </div>
                 </div>
-                <FavoriteButton id={q.id} />
+
+                <h3 className="font-serif-cn font-bold text-xl mb-2">{label.zh}</h3>
+                <p className="text-white/80 text-sm italic mb-3">{label.en}</p>
+
+                <div className="flex items-center justify-between pt-2 border-t border-white/20">
+                  <span className="text-xs text-white/70">点击进入</span>
+                  <div className="w-6 h-6 rounded-full bg-white/20 flex items-center justify-center group-hover:bg-white/30 transition-colors">
+                    <span className="text-sm">→</span>
+                  </div>
+                </div>
               </div>
-            </div>
-          </Link>
-        ))}
+            </Link>
+          );
+        })}
       </div>
-      {filtered.length === 0 && (
-        <p className="text-center text-[var(--color-text-secondary)] py-10">没有找到相关问题</p>
-      )}
     </div>
   );
 }

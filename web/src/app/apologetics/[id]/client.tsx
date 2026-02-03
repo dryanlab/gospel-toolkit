@@ -132,11 +132,21 @@ export default function ApologeticsDetailClient({ paramsPromise }: { paramsPromi
       <div>
         <h3 className="font-semibold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-3">📚 推荐资源</h3>
         <ul className="space-y-1">
-          {t.recommended_resources.map((r, i) => (
-            <li key={i} className="text-sm text-[var(--color-text-secondary)] flex items-start gap-2">
-              <span className="text-[var(--color-accent)]">•</span>{r}
-            </li>
-          ))}
+          {t.recommended_resources.map((r, i) => {
+            const text = typeof r === 'string' ? r : r.text;
+            const bookId = typeof r === 'string' ? null : r.book_id;
+            return (
+              <li key={i} className="text-sm text-[var(--color-text-secondary)] flex items-start gap-2">
+                <span className="text-[var(--color-accent)]">•</span>
+                <span className="flex-1">{text}</span>
+                {bookId && (
+                  <Link href={`/library/${bookId}`} className="text-[var(--color-accent)] hover:underline shrink-0" title="查看书籍">
+                    📖
+                  </Link>
+                )}
+              </li>
+            );
+          })}
         </ul>
       </div>
 

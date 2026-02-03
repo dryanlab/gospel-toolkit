@@ -1,15 +1,60 @@
 'use client';
+import { useState, useMemo } from 'react';
 import Link from 'next/link';
-import { books } from '@/lib/data';
-import FavoriteButton from '@/components/FavoriteButton';
+import { books, bookCategories } from '@/lib/data';
 
-const bookColors = [
-  'from-indigo-600 to-blue-800',
-  'from-emerald-600 to-teal-800',
-  'from-purple-600 to-violet-800',
+const categoryInfo: Record<string, { icon: string; en: string; description_zh: string }> = {
+  '系统神学': { icon: '⛪', en: 'Systematic Theology', description_zh: '探讨上帝的属性、救恩论、基督论、圣灵论、末世论等核心教义的系统性著作。' },
+  '圣经研究': { icon: '📖', en: 'Biblical Studies', description_zh: '深入研究圣经文本、历史背景、释经方法，以及新旧约各卷的注释与分析。' },
+  '护教学': { icon: '🛡️', en: 'Apologetics', description_zh: '为基督教信仰的合理性提供理性辩护，回应怀疑论和无神论的挑战。' },
+  '哲学与思想': { icon: '🧠', en: 'Philosophy', description_zh: '从哲学角度探讨上帝的存在、意识、道德基础、知识论等根本问题。' },
+  '基督徒生活': { icon: '🌿', en: 'Christian Living', description_zh: '帮助信徒在日常生活中活出信仰，包括门徒训练、教会生活、传福音等。' },
+  '伦理与文化': { icon: '⚖️', en: 'Ethics & Culture', description_zh: '从基督教世界观审视当代伦理议题、社会正义、科技发展与文化冲突。' },
+  '科学与信仰': { icon: '🔬', en: 'Science & Faith', description_zh: '探讨科学与基督教信仰的关系，包括创造论、智慧设计、宇宙微调等课题。' },
+  '灵修与生活': { icon: '🙏', en: 'Devotional', description_zh: '培养属灵生命的经典著作，涵盖祷告、灵修、恩典、苦难中的成长。' },
+  '比较宗教': { icon: '🌍', en: 'Comparative Religion', description_zh: '比较基督教与伊斯兰教、佛教、印度教等其他宗教的核心教义差异。' },
+  '异端辨别': { icon: '🚨', en: 'Cult Discernment', description_zh: '辨别和回应异端邪教，包括耶和华见证人、摩门教、新天地等组织。' },
+  '教会历史': { icon: '🏛️', en: 'Church History', description_zh: '基督教两千年历史中的重要人物、事件和思想发展。' },
+  '文学': { icon: '✍️', en: 'Literature', description_zh: '以文学形式表达基督教真理的经典作品，寓教于乐，启发思考。' },
+  '见证': { icon: '💡', en: 'Testimonies', description_zh: '真实的信仰见证，记录个人认识基督、生命改变的感人经历。' },
+  '世界观': { icon: '🌐', en: 'Worldview', description_zh: '帮助建立整全的基督教世界观，理解和评估不同的世界观体系。' },
+};
+
+const categoryGradients = [
+  'from-indigo-600 to-blue-700',
+  'from-amber-600 to-yellow-700',
+  'from-red-600 to-rose-700',
+  'from-purple-600 to-violet-700',
+  'from-teal-600 to-cyan-700',
+  'from-green-600 to-emerald-700',
+  'from-orange-600 to-red-700',
+  'from-pink-600 to-fuchsia-700',
+  'from-sky-600 to-blue-700',
+  'from-rose-600 to-red-700',
+  'from-slate-600 to-gray-700',
+  'from-lime-600 to-green-700',
+  'from-yellow-600 to-amber-700',
+  'from-cyan-600 to-teal-700',
 ];
 
+function normalize(str: string): string {
+  return str.toLowerCase().replace(/[\s·．・]/g, '');
+}
+
 export default function LibraryPage() {
+  const [search, setSearch] = useState('');
+
+  const searchResults = useMemo(() => {
+    if (!search.trim()) return null;
+    const q = normalize(search);
+    return books.filter(b =>
+      normalize(b.title_zh).includes(q) ||
+      normalize(b.title_en).includes(q) ||
+      normalize(b.author_zh).includes(q) ||
+      normalize(b.author_en).includes(q)
+    );
+  }, [search]);
+
   return (
     <div className="max-w-5xl mx-auto px-4 py-6">
       <div className="text-center mb-6">
@@ -19,39 +64,72 @@ export default function LibraryPage() {
         <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-lg mx-auto italic">Your word is a lamp for my feet, a light on my path. — Psalm 119:105</p>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        {books.map((book, i) => (
-          <Link key={book.id} href={`/library/${book.id}`} className="block group">
-            <div className="rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all hover:-translate-y-0.5">
-              {/* Book cover placeholder */}
-              <div className={`bg-gradient-to-br ${bookColors[i % bookColors.length]} p-6 aspect-[3/4] flex flex-col justify-between text-white relative`}>
-                <div>
-                  <span className="text-xs opacity-60 uppercase tracking-wider">{book.author_en}</span>
-                </div>
-                <div>
-                  <h3 className="font-serif-cn text-2xl font-bold mb-1">{book.title_zh}</h3>
-                  <p className="text-white/70 text-sm italic">{book.title_en}</p>
-                  <p className="text-white/60 text-xs mt-2">{book.author_zh}</p>
-                </div>
-                <div className="absolute top-4 right-4">
-                  <FavoriteButton id={book.id} className="text-white" />
-                </div>
-              </div>
-              {/* Info */}
-              <div className="p-4 bg-[var(--color-bg)]">
-                <p className="text-sm text-[var(--color-text-secondary)] line-clamp-2">{book.summary_zh}</p>
-                <div className="flex gap-1 mt-2 flex-wrap">
-                  {book.tags.map(tag => (
-                    <span key={tag} className="text-xs px-2 py-0.5 rounded-full bg-[var(--color-accent)]/15 text-[var(--color-accent)]">
-                      {tag}
-                    </span>
-                  ))}
-                </div>
-              </div>
-            </div>
-          </Link>
-        ))}
+      {/* Search */}
+      <div className="mb-6">
+        <input
+          type="text"
+          placeholder="搜索书名或作者 Search by title or author..."
+          value={search}
+          onChange={e => setSearch(e.target.value)}
+          className="w-full px-4 py-2.5 rounded-xl border border-[var(--color-border)] bg-[var(--color-bg)] text-[var(--color-text)] placeholder:text-[var(--color-text-secondary)]/50 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)]/40"
+        />
       </div>
+
+      {/* Search results */}
+      {searchResults !== null ? (
+        <div>
+          <p className="text-sm text-[var(--color-text-secondary)] mb-4">
+            {searchResults.length === 0 ? '没有找到匹配的书籍' : `找到 ${searchResults.length} 本书`}
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+            {searchResults.map((book, i) => (
+              <Link key={book.id} href={`/library/${book.id}`} className="block group">
+                <div className="rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all hover:-translate-y-0.5">
+                  <div className={`bg-gradient-to-br ${['from-indigo-600 to-blue-800','from-emerald-600 to-teal-800','from-purple-600 to-violet-800'][i % 3]} p-5 aspect-[3/4] flex flex-col justify-between text-white`}>
+                    <span className="text-xs opacity-60 uppercase tracking-wider line-clamp-1">{book.author_en}</span>
+                    <div>
+                      <span className="text-xs bg-white/20 px-2 py-0.5 rounded-full mb-2 inline-block">{(book as any).category}</span>
+                      <h3 className="font-serif-cn text-xl font-bold mb-1">{book.title_zh}</h3>
+                      <p className="text-white/70 text-sm italic line-clamp-1">{book.title_en}</p>
+                      <p className="text-white/60 text-xs mt-1">{book.author_zh}</p>
+                    </div>
+                  </div>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      ) : (
+
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+        {bookCategories.map(([cat, count], i) => {
+          const info = categoryInfo[cat] || { icon: '📘', en: cat, description_zh: '' };
+          return (
+            <Link key={cat} href={`/library/category/${encodeURIComponent(cat)}`} className="block group">
+              <div className={`rounded-2xl bg-gradient-to-br ${categoryGradients[i % categoryGradients.length]} p-6 text-white shadow-lg hover:shadow-xl transition-all hover:-translate-y-1 h-full`}>
+                <div className="flex items-start justify-between mb-4">
+                  <div className="text-3xl">{info.icon}</div>
+                  <div className="text-xs bg-white/25 px-2 py-1 rounded-full">
+                    {count}
+                  </div>
+                </div>
+
+                <h3 className="font-serif-cn font-bold text-xl mb-2">{cat}</h3>
+                <p className="text-white/80 text-sm italic mb-3">{info.en}</p>
+                <p className="text-white/90 text-sm leading-relaxed mb-4">{info.description_zh}</p>
+
+                <div className="flex items-center justify-between pt-2 border-t border-white/20">
+                  <span className="text-xs text-white/70">点击进入</span>
+                  <div className="w-6 h-6 rounded-full bg-white/20 flex items-center justify-center group-hover:bg-white/30 transition-colors">
+                    <span className="text-sm">→</span>
+                  </div>
+                </div>
+              </div>
+            </Link>
+          );
+        })}
+      </div>
+      )}
     </div>
   );
 }

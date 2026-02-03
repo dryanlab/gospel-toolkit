@@ -1,0 +1,201 @@
+# 书库章节质量修复 Checklist
+
+总计待修复：189本
+
+## 进度
+
+- [x] book-037: The Abolition of Man (C.S. Lewis) — 现4章
+- [ ] book-058: Showing the Spirit: A Theological Exposition of 1 Corinthians 12-14 (D.A. Carson) — 现2章
+- [ ] book-094: The Historical Jesus (Gary Habermas) — 现2章
+- [ ] book-112: Evangelicalism Divided (Iain Murray) — 现2章
+- [ ] book-116: Evangelism and the Sovereignty of God (J.I. Packer) — 现2章
+- [ ] book-133: The King James Only Controversy (James White) — 现4章
+- [ ] book-134: The Potter's Freedom (James White) — 现4章
+- [ ] book-135: What Every Christian Needs to Know About the Qur'an (James White) — 现4章
+- [ ] book-136: What Every Christian Needs to Know About the Quran (James White) — 现4章
+- [ ] book-140: Trusting God (Jerry Bridges) — 现4章
+- [ ] book-141: Overcoming the World (Joel Beeke) — 现4章
+- [ ] book-142: Grace Abounding (John Bunyan) — 现4章
+- [ ] book-143: Grace Abounding to the Chief of Sinners (John Bunyan) — 现4章
+- [ ] book-144: Body, Soul, and Life Everlasting (John Cooper) — 现4章
+- [ ] book-145: Foxe's Book of Martyrs (John Foxe) — 现4章
+- [ ] book-146: Apologetics to the Glory of God (John Frame) — 现4章
+- [ ] book-147: The Doctrine of the Knowledge of God (John Frame) — 现4章
+- [ ] book-148: The Doctrine of the Word of God (John Frame) — 现4章
+- [ ] book-149: The Quran and the Historical Jesus (John Gilchrist) — 现4章
+- [ ] book-150: The Dignity of Man (John Kilner) — 现4章
+- [ ] book-151: 2084: Artificial Intelligence and the Future of Humanity (John Lennox) — 现4章
+- [ ] book-152: Can Science Explain Everything? (John Lennox) — 现4章
+- [ ] book-153: God's Undertaker: Has Science Buried God? (John Lennox) — 现4章
+- [ ] book-154: Science and Faith (John Lennox) — 现4章
+- [ ] book-155: Saved Without a Doubt (John MacArthur) — 现4章
+- [ ] book-156: Strange Fire (John MacArthur) — 现4章
+- [ ] book-157: Christian Baptism (John Murray) — 现4章
+- [ ] book-159: The Imputation of Adam's Sin (John Murray) — 现4章
+- [ ] book-161: The Death of Death in the Death of Christ (John Owen) — 现4章
+- [ ] book-162: The Mortification of Sin (John Owen) — 现4章
+- [ ] book-164: A Marginal Jew (John P. Meier) — 现3章
+- [x] book-165: Desiring God (John Piper) — 现3章
+- [ ] book-166: Don't Waste Your Life (John Piper) — 现3章
+- [ ] book-167: The Pleasures of God (John Piper) — 现3章
+- [ ] book-168: Suffering and the Sovereignty of God (John Piper & Justin Taylor) — 现3章
+- [ ] book-169: Baptism and Fullness (John Stott) — 现3章
+- [x] book-170: Basic Christianity (John Stott) — 现4章
+- [x] book-171: The Cross of Christ (John Stott) — 现3章
+- [ ] book-172: Freedom of the Will (Jonathan Edwards) — 现4章
+- [ ] book-173: Original Sin (Jonathan Edwards) — 现4章
+- [ ] book-174: The Church Discipline (Jonathan Leeman) — 现3章
+- [ ] book-175: Icons of Evolution (Jonathan Wells) — 现4章
+- [ ] book-176: Jesus of Nazareth (Joseph Ratzinger (Benedict XVI)) — 现4章
+- [x] book-177: Evidence That Demands a Verdict (Josh McDowell) — 现4章
+- [ ] book-178: Necessary Existence (Joshua Rasmussen) — 现4章
+- [ ] book-179: Covenantal Apologetics (K. Scott Oliphint) — 现4章
+- [ ] book-180: Justified in Christ (K. Scott Oliphint, ed.) — 现4章
+- [ ] book-181: Given for You (Keith Mathison) — 现4章
+- [ ] book-182: Given for You: Reclaiming Calvin's Doctrine of the Lord's Supper (Keith Mathison) — 现4章
+- [ ] book-183: The Shape of Sola Scriptura (Keith Mathison) — 现4章
+- [ ] book-184: Textual Criticism and Qur (Keith Small) — 现4章
+- [ ] book-185: Religion and Creation (Keith Ward) — 现4章
+- [ ] book-186: On the Reliability of the Old Testament (Kenneth Kitchen) — 现4章
+- [ ] book-187: Taking God at His Word (Kevin DeYoung) — 现4章
+- [ ] book-188: The Hole in Our Holiness (Kevin DeYoung) — 现4章
+- [ ] book-189: Why We Love the Church (Kevin DeYoung) — 现3章
+- [ ] book-190: A Case for Amillennialism (Kim Riddlebarger) — 现4章
+- [ ] book-191: The Gospel in a Pluralist Society (Lesslie Newbigin) — 现4章
+- [ ] book-192: Nine Marks of a Healthy Church (Mark Dever) — 现3章
+- [ ] book-193: The Compelling Community (Mark Dever) — 现3章
+- [ ] book-194: Knowing Christ (Mark Jones) — 现4章
+- [ ] book-195: The Bondage of the Will (Martin Luther) — 现4章
+- [ ] book-197: Darwin's Black Box (Michael Behe) — 现4章
+- [ ] book-198: Angels: What the Bible Really Says (Michael Brown) — 现4章
+- [ ] book-199: Answering Jewish Objections to Jesus (Michael Brown) — 现4章
+- [ ] book-200: Answering Jewish Objections to Jesus, 5 vols. (Michael Brown) — 现4章
+- [ ] book-201: Playing with Holy Fire (Michael Brown) — 现4章
+- [ ] book-202: The Transcendental Argument for God's Existence (Michael Butler) — 现4章
+- [ ] book-203: Evangelism in the Early Church (Michael Green) — 现3章
+- [ ] book-204: Canon Revisited (Michael Kruger) — 现4章
+- [ ] book-205: Question of Canon (Michael Kruger) — 现4章
+- [ ] book-206: The Spirit of Democratic Capitalism (Michael Novak) — 现4章
+- [ ] book-207: Delighting in the Trinity (Michael Reeves) — 现4章
+- [ ] book-208: Far as the Curse Is Found (Michael Williams) — 现4章
+- [ ] book-209: Allah: A Christian Response (Miroslav Volf) — 现4章
+- [ ] book-210: Jesus as God (Murray Harris) — 现4章
+- [ ] book-211: Paul: A Biography (N.T. Wright) — 现4章
+- [ ] book-212: Simply Jesus (N.T. Wright) — 现4章
+- [ ] book-213: Surprised by Hope (N.T. Wright) — 现4章
+- [ ] book-214: The Resurrection of the Son of God (N.T. Wright) — 现4章
+- [ ] book-215: No God but One: Allah or Jesus? (Nabeel Qureshi) — 现4章
+- [ ] book-216: Seeking Allah, Finding Jesus (Nabeel Qureshi) — 现4章
+- [ ] book-217: Why We're Protestant (Nate Pickowicz) — 现4章
+- [ ] book-218: Justice: Rights and Wrongs (Nicholas Wolterstorff) — 现4章
+- [ ] book-219: The Insanity of God (Nik Ripken) — 现4章
+- [ ] book-220: Answering Islam (Norman Geisler) — 现4章
+- [ ] book-221: Baker Encyclopedia of Christian Apologetics (Norman Geisler) — 现4章
+- [ ] book-222: Answering Islam (Norman Geisler & Abdul Saleeb) — 现4章
+- [ ] book-223: The Big Book of Bible Difficulties (Norman Geisler & Thomas Howe) — 现4章
+- [ ] book-224: A General Introduction to the Bible (Norman Geisler & William Nix) — 现4章
+- [ ] book-225: Anselm's Ontological Arguments (Norman Malcolm) — 现4章
+- [ ] book-226: Transsexualism and Christian Marriage (Oliver O'Donovan) — 现4章
+- [ ] book-227: The Call (Os Guinness) — 现4章
+- [ ] book-228: The Ascension of Christ (Patrick Schreiner) — 现4章
+- [ ] book-229: Spirit and Beauty (Patrick Sherry) — 现4章
+- [ ] book-230: Is God a Moral Monster? (Paul Copan) — 现4章
+- [ ] book-231: Did God Really Command Genocide? (Paul Copan & Matthew Flannagan) — 现4章
+- [ ] book-232: The Unexpected Way: On Converting from Buddhism to Catholicism (Paul Williams) — 现4章
+- [ ] book-233: The Art of Dying (Peter Adam) — 现4章
+- [ ] book-234: Science Speaks (Peter Stoner) — 现4章
+- [ ] book-235: Can We Trust the Gospels? (Peter Williams) — 现4章
+- [ ] book-236: What's So Amazing About Grace? (Philip Yancey) — 现4章
+- [ ] book-237: Embodied: Transgender Identities, the Church, and What the Bible Has to Say (Preston Sprinkle) — 现3章
+- [ ] book-238: Angels (R.C. Sproul) — 现4章
+- [ ] book-239: Chosen by God (R.C. Sproul) — 现4章
+- [ ] book-240: Defending Your Faith (R.C. Sproul) — 现4章
+- [ ] book-241: Faith Alone (R.C. Sproul) — 现4章
+- [ ] book-242: Getting the Gospel Right (R.C. Sproul) — 现4章
+- [ ] book-243: God's Word (R.C. Sproul) — 现4章
+- [ ] book-244: Grace Unknown (R.C. Sproul) — 现4章
+- [ ] book-245: Not a Chance (R.C. Sproul) — 现4章
+- [ ] book-246: Scripture Alone (R.C. Sproul) — 现4章
+- [ ] book-247: The Consequences of Ideas (R.C. Sproul) — 现4章
+- [ ] book-248: The Holy Spirit (R.C. Sproul) — 现4章
+- [ ] book-249: The Mystery of the Holy Spirit (R.C. Sproul) — 现4章
+- [ ] book-250: The Unpardonable Sin (R.C. Sproul) — 现4章
+- [ ] book-251: What Is Faith? (R.C. Sproul) — 现4章
+- [x] book-252: What is Reformed Theology? (R.C. Sproul) — 现4章
+- [ ] book-253: What is the Church? (R.C. Sproul) — 现3章
+- [ ] book-254: The Stones Cry Out (Randall Price) — 现4章
+- [ ] book-255: Heaven (Randy Alcorn) — 现4章
+- [ ] book-256: The Treasure Principle (Randy Alcorn) — 现4章
+- [ ] book-257: Jesus Among Other Gods (Ravi Zacharias) — 现4章
+- [ ] book-258: The Lotus and the Cross (Ravi Zacharias) — 现4章
+- [ ] book-259: Cults, New Religious Movements, and Your Family (Richard Abanes) — 现4章
+- [ ] book-260: Jesus and the Eyewitnesses (Richard Bauckham) — 现4章
+- [ ] book-261: The Road from Damascus (Richard Longenecker) — 现4章
+- [ ] book-262: The Existence of God (Richard Swinburne) — 现4章
+- [ ] book-263: Metaphysics (Richard Taylor) — 现4章
+- [ ] book-264: Putting Jesus in His Place (Robert Bowman & Ed Komoszewski) — 现4章
+- [ ] book-265: The Holy Trinity (Robert Letham) — 现4章
+- [ ] book-266: Hell on Trial: The Case for Eternal Punishment (Robert Peterson) — 现4章
+- [ ] book-267: The Fine-Tuning Argument (Robin Collins) — 现4章
+- [ ] book-268: God's Battalions: The Case for the Crusades (Rodney Stark) — 现4章
+- [ ] book-269: The Rise of Christianity (Rodney Stark) — 现4章
+- [ ] book-270: The Emperor's New Mind (Roger Penrose) — 现4章
+- [ ] book-271: Reasoning from the Scriptures with Jehovah's Witnesses (Ron Rhodes) — 现4章
+- [ ] book-272: The Challenge of the Cults and New Religions (Ron Rhodes) — 现4章
+- [ ] book-273: When Harry Became Sally: Responding to the Transgender Moment (Ryan T. Anderson) — 现4章
+- [ ] book-274: Practicing the Power (Sam Storms) — 现4章
+- [ ] book-275: The Muslim Christ (Samuel Zwemer) — 现4章
+- [ ] book-276: The Holy Spirit (Sinclair Ferguson) — 现4章
+- [ ] book-277: The Whole Christ (Sinclair Ferguson) — 现4章
+- [ ] book-278: Darwin's Doubt (Stephen Meyer) — 现4章
+- [ ] book-279: Return of the God Hypothesis (Stephen Meyer) — 现4章
+- [ ] book-280: Signature in the Cell (Stephen Meyer) — 现4章
+- [ ] book-281: God the Son Incarnate (Stephen Wellum) — 现4章
+- [ ] book-282: Shincheonji and the NCPCOG: An Analysis (Steven Banhegyi) — 现4章
+- [ ] book-283: Mind and Cosmos (Thomas Nagel) — 现4章
+- [ ] book-284: Saving Faith (Thomas Schreiner) — 现4章
+- [ ] book-285: Spiritual Gifts (Thomas Schreiner) — 现4章
+- [ ] book-286: Reaching the Chinese World for Christ (Thomas Wang) — 现4章
+- [ ] book-287: The Doctrine of Repentance (Thomas Watson) — 现4章
+- [ ] book-288: The Lord's Supper (Thomas Watson) — 现4章
+- [ ] book-289: Counterfeit Gods (Tim Keller) — 现4章
+- [ ] book-290: Every Good Endeavor (Tim Keller) — 现4章
+- [x] book-291: Prayer (Tim Keller) — 现4章
+- [ ] book-292: The Freedom of Self-Forgetfulness (Tim Keller) — 现4章
+- [ ] book-293: The Prodigal God (Tim Keller) — 现4章
+- [x] book-294: The Reason for God (Tim Keller) — 现4章
+- [ ] book-295: Walking with God through Pain and Suffering (Tim Keller) — 现4章
+- [ ] book-296: Generous Justice (Timothy Keller) — 现4章
+- [ ] book-297: Making Sense of God (Timothy Keller) — 现4章
+- [ ] book-298: The Prodigal God (Timothy Keller) — 现4章
+- [ ] book-299: The Reason for God (Timothy Keller) — 现4章
+- [ ] book-300: Walking with God through Pain and Suffering (Timothy Keller) — 现4章
+- [ ] book-301: Unearthing the Bible (Titus Kennedy) — 现4章
+- [ ] book-302: Dominion: How the Christian Revolution Remade the World (Tom Holland) — 现4章
+- [ ] book-303: God Is a Warrior (Tremper Longman III & Daniel Reid) — 现4章
+- [ ] book-304: History of Beauty (Umberto Eco) — 现4章
+- [ ] book-305: The Inerrancy of Scripture (Various Authors) — 现4章
+- [ ] book-306: C.S. Lewis's Dangerous Idea (Victor Reppert) — 现4章
+- [ ] book-307: The Book That Made Your World (Vishal Mangalwadi) — 现4章
+- [ ] book-308: The Messiah in the Old Testament (Walter Kaiser) — 现4章
+- [ ] book-309: The Kingdom of the Cults (Walter Martin) — 现4章
+- [ ] book-310: Business for the Glory of God (Wayne Grudem) — 现4章
+- [x] book-311: Systematic Theology (Wayne Grudem) — 现4章
+- [ ] book-312: Are Miraculous Gifts for Today? (Wayne Grudem, ed.) — 现4章
+- [ ] book-313: Perceiving God (William Alston) — 现4章
+- [ ] book-314: The Marrow of Theology (William Ames) — 现4章
+- [ ] book-315: The Myth of Religious Violence (William Cavanaugh) — 现4章
+- [ ] book-316: The Christian in Complete Armour (William Gurnall) — 现4章
+- [ ] book-317: The Emergent Self (William Hasker) — 现4章
+- [ ] book-318: More Than Conquerors (William Hendriksen) — 现4章
+- [ ] book-319: The Varieties of Religious Experience (William James) — 现4章
+- [ ] book-320: Kalam Cosmological Argument (William Lane Craig) — 现4章
+- [ ] book-321: On Guard (William Lane Craig) — 现4章
+- [ ] book-322: Reasonable Faith (William Lane Craig) — 现4章
+- [ ] book-323: The Cosmological Argument (William Rowe) — 现4章
+## 质量标准（2026-02-02确定）
+- 必须按原书真实章节结构，一章一章来，不合并
+- summary 3-5句，准确反映该章具体内容
+- key_quotes 用 {"zh":"...", "en":"..."} 格式
+- 绝不能有通用占位符描述
+- 每次处理5本，处理完亲自验证，过关打勾

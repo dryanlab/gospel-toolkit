@@ -35,6 +35,19 @@ export function getBookById(id: string): Book | undefined {
   return books.find(b => b.id === id);
 }
 
+export const bookCategories = (() => {
+  const cats: Record<string, number> = {};
+  books.forEach(b => {
+    const cat = (b as any).category || '其他';
+    cats[cat] = (cats[cat] || 0) + 1;
+  });
+  return Object.entries(cats).sort((a, b) => b[1] - a[1]);
+})();
+
+export function getBooksByCategory(category: string): Book[] {
+  return books.filter(b => (b as any).category === category);
+}
+
 export function getYouthById(id: string): YouthItem | undefined {
   return youthItems.find(y => y.id === id);
 }
