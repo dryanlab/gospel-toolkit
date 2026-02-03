@@ -5,6 +5,11 @@ export function generateStaticParams() {
   return bookCategories.map(([cat]) => ({ cat: encodeURIComponent(cat) }));
 }
 
-export default function CategoryPage({ params }: { params: Promise<{ cat: string }> }) {
-  return <CategoryClient paramsPromise={params} />;
+export default async function CategoryPage({ params }: { params: Promise<{ cat: string }> }) {
+  const { cat: rawCat } = await params;
+  // generateStaticParams encodes once, Next.js encodes again → double decode
+  let cat = rawCat;
+  try { cat = decodeURIComponent(cat); } catch {}
+  try { cat = decodeURIComponent(cat); } catch {}
+  return <CategoryClient cat={cat} />;
 }

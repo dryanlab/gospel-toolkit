@@ -1,5 +1,5 @@
 'use client';
-import { useState, useMemo, use } from 'react';
+import { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { books, getBooksByCategory } from '@/lib/data';
 import FavoriteButton from '@/components/FavoriteButton';
@@ -34,19 +34,7 @@ function normalize(str: string): string {
   return str.toLowerCase().replace(/[\s·．・]/g, '');
 }
 
-export default function CategoryClient({ paramsPromise }: { paramsPromise: Promise<{ cat: string }> }) {
-  const { cat: rawCat } = use(paramsPromise);
-  // rawCat may be URL-encoded or already decoded depending on Next.js version
-  let cat: string;
-  try {
-    cat = decodeURIComponent(rawCat);
-  } catch {
-    cat = rawCat;
-  }
-  // If decode didn't change anything and it looks encoded, try again
-  if (cat === rawCat && rawCat.includes('%')) {
-    try { cat = decodeURIComponent(rawCat); } catch { /* keep as is */ }
-  }
+export default function CategoryClient({ cat }: { cat: string }) {
   const [search, setSearch] = useState('');
   const info = categoryInfo[cat] || { icon: '📘', en: cat };
 
