@@ -25,7 +25,7 @@ export default function BookDetailClient({ paramsPromise }: { paramsPromise: Pro
   // Support both epub_filename and full_epub_filename
   const hasMultiVolume = book?.full_epub_volumes && book.full_epub_volumes.length > 1;
   const epubFile = hasMultiVolume 
-    ? book.full_epub_volumes[selectedVolume]?.filename 
+    ? book.full_epub_volumes?.[selectedVolume]?.filename 
     : (book?.full_epub_filename || book?.epub_filename);
 
   useEffect(() => {
