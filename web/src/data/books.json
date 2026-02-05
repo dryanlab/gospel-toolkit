@@ -71,7 +71,7 @@
     ],
     "epub_filename": "book-003.epub",
     "summary_epub_filename": null,
-    "full_epub_filename": "calvin_institutes.epub",
+    "full_epub_filename": "book-003.epub",
     "category": "系统神学"
   },
   {
@@ -180,7 +180,7 @@
     "author_en": "C.S. Lewis",
     "title_zh": "四种爱",
     "title_en": "The Four Loves",
-    "summary_zh": "路易斯深入探讨四种爱的本质：亲情（Storge）、友情（Philia）、爱情（Eros）和大爱/神爱（Agape/Charity）。他分析每种爱的美善与危险——任何自然之爱若被绝对化，都会变成偶像和暴君。唯有神爱才能净化和成全其他三种爱。本书兼具文学之美与神学之深。",
+    "summary_zh": "路易斯深入探讨四种爱的本质：亲情、友情、爱情和神圣之爱。他分析每种爱的美善与危险——任何自然之爱若被绝对化，都会变成偶像和暴君。唯有神圣之爱才能净化和成全其他三种爱。本书兼具文学之美与神学之深。",
     "summary_en": "Lewis explores the nature of four loves: Affection (Storge), Friendship (Philia), Eros, and Charity (Agape). He analyzes each love's beauty and danger—any natural love, if absolutized, becomes an idol and tyrant. Only divine love can purify and perfect the other three. The book combines literary beauty with theological depth.",
     "recommend_for": [
       "恋爱中的人",
@@ -606,7 +606,7 @@
     "author_en": "Andrew Walker",
     "title_zh": "上帝与跨性别辩论",
     "title_en": "God and the Transgender Debate",
-    "summary_zh": "英国神学家安德鲁·沃克对当代跨性别议题的基督教回应。在文化急剧变迁的时代，沃克以温和而坚定的态度，从圣经和神学角度探讨性别认同问题。书中既体现了对跨性别群体的关怀和理解，又坚持了传统基督教的人类学观点——人是按照神的形象受造的男性或女性。作者为教会在这一敏感议题上提供了平衡的牧养指导。",
+    "summary_zh": "美国南方浸信会神学院伦理学教授安德鲁·沃克对当代跨性别议题的基督教回应。在文化急剧变迁的时代，沃克以温和而坚定的态度，从圣经和神学角度探讨性别认同问题。书中既体现了对跨性别群体的关怀和理解，又坚持了传统基督教的人类学观点——人是按照神的形象受造的男性或女性。作者为教会在这一敏感议题上提供了平衡的牧养指导。",
     "summary_en": "British theologian Andrew Walker's Christian response to contemporary transgender issues. In an era of rapid cultural change, Walker addresses gender identity questions from biblical and theological perspectives with both gentleness and firmness. The work demonstrates care and understanding for transgender individuals while maintaining traditional Christian anthropology—that humans are created male and female in God's image. The author provides balanced pastoral guidance for churches navigating this sensitive issue.",
     "category": "伦理与文化",
     "recommend_for": [
@@ -724,8 +724,8 @@
     "author_en": "Anthony Hoekema",
     "title_zh": "四大异端",
     "title_en": "The Four Major Cults",
-    "summary_zh": "乌克马对四大异端教派的系统分析和批判。本书深入考察了耶和华见证人会、摩门教、基督教科学会和统一教的教义体系，揭示它们偏离正统基督教信仰的关键之处。作者不仅从教义层面进行辨析，还提供了与异端信徒对话的实用指导，帮助基督徒在真理上站立得稳，同时以爱心进行护教事工。",
-    "summary_en": "Hoekema's systematic analysis and critique of four major cults. This work thoroughly examines the doctrinal systems of Jehovah's Witnesses, Mormonism, Christian Science, and the Unification Church, revealing key departures from orthodox Christian faith. The author not only analyzes at the doctrinal level but also provides practical guidance for dialogue with cult members, helping Christians stand firm in truth while conducting apologetic ministry with love.",
+    "summary_zh": "乌克马对四大异端教派的系统分析和批判。本书深入考察了耶和华见证人会、摩门教、基督教科学会和基督复临安息日会的教义体系，揭示它们偏离正统基督教信仰的关键之处。作者不仅从教义层面进行辨析，还提供了与异端信徒对话的实用指导，帮助基督徒在真理上站立得稳，同时以爱心进行护教事工。",
+    "summary_en": "Hoekema's systematic analysis and critique of four major cults. This work thoroughly examines the doctrinal systems of Jehovah's Witnesses, Mormonism, Christian Science, and the Seventh-day Adventism, revealing key departures from orthodox Christian faith. The author not only analyzes at the doctrinal level but also provides practical guidance for dialogue with cult members, helping Christians stand firm in truth while conducting apologetic ministry with love.",
     "category": "异端辨别",
     "recommend_for": [
       "神学学习者",
@@ -775,7 +775,7 @@
     ],
     "epub_filename": null,
     "summary_epub_filename": null,
-    "full_epub_filename": null
+    "full_epub_filename": "book-032-full.epub"
   },
   {
     "id": "book-033",
@@ -901,10 +901,10 @@
   },
   {
     "id": "book-039",
-    "author_zh": "卡尔·斯韦特曼",
-    "author_en": "Carl Sweatman",
+    "author_zh": "威廉·莱恩·克雷格",
+    "author_en": "William Lane Craig",
     "title_zh": "耶稣真的复活了吗？",
-    "title_en": "Did Jesus Really Rise from the Dead?",
+    "title_en": "The Son Rises",
     "summary_zh": "斯韦特曼针对复活节信仰的专门护教著作。作者面对现代学术界对耶稣复活的质疑，运用历史学方法系统检视了复活的证据：空坟墓的发现、多次目击见证、门徒的转变，以及早期基督教的迅速传播。通过严谨的史学分析和逻辑推理，斯韦特曼论证复活是对现有证据的最佳解释，为基督教信仰的核心教义提供了强有力的历史支持。",
     "summary_en": "Swinburne's specialized apologetic work defending the Easter faith. Facing modern academic challenges to Jesus' resurrection, the author employs historical methodology to systematically examine the evidence: discovery of the empty tomb, multiple eyewitness testimonies, the disciples' transformation, and early Christianity's rapid spread. Through rigorous historical analysis and logical reasoning, Swinburne argues that resurrection is the best explanation for available evidence, providing powerful historical support for Christianity's core doctrine.",
     "category": "护教学",
@@ -1035,10 +1035,10 @@
     "id": "book-045",
     "author_zh": "克里斯托弗·赖特",
     "author_en": "Christopher Wright",
-    "title_zh": "The God I Don",
-    "title_en": "The God I Don",
-    "summary_zh": "旧约学者赖特对基督教伦理基础的圣经神学探讨。作者从旧约的社会伦理教导出发，阐释上帝的性情如何通过律法和先知的教导显明，进而指导基督徒的道德生活。赖特强调整全福音（holistic mission）的重要性，认为基督教不仅关注个人救恩，更应关注社会正义、环境保护等议题，体现上帝对受造界的关怀。",
-    "summary_en": "Old Testament scholar Wright's biblical theological exploration of Christian ethical foundations. Beginning with Old Testament social ethical teachings, the author elucidates how God's character is revealed through law and prophetic instruction, guiding Christian moral life. Wright emphasizes the importance of holistic mission, arguing that Christianity should concern itself not only with individual salvation but also with social justice, environmental protection, and other issues reflecting God's care for creation.",
+    "title_zh": "我所不能理解的上帝",
+    "title_en": "The God I Don't Understand",
+    "summary_zh": "旧约学者赖特坦诚面对信仰中难以理解的问题。全书分四部分探讨：恶与苦难的存在、旧约中令人困扰的\"恐怖经文\"（如灭绝迦南人的命令）、十字架的奥秘、以及末世与永恒审判。赖特不假装有简单答案，而是以敬虔的诚实带领读者与这些艰难问题角力，同时坚守对神的信靠。这种既不回避困难又不失信心的态度，使本书成为帮助基督徒面对疑惑的宝贵资源。",
+    "summary_en": "Old Testament scholar Wright honestly confronts the difficult questions of faith. The book explores four areas: the existence of evil and suffering, troubling Old Testament 'texts of terror' (such as the commands to destroy the Canaanites), the mystery of the cross, and the end times and eternal judgment. Wright doesn't pretend to have easy answers but leads readers to wrestle with these hard questions with reverent honesty while maintaining trust in God. This approach—neither avoiding difficulty nor losing faith—makes this book a valuable resource for Christians facing doubt.",
     "category": "系统神学",
     "recommend_for": [
       "困惑中的信徒",
@@ -1917,7 +1917,7 @@
     "id": "book-086",
     "author_zh": "弗朗西斯·柯林斯",
     "author_en": "Francis Collins",
-    "title_zh": "The Language of God",
+    "title_zh": "上帝的语言",
     "title_en": "The Language of God",
     "summary_zh": "人类基因组计划负责人柯林斯关于科学与信仰和谐的见证。作为杰出的遗传学家和虔诚的基督徒，柯林斯以其独特的双重身份，论证科学发现不仅不与上帝信仰冲突，反而为上帝的存在提供了新的证据。作者详细探讨了宇宙精细调节、生命信息的复杂性、道德律的普遍存在等现象，展示\"上帝的语言\"如何通过自然界向人类显明。这本书为调和进化论与创造信仰提供了重要视角。",
     "summary_en": "A testimony about the harmony of science and faith by Collins, director of the Human Genome Project. As both an outstanding geneticist and devout Christian, Collins uses his unique dual identity to argue that scientific discoveries not only do not conflict with belief in God but provide new evidence for God's existence. The author explores in detail phenomena like cosmic fine-tuning, life's informational complexity, and the universality of moral law, demonstrating how \"God's language\" reveals itself to humanity through nature. This book provides important perspectives for reconciling evolutionary theory with creation faith.",
@@ -2057,7 +2057,7 @@
     ],
     "epub_filename": null,
     "summary_epub_filename": null,
-    "full_epub_filename": null
+    "full_epub_filename": "book-091-full.epub"
   },
   {
     "id": "book-092",
@@ -2210,7 +2210,7 @@
     "id": "book-099",
     "author_zh": "格兰特·奥斯邦",
     "author_en": "Grant Osborne",
-    "title_zh": "Revelation (BECNT)",
+    "title_zh": "启示录注释",
     "title_en": "Revelation (BECNT)",
     "summary_zh": "三一神学院新约教授奥斯邦在这部贝克释经注释系列的启示录卷中，提供了既学术严谨又牧会实用的释经工作。他平衡地处理了启示录的文学体裁、历史背景和神学信息，既重视第一世纪的历史处境，也关注对当代教会的意义。作者采用渐进平行论的末世观框架，避免了过度推测未来细节的倾向。本书以其扎实的希腊文研究和清晰的释经思路，成为研究启示录的重要参考工具。",
     "summary_en": "Trinity Seminary New Testament professor Grant Osborne provides both scholarly rigor and pastoral practicality in this Baker Exegetical Commentary volume on Revelation. He offers balanced treatment of Revelation's literary genre, historical background, and theological message, valuing both first-century historical context and contemporary church application. The author adopts a progressive parallel eschatological framework while avoiding excessive speculation about future details. With solid Greek scholarship and clear exegetical reasoning, this work has become an important reference tool for Revelation studies.",
@@ -2546,7 +2546,7 @@
     "id": "book-115",
     "author_zh": "J.山本勇",
     "author_en": "J. Isamu Yamamoto",
-    "title_zh": "Unification Church",
+    "title_zh": "统一教",
     "title_en": "Unification Church",
     "summary_zh": "基督教护教研究院（CRI）的研究员山本勇深入调查了韩国统一教（文鲜明教会）的教义、实践和对基督教信仰的偏离。他详细分析了统一教的《原理讲论》，揭示其对三位一体、基督论、救赎论等核心教义的严重歪曲。作者特别关注统一教的传教策略和对年轻人的影响，为基督徒识别和回应这一异端运动提供了重要资源。本书是理解20世纪重要异端运动的权威研究。",
     "summary_en": "Christian Research Institute (CRI) researcher J. Isamu Yamamoto conducts in-depth investigation of the Korean Unification Church (Moon's movement), examining its doctrines, practices, and deviations from Christian faith. He thoroughly analyzes the Unification Church's 'Divine Principle,' revealing serious distortions of core doctrines including the Trinity, Christology, and soteriology. The author particularly addresses the movement's evangelistic strategies and impact on young people, providing important resources for Christians to identify and respond to this cultic movement. This work represents authoritative research on a significant 20th-century cultic movement.",
@@ -3139,7 +3139,7 @@
     ],
     "epub_filename": null,
     "summary_epub_filename": null,
-    "full_epub_filename": null
+    "full_epub_filename": "book-145-full.epub"
   },
   {
     "id": "book-146",
@@ -3791,8 +3791,8 @@
     "id": "book-184",
     "author_zh": "基思·斯莫尔",
     "author_en": "Keith Small",
-    "title_zh": "Textual Criticism and Qur",
-    "title_en": "Textual Criticism and Qur",
+    "title_zh": "古兰经抄本的经文鉴别学",
+    "title_en": "Textual Criticism and Qur'an Manuscripts",
     "summary_zh": "基思·斯莫尔（Keith Small）从文本批判学角度研究《古兰经》文本历史的学术著作。作者运用现代文本批判方法，分析了《古兰经》文本传承过程中的各种问题，包括早期手稿的差异、编纂过程的复杂性、以及不同版本之间的变化。这部研究以严谨的学术方法，为基督徒学者了解伊斯兰经典的文本问题提供了重要参考。虽然主题敏感，但斯莫尔以客观的学术态度进行研究，为伊斯兰-基督教学术对话贡献了有价值的文本批判研究成果。",
     "summary_en": "Keith Small's scholarly work studying Quranic textual history from textual-critical perspective. Using modern textual-critical methods, the author analyzes various problems in Quranic textual transmission, including early manuscript variations, compilation process complexity, and changes between different versions. This research provides important reference for Christian scholars understanding textual issues of Islamic scripture through rigorous academic methodology. Though addressing sensitive topics, Small conducts research with objective scholarly attitude, contributing valuable textual-critical research to Islamic-Christian academic dialogue.",
     "category": "比较宗教",
@@ -6088,8 +6088,8 @@
     "author_en": "William James",
     "title_zh": "宗教经验之种种",
     "title_en": "The Varieties of Religious Experience",
-    "summary_zh": "心理学家詹姆斯在这部landmark的著作中，从empirical psychology的角度研究religious experience的various forms和psychological functions。他分析了conversion、mysticism、saintliness等phenomena，探讨它们的psychological characteristics和effects on human behavior。虽然詹姆斯采用了pragmatic而非theological approach，但他的careful observation和insightful analysis对于understanding religion的psychological dimensions具有enduring value。这部作品bridged了psychology和religious studies，影响了subsequent research in both fields。",
-    "summary_en": "Psychologist James studies various forms and psychological functions of religious experience from an empirical psychology perspective in this landmark work. He analyzes phenomena like conversion, mysticism, and saintliness, exploring their psychological characteristics and effects on human behavior. Though James adopts a pragmatic rather than theological approach, his careful observation and insightful analysis have enduring value for understanding religion's psychological dimensions. This work bridged psychology and religious studies, influencing subsequent research in both fields.",
+    "summary_zh": "美国心理学家威廉·詹姆斯的经典之作，从实证心理学角度研究宗教经验的各种形式及其心理功能。作者分析了皈依、神秘主义、圣徒特质等现象，探讨它们的心理特征及对人类行为的影响。虽然詹姆斯采用实用主义而非神学进路，但他细致的观察和深刻的分析对理解宗教的心理层面具有持久价值。此书开创了宗教心理学研究，影响深远。",
+    "summary_en": "American psychologist William James's classic work studying various forms and psychological functions of religious experience from an empirical perspective. He analyzes phenomena like conversion, mysticism, and saintliness, exploring their psychological characteristics and effects on human behavior. Though James adopts a pragmatic rather than theological approach, his careful observation and insightful analysis have enduring value for understanding religion's psychological dimensions.",
     "category": "哲学与思想",
     "recommend_for": [],
     "tags": [
@@ -6097,7 +6097,7 @@
     ],
     "epub_filename": null,
     "summary_epub_filename": null,
-    "full_epub_filename": null
+    "full_epub_filename": "book-319-full.epub"
   },
   {
     "id": "book-320",
@@ -6166,5 +6166,406 @@
     "epub_filename": null,
     "summary_epub_filename": null,
     "full_epub_filename": null
+  },
+  {
+    "id": "book-324",
+    "author_zh": "奥古斯丁",
+    "author_en": "Augustine of Hippo",
+    "title_zh": "忏悔录",
+    "title_en": "Confessions",
+    "summary_zh": "奥古斯丁最著名的自传体著作，记录他从迷失到归向上帝的心路历程。全书以祷告形式写成，真诚剖析罪性、恩典与信仰，探讨记忆、时间与永恒等哲学议题。这部作品开创了西方自传文学传统，也是认识奥古斯丁神学思想的必读之作。",
+    "summary_en": "Augustine's most famous autobiographical work, recording his journey from sin to faith. Written as a prayer, it honestly examines sin, grace, and faith, while exploring memory, time, and eternity. A foundational work of Western autobiography and essential for understanding Augustinian theology.",
+    "category": "古典著作",
+    "recommend_for": [
+      "初信者",
+      "神学生",
+      "牧师"
+    ],
+    "tags": [
+      "古典著作",
+      "灵修",
+      "自传"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "book-324-full.epub"
+  },
+  {
+    "id": "book-325",
+    "author_zh": "奥古斯丁",
+    "author_en": "Augustine of Hippo",
+    "title_zh": "上帝之城（全两卷）",
+    "title_en": "The City of God (Complete)",
+    "summary_zh": "奥古斯丁最宏大的神学著作，写于罗马陷落之后。全书对比上帝之城与地上之城，阐述基督教的历史观、政治观和末世观。这部作品深刻影响了西方政治哲学和神学思想，是理解基督教与世俗社会关系的奠基之作。",
+    "summary_en": "Augustine's most monumental theological work, written after the fall of Rome. It contrasts the City of God with the earthly city, expounding the Christian view of history, politics, and eschatology.",
+    "category": "古典著作",
+    "recommend_for": [
+      "神学生",
+      "牧师",
+      "历史爱好者"
+    ],
+    "tags": [
+      "古典著作",
+      "系统神学",
+      "历史神学"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "book-325-full.epub",
+    "full_epub_volumes": [
+      {
+        "label": "上卷 Volume I",
+        "filename": "book-325-full.epub"
+      },
+      {
+        "label": "下卷 Volume II",
+        "filename": "book-325-vol2-full.epub"
+      }
+    ]
+  },
+  {
+    "id": "book-326",
+    "author_zh": "约翰·班扬",
+    "author_en": "John Bunyan",
+    "title_zh": "天路历程",
+    "title_en": "The Pilgrim's Progress",
+    "summary_zh": "基督教文学史上最伟大的寓言小说，讲述基督徒从灭亡城前往天国的朝圣之旅。班扬以生动的人物和场景描绘信仰生活的挣扎与得胜，书中的灰心沼、虚荣集市、疑惑堡等意象深入人心，影响了无数信徒的灵命成长。",
+    "summary_en": "The greatest allegorical novel in Christian literature, depicting a pilgrim's journey from the City of Destruction to the Celestial City. Bunyan's vivid characters and scenes portray the struggles and triumphs of faith.",
+    "category": "古典著作",
+    "recommend_for": [
+      "初信者",
+      "慕道友",
+      "青少年"
+    ],
+    "tags": [
+      "古典著作",
+      "寓言",
+      "灵修"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "book-326-full.epub"
+  },
+  {
+    "id": "book-327",
+    "author_zh": "约拿单·爱德华兹",
+    "author_en": "Jonathan Edwards",
+    "title_zh": "爱德华兹讲道集",
+    "title_en": "Selected Sermons of Jonathan Edwards",
+    "summary_zh": "美国大觉醒运动最重要的布道家约拿单·爱德华兹的讲道精选，包括震撼人心的《落在愤怒之神手中的罪人》等名篇。爱德华兹用生动的比喻警告听众悔改的紧迫性，这些讲道引发了大规模的属灵复兴，至今仍是理解改革宗觉醒传统的重要文献。",
+    "summary_en": "Selected sermons from Jonathan Edwards, the most influential preacher of the American Great Awakening, including the famous 'Sinners in the Hands of an Angry God'. These sermons sparked widespread spiritual revival.",
+    "category": "讲道",
+    "recommend_for": [
+      "慕道友",
+      "初信者",
+      "牧师"
+    ],
+    "tags": [
+      "讲道",
+      "大觉醒",
+      "改革宗"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "book-327-full.epub"
+  },
+  {
+    "id": "book-328",
+    "author_zh": "马丁·路德",
+    "author_en": "Martin Luther",
+    "title_zh": "九十五条论纲",
+    "title_en": "The Ninety-Five Theses",
+    "summary_zh": "1517年路德张贴在威登堡教堂门上的论纲，引发了宗教改革运动。路德质疑赎罪券的神学根基，强调真悔改与信心的重要性。这份简短但革命性的文件改变了西方教会和文明的走向。",
+    "summary_en": "Luther's theses posted on the Wittenberg church door in 1517, sparking the Protestant Reformation. Luther challenged the theological basis of indulgences, emphasizing true repentance and faith.",
+    "category": "教会历史",
+    "recommend_for": [
+      "神学生",
+      "牧师",
+      "历史爱好者"
+    ],
+    "tags": [
+      "宗教改革",
+      "教会历史",
+      "路德"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "book-328-full.epub"
+  },
+  {
+    "id": "book-329",
+    "author_zh": "托马斯·肯培",
+    "author_en": "Thomas à Kempis",
+    "title_zh": "效法基督",
+    "title_en": "The Imitation of Christ",
+    "summary_zh": "中世纪最广泛阅读的灵修经典，仅次于圣经。肯培以简洁深刻的文字，教导信徒如何在日常生活中效法基督，追求内在的属灵生命。全书强调谦卑、舍己、祷告和与神亲密的关系，数百年来滋养了无数基督徒的灵命。",
+    "summary_en": "The most widely read devotional work after the Bible. Kempis teaches believers how to imitate Christ in daily life, emphasizing humility, self-denial, prayer, and intimacy with God.",
+    "category": "灵修",
+    "recommend_for": [
+      "初信者",
+      "追求灵命成长者",
+      "修道传统爱好者"
+    ],
+    "tags": [
+      "灵修",
+      "古典著作",
+      "中世纪"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "kempis_imitation.epub"
+  },
+  {
+    "id": "book-330",
+    "author_zh": "劳伦斯弟兄",
+    "author_en": "Brother Lawrence",
+    "title_zh": "与神同在的操练",
+    "title_en": "The Practice of the Presence of God",
+    "summary_zh": "17世纪修道士劳伦斯弟兄关于祷告和灵修的教导。他在修道院厨房的平凡工作中，学会了时刻与神同在的秘诀。这本小书以书信和对话的形式，教导信徒如何在日常生活的每一刻都意识到神的同在。",
+    "summary_en": "17th-century monk Brother Lawrence shares his secret of constant communion with God amid ordinary kitchen work. This small book teaches how to practice God's presence in every moment of daily life.",
+    "category": "灵修",
+    "recommend_for": [
+      "追求灵命成长者",
+      "忙碌的基督徒",
+      "祷告操练者"
+    ],
+    "tags": [
+      "灵修",
+      "祷告",
+      "古典著作"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "lawrence_presence.epub"
+  },
+  {
+    "id": "book-331",
+    "author_zh": "威廉·威伯福斯",
+    "author_en": "William Wilberforce",
+    "title_zh": "真正的基督教",
+    "title_en": "A Practical View of Christianity",
+    "summary_zh": "废奴运动领袖威伯福斯的信仰宣言。他批评当时英国上流社会名义上的基督教，呼吁回归真实、有改变生命力量的福音信仰。这部著作激励了19世纪的福音派复兴和社会改革运动。",
+    "summary_en": "Abolitionist leader Wilberforce's faith manifesto, critiquing nominal Christianity in British high society and calling for authentic, life-transforming faith. It inspired 19th-century evangelical revival and social reform.",
+    "category": "基督徒生活",
+    "recommend_for": [
+      "社会关怀者",
+      "历史爱好者",
+      "追求信仰实践者"
+    ],
+    "tags": [
+      "基督徒生活",
+      "社会改革",
+      "福音派"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "wilberforce_practical.epub"
+  },
+  {
+    "id": "book-332",
+    "author_zh": "约瑟夫斯",
+    "author_en": "Flavius Josephus",
+    "title_zh": "犹太古史",
+    "title_en": "Antiquities of the Jews",
+    "summary_zh": "一世纪犹太历史学家约瑟夫斯的巨著，记录从创世到公元66年的犹太民族历史。这部著作是了解两约之间历史和新约时代背景的重要资料，也为圣经历史提供了珍贵的外部佐证。",
+    "summary_en": "First-century Jewish historian Josephus chronicles Jewish history from creation to AD 66. Essential for understanding the intertestamental period and New Testament background, providing valuable external evidence for biblical history.",
+    "category": "历史",
+    "recommend_for": [
+      "圣经研究者",
+      "历史爱好者",
+      "神学生"
+    ],
+    "tags": [
+      "历史",
+      "犹太研究",
+      "圣经背景"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "josephus_antiquities.epub"
+  },
+  {
+    "id": "book-333",
+    "author_zh": "约瑟夫斯",
+    "author_en": "Flavius Josephus",
+    "title_zh": "犹太战争",
+    "title_en": "The Wars of the Jews",
+    "summary_zh": "约瑟夫斯亲历并记录的公元66-73年犹太人反抗罗马帝国的战争史，包括耶路撒冷圣殿被毁的详细记载。这是理解主后70年圣殿被毁这一圣经预言应验的第一手史料。",
+    "summary_en": "Josephus's firsthand account of the Jewish revolt against Rome (AD 66-73), including the destruction of Jerusalem's Temple. Primary source for understanding the fulfillment of biblical prophecy regarding the Temple's destruction in AD 70.",
+    "category": "历史",
+    "recommend_for": [
+      "圣经研究者",
+      "历史爱好者",
+      "末世论研究者"
+    ],
+    "tags": [
+      "历史",
+      "犹太研究",
+      "圣经预言"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "josephus_wars.epub"
+  },
+  {
+    "id": "book-334",
+    "author_zh": "慕安德烈",
+    "author_en": "Andrew Murray",
+    "title_zh": "完全的降服",
+    "title_en": "Absolute Surrender",
+    "summary_zh": "南非牧师慕安德烈关于完全顺服基督的经典讲道集。他以深刻的属灵洞见，教导信徒如何将生命的每个层面都交托给主，经历圣灵充满的能力。这部著作对全球灵恩运动和圣洁运动产生了深远影响。",
+    "summary_en": "South African pastor Andrew Murray's classic addresses on complete surrender to Christ. He teaches believers how to yield every area of life to the Lord and experience the power of Spirit-filled living.",
+    "category": "灵修",
+    "recommend_for": [
+      "追求灵命成长者",
+      "牧师",
+      "门徒训练者"
+    ],
+    "tags": [
+      "灵修",
+      "圣洁运动",
+      "顺服"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "murray_absolute_surrender.epub"
+  },
+  {
+    "id": "book-335",
+    "author_zh": "慕安德烈",
+    "author_en": "Andrew Murray",
+    "title_zh": "谦卑",
+    "title_en": "Humility: The Beauty of Holiness",
+    "summary_zh": "慕安德烈论谦卑的经典之作。他深入探讨谦卑作为基督徒生命根基的重要性，指出骄傲是一切罪的根源，而谦卑是所有美德的源泉。这本小书帮助无数信徒认识到真正的属灵生命始于在神面前的谦卑。",
+    "summary_en": "Murray's classic work on humility as the foundation of Christian life. He explores how pride is the root of all sin and humility the source of all virtue, helping believers understand that true spiritual life begins with humility before God.",
+    "category": "灵修",
+    "recommend_for": [
+      "追求灵命成长者",
+      "教会领袖",
+      "神学生"
+    ],
+    "tags": [
+      "灵修",
+      "品格塑造",
+      "属灵生命"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "murray_humility.epub"
+  },
+  {
+    "id": "book-336",
+    "author_zh": "约翰·班扬",
+    "author_en": "John Bunyan",
+    "title_zh": "丰盛的恩典",
+    "title_en": "Grace Abounding to the Chief of Sinners",
+    "summary_zh": "《天路历程》作者班扬的属灵自传，记录他从罪人到蒙恩得救的心路历程。他坦诚地描述了自己与罪恶和疑惑的挣扎，以及神丰盛恩典如何最终得胜。这部感人至深的见证鼓励了无数在信仰道路上挣扎的灵魂。",
+    "summary_en": "The spiritual autobiography of Pilgrim's Progress author Bunyan, recording his journey from sinner to saved. He honestly describes his struggles with sin and doubt, and how God's abundant grace ultimately triumphed.",
+    "category": "见证",
+    "recommend_for": [
+      "慕道友",
+      "初信者",
+      "在信仰中挣扎者"
+    ],
+    "tags": [
+      "见证",
+      "自传",
+      "恩典"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "bunyan_grace_abounding.epub"
+  },
+  {
+    "id": "book-337",
+    "author_zh": "司布真",
+    "author_en": "Charles Spurgeon",
+    "title_zh": "进入窄门",
+    "title_en": "Around the Wicket Gate",
+    "summary_zh": "\"讲道王子\"司布真写给慕道友的福音小册子，用平易近人的语言解释如何相信耶稣基督。他以牧者的心肠，温柔而清晰地引导寻求者跨过信心的门槛，进入救恩的确据。",
+    "summary_en": "The 'Prince of Preachers' Spurgeon's gospel booklet for seekers, explaining in accessible language how to believe in Jesus Christ. With pastoral warmth, he gently and clearly guides seekers across the threshold of faith into assurance of salvation.",
+    "category": "福音",
+    "recommend_for": [
+      "慕道友",
+      "初信者",
+      "传福音者"
+    ],
+    "tags": [
+      "福音",
+      "救恩",
+      "信心"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "spurgeon_wicket_gate.epub"
+  },
+  {
+    "id": "book-338",
+    "author_zh": "慕迪",
+    "author_en": "D.L. Moody",
+    "title_zh": "隐秘的能力",
+    "title_en": "Secret Power",
+    "summary_zh": "著名布道家慕迪论圣灵的经典之作。他以平实的语言解释圣灵在基督徒生命和事奉中的重要角色，教导信徒如何倚靠圣灵的能力过得胜的生活并有效地事奉神。这本书对后来的灵恩运动和福音派复兴产生了深远影响。",
+    "summary_en": "Renowned evangelist Moody's classic on the Holy Spirit. In plain language, he explains the Spirit's vital role in Christian life and ministry, teaching believers how to rely on the Spirit's power for victorious living and effective service.",
+    "category": "灵修",
+    "recommend_for": [
+      "追求灵命成长者",
+      "事奉者",
+      "牧师"
+    ],
+    "tags": [
+      "圣灵",
+      "灵修",
+      "福音派"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "moody_secret_power.epub"
+  },
+  {
+    "id": "book-339",
+    "author_zh": "大德兰",
+    "author_en": "Teresa of Ávila",
+    "title_zh": "圣女大德兰自传",
+    "title_en": "The Life of St. Teresa of Jesus",
+    "summary_zh": "16世纪西班牙神秘主义者大德兰的自传，记录她从普通修女到经历深刻神秘经验的属灵旅程。她坦诚地描述了祷告的不同阶段、神秘异象，以及创立加尔默罗改革会的历程。这部著作是基督教神秘主义传统的重要文献。",
+    "summary_en": "The autobiography of 16th-century Spanish mystic Teresa of Ávila, recording her spiritual journey from ordinary nun to profound mystical experiences. She candidly describes stages of prayer, mystical visions, and founding the Discalced Carmelites.",
+    "category": "灵修",
+    "recommend_for": [
+      "灵修传统爱好者",
+      "神学生",
+      "追求深度祷告者"
+    ],
+    "tags": [
+      "灵修",
+      "神秘主义",
+      "自传"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "teresa_life.epub"
+  },
+  {
+    "id": "book-340",
+    "author_zh": "戴德生",
+    "author_en": "Hudson Taylor",
+    "title_zh": "回顾",
+    "title_en": "A Retrospect",
+    "summary_zh": "中国内地会创办人戴德生的自传性回忆录，记录他蒙召到中国宣教的历程和早年的信心经历。他分享了神如何信实地供应他的需要，以及他学习完全信靠神的功课。这本书激励了无数人投身宣教事工。",
+    "summary_en": "Autobiographical memoir of China Inland Mission founder Hudson Taylor, recording his calling to China and early experiences of faith. He shares how God faithfully supplied his needs and lessons in learning to fully trust God.",
+    "category": "见证",
+    "recommend_for": [
+      "对宣教有负担者",
+      "追求信心生活者",
+      "青年基督徒"
+    ],
+    "tags": [
+      "见证",
+      "宣教",
+      "信心"
+    ],
+    "epub_filename": null,
+    "summary_epub_filename": null,
+    "full_epub_filename": "taylor_retrospect.epub"
   }
 ]

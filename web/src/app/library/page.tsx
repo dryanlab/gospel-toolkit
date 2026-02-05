@@ -11,13 +11,26 @@ const categoryInfo: Record<string, { icon: string; en: string; description_zh: s
   '基督徒生活': { icon: '🌿', en: 'Christian Living', description_zh: '帮助信徒在日常生活中活出信仰，包括门徒训练、教会生活、传福音等。' },
   '伦理与文化': { icon: '⚖️', en: 'Ethics & Culture', description_zh: '从基督教世界观审视当代伦理议题、社会正义、科技发展与文化冲突。' },
   '科学与信仰': { icon: '🔬', en: 'Science & Faith', description_zh: '探讨科学与基督教信仰的关系，包括创造论、智慧设计、宇宙微调等课题。' },
-  '灵修与生活': { icon: '🙏', en: 'Devotional', description_zh: '培养属灵生命的经典著作，涵盖祷告、灵修、恩典、苦难中的成长。' },
+  '灵修与生活': { icon: '🙏', en: 'Devotional Life', description_zh: '培养属灵生命的经典著作，涵盖祷告、灵修、恩典、苦难中的成长。' },
+  '灵修': { icon: '🕊️', en: 'Devotional', description_zh: '培养与神亲密关系的灵修经典，帮助信徒在内在生命中成长。' },
+  '祷告': { icon: '🙏', en: 'Prayer', description_zh: '关于祷告的教导与操练，学习与神交通的艺术。' },
   '比较宗教': { icon: '🌍', en: 'Comparative Religion', description_zh: '比较基督教与伊斯兰教、佛教、印度教等其他宗教的核心教义差异。' },
   '异端辨别': { icon: '🚨', en: 'Cult Discernment', description_zh: '辨别和回应异端邪教，包括耶和华见证人、摩门教、新天地等组织。' },
   '教会历史': { icon: '🏛️', en: 'Church History', description_zh: '基督教两千年历史中的重要人物、事件和思想发展。' },
+  '古典著作': { icon: '📜', en: 'Classical Works', description_zh: '教父时期至宗教改革的基督教经典著作，见证信仰的历史传承。' },
   '文学': { icon: '✍️', en: 'Literature', description_zh: '以文学形式表达基督教真理的经典作品，寓教于乐，启发思考。' },
   '见证': { icon: '💡', en: 'Testimonies', description_zh: '真实的信仰见证，记录个人认识基督、生命改变的感人经历。' },
+  '传记': { icon: '👤', en: 'Biography', description_zh: '信仰伟人的生平记录，激励后人效法他们的信心与委身。' },
   '世界观': { icon: '🌐', en: 'Worldview', description_zh: '帮助建立整全的基督教世界观，理解和评估不同的世界观体系。' },
+  '讲道': { icon: '🎤', en: 'Sermons', description_zh: '历代名牧的讲道精选，学习如何传讲神的话语。' },
+  '历史': { icon: '📚', en: 'History', description_zh: '与基督教相关的历史著作，包括犹太历史、宗教改革史等。' },
+  '书信': { icon: '✉️', en: 'Letters', description_zh: '历代圣徒的书信集，充满牧养智慧和属灵洞见。' },
+  '释经': { icon: '🔍', en: 'Exegesis', description_zh: '圣经注释与释经著作，帮助深入理解经文含义。' },
+  '教牧': { icon: '🐑', en: 'Pastoral', description_zh: '关于牧养、讲道、教会治理的实用著作。' },
+  '福音': { icon: '✝️', en: 'Gospel', description_zh: '传讲福音的经典著作，帮助人认识救恩。' },
+  '圣经论': { icon: '📕', en: 'Bibliology', description_zh: '关于圣经的本质、权威、默示和无误的教义。' },
+  '历史文献': { icon: '📃', en: 'Historical Documents', description_zh: '影响基督教历史的重要文献。' },
+  '神学': { icon: '📚', en: 'Theology', description_zh: '神学研究与教义探讨。' },
 };
 
 const categoryGradients = [
@@ -75,6 +88,13 @@ export default function LibraryPage() {
         />
       </div>
 
+      {/* Quick link to readable books */}
+      <div className="mb-6">
+        <Link href="/library/readable" className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-[var(--color-accent)]/10 text-[var(--color-accent)] hover:bg-[var(--color-accent)]/20 transition-colors text-sm font-medium">
+          📖 可阅读全文的书籍（{books.filter(b => b.full_epub_filename).length}本公版经典）
+        </Link>
+      </div>
+
       {/* Search results */}
       {searchResults !== null ? (
         <div>
@@ -85,7 +105,12 @@ export default function LibraryPage() {
             {searchResults.map((book, i) => (
               <Link key={book.id} href={`/library/${book.id}`} className="block group">
                 <div className="rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all hover:-translate-y-0.5">
-                  <div className={`bg-gradient-to-br ${['from-indigo-600 to-blue-800','from-emerald-600 to-teal-800','from-purple-600 to-violet-800'][i % 3]} p-5 aspect-[3/4] flex flex-col justify-between text-white`}>
+                  <div className={`bg-gradient-to-br ${['from-indigo-600 to-blue-800','from-emerald-600 to-teal-800','from-purple-600 to-violet-800'][i % 3]} p-5 aspect-[3/4] flex flex-col justify-between text-white relative`}>
+                    {book.full_epub_filename && (
+                      <div className="absolute top-3 right-3 bg-white/30 backdrop-blur-sm px-2 py-1 rounded-full text-xs font-medium flex items-center gap-1">
+                        📖 可阅读
+                      </div>
+                    )}
                     <span className="text-xs opacity-60 uppercase tracking-wider line-clamp-1">{book.author_en}</span>
                     <div>
                       <span className="text-xs bg-white/20 px-2 py-0.5 rounded-full mb-2 inline-block">{(book as any).category}</span>

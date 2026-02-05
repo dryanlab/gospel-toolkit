@@ -46,7 +46,7 @@ const modules = [
     href: '/library',
     title: '书库',
     subtitle: 'Library',
-    desc: '323本精选经典护教与灵修书籍',
+    desc: '340本精选经典，22本可阅读全文',
     color: 'from-purple-600 to-violet-700',
     icon: '📚',
   },

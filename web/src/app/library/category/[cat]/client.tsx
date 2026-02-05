@@ -89,6 +89,11 @@ export default function CategoryClient({ cat }: { cat: string }) {
           <Link key={book.id} href={`/library/${book.id}`} className="block group">
             <div className="rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all hover:-translate-y-0.5">
               <div className={`bg-gradient-to-br ${bookColors[i % bookColors.length]} p-5 aspect-[3/4] flex flex-col justify-between text-white relative`}>
+                {book.full_epub_filename && (
+                  <div className="absolute top-3 right-12 bg-white/30 backdrop-blur-sm px-2 py-1 rounded-full text-xs font-medium flex items-center gap-1">
+                    📖 可阅读
+                  </div>
+                )}
                 <div className="flex items-start justify-between">
                   <span className="text-xs opacity-60 uppercase tracking-wider line-clamp-1">{book.author_en}</span>
                   <FavoriteButton id={book.id} className="text-white" />

@@ -15,26 +15,33 @@ export default function BookDetailClient({ paramsPromise }: { paramsPromise: Pro
   const [lang, setLang] = useState<Language>('both');
   const [showReader, setShowReader] = useState(false);
   const [savedProgress, setSavedProgress] = useState<number | null>(null);
+  const [selectedVolume, setSelectedVolume] = useState(0);
   const book = getBookById(id);
   useMarkAsRead(id);
   const bIdx = books.findIndex(b => b.id === id);
   const prevBook = bIdx > 0 ? books[bIdx - 1] : null;
   const nextBook = bIdx < books.length - 1 ? books[bIdx + 1] : null;
 
+  // Support both epub_filename and full_epub_filename
+  const hasMultiVolume = book?.full_epub_volumes && book.full_epub_volumes.length > 1;
+  const epubFile = hasMultiVolume 
+    ? book.full_epub_volumes[selectedVolume]?.filename 
+    : (book?.full_epub_filename || book?.epub_filename);
+
   useEffect(() => {
-    if (book?.epub_filename) {
-      const saved = localStorage.getItem(`epub-progress-${book.id}`);
+    if (epubFile) {
+      const saved = localStorage.getItem(`epub-progress-${book?.id}`);
       if (saved) {
         // We stored a CFI, but also check if there's a percentage we can show
         setSavedProgress(-1); // indicates "has progress"
       }
     }
-  }, [book]);
+  }, [book, epubFile]);
 
   if (!book) return <div className="p-8 text-center">Book not found</div>;
 
-  if (showReader && book.epub_filename) {
-    return <EpubReader url={`/epubs/${book.epub_filename}`} bookId={book.id} onClose={() => setShowReader(false)} />;
+  if (showReader && epubFile) {
+    return <EpubReader url={`/epubs/${epubFile}`} bookId={book.id} onClose={() => setShowReader(false)} />;
   }
 
   const showZh = lang === 'zh' || lang === 'both';
@@ -81,14 +88,30 @@ export default function BookDetailClient({ paramsPromise }: { paramsPromise: Pro
         {showEn && <p className="text-[var(--color-text-secondary)] italic leading-relaxed">{book.summary_en}</p>}
       </div>
 
-      {book.epub_filename && (
+      {epubFile && (
         <div className="mb-8">
-          <button
-            onClick={() => setShowReader(true)}
-            className="w-full py-3 px-6 rounded-xl bg-[var(--color-accent)] text-white font-semibold text-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
-          >
-            📖 {savedProgress !== null ? '继续阅读 Continue Reading' : '开始阅读 Start Reading'}
-          </button>
+          {/* Multi-volume: show separate buttons for each volume */}
+          {hasMultiVolume ? (
+            <div className="flex flex-col gap-3">
+              {book.full_epub_volumes!.map((vol: {label: string, filename: string}, i: number) => (
+                <button
+                  key={i}
+                  onClick={() => { setSelectedVolume(i); setShowReader(true); }}
+                  className="w-full py-3 px-6 rounded-xl bg-[var(--color-accent)] text-white font-semibold text-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+                >
+                  📖 阅读{vol.label.includes('上') ? '上卷' : vol.label.includes('下') ? '下卷' : vol.label}
+                </button>
+              ))}
+            </div>
+          ) : (
+            <button
+              onClick={() => setShowReader(true)}
+              className="w-full py-3 px-6 rounded-xl bg-[var(--color-accent)] text-white font-semibold text-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+            >
+              📖 {savedProgress !== null ? '继续阅读 Continue Reading' : '阅读全文 Read Full Text'}
+            </button>
+          )}
+          <p className="text-xs text-[var(--color-text-secondary)] text-center mt-2">公有领域经典，可免费阅读全文</p>
         </div>
       )}
 

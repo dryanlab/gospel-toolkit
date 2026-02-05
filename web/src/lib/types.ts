@@ -59,6 +59,11 @@ export interface BookChapter {
   content_zh?: string;
 }
 
+export interface EpubVolume {
+  label: string;
+  filename: string;
+}
+
 export interface Book {
   id: string;
   author_zh: string;
@@ -74,6 +79,7 @@ export interface Book {
   epub_filename: string | null;
   summary_epub_filename: string | null;
   full_epub_filename: string | null;
+  full_epub_volumes?: EpubVolume[];
 }
 
 export interface YouthItem {
