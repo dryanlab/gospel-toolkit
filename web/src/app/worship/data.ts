@@ -90,11 +90,15 @@ export const songs: Song[] = [
   { id: 'yi-gan-en-wei-ji', title: '以感恩為祭', artist: '團契遊樂園', youtubeId: 'ozRtnVOvYvM', category: '敬拜诗歌' },
   { id: 'yi-zhi-de-ai', title: '醫治的愛', subtitle: 'Healing Love', artist: '泥土音樂', youtubeId: 'zdGb_4lziwc', category: '敬拜诗歌' },
   { id: 'en-dian-gou-yong', title: '恩典夠用', subtitle: 'Sufficient Grace', artist: '泥土音樂', youtubeId: 'p2feIz0Rprg', category: '敬拜诗歌' },
+  { id: 'yuan-wo-de-pan-shi', title: '願我的磐石被人稱頌', subtitle: 'Praise the Lord My Rock', artist: '生命河', youtubeId: 'Eja65j7SOUo', category: '敬拜诗歌' },
+  { id: 'wu-jia-zhi-bao', title: '無價至寶', subtitle: 'Priceless', artist: '約書亞樂團', youtubeId: 'ymKB9XqkQuE', category: '敬拜诗歌' },
+  { id: 'an-jing', title: '安靜', subtitle: 'Be Still', artist: '讚美之泉', youtubeId: 'Za9UdGa-P6g', category: '敬拜诗歌' },
 
   // ============================================
   // 福音诗歌 (Gospel Songs) — evangelistic, testimony, faith journey
   // ============================================
   { id: 'wo-men-cheng-wei-yi-jia-ren', title: '我們成為一家人', artist: '有情天音樂', youtubeId: 'B_EkHGfZeKc', category: '福音诗歌' },
+  { id: 'ye-he-hua-de-xin', title: '耶和華的心', artist: '有情天音樂', youtubeId: 'dkPgc6rAMBU', category: '福音诗歌' },
   { id: 'fan-shi-du-you', title: '凡事都有神的美意', artist: '讚美之泉', youtubeId: 'e9KiGgpdM9M', category: '福音诗歌' },
   { id: 'jin-sheng-gen-sui', title: '今生跟随主耶稣', artist: '讚美之泉', youtubeId: 'BhLeSQeg_is', category: '福音诗歌' },
   { id: 'gan-xie-yi-sheng', title: '感謝一生有祢', subtitle: 'Thank You For Being In My Life', artist: '讚美之泉', youtubeId: 'g05K8bV7I2Y', category: '福音诗歌' },

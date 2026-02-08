@@ -1,0 +1,648 @@
+[
+  {
+    "id": "ath-001",
+    "target_worldview": "atheism",
+    "topic_zh": "宇宙的起源：宇宙论证",
+    "topic_en": "The Origin of the Universe: The Cosmological Argument",
+    "core_argument_zh": "凡有开始的事物都有原因。宇宙有一个开始（大爆炸）。因此，宇宙有一个超越时间、空间和物质的原因。这个原因必须是一个有位格的存在——即上帝。卡拉姆宇宙论证（Kalam Cosmological Argument）表明，无限的过去事件回溯在逻辑上是不可能的，因此宇宙必须有一个第一因。",
+    "core_argument_en": "Whatever begins to exist has a cause. The universe began to exist (Big Bang). Therefore, the universe has a cause that transcends time, space, and matter. This cause must be a personal being — God. The Kalam Cosmological Argument demonstrates that an actually infinite regress of past events is logically impossible, so the universe must have a first cause.",
+    "common_objections": [
+      {
+        "objection_zh": "那上帝是谁造的？",
+        "objection_en": "Who made God?",
+        "response_zh": "这个问题犯了范畴错误。论证说的是"凡有开始的事物都有原因"，而上帝是永恒的、没有开始的存在。上帝是必然存在者（necessary being），不依赖任何外在原因。正如我们不需要问"单身汉的妻子是谁"一样，问"永恒存在者的起因"同样是自相矛盾的。",
+        "response_en": "This commits a category error. The argument states 'whatever begins to exist has a cause.' God, by definition, is an eternal being who never began to exist. God is a necessary being, not contingent on anything external. Just as we don't ask 'Who is the bachelor's wife?', asking for the cause of an eternal being is self-contradictory."
+      },
+      {
+        "objection_zh": "量子力学表明事物可以无因而生。",
+        "objection_en": "Quantum mechanics shows things can come into existence without a cause.",
+        "response_zh": "量子真空涨落并非"从无中生有"。量子真空本身就是一种物理实在，具有结构和能量。真正的"无"（philosophical nothing）没有任何属性——没有量子场，没有物理定律，没有潜力。从绝对的无中，什么都不可能产生。此外，即使量子事件是非决定性的，它们仍然发生在已有的因果框架之内。",
+        "response_en": "Quantum vacuum fluctuations are not creation from nothing. The quantum vacuum is itself a physical reality with structure and energy. True 'nothing' (philosophical nothing) has no properties — no quantum fields, no physical laws, no potentiality. From absolute nothing, nothing can come. Moreover, even if quantum events are indeterministic, they still occur within an existing causal framework."
+      },
+      {
+        "objection_zh": "也许宇宙是永恒的，循环往复。",
+        "objection_en": "Maybe the universe is eternal, oscillating in cycles.",
+        "response_zh": "热力学第二定律（熵增定律）表明宇宙的可用能量在不断减少。如果宇宙是永恒的，它早就应该达到热寂（heat death）了。此外，Borde-Guth-Vilenkin定理证明，任何平均膨胀的宇宙都必须有一个过去的时空边界。即使在多元宇宙假说中，这个定理依然成立。",
+        "response_en": "The Second Law of Thermodynamics shows the universe's usable energy is constantly decreasing. If the universe were eternal, it would have reached heat death long ago. Furthermore, the Borde-Guth-Vilenkin theorem proves that any universe which has, on average, been expanding must have a past spacetime boundary. This holds even in multiverse scenarios."
+      }
+    ],
+    "bible_verses": [
+      "创世记 1:1 / Genesis 1:1",
+      "罗马书 1:20 / Romans 1:20",
+      "希伯来书 11:3 / Hebrews 11:3",
+      "诗篇 19:1 / Psalm 19:1"
+    ],
+    "recommended_resources": [
+      "William Lane Craig, 'Reasonable Faith'",
+      "R.C. Sproul, 'Defending Your Faith'",
+      "Stephen Meyer, 'Return of the God Hypothesis'"
+    ],
+    "tags": [
+      "cosmology",
+      "first-cause",
+      "kalam",
+      "creation"
+    ],
+    "section": "foundations"
+  },
+  {
+    "id": "ath-002",
+    "target_worldview": "atheism",
+    "topic_zh": "道德论证：客观道德需要上帝",
+    "topic_en": "The Moral Argument: Objective Morality Requires God",
+    "core_argument_zh": "如果上帝不存在，客观的道德价值和义务就不存在。然而，客观的道德价值和义务确实存在（例如：折磨无辜婴儿取乐是客观错误的）。因此，上帝存在。在无神论的世界观中，道德只能是进化的副产品、社会契约或个人偏好——这些都无法为客观道德提供基础。唯有一位道德完善的上帝才能作为道德的本体论根基。",
+    "core_argument_en": "If God does not exist, objective moral values and duties do not exist. But objective moral values and duties do exist (e.g., torturing an innocent baby for fun is objectively wrong). Therefore, God exists. On atheism, morality can only be an evolutionary byproduct, a social contract, or personal preference — none of which ground objective morality. Only a morally perfect God can serve as the ontological foundation for moral values.",
+    "common_objections": [
+      {
+        "objection_zh": "不信上帝的人也可以行善，道德不需要上帝。",
+        "objection_en": "Atheists can be moral too; morality doesn't require God.",
+        "response_zh": "道德论证并非说无神论者不能行善——当然可以！论证的要点是道德的本体论基础（ontological grounding），而非道德的认识论（epistemology）。无神论者能够认识和践行道德，但在他们的世界观中，道德缺乏客观的形而上学基础。按照罗马书2:15，上帝的律法刻在每个人心中，所以无神论者行善恰恰证明了上帝的存在。",
+        "response_en": "The moral argument doesn't claim atheists can't be moral — of course they can! The point is about the ontological grounding of morality, not moral epistemology. Atheists can recognize and practice morality, but on their worldview, morality lacks an objective metaphysical foundation. Per Romans 2:15, God's law is written on every heart, so atheists acting morally actually confirms God's existence."
+      },
+      {
+        "objection_zh": "游叙弗伦困境：道德是因为上帝命令才善，还是因为善所以上帝命令？",
+        "objection_en": "Euthyphro Dilemma: Is something good because God commands it, or does God command it because it's good?",
+        "response_zh": "这是一个虚假的二分法。改革宗神学提供第三个选项：善的根基是上帝自身的本性。上帝不是任意地命令善，也不是服从一个外在的善的标准，而是上帝的本性就是善的终极标准。上帝的命令流出于祂不改变的、圣洁的、公义的、慈爱的本性。善就是与上帝本性一致的。",
+        "response_en": "This is a false dilemma. Reformed theology offers a third option: the Good is grounded in God's own nature. God neither arbitrarily commands good nor conforms to an external standard of good. Rather, God's nature IS the ultimate standard of goodness. God's commands flow from His unchanging, holy, just, and loving nature. The Good is what is consistent with God's nature."
+      },
+      {
+        "objection_zh": "道德是进化的产物，有利于种族存续。",
+        "objection_en": "Morality is a product of evolution, beneficial for species survival.",
+        "response_zh": "进化只能解释为什么我们有某些道德直觉，但不能说明这些直觉是否客观正确。如果道德只是进化的副产品，那么我们就没有理由相信我们的道德直觉反映了客观真理。这将导致道德反实在论——种族灭绝在客观上并不比利他主义更"错"。但几乎没有人真的接受这种结论，这表明我们深知道德有客观性。",
+        "response_en": "Evolution can only explain why we have certain moral intuitions, but not whether those intuitions are objectively correct. If morality is merely an evolutionary byproduct, we have no reason to trust that our moral intuitions track objective truth. This leads to moral anti-realism — genocide is not objectively more 'wrong' than altruism. But virtually no one actually accepts this conclusion, indicating our deep awareness that morality is objective."
+      }
+    ],
+    "bible_verses": [
+      "罗马书 2:14-15 / Romans 2:14-15",
+      "罗马书 1:19-20 / Romans 1:19-20",
+      "创世记 1:27 / Genesis 1:27",
+      "弥迦书 6:8 / Micah 6:8"
+    ],
+    "recommended_resources": [
+      "C.S. Lewis, 'Mere Christianity' (Book I)",
+      "R.C. Sproul, 'The Consequences of Ideas'",
+      "William Lane Craig, 'On Guard'"
+    ],
+    "tags": [
+      "moral-argument",
+      "ethics",
+      "objective-morality",
+      "euthyphro"
+    ],
+    "section": "foundations"
+  },
+  {
+    "id": "ath-003",
+    "target_worldview": "atheism",
+    "topic_zh": "苦难与恶的问题",
+    "topic_en": "The Problem of Evil and Suffering",
+    "core_argument_zh": "苦难问题常被用来反对上帝的存在，但实际上它反而预设了客观道德的存在——而客观道德恰恰需要上帝。改革宗神学认为：（1）上帝有充分的道德理由允许苦难存在；（2）人的有限性使我们无法完全理解上帝的旨意；（3）上帝自己在十字架上进入了人类最深的苦难；（4）上帝应许最终会消除一切苦难和不公（启示录21:4）。",
+    "core_argument_en": "The problem of evil is often used against God's existence, but it actually presupposes objective morality — which requires God. Reformed theology holds: (1) God has morally sufficient reasons for permitting suffering; (2) Human finitude prevents us from fully grasping God's purposes; (3) God Himself entered the deepest human suffering on the Cross; (4) God promises to ultimately eliminate all suffering and injustice (Revelation 21:4).",
+    "common_objections": [
+      {
+        "objection_zh": "一个全善全能的上帝不会允许无辜的孩子受苦。",
+        "objection_en": "An all-good, all-powerful God would not allow innocent children to suffer.",
+        "response_zh": "这假设了如果上帝有道德上充分的理由，我们一定能知道那些理由。但这个假设是不合理的——一个无限智慧的存在完全可能有超出我们理解的理由。就像一个两岁的孩子不理解打针为什么是好的，我们也可能无法理解上帝允许某些苦难的全部原因。更重要的是，上帝并非旁观者——祂在基督里亲自承受了苦难。",
+        "response_en": "This assumes that if God has morally sufficient reasons, we must be able to identify them. But this assumption is unwarranted — an infinitely wise being may well have reasons beyond our comprehension. Just as a two-year-old cannot understand why a vaccination is good, we may not grasp God's full reasons for permitting certain suffering. Crucially, God is not a bystander — He entered suffering Himself in Christ."
+      },
+      {
+        "objection_zh": "如果上帝有计划，那人的自由意志不就没有意义了？",
+        "objection_en": "If God has a plan, doesn't that make free will meaningless?",
+        "response_zh": "改革宗神学区分上帝的主权旨意和人的责任。上帝是万事的第一因（first cause），但人作为第二因（secondary causes）仍有真实的选择和责任。约瑟被哥哥们卖到埃及是邪恶的行为，但上帝用它成就了拯救的目的（创世记50:20）。上帝的主权和人的责任并非矛盾，而是圣经启示中的张力性真理。",
+        "response_en": "Reformed theology distinguishes between God's sovereign will and human responsibility. God is the first cause of all things, but humans as secondary causes make real choices and bear real responsibility. Joseph's brothers selling him into Egypt was evil, yet God used it for salvation (Genesis 50:20). God's sovereignty and human responsibility are not contradictory but held in tension in biblical revelation."
+      },
+      {
+        "objection_zh": "世上有太多无意义的苦难（gratuitous evil），不可能都有理由。",
+        "objection_en": "There is too much gratuitous evil in the world; it can't all have a reason.",
+        "response_zh": "要论证存在"无意义的苦难"（gratuitous evil），你需要证明上帝不可能有我们不知道的理由——但这恰恰是你无法证明的。这被称为"怀疑有神论"（skeptical theism）。此外，基督教独特地提供了苦难的终极答案：不是一个理论，而是一个位格——耶稣基督在十字架上承担了全人类的苦难和罪恶，并在复活中胜过了死亡。",
+        "response_en": "To argue that gratuitous evil exists, you must show God cannot have reasons unknown to us — but this is precisely what you cannot demonstrate. This is known as 'skeptical theism.' Furthermore, Christianity uniquely provides the ultimate answer to suffering: not a theory, but a Person — Jesus Christ bore all human suffering and sin on the Cross, and conquered death in the Resurrection."
+      }
+    ],
+    "bible_verses": [
+      "罗马书 8:28 / Romans 8:28",
+      "创世记 50:20 / Genesis 50:20",
+      "约伯记 38:1-4 / Job 38:1-4",
+      "启示录 21:4 / Revelation 21:4",
+      "哥林多后书 4:17 / 2 Corinthians 4:17"
+    ],
+    "recommended_resources": [
+      "C.S. Lewis, 'The Problem of Pain'",
+      "Timothy Keller, 'Walking with God through Pain and Suffering'",
+      "D.A. Carson, 'How Long, O Lord?'"
+    ],
+    "tags": [
+      "problem-of-evil",
+      "suffering",
+      "theodicy",
+      "sovereignty"
+    ],
+    "section": "objections"
+  },
+  {
+    "id": "ath-004",
+    "target_worldview": "atheism",
+    "topic_zh": "设计论证：宇宙的精细调节",
+    "topic_en": "The Design Argument: Fine-Tuning of the Universe",
+    "core_argument_zh": "宇宙的基本物理常数（如引力常数、强核力、宇宙学常数等）被极其精确地"调节"到允许生命存在的范围内。这些常数中任何一个的微小偏差都会使生命完全不可能。最佳解释是一位智慧的设计者有意设定了这些常数。物理学家罗杰·彭罗斯计算出，宇宙初始低熵状态的概率是10^(10^123)分之一。",
+    "core_argument_en": "The fundamental physical constants of the universe (gravitational constant, strong nuclear force, cosmological constant, etc.) are exquisitely 'tuned' to permit life. Any slight variation in these constants would make life utterly impossible. The best explanation is an intelligent Designer who intentionally set these constants. Physicist Roger Penrose calculated that the probability of the universe's initial low-entropy state is 1 in 10^(10^123).",
+    "common_objections": [
+      {
+        "objection_zh": "多元宇宙假说可以解释精细调节——如果有无穷多个宇宙，总有一个会适合生命。",
+        "objection_en": "The multiverse hypothesis can explain fine-tuning — with infinitely many universes, one will be life-permitting.",
+        "response_zh": "多元宇宙假说面临严重问题：（1）没有独立的实证证据；（2）它本身需要一个"宇宙生成机制"，而这个机制自身也需要精细调节；（3）根据奥卡姆剃刀，假设无穷多个不可观察的宇宙比假设一位设计者更缺乏简约性；（4）即使多元宇宙存在，仍然需要解释为什么存在能生成宇宙的物理定律。",
+        "response_en": "The multiverse hypothesis faces serious problems: (1) No independent empirical evidence; (2) It requires a 'universe-generating mechanism' that itself needs fine-tuning; (3) By Occam's Razor, positing infinitely many unobservable universes is less parsimonious than positing one Designer; (4) Even if a multiverse exists, we still need to explain why universe-generating physical laws exist at all."
+      },
+      {
+        "objection_zh": "这只是人择原理——如果宇宙不适合生命，我们就不会在这里讨论。",
+        "objection_en": "This is just the anthropic principle — if the universe weren't life-permitting, we wouldn't be here to discuss it.",
+        "response_zh": "人择原理并不解释精细调节，只是重述了它。类比：如果你面对行刑队，100个枪手全部射偏，你活了下来。"如果他们没射偏我就不会在这里思考"并不能解释为什么他们全部射偏。同样，"如果宇宙不适合生命我们就不会在这里"不能解释为什么宇宙恰好适合生命。精细调节仍然需要解释。",
+        "response_en": "The anthropic principle doesn't explain fine-tuning; it merely restates it. Analogy: You face a firing squad of 100 marksmen who all miss. 'If they hadn't missed, I wouldn't be here thinking about it' doesn't explain WHY they all missed. Similarly, 'If the universe weren't life-permitting, we wouldn't be here' doesn't explain WHY it's life-permitting. Fine-tuning still demands an explanation."
+      }
+    ],
+    "bible_verses": [
+      "诗篇 19:1-4 / Psalm 19:1-4",
+      "罗马书 1:20 / Romans 1:20",
+      "以赛亚书 45:18 / Isaiah 45:18",
+      "耶利米书 10:12 / Jeremiah 10:12"
+    ],
+    "recommended_resources": [
+      "Robin Collins, 'The Fine-Tuning Argument'",
+      "Stephen Meyer, 'Return of the God Hypothesis'",
+      "Hugh Ross, 'The Creator and the Cosmos'"
+    ],
+    "tags": [
+      "fine-tuning",
+      "design",
+      "teleological",
+      "cosmology"
+    ],
+    "section": "foundations"
+  },
+  {
+    "id": "ath-005",
+    "target_worldview": "atheism",
+    "topic_zh": "耶稣复活的历史证据",
+    "topic_en": "Historical Evidence for the Resurrection of Jesus",
+    "core_argument_zh": "耶稣复活是基督教信仰的核心，也有强有力的历史证据支持。即使是怀疑派学者也广泛承认以下"最小事实"：（1）耶稣死于十字架；（2）门徒们真诚地相信他们遇见了复活的耶稣；（3）教会迫害者保罗归信；（4）怀疑者雅各归信；（5）空坟墓。这些事实的最佳解释是耶稣确实从死里复活了。",
+    "core_argument_en": "The resurrection of Jesus is the core of Christian faith, supported by strong historical evidence. Even skeptical scholars widely accept these 'minimal facts': (1) Jesus died by crucifixion; (2) The disciples sincerely believed they encountered the risen Jesus; (3) Church persecutor Paul converted; (4) Skeptic James converted; (5) The empty tomb. The best explanation of these facts is that Jesus actually rose from the dead.",
+    "common_objections": [
+      {
+        "objection_zh": "门徒们可能产生了幻觉。",
+        "objection_en": "The disciples may have experienced hallucinations.",
+        "response_zh": "幻觉理论面临多重困难：（1）幻觉是个人的主观经历，不会在不同时间、地点被不同群体同时经历；（2）保罗和雅各作为非信徒不具备产生"信仰幻觉"的心理前提；（3）幻觉无法解释空坟墓；（4）古代犹太人没有"弥赛亚死而复活"的预期，门徒不会自发产生这种信念；（5）哥林多前书15章记载500多人同时看见复活的基督。",
+        "response_en": "The hallucination theory faces multiple difficulties: (1) Hallucinations are private, subjective experiences — they don't occur simultaneously to different groups at different times and places; (2) Paul and James, as non-believers, lacked the psychological preconditions for 'faith hallucinations'; (3) Hallucinations can't explain the empty tomb; (4) Ancient Jews had no expectation of a dying-and-rising Messiah, so disciples wouldn't spontaneously generate this belief; (5) 1 Corinthians 15 records 500+ people simultaneously seeing the risen Christ."
+      },
+      {
+        "objection_zh": "复活的故事是后来的传说发展，不是历史事实。",
+        "objection_en": "The resurrection story is a later legendary development, not historical fact.",
+        "response_zh": "保罗在哥林多前书15:3-8引用的信经被学者们追溯到耶稣钉十字架后仅1-5年内形成——这在传说发展的时间框架内根本不可能。目击证人当时还活着，可以被质询。此外，女性被列为首批复活见证人——在第一世纪犹太文化中，女性的证词不被法庭接受。如果是虚构，没有人会选择女性作为首批证人。",
+        "response_en": "The creed Paul cites in 1 Corinthians 15:3-8 is dated by scholars to within 1-5 years of the crucifixion — far too early for legendary development. Eyewitnesses were still alive and could be cross-examined. Moreover, women are listed as the first resurrection witnesses — in first-century Jewish culture, women's testimony was inadmissible in court. If the story were fabricated, no one would choose women as the first witnesses."
+      },
+      {
+        "objection_zh": "复活只是门徒的主观信念，不是客观事实",
+        "objection_en": "The resurrection was merely the disciples' subjective belief, not objective fact",
+        "response_zh": "门徒的信念需要解释。犹太教中没有单个人在历史终结之前从死里复活的概念，门徒不会自发产生这种信念。他们为这信念付出了生命的代价——人们会为自认为真实的事而死，但不会为明知是谎言的事而死。保罗列出了500多位同时见证复活耶稣的人（哥林多前书15:6），这在当时是可以被验证或否证的宣告。",
+        "response_en": "The disciples' belief demands explanation. Judaism had no concept of an individual resurrection before the end of history; the disciples would not have spontaneously invented this belief. They paid with their lives—people die for what they believe is true, not for what they know is a lie. Paul lists over 500 simultaneous witnesses (1 Cor 15:6), a claim verifiable at the time."
+      },
+      {
+        "objection_zh": "其他宗教也有复活的神话，基督教只是借用",
+        "objection_en": "Other religions have resurrection myths too; Christianity just borrowed them",
+        "response_zh": "这个论点已被现代学术严重质疑。（1）所谓的'死而复生的神'（如奥西里斯、巴力）实际上是季节循环的神话，与耶稣在具体历史时空中的身体复活完全不同；（2）犹太人极其排斥异教神话，不会从中借用；（3）最早的复活宣告出现在耶稣死后几年内，时间上不允许神话化过程。",
+        "response_en": "This argument has been seriously challenged by modern scholarship. (1) So-called 'dying-and-rising gods' (Osiris, Baal) are seasonal cycle myths, fundamentally different from Jesus' bodily resurrection in specific historical time and space; (2) Jews were fiercely opposed to pagan myths and would not borrow from them; (3) The earliest resurrection proclamation appeared within years of Jesus' death, too short for mythologization."
+      }
+    ],
+    "bible_verses": [
+      "哥林多前书 15:3-8 / 1 Corinthians 15:3-8",
+      "哥林多前书 15:14 / 1 Corinthians 15:14",
+      "使徒行传 2:32 / Acts 2:32",
+      "罗马书 1:4 / Romans 1:4",
+      "Acts 1:3 使徒行传1:3",
+      "Romans 1:4 罗马书1:4"
+    ],
+    "recommended_resources": [
+      "Gary Habermas, 'The Case for the Resurrection of Jesus'",
+      "N.T. Wright, 'The Resurrection of the Son of God'",
+      "Lee Strobel, 'The Case for Christ'"
+    ],
+    "tags": [
+      "resurrection",
+      "historical-evidence",
+      "minimal-facts",
+      "easter"
+    ],
+    "section": "gospel-evidence"
+  },
+  {
+    "id": "islam-001",
+    "target_worldview": "islam",
+    "topic_zh": "圣经的可靠性：回应伊斯兰的"篡改论"",
+    "topic_en": "Biblical Reliability: Responding to the Islamic Corruption Charge (Tahrif)",
+    "core_argument_zh": "穆斯林常声称圣经（Injil/Torah）已被篡改（Tahrif），但这与古兰经自身的教导矛盾。古兰经多次确认之前经典的权威性（5:46-47, 10:94, 3:3-4），命令穆斯林参考之前的经文。如果圣经已被篡改，那么古兰经确认一部被篡改的经文，就动摇了古兰经自身的可靠性。此外，数千份圣经手稿（死海古卷等）证明经文传承的准确性。",
+    "core_argument_en": "Muslims often claim the Bible (Injil/Torah) has been corrupted (Tahrif), but this contradicts the Quran's own teaching. The Quran repeatedly affirms the authority of previous scriptures (5:46-47, 10:94, 3:3-4), commanding Muslims to consult them. If the Bible was corrupted, then the Quran affirming a corrupted text undermines its own reliability. Furthermore, thousands of biblical manuscripts (Dead Sea Scrolls, etc.) demonstrate the accuracy of textual transmission.",
+    "common_objections": [
+      {
+        "objection_zh": "古兰经说的是意思被篡改（Tahrif al-Ma'na），不是文本被改变。",
+        "objection_en": "The Quran refers to corruption of meaning (Tahrif al-Ma'na), not textual alteration.",
+        "response_zh": "即使只是"意思的篡改"，古兰经仍然命令穆斯林去参考"手中的经文"（5:68, 10:94），这意味着文本本身仍然是可靠的。此外，如果我们接受文本完好但意思被误解，那唯一的解决办法就是回去阅读文本本身——这恰恰是基督徒在做的事。当穆斯林读了圣经原文，他们会发现耶稣的神性、十字架的救赎、三位一体等核心教义贯穿始终。",
+        "response_en": "Even if only 'meaning corruption,' the Quran still commands Muslims to consult 'the Scripture in their hands' (5:68, 10:94), implying the text itself remains reliable. If we accept the text is intact but meaning is misunderstood, the solution is to read the text itself — which is exactly what Christians do. When Muslims read the biblical text, they find the deity of Christ, the atonement of the Cross, and the Trinity taught throughout."
+      },
+      {
+        "objection_zh": "圣经有不同的版本和手稿差异，怎么能说没被改？",
+        "objection_en": "The Bible has different versions and manuscript variants — how can it be uncorrupted?",
+        "response_zh": "手稿差异恰恰证明了文本批判学的成功，而非圣经的失败。我们拥有超过5,800份新约希腊文手稿，加上数万份译本和教父引用。绝大多数差异是拼写和抄写错误，不影响任何教义。通过比较这些手稿，学者可以高度精确地还原原文。相比之下，古兰经的乌斯曼标准化过程中，哈里发奥斯曼下令烧毁了所有其他版本。",
+        "response_en": "Manuscript variants actually demonstrate the success of textual criticism, not the Bible's failure. We possess over 5,800 Greek NT manuscripts, plus tens of thousands of translations and patristic citations. The vast majority of variants are spelling and scribal errors affecting no doctrine. By comparing manuscripts, scholars can reconstruct the original with high accuracy. By contrast, during the Uthmanic standardization of the Quran, Caliph Uthman ordered all other versions burned."
+      }
+    ],
+    "bible_verses": [
+      "以赛亚书 40:8 / Isaiah 40:8",
+      "马太福音 5:18 / Matthew 5:18",
+      "彼得前书 1:25 / 1 Peter 1:25",
+      "提摩太后书 3:16 / 2 Timothy 3:16"
+    ],
+    "recommended_resources": [
+      "James White, 'What Every Christian Needs to Know About the Qur'an'",
+      "Norman Geisler, 'Answering Islam'",
+      "David Wood, 'Answering-Islam.org'"
+    ],
+    "tags": [
+      "tahrif",
+      "bible-reliability",
+      "manuscripts",
+      "quran"
+    ],
+    "section": "scripture"
+  },
+  {
+    "id": "islam-002",
+    "target_worldview": "islam",
+    "topic_zh": "耶稣的神性：回应伊斯兰对三位一体的误解",
+    "topic_en": "The Deity of Christ: Answering Islamic Misunderstandings of the Trinity",
+    "core_argument_zh": "伊斯兰教否认耶稣的神性，认为三位一体是多神论（shirk）。但古兰经对三位一体的描述（5:116——"安拉、耶稣、马利亚"）是对基督教信仰的误解。基督教的三位一体是：一位上帝，三个位格（圣父、圣子、圣灵），不是三个神。耶稣在圣经中接受敬拜（马太福音28:9），宣告自己与父同等（约翰福音10:30），拥有上帝的属性（歌罗西书1:15-20）。",
+    "core_argument_en": "Islam denies the deity of Jesus, calling the Trinity polytheism (shirk). But the Quran's depiction of the Trinity (5:116 — 'Allah, Jesus, Mary') is a misrepresentation of Christian belief. The Christian Trinity is: one God, three Persons (Father, Son, Holy Spirit) — not three gods. Jesus in Scripture receives worship (Matthew 28:9), declares equality with the Father (John 10:30), and possesses divine attributes (Colossians 1:15-20).",
+    "common_objections": [
+      {
+        "objection_zh": "耶稣自己从未说"我是上帝"。",
+        "objection_en": "Jesus never said 'I am God.'",
+        "response_zh": "耶稣以第一世纪犹太人能理解的方式宣告了祂的神性：（1）使用"I AM"（ego eimi）自称，直接引用出埃及记3:14上帝的圣名（约翰福音8:58）；（2）宣告赦罪的权柄——只有上帝能赦罪（马可福音2:5-7）；（3）宣称自己是安息日的主（马可福音2:28）；（4）接受"我的主、我的上帝"的敬拜（约翰福音20:28）。犹太领袖正是因为这些宣告要将祂治死（约翰福音5:18）。",
+        "response_en": "Jesus declared His deity in ways first-century Jews understood: (1) Using 'I AM' (ego eimi), directly referencing God's name in Exodus 3:14 (John 8:58); (2) Claiming authority to forgive sins — which only God can do (Mark 2:5-7); (3) Declaring Himself Lord of the Sabbath (Mark 2:28); (4) Accepting worship as 'My Lord and my God' (John 20:28). The Jewish leaders sought to kill Him precisely for these claims (John 5:18)."
+      },
+      {
+        "objection_zh": "三位一体不合逻辑——1+1+1=3，不是1。",
+        "objection_en": "The Trinity is illogical — 1+1+1=3, not 1.",
+        "response_zh": "这误解了三位一体的含义。基督教并非说三个神等于一个神（那确实矛盾）。而是说：一个神的本质（being/essence），存在于三个位格（persons）中。本质和位格是不同的范畴。数学类比应该是1x1x1=1，而非1+1+1。更准确地说，三位一体超越了简单的数学类比——它反映了上帝本体中的关系性存在，这是一神论中独特的深度。",
+        "response_en": "This misunderstands the Trinity. Christianity doesn't claim three Gods equal one God (that would be contradictory). Rather: one divine essence (being) exists in three Persons. Essence and person are different categories. The mathematical analogy should be 1×1×1=1, not 1+1+1. More precisely, the Trinity transcends simple mathematical analogies — it reflects relational existence within God's being, a unique depth within monotheism."
+      },
+      {
+        "objection_zh": "耶稣只是一位先知（nabi），就像穆萨和易卜拉欣一样。",
+        "objection_en": "Jesus was merely a prophet (nabi), like Moses and Abraham.",
+        "response_zh": "耶稣远超先知的角色。先知说"耶和华如此说"，耶稣说"我告诉你们"（马太福音5:21-22）。先知敬拜上帝，耶稣接受敬拜。先知会死，耶稣从死里复活且有权柄赐人永生（约翰福音11:25）。甚至古兰经也赋予耶稣独特的地位：童贞女所生、行神迹、被称为"上帝的道"（Kalimatullah）和"上帝的灵"（Ruhullah）——这些称号从未给予其他先知。",
+        "response_en": "Jesus far exceeds the role of a prophet. Prophets say 'Thus says the Lord'; Jesus says 'I say to you' (Matthew 5:21-22). Prophets worship God; Jesus receives worship. Prophets die; Jesus rose from the dead and has authority to give eternal life (John 11:25). Even the Quran gives Jesus unique status: virgin-born, miracle-worker, called 'Word of God' (Kalimatullah) and 'Spirit of God' (Ruhullah) — titles never given to any other prophet."
+      }
+    ],
+    "bible_verses": [
+      "约翰福音 1:1-14 / John 1:1-14",
+      "约翰福音 8:58 / John 8:58",
+      "约翰福音 10:30 / John 10:30",
+      "歌罗西书 1:15-20 / Colossians 1:15-20",
+      "腓立比书 2:5-11 / Philippians 2:5-11"
+    ],
+    "recommended_resources": [
+      "James White, 'The Forgotten Trinity'",
+      "Nabeel Qureshi, 'No God but One: Allah or Jesus?'",
+      "Robert Letham, 'The Holy Trinity'"
+    ],
+    "tags": [
+      "trinity",
+      "deity-of-christ",
+      "shirk",
+      "christology"
+    ],
+    "section": "comparative"
+  },
+  {
+    "id": "islam-003",
+    "target_worldview": "islam",
+    "topic_zh": "十字架的救赎：回应伊斯兰对替代赎罪的否认",
+    "topic_en": "The Atonement of the Cross: Answering Islam's Denial of Substitutionary Atonement",
+    "core_argument_zh": "伊斯兰否认耶稣被钉十字架（古兰经4:157），但这与全部早期历史证据矛盾。罗马历史学家塔西佗、犹太历史学家约瑟夫斯都独立记载了耶稣被钉死。更深层的问题是：伊斯兰没有替代赎罪的概念，罪的问题只能靠善行超过恶行来解决。但上帝的公义要求罪必须被审判——基督在十字架上作为代替者承担了我们的刑罚，这才是恩典的福音。",
+    "core_argument_en": "Islam denies Jesus' crucifixion (Quran 4:157), but this contradicts all early historical evidence. Roman historian Tacitus and Jewish historian Josephus independently record Jesus' death by crucifixion. The deeper issue: Islam has no concept of substitutionary atonement — sin is addressed only by good deeds outweighing bad. But God's justice demands sin be judged — Christ on the Cross bore our punishment as our substitute. This is the Gospel of grace.",
+    "common_objections": [
+      {
+        "objection_zh": "古兰经说耶稣没有被钉死——"他们没有杀他，也没有把他钉十字架"（4:157）。",
+        "objection_en": "The Quran says Jesus was not crucified — 'they killed him not, nor crucified him' (4:157).",
+        "response_zh": "古兰经的这一声明出现在事件发生600多年后，没有任何历史来源支持。相反，所有最早的基督教和非基督教来源（保罗书信、四福音书、塔西佗、约瑟夫斯、犹太法典）都一致记载耶稣死于十字架。历史研究的基本原则是：越接近事件的来源越可靠。第一世纪的多重独立来源远比第七世纪的单一宣称更具历史权威。",
+        "response_en": "The Quran's claim appears 600+ years after the event with no supporting historical sources. By contrast, all earliest Christian and non-Christian sources (Paul's epistles, four Gospels, Tacitus, Josephus, Talmud) unanimously record Jesus' death by crucifixion. A basic principle of historical inquiry: sources closer to the event are more reliable. Multiple independent first-century sources carry far more historical authority than a single seventh-century claim."
+      },
+      {
+        "objection_zh": "上帝不需要牺牲来赦免罪——祂可以直接赦免。",
+        "objection_en": "God doesn't need a sacrifice to forgive sin — He can simply forgive.",
+        "response_zh": "这低估了上帝公义的严肃性。如果一个法官对严重罪行说"我赦免你，不需要任何代价"，这不是仁慈，而是不公义。上帝既是慈爱的，也是公义的。十字架同时满足了这两个属性：上帝的公义通过刑罚得到满足，上帝的慈爱通过祂自己承受刑罚得以彰显。正如罗马书3:26说，上帝"自己为义，也称信耶稣的人为义"。",
+        "response_en": "This underestimates the seriousness of God's justice. If a judge says to a serious criminal, 'I forgive you, no penalty needed,' that's not mercy — it's injustice. God is both loving and just. The Cross satisfies both attributes simultaneously: God's justice is met through punishment, and God's love is displayed through bearing that punishment Himself. As Romans 3:26 states, God is 'just and the justifier of the one who has faith in Jesus.'"
+      }
+    ],
+    "bible_verses": [
+      "以赛亚书 53:4-6 / Isaiah 53:4-6",
+      "罗马书 3:23-26 / Romans 3:23-26",
+      "哥林多后书 5:21 / 2 Corinthians 5:21",
+      "加拉太书 3:13 / Galatians 3:13",
+      "彼得前书 2:24 / 1 Peter 2:24"
+    ],
+    "recommended_resources": [
+      "Nabeel Qureshi, 'Seeking Allah, Finding Jesus'",
+      "John Stott, 'The Cross of Christ'",
+      "James White, 'What Every Christian Needs to Know About the Qur'an'"
+    ],
+    "tags": [
+      "crucifixion",
+      "atonement",
+      "substitution",
+      "grace-vs-works"
+    ],
+    "section": "comparative"
+  },
+  {
+    "id": "buddhism-001",
+    "target_worldview": "buddhism",
+    "topic_zh": "有位格的上帝 vs. 非人格化的终极实在",
+    "topic_en": "A Personal God vs. Impersonal Ultimate Reality",
+    "core_argument_zh": "佛教（尤其是上座部佛教）不承认有位格的创造者上帝，认为终极实在是非人格化的（涅槃/空性）。但一个非人格化的终极实在无法解释：（1）为什么存在具有位格的人类——非位格者不能产生位格；（2）为什么人类有爱、公义、美的深层渴望——这些都指向一位有位格的源头；（3）宇宙的有序性和可理解性——信息和设计需要一个有智慧的心灵。基督教的上帝是三位一体的关系性存在，完美地解释了位格、爱和关系的终极来源。",
+    "core_argument_en": "Buddhism (especially Theravada) denies a personal Creator God, viewing ultimate reality as impersonal (Nirvana/Sunyata). But an impersonal ultimate reality cannot explain: (1) Why personal beings exist — the impersonal cannot produce the personal; (2) Why humans have deep longings for love, justice, beauty — these point to a personal source; (3) The orderliness and intelligibility of the universe — information and design require an intelligent mind. Christianity's Trinitarian God, as relational being, perfectly explains the ultimate source of personhood, love, and relationship.",
+    "common_objections": [
+      {
+        "objection_zh": "佛教不需要"创造者"——因果缘起法足以解释一切。",
+        "objection_en": "Buddhism doesn't need a 'Creator' — dependent origination explains everything.",
+        "response_zh": "缘起法（pratītyasamutpāda）说明事物相互依存，但无法解释为什么这个相互依存的链条本身存在。这就像说"每一节火车车厢都被前一节拉着"——但整列火车需要一个火车头。无限回溯的因果链在逻辑上是不充分的。此外，缘起法本身就是一个有序的规律——为什么存在这样的规律？规律的存在指向一个规律的设立者。",
+        "response_en": "Dependent origination (pratītyasamutpāda) shows things are interdependent but cannot explain why the chain of interdependence itself exists. It's like saying 'each train car is pulled by the one before it' — but the whole train needs a locomotive. An infinite regress of causes is logically insufficient. Moreover, dependent origination is itself an orderly law — why does such a law exist? The existence of laws points to a Lawgiver."
+      },
+      {
+        "objection_zh": "如果上帝创造了一切，为什么有这么多苦难？佛教至少诚实面对苦难。",
+        "objection_en": "If God created everything, why is there so much suffering? Buddhism at least honestly faces suffering.",
+        "response_zh": "佛教确实认真对待苦难（四圣谛），这值得尊重。但佛教的解决方案是消除欲望以脱离苦难——最终是消除个体自我（无我/涅槃）。基督教提供了根本不同的答案：苦难不是最终的实在，而是因罪进入世界的扭曲。上帝在基督里进入苦难、胜过苦难，并应许更新一切。基督教不是消除自我来逃避苦难，而是自我被救赎、苦难被战胜。",
+        "response_en": "Buddhism does take suffering seriously (Four Noble Truths), and this deserves respect. But Buddhism's solution is to extinguish desire to escape suffering — ultimately dissolving the individual self (anatta/Nirvana). Christianity offers a fundamentally different answer: suffering is not ultimate reality but a distortion from sin entering the world. God in Christ enters suffering, conquers it, and promises to renew all things. Christianity doesn't dissolve the self to escape suffering but redeems the self and defeats suffering."
+      }
+    ],
+    "bible_verses": [
+      "创世记 1:27 / Genesis 1:27",
+      "约翰一书 4:8 / 1 John 4:8",
+      "使徒行传 17:24-28 / Acts 17:24-28",
+      "耶利米书 29:13 / Jeremiah 29:13"
+    ],
+    "recommended_resources": [
+      "Ravi Zacharias, 'The Lotus and the Cross'",
+      "Harold Netland, 'Christianity and Religious Diversity'",
+      "Daniel Strange, 'Their Rock Is Not Like Our Rock'"
+    ],
+    "tags": [
+      "personal-god",
+      "impersonal",
+      "nirvana",
+      "creation"
+    ],
+    "section": "comparative"
+  },
+  {
+    "id": "buddhism-002",
+    "target_worldview": "buddhism",
+    "topic_zh": "恩典 vs. 业力：救赎的根本区别",
+    "topic_en": "Grace vs. Karma: The Fundamental Difference in Salvation",
+    "core_argument_zh": "佛教的业力（karma）系统是一个严格的道德因果报应法则，你的善行和恶行决定你轮回中的命运。这本质上是一个"功德系统"（merit system），救赎完全依靠个人的努力和修行。学者保罗·威廉姆斯（Paul Williams）指出，业力体系虽然看似公平，但实际上是一个绝望的循环——因为没有人能完全消除所有恶业。连佛教内部也承认，即使是成就阿罗汉果的圣者，仍需经历长期的修行才能完全摆脱业力的束缚。基督教的福音则完全不同：救赎是上帝的恩典，不是你做了什么，而是上帝在基督里为你做了什么。如以弗所书2:8-9所说："你们得救是本乎恩，也因着信；这并不是出于自己，乃是上帝所赐的。也不是出于行为，免得有人自夸。"恩典打破了业力的无尽循环，提供了真正的盼望——不是通过积累无限的功德，而是通过信靠基督已经完成的完美救赎工作。",
+    "core_argument_en": "Buddhism's karma system is a strict law of moral cause-and-effect where your good and bad deeds determine your destiny across rebirths. This is essentially a 'merit system' where salvation depends entirely on personal effort and practice. Scholar Paul Williams notes that while the karma system appears fair, it is actually a cycle of despair — no one can completely eliminate all bad karma. Even within Buddhism, it's acknowledged that even those achieving arhatship still require extensive practice to fully escape karma's bondage. The Christian Gospel offers something radically different: salvation is God's grace — not what you have done, but what God has done for you in Christ. As Ephesians 2:8-9 states: 'For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.' Grace breaks the endless karmic cycle, offering genuine hope — not through accumulating infinite merit, but through trusting Christ's finished, perfect redemptive work.",
+    "common_objections": [
+      {
+        "objection_zh": "业力是公平的——每个人为自己的行为负责。恩典不公平。",
+        "objection_en": "Karma is fair — everyone is responsible for their own actions. Grace seems unfair.",
+        "response_zh": "这个反对看似合理，但实际上忽略了一个关键问题：如果业力是绝对公平的，那谁能真正达到解脱的标准？佛教学者戴维·洛伊（David Loy）在其著作中指出，业力系统实际上是绝望的——因为没有人能完全消除所有恶业，而每一个不完美的行为、思想、动机都会产生新的业报。即使是最虔诚的佛教徒也承认需要无数个轮回才可能达到涅槃。基督教的恩典看似"不公平"，但这恰恰是它的荣美——基督在十字架上承担了公义的全部审判。代价确实被完全支付了，只是不是由我们支付。这不是取消公义，而是由上帝自己满足了公义的要求。正如约翰·司徒德（John Stott）所说，十字架是"爱征服了公义，却没有取消公义"的地方。这是最深的公义与最深的爱的完美交汇，提供了业力系统永远无法给予的真正平安。",
+        "response_en": "This objection seems reasonable but overlooks a crucial question: if karma is absolutely just, who can truly meet the liberation standard? Buddhist scholar David Loy notes in his writings that the karma system is actually hopeless — no one can completely eliminate all bad karma, and every imperfect action, thought, or motivation generates new karmic consequences. Even the most devout Buddhists acknowledge needing countless rebirths to possibly reach nirvana. Christian grace seems 'unfair,' but this is precisely its beauty — Christ bore justice's full judgment on the Cross. The price was indeed fully paid, just not by us. This doesn't cancel justice but represents God Himself satisfying justice's demands. As John Stott said, the Cross is where 'love conquered justice without canceling it.' This is the perfect intersection of deepest justice and deepest love, offering genuine peace that the karma system can never provide."
+      },
+      {
+        "objection_zh": "基督教的恩典会让人随意犯罪——反正都被赦免了。",
+        "objection_en": "Christian grace gives license to sin freely — you're forgiven anyway.",
+        "response_zh": "这是一个古老的误解，保罗在罗马书6:1-2已经回应了这个问题：'我们可以仍在罪中、叫恩典显多吗？断乎不可！'真正经历恩典的人会被恩典改变，而不是利用恩典。约翰·牛顿（John Newton）从奴隶贩子成为废奴主义者，正是恩典改变生命的典型例子。一个被从溺水中救出的人不会想跳回水里，同样，被恩典拯救的人不会想继续活在罪中。恩典不仅赦免罪，还赐予新的生命和渴望圣洁的心（以西结书36:26-27）。改革宗神学家明确强调：得救是唯独因信（sola fide），但真正的信心必然产生善行的果子。这与佛教的修行动机根本不同——基督徒行善不是为了赚取救恩，而是因为已经得到救恩；不是出于恐惧，而是出于感恩；不是为了积累功德，而是为了回应上帝的爱。",
+        "response_en": "This is an ancient misunderstanding that Paul already addressed in Romans 6:1-2: 'Are we to continue in sin that grace may abound? By no means!' Those who truly experience grace are transformed by it, not exploiters of it. John Newton's transformation from slave trader to abolitionist exemplifies grace's life-changing power. Someone rescued from drowning doesn't want to jump back in; similarly, those saved by grace don't want to continue in sin. Grace not only forgives sin but gives new life and a heart that desires holiness (Ezekiel 36:26-27). Reformed theologians clearly emphasize: salvation is by faith alone (sola fide), but true faith necessarily produces the fruit of good works. This differs fundamentally from Buddhist motivations for practice — Christians do good not to earn salvation but because they already have it; not from fear but from gratitude; not to accumulate merit but to respond to God's love."
+      },
+      {
+        "objection_zh": "佛教的业力至少给人希望通过努力改善命运，恩典让人被动。",
+        "objection_en": "Buddhist karma at least gives hope for improving one's fate through effort; grace makes people passive.",
+        "response_zh": "这个观点恰恰颠倒了现实。佛教学者理查德·海耶斯（Richard Hayes）研究发现，业力教义往往导致宿命论——既然一切苦难都是过去业力的结果，人们容易对社会不公义采取被动态度。在传统佛教社会中，种姓制度和社会不平等常被业力理论所合理化。相反，基督教的恩典释放了巨大的道德能量。威廉·威伯福斯（William Wilberforce）废除奴隶制的努力、马丁·路德·金的民权运动、德蕾莎修女对穷人的服务——这些都源于恩典的激励，而非功德的计算。恩典教导信徒：既然上帝无条件地爱你，你也要无条件地爱他人；既然基督为你舍己，你也要为他人舍己。这种爱的激励远超过业力的恐惧动机，产生了更持久、更纯粹的道德行动。正如加尔文所说，被称义的信徒成为"基督的手脚"，积极参与上帝更新世界的工作。",
+        "response_en": "This view actually reverses reality. Buddhist scholar Richard Hayes found that karma doctrine often leads to fatalism — since all suffering results from past karma, people easily become passive toward social injustice. In traditional Buddhist societies, caste systems and social inequality were often rationalized through karma theory. Conversely, Christian grace releases tremendous moral energy. William Wilberforce's abolition efforts, Martin Luther King's civil rights movement, Mother Teresa's service to the poor — these all stemmed from grace's motivation, not merit calculations. Grace teaches believers: since God loves you unconditionally, you must love others unconditionally; since Christ gave himself for you, you must give yourself for others. This motivation of love far exceeds karma's fear-based motivation, producing more enduring and purer moral action. As Calvin said, justified believers become 'Christ's hands and feet,' actively participating in God's work of renewing the world."
+      }
+    ],
+    "bible_verses": [
+      "以弗所书 2:8-9 / Ephesians 2:8-9",
+      "罗马书 6:1-2 / Romans 6:1-2",
+      "罗马书 6:23 / Romans 6:23",
+      "以西结书 36:26-27 / Ezekiel 36:26-27",
+      "提多书 3:5 / Titus 3:5"
+    ],
+    "recommended_resources": [
+      "Timothy Keller, 'The Reason for God' (Ch. 12)",
+      "R.C. Sproul, 'Grace Unknown'",
+      "Jerry Bridges, 'Transforming Grace'",
+      "Paul Williams, 'Mahayana Buddhism: The Doctrinal Foundations'"
+    ],
+    "tags": [
+      "grace",
+      "karma",
+      "merit",
+      "salvation",
+      "sola-fide"
+    ],
+    "section": "comparative"
+  },
+  {
+    "id": "buddhism-003",
+    "target_worldview": "buddhism",
+    "topic_zh": "自我与无我：人的真实身份",
+    "topic_en": "Self and No-Self: The True Identity of Humanity",
+    "core_argument_zh": "佛教的核心教义"无我"（anatta/anatman）认为固定不变的自我是幻觉，但这引发了深刻的哲学问题。如果没有真正的自我，谁在修行？谁在轮回？谁在达到涅槃？著名佛学家保罗·威廉姆斯（Paul Williams）在深入研究佛教二十年后皈依基督教，正是因为无法解决这一矛盾。佛教唯识宗提出"阿赖耶识"（储藏识）来解决这个问题，但这实际上是在无我框架内重新引入了某种持续的自我。基督教教导人是按上帝的形象被造（imago Dei），具有永恒的价值和身份。你不是幻觉——你是上帝所爱的、独特的、有永恒命运的位格存在。人的问题不是自我的存在，而是自我的堕落和扭曲。解决方案不是自我的消灭，而是自我在基督里的救赎和更新。正如C.S.路易斯所说："当你完全属于基督的时候，你最终才真正成为你自己。"",
+    "core_argument_en": "Buddhism's core doctrine of 'no-self' (anatta/anatman) holds that a fixed, enduring self is illusion, but this raises profound philosophical problems. If there is no real self, who practices? Who is reborn? Who attains Nirvana? Renowned Buddhist scholar Paul Williams converted to Christianity after twenty years of deep Buddhist study precisely because he couldn't resolve this contradiction. Buddhist Yogācāra school proposed 'ālaya-vijñāna' (storehouse consciousness) to solve this problem, but this essentially reintroduces a continuing self within the no-self framework. Christianity teaches humans are made in God's image (imago Dei), possessing eternal value and identity. You are not an illusion — you are a person loved by God, unique, with an eternal destiny. The problem isn't the existence of the self but its fallenness and distortion. The solution is not self-annihilation but self-redemption and renewal in Christ. As C.S. Lewis said: 'The more we let God take us over, the more truly ourselves we become.'",
+    "common_objections": [
+      {
+        "objection_zh": "科学也表明"自我"只是大脑的神经活动，没有永恒的灵魂。",
+        "objection_en": "Science also shows the 'self' is just neural activity in the brain — there's no eternal soul.",
+        "response_zh": "神经科学描述了意识的物质相关物（neural correlates），但相关性不等于因果性或同一性。意识的"硬问题"（hard problem of consciousness）——为什么主观体验存在——至今没有纯物质主义的解释。著名哲学家大卫·查尔默斯（David Chalmers）指出，即使我们完全绘制出大脑的神经连接图谱，仍然无法解释为什么会有"感觉像什么"的内在体验。此外，理性思维、自由意志、道德责任都预设了一个统一的、持续的主体。如果自我只是神经活动的幻觉，那么谁在观察这个幻觉？谁在得出"自我是幻觉"这个结论？这陷入了自我指涉的矛盾。基督教的灵魂观为这些现象提供了融贯的解释：人既有物质的身体，也有非物质的灵魂，两者构成完整的人格。",
+        "response_en": "Neuroscience describes neural correlates of consciousness, but correlation is not causation or identity. The 'hard problem of consciousness' — why subjective experience exists — has no purely materialistic explanation. Prominent philosopher David Chalmers notes that even if we completely map the brain's neural connections, we still cannot explain why there is an inner experience of 'what it is like.' Moreover, rational thought, free will, and moral responsibility all presuppose a unified, enduring subject. If the self is merely an illusion of neural activity, who observes this illusion? Who concludes that 'the self is an illusion'? This falls into self-referential contradiction. The Christian view of the soul provides a coherent explanation: humans possess both material body and immaterial soul, together constituting complete personhood."
+      },
+      {
+        "objection_zh": "执着于"自我"正是苦难的根源，放下自我才能解脱。",
+        "objection_en": "Attachment to 'self' is the root of suffering; letting go of self brings liberation.",
+        "response_zh": "基督教同意自我中心（selfishness）是问题的核心——但解决方案根本不同。耶稣说"若有人要跟从我，就当舍己，背起他的十字架来跟从我"（马可福音8:34）。但基督教的"舍己"不是消灭自我，而是将自我的中心从自己转向上帝和他人。这是重新定向，不是消灭。佛教的目标是"我"的完全息灭，但这样的"解脱"究竟是谁的解脱？如果没有主体，就没有能享受平安的存在。基督教提供了一个更好的愿景：自我在爱中找到真正的实现。当我们爱上帝和他人时，我们不是失去自己，而是发现真正的自己。爱是自我给出（self-giving），不是自我否定（self-denial）。在三一上帝的永恒爱中，圣父、圣子、圣灵各自保持位格的独特性，同时在爱中完全合一。这正是人类在基督里的命运——保持个体身份，同时在爱中与上帝和他人联合。",
+        "response_en": "Christianity agrees that self-centeredness is the core problem — but offers a fundamentally different solution. Jesus said, 'If anyone would come after me, let him deny himself and take up his cross and follow me' (Mark 8:34). But Christian 'self-denial' doesn't annihilate the self but redirects its center from self to God and others. This is reorientation, not destruction. Buddhism aims for complete extinction of 'self,' but whose liberation is this? If there's no subject, there's no one to enjoy peace. Christianity offers a better vision: the self finds true fulfillment in love. When we love God and others, we don't lose ourselves but discover our true selves. Love is self-giving, not self-denial. In the eternal love of the Trinity, Father, Son, and Spirit each maintain personal distinctiveness while being perfectly united in love. This is humanity's destiny in Christ — maintaining individual identity while being united in love with God and others."
+      },
+      {
+        "objection_zh": "无我并不否认经验主体的存在，只是否认永恒不变的实体",
+        "objection_en": "Anatta doesn't deny an experiencing subject, only a permanent unchanging entity",
+        "response_zh": "即使区分'经验主体'和'永恒实体'，仍面临严重困难。首先是连续性问题：谁积累业力并在轮回中承受果报？如果没有持续的自我，业力的因果链就断裂了——这是佛教最基本的教义问题。其次是认识论问题：谁获得智慧？如果修行的主体不断变化，那么修行的累积效果如何解释？第三是解脱的意义问题：谁达到涅槃？如果说'没有人达到涅槃'，这就使修行失去了意义。佛教内部对此也有激烈争论——上座部佛教坚持严格的无我论，大乘佛教的唯识宗提出了'阿赖耶识'来维持某种连续性，密宗佛教甚至发展出'佛性'概念。这些理论发展实际上表明，完全的无我教义在实践中是不可行的。基督教的自我观既承认人格的真实性和连续性，又承认人需要根本的改变——不是自我的消灭，而是自我的重生。",
+        "response_en": "Even distinguishing 'experiencing subject' from 'permanent entity' still faces serious difficulties. First is the continuity problem: who accumulates karma and bears consequences across rebirths? Without a continuing self, the causal chain of karma breaks — this is Buddhism's most fundamental doctrinal problem. Second is the epistemological problem: who gains wisdom? If the practicing subject constantly changes, how do we explain cumulative practice effects? Third is the meaning of liberation: who attains nirvana? If 'no one attains nirvana,' practice becomes meaningless. Buddhists themselves debate this fiercely — Theravada Buddhism maintains strict no-self doctrine, Mahayana Yogācāra introduced 'ālaya-vijñāna' to maintain continuity, and Tantric Buddhism even developed 'Buddha-nature' concepts. These theoretical developments actually show that complete no-self doctrine is impractical. Christianity's view of self acknowledges both personal reality and continuity while recognizing humans need fundamental change — not self-annihilation but self-rebirth."
+      }
+    ],
+    "bible_verses": [
+      "创世记 1:27 / Genesis 1:27",
+      "马可福音 8:34-35 / Mark 8:34-35",
+      "诗篇 139:13-16 / Psalm 139:13-16",
+      "哥林多前书 6:19-20 / 1 Corinthians 6:19-20",
+      "哥林多后书 5:17 / 2 Corinthians 5:17"
+    ],
+    "recommended_resources": [
+      "Ravi Zacharias, 'The Lotus and the Cross'",
+      "C.S. Lewis, 'Mere Christianity' (Book IV)",
+      "J.P. Moreland, 'The Soul'",
+      "Paul Williams, 'The Unexpected Way: On Converting from Buddhism to Catholicism'"
+    ],
+    "tags": [
+      "anatta",
+      "no-self",
+      "imago-dei",
+      "identity",
+      "consciousness"
+    ],
+    "section": "comparative"
+  },
+  {
+    "id": "buddhism-006",
+    "target_worldview": "buddhism",
+    "topic_zh": "苦难：佛教与基督教的不同回应",
+    "topic_en": "Suffering: Buddhist vs Christian Response",
+    "core_argument_zh": "佛教将苦（dukkha）视为生存的根本特征，其根源在于渴爱（tanha）和执着，解决方案是通过八正道消除一切渴爱、达到涅槃（苦的完全止息）。这个诊断深刻但不完整。基督教承认苦难的现实性，但给出不同的诊断和处方：苦难的根源不是欲望本身，而是人对上帝的叛逆（罪）导致整个受造界偏离了上帝的原初设计。著名神学家保罗·田立克（Paul Tillich）指出，人的基本问题是"异化"（alienation）——与上帝、他人、自己和自然的关系破裂。解决方案不是消除所有欲望、退出世界进入无欲无求的状态，而是关系的修复和更新。上帝没有要求我们逃离世界，而是亲自进入世界的苦难——在耶稣基督的十字架和复活中，上帝承担了苦难的终极重量并战胜了它。基督教的盼望不是逃离此世达到虚无的平静，而是上帝将更新万物，在新天新地中消除一切苦难、眼泪和死亡（启示录21:4）。这不是个体的逃脱，而是整个宇宙的救赎。",
+    "core_argument_en": "Buddhism views suffering (dukkha) as existence's fundamental characteristic, rooted in craving (tanha) and attachment; the solution is eliminating all craving through the Eightfold Path to reach nirvana (complete cessation of suffering). This diagnosis is profound but incomplete. Christianity acknowledges suffering's reality but offers a different diagnosis and prescription: suffering's root is not desire itself but humanity's rebellion against God (sin), causing all creation to deviate from God's original design. Renowned theologian Paul Tillich identified humanity's basic problem as 'alienation' — broken relationships with God, others, self, and nature. The solution is not eliminating all desires and withdrawing into desireless states, but restoring and renewing relationships. God doesn't ask us to escape the world but enters the world's suffering Himself — in Jesus Christ's Cross and Resurrection, God bore suffering's ultimate weight and conquered it. Christian hope is not escaping this world into void-like peace but God renewing all things, eliminating all suffering, tears, and death in the new heavens and earth (Revelation 21:4). This is not individual escape but cosmic redemption.",
+    "common_objections": [
+      {
+        "objection_zh": "佛教的方法更实际——冥想可以直接减少痛苦。",
+        "objection_en": "Buddhism's approach is more practical — meditation directly reduces suffering.",
+        "response_zh": "冥想确实可以帮助管理压力和情绪，基督教也有丰富的默想和祈祷传统。但这里有根本性的区别：减少痛苦的主观感受与解决苦难的根本原因是两回事。心理学研究表明，正念冥想（mindfulness meditation）可以减轻抑郁和焦虑症状，但它无法处理导致苦难的客观现实——不公义、压迫、死亡。如果世界上存在真正的不公义（如种族灭绝、人口贩卖、儿童虐待），正确的回应不是通过冥想来减少自己对这些事的"执着"，而是积极地去对抗不公义。德蕾莎修女在加尔各答的贫民窟中服务，马丁·路德·金为民权而战，威廉·威伯福斯废除奴隶制——这些都不是通过冥想来逃避苦难，而是直接面对苦难、与之斗争。基督教呼召信徒既要在苦难中信靠上帝得到内心平安，也要积极行动去缓解他人的苦难——因为每个人都是按上帝形象造的，有固有的尊严和价值。",
+        "response_en": "Meditation can indeed help manage stress and emotions; Christianity also has rich traditions of contemplation and prayer. But there's a fundamental difference: reducing subjective feelings of pain differs from addressing suffering's root causes. Psychological research shows mindfulness meditation can alleviate depression and anxiety symptoms, but it cannot address objective realities causing suffering — injustice, oppression, death. If genuine injustice exists in the world (genocide, human trafficking, child abuse), the right response is not meditating away one's 'attachment' to these evils but actively combating injustice. Mother Teresa serving in Calcutta's slums, Martin Luther King fighting for civil rights, William Wilberforce abolishing slavery — these didn't involve meditating to escape suffering but directly confronting and fighting it. Christianity calls believers both to trust God amid suffering for inner peace and to actively alleviate others' suffering — because every person is made in God's image with inherent dignity and worth."
+      },
+      {
+        "objection_zh": "基督教的上帝如果全能，为什么不直接消除苦难？",
+        "objection_en": "If the Christian God is omnipotent, why doesn't He simply eliminate suffering?",
+        "response_zh": "这是一个深刻的神学问题，改革宗神学的回答是：上帝正在消除苦难，但以祂的方式和时间表进行。上帝当然可以立即消除一切苦难，但这意味着同时消灭一切罪人——包括我们每个人，因为我们都参与了导致苦难的罪恶结构。上帝选择了一条更艰难但更有爱的路：祂自己在十字架上承受苦难的代价，给人类悔改的时间，并应许在基督再来时完全更新万物。神学家约翰·司徒德（John Stott）指出，十字架是"上帝受苦的神学"——上帝没有对苦难保持距离，而是进入其中。佛教的涅槃本质上是个体逃离苦难循环的出口，是"无"（nothingness）的状态；基督教的盼望是整个受造界的更新和恢复——不是逃避世界，而是世界的救赎。启示录21:1-4描绘的新天新地不是虚无，而是更新的现实，在那里"上帝要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛"。",
+        "response_en": "This is a profound theological question. Reformed theology answers: God is eliminating suffering, but on His timeline and in His way. God could instantly eliminate all suffering, but that would mean simultaneously destroying all sinners — including every one of us, as we all participate in sinful structures causing suffering. God chose a harder but more loving path: bearing suffering's cost Himself on the Cross, giving humanity time to repent, and promising complete renewal when Christ returns. Theologian John Stott noted the Cross represents 'theology of God's suffering' — God doesn't remain distant from suffering but enters it. Buddhist nirvana is essentially individual escape from the suffering cycle, a state of 'nothingness'; Christian hope is the renewal and restoration of all creation — not escape from the world but the world's redemption. Revelation 21:1-4's new heavens and earth is not void but renewed reality where 'God will wipe away every tear from their eyes; death shall be no more, neither shall there be mourning, nor crying, nor pain anymore.'"
+      },
+      {
+        "objection_zh": "佛教教导慈悲，基督教强调审判，哪个更有爱？",
+        "objection_en": "Buddhism teaches compassion, Christianity emphasizes judgment — which is more loving?",
+        "response_zh": "这个对比误解了两个传统的核心。佛教的慈悲（karuṇā）虽然珍贵，但在严格的无我框架下面临理论困难：如果没有真实的自我，谁在经历苦难？谁是慈悲的对象？为什么要关心不存在的存在者？佛学家保罗·威廉姆斯指出，这个矛盾是他从佛教转向基督教的重要原因之一。基督教的爱（agape）更为深刻，因为它建立在坚实的位格本体论基础上：每个人都是按上帝形象造的真实存在，值得被爱。至于审判，基督教的审判恰恰是爱的表现——爱必须对不公义和邪恶说"不"。著名神学家米罗斯拉夫·沃尔夫（Miroslav Volf）在《拥抱神学》中论证，没有最终审判就没有真正的饶恕。上帝的审判确保邪恶不会永远得胜，受害者的声音被听见。更重要的是，基督教宣告上帝自己承担了审判——在十字架上，上帝既是审判者又是被审判者，既维护公义又提供救赎。这种爱远超过理论上的慈悲，因为它付出了终极代价。",
+        "response_en": "This comparison misunderstands both traditions' cores. Buddhist compassion (karuṇā), while precious, faces theoretical difficulties within the strict no-self framework: if there's no real self, who experiences suffering? Who is compassion's object? Why care about non-existent beings? Buddhist scholar Paul Williams noted this contradiction as a key reason for his conversion from Buddhism to Christianity. Christian love (agape) is deeper because it's built on solid personal ontological foundations: every person is a real being made in God's image, worthy of love. Regarding judgment, Christian judgment precisely expresses love — love must say 'no' to injustice and evil. Renowned theologian Miroslav Volf argues in 'Exclusion and Embrace' that without final judgment there's no true forgiveness. God's judgment ensures evil doesn't ultimately triumph and victims' voices are heard. More importantly, Christianity proclaims God Himself bore the judgment — on the Cross, God is both judge and judged, maintaining justice while providing redemption. This love far exceeds theoretical compassion because it paid the ultimate price."
+      }
+    ],
+    "bible_verses": [
+      "启示录 21:4 / Revelation 21:4",
+      "罗马书 8:18-22 / Romans 8:18-22",
+      "约翰福音 16:33 / John 16:33",
+      "以赛亚书 53:4-5 / Isaiah 53:4-5",
+      "哥林多后书 1:3-4 / 2 Corinthians 1:3-4"
+    ],
+    "recommended_resources": [
+      "Timothy Keller, 'Walking with God through Pain and Suffering'",
+      "Ravi Zacharias, 'The Lotus and the Cross'",
+      "C.S. Lewis, 'The Problem of Pain'",
+      "John Stott, 'The Cross of Christ'",
+      "Miroslav Volf, 'Exclusion and Embrace'"
+    ],
+    "tags": [
+      "suffering",
+      "dukkha",
+      "nirvana",
+      "new-creation",
+      "buddhism"
+    ],
+    "section": "comparative"
+  },
+  {
+    "id": "cults-001",
+    "target_worldview": "cults",
+    "topic_zh": "耶和华见证人：耶稣是被造的天使长？",
+    "topic_en": "Jehovah's Witnesses: Is Jesus a Created Archangel?",
+    "core_argument_zh": "耶和华见证人（JW）否认耶稣的神性，教导耶稣是被造的天使长米迦勒。但圣经明确否定这一观点：（1）希伯来书1:5-14详细对比基督与天使，强调基督远超天使——"上帝从来没有对哪一个天使说：'你是我的儿子，我今日生你'"；（2）约翰福音1:3和歌罗西书1:16明确宣告万物都是借着基督造的，如果祂创造了一切，祂就不可能是被造物；（3）耶稣接受敬拜（马太福音28:9），而天使拒绝敬拜（启示录22:8-9）。JW的《新世界译本》在约翰福音1:1中将"道就是上帝"篡改为"道是一个神"，这在希腊文文法上完全站不住脚，被所有希腊文学者否定。著名新约学者丹尼尔·华莱士（Daniel Wallace）指出，这种翻译违背了希腊文的基本语法规则（Colwell规则）。",
+    "core_argument_en": "Jehovah's Witnesses (JW) deny Christ's deity, teaching Jesus is the created archangel Michael. But Scripture explicitly refutes this: (1) Hebrews 1:5-14 carefully contrasts Christ with angels, emphasizing Christ far exceeds angels — 'For to which of the angels did God ever say, \"You are my Son, today I have begotten you\"?'; (2) John 1:3 and Colossians 1:16 clearly declare all things were created through Christ; if He created everything, He cannot be a creature; (3) Jesus receives worship (Matthew 28:9), while angels refuse worship (Revelation 22:8-9). The JW 'New World Translation' alters John 1:1 from 'the Word was God' to 'the Word was a god,' which is grammatically indefensible in Greek and rejected by all Greek scholars. Renowned NT scholar Daniel Wallace notes this translation violates basic Greek grammar rules (Colwell's Rule).",
+    "common_objections": [
+      {
+        "objection_zh": "歌罗西书1:15说耶稣是"一切受造物的首生"——说明祂是被造的。",
+        "objection_en": "Colossians 1:15 says Jesus is 'the firstborn of all creation' — so He was created.",
+        "response_zh": "'首生'（prōtotokos）在希腊文和旧约中表示地位和优先权，不表示'第一个被造'。诗篇89:27称大卫为'首生的'，虽然他是耶西最小的儿子。这里强调的是权威和地位，不是时间顺序。紧接着歌罗西书1:16-17清楚解释了为什么：'因为万有都是靠祂造的，无论是天上的、地上的、能看见的、不能看见的…万有都是借着祂造的，又是为祂造的。祂在万有之先，万有也靠祂而立。''首生'在此表示祂拥有对一切受造物的主权和优先地位。如果保罗想说'第一个被造的'，他会用'prōtoktistos'，但他特意选用了'prōtotokos'来强调基督的超越地位。新约学者N.T. 怀特（N.T. Wright）指出，这个词在此语境中的意思是'创造之上的主宰'。",
+        "response_en": "'Firstborn' (prōtotokos) in Greek and the OT denotes rank and preeminence, not 'first created.' Psalm 89:27 calls David 'firstborn' though he was Jesse's youngest son. This emphasizes authority and position, not chronological order. Colossians 1:16-17 immediately explains why: 'For by him all things were created, in heaven and on earth, visible and invisible... all things were created through him and for him. And he is before all things, and in him all things hold together.' 'Firstborn' here indicates sovereign preeminence over all creation. Had Paul meant 'first created,' he would have used 'prōtoktistos,' but he deliberately chose 'prōtotokos' to emphasize Christ's supreme position. NT scholar N.T. Wright notes this word means 'sovereign over creation' in this context."
+      },
+      {
+        "objection_zh": "约翰福音14:28耶稣说"父是比我大的"——说明耶稣不是上帝。",
+        "objection_en": "In John 14:28, Jesus says 'the Father is greater than I' — proving He's not God.",
+        "response_zh": "这里的'大'（meizon）指的是职能上的关系，不是本质上的差异。在三位一体中，圣子在永恒中自愿顺服圣父（经世三位一体），但在本质上与圣父完全同等（本体三位一体）。耶稣在道成肉身的状态下说这话，指的是祂在地上受限的情况——祂取了人性，在地上处于卑微的地位。同一卷福音书中，耶稣也说'我与父原为一'（约翰福音10:30），'看见了我，就是看见了父'（约翰福音14:9）。著名神学家约翰·加尔文解释说，基督的神性和人性需要分别理解——在神性上祂与父同等，在人性上祂顺服父。经文必须以经文来解释，不能孤立地理解单节经文。",
+        "response_en": "The word 'greater' (meizon) refers to functional relationship, not ontological difference. Within the Trinity, the Son voluntarily submits to the Father in the economic Trinity, while being fully equal in essence in the ontological Trinity. Jesus spoke this during His incarnate state, referring to His earthly limitations — He took human nature and was in a humble position on earth. In the same Gospel, Jesus also says 'I and the Father are one' (John 10:30) and 'Whoever has seen me has seen the Father' (John 14:9). Renowned theologian John Calvin explained that Christ's divine and human natures must be understood separately — in His divinity He equals the Father, in His humanity He submits to the Father. Scripture must interpret Scripture; single verses cannot be understood in isolation."
+      },
+      {
+        "objection_zh": "如果耶稣是上帝，为什么圣经说祂'不知道'那日子那时辰？",
+        "objection_en": "If Jesus is God, why does Scripture say He 'does not know' the day or hour?",
+        "response_zh": "马可福音13:32记录耶稣说'但那日子，那时辰，没有人知道，连天上的使者也不知道，子也不知道，惟有父知道。'这涉及基督论的一个深奥真理：道成肉身中的两性联合。早期教会迦克墩会议（451年）确立了基督有完全的神性和完全的人性，两性在一个位格中联合而不混淆。耶稣在祂的神性中无所不知，但在祂的人性中，祂自愿限制了对某些知识的使用。这被称为"虚己"（kenosis，腓立比书2:7）——不是祂失去了神性，而是祂在道成肉身期间自愿限制了神性某些属性的彰显。正如改革宗神学家路易斯·贝科夫（Louis Berkhof）所解释，基督从不以祂的人性知道只有神性才能知道的事。这个限制是道成肉身的真实性和祂认同人类处境的证据，不是对祂神性的否定。",
+        "response_en": "Mark 13:32 records Jesus saying 'But concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son, but only the Father.' This involves a profound truth in Christology: the hypostatic union. The Council of Chalcedon (451 AD) established that Christ has complete divinity and complete humanity, united in one person without confusion. Jesus is omniscient in His divine nature but voluntarily limited His use of certain knowledge in His human nature. This is called 'kenosis' (self-emptying, Philippians 2:7) — not that He lost divinity but voluntarily restricted the manifestation of certain divine attributes during the incarnation. As Reformed theologian Louis Berkhof explained, Christ never knew through His human nature what only divine nature could know. This limitation evidences the incarnation's reality and His identification with the human condition, not a denial of His deity."
+      }
+    ],
+    "bible_verses": [
+      "希伯来书 1:5-14 / Hebrews 1:5-14",
+      "约翰福音 1:1-3 / John 1:1-3",
+      "歌罗西书 1:15-17 / Colossians 1:15-17",
+      "启示录 22:8-9 / Revelation 22:8-9",
+      "腓立比书 2:6-11 / Philippians 2:6-11"
+    ],
+    "recommended_resources": [
+      "Ron Rhodes, 'Reasoning from the Scriptures with Jehovah's Witnesses'",
+      "James White, 'The Forgotten Trinity'",
+      "Walter Martin, 'The Kingdom of the Cults'",
+      "Robert Bowman, 'Why You Should Believe in the Trinity'"
+    ],
+    "tags": [
+      "jehovahs-witnesses",
+      "deity-of-christ",
+      "cults",
+      "NWT"
+    ],
+    "section": "discernment"
+  },
+  {
+    "id": "cults-002",
+    "target_worldview": "cults",
+    "topic_zh": "摩门教：另一本经典与另一个福音",
+    "topic_en": "Mormonism: Another Scripture and Another Gospel",
+    "core_argument_zh": "摩门教（后期圣徒教会）在圣经之外加添了《摩尔门经》《教义和圣约》《无价珍珠》作为经典，并教导根本不同的神学体系：（1）上帝曾是人，人可以成为神（Lorenzo Snow格言：'神曾经是人，人可以成为神'）；（2）多神论——存在多位神，每个星球都有自己的神；（3）耶稣和撒旦是灵兄弟；（4）救恩部分靠行为，包括摩门教独有的教仪。但加拉太书1:8严厉警告："若有人传福音给你们，与你们所领受的不同，他就应当被咒诅！"摩门教的"上帝"与圣经启示的独一真神根本不同。著名护教学家沃尔特·马丁（Walter Martin）指出，摩门教使用基督教词汇，但重新定义了所有核心概念。这不是对基督教的改革，而是完全不同的宗教体系。",
+    "core_argument_en": "Mormonism (LDS Church) adds the Book of Mormon, Doctrine & Covenants, and Pearl of Great Price as scripture beyond the Bible, teaching fundamentally different theology: (1) God was once a man, and man can become God (Lorenzo Snow couplet: 'As man now is, God once was; as God now is, man may be'); (2) Polytheism — multiple gods exist, each planet has its own god; (3) Jesus and Satan are spirit brothers; (4) Salvation is partly by works, including LDS-specific ordinances. But Galatians 1:8 sternly warns: 'Even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed!' Mormonism's 'God' is fundamentally different from the one true God of biblical revelation. Renowned apologist Walter Martin noted that Mormonism uses Christian vocabulary while redefining all core concepts. This is not Christian reformation but an entirely different religious system.",
+    "common_objections": [
+      {
+        "objection_zh": "摩门教徒生活道德高尚，家庭重视，这不就证明它是好的吗？",
+        "objection_en": "Mormons live moral lives and value family — doesn't that prove it's good?",
+        "response_zh": "摩门教信徒的道德生活和家庭价值确实值得尊重，但真理不是由道德表现来决定的。许多宗教的信徒都生活得很好，这不能证明他们的教义正确。耶和华见证人也很诚恳，伊斯兰教徒也有高尚的道德，但诚意不等于真理。保罗在罗马书10:2说："我可以证明他们向上帝有热心，但不是按着真知识。"核心问题是：这个信仰系统教导的关于上帝、基督和救恩的内容是否为真？耶稣警告说会有人奉祂的名行许多善事，但祂会说"我从来不认识你们"（马太福音7:22-23）。著名神学家J.I. 巴刻（J.I. Packer）指出，信仰的核心是真理，不仅仅是行为。我们必须"在真理中的爱"，而不是"在错误中的爱"。摩门教的问题不在于其道德要求，而在于其神学偏离了圣经启示。",
+        "response_en": "Mormon believers' moral living and family values deserve respect, but truth is not determined by moral performance. Adherents of many religions live admirable lives; this doesn't prove their doctrine correct. Jehovah's Witnesses are also sincere, Muslims also have noble morals, but sincerity does not equal truth. Paul says in Romans 10:2: 'I bear them witness that they have a zeal for God, but not according to knowledge.' The core question is: Are this system's teachings about God, Christ, and salvation TRUE? Jesus warned that some will do many good deeds in His name, yet He will say, 'I never knew you' (Matthew 7:22-23). Renowned theologian J.I. Packer noted that faith's core is truth, not merely behavior. We must have 'love in truth,' not 'love in error.' Mormonism's problem isn't its moral demands but its theological deviation from biblical revelation."
+      },
+      {
+        "objection_zh": "我为《摩尔门经》祷告，感到了心中的"燃烧感"，这证明它是真的。",
+        "objection_en": "I prayed about the Book of Mormon and felt a 'burning in the bosom' — this confirms it's true.",
+        "response_zh": "主观感受不能作为真理的可靠检验。许多不同宗教的信徒都报告了类似的强烈宗教体验——伊斯兰神秘主义者、印度教瑜伽士、甚至异教徒都有强烈的"属灵"体验。耶利米书17:9说"人心比万物都诡诈，坏到极处，谁能识透呢？"我们不能信赖自己的感受作为真理的最终仲裁。真理必须以客观标准来检验——上帝的话语（圣经）。此外，《摩尔门经》的历史性主张（如古代美洲的大规模文明、战争、马匹、钢铁、轮子等）完全没有考古证据支持。史密斯安研究所（Smithsonian Institution）和美国国家地理学会都公开声明《摩尔门经》没有考古价值。相比之下，圣经考古学提供了大量确认圣经记录的证据。著名考古学家威廉·奥尔布莱特（William Albright）称圣经为"有史以来考古发现支持最多的古代文献"。感受可能欺骗我们，但客观证据不会。",
+        "response_en": "Subjective feelings are not a reliable test for truth. Adherents of many different religions report similar intense spiritual experiences — Islamic mystics, Hindu yogis, even pagans have powerful 'spiritual' experiences. Jeremiah 17:9 says 'The heart is deceitful above all things, and desperately sick; who can understand it?' We cannot trust our feelings as truth's final arbiter. Truth must be tested by objective standards — God's Word (the Bible). Moreover, the Book of Mormon's historical claims (large ancient American civilizations, battles, horses, steel, wheels, etc.) have zero archaeological support. The Smithsonian Institution and National Geographic Society have publicly stated the Book of Mormon has no archaeological value. By contrast, biblical archaeology provides abundant evidence confirming biblical records. Renowned archaeologist William Albright called the Bible 'the most archaeologically supported ancient document in history.' Feelings may deceive us, but objective evidence doesn't."
+      },
+      {
+        "objection_zh": "约瑟·史密斯的遭遇和保罗在大马士革路上的经历很相似。",
+        "objection_en": "Joseph Smith's experience resembles Paul's on the Damascus Road.",
+        "response_zh": "表面相似不等于实质相同。保罗的经历有多重验证：（1）有目击证人（使徒行传9:7）；（2）立即的生命改变——从迫害教会转为传播福音；（3）最重要的是，保罗的信息与已有的使徒见证完全一致，他没有添加新的救恩方式或新的神学体系。保罗在加拉太书1:11-12声称他的福音是直接从基督领受的，但在加拉太书1:18-19他去耶路撒冷与其他使徒确认，确保信息的一致性。相比之下，史密斯的"启示"建立了一个全新的神学体系，与圣经根本冲突。史密斯声称"没有任何教派是正确的"，这直接否定了两千年的基督教历史。史密斯的多次"第一次异象"叙述版本不一致（1832年只提到耶稣，1838年版本才有圣父圣子同时显现），而保罗的见证从未改变。历史学家方洪·布罗迪（Fawn Brodie）在《没有人知道我的历史》中详细记录了史密斯叙述的矛盾之处。",
+        "response_en": "Surface similarity doesn't equal substantive equivalence. Paul's experience has multiple verifications: (1) Witnesses present (Acts 9:7); (2) Immediate life transformation — from persecuting the church to spreading the Gospel; (3) Most importantly, Paul's message was completely consistent with existing apostolic witness; he added no new salvation methods or theological systems. Paul claimed in Galatians 1:11-12 that his gospel came directly from Christ, but in Galatians 1:18-19 he went to Jerusalem to confirm with other apostles, ensuring message consistency. By contrast, Smith's 'revelations' established an entirely new theological system fundamentally conflicting with Scripture. Smith claimed 'no denomination was correct,' directly negating two millennia of Christian history. Smith's multiple 'First Vision' account versions are inconsistent (1832 mentions only Jesus; 1838 version has both Father and Son appearing), while Paul's testimony never changed. Historian Fawn Brodie in 'No Man Knows My History' documented Smith's narrative contradictions in detail."
+      }
+    ],
+    "bible_verses": [
+      "加拉太书 1:8-9 / Galatians 1:8-9",
+      "以赛亚书 43:10 / Isaiah 43:10",
+      "以赛亚书 44:6 / Isaiah 44:6",
+      "马太福音 7:22-23 / Matthew 7:22-23",
+      "耶利米书 17:9 / Jeremiah 17:9"
+    ],
+    "recommended_resources": [
+      "Walter Martin, 'The Kingdom of the Cults'",
+      "James White, 'Letters to a Mormon Elder'",
+      "Bill McKeever, 'Mormonism 101'",
+      "Jerald and Sandra Tanner, 'The Changing World of Mormonism'"
+    ],
+    "tags": [
+      "mormonism",
+      "LDS",
+      "book-of-mormon",
+      "polytheism",
+      "cults"
+    ],
+    "section": "discernment"
+  }
+]

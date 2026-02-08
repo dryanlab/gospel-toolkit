@@ -38,7 +38,7 @@
         "book_id": "book-322"
       },
       {
-        "text": "R.C.史普罗，《捍卫你的信仰》；R.C. Sproul, *Defending Your Faith*",
+        "text": "R.C.史普罗，《护卫你的信仰》；R.C. Sproul, *Defending Your Faith*",
         "book_id": "book-240"
       },
       {
@@ -266,11 +266,11 @@
         "book_id": "book-093"
       },
       {
-        "text": "N.T.赖特，《上帝之子的复活》；N.T. Wright, *The Resurrection of the Son of God*",
+        "text": "N.T.赖特，《神儿子的复活》；N.T. Wright, *The Resurrection of the Son of God*",
         "book_id": "book-214"
       },
       {
-        "text": "李·史特博，《基督的案件》；Lee Strobel, *The Case for Christ*",
+        "text": "李·史特博，《重审耶稣》；Lee Strobel, *The Case for Christ*",
         "book_id": "book-011"
       }
     ],
@@ -433,7 +433,7 @@
         "book_id": "book-216"
       },
       {
-        "text": "约翰·斯托特，《基督的十字架》；John Stott, *The Cross of Christ*",
+        "text": "约翰·斯托特，《基督十架》；John Stott, *The Cross of Christ*",
         "book_id": "book-171"
       },
       {
@@ -660,7 +660,7 @@
         "book_id": "book-132"
       },
       {
-        "text": "沃尔特·马丁，《异端的国度》；Walter Martin, *The Kingdom of the Cults*",
+        "text": "沃尔特·马丁，《异端的王国》；Walter Martin, *The Kingdom of the Cults*",
         "book_id": "book-309"
       }
     ],
@@ -708,7 +708,7 @@
     ],
     "recommended_resources": [
       {
-        "text": "沃尔特·马丁，《异端的国度》；Walter Martin, *The Kingdom of the Cults*",
+        "text": "沃尔特·马丁，《异端的王国》；Walter Martin, *The Kingdom of the Cults*",
         "book_id": "book-309"
       },
       {
@@ -769,7 +769,7 @@
         "book_id": null
       },
       {
-        "text": "沃尔特·马丁，《异端的国度》；Walter Martin, *The Kingdom of the Cults*",
+        "text": "沃尔特·马丁，《异端的王国》；Walter Martin, *The Kingdom of the Cults*",
         "book_id": "book-309"
       },
       {
@@ -1126,7 +1126,7 @@
         "book_id": "book-053"
       },
       {
-        "text": "丹尼尔·华莱士，《重访新约文本的损坏问题》；Daniel Wallace, *Revisiting the Corruption of the New Testament*",
+        "text": "丹尼尔·华莱士，《重访新约文本》；Daniel Wallace, *Revisiting the Corruption of the New Testament*",
         "book_id": "book-063"
       }
     ],
@@ -1393,7 +1393,7 @@
         "book_id": "book-184"
       },
       {
-        "text": "丹尼尔·华莱士，《重访新约文本的损坏问题》；Daniel Wallace, *Revisiting the Corruption of the New Testament*",
+        "text": "丹尼尔·华莱士，《重访新约文本》；Daniel Wallace, *Revisiting the Corruption of the New Testament*",
         "book_id": "book-063"
       },
       {
@@ -1722,7 +1722,7 @@
     ],
     "recommended_resources": [
       {
-        "text": "沃尔特·马丁，《异端的国度》；Walter Martin, *The Kingdom of the Cults*",
+        "text": "沃尔特·马丁，《异端的王国》；Walter Martin, *The Kingdom of the Cults*",
         "book_id": "book-309"
       },
       {
@@ -1947,11 +1947,11 @@
         "book_id": "book-322"
       },
       {
-        "text": "N.T.赖特，《上帝之子的复活》；N.T. Wright, *The Resurrection of the Son of God*",
+        "text": "N.T.赖特，《神儿子的复活》；N.T. Wright, *The Resurrection of the Son of God*",
         "book_id": "book-214"
       },
       {
-        "text": "李·史特博，《基督的案件》；Lee Strobel, *The Case for Christ*",
+        "text": "李·史特博，《重审耶稣》；Lee Strobel, *The Case for Christ*",
         "book_id": "book-011"
       }
     ],
@@ -1997,10 +1997,6 @@
       "Acts 4:19-20"
     ],
     "recommended_resources": [
-      {
-        "text": "理查德·鲍克汉姆，《耶稣与目击者》；Richard Bauckham, *Jesus and the Eyewitnesses*",
-        "book_id": "book-260"
-      },
       {
         "text": "理查德·鲍克汉姆，《耶稣与目击者》；Richard Bauckham, *Jesus and the Eyewitnesses*",
         "book_id": "book-260"
@@ -2774,10 +2770,6 @@
         "book_id": "book-147"
       },
       {
-        "text": "约翰·弗雷姆，《上帝知识的教义》；John Frame, *The Doctrine of the Knowledge of God*",
-        "book_id": "book-147"
-      },
-      {
         "text": "K.斯科特·奥利芬特，《圣约护教学》；K. Scott Oliphint, *Covenantal Apologetics*",
         "book_id": "book-179"
       }
@@ -2895,7 +2887,7 @@
         "book_id": "book-268"
       },
       {
-        "text": "阿尔文·施密特，《基督教如何改变世界》；Alvin Schmidt, *How Christianity Changed the World*",
+        "text": "阿尔文·施密特，《基督教如何改变了世界》；Alvin Schmidt, *How Christianity Changed the World*",
         "book_id": "book-024"
       }
     ],
@@ -2952,7 +2944,7 @@
         "book_id": "book-298"
       },
       {
-        "text": "约翰·斯托特，《基督的十字架》；John Stott, *The Cross of Christ*",
+        "text": "约翰·斯托特，《基督十架》；John Stott, *The Cross of Christ*",
         "book_id": "book-171"
       },
       {
@@ -3066,7 +3058,7 @@
     ],
     "recommended_resources": [
       {
-        "text": "C.S.路易斯，《大离婚》；C.S. Lewis, *The Great Divorce*",
+        "text": "C.S.路易斯，《梦幻巴士》；C.S. Lewis, *The Great Divorce*",
         "book_id": "book-038"
       },
       {
@@ -3269,7 +3261,7 @@
         "book_id": "book-036"
       },
       {
-        "text": "乔纳森·韦尔斯，《进化论的图标》；Jonathan Wells, *Icons of Evolution*",
+        "text": "乔纳森·韦尔斯，《进化论的偶像》；Jonathan Wells, *Icons of Evolution*",
         "book_id": "book-175"
       }
     ],
@@ -3390,7 +3382,7 @@
         "book_id": "book-186"
       },
       {
-        "text": "克雷格·布隆伯格，《耶稣与福音书的历史可靠性》；Craig Blomberg, *The Historical Reliability of the Gospels*",
+        "text": "克雷格·布隆伯格，《福音书的历史可靠性》；Craig Blomberg, *The Historical Reliability of the Gospels*",
         "book_id": "book-053"
       },
       {
@@ -3634,11 +3626,11 @@
         "book_id": "book-096"
       },
       {
-        "text": "克雷格·布隆伯格，《耶稣与福音书的历史可靠性》；Craig Blomberg, *The Historical Reliability of the Gospels*",
+        "text": "克雷格·布隆伯格，《福音书的历史可靠性》；Craig Blomberg, *The Historical Reliability of the Gospels*",
         "book_id": "book-053"
       },
       {
-        "text": "保罗·科潘，《上帝真是暴君吗？》；Paul Copan, *Is God a Moral Monster?*",
+        "text": "保罗·科潘，《上帝是道德怪物吗？》；Paul Copan, *Is God a Moral Monster?*",
         "book_id": "book-230"
       },
       {
@@ -3930,7 +3922,7 @@
     ],
     "recommended_resources": [
       {
-        "text": "沃尔特·马丁，《异端的国度》；Walter Martin, *The Kingdom of the Cults*",
+        "text": "沃尔特·马丁，《异端的王国》；Walter Martin, *The Kingdom of the Cults*",
         "book_id": "book-309"
       },
       {
@@ -4312,7 +4304,7 @@
         "book_id": "book-191"
       },
       {
-        "text": "提摩太·凯勒，《为何是上帝》；Tim Keller, *The Reason for God*",
+        "text": "提摩太·凯勒，《为何是神》；Tim Keller, *The Reason for God*",
         "book_id": "book-294"
       },
       {

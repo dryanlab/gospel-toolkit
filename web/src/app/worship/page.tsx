@@ -19,6 +19,40 @@ const playModeIcons: Record<PlayMode, { icon: string; label: string }> = {
   shuffle: { icon: '🔀', label: '随机播放' },
 };
 
+// Declare YouTube IFrame API types
+declare global {
+  interface Window {
+    YT: {
+      Player: new (
+        elementId: string,
+        config: {
+          videoId: string;
+          playerVars?: Record<string, number | string>;
+          events?: {
+            onReady?: (event: { target: YTPlayer }) => void;
+            onStateChange?: (event: { data: number; target: YTPlayer }) => void;
+          };
+        }
+      ) => YTPlayer;
+      PlayerState: {
+        ENDED: number;
+        PLAYING: number;
+        PAUSED: number;
+        BUFFERING: number;
+        CUED: number;
+      };
+    };
+    onYouTubeIframeAPIReady?: () => void;
+  }
+}
+
+interface YTPlayer {
+  loadVideoById: (videoId: string) => void;
+  playVideo: () => void;
+  pauseVideo: () => void;
+  destroy: () => void;
+}
+
 export default function WorshipPageWrapper() {
   return (
     <Suspense fallback={<div className="max-w-5xl mx-auto px-4 py-6 text-center">加载中...</div>}>
@@ -40,9 +74,11 @@ function WorshipPage() {
     }
   }, [songParam]);
   const [playMode, setPlayMode] = useState<PlayMode>('sequential');
-  const [iframeKey, setIframeKey] = useState(0);
   const [searchQuery, setSearchQuery] = useState('');
-  const playerRef = useRef<HTMLIFrameElement>(null);
+  const [ytApiReady, setYtApiReady] = useState(false);
+  const playerRef = useRef<YTPlayer | null>(null);
+  const playerContainerRef = useRef<HTMLDivElement>(null);
+  const playNextRef = useRef<() => void>(() => {});
 
   const filtered = useMemo(() => songs.filter(s => {
     const matchCategory = activeCategory === 'all' || s.category === activeCategory;
@@ -63,7 +99,10 @@ function WorshipPage() {
   const playNext = useCallback(() => {
     if (filtered.length === 0) return;
     if (playMode === 'loop-one') {
-      setIframeKey(k => k + 1);
+      // Replay current song
+      if (activeSong && playerRef.current) {
+        playerRef.current.loadVideoById(activeSong.youtubeId);
+      }
       return;
     }
     if (playMode === 'shuffle') {
@@ -79,7 +118,13 @@ function WorshipPage() {
     } else if (playMode === 'loop-all') {
       setActiveSongId(filtered[0].id);
     }
-  }, [filtered, currentIndex, playMode]);
+    // sequential mode at end: do nothing (stop)
+  }, [filtered, currentIndex, playMode, activeSong]);
+
+  // Keep playNextRef updated
+  useEffect(() => {
+    playNextRef.current = playNext;
+  }, [playNext]);
 
   const playPrev = useCallback(() => {
     if (filtered.length === 0) return;
@@ -97,21 +142,61 @@ function WorshipPage() {
     }
   }, [filtered, currentIndex, playMode]);
 
-  // Listen for YouTube iframe messages to detect video end
+  // Load YouTube IFrame API
   useEffect(() => {
-    const handler = (e: MessageEvent) => {
-      try {
-        if (typeof e.data === 'string') {
-          const data = JSON.parse(e.data);
-          if (data.event === 'onStateChange' && data.info === 0) {
-            playNext();
-          }
-        }
-      } catch {}
+    if (window.YT && window.YT.Player) {
+      setYtApiReady(true);
+      return;
+    }
+
+    const tag = document.createElement('script');
+    tag.src = 'https://www.youtube.com/iframe_api';
+    const firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode?.insertBefore(tag, firstScriptTag);
+
+    window.onYouTubeIframeAPIReady = () => {
+      setYtApiReady(true);
     };
-    window.addEventListener('message', handler);
-    return () => window.removeEventListener('message', handler);
-  }, [playNext]);
+
+    return () => {
+      window.onYouTubeIframeAPIReady = undefined;
+    };
+  }, []);
+
+  // Create/update YouTube player when song changes
+  useEffect(() => {
+    if (!ytApiReady || !activeSong) return;
+
+    // Destroy existing player
+    if (playerRef.current) {
+      playerRef.current.destroy();
+      playerRef.current = null;
+    }
+
+    // Create new player
+    playerRef.current = new window.YT.Player('yt-player', {
+      videoId: activeSong.youtubeId,
+      playerVars: {
+        autoplay: 1,
+        playsinline: 1,
+      },
+      events: {
+        onStateChange: (event) => {
+          // state 0 = ENDED
+          if (event.data === 0) {
+            playNextRef.current();
+          }
+        },
+      },
+    });
+
+    return () => {
+      if (playerRef.current) {
+        playerRef.current.destroy();
+        playerRef.current = null;
+      }
+    };
+  }, [ytApiReady, activeSong?.youtubeId]);
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-6 pb-24 lg:pb-6">
@@ -167,14 +252,10 @@ function WorshipPage() {
             {activeSong ? (
               <>
                 <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
-                  <iframe
-                    key={`${activeSong.youtubeId}-${iframeKey}`}
-                    ref={playerRef}
+                  <div
+                    id="yt-player"
+                    ref={playerContainerRef}
                     className="absolute inset-0 w-full h-full"
-                    src={`https://www.youtube.com/embed/${activeSong.youtubeId}?autoplay=1&enablejsapi=1&origin=${typeof window !== 'undefined' ? window.location.origin : ''}`}
-                    title={activeSong.title}
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
                   />
                 </div>
                 {/* Player Controls */}
