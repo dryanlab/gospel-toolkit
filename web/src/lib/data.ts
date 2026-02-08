@@ -5,6 +5,7 @@ import apologeticsData from '@/data/apologetics.json';
 import booksData from '@/data/books.json';
 import youthData from '@/data/youth.json';
 import type { QAQuestion, CatechismQuestion, ApologeticsTopic, Book, YouthItem } from './types';
+import { normalizeSearch } from './search-utils';
 
 export const qaQuestions: QAQuestion[] = qaData as QAQuestion[];
 export const catechismQuestions: CatechismQuestion[] = catechismData as CatechismQuestion[];
@@ -56,10 +57,8 @@ export function getYouthBySection(section: string): YouthItem[] {
   return youthItems.filter(item => item.section === section);
 }
 
-const t2s: Record<string,string> = {'為':'为','們':'们','這':'这','過':'过','對':'对','說':'说','後':'后','會':'会','進':'进','裡':'里','開':'开','關':'关','點':'点','樣':'样','問':'问','時':'时','間':'间','長':'长','實':'实','動':'动','應':'应','發':'发','經':'经','書':'书','學':'学','與':'与','給':'给','現':'现','將':'将','號':'号','無':'无','愛':'爱','讓':'让','請':'请','見':'见','親':'亲','輕':'轻','聽':'听','聖':'圣','寶':'宝','貴':'贵','獻':'献','歡':'欢','禱':'祷','靈':'灵','華':'华','萬':'万','國':'国','義':'义','還':'还','軟':'软','願':'愿','飛':'飞','榮':'荣','滿':'满','潔':'洁','當':'当','約':'约','純':'纯','終':'终','統':'统','記':'记','認':'认','誰':'谁','論':'论','講':'讲','識':'识','護':'护','變':'变','讚':'赞','賜':'赐','轉':'转','隨':'随','離':'离','雲':'云','領':'领','復':'复','從':'从','禰':'祢','麼':'么','傳':'传','勝':'胜','師':'师','幫':'帮','廣':'广','強':'强','價':'价','觀':'观','計':'计','設':'设','評':'评','調':'调','豐':'丰','質':'质','達':'达','運':'运','適':'适','錯':'错','順':'顺','顯':'显'};
-function normalize(str: string): string {
-  return str.toLowerCase().split('').map(c => t2s[c] || c).join('');
-}
+// 使用 OpenCC 进行完整的简繁转换，见 search-utils.ts
+const normalize = normalizeSearch;
 
 export function searchAll(query: string) {
   const q = normalize(query);

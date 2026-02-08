@@ -1,0 +1,26 @@
+{
+  "name": "真理磐石 - Rock of Truth",
+  "short_name": "真理磐石",
+  "description": "基督教信仰资源：福音问答、要理问答、护教学、书库、敬拜诗歌",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#c9a227",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "music", "books"],
+  "lang": "zh-CN"
+}
