@@ -56,10 +56,10 @@ export default function QACategoryClient({ paramsPromise }: { paramsPromise: Pro
           <Link key={q.id} href={`/qa/${q.id}`} className="block">
             <div className="rounded-xl border border-[var(--color-border)] p-4 hover:border-[var(--color-accent)] hover:shadow-md transition-all bg-[var(--color-bg)]">
               <div className="flex items-start justify-between gap-2">
-                <div className="flex-1">
-                  <h3 className="font-serif-cn font-medium text-[var(--color-text)] mb-1">{q.question_zh}</h3>
-                  <p className="text-sm text-[var(--color-text-secondary)] italic mb-2">{q.question_en}</p>
-                  <p className="text-sm text-[var(--color-text-secondary)] line-clamp-2">{q.short_answer_zh}</p>
+                <div className="flex-1 min-w-0">
+                  <h3 className="font-serif-cn font-medium text-[var(--color-text)] mb-1 break-words">{q.question_zh}</h3>
+                  <p className="text-sm text-[var(--color-text-secondary)] italic mb-2 break-words">{q.question_en}</p>
+                  <p className="text-sm text-[var(--color-text-secondary)] line-clamp-2 break-words">{q.short_answer_zh}</p>
                 </div>
                 <FavoriteButton id={q.id} />
               </div>

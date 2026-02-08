@@ -82,8 +82,8 @@ function SearchResults() {
               <div className="space-y-2">
                 {results.qa.map(q => (
                   <Link key={q.id} href={`/qa/${q.id}`} className="block rounded-xl border border-[var(--color-border)] p-3 hover:border-[var(--color-accent)] transition">
-                    <h3 className="font-serif-cn font-medium text-[var(--color-text)]">{q.question_zh}</h3>
-                    <p className="text-sm text-[var(--color-text-secondary)] italic">{q.question_en}</p>
+                    <h3 className="font-serif-cn font-medium text-[var(--color-text)] break-words">{q.question_zh}</h3>
+                    <p className="text-sm text-[var(--color-text-secondary)] italic break-words">{q.question_en}</p>
                   </Link>
                 ))}
               </div>
@@ -99,8 +99,8 @@ function SearchResults() {
               <div className="space-y-2">
                 {results.catechism.map(q => (
                   <Link key={q.id} href={`/catechism/${q.id}`} className="block rounded-xl border border-[var(--color-border)] p-3 hover:border-[var(--color-accent)] transition">
-                    <span className="text-xs font-bold px-1.5 py-0.5 rounded bg-[var(--color-primary)] text-white mr-2">Q{q.number}</span>
-                    <span className="font-serif-cn text-[var(--color-text)]">{q.question_zh}</span>
+                    <span className="text-xs font-bold px-1.5 py-0.5 rounded bg-[var(--color-primary)] text-white mr-2 shrink-0">Q{q.number}</span>
+                    <span className="font-serif-cn text-[var(--color-text)] break-words">{q.question_zh}</span>
                   </Link>
                 ))}
               </div>
@@ -116,8 +116,8 @@ function SearchResults() {
               <div className="space-y-2">
                 {results.apologetics.map(t => (
                   <Link key={t.id} href={`/apologetics/${t.id}`} className="block rounded-xl border border-[var(--color-border)] p-3 hover:border-[var(--color-accent)] transition">
-                    <h3 className="font-serif-cn font-medium text-[var(--color-text)]">{t.topic_zh}</h3>
-                    <p className="text-sm text-[var(--color-text-secondary)] italic">{t.topic_en}</p>
+                    <h3 className="font-serif-cn font-medium text-[var(--color-text)] break-words">{t.topic_zh}</h3>
+                    <p className="text-sm text-[var(--color-text-secondary)] italic break-words">{t.topic_en}</p>
                   </Link>
                 ))}
               </div>
@@ -133,8 +133,8 @@ function SearchResults() {
               <div className="space-y-2">
                 {results.books.map(b => (
                   <Link key={b.id} href={`/library/${b.id}`} className="block rounded-xl border border-[var(--color-border)] p-3 hover:border-[var(--color-accent)] transition">
-                    <h3 className="font-serif-cn font-medium text-[var(--color-text)]">{b.title_zh}</h3>
-                    <p className="text-sm text-[var(--color-text-secondary)]">{b.author_zh} — {b.title_en}</p>
+                    <h3 className="font-serif-cn font-medium text-[var(--color-text)] break-words">{b.title_zh}</h3>
+                    <p className="text-sm text-[var(--color-text-secondary)] break-words">{b.author_zh} — {b.title_en}</p>
                   </Link>
                 ))}
               </div>
@@ -150,8 +150,8 @@ function SearchResults() {
               <div className="space-y-2">
                 {results.youth.map((y: any) => (
                   <Link key={y.id} href={`/youth/article/${y.id}`} className="block rounded-xl border border-[var(--color-border)] p-3 hover:border-[var(--color-accent)] transition">
-                    <h3 className="font-serif-cn font-medium text-[var(--color-text)]">{y.title_zh}</h3>
-                    <p className="text-sm text-[var(--color-text-secondary)] italic">{y.title_en}</p>
+                    <h3 className="font-serif-cn font-medium text-[var(--color-text)] break-words">{y.title_zh}</h3>
+                    <p className="text-sm text-[var(--color-text-secondary)] italic break-words">{y.title_en}</p>
                   </Link>
                 ))}
               </div>
@@ -167,8 +167,8 @@ function SearchResults() {
               <div className="space-y-2">
                 {results.worship.map((s: any) => (
                   <Link key={s.id} href={`/worship?song=${encodeURIComponent(s.id)}`} className="block rounded-xl border border-[var(--color-border)] p-3 hover:border-[var(--color-accent)] transition">
-                    <h3 className="font-serif-cn font-medium text-[var(--color-text)]">{s.title}</h3>
-                    <p className="text-sm text-[var(--color-text-secondary)]">🎤 {s.artist}{s.subtitle ? ` — ${s.subtitle}` : ''}</p>
+                    <h3 className="font-serif-cn font-medium text-[var(--color-text)] break-words">{s.title}</h3>
+                    <p className="text-sm text-[var(--color-text-secondary)] break-words">🎤 {s.artist}{s.subtitle ? ` — ${s.subtitle}` : ''}</p>
                   </Link>
                 ))}
               </div>
