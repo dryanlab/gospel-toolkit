@@ -161,40 +161,60 @@ function WorshipPage() {
     };
   }, []);
 
-  // Create/update YouTube player when song changes
+  // Track if this is the first song (user-initiated) vs auto-advancement
+  const isFirstPlayRef = useRef(true);
+  const lastVideoIdRef = useRef<string | null>(null);
+
+  // Create YouTube player once, then reuse with loadVideoById
   useEffect(() => {
     if (!ytApiReady || !activeSong) return;
 
-    // Destroy existing player
-    if (playerRef.current) {
-      playerRef.current.destroy();
-      playerRef.current = null;
+    const videoId = activeSong.youtubeId;
+    
+    // If player exists, just load the new video (preserves autoplay capability)
+    if (playerRef.current && lastVideoIdRef.current !== videoId) {
+      lastVideoIdRef.current = videoId;
+      playerRef.current.loadVideoById(videoId);
+      return;
     }
 
-    // Create new player
-    playerRef.current = new window.YT.Player('yt-player', {
-      videoId: activeSong.youtubeId,
-      playerVars: {
-        autoplay: 1,
-        playsinline: 1,
-      },
-      events: {
-        onStateChange: (event) => {
-          // state 0 = ENDED
-          if (event.data === 0) {
-            playNextRef.current();
-          }
+    // First time: create the player
+    if (!playerRef.current) {
+      lastVideoIdRef.current = videoId;
+      playerRef.current = new window.YT.Player('yt-player', {
+        videoId: videoId,
+        playerVars: {
+          autoplay: 1,
+          playsinline: 1,
         },
-      },
-    });
+        events: {
+          onReady: () => {
+            isFirstPlayRef.current = false;
+          },
+          onStateChange: (event) => {
+            // state 0 = ENDED
+            if (event.data === 0) {
+              playNextRef.current();
+            }
+          },
+        },
+      });
+    }
 
+    return () => {
+      // Only destroy on unmount, not on song change
+    };
+  }, [ytApiReady, activeSong?.youtubeId]);
+
+  // Cleanup player on component unmount
+  useEffect(() => {
     return () => {
       if (playerRef.current) {
         playerRef.current.destroy();
         playerRef.current = null;
       }
     };
-  }, [ytApiReady, activeSong?.youtubeId]);
+  }, []);
 
   // Media Session API for lock screen / notification controls
   useEffect(() => {
