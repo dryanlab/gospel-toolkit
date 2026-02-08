@@ -181,7 +181,7 @@ function CatechismPage() {
             <div key={q.id} className="block cursor-not-allowed opacity-50">
               <div className="rounded-xl border border-[var(--color-border)] p-4 bg-[var(--color-bg)]">
                 <div className="flex items-start justify-between gap-2">
-                  <div className="flex-1">
+                  <div className="flex-1 min-w-0">
                     <div className="flex items-center gap-2 mb-1">
                       <span className={`text-xs font-bold px-2 py-0.5 rounded text-white ${
                         tab === 'wsc' ? 'bg-[var(--color-primary)]' : 'bg-purple-600'
@@ -190,8 +190,8 @@ function CatechismPage() {
                         <span className="text-[10px] px-1.5 py-0.5 rounded bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400 whitespace-nowrap">✓ 已读</span>
                       )}
                     </div>
-                    <h3 className="font-serif-cn font-medium text-[var(--color-text)]">{q.question_zh}</h3>
-                    <p className="text-sm text-[var(--color-text-secondary)] italic mt-0.5">{q.question_en}</p>
+                    <h3 className="font-serif-cn font-medium text-[var(--color-text)] break-words">{q.question_zh}</h3>
+                    <p className="text-sm text-[var(--color-text-secondary)] italic mt-0.5 break-words">{q.question_en}</p>
                   </div>
                   <FavoriteButton id={q.id} />
                 </div>
