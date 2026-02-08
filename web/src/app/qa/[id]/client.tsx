@@ -7,6 +7,7 @@ import FavoriteButton from '@/components/FavoriteButton';
 import BibleVerse from '@/components/BibleVerse';
 import { useMarkAsRead } from '@/hooks/useReadStatus';
 import type { Language } from '@/lib/types';
+import { formatWithItalics } from '@/lib/format-text';
 
 export default function QADetailClient({ paramsPromise }: { paramsPromise: Promise<{ id: string }> }) {
   const { id } = use(paramsPromise);
@@ -103,7 +104,7 @@ export default function QADetailClient({ paramsPromise }: { paramsPromise: Promi
             return (
               <li key={i} className="text-sm text-[var(--color-text-secondary)] flex items-start gap-2">
                 <span className="text-[var(--color-accent)]">•</span>
-                <span className="flex-1">{text}</span>
+                <span className="flex-1">{formatWithItalics(text)}</span>
                 {bookId && (
                   <Link href={`/library/${bookId}`} className="text-[var(--color-accent)] hover:underline shrink-0" title="查看书籍">
                     📖
