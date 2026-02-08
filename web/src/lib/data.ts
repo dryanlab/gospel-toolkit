@@ -54,7 +54,9 @@ export function getYouthById(id: string): YouthItem | undefined {
 }
 
 export function getYouthBySection(section: string): YouthItem[] {
-  return youthItems.filter(item => item.section === section);
+  return youthItems
+    .filter(item => item.section === section)
+    .sort((a, b) => a.id.localeCompare(b.id));
 }
 
 // 使用 OpenCC 进行完整的简繁转换，见 search-utils.ts
@@ -208,7 +210,9 @@ export const youthSectionLabels: Record<string, { zh: string; en: string; icon: 
 };
 
 export function getApologeticsBySection(section: string): ApologeticsTopic[] {
-  return apologeticsTopics.filter(item => item.section === section);
+  return apologeticsTopics
+    .filter(item => item.section === section)
+    .sort((a, b) => a.id.localeCompare(b.id));
 }
 
 export function getApologeticsSectionCount(section: string): number {

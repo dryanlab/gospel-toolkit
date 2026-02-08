@@ -16,9 +16,13 @@ export default function QADetailClient({ paramsPromise }: { paramsPromise: Promi
 
   if (!q) return <div className="p-8 text-center">Question not found</div>;
 
-  const idx = qaQuestions.findIndex(item => item.id === q.id);
-  const prev = idx > 0 ? qaQuestions[idx - 1] : null;
-  const next = idx < qaQuestions.length - 1 ? qaQuestions[idx + 1] : null;
+  // 筛选同一分类的问题，按id排序保证顺序一致
+  const categoryQuestions = qaQuestions
+    .filter(item => item.category === q.category)
+    .sort((a, b) => a.id.localeCompare(b.id));
+  const idx = categoryQuestions.findIndex(item => item.id === q.id);
+  const prev = idx > 0 ? categoryQuestions[idx - 1] : null;
+  const next = idx < categoryQuestions.length - 1 ? categoryQuestions[idx + 1] : null;
 
   const showZh = lang === 'zh' || lang === 'both';
   const showEn = lang === 'en' || lang === 'both';
@@ -41,7 +45,7 @@ export default function QADetailClient({ paramsPromise }: { paramsPromise: Promi
             <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{prev.question_zh}</p>
           </Link>
         ) : <div className="flex-1" />}
-        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{idx + 1} / {qaQuestions.length}</span>
+        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{idx + 1} / {categoryQuestions.length}</span>
         {next ? (
           <Link href={`/qa/${next.id}`} className="flex-1 text-right group">
             <span className="text-xs text-[var(--color-text-secondary)]">下一题 →</span>
@@ -119,7 +123,7 @@ export default function QADetailClient({ paramsPromise }: { paramsPromise: Promi
             <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{prev.question_zh}</p>
           </Link>
         ) : <div className="flex-1" />}
-        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{idx + 1} / {qaQuestions.length}</span>
+        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{idx + 1} / {categoryQuestions.length}</span>
         {next ? (
           <Link href={`/qa/${next.id}`} className="flex-1 text-right group">
             <span className="text-xs text-[var(--color-text-secondary)]">下一题 →</span>

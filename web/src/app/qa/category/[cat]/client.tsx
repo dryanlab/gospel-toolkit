@@ -13,7 +13,11 @@ export default function QACategoryClient({ paramsPromise }: { paramsPromise: Pro
   const [search, setSearch] = useState('');
   const label = categoryLabels[cat] || { zh: cat, en: cat };
 
-  const questions = useMemo(() => qaQuestions.filter(q => q.category === cat), [cat]);
+  const questions = useMemo(() => 
+    qaQuestions
+      .filter(q => q.category === cat)
+      .sort((a, b) => a.id.localeCompare(b.id)), 
+  [cat]);
 
   const filtered = useMemo(() => {
     if (!search.trim()) return questions;
