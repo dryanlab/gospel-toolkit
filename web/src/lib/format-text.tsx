@@ -1,20 +1,29 @@
 import React from 'react';
 
 /**
- * 将简单的markdown斜体格式 (*text*) 转换为 <em> 标签
- * 用于推荐阅读等包含书名的文本
+ * 将简单的markdown格式转换为HTML
+ * - **text** → <strong>
+ * - *text* → <em>
  */
-export function formatWithItalics(text: string): React.ReactNode {
+export function formatMarkdown(text: string): React.ReactNode {
   if (!text) return text;
   
-  // 匹配 *...* 模式（非贪婪）
-  const parts = text.split(/(\*[^*]+\*)/g);
+  // 先处理 **bold**，再处理 *italic*
+  // 使用正则分割，保留分隔符
+  const parts = text.split(/(\*\*[^*]+\*\*|\*[^*]+\*)/g);
   
   return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**') && part.length > 4) {
+      // 粗体
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
     if (part.startsWith('*') && part.endsWith('*') && part.length > 2) {
-      // 去掉星号，包装成斜体
+      // 斜体
       return <em key={i}>{part.slice(1, -1)}</em>;
     }
     return part;
   });
 }
+
+// 别名，保持向后兼容
+export const formatWithItalics = formatMarkdown;

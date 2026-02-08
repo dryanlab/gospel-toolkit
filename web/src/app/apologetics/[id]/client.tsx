@@ -90,8 +90,8 @@ export default function ApologeticsDetailClient({ paramsPromise }: { paramsPromi
 
       <div className="rounded-xl bg-[var(--color-accent)]/10 border border-[var(--color-accent)]/30 p-5 mb-8">
         <h3 className="font-semibold text-[var(--color-accent)] mb-2 text-sm uppercase tracking-wide">核心论证 Core Argument</h3>
-        {showZh && <p className="text-[var(--color-text)] mb-3 leading-relaxed">{t.core_argument_zh}</p>}
-        {showEn && <p className="text-[var(--color-text-secondary)] italic leading-relaxed">{t.core_argument_en}</p>}
+        {showZh && <p className="text-[var(--color-text)] mb-3 leading-relaxed">{formatWithItalics(t.core_argument_zh)}</p>}
+        {showEn && <p className="text-[var(--color-text-secondary)] italic leading-relaxed">{formatWithItalics(t.core_argument_en)}</p>}
       </div>
 
       <div className="mb-8">
@@ -114,8 +114,8 @@ export default function ApologeticsDetailClient({ paramsPromise }: { paramsPromi
               </button>
               {openObj === i && (
                 <div className="p-5 border-t border-[var(--color-border)] bg-[var(--color-bg-secondary)]">
-                  {showZh && <p className="text-[var(--color-text)] mb-2 leading-relaxed">✅ {obj.response_zh}</p>}
-                  {showEn && <p className="text-[var(--color-text-secondary)] italic leading-relaxed">{obj.response_en}</p>}
+                  {showZh && <p className="text-[var(--color-text)] mb-2 leading-relaxed">✅ {formatWithItalics(obj.response_zh)}</p>}
+                  {showEn && <p className="text-[var(--color-text-secondary)] italic leading-relaxed">{formatWithItalics(obj.response_en)}</p>}
                 </div>
               )}
             </div>

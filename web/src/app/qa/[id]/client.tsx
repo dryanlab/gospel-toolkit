@@ -75,14 +75,14 @@ export default function QADetailClient({ paramsPromise }: { paramsPromise: Promi
         {showZh && (
           <div className="mb-4">
             {q.detailed_answer_zh.split('\n\n').map((p, i) => (
-              <p key={i} className="text-[var(--color-text)] mb-3 leading-relaxed">{p}</p>
+              <p key={i} className="text-[var(--color-text)] mb-3 leading-relaxed">{formatWithItalics(p)}</p>
             ))}
           </div>
         )}
         {showEn && (
           <div>
             {q.detailed_answer_en.split('\n\n').map((p, i) => (
-              <p key={i} className="text-[var(--color-text-secondary)] italic mb-3 leading-relaxed">{p}</p>
+              <p key={i} className="text-[var(--color-text-secondary)] italic mb-3 leading-relaxed">{formatWithItalics(p)}</p>
             ))}
           </div>
         )}
