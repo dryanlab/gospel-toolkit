@@ -142,6 +142,36 @@ export const categoryLabels: Record<string, { zh: string; en: string }> = {
   '圣灵': { zh: '圣灵', en: 'Holy Spirit' },
 };
 
+// QA category order for navigation between topics
+export const qaCategoryOrder: string[] = [
+  'existence_of_god',        // 上帝存在 — 最根本的问题
+  'trinity',                 // 三位一体
+  'authority_of_scripture',  // 圣经权威
+  'bible_reliability',       // 圣经可靠
+  'uniqueness_of_jesus',     // 耶稣独特性
+  'two_natures_of_christ',   // 基督二性
+  'original_sin',            // 原罪
+  'sin_and_salvation',       // 罪与救恩
+  'predestination',          // 预定论
+  'faith_and_works',         // 信心与行为
+  'holy_spirit',             // 圣灵
+  'sacraments',              // 圣礼
+  'church',                  // 教会生活
+  'prayer',                  // 祷告
+  'problem_of_evil',         // 苦难问题
+  'moral_foundation',        // 道德基础
+  'science_and_faith',       // 科学与信仰
+  'heaven_and_hell',         // 天堂与地狱
+  'life_after_death',        // 死后生命
+  'eschatology',             // 末世与永恒
+];
+
+// Youth section order for navigation
+export const youthSections: string[] = [
+  'faith-basics', 'bible-guide', 'campus', 'growth', 
+  'faith-science', 'devotion', 'discipleship', 'heroes'
+];
+
 export const youthCategoryLabels: Record<string, { zh: string; en: string }> = {
   all: { zh: '全部', en: 'All' },
   '信仰基础': { zh: '信仰基础', en: 'Faith Basics' },

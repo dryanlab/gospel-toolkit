@@ -1,7 +1,7 @@
 'use client';
 import { useState, use } from 'react';
 import Link from 'next/link';
-import { getApologeticsById, getApologeticsBySection, apologeticsSectionLabels, worldviewLabels } from '@/lib/data';
+import { getApologeticsById, getApologeticsBySection, apologeticsSectionLabels, apologeticsSections, worldviewLabels } from '@/lib/data';
 import LanguageToggle from '@/components/LanguageToggle';
 import FavoriteButton from '@/components/FavoriteButton';
 import BibleVerse from '@/components/BibleVerse';
@@ -35,6 +35,11 @@ export default function ApologeticsDetailClient({ paramsPromise }: { paramsPromi
   const prev = idx > 0 ? sectionItems[idx - 1] : null;
   const next = idx < sectionItems.length - 1 ? sectionItems[idx + 1] : null;
 
+  // Get prev/next section for navigation between topics
+  const currentSectionIdx = apologeticsSections.indexOf(t.section);
+  const prevSection = currentSectionIdx > 0 ? apologeticsSections[currentSectionIdx - 1] : null;
+  const nextSection = currentSectionIdx < apologeticsSections.length - 1 ? apologeticsSections[currentSectionIdx + 1] : null;
+
   const showZh = lang === 'zh' || lang === 'both';
   const showEn = lang === 'en' || lang === 'both';
 
@@ -64,12 +69,22 @@ export default function ApologeticsDetailClient({ paramsPromise }: { paramsPromi
             <span className="text-xs text-[var(--color-text-secondary)]">← 上一篇</span>
             <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{prev.topic_zh}</p>
           </Link>
+        ) : prevSection ? (
+          <Link href={`/apologetics/section/${prevSection}`} className="flex-1 group">
+            <span className="text-xs text-[var(--color-text-secondary)]">← 上一主题</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{apologeticsSectionLabels[prevSection]?.zh || prevSection}</p>
+          </Link>
         ) : <div className="flex-1" />}
         <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{idx + 1} / {sectionItems.length}</span>
         {next ? (
           <Link href={`/apologetics/${next.id}`} className="flex-1 text-right group">
             <span className="text-xs text-[var(--color-text-secondary)]">下一篇 →</span>
             <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{next.topic_zh}</p>
+          </Link>
+        ) : nextSection ? (
+          <Link href={`/apologetics/section/${nextSection}`} className="flex-1 text-right group">
+            <span className="text-xs text-[var(--color-text-secondary)]">下一主题 →</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{apologeticsSectionLabels[nextSection]?.zh || nextSection}</p>
           </Link>
         ) : <div className="flex-1" />}
       </div>
@@ -158,12 +173,22 @@ export default function ApologeticsDetailClient({ paramsPromise }: { paramsPromi
             <span className="text-xs text-[var(--color-text-secondary)]">← 上一篇</span>
             <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{prev.topic_zh}</p>
           </Link>
+        ) : prevSection ? (
+          <Link href={`/apologetics/section/${prevSection}`} className="flex-1 group">
+            <span className="text-xs text-[var(--color-text-secondary)]">← 上一主题</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{apologeticsSectionLabels[prevSection]?.zh || prevSection}</p>
+          </Link>
         ) : <div className="flex-1" />}
         <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{idx + 1} / {sectionItems.length}</span>
         {next ? (
           <Link href={`/apologetics/${next.id}`} className="flex-1 text-right group">
             <span className="text-xs text-[var(--color-text-secondary)]">下一篇 →</span>
             <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{next.topic_zh}</p>
+          </Link>
+        ) : nextSection ? (
+          <Link href={`/apologetics/section/${nextSection}`} className="flex-1 text-right group">
+            <span className="text-xs text-[var(--color-text-secondary)]">下一主题 →</span>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{apologeticsSectionLabels[nextSection]?.zh || nextSection}</p>
           </Link>
         ) : <div className="flex-1" />}
       </div>
