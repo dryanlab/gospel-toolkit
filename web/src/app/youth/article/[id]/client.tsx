@@ -84,30 +84,30 @@ function YouthDetailContent({ id }: { id: string }) {
       </div>
 
       {/* Top Prev / Next */}
-      <div className="flex items-center justify-between mb-6 pb-4 border-b border-[var(--color-border)]">
+      <div className="flex items-start justify-between mb-6 pb-4 border-b border-[var(--color-border)] gap-2">
         {prevY ? (
-          <Link href={`/youth/article/${prevY.id}?from=${item.section}`} className="flex-1 group">
+          <Link href={`/youth/article/${prevY.id}?from=${item.section}`} className="flex-1 min-w-0 group">
             <span className="text-xs text-[var(--color-text-secondary)]">← 上一篇</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{prevY.title_zh}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{prevY.title_zh}</p>
           </Link>
         ) : prevSection ? (
-          <Link href={`/youth/section/${prevSection}`} className="flex-1 group">
+          <Link href={`/youth/section/${prevSection}`} className="flex-1 min-w-0 group">
             <span className="text-xs text-[var(--color-text-secondary)]">← 上一主题</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{youthSectionLabels[prevSection]?.zh || prevSection}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{youthSectionLabels[prevSection]?.zh || prevSection}</p>
           </Link>
-        ) : <div className="flex-1" />}
-        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{yIdx + 1} / {sectionItems.length}</span>
+        ) : <div className="flex-1 min-w-0" />}
+        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2 pt-4">{yIdx + 1} / {sectionItems.length}</span>
         {nextY ? (
-          <Link href={`/youth/article/${nextY.id}?from=${item.section}`} className="flex-1 text-right group">
+          <Link href={`/youth/article/${nextY.id}?from=${item.section}`} className="flex-1 min-w-0 text-right group">
             <span className="text-xs text-[var(--color-text-secondary)]">下一篇 →</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{nextY.title_zh}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{nextY.title_zh}</p>
           </Link>
         ) : nextSection ? (
-          <Link href={`/youth/section/${nextSection}`} className="flex-1 text-right group">
+          <Link href={`/youth/section/${nextSection}`} className="flex-1 min-w-0 text-right group">
             <span className="text-xs text-[var(--color-text-secondary)]">下一主题 →</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{youthSectionLabels[nextSection]?.zh || nextSection}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{youthSectionLabels[nextSection]?.zh || nextSection}</p>
           </Link>
-        ) : <div className="flex-1" />}
+        ) : <div className="flex-1 min-w-0" />}
       </div>
 
       {/* Section Badge */}
@@ -203,30 +203,30 @@ function YouthDetailContent({ id }: { id: string }) {
       </div>
 
       {/* Bottom Prev / Next */}
-      <div className="flex items-center justify-between mt-8 pt-4 border-t border-[var(--color-border)]">
+      <div className="flex items-start justify-between mt-8 pt-4 border-t border-[var(--color-border)] gap-2">
         {prevY ? (
-          <Link href={`/youth/article/${prevY.id}?from=${item.section}`} className="flex-1 group">
+          <Link href={`/youth/article/${prevY.id}?from=${item.section}`} className="flex-1 min-w-0 group">
             <span className="text-xs text-[var(--color-text-secondary)]">← 上一篇</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{prevY.title_zh}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{prevY.title_zh}</p>
           </Link>
         ) : prevSection ? (
-          <Link href={`/youth/section/${prevSection}`} className="flex-1 group">
+          <Link href={`/youth/section/${prevSection}`} className="flex-1 min-w-0 group">
             <span className="text-xs text-[var(--color-text-secondary)]">← 上一主题</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{youthSectionLabels[prevSection]?.zh || prevSection}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{youthSectionLabels[prevSection]?.zh || prevSection}</p>
           </Link>
-        ) : <div className="flex-1" />}
-        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{yIdx + 1} / {sectionItems.length}</span>
+        ) : <div className="flex-1 min-w-0" />}
+        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2 pt-4">{yIdx + 1} / {sectionItems.length}</span>
         {nextY ? (
-          <Link href={`/youth/article/${nextY.id}?from=${item.section}`} className="flex-1 text-right group">
+          <Link href={`/youth/article/${nextY.id}?from=${item.section}`} className="flex-1 min-w-0 text-right group">
             <span className="text-xs text-[var(--color-text-secondary)]">下一篇 →</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{nextY.title_zh}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{nextY.title_zh}</p>
           </Link>
         ) : nextSection ? (
-          <Link href={`/youth/section/${nextSection}`} className="flex-1 text-right group">
+          <Link href={`/youth/section/${nextSection}`} className="flex-1 min-w-0 text-right group">
             <span className="text-xs text-[var(--color-text-secondary)]">下一主题 →</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{youthSectionLabels[nextSection]?.zh || nextSection}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{youthSectionLabels[nextSection]?.zh || nextSection}</p>
           </Link>
-        ) : <div className="flex-1" />}
+        ) : <div className="flex-1 min-w-0" />}
       </div>
 
       {/* Navigation Footer */}

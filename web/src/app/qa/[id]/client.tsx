@@ -44,30 +44,30 @@ export default function QADetailClient({ paramsPromise }: { paramsPromise: Promi
       </div>
 
       {/* Top Prev / Next */}
-      <div className="flex items-center justify-between mb-6 pb-4 border-b border-[var(--color-border)]">
+      <div className="flex items-start justify-between mb-6 pb-4 border-b border-[var(--color-border)] gap-2">
         {prev ? (
-          <Link href={`/qa/${prev.id}`} className="flex-1 group">
+          <Link href={`/qa/${prev.id}`} className="flex-1 min-w-0 group">
             <span className="text-xs text-[var(--color-text-secondary)]">← 上一题</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{prev.question_zh}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{prev.question_zh}</p>
           </Link>
         ) : prevCategory ? (
-          <Link href={`/qa/category/${prevCategory}`} className="flex-1 group">
+          <Link href={`/qa/category/${prevCategory}`} className="flex-1 min-w-0 group">
             <span className="text-xs text-[var(--color-text-secondary)]">← 上一主题</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{categoryLabels[prevCategory]?.zh || prevCategory}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{categoryLabels[prevCategory]?.zh || prevCategory}</p>
           </Link>
-        ) : <div className="flex-1" />}
-        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{idx + 1} / {categoryQuestions.length}</span>
+        ) : <div className="flex-1 min-w-0" />}
+        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2 pt-4">{idx + 1} / {categoryQuestions.length}</span>
         {next ? (
-          <Link href={`/qa/${next.id}`} className="flex-1 text-right group">
+          <Link href={`/qa/${next.id}`} className="flex-1 min-w-0 text-right group">
             <span className="text-xs text-[var(--color-text-secondary)]">下一题 →</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{next.question_zh}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{next.question_zh}</p>
           </Link>
         ) : nextCategory ? (
-          <Link href={`/qa/category/${nextCategory}`} className="flex-1 text-right group">
+          <Link href={`/qa/category/${nextCategory}`} className="flex-1 min-w-0 text-right group">
             <span className="text-xs text-[var(--color-text-secondary)]">下一主题 →</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{categoryLabels[nextCategory]?.zh || nextCategory}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{categoryLabels[nextCategory]?.zh || nextCategory}</p>
           </Link>
-        ) : <div className="flex-1" />}
+        ) : <div className="flex-1 min-w-0" />}
       </div>
 
       <span className="text-xs px-2 py-0.5 rounded-full bg-[var(--color-accent)]/15 text-[var(--color-accent)] mb-3 inline-block">
@@ -132,30 +132,30 @@ export default function QADetailClient({ paramsPromise }: { paramsPromise: Promi
       </div>
 
       {/* Bottom Prev / Next */}
-      <div className="flex items-center justify-between mt-8 pt-4 border-t border-[var(--color-border)]">
+      <div className="flex items-start justify-between mt-8 pt-4 border-t border-[var(--color-border)] gap-2">
         {prev ? (
-          <Link href={`/qa/${prev.id}`} className="flex-1 group">
+          <Link href={`/qa/${prev.id}`} className="flex-1 min-w-0 group">
             <span className="text-xs text-[var(--color-text-secondary)]">← 上一题</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{prev.question_zh}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{prev.question_zh}</p>
           </Link>
         ) : prevCategory ? (
-          <Link href={`/qa/category/${prevCategory}`} className="flex-1 group">
+          <Link href={`/qa/category/${prevCategory}`} className="flex-1 min-w-0 group">
             <span className="text-xs text-[var(--color-text-secondary)]">← 上一主题</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{categoryLabels[prevCategory]?.zh || prevCategory}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{categoryLabels[prevCategory]?.zh || prevCategory}</p>
           </Link>
-        ) : <div className="flex-1" />}
-        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2">{idx + 1} / {categoryQuestions.length}</span>
+        ) : <div className="flex-1 min-w-0" />}
+        <span className="text-sm font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] shrink-0 mx-2 pt-4">{idx + 1} / {categoryQuestions.length}</span>
         {next ? (
-          <Link href={`/qa/${next.id}`} className="flex-1 text-right group">
+          <Link href={`/qa/${next.id}`} className="flex-1 min-w-0 text-right group">
             <span className="text-xs text-[var(--color-text-secondary)]">下一题 →</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{next.question_zh}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{next.question_zh}</p>
           </Link>
         ) : nextCategory ? (
-          <Link href={`/qa/category/${nextCategory}`} className="flex-1 text-right group">
+          <Link href={`/qa/category/${nextCategory}`} className="flex-1 min-w-0 text-right group">
             <span className="text-xs text-[var(--color-text-secondary)]">下一主题 →</span>
-            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors truncate">{categoryLabels[nextCategory]?.zh || nextCategory}</p>
+            <p className="text-sm font-medium text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">{categoryLabels[nextCategory]?.zh || nextCategory}</p>
           </Link>
-        ) : <div className="flex-1" />}
+        ) : <div className="flex-1 min-w-0" />}
       </div>
     </div>
   );
