@@ -77,6 +77,7 @@ export const songs: Song[] = [
   { id: 'you-ni-tong-xing', title: '有祢同行', subtitle: 'With You By My Side', artist: '基恩敬拜', youtubeId: '2KM6F_vQSD0', category: '敬拜诗歌' },
   { id: 'ai-zai-ruan-ruo-zhong', title: '愛在軟弱中盛放', artist: '基恩敬拜', youtubeId: '7zxCBrAH1bE', category: '敬拜诗歌' },
   { id: 'wo-de-ling-zan-mei-ni', title: '我的灵赞美祢', subtitle: '10000 Reasons', artist: '讚美之泉', youtubeId: 'X53Yz6nJjSk', category: '敬拜诗歌' },
+  { id: '10000-reasons-en', title: '10,000 Reasons (Bless the Lord)', subtitle: '一萬個理由', artist: 'Matt Redman', youtubeId: 'XtwIT8JjddM', category: '敬拜诗歌' },
   { id: 'pei-wo-zou-guo', title: '陪我走過春夏秋冬', artist: '小羊詩歌', youtubeId: 'WoXD_VzfKAk', category: '敬拜诗歌' },
   { id: 'yi-sheng-yi-shi', title: '一生一世', artist: '我心旋律', youtubeId: 'dJ3vwSLf940', category: '敬拜诗歌' },
   { id: 'kong-gu-de-hui-yin', title: '空谷的回音', artist: '雅歌', youtubeId: '6QkIgITa33U', category: '敬拜诗歌' },
