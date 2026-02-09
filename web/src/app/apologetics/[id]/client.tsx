@@ -44,7 +44,7 @@ export default function ApologeticsDetailClient({ paramsPromise }: { paramsPromi
   const showEn = lang === 'en' || lang === 'both';
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-6">
+    <div className="max-w-3xl mx-auto px-4 py-6 overflow-hidden">
       {/* Breadcrumb */}
       <div className="flex items-center gap-1.5 text-sm text-[var(--color-text-secondary)] mb-4 flex-wrap">
         <Link href="/apologetics" className="text-[var(--color-accent)] hover:underline">护教学</Link>

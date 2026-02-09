@@ -34,7 +34,7 @@ export default function QADetailClient({ paramsPromise }: { paramsPromise: Promi
   const showEn = lang === 'en' || lang === 'both';
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-6">
+    <div className="max-w-3xl mx-auto px-4 py-6 overflow-hidden">
       <div className="flex items-center justify-between mb-6">
         <Link href="/qa" className="text-sm text-[var(--color-accent)] hover:underline">← 返回列表</Link>
         <div className="flex items-center gap-3">

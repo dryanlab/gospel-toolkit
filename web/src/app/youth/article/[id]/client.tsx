@@ -61,7 +61,7 @@ function YouthDetailContent({ id }: { id: string }) {
   const showEn = lang === 'en' || lang === 'both';
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-6">
+    <div className="max-w-4xl mx-auto px-4 py-6 overflow-hidden">
       {/* Navigation */}
       <div className="flex items-center justify-between mb-6">
         <div className="flex items-center gap-4">
@@ -255,7 +255,7 @@ export default function YouthDetailClient({ paramsPromise }: { paramsPromise: Pr
   
   return (
     <Suspense fallback={
-      <div className="max-w-4xl mx-auto px-4 py-6">
+      <div className="max-w-4xl mx-auto px-4 py-6 overflow-hidden">
         <div className="animate-pulse">
           <div className="h-8 bg-gray-200 rounded w-1/4 mb-6"></div>
           <div className="h-12 bg-gray-200 rounded w-3/4 mb-4"></div>
