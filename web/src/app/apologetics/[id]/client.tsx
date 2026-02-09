@@ -44,7 +44,7 @@ export default function ApologeticsDetailClient({ paramsPromise }: { paramsPromi
   const showEn = lang === 'en' || lang === 'both';
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-6 overflow-hidden">
+    <div className="max-w-3xl mx-auto px-4 py-6">
       {/* Breadcrumb */}
       <div className="flex items-center gap-1.5 text-sm text-[var(--color-text-secondary)] mb-4 flex-wrap">
         <Link href="/apologetics" className="text-[var(--color-accent)] hover:underline">护教学</Link>
@@ -99,8 +99,8 @@ export default function ApologeticsDetailClient({ paramsPromise }: { paramsPromi
       </div>
 
       <div className="mb-8">
-        {showZh && <h1 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">{t.topic_zh}</h1>}
-        {showEn && <h2 className="text-xl text-[var(--color-text-secondary)] italic">{t.topic_en}</h2>}
+        {showZh && <h1 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2 break-words">{t.topic_zh}</h1>}
+        {showEn && <h2 className="text-xl text-[var(--color-text-secondary)] italic break-words">{t.topic_en}</h2>}
       </div>
 
       <div className="rounded-xl bg-[var(--color-accent)]/10 border border-[var(--color-accent)]/30 p-5 mb-8">

@@ -12,7 +12,7 @@ export default function CatechismDetailClient({ paramsPromise }: { paramsPromise
   const isWlc = q.catechism === 'westminster_larger';
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-6 overflow-hidden">
+    <div className="max-w-3xl mx-auto px-4 py-6">
       <div className="mb-6">
         <Link href={`/catechism${isWlc ? '?tab=wlc' : ''}`} className="text-sm text-[var(--color-accent)] hover:underline">← 返回{isWlc ? '大要理' : '小要理'}列表</Link>
       </div>

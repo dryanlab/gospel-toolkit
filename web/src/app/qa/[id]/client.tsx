@@ -34,7 +34,7 @@ export default function QADetailClient({ paramsPromise }: { paramsPromise: Promi
   const showEn = lang === 'en' || lang === 'both';
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-6 overflow-hidden">
+    <div className="max-w-3xl mx-auto px-4 py-6">
       <div className="flex items-center justify-between mb-6">
         <Link href="/qa" className="text-sm text-[var(--color-accent)] hover:underline">← 返回列表</Link>
         <div className="flex items-center gap-3">
@@ -75,8 +75,8 @@ export default function QADetailClient({ paramsPromise }: { paramsPromise: Promi
       </span>
 
       <div className="mb-8">
-        {showZh && <h1 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">{q.question_zh}</h1>}
-        {showEn && <h2 className="text-xl text-[var(--color-text-secondary)] italic">{q.question_en}</h2>}
+        {showZh && <h1 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2 break-words">{q.question_zh}</h1>}
+        {showEn && <h2 className="text-xl text-[var(--color-text-secondary)] italic break-words">{q.question_en}</h2>}
       </div>
 
       <div className="rounded-xl bg-[var(--color-accent)]/10 border border-[var(--color-accent)]/30 p-5 mb-6">

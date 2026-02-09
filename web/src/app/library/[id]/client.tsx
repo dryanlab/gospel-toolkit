@@ -48,7 +48,7 @@ export default function BookDetailClient({ paramsPromise }: { paramsPromise: Pro
   const showEn = lang === 'en' || lang === 'both';
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-6 overflow-hidden">
+    <div className="max-w-3xl mx-auto px-4 py-6">
       <div className="flex items-center justify-between mb-6">
         <Link href="/library" className="text-sm text-[var(--color-accent)] hover:underline">← 返回书库</Link>
         <div className="flex items-center gap-3">

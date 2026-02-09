@@ -34,21 +34,24 @@ body {
 }
 
 /* 确保所有文本内容都能正确换行 */
-h1, h2, h3, h4, h5, h6, p, span, a, li, td, th {
+h1, h2, h3, h4, h5, h6, p, span, li, td, th {
   overflow-wrap: break-word;
   word-wrap: break-word;
   word-break: break-word;
+  -webkit-hyphens: auto;
+  hyphens: auto;
 }
 
-/* 防止页面水平滚动 */
-html, body {
-  overflow-x: hidden;
-  max-width: 100vw;
-}
-
-/* 确保所有容器内容不超出 */
+/* CJK文本换行 - 确保中文正确换行 */
 .max-w-3xl, .max-w-4xl, .max-w-5xl {
-  overflow-x: hidden;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* 详情页标题确保换行 */
+.font-serif-cn {
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .font-serif-cn {
