@@ -87,3 +87,22 @@ h1, h2, h3, h4, h5, h6, p, span, li, td, th {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+
+/* 歌曲列表滚动条样式 - 确保可见 */
+.overflow-y-auto {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border) transparent;
+}
+.overflow-y-auto::-webkit-scrollbar {
+  width: 6px;
+}
+.overflow-y-auto::-webkit-scrollbar-track {
+  background: transparent;
+}
+.overflow-y-auto::-webkit-scrollbar-thumb {
+  background-color: var(--color-border);
+  border-radius: 3px;
+}
+.overflow-y-auto::-webkit-scrollbar-thumb:hover {
+  background-color: var(--color-text-secondary);
+}
