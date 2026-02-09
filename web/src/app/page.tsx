@@ -85,7 +85,7 @@ export default function HomePage() {
         </h1>
         <p className="text-lg text-[var(--color-text-secondary)]">Rock of Truth</p>
         <p className="mt-3 text-sm text-[var(--color-text-secondary)] max-w-md mx-auto">
-          你们必晓得真理，真理必叫你们得以自由。
+          你们必晓得真理，真理必叫你们得以自由。——约翰福音 8:32
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] max-w-md mx-auto italic">
           You will know the truth, and the truth will set you free. — John 8:32
