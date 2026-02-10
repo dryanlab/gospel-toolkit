@@ -142,5 +142,5 @@ export const songs: Song[] = [
   { id: 'zan-mei-zhi-quan-man-ge', title: '讚美之泉敬拜慢歌精選', subtitle: '2小時', artist: '讚美之泉', youtubeId: 'HTG59P9I14I', category: '经典圣诗' },
   { id: 'yi-qie-quan-xian-shang', title: '一切全献上', subtitle: 'I Surrender All', artist: '经典圣诗', youtubeId: 'eBU66O-NTQU', category: '经典圣诗' },
   { id: 'wo-de-xin-qie-qie-ke-mu-ni', title: '我的心切切渴慕你', artist: '敬拜诗歌', youtubeId: 'ygElrkZ0X9U', category: '敬拜诗歌' },
-  { id: 'amazing-grace-english', title: 'Amazing Grace', subtitle: '英文版', artist: 'Classic Hymn', youtubeId: 'gWz4feHp0ko', category: '经典圣诗' },
+  { id: 'amazing-grace-english', title: 'Amazing Grace', subtitle: '英文版', artist: 'Classic Hymn', youtubeId: 'CDdvReNKKuk', category: '经典圣诗' },
 ];
