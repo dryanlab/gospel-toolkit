@@ -14,7 +14,7 @@ const modules = [
     href: '/catechism',
     title: '要理问答',
     subtitle: 'Catechism',
-    desc: '威斯敏斯特小要理107题 + 大要理196题',
+    desc: '韦敏斯德小要理107题 + 大要理196题',
     color: 'from-emerald-600 to-teal-700',
     icon: '📖',
   },
