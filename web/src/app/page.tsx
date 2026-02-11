@@ -93,19 +93,6 @@ export default function HomePage() {
       </div>
 
       {/* Gospel CTA */}
-      <Link href="/qa" className="block mb-10">
-        <div className="rounded-2xl border-2 border-[var(--color-accent)] bg-[var(--color-bg-secondary)] p-6 text-center hover:shadow-lg transition-all hover:-translate-y-0.5">
-          <span className="text-4xl mb-3 block">✝️</span>
-          <h2 className="font-serif-cn text-2xl font-bold text-[var(--color-accent)] mb-2">认识福音</h2>
-          <p className="text-sm text-[var(--color-text-secondary)]">Discover the Gospel</p>
-          <p className="text-sm text-[var(--color-text)] mt-2 max-w-lg mx-auto">
-            什么是福音？为什么我需要耶稣？126个关键问题，带你认识改变生命的真理。
-          </p>
-          <span className="inline-block mt-3 text-sm text-[var(--color-accent)] font-medium">开始探索 →</span>
-        </div>
-      </Link>
-
-      {/* Gospel CTA */}
       <div className="mb-10">
         <Link href="/qa" className="block group">
           <div className="relative rounded-2xl border-2 border-[var(--color-accent)] bg-gradient-to-r from-[var(--color-accent)]/10 to-transparent p-8 text-center hover:shadow-lg transition-all">
