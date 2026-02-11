@@ -71,7 +71,7 @@ function WorshipPage() {
       setActiveSongId(songParam);
     }
   }, [songParam]);
-  const [playMode, setPlayMode] = useState<PlayMode>('sequential');
+  const [playMode, setPlayMode] = useState<PlayMode>('shuffle');
   const [searchQuery, setSearchQuery] = useState('');
   const [ytApiReady, setYtApiReady] = useState(false);
   const playerRef = useRef<YTPlayer | null>(null);
