@@ -92,6 +92,40 @@ export default function HomePage() {
         </p>
       </div>
 
+      {/* Gospel CTA */}
+      <Link href="/qa" className="block mb-10">
+        <div className="rounded-2xl border-2 border-[var(--color-accent)] bg-[var(--color-bg-secondary)] p-6 text-center hover:shadow-lg transition-all hover:-translate-y-0.5">
+          <span className="text-4xl mb-3 block">✝️</span>
+          <h2 className="font-serif-cn text-2xl font-bold text-[var(--color-accent)] mb-2">认识福音</h2>
+          <p className="text-sm text-[var(--color-text-secondary)]">Discover the Gospel</p>
+          <p className="text-sm text-[var(--color-text)] mt-2 max-w-lg mx-auto">
+            什么是福音？为什么我需要耶稣？126个关键问题，带你认识改变生命的真理。
+          </p>
+          <span className="inline-block mt-3 text-sm text-[var(--color-accent)] font-medium">开始探索 →</span>
+        </div>
+      </Link>
+
+      {/* Gospel CTA */}
+      <div className="mb-10">
+        <Link href="/qa" className="block group">
+          <div className="relative rounded-2xl border-2 border-[var(--color-accent)] bg-gradient-to-r from-[var(--color-accent)]/10 to-transparent p-8 text-center hover:shadow-lg transition-all">
+            <div className="text-4xl mb-3">✝️</div>
+            <h2 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">
+              认识福音
+            </h2>
+            <p className="text-[var(--color-text-secondary)] text-sm max-w-lg mx-auto mb-3">
+              人生最重要的问题：我从哪里来？活着有什么意义？死后会去哪里？
+            </p>
+            <p className="text-[var(--color-text-secondary)] text-xs italic max-w-lg mx-auto mb-4">
+              The most important questions: Where do I come from? What is the meaning of life? Where do I go after death?
+            </p>
+            <span className="inline-flex items-center gap-1 text-[var(--color-accent)] font-medium text-sm group-hover:underline">
+              探索答案 Explore Answers →
+            </span>
+          </div>
+        </Link>
+      </div>
+
       {/* Module Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">
         {modules.map(mod => (
@@ -108,6 +142,18 @@ export default function HomePage() {
 
       {/* Daily Catechism */}
       <DailyCatechism />
+
+      {/* About */}
+      <div className="mt-10 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6 text-center">
+        <h3 className="font-serif-cn text-lg font-semibold text-[var(--color-text)] mb-2">关于真理磐石</h3>
+        <p className="text-xs text-[var(--color-text-secondary)] mb-3">About Rock of Truth</p>
+        <p className="text-sm text-[var(--color-text)] leading-relaxed max-w-2xl mx-auto">
+          真理磐石致力于传扬纯正的改革宗福音信仰，持守唯独圣经、唯独恩典、唯独信心、唯独基督、唯独神的荣耀。我们相信韦敏斯德信条所总结的圣经教义，盼望借着这个平台，帮助更多人认识真理，扎根信仰，在恩典中成长。
+        </p>
+        <p className="text-xs text-[var(--color-text-secondary)] mt-3 italic max-w-2xl mx-auto">
+          Rock of Truth is dedicated to proclaiming the historic Reformed faith — Sola Scriptura, Sola Gratia, Sola Fide, Solus Christus, Soli Deo Gloria.
+        </p>
+      </div>
     </div>
   );
 }
