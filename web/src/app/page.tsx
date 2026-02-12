@@ -107,22 +107,39 @@ export default function HomePage() {
         </p>
       </div>
 
-      {/* Gospel CTA */}
-      <div className="mb-10">
+      {/* Featured: Gospel CTA + Family Altar */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-10">
         <Link href="/gospel" className="block group">
-          <div className="relative rounded-2xl border-2 border-[var(--color-accent)] bg-gradient-to-r from-[var(--color-accent)]/10 to-transparent p-8 text-center hover:shadow-lg transition-all">
+          <div className="relative rounded-2xl border-2 border-[var(--color-accent)] bg-gradient-to-r from-[var(--color-accent)]/10 to-transparent p-6 md:p-8 text-center hover:shadow-lg transition-all h-full flex flex-col justify-center">
             <div className="text-4xl mb-3">✝️</div>
             <h2 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">
               认识福音
             </h2>
-            <p className="text-[var(--color-text-secondary)] text-sm max-w-lg mx-auto mb-3">
-              人生最重要的问题：我从哪里来？活着有什么意义？死后会去哪里？
+            <p className="text-[var(--color-text-secondary)] text-sm mx-auto mb-3">
+              我从哪里来？活着有什么意义？死后会去哪里？
             </p>
-            <p className="text-[var(--color-text-secondary)] text-xs italic max-w-lg mx-auto mb-4">
-              The most important questions: Where do I come from? What is the meaning of life? Where do I go after death?
+            <p className="text-[var(--color-text-secondary)] text-xs italic mx-auto mb-4">
+              Where do I come from? What is the meaning of life? Where do I go after death?
             </p>
             <span className="inline-flex items-center gap-1 text-[var(--color-accent)] font-medium text-sm group-hover:underline">
               探索答案 Explore Answers →
+            </span>
+          </div>
+        </Link>
+        <Link href="/family-altar" className="block group">
+          <div className="relative rounded-2xl border-2 border-[var(--color-accent)] bg-gradient-to-r from-rose-500/10 to-amber-500/10 p-6 md:p-8 text-center hover:shadow-lg transition-all h-full flex flex-col justify-center">
+            <div className="text-4xl mb-3">🏠</div>
+            <h2 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">
+              家庭祭坛
+            </h2>
+            <p className="text-[var(--color-text-secondary)] text-sm mx-auto mb-3">
+              每日家庭敬拜指引，全家一起亲近神
+            </p>
+            <p className="text-[var(--color-text-secondary)] text-xs italic mx-auto mb-4">
+              Daily family worship guide — draw near to God together
+            </p>
+            <span className="inline-flex items-center gap-1 text-[var(--color-accent)] font-medium text-sm group-hover:underline">
+              今日内容 Today&apos;s Content →
             </span>
           </div>
         </Link>

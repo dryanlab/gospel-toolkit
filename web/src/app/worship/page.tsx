@@ -62,6 +62,7 @@ export default function WorshipPageWrapper() {
 function WorshipPage() {
   const searchParams = useSearchParams();
   const songParam = searchParams.get('song');
+  const qParam = searchParams.get('q');
   const [activeCategory, setActiveCategory] = useState<Category | 'all'>('all');
   const [activeSongId, setActiveSongId] = useState<string | null>(null);
   
@@ -72,7 +73,7 @@ function WorshipPage() {
     }
   }, [songParam]);
   const [playMode, setPlayMode] = useState<PlayMode>('shuffle');
-  const [searchQuery, setSearchQuery] = useState('');
+  const [searchQuery, setSearchQuery] = useState(qParam || '');
   const [ytApiReady, setYtApiReady] = useState(false);
   const playerRef = useRef<YTPlayer | null>(null);
   const playerContainerRef = useRef<HTMLDivElement>(null);
