@@ -7,3 +7,4 @@ out/
 DerivedData/
 .build/
 .DS_Store
+.vercel

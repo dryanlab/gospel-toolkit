@@ -75,14 +75,13 @@ function DailyCatechism() {
   return (
     <div className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6">
       <div className="flex items-center gap-2 mb-3">
-        <span className="text-sm font-medium text-[var(--color-accent)]">📅 今日要理问答</span>
-        <span className="text-xs text-[var(--color-text-secondary)]">Daily Catechism · Q{q.number}</span>
+        <span className="text-sm font-medium text-[var(--color-accent)]">📅 Daily Catechism</span>
+        <span className="text-xs text-[var(--color-text-secondary)]">今日要理问答 · Q{q.number}</span>
       </div>
-      <h3 className="font-serif-cn font-semibold text-lg mb-2 text-[var(--color-text)]">{q.question_zh}</h3>
-      <p className="text-sm text-[var(--color-text-secondary)] italic mb-3">{q.question_en}</p>
-      <p className="text-sm text-[var(--color-text)] leading-relaxed">{q.answer_zh}</p>
+      <h3 className="font-serif-cn font-semibold text-lg mb-2 text-[var(--color-text)]">{q.question_en}</h3>
+      <p className="text-sm text-[var(--color-text)] leading-relaxed">{q.answer_en}</p>
       <Link href={`/catechism/${q.id}`} className="inline-block mt-3 text-sm text-[var(--color-accent)] hover:underline font-medium">
-        查看详情 →
+        View Details →
       </Link>
     </div>
   );

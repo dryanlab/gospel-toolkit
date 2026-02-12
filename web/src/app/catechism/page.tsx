@@ -7,7 +7,7 @@ import FavoriteButton from '@/components/FavoriteButton';
 import { useReadStatus } from '@/hooks/useReadStatus';
 
 const wscRanges = [
-  { label: '全部', min: 0, max: Infinity },
+  { label: 'All', min: 0, max: Infinity },
   { label: '1-20', min: 1, max: 20 },
   { label: '21-40', min: 21, max: 40 },
   { label: '41-60', min: 41, max: 60 },
@@ -16,7 +16,7 @@ const wscRanges = [
 ];
 
 const wlcRanges = [
-  { label: '全部', min: 0, max: Infinity },
+  { label: 'All', min: 0, max: Infinity },
   { label: '1-30', min: 1, max: 30 },
   { label: '31-60', min: 31, max: 60 },
   { label: '61-90', min: 61, max: 90 },
@@ -29,7 +29,7 @@ type CatechismTab = 'wsc' | 'wlc';
 
 export default function CatechismPageWrapper() {
   return (
-    <Suspense fallback={<div className="max-w-5xl mx-auto px-4 py-6 text-center">加载中...</div>}>
+    <Suspense fallback={<div className="max-w-5xl mx-auto px-4 py-6 text-center">Loading...</div>}>
       <CatechismPage />
     </Suspense>
   );
@@ -56,9 +56,7 @@ function CatechismPage() {
     const matchRange = q.number >= r.min && q.number <= r.max;
     const s = search.toLowerCase();
     const matchSearch = !search ||
-      q.question_zh.toLowerCase().includes(s) ||
       q.question_en.toLowerCase().includes(s) ||
-      q.answer_zh.toLowerCase().includes(s) ||
       q.answer_en.toLowerCase().includes(s) ||
       String(q.number).includes(s);
     const matchRead = !showUnreadOnly || !isRead(q.id);
@@ -74,22 +72,30 @@ function CatechismPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 py-6">
       <div className="text-center mb-6">
-        <h1 className="font-serif-cn text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">📖 要理问答</h1>
-        <p className="text-[var(--color-text-secondary)]">Catechism</p>
-        <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto">
-          你要尽心、尽性、尽意爱主你的神。— 马太福音 22:37
-        </p>
-        <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-lg mx-auto italic">
+        <h1 className="font-serif-cn text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">📖 Westminster Catechism</h1>
+        <p className="text-[var(--color-text-secondary)]">韦敏斯德要理问答</p>
+        <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto italic">
           Love the Lord your God with all your heart and with all your soul and with all your mind. — Matthew 22:37
         </p>
       </div>
+
+      {/* Chinese version notice */}
+      <div className="rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 p-4 mb-6">
+        <p className="text-sm text-amber-800 dark:text-amber-200">
+          📋 中文版（林格尼尔福音事工授权译本）正在申请版权授权中，目前仅提供英文版本。感谢您的耐心等待！
+        </p>
+        <p className="text-xs text-amber-600 dark:text-amber-400 mt-1 italic">
+          The Chinese translation (licensed from Ligonier Ministries) is pending copyright authorization. Currently only the English version is available.
+        </p>
+      </div>
+
       <div className="flex items-center justify-between mb-1">
         <div></div>
         <Link
           href="/catechism/flashcards"
           className="px-4 py-2 rounded-xl bg-[var(--color-accent)] text-white text-sm font-medium hover:opacity-90 transition"
         >
-          🃏 闪卡模式
+          🃏 Flashcards
         </Link>
       </div>
 
@@ -103,8 +109,8 @@ function CatechismPage() {
               : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text)]'
           }`}
         >
-          <span className="block font-bold">小要理问答</span>
-          <span className="block text-xs opacity-80">Shorter · {catechismQuestions.length}题</span>
+          <span className="block font-bold">Shorter Catechism</span>
+          <span className="block text-xs opacity-80">{catechismQuestions.length} Questions</span>
         </button>
         <button
           onClick={() => handleTabChange('wlc')}
@@ -114,27 +120,27 @@ function CatechismPage() {
               : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text)]'
           }`}
         >
-          <span className="block font-bold">大要理问答</span>
-          <span className="block text-xs opacity-80">Larger · {catechismWlcQuestions.length}题</span>
+          <span className="block font-bold">Larger Catechism</span>
+          <span className="block text-xs opacity-80">{catechismWlcQuestions.length} Questions</span>
         </button>
       </div>
 
       <p className="text-sm text-[var(--color-text-secondary)] mb-4">
         {tab === 'wsc' 
-          ? 'Westminster Shorter Catechism — 基础信仰问答，适合初学者' 
-          : 'Westminster Larger Catechism — 深入系统神学，适合进阶学习'}
+          ? 'Westminster Shorter Catechism — Foundational Q&A for beginners' 
+          : 'Westminster Larger Catechism — In-depth systematic theology for advanced study'}
       </p>
 
       <input
         type="text"
         value={search}
         onChange={e => setSearch(e.target.value)}
-        placeholder="搜索问答 / Search catechism..."
+        placeholder="Search catechism..."
         className="w-full px-4 py-2.5 rounded-xl border border-[var(--color-border)] bg-[var(--color-bg)] mb-3 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)]"
       />
 
       <div className="flex items-center justify-between mb-3">
-        <span className="text-xs text-[var(--color-text-secondary)]">找到 {filtered.length} 条结果</span>
+        <span className="text-xs text-[var(--color-text-secondary)]">{filtered.length} results</span>
         <button
           onClick={() => setShowUnreadOnly(!showUnreadOnly)}
           className={`text-xs px-3 py-1 rounded-full transition-colors ${
@@ -143,7 +149,7 @@ function CatechismPage() {
               : 'bg-[var(--color-bg-secondary)] text-[var(--color-text-secondary)]'
           }`}
         >
-          {showUnreadOnly ? '仅未读' : '显示全部'}
+          {showUnreadOnly ? 'Unread only' : 'Show all'}
         </button>
       </div>
 
@@ -163,72 +169,45 @@ function CatechismPage() {
         ))}
       </div>
 
-      {questions.length === 0 ? (
-        <div className="text-center py-16">
-          <span className="text-4xl mb-4 block">🚧</span>
-          <h3 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-2">即将推出</h3>
-          <p className="text-sm text-[var(--color-text-secondary)]">大要理问答196题正在整理中，敬请期待！</p>
-        </div>
-      ) : (
-        <div className="space-y-2">
-          {/* 版权声明 */}
-          <div className="rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 p-4 mb-4">
-            <p className="text-sm text-amber-800 dark:text-amber-200">
-              ⚠️ 要理问答内容正在获取版权授权中，暂时无法查看详情。感谢您的理解！
-            </p>
-          </div>
-          {filtered.map(q => (
-            <div key={q.id} className="block cursor-not-allowed opacity-50">
-              <div className="rounded-xl border border-[var(--color-border)] p-4 bg-[var(--color-bg)]">
-                <div className="flex items-start justify-between gap-2">
-                  <div className="flex-1 min-w-0">
-                    <div className="flex items-center gap-2 mb-1">
-                      <span className={`text-xs font-bold px-2 py-0.5 rounded text-white ${
-                        tab === 'wsc' ? 'bg-[var(--color-primary)]' : 'bg-purple-600'
-                      }`}>Q{q.number}</span>
-                      {isRead(q.id) && (
-                        <span className="text-[10px] px-1.5 py-0.5 rounded bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400 whitespace-nowrap">✓ 已读</span>
-                      )}
-                    </div>
-                    <h3 className="font-serif-cn font-medium text-[var(--color-text)] break-words">{q.question_zh}</h3>
-                    <p className="text-sm text-[var(--color-text-secondary)] italic mt-0.5 break-words">{q.question_en}</p>
+      <div className="space-y-2">
+        {filtered.map(q => (
+          <Link key={q.id} href={`/catechism/${q.id}`} className="block group">
+            <div className="rounded-xl border border-[var(--color-border)] p-4 bg-[var(--color-bg)] hover:border-[var(--color-accent)]/40 hover:shadow-sm transition-all">
+              <div className="flex items-start justify-between gap-2">
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-center gap-2 mb-1">
+                    <span className={`text-xs font-bold px-2 py-0.5 rounded text-white ${
+                      tab === 'wsc' ? 'bg-[var(--color-primary)]' : 'bg-purple-600'
+                    }`}>Q{q.number}</span>
+                    {isRead(q.id) && (
+                      <span className="text-[10px] px-1.5 py-0.5 rounded bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400 whitespace-nowrap">✓ Read</span>
+                    )}
                   </div>
-                  <FavoriteButton id={q.id} />
+                  <h3 className="font-medium text-[var(--color-text)] break-words">{q.question_en}</h3>
                 </div>
+                <FavoriteButton id={q.id} />
               </div>
             </div>
-          ))}
-        </div>
-      )}
-      {questions.length > 0 && filtered.length === 0 && (
-        <p className="text-center text-[var(--color-text-secondary)] py-10">没有找到相关问答</p>
+          </Link>
+        ))}
+      </div>
+
+      {filtered.length === 0 && (
+        <p className="text-center text-[var(--color-text-secondary)] py-10">No matching questions found</p>
       )}
 
       {/* Attribution */}
       <div className="mt-8 pt-6 border-t border-[var(--color-border)]">
         <p className="text-xs text-[var(--color-text-secondary)] text-center leading-relaxed">
-          中文译文参考{' '}
+          English text from{' '}
           <a 
-            href="https://zh.ligonier.org" 
+            href="https://www.opc.org" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-[var(--color-accent)] hover:underline"
           >
-            林格尼尔福音事工
+            The Orthodox Presbyterian Church (OPC)
           </a>
-          {' '}及《历代教会信条精选》（改革宗出版社）
-          <br />
-          <span className="italic">
-            Chinese translation referenced from{' '}
-            <a 
-              href="https://www.ligonier.org" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-[var(--color-accent)] hover:underline"
-            >
-              Ligonier Ministries
-            </a>
-          </span>
         </p>
       </div>
     </div>
