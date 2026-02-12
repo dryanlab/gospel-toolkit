@@ -19,6 +19,22 @@ const modules = [
     icon: '📖',
   },
   {
+    href: '/old-testament',
+    title: '旧约导读',
+    subtitle: 'Old Testament Guide',
+    desc: '39卷旧约书卷的背景、主题与核心教导',
+    color: 'from-amber-600 to-yellow-700',
+    icon: '📜',
+  },
+  {
+    href: '/new-testament',
+    title: '新约导读',
+    subtitle: 'New Testament Guide',
+    desc: '27卷新约书卷的背景、主题与核心教导',
+    color: 'from-orange-600 to-red-700',
+    icon: '✉️',
+  },
+  {
     href: '/apologetics',
     title: '护教学',
     subtitle: 'Apologetics',
@@ -94,7 +110,7 @@ export default function HomePage() {
 
       {/* Gospel CTA */}
       <div className="mb-10">
-        <Link href="/qa" className="block group">
+        <Link href="/gospel" className="block group">
           <div className="relative rounded-2xl border-2 border-[var(--color-accent)] bg-gradient-to-r from-[var(--color-accent)]/10 to-transparent p-8 text-center hover:shadow-lg transition-all">
             <div className="text-4xl mb-3">✝️</div>
             <h2 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">
@@ -138,7 +154,7 @@ export default function HomePage() {
           真理磐石致力于传扬纯正的改革宗福音信仰，持守唯独圣经、唯独恩典、唯独信心、唯独基督、唯独神的荣耀。我们相信韦敏斯德信条所总结的圣经教义，盼望借着这个平台，帮助更多人认识真理，扎根信仰，在恩典中成长。
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] mt-3 italic max-w-2xl mx-auto">
-          Rock of Truth is dedicated to proclaiming the historic Reformed faith — Sola Scriptura, Sola Gratia, Sola Fide, Solus Christus, Soli Deo Gloria.
+          Rock of Truth is dedicated to proclaiming the historic Reformed faith — Sola Scriptura, Sola Gratia, Sola Fide, Solus Christus, Soli Deo Gloria. We believe in the biblical doctrine as summarized in the Westminster Standards, and hope that through this platform, more people will come to know the truth, be rooted in the faith, and grow in grace.
         </p>
       </div>
     </div>

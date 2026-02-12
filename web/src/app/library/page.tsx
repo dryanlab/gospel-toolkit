@@ -88,10 +88,16 @@ export default function LibraryPage() {
         />
       </div>
 
-      {/* Quick link to readable books */}
-      <div className="mb-6">
+      {/* Quick links */}
+      <div className="mb-6 flex flex-wrap gap-3">
         <Link href="/library/readable" className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-[var(--color-accent)]/10 text-[var(--color-accent)] hover:bg-[var(--color-accent)]/20 transition-colors text-sm font-medium">
           📖 可阅读全文的书籍（{books.filter(b => b.full_epub_filename).length}本公版经典）
+        </Link>
+        <a href="/library/author" className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-[var(--color-accent)]/10 text-[var(--color-accent)] hover:bg-[var(--color-accent)]/20 transition-colors text-sm font-medium">
+          ✍️ 按作者浏览
+        </a>
+        <Link href="/library/audience" className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-[var(--color-accent)]/10 text-[var(--color-accent)] hover:bg-[var(--color-accent)]/20 transition-colors text-sm font-medium">
+          👥 按适合人群浏览
         </Link>
       </div>
 

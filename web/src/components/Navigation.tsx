@@ -35,6 +35,28 @@ const navItems = [
     ),
   },
   {
+    href: '/old-testament',
+    label: '旧约导读',
+    labelEn: 'Old Testament',
+    icon: (
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
+        <path d="M5.625 1.5c-1.036 0-1.875.84-1.875 1.875v17.25c0 1.035.84 1.875 1.875 1.875h12.75c1.035 0 1.875-.84 1.875-1.875V12.75A3.75 3.75 0 0016.5 9h-1.875a1.875 1.875 0 01-1.875-1.875V5.25A3.75 3.75 0 009 1.5H5.625z" />
+        <path d="M12.971 1.816A5.23 5.23 0 0114.25 5.25v1.875c0 .207.168.375.375.375H16.5a5.23 5.23 0 013.434 1.279 9.768 9.768 0 00-6.963-6.963z" />
+      </svg>
+    ),
+  },
+  {
+    href: '/new-testament',
+    label: '新约导读',
+    labelEn: 'New Testament',
+    icon: (
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
+        <path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z" />
+        <path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z" />
+      </svg>
+    ),
+  },
+  {
     href: '/apologetics',
     label: '护教学',
     labelEn: 'Apologetics',
@@ -80,7 +102,7 @@ export function Sidebar() {
   const pathname = usePathname();
 
   return (
-    <aside className="hidden lg:flex flex-col w-64 h-screen sticky top-0 border-r border-[var(--color-border)] bg-[var(--color-bg)] p-4">
+    <aside className="hidden lg:flex flex-col w-64 h-screen sticky top-0 border-r border-[var(--color-border)] bg-[var(--color-bg)] p-4 overflow-y-auto">
       <Link href="/" className="flex items-center gap-3 mb-8 px-2">
         <div className="w-10 h-10 rounded-full overflow-hidden">
           <img src="/logo.png" alt="真理磐石" className="w-full h-full object-cover" />
