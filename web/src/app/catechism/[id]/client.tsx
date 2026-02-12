@@ -3,6 +3,7 @@ import { use } from 'react';
 import Link from 'next/link';
 import { getCatechismById, allCatechismQuestions } from '@/lib/data';
 import FavoriteButton from '@/components/FavoriteButton';
+import BibleVerse from '@/components/BibleVerse';
 import { useMarkAsRead } from '@/hooks/useReadStatus';
 
 export default function CatechismDetailClient({ paramsPromise }: { paramsPromise: Promise<{ id: string }> }) {
@@ -58,11 +59,10 @@ export default function CatechismDetailClient({ paramsPromise }: { paramsPromise
       {q.proof_texts && q.proof_texts.length > 0 && (
         <div className="rounded-xl border border-[var(--color-border)] bg-[var(--color-bg)] p-6 mb-6">
           <h2 className="text-sm font-bold text-[var(--color-text-secondary)] mb-3">📖 Scripture References</h2>
+          <p className="text-xs text-[var(--color-text-secondary)] mb-3">Click a verse to view the full text</p>
           <div className="flex flex-wrap gap-2">
             {q.proof_texts.map((ref: string, i: number) => (
-              <span key={i} className="text-xs px-2 py-1 rounded-full bg-[var(--color-accent)]/10 text-[var(--color-accent)]">
-                {ref}
-              </span>
+              <BibleVerse key={i} verse={ref} />
             ))}
           </div>
         </div>
