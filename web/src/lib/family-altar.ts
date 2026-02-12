@@ -43,11 +43,15 @@ export function getDailyContent(date: Date): DailyContent {
   // Pick items from pools using seeded random
   const pickIndex = (poolSize: number) => Math.floor(rand() * poolSize);
 
-  const scriptureIdx = pickIndex(theme.scriptures.length);
-  const scripture = theme.scriptures[scriptureIdx];
-  const reflection = theme.reflections[scriptureIdx % theme.reflections.length];
-  const question = theme.questions[scriptureIdx % theme.questions.length];
-  const prayer = theme.prayers[pickIndex(theme.prayers.length)];
+  // Pick one devotional unit for today — scripture, reflection, question, prayer all come from the same unit
+  const devotionalIdx = pickIndex(theme.devotionals.length);
+  const devotional = theme.devotionals[devotionalIdx];
+
+  const scripture = devotional.scripture;
+  const reflection = devotional.reflection;
+  const question = devotional.question;
+  const prayer = devotional.prayer;
+
   const mealPrayer = mealPrayers[pickIndex(mealPrayers.length)];
 
   // Catechism: cycle through all questions by day
