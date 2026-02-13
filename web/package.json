@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "epubjs": "^0.3.93",
+    "msedge-tts": "^2.0.4",
     "next": "16.1.6",
     "opencc-js": "^1.0.5",
     "react": "19.2.3",

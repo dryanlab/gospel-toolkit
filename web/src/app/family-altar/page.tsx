@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { getDailyContent, type DailyContent } from '@/lib/family-altar';
 import { themes as allThemes } from '@/data/family-altar-data';
@@ -110,42 +110,55 @@ function shiftDate(date: Date, days: number): Date {
   return d;
 }
 
-type AgeMode = 'family' | 'toddler' | 'child' | 'teen';
+type AgeMode = 'family' | 'kids' | 'teen';
 
 const ageModes: { key: AgeMode; label: string; desc: string; emoji: string }[] = [
   { key: 'family', label: '全家版', desc: 'All Ages', emoji: '👨‍👩‍👧‍👦' },
-  { key: 'toddler', label: '幼儿版', desc: '3-6 yrs', emoji: '👶' },
-  { key: 'child', label: '儿童版', desc: '7-12 yrs', emoji: '🧒' },
-  { key: 'teen', label: '青少年版', desc: '13+ yrs', emoji: '🧑' },
+  { key: 'kids', label: '少儿版', desc: '3-10 yrs', emoji: '🧒' },
+  { key: 'teen', label: '青少年版', desc: '11+', emoji: '🧑' },
 ];
 
 function SpeakButton({ text, lang }: { text: string; lang: 'zh' | 'en' }) {
-  const [speaking, setSpeaking] = useState(false);
+  const [state, setState] = useState<'idle' | 'loading' | 'playing'>('idle');
+  const audioRef = useRef<HTMLAudioElement | null>(null);
 
-  const handleSpeak = () => {
-    if (typeof window === 'undefined' || !window.speechSynthesis) return;
-    if (speaking) {
-      window.speechSynthesis.cancel();
-      setSpeaking(false);
+  const handleSpeak = async () => {
+    if (state === 'playing') {
+      audioRef.current?.pause();
+      setState('idle');
       return;
     }
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = lang === 'zh' ? 'zh-CN' : 'en-US';
-    utterance.rate = lang === 'zh' ? 0.9 : 0.85;
-    utterance.onend = () => setSpeaking(false);
-    utterance.onerror = () => setSpeaking(false);
-    window.speechSynthesis.cancel();
-    window.speechSynthesis.speak(utterance);
-    setSpeaking(true);
+    if (state === 'loading') return;
+
+    setState('loading');
+    try {
+      const res = await fetch('/api/tts', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text, lang }),
+      });
+      if (!res.ok) throw new Error('TTS failed');
+      const blob = await res.blob();
+      const url = URL.createObjectURL(blob);
+      const audio = new Audio(url);
+      audioRef.current = audio;
+      audio.onended = () => { setState('idle'); URL.revokeObjectURL(url); };
+      audio.onerror = () => { setState('idle'); URL.revokeObjectURL(url); };
+      audio.play();
+      setState('playing');
+    } catch {
+      setState('idle');
+    }
   };
 
   return (
     <button
       onClick={handleSpeak}
-      className="inline-flex items-center gap-1 text-xs text-[var(--color-accent)] hover:text-[var(--color-accent)]/80 transition-colors"
-      title={speaking ? '停止朗读 Stop' : '朗读 Read aloud'}
+      disabled={state === 'loading'}
+      className="inline-flex items-center gap-1 text-xs text-[var(--color-accent)] hover:text-[var(--color-accent)]/80 transition-colors disabled:opacity-50"
+      title={state === 'playing' ? '停止 Stop' : '朗读 Read aloud'}
     >
-      {speaking ? '⏹️ 停止' : '🔊 朗读'}
+      {state === 'loading' ? '⏳ 生成中...' : state === 'playing' ? '⏹️ 停止' : '🔊 朗读'}
     </button>
   );
 }
@@ -162,9 +175,9 @@ export default function FamilyAltarPage() {
   const isToday = formatDate(selectedDate) === formatDate(new Date());
 
   // Show/hide sections based on age mode
-  const showReflection = ageMode !== 'toddler';
-  const showCatechism = ageMode !== 'toddler';
-  const showEnglish = ageMode !== 'toddler';
+  const showReflection = ageMode !== 'kids';
+  const showCatechism = ageMode !== 'kids';
+  const showEnglish = ageMode !== 'kids';
 
   if (!content) {
     return (
@@ -248,19 +261,14 @@ export default function FamilyAltarPage() {
             </button>
           ))}
         </div>
-        {ageMode === 'toddler' && (
+        {ageMode === 'kids' && (
           <p className="text-[10px] text-[var(--color-text-secondary)] mt-1">
-            🍼 幼儿版：精简内容，只保留经文、讨论和祷告
-          </p>
-        )}
-        {ageMode === 'child' && (
-          <p className="text-[10px] text-[var(--color-text-secondary)] mt-1">
-            📚 儿童版：完整内容，适合亲子共读
+            🧒 少儿版：精简内容，只保留经文、讨论和祷告，字体加大
           </p>
         )}
         {ageMode === 'teen' && (
           <p className="text-[10px] text-[var(--color-text-secondary)] mt-1">
-            💡 青少年版：完整内容，鼓励独立思考
+            🧑 青少年版：完整内容，适合独立阅读和思考
           </p>
         )}
       </div>
@@ -283,7 +291,7 @@ export default function FamilyAltarPage() {
             </div>
           </div>
           <div className="rounded-lg bg-[var(--color-bg)] border border-[var(--color-border)] p-4">
-            <p className={`text-[var(--color-text)] leading-relaxed mb-2 ${ageMode === 'toddler' ? 'text-lg' : ''}`}>
+            <p className={`text-[var(--color-text)] leading-relaxed mb-2 ${ageMode === 'kids' ? 'text-lg' : ''}`}>
               &ldquo;{scripture.text_zh}&rdquo;
             </p>
             {showEnglish && (
@@ -318,12 +326,12 @@ export default function FamilyAltarPage() {
           <div className="flex items-center gap-2 mb-4">
             <span className="text-2xl">💬</span>
             <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">
-              {ageMode === 'toddler' ? '想一想' : '家庭讨论'}
+              {ageMode === 'kids' ? '想一想' : '家庭讨论'}
             </h2>
             <span className="text-xs text-[var(--color-text-secondary)]">Discussion</span>
           </div>
           <div className="rounded-lg bg-[var(--color-bg)] border border-[var(--color-border)] p-4">
-            <p className={`text-[var(--color-text)] leading-relaxed mb-1 ${ageMode === 'toddler' ? 'text-lg' : ''}`}>{question.zh}</p>
+            <p className={`text-[var(--color-text)] leading-relaxed mb-1 ${ageMode === 'kids' ? 'text-lg' : ''}`}>{question.zh}</p>
             {showEnglish && <p className="text-sm text-[var(--color-text-secondary)] italic">{question.en}</p>}
           </div>
         </section>
@@ -334,13 +342,13 @@ export default function FamilyAltarPage() {
             <div className="flex items-center gap-2">
               <span className="text-2xl">🙏</span>
               <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">
-                {ageMode === 'toddler' ? '一起祷告' : '祷告引导'}
+                {ageMode === 'kids' ? '一起祷告' : '祷告引导'}
               </h2>
               <span className="text-xs text-[var(--color-text-secondary)]">Prayer Guide</span>
             </div>
             <SpeakButton text={prayer.zh} lang="zh" />
           </div>
-          <p className={`text-[var(--color-text)] leading-relaxed mb-2 ${ageMode === 'toddler' ? 'text-lg' : ''}`}>{prayer.zh}</p>
+          <p className={`text-[var(--color-text)] leading-relaxed mb-2 ${ageMode === 'kids' ? 'text-lg' : ''}`}>{prayer.zh}</p>
           {showEnglish && <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed italic">{prayer.en}</p>}
         </section>
 
