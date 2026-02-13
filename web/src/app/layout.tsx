@@ -56,12 +56,12 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className="antialiased min-h-screen">
+      <body className="antialiased min-h-screen overflow-x-hidden">
         <div className="flex">
           <Sidebar />
           <div className="flex-1 min-h-screen flex flex-col">
             <Header />
-            <main className="flex-1 pb-20 lg:pb-0">
+            <main className="flex-1 pb-20 lg:pb-0 overflow-x-hidden">
               {children}
             </main>
           </div>

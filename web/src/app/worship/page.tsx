@@ -253,23 +253,23 @@ function WorshipPage() {
   }, [activeSong, playPrev]);
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-6 pb-24 lg:pb-6">
+    <div className="max-w-5xl mx-auto px-4 py-6 pb-24 lg:pb-6 overflow-x-hidden">
       {/* Header */}
-      <div className="text-center mb-6">
+      <div className="text-center mb-6 px-2">
         <h1 className="font-serif-cn text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">
           🎵 敬拜诗歌
         </h1>
         <p className="text-[var(--color-text-secondary)]">Worship Songs</p>
-        <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto">
+        <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-sm mx-auto break-words">
           当用诗章、颂词、灵歌，彼此对说，口唱心和地赞美主。— 以弗所书 5:19
         </p>
-        <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-lg mx-auto italic">
+        <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-sm mx-auto italic break-words">
           Speaking to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord. — Ephesians 5:19
         </p>
       </div>
 
       {/* Category Filter */}
-      <div className="flex flex-wrap justify-center gap-2 mb-4">
+      <div className="flex flex-wrap justify-center gap-2 mb-4 px-2">
         <button
           onClick={() => setActiveCategory('all')}
           className={`px-3 py-1.5 rounded-full text-sm font-medium transition-all ${
@@ -299,9 +299,9 @@ function WorshipPage() {
       </div>
 
       {/* Main: Player (2/3) + List (1/3) */}
-      <div className="flex flex-col lg:flex-row gap-4">
+      <div className="flex flex-col lg:flex-row gap-4 w-full min-w-0">
         {/* Player - left 2/3 */}
-        <div className="lg:w-2/3">
+        <div className="lg:w-2/3 min-w-0 w-full">
           <div className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden sticky top-4">
             {activeSong ? (
               <>
@@ -368,7 +368,7 @@ function WorshipPage() {
         </div>
 
         {/* Song List - right 1/3 */}
-        <div className="lg:w-1/3">
+        <div className="lg:w-1/3 min-w-0 w-full">
           <div className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden">
             {/* Search */}
             <div className="p-2 border-b border-[var(--color-border)]">
