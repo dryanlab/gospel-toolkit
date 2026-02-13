@@ -110,15 +110,61 @@ function shiftDate(date: Date, days: number): Date {
   return d;
 }
 
+type AgeMode = 'family' | 'toddler' | 'child' | 'teen';
+
+const ageModes: { key: AgeMode; label: string; desc: string; emoji: string }[] = [
+  { key: 'family', label: '全家版', desc: 'All Ages', emoji: '👨‍👩‍👧‍👦' },
+  { key: 'toddler', label: '幼儿版', desc: '3-6 yrs', emoji: '👶' },
+  { key: 'child', label: '儿童版', desc: '7-12 yrs', emoji: '🧒' },
+  { key: 'teen', label: '青少年版', desc: '13+ yrs', emoji: '🧑' },
+];
+
+function SpeakButton({ text, lang }: { text: string; lang: 'zh' | 'en' }) {
+  const [speaking, setSpeaking] = useState(false);
+
+  const handleSpeak = () => {
+    if (typeof window === 'undefined' || !window.speechSynthesis) return;
+    if (speaking) {
+      window.speechSynthesis.cancel();
+      setSpeaking(false);
+      return;
+    }
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = lang === 'zh' ? 'zh-CN' : 'en-US';
+    utterance.rate = lang === 'zh' ? 0.9 : 0.85;
+    utterance.onend = () => setSpeaking(false);
+    utterance.onerror = () => setSpeaking(false);
+    window.speechSynthesis.cancel();
+    window.speechSynthesis.speak(utterance);
+    setSpeaking(true);
+  };
+
+  return (
+    <button
+      onClick={handleSpeak}
+      className="inline-flex items-center gap-1 text-xs text-[var(--color-accent)] hover:text-[var(--color-accent)]/80 transition-colors"
+      title={speaking ? '停止朗读 Stop' : '朗读 Read aloud'}
+    >
+      {speaking ? '⏹️ 停止' : '🔊 朗读'}
+    </button>
+  );
+}
+
 export default function FamilyAltarPage() {
   const [selectedDate, setSelectedDate] = useState<Date>(new Date());
   const [content, setContent] = useState<DailyContent | null>(null);
+  const [ageMode, setAgeMode] = useState<AgeMode>('family');
 
   useEffect(() => {
     setContent(getDailyContent(selectedDate));
   }, [selectedDate]);
 
   const isToday = formatDate(selectedDate) === formatDate(new Date());
+
+  // Show/hide sections based on age mode
+  const showReflection = ageMode !== 'toddler';
+  const showCatechism = ageMode !== 'toddler';
+  const showEnglish = ageMode !== 'toddler';
 
   if (!content) {
     return (
@@ -184,6 +230,39 @@ export default function FamilyAltarPage() {
         <p className="text-xs text-[var(--color-text-secondary)] mt-1">
           第 {content.dayInTheme} / 15 天 · Day {content.dayInTheme} of 15
         </p>
+
+        {/* Age Mode Selector */}
+        <div className="flex items-center justify-center gap-2 mt-4">
+          {ageModes.map((mode) => (
+            <button
+              key={mode.key}
+              onClick={() => setAgeMode(mode.key)}
+              className={`rounded-lg px-3 py-1.5 text-xs font-medium transition-colors ${
+                ageMode === mode.key
+                  ? 'bg-[var(--color-accent)] text-white'
+                  : 'border border-[var(--color-border)] bg-[var(--color-bg-secondary)] text-[var(--color-text-secondary)] hover:bg-[var(--color-accent)]/10'
+              }`}
+            >
+              {mode.emoji} {mode.label}
+              <span className="hidden sm:inline text-[10px] opacity-70 ml-1">({mode.desc})</span>
+            </button>
+          ))}
+        </div>
+        {ageMode === 'toddler' && (
+          <p className="text-[10px] text-[var(--color-text-secondary)] mt-1">
+            🍼 幼儿版：精简内容，只保留经文、讨论和祷告
+          </p>
+        )}
+        {ageMode === 'child' && (
+          <p className="text-[10px] text-[var(--color-text-secondary)] mt-1">
+            📚 儿童版：完整内容，适合亲子共读
+          </p>
+        )}
+        {ageMode === 'teen' && (
+          <p className="text-[10px] text-[var(--color-text-secondary)] mt-1">
+            💡 青少年版：完整内容，鼓励独立思考
+          </p>
+        )}
       </div>
 
       {/* Guide */}
@@ -192,57 +271,77 @@ export default function FamilyAltarPage() {
       <div className="space-y-6">
         {/* 1. 今日经文 */}
         <section className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6">
-          <div className="flex items-center gap-2 mb-4">
-            <span className="text-2xl">📖</span>
-            <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">今日经文</h2>
-            <span className="text-xs text-[var(--color-text-secondary)]">Daily Scripture</span>
+          <div className="flex items-center justify-between mb-4">
+            <div className="flex items-center gap-2">
+              <span className="text-2xl">📖</span>
+              <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">今日经文</h2>
+              <span className="text-xs text-[var(--color-text-secondary)]">Daily Scripture</span>
+            </div>
+            <div className="flex gap-2">
+              <SpeakButton text={scripture.text_zh} lang="zh" />
+              {showEnglish && <SpeakButton text={scripture.text_en} lang="en" />}
+            </div>
           </div>
           <div className="rounded-lg bg-[var(--color-bg)] border border-[var(--color-border)] p-4">
-            <p className="text-[var(--color-text)] leading-relaxed mb-2">
+            <p className={`text-[var(--color-text)] leading-relaxed mb-2 ${ageMode === 'toddler' ? 'text-lg' : ''}`}>
               &ldquo;{scripture.text_zh}&rdquo;
             </p>
-            <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed italic mb-3">
-              &ldquo;{scripture.text_en}&rdquo;
-            </p>
+            {showEnglish && (
+              <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed italic mb-3">
+                &ldquo;{scripture.text_en}&rdquo;
+              </p>
+            )}
             <p className="text-xs text-[var(--color-accent)] font-medium">
-              — {scripture.ref_zh} / {scripture.ref_en}
+              — {scripture.ref_zh}{showEnglish ? ` / ${scripture.ref_en}` : ''}
             </p>
           </div>
         </section>
 
         {/* 2. 默想 */}
+        {showReflection && (
         <section className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6">
-          <div className="flex items-center gap-2 mb-4">
-            <span className="text-2xl">💭</span>
-            <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">默想</h2>
-            <span className="text-xs text-[var(--color-text-secondary)]">Reflection</span>
+          <div className="flex items-center justify-between mb-4">
+            <div className="flex items-center gap-2">
+              <span className="text-2xl">💭</span>
+              <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">默想</h2>
+              <span className="text-xs text-[var(--color-text-secondary)]">Reflection</span>
+            </div>
+            <SpeakButton text={reflection.zh} lang="zh" />
           </div>
           <p className="text-[var(--color-text)] leading-relaxed mb-2">{reflection.zh}</p>
-          <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed italic">{reflection.en}</p>
+          {showEnglish && <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed italic">{reflection.en}</p>}
         </section>
+        )}
 
         {/* 3. 讨论 */}
         <section className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6">
           <div className="flex items-center gap-2 mb-4">
             <span className="text-2xl">💬</span>
-            <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">家庭讨论</h2>
+            <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">
+              {ageMode === 'toddler' ? '想一想' : '家庭讨论'}
+            </h2>
             <span className="text-xs text-[var(--color-text-secondary)]">Discussion</span>
           </div>
           <div className="rounded-lg bg-[var(--color-bg)] border border-[var(--color-border)] p-4">
-            <p className="text-[var(--color-text)] leading-relaxed mb-1">{question.zh}</p>
-            <p className="text-sm text-[var(--color-text-secondary)] italic">{question.en}</p>
+            <p className={`text-[var(--color-text)] leading-relaxed mb-1 ${ageMode === 'toddler' ? 'text-lg' : ''}`}>{question.zh}</p>
+            {showEnglish && <p className="text-sm text-[var(--color-text-secondary)] italic">{question.en}</p>}
           </div>
         </section>
 
         {/* 4. 祷告 */}
         <section className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6">
-          <div className="flex items-center gap-2 mb-4">
-            <span className="text-2xl">🙏</span>
-            <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">祷告引导</h2>
-            <span className="text-xs text-[var(--color-text-secondary)]">Prayer Guide</span>
+          <div className="flex items-center justify-between mb-4">
+            <div className="flex items-center gap-2">
+              <span className="text-2xl">🙏</span>
+              <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">
+                {ageMode === 'toddler' ? '一起祷告' : '祷告引导'}
+              </h2>
+              <span className="text-xs text-[var(--color-text-secondary)]">Prayer Guide</span>
+            </div>
+            <SpeakButton text={prayer.zh} lang="zh" />
           </div>
-          <p className="text-[var(--color-text)] leading-relaxed mb-2">{prayer.zh}</p>
-          <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed italic">{prayer.en}</p>
+          <p className={`text-[var(--color-text)] leading-relaxed mb-2 ${ageMode === 'toddler' ? 'text-lg' : ''}`}>{prayer.zh}</p>
+          {showEnglish && <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed italic">{prayer.en}</p>}
         </section>
 
         {/* 5. 诗歌推荐 */}
@@ -264,6 +363,7 @@ export default function FamilyAltarPage() {
         </section>
 
         {/* 6. 今日要理 */}
+        {showCatechism && (
         <section className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6">
           <div className="flex items-center gap-2 mb-4">
             <span className="text-2xl">📚</span>
@@ -279,6 +379,7 @@ export default function FamilyAltarPage() {
             查看答案 View Answer →
           </Link>
         </section>
+        )}
 
         {/* 7. 谢饭祷告 */}
         <section className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6">
