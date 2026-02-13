@@ -35,6 +35,8 @@ import { themesA1 } from './family-altar-themes-a1';    // A1 Faith, A2 Prayer
 import { themesA3 } from './family-altar-themes-a3';    // A3 Gratitude, A4 God's Love
 import { themesA5 } from './family-altar-themes-a5';    // A5 Holiness, A6 Hope, A7 Family, A8 Service
 import { themesA9 } from './family-altar-themes-a9';    // A9 Repentance, A10 Faithfulness, A11 Obedience, A12 Evangelism
+import { themesB1 } from './family-altar-themes-b1';    // B1 Creation
+import { themesB2 } from './family-altar-themes-b2';    // B2 Parables
 import { themesB3 } from './family-altar-themes-b3';    // B3 Acts, B4 Wisdom
 import { themesB5 } from './family-altar-themes-b5';    // B5 OT Heroes, B6 Cross
 import { themesB7 } from './family-altar-themes-b7';    // B7 Spirit, B8 Psalms
@@ -56,7 +58,8 @@ const A10 = themesA9[1]; // Faithfulness
 const A11 = themesA9[2]; // Obedience
 const A12 = themesA9[3]; // Evangelism
 
-// B1 and B2 will be added when ready — use placeholders from existing B themes for now
+const B1 = themesB1[0];  // Creation
+const B2 = themesB2[0];  // Parables
 const B3 = themesB3[0];  // Acts
 const B4 = themesB3[1];  // Wisdom
 const B5 = themesB5[0];  // OT Heroes
@@ -69,32 +72,33 @@ const B11 = themesB11[0]; // Exodus
 const B12 = themesB11[1]; // Ephesians
 const B13 = themesB13[0]; // Advent
 
-// A-B alternating order: 25 themes × 15 days = 375 days (full year)
-// B1 (Creation) and B2 (Parables) will be inserted when file arrives
+// A-B alternating order: 25 themes × 15 days = 375 days (full year+)
 export const themes: AltarTheme[] = [
   A1,   // Faith
-  B3,   // Acts (temp: B1 Creation not ready yet)
+  B1,   // Creation
   A2,   // Prayer
-  B4,   // Wisdom (temp: B2 Parables not ready yet)
+  B2,   // Parables
   A3,   // Gratitude
-  B5,   // OT Heroes (was B3 slot)
+  B3,   // Acts
   A4,   // God's Love
-  B6,   // Cross (was B4 slot)
+  B4,   // Wisdom
   A5,   // Holiness
-  B7,   // Spirit (was B5 slot)
+  B5,   // OT Heroes
   A6,   // Hope
-  B8,   // Psalms (was B6 slot)
+  B6,   // Cross
   A7,   // Family
-  B9,   // Sermon on Mount (was B7 slot)
+  B7,   // Spirit
   A8,   // Service
-  B10,  // I Am (was B8 slot)
+  B8,   // Psalms
   A9,   // Repentance
-  B11,  // Exodus (was B9 slot)
+  B9,   // Sermon on Mount
   A10,  // Faithfulness
-  B12,  // Ephesians (was B10 slot)
+  B10,  // I Am
   A11,  // Obedience
-  B13,  // Advent (was B11 slot)
+  B11,  // Exodus
   A12,  // Evangelism
+  B12,  // Ephesians
+  B13,  // Advent
 ];
 
 // 30 meal prayers
