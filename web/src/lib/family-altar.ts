@@ -33,28 +33,41 @@ export function getDailyContent(date: Date): DailyContent {
   const doy = dayOfYear(date);
   const absoluteDay = year * 365 + doy;
 
-  // Theme changes every 2-3 weeks (17 days cycle for variety)
-  const themeIndex = Math.floor(absoluteDay / 17) % themes.length;
+  // Theme changes every 15 days, cycling through all themes
+  const themeIndex = Math.floor(absoluteDay / 15) % themes.length;
   const theme = themes[themeIndex];
 
-  // Seeded random for this specific day
   const rand = seededRandom(absoluteDay);
-
-  // Pick items from pools using seeded random
   const pickIndex = (poolSize: number) => Math.floor(rand() * poolSize);
 
-  // Pick one devotional unit for today — scripture, reflection, question, prayer all come from the same unit
-  const devotionalIdx = pickIndex(theme.devotionals.length);
-  const devotional = theme.devotionals[devotionalIdx];
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const t = theme as any;
 
-  const scripture = devotional.scripture;
-  const reflection = devotional.reflection;
-  const question = devotional.question;
-  const prayer = devotional.prayer;
+  let scripture: Scripture;
+  let reflection: BilingualText;
+  let question: BilingualText;
+  let prayer: BilingualText;
+
+  // Support both new DevotionalUnit structure and old separate arrays
+  if (t.devotionals && Array.isArray(t.devotionals)) {
+    const dayInTheme = absoluteDay % 15;
+    const devotional = t.devotionals[dayInTheme % t.devotionals.length];
+    scripture = devotional.scripture;
+    reflection = devotional.reflection;
+    question = devotional.question;
+    prayer = devotional.prayer;
+  } else {
+    // Old structure: separate arrays, use same scripture index for coherence
+    const scriptureIdx = pickIndex(t.scriptures.length);
+    scripture = t.scriptures[scriptureIdx];
+    reflection = t.reflections[scriptureIdx % t.reflections.length];
+    question = t.questions[scriptureIdx % t.questions.length];
+    prayer = t.prayers[pickIndex(t.prayers.length)];
+  }
 
   const mealPrayer = mealPrayers[pickIndex(mealPrayers.length)];
 
-  // Catechism: cycle through all questions by day
+  // Catechism: cycle through all questions by day of year
   const catQ = allCatechismQuestions[doy % allCatechismQuestions.length];
 
   const dateStr = `${year}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
