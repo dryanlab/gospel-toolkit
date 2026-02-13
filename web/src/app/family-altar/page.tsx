@@ -40,7 +40,7 @@ function GuideSection() {
               <div className="flex items-start gap-2"><span>💬</span><span><strong>家庭讨论</strong> — 讨论问题<br/><span className="italic text-xs">Discussion — Questions for the family</span></span></div>
               <div className="flex items-start gap-2"><span>🙏</span><span><strong>祷告引导</strong> — 祷告方向<br/><span className="italic text-xs">Prayer Guide — Prayer direction</span></span></div>
               <div className="flex items-start gap-2"><span>🎵</span><span><strong>诗歌推荐</strong> — 相关赞美诗<br/><span className="italic text-xs">Hymn Suggestion — Related hymn</span></span></div>
-              <div className="flex items-start gap-2"><span>📚</span><span><strong>今日要理</strong> — 韦敏斯德小要理问答<br/><span className="italic text-xs">Daily Catechism — WSC Q&amp;A</span></span></div>
+              <div className="flex items-start gap-2"><span>📚</span><span><strong>今日要理</strong> — 韦敏斯德小要理问答（107题）＋大要理问答（196题），303天一轮<br/><span className="italic text-xs">Daily Catechism — WSC (107 Qs) + WLC (196 Qs), 303-day cycle</span></span></div>
               <div className="flex items-start gap-2"><span>🍞</span><span><strong>谢饭祷告</strong> — 饭前祷词<br/><span className="italic text-xs">Meal Prayer — Grace before meals</span></span></div>
             </div>
           </div>
@@ -404,14 +404,18 @@ export default function FamilyAltarPage() {
             <div className="flex items-center gap-2">
               <span className="text-2xl">📚</span>
               <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">今日要理</h2>
-              <span className="text-xs text-[var(--color-text-secondary)]">Daily Catechism</span>
+              <span className="text-xs text-[var(--color-text-secondary)]">
+                {catechism.type === 'wsc' ? '韦敏斯德小要理问答 WSC' : '韦敏斯德大要理问答 WLC'}
+              </span>
             </div>
             <div className="flex gap-2">
               <SpeakButton text={`第${catechism.number}问：${catechism.question_zh}`} lang="zh" />
               <SpeakButton text={`Question ${catechism.number}: ${catechism.question_en}`} lang="en" />
             </div>
           </div>
-          <p className="text-[var(--color-text)] mb-1 font-medium">Q{catechism.number}: {catechism.question_zh}</p>
+          <p className="text-[var(--color-text)] mb-1 font-medium">
+            {catechism.type === 'wsc' ? '小要理' : '大要理'} Q{catechism.number}: {catechism.question_zh}
+          </p>
           <p className="text-sm text-[var(--color-text-secondary)] italic mb-3">{catechism.question_en}</p>
           <Link
             href={`/catechism/${catechism.id}`}

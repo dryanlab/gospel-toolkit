@@ -12,7 +12,7 @@ export interface DailyContent {
   question: BilingualText;
   prayer: BilingualText;
   hymnKeywords: string[];
-  catechism: { number: number; id: string; question_zh: string; question_en: string };
+  catechism: { number: number; id: string; question_zh: string; question_en: string; type: 'wsc' | 'wlc' };
   mealPrayer: BilingualText;
 }
 
@@ -160,7 +160,12 @@ export function getDailyContent(date: Date): DailyContent {
   }
 
   const mealPrayer = mealPrayers[pickIndex(mealPrayers.length)];
-  const catQ = allCatechismQuestions[doy % allCatechismQuestions.length];
+  // 要理问答使用从固定起点开始的连续天数，避免跨年归零
+  const CATECHISM_EPOCH = new Date(2025, 0, 1, 0, 0, 0); // 2025-01-01 本地时间起算
+  const catDay = Math.floor((date.getTime() - CATECHISM_EPOCH.getTime()) / 86400000);
+  const catIndex = ((catDay % allCatechismQuestions.length) + allCatechismQuestions.length) % allCatechismQuestions.length;
+  const catQ = allCatechismQuestions[catIndex];
+  const catType = catIndex < 107 ? 'wsc' as const : 'wlc' as const;
   const dateStr = `${year}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
 
   return {
@@ -179,6 +184,7 @@ export function getDailyContent(date: Date): DailyContent {
       id: catQ.id,
       question_zh: catQ.question_zh || catQ.question_en,
       question_en: catQ.question_en,
+      type: catType,
     },
     mealPrayer,
   };

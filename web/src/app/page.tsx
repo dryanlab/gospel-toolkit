@@ -69,14 +69,19 @@ const modules = [
 ];
 
 function DailyCatechism() {
-  const dayOfYear = Math.floor((Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) / 86400000);
-  const q = allCatechismQuestions[dayOfYear % allCatechismQuestions.length];
+  // 从固定起点开始的连续天数，避免跨年归零
+  const CATECHISM_EPOCH = new Date(2025, 0, 1).getTime(); // 2025-01-01
+  const catDay = Math.floor((Date.now() - CATECHISM_EPOCH) / 86400000);
+  const catIndex = ((catDay % allCatechismQuestions.length) + allCatechismQuestions.length) % allCatechismQuestions.length;
+  const q = allCatechismQuestions[catIndex];
+  const isWsc = catIndex < 107;
+  const label = isWsc ? '小要理 WSC' : '大要理 WLC';
 
   return (
     <div className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6">
       <div className="flex items-center gap-2 mb-3">
         <span className="text-sm font-medium text-[var(--color-accent)]">📅 Daily Catechism</span>
-        <span className="text-xs text-[var(--color-text-secondary)]">今日要理问答 · Q{q.number}</span>
+        <span className="text-xs text-[var(--color-text-secondary)]">今日要理 · {label} Q{q.number}</span>
       </div>
       <h3 className="font-serif-cn font-semibold text-lg mb-2 text-[var(--color-text)]">{q.question_en}</h3>
       <p className="text-sm text-[var(--color-text)] leading-relaxed">{q.answer_en}</p>
@@ -172,6 +177,11 @@ export default function HomePage() {
         <p className="text-xs text-[var(--color-text-secondary)] mt-3 italic max-w-2xl mx-auto">
           Rock of Truth is dedicated to proclaiming the historic Reformed faith — Sola Scriptura, Sola Gratia, Sola Fide, Solus Christus, Soli Deo Gloria. We believe in the biblical doctrine as summarized in the Westminster Standards, and hope that through this platform, more people will come to know the truth, be rooted in the faith, and grow in grace.
         </p>
+        <div className="mt-4 pt-4 border-t border-[var(--color-border)]">
+          <a href="mailto:rockoftruth@sudoem.org" className="text-sm text-[var(--color-accent)] hover:underline">
+            ✉️ rockoftruth@sudoem.org
+          </a>
+        </div>
       </div>
     </div>
   );

@@ -389,7 +389,7 @@ function WorshipPage() {
                     activeSongId === song.id ? 'bg-[var(--color-primary)]/10' : ''
                   }`}
                 >
-                  <span className="text-xs text-[var(--color-text-secondary)] w-5 text-right shrink-0">
+                  <span className="text-xs text-[var(--color-text-secondary)] w-8 text-right shrink-0">
                     {activeSongId === song.id ? '▶' : idx + 1}
                   </span>
                   <div className="flex-1 min-w-0">

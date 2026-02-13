@@ -1,4 +1,5 @@
 'use client';
+import React from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
@@ -149,30 +150,87 @@ export function Sidebar() {
   );
 }
 
+// 底栏只显示前4个 + "更多"
+const BOTTOM_NAV_COUNT = 4;
+
 export function BottomNav() {
   const pathname = usePathname();
+  const [showMore, setShowMore] = React.useState(false);
+
+  const primaryItems = navItems.slice(0, BOTTOM_NAV_COUNT);
+  const moreItems = navItems.slice(BOTTOM_NAV_COUNT);
+  const isMoreActive = moreItems.some(item => pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href)));
 
   return (
-    <nav className="lg:hidden fixed bottom-0 left-0 right-0 z-50 border-t border-[var(--color-border)] bg-[var(--color-bg)] safe-area-bottom">
-      <div className="flex justify-around py-2 pb-[env(safe-area-inset-bottom)]">
-        {navItems.map(item => {
-          const isActive = pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href));
-          return (
-            <Link
-              key={item.href}
-              href={item.href}
-              className={`flex flex-col items-center gap-0.5 px-2 py-1 text-xs transition-colors ${
-                isActive
-                  ? 'text-[var(--color-primary)] dark:text-[var(--color-accent)]'
-                  : 'text-[var(--color-text-secondary)]'
-              }`}
-            >
-              <span className={isActive ? 'text-[var(--color-primary)] dark:text-[var(--color-accent)]' : ''}>{item.icon}</span>
-              <span>{item.labelEn}</span>
-            </Link>
-          );
-        })}
-      </div>
-    </nav>
+    <>
+      {/* "更多"弹出菜单 */}
+      {showMore && (
+        <div className="lg:hidden fixed inset-0 z-40" onClick={() => setShowMore(false)}>
+          <div className="absolute bottom-16 left-0 right-0 mx-4 mb-[env(safe-area-inset-bottom)] rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg)] shadow-lg p-4"
+            onClick={e => e.stopPropagation()}
+          >
+            <div className="grid grid-cols-3 gap-3">
+              {moreItems.map(item => {
+                const isActive = pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href));
+                return (
+                  <Link
+                    key={item.href}
+                    href={item.href}
+                    onClick={() => setShowMore(false)}
+                    className={`flex flex-col items-center gap-1 p-3 rounded-xl transition-colors ${
+                      isActive
+                        ? 'bg-[var(--color-primary)]/10 text-[var(--color-primary)] dark:text-[var(--color-accent)]'
+                        : 'text-[var(--color-text-secondary)] hover:bg-[var(--color-bg-secondary)]'
+                    }`}
+                  >
+                    <span className="w-6 h-6">{item.icon}</span>
+                    <span className="text-xs">{item.label}</span>
+                    <span className="text-[10px] opacity-60">{item.labelEn}</span>
+                  </Link>
+                );
+              })}
+            </div>
+          </div>
+        </div>
+      )}
+
+      <nav className="lg:hidden fixed bottom-0 left-0 right-0 z-50 border-t border-[var(--color-border)] bg-[var(--color-bg)] safe-area-bottom">
+        <div className="flex justify-around py-2 pb-[env(safe-area-inset-bottom)]">
+          {primaryItems.map(item => {
+            const isActive = pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href));
+            return (
+              <Link
+                key={item.href}
+                href={item.href}
+                className={`flex flex-col items-center gap-0.5 px-2 py-1 text-xs transition-colors ${
+                  isActive
+                    ? 'text-[var(--color-primary)] dark:text-[var(--color-accent)]'
+                    : 'text-[var(--color-text-secondary)]'
+                }`}
+              >
+                <span className={isActive ? 'text-[var(--color-primary)] dark:text-[var(--color-accent)]' : ''}>{item.icon}</span>
+                <span>{item.labelEn}</span>
+              </Link>
+            );
+          })}
+          {/* 更多按钮 */}
+          <button
+            onClick={() => setShowMore(!showMore)}
+            className={`flex flex-col items-center gap-0.5 px-2 py-1 text-xs transition-colors ${
+              isMoreActive || showMore
+                ? 'text-[var(--color-primary)] dark:text-[var(--color-accent)]'
+                : 'text-[var(--color-text-secondary)]'
+            }`}
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
+              <circle cx="12" cy="5.5" r="1.75" />
+              <circle cx="12" cy="12" r="1.75" />
+              <circle cx="12" cy="18.5" r="1.75" />
+            </svg>
+            <span>More</span>
+          </button>
+        </div>
+      </nav>
+    </>
   );
 }

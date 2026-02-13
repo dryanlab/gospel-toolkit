@@ -3,6 +3,14 @@
 
 @custom-variant dark (&:where(.dark, .dark *));
 
+/* Critical: ensure sidebar hidden on mobile before Tailwind loads */
+@media (max-width: 1023px) {
+  aside.hidden { display: none !important; }
+}
+@media (min-width: 1024px) {
+  aside.hidden.lg\:flex { display: flex !important; }
+}
+
 :root {
   --color-primary: #1e3a5f;
   --color-primary-light: #2a4f7f;

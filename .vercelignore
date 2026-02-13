@@ -1,0 +1,5 @@
+tts-api
+tts-worker
+web/node_modules
+web/.next
+.git
