@@ -1,4 +1,4 @@
-import { themes, mealPrayers, type AltarTheme, type Scripture, type BilingualText } from '@/data/family-altar-data';
+import { themes, mealPrayers, type AltarTheme, type Scripture, type BilingualText, type DevotionalUnit } from '@/data/family-altar-data';
 import { allCatechismQuestions } from '@/lib/data';
 
 export interface DailyContent {
