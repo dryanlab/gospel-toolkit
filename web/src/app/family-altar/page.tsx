@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { getDailyContent, type DailyContent } from '@/lib/family-altar';
+import { themes as allThemes } from '@/data/family-altar-data';
 
 function GuideSection() {
   const [open, setOpen] = useState(false);
@@ -55,11 +56,35 @@ function GuideSection() {
           <div>
             <p className="font-medium mb-1">🔄 内容如何更新？</p>
             <p className="text-[var(--color-text-secondary)] leading-relaxed">
-              每天自动更新。每 2-3 周围绕一个主题（信心、祷告、感恩、神的爱、圣洁、盼望、家庭、服事），主题内经文按顺序递进，帮助你深入理解该主题。
+              每天自动更新。每 15 天围绕一个主题，教义主题与圣经经卷交替进行，主题内经文按顺序递进。全年共 25 个主题、375 天灵修内容。
             </p>
             <p className="text-[var(--color-text-secondary)] leading-relaxed italic mt-1">
-              Content updates daily. Every 2–3 weeks focuses on one theme (Faith, Prayer, Gratitude, God&apos;s Love, Holiness, Hope, Family, Service), with scriptures progressing sequentially within each theme.
+              Content updates daily. Every 15 days focuses on one theme, alternating between doctrinal and biblical narrative themes. Scriptures progress sequentially within each theme. 25 themes, 375 devotional days in total.
             </p>
+          </div>
+
+          <div>
+            <p className="font-medium mb-2">📚 25个主题一览 · All 25 Themes</p>
+            <div className="space-y-1.5">
+              <p className="text-xs font-medium text-[var(--color-accent)] mb-1">教义主题 Doctrinal Themes</p>
+              <div className="grid grid-cols-2 sm:grid-cols-3 gap-1.5 text-[var(--color-text-secondary)]">
+                {allThemes.filter((_, i) => i % 2 === 0 && i < 24).map((t) => (
+                  <div key={t.id} className="flex items-center gap-1.5 text-xs">
+                    <span>{t.icon}</span>
+                    <span>{t.name_zh} <span className="text-[var(--color-text-secondary)]/60">{t.name_en}</span></span>
+                  </div>
+                ))}
+              </div>
+              <p className="text-xs font-medium text-[var(--color-accent)] mt-3 mb-1">圣经经卷主题 Biblical Narrative Themes</p>
+              <div className="grid grid-cols-2 sm:grid-cols-3 gap-1.5 text-[var(--color-text-secondary)]">
+                {allThemes.filter((_, i) => i % 2 === 1 || i === 24).map((t) => (
+                  <div key={t.id} className="flex items-center gap-1.5 text-xs">
+                    <span>{t.icon}</span>
+                    <span>{t.name_zh} <span className="text-[var(--color-text-secondary)]/60">{t.name_en}</span></span>
+                  </div>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
       )}
@@ -155,6 +180,9 @@ export default function FamilyAltarPage() {
           <span className="text-[var(--color-accent)] font-medium">
             {theme.icon} {theme.name_zh} {theme.name_en}
           </span>
+        </p>
+        <p className="text-xs text-[var(--color-text-secondary)] mt-1">
+          第 {content.dayInTheme} / 15 天 · Day {content.dayInTheme} of 15
         </p>
       </div>
 

@@ -4,6 +4,7 @@ import { allCatechismQuestions } from '@/lib/data';
 export interface DailyContent {
   date: string;
   theme: AltarTheme;
+  dayInTheme: number;
   scripture: Scripture;
   reflection: BilingualText;
   question: BilingualText;
@@ -72,9 +73,12 @@ export function getDailyContent(date: Date): DailyContent {
 
   const dateStr = `${year}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
 
+  const dayInTheme = (absoluteDay % 15) + 1;
+
   return {
     date: dateStr,
     theme,
+    dayInTheme,
     scripture,
     reflection,
     question,
