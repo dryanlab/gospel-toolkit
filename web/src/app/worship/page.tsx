@@ -316,11 +316,11 @@ function WorshipPage() {
                 <div className="px-4 pt-3 pb-2">
                   <div className="flex items-center justify-between">
                     <div className="flex-1 min-w-0">
-                      <h2 className="font-serif-cn font-bold text-xl text-[var(--color-text)] truncate">
+                      <h2 className="font-serif-cn font-bold text-xl text-[var(--color-text)] break-words">
                         {activeSong.title}
                       </h2>
                       {activeSong.subtitle && (
-                        <p className="text-sm text-[var(--color-text-secondary)] italic truncate">{activeSong.subtitle}</p>
+                        <p className="text-sm text-[var(--color-text-secondary)] italic break-words">{activeSong.subtitle}</p>
                       )}
                       <p className="text-sm text-[var(--color-text-secondary)] mt-0.5">🎤 {activeSong.artist}</p>
                     </div>
@@ -393,14 +393,14 @@ function WorshipPage() {
                     {activeSongId === song.id ? '▶' : idx + 1}
                   </span>
                   <div className="flex-1 min-w-0">
-                    <p className={`text-sm font-medium truncate ${
+                    <p className={`text-sm font-medium break-words ${
                       activeSongId === song.id
                         ? 'text-[var(--color-primary)] dark:text-[var(--color-accent)]'
                         : 'text-[var(--color-text)]'
                     }`}>
                       {song.title}
                     </p>
-                    <p className="text-xs text-[var(--color-text-secondary)] truncate">
+                    <p className="text-xs text-[var(--color-text-secondary)] break-words">
                       {song.artist}
                     </p>
                   </div>
