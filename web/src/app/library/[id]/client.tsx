@@ -7,6 +7,7 @@ import LanguageToggle from '@/components/LanguageToggle';
 import FavoriteButton from '@/components/FavoriteButton';
 import { useMarkAsRead } from '@/hooks/useReadStatus';
 import type { Language } from '@/lib/types';
+import SpeakButton from '@/components/SpeakButton';
 
 const EpubReader = dynamic(() => import('@/components/EpubReader'), { ssr: false });
 
@@ -83,7 +84,13 @@ export default function BookDetailClient({ paramsPromise }: { paramsPromise: Pro
       </div>
 
       <div className="rounded-xl bg-[var(--color-accent)]/10 border border-[var(--color-accent)]/30 p-5 mb-8">
-        <h3 className="font-semibold text-[var(--color-accent)] mb-2 text-sm uppercase tracking-wide">简介 Summary</h3>
+        <div className="flex items-center justify-between mb-2">
+          <h3 className="font-semibold text-[var(--color-accent)] text-sm uppercase tracking-wide">简介 Summary</h3>
+          <div className="flex gap-2">
+            {showZh && <SpeakButton text={book.summary_zh} lang="zh" />}
+            {showEn && <SpeakButton text={book.summary_en} lang="en" />}
+          </div>
+        </div>
         {showZh && <p className="text-[var(--color-text)] mb-2 leading-relaxed">{book.summary_zh}</p>}
         {showEn && <p className="text-[var(--color-text-secondary)] italic leading-relaxed">{book.summary_en}</p>}
       </div>

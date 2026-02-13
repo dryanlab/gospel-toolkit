@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import SpeakButton from '@/components/SpeakButton';
 
 export const metadata = {
   title: '认识福音 - 真理磐石',
@@ -156,12 +157,18 @@ export default function GospelPage() {
             <h3 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-2">
               🌱 我从哪里来？<span className="text-sm font-normal text-[var(--color-text-secondary)] italic ml-2">Where do I come from?</span>
             </h3>
-            <p className="text-[var(--color-text)] leading-relaxed text-sm mb-1">
-              你不是偶然的产物。造天地的神按着自己的形像造了你，赋予你独特的价值和永恒的尊严。你的存在不是无意义的巧合，而是出于创造主的美意。
-            </p>
-            <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic mb-3">
-              You are not an accident. The God who made heaven and earth created you in His own image, giving you unique worth and eternal dignity. Your existence is not a meaningless coincidence, but flows from the Creator&apos;s good purpose.
-            </p>
+            <div className="flex items-start gap-2 mb-1">
+              <p className="text-[var(--color-text)] leading-relaxed text-sm flex-1">
+                你不是偶然的产物。造天地的神按着自己的形像造了你，赋予你独特的价值和永恒的尊严。你的存在不是无意义的巧合，而是出于创造主的美意。
+              </p>
+              <SpeakButton text="你不是偶然的产物。造天地的神按着自己的形像造了你，赋予你独特的价值和永恒的尊严。你的存在不是无意义的巧合，而是出于创造主的美意。" lang="zh" className="shrink-0 mt-0.5" />
+            </div>
+            <div className="flex items-start gap-2 mb-3">
+              <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic flex-1">
+                You are not an accident. The God who made heaven and earth created you in His own image, giving you unique worth and eternal dignity. Your existence is not a meaningless coincidence, but flows from the Creator&apos;s good purpose.
+              </p>
+              <SpeakButton text="You are not an accident. The God who made heaven and earth created you in His own image, giving you unique worth and eternal dignity. Your existence is not a meaningless coincidence, but flows from the Creator's good purpose." lang="en" className="shrink-0 mt-0.5" />
+            </div>
             <div className="rounded-lg bg-[var(--color-bg)] border border-[var(--color-border)] p-4">
               <p className="text-[var(--color-text)] text-sm mb-1">
                 &ldquo;神就照着自己的形像造人，乃是照着祂的形像造男造女。&rdquo;
@@ -178,12 +185,18 @@ export default function GospelPage() {
             <h3 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-2">
               🔥 活着有什么意义？<span className="text-sm font-normal text-[var(--color-text-secondary)] italic ml-2">What is the meaning of life?</span>
             </h3>
-            <p className="text-[var(--color-text)] leading-relaxed text-sm mb-1">
-              人生的意义不在于成就、财富或享乐。人的首要目的是荣耀神，并以祂为永远的满足和喜乐。只有回到造你的那一位面前，你的心才能找到真正的安息。
-            </p>
-            <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic mb-3">
-              The meaning of life is not found in achievement, wealth, or pleasure. Man&apos;s chief end is to glorify God, and to enjoy Him forever. Only when you return to the One who made you will your heart find true rest.
-            </p>
+            <div className="flex items-start gap-2 mb-1">
+              <p className="text-[var(--color-text)] leading-relaxed text-sm flex-1">
+                人生的意义不在于成就、财富或享乐。人的首要目的是荣耀神，并以祂为永远的满足和喜乐。只有回到造你的那一位面前，你的心才能找到真正的安息。
+              </p>
+              <SpeakButton text="人生的意义不在于成就、财富或享乐。人的首要目的是荣耀神，并以祂为永远的满足和喜乐。只有回到造你的那一位面前，你的心才能找到真正的安息。" lang="zh" className="shrink-0 mt-0.5" />
+            </div>
+            <div className="flex items-start gap-2 mb-3">
+              <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic flex-1">
+                The meaning of life is not found in achievement, wealth, or pleasure. Man&apos;s chief end is to glorify God, and to enjoy Him forever. Only when you return to the One who made you will your heart find true rest.
+              </p>
+              <SpeakButton text="The meaning of life is not found in achievement, wealth, or pleasure. Man's chief end is to glorify God, and to enjoy Him forever. Only when you return to the One who made you will your heart find true rest." lang="en" className="shrink-0 mt-0.5" />
+            </div>
             <div className="rounded-lg bg-[var(--color-bg)] border border-[var(--color-border)] p-4">
               <p className="text-[var(--color-text)] text-sm mb-1">
                 &ldquo;人的首要目的就是荣耀神，以神为乐，直到永远。&rdquo;
@@ -200,12 +213,18 @@ export default function GospelPage() {
             <h3 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-2">
               ⚖️ 死后会去哪里？<span className="text-sm font-normal text-[var(--color-text-secondary)] italic ml-2">Where will I go after death?</span>
             </h3>
-            <p className="text-[var(--color-text)] leading-relaxed text-sm mb-1">
-              死亡不是终点。圣经明确告诉我们，每个人都要面对造物主的审判。这不是一个可以回避的问题——但好消息是，神已经为我们预备了出路。
-            </p>
-            <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic mb-3">
-              Death is not the end. The Bible clearly tells us that everyone will face judgment before the Creator. This is not a question we can avoid — but the good news is that God has prepared a way for us.
-            </p>
+            <div className="flex items-start gap-2 mb-1">
+              <p className="text-[var(--color-text)] leading-relaxed text-sm flex-1">
+                死亡不是终点。圣经明确告诉我们，每个人都要面对造物主的审判。这不是一个可以回避的问题——但好消息是，神已经为我们预备了出路。
+              </p>
+              <SpeakButton text="死亡不是终点。圣经明确告诉我们，每个人都要面对造物主的审判。这不是一个可以回避的问题——但好消息是，神已经为我们预备了出路。" lang="zh" className="shrink-0 mt-0.5" />
+            </div>
+            <div className="flex items-start gap-2 mb-3">
+              <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic flex-1">
+                Death is not the end. The Bible clearly tells us that everyone will face judgment before the Creator. This is not a question we can avoid — but the good news is that God has prepared a way for us.
+              </p>
+              <SpeakButton text="Death is not the end. The Bible clearly tells us that everyone will face judgment before the Creator. This is not a question we can avoid — but the good news is that God has prepared a way for us." lang="en" className="shrink-0 mt-0.5" />
+            </div>
             <div className="rounded-lg bg-[var(--color-bg)] border border-[var(--color-border)] p-4">
               <p className="text-[var(--color-text)] text-sm mb-1">
                 &ldquo;按着定命，人人都有一死，死后且有审判。&rdquo;
@@ -250,12 +269,18 @@ export default function GospelPage() {
             </div>
 
             {/* Content */}
-            <p className="text-[var(--color-text)] leading-relaxed mb-2">
-              {section.content_zh}
-            </p>
-            <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed mb-6 italic">
-              {section.content_en}
-            </p>
+            <div className="flex items-start justify-between gap-2 mb-2">
+              <p className="text-[var(--color-text)] leading-relaxed">
+                {section.content_zh}
+              </p>
+              <SpeakButton text={section.content_zh} lang="zh" />
+            </div>
+            <div className="flex items-start justify-between gap-2 mb-6">
+              <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed italic">
+                {section.content_en}
+              </p>
+              <SpeakButton text={section.content_en} lang="en" />
+            </div>
 
             {/* Verses */}
             <div className="space-y-3">
@@ -264,15 +289,23 @@ export default function GospelPage() {
                   key={verse.ref_en}
                   className="rounded-lg bg-[var(--color-bg)] border border-[var(--color-border)] p-4"
                 >
-                  <p className="text-[var(--color-text)] leading-relaxed text-sm mb-1">
-                    &ldquo;{verse.text_zh}&rdquo;
-                  </p>
-                  <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic mb-2">
-                    &ldquo;{verse.text_en}&rdquo;
-                  </p>
-                  <p className="text-xs text-[var(--color-accent)] font-medium">
-                    — {verse.ref_zh} / {verse.ref_en}
-                  </p>
+                  <div className="flex items-start justify-between gap-2">
+                    <div>
+                      <p className="text-[var(--color-text)] leading-relaxed text-sm mb-1">
+                        &ldquo;{verse.text_zh}&rdquo;
+                      </p>
+                      <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic mb-2">
+                        &ldquo;{verse.text_en}&rdquo;
+                      </p>
+                      <p className="text-xs text-[var(--color-accent)] font-medium">
+                        — {verse.ref_zh} / {verse.ref_en}
+                      </p>
+                    </div>
+                    <div className="flex flex-col gap-1 shrink-0">
+                      <SpeakButton text={verse.text_zh} lang="zh" />
+                      <SpeakButton text={verse.text_en} lang="en" />
+                    </div>
+                  </div>
                 </div>
               ))}
             </div>

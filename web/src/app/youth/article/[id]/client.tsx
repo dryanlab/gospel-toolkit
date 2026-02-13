@@ -8,6 +8,7 @@ import FavoriteButton from '@/components/FavoriteButton';
 import BibleVerse from '@/components/BibleVerse';
 import { useMarkAsRead } from '@/hooks/useReadStatus';
 import type { Language } from '@/lib/types';
+import SpeakButton from '@/components/SpeakButton';
 
 const sectionGradients: Record<string, string> = {
   'faith-basics': 'from-blue-500 to-indigo-600',
@@ -136,6 +137,7 @@ function YouthDetailContent({ id }: { id: string }) {
       <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-6 mb-8">
         {showZh && (
           <div className="mb-6">
+            <div className="flex justify-end mb-2"><SpeakButton text={item.content_zh} lang="zh" /></div>
             <p className="text-[var(--color-text)] leading-relaxed whitespace-pre-line">
               {item.content_zh}
             </p>
@@ -143,6 +145,7 @@ function YouthDetailContent({ id }: { id: string }) {
         )}
         {showEn && (
           <div className={showZh ? 'pt-6 border-t border-[var(--color-border)]' : ''}>
+            <div className="flex justify-end mb-2"><SpeakButton text={item.content_en} lang="en" /></div>
             <p className="text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">
               {item.content_en}
             </p>

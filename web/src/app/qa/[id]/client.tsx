@@ -8,6 +8,7 @@ import BibleVerse from '@/components/BibleVerse';
 import { useMarkAsRead } from '@/hooks/useReadStatus';
 import type { Language } from '@/lib/types';
 import { formatWithItalics } from '@/lib/format-text';
+import SpeakButton from '@/components/SpeakButton';
 
 export default function QADetailClient({ paramsPromise }: { paramsPromise: Promise<{ id: string }> }) {
   const { id } = use(paramsPromise);
@@ -75,18 +76,40 @@ export default function QADetailClient({ paramsPromise }: { paramsPromise: Promi
       </span>
 
       <div className="mb-8">
-        {showZh && <h1 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2 break-words">{q.question_zh}</h1>}
-        {showEn && <h2 className="text-xl text-[var(--color-text-secondary)] italic break-words">{q.question_en}</h2>}
+        {showZh && (
+          <div className="flex items-start justify-between gap-2 mb-2">
+            <h1 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] break-words">{q.question_zh}</h1>
+            <SpeakButton text={q.question_zh} lang="zh" />
+          </div>
+        )}
+        {showEn && (
+          <div className="flex items-start justify-between gap-2">
+            <h2 className="text-xl text-[var(--color-text-secondary)] italic break-words">{q.question_en}</h2>
+            <SpeakButton text={q.question_en} lang="en" />
+          </div>
+        )}
       </div>
 
       <div className="rounded-xl bg-[var(--color-accent)]/10 border border-[var(--color-accent)]/30 p-5 mb-6">
-        <h3 className="font-semibold text-[var(--color-accent)] mb-2 text-sm uppercase tracking-wide">简答 Short Answer</h3>
+        <div className="flex items-center justify-between mb-2">
+          <h3 className="font-semibold text-[var(--color-accent)] text-sm uppercase tracking-wide">简答 Short Answer</h3>
+          <div className="flex gap-2">
+            {showZh && <SpeakButton text={q.short_answer_zh} lang="zh" />}
+            {showEn && <SpeakButton text={q.short_answer_en} lang="en" />}
+          </div>
+        </div>
         {showZh && <p className="text-[var(--color-text)] mb-2">{q.short_answer_zh}</p>}
         {showEn && <p className="text-[var(--color-text-secondary)] italic">{q.short_answer_en}</p>}
       </div>
 
       <div className="mb-8">
-        <h3 className="font-semibold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-3 text-lg">详细解答 Detailed Answer</h3>
+        <div className="flex items-center justify-between mb-3">
+          <h3 className="font-semibold text-[var(--color-primary)] dark:text-[var(--color-accent)] text-lg">详细解答 Detailed Answer</h3>
+          <div className="flex gap-2">
+            {showZh && <SpeakButton text={q.detailed_answer_zh} lang="zh" />}
+            {showEn && <SpeakButton text={q.detailed_answer_en} lang="en" />}
+          </div>
+        </div>
         {showZh && (
           <div className="mb-4">
             {q.detailed_answer_zh.split('\n\n').map((p, i) => (

@@ -43,6 +43,7 @@ import { themesB7 } from './family-altar-themes-b7';    // B7 Spirit, B8 Psalms
 import { themesB9 } from './family-altar-themes-b9';    // B9 Sermon on Mount, B10 I Am
 import { themesB11 } from './family-altar-themes-b11';  // B11 Exodus, B12 Ephesians
 import { themesB13 } from './family-altar-themes-b13';  // B13 Advent
+import { themesSeasonal } from './family-altar-themes-seasonal';  // Passion Week, Easter
 
 // Extract individual themes by index
 const A1 = themesA1[0]; // Faith
@@ -71,6 +72,8 @@ const B10 = themesB9[1]; // I Am
 const B11 = themesB11[0]; // Exodus
 const B12 = themesB11[1]; // Ephesians
 const B13 = themesB13[0]; // Advent
+const S1 = themesSeasonal[0]; // Passion Week
+const S2 = themesSeasonal[1]; // Easter
 
 // A-B alternating order: 25 themes × 15 days = 375 days (full year+)
 export const themes: AltarTheme[] = [
@@ -98,7 +101,9 @@ export const themes: AltarTheme[] = [
   B11,  // Exodus
   A12,  // Evangelism
   B12,  // Ephesians
+  S1,   // Passion Week
   B13,  // Advent
+  S2,   // Easter
 ];
 
 // 30 meal prayers

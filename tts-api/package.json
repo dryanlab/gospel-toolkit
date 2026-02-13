@@ -1,0 +1,8 @@
+{
+  "name": "rockoftruth-tts-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "msedge-tts": "^1.3.4"
+  }
+}

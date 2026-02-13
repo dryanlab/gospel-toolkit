@@ -5,6 +5,7 @@ import { getCatechismById, allCatechismQuestions } from '@/lib/data';
 import FavoriteButton from '@/components/FavoriteButton';
 import BibleVerse from '@/components/BibleVerse';
 import { useMarkAsRead } from '@/hooks/useReadStatus';
+import SpeakButton from '@/components/SpeakButton';
 
 export default function CatechismDetailClient({ paramsPromise }: { paramsPromise: Promise<{ id: string }> }) {
   const { id } = use(paramsPromise);
@@ -42,14 +43,20 @@ export default function CatechismDetailClient({ paramsPromise }: { paramsPromise
 
       {/* Question */}
       <div className="mb-6">
-        <h1 className="font-serif-cn text-2xl font-bold text-[var(--color-text)] mb-2">
-          {q.question_en}
-        </h1>
+        <div className="flex items-start justify-between gap-2">
+          <h1 className="font-serif-cn text-2xl font-bold text-[var(--color-text)] mb-2">
+            {q.question_en}
+          </h1>
+          <SpeakButton text={`Question ${q.number}. ${q.question_en}`} lang="en" />
+        </div>
       </div>
 
       {/* Answer */}
       <div className="rounded-xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6 mb-6">
-        <h2 className="text-sm font-bold text-[var(--color-text-secondary)] mb-3">Answer</h2>
+        <div className="flex items-center justify-between mb-3">
+          <h2 className="text-sm font-bold text-[var(--color-text-secondary)]">Answer</h2>
+          <SpeakButton text={q.answer_en} lang="en" />
+        </div>
         <p className="text-[var(--color-text)] leading-relaxed">
           {q.answer_en}
         </p>

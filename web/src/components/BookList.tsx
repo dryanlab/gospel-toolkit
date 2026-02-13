@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import SpeakButton from '@/components/SpeakButton';
 
 export interface BibleBook {
   id: string;
@@ -74,11 +75,23 @@ export default function BookList({ icon, title_zh, title_en, desc_zh, desc_en, g
                 </div>
               </div>
 
-              <p className="text-[var(--color-text)] leading-relaxed text-sm mb-2">{book.summary_zh}</p>
-              <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic mb-5">{book.summary_en}</p>
+              <div className="flex items-start gap-2 mb-2">
+                <p className="text-[var(--color-text)] leading-relaxed text-sm flex-1">{book.summary_zh}</p>
+                <SpeakButton text={book.summary_zh} lang="zh" className="shrink-0 mt-0.5" />
+              </div>
+              <div className="flex items-start gap-2 mb-5">
+                <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic flex-1">{book.summary_en}</p>
+                <SpeakButton text={book.summary_en} lang="en" className="shrink-0 mt-0.5" />
+              </div>
 
               <div className="rounded-lg bg-[var(--color-bg)] border border-[var(--color-border)] p-4">
-                <p className="text-xs text-[var(--color-text-secondary)] mb-2 font-medium">📖 核心经文 Key Verse</p>
+                <div className="flex items-center justify-between mb-2">
+                  <p className="text-xs text-[var(--color-text-secondary)] font-medium">📖 核心经文 Key Verse</p>
+                  <div className="flex gap-2">
+                    <SpeakButton text={book.keyVerse_zh} lang="zh" />
+                    <SpeakButton text={book.keyVerse_en} lang="en" />
+                  </div>
+                </div>
                 <p className="text-[var(--color-text)] leading-relaxed text-sm mb-1">&ldquo;{book.keyVerse_zh}&rdquo;</p>
                 <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic mb-2">&ldquo;{book.keyVerse_en}&rdquo;</p>
                 <p className="text-xs text-[var(--color-accent)] font-medium">— {book.keyRef}</p>

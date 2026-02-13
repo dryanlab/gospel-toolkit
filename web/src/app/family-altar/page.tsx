@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { getDailyContent, type DailyContent } from '@/lib/family-altar';
 import { themes as allThemes } from '@/data/family-altar-data';
@@ -25,65 +25,122 @@ function GuideSection() {
             <p className="text-[var(--color-text-secondary)] leading-relaxed">
               家庭祭坛是基督徒家庭的每日敬拜时间。全家人一起读经、默想、讨论、祷告和唱诗，在神的话语中建立属灵的根基。
             </p>
-            <p className="text-[var(--color-text-secondary)] leading-relaxed italic mt-1">
+            <p className="font-medium mb-1 mt-3">🎯 What is Family Altar?</p>
+            <p className="text-[var(--color-text-secondary)] leading-relaxed italic">
               Family Altar is a daily worship time for Christian families — reading Scripture, reflecting, discussing, praying, and singing together to build a spiritual foundation in God&apos;s Word.
             </p>
           </div>
 
           <div>
-            <p className="font-medium mb-2">📋 每日内容包括：</p>
+            <p className="font-medium mb-1">📋 每日内容包括：</p>
+            <p className="text-[var(--color-text-secondary)] italic text-xs mb-2">Daily Content Includes:</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-[var(--color-text-secondary)]">
-              <div className="flex items-start gap-2"><span>📖</span><span><strong>今日经文</strong> — 一段中英双语经文</span></div>
-              <div className="flex items-start gap-2"><span>💭</span><span><strong>默想</strong> — 针对该经文的简短默想</span></div>
-              <div className="flex items-start gap-2"><span>💬</span><span><strong>家庭讨论</strong> — 围绕经文的讨论问题</span></div>
-              <div className="flex items-start gap-2"><span>🙏</span><span><strong>祷告引导</strong> — 基于经文的祷告方向</span></div>
-              <div className="flex items-start gap-2"><span>🎵</span><span><strong>诗歌推荐</strong> — 与主题相关的赞美诗</span></div>
-              <div className="flex items-start gap-2"><span>📚</span><span><strong>今日要理</strong> — 韦敏斯德小要理问答</span></div>
-              <div className="flex items-start gap-2"><span>🍞</span><span><strong>谢饭祷告</strong> — 每日不同的饭前祷词</span></div>
+              <div className="flex items-start gap-2"><span>📖</span><span><strong>今日经文</strong> — 中英双语经文<br/><span className="italic text-xs">Daily Scripture — Bilingual passage</span></span></div>
+              <div className="flex items-start gap-2"><span>💭</span><span><strong>默想</strong> — 经文要点<br/><span className="italic text-xs">Reflection — Key insights</span></span></div>
+              <div className="flex items-start gap-2"><span>💬</span><span><strong>家庭讨论</strong> — 讨论问题<br/><span className="italic text-xs">Discussion — Questions for the family</span></span></div>
+              <div className="flex items-start gap-2"><span>🙏</span><span><strong>祷告引导</strong> — 祷告方向<br/><span className="italic text-xs">Prayer Guide — Prayer direction</span></span></div>
+              <div className="flex items-start gap-2"><span>🎵</span><span><strong>诗歌推荐</strong> — 相关赞美诗<br/><span className="italic text-xs">Hymn Suggestion — Related hymn</span></span></div>
+              <div className="flex items-start gap-2"><span>📚</span><span><strong>今日要理</strong> — 韦敏斯德小要理问答<br/><span className="italic text-xs">Daily Catechism — WSC Q&amp;A</span></span></div>
+              <div className="flex items-start gap-2"><span>🍞</span><span><strong>谢饭祷告</strong> — 饭前祷词<br/><span className="italic text-xs">Meal Prayer — Grace before meals</span></span></div>
             </div>
           </div>
 
           <div>
-            <p className="font-medium mb-1">⏱️ 如何使用？</p>
+            <p className="font-medium mb-1">⏱️ 如何使用？<br/><span className="text-xs font-normal italic text-[var(--color-text-secondary)]">How to Use?</span></p>
             <p className="text-[var(--color-text-secondary)] leading-relaxed">
               每次 <strong>5-10 分钟</strong>即可。建议选一个固定时间（如晚餐前后），由一位家庭成员带领朗读经文，全家一起默想、讨论、祷告。不需要完成所有区块——选择适合你家庭的部分开始就好。
             </p>
             <p className="text-[var(--color-text-secondary)] leading-relaxed italic mt-1">
-              Just 5–10 minutes each time. Pick a regular time (e.g. before or after dinner), have one family member read the Scripture aloud, then reflect, discuss, and pray together. You don&apos;t have to cover every section — start with what works for your family.
+              Just <strong>5–10 minutes</strong> each time. Pick a regular time (e.g. before or after dinner), have one family member read the Scripture aloud, then reflect, discuss, and pray together. You don&apos;t have to cover every section — start with what works for your family.
             </p>
           </div>
 
           <div>
-            <p className="font-medium mb-1">🔄 内容如何更新？</p>
+            <p className="font-medium mb-1">🔄 内容如何更新？<br/><span className="text-xs font-normal italic text-[var(--color-text-secondary)]">How Does Content Update?</span></p>
             <p className="text-[var(--color-text-secondary)] leading-relaxed">
-              每天自动更新。每 15 天围绕一个主题，教义主题与圣经经卷交替进行，主题内经文按顺序递进。全年共 25 个主题、375 天灵修内容。
+              每天自动更新。每 15 天围绕一个主题，教义主题与圣经经卷交替进行，主题内经文按顺序递进。全年共 27 个主题（含3个节期特辑）、404 天灵修内容。
             </p>
             <p className="text-[var(--color-text-secondary)] leading-relaxed italic mt-1">
-              Content updates daily. Every 15 days focuses on one theme, alternating between doctrinal and biblical narrative themes. Scriptures progress sequentially within each theme. 25 themes, 375 devotional days in total.
+              Content updates daily. Every 15 days focuses on one theme, alternating between doctrinal and biblical narrative themes. Scriptures progress sequentially within each theme. 27 themes (including 3 seasonal specials), 404 devotional days in total.
             </p>
           </div>
 
           <div>
-            <p className="font-medium mb-2">📚 25个主题一览 · All 25 Themes</p>
-            <div className="space-y-1.5">
-              <p className="text-xs font-medium text-[var(--color-accent)] mb-1">教义主题 Doctrinal Themes</p>
-              <div className="grid grid-cols-2 sm:grid-cols-3 gap-1.5 text-[var(--color-text-secondary)]">
-                {allThemes.filter((_, i) => i % 2 === 0 && i < 24).map((t) => (
-                  <div key={t.id} className="flex items-center gap-1.5 text-xs">
-                    <span>{t.icon}</span>
-                    <span>{t.name_zh} <span className="text-[var(--color-text-secondary)]/60">{t.name_en}</span></span>
-                  </div>
-                ))}
+            <p className="font-medium mb-1">🎄 节期特辑</p>
+            <p className="text-xs font-normal italic text-[var(--color-text-secondary)] mb-2">Seasonal Specials</p>
+            <p className="text-[var(--color-text-secondary)] leading-relaxed">
+              每年有三个节期会自动切换为对应的专题灵修，优先于常规主题轮转：
+            </p>
+            <p className="text-[var(--color-text-secondary)] leading-relaxed italic mt-1">
+              Three seasonal specials automatically override the regular rotation each year:
+            </p>
+            <div className="mt-3 space-y-3 text-[var(--color-text-secondary)]">
+              <div className="flex items-start gap-2 text-xs">
+                <span className="text-sm">✝️</span>
+                <div>
+                  <p><strong>受难周</strong> — 复活节前15天（每年日期不同）</p>
+                  <p className="italic">Passion Week — 15 days before Easter (date varies each year)</p>
+                </div>
               </div>
-              <p className="text-xs font-medium text-[var(--color-accent)] mt-3 mb-1">圣经经卷主题 Biblical Narrative Themes</p>
-              <div className="grid grid-cols-2 sm:grid-cols-3 gap-1.5 text-[var(--color-text-secondary)]">
-                {allThemes.filter((_, i) => i % 2 === 1 || i === 24).map((t) => (
-                  <div key={t.id} className="flex items-center gap-1.5 text-xs">
-                    <span>{t.icon}</span>
-                    <span>{t.name_zh} <span className="text-[var(--color-text-secondary)]/60">{t.name_en}</span></span>
-                  </div>
-                ))}
+              <div className="flex items-start gap-2 text-xs">
+                <span className="text-sm">🌅</span>
+                <div>
+                  <p><strong>复活节</strong> — 复活节当天起15天（紧接受难周）</p>
+                  <p className="italic">Easter &amp; Resurrection — 15 days from Easter Sunday (follows Passion Week)</p>
+                </div>
               </div>
+              <div className="flex items-start gap-2 text-xs">
+                <span className="text-sm">⭐</span>
+                <div>
+                  <p><strong>将临期/圣诞</strong> — 每年12月10日-24日</p>
+                  <p className="italic">Advent &amp; Christmas — December 10–24 each year</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <p className="font-medium mb-1">📚 常规主题一览</p>
+            <p className="text-xs font-normal italic text-[var(--color-text-secondary)] mb-3">Regular Themes</p>
+            <div className="space-y-3">
+              {(() => {
+                const seasonalIds = new Set(['passion', 'resurrection', 'advent']);
+                const regular = allThemes.filter(t => !seasonalIds.has(t.id));
+                const doctrinal = regular.filter((_, i) => i % 2 === 0);
+                const biblical = regular.filter((_, i) => i % 2 === 1);
+                return (<>
+                  <div>
+                    <p className="text-xs font-medium text-[var(--color-accent)] mb-1">教义主题 ({doctrinal.length})</p>
+                    <p className="text-[10px] italic text-[var(--color-text-secondary)] mb-2">Doctrinal Themes</p>
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-1.5 text-[var(--color-text-secondary)]">
+                      {doctrinal.map((t) => (
+                        <div key={t.id} className="flex items-start gap-1.5 text-xs">
+                          <span>{t.icon}</span>
+                          <div>
+                            <p>{t.name_zh}</p>
+                            <p className="italic text-[10px] opacity-70">{t.name_en}</p>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                  <div>
+                    <p className="text-xs font-medium text-[var(--color-accent)] mb-1">圣经经卷主题 ({biblical.length})</p>
+                    <p className="text-[10px] italic text-[var(--color-text-secondary)] mb-2">Biblical Narrative Themes</p>
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-1.5 text-[var(--color-text-secondary)]">
+                      {biblical.map((t) => (
+                        <div key={t.id} className="flex items-start gap-1.5 text-xs">
+                          <span>{t.icon}</span>
+                          <div>
+                            <p>{t.name_zh}</p>
+                            <p className="italic text-[10px] opacity-70">{t.name_en}</p>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                </>);
+              })()}
             </div>
           </div>
         </div>
@@ -118,50 +175,7 @@ const ageModes: { key: AgeMode; label: string; desc: string; emoji: string }[] =
   { key: 'teen', label: '青少年版', desc: '11+', emoji: '🧑' },
 ];
 
-function SpeakButton({ text, lang }: { text: string; lang: 'zh' | 'en' }) {
-  const [state, setState] = useState<'idle' | 'loading' | 'playing'>('idle');
-  const audioRef = useRef<HTMLAudioElement | null>(null);
-
-  const handleSpeak = async () => {
-    if (state === 'playing') {
-      audioRef.current?.pause();
-      setState('idle');
-      return;
-    }
-    if (state === 'loading') return;
-
-    setState('loading');
-    try {
-      const res = await fetch('/api/tts', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ text, lang }),
-      });
-      if (!res.ok) throw new Error('TTS failed');
-      const blob = await res.blob();
-      const url = URL.createObjectURL(blob);
-      const audio = new Audio(url);
-      audioRef.current = audio;
-      audio.onended = () => { setState('idle'); URL.revokeObjectURL(url); };
-      audio.onerror = () => { setState('idle'); URL.revokeObjectURL(url); };
-      audio.play();
-      setState('playing');
-    } catch {
-      setState('idle');
-    }
-  };
-
-  return (
-    <button
-      onClick={handleSpeak}
-      disabled={state === 'loading'}
-      className="inline-flex items-center gap-1 text-xs text-[var(--color-accent)] hover:text-[var(--color-accent)]/80 transition-colors disabled:opacity-50"
-      title={state === 'playing' ? '停止 Stop' : '朗读 Read aloud'}
-    >
-      {state === 'loading' ? '⏳ 生成中...' : state === 'playing' ? '⏹️ 停止' : '🔊 朗读'}
-    </button>
-  );
-}
+import SpeakButton from '@/components/SpeakButton';
 
 export default function FamilyAltarPage() {
   const [selectedDate, setSelectedDate] = useState<Date>(new Date());
@@ -241,7 +255,8 @@ export default function FamilyAltarPage() {
           </span>
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] mt-1">
-          第 {content.dayInTheme} / 15 天 · Day {content.dayInTheme} of 15
+          {content.isSeasonal && <span className="inline-block bg-[var(--color-accent)]/15 text-[var(--color-accent)] rounded px-1.5 py-0.5 text-[10px] font-medium mr-1">🎄 节期特辑 Seasonal</span>}
+          第 {content.dayInTheme} / {content.totalDaysInTheme} 天 · Day {content.dayInTheme} of {content.totalDaysInTheme}
         </p>
 
         {/* Age Mode Selector */}
@@ -314,7 +329,10 @@ export default function FamilyAltarPage() {
               <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">默想</h2>
               <span className="text-xs text-[var(--color-text-secondary)]">Reflection</span>
             </div>
-            <SpeakButton text={reflection.zh} lang="zh" />
+            <div className="flex gap-2">
+              <SpeakButton text={reflection.zh} lang="zh" />
+              {showEnglish && <SpeakButton text={reflection.en} lang="en" />}
+            </div>
           </div>
           <p className="text-[var(--color-text)] leading-relaxed mb-2">{reflection.zh}</p>
           {showEnglish && <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed italic">{reflection.en}</p>}
@@ -323,12 +341,18 @@ export default function FamilyAltarPage() {
 
         {/* 3. 讨论 */}
         <section className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6">
-          <div className="flex items-center gap-2 mb-4">
-            <span className="text-2xl">💬</span>
-            <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">
-              {ageMode === 'kids' ? '想一想' : '家庭讨论'}
-            </h2>
-            <span className="text-xs text-[var(--color-text-secondary)]">Discussion</span>
+          <div className="flex items-center justify-between mb-4">
+            <div className="flex items-center gap-2">
+              <span className="text-2xl">💬</span>
+              <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">
+                {ageMode === 'kids' ? '想一想' : '家庭讨论'}
+              </h2>
+              <span className="text-xs text-[var(--color-text-secondary)]">Discussion</span>
+            </div>
+            <div className="flex gap-2">
+              <SpeakButton text={question.zh} lang="zh" />
+              {showEnglish && <SpeakButton text={question.en} lang="en" />}
+            </div>
           </div>
           <div className="rounded-lg bg-[var(--color-bg)] border border-[var(--color-border)] p-4">
             <p className={`text-[var(--color-text)] leading-relaxed mb-1 ${ageMode === 'kids' ? 'text-lg' : ''}`}>{question.zh}</p>
@@ -346,7 +370,10 @@ export default function FamilyAltarPage() {
               </h2>
               <span className="text-xs text-[var(--color-text-secondary)]">Prayer Guide</span>
             </div>
-            <SpeakButton text={prayer.zh} lang="zh" />
+            <div className="flex gap-2">
+              <SpeakButton text={prayer.zh} lang="zh" />
+              {showEnglish && <SpeakButton text={prayer.en} lang="en" />}
+            </div>
           </div>
           <p className={`text-[var(--color-text)] leading-relaxed mb-2 ${ageMode === 'kids' ? 'text-lg' : ''}`}>{prayer.zh}</p>
           {showEnglish && <p className="text-sm text-[var(--color-text-secondary)] leading-relaxed italic">{prayer.en}</p>}
@@ -373,10 +400,16 @@ export default function FamilyAltarPage() {
         {/* 6. 今日要理 */}
         {showCatechism && (
         <section className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6">
-          <div className="flex items-center gap-2 mb-4">
-            <span className="text-2xl">📚</span>
-            <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">今日要理</h2>
-            <span className="text-xs text-[var(--color-text-secondary)]">Daily Catechism</span>
+          <div className="flex items-center justify-between mb-4">
+            <div className="flex items-center gap-2">
+              <span className="text-2xl">📚</span>
+              <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">今日要理</h2>
+              <span className="text-xs text-[var(--color-text-secondary)]">Daily Catechism</span>
+            </div>
+            <div className="flex gap-2">
+              <SpeakButton text={`第${catechism.number}问：${catechism.question_zh}`} lang="zh" />
+              <SpeakButton text={`Question ${catechism.number}: ${catechism.question_en}`} lang="en" />
+            </div>
           </div>
           <p className="text-[var(--color-text)] mb-1 font-medium">Q{catechism.number}: {catechism.question_zh}</p>
           <p className="text-sm text-[var(--color-text-secondary)] italic mb-3">{catechism.question_en}</p>
@@ -391,10 +424,16 @@ export default function FamilyAltarPage() {
 
         {/* 7. 谢饭祷告 */}
         <section className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6">
-          <div className="flex items-center gap-2 mb-4">
-            <span className="text-2xl">🍞</span>
-            <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">谢饭祷告</h2>
-            <span className="text-xs text-[var(--color-text-secondary)]">Meal Prayer</span>
+          <div className="flex items-center justify-between mb-4">
+            <div className="flex items-center gap-2">
+              <span className="text-2xl">🍞</span>
+              <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)]">谢饭祷告</h2>
+              <span className="text-xs text-[var(--color-text-secondary)]">Meal Prayer</span>
+            </div>
+            <div className="flex gap-2">
+              <SpeakButton text={mealPrayer.zh} lang="zh" />
+              <SpeakButton text={mealPrayer.en} lang="en" />
+            </div>
           </div>
           <div className="rounded-lg bg-[var(--color-bg)] border border-[var(--color-border)] p-4">
             <p className="text-[var(--color-text)] leading-relaxed mb-2">{mealPrayer.zh}</p>
