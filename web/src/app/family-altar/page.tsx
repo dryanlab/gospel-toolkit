@@ -67,12 +67,33 @@ function GuideSection() {
   );
 }
 
+function parseLocalDate(s: string): Date {
+  const [y, m, d] = s.split('-').map(Number);
+  return new Date(y, m - 1, d);
+}
+
+function formatDate(date: Date): string {
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, '0');
+  const d = String(date.getDate()).padStart(2, '0');
+  return `${y}-${m}-${d}`;
+}
+
+function shiftDate(date: Date, days: number): Date {
+  const d = new Date(date);
+  d.setDate(d.getDate() + days);
+  return d;
+}
+
 export default function FamilyAltarPage() {
+  const [selectedDate, setSelectedDate] = useState<Date>(new Date());
   const [content, setContent] = useState<DailyContent | null>(null);
 
   useEffect(() => {
-    setContent(getDailyContent(new Date()));
-  }, []);
+    setContent(getDailyContent(selectedDate));
+  }, [selectedDate]);
+
+  const isToday = formatDate(selectedDate) === formatDate(new Date());
 
   if (!content) {
     return (
@@ -93,6 +114,42 @@ export default function FamilyAltarPage() {
           家庭祭坛
         </h1>
         <p className="text-base text-[var(--color-text-secondary)] mb-3">Family Altar</p>
+
+        {/* Date Navigation */}
+        <div className="flex items-center justify-center gap-3 mb-3">
+          <button
+            onClick={() => setSelectedDate(shiftDate(selectedDate, -1))}
+            className="rounded-lg border border-[var(--color-border)] bg-[var(--color-bg-secondary)] px-3 py-1.5 text-sm text-[var(--color-text)] hover:bg-[var(--color-accent)]/10 transition-colors"
+            title="前一天 Previous Day"
+          >
+            ← 前一天
+          </button>
+          <input
+            type="date"
+            value={formatDate(selectedDate)}
+            onChange={(e) => {
+              if (e.target.value) setSelectedDate(parseLocalDate(e.target.value));
+            }}
+            className="rounded-lg border border-[var(--color-border)] bg-[var(--color-bg-secondary)] px-3 py-1.5 text-sm text-[var(--color-text)] text-center"
+          />
+          <button
+            onClick={() => setSelectedDate(shiftDate(selectedDate, 1))}
+            className="rounded-lg border border-[var(--color-border)] bg-[var(--color-bg-secondary)] px-3 py-1.5 text-sm text-[var(--color-text)] hover:bg-[var(--color-accent)]/10 transition-colors"
+            title="后一天 Next Day"
+          >
+            后一天 →
+          </button>
+        </div>
+
+        {!isToday && (
+          <button
+            onClick={() => setSelectedDate(new Date())}
+            className="text-xs text-[var(--color-accent)] hover:underline mb-2"
+          >
+            回到今天 Back to Today
+          </button>
+        )}
+
         <p className="text-sm text-[var(--color-text-secondary)]">
           {content.date} · 本期主题：
           <span className="text-[var(--color-accent)] font-medium">
