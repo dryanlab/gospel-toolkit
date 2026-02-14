@@ -54,7 +54,7 @@ const modules = [
     href: '/worship',
     title: '敬拜诗歌',
     subtitle: 'Worship',
-    desc: '精选华语敬拜赞美诗歌，在歌声中亲近神',
+    desc: '415首中英文敬拜诗歌，在歌声中亲近神',
     color: 'from-rose-600 to-pink-700',
     icon: '🎵',
   },
@@ -148,12 +148,16 @@ export default function HomePage() {
         <h3 className="font-serif-cn text-lg font-semibold text-[var(--color-text)] mb-2">关于真理磐石</h3>
         <p className="text-xs text-[var(--color-text-secondary)] mb-3">About Rock of Truth</p>
         <p className="text-sm text-[var(--color-text)] leading-relaxed max-w-2xl mx-auto">
-          真理磐石致力于传扬纯正的改革宗福音信仰，持守唯独圣经、唯独恩典、唯独信心、唯独基督、唯独神的荣耀。我们相信韦敏斯德信条所总结的圣经教义，盼望借着这个平台，帮助更多人认识真理，扎根信仰，在恩典中成长。
+          <strong>真理磐石致力于传扬福音与建造门徒。</strong>我们持守纯正的改革宗信仰——<strong>唯独圣经</strong>、<strong>唯独恩典</strong>、<strong>唯独信心</strong>、<strong>唯独基督</strong>、<strong>唯独神的荣耀</strong>。盼望借着这个平台，帮助更多人认识真理，扎根信仰，在恩典中成长。
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] mt-3 italic max-w-2xl mx-auto">
-          Rock of Truth is dedicated to proclaiming the historic Reformed faith — Sola Scriptura, Sola Gratia, Sola Fide, Solus Christus, Soli Deo Gloria. We believe in the biblical doctrine as summarized in the Westminster Standards, and hope that through this platform, more people will come to know the truth, be rooted in the faith, and grow in grace.
+          Rock of Truth is dedicated to proclaiming the Gospel and building disciples. We hold to the historic Reformed faith — Sola Scriptura, Sola Gratia, Sola Fide, Solus Christus, Soli Deo Gloria. We hope that through this platform, more people will come to know the truth, be rooted in the faith, and grow in grace.
         </p>
-        <div className="mt-4 pt-4 border-t border-[var(--color-border)]">
+        <div className="mt-4 pt-4 border-t border-[var(--color-border)] flex items-center justify-center gap-4">
+          <a href="/about" className="text-sm text-[var(--color-accent)] hover:underline">
+            📖 使用指南 / Guide
+          </a>
+          <span className="text-[var(--color-text-secondary)]">·</span>
           <a href="mailto:rockoftruth@sudoem.org" className="text-sm text-[var(--color-accent)] hover:underline">
             ✉️ rockoftruth@sudoem.org
           </a>
