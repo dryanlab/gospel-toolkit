@@ -70,17 +70,17 @@ function CatechismPage() {
   };
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-6">
+    <div className="max-w-5xl mx-auto px-4 py-6 overflow-x-hidden">
       <div className="text-center mb-6">
-        <h1 className="font-serif-cn text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">📖 Westminster Catechism</h1>
+        <h1 className="font-serif-cn text-2xl sm:text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2 break-words">📖 Westminster Catechism</h1>
         <p className="text-[var(--color-text-secondary)]">韦敏斯德要理问答</p>
-        <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto italic">
+        <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-sm mx-auto italic break-words">
           Love the Lord your God with all your heart and with all your soul and with all your mind. — Matthew 22:37
         </p>
       </div>
 
       {/* Chinese version notice */}
-      <div className="rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 p-4 mb-6">
+      <div className="rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 p-4 mb-6 break-words">
         <p className="text-sm text-amber-800 dark:text-amber-200">
           📋 中文版（林格尼尔福音事工授权译本）正在申请版权授权中，目前仅提供英文版本。感谢您的耐心等待！
         </p>
@@ -109,8 +109,8 @@ function CatechismPage() {
               : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text)]'
           }`}
         >
-          <span className="block font-bold">Shorter Catechism</span>
-          <span className="block text-xs opacity-80">{catechismQuestions.length} Questions</span>
+          <span className="block font-bold text-xs sm:text-sm">Shorter Catechism</span>
+          <span className="block text-xs opacity-80">{catechismQuestions.length} Qs</span>
         </button>
         <button
           onClick={() => handleTabChange('wlc')}
@@ -120,8 +120,8 @@ function CatechismPage() {
               : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text)]'
           }`}
         >
-          <span className="block font-bold">Larger Catechism</span>
-          <span className="block text-xs opacity-80">{catechismWlcQuestions.length} Questions</span>
+          <span className="block font-bold text-xs sm:text-sm">Larger Catechism</span>
+          <span className="block text-xs opacity-80">{catechismWlcQuestions.length} Qs</span>
         </button>
       </div>
 

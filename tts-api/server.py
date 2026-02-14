@@ -59,6 +59,6 @@ class Handler(BaseHTTPRequestHandler):
         pass  # quiet
 
 if __name__ == '__main__':
-    server = HTTPServer(('127.0.0.1', 3002), Handler)
-    print('Edge TTS server running on http://localhost:3002')
+    server = HTTPServer(('127.0.0.1', 3000), Handler)
+    print('Edge TTS server running on http://localhost:3000')
     server.serve_forever()
