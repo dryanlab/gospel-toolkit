@@ -410,6 +410,7 @@ export const songs: Song[] = [
   { id: 'doxology-en', title: 'Doxology', subtitle: '荣耀颂', artist: 'Anthem Lights', youtubeId: 'tQUTvMtUhw4', category: '经典圣诗' },
   { id: 'i-know-who-holds-tomorrow-en', title: 'I Know Who Holds Tomorrow', subtitle: '我知谁掌管明天', artist: 'Hymns of the Heart', youtubeId: 'dNN1Z342Iao', category: '经典圣诗' },
   { id: 'trust-and-obey-en', title: 'Trust and Obey', subtitle: '信靠顺服', artist: 'VagleBrothers', youtubeId: 'KB4KcleYiWM', category: '经典圣诗' },
+  { id: 'chong-man-wo', title: '充滿我', subtitle: 'Fill Me', artist: '777Worship', youtubeId: 'SqDQCGxP3pk', category: '敬拜诗歌' },
   { id: 'fill-me-now-en', title: 'Fill Me Now', subtitle: '求主充满我', artist: 'West Kenya Union Conference', youtubeId: 'RRwGQMXvKWQ', category: '敬拜诗歌' },
   { id: 'in-the-garden-en', title: 'In the Garden', subtitle: '在花园里', artist: 'Extended Life Worship', youtubeId: 'EQJrvGJe4Yc', category: '经典圣诗' },
   { id: 'love-of-god-en', title: 'The Love of God', subtitle: '主爱有多少', artist: 'TheSelahVideos', youtubeId: 'Fqp27IvdbSo', category: '经典圣诗' },

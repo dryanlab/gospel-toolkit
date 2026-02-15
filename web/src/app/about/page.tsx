@@ -24,7 +24,7 @@ export default function AboutPage() {
 
         {/* 十大板块 */}
         <section>
-          <h2 className="font-serif-cn text-xl font-bold mb-4">🗂️ 十大板块一览</h2>
+          <h2 className="font-serif-cn text-xl font-bold mb-4">🗂️ 十二大板块一览</h2>
           <div className="space-y-5">
 
             <div>
@@ -38,42 +38,52 @@ export default function AboutPage() {
             </div>
 
             <div>
-              <h3 className="font-bold text-base">3. 💬 福音问答</h3>
+              <h3 className="font-bold text-base">3. 📖 圣徒伴读</h3>
+              <p className="mt-1">圣经作者以<strong>第一人称</strong>带你逐章读经——摩西讲创世记、大卫讲诗篇、保罗讲罗马书……通过作者的视角，了解<strong>历史背景</strong>、<strong>经文结构</strong>、<strong>神学意涵</strong>和<strong>救恩脉络</strong>，让圣经活起来。每周更新，<strong>持续连载</strong>，覆盖全部66卷1189章。</p>
+            </div>
+
+            <div>
+              <h3 className="font-bold text-base">4. 📜 圣徒来信</h3>
+              <p className="mt-1">圣经人物写给你的<strong>亲笔信</strong>——他们最真实的挣扎、信心与得胜。涵盖<strong>心路历程</strong>、<strong>经文解读</strong>、<strong>神学专题</strong>、<strong>圣徒团契</strong>和<strong>致读者书</strong>五个栏目，每周更新。支持<strong>点赞</strong>、<strong>留言</strong>和<strong>分享</strong>。</p>
+            </div>
+
+            <div>
+              <h3 className="font-bold text-base">5. 💬 福音问答</h3>
               <p className="mt-1"><strong>126个</strong>关于基督教信仰的核心问题，中英双语详细解答。涵盖神的存在、圣经的权威、救恩之道、基督徒生活等方方面面，既适合慕道朋友了解信仰，也适合弟兄姐妹温故知新。</p>
             </div>
 
             <div>
-              <h3 className="font-bold text-base">4. 📖 要理问答</h3>
+              <h3 className="font-bold text-base">6. 📖 要理问答</h3>
               <p className="mt-1">收录<strong>韦敏斯德小要理问答</strong>（107题）和<strong>大要理问答</strong>（196题），使用标准译本，配有相关经文。首页每日展示一题，<strong>303天</strong>完整循环，帮助大家系统学习改革宗信仰精华。</p>
             </div>
 
             <div>
-              <h3 className="font-bold text-base">5. 📜 旧约导读</h3>
+              <h3 className="font-bold text-base">7. 📜 旧约导读</h3>
               <p className="mt-1"><strong>39卷</strong>旧约书卷的导读，按摩西五经、历史书、诗歌智慧书、大先知书、小先知书分类。每卷书包含写作背景、核心主题、关键经文和实际应用，帮助大家更好地读懂旧约。</p>
             </div>
 
             <div>
-              <h3 className="font-bold text-base">6. ✉️ 新约导读</h3>
+              <h3 className="font-bold text-base">8. ✉️ 新约导读</h3>
               <p className="mt-1"><strong>27卷</strong>新约书卷的导读，按福音书与使徒行传、保罗书信、普通书信、启示录分类。同样包含背景介绍、主题概述和应用指引。</p>
             </div>
 
             <div>
-              <h3 className="font-bold text-base">7. 🛡️ 护教学</h3>
+              <h3 className="font-bold text-base">9. 🛡️ 护教学</h3>
               <p className="mt-1"><strong>75篇</strong>护教文章，回应来自无神论、科学主义、多元主义、相对主义等各类世界观的挑战。帮助弟兄姐妹&ldquo;常作准备，以温柔、敬畏的心回答各人&rdquo;（彼前 3:15）。</p>
             </div>
 
             <div>
-              <h3 className="font-bold text-base">8. 🌱 青少年</h3>
+              <h3 className="font-bold text-base">10. 🌱 青少年</h3>
               <p className="mt-1"><strong>108篇</strong>文章，分为<strong>8大板块</strong>，专为青少年设计。用贴近年轻人生活的语言谈信仰、身份、情感、学业、社交等话题，帮助下一代在真道上站立得稳。</p>
             </div>
 
             <div>
-              <h3 className="font-bold text-base">9. 🎵 敬拜诗歌</h3>
-              <p className="mt-1">精选<strong>415首</strong>中英文敬拜诗歌，涵盖赞美诗歌、敬拜诗歌、福音诗歌、经典圣诗等类别。内嵌<strong>YouTube播放器</strong>，支持顺序播放、随机播放、单曲循环等多种模式，也支持搜索和分类浏览。可以在灵修、家庭敬拜或个人安静时间中使用。</p>
+              <h3 className="font-bold text-base">11. 🎵 敬拜诗歌</h3>
+              <p className="mt-1">精选<strong>416首</strong>中英文敬拜诗歌，涵盖赞美诗歌、敬拜诗歌、福音诗歌、经典圣诗等类别。内嵌<strong>YouTube播放器</strong>，支持顺序播放、随机播放、单曲循环等多种模式，也支持搜索和分类浏览。可以在灵修、家庭敬拜或个人安静时间中使用。</p>
             </div>
 
             <div>
-              <h3 className="font-bold text-base">10. 📚 书库</h3>
+              <h3 className="font-bold text-base">12. 📚 书库</h3>
               <p className="mt-1"><strong>326本</strong>改革宗经典著作，支持按<strong>作者</strong>（222位）、<strong>适合人群</strong>、<strong>分类</strong>浏览和搜索。其中<strong>21本</strong>可在线阅读全文，是深入学习的宝贵资源。</p>
             </div>
 

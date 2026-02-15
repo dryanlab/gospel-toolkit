@@ -1,0 +1,19 @@
+{
+  "name": "rockoftruth-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-12-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "rockoftruth-db",
+      "database_id": "1993a4e8-207f-4bc8-ad8f-563a1edf069e"
+    }
+  ],
+  "vars": {
+    "CORS_ORIGIN": "https://rockoftruth.sudoem.org"
+  },
+  "workers_dev": true,
+  "routes": [
+    { "pattern": "api.rockoftruth.sudoem.org/*", "zone_name": "sudoem.org" }
+  ]
+}

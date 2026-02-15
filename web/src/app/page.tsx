@@ -54,7 +54,7 @@ const modules = [
     href: '/worship',
     title: '敬拜诗歌',
     subtitle: 'Worship',
-    desc: '415首中英文敬拜诗歌，在歌声中亲近神',
+    desc: '416首中英文敬拜诗歌，在歌声中亲近神',
     color: 'from-rose-600 to-pink-700',
     icon: '🎵',
   },
@@ -88,8 +88,8 @@ export default function HomePage() {
         </p>
       </div>
 
-      {/* Featured: Gospel CTA + Family Altar */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-10">
+      {/* Featured CTAs */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">
         <Link href="/gospel" className="block group">
           <div className="relative rounded-2xl border-2 border-[var(--color-accent)] bg-gradient-to-r from-[var(--color-accent)]/10 to-transparent p-6 md:p-8 text-center hover:shadow-lg transition-all h-full flex flex-col justify-center">
             <div className="text-4xl mb-3">✝️</div>
@@ -121,6 +121,40 @@ export default function HomePage() {
             </p>
             <span className="inline-flex items-center gap-1 text-[var(--color-accent)] font-medium text-sm group-hover:underline">
               今日内容 Today&apos;s Content →
+            </span>
+          </div>
+        </Link>
+        <Link href="/readings" className="block group">
+          <div className="relative rounded-2xl border-2 border-[var(--color-accent)] bg-gradient-to-r from-emerald-600/10 to-teal-500/10 p-6 md:p-8 text-center hover:shadow-lg transition-all h-full flex flex-col justify-center">
+            <div className="text-4xl mb-3">📖</div>
+            <h2 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">
+              圣徒伴读
+            </h2>
+            <p className="text-[var(--color-text-secondary)] text-sm mx-auto mb-3">
+              圣经作者亲自带你逐章读经
+            </p>
+            <p className="text-[var(--color-text-secondary)] text-xs italic mx-auto mb-4">
+              Read with the Saints — chapter by chapter
+            </p>
+            <span className="inline-flex items-center gap-1 text-[var(--color-accent)] font-medium text-sm group-hover:underline">
+              开始阅读 Start Reading →
+            </span>
+          </div>
+        </Link>
+        <Link href="/letters" className="block group">
+          <div className="relative rounded-2xl border-2 border-[var(--color-accent)] bg-gradient-to-r from-amber-600/10 to-yellow-500/10 p-6 md:p-8 text-center hover:shadow-lg transition-all h-full flex flex-col justify-center">
+            <div className="text-4xl mb-3">📜</div>
+            <h2 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">
+              圣徒来信
+            </h2>
+            <p className="text-[var(--color-text-secondary)] text-sm mx-auto mb-3">
+              圣经人物的亲笔信——最真实的挣扎与得胜
+            </p>
+            <p className="text-[var(--color-text-secondary)] text-xs italic mx-auto mb-4">
+              Letters from biblical figures — their struggles and victories
+            </p>
+            <span className="inline-flex items-center gap-1 text-[var(--color-accent)] font-medium text-sm group-hover:underline">
+              阅读来信 Read Letters →
             </span>
           </div>
         </Link>
