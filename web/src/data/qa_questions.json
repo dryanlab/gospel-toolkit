@@ -4231,7 +4231,8 @@
         "text": "韦敏斯德小要理问答 第98-107问；WSC Q98-107"
       },
       {
-        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer",
+        "book_id": "book-291"
       }
     ]
   },
@@ -4253,7 +4254,8 @@
         "text": "韦敏斯德小要理问答 第99-107问；WSC Q99-107"
       },
       {
-        "text": "托马斯·沃森，《主祷文》；Thomas Watson, The Lord's Prayer"
+        "text": "托马斯·沃森，《主祷文》；Thomas Watson, The Lord's Prayer",
+        "book_id": "book-291"
       }
     ]
   },
@@ -4273,10 +4275,12 @@
     ],
     "related_readings": [
       {
-        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer",
+        "book_id": "book-291"
       },
       {
-        "text": "约翰·班扬，《祷告的灵》；John Bunyan, Prayer"
+        "text": "约翰·班扬，《祷告的灵》；John Bunyan, Prayer",
+        "book_id": "book-291"
       }
     ]
   },
@@ -4296,7 +4300,8 @@
     ],
     "related_readings": [
       {
-        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer",
+        "book_id": "book-291"
       }
     ]
   },
@@ -4339,7 +4344,8 @@
     ],
     "related_readings": [
       {
-        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer",
+        "book_id": "book-291"
       },
       {
         "text": "韦敏斯德小要理问答 第98问；WSC Q98"
@@ -4362,7 +4368,8 @@
     ],
     "related_readings": [
       {
-        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer",
+        "book_id": "book-291"
       },
       {
         "text": "以弗所书 6:18-20；Ephesians 6:18-20"
@@ -4385,7 +4392,8 @@
     ],
     "related_readings": [
       {
-        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer",
+        "book_id": "book-291"
       },
       {
         "text": "唐·惠特尼，《属灵操练》；Don Whitney, Spiritual Disciplines"
@@ -4408,13 +4416,15 @@
     ],
     "related_readings": [
       {
-        "text": "加尔文，《基督教要义》卷三第20章；Calvin, Institutes III.20"
+        "text": "加尔文，《基督教要义》卷三第20章；Calvin, Institutes III.20",
+        "book_id": "book-003"
       },
       {
         "text": "韦敏斯德信条 第3、5章；WCF ch.3, 5"
       },
       {
-        "text": "司布真，《祷告的能力》；C.H. Spurgeon, The Power of Prayer"
+        "text": "司布真，《祷告的能力》；C.H. Spurgeon, The Power of Prayer",
+        "book_id": "book-291"
       }
     ]
   },
@@ -4457,7 +4467,8 @@
     ],
     "related_readings": [
       {
-        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God"
+        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God",
+        "book_id": "book-002"
       },
       {
         "text": "赖特，《纯粹基督教》；N.T. Wright, Simply Christian"
@@ -4480,10 +4491,12 @@
     ],
     "related_readings": [
       {
-        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God"
+        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God",
+        "book_id": "book-002"
       },
       {
-        "text": "鲁益师，《返璞归真》；C.S. Lewis, Mere Christianity"
+        "text": "鲁益师，《返璞归真》；C.S. Lewis, Mere Christianity",
+        "book_id": "book-001"
       }
     ]
   },
@@ -4503,7 +4516,8 @@
     ],
     "related_readings": [
       {
-        "text": "鲁益师，《返璞归真》；C.S. Lewis, Mere Christianity"
+        "text": "鲁益师，《返璞归真》；C.S. Lewis, Mere Christianity",
+        "book_id": "book-001"
       },
       {
         "text": "传道书 1-2章；Ecclesiastes 1-2"
@@ -4575,7 +4589,8 @@
         "text": "提摩太·凯勒，《一掷千金的上帝》；Tim Keller, The Prodigal God"
       },
       {
-        "text": "巴刻，《认识神》；J.I. Packer, Knowing God"
+        "text": "巴刻，《认识神》；J.I. Packer, Knowing God",
+        "book_id": "book-118"
       }
     ]
   },
@@ -4595,7 +4610,8 @@
     ],
     "related_readings": [
       {
-        "text": "鲁益师，《返璞归真》；C.S. Lewis, Mere Christianity"
+        "text": "鲁益师，《返璞归真》；C.S. Lewis, Mere Christianity",
+        "book_id": "book-001"
       },
       {
         "text": "约翰·乔布恩，《基督教真善美》；Joe Rigney, The Things of Earth"
@@ -4675,7 +4691,8 @@
     ],
     "related_readings": [
       {
-        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God"
+        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God",
+        "book_id": "book-002"
       }
     ]
   },
@@ -4741,7 +4758,8 @@
     ],
     "related_readings": [
       {
-        "text": "鲁益师，《神迹》；C.S. Lewis, Miracles"
+        "text": "鲁益师，《神迹》；C.S. Lewis, Miracles",
+        "book_id": "book-009"
       },
       {
         "text": "约翰·列诺克斯，《上帝的开拓者》；John Lennox, God's Undertaker"
@@ -4787,10 +4805,12 @@
     ],
     "related_readings": [
       {
-        "text": "鲁益师，《返璇归真》；C.S. Lewis, Mere Christianity"
+        "text": "鲁益师，《返璇归真》；C.S. Lewis, Mere Christianity",
+        "book_id": "book-001"
       },
       {
-        "text": "赖特，《天堂》；Randy Alcorn, Heaven"
+        "text": "赖特，《天堂》；Randy Alcorn, Heaven",
+        "book_id": "book-255"
       }
     ]
   },
@@ -4813,7 +4833,8 @@
         "text": "韦敏斯德信条 10章；WCF ch.10"
       },
       {
-        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God"
+        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God",
+        "book_id": "book-002"
       }
     ]
   },
@@ -4833,7 +4854,8 @@
     ],
     "related_readings": [
       {
-        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God"
+        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God",
+        "book_id": "book-002"
       },
       {
         "text": "韦敏斯德信条 32-33章；WCF ch.32-33"
@@ -4856,7 +4878,8 @@
     ],
     "related_readings": [
       {
-        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God"
+        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God",
+        "book_id": "book-002"
       }
     ]
   },
@@ -4876,7 +4899,8 @@
     ],
     "related_readings": [
       {
-        "text": "赖特，《天堂》；Randy Alcorn, Heaven"
+        "text": "赖特，《天堂》；Randy Alcorn, Heaven",
+        "book_id": "book-255"
       },
       {
         "text": "韦敏斯德信条 32章；WCF ch.32"
@@ -4902,7 +4926,8 @@
         "text": "韦敏斯德信条 32章；WCF ch.32"
       },
       {
-        "text": "赖特，《天堂》；Randy Alcorn, Heaven"
+        "text": "赖特，《天堂》；Randy Alcorn, Heaven",
+        "book_id": "book-255"
       }
     ]
   },
@@ -4922,7 +4947,8 @@
     ],
     "related_readings": [
       {
-        "text": "加尔文，《基督教要义》卷三；Calvin, Institutes III"
+        "text": "加尔文，《基督教要义》卷三；Calvin, Institutes III",
+        "book_id": "book-003"
       },
       {
         "text": "马丁·路德，《加拉太书注释》；Martin Luther, Commentary on Galatians"
@@ -4971,7 +4997,8 @@
         "text": "韦敏斯德信条 16章；WCF ch.16"
       },
       {
-        "text": "巴克，《认识神》；J.I. Packer, Knowing God"
+        "text": "巴克，《认识神》；J.I. Packer, Knowing God",
+        "book_id": "book-118"
       }
     ]
   },
@@ -4990,10 +5017,12 @@
     ],
     "related_readings": [
       {
-        "text": "鲁益师，《返璇归真》；C.S. Lewis, Mere Christianity"
+        "text": "鲁益师，《返璇归真》；C.S. Lewis, Mere Christianity",
+        "book_id": "book-001"
       },
       {
-        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God"
+        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God",
+        "book_id": "book-002"
       }
     ]
   },
@@ -5013,7 +5042,8 @@
     ],
     "related_readings": [
       {
-        "text": "鲁益师，《返璇归真》；C.S. Lewis, Mere Christianity"
+        "text": "鲁益师，《返璇归真》；C.S. Lewis, Mere Christianity",
+        "book_id": "book-001"
       },
       {
         "text": "布尔兛斯，《报应假神》；Alvin Plantinga, Where the Conflict Really Lies"
@@ -5036,7 +5066,8 @@
     ],
     "related_readings": [
       {
-        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God"
+        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God",
+        "book_id": "book-002"
       },
       {
         "text": "韦敏斯德信条 16章；WCF ch.16"
@@ -5059,10 +5090,12 @@
     ],
     "related_readings": [
       {
-        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God"
+        "text": "提摩太·凯勒，《为何是他》；Tim Keller, The Reason for God",
+        "book_id": "book-002"
       },
       {
-        "text": "圣奥古斯丁，《忠告》；Augustine, Confessions"
+        "text": "圣奥古斯丁，《忠告》；Augustine, Confessions",
+        "book_id": "book-324"
       }
     ]
   }
