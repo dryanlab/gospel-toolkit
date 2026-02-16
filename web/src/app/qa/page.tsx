@@ -23,6 +23,8 @@ const categoryGradients: Record<string, string> = {
   science_and_faith: 'from-teal-600 to-emerald-700',
   moral_foundation: 'from-orange-600 to-amber-700',
   prayer: 'from-pink-600 to-rose-700',
+  common_objections: 'from-amber-600 to-orange-700',
+  christian_life: 'from-emerald-600 to-teal-700',
 };
 
 const categoryIcons: Record<string, string> = {
@@ -46,6 +48,8 @@ const categoryIcons: Record<string, string> = {
   science_and_faith: '🔬',
   moral_foundation: '🧭',
   prayer: '🙏',
+  common_objections: '🤔',
+  christian_life: '🌿',
 };
 
 export default function QAPage() {
@@ -72,6 +76,8 @@ export default function QAPage() {
     'heaven_and_hell',         // 天堂与地狱
     'life_after_death',        // 死后生命
     'eschatology',             // 末世与永恒
+    'common_objections',       // 常见疑虑
+    'christian_life',          // 基督徒生活
   ];
   const catCounts: Record<string, number> = {};
   qaQuestions.forEach(q => {

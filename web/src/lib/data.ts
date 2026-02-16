@@ -126,6 +126,8 @@ export const categoryLabels: Record<string, { zh: string; en: string }> = {
   sacraments: { zh: '圣礼', en: 'Sacraments' },
   trinity: { zh: '三位一体', en: 'Trinity' },
   two_natures_of_christ: { zh: '基督二性', en: 'Two Natures of Christ' },
+  common_objections: { zh: '常见疑虑', en: 'Common Objections' },
+  christian_life: { zh: '基督徒生活', en: 'Christian Life' },
   faith_and_works: { zh: '信心与行为', en: 'Faith & Works' },
   heaven_and_hell: { zh: '天堂与地狱', en: 'Heaven & Hell' },
   '上帝存在': { zh: '上帝存在', en: 'Existence of God' },
@@ -164,6 +166,8 @@ export const qaCategoryOrder: string[] = [
   'heaven_and_hell',         // 天堂与地狱
   'life_after_death',        // 死后生命
   'eschatology',             // 末世与永恒
+  'common_objections',       // 常见疑虑
+  'christian_life',          // 基督徒生活
 ];
 
 // Youth section order for navigation
