@@ -4,7 +4,12 @@ import { useState, useRef, useEffect } from 'react';
 import { usePathname } from 'next/navigation';
 import { registerAudio, stopCurrent, unregister } from '@/lib/audio-manager';
 
-const TTS_URL = process.env.NEXT_PUBLIC_TTS_URL || 'https://tts.sudoem.org';
+function getTtsUrl() {
+  if (typeof window !== 'undefined' && (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')) {
+    return 'http://localhost:3000';
+  }
+  return 'https://tts.sudoem.org';
+}
 
 export default function SpeakButton({ text, lang, className }: { text: string; lang: 'zh' | 'en'; className?: string }) {
   const [state, setState] = useState<'idle' | 'loading' | 'playing'>('idle');
@@ -37,7 +42,7 @@ export default function SpeakButton({ text, lang, className }: { text: string; l
     setState('loading');
 
     try {
-      const res = await fetch(TTS_URL, {
+      const res = await fetch(getTtsUrl(), {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ text, lang }),
