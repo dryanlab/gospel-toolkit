@@ -4244,5 +4244,321 @@
       "evangelism",
       "beginner"
     ]
+  },
+  {
+    "id": "q127",
+    "category": "prayer",
+    "question_zh": "什么是祷告？",
+    "question_en": "What is prayer?",
+    "short_answer_zh": "祷告是与上帝说话，是信徒在基督里借着圣灵向天父倾心吐意。它包括敬拜、感恩、认罪和祈求。",
+    "short_answer_en": "Prayer is speaking with God — believers pouring out their hearts to the Father in Christ through the Spirit. It includes worship, thanksgiving, confession, and petition.",
+    "detailed_answer_zh": "韦敏斯德小要理问答第98问说：「祷告是奉基督的名，向上帝陈明我们的愿望，祈求合乎祂旨意的事，承认我们的罪，并感谢祂的怜悯。」\n\n祷告不是宗教仪式，不是念咒语，也不是自我心理暗示。祷告是一个孩子对天父说话。大卫说：「耶和华啊，我的心仰望你」（诗25:1）。保罗教导我们：「应当一无挂虑，只要凡事借着祷告、祈求和感谢，将你们所要的告诉上帝」（腓4:6）。\n\n祷告有几个基本要素：敬拜（赞美上帝的属性和作为）、感恩（为已领受的恩典感谢）、认罪（承认我们的过犯并求赦免）、祈求（为自己和他人的需要向上帝陈明）。这不是一个死板的公式，而是一段活泼的对话。\n\n最重要的是，祷告之所以可能，是因为基督为我们开了一条又新又活的路（来10:19-20）。没有基督的中保工作，罪人无法坦然来到圣洁的上帝面前。祷告是恩典的特权，不是人的功德。",
+    "detailed_answer_en": "The Westminster Shorter Catechism Q98 says: 'Prayer is an offering up of our desires unto God, in the name of Christ, by the help of his Spirit, with confession of our sins, and thankful acknowledgment of his mercies.'\n\nPrayer is not a religious ritual, not a magic incantation, not self-help psychology. Prayer is a child speaking to the Father. David said: 'To you, O LORD, I lift up my soul' (Ps 25:1). Paul instructs: 'Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God' (Phil 4:6).\n\nPrayer has several basic elements: worship (praising God's attributes and works), thanksgiving (gratitude for grace received), confession (acknowledging our transgressions and seeking forgiveness), and petition (presenting needs for ourselves and others). This is not a rigid formula but a living conversation.\n\nMost importantly, prayer is possible because Christ opened a new and living way for us (Heb 10:19-20). Without Christ's mediatorial work, sinners cannot boldly approach a holy God. Prayer is a privilege of grace, not a human merit.",
+    "related_verses": [
+      {
+        "ref": "腓立比书 4:6 / Philippians 4:6",
+        "text": "应当一无挂虑，只要凡事借着祷告、祈求和感谢，将你们所要的告诉上帝。"
+      },
+      {
+        "ref": "诗篇 25:1 / Psalm 25:1",
+        "text": "耶和华啊，我的心仰望你。"
+      },
+      {
+        "ref": "希伯来书 10:19-20 / Hebrews 10:19-20",
+        "text": "弟兄们，我们既因耶稣的血得以坦然进入至圣所，是借着他给我们开了一条又新又活的路。"
+      }
+    ],
+    "further_reading": [
+      {
+        "text": "韦敏斯德小要理问答 第98-107问；WSC Q98-107"
+      },
+      {
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+      }
+    ]
+  },
+  {
+    "id": "q128",
+    "category": "prayer",
+    "question_zh": "如何祷告？主祷文教导我们什么？",
+    "question_en": "How should we pray? What does the Lord's Prayer teach us?",
+    "short_answer_zh": "耶稣亲自教导门徒用主祷文祷告。它包含六个祈求：三个关于上帝的荣耀，三个关于我们的需要——先求祂的国和义，然后是日用的饮食、赦免和保守。",
+    "short_answer_en": "Jesus taught His disciples to pray using the Lord's Prayer. It contains six petitions: three concerning God's glory and three concerning our needs — seeking His kingdom first, then daily provision, forgiveness, and protection.",
+    "detailed_answer_zh": "主祷文（太6:9-13）是祷告的完美范本：\n\n「我们在天上的父」——祷告的根基是父子关系，不是宗教义务。「我们」提醒我们祷告不是独自的行为，而是教会共同体中的。\n\n「愿人都尊你的名为圣」——祷告首先不是关于我们的需要，而是关于上帝的荣耀。\n\n「愿你的国降临，愿你的旨意行在地上如同行在天上」——我们渴望上帝的主权完全彰显，而非我们自己的计划得逞。\n\n「我们日用的饮食，今日赐给我们」——把最基本的物质需要也交给天父，承认一切供应都来自祂。\n\n「免我们的债，如同我们免了人的债」——认罪与饶恕是祷告生活的核心。不饶恕人的，无法真正领受上帝的赦免。\n\n「不叫我们遇见试探，救我们脱离凶恶」——我们承认自己的软弱，需要上帝的保守。\n\n加尔文说主祷文是「祷告的规则和模式」。每一句都可以展开成丰富的祷告。不是机械地背诵，而是用它来引导和塑造我们的祷告生活。",
+    "detailed_answer_en": "The Lord's Prayer (Matt 6:9-13) is the perfect model for prayer:\n\n'Our Father in heaven' — Prayer's foundation is a father-child relationship, not religious duty. 'Our' reminds us prayer is communal, within the church.\n\n'Hallowed be your name' — Prayer begins not with our needs but God's glory.\n\n'Your kingdom come, your will be done, on earth as it is in heaven' — We long for God's sovereignty fully displayed, not our own plans.\n\n'Give us this day our daily bread' — Entrusting even basic material needs to the Father, acknowledging all provision comes from Him.\n\n'Forgive us our debts, as we also have forgiven our debtors' — Confession and forgiveness are central to prayer life. Those who refuse to forgive cannot truly receive God's pardon.\n\n'Lead us not into temptation, but deliver us from evil' — We acknowledge our weakness and need for God's protection.\n\nCalvin called the Lord's Prayer 'the rule and pattern of prayer.' Each petition can unfold into rich prayer. It is not mechanical recitation but a guide to shape our prayer lives.",
+    "related_verses": [
+      {
+        "ref": "马太福音 6:9-13 / Matthew 6:9-13",
+        "text": "所以，你们祷告要这样说：我们在天上的父，愿人都尊你的名为圣。愿你的国降临。愿你的旨意行在地上，如同行在天上。我们日用的饮食，今日赐给我们。免我们的债，如同我们免了人的债。不叫我们遇见试探，救我们脱离凶恶。"
+      },
+      {
+        "ref": "路加福音 11:1 / Luke 11:1",
+        "text": "耶稣在一个地方祷告。祷告完了，有个门徒对他说：求主教导我们祷告。"
+      }
+    ],
+    "further_reading": [
+      {
+        "text": "韦敏斯德小要理问答 第99-107问；WSC Q99-107"
+      },
+      {
+        "text": "托马斯·沃森，《主祷文》；Thomas Watson, The Lord's Prayer"
+      }
+    ]
+  },
+  {
+    "id": "q129",
+    "category": "prayer",
+    "question_zh": "基督徒为什么必须祷告？",
+    "question_en": "Why must Christians pray?",
+    "short_answer_zh": "祷告是上帝命定的恩典途径，是信徒属灵呼吸的方式。不祷告不仅是违背命令，更是切断与上帝的生命连接。",
+    "short_answer_en": "Prayer is a means of grace ordained by God, the spiritual breathing of believers. Failing to pray is not only disobedience but cutting off our life-connection with God.",
+    "detailed_answer_zh": "第一，因为上帝命令我们祷告。保罗说「不住地祷告」（帖前5:17），耶稣讲比喻教导门徒「常常祷告，不可灰心」（路18:1）。这不是可选项，而是基督徒生命的必需品。\n\n第二，因为祷告是上帝设立的恩典途径。与读经、圣礼并列，祷告是上帝用来坚固和滋养我们信心的方式。缺少祷告的基督徒就像不呼吸的人，属灵生命会枯萎。\n\n第三，因为连耶稣自己都祷告。如果道成肉身的上帝之子都需要清早起来祷告（可1:35），在重大决定前通宵祷告（路6:12），在客西马尼园极其伤痛地祷告（路22:44），我们这些软弱的罪人怎能不祷告？\n\n第四，因为我们的仇敌不睡觉。彼得警告说：「你们的仇敌魔鬼，如同吼叫的狮子，遍地游行，寻找可吞吃的人」（彼前5:8）。祷告是属灵争战中不可或缺的武器（弗6:18）。\n\n不祷告是属灵的骄傲——它暗示我们可以靠自己应付生活。撒母耳说：「至于我，断不停止为你们祷告，以致得罪耶和华」（撒上12:23）。不祷告，就是得罪上帝。",
+    "detailed_answer_en": "First, because God commands us to pray. Paul says 'pray without ceasing' (1 Thess 5:17). Jesus taught His disciples to 'always pray and not lose heart' (Luke 18:1). This is not optional but essential to Christian life.\n\nSecond, because prayer is a means of grace God established. Alongside Scripture reading and sacraments, prayer is how God strengthens and nourishes our faith. A Christian without prayer is like a person not breathing — spiritual life withers.\n\nThird, because even Jesus Himself prayed. If the incarnate Son of God rose early to pray (Mark 1:35), prayed all night before major decisions (Luke 6:12), and prayed in agony at Gethsemane (Luke 22:44), how can we weak sinners not pray?\n\nFourth, because our enemy never sleeps. Peter warns: 'Your adversary the devil prowls around like a roaring lion, seeking someone to devour' (1 Pet 5:8). Prayer is indispensable in spiritual warfare (Eph 6:18).\n\nPrayerlessness is spiritual pride — it implies we can handle life on our own. Samuel said: 'Far be it from me that I should sin against the LORD by ceasing to pray for you' (1 Sam 12:23). To not pray is to sin against God.",
+    "related_verses": [
+      {
+        "ref": "帖撒罗尼迦前书 5:17 / 1 Thessalonians 5:17",
+        "text": "不住地祷告。"
+      },
+      {
+        "ref": "马可福音 1:35 / Mark 1:35",
+        "text": "次日早晨，天未亮的时候，耶稣起来，到旷野地方去，在那里祷告。"
+      },
+      {
+        "ref": "以弗所书 6:18 / Ephesians 6:18",
+        "text": "靠着圣灵，随时多方祷告祈求。"
+      }
+    ],
+    "further_reading": [
+      {
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+      },
+      {
+        "text": "约翰·班扬，《祷告的灵》；John Bunyan, Prayer"
+      }
+    ]
+  },
+  {
+    "id": "q130",
+    "category": "prayer",
+    "question_zh": "上帝回应祷告的三种方式是什么？",
+    "question_en": "What are the three ways God answers prayer?",
+    "short_answer_zh": "上帝对祷告的回应有三种：「好的」——照你所求的成就；「不」——因为祂有更好的计划；「等候」——时候还没有到。每一种都出于祂完美的爱和智慧。",
+    "short_answer_en": "God answers prayer in three ways: 'Yes' — granting what you ask; 'No' — because He has a better plan; 'Wait' — the timing isn't right. Each response flows from His perfect love and wisdom.",
+    "detailed_answer_zh": "许多人以为祷告不蒙应允就是上帝没有回应。但事实上，上帝总是回应，只是方式不同：\n\n**第一种：好的（Yes）。** 上帝照着我们所求的赐下。以利亚在迦密山上祷告求火从天降下，上帝应允了（王上18:37-38）。希西家病重祷告，上帝加增他十五年寿命（王下20:5-6）。当我们的祈求合乎上帝的旨意，祂乐意赐给我们。「你们若奉我的名求什么，我必成就」（约14:14）。\n\n**第二种：不（No）。** 上帝拒绝我们的请求，因为祂知道什么对我们真正有益。保罗三次求上帝移去他身上的刺，上帝说「不」——「我的恩典够你用的，因为我的能力是在人的软弱上显得完全」（林后12:8-9）。摩西求进入应许之地，上帝也说「不」（申3:26）。上帝的拒绝不是冷漠，而是更深的爱。一个好父亲不会把刀给孩子当玩具，即使孩子哭着要。\n\n**第三种：等候（Wait）。** 上帝的时间表不同于我们的。亚伯拉罕等了二十五年才得到应许之子以撒。约瑟从被卖到被提升等了十三年。大卫被膏立后又等了许多年才登上王位。诗人说：「我曾耐性等候耶和华，他垂听我的呼求」（诗40:1）。等候的过程不是浪费，而是上帝塑造我们信心和品格的工作坊。\n\n无论上帝的回应是什么，祂都是爱我们的。「你们虽然不好，尚且知道拿好东西给儿女，何况你们在天上的父，岂不更把好东西给求他的人吗？」（太7:11）。信靠上帝的智慧，即使我们暂时不明白。",
+    "detailed_answer_en": "Many think unanswered prayer means God isn't responding. But God always responds — just in different ways:\n\n**First: Yes.** God grants what we ask. Elijah prayed for fire from heaven on Mount Carmel, and God answered (1 Kings 18:37-38). Hezekiah prayed in severe illness, and God added fifteen years (2 Kings 20:5-6). When our requests align with God's will, He delights to give. 'If you ask me anything in my name, I will do it' (John 14:14).\n\n**Second: No.** God refuses our request because He knows what's truly beneficial. Paul asked three times for God to remove his thorn; God said 'No' — 'My grace is sufficient for you, for my power is made perfect in weakness' (2 Cor 12:8-9). Moses asked to enter the Promised Land; God said 'No' (Deut 3:26). God's refusal isn't indifference but deeper love. A good father won't give a child a knife as a toy, even when the child cries for it.\n\n**Third: Wait.** God's timetable differs from ours. Abraham waited twenty-five years for the promised son Isaac. Joseph waited thirteen years from being sold to being exalted. David was anointed but waited many years before ascending the throne. The psalmist says: 'I waited patiently for the LORD; he inclined to me and heard my cry' (Ps 40:1). Waiting is not wasted time but God's workshop for shaping our faith and character.\n\nWhatever God's response, He loves us. 'If you then, who are evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him?' (Matt 7:11). Trust God's wisdom, even when we don't yet understand.",
+    "related_verses": [
+      {
+        "ref": "哥林多后书 12:8-9 / 2 Corinthians 12:8-9",
+        "text": "为这事，我三次求过主，叫这刺离开我。他对我说：我的恩典够你用的，因为我的能力是在人的软弱上显得完全。"
+      },
+      {
+        "ref": "诗篇 40:1 / Psalm 40:1",
+        "text": "我曾耐性等候耶和华，他垂听我的呼求。"
+      },
+      {
+        "ref": "马太福音 7:11 / Matthew 7:11",
+        "text": "你们虽然不好，尚且知道拿好东西给儿女，何况你们在天上的父，岂不更把好东西给求他的人吗？"
+      }
+    ],
+    "further_reading": [
+      {
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+      },
+      {
+        "text": "司布真，《祷告的能力》；C.H. Spurgeon, The Power of Prayer"
+      }
+    ]
+  },
+  {
+    "id": "q131",
+    "category": "prayer",
+    "question_zh": "祷告需要特定的姿势或地点吗？",
+    "question_en": "Does prayer require a specific posture or place?",
+    "short_answer_zh": "不需要。上帝看的是内心，不是外在形式。你可以跪着、站着、走路时、开车时祷告。但安静独处的祷告时间（密室祷告）对灵命成长尤为重要。",
+    "short_answer_en": "No. God looks at the heart, not outward form. You can pray kneeling, standing, walking, or driving. But quiet, private prayer time is especially important for spiritual growth.",
+    "detailed_answer_zh": "圣经中的祷告有各种姿势：亚伯拉罕站着与上帝对话（创18:22），所罗门跪着祷告（王上8:54），大卫坐在耶和华面前祷告（撒下7:18），耶稣俯伏在地祷告（太26:39），尼希米在国王面前默默祷告（尼2:4）。姿势可以帮助我们集中心思，但不是祷告蒙应允的条件。\n\n耶稣教导说：「你祷告的时候，要进你的内屋，关上门，祷告你在暗中的父」（太6:6）。这不是说只能在房间里祷告，而是强调真实的祷告不是做给人看的表演。法利赛人站在街角大声祷告，是为了让人称赞他们的敬虔——耶稣说他们已经得了他们的赏赐（太6:5）。\n\n保罗说「不住地祷告」（帖前5:17），意味着祷告应该渗透到生活的每一个角落——工作中、行路时、做饭时、等红灯时。但这种随时随地的祷告不能取代有规律的、专心的密室祷告。就像一对夫妻白天可以发信息，但仍然需要面对面的深谈时间。\n\n总之，上帝不在乎你的身体姿势，但在乎你的心灵姿势——是否谦卑、是否真诚、是否信靠基督。",
+    "detailed_answer_en": "Scripture shows prayer in various postures: Abraham stood talking with God (Gen 18:22), Solomon knelt (1 Kings 8:54), David sat before the Lord (2 Sam 7:18), Jesus fell on His face (Matt 26:39), Nehemiah prayed silently before the king (Neh 2:4). Posture can help focus the mind but isn't a condition for answered prayer.\n\nJesus taught: 'When you pray, go into your room and shut the door and pray to your Father who is in secret' (Matt 6:6). This doesn't mean we can only pray indoors, but that genuine prayer isn't a performance. The Pharisees prayed loudly on street corners for human praise — Jesus said they already had their reward (Matt 6:5).\n\nPaul says 'pray without ceasing' (1 Thess 5:17), meaning prayer should permeate every part of life — at work, walking, cooking, at red lights. But this constant prayer cannot replace regular, focused private prayer. Like a couple who texts during the day but still needs face-to-face conversation.\n\nIn sum, God doesn't care about your body's posture but your heart's posture — whether it's humble, sincere, and trusting in Christ.",
+    "related_verses": [
+      {
+        "ref": "马太福音 6:6 / Matthew 6:6",
+        "text": "你祷告的时候，要进你的内屋，关上门，祷告你在暗中的父；你父在暗中察看，必然报答你。"
+      },
+      {
+        "ref": "帖撒罗尼迦前书 5:17 / 1 Thessalonians 5:17",
+        "text": "不住地祷告。"
+      },
+      {
+        "ref": "尼希米记 2:4 / Nehemiah 2:4",
+        "text": "王问我说：你要求什么？于是我默祷天上的上帝。"
+      }
+    ],
+    "further_reading": [
+      {
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+      }
+    ]
+  },
+  {
+    "id": "q132",
+    "category": "prayer",
+    "question_zh": "奉耶稣的名祷告是什么意思？",
+    "question_en": "What does it mean to pray in Jesus' name?",
+    "short_answer_zh": "不是在祷告末尾加一句口头禅，而是承认我们唯独靠基督的中保工作才能来到上帝面前，并且按照基督的心意和旨意祷告。",
+    "short_answer_en": "It's not adding a catchphrase at the end of prayer, but acknowledging that we come before God solely through Christ's mediation, praying according to His heart and will.",
+    "detailed_answer_zh": "耶稣说：「你们奉我的名无论求什么，我必成就，叫父因儿子得荣耀」（约14:13）。很多人以为「奉耶稣的名」只是祷告结尾的固定用语，像一个通关密码。但它的含义远比这深刻。\n\n第一，承认基督是唯一的中保。「因为只有一位上帝，在上帝和人中间，只有一位中保，乃是降世为人的基督耶稣」（提前2:5）。旧约时代，大祭司代表百姓进入至圣所；如今基督是我们永远的大祭司，祂的宝血为我们打开了通往上帝的道路。我们不是凭自己的义，而是凭基督的义来到上帝面前。\n\n第二，按照基督的心意祷告。奉一个人的名行事，意味着代表他、按照他的意愿行动。奉耶稣的名祷告，意味着我们的祈求应当合乎基督的心意和上帝的旨意。「我们若照他的旨意求什么，他就听我们」（约壹5:14）。\n\n第三，依靠基督的权柄。耶稣的名不是魔法咒语，而是代表祂的位格和权柄。当我们奉祂的名祷告，是依靠祂在十字架上所成就的工作，依靠祂复活升天的大能。\n\n所以，奉耶稣的名祷告，是带着对基督的信靠、按照上帝的旨意、依靠基督的中保和权柄来到天父面前。",
+    "detailed_answer_en": "Jesus said: 'Whatever you ask in my name, this I will do, that the Father may be glorified in the Son' (John 14:13). Many think 'in Jesus' name' is just a closing formula, like a password. But its meaning goes far deeper.\n\nFirst, acknowledging Christ as sole mediator. 'There is one God, and there is one mediator between God and men, the man Christ Jesus' (1 Tim 2:5). In the Old Testament, the high priest represented the people entering the Holy of Holies; now Christ is our eternal High Priest whose blood opens the way to God. We come before God not by our own righteousness but by Christ's.\n\nSecond, praying according to Christ's heart. To act in someone's name means representing them and following their will. Praying in Jesus' name means our requests should align with Christ's heart and God's will. 'If we ask anything according to his will he hears us' (1 John 5:14).\n\nThird, relying on Christ's authority. Jesus' name isn't a magic spell but represents His person and authority. When we pray in His name, we rely on His finished work on the cross and His resurrection power.\n\nSo praying in Jesus' name means coming before the Father with trust in Christ, according to God's will, relying on Christ's mediation and authority.",
+    "related_verses": [
+      {
+        "ref": "约翰福音 14:13 / John 14:13",
+        "text": "你们奉我的名无论求什么，我必成就，叫父因儿子得荣耀。"
+      },
+      {
+        "ref": "提摩太前书 2:5 / 1 Timothy 2:5",
+        "text": "因为只有一位上帝，在上帝和人中间，只有一位中保，乃是降世为人的基督耶稣。"
+      },
+      {
+        "ref": "约翰一书 5:14 / 1 John 5:14",
+        "text": "我们若照他的旨意求什么，他就听我们。"
+      }
+    ],
+    "further_reading": [
+      {
+        "text": "韦敏斯德大要理问答 第178-185问；WLC Q178-185"
+      },
+      {
+        "text": "约翰·欧文，《基督的中保工作》；John Owen, The Mediation of Christ"
+      }
+    ]
+  },
+  {
+    "id": "q133",
+    "category": "prayer",
+    "question_zh": "可以为什么事情祷告？祷告有范围限制吗？",
+    "question_en": "What can we pray for? Are there limits to prayer?",
+    "short_answer_zh": "凡是合乎上帝旨意的事，大到国度降临、小到日用饮食，都可以祷告。但我们不应该为犯罪的事或试探上帝的事祷告。",
+    "short_answer_en": "Anything aligned with God's will — from His kingdom coming to daily bread — is appropriate for prayer. But we should not pray for sinful things or to test God.",
+    "detailed_answer_zh": "保罗说：「应当一无挂虑，只要凡事借着祷告、祈求和感谢，将你们所要的告诉上帝」（腓4:6）。注意这个「凡事」——上帝不嫌我们的事太小或太世俗。\n\n我们可以为属灵的事祷告：求智慧（雅1:5）、求圣灵充满（路11:13）、求信心增长（可9:24）、为教会合一祷告（约17:21）、为福音广传祷告（帖后3:1）。\n\n我们也可以为日常的事祷告：健康、工作、考试、人际关系、经济需要。「你们需用的这一切东西，你们的天父是知道的」（太6:32）。没有什么事情是大到上帝管不了，也没有什么事情是小到上帝不关心。\n\n我们应当为他人代祷：为执政掌权者（提前2:1-2）、为患病的弟兄姐妹（雅5:14）、为逼迫我们的人（太5:44）、为不信的亲友得救（罗10:1）。\n\n但有些祷告是不合宜的：为犯罪的事祷告（雅4:3「你们求也得不着，是因为你们妄求」）、为试探上帝祷告（如「上帝啊，让我从楼上跳下去不受伤」）、为报复仇敌祷告（虽然诗篇有咒诅诗，但新约教导我们爱仇敌）。\n\n总原则：可以为一切事祷告，但要加上「愿你的旨意成就」（太26:39），把结果交托给全知全善的上帝。",
+    "detailed_answer_en": "Paul says: 'Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God' (Phil 4:6). Notice 'everything' — God doesn't consider our concerns too small or mundane.\n\nWe can pray for spiritual things: wisdom (James 1:5), Spirit's filling (Luke 11:13), growing faith (Mark 9:24), church unity (John 17:21), gospel advancement (2 Thess 3:1).\n\nWe can pray for daily things: health, work, exams, relationships, financial needs. 'Your heavenly Father knows that you need them all' (Matt 6:32). Nothing is too big for God to handle or too small for Him to care about.\n\nWe should intercede for others: rulers (1 Tim 2:1-2), sick brothers and sisters (James 5:14), those who persecute us (Matt 5:44), unsaved loved ones (Rom 10:1).\n\nBut some prayers are inappropriate: praying for sinful things (James 4:3, 'You ask and do not receive, because you ask wrongly'), testing God ('God, let me jump off a building unharmed'), praying for revenge.\n\nGeneral principle: pray about everything, but add 'Your will be done' (Matt 26:39), entrusting outcomes to the all-knowing, all-good God.",
+    "related_verses": [
+      {
+        "ref": "腓立比书 4:6 / Philippians 4:6",
+        "text": "应当一无挂虑，只要凡事借着祷告、祈求和感谢，将你们所要的告诉上帝。"
+      },
+      {
+        "ref": "雅各书 1:5 / James 1:5",
+        "text": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的上帝，主就必赐给他。"
+      },
+      {
+        "ref": "雅各书 4:3 / James 4:3",
+        "text": "你们求也得不着，是因为你们妄求，要浪费在你们的宴乐中。"
+      }
+    ],
+    "further_reading": [
+      {
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+      },
+      {
+        "text": "韦敏斯德小要理问答 第98问；WSC Q98"
+      }
+    ]
+  },
+  {
+    "id": "q134",
+    "category": "prayer",
+    "question_zh": "如何为不信主的家人祷告？",
+    "question_en": "How should we pray for unsaved family members?",
+    "short_answer_zh": "持续恒切地祷告，求上帝打开他们的心眼，赐他们悔改的心和信主的信心。同时用敬虔的生命见证福音，把结果交给上帝的主权。",
+    "short_answer_en": "Pray persistently for God to open their eyes, grant them repentance and faith. Meanwhile, witness through a godly life and entrust the results to God's sovereignty.",
+    "detailed_answer_zh": "为不信的家人祷告是许多基督徒最深的负担。以下几点可以帮助你：\n\n第一，求上帝打开他们的心眼。「此等不信之人被这世界的神弄瞎了心眼」（林后4:4）。人不信不是因为证据不够，而是因为灵里的瞎眼。只有上帝能打开人的眼睛。吕底亚信主，是因为「主就开导她的心，叫她留心听保罗所讲的话」（徒16:14）。\n\n第二，求上帝赐他们悔改的心。「或者上帝给他们悔改的心，可以明白真道」（提后2:25）。悔改本身就是上帝的恩赐，不是人自己能产生的。\n\n第三，持续不懈地祷告。耶稣讲了寡妇和不义的官的比喻，教导我们「常常祷告，不可灰心」（路18:1）。奥古斯丁的母亲莫尼卡为他祷告了将近三十年，最终看到儿子归主。不要放弃。\n\n第四，用生命见证。彼得劝做妻子的：「你们的丈夫，就是有不信从道理的，他们虽然不听道，也可以因妻子的品行被感化过来」（彼前3:1）。祷告和见证要并行。\n\n第五，信靠上帝的主权和时间。救恩是上帝的工作，不是我们的。「不是你们拣选了我，是我拣选了你们」（约15:16）。我们负责忠心祷告，上帝负责成就祂的旨意。把焦虑交给祂。",
+    "detailed_answer_en": "Praying for unsaved family is one of the deepest burdens many Christians carry. Here are some guides:\n\nFirst, ask God to open their eyes. 'The god of this world has blinded the minds of the unbelievers' (2 Cor 4:4). Unbelief isn't about insufficient evidence but spiritual blindness. Only God can open eyes. Lydia believed because 'the Lord opened her heart to pay attention to what was said by Paul' (Acts 16:14).\n\nSecond, ask God to grant repentance. 'God may perhaps grant them repentance leading to a knowledge of the truth' (2 Tim 2:25). Repentance itself is God's gift, not something humans can produce.\n\nThird, pray persistently. Jesus told the parable of the persistent widow to teach us to 'always pray and not lose heart' (Luke 18:1). Augustine's mother Monica prayed nearly thirty years before seeing her son come to faith. Don't give up.\n\nFourth, witness through your life. Peter advises wives: 'Even if some do not obey the word, they may be won without a word by the conduct of their wives' (1 Pet 3:1). Prayer and witness go together.\n\nFifth, trust God's sovereignty and timing. Salvation is God's work, not ours. 'You did not choose me, but I chose you' (John 15:16). We are responsible to pray faithfully; God is responsible for accomplishing His will. Cast your anxiety on Him.",
+    "related_verses": [
+      {
+        "ref": "哥林多后书 4:4 / 2 Corinthians 4:4",
+        "text": "此等不信之人被这世界的神弄瞎了心眼，不叫基督荣耀福音的光照着他们。"
+      },
+      {
+        "ref": "路加福音 18:1 / Luke 18:1",
+        "text": "耶稣设一个比喻，是要人常常祷告，不可灰心。"
+      },
+      {
+        "ref": "提摩太后书 2:25 / 2 Timothy 2:25",
+        "text": "或者上帝给他们悔改的心，可以明白真道。"
+      }
+    ],
+    "further_reading": [
+      {
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+      },
+      {
+        "text": "以弗所书 6:18-20；Ephesians 6:18-20"
+      }
+    ]
+  },
+  {
+    "id": "q135",
+    "category": "prayer",
+    "question_zh": "祷告时心思游荡怎么办？",
+    "question_en": "What should I do when my mind wanders during prayer?",
+    "short_answer_zh": "这是每个基督徒都有的挣扎。不要因此灰心或停止祷告。把游荡的心思带回来，借助祷告清单、经文祷告和主祷文来帮助集中注意力。",
+    "short_answer_en": "Every Christian struggles with this. Don't be discouraged or stop praying. Gently bring your mind back, and use prayer lists, praying Scripture, and the Lord's Prayer to help focus.",
+    "detailed_answer_zh": "首先要知道，你不是一个人在挣扎。马丁·路德说过：「我知道，每当我热切祷告时，魔鬼就来搅扰我的思想。」心思游荡不是不可饶恕的罪，而是堕落之后人的软弱。\n\n以下是一些实际的帮助：\n\n第一，出声祷告。默祷容易走神，出声祷告可以帮助集中注意力。找一个安静的地方，小声地向上帝说话。\n\n第二，用笔写祷告。把你想对上帝说的话写下来。当你的手在写字的时候，头脑更容易集中。许多圣徒有写祷告日记的习惯。\n\n第三，用经文祷告。读一段诗篇，然后用那段经文的内容向上帝祷告。这叫「神圣阅读」（Lectio Divina），是教会历史上非常古老的操练。\n\n第四，用主祷文作框架。按照六个祈求的顺序，展开你自己的祷告。这给你一个结构，不容易走偏。\n\n第五，用祷告清单。列出你要为之祷告的人和事，一个一个祷告。这样不容易遗漏，也不容易走神。\n\n第六，当心思游荡时，不要自责，温柔地把注意力带回来。就像一个蹒跚学步的孩子会摔倒，但每次摔倒都重新站起来。上帝不会因为你走神而生气——祂知道我们不过是尘土（诗103:14）。\n\n坚持祷告本身就是一场属灵争战。每一次你把游荡的心思带回来，都是一次得胜。",
+    "detailed_answer_en": "First, know you're not alone. Martin Luther said: 'I know that whenever I pray fervently, the devil comes to disturb my thoughts.' A wandering mind isn't an unforgivable sin but a post-Fall human weakness.\n\nPractical helps:\n\nFirst, pray aloud. Silent prayer drifts easily; speaking helps focus. Find a quiet place and talk to God softly.\n\nSecond, write your prayers. Journaling prayers keeps the mind engaged. Many saints kept prayer journals.\n\nThird, pray Scripture. Read a psalm, then pray its content back to God. This ancient practice (Lectio Divina) has deep roots in church history.\n\nFourth, use the Lord's Prayer as a framework. Follow the six petitions, expanding each with your own prayers. Structure prevents wandering.\n\nFifth, use prayer lists. List people and matters to pray for, going through them one by one.\n\nSixth, when your mind wanders, don't condemn yourself. Gently bring attention back. Like a toddler learning to walk — falling is expected, but you get up each time. God doesn't get angry at your distraction — He knows we are dust (Ps 103:14).\n\nPersisting in prayer is itself spiritual warfare. Every time you bring a wandering mind back is a victory.",
+    "related_verses": [
+      {
+        "ref": "诗篇 103:14 / Psalm 103:14",
+        "text": "因为他知道我们的本体，思念我们不过是尘土。"
+      },
+      {
+        "ref": "罗马书 8:26 / Romans 8:26",
+        "text": "况且，我们的软弱有圣灵帮助；我们本不晓得当怎样祷告，只是圣灵亲自用说不出来的叹息替我们祷告。"
+      },
+      {
+        "ref": "马太福音 26:41 / Matthew 26:41",
+        "text": "总要儆醒祷告，免得入了迷惑。你们心灵固然愿意，肉体却软弱了。"
+      }
+    ],
+    "further_reading": [
+      {
+        "text": "提摩太·凯勒，《祷告》；Tim Keller, Prayer"
+      },
+      {
+        "text": "唐·惠特尼，《属灵操练》；Don Whitney, Spiritual Disciplines"
+      }
+    ]
+  },
+  {
+    "id": "q136",
+    "category": "prayer",
+    "question_zh": "祷告与上帝的主权矛盾吗？",
+    "question_en": "Does prayer contradict God's sovereignty?",
+    "short_answer_zh": "不矛盾。上帝不仅预定了结果，也预定了达成结果的途径，而祷告正是祂所预定的途径之一。祷告是主权之下的恩典管道，不是试图改变上帝的计划。",
+    "short_answer_en": "No contradiction. God ordains not only outcomes but the means to achieve them, and prayer is one of those ordained means. Prayer is a channel of grace under sovereignty, not an attempt to change God's plan.",
+    "detailed_answer_zh": "这是改革宗信仰中一个经典的问题。如果上帝已经预定了一切，祷告不是多余的吗？\n\n答案是：上帝预定了目的，也预定了手段。就像上帝预定了庄稼生长，但农夫仍然要播种浇灌；上帝预定了人得救，但传道人仍然要传福音。同样，上帝预定了许多事要通过祷告来成就。雅各书说：「你们得不着，是因为你们不求」（雅4:2）。这说明祷告确实是上帝成就祂旨意的真实途径。\n\n加尔文在《基督教要义》中说，祷告的首要目的不是改变上帝，而是改变我们：让我们的心与上帝的旨意对齐，让我们学会依靠祂而不是依靠自己。祷告是上帝赐给我们的恩典，让我们有份参与祂的计划。\n\n更深一层说，上帝邀请我们祷告，是因为祂愿意与我们建立真实的关系。一个国王可以不经过任何人直接下令，但一个父亲会对孩子说：「来，告诉爸爸你需要什么。」上帝是那位父亲。\n\n韦敏斯德信条教导：上帝从永恒就预定了一切将要发生的事，但「第二因」（包括人的祷告和行动）并不因此被废除，反而被确立。神的主权和人的责任不是二选一，而是奥秘地并存。\n\n所以，相信上帝的主权不是停止祷告的理由，反而是更大胆祷告的理由——因为我们知道，我们的祷告是全能上帝计划中真实有效的一环。",
+    "detailed_answer_en": "This is a classic question in Reformed theology. If God has predetermined everything, isn't prayer redundant?\n\nThe answer: God ordains ends and means. Just as God ordains crops to grow but farmers must sow and water; God ordains salvation but preachers must preach the gospel. Similarly, God ordains many things to be accomplished through prayer. James says: 'You do not have because you do not ask' (James 4:2). Prayer is a real means through which God accomplishes His will.\n\nCalvin wrote in the Institutes that prayer's primary purpose isn't changing God but changing us: aligning our hearts with His will, teaching dependence on Him rather than ourselves. Prayer is grace God gives so we may participate in His plan.\n\nAt a deeper level, God invites prayer because He desires genuine relationship. A king could issue decrees without consulting anyone, but a father says: 'Come, tell daddy what you need.' God is that Father.\n\nThe Westminster Confession teaches: God from eternity ordained everything that comes to pass, yet 'second causes' (including human prayer and action) are not abolished but established. God's sovereignty and human responsibility don't compete but mysteriously coexist.\n\nSo believing in God's sovereignty isn't reason to stop praying but to pray more boldly — knowing our prayers are a real, effective part of the Almighty's plan.",
+    "related_verses": [
+      {
+        "ref": "雅各书 4:2 / James 4:2",
+        "text": "你们得不着，是因为你们不求。"
+      },
+      {
+        "ref": "以赛亚书 65:24 / Isaiah 65:24",
+        "text": "他们尚未求告，我就应允；正说话的时候，我就垂听。"
+      },
+      {
+        "ref": "以西结书 36:37 / Ezekiel 36:37",
+        "text": "主耶和华如此说：我要加增以色列家的人数，多如羊群。他们必为这事向我求问，我要给他们成就。"
+      }
+    ],
+    "further_reading": [
+      {
+        "text": "加尔文，《基督教要义》卷三第20章；Calvin, Institutes III.20"
+      },
+      {
+        "text": "韦敏斯德信条 第3、5章；WCF ch.3, 5"
+      },
+      {
+        "text": "司布真，《祷告的能力》；C.H. Spurgeon, The Power of Prayer"
+      }
+    ]
   }
 ]
