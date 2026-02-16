@@ -6,7 +6,7 @@ const modules = [
     href: '/qa',
     title: '福音问答',
     subtitle: 'Gospel Q&A',
-    desc: '142个关键问题，中英双语解答',
+    desc: '163个关键问题，中英双语解答',
     color: 'from-blue-600 to-indigo-700',
     icon: '💬',
   },

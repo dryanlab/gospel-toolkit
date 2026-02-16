@@ -49,7 +49,7 @@ export default function AboutPage() {
 
             <div>
               <h3 className="font-bold text-base">5. 💬 福音问答</h3>
-              <p className="mt-1"><strong>142个</strong>关于基督教信仰的核心问题，中英双语详细解答。涵盖神的存在、圣经的权威、救恩之道、祷告、常见疑虑、基督徒生活等方方面面，既适合慕道朋友了解信仰，也适合弟兄姐妹温故知新。</p>
+              <p className="mt-1"><strong>163个</strong>关于基督教信仰的核心问题，中英双语详细解答。涵盖神的存在、圣经的权威、救恩之道、祷告、常见疑虑、基督徒生活等方方面面，既适合慕道朋友了解信仰，也适合弟兄姐妹温故知新。</p>
             </div>
 
             <div>
