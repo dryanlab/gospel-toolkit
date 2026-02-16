@@ -231,7 +231,7 @@ export function BottomNav() {
                 }`}
               >
                 <span className={isActive ? 'text-[var(--color-primary)] dark:text-[var(--color-accent)]' : ''}>{item.icon}</span>
-                <span>{item.labelEn}</span>
+                <span>{item.label}</span>
               </Link>
             );
           })}
@@ -249,7 +249,7 @@ export function BottomNav() {
               <circle cx="12" cy="12" r="1.75" />
               <circle cx="12" cy="18.5" r="1.75" />
             </svg>
-            <span>More</span>
+            <span>更多</span>
           </button>
         </div>
       </nav>
