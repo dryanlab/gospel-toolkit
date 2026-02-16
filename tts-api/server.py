@@ -18,7 +18,7 @@ class Handler(BaseHTTPRequestHandler):
         text = body.get('text', '')
         lang = body.get('lang', 'zh')
 
-        if not text or len(text) > 2000:
+        if not text or len(text) > 20000:
             self.send_response(400)
             self._cors()
             self.end_headers()
