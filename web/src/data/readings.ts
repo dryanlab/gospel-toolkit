@@ -583,7 +583,7 @@ Enoch's story tells you: **death is not the final word. The one who walks with G
 // === Genesis 6-50 skeletons (content from D1) ===
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 6,
-  publishDate: '2026-02-16',
+  publishDate: '2026-02-23',
   title: '神子与人女', titleEn: 'Sons of God and Daughters of Men',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 6:1 / Genesis 6:1',
@@ -595,7 +595,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 7,
-  publishDate: '2026-02-17',
+  publishDate: '2026-02-24',
   title: '洪水', titleEn: 'The Flood',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 7:1 / Genesis 7:1',
@@ -607,7 +607,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 8,
-  publishDate: '2026-02-18',
+  publishDate: '2026-02-25',
   title: '退水', titleEn: 'The Waters Recede',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 8:1 / Genesis 8:1',
@@ -619,7 +619,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 9,
-  publishDate: '2026-02-19',
+  publishDate: '2026-02-26',
   title: '彩虹之约', titleEn: 'The Rainbow Covenant',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 9:1 / Genesis 9:1',
@@ -631,7 +631,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 10,
-  publishDate: '2026-02-20',
+  publishDate: '2026-02-27',
   title: '万族谱系', titleEn: 'The Table of Nations',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 10:1 / Genesis 10:1',
@@ -643,7 +643,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 11,
-  publishDate: '2026-02-23',
+  publishDate: '2026-03-02',
   title: '巴别塔', titleEn: 'The Tower of Babel',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 11:1 / Genesis 11:1',
@@ -655,7 +655,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 12,
-  publishDate: '2026-02-24',
+  publishDate: '2026-03-03',
   title: '蒙召', titleEn: 'The Call of Abram',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 12:1 / Genesis 12:1',
@@ -667,7 +667,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 13,
-  publishDate: '2026-02-25',
+  publishDate: '2026-03-04',
   title: '分离', titleEn: 'Abram and Lot Separate',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 13:1 / Genesis 13:1',
@@ -679,7 +679,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 14,
-  publishDate: '2026-02-26',
+  publishDate: '2026-03-05',
   title: '争战', titleEn: 'Abram Rescues Lot',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 14:1 / Genesis 14:1',
@@ -691,7 +691,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 15,
-  publishDate: '2026-02-27',
+  publishDate: '2026-03-06',
   title: '立约', titleEn: 'The Covenant of the Stars',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 15:1 / Genesis 15:1',
@@ -703,7 +703,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 16,
-  publishDate: '2026-03-02',
+  publishDate: '2026-03-09',
   title: '夏甲', titleEn: 'Hagar and Ishmael',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 16:1 / Genesis 16:1',
@@ -715,7 +715,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 17,
-  publishDate: '2026-03-03',
+  publishDate: '2026-03-10',
   title: '割礼之约', titleEn: 'The Covenant of Circumcision',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 17:1 / Genesis 17:1',
@@ -727,7 +727,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 18,
-  publishDate: '2026-03-04',
+  publishDate: '2026-03-11',
   title: '三位来客', titleEn: 'Three Visitors',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 18:1 / Genesis 18:1',
@@ -739,7 +739,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 19,
-  publishDate: '2026-03-05',
+  publishDate: '2026-03-12',
   title: '所多玛', titleEn: 'The Destruction of Sodom',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 19:1 / Genesis 19:1',
@@ -751,7 +751,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 20,
-  publishDate: '2026-03-06',
+  publishDate: '2026-03-13',
   title: '亚伯拉罕与亚比米勒', titleEn: 'Abraham and Abimelech',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 20:1 / Genesis 20:1',
@@ -763,7 +763,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 21,
-  publishDate: '2026-03-09',
+  publishDate: '2026-03-16',
   title: '以撒出生', titleEn: 'The Birth of Isaac',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 21:1 / Genesis 21:1',
@@ -775,7 +775,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 22,
-  publishDate: '2026-03-10',
+  publishDate: '2026-03-17',
   title: '献以撒', titleEn: 'The Binding of Isaac',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 22:1 / Genesis 22:1',
@@ -787,7 +787,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 23,
-  publishDate: '2026-03-11',
+  publishDate: '2026-03-18',
   title: '撒拉之死', titleEn: 'The Death of Sarah',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 23:1 / Genesis 23:1',
@@ -799,7 +799,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 24,
-  publishDate: '2026-03-12',
+  publishDate: '2026-03-19',
   title: '以撒的新娘', titleEn: 'A Bride for Isaac',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 24:1 / Genesis 24:1',
@@ -811,7 +811,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 25,
-  publishDate: '2026-03-13',
+  publishDate: '2026-03-20',
   title: '以扫与雅各', titleEn: 'Esau and Jacob',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 25:1 / Genesis 25:1',
@@ -823,7 +823,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 26,
-  publishDate: '2026-03-16',
+  publishDate: '2026-03-23',
   title: '以撒在基拉耳', titleEn: 'Isaac in Gerar',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 26:1 / Genesis 26:1',
@@ -835,7 +835,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 27,
-  publishDate: '2026-03-17',
+  publishDate: '2026-03-24',
   title: '骗取祝福', titleEn: 'The Stolen Blessing',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 27:1 / Genesis 27:1',
@@ -847,7 +847,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 28,
-  publishDate: '2026-03-18',
+  publishDate: '2026-03-25',
   title: '天梯', titleEn: 'Jacob\'s Ladder',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 28:1 / Genesis 28:1',
@@ -859,7 +859,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 29,
-  publishDate: '2026-03-19',
+  publishDate: '2026-03-26',
   title: '拉结与利亚', titleEn: 'Rachel and Leah',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 29:1 / Genesis 29:1',
@@ -871,7 +871,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 30,
-  publishDate: '2026-03-20',
+  publishDate: '2026-03-27',
   title: '儿女与羊群', titleEn: 'Children and Flocks',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 30:1 / Genesis 30:1',
@@ -883,7 +883,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 31,
-  publishDate: '2026-03-23',
+  publishDate: '2026-03-30',
   title: '离开拉班', titleEn: 'Jacob Flees from Laban',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 31:1 / Genesis 31:1',
@@ -895,7 +895,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 32,
-  publishDate: '2026-03-24',
+  publishDate: '2026-03-31',
   title: '摔跤', titleEn: 'Wrestling with God',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 32:1 / Genesis 32:1',
@@ -907,7 +907,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 33,
-  publishDate: '2026-03-25',
+  publishDate: '2026-04-01',
   title: '兄弟重逢', titleEn: 'Jacob Meets Esau',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 33:1 / Genesis 33:1',
@@ -919,7 +919,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 34,
-  publishDate: '2026-03-26',
+  publishDate: '2026-04-02',
   title: '底拿', titleEn: 'The Outrage at Shechem',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 34:1 / Genesis 34:1',
@@ -931,7 +931,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 35,
-  publishDate: '2026-03-27',
+  publishDate: '2026-04-03',
   title: '回到伯特利', titleEn: 'Return to Bethel',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 35:1 / Genesis 35:1',
@@ -943,7 +943,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 36,
-  publishDate: '2026-03-30',
+  publishDate: '2026-04-06',
   title: '以扫的后代', titleEn: 'Esau\'s Descendants',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 36:1 / Genesis 36:1',
@@ -955,7 +955,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 37,
-  publishDate: '2026-03-31',
+  publishDate: '2026-04-07',
   title: '约瑟的梦', titleEn: 'Joseph\'s Dreams',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 37:1 / Genesis 37:1',
@@ -967,7 +967,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 38,
-  publishDate: '2026-04-01',
+  publishDate: '2026-04-08',
   title: '犹大与他玛', titleEn: 'Judah and Tamar',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 38:1 / Genesis 38:1',
@@ -979,7 +979,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 39,
-  publishDate: '2026-04-02',
+  publishDate: '2026-04-09',
   title: '在波提乏家', titleEn: 'Joseph in Potiphar\'s House',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 39:1 / Genesis 39:1',
@@ -991,7 +991,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 40,
-  publishDate: '2026-04-03',
+  publishDate: '2026-04-10',
   title: '狱中解梦', titleEn: 'The Cupbearer and the Baker',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 40:1 / Genesis 40:1',
@@ -1003,7 +1003,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 41,
-  publishDate: '2026-04-06',
+  publishDate: '2026-04-13',
   title: '法老的梦', titleEn: 'Pharaoh\'s Dreams',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 41:1 / Genesis 41:1',
@@ -1015,7 +1015,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 42,
-  publishDate: '2026-04-07',
+  publishDate: '2026-04-14',
   title: '兄弟来到', titleEn: 'Joseph\'s Brothers in Egypt',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 42:1 / Genesis 42:1',
@@ -1027,7 +1027,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 43,
-  publishDate: '2026-04-08',
+  publishDate: '2026-04-15',
   title: '再下埃及', titleEn: 'The Second Journey',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 43:1 / Genesis 43:1',
@@ -1039,7 +1039,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 44,
-  publishDate: '2026-04-09',
+  publishDate: '2026-04-16',
   title: '银杯', titleEn: 'The Silver Cup',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 44:1 / Genesis 44:1',
@@ -1051,7 +1051,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 45,
-  publishDate: '2026-04-10',
+  publishDate: '2026-04-17',
   title: '相认', titleEn: 'Joseph Reveals Himself',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 45:1 / Genesis 45:1',
@@ -1063,7 +1063,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 46,
-  publishDate: '2026-04-13',
+  publishDate: '2026-04-20',
   title: '下到埃及', titleEn: 'Jacob Goes to Egypt',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 46:1 / Genesis 46:1',
@@ -1075,7 +1075,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 47,
-  publishDate: '2026-04-14',
+  publishDate: '2026-04-21',
   title: '在歌珊地', titleEn: 'In the Land of Goshen',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 47:1 / Genesis 47:1',
@@ -1087,7 +1087,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 48,
-  publishDate: '2026-04-15',
+  publishDate: '2026-04-22',
   title: '祝福以法莲', titleEn: 'Blessing Ephraim and Manasseh',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 48:1 / Genesis 48:1',
@@ -1099,7 +1099,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 49,
-  publishDate: '2026-04-16',
+  publishDate: '2026-04-23',
   title: '雅各的遗言', titleEn: 'Jacob\'s Last Words',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 49:1 / Genesis 49:1',
@@ -1111,7 +1111,7 @@ readings.push({
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 50,
-  publishDate: '2026-04-17',
+  publishDate: '2026-04-24',
   title: '约瑟之死', titleEn: 'The Death of Joseph',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 50:1 / Genesis 50:1',
