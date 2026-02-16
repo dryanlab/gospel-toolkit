@@ -5,7 +5,6 @@ import { qaQuestions, categoryLabels } from '@/lib/data';
 const categoryGradients: Record<string, string> = {
   sin_and_salvation: 'from-red-600 to-rose-700',
   existence_of_god: 'from-indigo-600 to-blue-700',
-  church: 'from-green-600 to-emerald-700',
   holy_spirit: 'from-cyan-600 to-teal-700',
   uniqueness_of_jesus: 'from-amber-600 to-yellow-700',
   eschatology: 'from-purple-600 to-violet-700',
@@ -30,7 +29,6 @@ const categoryGradients: Record<string, string> = {
 const categoryIcons: Record<string, string> = {
   sin_and_salvation: '✝️',
   existence_of_god: '🌌',
-  church: '⛪',
   holy_spirit: '🕊️',
   uniqueness_of_jesus: '👑',
   eschatology: '⏳',
@@ -68,7 +66,6 @@ export default function QAPage() {
     'faith_and_works',         // 信心与行为
     'holy_spirit',             // 圣灵
     'sacraments',              // 圣礼
-    'church',                  // 教会生活
     'prayer',                  // 祷告
     'problem_of_evil',         // 苦难问题
     'moral_foundation',        // 道德基础

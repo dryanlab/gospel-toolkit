@@ -117,7 +117,6 @@ export const categoryLabels: Record<string, { zh: string; en: string }> = {
   life_after_death: { zh: '死后生命', en: 'Life After Death' },
   moral_foundation: { zh: '道德基础', en: 'Moral Foundation' },
   authority_of_scripture: { zh: '圣经权威', en: 'Authority of Scripture' },
-  church: { zh: '教会生活', en: 'Church Life' },
   eschatology: { zh: '末世与永恒', en: 'Eschatology' },
   holy_spirit: { zh: '圣灵', en: 'Holy Spirit' },
   original_sin: { zh: '原罪', en: 'Original Sin' },
@@ -127,7 +126,7 @@ export const categoryLabels: Record<string, { zh: string; en: string }> = {
   trinity: { zh: '三位一体', en: 'Trinity' },
   two_natures_of_christ: { zh: '基督二性', en: 'Two Natures of Christ' },
   common_objections: { zh: '常见疑虑', en: 'Common Objections' },
-  christian_life: { zh: '基督徒生活', en: 'Christian Life' },
+  christian_life: { zh: '基督徒生活与教会', en: 'Christian Life & Church' },
   faith_and_works: { zh: '信心与行为', en: 'Faith & Works' },
   heaven_and_hell: { zh: '天堂与地狱', en: 'Heaven & Hell' },
   '上帝存在': { zh: '上帝存在', en: 'Existence of God' },
@@ -158,7 +157,6 @@ export const qaCategoryOrder: string[] = [
   'faith_and_works',         // 信心与行为
   'holy_spirit',             // 圣灵
   'sacraments',              // 圣礼
-  'church',                  // 教会生活
   'prayer',                  // 祷告
   'problem_of_evil',         // 苦难问题
   'moral_foundation',        // 道德基础

@@ -984,7 +984,7 @@
   },
   {
     "id": "q031",
-    "category": "church",
+    "category": "christian_life",
     "question_zh": "为什么要去教会？我自己在家读圣经不行吗？",
     "question_en": "Why go to church? Can't I just read the Bible at home?",
     "short_answer_zh": "基督教从本质上是群体性的信仰。上帝不只是拯救个人，而是在建造一个身体——教会。独自信仰就像一块脱离身体的肢体，无法健康成长。",
@@ -1015,7 +1015,7 @@
   },
   {
     "id": "q032",
-    "category": "church",
+    "category": "christian_life",
     "question_zh": "为什么基督教有这么多宗派？哪个才是对的？",
     "question_en": "Why are there so many Christian denominations? Which one is right?",
     "short_answer_zh": "宗派的存在反映了人类的有限和罪性，但核心信仰上大多数正统教会是一致的。重要的是分辨核心教义和次要问题之间的区别。",
@@ -1047,7 +1047,7 @@
   },
   {
     "id": "q033",
-    "category": "church",
+    "category": "christian_life",
     "question_zh": "教会中也有虚伪和丑闻，这说明什么？",
     "question_en": "There is hypocrisy and scandal in the church. What does this say?",
     "short_answer_zh": "教会不是完美之人的俱乐部，而是需要恩典之人的医院。教会中有虚伪，恰恰证实了圣经关于罪的教导——即使信徒也在持续的成圣过程中。",
@@ -2273,7 +2273,7 @@
   },
   {
     "id": "q070",
-    "category": "church",
+    "category": "christian_life",
     "question_zh": "基督教里为什么有那么多异端邪说？",
     "question_en": "Why are there so many cults and heresies within Christianity?",
     "short_answer_zh": "有真货就有假货。异端的存在恰恰证明真道的宝贵——没有人去仿造没有价值的东西。耶稣早已警告我们要防备假先知。",
@@ -2339,7 +2339,7 @@
   },
   {
     "id": "q073",
-    "category": "church",
+    "category": "christian_life",
     "question_zh": "基督徒这个不能做、那个不能做，生活不是很无聊吗？",
     "question_en": "Christians can't do this, can't do that — isn't that a boring life?",
     "short_answer_zh": "基督徒放弃的是捆绑和伤害，得到的是真正的自由和喜乐。这不是更多的限制，而是更大的释放。",
@@ -2989,7 +2989,7 @@
   },
   {
     "id": "q091",
-    "category": "church",
+    "category": "christian_life",
     "question_zh": "为什么要去教会？自己信不行吗？",
     "question_en": "Why go to church? Can't I just believe on my own?",
     "short_answer_zh": "基督徒的信仰不是个人独修，而是在基督身体中共同成长。教会是神设立的，提供敬拜、教导、团契、问责和互相服侍——这些是独自信主无法获得的。",
@@ -3096,7 +3096,7 @@
   },
   {
     "id": "q094",
-    "category": "church",
+    "category": "christian_life",
     "question_zh": "基督教为什么有这么多宗派？",
     "question_en": "Why are there so many Christian denominations?",
     "short_answer_zh": "宗派的产生有多种原因：对次要教义的不同理解、历史文化差异、人的罪性导致的分裂。但所有正统宗派都认信同一位基督和同一个福音——核心信仰是统一的。",
@@ -3132,7 +3132,7 @@
   },
   {
     "id": "q095",
-    "category": "church",
+    "category": "christian_life",
     "question_zh": "什么是教会纪律？教会可以惩戒人吗？",
     "question_en": "What is church discipline? Can the church discipline its members?",
     "short_answer_zh": "教会纪律是教会按照圣经的指导，对持续不悔改的犯罪成员采取的纠正行动。目的不是惩罚，而是爱——帮助犯罪的弟兄姊妹回转，保护教会的纯洁。",
