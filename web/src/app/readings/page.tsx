@@ -1,7 +1,11 @@
 'use client';
 
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { readings } from '@/data/readings';
+import { readings as staticReadings } from '@/data/readings';
+import type { ReadingChapter } from '@/data/readings';
+import { isPublished } from '@/lib/preview';
+import { fetchReadingsList } from '@/lib/api';
 
 const books = [
   { id: 'genesis', name: '创世记', nameEn: 'Genesis', author: '摩西', authorEn: 'Moses', icon: '🌍', total: 50 },
@@ -15,7 +19,25 @@ const books = [
 const totalChapters = 1189;
 
 export default function ReadingsPage() {
-  const totalDone = readings.filter(r => new Date(r.publishDate) <= new Date()).length;
+  const [readings, setReadings] = useState<ReadingChapter[]>(staticReadings);
+
+  useEffect(() => {
+    fetchReadingsList().then(apiReadings => {
+      if (apiReadings && apiReadings.length > 0) {
+        const mapped = apiReadings.map((r: any) => ({
+          book: r.book, bookEn: r.book_en, chapter: r.chapter,
+          title: r.title, titleEn: r.title_en, author: r.author, authorEn: r.author_en,
+          scripture: r.scripture, publishDate: r.publish_date,
+          content_zh: '', content_en: '', historyContext_zh: '', historyContext_en: '',
+          structure_zh: '', structure_en: '', theology_zh: '', theology_en: '',
+          christShadow_zh: '', christShadow_en: '',
+        }));
+        setReadings(mapped);
+      }
+    });
+  }, []);
+
+  const totalDone = readings.filter(r => isPublished(r.publishDate)).length;
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       {/* Header */}
@@ -66,7 +88,7 @@ export default function ReadingsPage() {
         <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🔥 最新伴读 Latest</h2>
         <div className="space-y-3">
           {/* Published chapters */}
-          {[...readings].filter(r => new Date(r.publishDate) <= new Date()).reverse().slice(0, 5).map((item, i) => (
+          {[...readings].filter(r => isPublished(r.publishDate)).reverse().slice(0, 5).map((item, i) => (
             <Link
               key={item.chapter}
               href={`/readings/${item.bookEn.toLowerCase()}?ch=${item.chapter}`}
@@ -89,7 +111,7 @@ export default function ReadingsPage() {
           ))}
           {/* Next upcoming chapter */}
           {(() => {
-            const upcoming = [...readings].filter(r => new Date(r.publishDate) > new Date()).sort((a, b) => a.publishDate.localeCompare(b.publishDate))[0];
+            const upcoming = [...readings].filter(r => !isPublished(r.publishDate)).sort((a, b) => a.publishDate.localeCompare(b.publishDate))[0];
             if (!upcoming) return null;
             return (
               <div className="flex items-center gap-4 p-4 rounded-xl border border-dashed border-[var(--color-border)] bg-[var(--color-bg-secondary)] opacity-50">

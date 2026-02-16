@@ -1,8 +1,11 @@
 'use client';
 
-import { useMemo } from 'react';
+import { useMemo, useState, useEffect } from 'react';
+import { isPublished } from '@/lib/preview';
 import Link from 'next/link';
-import { letters, categoryLabels } from '@/data/letters';
+import { letters as staticLetters, categoryLabels } from '@/data/letters';
+import type { Letter } from '@/data/letters';
+import { fetchLetter } from '@/lib/api';
 import ShareBar from '@/components/ShareBar';
 import LikeButton from '@/components/LikeButton';
 import SpeakButton from '@/components/SpeakButton';
@@ -48,9 +51,23 @@ function renderMarkdown(md: string) {
 }
 
 export default function LetterClient({ id }: { id: string }) {
-  const letter = useMemo(() => letters.find(l => l.id === id), [id]);
+  const staticLetter = useMemo(() => staticLetters.find(l => l.id === id), [id]);
+  const [letter, setLetter] = useState<Letter | undefined>(staticLetter);
+  const [loading, setLoading] = useState(true);
 
-  const isUnavailable = !letter || letter.content_zh === '（即将发布）' || new Date(letter.date) > new Date();
+  useEffect(() => {
+    fetchLetter(id).then(apiLetter => {
+      if (apiLetter) {
+        setLetter({
+          ...apiLetter,
+          tags: typeof apiLetter.tags === 'string' ? JSON.parse(apiLetter.tags) : (apiLetter.tags || []),
+        } as Letter);
+      }
+      setLoading(false);
+    });
+  }, [id]);
+
+  const isUnavailable = !letter || letter.content_zh === '（即将发布）' || !isPublished(letter.date);
   if (isUnavailable) {
     return (
       <div className="max-w-3xl mx-auto px-4 py-16 text-center">
@@ -65,11 +82,11 @@ export default function LetterClient({ id }: { id: string }) {
   const catLabel = categoryLabels[letter.category];
 
   // Find prev/next
-  const idx = letters.findIndex(l => l.id === id);
+  const idx = staticLetters.findIndex(l => l.id === id);
   const now = new Date();
-  const isAvailable = (l: typeof letters[0]) => l.content_zh !== '（即将发布）' && new Date(l.date) <= now;
-  const prev = idx > 0 && isAvailable(letters[idx - 1]) ? letters[idx - 1] : null;
-  const next = idx < letters.length - 1 && isAvailable(letters[idx + 1]) ? letters[idx + 1] : null;
+  const isAvailable = (l: typeof staticLetters[0]) => l.content_zh !== '（即将发布）' && isPublished(l.date);
+  const prev = idx > 0 && isAvailable(staticLetters[idx - 1]) ? staticLetters[idx - 1] : null;
+  const next = idx < staticLetters.length - 1 && isAvailable(staticLetters[idx + 1]) ? staticLetters[idx + 1] : null;
 
   // Plain text for TTS
   const zhText = letter.content_zh.replace(/[#*]/g, '').replace(/\n{2,}/g, '\n');

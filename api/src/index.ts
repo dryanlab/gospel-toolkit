@@ -115,6 +115,59 @@ export default {
         return cors(env, json({ ok: true, id }));
       }
 
+      // ===== READINGS =====
+
+      // GET /readings - list published readings
+      if (path === '/readings' && request.method === 'GET') {
+        const book = url.searchParams.get('book');
+        let query = 'SELECT id, book, book_en, chapter, title, title_en, author, author_en, scripture, publish_date FROM readings WHERE status = ? AND publish_date <= date(\'now\')';
+        const params: string[] = ['published'];
+        if (book) { query += ' AND book_en = ?'; params.push(book); }
+        query += ' ORDER BY book_en, chapter';
+        const stmt = env.DB.prepare(query);
+        const rows = await (params.length === 1 ? stmt.bind(params[0]) : stmt.bind(params[0], params[1])).all();
+        return cors(env, json({ readings: rows.results }));
+      }
+
+      // GET /readings/:book/:chapter - get single chapter
+      if (path.match(/^\/readings\/[^/]+\/\d+$/) && request.method === 'GET') {
+        const parts = path.split('/');
+        const bookEn = parts[2];
+        const chapter = parseInt(parts[3]);
+        const row = await env.DB.prepare(
+          'SELECT * FROM readings WHERE book_en = ? AND chapter = ? AND status = ? AND publish_date <= date(\'now\')'
+        ).bind(bookEn, chapter, 'published').first();
+        if (!row) return cors(env, json({ error: 'Not found' }, 404));
+        return cors(env, json({ reading: row }));
+      }
+
+      // POST /readings - create/update reading (admin)
+      if (path === '/readings' && request.method === 'POST') {
+        if (!auth(request, env)) return cors(env, json({ error: 'Unauthorized' }, 401));
+        const data = await request.json() as Record<string, unknown>;
+        await env.DB.prepare(`
+          INSERT INTO readings (book, book_en, chapter, title, title_en, author, author_en, scripture, content_zh, content_en, history_context_zh, history_context_en, structure_zh, structure_en, theology_zh, theology_en, christ_shadow_zh, christ_shadow_en, publish_date, status, updated_at)
+          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, datetime('now'))
+          ON CONFLICT(book_en, chapter) DO UPDATE SET
+            title=excluded.title, title_en=excluded.title_en, content_zh=excluded.content_zh, content_en=excluded.content_en,
+            history_context_zh=excluded.history_context_zh, history_context_en=excluded.history_context_en,
+            structure_zh=excluded.structure_zh, structure_en=excluded.structure_en,
+            theology_zh=excluded.theology_zh, theology_en=excluded.theology_en,
+            christ_shadow_zh=excluded.christ_shadow_zh, christ_shadow_en=excluded.christ_shadow_en,
+            publish_date=excluded.publish_date, status=excluded.status, updated_at=datetime('now')
+        `).bind(
+          data.book, data.book_en, data.chapter, data.title, data.title_en,
+          data.author, data.author_en, data.scripture,
+          data.content_zh, data.content_en,
+          data.history_context_zh, data.history_context_en,
+          data.structure_zh, data.structure_en,
+          data.theology_zh, data.theology_en,
+          data.christ_shadow_zh, data.christ_shadow_en,
+          data.publish_date, data.status || 'draft'
+        ).run();
+        return cors(env, json({ ok: true }));
+      }
+
       // ===== COMMENTS =====
 
       // GET /comments?article=xxx - get featured/approved comments
@@ -253,6 +306,7 @@ export default {
                   message_id: callback.message.message_id,
                   text: origText + `\n\n${label}`,
                   parse_mode: 'HTML',
+                  reply_markup: JSON.stringify({ inline_keyboard: [] }),
                 }),
               });
             }

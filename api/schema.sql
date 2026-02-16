@@ -54,3 +54,33 @@ CREATE TABLE IF NOT EXISTS like_counts (
   article_id  TEXT PRIMARY KEY,
   count       INTEGER DEFAULT 0
 );
+
+-- Readings (chapter-by-chapter Bible readings)
+CREATE TABLE IF NOT EXISTS readings (
+  id          INTEGER PRIMARY KEY AUTOINCREMENT,
+  book        TEXT NOT NULL,
+  book_en     TEXT NOT NULL,
+  chapter     INTEGER NOT NULL,
+  title       TEXT NOT NULL,
+  title_en    TEXT NOT NULL,
+  author      TEXT NOT NULL,
+  author_en   TEXT NOT NULL,
+  scripture   TEXT,
+  content_zh  TEXT NOT NULL,
+  content_en  TEXT,
+  history_context_zh TEXT,
+  history_context_en TEXT,
+  structure_zh TEXT,
+  structure_en TEXT,
+  theology_zh TEXT,
+  theology_en TEXT,
+  christ_shadow_zh TEXT,
+  christ_shadow_en TEXT,
+  publish_date TEXT NOT NULL,
+  status      TEXT NOT NULL DEFAULT 'draft' CHECK(status IN ('draft','published','archived')),
+  created_at  TEXT DEFAULT (datetime('now')),
+  updated_at  TEXT DEFAULT (datetime('now')),
+  UNIQUE(book_en, chapter)
+);
+CREATE INDEX IF NOT EXISTS idx_readings_book ON readings(book_en, chapter);
+CREATE INDEX IF NOT EXISTS idx_readings_publish ON readings(publish_date, status);

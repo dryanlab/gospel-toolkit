@@ -1,9 +1,12 @@
 'use client';
 
 import { useSearchParams, useRouter } from 'next/navigation';
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import type { ReadingChapter } from '@/data/readings';
 import SpeakButton from '@/components/SpeakButton';
+import { isPublished } from '@/lib/preview';
+import { fetchReading } from '@/lib/api';
 
 function renderMd(md: string) {
   return md.split('\n').map((line, i) => {
@@ -29,8 +32,32 @@ export default function GenesisClient({ chapters }: { chapters: ReadingChapter[]
       router.push(`/readings/genesis?ch=${ch}`);
     }
   };
-  const ch = selected !== null ? chapters.find(c => c.chapter === selected) : null;
-  const isChPublished = ch ? new Date(ch.publishDate) <= new Date() : false;
+  const staticCh = selected !== null ? chapters.find(c => c.chapter === selected) : null;
+  const isChPublished = staticCh ? isPublished(staticCh.publishDate) : false;
+  const [ch, setCh] = useState<ReadingChapter | null>(null);
+
+  useEffect(() => {
+    if (staticCh && isChPublished) {
+      setCh(staticCh); // immediate static fallback
+      fetchReading('Genesis', staticCh.chapter).then(apiCh => {
+        if (apiCh) {
+          setCh({
+            book: apiCh.book, bookEn: apiCh.book_en, chapter: apiCh.chapter,
+            title: apiCh.title, titleEn: apiCh.title_en,
+            author: apiCh.author, authorEn: apiCh.author_en,
+            scripture: apiCh.scripture, publishDate: apiCh.publish_date,
+            content_zh: apiCh.content_zh, content_en: apiCh.content_en,
+            historyContext_zh: apiCh.history_context_zh, historyContext_en: apiCh.history_context_en,
+            structure_zh: apiCh.structure_zh, structure_en: apiCh.structure_en,
+            theology_zh: apiCh.theology_zh, theology_en: apiCh.theology_en,
+            christShadow_zh: apiCh.christ_shadow_zh, christShadow_en: apiCh.christ_shadow_en,
+          });
+        }
+      });
+    } else {
+      setCh(null);
+    }
+  }, [selected]);
 
   if (ch && isChPublished) {
     const zhText = ch.content_zh.replace(/[#*]/g, '');
@@ -141,7 +168,7 @@ export default function GenesisClient({ chapters }: { chapters: ReadingChapter[]
       {/* Progress */}
       <div className="mb-6">
         {(() => {
-          const published = chapters.filter(c => new Date(c.publishDate) <= new Date()).length;
+          const published = chapters.filter(c => isPublished(c.publishDate)).length;
           return (
             <>
               <div className="flex items-center justify-between mb-2">
@@ -159,8 +186,8 @@ export default function GenesisClient({ chapters }: { chapters: ReadingChapter[]
       {/* Chapter list */}
       <div className="space-y-3">
         {chapters.map((ch, i) => {
-          const isPublished = new Date(ch.publishDate) <= new Date();
-          return isPublished ? (
+          const chPublished = isPublished(ch.publishDate);
+          return chPublished ? (
           <button
             key={ch.chapter}
             onClick={() => setSelected(ch.chapter)}
@@ -172,7 +199,7 @@ export default function GenesisClient({ chapters }: { chapters: ReadingChapter[]
             <div className="flex-1">
               <div className="flex items-center gap-2">
                 <h3 className="font-bold text-[var(--color-text)]">第{ch.chapter}章 · {ch.title}</h3>
-                {i === chapters.filter(c => new Date(c.publishDate) <= new Date()).length - 1 && (
+                {i === chapters.filter(c => isPublished(c.publishDate)).length - 1 && (
                   <span className="text-xs px-2 py-0.5 rounded-full bg-[var(--color-accent)] text-white font-bold">NEW</span>
                 )}
               </div>
