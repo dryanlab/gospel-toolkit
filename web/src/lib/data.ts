@@ -158,6 +158,7 @@ export const qaCategoryOrder: string[] = [
   'holy_spirit',             // 圣灵
   'sacraments',              // 圣礼
   'prayer',                  // 祷告
+  'christian_life',          // 基督徒生活与教会
   'problem_of_evil',         // 苦难问题
   'moral_foundation',        // 道德基础
   'science_and_faith',       // 科学与信仰
@@ -165,7 +166,6 @@ export const qaCategoryOrder: string[] = [
   'life_after_death',        // 死后生命
   'eschatology',             // 末世与永恒
   'common_objections',       // 常见疑虑
-  'christian_life',          // 基督徒生活
 ];
 
 // Youth section order for navigation
