@@ -1,6 +1,6 @@
 'use client';
 
-import { isPublished } from '@/lib/preview';
+import { isPublished, useHydrated } from '@/lib/preview';
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { letters as staticLetters, categoryLabels } from '@/data/letters';
@@ -10,6 +10,7 @@ import { fetchLettersList } from '@/lib/api';
 const categories = ['all', 'testimony', 'exposition', 'theology', 'fellowship', 'to-you'] as const;
 
 export default function LettersPage() {
+  const hydrated = useHydrated();
   const [activeCategory, setActiveCategory] = useState<string>('all');
   const [letters, setLetters] = useState<Letter[]>(staticLetters);
 
@@ -91,7 +92,7 @@ export default function LettersPage() {
       <div className="space-y-4">
         {filtered.map(letter => {
           const catLabel = categoryLabels[letter.category];
-          const isComingSoon = letter.content_zh === '（即将发布）' || !isPublished(letter.date);
+          const isComingSoon = hydrated && (letter.content_zh === '（即将发布）' || !isPublished(letter.date));
           return (
             <Link
               key={letter.id}

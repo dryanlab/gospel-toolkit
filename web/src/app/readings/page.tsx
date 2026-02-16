@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { readings as staticReadings } from '@/data/readings';
 import type { ReadingChapter } from '@/data/readings';
-import { isPublished } from '@/lib/preview';
+import { isPublished, useHydrated } from '@/lib/preview';
 import { fetchReadingsList } from '@/lib/api';
 
 const books = [

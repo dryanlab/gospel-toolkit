@@ -1,7 +1,7 @@
 'use client';
 
 import { useMemo, useState, useEffect } from 'react';
-import { isPublished } from '@/lib/preview';
+import { isPublished, useHydrated } from '@/lib/preview';
 import Link from 'next/link';
 import { letters as staticLetters, categoryLabels } from '@/data/letters';
 import type { Letter } from '@/data/letters';

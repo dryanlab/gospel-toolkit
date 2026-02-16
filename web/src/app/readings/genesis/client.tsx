@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import type { ReadingChapter } from '@/data/readings';
 import SpeakButton from '@/components/SpeakButton';
-import { isPublished } from '@/lib/preview';
+import { isPublished, useHydrated } from '@/lib/preview';
 import { fetchReading } from '@/lib/api';
 
 function renderMd(md: string) {

@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react';
 import { usePathname } from 'next/navigation';
-import { stopCurrent } from '@/lib/audio-manager';
+import { stopCurrent, registerAudio, unregister } from '@/lib/audio-manager';
 
 function getTtsUrl() {
   if (typeof window !== 'undefined' && (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')) {
@@ -155,6 +155,13 @@ export default function SpeakButton({ text, lang, className }: { text: string; l
 
     stopCurrent();
     cancelledRef.current = false;
+    // Register a dummy audio so other buttons can stop us
+    const sentinel = new Audio();
+    audioRef.current = sentinel;
+    registerAudio(sentinel, () => {
+      cancelledRef.current = true;
+      setState('idle');
+    });
     setState('loading');
 
     const chunks = splitText(preprocessForTts(text.replace(/[#*]/g, ''), lang));
@@ -179,11 +186,16 @@ export default function SpeakButton({ text, lang, className }: { text: string; l
 
     const playBlob = (blob: Blob): Promise<void> => {
       return new Promise((resolve, reject) => {
+        if (cancelledRef.current) { reject(); return; }
         const url = URL.createObjectURL(blob);
         const audio = new Audio(url);
         audioRef.current = audio;
-        audio.onended = () => { URL.revokeObjectURL(url); audioRef.current = null; resolve(); };
-        audio.onerror = () => { URL.revokeObjectURL(url); audioRef.current = null; reject(); };
+        registerAudio(audio, () => {
+          cancelledRef.current = true;
+          setState('idle');
+        });
+        audio.onended = () => { URL.revokeObjectURL(url); resolve(); };
+        audio.onerror = () => { URL.revokeObjectURL(url); reject(); };
         audio.play().catch(reject);
       });
     };
