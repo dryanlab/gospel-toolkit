@@ -56,10 +56,10 @@ export default function ReadingsPage() {
           <span className="text-xs">— 2 Timothy 3:16</span>
         </blockquote>
         <p className="mt-4 text-sm text-[var(--color-text)] max-w-2xl mx-auto leading-relaxed">
-          圣经作者以第一人称带你逐章读经——了解历史背景、经文结构、神学意涵与救恩脉络，让圣经活起来。
+          以圣经作者的视角，带你逐章走进经文。这不是原文翻译，而是基于改革宗释经传统的导读——想象摩西坐在你身旁，为你讲解他写下这些话时的心意。
           <br />
           <span className="text-[var(--color-text-secondary)]">
-            Biblical authors guide you chapter by chapter in first person — historical context, structure, theological significance, and the thread of redemption. Bringing Scripture to life.
+            Walk through Scripture chapter by chapter, as if guided by the biblical author. These are not translations of the original text, but guided readings rooted in the Reformed interpretive tradition.
           </span>
         </p>
       </div>

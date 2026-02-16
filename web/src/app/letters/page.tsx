@@ -49,10 +49,10 @@ export default function LettersPage() {
           <span className="text-xs">— Ephesians 2:13</span>
         </blockquote>
         <p className="mt-4 text-sm text-[var(--color-text)] max-w-2xl mx-auto leading-relaxed">
-          圣经人物以第一人称写给你的信——他们最真实的挣扎、信心与得胜。
+          如果圣经中的人物能给今天的你写一封信，他们会说什么？这些书信以第一人称重述圣经故事，帮助你走进他们的挣扎、悔改与盼望。
           <br />
           <span className="text-[var(--color-text-secondary)]">
-            Letters written to you in the first person by biblical figures — their authentic struggles, faith, and victories.
+            What if the men and women of Scripture could write you a letter today? These first-person narratives retell biblical stories, inviting you into their struggles, repentance, and hope.
           </span>
         </p>
         <div className="mt-4 inline-block px-4 py-2 rounded-full bg-[var(--color-accent)]/10 border border-[var(--color-accent)]/20">
