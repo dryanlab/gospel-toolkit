@@ -50,12 +50,14 @@ function renderMarkdown(md: string) {
 export default function LetterClient({ id }: { id: string }) {
   const letter = useMemo(() => letters.find(l => l.id === id), [id]);
 
-  if (!letter) {
+  const isUnavailable = !letter || letter.content_zh === '（即将发布）' || new Date(letter.date) > new Date();
+  if (isUnavailable) {
     return (
       <div className="max-w-3xl mx-auto px-4 py-16 text-center">
         <p className="text-4xl mb-4">📭</p>
-        <p className="text-[var(--color-text-secondary)]">文章不存在</p>
-        <Link href="/letters" className="text-[var(--color-accent)] mt-4 inline-block">← 返回圣徒来信</Link>
+        <p className="text-[var(--color-text-secondary)]">{letter ? '这封信尚未发布，敬请期待！' : '文章不存在'}</p>
+        <p className="text-xs text-[var(--color-text-secondary)] italic mt-1">{letter ? 'This letter has not been published yet. Stay tuned!' : 'Article not found'}</p>
+        <Link href="/letters" className="text-[var(--color-accent)] mt-4 inline-block">← 返回圣徒来信 Back to Letters</Link>
       </div>
     );
   }
@@ -64,8 +66,10 @@ export default function LetterClient({ id }: { id: string }) {
 
   // Find prev/next
   const idx = letters.findIndex(l => l.id === id);
-  const prev = idx > 0 ? letters[idx - 1] : null;
-  const next = idx < letters.length - 1 ? letters[idx + 1] : null;
+  const now = new Date();
+  const isAvailable = (l: typeof letters[0]) => l.content_zh !== '（即将发布）' && new Date(l.date) <= now;
+  const prev = idx > 0 && isAvailable(letters[idx - 1]) ? letters[idx - 1] : null;
+  const next = idx < letters.length - 1 && isAvailable(letters[idx + 1]) ? letters[idx + 1] : null;
 
   // Plain text for TTS
   const zhText = letter.content_zh.replace(/[#*]/g, '').replace(/\n{2,}/g, '\n');
