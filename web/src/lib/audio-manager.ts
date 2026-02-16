@@ -9,6 +9,12 @@ export function registerAudio(audio: HTMLAudioElement, onStop: () => void) {
   currentStop = onStop;
 }
 
+// Replace current registration without stopping — for sequential chunk playback
+export function replaceAudio(audio: HTMLAudioElement, onStop: () => void) {
+  currentAudio = audio;
+  currentStop = onStop;
+}
+
 export function stopCurrent() {
   if (currentAudio) {
     currentAudio.pause();

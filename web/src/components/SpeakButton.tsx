@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react';
 import { usePathname } from 'next/navigation';
-import { stopCurrent, registerAudio, unregister } from '@/lib/audio-manager';
+import { stopCurrent, registerAudio, replaceAudio, unregister } from '@/lib/audio-manager';
 
 function getTtsUrl() {
   if (typeof window !== 'undefined' && (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')) {
@@ -190,7 +190,8 @@ export default function SpeakButton({ text, lang, className }: { text: string; l
         const url = URL.createObjectURL(blob);
         const audio = new Audio(url);
         audioRef.current = audio;
-        registerAudio(audio, () => {
+        // Replace without stopping — same button's next chunk
+        replaceAudio(audio, () => {
           cancelledRef.current = true;
           setState('idle');
         });
