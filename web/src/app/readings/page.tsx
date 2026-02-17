@@ -135,8 +135,7 @@ export default function ReadingsPage() {
         <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">📚 选择书卷 Choose a Book</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
           {books.map(book => {
-            const now = new Date();
-            const published = readings.filter(r => r.bookEn.toLowerCase() === book.id && new Date(r.publishDate) <= now).length;
+            const published = readings.filter(r => r.bookEn.toLowerCase() === book.id && isPublished(r.publishDate)).length;
             const total_written = readings.filter(r => r.bookEn.toLowerCase() === book.id).length;
             const hasContent = total_written > 0;
             const pct = book.total > 0 ? Math.round((published / book.total) * 100) : 0;
