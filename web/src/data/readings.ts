@@ -597,6 +597,8 @@ readings.push({
 
 "随意挑选"这四个字暗示了问题的本质。他们选择配偶的标准不是敬虔，而是外貌。当信仰的界限被打破，当敬虔的一方不再以信仰为择偶的首要条件时，败坏就不可避免地蔓延了。这对今天的基督徒仍然是严肃的警告——保罗说"你们和不信的原不相配，不要同负一轭"（林后6:14），不是狭隘，而是保护。
 
+这个原则不只适用于婚姻。在任何关系中，当我们在信仰上妥协——为了合群、为了利益、为了不被嘲笑——我们就在重复"神的儿子们"的错误。雅各书4:4说"与世俗为友就是与神为敌"。这不是说我们要与世界隔绝，而是说在核心的信仰立场上，不能让步。盐失了味，还有什么用呢？
+
 然后，耶和华说了一句意味深长的话："人既属乎血气，我的灵就不永远住在他里面，然而他的日子还可到一百二十年。"（创6:3）这一百二十年是上帝给人类的宽限期——审判不是立刻降临的，上帝给了足够的时间让人悔改。彼得后来说上帝"宽容你们，不愿有一人沉沦，乃愿人人都悔改"（彼后3:9）。但宽容不是永远的。一百二十年的恩典之后，审判终将来到。
 
 接下来是整章最沉重的经文：
@@ -647,6 +649,8 @@ The chapter opens: "When man began to multiply on the face of the land and daugh
 Who are the "sons of God"? Calvin and most Reformed scholars understand them as Seth's descendants — the godly line from Adam to Noah — intermarrying with Cain's line. Chapters 4 and 5 trace two lineages: one departing from God, one calling upon His name. Now these two lines merged.
 
 "Any they chose" — these words reveal the problem's essence. Their standard for choosing spouses was not godliness but beauty. When the boundary of faith is broken, when the godly no longer make faith the first criterion for marriage, corruption inevitably spreads. This remains a solemn warning for Christians today. Paul's words "do not be unequally yoked with unbelievers" (2 Corinthians 6:14) are not narrow-mindedness but protection.
+
+This principle extends beyond marriage. In any relationship, when we compromise on faith — to fit in, for profit, to avoid ridicule — we repeat the "sons of God's" mistake. James 4:4 says "friendship with the world is enmity with God." Not that we isolate from the world, but on core matters of faith, we must not yield. If salt loses its taste, what good is it?
 
 Then the LORD spoke a weighty word: "My Spirit shall not abide in man forever, for he is flesh: his days shall be 120 years." (Genesis 6:3) These 120 years were God's grace period. Judgment did not come immediately; God gave ample time for repentance. Peter later said God is "patient toward you, not wishing that any should perish, but that all should reach repentance" (2 Peter 3:9). But patience is not forever. After 120 years of grace, judgment would come.
 
@@ -750,6 +754,8 @@ readings.push({
 
 还要注意一个细节：洪水持续了"四十"昼夜。四十在圣经中是一个有特殊含义的数字——摩西在山上四十天，以色列人在旷野四十年，耶稣在旷野受试探四十天。四十代表试炼和预备的时期。洪水的四十天是对旧世界的试炼和审判，也是为新世界的预备。
 
+还有一个令人战栗的细节："水势浩大，在地上共一百五十天。"想象一下方舟外面的景象——曾经繁忙的城镇、热闹的市集、欢笑的家庭、骄傲的宁录式英雄——现在全部沉寂在水下。世人看为坚固的一切——财富、权力、地位、人际关系——在上帝的审判面前，没有一样站得住。"因为凡有血气的，尽都如草；他的美荣都像草上的花。草必枯干，花必凋谢；惟有主的道是永存的。"（彼前1:24-25）只有上帝的话语和进入方舟的信心，能在审判中存留。
+
 弟兄姐妹，让我最后指出这一章中最容易被忽略、却最重要的一节经文：
 
 "耶和华就把他关在方舟里头。"（创7:16）
@@ -807,6 +813,8 @@ Some ask: why did God use a flood? Why not another method? Return to Genesis 1 �
 
 Note another detail: the flood lasted "forty" days and nights. Forty is a significant number in Scripture — Moses spent forty days on the mountain, Israel wandered forty years in the wilderness, Jesus was tempted forty days in the desert. Forty represents a period of testing and preparation. The flood's forty days were both trial and judgment on the old world, and preparation for the new.
 
+One more chilling detail: "the waters prevailed on the earth 150 days." Imagine the scene outside the ark — once-bustling towns, lively markets, laughing families, proud Nimrod-like heroes — now all silent beneath the water. Everything the world deemed secure — wealth, power, status, relationships — could not stand before God's judgment. "For all flesh is like grass and all its glory like the flower of grass. The grass withers, and the flower falls, but the word of the Lord remains forever." (1 Peter 1:24-25) Only God's word and the faith to enter the ark endure through judgment.
+
 Brothers and sisters, let me finally point out this chapter's most easily overlooked yet most important verse:
 
 "And the LORD shut him in." (Genesis 7:16)
@@ -860,6 +868,8 @@ readings.push({
 
 弟兄姐妹，这教导我们一个重要的功课：无论环境多么艰难，敬拜应该是我们生命的第一优先。约伯在失去一切之后说"赏赐的是耶和华，收取的也是耶和华，耶和华的名是应当称颂的"（伯1:21）。感恩不取决于环境，取决于你认不认识那位掌管环境的上帝。
 
+而且请注意，挪亚献上的是"各类洁净的牲畜、飞鸟"。方舟里洁净的畜类带了七对，不洁净的只带了一对——多出来的那些，就是为了献祭预备的。上帝在审判之前就计划好了：拯救之后，会有敬拜；敬拜之中，会有牺牲。这不是挪亚临时想出来的，是上帝早就安排好的。弟兄姐妹，你生命中的每一个"多出来的"祝福，都是上帝预备给你用来感恩和奉献的。
+
 "耶和华闻那馨香之气，就心里说：'我不再因人的缘故咒诅地（人从小时心里怀着恶念），也不再按着我才行的灭各种的活物了。'"（创8:21）
 
 这节经文包含了一个惊人的张力。请注意括号里的话："人从小时心里怀着恶念。"上帝决定不再用洪水毁灭世界，不是因为人变好了——人的本性一点都没有改变！洪水洗去了罪人，但洗不去罪性。挪亚是义人，但他仍然是罪人（下一章就会看到他醉酒的跌倒）。他的后代也会继续犯罪——巴别塔就是明证。
@@ -908,6 +918,8 @@ The first thing Noah did upon leaving the ark was not building a house, not till
 Picture the scene: a world just ravaged by devastating judgment, desolate in every direction. Noah's family standing on empty ground, surrounded by the barrenness left by receding floodwaters. In such circumstances, Noah's first act was gratitude. He did not complain about a year of drifting hardship or worry about future difficulties. He knew that standing here at all was entirely God's grace. So his first response was worship.
 
 Brothers and sisters, this teaches an important lesson: no matter how difficult the circumstances, worship should be our life's first priority. Job, after losing everything, said "the LORD gave, and the LORD has taken away; blessed be the name of the LORD" (Job 1:21). Gratitude depends not on circumstances but on knowing the God who governs them.
+
+Notice also that Noah offered "some of every clean animal and some of every clean bird." The ark carried seven pairs of clean animals but only one pair of unclean — the extra pairs were prepared for sacrifice. God planned before judgment: after salvation, there would be worship; within worship, there would be sacrifice. This was not Noah's improvisation but God's prior arrangement. Brothers and sisters, every "extra" blessing in your life is what God prepared for your gratitude and offering.
 
 "And when the LORD smelled the pleasing aroma, the LORD said in his heart, 'I will never again curse the ground because of man, for the intention of man's heart is evil from his youth. Neither will I ever again strike down every living creature as I have done.'" (Genesis 8:21)
 
