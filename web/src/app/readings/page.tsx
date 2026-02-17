@@ -7,6 +7,11 @@ import type { ReadingChapter } from '@/data/readings';
 import { isPublished, useHydrated } from '@/lib/preview';
 import { fetchReadingsList } from '@/lib/api';
 
+function isReadLocal(book: string, chapter: number): boolean {
+  if (typeof window === 'undefined') return false;
+  return localStorage.getItem(`reading_done_${book}_${chapter}`) === '1';
+}
+
 const books = [
   { id: 'genesis', name: '创世记', nameEn: 'Genesis', author: '摩西', authorEn: 'Moses', icon: '🌍', total: 50 },
   { id: 'exodus', name: '出埃及记', nameEn: 'Exodus', author: '摩西', authorEn: 'Moses', icon: '🔥', total: 40},
@@ -88,14 +93,16 @@ export default function ReadingsPage() {
         <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🔥 最新伴读 Latest</h2>
         <div className="space-y-3">
           {/* Published chapters */}
-          {[...readings].filter(r => isPublished(r.publishDate)).reverse().slice(0, 5).map((item, i) => (
+          {[...readings].filter(r => isPublished(r.publishDate)).reverse().slice(0, 5).map((item, i) => {
+            const chRead = isReadLocal(item.bookEn.toLowerCase(), item.chapter);
+            return (
             <Link
               key={item.chapter}
               href={`/readings/${item.bookEn.toLowerCase()}?ch=${item.chapter}`}
               className="flex items-center gap-4 p-4 rounded-xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] transition-all hover:border-[var(--color-accent)]"
             >
-              <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[var(--color-accent)]/10 flex items-center justify-center">
-                <span className="text-[var(--color-accent)] font-bold">{item.chapter}</span>
+              <div className={`flex-shrink-0 w-12 h-12 rounded-full flex items-center justify-center ${chRead ? 'bg-green-100 dark:bg-green-900/30' : 'bg-[var(--color-accent)]/10'}`}>
+                {chRead ? <span className="text-green-600 dark:text-green-400 text-lg">✅</span> : <span className="text-[var(--color-accent)] font-bold">{item.chapter}</span>}
               </div>
               <div className="flex-1 min-w-0">
                 <div className="flex items-center gap-2">
@@ -108,7 +115,8 @@ export default function ReadingsPage() {
               </div>
               <span className="text-[var(--color-text-secondary)] text-sm">{item.author}伴读 Read with {item.authorEn}</span>
             </Link>
-          ))}
+            );
+          })}
           {/* Next upcoming chapter */}
           {(() => {
             const upcoming = [...readings].filter(r => !isPublished(r.publishDate)).sort((a, b) => a.publishDate.localeCompare(b.publishDate))[0];

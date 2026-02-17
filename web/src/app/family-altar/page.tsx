@@ -177,13 +177,60 @@ const ageModes: { key: AgeMode; label: string; desc: string; emoji: string }[] =
 
 import SpeakButton from '@/components/SpeakButton';
 
+// --- Check-in helpers ---
+function getCheckinKey(dateStr: string) {
+  return `fa_checkin_${dateStr}`;
+}
+function isCheckedIn(dateStr: string): boolean {
+  if (typeof window === 'undefined') return false;
+  return localStorage.getItem(getCheckinKey(dateStr)) === '1';
+}
+function doCheckin(dateStr: string) {
+  localStorage.setItem(getCheckinKey(dateStr), '1');
+}
+function getCheckinStats() {
+  if (typeof window === 'undefined') return { streak: 0, monthCount: 0, monthTotal: 0 };
+  const today = new Date();
+  // Current month count
+  const y = today.getFullYear();
+  const m = today.getMonth();
+  const daysInMonth = new Date(y, m + 1, 0).getDate();
+  let monthCount = 0;
+  for (let d = 1; d <= daysInMonth; d++) {
+    const ds = `${y}-${String(m + 1).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
+    if (localStorage.getItem(`fa_checkin_${ds}`) === '1') monthCount++;
+  }
+  // Streak (consecutive days ending today or yesterday)
+  let streak = 0;
+  const check = new Date(today);
+  // Allow streak to start from today
+  for (let i = 0; i < 365; i++) {
+    const ds = formatDate(check);
+    if (localStorage.getItem(`fa_checkin_${ds}`) === '1') {
+      streak++;
+      check.setDate(check.getDate() - 1);
+    } else if (i === 0) {
+      // Today not checked in yet, try starting from yesterday
+      check.setDate(check.getDate() - 1);
+      continue;
+    } else {
+      break;
+    }
+  }
+  return { streak, monthCount, monthTotal: daysInMonth };
+}
+
 export default function FamilyAltarPage() {
   const [selectedDate, setSelectedDate] = useState<Date>(new Date());
   const [content, setContent] = useState<DailyContent | null>(null);
   const [ageMode, setAgeMode] = useState<AgeMode>('family');
+  const [checkedIn, setCheckedIn] = useState(false);
+  const [stats, setStats] = useState({ streak: 0, monthCount: 0, monthTotal: 0 });
 
   useEffect(() => {
     setContent(getDailyContent(selectedDate));
+    setCheckedIn(isCheckedIn(formatDate(selectedDate)));
+    setStats(getCheckinStats());
   }, [selectedDate]);
 
   const isToday = formatDate(selectedDate) === formatDate(new Date());
@@ -446,8 +493,43 @@ export default function FamilyAltarPage() {
         </section>
       </div>
 
+      {/* Check-in Section */}
+      <div className="mt-8 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] p-6 text-center">
+        {checkedIn ? (
+          <div>
+            <span className="text-4xl block mb-2">✅</span>
+            <p className="text-[var(--color-text)] font-bold">今日已完成！</p>
+            <p className="text-xs text-[var(--color-text-secondary)] italic">Today&apos;s devotion completed!</p>
+          </div>
+        ) : (
+          <button
+            onClick={() => {
+              doCheckin(formatDate(selectedDate));
+              setCheckedIn(true);
+              setStats(getCheckinStats());
+            }}
+            className="inline-flex items-center gap-2 rounded-xl bg-[var(--color-accent)] text-white px-8 py-3 text-base font-bold hover:opacity-90 transition-opacity"
+          >
+            ✅ 今日灵修已完成 · Done for Today
+          </button>
+        )}
+
+        {/* Stats */}
+        <div className="flex items-center justify-center gap-6 mt-4">
+          <div>
+            <p className="text-2xl font-bold text-[var(--color-accent)]">{stats.streak}</p>
+            <p className="text-xs text-[var(--color-text-secondary)]">连续天数<br/><span className="italic">Streak</span></p>
+          </div>
+          <div className="w-px h-10 bg-[var(--color-border)]" />
+          <div>
+            <p className="text-2xl font-bold text-[var(--color-accent)]">{stats.monthCount}/{stats.monthTotal}</p>
+            <p className="text-xs text-[var(--color-text-secondary)]">本月完成<br/><span className="italic">This Month</span></p>
+          </div>
+        </div>
+      </div>
+
       {/* Footer tip */}
-      <div className="mt-8 text-center text-xs text-[var(--color-text-secondary)]">
+      <div className="mt-6 text-center text-xs text-[var(--color-text-secondary)]">
         <p>💡 建议每次家庭敬拜控制在 5-10 分钟，简短、实用、易坚持</p>
         <p className="italic">Tip: Keep each family worship session to 5–10 minutes — short, practical, and sustainable</p>
       </div>

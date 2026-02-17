@@ -2,6 +2,8 @@
 
 import { useState, useEffect } from 'react';
 
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://rockoftruth-api.suyanuiuc.workers.dev';
+
 interface LikeButtonProps {
   articleId: string;
 }
@@ -12,18 +14,24 @@ export default function LikeButton({ articleId }: LikeButtonProps) {
   const [animating, setAnimating] = useState(false);
 
   useEffect(() => {
-    // Check localStorage
+    // Check if already liked (localStorage for UI state)
     const likedArticles = JSON.parse(localStorage.getItem('liked_articles') || '{}');
     if (likedArticles[articleId]) {
       setLiked(true);
     }
-    // In future: fetch count from API
-    // For now, use localStorage-based count
-    const counts = JSON.parse(localStorage.getItem('like_counts') || '{}');
-    setCount(counts[articleId] || 0);
+
+    // Fetch global count from API
+    fetch(`${API_URL}/likes/${articleId}`)
+      .then(res => res.json())
+      .then(data => setCount(data.count || 0))
+      .catch(() => {
+        // Fallback to localStorage count
+        const counts = JSON.parse(localStorage.getItem('like_counts') || '{}');
+        setCount(counts[articleId] || 0);
+      });
   }, [articleId]);
 
-  const handleLike = () => {
+  const handleLike = async () => {
     if (liked) return;
 
     setLiked(true);
@@ -31,16 +39,22 @@ export default function LikeButton({ articleId }: LikeButtonProps) {
     setAnimating(true);
     setTimeout(() => setAnimating(false), 600);
 
-    // Save to localStorage
+    // Save to localStorage (prevent re-liking)
     const likedArticles = JSON.parse(localStorage.getItem('liked_articles') || '{}');
     likedArticles[articleId] = Date.now();
     localStorage.setItem('liked_articles', JSON.stringify(likedArticles));
 
-    const counts = JSON.parse(localStorage.getItem('like_counts') || '{}');
-    counts[articleId] = (counts[articleId] || 0) + 1;
-    localStorage.setItem('like_counts', JSON.stringify(counts));
-
-    // In future: POST to API
+    // POST to API
+    try {
+      const res = await fetch(`${API_URL}/likes/${articleId}`, { method: 'POST' });
+      const data = await res.json();
+      // Sync server count (more accurate)
+      if (data.count !== undefined) {
+        setCount(data.count);
+      }
+    } catch {
+      // API failed — localStorage already updated, graceful degradation
+    }
   };
 
   return (

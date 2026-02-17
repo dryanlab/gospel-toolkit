@@ -5,8 +5,29 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import type { ReadingChapter } from '@/data/readings';
 import SpeakButton from '@/components/SpeakButton';
+import LikeButton from '@/components/LikeButton';
 import { isPublished, useHydrated } from '@/lib/preview';
 import { fetchReading } from '@/lib/api';
+
+// --- Read mark helpers ---
+function getReadKey(book: string, chapter: number) {
+  return `reading_done_${book}_${chapter}`;
+}
+function isRead(book: string, chapter: number): boolean {
+  if (typeof window === 'undefined') return false;
+  return localStorage.getItem(getReadKey(book, chapter)) === '1';
+}
+function markRead(book: string, chapter: number) {
+  localStorage.setItem(getReadKey(book, chapter), '1');
+}
+function getReadCount(book: string, total: number): number {
+  if (typeof window === 'undefined') return 0;
+  let count = 0;
+  for (let i = 1; i <= total; i++) {
+    if (localStorage.getItem(getReadKey(book, i)) === '1') count++;
+  }
+  return count;
+}
 
 function renderMd(md: string) {
   return md.split('\n').map((line, i) => {
@@ -35,6 +56,16 @@ export default function GenesisClient({ chapters }: { chapters: ReadingChapter[]
   const staticCh = selected !== null ? chapters.find(c => c.chapter === selected) : null;
   const isChPublished = staticCh ? isPublished(staticCh.publishDate) : false;
   const [ch, setCh] = useState<ReadingChapter | null>(null);
+  const [chRead, setChRead] = useState(false);
+  const [readCountState, setReadCountState] = useState(0);
+
+  useEffect(() => {
+    setReadCountState(getReadCount('genesis', 50));
+  }, []);
+
+  useEffect(() => {
+    if (selected !== null) setChRead(isRead('genesis', selected));
+  }, [selected]);
 
   useEffect(() => {
     if (staticCh && isChPublished) {
@@ -127,6 +158,28 @@ export default function GenesisClient({ chapters }: { chapters: ReadingChapter[]
           </div>
         </div>
 
+        {/* Mark as Read + Like */}
+        <div className="mt-8 flex items-center justify-center gap-4 flex-wrap">
+          {chRead ? (
+            <div className="inline-flex items-center gap-2 text-green-600 dark:text-green-400 font-bold">
+              <span className="text-2xl">✅</span>
+              <span>已读完 · Read</span>
+            </div>
+          ) : (
+            <button
+              onClick={() => {
+                markRead('genesis', ch.chapter);
+                setChRead(true);
+                setReadCountState(getReadCount('genesis', 50));
+              }}
+              className="inline-flex items-center gap-2 rounded-xl bg-[var(--color-accent)] text-white px-8 py-3 text-base font-bold hover:opacity-90 transition-opacity"
+            >
+              ✅ 标记已读 · Mark as Read
+            </button>
+          )}
+          <LikeButton articleId={`genesis-${ch.chapter}`} />
+        </div>
+
         {/* Prev/Next */}
         <div className="flex justify-between gap-4 mt-8">
           {ch.chapter > 1 ? (
@@ -173,10 +226,14 @@ export default function GenesisClient({ chapters }: { chapters: ReadingChapter[]
             <>
               <div className="flex items-center justify-between mb-2">
                 <span className="text-sm text-[var(--color-text-secondary)]">进度 Progress</span>
-                <span className="text-sm text-[var(--color-accent)] font-bold">{published}/50章</span>
+                <div className="flex items-center gap-3">
+                  <span className="text-xs text-green-600 dark:text-green-400 font-medium">✅ 已读 {readCountState}</span>
+                  <span className="text-sm text-[var(--color-accent)] font-bold">{published}/50章</span>
+                </div>
               </div>
-              <div className="w-full h-2 bg-[var(--color-bg)] rounded-full overflow-hidden">
-                <div className="h-full bg-[var(--color-accent)] rounded-full" style={{ width: `${(published / 50) * 100}%` }} />
+              <div className="w-full h-2 bg-[var(--color-bg)] rounded-full overflow-hidden relative">
+                <div className="absolute h-full bg-[var(--color-accent)]/30 rounded-full" style={{ width: `${(published / 50) * 100}%` }} />
+                <div className="absolute h-full bg-green-500 rounded-full" style={{ width: `${(readCountState / 50) * 100}%` }} />
               </div>
             </>
           );
@@ -187,14 +244,15 @@ export default function GenesisClient({ chapters }: { chapters: ReadingChapter[]
       <div className="space-y-3">
         {chapters.map((ch, i) => {
           const chPublished = isPublished(ch.publishDate);
+          const chIsRead = isRead('genesis', ch.chapter);
           return chPublished ? (
           <button
             key={ch.chapter}
             onClick={() => setSelected(ch.chapter)}
             className="w-full flex items-center gap-4 p-4 rounded-xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] hover:border-[var(--color-accent)] transition-all text-left"
           >
-            <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[var(--color-accent)]/10 flex items-center justify-center">
-              <span className="text-[var(--color-accent)] font-bold text-sm">{ch.chapter}</span>
+            <div className={`flex-shrink-0 w-10 h-10 rounded-full flex items-center justify-center ${chIsRead ? 'bg-green-100 dark:bg-green-900/30' : 'bg-[var(--color-accent)]/10'}`}>
+              {chIsRead ? <span className="text-green-600 dark:text-green-400 text-sm">✅</span> : <span className="text-[var(--color-accent)] font-bold text-sm">{ch.chapter}</span>}
             </div>
             <div className="flex-1">
               <div className="flex items-center gap-2">

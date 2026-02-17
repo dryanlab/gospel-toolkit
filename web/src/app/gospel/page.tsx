@@ -322,10 +322,10 @@ export default function GospelPage() {
           Want to learn more?
         </p>
         <p className="text-sm text-[var(--color-text)] mb-2 max-w-md mx-auto">
-          我们整理了126个关于信仰的常见问题，涵盖罪与救恩、神的存在、基督的独一性等核心主题。
+          我们整理了163个关于信仰的常见问题，涵盖罪与救恩、神的存在、基督的独一性等核心主题。
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] mb-6 max-w-md mx-auto italic">
-          We have compiled 126 frequently asked questions about the faith, covering sin and salvation, the existence of God, the uniqueness of Christ, and more.
+          We have compiled 163 frequently asked questions about the faith, covering sin and salvation, the existence of God, the uniqueness of Christ, and more.
         </p>
         <Link
           href="/qa"
