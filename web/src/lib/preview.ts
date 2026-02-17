@@ -8,7 +8,10 @@ export function isPreview(): boolean {
 export function isPublished(dateStr: string): boolean {
   if (typeof window === 'undefined') return false;
   if (isPreview()) return true;
-  return new Date(dateStr) <= new Date();
+  // Compare in EST (UTC-5) to avoid timezone issues
+  // Publish at 6:00 AM EST on the date
+  const publishTime = new Date(dateStr + 'T06:00:00-05:00');
+  return publishTime <= new Date();
 }
 
 // React hook version — safe for hydration
