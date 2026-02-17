@@ -584,63 +584,288 @@ Enoch's story tells you: **death is not the final word. The one who walks with G
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 6,
   publishDate: '2026-02-23',
-  title: '神子与人女', titleEn: 'Sons of God and Daughters of Men',
+  title: '洪水前的世界', titleEn: 'The World Before the Flood',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 6:1 / Genesis 6:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 6:1-22 / Genesis 6:1-22',
+  content_zh: `弟兄姐妹，我要告诉你们一段让神心中忧伤的历史。
+
+还记得第五章那份漫长的家谱吗？"他就死了……他就死了……他就死了"——罪的后果在每一代人身上盖下印记。但这还不是最可怕的。最可怕的是，到了第六章，罪不仅带来死亡，还带来了全面的败坏。
+
+"耶和华见人在地上罪恶很大，终日所思想的尽都是恶。"（创6:5）
+
+你们注意这句话的程度：不是"偶尔犯错"，不是"有好有坏"——是"终日所思想的**尽都是恶**"。从心里发出的每一个念头，每一个意图，每一个渴望，都被罪浸透了。这就是我们改革宗神学所说的"全然败坏"——不是说人做了所有能做的坏事，而是说罪污染了人存在的每一个层面。
+
+"耶和华就后悔造人在地上，心中忧伤。"（创6:6）
+
+弟兄姐妹，请在这里停一停。造物主——那位说有就有、命立就立的全能者——**心中忧伤**。不是冷漠的愤怒，是一位父亲看着自己的孩子走向毁灭时的心碎。这一节经文让我们瞥见了上帝的心。他不是一位冷酷的审判官，他是一位伤心的父亲。
+
+然后经文说了一句出人意料的话："惟有挪亚在耶和华眼前蒙恩。"（创6:8）
+
+为什么是挪亚？不是因为挪亚完美——后来的事会证明他也是罪人。是因为"恩典"。你看，在一片黑暗中，恩典总是先于审判。上帝要毁灭世界，但他先预备了一条逃生之路。
+
+于是上帝吩咐挪亚造方舟。你想想那个画面：一个人在旱地上造一艘巨大的船。周围的人一定觉得他疯了。圣经没有记载有任何人帮助挪亚，除了他的家人。"挪亚就这样行。凡神所吩咐的，他都照样行了。"（创6:22）
+
+这句话看似简单，却是整章最有力量的一句。在全世界都在作恶的时候，有一个人选择顺服。不是因为他看到了洪水的证据，不是因为周围有人支持他——只是因为"凡神所吩咐的，他都照样行了"。
+
+弟兄姐妹，方舟是什么？方舟是审判中的避难所。当洪水来临时，在方舟里面的就得救，在方舟外面的就灭亡。这难道不让你想到一位吗？基督就是我们的方舟。在末日审判的洪水来临之前，上帝已经为我们预备了避难所。"当趁耶和华可寻找的时候寻找他，相近的时候求告他。"（赛55:6）
+
+上帝给了挪亚时代的人120年的警告期（创6:3）。他们有足够的时间悔改。但他们没有。耶稣后来说："挪亚的日子怎样，人子降临也要怎样。"（太24:37）——人们照常吃喝嫁娶，对审判毫不在意，直到洪水来了。
+
+今天，你是在方舟里面，还是在方舟外面？`,
+  content_en: `Brothers and sisters, I must tell you a history that grieved God's heart.
+
+Remember the long genealogy of chapter 5? "And he died... and he died... and he died" — sin's consequences stamped on every generation. But this was not the worst of it. By chapter 6, sin brought not only death but total corruption.
+
+"The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually." (Genesis 6:5)
+
+Notice the degree: not "occasional mistakes," not "a mix of good and bad" — but "every intention... only evil continually." Every thought, every motive, every desire soaked through with sin. This is what Reformed theology calls "total depravity" — not that humans committed every possible evil, but that sin contaminated every dimension of human existence.
+
+"And the LORD regretted that he had made man on the earth, and it grieved him to his heart." (Genesis 6:6)
+
+Brothers and sisters, pause here. The Creator — the Almighty who speaks and it comes to be — was grieved to his heart. Not cold anger, but a Father's heartbreak watching his children march toward destruction. This verse gives us a glimpse into God's heart. He is not a cold judge but a grieving Father.
+
+Then Scripture says something unexpected: "But Noah found favor in the eyes of the LORD." (Genesis 6:8)
+
+Why Noah? Not because Noah was perfect — later events prove he too was a sinner. Because of grace. In utter darkness, grace always precedes judgment. God would destroy the world, but first He prepared an escape.
+
+So God commanded Noah to build an ark. Picture it: one man building an enormous ship on dry land. Everyone must have thought him insane. Scripture records no one helping Noah except his family. "Noah did this; he did all that God commanded him." (Genesis 6:22)
+
+This seemingly simple statement is the chapter's most powerful sentence. When the entire world was doing evil, one man chose obedience. Not because he saw evidence of a flood, not because anyone supported him — simply because "he did all that God commanded him."
+
+Brothers and sisters, what is the ark? The ark is a refuge in judgment. When the flood came, those inside were saved; those outside perished. Does this not remind you of Someone? Christ is our ark. Before the flood of final judgment arrives, God has already prepared our refuge. "Seek the LORD while he may be found; call upon him while he is near." (Isaiah 55:6)
+
+God gave Noah's generation 120 years of warning (Genesis 6:3). They had ample time to repent. They did not. Jesus later said: "As were the days of Noah, so will be the coming of the Son of Man." (Matthew 24:37) — people eating, drinking, marrying, utterly indifferent to judgment, until the flood came.
+
+Today, are you inside the ark, or outside it?`,
+  historyContext_zh: `创世记第六章发生在人类早期历史中，从亚当到挪亚约有十代。经文提到"神的儿子们"与"人的女子们"通婚，关于"神的儿子"的身份，改革宗传统中有两种主要解读：一是指塞特的后裔（敬虔的谱系）与该隐的后裔（不敬虔的谱系）通婚，导致敬虔谱系的败坏；二是指堕落天使。加尔文和大多数改革宗学者持第一种观点。核心信息是：圣俗不分的混合导致了全面的道德败坏。`,
+  historyContext_en: `Genesis 6 occurs in early human history, about ten generations from Adam to Noah. The text mentions "sons of God" marrying "daughters of man." Reformed tradition holds two main views: (1) Seth's line (godly) intermarrying with Cain's line (ungodly), corrupting the godly lineage — held by Calvin and most Reformed scholars; (2) fallen angels. The core message: the blurring of sacred and secular boundaries led to total moral corruption.`,
+  structure_zh: `第六章分为三个部分：（1）1-4节：败坏的描述——"神的儿子们"与"人的女子们"通婚，上古英武人（拿非利人）；（2）5-8节：上帝的忧伤与审判决定——"终日所思想的尽都是恶"，但挪亚蒙恩；（3）9-22节：挪亚的蒙召与方舟的建造——详细的建造指令和挪亚的顺服。整章从全人类的败坏聚焦到一个蒙恩的家庭，展现了审判与恩典并行的主题。`,
+  structure_en: `Chapter 6 has three sections: (1) vv.1-4: Description of corruption — "sons of God" marrying "daughters of man," the Nephilim; (2) vv.5-8: God's grief and judgment decision — "every intention... only evil continually," but Noah found favor; (3) vv.9-22: Noah's calling and the ark's construction — detailed building instructions and Noah's obedience. The chapter narrows from universal corruption to one family of grace, showing judgment and grace in parallel.`,
+  theology_zh: `第六章揭示了几个重要的神学主题：（1）全然败坏：人的罪不是表面的行为问题，而是"终日所思想的尽都是恶"——从思想根源就被罪污染了，这是韦敏斯德信条第六章所教导的原罪教义的圣经基础；（2）上帝的忧伤：上帝不是冷漠的，他对罪有真实的情感回应，这与上帝的不变性并不矛盾——上帝的不变是指他的本性和旨意不变，但他确实与受造物有真实的关系；（3）恩典先于审判：在宣布毁灭之前，上帝先预备了拯救的途径；（4）挪亚的信心：希伯来书11:7说挪亚"因着信，既蒙神指示他未见的事，动了敬畏的心，预备了一只方舟"——信心是对未见之事的确信和顺服。`,
+  theology_en: `Chapter 6 reveals several important theological themes: (1) Total depravity: sin is not superficial but "every intention... only evil continually" — corrupted from the root of thought, the biblical basis for original sin as taught in WCF ch.6; (2) God's grief: God is not impassive; He has real emotional response to sin, not contradicting divine immutability (His nature and purposes are unchanging, but He has genuine relationship with creation); (3) Grace precedes judgment: before announcing destruction, God prepared a way of salvation; (4) Noah's faith: Hebrews 11:7 says Noah "by faith... in reverent fear constructed an ark" — faith is conviction and obedience regarding things unseen.`,
+  christShadow_zh: `方舟是基督最清晰的旧约预表之一。正如方舟是洪水审判中唯一的避难所，基督是末日审判中唯一的拯救。方舟只有一个门（创6:16），正如耶稣说"我就是门，凡从我进来的，必然得救"（约10:9）。上帝亲自关上方舟的门（创7:16），正如救恩的主权在上帝手中。挪亚一家八口靠着进入方舟而得救，正如我们靠着在基督里而得救。彼得后来明确将方舟与洗礼和基督的救恩联系起来（彼前3:20-21）。`,
+  christShadow_en: `The ark is one of the clearest Old Testament types of Christ. As the ark was the only refuge in the flood judgment, Christ is the only salvation in final judgment. The ark had one door (Gen 6:16), as Jesus said "I am the door. If anyone enters by me, he will be saved" (John 10:9). God Himself shut the door (Gen 7:16), as salvation's sovereignty rests with God. Noah's family of eight was saved by entering the ark, as we are saved by being in Christ. Peter explicitly connects the ark with baptism and Christ's salvation (1 Peter 3:20-21).`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 7,
   publishDate: '2026-02-24',
   title: '洪水', titleEn: 'The Flood',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 7:1 / Genesis 7:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
-});
+  scripture: '创世记 7:1-24 / Genesis 7:1-24',
+  content_zh: `弟兄姐妹，洪水来了。
+
+挪亚造了方舟，上帝吩咐他一家八口进入方舟，同时带上各种活物——洁净的畜类各取七对，不洁净的各取一对。上帝给了详细的安排，因为审判过后，世界需要重新开始。
+
+"耶和华就把他关在方舟里头。"（创7:16）
+
+这句话常常被忽略，但它极其重要。不是挪亚自己关的门——是**耶和华亲手把门关上**。这意味着什么？第一，里面的人的安全由上帝负责，不是靠他们自己。第二，门一旦关上，外面的人再怎么敲也进不去了。恩典的门是敞开的，但不是永远敞开的。
+
+然后洪水来了。"大渊的泉源都裂开了，天上的窗户也敞开了。"（创7:11）这不是一场普通的暴雨，这是创造的逆转。创世记第一章，上帝把水分开，造出天和海；现在，上帝让水重新汇合。秩序退回混沌，创造退回虚空。罪的最终结局就是这样——把一切美好的事物退回到混乱和毁灭。
+
+"凡在旱地上、鼻孔有气息的生灵都死了。"（创7:22）
+
+这节经文极其沉重。每一个呼吸的生命——老人、年轻人、孩子、动物——全都在水中灭亡了。审判不是抽象的神学概念，它是真实的、具体的、不可逆转的。这就是罪的工价——死亡。
+
+但在这片死亡的大水之上，方舟漂浮着。里面有八个人和被拣选的活物。在毁灭的汪洋中，有一个恩典的避难所。
+
+弟兄姐妹，这个画面应该让你既敬畏又感恩。敬畏，因为上帝对罪的审判是认真的；感恩，因为在审判来临之前，上帝总是先预备拯救的方舟。
+
+彼得说："当时的世界被水淹没就消灭了。但现在的天地还是凭着那命存留，直留到不敬虔之人受审判遭沉沦的日子，用火焚烧。"（彼后3:6-7）洪水是一个预兆——更大的审判还在前头。但对于在方舟里的人，对于在基督里的人，审判之水不能伤害你。
+
+水承载了方舟，淹没了世界。同样的水，对一些人是审判，对另一些人是拯救。你在哪一边？`,
+  content_en: `Brothers and sisters, the flood came.
+
+Noah built the ark. God commanded his family of eight to enter, along with every kind of living creature — seven pairs of clean animals, one pair of unclean. God arranged every detail because after judgment, the world would need a fresh start.
+
+"And the LORD shut him in." (Genesis 7:16)
+
+This verse is often overlooked but profoundly important. Noah did not shut the door himself — the LORD shut it with His own hand. What does this mean? First, the safety of those inside was God's responsibility, not their own. Second, once the door was shut, no one outside could enter no matter how hard they knocked. The door of grace is open, but not forever.
+
+Then the flood came. "All the fountains of the great deep burst forth, and the windows of the heavens were opened." (Genesis 7:11) This was no ordinary rainstorm — it was creation in reverse. In Genesis 1, God separated the waters to make sky and sea; now God let the waters reunite. Order returned to chaos, creation to void. This is sin's ultimate consequence: returning everything beautiful to ruin and destruction.
+
+"Everything on the dry land in whose nostrils was the breath of life died." (Genesis 7:22)
+
+This verse carries immense weight. Every breathing creature — the elderly, the young, children, animals — all perished beneath the water. Judgment is not an abstract theological concept. It is real, concrete, and irreversible. This is the wages of sin — death.
+
+But above the waters of death, the ark floated. Inside were eight people and the chosen creatures. In an ocean of destruction, one refuge of grace remained.
+
+Brothers and sisters, this scene should fill you with both reverence and gratitude. Reverence, because God's judgment against sin is serious. Gratitude, because before judgment comes, God always prepares an ark of salvation.
+
+Peter writes: "The world that then existed was deluged with water and perished. But by the same word the heavens and earth that now exist are stored up for fire, being kept until the day of judgment and destruction of the ungodly." (2 Peter 3:6-7) The flood was a foreshadowing — greater judgment lies ahead. But for those in the ark, for those in Christ, the waters of judgment cannot harm you.
+
+The water carried the ark and drowned the world. The same water meant judgment for some and salvation for others. Which side are you on?`,
+  historyContext_zh: `创世记第七章记载了洪水的降临。根据经文，挪亚在600岁时洪水来到。洪水持续了40昼夜（创7:12），但水势浩大共150天（创7:24）。"大渊的泉源都裂开了，天上的窗户也敞开了"——这描述的不仅是降雨，还包括地下水的喷涌，暗示了一场全球性的大灾变。方舟的尺寸（长300肘、宽50肘、高30肘）约相当于一艘现代货轮的大小，足以容纳各类动物和一年的食物。`,
+  historyContext_en: `Genesis 7 records the flood's arrival. According to the text, Noah was 600 years old when the flood came. Rain lasted 40 days and nights (7:12), but waters prevailed for 150 days (7:24). "All the fountains of the great deep burst forth, and the windows of the heavens were opened" — describing not just rain but underground water eruption, suggesting a global cataclysm. The ark's dimensions (300x50x30 cubits) approximate a modern cargo ship, sufficient for all animal kinds and a year's provisions.`,
+  structure_zh: `第七章分为三个部分：（1）1-5节：上帝的最后吩咐——进入方舟的命令，洁净和不洁净的动物各取若干；（2）6-16节：洪水降临——挪亚一家和动物进入方舟，耶和华亲手关门；（3）17-24节：洪水的毁灭——水势极大，天下的高山都被淹没，凡有气息的生灵都死了，惟有方舟里的得以保全。`,
+  structure_en: `Chapter 7 has three sections: (1) vv.1-5: God's final commands — enter the ark, take clean and unclean animals; (2) vv.6-16: The flood arrives — Noah's family and animals enter, the LORD shuts the door; (3) vv.17-24: The flood's destruction — waters prevailed greatly, all high mountains covered, all breathing creatures died, only those in the ark survived.`,
+  theology_zh: `第七章的核心神学主题：（1）上帝审判的真实性：洪水不是神话，而是上帝对罪的真实回应。"凡有血气的人，他的尽头已经来到我面前"（创6:13）；（2）上帝主权的拯救："耶和华就把他关在方舟里头"（创7:16）——救恩从头到尾都是上帝的工作，连关门都是上帝亲手做的；（3）创造的逆转：洪水是对创世记第一章的有意逆转——上帝曾分开水使旱地出现，现在让水重新覆盖一切。罪的最终结局是将创造退回虚空。`,
+  theology_en: `Chapter 7's core theological themes: (1) Reality of God's judgment: the flood is not myth but God's real response to sin; (2) Sovereign salvation: "the LORD shut him in" (7:16) — salvation is God's work from start to finish, even the door-closing was God's own act; (3) Creation in reverse: the flood intentionally reverses Genesis 1 — God had separated waters to reveal dry land, now waters cover everything again. Sin's ultimate consequence returns creation to void.`,
+  christShadow_zh: `洪水的审判与拯救预表了基督里的审判与救恩。彼得明确说方舟中的水"这水所表明的洗礼，现在借着耶稣基督复活也拯救你们"（彼前3:21）。方舟经过水的审判而不被毁灭，正如基督经过十字架的审判而从死里复活。信徒在基督里，如同挪亚在方舟里——审判之水从四面围来，但不能伤害在方舟里面的人。"如今，那些在基督耶稣里的就不定罪了"（罗8:1）。`,
+  christShadow_en: `The flood's judgment and salvation foreshadow judgment and salvation in Christ. Peter explicitly connects the ark: "Baptism, which corresponds to this, now saves you... through the resurrection of Jesus Christ" (1 Peter 3:21). The ark passed through the waters of judgment without destruction, as Christ passed through the cross and rose from death. Believers in Christ, like Noah in the ark — waters of judgment surround but cannot harm those inside. "There is therefore now no condemnation for those who are in Christ Jesus" (Romans 8:1).`,});
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 8,
   publishDate: '2026-02-25',
-  title: '退水', titleEn: 'The Waters Recede',
+  title: '新的开始', titleEn: 'A New Beginning',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 8:1 / Genesis 8:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
-});
+  scripture: '创世记 8:1-22 / Genesis 8:1-22',
+  content_zh: `弟兄姐妹，洪水退去了。但我要你们注意经文的第一句话。
+
+"神记念挪亚和挪亚方舟里的一切走兽牲畜。"（创8:1）
+
+"神记念"——不是说上帝忘了挪亚。圣经中"记念"是一个约的用语，意思是上帝开始行动，施行祂的应许。就像后来上帝"记念"祂与亚伯拉罕的约（出2:24），把以色列人从埃及领出来。记念是恩典的行动。
+
+上帝叫风吹地，水势渐落。方舟停在亚拉腊山上。挪亚先放出乌鸦，乌鸦飞来飞去——不洁净的鸟，满足于停在漂浮的尸体上。然后他放出鸽子，鸽子找不到落脚之处，飞回方舟。第二次，鸽子衔回一片新鲜的橄榄叶子——生命的标记。第三次，鸽子不再回来了——新世界已经预备好了。
+
+你们看这幅画面多么美：审判过后，有新的开始；死亡过后，有生命萌芽。橄榄叶是盼望的记号。
+
+"挪亚为耶和华筑了一座坛，拿各类洁净的牲畜、飞鸟献在坛上为燔祭。"（创8:20）
+
+挪亚走出方舟做的第一件事不是为自己建房子，不是勘察新地形——是**敬拜**。他筑坛献祭。这是整本圣经中第一次明确记载的筑坛献祭。在一个刚被审判洗净的世界里，第一个声音是敬拜的声音，第一缕烟是祭牲的烟。
+
+"耶和华闻那馨香之气，就心里说：'我不再因人的缘故咒诅地（人从小时心里怀着恶念），也不再按着我才行的灭各种的活物了。'"（创8:21）
+
+弟兄姐妹，请注意括号里的那句话。上帝决定不再用洪水毁灭世界，**不是因为人变好了**——"人从小时心里怀着恶念"，人的本性没有改变！而是因为上帝的恩典。洪水洗去了罪人，但洗不去罪性。真正能解决罪的问题的，不是洪水，而是十字架。
+
+挪亚的燔祭发出"馨香之气"。这个词在希伯来文中是"尼各亚"（nihoah），和"挪亚"（Noah）谐音。挪亚的名字意思是"安慰"——他的祭真的给上帝带来了安慰。但这祭只是预表。真正的馨香之气是基督在十字架上"将自己献给神，当作馨香的供物和祭物"（弗5:2）。
+
+从此，"地还存留的时候，稼穑、寒暑、冬夏、昼夜就永不停息了。"（创8:22）四季轮转，日升日落——每一天的稳定秩序，都是上帝信实的证据。你今天早上醒来，太阳升起——这不是理所当然的，这是上帝在守祂的约。`,
+  content_en: `Brothers and sisters, the floodwaters receded. But I want you to notice the chapter's very first words.
+
+"But God remembered Noah and all the beasts and all the livestock that were with him in the ark." (Genesis 8:1)
+
+"God remembered" — not that God had forgotten Noah. In Scripture, "remembered" is covenant language meaning God began to act on His promise. Just as God later "remembered" His covenant with Abraham (Exodus 2:24) and brought Israel out of Egypt. Remembering is an act of grace.
+
+God made a wind blow over the earth, and the waters subsided. The ark came to rest on the mountains of Ararat. Noah first sent out a raven — an unclean bird, content to land on floating carcasses. Then he sent a dove, which found no resting place and returned to the ark. The second time, the dove brought back a fresh olive leaf — a sign of life. The third time, the dove did not return — the new world was ready.
+
+What a beautiful picture: after judgment, a new beginning; after death, life sprouts. The olive leaf is a token of hope.
+
+"Then Noah built an altar to the LORD and took some of every clean animal and some of every clean bird and offered burnt offerings on the altar." (Genesis 8:20)
+
+The first thing Noah did upon leaving the ark was not building a house or surveying the land — it was worship. He built an altar and sacrificed. This is the first explicitly recorded altar and sacrifice in all of Scripture. In a world just cleansed by judgment, the first sound was worship, the first smoke was from an offering.
+
+"And when the LORD smelled the pleasing aroma, the LORD said in his heart, 'I will never again curse the ground because of man, for the intention of man's heart is evil from his youth. Neither will I ever again strike down every living creature as I have done.'" (Genesis 8:21)
+
+Brothers and sisters, notice the parenthetical clause. God decided never again to destroy the world by flood, not because humanity had improved — "the intention of man's heart is evil from his youth." Human nature hadn't changed! But because of God's grace. The flood washed away sinners but could not wash away the sin nature. What truly resolves the problem of sin is not the flood but the cross.
+
+Noah's burnt offering produced a "pleasing aroma." In Hebrew this is nihoah, a wordplay on Noah (Noach). Noah's name means "comfort" — his sacrifice truly brought God comfort. But this offering was only a foreshadow. The true pleasing aroma is Christ, who "gave himself up for us, a fragrant offering and sacrifice to God" (Ephesians 5:2).
+
+From then on, "While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease." (Genesis 8:22) The cycle of seasons, the rising and setting of the sun — every day's stable order is evidence of God's faithfulness. You woke up this morning and the sun rose. That is not to be taken for granted. That is God keeping His covenant.`,
+  historyContext_zh: `创世记第八章记载洪水退去和挪亚出方舟的过程。方舟停在亚拉腊山上（现今土耳其东部）。挪亚用乌鸦和鸽子来试探地面状况——这是古代航海者常用的方法。从洪水开始到挪亚出方舟，共经历了约一年零十天。挪亚出方舟后做的第一件事是筑坛献祭——这是圣经中第一次明确记载的筑坛献祭，预示了后来以色列整个祭祀体系的开端。`,
+  historyContext_en: `Genesis 8 records the flood's recession and Noah's exit from the ark. The ark rested on the mountains of Ararat (modern eastern Turkey). Noah used a raven and dove to test ground conditions — a common ancient seafaring practice. From flood's start to Noah's exit, approximately one year and ten days passed. Noah's first act upon leaving was building an altar and sacrificing — the first explicitly recorded altar sacrifice in Scripture, foreshadowing Israel's entire sacrificial system.`,
+  structure_zh: `第八章分为四个部分：（1）1-5节：上帝记念挪亚，水势渐落，方舟停在亚拉腊山上；（2）6-14节：挪亚放出乌鸦和鸽子试探地面——乌鸦飞来飞去，鸽子三次被放出（第一次回来，第二次带回橄榄叶，第三次不再回来）；（3）15-19节：上帝吩咐挪亚出方舟，一切活物也出来"在地上多多滋生，大大兴旺"；（4）20-22节：挪亚献祭，上帝应许不再用洪水毁灭全地。`,
+  structure_en: `Chapter 8 has four sections: (1) vv.1-5: God remembers Noah, waters recede, ark rests on Ararat; (2) vv.6-14: Noah sends raven and dove to test ground — raven flies back and forth, dove sent three times (returns first, brings olive leaf second, doesn't return third); (3) vv.15-19: God commands Noah to leave the ark, all creatures to "be fruitful and multiply"; (4) vv.20-22: Noah sacrifices, God promises never again to destroy by flood.`,
+  theology_zh: `第八章的神学主题：（1）上帝的信实："神记念挪亚"——上帝守约施慈爱，在审判中不忘祂的百姓；（2）新创造的开始：挪亚出方舟如同新的亚当，上帝重新赐下"生养众多"的祝福，但人的罪性没有改变（"人从小时心里怀着恶念"，创8:21）；（3）献祭与恩典：挪亚的燔祭是"馨香之气"，上帝因着祭物（不是因着人的改变）而赐下不再毁灭的应许——这预表了恩典之约的本质：上帝的怜悯不是基于人的表现；（4）普遍恩典：四季轮转、昼夜不息（创8:22）是上帝对全人类的普遍恩典——不只给信徒，也给所有人。`,
+  theology_en: `Chapter 8's theological themes: (1) God's faithfulness: "God remembered Noah" — God keeps covenant love, not forgetting His people even in judgment; (2) New creation's beginning: Noah leaving the ark as a new Adam, God renewing the "be fruitful" blessing, yet human sin nature unchanged ("the intention of man's heart is evil from his youth," 8:21); (3) Sacrifice and grace: Noah's burnt offering as "pleasing aroma," God's promise based on the offering (not human improvement) — foreshadowing the covenant of grace: God's mercy isn't based on human performance; (4) Common grace: seasons and day-night cycles (8:22) are God's common grace to all humanity — not just believers.`,
+  christShadow_zh: `挪亚的献祭预表了基督的十字架。挪亚的燔祭发出"馨香之气"（nihoah，与挪亚Noah谐音），上帝因此立约不再用洪水毁灭世界。基督"将自己献给神，当作馨香的供物和祭物"（弗5:2），上帝因基督的献祭而与我们立了新约。鸽子带回橄榄叶——和平与新生命的记号——预表了圣灵（鸽子的形象）带来基督复活的好消息和新生命的盼望。方舟中的旧世界逝去、新世界开始，正如在基督里"旧事已过，都变成新的了"（林后5:17）。`,
+  christShadow_en: `Noah's sacrifice foreshadows Christ's cross. Noah's burnt offering produced a "pleasing aroma" (nihoah, a wordplay on Noah), prompting God's covenant never to flood the earth again. Christ "gave himself up for us, a fragrant offering and sacrifice to God" (Ephesians 5:2), and God through Christ's sacrifice established the new covenant with us. The dove bringing an olive leaf — symbol of peace and new life — foreshadows the Holy Spirit (in dove imagery) bringing news of Christ's resurrection and hope of new life. The old world passing and new world beginning in the ark parallels being in Christ: "The old has passed away; behold, the new has come" (2 Corinthians 5:17).`,});
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 9,
   publishDate: '2026-02-26',
   title: '彩虹之约', titleEn: 'The Rainbow Covenant',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 9:1 / Genesis 9:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
-});
+  scripture: '创世记 9:1-29 / Genesis 9:1-29',
+  content_zh: `弟兄姐妹，洪水过后，上帝做了一件极其庄严的事——祂与挪亚立约。
+
+"神赐福给挪亚和他的儿子，对他们说：'你们要生养众多，遍满了地。'"（创9:1）
+
+这句话是不是很熟悉？和创世记1:28上帝对亚当说的话几乎一样。这是一个新的开始——一个新创造。挪亚就像第二个亚当，从方舟走出来进入一个被洗净的世界。但请记住，这个"新亚当"和第一个一样，也是罪人。新的开始并不意味着罪的问题已经解决了。
+
+上帝在这里设立了几个重要的律例。首先，人可以吃肉了（之前只吃植物），但"有血的肉你们不可吃"（创9:4）。血代表生命，属于上帝。这个禁令贯穿整本圣经，因为血最终指向基督在十字架上为我们流的血。
+
+其次，上帝设立了对人命的保护："凡流人血的，他的血也必被人所流，因为神造人是照自己的形象造的。"（创9:6）这是人类社会中公义的基础——因为人是按上帝的形象造的，所以人的生命是神圣不可侵犯的。杀人不只是伤害了另一个人，更是亵渎了上帝的形象。
+
+然后，上帝赐下了彩虹之约——圣经中第一个明确的约。
+
+"我把虹放在云彩中，这就可作我与地立约的记号了。"（创9:13）
+
+弟兄姐妹，每次你看到彩虹，那不是一个漂亮的天气现象，那是上帝的签名。上帝在说："我记得我的约。我不会再用洪水毁灭全地。"这个约不是双边的（如果你表现好，我就不毁灭你），而是单方面的恩典之约——不管人怎样，上帝守祂的约。
+
+但这章的结尾出了一件让人尴尬的事。挪亚——这位刚刚被上帝拯救的义人——种了葡萄园，喝醉了酒，赤身露体躺在帐棚里（创9:20-21）。含看见父亲的赤身就出去告诉两个兄弟，闪和雅弗却倒退着进去，用衣服遮盖了父亲。
+
+这件事告诉我们一个残酷的真相：洪水可以毁灭旧世界，但不能创造新人心。挪亚和亚当一样跌倒了。第二个亚当也失败了。人类需要的不是一场洪水，而是一位真正的末后亚当——基督。只有祂不会跌倒，只有祂能完成上帝赋予人类的使命。
+
+含的罪不只是看见了父亲的羞耻，而是**公开传扬**父亲的羞耻。闪和雅弗的义举不只是遮盖了父亲的身体，更是遮盖了父亲的羞耻。弟兄姐妹，"爱能遮掩许多的罪"（彼前4:8）。基督在十字架上所做的，正是用祂的义袍遮盖了我们一切的羞耻。`,
+  content_en: `Brothers and sisters, after the flood, God did something profoundly solemn — He made a covenant with Noah.
+
+"And God blessed Noah and his sons and said to them, 'Be fruitful and multiply and fill the earth.'" (Genesis 9:1)
+
+Sound familiar? It is nearly identical to what God told Adam in Genesis 1:28. This is a new beginning — a new creation. Noah is like a second Adam, stepping out of the ark into a cleansed world. But remember: this "new Adam," like the first, was still a sinner. A fresh start did not mean the sin problem was solved.
+
+God established several important ordinances here. First, humans could now eat meat (previously only plants), but "you shall not eat flesh with its life, that is, its blood" (Genesis 9:4). Blood represents life and belongs to God. This prohibition runs throughout Scripture because blood ultimately points to Christ's blood shed for us on the cross.
+
+Second, God established the protection of human life: "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image." (Genesis 9:6) This is the foundation of justice in human society — because humans bear God's image, human life is sacred and inviolable. Taking a life is not merely harming another person but desecrating God's image.
+
+Then God gave the rainbow covenant — the first explicit covenant in Scripture.
+
+"I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth." (Genesis 9:13)
+
+Brothers and sisters, every time you see a rainbow, it is not merely a beautiful weather phenomenon — it is God's signature. God is saying: "I remember my covenant. I will never again destroy all the earth with a flood." This covenant is not bilateral (if you behave well, I won't destroy you) but a unilateral covenant of grace — regardless of human behavior, God keeps His promise.
+
+But the chapter ends with an embarrassing incident. Noah — this righteous man just saved by God — planted a vineyard, drank the wine, became drunk, and lay uncovered in his tent (Genesis 9:20-21). Ham saw his father's nakedness and told his two brothers outside. But Shem and Japheth walked backward and covered their father with a garment.
+
+This tells us a brutal truth: the flood could destroy the old world but could not create a new heart. Noah, like Adam, fell. The second Adam also failed. What humanity needs is not a flood but a true Last Adam — Christ. Only He will not fall. Only He can fulfill the mission God gave to humanity.
+
+Ham's sin was not merely seeing his father's shame but publicly broadcasting it. Shem and Japheth's righteousness was not merely covering their father's body but covering his shame. Brothers and sisters, "love covers a multitude of sins" (1 Peter 4:8). What Christ did on the cross was precisely this: covering all our shame with His robe of righteousness.`,
+  historyContext_zh: `创世记第九章是洪水叙事的总结。上帝与挪亚立约是圣经中第一个明确使用"约"（berith）这个词的约。这个约不仅是与挪亚个人的，也是与"一切有血肉的活物"的（创9:15）——这是一个普世性的约。彩虹作为约的记号，在古代近东文化中，弓（qesheth）也是武器的意思——上帝把祂的"战弓"挂在天上，象征着战争（审判）的结束与和平的开始。挪亚醉酒和含的行为导致了对迦南的咒诅，这在后来以色列征服迦南地时有了历史性的应验。`,
+  historyContext_en: `Genesis 9 concludes the flood narrative. God's covenant with Noah is the first to explicitly use the word "covenant" (berith). This covenant is not just with Noah but with "every living creature" (9:15) — a universal covenant. The rainbow as covenant sign: in ancient Near Eastern culture, the bow (qesheth) also means weapon — God hung His "war bow" in the sky, symbolizing the end of warfare (judgment) and beginning of peace. Noah's drunkenness and Ham's behavior led to the curse on Canaan, which found historical fulfillment when Israel later conquered Canaan.`,
+  structure_zh: `第九章分为三个部分：（1）1-7节：上帝赐福挪亚并设立律例——生养众多的祝福、允许吃肉但禁止吃血、设立对人命的保护；（2）8-17节：彩虹之约——上帝与一切活物立约，不再用洪水毁灭全地，以彩虹为记号；（3）18-29节：挪亚醉酒——含看见父亲赤身并宣扬，闪和雅弗遮盖父亲，挪亚醒后咒诅迦南、祝福闪和雅弗。`,
+  structure_en: `Chapter 9 has three sections: (1) vv.1-7: God blesses Noah and establishes ordinances — blessing of fruitfulness, permission to eat meat but not blood, protection of human life; (2) vv.8-17: The rainbow covenant — God covenants with all living creatures never to destroy by flood again, rainbow as sign; (3) vv.18-29: Noah's drunkenness — Ham sees his father's nakedness and tells others, Shem and Japheth cover their father, Noah curses Canaan and blesses Shem and Japheth.`,
+  theology_zh: `第九章有几个重要神学主题：（1）挪亚之约的性质：这是一个无条件的恩典之约——上帝单方面承诺不再用洪水毁灭世界，不取决于人的行为。这显明了上帝恩典的本质；（2）上帝的形象与人命的尊严：杀人之所以是大罪，是因为人是按上帝的形象造的（创9:6）。这是人权和人的尊严的终极根基；（3）挪亚的跌倒：即使是蒙恩的义人也会犯罪，证明了洪水不能解决罪的根本问题。人类需要的不是外在环境的改变，而是内心的更新；（4）闪的祝福：挪亚说"耶和华闪的神是应当称颂的"（创9:26）——救赎之线从闪的后裔中延续，最终通向亚伯拉罕和基督。`,
+  theology_en: `Chapter 9 contains several important theological themes: (1) Nature of the Noahic covenant: an unconditional covenant of grace — God unilaterally promises never to destroy by flood, independent of human behavior, revealing grace's nature; (2) God's image and human dignity: murder is grave because humans bear God's image (9:6), the ultimate foundation for human rights and dignity; (3) Noah's fall: even a righteous man saved by grace sins, proving the flood cannot solve sin's fundamental problem. Humanity needs not environmental change but heart renewal; (4) Shem's blessing: Noah says "Blessed be the LORD, the God of Shem" (9:26) — the redemption line continues through Shem's descendants, ultimately leading to Abraham and Christ.`,
+  christShadow_zh: `挪亚之约是上帝救赎计划中的重要一环。彩虹提醒我们上帝的信实——每一道彩虹都在说"上帝守约"。这个约保证了自然秩序的延续，为救赎历史的展开提供了舞台。挪亚醉酒后的赤身与亚当犯罪后的赤身形成呼应——两个"亚当"都失败了，都需要遮盖。闪和雅弗用衣服遮盖父亲的羞耻，预表了上帝用"皮子做衣服"给亚当遮体（创3:21），最终指向基督的义袍遮盖我们一切的罪和羞耻。"你们受洗归入基督的都是披戴基督了"（加3:27）。`,
+  christShadow_en: `The Noahic covenant is crucial in God's redemptive plan. The rainbow reminds us of God's faithfulness — every rainbow declares "God keeps His covenant." This covenant guarantees the continuation of natural order, providing the stage for redemptive history to unfold. Noah's nakedness after drunkenness echoes Adam's nakedness after sin — both "Adams" failed, both needed covering. Shem and Japheth covering their father's shame foreshadows God clothing Adam with garments of skin (Genesis 3:21), ultimately pointing to Christ's robe of righteousness covering all our sin and shame. "For as many of you as were baptized into Christ have put on Christ" (Galatians 3:27).`,});
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 10,
   publishDate: '2026-02-27',
-  title: '万族谱系', titleEn: 'The Table of Nations',
+  title: '万国表', titleEn: 'The Table of Nations',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 10:1 / Genesis 10:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
-});
+  scripture: '创世记 10:1-32 / Genesis 10:1-32',
+  content_zh: `弟兄姐妹，我知道你们一看到又是一章家谱就想翻页了。但第十章这份家谱不一样——它被称为"万国表"（Table of Nations），是人类历史上最古老的民族志文献。
+
+"这是挪亚的儿子闪、含、雅弗的后代。洪水以后，他们都生了儿子。"（创10:1）
+
+整个人类从这三个人开始重新繁衍。这一章列出了七十个民族——从雅弗的后裔（散布在欧洲和小亚细亚），到含的后裔（散布在非洲和迦南），到闪的后裔（散布在中东和阿拉伯）。七十个民族，涵盖了古代世界已知的所有文明。
+
+为什么这一章重要？因为它告诉你：**全人类是一家人。**
+
+使徒保罗后来在雅典的亚略巴古讲道时说："他从一本造出万族的人，住在全地上，并且预先定准他们的年限和所住的疆界。"（徒17:26）无论肤色、语言、文化如何不同，所有人都出自同一个根源。种族主义在圣经面前没有立足之地——上帝造了一个人类，不是多个人类。
+
+这份名单中有一些你们很熟悉的名字。雅弗的后裔中有歌篾（后来的西米里人）和玛各（以西结书38-39章中的玛各）。含的后裔中有麦西（埃及）、迦南（后来的迦南地居民）、和那个引人注目的宁录——"他在耶和华面前是个英勇的猎户"（创10:9）。宁录建立了巴别和尼尼微——后来成为与上帝百姓对抗的两大帝国的首都。
+
+闪的后裔中有亚法撒、沙拉，一直到希伯——"希伯来人"这个名称就是从希伯来的。从闪到亚伯拉罕的谱系，就是上帝拣选的谱系。上帝不是随机地选了一个民族，而是从万国中呼召出一条救赎的线索。
+
+弟兄姐妹，这份名单的神学意义是深远的。上帝关心的不是一个民族，而是万民。七十个民族分散在全地——这不是意外，而是上帝的计划。后来上帝呼召亚伯拉罕时说："地上的万族都要因你得福。"（创12:3）拯救的范围从一开始就是全球性的。
+
+在五旬节那天，圣灵降临，各国各族的人都听到了福音——巴别塔的咒诅被翻转了。在新天新地中，"有许多的人，没有人能数过来，是从各国、各族、各民、各方来的"（启7:9）。第十章的万国表是这幅荣耀图画的起点。
+
+上帝是万国的上帝。你的邻居，不管来自哪里，都在这份名单上——都是上帝所造、所爱、所要拯救的。`,
+  content_en: `Brothers and sisters, I know you see another genealogy chapter and want to skip ahead. But chapter 10 is different — it is called the "Table of Nations," the oldest ethnographic document in human history.
+
+"These are the generations of the sons of Noah, Shem, Ham, and Japheth. Sons were born to them after the flood." (Genesis 10:1)
+
+All humanity began repopulating from these three men. This chapter lists seventy nations — from Japheth's descendants (spreading through Europe and Asia Minor), to Ham's descendants (spreading through Africa and Canaan), to Shem's descendants (spreading through the Middle East and Arabia). Seventy nations, encompassing every known civilization of the ancient world.
+
+Why does this chapter matter? Because it tells you: all of humanity is one family.
+
+The apostle Paul later preached at the Areopagus in Athens: "He made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place." (Acts 17:26) Regardless of skin color, language, or culture, all people share one origin. Racism has no standing before Scripture — God made one humanity, not several.
+
+Some familiar names appear in this list. Among Japheth's descendants are Gomer (later the Cimmerians) and Magog (of Ezekiel 38-39). Among Ham's descendants are Mizraim (Egypt), Canaan (later inhabitants of the Promised Land), and the striking figure of Nimrod — "a mighty hunter before the LORD" (Genesis 10:9). Nimrod founded Babel and Nineveh — capitals of two empires that would later stand against God's people.
+
+Among Shem's descendants are Arpachshad, Shelah, and eventually Eber — from whom the name "Hebrew" derives. The lineage from Shem to Abraham is God's chosen line. God did not randomly select a nation but called forth a thread of redemption from among all peoples.
+
+Brothers and sisters, this genealogy's theological significance is profound. God's concern is not one nation but all nations. Seventy nations scattering across the earth was not accident but God's plan. When God later called Abraham, He said: "In you all the families of the earth shall be blessed." (Genesis 12:3) Salvation's scope was global from the very beginning.
+
+On the day of Pentecost, the Spirit descended and people from every nation heard the gospel — Babel's curse was reversed. In the new creation, "a great multitude that no one could number, from every nation, from all tribes and peoples and languages" (Revelation 7:9). Chapter 10's Table of Nations is the starting point of that glorious picture.
+
+God is the God of all nations. Your neighbor, wherever they are from, is on this list — created by God, loved by God, and meant to be saved by God.`,
+  historyContext_zh: `创世记第十章被称为"万国表"（Table of Nations），是人类历史上最古老的民族志文献。它列出了挪亚三个儿子的后裔所形成的七十个民族（七十在圣经中代表完全）。雅弗的后裔主要分布在地中海北岸和欧亚地区；含的后裔分布在非洲、迦南和美索不达米亚南部；闪的后裔分布在中东和阿拉伯地区。宁录是含的后裔中特别被提到的人物，他建立了巴别（巴比伦）和尼尼微（亚述首都），这两座城市后来成为以色列最大的敌人。`,
+  historyContext_en: `Genesis 10, called the "Table of Nations," is the oldest ethnographic document in human history. It lists seventy nations descended from Noah's three sons (seventy symbolizing completeness in Scripture). Japheth's descendants spread across the northern Mediterranean and Eurasia; Ham's across Africa, Canaan, and southern Mesopotamia; Shem's across the Middle East and Arabia. Nimrod, among Ham's descendants, is specially noted for founding Babel (Babylon) and Nineveh (Assyrian capital) — cities that became Israel's greatest enemies.`,
+  structure_zh: `第十章按挪亚的三个儿子分为三个部分：（1）2-5节：雅弗的后裔——歌篾、玛各、玛代、雅完、土巴、米设、提拉等，分布在"沿海的国民"（地中海沿岸）；（2）6-20节：含的后裔——古实、麦西（埃及）、弗、迦南等，特别提到宁录建立巴别和尼尼微，以及迦南的后裔（赫人、耶布斯人、亚摩利人等）；（3）21-31节：闪的后裔——以拦、亚述、亚法撒、路德、亚兰等，特别提到希伯（"希伯来人"的由来），谱系延续到亚伯拉罕。最后总结：这些民族"各随各的方言、宗族立国"（创10:31）。`,
+  structure_en: `Chapter 10 divides into three sections by Noah's sons: (1) vv.2-5: Japheth's descendants — Gomer, Magog, Madai, Javan, Tubal, Meshech, Tiras, spreading to "coastland peoples" (Mediterranean); (2) vv.6-20: Ham's descendants — Cush, Mizraim (Egypt), Put, Canaan, notably Nimrod founding Babel and Nineveh, and Canaan's descendants (Hittites, Jebusites, Amorites, etc.); (3) vv.21-31: Shem's descendants — Elam, Asshur, Arpachshad, Lud, Aram, notably Eber (origin of "Hebrew"), lineage continuing to Abraham. Summary: these nations spread "each with his own language, by their clans, in their nations" (10:31).`,
+  theology_zh: `第十章的神学意义：（1）人类的合一性：所有民族都出自挪亚一家，全人类是一个家庭。这是反对种族主义的圣经根基——"他从一本造出万族的人"（徒17:26）；（2）上帝的主权：万国的分布和疆界都在上帝的计划之中（申32:8）；（3）救赎的范围是全球性的：七十个民族代表"全地"，上帝的救赎计划从一开始就是面向万民的；（4）罪的普世性：宁录的出现（"英勇的猎户"，建立对抗上帝的城市）预示了人类堕落的普遍性——即使在洪水之后，人的骄傲和反叛仍然继续；（5）闪的谱系的重要性：救赎的线索从闪到希伯到亚伯拉罕，上帝在万民中拣选了一条特殊的谱系来成就祂的救赎计划。`,
+  theology_en: `Chapter 10's theological significance: (1) Unity of humanity: all nations descend from Noah's family; all humanity is one family — the biblical basis against racism: "He made from one man every nation" (Acts 17:26); (2) God's sovereignty: nations' distribution and boundaries are within God's plan (Deut 32:8); (3) Global scope of redemption: seventy nations represent "all the earth," God's redemptive plan was global from the start; (4) Universality of sin: Nimrod's emergence ("mighty hunter," building cities opposing God) foreshadows humanity's universal fallenness — even after the flood, human pride and rebellion continue; (5) Importance of Shem's lineage: the redemption thread runs from Shem to Eber to Abraham; God chose a special lineage among all peoples to accomplish His redemptive plan.`,
+  christShadow_zh: `万国表的福音意义在五旬节得到了彰显。当圣灵降临时，"从天下各国来"的人都听到了使徒用他们自己的语言传讲福音（徒2:5-11）——这是巴别塔语言混乱的逆转。耶稣升天前的大使命说"使万民作我的门徒"（太28:19），这个"万民"（ethne）回应的正是创世记第十章的万国。启示录的终极画面——"各国、各族、各民、各方"（启7:9）——是万国表的终极成全。从闪的后裔中出来的弥赛亚，最终要成为万国的救主。上帝从一开始就计划拯救全人类，不是只拯救一个民族。`,
+  christShadow_en: `The Table of Nations' gospel significance was manifested at Pentecost. When the Spirit descended, people "from every nation under heaven" heard the apostles speaking in their own languages (Acts 2:5-11) — a reversal of Babel's confusion. Jesus's Great Commission says "make disciples of all nations" (Matt 28:19); this "nations" (ethne) echoes Genesis 10's peoples. Revelation's ultimate vision — "from every nation, from all tribes and peoples and languages" (Rev 7:9) — is the Table of Nations' ultimate fulfillment. The Messiah from Shem's line would become Savior of all nations. God planned from the beginning to save all humanity, not just one people.`,});
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 11,
   publishDate: '2026-03-02',
