@@ -120,7 +120,7 @@ function splitText(text: string): string[] {
 }
 
 export default function SpeakButton({ text, lang, className }: { text: string; lang: 'zh' | 'en'; className?: string }) {
-  const [state, setState] = useState<'idle' | 'loading' | 'playing'>('idle');
+  const [state, setState] = useState<'idle' | 'loading' | 'playing' | 'paused'>('idle');
   const cancelledRef = useRef(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const pathname = usePathname();
@@ -148,7 +148,23 @@ export default function SpeakButton({ text, lang, className }: { text: string; l
   };
 
   const handleSpeak = async () => {
-    if (state === 'playing' || state === 'loading') {
+    // Pause
+    if (state === 'playing') {
+      if (audioRef.current) {
+        audioRef.current.pause();
+        setState('paused');
+      }
+      return;
+    }
+    // Resume
+    if (state === 'paused') {
+      if (audioRef.current) {
+        audioRef.current.play().catch(() => {});
+        setState('playing');
+      }
+      return;
+    }
+    if (state === 'loading') {
       stopPlayback();
       return;
     }
@@ -230,18 +246,28 @@ export default function SpeakButton({ text, lang, className }: { text: string; l
     }
   };
 
-  const label = lang === 'zh'
-    ? (state === 'loading' ? '⏳' : state === 'playing' ? '⏹️ 停止' : '🔊 中文')
-    : (state === 'loading' ? '⏳' : state === 'playing' ? '⏹️ Stop' : '🔊 EN');
+  const mainLabel = lang === 'zh'
+    ? (state === 'loading' ? '⏳' : state === 'playing' ? '⏸️ 暂停' : state === 'paused' ? '▶️ 继续' : '🔊 中文')
+    : (state === 'loading' ? '⏳' : state === 'playing' ? '⏸️ Pause' : state === 'paused' ? '▶️ Resume' : '🔊 EN');
 
   return (
-    <button
-      onClick={handleSpeak}
-      disabled={false}
-      className={`inline-flex items-center gap-1 text-xs text-[var(--color-accent)] hover:text-[var(--color-accent)]/80 transition-colors disabled:opacity-50 ${className || ''}`}
-      title={state === 'playing' ? '停止 Stop' : '朗读 Read aloud'}
-    >
-      {label}
-    </button>
+    <span className={`inline-flex items-center gap-1 ${className || ''}`}>
+      <button
+        onClick={handleSpeak}
+        className="inline-flex items-center gap-1 text-xs text-[var(--color-accent)] hover:text-[var(--color-accent)]/80 transition-colors"
+        title={state === 'playing' ? '暂停 Pause' : state === 'paused' ? '继续 Resume' : '朗读 Read aloud'}
+      >
+        {mainLabel}
+      </button>
+      {(state === 'playing' || state === 'paused') && (
+        <button
+          onClick={stopPlayback}
+          className="inline-flex items-center gap-1 text-xs text-[var(--color-text-secondary)] hover:text-red-500 transition-colors"
+          title="停止 Stop"
+        >
+          ⏹️ {lang === 'zh' ? '停止' : 'Stop'}
+        </button>
+      )}
+    </span>
   );
 }
