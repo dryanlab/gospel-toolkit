@@ -57,7 +57,7 @@ export default function SubscribeBar() {
             placeholder="名字 / Name (optional)"
             value={name}
             onChange={(e) => setName(e.target.value)}
-            className="w-full sm:w-32 px-3 py-2 bg-stone-800 border border-stone-700 rounded-lg text-stone-200 placeholder-stone-500 text-sm focus:outline-none focus:border-amber-600"
+            className="w-full sm:w-44 px-3 py-2 bg-stone-800 border border-stone-700 rounded-lg text-stone-200 placeholder-stone-500 text-sm focus:outline-none focus:border-amber-600"
           />
           <input
             type="email"

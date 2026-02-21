@@ -196,6 +196,14 @@ export default function HomePage() {
           <a href="mailto:info@rockoftruth.net" className="text-sm text-[var(--color-accent)] hover:underline">
             ✉️ info@rockoftruth.net
           </a>
+          <span className="text-[var(--color-text-secondary)]">·</span>
+          <a href="https://t.me/rock_of_truth" target="_blank" rel="noopener noreferrer" className="text-sm text-[var(--color-accent)] hover:underline">
+            ✈️ Telegram频道
+          </a>
+          <span className="text-[var(--color-text-secondary)]">·</span>
+          <a href="/feed.xml" target="_blank" className="text-sm text-[var(--color-accent)] hover:underline">
+            📡 RSS
+          </a>
         </div>
       </div>
 
