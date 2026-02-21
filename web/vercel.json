@@ -1,5 +1,19 @@
 {
   "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/:path(.*)",
+      "has": [{ "type": "host", "value": "rockoftruth.sudoem.org" }],
+      "destination": "https://rockoftruth.net/:path",
+      "permanent": true
+    },
+    {
+      "source": "/:path(.*)",
+      "has": [{ "type": "host", "value": "www.rockoftruth.net" }],
+      "destination": "https://rockoftruth.net/:path",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     { "source": "/(.*)", "destination": "/$1" }
   ]

@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import DailyCatechism from '@/components/DailyCatechism';
+import SubscribeBar from '@/components/SubscribeBar';
 
 const modules = [
   {
@@ -54,7 +55,7 @@ const modules = [
     href: '/worship',
     title: '敬拜诗歌',
     subtitle: 'Worship',
-    desc: '416首中英文敬拜诗歌，在歌声中亲近神',
+    desc: '418首中英文敬拜诗歌，在歌声中亲近神',
     color: 'from-rose-600 to-pink-700',
     icon: '🎵',
   },
@@ -192,11 +193,14 @@ export default function HomePage() {
             📖 使用指南 / Guide
           </a>
           <span className="text-[var(--color-text-secondary)]">·</span>
-          <a href="mailto:rockoftruth@sudoem.org" className="text-sm text-[var(--color-accent)] hover:underline">
-            ✉️ rockoftruth@sudoem.org
+          <a href="mailto:info@rockoftruth.net" className="text-sm text-[var(--color-accent)] hover:underline">
+            ✉️ info@rockoftruth.net
           </a>
         </div>
       </div>
+
+      {/* Subscribe */}
+      <SubscribeBar />
     </div>
   );
 }

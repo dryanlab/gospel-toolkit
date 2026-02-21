@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>真理磐石 Rock of Truth</title>
+  <link>https://rockoftruth.sudoem.org</link>
+  <language>zh-cn</language>
+  <description>改革宗每日灵修播客。圣经伴读、圣徒来信、家庭祭坛——用声音陪你走过每一天的信仰旅程。</description>
+  <itunes:summary>改革宗每日灵修播客。圣经伴读、圣徒来信、家庭祭坛——用声音陪你走过每一天的信仰旅程。</itunes:summary>
+  <itunes:author>真理磐石 Rock of Truth</itunes:author>
+  <itunes:owner>
+    <itunes:name>Rock of Truth</itunes:name>
+    <itunes:email>rockoftruth@sudoem.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity"/>
+  </itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://rockoftruth.sudoem.org/og-default.jpg"/>
+  <atom:link href="https://rockoftruth.sudoem.org/podcast.xml" rel="self" type="application/rss+xml"/>
+
+  <!-- Episodes will be added here by automation script -->
+  <!-- Example format:
+  <item>
+    <title>圣徒伴读 | 创世记第6章：洪水前的世界</title>
+    <description>当人在世上多起来的时候，罪恶也随之蔓延。但在那黑暗的世代中，挪亚在耶和华眼前蒙恩。</description>
+    <enclosure url="https://rockoftruth.sudoem.org/podcast/reading-genesis-ch6.mp3" length="3355443" type="audio/mpeg"/>
+    <pubDate>Mon, 23 Feb 2026 06:00:00 -0500</pubDate>
+    <itunes:duration>4:12</itunes:duration>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <guid>reading-genesis-ch6</guid>
+    <link>https://rockoftruth.sudoem.org/readings/genesis?ch=6</link>
+  </item>
+  -->
+
+</channel>
+</rss>

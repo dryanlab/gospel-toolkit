@@ -4,9 +4,33 @@ import { Sidebar, BottomNav } from "@/components/Navigation";
 import Header from "@/components/Header";
 
 export const metadata: Metadata = {
-  title: "真理磐石 | Rock of Truth",
-  description: "福音问答、要理问答、护教学、书库 — 扎根真理，传扬福音",
+  title: "真理磐石 Rock of Truth",
+  description: "改革宗信仰资源：家庭祭坛、圣经伴读、圣徒来信、韦敏斯德要理问答、福音问答、敬拜诗歌",
+  keywords: ["改革宗", "韦敏斯德要理问答", "家庭祭坛", "圣经伴读", "福音", "Reformed", "Westminster Catechism"],
+  metadataBase: new URL("https://rockoftruth.net"),
   manifest: "/manifest.json",
+  openGraph: {
+    title: "真理磐石 Rock of Truth",
+    description: "改革宗信仰资源：家庭祭坛、圣经伴读、圣徒来信、韦敏斯德要理问答、福音问答、敬拜诗歌",
+    type: "website",
+    url: "https://rockoftruth.net",
+    siteName: "真理磐石 Rock of Truth",
+    images: [
+      {
+        url: "/og-default.jpg",
+        width: 1200,
+        height: 630,
+        alt: "真理磐石 Rock of Truth",
+      },
+    ],
+    locale: "zh_CN",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "真理磐石 Rock of Truth",
+    description: "改革宗信仰资源：家庭祭坛、圣经伴读、圣徒来信、韦敏斯德要理问答、福音问答、敬拜诗歌",
+    images: ["/og-default.jpg"],
+  },
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
@@ -19,6 +43,11 @@ export const metadata: Metadata = {
       { url: "/icons/icon-512.png", sizes: "512x512", type: "image/png" },
     ],
     apple: "/apple-touch-icon.png",
+  },
+  alternates: {
+    types: {
+      "application/rss+xml": "https://rockoftruth.net/feed.xml",
+    },
   },
 };
 

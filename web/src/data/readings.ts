@@ -591,7 +591,7 @@ readings.push({
 
 还记得第五章那份漫长的家谱吗？"他就死了……他就死了……他就死了"——罪的后果在每一代人身上盖下印记。但这还不是最可怕的。最可怕的是，到了第六章，罪不仅带来死亡，还带来了全面的败坏。
 
-经文开头说："当人在世上多起来，又生女儿的时候，神的儿子们看见人的女子美貌，就随意挑选，娶来为妻。"（创6:1-2）
+经文开头说："当人在世上多起来又生女儿的时候，神的儿子们看见人的女子美貌，就随意挑选，娶来为妻。"（创6:1-2）
 
 关于"神的儿子们"是谁，有不同的解读。加尔文和大多数改革宗学者认为，这是指塞特的后裔——就是那条从亚当到挪亚的敬虔谱系——与该隐的后裔通婚。第四章和第五章分别记载了该隐的谱系和塞特的谱系，一条是远离神的路，一条是求告神名的路。现在这两条线混在一起了。
 
@@ -599,7 +599,7 @@ readings.push({
 
 这个原则不只适用于婚姻。在任何关系中，当我们在信仰上妥协——为了合群、为了利益、为了不被嘲笑——我们就在重复"神的儿子们"的错误。雅各书4:4说"与世俗为友就是与神为敌"。这不是说我们要与世界隔绝，而是说在核心的信仰立场上，不能让步。盐失了味，还有什么用呢？
 
-然后，耶和华说了一句意味深长的话："人既属乎血气，我的灵就不永远住在他里面，然而他的日子还可到一百二十年。"（创6:3）这一百二十年是上帝给人类的宽限期——审判不是立刻降临的，上帝给了足够的时间让人悔改。彼得后来说上帝"宽容你们，不愿有一人沉沦，乃愿人人都悔改"（彼后3:9）。但宽容不是永远的。一百二十年的恩典之后，审判终将来到。
+然后，耶和华说了一句意味深长的话："人既属乎血气，我的灵就不永远住在他里面；然而他的日子还可到一百二十年。"（创6:3）这一百二十年是上帝给人类的宽限期——审判不是立刻降临的，上帝给了足够的时间让人悔改。彼得后来说上帝"宽容你们，不愿有一人沉沦，乃愿人人都悔改"（彼后3:9）。但宽容不是永远的。一百二十年的恩典之后，审判终将来到。
 
 接下来是整章最沉重的经文：
 
@@ -966,13 +966,13 @@ readings.push({
 
 第一，人可以吃肉了。"凡活着的动物，都可以作你们的食物，这一切我都赐给你们，如同菜蔬一样。"（创9:3）在洪水之前，人类只吃植物（创1:29）。现在上帝扩大了人类的食物范围。但紧接着加了一个限制：
 
-"惟独肉带着血，那就是它的生命，你们不可吃。"（创9:4）
+"惟独肉带着血，那就是他的生命，你们不可吃。"（创9:4）
 
 血代表生命，生命属于上帝。这个禁令贯穿整本圣经——利未记17:11说"因为活物的生命是在血中"；使徒行传15章的耶路撒冷会议仍然要求外邦信徒"禁戒血"。血之所以重要，是因为它最终指向基督的宝血——"基督的血岂不更能洗净你们的心"（来9:14）。每一次旧约中"不可吃血"的命令，都在提醒人们：生命是神圣的，赎罪需要流血，而那终极的赎罪之血还在将来。
 
 第二，上帝设立了对人命的保护：
 
-"流你们血、害你们命的，无论是兽是人，我必讨他的罪，就是向各人的弟兄也是如此。凡流人血的，他的血也必被人所流，因为神造人是照自己的形象造的。"（创9:5-6）
+"流你们血、害你们命的，无论是兽是人，我必讨他的罪，就是向各人的弟兄也是如此。凡流人血的，他的血也必被人所流，因为神造人是照自己的形像造的。"（创9:5-6）
 
 这段经文有极其深远的意义。上帝在这里设立了人类社会公义的基础——对杀人罪的惩罚。为什么杀人是如此严重的罪？不仅仅因为你伤害了另一个人，更因为你亵渎了上帝的形象。每一个人——无论种族、性别、年龄、社会地位——都是按上帝的形象造的。打击人就是打击上帝的形象。这是人权和人的尊严的终极根基——不是因为人类自己决定人命是宝贵的，而是因为造物主说人是按祂的形象造的。
 
@@ -988,7 +988,7 @@ readings.push({
 
 第三，上帝给了一个记号："我把虹放在云彩中，这就可作我与地立约的记号了。我使云彩盖地的时候，必有虹现在云彩中，我便记念我与你们和各样有血肉的活物所立的约。"（创9:13-15）
 
-弟兄姐妹，每次你看到彩虹，那不是一个漂亮的天气现象，那是上帝的签名。有趣的是，希伯来文中"虹"（qesheth）和"弓"是同一个词——战弓。在古代近东文化中，挂起弓是停战的意思。上帝把祂的"战弓"挂在天上，弓弦朝向天空（而不是朝向地面），象征着审判之战的结束，和平的开始。上帝不再向地面射箭了。这是何等温柔的画面。
+弟兄姐妹，每次你看到彩虹，那不是一个漂亮的天气现象，那是上帝的签名。有趣的是，希伯来文中"虹"（qesheth）和"弓"是同一个词——战弓。在古代近东文化中，挂起弓是停战的意思。上帝把祂的"战弓"挂在天上，弓背朝向天空（而不是朝向地面），象征着审判之战的结束，和平的开始。上帝不再向地面射箭了。这是何等温柔的画面。
 
 但这一章的结尾出了一件让人尴尬的事。
 
@@ -1002,7 +1002,7 @@ readings.push({
 
 相比之下，"闪和雅弗拿件衣服搭在肩上，倒退着进去，给他父亲盖上。他们背着脸就看不见父亲的赤身。"（创9:23）他们倒退着进去——不看父亲的羞耻，只管遮盖。这是何等尊贵的行为。
 
-弟兄姐妹，"爱能遮掩许多的罪"（彼前4:8）。闪和雅弗用衣服遮盖父亲的羞耻，预表了上帝用"皮子做衣服"给亚当夏娃遮体（创3:21），最终指向基督的义袍遮盖我们一切的罪和羞耻。"你们受洗归入基督的都是披戴基督了"（加3:27）。在基督里，我们的羞耻被遮盖了，我们的赤身被穿上了荣耀的义袍。
+弟兄姐妹，"爱能遮掩许多的罪"（彼前4:8）。闪和雅弗用衣服遮盖父亲的羞耻，呼应了上帝用"皮子做衣服"给亚当夏娃遮体（创3:21），最终都指向基督的义袍遮盖我们一切的罪和羞耻。"你们受洗归入基督的都是披戴基督了"（加3:27）。在基督里，我们的羞耻被遮盖了，我们的赤身被穿上了荣耀的义袍。
 
 挪亚醒来后，对三个儿子说了预言。他咒诅迦南（含的儿子），说他要作闪和雅弗的仆人。他祝福闪，说"耶和华闪的神是应当称颂的"——注意，他没有说"闪是应当称颂的"，而是说"闪的神"。祝福不在闪本身，而在闪的上帝。救赎的谱系将从闪的后裔中延续——从闪到亚伯拉罕到大卫到基督。
 
@@ -1041,7 +1041,7 @@ Second, it is universal. Not only with Noah and his descendants but with "every 
 
 Third, God gave a sign: "I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth. When I bring clouds over the earth and the bow is seen in the clouds, I will remember my covenant." (Genesis 9:13-15)
 
-Brothers and sisters, every time you see a rainbow, it is not a beautiful weather phenomenon — it is God's signature. Interestingly, the Hebrew word for "rainbow" (qesheth) is the same word for "war bow." In ancient Near Eastern culture, hanging up one's bow signified ceasefire. God hung His war bow in the sky, its string pointing heavenward (not earthward), symbolizing the end of judgment's battle and the beginning of peace. God would no longer shoot arrows at the ground. What a tender image.
+Brothers and sisters, every time you see a rainbow, it is not a beautiful weather phenomenon — it is God's signature. Interestingly, the Hebrew word for "rainbow" (qesheth) is the same word for "war bow." In ancient Near Eastern culture, hanging up one's bow signified ceasefire. God hung His war bow in the sky, its back arching heavenward (not earthward), symbolizing the end of judgment's battle and the beginning of peace. God would no longer shoot arrows at the ground. What a tender image.
 
 But the chapter ends with an embarrassing incident.
 
@@ -1055,7 +1055,7 @@ Ham's sin warrants careful reflection. "And Ham, the father of Canaan, saw the n
 
 By contrast, "Shem and Japheth took a garment, laid it on both their shoulders, and walked backward and covered the nakedness of their father. Their faces were turned backward, and they did not see their father's nakedness." (Genesis 9:23) They walked backward — not looking at their father's shame, only covering it. What noble conduct.
 
-Brothers and sisters, "love covers a multitude of sins" (1 Peter 4:8). Shem and Japheth covering their father's shame foreshadows God clothing Adam and Eve with garments of skin (Genesis 3:21), ultimately pointing to Christ's robe of righteousness covering all our sin and shame. "For as many of you as were baptized into Christ have put on Christ" (Galatians 3:27). In Christ, our shame is covered; our nakedness is clothed with a glorious robe of righteousness.
+Brothers and sisters, "love covers a multitude of sins" (1 Peter 4:8). Shem and Japheth covering their father's shame echoes God clothing Adam and Eve with garments of skin (Genesis 3:21), and both ultimately point to Christ's robe of righteousness covering all our sin and shame. "For as many of you as were baptized into Christ have put on Christ" (Galatians 3:27). In Christ, our shame is covered; our nakedness is clothed with a glorious robe of righteousness.
 
 When Noah awoke, he spoke prophecy over his three sons. He cursed Canaan (Ham's son), saying he would serve Shem and Japheth. He blessed Shem: "Blessed be the LORD, the God of Shem" — notice, he did not say "blessed be Shem" but "blessed be the God of Shem." The blessing lay not in Shem himself but in Shem's God. The redemptive lineage would continue through Shem's descendants — from Shem to Abraham to David to Christ.
 
@@ -1068,8 +1068,8 @@ From Noah's three sons to all the earth's peoples, from chapter 9's prophecy to 
   structure_en: `Chapter 9 has three sections: (1) vv.1-7: God blesses Noah and establishes ordinances — blessing of fruitfulness, permission to eat meat but not blood, protection of human life; (2) vv.8-17: The rainbow covenant — God covenants with all living creatures never to destroy by flood again, rainbow as sign; (3) vv.18-29: Noah's drunkenness — Ham sees his father's nakedness and tells others, Shem and Japheth cover their father, Noah curses Canaan and blesses Shem and Japheth.`,
   theology_zh: `第九章有几个重要神学主题：（1）挪亚之约的性质：这是一个无条件的恩典之约——上帝单方面承诺不再用洪水毁灭世界，不取决于人的行为。这显明了上帝恩典的本质；（2）上帝的形象与人命的尊严：杀人之所以是大罪，是因为人是按上帝的形象造的（创9:6）。这是人权和人的尊严的终极根基；（3）挪亚的跌倒：即使是蒙恩的义人也会犯罪，证明了洪水不能解决罪的根本问题。人类需要的不是外在环境的改变，而是内心的更新；（4）闪的祝福：挪亚说"耶和华闪的神是应当称颂的"（创9:26）——救赎之线从闪的后裔中延续，最终通向亚伯拉罕和基督。`,
   theology_en: `Chapter 9 contains several important theological themes: (1) Nature of the Noahic covenant: an unconditional covenant of grace — God unilaterally promises never to destroy by flood, independent of human behavior, revealing grace's nature; (2) God's image and human dignity: murder is grave because humans bear God's image (9:6), the ultimate foundation for human rights and dignity; (3) Noah's fall: even a righteous man saved by grace sins, proving the flood cannot solve sin's fundamental problem. Humanity needs not environmental change but heart renewal; (4) Shem's blessing: Noah says "Blessed be the LORD, the God of Shem" (9:26) — the redemption line continues through Shem's descendants, ultimately leading to Abraham and Christ.`,
-  christShadow_zh: `挪亚之约是上帝救赎计划中的重要一环。彩虹提醒我们上帝的信实——每一道彩虹都在说"上帝守约"。这个约保证了自然秩序的延续，为救赎历史的展开提供了舞台。挪亚醉酒后的赤身与亚当犯罪后的赤身形成呼应——两个"亚当"都失败了，都需要遮盖。闪和雅弗用衣服遮盖父亲的羞耻，预表了上帝用"皮子做衣服"给亚当遮体（创3:21），最终指向基督的义袍遮盖我们一切的罪和羞耻。"你们受洗归入基督的都是披戴基督了"（加3:27）。`,
-  christShadow_en: `The Noahic covenant is crucial in God's redemptive plan. The rainbow reminds us of God's faithfulness — every rainbow declares "God keeps His covenant." This covenant guarantees the continuation of natural order, providing the stage for redemptive history to unfold. Noah's nakedness after drunkenness echoes Adam's nakedness after sin — both "Adams" failed, both needed covering. Shem and Japheth covering their father's shame foreshadows God clothing Adam with garments of skin (Genesis 3:21), ultimately pointing to Christ's robe of righteousness covering all our sin and shame. "For as many of you as were baptized into Christ have put on Christ" (Galatians 3:27).`,});
+  christShadow_zh: `挪亚之约是上帝救赎计划中的重要一环。彩虹提醒我们上帝的信实——每一道彩虹都在说"上帝守约"。这个约保证了自然秩序的延续，为救赎历史的展开提供了舞台。挪亚醉酒后的赤身与亚当犯罪后的赤身形成呼应——两个"亚当"都失败了，都需要遮盖。闪和雅弗用衣服遮盖父亲的羞耻，呼应了上帝用"皮子做衣服"给亚当遮体（创3:21），最终都指向基督的义袍遮盖我们一切的罪和羞耻。"你们受洗归入基督的都是披戴基督了"（加3:27）。`,
+  christShadow_en: `The Noahic covenant is crucial in God's redemptive plan. The rainbow reminds us of God's faithfulness — every rainbow declares "God keeps His covenant." This covenant guarantees the continuation of natural order, providing the stage for redemptive history to unfold. Noah's nakedness after drunkenness echoes Adam's nakedness after sin — both "Adams" failed, both needed covering. Shem and Japheth covering their father's shame echoes God clothing Adam with garments of skin (Genesis 3:21), and both ultimately point to Christ's robe of righteousness covering all our sin and shame. "For as many of you as were baptized into Christ have put on Christ" (Galatians 3:27).`,});
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 10,
   publishDate: '2026-02-27',
@@ -1084,7 +1084,7 @@ readings.push({
 
 让我带你们认识这三个家族：
 
-雅弗的后裔（2-5节）分布在最北方和最西方——歌篾（可能是后来的西米里人，今天的高加索和欧洲地区）、玛各（以西结书38-39章中的末世敌人）、玛代（后来的玛代帝国，今天的伊朗北部）、雅完（希腊——"爱奥尼亚"就是雅完的希腊语形式）、土巴和米设（小亚细亚，今天的土耳其地区）。经文说他们"各随各的方言、宗族住在沿海的国民"——也就是地中海沿岸。
+雅弗的后裔（2-5节）分布在最北方和最西方——歌篾（可能是后来的西米里人，今天的高加索和欧洲地区）、玛各（以西结书38-39章中的末世敌人）、玛代（后来的玛代帝国，今天的伊朗北部）、雅完（希腊——"爱奥尼亚"就是雅完的希腊语形式）、土巴和米设（小亚细亚，今天的土耳其地区）。经文说"这些人的后裔将各国的地土、海岛分开居住，各随各的方言、宗族立国"（创10:5）——"海岛"在希伯来文中泛指地中海沿岸及远方的海岸地区。
 
 如果你是欧洲或西亚血统的信徒，你的祖先在这里——你是雅弗的后裔。还记得挪亚的祝福吗？"愿神使雅弗扩张，使他住在闪的帐棚里。"你今天信靠闪的后裔耶稣基督，就是这个祝福的应验。
 
@@ -1092,7 +1092,7 @@ readings.push({
 
 在含的后裔中，有一个人被特别提出来：宁录。
 
-"古实又生宁录，他为世上英勇的猎户之首。他在耶和华面前是个英勇的猎户。他国的起头是巴别、以力、亚甲、甲尼，都在示拿地。他从那地出来往亚述去，建造尼尼微、利河伯、迦拉，和尼尼微、迦拉中间的利鲜，这就是那大城。"（创10:8-12）
+"古实又生宁录，他为世上英雄之首。他在耶和华面前是个英勇的猎户。他国的起头是巴别、以力、亚甲、甲尼，都在示拿地。他从那地出来往亚述去，建造尼尼微、利河伯、迦拉，和尼尼微、迦拉中间的利鲜，这就是那大城。"（创10:8-12）
 
 宁录建立了两座后来成为以色列最大敌人的城市：巴别（巴比伦帝国的首都）和尼尼微（亚述帝国的首都）。"他在耶和华面前是个英勇的猎户"——这句话在希伯来语中带有挑衅的意味，不是称赞。他是在上帝面前展示自己的强大——猎人追捕猎物，宁录"追捕"的是人的效忠和膜拜。他是第一个帝国建造者，第一个用权力和武力统治他人的人。巴别塔的故事（第十一章）就发生在他建立的示拿地。
 

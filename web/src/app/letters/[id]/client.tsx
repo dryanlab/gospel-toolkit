@@ -5,7 +5,7 @@ import { isPublished, useHydrated } from '@/lib/preview';
 import Link from 'next/link';
 import { letters as staticLetters, categoryLabels } from '@/data/letters';
 import type { Letter } from '@/data/letters';
-import { fetchLetter } from '@/lib/api';
+import { fetchLetter, fetchLettersList } from '@/lib/api';
 import ShareBar from '@/components/ShareBar';
 import LikeButton from '@/components/LikeButton';
 import SpeakButton from '@/components/SpeakButton';
@@ -53,15 +53,17 @@ function renderMarkdown(md: string) {
 export default function LetterClient({ id }: { id: string }) {
   const staticLetter = useMemo(() => staticLetters.find(l => l.id === id), [id]);
   const [letter, setLetter] = useState<Letter | undefined>(staticLetter);
+  const [allLetters, setAllLetters] = useState<Letter[]>(staticLetters);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetchLetter(id).then(apiLetter => {
+    // Fetch current letter + full list from D1
+    Promise.all([fetchLetter(id), fetchLettersList()]).then(([apiLetter, apiList]) => {
       if (apiLetter) {
-        setLetter({
-          ...apiLetter,
-          tags: typeof apiLetter.tags === 'string' ? JSON.parse(apiLetter.tags) : (apiLetter.tags || []),
-        } as Letter);
+        setLetter(apiLetter as Letter);
+      }
+      if (apiList && apiList.length > 0) {
+        setAllLetters(apiList as Letter[]);
       }
       setLoading(false);
     });
@@ -81,12 +83,11 @@ export default function LetterClient({ id }: { id: string }) {
 
   const catLabel = categoryLabels[letter.category];
 
-  // Find prev/next
-  const idx = staticLetters.findIndex(l => l.id === id);
-  const now = new Date();
-  const isAvailable = (l: typeof staticLetters[0]) => l.content_zh !== '（即将发布）' && isPublished(l.date);
-  const prev = idx > 0 && isAvailable(staticLetters[idx - 1]) ? staticLetters[idx - 1] : null;
-  const next = idx < staticLetters.length - 1 && isAvailable(staticLetters[idx + 1]) ? staticLetters[idx + 1] : null;
+  // Find prev/next from D1 data (falls back to static)
+  const idx = allLetters.findIndex(l => l.id === id);
+  const isAvailable = (l: Letter) => l.content_zh !== '（即将发布）' && isPublished(l.date);
+  const prev = idx > 0 && isAvailable(allLetters[idx - 1]) ? allLetters[idx - 1] : null;
+  const next = idx < allLetters.length - 1 && isAvailable(allLetters[idx + 1]) ? allLetters[idx + 1] : null;
 
   // Plain text for TTS
   const zhText = letter.content_zh.replace(/[#*]/g, '').replace(/\n{2,}/g, '\n');
@@ -130,6 +131,9 @@ export default function LetterClient({ id }: { id: string }) {
           title={letter.title_zh}
           summary={letter.summary_zh}
           scripture={letter.scripture}
+          emoji={letter.authorAvatar}
+          cardStyle="letter"
+          author={letter.author}
         />
       </div>
 
@@ -196,6 +200,9 @@ export default function LetterClient({ id }: { id: string }) {
           title={letter.title_zh}
           summary={letter.summary_zh}
           scripture={letter.scripture}
+          emoji={letter.authorAvatar}
+          cardStyle="letter"
+          author={letter.author}
         />
       </div>
 

@@ -62,14 +62,30 @@ export default {
     const path = url.pathname;
 
     try {
+      // ===== FIELD MAPPING (D1 snake_case → frontend camelCase) =====
+      function mapLetterFields(row: Record<string, unknown>): Record<string, unknown> {
+        return {
+          ...row,
+          authorEn: row.author_en,
+          authorAvatar: row.author_avatar,
+          authorBio: row.author_bio,
+          authorBioEn: row.author_bio_en,
+          scriptureText_zh: row.scripture_text_zh,
+          scriptureText_en: row.scripture_text_en,
+        };
+      }
+
       // ===== LETTERS =====
 
-      // GET /letters - list published letters
+      // GET /letters - list published letters: released first (newest on top), then upcoming (earliest first)
       if (path === '/letters' && request.method === 'GET') {
         const rows = await env.DB.prepare(
-          'SELECT id, author, author_en, author_avatar, title_zh, title_en, date, category, scripture, summary_zh, summary_en, tags FROM letters WHERE status = ? ORDER BY date DESC'
+          `SELECT * FROM letters WHERE status = ? ORDER BY
+            CASE WHEN date <= date('now') THEN 0 ELSE 1 END,
+            CASE WHEN date <= date('now') THEN date END DESC,
+            CASE WHEN date > date('now') THEN date END ASC`
         ).bind('published').all();
-        return cors(env, json({ letters: rows.results }));
+        return cors(env, json({ letters: (rows.results || []).map(r => mapLetterFields(r as Record<string, unknown>)) }));
       }
 
       // GET /letters/:id - get single letter
@@ -79,7 +95,7 @@ export default {
           'SELECT * FROM letters WHERE id = ? AND status = ?'
         ).bind(id, 'published').first();
         if (!row) return cors(env, json({ error: 'Not found' }, 404));
-        return cors(env, json({ letter: row }));
+        return cors(env, json({ letter: mapLetterFields(row as Record<string, unknown>) }));
       }
 
       // POST /letters - create/update letter (admin)
@@ -341,6 +357,52 @@ export default {
         const id = path.split('/admin/letters/')[1];
         await env.DB.prepare('DELETE FROM letters WHERE id = ?').bind(id).run();
         return cors(env, json({ ok: true }));
+      }
+
+      // ===== SUBSCRIBE =====
+
+      // POST /subscribe
+      if (path === '/subscribe' && request.method === 'POST') {
+        const data = await request.json() as Record<string, unknown>;
+        const email = (data.email as string || '').trim().toLowerCase();
+        const name = (data.name as string || '').trim();
+        if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+          return cors(env, json({ error: 'Invalid email' }, 400));
+        }
+        const token = crypto.randomUUID();
+        try {
+          await env.DB.prepare(
+            "INSERT INTO subscribers (email, name, unsubscribe_token, confirmed) VALUES (?, ?, ?, 1) ON CONFLICT(email) DO UPDATE SET name=excluded.name, status='active', unsubscribe_token=excluded.unsubscribe_token"
+          ).bind(email, name || null, token).run();
+        } catch (e) {
+          return cors(env, json({ error: 'Subscribe failed' }, 500));
+        }
+        // Notify via Telegram
+        await notifyTelegram(env, `📧 <b>新订阅</b>\n${name ? name + ' · ' : ''}${email}`);
+        return cors(env, json({ ok: true }));
+      }
+
+      // GET /unsubscribe?token=xxx
+      if (path === '/unsubscribe' && request.method === 'GET') {
+        const token = url.searchParams.get('token');
+        if (!token) return cors(env, json({ error: 'Token required' }, 400));
+        const result = await env.DB.prepare(
+          "UPDATE subscribers SET status = 'unsubscribed' WHERE unsubscribe_token = ? AND status = 'active'"
+        ).bind(token).run();
+        if (result.meta.changes === 0) {
+          return new Response('<html><body style="font-family:sans-serif;text-align:center;padding:60px"><h2>Link invalid or already unsubscribed.</h2></body></html>', { headers: { 'Content-Type': 'text/html' } });
+        }
+        return new Response('<html><body style="font-family:sans-serif;text-align:center;padding:60px"><h2>✅ You have been unsubscribed.</h2><p>We\'re sorry to see you go.</p></body></html>', { headers: { 'Content-Type': 'text/html' } });
+      }
+
+      // GET /subscribers (admin)
+      if (path === '/subscribers' && request.method === 'GET') {
+        if (!auth(request, env)) return cors(env, json({ error: 'Unauthorized' }, 401));
+        const status = url.searchParams.get('status') || 'active';
+        const rows = await env.DB.prepare(
+          'SELECT id, email, name, subscribed_at, status FROM subscribers WHERE status = ? ORDER BY subscribed_at DESC'
+        ).bind(status).all();
+        return cors(env, json({ subscribers: rows.results }));
       }
 
       return cors(env, json({ error: 'Not found' }, 404));

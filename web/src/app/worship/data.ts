@@ -23,6 +23,7 @@ export const songs: Song[] = [
   { id: 'zhe-yi-sheng-1', title: '這一生最美的祝福', artist: 'HALLELUYA MEDIA', youtubeId: 'RTSTh4_mKnA', category: '赞美诗歌' },
   { id: 'zhe-yi-sheng-2', title: '這一生最美的祝福', subtitle: 'The Gift of Knowing You', artist: '讚美之泉 Stream Of Praise Music Ministries', youtubeId: 'tPf7Ig1ebL4', category: '赞美诗歌' },
   { id: 'ru-ying-zhan-chi', title: '如鹰展翅上腾', subtitle: 'Soar on Wings Like an Eagle', artist: 'zfljsophia', youtubeId: 'mFbmgTlIYG8', category: '赞美诗歌' },
+  { id: 'en-dian-zhi-lu', title: '恩典之路', subtitle: 'The Path of Grace', artist: '讚美之泉 Stream Of Praise Music Ministries', youtubeId: 'YaJ5gof0YNQ', category: '赞美诗歌' },
   { id: 'medley-praise-1', title: '感謝天父/謝謝祢/自由地歌唱/恩典之路/新耶路撒冷', artist: '讚美之泉 Stream Of Praise Music Ministries', youtubeId: 'teqg6ZIkuwk', category: '赞美诗歌' },
   { id: 'medley-praise-2', title: '將天敞開/行神蹟的神/一生敬拜祢/這是聖潔之地', artist: '讚美之泉 Stream Of Praise Music Ministries', youtubeId: 'kxGQ7LV4DKQ', category: '赞美诗歌' },
   { id: 'ni-shi-pei-de', title: '祢是配得 You Are Worthy', subtitle: 'You Are Worthy', artist: '讚美之泉 Stream of Praise - Topic', youtubeId: 'xdoIC_M8EmY', category: '赞美诗歌' },

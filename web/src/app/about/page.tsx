@@ -1,5 +1,7 @@
 'use client';
 
+import SubscribeBar from '@/components/SubscribeBar';
+
 export default function AboutPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 py-8">
@@ -79,7 +81,7 @@ export default function AboutPage() {
 
             <div>
               <h3 className="font-bold text-base">11. 🎵 敬拜诗歌</h3>
-              <p className="mt-1">精选<strong>416首</strong>中英文敬拜诗歌，涵盖赞美诗歌、敬拜诗歌、福音诗歌、经典圣诗等类别。内嵌<strong>YouTube播放器</strong>，支持顺序播放、随机播放、单曲循环等多种模式，也支持搜索和分类浏览。可以在灵修、家庭敬拜或个人安静时间中使用。</p>
+              <p className="mt-1">精选<strong>418首</strong>中英文敬拜诗歌，涵盖赞美诗歌、敬拜诗歌、福音诗歌、经典圣诗等类别。内嵌<strong>YouTube播放器</strong>，支持顺序播放、随机播放、单曲循环等多种模式，也支持搜索和分类浏览。可以在灵修、家庭敬拜或个人安静时间中使用。</p>
             </div>
 
             <div>
@@ -107,7 +109,7 @@ export default function AboutPage() {
           <h2 className="font-serif-cn text-xl font-bold mb-4">💻 如何使用</h2>
           <p className="mb-4">本网站在<strong>电脑上阅读体验最佳</strong>，宽屏布局、左侧导航栏让浏览更直观舒适。手机上阅读也很方便，底部导航栏可快速切换各板块，随时随地都能使用。</p>
           <ol className="list-decimal list-inside space-y-2">
-            <li>浏览器打开 <strong>rockoftruth.sudoem.org</strong></li>
+            <li>浏览器打开 <strong>rockoftruth.net</strong></li>
             <li>手机用户可以<strong>添加到主屏幕</strong>，像App一样使用</li>
             <li>每天打开首页，即可看到当日的<strong>家庭祭坛</strong>入口和<strong>要理问答</strong></li>
             <li>用搜索栏快速查找任何感兴趣的内容</li>
@@ -118,10 +120,12 @@ export default function AboutPage() {
         {/* 联系 */}
         <section className="text-center pt-6 border-t border-[var(--color-border)]">
           <p>欢迎大家使用并转发给身边的朋友！</p>
-          <p className="mt-2">如有任何建议或反馈，请发邮件至 <a href="mailto:rockoftruth@sudoem.org" className="text-[var(--color-accent)] hover:underline font-bold">rockoftruth@sudoem.org</a></p>
+          <p className="mt-2">如有任何建议或反馈，请发邮件至 <a href="mailto:info@rockoftruth.net" className="text-[var(--color-accent)] hover:underline font-bold">info@rockoftruth.net</a></p>
           <p className="mt-4 text-[var(--color-text-secondary)] italic">愿神使用这个小小的平台，让更多人认识祂的真理，被祂的恩典所建立！</p>
           <p className="mt-3 text-sm text-[var(--color-text-secondary)]">&ldquo;因为那已经立好的根基就是耶稣基督，此外没有人能立别的根基。&rdquo;（哥林多前书 3:11）</p>
         </section>
+
+        <SubscribeBar />
 
       </div>
     </div>

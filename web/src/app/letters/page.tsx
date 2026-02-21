@@ -18,10 +18,7 @@ export default function LettersPage() {
     fetchLettersList().then(apiLetters => {
       if (apiLetters && apiLetters.length > 0) {
         // Merge: API letters override static, parse tags
-        const merged = apiLetters.map((l: any) => ({
-          ...l,
-          tags: typeof l.tags === 'string' ? JSON.parse(l.tags) : (l.tags || []),
-        }));
+        const merged = apiLetters;
         setLetters(merged as Letter[]);
       }
     });

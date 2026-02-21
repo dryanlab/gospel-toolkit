@@ -6,6 +6,13 @@ import edge_tts
 
 VOICES = {'zh': 'zh-CN-YunjianNeural', 'en': 'en-US-AndrewNeural'}
 
+# Characters that edge-tts mispronounces — replace before synthesis
+ZH_REPLACEMENTS = {
+    '牠': '他',
+    '祂': '他',
+    '衪': '他',
+}
+
 class Handler(BaseHTTPRequestHandler):
     def do_OPTIONS(self):
         self.send_response(204)
@@ -24,6 +31,11 @@ class Handler(BaseHTTPRequestHandler):
             self.end_headers()
             self.wfile.write(b'{"error":"bad text"}')
             return
+
+        # Fix mispronounced characters
+        if lang == 'zh':
+            for wrong, right in ZH_REPLACEMENTS.items():
+                text = text.replace(wrong, right)
 
         voice = VOICES.get(lang, VOICES['zh'])
         try:

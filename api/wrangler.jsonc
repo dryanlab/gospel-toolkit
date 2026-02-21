@@ -10,7 +10,7 @@
     }
   ],
   "vars": {
-    "CORS_ORIGIN": "https://rockoftruth.sudoem.org"
+    "CORS_ORIGIN": "*"
   },
   "workers_dev": true,
   "routes": [

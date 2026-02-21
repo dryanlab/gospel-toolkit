@@ -7,7 +7,7 @@ import type { ReadingChapter } from '@/data/readings';
 import SpeakButton from '@/components/SpeakButton';
 import LikeButton from '@/components/LikeButton';
 import { isPublished, useHydrated } from '@/lib/preview';
-import { fetchReading } from '@/lib/api';
+import { fetchReading, fetchReadingsList } from '@/lib/api';
 
 // --- Read mark helpers ---
 function getReadKey(book: string, chapter: number) {
@@ -42,9 +42,10 @@ function renderMd(md: string) {
   });
 }
 
-export default function GenesisClient({ chapters }: { chapters: ReadingChapter[] }) {
+export default function GenesisClient({ chapters: staticChapters }: { chapters: ReadingChapter[] }) {
   const searchParams = useSearchParams();
   const router = useRouter();
+  const [chapters, setChapters] = useState<ReadingChapter[]>(staticChapters);
   const selected = searchParams.get('ch') ? Number(searchParams.get('ch')) : null;
   const setSelected = (ch: number | null) => {
     if (ch === null) {
@@ -58,6 +59,28 @@ export default function GenesisClient({ chapters }: { chapters: ReadingChapter[]
   const [ch, setCh] = useState<ReadingChapter | null>(null);
   const [chRead, setChRead] = useState(false);
   const [readCountState, setReadCountState] = useState(0);
+
+  // Fetch chapter list from D1, replace static if available
+  useEffect(() => {
+    fetchReadingsList('Genesis').then(apiChapters => {
+      if (apiChapters && apiChapters.length > 0) {
+        // Merge: D1 data takes priority, keep static entries for chapters not in D1
+        const apiMap = new Map(apiChapters.map((c: any) => [c.chapter, c]));
+        const merged = staticChapters.map(sc => {
+          const apiC = apiMap.get(sc.chapter) as ReadingChapter | undefined;
+          return apiC && apiC.content_zh ? apiC : sc;
+        });
+        // Add any D1-only chapters not in static
+        apiChapters.forEach((ac: any) => {
+          if (!staticChapters.find(sc => sc.chapter === ac.chapter)) {
+            merged.push(ac as ReadingChapter);
+          }
+        });
+        merged.sort((a, b) => a.chapter - b.chapter);
+        setChapters(merged);
+      }
+    });
+  }, []);
 
   useEffect(() => {
     setReadCountState(getReadCount('genesis', 50));
