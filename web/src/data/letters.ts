@@ -941,341 +941,275 @@ And then you will hear Him call your name.
 
 *May the Lord who shone His light on me on the Damascus road also shine His light into your heart — your brother, Paul*`,
   },
-  {
+    {
     id: 'abraham-moriah',
     author: '亚伯拉罕',
     authorEn: 'Abraham',
-    authorAvatar: '⭐',
-    authorBio: '信心之父，神与他立约，应许他的后裔如天上的星',
-    authorBioEn: 'Father of faith, God made a covenant with him, promising descendants like the stars of heaven',
+    authorAvatar: '🔥',
+    authorBio: '信心之父，从迦勒底的吾珥蒙召，神的朋友',
+    authorBioEn: 'Father of faith, called from Ur of the Chaldeans, friend of God',
     title_zh: '摩利亚山上的三天路程',
     title_en: 'Three Days\' Journey to Mount Moriah',
-    date: '2026-03-07',
+    date: '2026-03-08',
     category: 'testimony',
-    scripture: '创世记 22:1-14',
-    scriptureText_zh: '以撒对他父亲亚伯拉罕说："父亲哪！"亚伯拉罕说："我儿，我在这里。"以撒说："请看，火与柴都有了，但燔祭的羊羔在哪里呢？"亚伯拉罕说："我儿，神必自己预备作燔祭的羊羔。"',
-    scriptureText_en: 'And Isaac said to his father Abraham, "My father!" And he said, "Here I am, my son." He said, "Behold, the fire and the wood, but where is the lamb for a burnt offering?" Abraham said, "God will provide for himself the lamb for a burnt offering, my son."',
-    summary_zh: '不写结局，只写从领受命令到举刀的那三天。每一步路在想什么？"神必自己预备"——这句话是信心还是绝望？',
-    summary_en: 'Not about the ending, but about those three days from receiving the command to raising the knife. What was I thinking with every step? "God will provide" — was it faith or despair?',
+    scripture: '创世记 22:1-19',
+    scriptureText_zh: '神说："你带着你的儿子，就是你独生的儿子，你所爱的以撒，往摩利亚地去，在我所要指示你的山上，把他献为燔祭。"',
+    scriptureText_en: 'He said, "Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you."',
+    summary_zh: '不写结局，只写从领受命令到举刀的那三天。每一步路在想什么？神必自己预备——这句话是信心还是绝望？',
+    summary_en: 'A son at a hundred years old, after twenty-five years of waiting. Then God said: give him back to me. When I raised the knife that day, I finally understood what faith truly means — and what lies in the heart of God.',
     tags: ['信心', '顺服', '牺牲', '预表'],
-    content_zh: `## 我是扫罗——最虔诚的逼迫者
+    content_zh: `我叫亚伯兰，后来神把我的名字改为亚伯拉罕——多国之父。
 
-我叫扫罗，便雅悯支派的人，法利赛人中的法利赛人。
+我愿意把一件事告诉你，那是我这一生中最黑暗、也是最光明的一天。
 
-你们若问我从前是什么人，我可以把我的履历摆在你们面前："我第八天受割礼；我是以色列族、便雅悯支派的人，是希伯来人所生的希伯来人。就律法说，我是法利赛人；就热心说，我是逼迫教会的；就律法上的义说，我是无可指摘的。"（腓立比书 3:5-6）
+那天的名字，叫做摩利亚。
 
-你们听清楚了吗？**无可指摘。** 不是我自夸。在迦玛列门下受教的那些年，我背下了整本妥拉，安息日从不违反一条诫命，十一奉献精确到薄荷、茴香、芹菜。法利赛人中间，没有人比我更认真。
+---
 
-但光认真还不够。我要**为神大发热心。**
+**等了二十五年的儿子**
 
-当我第一次听说有一群人在传讲一个被钉十字架的拿撒勒人是弥赛亚的时候，我的血都沸腾了。**弥赛亚被挂在木头上？** 妥拉明明写着："被挂的人是在神面前受咒诅的"（申命记 21:23）。这些人不是在传福音——他们是在亵渎神！
+你若要明白那一天，你先得明白以撒对我意味着什么。
 
-所以当公会决定要清除这个异端的时候，我第一个站出来。
+神第一次呼召我的时候，我七十五岁。那时他应许我将成为大国，后裔多如星辰，多如尘沙。但撒拉没有孩子。我们等了一年，又等了五年，又等了十年。撒拉老了，我也老了，我们的身体已经失去了生育的能力，但神的应许还没有实现。
 
-司提反被石头打死的那天，我就在那里。我没有亲手丢石头——我替那些丢石头的人看守衣裳。我看着他跪下来，看着石头一块一块砸在他身上。他满脸是血，但他的脸——
+我一度相信自己的智慧——叫使女夏甲给我生了以实玛利，以为这就是应许的实现。但神说：不是。
 
-弟兄姐妹，我不愿意承认这一点，但那天我看到了一张我永远忘不掉的脸。**他的脸好像天使的脸。** 他在死的时候说："主啊，不要将这罪归于他们！"（使徒行传 7:60）
+二十五年之后，我已经一百岁了，撒拉九十岁了，她的生育功能早已断绝。就在这时，神做了一件在人看来完全不可能的事：**撒拉怀孕了，生了以撒。**
 
-被石头打死的人在为打他的人祷告。
+以撒这名字是"笑"的意思。因为当神宣告这个消息时，我们两人都笑了——不是喜悦的笑，是那种"怎么可能"的苦笑。我们不相信，直到以撒真的出生。
 
-我当时把这念头压下去了。我告诉自己：这是魔鬼的迷惑。越是看起来像天使的，越危险。
+从那天起，以撒是我全部的喜乐，是神信实的活证据，是应许的化身。每次我看着他，我就看见神是真实的。
 
-所以我更加疯狂地逼迫。
+---
 
-我挨家挨户搜查。男人女人，我一概拉到监里。我威胁他们，要他们否认那个名字。有些人否认了——我看到他们眼中的羞耻和痛苦。有些人不肯——我看到他们眼中的平安，一种我用尽全力也无法拥有的平安。
+**那一天早晨**
 
-**我恨那种平安。** 因为我心里没有。
+以撒大约十几岁的时候，神在夜间向我说话了。
 
-我以为我有。我以为遵行律法、大发热心就是平安。但每次看到那些被我抓起来的人，他们在锁链中唱诗赞美的时候，我心里就有一个声音说：**他们有的东西，你没有。**
+"亚伯拉罕！"
 
-我把那声音压得更深。
+"我在这里。"
 
-## 去大马色的路上
+"你带着你的儿子，就是你独生的儿子，你所爱的以撒，往摩利亚地去，在我所要指示你的山上，把他献为燔祭。"
 
-耶路撒冷还不够。我听说大马色也有信这道的人，就去大祭司那里要了文书，要把那里的人也捆绑回来。
+我不知道那一夜我躺了多久。
 
-那是一段很长的路，大约六天的行程。一路上我都在想着到了之后怎么审讯、怎么定罪。我的心里充满了义怒——至少我以为那是义怒。
+人们以为信心是一种轻松的感觉，好像心里有一个声音说"放心，神会保护的"，然后一切都变得容易了。不是的。信心不是没有挣扎，信心是在极深的挣扎中仍然选择顺服。
 
-**然后那道光来了。**
+我想到的第一件事是：这是神的声音。我跟随神已经二十五年，我认识他的声音。这不是试探，不是幻觉，是神。
 
-弟兄姐妹，我无法用语言描述那道光。中午的日头已经够亮了，但那道光比日头还亮。不是从某个方向照来的——是**四面照着我**。好像整个天空都裂开了，所有的光都倾倒下来。
+我想到的第二件事是：**但以撒是应许的后裔，如果以撒死了，应许怎么成就？**
 
-我仆倒在地。
+这个问题在我脑海里转了整整一夜。希伯来书后来说，我找到了答案：我相信神即使从死里也能叫人复活。（希伯来书11:19）神应许以撒是后裔，神命令献以撒，那么如果以撒死了，神必使他从死里复活——因为神不会与自己矛盾。
 
-然后我听到了那个声音：
+我不知道我相信这个的时候，信心有多少，恐惧有多少。但我起来了，清晨就早早地起来。
 
-**"扫罗，扫罗，你为什么逼迫我？"**
+---
 
-祂叫了我的名字。叫了两遍。
+**三天的路**
 
-我趴在地上，浑身发抖。我问："主啊，你是谁？"
+我劈好了柴，带着两个仆人和以撒，起程往摩利亚去。
 
-我其实已经知道了。在那道光照到我的一瞬间，我所有的确信都碎了——我的律法知识、我的法利赛人身份、我的热心、我的义——全部碎成了渣。**因为如果这道光是从天上来的，如果这个声音是神的声音，那么我逼迫的不是异端，而是——**
+三天的路程。
 
-**"我就是你所逼迫的耶稣。"**
+三天。你想象一下那三天。以撒就在我身边，他完全不知道将要发生什么，他可能在和我说话，问我问题，笑着跑前跑后。每一刻我都知道，我要把他杀死。
 
-那个被钉十字架的拿撒勒人。那个我认定是被神咒诅的人。那个我拼了命要从地上抹去祂名字的人。
+那三天我是怎么走过来的，我说不清楚。我只知道，每一步都是靠着那个信念：神必自己预备。
 
-**祂就是主。**
+第三天，我举目远远地看见了那地方。
 
-弟兄姐妹，你们能想象那一刻我的感受吗？那不是恍然大悟，那是**天塌地陷**。我这一生所做的一切——我的虔诚、我的热心、我引以为傲的一切——不仅毫无价值，而且**方向完全相反**。我以为自己在事奉神，其实我在**逼迫神**。
+我对仆人说："你们同驴在这里等候，我与童子往那里去拜一拜，就回到你们这里来。"
 
-我是全世界最虔诚的罪人。
+"就回到你们这里来"——我说了"我们"，不是"我"。我说的"我们"，是我和以撒。我说的"回来"，是我相信以撒也会回来。无论发生什么，他都会回来。
 
-## 三天的黑暗
+---
 
-那道光之后，我的眼睛瞎了。
+**父啊，火和柴都有了，燔祭的羊羔在哪里呢？**
 
-同行的人领着我进了大马色城。三天三夜，我什么也看不见，也不吃也不喝。
+以撒背着柴，我拿着火和刀，父子二人同行。
 
-你们知道那三天我在想什么吗？
+以撒说："父啊！"
 
-我想起了司提反的脸。我想起了我亲手抓进监牢的那些人。我想起了有些人因为我的逼迫而死。他们的名字，每一个，都在我脑海里。
+我说："我儿，我在这里。"
 
-**我逼迫的是耶稣。每一个信徒，都是祂身体的一部分。我打他们，就是打祂。我捆绑他们，就是捆绑祂。**
+"火和柴都有了，燔祭的羊羔在哪里呢？"
 
-三天的黑暗里，我终于明白了一件事：**律法能让人知罪，但律法不能救人。** 我一辈子都在守律法，但律法只是让我看到自己有多绝望。"所以凡有血气的，没有一个因行律法能在神面前称义，因为律法本是叫人知罪。"（罗马书 3:20）
+弟兄姐妹，我无法告诉你那一刻我心里是什么感受。我的儿子，我等了二十五年的儿子，用他天真无邪的眼睛看着我问：羊羔在哪里？
 
-我也明白了另一件事：**祂没有击杀我。**
+我说："我儿，神必自己预备作燔祭的羊羔。"
 
-那道光完全可以把我烧成灰。以我所做的一切，我配得灭亡一千次。但祂没有。**祂问我"你为什么逼迫我"——这不是审判的宣告，这是父亲对浪子的追问。**
+这句话，我说的时候不知道它是否会成真。我只是把我仅有的信心，压缩成了这一句话。
 
-## 亚拿尼亚来了
+他们到了神所指示的地方，亚伯拉罕在那里筑了一座坛，把柴摆好，捆绑他的儿子以撒，放在坛的柴上。亚伯拉罕就伸手拿刀，要杀他的儿子。
 
-第三天，一个叫亚拿尼亚的门徒来了。
+**那一刀没有落下来。**
 
-后来我才知道，主在异象中对他说：去直街，找一个叫扫罗的大数人。亚拿尼亚说："主啊，我听见许多人说，这人怎样在耶路撒冷多多苦害你的圣徒。"（使徒行传 9:13）
+耶和华的使者从天上呼叫他说："亚伯拉罕，亚伯拉罕！"
 
-弟兄姐妹，你们想想——如果有人让你去找一个专门抓基督徒的人，给他按手祷告，你去不去？
+我说："我在这里。"
 
-**亚拿尼亚去了。**
+"不可在这童子身上下手，一点都不可害他！现在我知道你是敬畏神的了，因为你没有将你的儿子，就是你独生的儿子，留下不给我。"
 
-他进来，把手按在我身上，说了一句让我泪流满面的话：
+我抬起头，举目观看，不料，有一只公羊，两角扣在稠密的小树中。我就取了那只公羊，献为燔祭，代替我的儿子。
 
-**"兄弟扫罗。"**
+---
 
-兄弟。他叫我**兄弟**。
+**那地方的名字**
 
-这个我来大马色要抓的人，叫我兄弟。
+我给那地方起名叫"耶和华以勒"——耶和华必预备。
 
-"在你来的路上向你显现的主，就是耶稣，打发我来，叫你能看见，又被圣灵充满。"（使徒行传 9:17）
+直到今日，人还说："在耶和华的山上必有预备。"
 
-就在那一刻，好像有鳞片从我眼睛上掉下来。我又能看见了。但我看到的不再是从前的世界——我看到了一个全新的世界。**瞎眼的时候以为自己看得见，看见了才知道自己从前是瞎的。**
+弟兄姐妹，那一天我明白了两件事。
 
-我起来，受了洗。
+第一件：**神不要以撒，神要的是我的心。**
 
-## 恩典中的恩典
+神已经知道我会顺服，他在刀落之前就叫住了我。那整件事不是为了以撒的死，而是为了问我：你最深处爱的是什么？是以撒，还是赐给你以撒的那一位？
 
-弟兄姐妹，如果说整本圣经中有一个人最没有资格被神使用，那就是我。
+你爱神，还是爱神给你的礼物？
 
-我不是像彼得那样因为害怕而不认主——彼得至少还爱主。**我是主动地、系统地、狂热地逼迫基督的教会。** 我手上沾着圣徒的血。
+我发现，在摩利亚山上，那把刀刺穿的不是以撒，而是我心里那个把以撒放在神之上的偶像。
 
-但祂拣选了我。
+第二件：**神在那里预备了一只代替的羊羔。**
 
-不是因为我有什么好。不是因为我的学问——虽然我确实在迦玛列门下受过最好的训练。不是因为我的热心——那份热心差点让我成为永远的仇敌。
+那只羊扣在荆棘里，在我找到之前就已经在那里了。神预备了它，不是为了让我知道以后会顺利，而是为了让我看见一个预表——有一天，神自己的儿子，要像那只羊一样，被捆绑，被献上，来代替人类的死亡。
 
-**祂拣选我，恰恰是要在我这"罪人中的罪魁"身上，显明祂一切的忍耐。**
+以撒背着柴上山，那捆柴后来压在了另一个人身上——就是神的儿子背着十字架走上各各他。
 
-"基督耶稣降世，为要拯救罪人。这话是可信的，是十分可佩服的。在罪人中我是个罪魁。然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明祂一切的忍耐，给后来信祂得永生的人作榜样。"（提摩太前书 1:15-16）
+我的手举刀却被拦住；天父的儿子被钉上去，没有人拦住。
 
-你们听到了吗？**给后来的人作榜样。** 如果连扫罗都能被赦免，连逼迫教会的人都能成为使徒——**那么没有人是恩典够不到的。**
+"神既不爱惜自己的儿子，为我们众人舍了，岂不也把万物和他一同白白地赐给我们吗？"（罗马书8:32）
 
-## 我从前以为有益的
+那一天，在摩利亚山上，我举起了刀，我才看见神的心肠——是一位愿意为了爱而不保留自己儿子的父。
 
-腓立比书里我写过这么一段话。现在让我再说一遍：
+这就是福音。
 
-"只是我先前以为与我有益的，我现在因基督都当作有损的。不但如此，我也将万事当作有损的，因我以认识我主基督耶稣为至宝。我为他已经丢弃万事，看作粪土，为要得着基督。"（腓立比书 3:7-8）
+*你爱的弟兄，亚伯拉罕*`,
+    content_en: `My name was Abram. Later, God changed it to Abraham — father of a multitude.
 
-**粪土。**
+I want to tell you about one day — the darkest day and the brightest day of my life.
 
-我的法利赛人身份——粪土。我在迦玛列门下的学历——粪土。我无可指摘的律法记录——粪土。不是因为这些东西本身是坏的，而是因为**当你用这些东西来代替基督的时候，它们就变成了拦阻你认识神的障碍。**
+That day has a name: Moriah.
 
-我从前以为自己站在光明里，其实我站在黑暗中。那道光把我打倒，让我瞎了眼——但讽刺的是，**瞎了眼之后我才真正"看见"了。**
+---
 
-## 致每一个"虔诚的逼迫者"
+**The son I waited twenty-five years for**
 
-弟兄姐妹，如果你读到这里——
+If you are to understand that day, you must first understand what Isaac meant to me.
 
-也许你不像我那样逼迫教会。但也许你和我有一个共同的问题：**你以为自己的义可以救自己。**
+When God first called me, I was seventy-five. He promised I would become a great nation, with descendants as numerous as the stars and the dust. But Sarah had no children. We waited one year, then five, then ten. Sarah grew old and so did I; our bodies had long since lost the power to conceive — yet God's promise had not been fulfilled.
 
-也许你是一个很好的人。你守规矩，做善事，从不害人。你的履历拿出来，"无可指摘"。但你心里有没有那种平安？那种被锁链中的人唱出来的平安？
+At one point I trusted my own wisdom. I had my servant Hagar bear me a son, Ishmael, thinking this was the fulfillment of the promise. But God said: no.
 
-如果没有——也许你和大马色路上的扫罗一样，需要被那道光击倒一次。
+Twenty-five years later, I was a hundred years old. Sarah was ninety. Her ability to bear children had long been impossible. And then God did something utterly impossible in human terms: **Sarah became pregnant and gave birth to Isaac.**
 
-不要怕。**那道光不是来毁灭你的。那道光是来拯救你的。**
+Isaac means "laughter." Because when God announced this news, both of us laughed — not with joy but with that disbelieving, half-bitter laughter of "how could this possibly be?" We did not believe it, until Isaac was truly born.
 
-它会让你暂时看不见。它会把你所有的确信打碎。它会让你在黑暗中待上一阵子。但当鳞片从你眼睛上掉下来的时候，你会看到一个全新的世界——一个不需要你靠自己的义站立的世界，一个**被恩典托住的世界。**
+From that day, Isaac was my entire joy. He was the living evidence of God's faithfulness, the embodiment of the promise. Every time I looked at him, I saw that God was real.
 
-"你为什么逼迫我？"——也许今天，这个问题不是问你在逼迫谁，而是在问：**你在抗拒什么？**
+---
 
-你在抗拒承认自己不行吗？你在抗拒放下你的骄傲吗？你在抗拒那个比你所有的确信都更大的爱吗？
+**That morning**
 
-放下吧。像我一样，仆倒在那道光面前。
+When Isaac was perhaps in his early teens, God spoke to me in the night.
 
-然后你会听到祂叫你的名字。
+"Abraham!"
 
-*"然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明祂一切的忍耐，给后来信祂得永生的人作榜样。"（提摩太前书 1:16）*
+"Here I am."
 
-*愿那在大马色路上光照我的主，也光照你的心——你的弟兄，保罗*`,
-    content_en: `## I Am Saul — The Most Devout Persecutor
+"Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you."
 
-My name is Saul, of the tribe of Benjamin, a Pharisee among Pharisees.
+I do not know how long I lay there through that night.
 
-If you ask me who I was before, I can lay my credentials before you: "Circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless." (Philippians 3:5-6)
+People imagine that faith is an easy feeling — a voice in your heart saying "don't worry, God will protect you," and then everything becomes simple. It is not like that. Faith is not the absence of struggle. Faith is choosing obedience in the depths of the most agonizing struggle.
 
-Did you hear that? **Blameless.** I am not boasting. In those years studying under Gamaliel, I memorized the entire Torah, never broke a single commandment on the Sabbath, tithed down to the mint, dill, and cumin. Among the Pharisees, no one was more serious than I was.
+The first thing I recognized: this was God's voice. I had followed God for twenty-five years; I knew His voice. This was not a temptation, not a dream. It was God.
 
-But being serious was not enough. I wanted to **burn with zeal for God.**
+The second thing I could not silence: **but Isaac is the promised offspring. If Isaac dies, how can the promise be fulfilled?**
 
-When I first heard that a group of people were proclaiming a crucified Nazarene as the Messiah, my blood boiled. **The Messiah hung on a tree?** The Torah clearly states: "a hanged man is cursed by God" (Deuteronomy 21:23). These people were not preaching good news — they were blaspheming God!
+This question turned over and over in my mind through the whole night. The letter to the Hebrews says later that I found an answer: I believed that God was able even to raise him from the dead (Hebrews 11:19). God had promised that Isaac was the heir; God had commanded that Isaac be offered. If Isaac died, God would raise him back to life — because God does not contradict Himself.
 
-So when the Sanhedrin decided to stamp out this heresy, I was the first to volunteer.
+I do not know how much of that was faith and how much was fear when I believed it. But I rose. Early the very next morning, I rose.
 
-The day Stephen was stoned to death, I was there. I did not throw the stones myself — I guarded the garments of those who did. I watched him kneel. I watched the stones strike him one by one. His face was covered in blood, but his face —
+---
 
-Brothers and sisters, I do not like to admit this, but that day I saw a face I have never been able to forget. **His face was like the face of an angel.** As he was dying, he said, "Lord, do not hold this sin against them!" (Acts 7:60)
+**Three days on the road**
 
-A man being stoned to death was praying for the men killing him.
+I split the wood, took two servants and Isaac, and set out for Moriah.
 
-I pushed that thought down. I told myself: this is the devil's deception. The more something looks like an angel, the more dangerous it is.
+Three days on the road.
 
-So I persecuted even more furiously.
+Three days. Imagine those three days. Isaac walked beside me the whole way, completely unaware of what was coming. He must have been talking with me, asking questions, running ahead and laughing. And every moment I knew: I am going to kill him.
 
-I went house to house. Men and women alike, I dragged them off to prison. I threatened them, demanding they deny that name. Some did deny it — I saw the shame and agony in their eyes. Some refused — I saw in their eyes a peace, a peace that I could never possess no matter how hard I tried.
+How I walked through those three days, I cannot fully explain. I only know that every step was held by one conviction: God will provide.
 
-**I hated that peace.** Because I did not have it.
+On the third day, I lifted up my eyes and saw the place in the distance.
 
-I thought I did. I thought keeping the law and burning with zeal was peace. But every time I saw those I had arrested singing hymns of praise in chains, a voice inside me whispered: **They have something you do not.**
+I said to my servants: "Stay here with the donkey; I and the boy will go over there and worship and come again to you."
 
-I pushed that voice down deeper.
+"Come again to you" — I said we, not I. I said we would return, Isaac and I together. Whatever was going to happen, Isaac would come back. I believed it.
 
-## On the Road to Damascus
+---
 
-Jerusalem was not enough. I heard that there were followers of the Way in Damascus too, so I went to the high priest for letters of authority to bring them back in chains.
+**Father, where is the lamb?**
 
-It was a long journey, about six days. The whole way I was planning how I would interrogate them, how I would convict them. My heart was full of righteous anger — or so I thought.
+Isaac carried the wood on his back. I carried the fire and the knife. The two of us walked together.
 
-**Then the light came.**
+Isaac said: "Father!"
 
-Brothers and sisters, I cannot describe that light with words. The noonday sun was already blazing, but that light was brighter than the sun. It did not come from one direction — it **shone all around me**. As if the entire sky had torn open and all its light poured down.
+I said: "Here I am, my son."
 
-I fell to the ground.
+"Behold, the fire and the wood, but where is the lamb for a burnt offering?"
 
-Then I heard the voice:
+Brothers and sisters, I cannot tell you what I felt in that moment. My son — the son I waited twenty-five years for — looking up at me with those innocent eyes and asking: where is the lamb?
 
-**"Saul, Saul, why are you persecuting me?"**
+I said: "God will provide for himself the lamb for a burnt offering, my son."
 
-He called my name. Twice.
+When I said those words, I did not know whether they would prove true. I simply compressed everything I had into that one sentence.
 
-I lay on the ground, trembling. I asked, "Who are you, Lord?"
+They came to the place God had shown him. Abraham built the altar, arranged the wood, bound Isaac his son, and laid him on the altar on top of the wood. Then Abraham reached out his hand and took the knife to slaughter his son.
 
-I already knew. The instant that light struck me, all my certainties shattered — my knowledge of the law, my Pharisee credentials, my zeal, my righteousness — all of it crumbled to dust. **Because if this light was from heaven, if this voice was the voice of God, then I had not been persecuting heretics. I had been —**
+**The knife did not fall.**
 
-**"I am Jesus, whom you are persecuting."**
+The angel of the LORD called to him from heaven: "Abraham, Abraham!"
 
-The crucified Nazarene. The one I had declared cursed by God. The one whose name I had fought with all my strength to wipe from the earth.
+And I said: "Here I am."
 
-**He is Lord.**
+"Do not lay your hand on the boy or do anything to him, for now I know that you fear God, seeing you have not withheld your son, your only son, from me."
 
-Brothers and sisters, can you imagine what I felt in that moment? It was not an epiphany. It was the **ground giving way beneath me**. Everything I had ever done — my devotion, my zeal, everything I took pride in — was not merely worthless. It was aimed in **exactly the wrong direction**. I thought I was serving God. In truth, I was **persecuting God.**
+I lifted my eyes and looked, and behold, behind me was a ram caught in a thicket by his horns. I went and took the ram and offered it as a burnt offering instead of my son.
 
-I was the most devout sinner in the world.
+---
 
-## Three Days of Darkness
+**The name of that place**
 
-After the light, my eyes were blind.
+I called the name of that place, "The LORD will provide." As it is said to this day, "On the mount of the LORD it shall be provided."
 
-My companions led me by the hand into Damascus. For three days and three nights I could see nothing. I neither ate nor drank.
+Brothers and sisters, on that day I understood two things.
 
-Do you know what I was thinking during those three days?
+The first: **God did not want Isaac. God wanted my heart.**
 
-I thought of Stephen's face. I thought of every person I had dragged to prison with my own hands. I thought of those who had died because of my persecution. Their names — every one — echoed in my mind.
+God already knew I would obey — He stopped me before the knife fell. The whole thing was not about Isaac dying. It was about asking me: what do you love most? Isaac, or the One who gave you Isaac?
 
-**I had been persecuting Jesus. Every believer was part of His body. When I struck them, I struck Him. When I bound them, I bound Him.**
+Do you love God, or do you love God's gifts?
 
-In three days of darkness, I finally understood one thing: **the law can reveal sin, but the law cannot save.** I had spent my whole life keeping the law, and all it had done was show me how hopeless I truly was. "For by works of the law no human being will be justified in his sight" (Romans 3:20).
+I discovered, on Mount Moriah, that the knife did not pierce Isaac. It pierced the idol in my heart — the place where I had set Isaac above God.
 
-I also understood something else: **He did not strike me dead.**
+The second: **God provided a substitute lamb.**
 
-That light could have reduced me to ash. After all I had done, I deserved destruction a thousand times over. But He did not. **He asked me "Why are you persecuting me?" — that was not a sentence of judgment. It was a father's question to a prodigal son.**
+That ram was caught in the thicket before I found it. God had put it there already. He provided it — not to reassure me that everything would go smoothly from then on, but to show me a foreshadowing. One day, God's own Son would be bound like that ram, offered up, to take the place of humanity's death.
 
-## Ananias Came
+Isaac carried the wood up the mountain; that wood was later laid on another man's shoulders — the Son of God, carrying the cross up to Golgotha.
 
-On the third day, a disciple named Ananias came.
+My hand raised the knife but was stopped; the Father's Son was nailed to the wood, and no one stopped it.
 
-I later learned that the Lord had told him in a vision: Go to the street called Straight, and find a man from Tarsus named Saul. Ananias said, "Lord, I have heard from many about this man, how much evil he has done to your saints at Jerusalem" (Acts 9:13).
+"He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?" (Romans 8:32)
 
-Brothers and sisters, think about it — if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
+That day, on Mount Moriah, I raised the knife — and only then did I see the heart of God: a Father willing, out of love, to give even His own Son without holding back.
 
-**Ananias went.**
+That is the gospel.
 
-He came in, placed his hands on me, and said a sentence that brought me to tears:
-
-**"Brother Saul."**
-
-Brother. He called me **brother.**
-
-This man — the very man I had come to Damascus to arrest — called me brother.
-
-"The Lord Jesus who appeared to you on the road by which you came has sent me so that you may regain your sight and be filled with the Holy Spirit" (Acts 9:17).
-
-In that moment, something like scales fell from my eyes. I could see again. But what I saw was no longer the world I had known — I saw an entirely new world. **When I was blind, I thought I could see. Only when I could see did I realize I had been blind all along.**
-
-I rose and was baptized.
-
-## Grace Upon Grace
-
-Brothers and sisters, if there is one person in all of Scripture least qualified to be used by God, it is I.
-
-I am not like Peter, who denied the Lord out of fear — Peter at least loved the Lord. **I actively, systematically, and zealously persecuted the church of Christ.** My hands were stained with the blood of saints.
-
-Yet He chose me.
-
-Not because of any good in me. Not because of my learning — though I was indeed trained under the finest teacher, Gamaliel. Not because of my zeal — that very zeal nearly made me an eternal enemy.
-
-**He chose me precisely to display all His patience in me, the foremost of sinners.**
-
-"The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life" (1 Timothy 1:15-16).
-
-Did you hear that? **As an example to those who would come after.** If even Saul could be forgiven, if even a persecutor of the church could become an apostle — **then no one is beyond the reach of grace.**
-
-## What I Once Counted as Gain
-
-In my letter to the Philippians, I wrote these words. Let me say them again now:
-
-"But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ" (Philippians 3:7-8).
-
-**Rubbish.**
-
-My Pharisee credentials — rubbish. My education under Gamaliel — rubbish. My blameless record under the law — rubbish. Not because these things were bad in themselves, but because **when you use them as substitutes for Christ, they become the very barriers that keep you from knowing God.**
-
-I once thought I stood in the light. In truth, I stood in darkness. That light knocked me down and blinded me — but the irony is, **only after I was blinded did I truly "see."**
-
-## To Every "Devout Persecutor"
-
-Brothers and sisters, if you are reading this —
-
-Perhaps you do not persecute the church as I did. But perhaps you and I share a common problem: **you believe your own righteousness can save you.**
-
-Perhaps you are a very good person. You follow the rules, do good deeds, never harm anyone. Your record, laid out for inspection, is "blameless." But do you have that peace in your heart? The peace that was sung by people in chains?
-
-If not — perhaps, like Saul on the road to Damascus, you need to be struck down by that light.
-
-Do not be afraid. **That light does not come to destroy you. It comes to save you.**
-
-It will blind you for a time. It will shatter all your certainties. It will leave you sitting in darkness for a while. But when the scales fall from your eyes, you will see a brand new world — a world where you no longer need to stand on your own righteousness, a world **upheld entirely by grace.**
-
-"Why are you persecuting me?" — perhaps today, the question is not about who you are persecuting, but about this: **What are you resisting?**
-
-Are you resisting the admission that you cannot do it on your own? Are you resisting laying down your pride? Are you resisting a love greater than all your certainties?
-
-Let go. Like me, fall down before that light.
-
-And then you will hear Him call your name.
-
-*"But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life." (1 Timothy 1:16)*
-
-*May the Lord who shone His light on me on the Damascus road also shine His light into your heart — your brother, Paul*`,
+*Your brother in faith, Abraham*`,
   },
   {
     id: 'david-psalm51',

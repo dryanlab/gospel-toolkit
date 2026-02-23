@@ -149,7 +149,7 @@ export default function ShareBar({ url, title, summary, scripture, emoji = '📜
     const allThemes = {
       parchment: {
         letter:  { bg1: '#d4b896', bg2: '#c4a478', accent: '#5a2d0c', accent2: '#6b3510', text: '#1a0e06', sub: '#2e1a0c', label: '圣徒来信', glow: '#b89060', border: '#8a6840', light: true },
-        reading: { bg1: '#b8ccb0', bg2: '#a0b898', accent: '#1a3e16', accent2: '#245a1e', text: '#0a1a08', sub: '#142e10', label: '圣徒伴读', glow: '#6a9a5a', border: '#6a8a60', light: true },
+        reading: { bg1: '#d4c8a8', bg2: '#c0b090', accent: '#3a2810', accent2: '#4a3418', text: '#1a0e06', sub: '#2e1a0c', label: '圣徒伴读', glow: '#b89060', border: '#8a7850', light: true },
         altar:   { bg1: '#ccb8cc', bg2: '#b8a0b8', accent: '#3e1a3e', accent2: '#502650', text: '#1a0e1a', sub: '#2e142e', label: '家庭祭坛', glow: '#9a6a9a', border: '#8a688a', light: true },
         default: { bg1: '#d4b896', bg2: '#c4a478', accent: '#5a2d0c', accent2: '#6b3510', text: '#1a0e06', sub: '#2e1a0c', label: '真理磐石', glow: '#b89060', border: '#8a6840', light: true },
       },
@@ -350,10 +350,14 @@ export default function ShareBar({ url, title, summary, scripture, emoji = '📜
   useEffect(() => {
     if (wechatMode === 'moments') {
       setCardReady(false);
-      const timer = setTimeout(generateCard, 30);
+      setCardUrl('');
+      const timer = setTimeout(() => {
+        generateCard();
+      }, 50);
       return () => clearTimeout(timer);
     }
-  }, [cardTheme, wechatMode, generateCard]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [cardTheme]);
 
   const saveCard = async () => {
     if (!cardUrl) return;

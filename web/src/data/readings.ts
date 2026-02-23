@@ -1187,60 +1187,587 @@ readings.push({
   publishDate: '2026-03-02',
   title: '巴别塔', titleEn: 'The Tower of Babel',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 11:1 / Genesis 11:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 11:1-9 / Genesis 11:1-9',
+  content_zh: `弟兄姐妹，第十一章是一扇门。
+
+进门之前，你看到的是洪水之后的世界——人类重新繁衍，遍布大地。进门之后，你将看到亚伯拉罕，神救赎计划的新起点。但在这两者之间，有一段插曲，叫做巴别。
+
+那时"天下人的口音、言语都是一样的"。人们聚集在示拿地，说："来，我们要建造一座城和一座塔，塔顶通天，为要传扬我们的名，免得我们分散在全地上。"
+
+你听出来了吗？这里有三个"我们"，有一个"塔顶通天"，但整段话里，**没有神**。
+
+这就是罪最典型的面目——不是恶贯满盈，而是把神排在括号外面。
+
+我想带你仔细看这句话："为要传扬我们的名。"
+
+这让我想起神呼召亚伯拉罕时说的话——就在下一章：**"我必使你的名为大。"** 人在巴别要自己建塔来扬名，神在亚伯拉罕那里白白赐名。这是两种生命之道的对比：一种是抓取，一种是领受；一种是自力，一种是恩典。
+
+你注意那座塔的设计目标："塔顶通天。"
+
+古代的人相信神住在高山之上，所以他们建造人工山——叫做"金字形神塔"（ziggurat）。这不是要爬到天上去碰神的脸，而是要**在地上建造一个神可以下来居住的房子**，同时也是彰显这座城市权力和荣耀的地标。
+
+换句话说，他们要**驯化神，把神变成自己城市的守护神**。
+
+这是人类历史上一个反复出现的冲动——不是要消灭神，而是要**利用神，把神变成自己目的的工具**。今天许多人拜神，不也是这个逻辑吗？我把神请进我的生活，我的生意会更好、我的孩子会更顺、我的日子会更安稳——神是我的护身符，神是我的工具。
+
+但真正的神，不肯住在人手所造的庙里，不肯被人当工具使。
+
+然后你看神的反应，原文极有意思。人说"来，我们建造"；神说"来，我们下去"。人说"塔顶通天"；圣经说"耶和华降临，要看看世人所建造的城和塔"。
+
+你看见那个反差吗？**人以为自己建了一座通天塔，神却要俯身"降临"才能看见它。**
+
+然后神变乱了他们的口音，把他们分散在全地上。城就停工了。
+
+这是惩罚，但这也是怜悯。
+
+如果神任由人这样做下去，后果将会是什么？人类集体的骄傲、集体的自力更生、集体把神排除在外——历史一再证明，这条路通向毁灭。神打断这个工程，是在**阻止一场更大的灾难**。
+
+"巴别"这个名字，在希伯来文里意思是"变乱"。那里原来叫"巴比伦"，意思是"神的门"——多么讽刺。人要建神的门，结果建出了变乱。
+
+但故事还没完。
+
+你翻到使徒行传第二章，五旬节，圣灵降临。那里有一件奇事：门徒开口说话，各地来的人都用自己的方言听到了。帕提亚人、玛代人、以拦人、美索不达米亚人……一一列举，好像是在刻意还原巴别散去的名单。
+
+**五旬节是巴别的反转。** 巴别是语言变乱、人心分散；五旬节是语言被圣灵统一、人心被福音聚拢。建造巴别塔的是人的骄傲；建造神教会的，是圣灵的作为。
+
+人用砖，神用基督的身体；人建为自己扬名，神建为神的荣耀；人的工程土崩瓦解，神的教会永不败坏。
+
+"我要把我的教会建造在这磐石上，阴间的门不能胜过它。"（马太福音16:18）
+
+这座塔，永远不会停工。`,
+  content_en: `Brothers and sisters, chapter eleven is a doorway.
+
+Before this door, you see the world after the flood — humanity multiplying and spreading across the earth. Beyond this door, you will meet Abraham, the new starting point of God's redemptive plan. But between these two stands an interlude called Babel.
+
+At that time, "the whole earth had one language and the same words." The people gathered on the plain of Shinar and said: "Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole earth."
+
+Do you hear it? Three times "let us," one "top in the heavens" — and through the whole speech, **no God**.
+
+This is the most typical face of sin — not outrageous evil, but simply placing God in parentheses.
+
+Look carefully at those words: "let us make a name for ourselves."
+
+This immediately reminds me of what God says when he calls Abraham — in the very next chapter: **"I will make your name great."** At Babel, humanity scrambles to build a tower to make a name for themselves; with Abraham, God freely gives a great name as a gift. Two ways of life stand in contrast: one grasps, one receives; one trusts in self, one trusts in grace.
+
+Notice the tower's design goal: "its top in the heavens."
+
+Ancient peoples believed the gods dwelt on high mountains, so they built artificial mountains — what archaeologists call "ziggurats." This was not about literally climbing up to touch God's face. It was about **building a house on earth where the gods could descend and dwell** — and simultaneously, a landmark displaying the city's power and glory.
+
+In other words, they wanted to **domesticate God, to turn God into their city's patron deity**.
+
+This is an impulse that recurs throughout human history — not to eliminate God, but to **use God, to turn God into a tool for human purposes**. Is this not how many people worship today? I invite God into my life so my business will prosper, my children will succeed, my days will be secure — God as talisman, God as utility.
+
+But the true God will not dwell in a house made by human hands, and will not be anyone's tool.
+
+Then see God's response. The original text is striking. The people say "Come, let us build"; God says "Come, let us go down." The people say "top in the heavens"; Scripture says "the LORD came down to see the city and the tower."
+
+Do you see the contrast? **The people thought they had built a tower reaching heaven, yet God had to "come down" just to see it.**
+
+Then God confused their languages and scattered them across the earth. The city stopped.
+
+This is judgment — but it is also mercy.
+
+If God had let them continue, where would it have led? Collective human pride, collective self-sufficiency, collective exclusion of God — history has shown repeatedly that this road leads to destruction. God interrupting the project was **preventing a far greater catastrophe**.
+
+"Babel" in Hebrew sounds like the word for "confusion." The city was originally called "Babylon," meaning "gate of God" — what bitter irony. People tried to build the gate of God and produced only confusion.
+
+But the story is not finished.
+
+Turn to Acts chapter two — Pentecost, the Holy Spirit descending. Something remarkable happens there: the disciples speak and people from every nation hear in their own language. Parthians, Medes, Elamites, residents of Mesopotamia — listed one by one, as if deliberately reversing the list of those scattered from Babel.
+
+**Pentecost is Babel reversed.** Babel brought confusion of languages and the scattering of hearts; Pentecost brings unity through the Spirit and the gathering of hearts through the gospel. Babel was built by human pride; the church is built by the Spirit's work.
+
+Humans used bricks; God uses the body of Christ. Humans built to make their own name great; God builds for His glory. Human projects crumble; God's church will never fail.
+
+"I will build my church, and the gates of hell shall not prevail against it." (Matthew 16:18)
+
+This tower will never stop being built.`,
+  historyContext_zh: `示拿平原即今日伊拉克境内的美索不达米亚平原。考古发现了多座古代"金字形神塔"（ziggurat），是苏美尔和巴比伦文明的宗教建筑，与圣经记载高度吻合。"巴别"音译自"巴比伦"，在希伯来文中被谐音为"变乱"。本章是创世记原史（1-11章）的最后一段，连接着挪亚后裔谱系，为亚伯拉罕的出场做铺垫。`,
+  historyContext_en: `The plain of Shinar corresponds to modern-day Mesopotamia in Iraq. Archaeological discoveries of multiple ancient ziggurats — the religious towers of Sumerian and Babylonian civilization — closely match the biblical account. "Babel" is a Hebrew pun on "Babylon," reinterpreted to mean "confusion." This chapter is the final episode of Genesis's primeval history (chapters 1–11), connecting the genealogy of Noah's descendants and setting the stage for Abraham's appearance.`,
+  structure_zh: `全章分两部分：1-9节是巴别塔事件，10-32节是闪的后裔谱系（特别标出亚伯兰一家的迁徙路线）。谱系不是装饰，是神视角的历史线索——在万族分散中，神在追踪一个特定的族谱，为应许的实现做预备。`,
+  structure_en: `The chapter divides into two parts: verses 1–9, the Tower of Babel episode; verses 10–32, the genealogy of Shem (tracing the migration route of Abram's family). The genealogy is not decoration — it is God's historical thread. Amid the scattering of nations, God is tracking a specific lineage, preparing for the fulfillment of His promise.`,
+  theology_zh: `人的骄傲是离神的核心；建塔象征人用集体力量自救/扬名；神变乱语言是审判也是怜悯（阻止更深的堕落）；民族分散是神治理历史的方式，为后来的救赎预备土壤。改革宗神学强调：罪不只是个人的，也是集体的、结构性的。`,
+  theology_en: `Human pride is at the core of departure from God; the tower symbolizes humanity's collective effort at self-rescue and self-glorification; God confusing the languages is both judgment and mercy (arresting deeper moral collapse); the scattering of nations is God's governance of history, preparing the soil for future redemption. Reformed theology emphasizes that sin is not only personal but also collective and structural.`,
+  christShadow_zh: `五旬节圣灵降临（使徒行传2章）是巴别的神圣逆转：语言不再变乱，而是超越语言的合一；教会是神亲自建造的"新巴别塔"，但这座塔的材料不是砖和沥青，而是基督的宝血和圣灵的工作。"叫世上各国各族各民各方的人"同唱一首新歌——启示录5:9。`,
+  christShadow_en: `The descent of the Holy Spirit at Pentecost (Acts 2) is the divine reversal of Babel: language is no longer confused but transcended in unity. The church is the new "tower" God builds — but its materials are not brick and bitumen; they are the blood of Christ and the work of the Holy Spirit. "Every tribe and language and people and nation" will sing a new song together (Revelation 5:9).`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 12,
   publishDate: '2026-03-03',
-  title: '蒙召', titleEn: 'The Call of Abram',
+  title: '蒙召', titleEn: 'Called Out',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 12:1 / Genesis 12:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 12:1-20 / Genesis 12:1-20',
+  content_zh: `弟兄姐妹，第十二章是一道新的光。
+
+巴别之后，全地分散，万族离神越来越远。黑暗好像越来越厚。然后神说话了——不是向全人类，而是向一个特定的人，一个住在迦勒底的吾珥、后来迁到哈兰的老人：**亚伯兰**。
+
+"你要离开本地、本族、父家，往我所要指示你的地去。"
+
+这一句话，改变了历史的走向。
+
+我要请你注意神怎么呼召亚伯兰的。
+
+神说："往我所要指示你的地去。"——不是"往某某地去"，而是"我要指示你的地"。也就是说，**目的地没有提前告诉他**。亚伯兰要上路，但他不知道要去哪里。使徒书信后来说他是"出去的时候，还不知往哪里去"（希伯来书11:8）。
+
+你想想这需要多大的信心。
+
+亚伯兰当时已经七十五岁了。他在哈兰有房子、有家业、有亲族。神叫他离开的，是三件事：本地、本族、父家——这正是古代世界一个人全部的安全感、身份认同和社会支撑。神叫他放下的，是他所有的根。
+
+而且撒拉没有生育，他没有儿子。
+
+但神紧接着说了三重应许：
+
+**"我必叫你成为大国，我必赐福给你，叫你的名为大。"**——你必有后裔，你必有名，你必有土地。
+
+**"你也要叫别人得福。"**——你的存在将是别人的祝福，不是障碍。
+
+**"地上的万族都要因你得福。"**——这个应许的范围扩到了全地，扩到了全人类。
+
+这第三重应许，是整本圣经里最重要的伏笔之一。**"地上的万族"。** 不是以色列，不是亚伯兰的后裔，而是地上的万族——所有民族，所有人。神在这里已经预告了：拯救不会只限于一个民族，福音要流向天下。
+
+保罗在加拉太书3:8里直接说：**这就是预先传给亚伯拉罕的福音。** "地上万族因你得福"，这句话就是福音的预告，在创世记十二章就已经说出来了，比摩西律法早了四百多年。
+
+然后你看亚伯兰的回应：**"亚伯兰就照着耶和华的吩咐去了。"**
+
+没有讨价还价，没有反复询问，没有要求先看到证据。他起来，带着撒拉和侄儿罗得，带着所有的财物和在哈兰所得的人口，出发了。
+
+信心不是感觉确定之后才迈步，信心是在不确定中仍然迈步。
+
+亚伯兰到了迦南地。神向他显现，说："我要把这地赐给你的后裔。"亚伯兰在那里为向他显现的耶和华筑了一座坛。他们继续前进，在伯特利东边的山，又筑了一座坛，求告耶和华的名。
+
+**每到一处，筑一座坛。**
+
+我在旷野四十年，带着以色列人走路，我太懂这意味着什么了。旷野里，祭坛是你的定锚；旷野里，祭坛是你对神说"我在这里，你也在这里"的方式。亚伯兰不是在征服迦南，他是在圣化迦南——把这片陌生的土地，一座坛一座坛地，献给耶和华。
+
+然后发生了一件让人有点困惑的事：饥荒来了，亚伯兰去了埃及，叫撒拉谎称是他的妹妹，害怕埃及人因为撒拉的美貌而杀他。
+
+这是信心的软弱，要承认的。那个出迦南时百般顺服的亚伯兰，在饥荒面前撑不住了，用谎言来保护自己，却把妻子推入险境。
+
+但神没有丢弃他。神降大灾在法老和他的家里，法老把撒拉还给了他。
+
+弟兄姐妹，亚伯兰的故事告诉我们：神的呼召不是因为我们完美，神的拣选不是因为我们配得。他呼召软弱的人，他拣选会跌倒的人，然后他在他们的软弱中彰显他的信实。
+
+神的应许不靠亚伯兰的表现来兑现，神的应许靠神自己来兑现。这就是恩典。`,
+  content_en: `Brothers and sisters, chapter twelve is a new light breaking through.
+
+After Babel, the nations had scattered and drifted further and further from God. The darkness seemed to thicken. Then God spoke — not to all of humanity, but to one specific man: an old man living in Ur of the Chaldeans, later resettled in Haran. **Abram.**
+
+"Go from your country and your kindred and your father's house to the land that I will show you."
+
+That one sentence changed the direction of history.
+
+I want you to notice how God calls Abram.
+
+God says, "to the land that I will show you" — not "to such-and-such land," but "the land I will show you." The destination is not revealed in advance. Abram must set out without knowing where he is going. The letter to the Hebrews later says that "he went out, not knowing where he was going" (Hebrews 11:8).
+
+Think about how much faith that requires.
+
+Abram was seventy-five years old. He had a house in Haran, a livelihood, kinsmen all around him. What God asked him to leave behind was threefold: his country, his kindred, his father's house — these were everything a person in the ancient world had for security, identity, and social belonging. God called him to lay down all his roots.
+
+And Sarai had given him no children. He had no son.
+
+Yet immediately God spoke three layers of promise:
+
+**"I will make of you a great nation, and I will bless you and make your name great."** — You will have descendants; you will have a name; you will have a land.
+
+**"So that you will be a blessing."** — Your existence will be a blessing to others, not a burden.
+
+**"In you all the families of the earth shall be blessed."** — The scope expands to all the earth, to all of humanity.
+
+That third promise is one of the most important foreshadowings in all of Scripture. **"All the families of the earth."** Not Israel. Not Abram's descendants alone — all the families of the earth. Every nation, every people. God was already announcing here: salvation will not be confined to one people; the gospel will flow to all the world.
+
+Paul says in Galatians 3:8 directly: **this is "the gospel preached beforehand to Abraham."** The words "in you all the nations shall be blessed" — that sentence is the advance proclamation of the gospel, spoken in Genesis chapter twelve, more than four hundred years before the Law of Moses.
+
+Then look at Abram's response: **"So Abram went, as the LORD had told him."**
+
+No bargaining. No repeated questioning. No demand to see evidence first. He rose, took Sarai and his nephew Lot, took all his possessions and the people he had gathered in Haran, and departed.
+
+Faith is not waiting until you feel certain before taking a step. Faith is taking the step despite the uncertainty.
+
+Abram arrived in Canaan. The LORD appeared to him and said, "To your offspring I will give this land." Abram built an altar there to the LORD who had appeared to him. They continued on, and between Bethel and Ai he built another altar and called upon the name of the LORD.
+
+**At every place he stopped, he built an altar.**
+
+I spent forty years in the wilderness, walking with the people of Israel — I understand what this means. In the wilderness, an altar is your anchor. An altar is how you say to God: "I am here, and you are here." Abram was not conquering Canaan; he was consecrating it — dedicating this foreign land, altar by altar, to the LORD.
+
+Then something slightly troubling happens: famine struck, and Abram went down to Egypt. He told Sarai to say she was his sister, fearing the Egyptians would kill him for the sake of her beauty.
+
+This is a failure of faith — we must name it honestly. The Abram who had been so obedient on the journey to Canaan could not hold steady in the face of famine. He used deception to protect himself, while pushing his wife into danger.
+
+But God did not abandon him. God afflicted Pharaoh and his household with great plagues; Pharaoh returned Sarai to him.
+
+Brothers and sisters, Abram's story tells us this: God's calling is not because we are perfect; God's election is not because we deserve it. He calls the weak; He chooses those who will stumble — and then He displays His faithfulness through their weakness.
+
+God's promises are not fulfilled on the basis of Abram's performance. They are fulfilled on the basis of God Himself. That is grace.`,
+  historyContext_zh: `迦勒底的吾珥是当时中东最发达的城市之一，出土文物显示其文明高度发达。亚伯拉罕的呼召发生在公元前2100-2000年左右，属于中青铜时代。饥荒时下埃及避难是当时游牧民族的常见做法，有古埃及文献记载。亚伯兰经过的地点（示剑、伯特利、艾城之间）在后来以色列历史中反复出现，具有重要象征意义。`,
+  historyContext_en: `Ur of the Chaldeans was one of the most advanced cities in the ancient Near East; archaeological finds reveal its high level of civilization. Abraham's call occurred around 2100–2000 BC, in the Middle Bronze Age. Seeking refuge in Egypt during famine was a common practice for seminomadic peoples, documented in ancient Egyptian records. The sites Abram passes through — Shechem, and the area between Bethel and Ai — recur repeatedly in later Israelite history and carry deep symbolic resonance.`,
+  structure_zh: `三重结构：蒙召与应许（1-9节）→ 信心软弱在埃及（10-20节）。应许是三层递进：个人（大国、大名）→ 关系性（叫别人得福）→ 普世（万族因你得福）。筑坛（7、8节）与撒谎（13节）形成鲜明对比，展示信心的真实面貌——不是完美无瑕，而是跌倒中仍被神保守。`,
+  structure_en: `Three-part structure: the call and the promises (vv. 1–9) → failure of faith in Egypt (vv. 10–20). The promises are three concentric circles: personal (great nation, great name) → relational (a blessing to others) → universal (all families of the earth blessed). The altar-building (vv. 7, 8) and the deception (v. 13) form a sharp contrast, showing what faith really looks like — not flawless, but preserved by God even through falling.`,
+  theology_zh: `神的主权呼召先于人的回应；信心是在不确定中的顺服；应许是无条件的（神应许，不附加亚伯兰的表现条件）；神在软弱者身上彰显恩典；普世宣教的根基早在创世记十二章就已奠定——改革宗神学称之为"亚伯拉罕之约"，是恩典之约的核心。`,
+  theology_en: `God's sovereign call precedes human response; faith is obedience in uncertainty; the promises are unconditional (God promises without making Abram's obedience a condition); God displays grace through the weak; the foundation of world mission was already laid in Genesis 12 — what Reformed theology calls the "Abrahamic Covenant," the heart of the covenant of grace.`,
+  christShadow_zh: `"地上的万族都要因你得福"（创12:3）——保罗明确说这就是"预先传给亚伯拉罕的福音"（加拉太书3:8）。那个"后裔"，单数，就是基督（加3:16）。神在十二章里播下的种子，在基督身上结出了果实：真正的大国，是来自万族的教会；真正的大名，是超乎万名之上的名（腓立比书2:9）；真正的万族得福，是因基督的赎罪。`,
+  christShadow_en: `"In you all the families of the earth shall be blessed" (Gen 12:3) — Paul explicitly calls this "the gospel preached beforehand to Abraham" (Galatians 3:8). That "offspring" is singular — it is Christ (Galatians 3:16). The seed planted in chapter twelve bore fruit in Christ: the true great nation is the church gathered from every people; the truly great name is the name above every name (Philippians 2:9); the true blessing of all nations comes through Christ's atoning sacrifice.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 13,
   publishDate: '2026-03-04',
-  title: '分离', titleEn: 'Abram and Lot Separate',
+  title: '分离', titleEn: 'The Parting of Ways',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 13:1 / Genesis 13:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 13:1-18 / Genesis 13:1-18',
+  content_zh: `弟兄姐妹，有时候人与人之间不得不分离，不是因为仇恨，而是因为同行不下去了。
+
+亚伯兰和他的侄儿罗得从埃及回来，财物极多，牛羊成群，帐篷无数，两人的牧人开始为草场和水源发生争竞。圣经说："那地容不下他们，因为他们的财物甚多，使他们不能同居。"
+
+不是罪，是现实。但现实需要智慧来处理。
+
+然后亚伯兰说了一段在我看来极为美丽的话。
+
+"你我不可相争，你的牧人和我的牧人也不可相争，因为我们是骨肉（原文：兄弟）。遍地不都在你眼前吗？请你离开我：你向左，我就向右；你向右，我就向左。"
+
+在古代世界，长者有优先选择权。亚伯兰是叔叔，又是年长者，按照当时的习俗，**他本可以先选的**。
+
+但他没有。他把选择权给了罗得。
+
+这是什么精神？这是一个人不紧抓自己的权利，不计算自己的利益，宁可自己吃亏也不让关系破裂的精神。保罗后来写道："各人不要单顾自己的事，也要顾别人的事"（腓立比书2:4）。亚伯兰早就活出来了。
+
+罗得举目一看——他"举目"，是圣经里一个值得注意的动作——"见约旦河的全平原，直到琐珥，都是滋润的，那地在耶和华未灭所多玛、蛾摩拉以先，如同耶和华的园子，也像埃及地。"
+
+你看到这里有多少预警信号吗？
+
+"如同耶和华的园子"——伊甸园？但伊甸园已经失去了。"像埃及地"——他们刚从埃及回来，那里差点发生了灾难。而且圣经特意注明："在耶和华未灭所多玛、蛾摩拉以先"——提醒你，这个地方将来会被毁灭。
+
+罗得选了最好看的地，向东迁移，"各人分开了"。罗得"渐渐挪移帐篷，直到所多玛"。
+
+一步一步，向所多玛走近。圣经说那里的人"罪大恶极，得罪了耶和华"。但罗得看到的是滋润的平原，不是罪恶的城市。
+
+人常常是这样的——我们看见眼前利益的时候，不容易看见潜在的危险。我们举目，看见的是滋润，却没有看见那片滋润背后的腐败。
+
+罗得离开之后，神对亚伯兰说话了。
+
+"从你所在的地方，你举目向东西南北观看。"——这里神也让亚伯兰"举目"，但亚伯兰举目，看的是神要赐给他的应许，不是自己要选择的最佳位置。
+
+"你所看见的一切地，我都要赐给你和你的后裔，直到永远。我也要使你的后裔如同地上的尘沙那样多，人若能数算地上的尘沙，才能数算你的后裔。"
+
+亚伯兰让出了优先选择权，神就把全部都给了他。罗得选了最好看的地，却也只得了那块地；亚伯兰什么都不争，神把天下都应许给他。
+
+这不是因果报应的逻辑，这是恩典的逻辑。**让出的，神来补满。**
+
+"你起来，纵横走遍这地，因为我必把这地赐给你。"
+
+于是亚伯兰移居，来到希伯仑的幔利橡树那里居住，在那里为耶和华筑了一座坛。
+
+希伯仑。这个地方后来将是多么重要——亚伯拉罕、以撒、雅各都埋葬在这里，以色列的先祖都在这里安息。大卫在成为以色列全国之王之前，先在希伯仑作了七年的王。
+
+又是一座坛。在每一个他落脚的地方，亚伯兰都在说：**这里属于耶和华。**
+
+弟兄姐妹，这一章教导我们：信心有时候表现为舍得。
+
+舍得放弃优先选择权，舍得相信神会预备，舍得在眼前的利益和长远的应许之间，选择应许。罗得选了眼前能看见的，亚伯兰选了神应许的。结果，历史记住的是亚伯兰，被称为信心之父的是亚伯兰，在神的救赎计划中被使用的是亚伯兰。
+
+不是因为他更聪明，而是因为他信神。`,
+  content_en: `Brothers and sisters, sometimes people must part — not from hatred, but because they can no longer walk together.
+
+Abram and his nephew Lot returned from Egypt with great wealth: vast herds, flocks, and tents. Their herdsmen began to quarrel over pastureland and water. Scripture says: "the land could not support both of them dwelling together, for their possessions were so great."
+
+This was not sin — it was reality. But reality requires wisdom to navigate.
+
+Then Abram said something I consider extraordinarily beautiful.
+
+"Let there be no strife between you and me, and between your herdsmen and my herdsmen, for we are kinsmen. Is not the whole land before you? Separate yourself from me. If you take the left hand, then I will go to the right, or if you take the right hand, then I will go to the left."
+
+In the ancient world, the elder had the right of first choice. Abram was the uncle, the elder — by the customs of the time, **he had every right to choose first**.
+
+But he did not. He gave the choice to Lot.
+
+What kind of spirit is this? It is the spirit of a person who does not cling to his own rights, who does not calculate his own advantage, who would rather absorb the loss himself than see the relationship break. Paul would later write: "Let each of you look not only to his own interests, but also to the interests of others" (Philippians 2:4). Abram was already living this out.
+
+Lot "lifted up his eyes" — a gesture worth noting in Scripture — "and saw that the Jordan Valley was well watered everywhere like the garden of the LORD, like the land of Egypt, in the direction of Zoar. This was before the LORD destroyed Sodom and Gomorrah."
+
+Can you see how many warning signals are embedded in those words?
+
+"Like the garden of the LORD" — the Garden of Eden? But Eden was lost long ago. "Like the land of Egypt" — they had just come from Egypt, where catastrophe had nearly struck. And Scripture deliberately notes: "before the LORD destroyed Sodom and Gomorrah" — reminding you that this place will one day be annihilated.
+
+Lot chose the most beautiful land, moved east, and the two men parted. Lot "moved his tent as far as Sodom" — step by step, drawing closer to Sodom. Scripture says the men of Sodom "were wicked, great sinners against the LORD." But what Lot saw was a well-watered plain, not a wicked city.
+
+This is so often how we are — when we can see the immediate advantage, we find it hard to see the lurking danger. We lift our eyes and see the lushness, but not the corruption beneath it.
+
+After Lot departed, God spoke to Abram.
+
+"Lift up your eyes and look from the place where you are, northward and southward and eastward and westward." — God also tells Abram to "lift up his eyes," but Abram lifts his to see the promise God will give him — not the best location he can grab for himself.
+
+"For all the land that you see I will give to you and to your offspring forever. I will make your offspring as the dust of the earth, so that if one can count the dust of the earth, your offspring also can be counted."
+
+Abram gave up the right of first choice — and God gave him everything. Lot chose the finest-looking land and got that one piece of land; Abram grasped at nothing, and God promised him the whole earth.
+
+This is not the logic of karma. This is the logic of grace. **What you release, God fills.**
+
+"Arise, walk through the length and the breadth of the land, for I will give it to you."
+
+So Abram moved his tent and settled by the oaks of Mamre at Hebron, and there he built an altar to the LORD.
+
+Hebron. How significant this place would become — Abraham, Isaac, and Jacob would all be buried here; the patriarchs of Israel would all rest in this ground. Before David became king of all Israel, he reigned seven years in Hebron.
+
+Another altar. At every place he set down his tent, Abram was declaring: **this place belongs to the LORD.**
+
+Brothers and sisters, this chapter teaches us: faith sometimes looks like letting go.
+
+Letting go of the right to choose first. Letting go in trust that God will provide. Choosing, when faced with visible present gain and distant unseen promise, to choose the promise. Lot chose what he could see; Abram chose what God had promised. And history remembers Abram — he is called the father of faith, the one used in God's redemptive plan.
+
+Not because he was smarter. But because he trusted God.`,
+  historyContext_zh: `约旦河平原（今约旦河谷）在古代确实土地肥沃，农业条件优越。所多玛和蛾摩拉的地理位置学界有争议，一般认为在死海南端。希伯仑（今以巴勒斯坦的希伯伦市）是迦南地重要城市，麦比拉洞就在此处，亚伯拉罕后来在此购地安葬撒拉（创23章）。`,
+  historyContext_en: `The Jordan Valley (modern Jordan Rift Valley) was indeed fertile and agriculturally rich in antiquity. The location of Sodom and Gomorrah is debated by scholars, but most place it near the southern end of the Dead Sea. Hebron (modern-day Hebron in the West Bank) was a significant Canaanite city; the Cave of Machpelah is located there, where Abraham later purchased land to bury Sarah (Genesis 23).`,
+  structure_zh: `全章结构：争竞危机（5-7节）→ 亚伯兰的宽让（8-9节）→ 罗得的选择（10-13节）→ 神对亚伯兰重申应许（14-17节）→ 亚伯兰在希伯仑安居筑坛（18节）。"举目"这个动作在13章出现两次，形成对比：罗得举目看利益，亚伯兰举目看应许。`,
+  structure_en: `The chapter's structure: the crisis of conflict (vv. 5–7) → Abram's generous offer (vv. 8–9) → Lot's choice (vv. 10–13) → God's renewed promise to Abram (vv. 14–17) → Abram settled at Hebron and built an altar (v. 18). The action of "lifting up the eyes" appears twice in chapter 13, forming a contrast: Lot lifts his eyes toward gain, Abram lifts his toward promise.`,
+  theology_zh: `神的应许在人的谦让中得以彰显；恩典之约是神主动的、无条件的；信心表现为在利益面前的舍让；神引导历史，使那些顺服的人进入应许；罗得的故事是一个反面教材：以外貌判断、以利益选择，最终陷入所多玛的毁灭中。`,
+  theology_en: `God's promise is magnified through human humility; the covenant of grace is God's active, unconditional initiative; faith expresses itself in releasing what one could have seized; God governs history so that those who submit find their way into the promise. Lot's story is a cautionary tale: judging by appearance, choosing by self-interest, and ending up trapped in Sodom's destruction.`,
+  christShadow_zh: `亚伯兰不争先、不抓取，是基督虚己精神的预表（腓立比书2:5-8）。更深处：神应许亚伯兰的后裔"如同地上的尘沙"，但希伯来书11:10说亚伯兰"等候那座有根基的城，就是神所经营所建造的"——他所盼望的，是一个超越物质土地的应许，那应许在新耶路撒冷中得到最终的成全。`,
+  christShadow_en: `Abram refusing to grasp his right of precedence is a foreshadowing of Christ's self-emptying (Philippians 2:5–8). More deeply: God promises Abram that his descendants will be "as the dust of the earth," yet Hebrews 11:10 tells us that Abram "was looking forward to the city that has foundations, whose designer and builder is God" — what he truly hoped for was a promise transcending physical land, a promise finally fulfilled in the new Jerusalem.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 14,
   publishDate: '2026-03-05',
-  title: '争战', titleEn: 'Abram Rescues Lot',
+  title: '争战', titleEn: 'Battle and Blessing',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 14:1 / Genesis 14:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 14:1-24 / Genesis 14:1-24',
+  content_zh: `弟兄姐妹，第十四章是创世记里最像史诗的一章，也是神学上最深邃的一章之一。
+
+故事开始得像一场古代的世界大战。
+
+东方的四王联军与约旦河平原的五王在西订谷打了一仗，五王败北。获胜的军队抢夺所多玛和蛾摩拉的财物，也掳走了罗得和他的财物。
+
+你还记得罗得吗？他就是那个举目看见约旦河平原、选了最好的地、一步步挪移帐篷直到所多玛的那个人。现在，他坐在了这场战争的中心，不是胜利者，而是战俘。
+
+有逃跑的人来告诉亚伯兰。
+
+亚伯兰的反应让人出乎意料。他本可以说："这是他自己的选择，他选了所多玛，这是所多玛的命运，与我无关。"但他没有。他立刻率领三百一十八名家丁，在夜间出击，追到但，大败敌军，追到大马色，把所有被掳的人和财物都夺回来了，罗得也救回来了。
+
+亚伯兰，一个牧人，凭三百多人，击退了四国联军。这不是军事天才，这是神的保护。
+
+打了胜仗回来，发生了一件极为神秘又极为重要的事。
+
+"撒冷王麦基洗德拿着饼和酒出来迎接；他是至高神的祭司。他为亚伯兰祝福说：'愿天地的主、至高的神赐福给亚伯兰！至高的神把敌人交在你手中，是应当称颂的。'亚伯兰就把所得的拿出十分之一给他。"
+
+麦基洗德。这个名字在这里突然出现，没有来路，没有族谱，没有出生年月，没有死亡记录。他是撒冷王——撒冷，就是后来的耶路撒冷——他是至高神的祭司，他是王，他也是祭司。他拿出饼和酒来迎接亚伯兰，为他祝福。
+
+弟兄姐妹，你知道一个祭司为人祝福，意味着什么吗？意味着他站在神与人之间的中保位置，把神的祝福传递给人。
+
+亚伯兰把战利品的十分之一奉献给了麦基洗德。这不是税，不是礼物，这是**对属灵权柄的承认**。亚伯兰，神所应许的先祖，在麦基洗德面前俯首，承认他的属灵权柄高于自己。
+
+然后发生了一个鲜明的对比。
+
+所多玛王出来见亚伯兰，说："你把人口给我，财物你自己拿去吧。"
+
+亚伯兰回答："我已经向天地的主、至高的神耶和华举手起誓：凡是你的东西，就是一根线、一根鞋带，我都不拿……免得你说'我使亚伯兰富足'。"
+
+一边是麦基洗德，带来饼和酒，传达神的祝福；一边是所多玛王，要用财物换回人质。亚伯兰把十分之一给了麦基洗德，却一分钱不要所多玛王的。
+
+这个选择同样是信心的宣告：**我的丰富来自至高神，不来自所多玛。**
+
+整章最深刻的主角，其实是那个谜一样的麦基洗德。
+
+他带来饼和酒——这让人想到什么？
+
+千年之后，在耶路撒冷的最后晚餐桌上，有人也拿起饼和酒说："这是我的身体，这是我立约的血。"
+
+麦基洗德是王，也是祭司——在以色列历史上，这两种职份通常是严格分开的，你不能既是大卫的后裔又是亚伦的后裔。但麦基洗德是，而且他在先，在律法之前，在利未祭司制度之前。
+
+希伯来书花了整整一章（第七章）来解释：麦基洗德是基督职份的预表。基督是"照着麦基洗德的等次"永远为祭司的——不是靠血统，不是靠律法的条文，而是靠那无穷的生命大能（希伯来书7:16）。
+
+"他的名字翻出来，先是仁义王，再是撒冷王，就是平安王的意思。他无父、无母、无族谱、无生之始、无命之终，乃是与神的儿子相似，照样永远为祭司。"（希伯来书7:2-3）
+
+无始无终，无族谱，永远为祭司，仁义王，平安王——你看出来了吗？圣经不是说麦基洗德真的没有父母，而是说他的族谱没有被记录，**好像**他无始无终——这一切，都是为了预指那位真正无始无终的基督。
+
+亚伯兰在麦基洗德面前俯首，是信心之父在更大的那位面前低头。`,
+  content_en: `Brothers and sisters, chapter fourteen is the most epic chapter in Genesis, and one of its most theologically profound.
+
+The story begins like an ancient world war.
+
+A coalition of four kings from the east defeated five kings of the Jordan plain at the Valley of Siddim. The victorious army plundered the wealth of Sodom and Gomorrah, and took captive Lot and all his possessions.
+
+Do you remember Lot? He is the one who lifted up his eyes at the Jordan Valley, chose the finest land, and moved his tent step by step until he reached Sodom. Now he sits at the center of this war — not as a victor, but as a prisoner.
+
+A man who escaped came and told Abram.
+
+Abram's response is surprising. He could have said: "This was his own choice. He chose Sodom; this is Sodom's fate. It has nothing to do with me." But he did not. He immediately rallied three hundred and eighteen trained men of his household, attacked under cover of night, routed the enemy as far as Dan, pursued them to Damascus, recovered all the captured people and possessions, and brought Lot back.
+
+Abram — a herdsman — with three hundred men, turned back a coalition of four kings. This was not military genius. This was God's protection.
+
+Coming back from victory, something mysterious and supremely important took place.
+
+"And Melchizedek king of Salem brought out bread and wine. He was priest of God Most High. And he blessed him and said, 'Blessed be Abram by God Most High, Possessor of heaven and earth; and blessed be God Most High, who has delivered your enemies into your hand!' And Abram gave him a tenth of everything."
+
+Melchizedek. This name appears here without warning — no family origin, no genealogy, no birth record, no record of death. He is king of Salem — Salem, which would later become Jerusalem — and he is priest of God Most High. He is both king and priest. He brings out bread and wine to meet Abram, and he blesses him.
+
+Brothers and sisters, do you understand what it means for a priest to bless someone? It means standing in the position of mediator between God and man, conveying God's blessing to human hands.
+
+Abram gave a tenth of everything to Melchizedek. This was not a tax, not a gift — it was **an acknowledgment of spiritual authority**. Abram, the patriarch of God's promise, bowed before Melchizedek, recognizing his spiritual authority as greater than his own.
+
+Then a sharp contrast unfolds.
+
+The king of Sodom came out to meet Abram and said, "Give me the persons, but take the goods for yourself."
+
+Abram replied: "I have lifted my hand to the LORD, God Most High, Possessor of heaven and earth, that I would not take a thread or a sandal strap or anything that is yours... lest you should say, 'I have made Abram rich.'"
+
+On one side: Melchizedek, bringing bread and wine, conveying God's blessing. On the other: the king of Sodom, offering to exchange goods for the return of his people. Abram gave a tenth to Melchizedek, but refused to take a single coin from the king of Sodom.
+
+This choice was itself a declaration of faith: **My abundance comes from God Most High — not from Sodom.**
+
+The deepest protagonist in this chapter is that mysterious figure, Melchizedek.
+
+He brings bread and wine — what does that bring to mind?
+
+A thousand years later, at a last supper table in Jerusalem, someone else took bread and wine and said: "This is my body. This is the blood of my covenant."
+
+Melchizedek is both king and priest — in Israelite history, these two offices were kept strictly separate; you could not be both from David's line and from Aaron's line. But Melchizedek was, and he came before all of that — before the Law, before the Levitical priesthood.
+
+The letter to the Hebrews devotes an entire chapter (chapter seven) to explaining: Melchizedek is the foreshadowing of Christ's office. Christ is a priest forever "after the order of Melchizedek" — not by genealogy, not by legal requirement, but "by the power of an indestructible life" (Hebrews 7:16).
+
+"He is first, by translation of his name, king of righteousness, and then he is also king of Salem, that is, king of peace. He is without father or mother or genealogy, having neither beginning of days nor end of life, but resembling the Son of God he continues a priest forever." (Hebrews 7:2-3)
+
+No beginning, no end, no genealogy, forever a priest, king of righteousness, king of peace — do you see it? Scripture is not saying that Melchizedek literally had no parents. It is saying that his genealogy is not recorded, as if he had no beginning or end — all of this to point forward to the one who truly has no beginning or end.
+
+Abram bowing before Melchizedek is the father of faith lowering his head before one who is greater.`,
+  historyContext_zh: `本章记载的"四王伐五王"是圣经中记录的最早的一场国际战争，历史学家对各国的具体身份仍有讨论。"撒冷"通常被认为是耶路撒冷的早期名称（诗篇76:2有"神在撒冷"）。"麦基洗德"这个名字意为"我的王是公义的"或"仁义之王"。古代近东文献中有祭司王合一的制度，但在以色列历史中，祭司职与王职严格分离。`,
+  historyContext_en: `The "war of four kings against five" is the earliest recorded international conflict in Scripture; scholars continue to debate the precise identification of the various nations. "Salem" is generally understood to be an early name for Jerusalem (Psalm 76:2 says "His abode has been established in Salem"). "Melchizedek" means "my king is righteousness" or "king of righteousness." Ancient Near Eastern texts document the combining of priestly and royal roles in one person, though in Israelite history the two were kept strictly separate.`,
+  structure_zh: `叙事结构：战争报道（1-12节）→ 亚伯兰出战救罗得（13-16节）→ 麦基洗德祝福亚伯兰（17-20节）→ 亚伯兰拒绝所多玛王（21-24节）。两个见面（麦基洗德vs所多玛王）形成神学对比：神的祝福与世界的利益，两种恩赐，亚伯兰做出了明确的选择。`,
+  structure_en: `Narrative structure: war report (vv. 1–12) → Abram goes to battle and rescues Lot (vv. 13–16) → Melchizedek blesses Abram (vv. 17–20) → Abram refuses the king of Sodom (vv. 21–24). Two encounters (Melchizedek vs. the king of Sodom) form a theological contrast: God's blessing versus worldly profit, two kinds of offer, and Abram's clear choice between them.`,
+  theology_zh: `战争中神保护他的子民；麦基洗德展示了王兼祭司的双重职分（预指基督）；饼和酒的意象连结圣餐；十分之一奉献是对属灵权柄的承认；亚伯兰拒绝所多玛王的财物，宣告他的丰富来自神——这是信心的行动宣言。`,
+  theology_en: `In warfare, God protects His people; Melchizedek displays the dual office of king and priest (foreshadowing Christ); the imagery of bread and wine connects to the Lord's Supper; the tithe is an acknowledgment of spiritual authority; Abram's refusal of the king of Sodom's wealth is a declaration that his abundance comes from God — a living confession of faith.`,
+  christShadow_zh: `麦基洗德是整本圣经中最明确的基督预表之一（希伯来书7章）。他是王，也是祭司，无族谱，无始终，在亚伯兰胜利归来时拿出饼和酒为他祝福。这与基督完全对应：基督是大卫的后裔（王）且是永远的大祭司（祭司），他在最后晚餐拿起饼和酒设立新约，他的祭司职分不靠律法而靠无穷的生命大能，他永远活着，永远代祷。`,
+  christShadow_en: `Melchizedek is one of the clearest and most explicit foreshadowings of Christ in all of Scripture (Hebrews 7). He is king and priest, without genealogy or limits of time; he meets Abram returning from victory with bread and wine and blesses him. This corresponds exactly to Christ: David's royal descendant (king) and eternal high priest (priest); taking bread and wine at the Last Supper to establish the new covenant; a priesthood not through law but through the power of an indestructible life; always living to make intercession.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 15,
   publishDate: '2026-03-06',
-  title: '立约', titleEn: 'The Covenant of the Stars',
+  title: '立约', titleEn: 'The Covenant of Grace',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 15:1 / Genesis 15:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 15:1-21 / Genesis 15:1-21',
+  content_zh: `弟兄姐妹，第十五章是创世记的心脏，也是整本圣经的一个基础。
+
+这里有一句话，保罗在罗马书引用，马丁路德读了之后被改变，成为宗教改革的导火索，也是你我得救的基础：
+
+**"亚伯兰信耶和华，耶和华就以此为他的义。"**
+
+但我们要从头说起。
+
+那时耶和华在异象中对亚伯兰说："亚伯兰，你不要惧怕，我是你的盾牌，必大大地赏赐你。"
+
+亚伯兰回答，说了一句让人心疼的话："主耶和华啊，我既无子，你还赐我什么呢？……你没有给我儿子；那生在我家中的人就是我的后嗣了。"
+
+这时的亚伯兰应该已经接近八十五岁了。他等了十年。神当年应许的是大国，是多如尘沙的后裔，但撒拉的肚子还是平的。十年是很长的等待，足够磨蚀一个人的信心。
+
+他没有埋怨神——他只是把心里的困惑和疲乏说出来。这是真实的信心，不是表演的敬虔。
+
+神没有责怪他，而是把他带到帐篷外面，说："你向天观看，数算众星，能数得过来吗？……你的后裔也要如此。"
+
+**然后就是那句关键的话。**
+
+"亚伯兰信耶和华，耶和华就以此为他的义。"
+
+注意这里用的是"信"——不是"行为"，不是"守律法"，不是"值得"。亚伯兰没有做任何事来赚取神的义，他只是**信**。他相信神说的是真的，虽然他的身体已经老迈，虽然撒拉的肚子还是空的，虽然他等了十年没有看见任何迹象。他相信。
+
+这就是改革宗神学的核心：**因信称义**。人被神称为义，不是因为行为，而是因为信心——不是信心这个行为本身，而是信心所指向的那一位。亚伯兰因信被称为义，是因为他信了那位必成就他所说之话的神。
+
+然后神做了一件古代立约的仪式。
+
+神叫亚伯兰把各种牲畜、一只斑鸠和一只雏鸽取来，亚伯兰把牲畜劈开，分成两半，相对地摆列，鸟却没有劈开。这是古代近东世界立约的方式——双方在被劈开的牲畜尸体之间来回走过，象征说：**如果我违背这个约，愿我像这些牲畜一样被劈开。** 这是用死亡起誓。
+
+日落时分，亚伯兰沉沉地睡着了，然后一阵大而可怕的黑暗临到他。在这片黑暗中，神对他说了一段沉重的预言：你的后裔将在一个不属于他们的地方寄居四百年，受苦受役使；但到时候，神要审判那欺压他们的国，带着许多财物出来。
+
+然后——
+
+**神自己穿过那些劈开的动物之间。**
+
+"有烟炉和火把从那些肉块中经过。"
+
+烟炉和火把——这是神的临在象征，就像以后在西奈山上的云柱火柱。
+
+但是亚伯兰没有走。**只有神走过去了。**
+
+这就是这个约最震撼的地方。
+
+在古代，立约是双向的，双方都要走过去，双方都承担违约就被劈开的咒诅。但在这里，**神叫亚伯兰睡着，然后独自走过去**。
+
+这意味着：这个约的成立，**不依靠亚伯兰的表现，只依靠神自己**。神不是说"如果你做到，我就做到"——神是说"无论你做什么，我都要成就这个应许"。神把立约双方的责任都承担在自己身上，包括违约的咒诅。
+
+这就是恩典之约的本质。**单方面的，无条件的，神主动担保的。**
+
+但是这里有一个深不可测的奥秘：如果神承担了两方的责任，包括违约的咒诅，那么将来如果人违约了，神怎么办？
+
+神要自己承担违约的后果。
+
+弟兄姐妹，你看见了吗？在那个旷野的黄昏，在那堆劈开的肉块之间，神就已经预告了加略山。预告了神自己的儿子将会被"劈开"，被咒诅，被死亡所击打，来担当人类违约的代价。
+
+"基督既为我们受了咒诅，就赎出我们脱离律法的咒诅。"（加拉太书3:13）
+
+亚伯兰立约那天所看见的烟炉和火把，是十字架的先声。`,
+  content_en: `Brothers and sisters, chapter fifteen is the heart of Genesis, and one of the foundations of the entire Bible.
+
+Here is a sentence that Paul quotes in Romans, that Martin Luther read and was transformed by — the spark that ignited the Reformation, and the basis of your salvation and mine:
+
+**"And he believed the LORD, and he counted it to him as righteousness."**
+
+But let us begin at the beginning.
+
+The word of the LORD came to Abram in a vision: "Fear not, Abram, I am your shield; your reward shall be very great."
+
+Abram answered with words that are quietly heartbreaking: "O Lord GOD, what will you give me, for I continue childless?... You have given me no offspring, and a member of my household will be my heir."
+
+Abram must have been close to eighty-five years old at this point. He had been waiting for ten years. God had promised a great nation, descendants as numerous as the dust — yet Sarai's womb remained empty. Ten years is a long time to wait, long enough to wear away a person's faith.
+
+He did not accuse God. He simply spoke what was weary and confused within him. This is genuine faith, not performed piety.
+
+God did not rebuke him. Instead, He brought him outside and said: "Look toward heaven and number the stars, if you are able to number them... So shall your offspring be."
+
+**And then came those decisive words.**
+
+"And he believed the LORD, and he counted it to him as righteousness."
+
+Notice what is said here: **believed** — not "performed," not "kept the law," not "earned it." Abram did nothing to earn God's righteousness. He simply trusted. He believed God's word was true — though his body was worn with age, though Sarai's womb was still empty, though he had waited ten years with no visible sign. He believed.
+
+This is the heart of Reformed theology: **justification by faith alone**. God declares a person righteous not on the basis of works but on the basis of faith — not faith as a meritorious act in itself, but faith pointing to the One whom it trusts. Abram was counted righteous because he trusted the God who would bring to pass what He had promised.
+
+Then God performed an ancient covenant ritual.
+
+God instructed Abram to bring various animals — a heifer, a goat, a ram, a turtledove, and a young pigeon — and cut them in two, placing the halves across from each other. This was how covenants were made in the ancient Near East: both parties walked between the slaughtered animals, declaring by the gesture: **If I break this covenant, may I be cut apart like these animals.** It was an oath sworn by death.
+
+At sunset, a deep sleep fell upon Abram, and a great, terrifying darkness came over him. In that darkness, God spoke a weighty prophecy: your offspring will be strangers in a land not their own, enslaved and afflicted for four hundred years; but in due time, God will judge that nation and they will come out with great possessions.
+
+And then —
+
+**God passed through the pieces alone.**
+
+"Behold, a smoking fire pot and a flaming torch passed between these pieces."
+
+A smoking fire pot and a flaming torch — these are symbols of God's presence, like the pillar of cloud and fire that would later lead Israel through the wilderness.
+
+But Abram did not walk through. **God alone passed through.**
+
+This is the most stunning thing about this covenant.
+
+In the ancient world, a covenant was bilateral — both parties walked through, both parties bore the curse of being "cut apart" if they violated the agreement. But here, **God caused Abram to sleep, then passed through alone**.
+
+This means: the fulfillment of this covenant **does not depend on Abram's performance — it depends on God alone**. God was not saying "if you do your part, I will do mine." God was saying: "Whatever you do, I will fulfill this promise." God took upon Himself both parties' obligations — including the curse for violation.
+
+This is the essence of the covenant of grace: **unilateral, unconditional, guaranteed by God Himself.**
+
+But here lies an unfathomable mystery: if God has taken on the responsibility of both parties — including the curse for violation — then if humans break the covenant, what must God do?
+
+God must bear the consequences of the violation Himself.
+
+Brothers and sisters, do you see it? On that wilderness evening, between those slaughtered pieces of flesh, God was already announcing Calvary. Announcing that His own Son would be "cut apart," cursed, struck by death — to bear the price of humanity's covenant-breaking.
+
+"Christ redeemed us from the curse of the law by becoming a curse for us." (Galatians 3:13)
+
+The smoking fire pot and the flaming torch that Abram saw on the day of the covenant — these were the harbinger of the cross.`,
+  historyContext_zh: `"劈牲立约"是古代近东世界正式盟约的常见形式，在古叙利亚和美索不达米亚文献中都有记载（如阿马纳文书时期的条约）。希伯来文"立约"(kārat bĕrît)字面意思是"劈约"，反映这一仪式。第十五章预言的四百年奴役后来在出埃及记中应验。`,
+  historyContext_en: `The "covenant by cutting animals" (covenant rite of passage) was a formal treaty practice common in the ancient Near East, attested in Syro-Mesopotamian texts such as the Alalakh tablets. The Hebrew phrase for "making a covenant" (kārat bĕrît) literally means "to cut a covenant," reflecting this ritual. The four-hundred-year prophecy in chapter fifteen was fulfilled in the Exodus account.`,
+  structure_zh: `全章分两部分：1-6节（应许与信心）；7-21节（约的仪式）。两部分的枢纽是第6节"亚伯兰信耶和华，耶和华就以此为他的义"——先是因信称义，再是约的确立。这个顺序极为重要：义是先赐下的，约是后确认的，不是靠行为赚来的。`,
+  structure_en: `The chapter divides into two parts: verses 1–6 (the promise and faith); verses 7–21 (the covenant ceremony). The pivot is verse 6 — "And he believed the LORD, and he counted it to him as righteousness" — first comes justification by faith, then the covenant is formally ratified. The sequence is crucial: righteousness is granted first; the covenant confirms it afterward. It is not earned by performance.`,
+  theology_zh: `因信称义（第6节）是改革宗神学的基础，保罗在罗马书4:3和加拉太书3:6两次直接引用；神独自走过——单方面恩典约；应许优先于律法四百多年（加3:17）；神的主权拣选与人的信心回应并存，不矛盾；预告四百年苦难是神对历史的预知和掌管。`,
+  theology_en: `Justification by faith (v. 6) is the cornerstone of Reformed theology; Paul quotes it twice — in Romans 4:3 and Galatians 3:6; God passing through alone signifies unilateral grace; the promise precedes the Mosaic law by more than four hundred years (Galatians 3:17); God's sovereign election and human faith coexist without contradiction; the prophecy of four hundred years of suffering reveals God's foreknowledge and governance of history.`,
+  christShadow_zh: `神独自穿过劈开的牲畜，承担双方的约责，这直接预指十字架：基督担当了人类违约的咒诅，"被挂在木头上"（申21:23，加3:13）。约的担保者变成了被"劈开"者——这就是福音最深的奥秘：神用自己来成全自己的约。"他为立这约作中保，使蒙召之人得着所应许永远的产业。"（希伯来书9:15）`,
+  christShadow_en: `God passing alone through the divided animals — bearing both parties' covenant obligations — directly foreshadows the cross: Christ bore the curse of humanity's covenant-breaking, being "hanged on a tree" (Deuteronomy 21:23; Galatians 3:13). The guarantor of the covenant became the one who was "cut apart" — this is the deepest mystery of the gospel: God fulfills His own covenant by giving Himself. "Therefore he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance." (Hebrews 9:15)`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 16,

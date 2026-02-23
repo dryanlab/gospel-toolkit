@@ -6,6 +6,7 @@ import Link from 'next/link';
 import type { ReadingChapter } from '@/data/readings';
 import SpeakButton from '@/components/SpeakButton';
 import LikeButton from '@/components/LikeButton';
+import ShareBar from '@/components/ShareBar';
 import { isPublished, useHydrated } from '@/lib/preview';
 import { fetchReading, fetchReadingsList } from '@/lib/api';
 
@@ -201,6 +202,19 @@ export default function GenesisClient({ chapters: staticChapters }: { chapters: 
             </button>
           )}
           <LikeButton articleId={`genesis-${ch.chapter}`} />
+        </div>
+
+        {/* Share */}
+        <div className="mt-8">
+        <ShareBar
+          url={`https://rockoftruth.net/readings/genesis?ch=${ch.chapter}`}
+          title={`创世记第${ch.chapter}章：${ch.title}`}
+          summary={ch.content_zh.replace(/[#*]/g, '').substring(0, 120) + '...'}
+          scripture={ch.scripture}
+          emoji="📖"
+          cardStyle="reading"
+          author={ch.author}
+        />
         </div>
 
         {/* Prev/Next */}
