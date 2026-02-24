@@ -1258,7 +1258,7 @@ readings.push({
 
 "我要把我的教会建造在这磐石上，阴间的权柄不能胜过他。"（马太福音16:18）
 
-这座塔，永远不会停工。`,
+巴别的工程停了。神的建造，永不停工。`,
   content_en: `Brothers and sisters, chapter eleven is a doorway.
 
 Before this door, you see the world after the flood — humanity multiplying and spreading across the earth. Beyond this door, you will meet Abraham, the new starting point of God's redemptive plan. But between these two stands an interlude called Babel.
@@ -1305,7 +1305,7 @@ Humans used bricks; God uses the body of Christ. Humans built to make their own 
 
 "I will build my church, and the gates of hell shall not prevail against it." (Matthew 16:18)
 
-This tower will never stop being built.`,
+Babel's construction stopped. God's building never will.`,
   historyContext_zh: `示拿平原即今日伊拉克境内的美索不达米亚平原。考古发现了多座古代"金字形神塔"（ziggurat），是苏美尔和巴比伦文明的宗教建筑，与圣经记载高度吻合。"巴别"音译自"巴比伦"，在希伯来文中被谐音为"变乱"。本章是创世记原史（1-11章）的最后一段，连接着挪亚后裔谱系，为亚伯拉罕的出场做铺垫。`,
   historyContext_en: `The plain of Shinar corresponds to modern-day Mesopotamia in Iraq. Archaeological discoveries of multiple ancient ziggurats — the religious towers of Sumerian and Babylonian civilization — closely match the biblical account. "Babel" is a Hebrew pun on "Babylon," reinterpreted to mean "confusion." This chapter is the final episode of Genesis's primeval history (chapters 1–11), connecting the genealogy of Noah's descendants and setting the stage for Abraham's appearance.`,
   structure_zh: `全章分两部分：1-9节是巴别塔事件，10-32节是闪的后裔谱系（特别标出亚伯兰一家的迁徙路线）。谱系不是装饰，是神视角的历史线索——在万族分散中，神在追踪一个特定的族谱，为应许的实现做预备。`,
