@@ -424,6 +424,7 @@ export const songs: Song[] = [
   { id: 'you-raise-me-up-en', title: 'You Raise Me Up', subtitle: '你鼓舞了我', artist: 'Josh Groban', youtubeId: 'aJxrX42WcjQ', category: '赞美诗歌' },
   { id: 'be-still-en', title: 'Be Still', subtitle: '安靜', artist: 'CeCeWinansVEVO', youtubeId: 'pS0oj2p77sE', category: '敬拜诗歌' },
   { id: 'how-great-is-our-god-en', title: 'How Great Is Our God', subtitle: '我们的神何等伟大', artist: 'ChrisTomlinVEVO', youtubeId: 'KBD18rsVJHk', category: '赞美诗歌' },
+  { id: 'our-god-en', title: 'Our God', subtitle: '我们的神', artist: 'Chris Tomlin', youtubeId: 'NJpt1hSYf2o', category: '赞美诗歌' },
   { id: 'blessed-assurance-en', title: 'Blessed Assurance', subtitle: '有福的确据', artist: 'Silent VoiceTV', youtubeId: 'rDeiy9-t2GE', category: '经典圣诗' },
   { id: 'it-is-well-en', title: 'It Is Well With My Soul', subtitle: '我心灵得安宁', artist: 'katiekatew', youtubeId: 'AHe_qmo3gX4', category: '经典圣诗' },
   { id: 'great-is-thy-faithfulness-en', title: 'Great Is Thy Faithfulness', subtitle: '你信实何广大', artist: 'Maranatha! Music', youtubeId: 'ErwiBz1QA4o', category: '经典圣诗' },
