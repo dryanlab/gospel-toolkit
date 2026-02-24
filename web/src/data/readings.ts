@@ -1383,7 +1383,7 @@ readings.push({
 
 我自己太明白这一点了。那个在米甸旷野逃亡四十年的摩西，那个在烧着荆棘前推辞说"我算什么人"的摩西，神没有丢弃我。他在何烈山的荆棘火焰中呼叫我的名字："摩西！摩西！"不是追究，是差遣。我的软弱是神恩典的舞台，不是神放弃我的理由。
 
-亚伯兰在埃及的失败，和我在院子里的失败，本质是一样的——我们在压力面前忘记了神的应许，用自己的方式来保护自己。但神的信实不因我们的不信实而改变。"我们纵然失信，他仍是可信的，因为他不能背乎自己。"（提摩太后书2:13）
+亚伯兰在埃及的失败，和我当年在埃及人与希伯来人之间冲动出手、杀了那个埃及人的失败，本质是一样的——我们都在压力面前选择了用自己的方式解决问题，而不是等候神。但神的信实不因我们的不信实而改变。"我们纵然失信，他仍是可信的，因为他不能背乎自己。"（提摩太后书2:13）
 
 弟兄姐妹，如果你正站在一个十字路口——神在呼召你离开某个舒适区，进入一个未知的领域，而你心里充满了恐惧和不确定——请记住亚伯兰的故事。他不是因为确定才出发的，他是因为信靠那位呼召他的神才出发的。
 
@@ -1439,6 +1439,8 @@ This is a failure of faith — we must name it honestly. The Abram who had been 
 But God did not abandon him. God afflicted Pharaoh and his household with great plagues; Pharaoh returned Sarai to him.
 
 I know this from my own experience. Moses, who fled to the wilderness of Midian and spent forty years in exile after killing an Egyptian; Moses, who stood before the burning bush and said, "Who am I, that I should go?" — God did not abandon me. He called my name from the flame of the burning thornbush: "Moses! Moses!" Not accusation, but commission. My failure was not a reason for God to give up on me — it was the stage on which His grace was displayed.
+
+Abram's failure in Egypt and my own failure — striking down the Egyptian in a moment of impulse, taking matters into my own hands instead of waiting on God — are the same at their root. Both of us, under pressure, chose our own way of solving the problem rather than trusting in God's timing. But God's faithfulness does not change because of our faithlessness. "If we are faithless, he remains faithful — for he cannot deny himself." (2 Timothy 2:13)
 
 Brothers and sisters, Abram's story tells us this: God's calling is not because we are perfect; God's election is not because we deserve it. He calls the weak; He chooses those who will stumble — and then He displays His faithfulness through their weakness.
 
