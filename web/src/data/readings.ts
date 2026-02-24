@@ -1389,7 +1389,7 @@ readings.push({
 
 七十五岁出发。不是年轻人的冲动，是老年人的决断。他已经活了大半辈子，在哈兰安居了许多年。神叫他离开的，不是一个陌生的地方，而是一个他已经习惯了的地方。有时候离开熟悉的安全，比进入未知的旷野更需要勇气。
 
-亚伯兰到了迦南地。神向他显现，说："我要把这地赐给你的后裔。"亚伯兰在那里为向他显现的耶和华筑了一座坛。他们继续前进，在伯特利东边的山，又筑了一座坛，求告耶和华的名。
+亚伯兰到了迦南地。神向他显现，说："我要把这地赐给你的后裔。"亚伯兰在那里为向他显现的耶和华筑了一座坛。从那里他又迁到伯特利东边的山，支搭帐棚，西边是伯特利，东边是艾。他在那里又为耶和华筑了一座坛，求告耶和华的名。
 
 **每到一处，筑一座坛。**
 
@@ -1458,7 +1458,7 @@ Notice how Scripture describes his departure: "Abram took Sarai his wife, and Lo
 
 Seventy-five years old when he set out — not a young man's impulse, but an old man's resolve. He had lived most of his life already, settled comfortably in Haran for many years. What God called him to leave was not something foreign, but a place he had grown accustomed to. Sometimes, leaving behind familiar security requires more courage than entering an unknown wilderness.
 
-Abram arrived in Canaan. The LORD appeared to him and said, "To your offspring I will give this land." Abram built an altar there to the LORD who had appeared to him. They continued on, and between Bethel and Ai he built another altar and called upon the name of the LORD.
+Abram arrived in Canaan. The LORD appeared to him and said, "To your offspring I will give this land." Abram built an altar there to the LORD who had appeared to him. From there he moved to the hill country east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. And there he built an altar to the LORD and called upon the name of the LORD.
 
 **At every place he stopped, he built an altar.**
 
@@ -1485,8 +1485,8 @@ Brothers and sisters, Abram's story tells us this: God's calling is not because 
 God's promises are not fulfilled on the basis of Abram's performance. They are fulfilled on the basis of God Himself. That is grace.`,
   historyContext_zh: `迦勒底的吾珥是当时中东最发达的城市之一，出土文物显示其文明高度发达。亚伯拉罕的呼召发生在公元前2100-2000年左右，属于中青铜时代。饥荒时下埃及避难是当时游牧民族的常见做法，有古埃及文献记载。亚伯兰经过的地点（示剑、伯特利、艾城之间）在后来以色列历史中反复出现，具有重要象征意义。`,
   historyContext_en: `Ur of the Chaldeans was one of the most advanced cities in the ancient Near East; archaeological finds reveal its high level of civilization. Abraham's call occurred around 2100–2000 BC, in the Middle Bronze Age. Seeking refuge in Egypt during famine was a common practice for seminomadic peoples, documented in ancient Egyptian records. The sites Abram passes through — Shechem, and the area between Bethel and Ai — recur repeatedly in later Israelite history and carry deep symbolic resonance.`,
-  structure_zh: `三重结构：蒙召与应许（1-9节）→ 信心软弱在埃及（10-20节）。应许是三层递进：个人（大国、大名）→ 关系性（叫别人得福）→ 普世（万族因你得福）。筑坛（7、8节）与撒谎（13节）形成鲜明对比，展示信心的真实面貌——不是完美无瑕，而是跌倒中仍被神保守。`,
-  structure_en: `Three-part structure: the call and the promises (vv. 1–9) → failure of faith in Egypt (vv. 10–20). The promises are three concentric circles: personal (great nation, great name) → relational (a blessing to others) → universal (all families of the earth blessed). The altar-building (vv. 7, 8) and the deception (v. 13) form a sharp contrast, showing what faith really looks like — not flawless, but preserved by God even through falling.`,
+  structure_zh: `三重结构：蒙召与应许（1-3节）→ 顺服与筑坛（4-9节）→ 信心软弱在埃及（10-20节）。应许是三层递进：个人（大国、大名）→ 关系性（叫别人得福）→ 普世（万族因你得福）。筑坛（7、8节）与撒谎（13节）形成鲜明对比，展示信心的真实面貌——不是完美无瑕，而是跌倒中仍被神保守。`,
+  structure_en: `Three-part structure: the call and the promises (vv. 1–3) → obedience and altar-building (vv. 4–9) → failure of faith in Egypt (vv. 10–20). The promises are three concentric circles: personal (great nation, great name) → relational (a blessing to others) → universal (all families of the earth blessed). The altar-building (vv. 7, 8) and the deception (v. 13) form a sharp contrast, showing what faith really looks like — not flawless, but preserved by God even through falling.`,
   theology_zh: `神的主权呼召先于人的回应；信心是在不确定中的顺服；应许是无条件的（神应许，不附加亚伯兰的表现条件）；神在软弱者身上彰显恩典；普世宣教的根基早在创世记十二章就已奠定——改革宗神学称之为"亚伯拉罕之约"，是恩典之约的核心。`,
   theology_en: `God's sovereign call precedes human response; faith is obedience in uncertainty; the promises are unconditional (God promises without making Abram's obedience a condition); God displays grace through the weak; the foundation of world mission was already laid in Genesis 12 — what Reformed theology calls the "Abrahamic Covenant," the heart of the covenant of grace.`,
   christShadow_zh: `"地上的万族都要因你得福"（创12:3）——保罗明确说这就是"预先传给亚伯拉罕的福音"（加拉太书3:8）。那个"后裔"，单数，就是基督（加3:16）。神在十二章里播下的种子，在基督身上结出了果实：真正的大国，是来自万族的教会；真正的大名，是超乎万名之上的名（腓立比书2:9）；真正的万族得福，是因基督的赎罪。`,
@@ -1854,7 +1854,7 @@ readings.push({
 
 这是整本圣经中最温柔、也最可怕的一幕。温柔，因为神对亚伯兰的爱如此深沉，他愿意一个人承担一切。可怕，因为神知道人一定会违约——而他仍然走了过去，知道将来有一天，他要为人类的违约付出代价。
 
-但是这里有一个深不可测的奥秘：如果神承担了两方的责任，包括违约的咒诅，那么将来如果人违约了，神怎么办？
+这里有一个深不可测的奥秘：如果神承担了两方的责任，包括违约的咒诅，那么将来如果人违约了，神怎么办？
 
 神要自己承担违约的后果。
 
@@ -1927,7 +1927,7 @@ Can you imagine this? In all of human history, there is no contract like it. Eve
 
 This is the most tender — and the most fearsome — scene in all of Scripture. Tender, because God's love for Abram ran so deep that He was willing to bear everything alone. Fearsome, because God already knew that humanity would break the covenant — and He still walked through, knowing that one day He would have to pay the price for humanity's breach.
 
-But here lies an unfathomable mystery: if God has taken on the responsibility of both parties — including the curse for violation — then if humans break the covenant, what must God do?
+Here lies an unfathomable mystery: if God has taken on the responsibility of both parties — including the curse for violation — then if humans break the covenant, what must God do?
 
 God must bear the consequences of the violation Himself.
 
@@ -1956,60 +1956,853 @@ readings.push({
   publishDate: '2026-03-09',
   title: '夏甲', titleEn: 'Hagar and Ishmael',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 16:1 / Genesis 16:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 16:1-16 / Genesis 16:1-16',
+  content_zh: `弟兄姐妹，第十六章是一个关于等待的故事——关于人在等不下去的时候，用自己的方法来"帮助"神成就应许。
+
+亚伯兰的妻子撒莱不给他生儿女。撒莱有一个使女，名叫夏甲，是埃及人。
+
+请注意这个细节：夏甲是埃及人。她很可能是当初亚伯兰下埃及时，法老赐给他的仆婢之一（创世记12:16）。那次下埃及本身就是一次信心的失败——亚伯兰因为饥荒离开了神应许的迦南地，去了埃及，还称妻为妹。如今，那次失败的"遗产"又回来了，成了新一轮试探的工具。
+
+罪的后果从来不是一次性的。一个错误的决定，会在多年以后以意想不到的方式重新浮现。
+
+撒莱对亚伯兰说："耶和华使我不能生育。求你和我的使女同房，或者我可以因她得孩子。"亚伯兰听从了撒莱的话。
+
+这句"亚伯兰听从了撒莱的话"让人心惊。你还记得伊甸园吗？"亚当……听从了妻子的话，吃了那果子。"（创世记3:17）这不是说妻子的话不能听——而是说，当妻子的建议与神的旨意相悖时，丈夫不能以"顺从妻子"为借口放弃属灵的责任。亚伯兰知道神的应许是要撒莱生子，但他选择了一条看起来更"现实"的路。
+
+于是亚伯兰的妻子撒莱将使女埃及人夏甲给了丈夫为妾；那时亚伯兰在迦南已经住了十年。
+
+十年。从蒙召到现在已经十年了，应许的儿子还没有来。十年的等待，足够消磨一个人的耐心。撒莱的提议在当时的文化中是完全合法的——古代近东的法律（如努兹文书和汉谟拉比法典）都允许不育的妻子将使女给丈夫，所生的孩子归妻子名下。撒莱并没有做任何违反当时社会规范的事。
+
+但问题不在于文化是否允许，而在于神是否如此说。
+
+神的应许是明确的：你的后裔将从你而出（创世记15:4）。神没有提到过夏甲，没有提到过使女，没有给出任何替代方案。神说的是："你本身所生的才成为你的后嗣。"
+
+弟兄姐妹，这是信仰生活中最大的试探之一：**用人的方法来完成神的应许。** 目标是对的——要一个后嗣；但方法是错的——不是按照神的方式，而是按照人的智慧。
+
+这种试探在每一代信徒中都会出现。教会想要增长，就用世俗的营销策略代替祷告和传道。个人想要成功，就用妥协和捷径代替忍耐和等候。我们太容易把"结果正确"当作"方法正确"的证据。但圣经从来不这样看。**在神的国里，方法和目标同样重要。**
+
+亚伯兰与夏甲同房，夏甲就怀了孕；她见自己有孕，就小看她的主母。
+
+怀孕之后，夏甲的态度立刻变了。在那个文化中，能生育是女性最大的荣耀，不能生育是最大的羞辱。夏甲怀孕了，撒莱没有——权力关系在瞬间逆转。
+
+撒莱对亚伯兰说："我因你受屈。我将我的使女放在你怀中，她见自己有了孕，就小看我。愿耶和华在你我中间判断。"
+
+这里的痛苦是多层的。撒莱是整件事的发起者，但她现在却因为结果而痛苦。她把责任推给亚伯兰——"我因你受屈"——但事实上是她自己提出的这个方案。罪的一个特征就是：当后果来临时，我们总是想找别人负责。
+
+亚伯兰的回应同样令人失望。他说："使女在你手下，你可以随意待她。"他完全退出了这件事，把责任推回给撒莱。作为一家之主，他不愿意承担决定的后果，也不愿意保护夏甲——一个在他权柄之下的弱者。
+
+撒莱苦待夏甲，夏甲就从撒莱面前逃走了。
+
+**然后，全章最动人的一幕出现了。**
+
+耶和华的使者在旷野书珥路上的水泉旁遇见她，对她说："撒莱的使女夏甲，你从哪里来？要往哪里去？"
+
+这是圣经中"耶和华的使者"第一次出现。许多改革宗神学家认为，"耶和华的使者"就是道成肉身之前的基督——因为在第13节，夏甲称他为"看顾人的神"，而天使是不能被称为神的。
+
+但更重要的是神问的那个问题："你从哪里来？要往哪里去？"
+
+这让我想起神在伊甸园对亚当说的话："你在哪里？"（创世记3:9）神不是不知道答案——他是要让夏甲面对自己的处境。你从哪里来？从一个破碎的家庭关系中逃出来。你要往哪里去？你不知道。你一个怀孕的女奴，独自在旷野中，走在通往埃及的路上，前方是什么你完全不知道。
+
+夏甲回答："我从我的主母撒莱面前逃出来。"
+
+耶和华的使者对她说了三件事：第一，"你回到你主母那里，服在她手下"——这是一个艰难的命令，但也是保护：一个孕妇独自在旷野中无法存活。第二，"我必使你的后裔极其繁多，甚至不可胜数"——这是恩典的应许，与给亚伯兰的应许相呼应。第三，"你如今怀孕要生一个儿子，可以给他起名叫以实玛利，因为耶和华听见了你的苦情。"
+
+以实玛利——"神听见"的意思。
+
+弟兄姐妹，这个名字是整个故事的转折点。在一个没有人听她说话的世界里——撒莱苦待她，亚伯兰不管她——**神听见了。** 一个埃及女奴的哭泣，天地的主宰听见了。
+
+夏甲就称那对她说话的耶和华为"看顾人的神"。因而说："在这里我也看见那看顾我的么？"所以这井名叫庇耳拉海莱——"那看顾我的永活者之井"。
+
+夏甲是圣经中第一个给神起名字的人。不是亚伯拉罕，不是族长，而是一个埃及女奴。她说：你是"看顾人的神"——El Roi，"看见我的神"。
+
+在古代世界，奴隶是不被看见的。她们是财产，不是人。但神看见了夏甲。神看见了她的痛苦，听见了她的哭泣，在旷野中亲自来寻找她。
+
+这就是我们的神。他不是只看顾尊贵人的神，他是看顾所有受苦之人的神。诗篇34:18说："耶和华靠近伤心的人，拯救灵性痛悔的人。"
+
+后来夏甲给亚伯兰生了一个儿子；亚伯兰给他起名叫以实玛利。夏甲给亚伯兰生以实玛利的时候，亚伯兰年八十六岁。
+
+以实玛利出生了。但他不是应许之子。他是人的计划的产物，不是神的应许的实现。从以实玛利到以撒，还要再等十四年。
+
+保罗后来在加拉太书4:22-26中用这个故事做了一个深刻的比喻：夏甲代表律法之约，是凭血气生的；撒拉代表恩典之约，是凭应许生的。"弟兄们，我们是凭着应许作儿女，如同以撒一样。"（加拉太书4:28）
+
+弟兄姐妹，如果你今天正在等候神的应许，如果你已经等了很久，如果你开始想要用自己的方法来"帮助"神——请停下来。看看以实玛利。人的方法可以产生结果，但那个结果会带来几千年的冲突和痛苦。神的时间表不是你的时间表，但神的时间表永远是最好的。
+
+同时，如果你觉得自己被忽略、被遗忘、不被看见——请记住夏甲的神。他是El Roi，看见你的神。他听见你的苦情，他在旷野中寻找你，他为你的眼泪起了一个名字。
+
+你不是无人看顾的。永活的神看见你了。`,
+  content_en: `Brothers and sisters, chapter sixteen is a story about waiting — about what happens when people can no longer wait and try to "help" God fulfill His promise through their own methods.
+
+Now Sarai, Abram's wife, had borne him no children. She had a female Egyptian servant whose name was Hagar.
+
+Notice this detail: Hagar was Egyptian. She was most likely one of the servants Pharaoh gave Abram when he went down to Egypt (Genesis 12:16). That trip to Egypt was itself a failure of faith — Abram left the promised land of Canaan because of famine and called his wife his sister. Now the "legacy" of that failure has returned, becoming the instrument of a new temptation.
+
+The consequences of sin are never one-time events. A wrong decision can resurface years later in unexpected ways.
+
+And Sarai said to Abram, "Behold now, the LORD has prevented me from bearing children. Go in to my servant; it may be that I shall obtain children by her." And Abram listened to the voice of Sarai.
+
+This phrase — "Abram listened to the voice of Sarai" — is startling. Do you remember the Garden of Eden? "Adam... listened to the voice of his wife and ate the fruit" (Genesis 3:17). This is not to say a husband should never listen to his wife — but when a wife's suggestion contradicts God's will, the husband cannot use "submission to his wife" as an excuse to abandon spiritual responsibility. Abram knew God's promise was for Sarai to bear a child, but he chose a path that seemed more "realistic."
+
+So, after Abram had lived ten years in the land of Canaan, Sarai, Abram's wife, took Hagar the Egyptian, her servant, and gave her to Abram her husband as a wife.
+
+Ten years. It had been ten years since the calling, and the promised son had not come. Ten years of waiting is enough to wear away anyone's patience. Sarai's proposal was entirely legal in their culture — ancient Near Eastern laws (such as the Nuzi tablets and the Code of Hammurabi) permitted a barren wife to give her servant to her husband, and the child would be credited to the wife.
+
+But the issue is not whether culture permits it, but whether God has spoken thus.
+
+God's promise was clear: your offspring shall come from your own body (Genesis 15:4). God never mentioned Hagar, never mentioned a servant, never offered an alternative plan. God said: "Your very own son shall be your heir."
+
+Brothers and sisters, this is one of the greatest temptations in the life of faith: **using human methods to fulfill God's promises.** The goal is right — to have an heir; but the method is wrong — not according to God's way, but according to human wisdom.
+
+This temptation appears in every generation of believers. A church wants to grow, so it substitutes secular marketing strategies for prayer and preaching. An individual wants success, so he substitutes compromise and shortcuts for patience and waiting. We too easily treat "correct results" as evidence of "correct methods." But Scripture never sees it that way. **In God's kingdom, the method matters as much as the goal.**
+
+And he went in to Hagar, and she conceived. And when she saw that she had conceived, she looked with contempt on her mistress.
+
+Once pregnant, Hagar's attitude immediately changed. In that culture, fertility was a woman's greatest honor, and barrenness was the greatest shame. Hagar was pregnant; Sarai was not — the power dynamic reversed in an instant.
+
+And Sarai said to Abram, "May the wrong done to me be on you! I gave my servant to your embrace, and when she saw that she had conceived, she looked on me with contempt. May the LORD judge between you and me!"
+
+The pain here is multi-layered. Sarai initiated the whole arrangement, yet she now suffers from its consequences. She shifts the blame to Abram — "May the wrong done to me be on you!" — when in fact she herself proposed the plan. One characteristic of sin is this: when consequences arrive, we always want someone else to take responsibility.
+
+Abram's response is equally disappointing. He said: "Behold, your servant is in your power; do to her as you please." He completely withdrew, pushing responsibility back to Sarai. As head of the household, he was unwilling to bear the consequences of the decision, nor was he willing to protect Hagar — a vulnerable person under his authority.
+
+Then Sarai dealt harshly with her, and she fled from her.
+
+**And then came the most moving scene of the entire chapter.**
+
+The angel of the LORD found her by a spring of water in the wilderness, the spring on the way to Shur. And he said, "Hagar, servant of Sarai, where have you come from and where are you going?"
+
+This is the first appearance of "the angel of the LORD" in Scripture. Many Reformed theologians believe the angel of the LORD is the pre-incarnate Christ — because in verse 13, Hagar calls him "a God of seeing," and no mere angel can be called God.
+
+But more important is the question God asked: "Where have you come from and where are you going?"
+
+This reminds me of what God said to Adam in the Garden of Eden: "Where are you?" (Genesis 3:9). God did not lack the answer — He wanted Hagar to face her own situation. Where have you come from? From a broken household relationship. Where are you going? You don't know. You are a pregnant slave woman, alone in the wilderness, walking toward Egypt, with no idea what lies ahead.
+
+Hagar answered: "I am fleeing from my mistress Sarai."
+
+The angel of the LORD told her three things. First: "Return to your mistress and submit to her" — a difficult command, but also protection: a pregnant woman alone in the wilderness could not survive. Second: "I will surely multiply your offspring so that they cannot be numbered for multitude" — a gracious promise, echoing the promise given to Abram. Third: "Behold, you are pregnant and shall bear a son. You shall call his name Ishmael, because the LORD has listened to your affliction."
+
+Ishmael — meaning "God hears."
+
+Brothers and sisters, this name is the turning point of the entire story. In a world where no one listened to her — Sarai oppressed her, Abram ignored her — **God heard.** The cry of an Egyptian slave woman reached the ears of the Lord of heaven and earth.
+
+So she called the name of the LORD who spoke to her, "You are a God of seeing," for she said, "Truly here I have seen him who looks after me." Therefore the well was called Beer-lahai-roi — "the well of the Living One who sees me."
+
+Hagar was the first person in Scripture to give God a name. Not Abraham, not the patriarchs — but an Egyptian slave woman. She said: You are El Roi — "the God who sees me."
+
+In the ancient world, slaves were unseen. They were property, not persons. But God saw Hagar. God saw her pain, heard her weeping, and personally came to seek her in the wilderness.
+
+This is our God. He is not a God who only looks after the noble; He is a God who looks after all who suffer. Psalm 34:18 says: "The LORD is near to the brokenhearted and saves the crushed in spirit."
+
+And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael. Abram was eighty-six years old when Hagar bore Ishmael to Abram.
+
+Ishmael was born. But he was not the son of promise. He was the product of human planning, not the fulfillment of God's promise. From Ishmael to Isaac, there would be another fourteen years of waiting.
+
+Paul later used this story in Galatians 4:22-26 as a profound allegory: Hagar represents the covenant of law, born according to the flesh; Sarah represents the covenant of grace, born according to promise. "Now you, brothers, like Isaac, are children of promise." (Galatians 4:28)
+
+Brothers and sisters, if today you are waiting for God's promise, if you have been waiting a long time, if you are beginning to think about "helping" God with your own methods — please stop. Look at Ishmael. Human methods can produce results, but those results will bring millennia of conflict and pain. God's timetable is not your timetable, but God's timetable is always the best.
+
+At the same time, if you feel overlooked, forgotten, unseen — remember Hagar's God. He is El Roi, the God who sees you. He hears your affliction, He seeks you in the wilderness, He has given a name to your tears.
+
+You are not uncared for. The living God sees you.`,
+  historyContext_zh: `撒莱将使女给丈夫为妾的做法，在古代近东法律中有据可循。努兹文书（约公元前1500年）明确规定：不育的妻子应为丈夫提供一个使女来生育后嗣。汉谟拉比法典第146条也有类似规定。"书珥路"是从迦南到埃及的商路，说明夏甲逃跑的方向是回埃及老家。庇耳拉海莱井位于加低斯和巴列之间，即今天的内盖夫沙漠地区。`,
+  historyContext_en: `Sarai's practice of giving her servant to her husband was well attested in ancient Near Eastern law. The Nuzi tablets (c. 1500 BC) explicitly stipulate that a barren wife should provide a servant to bear an heir for her husband. The Code of Hammurabi (Law 146) contains similar provisions. The "way to Shur" was the trade route from Canaan to Egypt, indicating Hagar was heading back toward her homeland. Beer-lahai-roi was located between Kadesh and Bered, in the area of today's Negev desert.`,
+  structure_zh: `全章分三段：1-6节（人的计划——撒莱给夏甲）；7-14节（神的介入——耶和华的使者寻找夏甲）；15-16节（结果——以实玛利出生）。核心转折在第7节"耶和华的使者遇见她"——从人的失败转向神的怜悯。两个命名构成首尾呼应：以实玛利（"神听见"）和庇耳拉海莱（"看顾我的永活者之井"），突出神既听见又看见。`,
+  structure_en: `The chapter divides into three sections: verses 1-6 (human planning — Sarai gives Hagar); verses 7-14 (divine intervention — the angel of the LORD finds Hagar); verses 15-16 (the outcome — Ishmael's birth). The pivotal turn comes at verse 7, "The angel of the LORD found her" — shifting from human failure to divine mercy. Two namings form an inclusio: Ishmael ("God hears") and Beer-lahai-roi ("the well of the Living One who sees me"), highlighting that God both hears and sees.`,
+  theology_zh: `人的方法不能成就神的应许——以实玛利是血气之子，非应许之子（加4:23）；神的主权怜悯超越人的等级——他看顾一个埃及女奴；耶和华的使者是旧约中基督的显现（Christophany）；神在人的失败中仍然掌权，将人的错误纳入他更大的计划；等候神的时间是信心的核心操练。`,
+  theology_en: `Human methods cannot fulfill God's promises — Ishmael is the child of the flesh, not of promise (Galatians 4:23); God's sovereign mercy transcends human hierarchy — He cares for an Egyptian slave; the angel of the LORD is a Christophany in the Old Testament; God remains sovereign even in human failure, incorporating human errors into His larger plan; waiting on God's timing is a core exercise of faith.`,
+  christShadow_zh: `耶和华的使者在旷野寻找逃亡的夏甲，这是基督寻找失丧之人的预表——"人子来，为要寻找、拯救失丧的人"（路加福音19:10）。神主动到旷野中寻找一个被遗弃的女奴，正如基督来到世间寻找被罪遗弃的罪人。以实玛利的名字"神听见"也预指基督的代求职分——"他是长远活着，替他们祈求"（希伯来书7:25）。`,
+  christShadow_en: `The angel of the LORD seeking the fleeing Hagar in the wilderness foreshadows Christ seeking the lost — "For the Son of Man came to seek and to save the lost" (Luke 19:10). God went into the wilderness to find an abandoned slave woman, just as Christ came into the world to find sinners abandoned by sin. Ishmael's name, "God hears," also prefigures Christ's intercessory office — "He always lives to make intercession for them" (Hebrews 7:25).`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 17,
   publishDate: '2026-03-10',
   title: '割礼之约', titleEn: 'The Covenant of Circumcision',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 17:1 / Genesis 17:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 17:1-27 / Genesis 17:1-27',
+  content_zh: `弟兄姐妹，从第十六章到第十七章之间，有十三年的沉默。
+
+亚伯兰八十六岁生了以实玛利，九十九岁时耶和华才再次向他显现。十三年，神没有说话。十三年里，亚伯兰大概以为以实玛利就是应许之子了。他用自己的方法"帮"了神一把，似乎也得到了结果。日子一天天过去，以实玛利渐渐长大，亚伯兰也许已经安于现状了。
+
+但神的沉默不是遗忘。神的等待有他的时间。
+
+亚伯兰年九十九岁的时候，耶和华向他显现，对他说："我是全能的神。你当在我面前作完全人。"
+
+"全能的神"——希伯来文是El Shaddai。这是神第一次用这个名字启示自己。El Shaddai，全能者，意思是：没有任何事超出我的能力。你的妻子九十岁不能生育？在El Shaddai面前，这不是问题。你的身体已经如同死人？在全能者面前，死人也能复活。
+
+"你当在我面前作完全人"——这里的"完全"不是无罪完美，而是全心全意、毫无保留的委身。神的意思是：不要再用自己的方法了。不要再靠夏甲了。完全信靠我。
+
+然后神宣布了一系列改变一切的事情。
+
+第一，改名。"从此以后，你的名不再叫亚伯兰，要叫亚伯拉罕，因为我已立你作多国的父。"
+
+亚伯兰（Abram）的意思是"尊贵的父"；亚伯拉罕（Abraham）的意思是"多国的父"。想象一下这个场景：一个九十九岁的老人，只有一个儿子（还是使女生的），神却要他从今天开始叫"多国的父"。每次有人叫他的名字，都是在提醒他一个尚未实现的应许。
+
+在古代近东世界，改名意味着身份的根本转变。神不是给亚伯兰一个外号，而是重新定义他的身份。你不再是你自己了。你是我所命名的人。你的身份从今天开始由我的应许来定义，不是由你的现实来定义。
+
+弟兄姐妹，这也是每一个基督徒的经历。当你信主的那一刻，你的身份就被重新定义了。你不再是罪人，你是圣徒。你不再是孤儿，你是神的儿女。世界看你还是老样子，但神已经给你起了新名字。
+
+第二，立约。"我要与你并你世世代代的后裔坚立我的约，作永远的约，是要作你和你后裔的神。"
+
+注意这句话的核心："是要作你和你后裔的神。"这是整本圣经中恩典之约的公式。从亚伯拉罕开始，一直到新约，神反复说的就是这句话："我要作你们的神，你们要作我的子民。"（耶利米书31:33；希伯来书8:10）这不仅仅是一个法律条文，这是一个关系的宣告——全能的神要作你的神，亲自与你同在，亲自负责你的一切。
+
+第三，赐地。"我要将你现在寄居的地，就是迦南全地，赐给你和你的后裔永远为业。"
+
+第四，也是最令人瞩目的：割礼。
+
+"你们所有的男子都要受割礼；这就是我与你并你的后裔所立的约，是你们所当遵守的。你们都要受割礼；这是我与你们立约的证据。"
+
+割礼是什么？从外在来说，它是在男性身体上做一个永久的记号。从神学意义上说，它是约的记号和印证——就像后来的洗礼一样。
+
+韦敏斯德信条教导我们：旧约的割礼和新约的洗礼，在本质上是同一个属灵实际的不同记号。割礼指向的是"心的割礼"——除去罪的污秽，与神立约归属于他。保罗在罗马书4:11说，割礼是亚伯拉罕"未受割礼的时候因信称义的印证"——注意，亚伯拉罕是先因信称义（创世记15:6），后来才受割礼。信在先，记号在后。这就是为什么改革宗教会为信徒的婴儿施洗——因为约的记号可以先于个人信心的表达，正如割礼先于以撒的信心。
+
+"生下来第八日，都要受割礼。"第八天——在圣经的数字象征中，八代表新的开始（七是完全，八是超越完全的新起点）。基督在七日的第一日复活，开启了新创造。割礼在第八天，指向那个新的开始。
+
+然后神又做了一件事。
+
+"你的妻子撒莱不可再叫撒莱，她的名要叫撒拉。"
+
+撒莱（Sarai）和撒拉（Sarah）都是"公主"的意思，但形式不同。神给撒拉也改了名，因为应许不只是关于亚伯拉罕，也是关于撒拉。"我必赐福给她，也要使你从她得一个儿子。我要赐福给她，她也要作多国之母；必有百姓的君王从她而出。"
+
+亚伯拉罕就俯伏在地喜笑，心里说："一百岁的人还能得孩子么？撒拉已经九十岁了，还能生养么？"
+
+亚伯拉罕笑了。这个笑是什么意思？有人说是不信的笑，有人说是惊喜的笑。我更倾向于后者——因为紧接着他说的话不是质疑神，而是为以实玛利求情："但愿以实玛利活在你面前。"
+
+他不是说"我不信"，他是说"那以实玛利怎么办？"他已经爱了以实玛利十三年了。他是一个父亲，他不愿意放弃自己的儿子。
+
+神的回答很清楚："不然，你妻子撒拉要给你生一个儿子，你要给他起名叫以撒。"以撒——Yitzhak——"他笑了"。神用亚伯拉罕的笑声来命名应许之子。每次叫以撒的名字，都在说：当初你笑了，但看看神做了什么。
+
+但神也没有抛弃以实玛利："至于以实玛利，我也应允你：我必赐福给他，使他昌盛，极其繁多。他必生十二个族长；我也要使他成为大国。"
+
+这里有一个重要的区分：以实玛利有神的祝福，但没有约的应许。应许之约只与以撒坚定。神爱以实玛利，但拣选的线路经过以撒。这不是因为以撒比以实玛利好，而是因为神的主权拣选。"双子还没有生下来，善恶还没有作出来，只因要显明神拣选人的旨意，不在乎人的行为，乃在乎召人的主。"（罗马书9:11-12）
+
+正当那日，亚伯拉罕遵着神的命，给他的儿子以实玛利和家里的一切男子都行了割礼。亚伯拉罕受割礼的时候年九十九岁。
+
+九十九岁接受割礼。这需要多大的信心和顺服。一个近百岁的老人，当天就执行了神的命令——不是等到明天，不是先想一想，而是"正当那日"。
+
+弟兄姐妹，第十七章教导我们几件极其重要的事。
+
+第一，神的应许不会因为人的失败而改变。亚伯拉罕在第十六章用了人的方法，生了以实玛利——但神没有因此废弃他的应许。十三年的沉默之后，神回来了，而且带来了更大、更明确的应许。你的失败不能阻止神的计划。
+
+第二，神给他的子民新的身份。改名不是形式，是实质。你是谁，由神说了算，不是由你的过去说了算。
+
+第三，约有记号。割礼是旧约的记号，洗礼是新约的记号。记号不是约的本身，但记号是约的可见证据。韦敏斯德小要理问答第94问教导我们，洗礼是"表明和印证我们被接在恩典之约里面"的圣礼。
+
+第四，神的拣选是主权的。以撒被拣选不是因为他的功德，而是因为神的旨意。这是改革宗神学的核心：救恩从始至终都是神的恩典，不是人的功劳。
+
+弟兄姐妹，如果你今天觉得自己的过去太破碎、太多失败——请听神对亚伯拉罕说的话："我是全能的神。"El Shaddai。没有什么事在他是做不到的。他能让九十九岁的老人改名，能让九十岁的妇人生子，能让你的废墟变成新的开始。
+
+他已经给了你新名字。你是他的儿女。`,
+  content_en: `Brothers and sisters, between chapter sixteen and chapter seventeen, there are thirteen years of silence.
+
+Abram was eighty-six when Ishmael was born. He was ninety-nine when the LORD appeared to him again. Thirteen years in which God did not speak. During those thirteen years, Abram probably assumed Ishmael was the child of promise. He had "helped" God with his own methods and seemed to have gotten results. Days passed, Ishmael grew up, and Abram may have settled into the status quo.
+
+But God's silence is not forgetfulness. God's waiting has His own timing.
+
+When Abram was ninety-nine years old the LORD appeared to Abram and said to him, "I am God Almighty; walk before me, and be blameless."
+
+"God Almighty" — in Hebrew, El Shaddai. This is the first time God reveals Himself by this name. El Shaddai, the Almighty, meaning: nothing is beyond My power. Your wife is ninety and cannot bear children? Before El Shaddai, this is not a problem. Your body is as good as dead? Before the Almighty, even the dead can rise.
+
+"Walk before me, and be blameless" — "blameless" here does not mean sinless perfection, but wholehearted, unreserved commitment. God is saying: stop using your own methods. Stop relying on Hagar. Trust Me completely.
+
+Then God announced a series of things that would change everything.
+
+First, a new name. "No longer shall your name be called Abram, but your name shall be Abraham, for I have made you the father of a multitude of nations."
+
+Abram means "exalted father"; Abraham means "father of a multitude." Imagine the scene: a ninety-nine-year-old man with only one son (born of a servant), yet God tells him to be called "father of a multitude" from this day forward. Every time someone calls his name, it reminds him of a promise not yet fulfilled.
+
+In the ancient Near East, renaming signified a fundamental transformation of identity. God was not giving Abram a nickname — He was redefining who he was. You are no longer who you were. You are the one I have named. From today, your identity is defined by My promise, not by your reality.
+
+Brothers and sisters, this is the experience of every Christian. The moment you believed, your identity was redefined. You are no longer a sinner; you are a saint. You are no longer an orphan; you are a child of God. The world still sees you as you were, but God has already given you a new name.
+
+Second, the covenant. "And I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you."
+
+Notice the heart of this statement: "to be God to you and to your offspring." This is the covenant formula of the entire Bible. From Abraham onward, through the New Testament, God repeatedly says this: "I will be your God, and you shall be my people" (Jeremiah 31:33; Hebrews 8:10). This is not merely a legal provision — it is a relational declaration. The Almighty God will be your God, personally present with you, personally responsible for all your needs.
+
+Third, the land. "And I will give to you and to your offspring after you the land of your sojournings, all the land of Canaan, for an everlasting possession."
+
+Fourth, and most striking of all: circumcision.
+
+"Every male among you shall be circumcised. You shall be circumcised in the flesh of your foreskins, and it shall be a sign of the covenant between me and you."
+
+What is circumcision? Outwardly, it is a permanent mark on the male body. Theologically, it is the sign and seal of the covenant — just as baptism would later become.
+
+The Westminster Confession teaches us that Old Testament circumcision and New Testament baptism are, in essence, different signs of the same spiritual reality. Circumcision points to "circumcision of the heart" — the removal of sin's defilement, and covenant belonging to God. Paul says in Romans 4:11 that circumcision was a "seal of the righteousness that [Abraham] had by faith while he was still uncircumcised" — note carefully: Abraham was justified by faith first (Genesis 15:6) and circumcised later. Faith comes first; the sign follows. This is why Reformed churches baptize the infants of believers — because the covenant sign may precede the personal expression of faith, just as circumcision preceded Isaac's own faith.
+
+"Every male throughout your generations... whether born in your house or bought with your money... He who is eight days old among you shall be circumcised." The eighth day — in biblical numerology, eight represents new beginning (seven is completion; eight is the new start beyond completion). Christ rose on the first day of the week, inaugurating the new creation. Circumcision on the eighth day points to that new beginning.
+
+Then God did one more thing.
+
+"As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name."
+
+Sarai and Sarah both mean "princess," but in different forms. God renamed Sarah too, because the promise concerned not only Abraham but also Sarah. "I will bless her, and moreover, I will give you a son by her. I will bless her, and she shall become nations. Kings of peoples shall come from her."
+
+Then Abraham fell on his face and laughed and said to himself, "Shall a child be born to a man who is a hundred years old? Shall Sarah, who is ninety years old, bear a child?"
+
+Abraham laughed. What did this laughter mean? Some say it was the laugh of unbelief; others say it was the laugh of astonished joy. I lean toward the latter — because what he said next was not a challenge to God but a plea for Ishmael: "Oh that Ishmael might live before you!"
+
+He was not saying "I don't believe." He was saying "What about Ishmael?" He had loved Ishmael for thirteen years. He was a father; he could not abandon his son.
+
+God's answer was clear: "No, but Sarah your wife shall bear you a son, and you shall call his name Isaac." Isaac — Yitzhak — "he laughs." God named the son of promise after Abraham's laughter. Every time Isaac's name was spoken, it said: you laughed then, but look what God has done.
+
+Yet God did not abandon Ishmael: "As for Ishmael, I have heard you; behold, I have blessed him and will make him fruitful and multiply him greatly. He shall father twelve princes, and I will make him into a great nation."
+
+Here is a crucial distinction: Ishmael received God's blessing but not the covenant promise. The covenant promise was established with Isaac alone. God loved Ishmael, but the line of election ran through Isaac. This was not because Isaac was better than Ishmael, but because of God's sovereign election. "Though they were not yet born and had done nothing either good or bad — in order that God's purpose of election might continue, not because of works but because of him who calls." (Romans 9:11-12)
+
+That very day Abraham took Ishmael his son and all those born in his house and circumcised them. Abraham was ninety-nine years old when he was circumcised.
+
+Circumcised at ninety-nine. Think of the faith and obedience this required. A man nearly a hundred years old, and he carried out God's command on the same day — not the next day, not after thinking it over, but "that very day."
+
+Brothers and sisters, chapter seventeen teaches us several supremely important truths.
+
+First, God's promises do not change because of human failure. Abraham used human methods in chapter sixteen and fathered Ishmael — but God did not revoke His promise. After thirteen years of silence, God returned with an even greater, even more explicit promise. Your failures cannot stop God's plan.
+
+Second, God gives His people a new identity. Renaming is not a formality — it is substance. Who you are is determined by God's word, not by your past.
+
+Third, the covenant has a sign. Circumcision was the sign of the old covenant; baptism is the sign of the new. The sign is not the covenant itself, but it is the visible evidence of the covenant. Westminster Shorter Catechism Q94 teaches that baptism is a sacrament "signifying and sealing our ingrafting into Christ."
+
+Fourth, God's election is sovereign. Isaac was chosen not for his merit but according to God's purpose. This is the heart of Reformed theology: salvation from first to last is God's grace, not human achievement.
+
+Brothers and sisters, if today you feel your past is too broken, too full of failures — hear what God said to Abraham: "I am God Almighty." El Shaddai. Nothing is impossible for Him. He can rename a ninety-nine-year-old man, He can give a ninety-year-old woman a son, He can turn your ruins into a new beginning.
+
+He has already given you a new name. You are His child.`,
+  historyContext_zh: `El Shaddai（全能的神）是神在族长时期的主要称呼（出埃及记6:3）。割礼在古代近东并非以色列独有——埃及人也行割礼——但以色列的割礼独特之处在于它的约的含义：不是成年礼，而是婴儿出生第八天就施行的约的记号。亚伯拉罕时代的迦南地处于埃及和美索不达米亚两大文明之间的走廊地带，改名仪式在古代条约中常见，代表宗主对附庸的主权宣告。`,
+  historyContext_en: `El Shaddai ("God Almighty") was God's primary self-designation during the patriarchal period (Exodus 6:3). Circumcision was not unique to Israel in the ancient Near East — Egyptians also practiced it — but Israelite circumcision was distinctive in its covenantal meaning: not a rite of passage into adulthood, but a covenant sign administered on the eighth day of a male infant's life. Canaan in Abraham's time lay along the corridor between the two great civilizations of Egypt and Mesopotamia. Renaming ceremonies were common in ancient treaties, representing a suzerain's sovereign claim over a vassal.`,
+  structure_zh: `全章结构：1-8节（约的宣告——改名、应许后裔和土地）；9-14节（约的记号——割礼的命令）；15-22节（约的具体化——撒拉改名、应许以撒、以实玛利的祝福）；23-27节（约的执行——当日即行割礼）。核心经文是第7节"作永远的约，是要作你和你后裔的神"——这是圣经恩典之约的标准公式。`,
+  structure_en: `The chapter's structure: verses 1-8 (covenant announcement — renaming, promise of offspring and land); verses 9-14 (covenant sign — the command of circumcision); verses 15-22 (covenant specification — Sarah renamed, Isaac promised, Ishmael blessed); verses 23-27 (covenant execution — circumcision performed that very day). The core verse is v. 7: "an everlasting covenant, to be God to you and to your offspring" — this is the standard formula of the biblical covenant of grace.`,
+  theology_zh: `割礼是恩典之约的记号和印证，对应新约的洗礼（西2:11-12）；神的主权拣选——以撒被拣选不因功德（罗9:11-12）；约的公式"作你的神"贯穿两约（耶31:33，来8:10）；信心先于记号——亚伯拉罕先因信称义后受割礼（罗4:11）；神的应许不因人的失败而废弃（罗11:29）。韦敏斯德信条第28章论洗礼：洗礼是新约中恩典之约的圣礼，代替了旧约中的割礼。`,
+  theology_en: `Circumcision is the sign and seal of the covenant of grace, corresponding to baptism in the New Testament (Colossians 2:11-12); God's sovereign election — Isaac was chosen not by merit (Romans 9:11-12); the covenant formula "to be your God" runs through both Testaments (Jeremiah 31:33; Hebrews 8:10); faith precedes the sign — Abraham was justified by faith before circumcision (Romans 4:11); God's promises are not nullified by human failure (Romans 11:29). Westminster Confession chapter 28 on baptism: baptism is the New Testament sacrament of the covenant of grace, replacing Old Testament circumcision.`,
+  christShadow_zh: `割礼指向"心的割礼"——基督借着圣灵在信徒心中除去罪的权势（罗2:29，西2:11）。亚伯拉罕改名预表信徒在基督里得新身份——"若有人在基督里，他就是新造的人"（林后5:17）。"作你和你后裔的神"这个应许，最终在基督里实现——"你们既属乎基督，就是亚伯拉罕的后裔，是照着应许承受产业的了"（加3:29）。以撒的名字"他笑了"预表福音的喜乐——在人看来不可能的事，神成就了。`,
+  christShadow_en: `Circumcision points to "circumcision of the heart" — Christ, through the Holy Spirit, removes the dominion of sin in believers (Romans 2:29; Colossians 2:11). Abraham's renaming foreshadows the new identity believers receive in Christ — "If anyone is in Christ, he is a new creation" (2 Corinthians 5:17). The promise "to be God to you and your offspring" finds ultimate fulfillment in Christ — "And if you are Christ's, then you are Abraham's offspring, heirs according to promise" (Galatians 3:29). Isaac's name, "he laughs," prefigures the joy of the gospel — what seems impossible to man, God accomplishes.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 18,
   publishDate: '2026-03-11',
   title: '三位来客', titleEn: 'Three Visitors',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 18:1 / Genesis 18:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 18:1-33 / Genesis 18:1-33',
+  content_zh: `弟兄姐妹，第十八章是创世记中最奇妙的一章之一。在这里，永恒的神坐在一棵橡树下，吃了一顿人间的饭。
+
+耶和华在幔利橡树那里向亚伯拉罕显现出来。那时正热，亚伯拉罕坐在帐棚门口，举目观看，见有三个人在对面站着。
+
+请注意经文的写法：先说"耶和华向亚伯拉罕显现"，然后说亚伯拉罕看见"三个人"。这不是矛盾——这是启示的层次。亚伯拉罕的肉眼看见的是三个旅客，但信心的眼睛看见的是耶和华自己。
+
+他一见，就从帐棚门口跑去迎接他们，俯伏在地，说："我主，我若在你眼前蒙恩，求你不要离开仆人往前去。"
+
+一个九十九岁的老人，在中午最热的时候，看见三个陌生人——然后他跑过去。跑。希伯来文用的是"奔跑"。在古代近东的文化中，年长者是不跑的，跑是不体面的事。但亚伯拉罕跑了。
+
+他说："容我拿点水来，你们洗洗脚，在树下歇息歇息。我再拿一点饼来，你们可以加添心力。"
+
+然后经文告诉我们他实际做了什么：他急忙进帐棚见撒拉，说"你速速拿三细亚细面调和做饼"——三细亚大约相当于二十多公斤的面粉，这可不是"一点饼"。然后他又跑到牛群里，牵了一只又嫩又好的牛犊来，交给仆人预备。最后他又取了奶油和奶。
+
+亚伯拉罕说的是"一点饼"，做的是一顿盛宴。这就是真正的好客之道——不是口头上的客气，而是行动上的慷慨。希伯来书13:2说："不可忘记用爱心接待客旅；因为曾有接待客旅的，不知不觉就接待了天使。"这节经文直接引用的就是亚伯拉罕的故事。
+
+亚伯拉罕又取了奶油和奶，并预备好的牛犊来，摆在他们面前，自己在树下站在旁边，他们就吃了。
+
+自己站在旁边——他没有和客人一起坐下来吃。在古代近东，这是最高规格的接待：主人亲自站立侍候，像仆人一样服务客人。
+
+弟兄姐妹，想一想这个画面：全能的神，天地的创造者，坐在一棵橡树下面，吃着奶油和牛犊。这不是神需要吃饭——这是神俯就人的恩典。他愿意以人的方式来到人中间，吃人的食物，在人的帐棚下歇息。这预表了什么？道成肉身。"道成了肉身，住在我们中间。"（约翰福音1:14）神不是遥不可及的——他来了，来到你的帐棚门口。
+
+然后，他们问："你妻子撒拉在哪里？"
+
+注意：他们知道撒拉的名字。亚伯拉罕没有告诉他们——但他们知道。这已经不是普通的旅客了。
+
+三人中有一位说："到明年这时候，我必要回到你这里；你的妻子撒拉必生一个儿子。"
+
+撒拉在那人后边的帐棚门口也听见了这话。亚伯拉罕和撒拉年纪老迈，撒拉的月经已断绝了。
+
+撒拉心里暗笑，说："我既已衰败，我主也老迈，岂能有这喜事呢？"
+
+撒拉笑了——是心里暗笑，不是出声。没有人看见她笑。但耶和华说："撒拉为什么暗笑，说：'我既已年老，果真能生养么？'"
+
+这句话暴露了说话者的身份。能读人心中隐秘思想的，只有神。"耶和华岂有难成的事么？"
+
+这是整章——也许是整卷创世记——最重要的一句话。**"耶和华岂有难成的事么？"** 希伯来文的原文更有力："对耶和华来说，有什么事太奇妙么？"
+
+这个问题不需要回答，因为答案是显而易见的：没有。没有任何事对耶和华来说太难。九十岁的妇人生子？不难。死人复活？不难。罪人称义？不难。你觉得你的处境无解？"耶和华岂有难成的事么？"
+
+撒拉就害怕，不承认，说："我没有笑。"那位说："不然，你实在笑了。"
+
+撒拉否认了。但神没有因此惩罚她。他只是温和地纠正："不然，你实在笑了。"神知道我们的软弱。他知道信心的成长需要时间。一年之后，撒拉会再次笑——但那次是喜乐的笑。
+
+**然后故事转入了一个完全不同的方向。**
+
+三人起行，向所多玛观看，亚伯拉罕也与他们同行。耶和华说："我所要作的事岂可瞒着亚伯拉罕呢？"
+
+这句话揭示了亚伯拉罕的特殊地位。神不是必须告诉亚伯拉罕——但他选择告诉他。"耶和华与敬畏他的人亲密；他必将自己的约指示他们。"（诗篇25:14）亚伯拉罕不仅仅是一个蒙应许的人，他是神的朋友（雅各书2:23）。朋友之间不隐瞒。
+
+耶和华说："所多玛和蛾摩拉的罪恶甚重，声闻于我。我现在要下去，察看他们所行的，果然尽像那达到我耳中的声音一样么？若是不然，我也必知道。"
+
+二人转身离开那里，向所多玛去——注意，是两个人走了，留下的那一位是耶和华。
+
+**亚伯拉罕仍旧站在耶和华面前。**
+
+然后开始了圣经中最大胆、最感人的一段代祷。
+
+亚伯拉罕近前来，说："无论善恶，你都要剿灭么？假若那城里有五十个义人，你还剿灭那地方么？不为城里这五十个义人饶恕其中的人么？将义人与恶人同杀，将义人与恶人一样看待，这断不是你所行的。审判全地的主岂不行公义么？"
+
+**"审判全地的主岂不行公义么？"** 这是整本圣经中对神公义最深刻的宣告之一。亚伯拉罕不是在质疑神——他是在诉诸神自己的本性。他知道神是公义的，所以他有信心向神求情。
+
+然后他从五十个义人开始，一路求到十个。每一次，他都说："求主不要动怒。"每一次，神都答应了。
+
+五十个？行。四十五个？行。四十个？行。三十个？行。二十个？行。十个？行。
+
+亚伯拉罕停在了十个。他没有继续问下去。也许他以为，罗得一家加上女婿们，至少有十个义人吧。
+
+但事实是：所多玛连十个义人都没有。
+
+弟兄姐妹，这段代祷教导我们什么？
+
+第一，祷告是与神对话，不是向一堵墙说话。神不仅听，他还回应。他愿意和亚伯拉罕反复商量——不是因为神需要被说服，而是因为神喜悦他儿女的祷告。
+
+第二，代祷的基础是神的公义，不是人的功劳。亚伯拉罕没有说"看在我的份上"，他说的是"审判全地的主岂不行公义么"。真正的代祷是诉诸神自己的性情。
+
+第三，即便是代祷也有极限。亚伯拉罕求到了十个义人，但所多玛连十个都没有。然而，神仍然在审判中记念了亚伯拉罕——第十九章29节说："当神毁灭平原诸城的时候，他记念亚伯拉罕，正在倾覆罗得所住之城的时候，就打发罗得从倾覆之中出来。"
+
+亚伯拉罕的代祷"失败"了吗？没有。虽然所多玛没有被赦免，但罗得被救了出来——因为神记念亚伯拉罕的代求。代祷的果效可能不是你期望的形式，但代祷永远不会落空。
+
+弟兄姐妹，这一章的两个场景——幔利橡树下的盛宴和为所多玛的代求——看似不相关，实则有深刻的联系。在盛宴中，我们看见神俯就到人的层面来；在代祷中，我们看见人被提升到与神对话的层面。这就是恩典的双向运动：神下来，人上去。
+
+而这一切，最终在基督里完全实现。基督是真正从天上下来与人同吃同住的神（约翰福音1:14）。基督也是那位真正的代求者——"他是长远活着，替他们祈求"（希伯来书7:25）。亚伯拉罕为所多玛求到十个义人就停了，但基督为全世界的罪人代求，而且他的代求永不止息。
+
+"耶和华岂有难成的事么？"
+
+没有。绝对没有。`,
+  content_en: `Brothers and sisters, chapter eighteen is one of the most wondrous chapters in all of Genesis. Here, the eternal God sat beneath an oak tree and ate a human meal.
+
+The LORD appeared to Abraham by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. He lifted up his eyes and looked, and behold, three men were standing in front of him.
+
+Notice how the text is written: it first says "The LORD appeared to Abraham," then says Abraham saw "three men." This is not a contradiction — it is layers of revelation. Abraham's physical eyes saw three travelers, but the eyes of faith saw the LORD Himself.
+
+When he saw them, he ran from the tent door to meet them and bowed himself to the earth and said, "O Lord, if I have found favor in your sight, do not pass by your servant."
+
+A ninety-nine-year-old man, in the heat of midday, sees three strangers — and he runs. Runs. The Hebrew uses the word for "rushing." In ancient Near Eastern culture, an elder does not run — running was undignified. But Abraham ran.
+
+He said: "Let a little water be brought, and wash your feet, and rest yourselves under the tree, while I bring a morsel of bread, that you may refresh yourselves."
+
+Then the text tells us what he actually did: he hurried into the tent and told Sarah, "Quick! Three seahs of fine flour! Knead it, and make cakes" — three seahs amounts to over twenty kilograms of flour. That is no "morsel of bread." Then he ran to the herd and took a calf, tender and good, and gave it to a young man to prepare. And he took curds and milk as well.
+
+Abraham said "a morsel of bread" but prepared a feast. This is true hospitality — not verbal politeness, but generous action. Hebrews 13:2 says: "Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares." This verse directly references Abraham's story.
+
+Then he took curds and milk and the calf that he had prepared, and set it before them. And he stood by them under the tree while they ate.
+
+He stood by them — he did not sit down to eat with his guests. In the ancient Near East, this was the highest form of hospitality: the host standing in personal attendance, serving the guests as a servant would.
+
+Brothers and sisters, picture this scene: Almighty God, Creator of heaven and earth, sitting under an oak tree, eating curds and veal. This is not because God needed food — this is the grace of God condescending to humanity. He was willing to come among people in human fashion, eat human food, rest under a human tent. What does this foreshadow? The incarnation. "And the Word became flesh and dwelt among us." (John 1:14) God is not remote and unreachable — He came, right to your tent door.
+
+Then they asked: "Where is Sarah your wife?"
+
+Notice: they knew Sarah's name. Abraham had not told them — yet they knew. These were no ordinary travelers.
+
+One of them said, "I will surely return to you about this time next year, and Sarah your wife shall have a son."
+
+Sarah was listening at the tent door behind him. Now Abraham and Sarah were old, advanced in years. The way of women had ceased to be with Sarah.
+
+So Sarah laughed to herself, saying, "After I am worn out, and my lord is old, shall I have pleasure?"
+
+Sarah laughed — silently, inwardly. No one saw her laugh. But the LORD said: "Why did Sarah laugh and say, 'Shall I indeed bear a child, now that I am old?'"
+
+This statement revealed the speaker's identity. Only God can read the secret thoughts of the heart. "Is anything too hard for the LORD?"
+
+This is the most important sentence in the entire chapter — perhaps in the entire book of Genesis. **"Is anything too hard for the LORD?"** The Hebrew is even more forceful: "Is any matter too wonderful for the LORD?"
+
+This question needs no answer, because the answer is self-evident: No. Nothing is too hard for the LORD. A ninety-year-old woman bearing a child? Not too hard. The dead rising? Not too hard. Sinners justified? Not too hard. You think your situation is unsolvable? "Is anything too hard for the LORD?"
+
+Sarah was afraid and denied it, saying, "I did not laugh." He said, "No, but you did laugh."
+
+Sarah denied it. But God did not punish her for it. He simply corrected her gently: "No, but you did laugh." God knows our weakness. He knows that the growth of faith takes time. A year later, Sarah would laugh again — but that time it would be the laughter of joy.
+
+**Then the story pivoted in an entirely different direction.**
+
+The men set out from there and looked down toward Sodom. And Abraham went with them to set them on their way. The LORD said, "Shall I hide from Abraham what I am about to do?"
+
+This statement reveals Abraham's special standing. God was not obligated to tell Abraham — but He chose to. "The friendship of the LORD is for those who fear him, and he makes known to them his covenant." (Psalm 25:14) Abraham was not merely a man of promise; he was God's friend (James 2:23). Friends do not hide things from each other.
+
+Then the LORD said, "Because the outcry against Sodom and Gomorrah is great and their sin is very grave, I will go down to see whether they have done altogether according to the outcry that has come to me. And if not, I will know."
+
+So the men turned from there and went toward Sodom — notice: two men left; the one who remained was the LORD.
+
+**But Abraham still stood before the LORD.**
+
+Then began the boldest and most moving intercession in all of Scripture.
+
+Abraham drew near and said, "Will you indeed sweep away the righteous with the wicked? Suppose there are fifty righteous within the city. Will you then sweep away the place and not spare it for the fifty righteous who are in it? Far be it from you to do such a thing, to put the righteous to death with the wicked, so that the righteous fare as the wicked! Far be that from you! Shall not the Judge of all the earth do what is just?"
+
+**"Shall not the Judge of all the earth do what is just?"** This is one of the most profound declarations of God's justice in all of Scripture. Abraham was not questioning God — he was appealing to God's own nature. He knew God was just, and therefore he had confidence to plead.
+
+Then he negotiated down from fifty to ten. Each time he said, "Oh let not the Lord be angry." Each time, God agreed.
+
+Fifty? Yes. Forty-five? Yes. Forty? Yes. Thirty? Yes. Twenty? Yes. Ten? Yes.
+
+Abraham stopped at ten. He did not continue further. Perhaps he assumed that Lot's household plus his sons-in-law would total at least ten righteous persons.
+
+But the truth was: Sodom did not even have ten righteous people.
+
+Brothers and sisters, what does this intercession teach us?
+
+First, prayer is a conversation with God, not speaking to a wall. God not only listens — He responds. He was willing to go back and forth with Abraham — not because God needed persuading, but because God delights in the prayers of His children.
+
+Second, the foundation of intercession is God's justice, not human merit. Abraham did not say "for my sake"; he said "Shall not the Judge of all the earth do what is just?" True intercession appeals to God's own character.
+
+Third, even intercession has its limits. Abraham pleaded down to ten righteous, but Sodom did not even have ten. Yet God still remembered Abraham amid the judgment — Genesis 19:29 says: "So it was that, when God destroyed the cities of the valley, God remembered Abraham and sent Lot out of the midst of the overthrow."
+
+Did Abraham's intercession "fail"? No. Though Sodom was not spared, Lot was rescued — because God remembered Abraham's plea. The fruit of intercession may not take the form you expect, but intercession is never in vain.
+
+Brothers and sisters, the two scenes in this chapter — the feast under the oaks and the intercession for Sodom — seem unrelated but are profoundly connected. At the feast, we see God condescending to the human level; in the intercession, we see a human elevated to the level of dialogue with God. This is the two-directional movement of grace: God comes down; man is lifted up.
+
+And all of this finds its ultimate fulfillment in Christ. Christ is the true God who came down from heaven to eat and dwell with people (John 1:14). Christ is also the true Intercessor — "He always lives to make intercession for them" (Hebrews 7:25). Abraham interceded for Sodom and stopped at ten righteous; but Christ intercedes for sinners throughout the world, and His intercession never ceases.
+
+"Is anything too hard for the LORD?"
+
+No. Absolutely not.`,
+  historyContext_zh: `幔利橡树位于今天的希伯仑附近，是亚伯拉罕长期居住之地。古代近东的待客之道被视为神圣义务——拒绝接待旅客是严重的道德过失。三细亚细面约合22升，足够做大量饼，远超三人所需，显示亚伯拉罕的慷慨。所多玛位于死海南端，考古学发现该地区确有被火与硫磺毁灭的痕迹（约公元前2000年的毁灭层）。`,
+  historyContext_en: `The oaks of Mamre were near present-day Hebron, where Abraham resided for an extended period. Hospitality in the ancient Near East was regarded as a sacred obligation — refusing to host travelers was a serious moral failure. Three seahs of fine flour amounts to approximately 22 liters, enough to make a large quantity of bread, far more than three guests required, displaying Abraham's generosity. Sodom was located near the southern end of the Dead Sea; archaeological evidence suggests the region experienced destruction by fire and brimstone (destruction layers dating to approximately 2000 BC).`,
+  structure_zh: `全章分两大段：1-15节（幔利橡树下的显现——接待、应许以撒、撒拉笑）；16-33节（为所多玛代求）。两段由第14节"耶和华岂有难成的事么"连接——前半段论神的大能（使不能生育的生育），后半段论神的公义（审判罪恶之城）。代求从五十递减到十，形成六轮对话的递进结构。`,
+  structure_en: `The chapter has two major sections: verses 1-15 (the theophany at Mamre — hospitality, promise of Isaac, Sarah's laughter); verses 16-33 (intercession for Sodom). The two sections are linked by verse 14, "Is anything too hard for the LORD?" — the first half concerns God's power (enabling the barren to bear), the second concerns God's justice (judging a sinful city). The intercession descends from fifty to ten in six rounds of dialogue, creating a progressive structure.`,
+  theology_zh: `神的亲近与俯就——全能者以人的形态来访，预表道成肉身；"耶和华岂有难成的事么"宣告神的全能；代祷的基础是神的公义本性（"审判全地的主岂不行公义么"）；神喜悦人的祷告，并在审判中记念代求者；公义与怜悯的张力在十字架上最终解决。`,
+  theology_en: `God's nearness and condescension — the Almighty visits in human form, foreshadowing the incarnation; "Is anything too hard for the LORD?" declares God's omnipotence; the basis of intercession is God's just character ("Shall not the Judge of all the earth do what is just?"); God delights in human prayer and remembers the intercessor even amid judgment; the tension between justice and mercy finds its ultimate resolution at the cross.`,
+  christShadow_zh: `耶和华以人的样式显现，与人同坐同吃，是道成肉身最清晰的旧约预表之一（约1:14）。亚伯拉罕为所多玛代求，预表基督为罪人的代求——但亚伯拉罕停在十个义人就停了，基督的代求却是永不止息的（来7:25）。"审判全地的主岂不行公义么"——这个公义最终在十字架上成全：神既是公义的，又是称信耶稣之人为义的（罗3:26）。`,
+  christShadow_en: `The LORD appearing in human form, sitting and eating with people, is one of the clearest Old Testament foreshadowings of the incarnation (John 1:14). Abraham's intercession for Sodom foreshadows Christ's intercession for sinners — but Abraham stopped at ten righteous; Christ's intercession never ceases (Hebrews 7:25). "Shall not the Judge of all the earth do what is just?" — this justice was ultimately fulfilled at the cross: God is both just and the justifier of the one who has faith in Jesus (Romans 3:26).`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 19,
   publishDate: '2026-03-12',
   title: '所多玛', titleEn: 'The Destruction of Sodom',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 19:1 / Genesis 19:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 19:1-38 / Genesis 19:1-38',
+  content_zh: `弟兄姐妹，第十九章是圣经中最黑暗的章节之一。它记载了一座城市的毁灭，一个家庭的崩塌，以及神审判的可怕现实。但即便在这样的黑暗中，恩典的光仍然照射进来。
+
+那两个天使晚上到了所多玛；罗得正坐在所多玛城门口，看见他们，就起来迎接，脸伏于地下拜。
+
+"坐在城门口"——在古代近东，城门口是审判和交易的地方，相当于今天的市政厅或法庭。坐在城门口意味着罗得已经成了所多玛的要人，参与城市的公共事务。彼得后书2:7-8说罗得是个义人，因所多玛人的淫行忧伤——但他仍然坐在那里。他一边忧伤，一边留在那个罪恶之城。
+
+这是罗得一生的悲剧：他知道什么是对的，但他选择了什么是舒适的。在第十三章，当亚伯拉罕让他先选的时候，他举目观看，看见约旦河的全平原"如同耶和华的园子"，就选了那里。他一步步靠近所多玛——先是"渐渐挪移帐棚，直到所多玛"（创世记13:12），然后是住在所多玛城里，最后是坐在城门口。从远远观望到深度融入，每一步看起来都很小，但累积起来就是一个完全不同的人生方向。
+
+罗得接待了天使，为他们预备筵席，烤无酵饼。但那天晚上发生了可怕的事：所多玛城里各处的人，连老带少，都来围住那房子，要求罗得把客人交出来。
+
+经文说"连老带少"——这不是少数人的罪，是全城的罪。这个城市已经彻底败坏了，从年轻人到老年人，无一例外。
+
+罗得出来，试图阻止他们。他的方法令人震惊——他提出把自己的两个女儿交给众人。这个提议无论如何都是错误的。罗得在所多玛住久了，他的道德判断已经被扭曲。他还保留着保护客人的古代荣誉感，但他保护客人的方式却是牺牲自己的女儿。在一个败坏的环境中生活太久，人的道德底线会在不知不觉中下移。
+
+众人拒绝了，而且变本加厉："这个人来寄居，还想要作官哪！现在我们要害你比害他们更甚。"
+
+这时天使出手了。他们把罗得拉进屋去，使门外的人眼都昏迷。
+
+天使对罗得说："你这里还有什么人么？无论是女婿是儿女，和这城中一切属你的人，你都要将他们从这地方带出去。我们要毁灭这地方。"
+
+罗得去告诉他的女婿们。但他女婿们却以为他说的是戏言。
+
+弟兄姐妹，这是这个故事中最让人心碎的细节之一。罗得在所多玛住了这么多年，他的见证已经完全失去了可信度。当他说"耶和华要毁灭这城"的时候，连他自己的女婿都觉得他在开玩笑。一个在属灵上没有影响力的人，在关键时刻无法带领自己的家人。
+
+天明了，天使催逼罗得说："起来！带着你的妻子和你在这里的两个女儿出去，免得你因这城里的罪恶同被剿灭。"
+
+**但罗得迟延不走。**
+
+这四个字是整章最令人痛心的。天使说"快走"，罗得却"迟延不走"。审判就在眼前，他还舍不得离开。他在所多玛有房子，有地位，有产业——他舍不得。
+
+二人因为耶和华怜恤罗得，就拉着他的手和他妻子的手，并他两个女儿的手，把他们领出来，安置在城外。
+
+注意：不是罗得跑出来的，是天使"拉着他的手"把他拉出来的。这是纯粹的恩典。罗得不配被救——他迟延，他舍不得，他的道德判断已经混乱——但神怜恤他。不是因为他好，而是因为"神记念亚伯拉罕"（第29节）。
+
+天使说："逃命吧！不可回头看，也不可在平原站住。要往山上逃跑，免得你被剿灭。"
+
+但罗得甚至在逃命的时候还在讨价还价！他说他不能逃到山上去，求天使容他逃到一个小城——琐珥。即使在恩典的紧急时刻，罗得仍然在按自己的意思来。
+
+罗得到了琐珥，日头已经出来了。当时，**耶和华将硫磺与火从天上耶和华那里降与所多玛和蛾摩拉**，把那些城和全平原，并城里所有的居民，连地上生长的，都毁灭了。
+
+请注意经文的用词："耶和华将硫磺与火从天上耶和华那里降下。"有些学者注意到这里提到了两次"耶和华"——一个在地上（与亚伯拉罕说话的那位），一个在天上（降下审判的那位）。这被一些教父和改革宗神学家视为三位一体的暗示。
+
+**罗得的妻子在后边回头一看，就变成了一根盐柱。**
+
+耶稣在路加福音17:32说了三个字："你们要回想罗得的妻子。"
+
+为什么回头一看就变成盐柱？因为回头不只是一个物理动作——回头是心的方向。天使明确说了"不可回头看"。回头看意味着她的心还在所多玛，她还眷恋那个被审判的城市，她还舍不得离开。
+
+罗得的妻子的身体出来了，但她的心没有出来。
+
+这对我们每一个基督徒都是严肃的警告。蒙恩得救不只是身体离开罪的环境——是心要离开。如果你的手离开了罪，但你的心还在回望，你并没有真正离开。"手扶着犁向后看的，不配进神的国。"（路加福音9:62）
+
+然后是这个故事最黑暗的结尾。
+
+罗得带着两个女儿住在山洞里。大女儿对小女儿说："我们的父亲老了，地上又无人按着世上的常规进到我们这里。来！我们可以叫父亲喝酒，与他同寝。这样，我们好从他存留后裔。"
+
+她们这样做了。大女儿生了摩押——摩押人的始祖。小女儿生了便亚米——亚扪人的始祖。
+
+这段记载令人不忍卒读。但圣经没有遮掩它，因为圣经从不美化人性。罗得的女儿们在所多玛长大，所多玛的道德观已经渗透了她们的思想。她们的动机——存留后裔——在她们看来也许是合理的，但方法是完全错误的。
+
+然而，即使在这样的黑暗中，神的恩典仍然令人惊叹。摩押人的后代中出了一个叫路得的女子——路得最终成为大卫王的曾祖母，进入了弥赛亚的家谱（马太福音1:5）。神能从最黑暗的罪中带出他救赎计划的线索。
+
+亚伯拉罕清早起来，到了他从前站在耶和华面前的地方，向所多玛和蛾摩拉与平原的全地观看，不料，那地方烟气上腾，如同烧窑一般。
+
+这是亚伯拉罕看到的景象。他昨天还在为这座城代求——今天它已经变成了灰烬。但经文紧接着说了一句极其重要的话："当神毁灭平原诸城的时候，他记念亚伯拉罕，正在倾覆罗得所住之城的时候，就打发罗得从倾覆之中出来。"
+
+**神记念亚伯拉罕。**
+
+弟兄姐妹，第十九章教导我们几件沉重的事。
+
+第一，罪的后果是真实的、可怕的。所多玛不是一个寓言——它是神审判的历史事件。彼得后书2:6说神"将所多玛、蛾摩拉焚烧成灰，定为后世不敬虔人的鉴戒"。
+
+第二，环境会塑造人。罗得在所多玛住久了，他的道德判断、他的属灵影响力、甚至他妻子和女儿的价值观，都被那个环境侵蚀了。"滥交是败坏善行的"（哥林多前书15:33）。
+
+第三，恩典在审判中仍然运作。罗得不配被救，但神记念亚伯拉罕。代祷的果效是真实的——即使你看不见立即的结果。
+
+第四，离开罪要彻底。不可回头看。罗得的妻子的悲剧提醒我们：半心半意的悔改不是真悔改。
+
+弟兄姐妹，如果你今天正在一个不该待的地方——不一定是一座城市，也许是一段关系，一个习惯，一种生活方式——请听天使的话："逃命吧！不可回头看。"不要像罗得一样迟延不走。不要像罗得的妻子一样身体出来了心还留在那里。
+
+神今天仍然在拉你的手。就像天使拉着罗得的手一样——那是怜恤的手，是恩典的手。抓住它。不要回头。`,
+  content_en: `Brothers and sisters, chapter nineteen is one of the darkest chapters in all of Scripture. It records the destruction of a city, the collapse of a family, and the terrible reality of God's judgment. Yet even in such darkness, the light of grace still shines through.
+
+The two angels came to Sodom in the evening, and Lot was sitting in the gate of Sodom. When Lot saw them, he rose to meet them and bowed himself with his face to the earth.
+
+"Sitting in the gate" — in the ancient Near East, the city gate was the place of judgment and commerce, the equivalent of a modern city hall or courthouse. Sitting in the gate meant Lot had become a prominent figure in Sodom, participating in the city's civic affairs. Second Peter 2:7-8 tells us Lot was a righteous man, distressed by the depraved conduct of the lawless — yet he still sat there. He was distressed, yet he remained in that wicked city.
+
+This is the tragedy of Lot's life: he knew what was right, but he chose what was comfortable. In chapter thirteen, when Abraham let him choose first, he "lifted up his eyes" and saw the Jordan Valley — "well watered everywhere like the garden of the LORD" — and chose it. He moved closer to Sodom step by step — first "he moved his tent as far as Sodom" (Genesis 13:12), then he lived inside Sodom, and finally he sat in the gate. From distant observation to deep integration, each step seemed small, but cumulatively they added up to an entirely different life direction.
+
+Lot hosted the angels, prepared a feast, and baked unleavened bread. But that night something terrible happened: the men of Sodom, from every quarter, both young and old, surrounded the house and demanded Lot hand over his guests.
+
+The text says "both young and old" — this was not the sin of a few; it was the sin of the entire city. The city was thoroughly corrupt, from its youngest to its oldest, without exception.
+
+Lot went out and tried to stop them. His method was shocking — he offered to give them his two virgin daughters. This proposal was wrong no matter how you look at it. Lot had lived in Sodom so long that his moral judgment had become distorted. He still retained the ancient honor code of protecting guests, but his method of protecting them was to sacrifice his own daughters. Living too long in a corrupt environment causes a person's moral baseline to shift downward, almost imperceptibly.
+
+The crowd refused and grew more violent: "This fellow came to sojourn, and he has become the judge! Now we will deal worse with you than with them."
+
+Then the angels intervened. They pulled Lot inside, shut the door, and struck the men outside with blindness.
+
+The angels said to Lot: "Have you anyone else here? Sons-in-law, sons, daughters, or anyone you have in the city, bring them out of the place. For we are about to destroy this place."
+
+Lot went out and told his sons-in-law. But his sons-in-law thought he was jesting.
+
+Brothers and sisters, this is one of the most heartbreaking details in the story. Lot had lived in Sodom for so many years that his testimony had lost all credibility. When he said "The LORD is about to destroy this city," even his own sons-in-law thought he was joking. A person without spiritual influence cannot lead his own family in the moment of crisis.
+
+When morning dawned, the angels urged Lot, saying, "Up! Take your wife and your two daughters who are here, lest you be swept away in the punishment of the city."
+
+**But he lingered.**
+
+These two words are the most heartbreaking in the entire chapter. The angels said "hurry"; Lot lingered. Judgment was imminent, yet he could not bring himself to leave. He had a house in Sodom, a position, possessions — he could not let go.
+
+So the men seized him and his wife and his two daughters by the hand, the LORD being merciful to him, and they brought him out and set him outside the city.
+
+Notice: Lot did not run out on his own. The angels "seized him by the hand" and pulled him out. This is pure grace. Lot did not deserve to be saved — he lingered, he could not let go, his moral compass was broken — but God had mercy on him. Not because Lot was good, but because "God remembered Abraham" (v. 29).
+
+The angels said: "Escape for your life. Do not look back or stop anywhere in the valley. Escape to the hills, lest you be swept away."
+
+But even while fleeing for his life, Lot was still negotiating! He said he could not escape to the hills and asked permission to flee to a small city — Zoar. Even in grace's most urgent moment, Lot was still doing things his own way.
+
+When Lot reached Zoar, the sun had risen. Then **the LORD rained on Sodom and Gomorrah sulfur and fire from the LORD out of heaven.** And he overthrew those cities, and all the valley, and all the inhabitants of the cities, and what grew on the ground.
+
+Notice the wording: "The LORD rained sulfur and fire from the LORD out of heaven." Some scholars note that "the LORD" appears twice — one on earth (the one who spoke with Abraham), one in heaven (the one who sent down judgment). Some church fathers and Reformed theologians have seen this as a hint of the Trinity.
+
+**But Lot's wife, behind him, looked back, and she became a pillar of salt.**
+
+Jesus said three words in Luke 17:32: "Remember Lot's wife."
+
+Why did looking back turn her into a pillar of salt? Because looking back was not merely a physical action — it was the direction of her heart. The angels had explicitly said, "Do not look back." Looking back meant her heart was still in Sodom, she still longed for that city under judgment, she could not let go.
+
+Lot's wife left Sodom in body, but her heart never left.
+
+This is a solemn warning for every Christian. Salvation by grace is not just physically leaving the environment of sin — the heart must leave as well. If your hands have left sin but your heart keeps looking back, you have not truly departed. "No one who puts his hand to the plow and looks back is fit for the kingdom of God." (Luke 9:62)
+
+Then came the story's darkest conclusion.
+
+Lot went up from Zoar with his two daughters and lived in a cave. The firstborn said to the younger, "Our father is old, and there is not a man on earth to come in to us after the manner of all the earth. Come, let us make our father drink wine, and we will lie with him, that we may preserve offspring from our father."
+
+They did so. The firstborn bore Moab — the ancestor of the Moabites. The younger bore Ben-ammi — the ancestor of the Ammonites.
+
+This passage is painful to read. But Scripture does not conceal it, because Scripture never beautifies human nature. Lot's daughters grew up in Sodom, and Sodom's moral framework had pervaded their thinking. Their motive — preserving offspring — may have seemed reasonable to them, but the method was utterly wrong.
+
+Yet even in such darkness, God's grace is astonishing. From the Moabite line came a woman named Ruth — who ultimately became the great-grandmother of King David and entered the genealogy of the Messiah (Matthew 1:5). God can draw the threads of His redemptive plan from the darkest of sins.
+
+Abraham went early in the morning to the place where he had stood before the LORD. And he looked down toward Sodom and Gomorrah and toward all the land of the valley, and he looked and, behold, the smoke of the land went up like the smoke of a furnace.
+
+This is what Abraham saw. Just yesterday he had been interceding for this city — today it was ashes. But the text immediately adds a supremely important statement: "So it was that, when God destroyed the cities of the valley, God remembered Abraham and sent Lot out of the midst of the overthrow."
+
+**God remembered Abraham.**
+
+Brothers and sisters, chapter nineteen teaches us several weighty truths.
+
+First, the consequences of sin are real and terrible. Sodom is not an allegory — it is a historical event of divine judgment. Second Peter 2:6 says God "condemned the cities of Sodom and Gomorrah by burning them to ashes, making them an example of what is going to happen to the ungodly."
+
+Second, environment shapes people. Lot lived in Sodom so long that his moral judgment, his spiritual influence, and even the values of his wife and daughters were corroded by that environment. "Bad company ruins good morals" (1 Corinthians 15:33).
+
+Third, grace operates even within judgment. Lot did not deserve to be saved, but God remembered Abraham. The fruit of intercession is real — even when you cannot see immediate results.
+
+Fourth, departure from sin must be thorough. Do not look back. The tragedy of Lot's wife reminds us: half-hearted repentance is not true repentance.
+
+Brothers and sisters, if today you are in a place where you should not be — not necessarily a city, perhaps a relationship, a habit, a lifestyle — hear the angels' words: "Escape for your life. Do not look back." Do not linger like Lot. Do not be like Lot's wife, whose body left but whose heart stayed behind.
+
+God is still taking you by the hand today. Just as the angels seized Lot's hand — that was the hand of mercy, the hand of grace. Take hold of it. Do not look back.`,
+  historyContext_zh: `所多玛和蛾摩拉位于死海南端的西丁谷。考古学在该地区发现了被高温毁灭的遗迹（Tall el-Hammam遗址），年代约在公元前1650年前后，与圣经记载的毁灭方式高度吻合——硫磺与火从天降。死海地区至今富含沥青和矿物盐，"盐柱"在该地区的地质构造中并不罕见。摩押和亚扪后来分别建立了约旦河东的王国，在以色列历史中反复出现。`,
+  historyContext_en: `Sodom and Gomorrah were located in the Valley of Siddim at the southern end of the Dead Sea. Archaeology at the site of Tall el-Hammam has uncovered remains of high-temperature destruction dating to approximately 1650 BC, closely matching the biblical account of sulfur and fire from heaven. The Dead Sea region to this day is rich in bitumen and mineral salts; "salt pillars" are not uncommon geological formations in the area. Moab and Ammon later established kingdoms east of the Jordan, appearing repeatedly throughout Israel's history.`,
+  structure_zh: `全章分四段：1-11节（天使到所多玛，城民的罪恶暴露）；12-22节（紧急撤离——罗得的迟延与神的怜恤）；23-29节（毁灭——硫磺与火降下，罗得妻子回头）；30-38节（黑暗的结局——罗得与女儿们）。全章形成一个从光明到黑暗的递降结构，与第十八章的温暖场景形成鲜明对比。`,
+  structure_en: `The chapter divides into four sections: verses 1-11 (the angels arrive in Sodom; the city's sin exposed); verses 12-22 (urgent evacuation — Lot's lingering and God's mercy); verses 23-29 (destruction — sulfur and fire, Lot's wife looks back); verses 30-38 (the dark conclusion — Lot and his daughters). The chapter forms a descending structure from light to darkness, in stark contrast to the warm scene of chapter eighteen.`,
+  theology_zh: `神的审判是真实的——所多玛的毁灭是"后世不敬虔人的鉴戒"（彼后2:6）；恩典在审判中运作——神因记念亚伯拉罕而救罗得；环境对信徒有塑造力——罗得在所多玛的长期居住侵蚀了他全家的道德判断；悔改必须彻底——"不可回头看"；代祷的果效超出代祷者的预期——亚伯拉罕的祷告虽未能救所多玛，却救了罗得。`,
+  theology_en: `God's judgment is real — Sodom's destruction is "an example of what is going to happen to the ungodly" (2 Peter 2:6); grace operates within judgment — God saved Lot because He remembered Abraham; environment shapes believers — Lot's prolonged residence in Sodom corroded his entire family's moral judgment; repentance must be thorough — "do not look back"; the fruit of intercession exceeds the intercessor's expectations — Abraham's prayer did not save Sodom, yet it saved Lot.`,
+  christShadow_zh: `天使拉着罗得的手将他从毁灭中救出，预表基督从罪的审判中拯救信徒——"他救了我们脱离黑暗的权势，把我们迁到他爱子的国里"（西1:13）。所多玛的硫磺之火预表末日的审判（路17:28-30）。从摩押后裔中出了路得，进入弥赛亚家谱——这表明基督的救赎能从最深的罪中带出恩典的果子。罗得的迟延与基督的催促形成对比："今天你们若听他的话，就不可硬着心"（来3:15）。`,
+  christShadow_en: `The angels seizing Lot's hand and rescuing him from destruction foreshadows Christ saving believers from the judgment of sin — "He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son" (Colossians 1:13). The sulfur and fire upon Sodom foreshadow the final judgment (Luke 17:28-30). From Moab's line came Ruth, who entered the Messiah's genealogy — showing that Christ's redemption can bring the fruit of grace from the deepest sin. Lot's lingering contrasts with Christ's urgency: "Today, if you hear his voice, do not harden your hearts" (Hebrews 3:15).`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 20,
   publishDate: '2026-03-13',
   title: '亚伯拉罕与亚比米勒', titleEn: 'Abraham and Abimelech',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 20:1 / Genesis 20:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 20:1-18 / Genesis 20:1-18',
+  content_zh: `弟兄姐妹，第二十章记载了一件令人难以置信的事：亚伯拉罕又犯了同样的罪。
+
+亚伯拉罕从那里向南地迁去，寄居在加低斯和书珥中间的基拉耳。亚伯拉罕称他的妻撒拉为妹子，基拉耳王亚比米勒差人把撒拉取了去。
+
+还记得创世记第十二章吗？亚伯拉罕因为饥荒下到埃及，害怕法老会因为撒拉的美貌而杀他，就对撒拉说："求你说你是我的妹子，使我因你得平安，我的命也因你存活。"那一次，法老把撒拉取进宫去，神降大灾在法老身上，法老才把撒拉还给亚伯拉罕。
+
+现在，同样的事再次发生了。不同的地点，不同的王，同样的谎言。
+
+这让我们震惊。这不是一个刚蒙召的新信徒——这是亚伯拉罕，那个因信称义的人，那个与神立约的人，那个刚刚为所多玛代求的人。他已经走过了这么长的信心之路，他已经经历了神那么多的信实——但他又犯了同样的错误。
+
+弟兄姐妹，这告诉我们一个关于成圣的重要真理：**信心的成长不是线性的。** 你不会因为信主三十年就自动比信主三年的人更不容易犯罪。同一个软弱，同一个试探，可能在你人生的不同阶段反复出现。亚伯拉罕的"称妻为妹"不是一时冲动——第13节告诉我们，这是他从离开父家开始就和撒拉商量好的策略："当神叫我离开父家、飘流在外的时候，我对她说：'我们无论走到什么地方，你可以对人说：他是我的哥哥；这就是你待我的恩典了。'"
+
+这意味着这个谎言是系统性的、预谋的、长期的。亚伯拉罕从蒙召的第一天起就准备好了这个谎言，作为他的"生存策略"。这不只是一次跌倒，这是一个根深蒂固的模式。
+
+我们每个人都有这样的模式。可能是恐惧导致的谎言，可能是不安全感导致的控制欲，可能是骄傲导致的自我辩护。这些模式不会因为一次悔改就彻底消失——它们需要持续的、终生的对付。韦敏斯德信条第十三章论成圣说得很清楚："在今生仍有从败坏的残余所产生的、持续不断的、无法和解的争战。"
+
+但是，在亚伯拉罕再次失败的同时，请看神做了什么。
+
+但夜间，神来，在梦中对亚比米勒说："你是个死人哪！因为你取了那女人来；她原是别人的妻子。"
+
+神没有等事情发展到不可收拾的地步。他直接介入了。在亚比米勒还没有亲近撒拉之前，神就出手了。
+
+亚比米勒的回应很有意思。他说："主啊，连有义的国，你也要毁灭么？那人岂不是自己对我说'她是我的妹子'么？就是女人也自己说：'他是我的哥哥。'我做这事是心正手洁的。"
+
+亚比米勒自辩说他是无辜的。神也承认了这一点："我知道你做这事是心中正直；我也拦阻了你，免得你得罪我，所以我不容你沾着她。"
+
+这里有一个惊人的真理：**神保守了亚比米勒。** 不是亚比米勒自己有多正直——是神主动拦阻了他。"我也拦阻了你"——这是神的护理之工。神不仅保护了撒拉的纯洁，也保护了亚比米勒不至于犯下更大的罪。
+
+弟兄姐妹，这是何等安慰的教义！当我们的软弱可能导致严重后果时，神在幕后运作，拦阻罪的蔓延。不是因为我们好，而是因为他的应许必须成就——撒拉必须生以撒，弥赛亚的家谱必须得到保护。**神的计划不会因为人的软弱而脱轨。**
+
+然后神对亚比米勒说了一句让人意外的话："现在你把这人的妻子归还他；因为他是先知，他要为你祷告，使你存活。"
+
+亚伯拉罕是先知？他刚刚撒了谎，陷一个异教王于大罪的边缘——神却称他为"先知"？
+
+是的。因为亚伯拉罕的身份不取决于他的表现。他是先知，不是因为他完美，而是因为神呼召了他。神的呼召和恩赐是不会后悔的（罗马书11:29）。你的跌倒不会撤销神对你的呼召。彼得三次不认主——但主仍然说："你喂养我的羊。"
+
+亚比米勒清早起来，召了亚伯拉罕来，对他说："你怎么向我这样行呢？我在什么事上得罪了你，你竟使我和我国里的人陷在大罪里？你向我行不当行的事了！"
+
+注意这里的讽刺：一个异教王在责备信心之父。亚比米勒的指控完全正确——亚伯拉罕确实做了不当行的事。信徒的失败不仅伤害自己，也使不信的人有理由指控神的子民。保罗在罗马书2:24引用先知的话说："神的名在外邦人中，因你们受了亵渎。"
+
+亚伯拉罕的解释暴露了他内心最深的恐惧："我以为这地方的人总不惧怕神，必为我妻子的缘故杀我。"
+
+"我以为"——这是恐惧的声音，不是信心的声音。亚伯拉罕在对神的信靠和对人的恐惧之间摇摆。在帐棚里，面对神的应许，他是信心的伟人；在外面，面对可能的威胁，他又变回了那个害怕的人。
+
+然后他补充说："况且她也实在是我的妹子；她与我是同父异母，后来作了我的妻子。"
+
+半真半假的谎言，往往比完全的谎言更危险。撒拉确实是他同父异母的妹妹——但她更是他的妻子。亚伯拉罕用一个技术上正确的事实来掩盖一个关键的真相。这种"选择性真实"在今天也很常见：我们说的每一句话都是事实，但我们故意遗漏了最重要的那部分。
+
+但故事的结局出人意料地美好。
+
+亚比米勒把牛、羊、仆婢赐给亚伯拉罕，又把他的妻子撒拉归还他。亚比米勒又说："看哪，我的地都在你面前，你可以随意居住。"又对撒拉说："我给你哥哥一千银子，作为你在阖家人面前遮羞的，你就在众人面前没有不是了。"
+
+亚比米勒不仅归还了撒拉，还给了亚伯拉罕大量财物和居住的自由。这个异教王的慷慨反衬了亚伯拉罕的怯懦。
+
+然后经文以一个令人惊叹的反转结尾：**亚伯拉罕祷告神，神就医好了亚比米勒和他的妻子，并他的众女仆，他们便能生育。因耶和华为亚伯拉罕的妻子撒拉的缘故，已经使亚比米勒家中的妇人不能生育。**
+
+那个刚刚失败的人，现在为别人祷告，而神听了他的祷告。那个自己还没有儿子的人（以撒尚未出生），为别人的生育祷告，神就医治了他们。
+
+这是恩典最令人不可思议的地方：**神使用不完美的人。** 亚伯拉罕不是因为完美才被神使用——他是在自己的软弱和失败中被使用的。他的祷告有效，不是因为他的道德记录好，而是因为他所祷告的那位神是信实的。
+
+弟兄姐妹，第二十章看起来是一个"小"故事——没有宇宙性的毁灭，没有震撼的异象。但它教导我们一些非常重要的功课。
+
+第一，圣徒会反复跌倒在同一个地方。不要以为你胜过了一次就不会再犯。成圣是终生的争战。
+
+第二，神保护他的应许超过保护你的面子。神让亚伯拉罕在亚比米勒面前丢了脸，但神保护了撒拉——因为以撒必须从撒拉生出来。你的尊严在神眼中不如他的计划重要。
+
+第三，神使用失败的人。你不需要等到"够好了"才能被神使用。亚伯拉罕刚撒完谎，神就差他去为亚比米勒祷告。你的资格不是来自你的表现，而是来自神的呼召。
+
+第四，半真半假的话仍然是谎言。在神面前，选择性的真实就是不真实。
+
+弟兄姐妹，如果你正在为自己反复犯同样的罪而绝望——请看亚伯拉罕。他是信心之父，但他也是一个会反复跌倒的人。神没有因为他的反复失败而抛弃他。神仍然叫他"先知"，仍然使用他的祷告，仍然要通过他成就弥赛亚的应许。
+
+你的价值不取决于你的表现。你的呼召不取决于你的记录。你是属神的人——不是因为你做了什么，而是因为神做了什么。
+
+"然而，神坚固的根基立住了；上面有这印记说：'主认识谁是他的人。'"（提摩太后书2:19）`,
+  content_en: `Brothers and sisters, chapter twenty records something almost unbelievable: Abraham committed the same sin again.
+
+Abraham journeyed toward the territory of the Negeb and lived between Kadesh and Shur; and he sojourned in Gerar. And Abraham said of Sarah his wife, "She is my sister." And Abimelech king of Gerar sent and took Sarah.
+
+Do you remember Genesis chapter twelve? Abraham went down to Egypt because of famine, feared Pharaoh would kill him because of Sarah's beauty, and told Sarah: "Say you are my sister, that it may go well with me because of you, and that my life may be spared for your sake." That time, Pharaoh took Sarah into his palace, God struck Pharaoh's house with plagues, and Pharaoh returned Sarah to Abraham.
+
+Now, the same thing happened again. Different place, different king, same lie.
+
+This is astonishing. This is not a newly called novice — this is Abraham, the man justified by faith, the man who covenanted with God, the man who had just interceded for Sodom. He had walked so long on the road of faith, he had experienced so much of God's faithfulness — and yet he made the same mistake again.
+
+Brothers and sisters, this teaches us an important truth about sanctification: **the growth of faith is not linear.** You will not automatically sin less simply because you have believed for thirty years rather than three. The same weakness, the same temptation, can resurface at different stages of your life. Abraham's "calling his wife his sister" was not an impulsive slip — verse 13 tells us it was a strategy he and Sarah had agreed upon from the very beginning: "When God caused me to wander from my father's house, I said to her, 'This is the kindness you must do me: at every place to which we come, say of me, "He is my brother."'"
+
+This means the lie was systematic, premeditated, and long-standing. Abraham had prepared this lie from the first day of his calling as his "survival strategy." This was not a one-time stumble; it was a deeply ingrained pattern.
+
+Each of us has such patterns. Perhaps fear leads to lies, insecurity leads to controlling behavior, pride leads to self-justification. These patterns do not vanish with a single repentance — they require ongoing, lifelong confrontation. The Westminster Confession, chapter 13 on sanctification, states clearly: "In this life there remain some remnants of corruption, which occasion a continual and irreconcilable war."
+
+But while Abraham failed again, look at what God did.
+
+But God came to Abimelech in a dream by night and said to him, "Behold, you are a dead man because of the woman whom you have taken, for she is a man's wife."
+
+God did not wait for things to spiral out of control. He intervened directly. Before Abimelech had even approached Sarah, God acted.
+
+Abimelech's response is telling. He said: "Lord, will you kill an innocent people? Did he not himself say to me, 'She is my sister'? And she herself said, 'He is my brother.' In the integrity of my heart and the innocence of my hands I have done this."
+
+Abimelech pleaded his innocence. And God acknowledged it: "Yes, I know that you have done this in the integrity of your heart, and it was I who kept you from sinning against me. Therefore I did not let you touch her."
+
+Here is a stunning truth: **God restrained Abimelech.** It was not Abimelech's own righteousness — it was God who actively held him back. "It was I who kept you" — this is God's work of providence. God protected not only Sarah's purity but also kept Abimelech from committing a greater sin.
+
+Brothers and sisters, what a comforting doctrine this is! When our weaknesses could lead to catastrophic consequences, God works behind the scenes to restrain the spread of sin. Not because we are good, but because His promise must be fulfilled — Sarah must bear Isaac; the Messiah's lineage must be protected. **God's plan will not be derailed by human weakness.**
+
+Then God said something surprising to Abimelech: "Now then, return the man's wife, for he is a prophet, and he will pray for you, and you shall live."
+
+Abraham a prophet? He had just lied and nearly led a pagan king into grave sin — and God calls him "a prophet"?
+
+Yes. Because Abraham's identity does not depend on his performance. He is a prophet not because he is perfect, but because God called him. "The gifts and the calling of God are irrevocable" (Romans 11:29). Your stumbling does not revoke God's calling upon your life. Peter denied the Lord three times — yet the Lord still said: "Feed my sheep."
+
+So Abimelech rose early in the morning and called Abraham and said to him, "What have you done to us? And how have I sinned against you, that you have brought on me and my kingdom a great sin? You have done to me things that ought not to be done."
+
+Note the irony: a pagan king is rebuking the father of faith. Abimelech's accusation was entirely justified — Abraham had indeed done what ought not to be done. A believer's failure not only harms himself but gives unbelievers grounds to accuse God's people. Paul quotes the prophet in Romans 2:24: "The name of God is blasphemed among the Gentiles because of you."
+
+Abraham's explanation exposed his deepest fear: "I did it because I thought, 'There is no fear of God at all in this place, and they will kill me because of my wife.'"
+
+"I thought" — this is the voice of fear, not of faith. Abraham oscillated between trust in God and fear of people. Inside his tent, facing God's promises, he was a giant of faith; outside, facing potential threats, he reverted to a frightened man.
+
+Then he added: "Besides, she is indeed my sister, the daughter of my father though not the daughter of my mother, and she became my wife."
+
+Half-truths are often more dangerous than outright lies. Sarah was indeed his half-sister — but she was first and foremost his wife. Abraham used a technically correct fact to conceal a crucial truth. This kind of "selective honesty" is common today: every word we say may be factual, yet we deliberately omit the most important part.
+
+But the story's conclusion is unexpectedly beautiful.
+
+Then Abimelech took sheep and oxen, and male servants and female servants, and gave them to Abraham, and returned Sarah his wife to him. And Abimelech said, "Behold, my land is before you; dwell where it pleases you." To Sarah he said, "Behold, I have given your brother a thousand pieces of silver. It is a sign of your innocence in the eyes of all who are with you, and before everyone you are vindicated."
+
+Abimelech not only returned Sarah but also gave Abraham generous gifts and the freedom to settle anywhere. This pagan king's generosity stands in stark contrast to Abraham's cowardice.
+
+Then the text closes with an astonishing reversal: **Abraham prayed to God, and God healed Abimelech and also his wife and female servants so that they bore children. For the LORD had closed all the wombs of the house of Abimelech because of Sarah, Abraham's wife.**
+
+The man who had just failed was now praying for others, and God answered his prayer. The man who himself had no son yet (Isaac was not yet born) prayed for others' fertility, and God healed them.
+
+This is the most incredible aspect of grace: **God uses imperfect people.** Abraham was not used by God because he was perfect — he was used in the midst of his own weakness and failure. His prayer was effective not because of his moral record, but because the God to whom he prayed is faithful.
+
+Brothers and sisters, chapter twenty may seem like a "small" story — no cosmic destruction, no stunning visions. But it teaches us profoundly important lessons.
+
+First, saints stumble repeatedly at the same point. Do not assume that overcoming a sin once means you will never fall again. Sanctification is a lifelong war.
+
+Second, God protects His promise more than He protects your reputation. God allowed Abraham to lose face before Abimelech, but God protected Sarah — because Isaac had to be born from Sarah. Your dignity matters less to God than His plan.
+
+Third, God uses failed people. You do not need to wait until you are "good enough" to be used by God. Abraham had just told a lie, and God sent him to pray for Abimelech. Your qualification comes not from your performance but from God's calling.
+
+Fourth, half-truths are still lies. Before God, selective honesty is dishonesty.
+
+Brothers and sisters, if you are despairing because you keep committing the same sin — look at Abraham. He is the father of faith, but he was also a man who stumbled repeatedly. God did not abandon him for his repeated failures. God still called him "prophet," still used his prayers, and still intended to fulfill the Messianic promise through him.
+
+Your worth does not depend on your performance. Your calling does not depend on your record. You belong to God — not because of what you have done, but because of what God has done.
+
+"But God's firm foundation stands, bearing this seal: 'The Lord knows those who are his.'" (2 Timothy 2:19)`,
+  historyContext_zh: `基拉耳位于迦南地南部沿海平原，即今天的加沙地带附近，是非利士人的领地。"亚比米勒"可能是非利士王的王朝称号（类似"法老"），而非个人名字。一千银子在当时是巨额财富——相当于一个工人数十年的工资。古代近东的王室法律严格禁止取有夫之妇，违者可处死刑，这解释了亚比米勒的恐惧。撒拉同父异母妹妹的身份，反映了族长时期婚姻习俗与后来摩西律法（利18:9）的不同。`,
+  historyContext_en: `Gerar was located in the southern coastal plain of Canaan, near present-day Gaza, in Philistine territory. "Abimelech" may have been a dynastic title for Philistine kings (similar to "Pharaoh") rather than a personal name. A thousand pieces of silver was an enormous sum — equivalent to decades of a laborer's wages. Ancient Near Eastern royal law strictly prohibited taking another man's wife, punishable by death, which explains Abimelech's fear. Sarah's status as Abraham's half-sister reflects the marriage customs of the patriarchal period, which differed from the later Mosaic law (Leviticus 18:9).`,
+  structure_zh: `全章结构：1-2节（亚伯拉罕的谎言与亚比米勒取撒拉）；3-7节（神在梦中警告亚比米勒）；8-13节（亚比米勒与亚伯拉罕的对质）；14-18节（归还与医治）。高潮在第6节"我也拦阻了你"——神的护理是全章的枢纽。结尾形成一个讽刺性的反转：犯罪的先知为受害的异教王祷告。`,
+  structure_en: `The chapter's structure: verses 1-2 (Abraham's lie and Abimelech takes Sarah); verses 3-7 (God warns Abimelech in a dream); verses 8-13 (Abimelech confronts Abraham); verses 14-18 (restoration and healing). The climax is verse 6, "it was I who kept you" — God's providence is the chapter's pivot. The ending forms an ironic reversal: the sinning prophet prays for the wronged pagan king.`,
+  theology_zh: `成圣不是线性的——圣徒会反复跌倒在同一个地方（韦敏斯德信条13章）；神的护理保守他的应许——"我也拦阻了你"；神的呼召和恩赐是不会后悔的（罗11:29）——亚伯拉罕虽失败仍被称为先知；神使用不完美的器皿——亚伯拉罕为亚比米勒祷告带来医治；半真半假的话在神面前仍是谎言。`,
+  theology_en: `Sanctification is not linear — saints stumble repeatedly at the same point (Westminster Confession ch. 13); God's providence guards His promise — "it was I who kept you"; God's gifts and calling are irrevocable (Romans 11:29) — Abraham was still called a prophet despite his failure; God uses imperfect vessels — Abraham's prayer for Abimelech brought healing; half-truths are still lies before God.`,
+  christShadow_zh: `神保护撒拉不被玷污，是为了保护弥赛亚的血统——基督必须从亚伯拉罕和撒拉的后裔中出来。"我也拦阻了你"显示神在历史中主动护理救赎计划。亚伯拉罕虽然失败却仍被神使用为代祷者，预表基督——我们的大祭司"并非不能体恤我们的软弱"（来4:15），却"长远活着，替他们祈求"（来7:25）。神医治亚比米勒家的不育，而撒拉自己即将生育——施恩者的神同样要在施恩者身上行大事。`,
+  christShadow_en: `God's protection of Sarah from defilement was to guard the Messianic line — Christ had to come from the offspring of Abraham and Sarah. "It was I who kept you" reveals God's active providence over the plan of redemption throughout history. Abraham, though he failed, was still used by God as an intercessor, foreshadowing Christ — our High Priest who "in every respect has been tempted as we are, yet without sin" (Hebrews 4:15), and who "always lives to make intercession" (Hebrews 7:25). God healed the barrenness of Abimelech's household while Sarah herself was about to conceive — the God who gives grace through His servant will also do great things for that servant.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 21,

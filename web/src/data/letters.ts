@@ -1018,19 +1018,13 @@ And then you will hear Him call your name.
 
 第一天夜里，我躺在旷野里，望着天上的星星。那些星星——就是神当年带我到帐篷外面，叫我数算的那些星星——"你的后裔将要如此。"我数不过来，神的应许也不会落空。以撒是这应许的载体，神不会毁掉自己的应许。这个念头让我撑过了那一夜。
 
-第二天，我开始害怕。不是怕死，也不是怕失去以撒，而是怕自己做错了——怕我听错了神的声音，怕这是一个错误。但我回想神这一生对我说的每一句话，每一次他说了都算数，每一次他应许了都实现。我凭什么这一次不信他？
+第二天，我开始害怕。不是怕死，也不是怕失去以撒，而是怕自己做错了——怕我听错了神的声音，怕这是一个错误。但我回想我这一生神对我说的每一句话，每一次他说了都算数，每一次他应许了都实现。我凭什么这一次不信他？
 
 第三天，我看见了那座山。我对仆人说："你们同驴在这里等候，我与童子往那里去拜一拜，就回到你们这里来。"我说"我们回来"，复数。不是一个人回来，是两个人回来。我不知道神怎么做，但我知道我们会一起回来。这不是盲目的乐观，这是基于认识神的确信。
 
 你知道吗？路上以撒一定问了我很多问题。十几岁的孩子总是有问不完的问题。"父亲，我们去哪里？""父亲，这座山是什么山？""父亲，为什么要走这么远去献祭？"每一个问题都像刀子扎在我心上。我一边回答，一边在心里祷告：神啊，你真的要这样做吗？
 
 但我没有回头。因为我认识这位神已经二十五年了。他应许我后裔如星辰，他赐给我以撒，他从来没有说谎。如果他现在命令我把以撒献上，那他一定有我看不见的计划。
-
-第三天，我举目远远地看见了那地方。
-
-我对仆人说："你们同驴在这里等候，我与童子往那里去拜一拜，就回到你们这里来。"
-
-"就回到你们这里来"——我说了"我们"，不是"我"。我说的"我们"，是我和以撒。我说的"回来"，是我相信以撒也会回来。无论发生什么，他都会回来。
 
 ---
 
@@ -1050,7 +1044,7 @@ And then you will hear Him call your name.
 
 这句话，我说的时候不知道它是否会成真。我只是把我仅有的信心，压缩成了这一句话。
 
-他们到了神所指示的地方，亚伯拉罕在那里筑了一座坛，把柴摆好，捆绑他的儿子以撒，放在坛的柴上。亚伯拉罕就伸手拿刀，要杀他的儿子。
+> "他们到了神所指示的地方，亚伯拉罕在那里筑坛，把柴摆好，捆绑他的儿子以撒，放在坛的柴上。亚伯拉罕就伸手拿刀，要杀他的儿子。"（创世记 22:9-10）
 
 **那一刀没有落下来。**
 
@@ -1102,7 +1096,7 @@ And then you will hear Him call your name.
 
 这就是福音。
 
-*你爱的弟兄，亚伯拉罕*`,
+*爱你的弟兄，亚伯拉罕*`,
     content_en: `My name was Abram. Later, God changed it to Abraham — father of a multitude.
 
 I want to tell you about one day — the darkest day and the brightest day of my life.
@@ -1185,7 +1179,7 @@ I said: "God will provide for himself the lamb for a burnt offering, my son."
 
 When I said those words, I did not know whether they would prove true. I simply compressed everything I had into that one sentence.
 
-They came to the place God had shown him. Abraham built the altar, arranged the wood, bound Isaac his son, and laid him on the altar on top of the wood. Then Abraham reached out his hand and took the knife to slaughter his son.
+> "When they came to the place of which God had told him, Abraham built the altar there and laid the wood in order and bound Isaac his son and laid him on the altar, on top of the wood. Then Abraham reached out his hand and took the knife to slaughter his son." (Genesis 22:9-10, ESV)
 
 **The knife did not fall.**
 
@@ -1238,332 +1232,416 @@ That is the gospel.
     authorBioEn: 'Greatest king of Israel, a man after God\'s own heart, primary author of the Psalms',
     title_zh: '写诗篇51那天',
     title_en: 'The Day I Wrote Psalm 51',
-    date: '2026-03-14',
+    date: '2026-03-15',
     category: 'testimony',
-    scripture: '诗篇 51:1-17',
-    scriptureText_zh: '神啊，求你按你的慈爱怜恤我，按你丰盛的慈悲涂抹我的过犯……神所要的祭，就是忧伤的灵。神啊，忧伤痛悔的心，你必不轻看。',
-    scriptureText_en: 'Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions... The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.',
-    summary_zh: '拿单指着我说"你就是那人"之后的内心世界。一个合神心意的人，怎么走到了这一步？碎裂的灵魂里流出了这首诗。',
-    summary_en: 'The inner world after Nathan pointed at me and said "You are the man." How did a man after God\'s own heart come to this? From a shattered soul flowed this psalm.',
-    tags: ['悔改', '赦免', '恢复', '诚实'],
-    content_zh: `## 我是扫罗——最虔诚的逼迫者
+    scripture: '诗篇 51:1-19',
+    scriptureText_zh: '神所要的祭就是忧伤的灵。神啊，忧伤痛悔的心，你必不轻看。',
+    scriptureText_en: 'The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.',
+    summary_zh: '拿单指着我说"你就是那人"之后，我在碎裂中写下了最真实的一首诗——不是最好的诗，却是从最深的破碎中流出来的。',
+    summary_en: 'After Nathan pointed at me and said "You are the man," I wrote the most honest psalm of my life from the depths of brokenness — not my finest poetry, but my truest.',
+    tags: ['悔改', '恩典', '赦免', '更新'],
+    content_zh: `## 亲爱的弟兄姐妹
 
-我叫扫罗，便雅悯支派的人，法利赛人中的法利赛人。
+我是大卫，耶西的儿子，以色列的王。
 
-你们若问我从前是什么人，我可以把我的履历摆在你们面前："我第八天受割礼；我是以色列族、便雅悯支派的人，是希伯来人所生的希伯来人。就律法说，我是法利赛人；就热心说，我是逼迫教会的；就律法上的义说，我是无可指摘的。"（腓立比书 3:5-6）
+你们中间许多人知道我的名字，知道我写的诗篇，知道我是那个用机弦甩石打死歌利亚的少年，知道我被称为"合神心意的人"。但今天我要告诉你们的，不是那些光彩的故事。今天我要告诉你们的，是我一生中最黑暗的日子，也是最真实的日子——就是我写诗篇51的那一天。
 
-你们听清楚了吗？**无可指摘。** 不是我自夸。在迦玛列门下受教的那些年，我背下了整本妥拉，安息日从不违反一条诫命，十一奉献精确到薄荷、茴香、芹菜。法利赛人中间，没有人比我更认真。
+我必须把这件事完完全全地告诉你们，因为我知道你们中间有些人正活在我当时的光景中：你犯了罪，你以为可以藏住，你在神面前假装一切都没有发生。弟兄姐妹，我大卫要告诉你——**藏不住的。**
 
-但光认真还不够。我要**为神大发热心。**
+## 那个春天的黄昏
 
-当我第一次听说有一群人在传讲一个被钉十字架的拿撒勒人是弥赛亚的时候，我的血都沸腾了。**弥赛亚被挂在木头上？** 妥拉明明写着："被挂的人是在神面前受咒诅的"（申命记 21:23）。这些人不是在传福音——他们是在亵渎神！
+事情发生在春天。列王出战的时候，我本应该在前线带领以色列的军队，但那一年，我留在了耶路撒冷。我把约押派了出去，自己却留在王宫里。这是第一个错误。但当时我不觉得这是错误——我是王，我当然可以选择留下。
 
-所以当公会决定要清除这个异端的时候，我第一个站出来。
+一天傍晚，我从床上起来，在王宫的平顶上散步。就在那时，我看见了一个妇人在沐浴。她非常美丽。
 
-司提反被石头打死的那天，我就在那里。我没有亲手丢石头——我替那些丢石头的人看守衣裳。我看着他跪下来，看着石头一块一块砸在他身上。他满脸是血，但他的脸——
+弟兄姐妹，我不会详细描述接下来发生的事。你们可以去读撒母耳记下第11章。我只要说：我差人打听那妇人是谁。有人告诉我说："这不是以连的女儿、赫人乌利亚的妻拔示巴吗？"（撒母耳记下11:3）
 
-弟兄姐妹，我不愿意承认这一点，但那天我看到了一张我永远忘不掉的脸。**他的脸好像天使的脸。** 他在死的时候说："主啊，不要将这罪归于他们！"（使徒行传 7:60）
+**她是有丈夫的妇人。而且她的丈夫是我最忠心的勇士之一。**
 
-被石头打死的人在为打他的人祷告。
+我知道律法怎么说。我从少年时代就背诵妥拉。"不可贪恋人的妻子。"（申命记5:21）这诫命我背得滚瓜烂熟。但那一刻，律法的声音被另一个声音盖住了——那是欲望的声音，是权力的声音，是"我是王，谁能拦阻我？"的声音。
 
-我当时把这念头压下去了。我告诉自己：这是魔鬼的迷惑。越是看起来像天使的，越危险。
+我差人去，将她接来。我与她犯了罪。
 
-所以我更加疯狂地逼迫。
+## 用一个罪遮盖另一个罪
 
-我挨家挨户搜查。男人女人，我一概拉到监里。我威胁他们，要他们否认那个名字。有些人否认了——我看到他们眼中的羞耻和痛苦。有些人不肯——我看到他们眼中的平安，一种我用尽全力也无法拥有的平安。
+事情若是到这里就停住了，已经够可怕了。但罪从来不会停在一个地方。罪是有惯性的，一个罪会生出另一个罪，直到你被自己编织的网完全缠住。
 
-**我恨那种平安。** 因为我心里没有。
+拔示巴怀孕了。她差人来告诉我说："我怀了孕。"（撒母耳记下11:5）
 
-我以为我有。我以为遵行律法、大发热心就是平安。但每次看到那些被我抓起来的人，他们在锁链中唱诗赞美的时候，我心里就有一个声音说：**他们有的东西，你没有。**
+我的第一个反应不是悔改，而是**掩盖**。
 
-我把那声音压得更深。
+我派人把乌利亚从前线叫回来，想让他回家与妻子同房，好叫人以为孩子是他的。但乌利亚——这个我亏欠至深的人——他比我更有荣誉感。他说："约柜和以色列与犹大兵都住在棚里，我岂可回家吃喝、与妻子同寝呢？我指着王的性命起誓，我决不行这事！"（撒母耳记下11:11）
 
-## 去大马色的路上
+你们听到了吗？乌利亚在为神的约柜和以色列军队牵挂，不肯享受安逸。而我这个王，却躲在王宫里犯罪。他的忠诚和正直，在那一刻照出了我的卑鄙和虚伪。
 
-耶路撒冷还不够。我听说大马色也有信这道的人，就去大祭司那里要了文书，要把那里的人也捆绑回来。
+我试了两次让他回家，他都不肯。我甚至把他灌醉，他还是没有回家，而是睡在王宫门前。
 
-那是一段很长的路，大约六天的行程。一路上我都在想着到了之后怎么审讯、怎么定罪。我的心里充满了义怒——至少我以为那是义怒。
+我走投无路了。不——不是走投无路。我本可以在那一刻停下来，到神面前认罪。但我选择了更黑暗的道路。
 
-**然后那道光来了。**
+我写了一封信给元帅约押，叫乌利亚自己带去。信上写着："要派乌利亚前进，到阵势极险之处，你们便退后，使他被杀。"（撒母耳记下11:15）
 
-弟兄姐妹，我无法用语言描述那道光。中午的日头已经够亮了，但那道光比日头还亮。不是从某个方向照来的——是**四面照着我**。好像整个天空都裂开了，所有的光都倾倒下来。
+**我用忠心人自己的手递上了他的死刑判决书。**
 
-我仆倒在地。
+弟兄姐妹，我写到这里的时候手在发抖。这是我一生中最大的耻辱。我不只是犯了不忠的罪——我成了一个杀人犯。我借着亚扪人的刀，杀了一个无辜的、忠心于我的人。
 
-然后我听到了那个声音：
+乌利亚死了。我把拔示巴接到王宫，娶她为妻。在外人看来，一切都安排妥当了。王娶了一个阵亡将士的遗孀——多么仁慈。
 
-**"扫罗，扫罗，你为什么逼迫我？"**
+**但耶和华的眼睛从不闭上。**
 
-祂叫了我的名字。叫了两遍。
+圣经记着说："但大卫所行的这事，耶和华甚不喜悦。"（撒母耳记下11:27）
 
-我趴在地上，浑身发抖。我问："主啊，你是谁？"
+## 那将近一年的日子
 
-我其实已经知道了。在那道光照到我的一瞬间，我所有的确信都碎了——我的律法知识、我的法利赛人身份、我的热心、我的义——全部碎成了渣。**因为如果这道光是从天上来的，如果这个声音是神的声音，那么我逼迫的不是异端，而是——**
+从犯罪到拿单来见我，中间过了将近一年的时间。在这将近一年里，我过着什么样的日子？从外面看，我仍然是以色列的王，仍然坐在宝座上，仍然处理国事，仍然——或许——还在圣殿里敬拜。
 
-**"我就是你所逼迫的耶稣。"**
+但里面呢？
 
-那个被钉十字架的拿撒勒人。那个我认定是被神咒诅的人。那个我拼了命要从地上抹去祂名字的人。
+后来我在诗篇32篇里写道：
 
-**祂就是主。**
+> "我闭口不认罪的时候，因终日唉哼而骨头枯干。黑夜白日，你的手在我身上沉重；我的精液耗尽，如同夏天的干旱。"（诗篇32:3-4）
 
-弟兄姐妹，你们能想象那一刻我的感受吗？那不是恍然大悟，那是**天塌地陷**。我这一生所做的一切——我的虔诚、我的热心、我引以为傲的一切——不仅毫无价值，而且**方向完全相反**。我以为自己在事奉神，其实我在**逼迫神**。
+**神的手在我身上沉重。** 不是因为神在惩罚我——虽然惩罚也来了——而是因为圣灵在我里面，不让我安宁。祂不容许我在罪中舒舒服服地活着。
 
-我是全世界最虔诚的罪人。
+我白天坐在宝座上审判百姓的案件，心里却知道自己是最该受审判的那个人。我夜里躺在床上，黑暗中乌利亚的面容在我眼前浮现。我听到他说："我决不行这事！"——他连回家睡一夜都不肯，而我夺了他的妻子、取了他的性命。
 
-## 三天的黑暗
+有些人以为，只要没被抓住，罪就不算什么。弟兄姐妹，我以亲身经历告诉你们：**被神的灵追赶，比被全世界的人追赶更可怕。** 因为你无处可逃。你可以骗过所有人，但你骗不过那位鉴察人心肺腑的神。
 
-那道光之后，我的眼睛瞎了。
+那将近一年，是我一生中最漫长的日子。每一天都像一年。
 
-同行的人领着我进了大马色城。三天三夜，我什么也看不见，也不吃也不喝。
+## "你就是那人！"
 
-你们知道那三天我在想什么吗？
+然后拿单来了。
 
-我想起了司提反的脸。我想起了我亲手抓进监牢的那些人。我想起了有些人因为我的逼迫而死。他们的名字，每一个，都在我脑海里。
+先知拿单奉耶和华的差遣来到我面前。他没有直接指控我。他给我讲了一个故事——一个富人有许多牛羊，却夺了穷人唯一的小羊羔的故事。
 
-**我逼迫的是耶稣。每一个信徒，都是祂身体的一部分。我打他们，就是打祂。我捆绑他们，就是捆绑祂。**
+我听了大怒，对拿单说："我指着永生的耶和华起誓，行这事的人该死！他必偿还羊羔四倍。"（撒母耳记下12:5-6）
 
-三天的黑暗里，我终于明白了一件事：**律法能让人知罪，但律法不能救人。** 我一辈子都在守律法，但律法只是让我看到自己有多绝望。"所以凡有血气的，没有一个因行律法能在神面前称义，因为律法本是叫人知罪。"（罗马书 3:20）
+**我用自己的口定了自己的罪。**
 
-我也明白了另一件事：**祂没有击杀我。**
+然后拿单看着我的眼睛，说出了那句话——那句像雷一样击穿我灵魂的话：
 
-那道光完全可以把我烧成灰。以我所做的一切，我配得灭亡一千次。但祂没有。**祂问我"你为什么逼迫我"——这不是审判的宣告，这是父亲对浪子的追问。**
+> "你就是那人！"（撒母耳记下12:7）
 
-## 亚拿尼亚来了
+弟兄姐妹，我不知道该怎么向你们描述那一刻。那不只是一个人在指控我。那是永生神借着祂仆人的口，撕开了我伪装了将近一年的面具。那四个字——"你就是那人"——像一把刀，刺穿了我所有的借口、所有的伪装、所有的自我欺骗。
 
-第三天，一个叫亚拿尼亚的门徒来了。
+拿单继续说。耶和华如此说：我膏你作以色列的王，救你脱离扫罗的手。我将你主人的家业赐给你……你若还以为不足，我早就加倍地赐给你。你为什么藐视耶和华的命令，行祂眼中看为恶的事呢？
 
-后来我才知道，主在异象中对他说：去直街，找一个叫扫罗的大数人。亚拿尼亚说："主啊，我听见许多人说，这人怎样在耶路撒冷多多苦害你的圣徒。"（使徒行传 9:13）
+每一句话都像炭火落在我头上。神给了我一切——王位、权柄、财富、安全——**我却仍然不满足。** 我藐视了那位把一切赐给我的神。
 
-弟兄姐妹，你们想想——如果有人让你去找一个专门抓基督徒的人，给他按手祷告，你去不去？
+那一刻，所有的伪装都碎了。王的尊严碎了。自我辩护碎了。将近一年来苦苦维持的假面碎了。
 
-**亚拿尼亚去了。**
+我只说了一句话："我得罪耶和华了！"（撒母耳记下12:13）
 
-他进来，把手按在我身上，说了一句让我泪流满面的话：
+不是"我犯了一个错误"。不是"情况很复杂"。不是"这事也不能全怪我"。只是五个字：**我得罪耶和华了。**
 
-**"兄弟扫罗。"**
+拿单对我说："耶和华已经除掉你的罪，你必不至于死。"
 
-兄弟。他叫我**兄弟**。
+弟兄姐妹，请注意——这不是因为我的悔改有多好、多深、多真诚。这完全是因为耶和华的恩典。是祂选择赦免。是祂除掉了我的罪。悔改是祂赐给我的礼物，赦免更是。
 
-这个我来大马色要抓的人，叫我兄弟。
+**但罪的后果并没有被免除。** 拿单告诉我，我与拔示巴所生的孩子必定要死。刀剑必永不离开我的家。这些都一一应验了。神赦免了我的罪，但祂没有免除罪的管教。这也是出于祂的爱——"因为主所爱的，他必管教。"（希伯来书12:6）
 
-"在你来的路上向你显现的主，就是耶稣，打发我来，叫你能看见，又被圣灵充满。"（使徒行传 9:17）
+## 写诗篇51的那一天
 
-就在那一刻，好像有鳞片从我眼睛上掉下来。我又能看见了。但我看到的不再是从前的世界——我看到了一个全新的世界。**瞎眼的时候以为自己看得见，看见了才知道自己从前是瞎的。**
+拿单走后，我关上门，独自面对耶和华。
 
-我起来，受了洗。
+那是我一生中写得最慢的一首诗。每一个字都是从我碎裂的灵魂深处挤出来的，沾满了眼泪。
 
-## 恩典中的恩典
+我没有用华丽的词藻。我没有像写其他诗篇那样精心设计结构和韵律。我只是跪在地上，把心里最真实的呼求倾倒在神面前。
 
-弟兄姐妹，如果说整本圣经中有一个人最没有资格被神使用，那就是我。
+我写下的第一句话是：
 
-我不是像彼得那样因为害怕而不认主——彼得至少还爱主。**我是主动地、系统地、狂热地逼迫基督的教会。** 我手上沾着圣徒的血。
+> "神啊，求你按你的慈爱怜恤我！按你丰盛的慈悲涂抹我的过犯！"（诗篇51:1）
 
-但祂拣选了我。
+注意，我没有说"按我的功劳怜恤我"。我没有说"看在我过去打败歌利亚的份上"。我没有说"因为我是合你心意的人"。**我唯一能呼求的根基，是神自己的慈爱和慈悲。**
 
-不是因为我有什么好。不是因为我的学问——虽然我确实在迦玛列门下受过最好的训练。不是因为我的热心——那份热心差点让我成为永远的仇敌。
+> "求你将我的罪孽洗除净尽，并洁除我的罪！"（诗篇51:2）
 
-**祂拣选我，恰恰是要在我这"罪人中的罪魁"身上，显明祂一切的忍耐。**
+"洗除净尽"——我用了一个洗衣服的词。就像妇人在河边使劲搓洗脏衣服一样。我的罪不是轻轻擦一下就能去掉的污点，那是渗透到纤维里的污秽，需要反反复复地洗、彻底地洗。
 
-"基督耶稣降世，为要拯救罪人。这话是可信的，是十分可佩服的。在罪人中我是个罪魁。然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明祂一切的忍耐，给后来信祂得永生的人作榜样。"（提摩太前书 1:15-16）
+> "因为，我知道我的过犯；我的罪常在我面前。"（诗篇51:3）
 
-你们听到了吗？**给后来的人作榜样。** 如果连扫罗都能被赦免，连逼迫教会的人都能成为使徒——**那么没有人是恩典够不到的。**
+将近一年来，我试图不去看我的罪。我假装它不存在。但现在面具碎了，我不再逃避。我的罪就在那里，**常在我面前**，每时每刻。
 
-## 我从前以为有益的
+然后我写出了也许是整首诗中最让人困惑、却又最深刻的一句话：
 
-腓立比书里我写过这么一段话。现在让我再说一遍：
+> "我向你犯罪，惟独得罪了你；在你眼前行了这恶，以致你责备我的时候显为公义，判断我的时候显为清正。"（诗篇51:4）
 
-"只是我先前以为与我有益的，我现在因基督都当作有损的。不但如此，我也将万事当作有损的，因我以认识我主基督耶稣为至宝。我为他已经丢弃万事，看作粪土，为要得着基督。"（腓立比书 3:7-8）
+"惟独得罪了你"——有人会问：大卫，你不是也得罪了拔示巴吗？不是也得罪了乌利亚吗？不是也得罪了整个以色列吗？
 
-**粪土。**
+是的。我得罪了他们每一个人。但我在这里要说的是一个更深的真理：**一切罪的本质，都是得罪神。** 是祂的律法被违背了。是祂的形象被玷污了。是祂的圣洁被亵渎了。当我伤害拔示巴和乌利亚的时候，我伤害的是按照神形象被造的人。我所有的罪，最终都指向那位圣洁的神。
 
-我的法利赛人身份——粪土。我在迦玛列门下的学历——粪土。我无可指摘的律法记录——粪土。不是因为这些东西本身是坏的，而是因为**当你用这些东西来代替基督的时候，它们就变成了拦阻你认识神的障碍。**
+而且，我说"以致你责备我的时候显为公义"——我不是在为自己辩护，我是在说：**神啊，无论你怎么审判我，你都是对的。** 我完全接受你的判决。你若要灭我，你也是公义的。
 
-我从前以为自己站在光明里，其实我站在黑暗中。那道光把我打倒，让我瞎了眼——但讽刺的是，**瞎了眼之后我才真正"看见"了。**
+> "我是在罪孽里生的，在我母亲怀胎的时候就有了罪。"（诗篇51:5）
 
-## 致每一个"虔诚的逼迫者"
+这不是在怪我母亲。这是我终于认识到一个深刻的真理：我的问题不只是那一次犯罪，**我的问题是我整个人都是败坏的。** 从母腹中出来，我就带着罪性。我在王宫平顶上的跌倒，不是偶然的失足，而是我堕落本性的必然流露。
 
-弟兄姐妹，如果你读到这里——
+这就是为什么单靠自己的努力永远不够。改革不够。立志不够。发誓以后不再犯不够。**我需要的不是改良，而是重造。**
 
-也许你不像我那样逼迫教会。但也许你和我有一个共同的问题：**你以为自己的义可以救自己。**
+所以我写下了这首诗的核心：
 
-也许你是一个很好的人。你守规矩，做善事，从不害人。你的履历拿出来，"无可指摘"。但你心里有没有那种平安？那种被锁链中的人唱出来的平安？
+> "神啊，求你为我造清洁的心，使我里面重新有正直的灵。"（诗篇51:10）
 
-如果没有——也许你和大马色路上的扫罗一样，需要被那道光击倒一次。
+"造"——我用了创世记第一章的那个词。只有神能从无到有地创造。我需要的是一颗全新的心，不是修补过的旧心。只有那位说"要有光，就有了光"的神，才能在我黑暗的心里重新创造光明。
 
-不要怕。**那道光不是来毁灭你的。那道光是来拯救你的。**
+> "不要丢弃我，使我离开你的面；不要从我收回你的圣灵。"（诗篇51:11）
 
-它会让你暂时看不见。它会把你所有的确信打碎。它会让你在黑暗中待上一阵子。但当鳞片从你眼睛上掉下来的时候，你会看到一个全新的世界——一个不需要你靠自己的义站立的世界，一个**被恩典托住的世界。**
+这是我最深的恐惧。不是怕失去王位——王位算什么？不是怕死——死也许是解脱。我最怕的是**失去神的同在**。我见过扫罗的下场。耶和华的灵离开了他，他就变成了另一个人——被恐惧和嫉妒吞噬。我跪在地上恳求：神啊，不要像离开扫罗一样离开我！
 
-"你为什么逼迫我？"——也许今天，这个问题不是问你在逼迫谁，而是在问：**你在抗拒什么？**
+> "求你使我仍得救恩之乐，赐我乐意的灵扶持我。"（诗篇51:12）
 
-你在抗拒承认自己不行吗？你在抗拒放下你的骄傲吗？你在抗拒那个比你所有的确信都更大的爱吗？
+"仍得"——说明我曾经有过。在犯罪之前，我心中有救恩的喜乐。在那些年少牧羊的日子里，我仰望星空赞美造物主，心中满是喜乐。在约柜前跳舞的那天，我有说不出的欢喜。但罪把这一切都夺走了。将近一年来，我的心像一片荒漠。现在我恳求神把那喜乐还给我。
 
-放下吧。像我一样，仆倒在那道光面前。
+> "神所要的祭就是忧伤的灵。神啊，忧伤痛悔的心，你必不轻看。"（诗篇51:17）
 
-然后你会听到祂叫你的名字。
+这是我在写这首诗时领悟到的最重要的真理，也是我最想告诉你们的话。
 
-*"然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明祂一切的忍耐，给后来信祂得永生的人作榜样。"（提摩太前书 1:16）*
+我是王。我可以献上成千上万的牛羊。我可以在圣殿里烧最昂贵的香。但神不需要这些。**神要的是碎裂的心。** 不是完美的宗教表演，不是华丽的敬拜仪式，不是一长串属灵的履历表。只是一颗在祂面前完全破碎、完全诚实、完全放弃自我辩护的心。
 
-*愿那在大马色路上光照我的主，也光照你的心——你的弟兄，保罗*`,
-    content_en: `## I Am Saul — The Most Devout Persecutor
+弟兄姐妹，这是给所有跌倒之人的盼望。你不需要先把自己修好再来到神面前。你不需要先攒够功德再来祈求赦免。**你只需要带着你那颗碎裂的、忧伤的、痛悔的心来——祂必不轻看。**
 
-My name is Saul, of the tribe of Benjamin, a Pharisee among Pharisees.
+## 这不是故事的结局
 
-If you ask me who I was before, I can lay my credentials before you: "Circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless." (Philippians 3:5-6)
+我必须诚实地告诉你们：写完诗篇51并不意味着一切就好了。
 
-Did you hear that? **Blameless.** I am not boasting. In those years studying under Gamaliel, I memorized the entire Torah, never broke a single commandment on the Sabbath, tithed down to the mint, dill, and cumin. Among the Pharisees, no one was more serious than I was.
+罪被赦免了，但后果仍在。我与拔示巴所生的第一个孩子还是死了。我为他禁食祷告了七天，趴在地上求神留下这孩子的命。但孩子还是死了。
 
-But being serious was not enough. I wanted to **burn with zeal for God.**
+后来，我的家中发生了可怕的事——我的儿子暗嫩玷辱了他的妹妹他玛，我的儿子押沙龙杀了暗嫩，后来押沙龙又起来叛变，要夺我的王位。我赤脚逃出耶路撒冷，在橄榄山上一边走一边哭。
 
-When I first heard that a group of people were proclaiming a crucified Nazarene as the Messiah, my blood boiled. **The Messiah hung on a tree?** The Torah clearly states: "a hanged man is cursed by God" (Deuteronomy 21:23). These people were not preaching good news — they were blaspheming God!
+刀剑果然没有离开我的家。每一次家中的灾难，都让我想起拿单的话，想起我的罪。
 
-So when the Sanhedrin decided to stamp out this heresy, I was the first to volunteer.
+但我也要告诉你们：**在这一切苦难中，神没有离开我。** 祂没有收回祂的圣灵。祂管教我，但祂没有丢弃我。祂用苦难磨炼我，使我更加认识自己的软弱和祂的恩典。
 
-The day Stephen was stoned to death, I was there. I did not throw the stones myself — I guarded the garments of those who did. I watched him kneel. I watched the stones strike him one by one. His face was covered in blood, but his face —
+后来，神赐给我和拔示巴另一个儿子——所罗门。耶和华爱他，差遣先知拿单给他起名叫耶底底亚，意思是"耶和华所爱的"。你们看到了吗？**神在我最大的失败之处，赐下了最大的祝福。** 弥赛亚的家谱，就从所罗门这一脉传下去。这不是因为我配得，这完全是恩典。
 
-Brothers and sisters, I do not like to admit this, but that day I saw a face I have never been able to forget. **His face was like the face of an angel.** As he was dying, he said, "Lord, do not hold this sin against them!" (Acts 7:60)
+## 给今天跌倒之人的话
 
-A man being stoned to death was praying for the men killing him.
+弟兄姐妹，我知道你们中间有些人正在经历我所经历的。也许你犯了一个你以为自己永远不会犯的罪。也许你正在费尽心力地掩盖。也许你已经被拿住了，正在经历羞耻和绝望。也许你觉得自己再也没有脸来到神面前了。
 
-I pushed that thought down. I told myself: this is the devil's deception. The more something looks like an angel, the more dangerous it is.
+我大卫对你说：**来吧。带着你碎裂的心来。**
 
-So I persecuted even more furiously.
+不要像我一样浪费将近一年的时间在掩盖和自欺中。你越早来到神面前认罪，你越早得到释放。
 
-I went house to house. Men and women alike, I dragged them off to prison. I threatened them, demanding they deny that name. Some did deny it — I saw the shame and agony in their eyes. Some refused — I saw in their eyes a peace, a peace that I could never possess no matter how hard I tried.
+不要以为你的罪太大，大到神不能赦免。我犯了奸淫，又犯了谋杀，神尚且赦免了我。不是因为我是大卫——是因为祂是耶和华，"有怜悯有恩典的神，不轻易发怒，并有丰盛的慈爱和诚实"（出埃及记34:6）。
 
-**I hated that peace.** Because I did not have it.
+不要以为你可以靠自己的努力修补。你需要的是被重造，不是被修补。只有圣灵能在你里面造清洁的心，重新赐给你正直的灵。
 
-I thought I did. I thought keeping the law and burning with zeal was peace. But every time I saw those I had arrested singing hymns of praise in chains, a voice inside me whispered: **They have something you do not.**
+也不要以为悔改只是一时的情绪。真正的悔改是圣灵的工作。它不只是让你为后果感到害怕，而是让你为得罪了圣洁的神而忧伤。它不只是让你说"对不起"，而是让你的生命有真实的转变。
 
-I pushed that voice down deeper.
+诗篇51不是我写过的最华丽的诗。它没有诗篇23的宁静之美，没有诗篇19的壮丽颂赞，没有诗篇8的宇宙视野。但它是我写过的**最真实的诗**。因为它是从最深的破碎中流出来的。
 
-## On the Road to Damascus
+弟兄姐妹，请记住这句话：
 
-Jerusalem was not enough. I heard that there were followers of the Way in Damascus too, so I went to the high priest for letters of authority to bring them back in chains.
+> "神所要的祭就是忧伤的灵。神啊，忧伤痛悔的心，你必不轻看。"（诗篇51:17）
 
-It was a long journey, about six days. The whole way I was planning how I would interrogate them, how I would convict them. My heart was full of righteous anger — or so I thought.
+你那颗碎裂的心，在神眼中比千万只公羊、比万道江河的油更宝贵。因为碎裂的心是谦卑的心，是不再倚靠自己的心，是完全仰望恩典的心。
 
-**Then the light came.**
+愿那位怜恤我的神，也同样怜恤你。愿祂为你造清洁的心，使你里面重新有正直的灵。愿祂不丢弃你，不收回祂的圣灵，使你仍得救恩之乐。
 
-Brothers and sisters, I cannot describe that light with words. The noonday sun was already blazing, but that light was brighter than the sun. It did not come from one direction — it **shone all around me**. As if the entire sky had torn open and all its light poured down.
+*愿恩惠平安归与你们——*
 
-I fell to the ground.
+*爱你的弟兄，大卫*`,
+    content_en: `## Dear Brothers and Sisters
 
-Then I heard the voice:
+I am David, son of Jesse, king of Israel.
 
-**"Saul, Saul, why are you persecuting me?"**
+Many of you know my name. You know the psalms I wrote, the giant I slew with a sling and a stone, and that I was called "a man after God's own heart." But what I must tell you today is not one of those glorious stories. Today I must tell you about the darkest day of my life — and the most honest — the day I wrote Psalm 51.
 
-He called my name. Twice.
+I must tell you this story in full, because I know some of you are living in the same condition I was in: you have sinned, you think you can hide it, and you are pretending before God that nothing has happened. Brothers and sisters, I, David, tell you — **it cannot be hidden.**
 
-I lay on the ground, trembling. I asked, "Who are you, Lord?"
+## That Spring Evening
 
-I already knew. The instant that light struck me, all my certainties shattered — my knowledge of the law, my Pharisee credentials, my zeal, my righteousness — all of it crumbled to dust. **Because if this light was from heaven, if this voice was the voice of God, then I had not been persecuting heretics. I had been —**
+It happened in the spring. At the time when kings go out to battle, I should have been at the front leading the armies of Israel. But that year, I stayed behind in Jerusalem. I sent Joab out and remained in the palace. This was the first mistake. But at the time, I did not see it as one — I was the king; surely I could choose to stay.
 
-**"I am Jesus, whom you are persecuting."**
+One evening I rose from my bed and walked on the roof of the palace. It was then that I saw a woman bathing. She was very beautiful.
 
-The crucified Nazarene. The one I had declared cursed by God. The one whose name I had fought with all my strength to wipe from the earth.
+Brothers and sisters, I will not describe in detail what happened next. You may read 2 Samuel chapter 11 for yourselves. I will say only this: I sent and inquired about the woman. And someone told me, "Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?" (2 Samuel 11:3)
 
-**He is Lord.**
+**She was a married woman. And her husband was one of my most loyal warriors.**
 
-Brothers and sisters, can you imagine what I felt in that moment? It was not an epiphany. It was the **ground giving way beneath me**. Everything I had ever done — my devotion, my zeal, everything I took pride in — was not merely worthless. It was aimed in **exactly the wrong direction**. I thought I was serving God. In truth, I was **persecuting God.**
+I knew what the law said. I had memorized the Torah since my youth. "You shall not covet your neighbor's wife" (Deuteronomy 5:21). I knew this commandment by heart. But in that moment, the voice of the law was drowned out by another voice — the voice of desire, the voice of power, the voice that said, "I am the king; who can stop me?"
 
-I was the most devout sinner in the world.
+I sent messengers and took her. I sinned against her.
 
-## Three Days of Darkness
+## Covering One Sin with Another
 
-After the light, my eyes were blind.
+If things had stopped there, it would have been terrible enough. But sin never stays in one place. Sin has momentum — one sin begets another, until you are completely entangled in the web you yourself have woven.
 
-My companions led me by the hand into Damascus. For three days and three nights I could see nothing. I neither ate nor drank.
+Bathsheba became pregnant. She sent word to me: "I am pregnant" (2 Samuel 11:5).
 
-Do you know what I was thinking during those three days?
+My first response was not repentance, but **concealment**.
 
-I thought of Stephen's face. I thought of every person I had dragged to prison with my own hands. I thought of those who had died because of my persecution. Their names — every one — echoed in my mind.
+I called Uriah back from the front, hoping he would go home and lie with his wife, so that people would think the child was his. But Uriah — this man to whom I owed an immeasurable debt — had more honor than I did. He said, "The ark and Israel and Judah dwell in booths, and my lord Joab and the servants of my lord are camping in the open field. Shall I then go to my house, to eat and to drink and to lie with my wife? As you live, and as your soul lives, I will not do this thing" (2 Samuel 11:11).
 
-**I had been persecuting Jesus. Every believer was part of His body. When I struck them, I struck Him. When I bound them, I bound Him.**
+Did you hear that? Uriah was concerned for the ark of God and the army of Israel, refusing to enjoy comfort. Meanwhile, I, the king, was hiding in my palace committing sin. His loyalty and integrity exposed my depravity and hypocrisy in that moment.
 
-In three days of darkness, I finally understood one thing: **the law can reveal sin, but the law cannot save.** I had spent my whole life keeping the law, and all it had done was show me how hopeless I truly was. "For by works of the law no human being will be justified in his sight" (Romans 3:20).
+I tried twice to make him go home. He would not. I even got him drunk, and still he did not go home, but slept at the entrance of the palace.
 
-I also understood something else: **He did not strike me dead.**
+I was desperate. No — I was not truly desperate. I could have stopped at that moment and confessed my sin before God. But I chose a darker path.
 
-That light could have reduced me to ash. After all I had done, I deserved destruction a thousand times over. But He did not. **He asked me "Why are you persecuting me?" — that was not a sentence of judgment. It was a father's question to a prodigal son.**
+I wrote a letter to Joab, the commander of the army, and sent it by Uriah's own hand. The letter said: "Set Uriah in the forefront of the hardest fighting, and then draw back from him, that he may be struck down and die" (2 Samuel 11:15).
 
-## Ananias Came
+**I used a faithful man's own hand to deliver his death sentence.**
 
-On the third day, a disciple named Ananias came.
+Brothers and sisters, my hand trembles as I write this. This is the greatest shame of my life. I was not merely guilty of unfaithfulness — I became a murderer. By the sword of the Ammonites, I killed an innocent man who was loyal to me.
 
-I later learned that the Lord had told him in a vision: Go to the street called Straight, and find a man from Tarsus named Saul. Ananias said, "Lord, I have heard from many about this man, how much evil he has done to your saints at Jerusalem" (Acts 9:13).
+Uriah died. I took Bathsheba into the palace and made her my wife. To the outside world, everything was neatly arranged. The king had married a fallen soldier's widow — how merciful.
 
-Brothers and sisters, think about it — if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
+**But the eyes of the LORD never close.**
 
-**Ananias went.**
+Scripture records: "But the thing that David had done displeased the LORD" (2 Samuel 11:27).
 
-He came in, placed his hands on me, and said a sentence that brought me to tears:
+## The Year That Followed
 
-**"Brother Saul."**
+From the time of my sin until Nathan came to me, nearly a year passed. What kind of life did I live during that year? From the outside, I was still the king of Israel, still sitting on my throne, still governing the nation, still — perhaps — worshiping in the tabernacle.
 
-Brother. He called me **brother.**
+But on the inside?
 
-This man — the very man I had come to Damascus to arrest — called me brother.
+I later wrote in Psalm 32:
 
-"The Lord Jesus who appeared to you on the road by which you came has sent me so that you may regain your sight and be filled with the Holy Spirit" (Acts 9:17).
+> "For when I kept silent, my bones wasted away through my groaning all day long. For day and night your hand was heavy upon me; my strength was dried up as by the heat of summer." (Psalm 32:3-4)
 
-In that moment, something like scales fell from my eyes. I could see again. But what I saw was no longer the world I had known — I saw an entirely new world. **When I was blind, I thought I could see. Only when I could see did I realize I had been blind all along.**
+**The hand of God was heavy upon me.** Not because God was punishing me — though punishment did come — but because the Holy Spirit within me would not let me rest. He would not allow me to live comfortably in my sin.
 
-I rose and was baptized.
+By day I sat on my throne judging the cases of the people, knowing in my heart that I was the one who most deserved judgment. By night I lay on my bed, and in the darkness Uriah's face appeared before me. I heard him say, "I will not do this thing!" — he would not even go home to sleep for one night, and I had taken his wife and his life.
 
-## Grace Upon Grace
+Some people think that if you are not caught, sin does not matter. Brothers and sisters, I tell you from personal experience: **being pursued by the Spirit of God is more terrifying than being pursued by the entire world.** For there is nowhere to flee. You can deceive everyone, but you cannot deceive the One who searches hearts and minds.
 
-Brothers and sisters, if there is one person in all of Scripture least qualified to be used by God, it is I.
+That year was the longest of my life. Every day felt like a year.
 
-I am not like Peter, who denied the Lord out of fear — Peter at least loved the Lord. **I actively, systematically, and zealously persecuted the church of Christ.** My hands were stained with the blood of saints.
+## "You Are the Man!"
 
-Yet He chose me.
+Then Nathan came.
 
-Not because of any good in me. Not because of my learning — though I was indeed trained under the finest teacher, Gamaliel. Not because of my zeal — that very zeal nearly made me an eternal enemy.
+The prophet Nathan came to me, sent by the LORD. He did not accuse me directly. He told me a story — a rich man with many flocks and herds who took the only lamb of a poor man.
 
-**He chose me precisely to display all His patience in me, the foremost of sinners.**
+I burned with anger and said to Nathan, "As the LORD lives, the man who has done this deserves to die! He shall restore the lamb fourfold" (2 Samuel 12:5-6).
 
-"The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life" (1 Timothy 1:15-16).
+**With my own mouth, I condemned myself.**
 
-Did you hear that? **As an example to those who would come after.** If even Saul could be forgiven, if even a persecutor of the church could become an apostle — **then no one is beyond the reach of grace.**
+Then Nathan looked me in the eyes and spoke the words that struck my soul like thunder:
 
-## What I Once Counted as Gain
+> "You are the man!" (2 Samuel 12:7)
 
-In my letter to the Philippians, I wrote these words. Let me say them again now:
+Brothers and sisters, I do not know how to describe that moment to you. It was not merely a man accusing me. It was the living God, through the mouth of His servant, tearing off the mask I had worn for nearly a year. Those four words — "You are the man" — were like a sword, piercing through all my excuses, all my pretenses, all my self-deception.
 
-"But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ" (Philippians 3:7-8).
+Nathan continued. Thus says the LORD, the God of Israel: I anointed you king over Israel, and I delivered you out of the hand of Saul. I gave you your master's house... And if this were too little, I would add to you as much more. Why have you despised the word of the LORD, to do what is evil in His sight?
 
-**Rubbish.**
+Every word fell like burning coals upon my head. God had given me everything — the throne, authority, wealth, safety — **and still I was not satisfied.** I had despised the God who gave me all things.
 
-My Pharisee credentials — rubbish. My education under Gamaliel — rubbish. My blameless record under the law — rubbish. Not because these things were bad in themselves, but because **when you use them as substitutes for Christ, they become the very barriers that keep you from knowing God.**
+In that moment, all pretense shattered. The king's dignity shattered. Self-justification shattered. The facade I had painstakingly maintained for nearly a year shattered.
 
-I once thought I stood in the light. In truth, I stood in darkness. That light knocked me down and blinded me — but the irony is, **only after I was blinded did I truly "see."**
+I said only one thing: "I have sinned against the LORD" (2 Samuel 12:13).
 
-## To Every "Devout Persecutor"
+Not "I made a mistake." Not "It's complicated." Not "It wasn't entirely my fault." Just five words: **I have sinned against the LORD.**
 
-Brothers and sisters, if you are reading this —
+Nathan said to me, "The LORD also has put away your sin; you shall not die."
 
-Perhaps you do not persecute the church as I did. But perhaps you and I share a common problem: **you believe your own righteousness can save you.**
+Brothers and sisters, please note — this was not because my repentance was so good, so deep, or so sincere. It was entirely because of the grace of the LORD. It was He who chose to forgive. It was He who put away my sin. Repentance was a gift He gave me, and forgiveness even more so.
 
-Perhaps you are a very good person. You follow the rules, do good deeds, never harm anyone. Your record, laid out for inspection, is "blameless." But do you have that peace in your heart? The peace that was sung by people in chains?
+**But the consequences of sin were not removed.** Nathan told me that the child born to me and Bathsheba would surely die. The sword would never depart from my house. These things all came to pass. God forgave my sin, but He did not remove its discipline. This too was from His love — "For the Lord disciplines the one he loves" (Hebrews 12:6).
 
-If not — perhaps, like Saul on the road to Damascus, you need to be struck down by that light.
+## The Day I Wrote Psalm 51
 
-Do not be afraid. **That light does not come to destroy you. It comes to save you.**
+After Nathan left, I shut the door and faced the LORD alone.
 
-It will blind you for a time. It will shatter all your certainties. It will leave you sitting in darkness for a while. But when the scales fall from your eyes, you will see a brand new world — a world where you no longer need to stand on your own righteousness, a world **upheld entirely by grace.**
+It was the slowest psalm I ever wrote. Every word was squeezed from the depths of my shattered soul, drenched in tears.
 
-"Why are you persecuting me?" — perhaps today, the question is not about who you are persecuting, but about this: **What are you resisting?**
+I did not use elegant language. I did not carefully design the structure and meter as I had with other psalms. I simply knelt on the ground and poured out the most honest cry of my heart before God.
 
-Are you resisting the admission that you cannot do it on your own? Are you resisting laying down your pride? Are you resisting a love greater than all your certainties?
+The first words I wrote were:
 
-Let go. Like me, fall down before that light.
+> "Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions!" (Psalm 51:1)
 
-And then you will hear Him call your name.
+Notice: I did not say "have mercy on me according to my merits." I did not say "for the sake of my killing Goliath." I did not say "because I am a man after your heart." **The only ground on which I could cry out was God's own steadfast love and mercy.**
 
-*"But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life." (1 Timothy 1:16)*
+> "Wash me thoroughly from my iniquity, and cleanse me from my sin!" (Psalm 51:2)
 
-*May the Lord who shone His light on me on the Damascus road also shine His light into your heart — your brother, Paul*`,
+"Wash me thoroughly" — I used a word for laundering clothes, like a woman scrubbing dirty garments at the river. My sin was not a light stain that could be wiped away with a quick touch. It was filth soaked into the very fibers, requiring thorough, repeated washing.
+
+> "For I know my transgressions, and my sin is ever before me." (Psalm 51:3)
+
+For nearly a year I had tried not to look at my sin. I pretended it did not exist. But now the mask was shattered, and I fled no longer. My sin was right there — **ever before me** — every moment.
+
+Then I wrote perhaps the most puzzling yet most profound line of the entire psalm:
+
+> "Against you, you only, have I sinned and done what is evil in your sight, so that you may be justified in your words and blameless in your judgment." (Psalm 51:4)
+
+"Against you only" — some will ask: David, did you not also sin against Bathsheba? Against Uriah? Against all Israel?
+
+Yes. I sinned against every one of them. But what I am saying here is a deeper truth: **all sin, in its essence, is sin against God.** It is His law that was broken. It is His image that was defiled. It is His holiness that was profaned. When I harmed Bathsheba and Uriah, I harmed people made in God's image. All my sin ultimately points to the Holy God.
+
+Moreover, when I said "so that you may be justified in your words" — I was not defending myself. I was saying: **God, however you judge me, you are right.** I fully accept your verdict. If you were to destroy me, you would be just.
+
+> "Behold, I was brought forth in iniquity, and in sin did my mother conceive me." (Psalm 51:5)
+
+This is not blaming my mother. This is my finally recognizing a profound truth: my problem was not just that one act of sin — **my problem is that my entire being is corrupt.** From my mother's womb I carried a sinful nature. My fall on the palace rooftop was not an accidental stumble but the inevitable expression of my fallen nature.
+
+This is why self-effort will never be enough. Reform is not enough. Resolution is not enough. Swearing never to do it again is not enough. **What I need is not renovation, but re-creation.**
+
+And so I wrote the heart of this psalm:
+
+> "Create in me a clean heart, O God, and renew a right spirit within me." (Psalm 51:10)
+
+"Create" — I used the same word from Genesis chapter 1. Only God can create something from nothing. What I need is an entirely new heart, not a patched-up old one. Only the One who said "Let there be light" and there was light can create light anew in my darkened heart.
+
+> "Cast me not away from your presence, and take not your Holy Spirit from me." (Psalm 51:11)
+
+This was my deepest fear. Not losing my throne — what is a throne? Not death — death might even be relief. What I feared most was **losing God's presence.** I had seen what happened to Saul. The Spirit of the LORD departed from him, and he became a different man — consumed by fear and jealousy. I knelt and pleaded: God, do not leave me as you left Saul!
+
+> "Restore to me the joy of your salvation, and uphold me with a willing spirit." (Psalm 51:12)
+
+"Restore" — meaning I once had it. Before my sin, I had the joy of salvation. In those youthful days of shepherding, I gazed at the stars and praised the Creator with a heart full of joy. On the day I danced before the ark, I had inexpressible gladness. But sin took it all away. For nearly a year my heart had been a desert. Now I pleaded with God to give that joy back to me.
+
+> "The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise." (Psalm 51:17)
+
+This is the most important truth I grasped while writing this psalm, and the one I most want to share with you.
+
+I am a king. I could offer thousands upon thousands of rams. I could burn the most expensive incense in the tabernacle. But God does not need these things. **What God desires is a broken heart.** Not a flawless religious performance, not a spectacular worship service, not a long résumé of spiritual accomplishments. Simply a heart that is completely broken before Him, completely honest, and has completely given up self-justification.
+
+Brothers and sisters, this is the hope for all who have fallen. You do not need to fix yourself before coming to God. You do not need to accumulate enough merit before asking for forgiveness. **You need only bring your broken, sorrowful, contrite heart — He will not despise it.**
+
+## This Is Not the End of the Story
+
+I must be honest with you: writing Psalm 51 did not mean everything was suddenly fine.
+
+The sin was forgiven, but the consequences remained. The first child born to me and Bathsheba still died. I fasted and prayed for him for seven days, lying on the ground, begging God to spare the child's life. But the child still died.
+
+Later, terrible things happened in my house — my son Amnon violated his sister Tamar, my son Absalom killed Amnon, and then Absalom rose up in rebellion to seize my throne. I fled Jerusalem barefoot, weeping as I climbed the Mount of Olives.
+
+The sword indeed never departed from my house. Every calamity within my family reminded me of Nathan's words, reminded me of my sin.
+
+But I must also tell you: **through all this suffering, God did not leave me.** He did not take back His Holy Spirit. He disciplined me, but He did not cast me away. He refined me through suffering, causing me to know more deeply my own weakness and His grace.
+
+Later, God gave Bathsheba and me another son — Solomon. The LORD loved him and sent the prophet Nathan to name him Jedidiah, meaning "beloved of the LORD." Do you see? **God bestowed His greatest blessing at the very site of my greatest failure.** The lineage of the Messiah would come down through Solomon. Not because I deserved it — this was pure grace.
+
+## A Word to Those Who Have Fallen Today
+
+Brothers and sisters, I know that some of you are experiencing what I experienced. Perhaps you have committed a sin you thought you would never commit. Perhaps you are exhausting every effort to cover it up. Perhaps you have already been found out and are now drowning in shame and despair. Perhaps you feel you can never again show your face before God.
+
+I, David, say to you: **Come. Bring your broken heart and come.**
+
+Do not waste nearly a year, as I did, in concealment and self-deception. The sooner you come before God to confess, the sooner you will find freedom.
+
+Do not think your sin is too great for God to forgive. I committed adultery and murder, and God forgave even me. Not because I am David — but because He is the LORD, "a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness" (Exodus 34:6).
+
+Do not think you can repair things by your own effort. What you need is to be re-created, not repaired. Only the Holy Spirit can create a clean heart within you and renew a right spirit within you.
+
+And do not think that repentance is merely a momentary emotion. True repentance is the work of the Holy Spirit. It does not merely make you afraid of consequences — it makes you grieve because you have offended a holy God. It does not merely make you say "I'm sorry" — it brings about genuine transformation in your life.
+
+Psalm 51 is not the most beautiful psalm I ever wrote. It does not have the serene beauty of Psalm 23, or the majestic praise of Psalm 19, or the cosmic vision of Psalm 8. But it is the **most honest psalm** I ever wrote — because it flowed from the deepest brokenness.
+
+Brothers and sisters, remember this verse:
+
+> "The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise." (Psalm 51:17)
+
+Your broken heart is more precious in God's sight than ten thousand rams, than ten thousand rivers of oil. For a broken heart is a humble heart, a heart that no longer relies on itself, a heart that looks entirely to grace.
+
+May the God who had mercy on me likewise have mercy on you. May He create in you a clean heart and renew a right spirit within you. May He not cast you away, nor take His Holy Spirit from you, and may He restore to you the joy of His salvation.
+
+*Grace and peace be with you —*
+
+*Your brother who loves you, David*`,
   },
   {
     id: 'ruth-gleaning',
