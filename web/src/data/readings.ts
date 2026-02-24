@@ -1381,7 +1381,7 @@ readings.push({
 
 弟兄姐妹，亚伯兰的故事告诉我们：神的呼召不是因为我们完美，神的拣选不是因为我们配得。他呼召软弱的人，他拣选会跌倒的人，然后他在他们的软弱中彰显他的信实。
 
-我自己太明白这一点了。那个在客西马尼园拔刀的彼得，那个在院子里三次不认主的彼得，主没有丢弃我。复活之后他在提比哩亚海边三次问我："你爱我吗？"不是审判，是恢复。
+我自己太明白这一点了。那个在米甸旷野逃亡四十年的摩西，那个在烧着荆棘前推辞说"我算什么人"的摩西，神没有丢弃我。他在何烈山的荆棘火焰中呼叫我的名字："摩西！摩西！"不是追究，是差遣。我的软弱是神恩典的舞台，不是神放弃我的理由。
 
 亚伯兰在埃及的失败，和我在院子里的失败，本质是一样的——我们在压力面前忘记了神的应许，用自己的方式来保护自己。但神的信实不因我们的不信实而改变。"我们纵然失信，他仍是可信的，因为他不能背乎自己。"（提摩太后书2:13）
 
@@ -1437,6 +1437,8 @@ Then something slightly troubling happens: famine struck, and Abram went down to
 This is a failure of faith — we must name it honestly. The Abram who had been so obedient on the journey to Canaan could not hold steady in the face of famine. He used deception to protect himself, while pushing his wife into danger.
 
 But God did not abandon him. God afflicted Pharaoh and his household with great plagues; Pharaoh returned Sarai to him.
+
+I know this from my own experience. Moses, who fled to the wilderness of Midian and spent forty years in exile after killing an Egyptian; Moses, who stood before the burning bush and said, "Who am I, that I should go?" — God did not abandon me. He called my name from the flame of the burning thornbush: "Moses! Moses!" Not accusation, but commission. My failure was not a reason for God to give up on me — it was the stage on which His grace was displayed.
 
 Brothers and sisters, Abram's story tells us this: God's calling is not because we are perfect; God's election is not because we deserve it. He calls the weak; He chooses those who will stumble — and then He displays His faithfulness through their weakness.
 
