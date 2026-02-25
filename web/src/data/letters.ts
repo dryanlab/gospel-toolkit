@@ -1322,7 +1322,7 @@ That is the gospel.
 
 > "你就是那人！"（撒母耳记下12:7）
 
-弟兄姐妹，我不知道该怎么向你们描述那一刻。那不只是一个人在指控我。那是永生神借着祂仆人的口，撕开了我伪装了将近一年的面具。那四个字——"你就是那人"——像一把刀，刺穿了我所有的借口、所有的伪装、所有的自我欺骗。
+弟兄姐妹，我不知道该怎么向你们描述那一刻。那不只是一个人在指控我。那是永生神借着祂仆人的口，撕开了我伪装了将近一年的面具。那五个字——"你就是那人"——像一把刀，刺穿了我所有的借口、所有的伪装、所有的自我欺骗。
 
 拿单继续说。耶和华如此说：我膏你作以色列的王，救你脱离扫罗的手。我将你主人的家业赐给你……你若还以为不足，我早就加倍地赐给你。你为什么藐视耶和华的命令，行祂眼中看为恶的事呢？
 
@@ -1332,7 +1332,7 @@ That is the gospel.
 
 我只说了一句话："我得罪耶和华了！"（撒母耳记下12:13）
 
-不是"我犯了一个错误"。不是"情况很复杂"。不是"这事也不能全怪我"。只是五个字：**我得罪耶和华了。**
+不是"我犯了一个错误"。不是"情况很复杂"。不是"这事也不能全怪我"。只是七个字：**我得罪耶和华了。**
 
 拿单对我说："耶和华已经除掉你的罪，你必不至于死。"
 
@@ -1533,7 +1533,7 @@ In that moment, all pretense shattered. The king's dignity shattered. Self-justi
 
 I said only one thing: "I have sinned against the LORD" (2 Samuel 12:13).
 
-Not "I made a mistake." Not "It's complicated." Not "It wasn't entirely my fault." Just five words: **I have sinned against the LORD.**
+Not "I made a mistake." Not "It's complicated." Not "It wasn't entirely my fault." Just six words: **I have sinned against the LORD.**
 
 Nathan said to me, "The LORD also has put away your sin; you shall not die."
 

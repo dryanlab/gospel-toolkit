@@ -2152,7 +2152,7 @@ readings.push({
 
 割礼是什么？从外在来说，它是在男性身体上做一个永久的记号。从神学意义上说，它是约的记号和印证——就像后来的洗礼一样。
 
-韦敏斯德信条教导我们：旧约的割礼和新约的洗礼，在本质上是同一个属灵实际的不同记号。割礼指向的是"心的割礼"——除去罪的污秽，与神立约归属于他。保罗在罗马书4:11说，割礼是亚伯拉罕"未受割礼的时候因信称义的印证"——注意，亚伯拉罕是先因信称义（创世记15:6），后来才受割礼。信在先，记号在后。这就是为什么改革宗教会为信徒的婴儿施洗——因为约的记号可以先于个人信心的表达，正如割礼先于以撒的信心。
+韦敏斯德信条教导我们：旧约的割礼和新约的洗礼，在本质上是同一个属灵实际的不同记号。割礼指向的是"心的割礼"——除去罪的污秽，与神立约归属于他。保罗在罗马书4:11说，割礼是亚伯拉罕"未受割礼的时候因信称义的印证"——注意，亚伯拉罕是先因信称义（创世记15:6），后来才受割礼。信在先，记号在后。割礼不能使人称义，正如洗礼不能使人得救——唯独信心才是与神立约的根基。
 
 "生下来第八日，都要受割礼。"第八天——在圣经的数字象征中，八代表新的开始（七是完全，八是超越完全的新起点）。基督在七日的第一日复活，开启了新创造。割礼在第八天，指向那个新的开始。
 
@@ -2215,7 +2215,7 @@ Brothers and sisters, this is the experience of every Christian. The moment you 
 
 Second, the covenant. "And I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you."
 
-Notice the heart of this statement: "to be God to you and to your offspring." This is the covenant formula of the entire Bible. From Abraham onward, through the New Testament, God repeatedly says this: "I will be your God, and you shall be my people" (Jeremiah 31:33; Hebrews 8:10). This is not merely a legal provision — it is a relational declaration. The Almighty God will be your God, personally present with you, personally responsible for all your needs.
+Notice the heart of this statement: "to be God to you and to your offspring." This is the covenant formula of the entire Bible. From Abraham onward, through the New Testament, God repeatedly says this: "I will be their God, and they shall be my people" (Jeremiah 31:33; Hebrews 8:10). This is not merely a legal provision — it is a relational declaration. The Almighty God will be your God, personally present with you, personally responsible for all your needs.
 
 Third, the land. "And I will give to you and to your offspring after you the land of your sojournings, all the land of Canaan, for an everlasting possession."
 
@@ -2225,7 +2225,7 @@ Fourth, and most striking of all: circumcision.
 
 What is circumcision? Outwardly, it is a permanent mark on the male body. Theologically, it is the sign and seal of the covenant — just as baptism would later become.
 
-The Westminster Confession teaches us that Old Testament circumcision and New Testament baptism are, in essence, different signs of the same spiritual reality. Circumcision points to "circumcision of the heart" — the removal of sin's defilement, and covenant belonging to God. Paul says in Romans 4:11 that circumcision was a "seal of the righteousness that [Abraham] had by faith while he was still uncircumcised" — note carefully: Abraham was justified by faith first (Genesis 15:6) and circumcised later. Faith comes first; the sign follows. This is why Reformed churches baptize the infants of believers — because the covenant sign may precede the personal expression of faith, just as circumcision preceded Isaac's own faith.
+The Westminster Confession teaches us that Old Testament circumcision and New Testament baptism are, in essence, different signs of the same spiritual reality. Circumcision points to "circumcision of the heart" — the removal of sin's defilement, and covenant belonging to God. Paul says in Romans 4:11 that circumcision was a "seal of the righteousness that [Abraham] had by faith while he was still uncircumcised" — note carefully: Abraham was justified by faith first (Genesis 15:6) and circumcised later. Faith comes first; the sign follows. Circumcision could not make anyone righteous, just as baptism cannot save anyone — faith alone is the foundation of our covenant relationship with God.
 
 "Every male throughout your generations... whether born in your house or bought with your money... He who is eight days old among you shall be circumcised." The eighth day — in biblical numerology, eight represents new beginning (seven is completion; eight is the new start beyond completion). Christ rose on the first day of the week, inaugurating the new creation. Circumcision on the eighth day points to that new beginning.
 
@@ -2512,7 +2512,7 @@ readings.push({
 
 **罗得的妻子在后边回头一看，就变成了一根盐柱。**
 
-耶稣在路加福音17:32说了三个字："你们要回想罗得的妻子。"
+耶稣在路加福音17:32说："你们要回想罗得的妻子。"
 
 为什么回头一看就变成盐柱？因为回头不只是一个物理动作——回头是心的方向。天使明确说了"不可回头看"。回头看意味着她的心还在所多玛，她还眷恋那个被审判的城市，她还舍不得离开。
 
@@ -2538,7 +2538,7 @@ readings.push({
 
 弟兄姐妹，第十九章教导我们几件沉重的事。
 
-第一，罪的后果是真实的、可怕的。所多玛不是一个寓言——它是神审判的历史事件。彼得后书2:6说神"将所多玛、蛾摩拉焚烧成灰，定为后世不敬虔人的鉴戒"。
+第一，罪的后果是真实的、可怕的。所多玛不是一个寓言——它是神审判的历史事件。彼得后书2:6说神"判定所多玛、蛾摩拉，将二城倾覆，焚烧成灰，作为后世不敬虔人的鉴戒"。
 
 第二，环境会塑造人。罗得在所多玛住久了，他的道德判断、他的属灵影响力、甚至他妻子和女儿的价值观，都被那个环境侵蚀了。"滥交是败坏善行"（哥林多前书15:33）。
 
@@ -2593,7 +2593,7 @@ Notice the wording: "The LORD rained sulfur and fire from the LORD out of heaven
 
 **But Lot's wife, behind him, looked back, and she became a pillar of salt.**
 
-Jesus said three words in Luke 17:32: "Remember Lot's wife."
+Jesus said in Luke 17:32: "Remember Lot's wife."
 
 Why did looking back turn her into a pillar of salt? Because looking back was not merely a physical action — it was the direction of her heart. The angels had explicitly said, "Do not look back." Looking back meant her heart was still in Sodom, she still longed for that city under judgment, she could not let go.
 
@@ -2667,9 +2667,9 @@ readings.push({
 
 神没有等事情发展到不可收拾的地步。他直接介入了。在亚比米勒还没有亲近撒拉之前，神就出手了。
 
-亚比米勒的回应很有意思。他说："主啊，连有义的国，你也要毁灭么？那人岂不是自己对我说'她是我的妹子'么？就是女人也自己说：'他是我的哥哥。'我做这事是心正手洁的。"
+亚比米勒的回应很有意思。他说："主啊，连有义的国，你也要毁灭么？那人岂不是自己对我说'她是我的妹子'么？就是女人也自己说：'他是我的哥哥。'我作这事是心正手洁的。"
 
-亚比米勒自辩说他是无辜的。神也承认了这一点："我知道你做这事是心中正直；我也拦阻了你，免得你得罪我，所以我不容你沾着她。"
+亚比米勒自辩说他是无辜的。神也承认了这一点："我知道你作这事是心中正直；我也拦阻了你，免得你得罪我，所以我不容你沾着她。"
 
 这里有一个惊人的真理：**神保守了亚比米勒。** 不是亚比米勒自己有多正直——是神主动拦阻了他。"我也拦阻了你"——这是神的护理之工。神不仅保护了撒拉的纯洁，也保护了亚比米勒不至于犯下更大的罪。
 
@@ -2709,7 +2709,7 @@ readings.push({
 
 第一，圣徒会反复跌倒在同一个地方。不要以为你胜过了一次就不会再犯。成圣是终生的争战。
 
-第二，神保护他的应许超过保护你的面子。神让亚伯拉罕在亚比米勒面前丢了脸，但神保护了撒拉——因为以撒必须从撒拉生出来。你的尊严在神眼中不如他的计划重要。
+第二，神保护他的应许超过保护你的面子。神让亚伯拉罕在亚比米勒面前丢了脸，但神保护了撒拉——因为以撒必须从撒拉生出来。你的面子在神眼中不如他的计划重要。
 
 第三，神使用失败的人。你不需要等到"够好了"才能被神使用。亚伯拉罕刚撒完谎，神就差他去为亚比米勒祷告。你的资格不是来自你的表现，而是来自神的呼召。
 
@@ -2784,7 +2784,7 @@ Brothers and sisters, chapter twenty may seem like a "small" story — no cosmic
 
 First, saints stumble repeatedly at the same point. Do not assume that overcoming a sin once means you will never fall again. Sanctification is a lifelong war.
 
-Second, God protects His promise more than He protects your reputation. God allowed Abraham to lose face before Abimelech, but God protected Sarah — because Isaac had to be born from Sarah. Your dignity matters less to God than His plan.
+Second, God protects His promise more than He protects your reputation. God allowed Abraham to lose face before Abimelech, but God protected Sarah — because Isaac had to be born from Sarah. Your reputation matters less to God than His plan.
 
 Third, God uses failed people. You do not need to wait until you are "good enough" to be used by God. Abraham had just told a lie, and God sent him to pray for Abimelech. Your qualification comes not from your performance but from God's calling.
 

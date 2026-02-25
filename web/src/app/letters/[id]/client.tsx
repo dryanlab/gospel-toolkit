@@ -77,8 +77,9 @@ export default function LetterClient({ id }: { id: string }) {
     });
   }, [id]);
 
-  const isUnavailable = !letter || letter.content_zh === '（即将发布）' || !isPublished(letter.date);
-  if (isUnavailable) {
+  const hydrated = useHydrated();
+  const isUnavailable = !letter || letter.content_zh === '（即将发布）' || (hydrated && !isPublished(letter.date));
+  if (!letter || (hydrated && isUnavailable)) {
     return (
       <div className="max-w-3xl mx-auto px-4 py-16 text-center">
         <p className="text-4xl mb-4">📭</p>
