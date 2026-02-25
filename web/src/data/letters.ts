@@ -361,7 +361,7 @@ You need only answer one thing: **"Lord, you know that I love you."**
     date: '2026-02-21',
     category: 'testimony',
     scripture: '路加福音 19:1-10',
-    scriptureText_zh: '人子来，为要寻找、拯救失丧的人。',
+    scriptureText_zh: '人子来，为要寻找，拯救失丧的人。',
     scriptureText_en: 'For the Son of Man came to seek and to save the lost.',
     summary_zh: '我是耶利哥城最有钱的人，也是最孤独的人。银子不会嫌弃你，但银子也不会在夜里陪你。直到祂在我的桑树下停下来，叫了我的名字。',
     summary_en: 'I was the richest man in Jericho, and the loneliest. Silver never looks at you with disgust, but silver does not keep you company at night. Until He stopped under my sycamore tree and called my name.',
@@ -454,13 +454,13 @@ You need only answer one thing: **"Lord, you know that I love you."**
 
 耶稣看着我，对所有人说：
 
-**"今天救恩到了这家了，因为他也是亚伯拉罕的子孙。人子来，为要寻找、拯救失丧的人。"**
+**"今天救恩到了这家了，因为他也是亚伯拉罕的子孙。人子来，为要寻找，拯救失丧的人。"**
 
 "他**也是**亚伯拉罕的子孙。"
 
 你们知道这句话对我意味着什么吗？全耶利哥城都把我当外人——税吏不算以色列人，跟外邦人一样污秽。**但耶稣说我是亚伯拉罕的子孙。** 祂把我被拿走的身份还给了我。
 
-**"人子来，为要寻找、拯救失丧的人。"**
+**"人子来，为要寻找，拯救失丧的人。"**
 
 寻找。不是等我来找祂。是祂来找我。我以为我只是想去看看祂——原来是祂一路走来耶利哥，就是为了在那棵桑树下停下来，抬头看着我，叫我的名字。
 
@@ -482,7 +482,7 @@ You need only answer one thing: **"Lord, you know that I love you."**
 
 快下来。不要再躲了。
 
-*"人子来，为要寻找、拯救失丧的人。"（路加福音 19:10）*
+*"人子来，为要寻找，拯救失丧的人。"（路加福音 19:10）*
 
 *愿这位寻找你的主，今天就住进你的心里——你的朋友，撒该*`,
     content_en: `## The Richest Sinner in Jericho
@@ -1235,7 +1235,7 @@ That is the gospel.
     date: '2026-03-15',
     category: 'testimony',
     scripture: '诗篇 51:1-19',
-    scriptureText_zh: '神所要的祭就是忧伤的灵。神啊，忧伤痛悔的心，你必不轻看。',
+    scriptureText_zh: '神所要的祭就是忧伤的灵；神啊，忧伤痛悔的心，你必不轻看。',
     scriptureText_en: 'The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.',
     summary_zh: '拿单指着我说"你就是那人"之后，我在碎裂中写下了最真实的一首诗——不是最好的诗，却是从最深的破碎中流出来的。',
     summary_en: 'After Nathan pointed at me and said "You are the man," I wrote the most honest psalm of my life from the depths of brokenness — not my finest poetry, but my truest.',
@@ -1254,7 +1254,7 @@ That is the gospel.
 
 一天傍晚，我从床上起来，在王宫的平顶上散步。就在那时，我看见了一个妇人在沐浴。她非常美丽。
 
-弟兄姐妹，我不会详细描述接下来发生的事。你们可以去读撒母耳记下第11章。我只要说：我差人打听那妇人是谁。有人告诉我说："这不是以连的女儿、赫人乌利亚的妻拔示巴吗？"（撒母耳记下11:3）
+弟兄姐妹，我不会详细描述接下来发生的事。你们可以去读撒母耳记下第11章。我只要说：我差人打听那妇人是谁。有人告诉我说："他是以连的女儿，赫人乌利亚的妻拔示巴。"（撒母耳记下11:3）
 
 **她是有丈夫的妇人。而且她的丈夫是我最忠心的勇士之一。**
 
@@ -1270,7 +1270,7 @@ That is the gospel.
 
 我的第一个反应不是悔改，而是**掩盖**。
 
-我派人把乌利亚从前线叫回来，想让他回家与妻子同房，好叫人以为孩子是他的。但乌利亚——这个我亏欠至深的人——他比我更有荣誉感。他说："约柜和以色列与犹大兵都住在棚里，我岂可回家吃喝、与妻子同寝呢？我指着王的性命起誓，我决不行这事！"（撒母耳记下11:11）
+我派人把乌利亚从前线叫回来，想让他回家与妻子同房，好叫人以为孩子是他的。但乌利亚——这个我亏欠至深的人——他比我更有荣誉感。他说："约柜和以色列与犹大兵都住在棚里，我主约押和我主的仆人都在田野安营，我岂可回家吃喝、与妻子同寝呢？我敢在王面前起誓：我决不行这事！"（撒母耳记下11:11）
 
 你们听到了吗？乌利亚在为神的约柜和以色列军队牵挂，不肯享受安逸。而我这个王，却躲在王宫里犯罪。他的忠诚和正直，在那一刻照出了我的卑鄙和虚伪。
 
@@ -1392,7 +1392,7 @@ That is the gospel.
 
 "仍得"——说明我曾经有过。在犯罪之前，我心中有救恩的喜乐。在那些年少牧羊的日子里，我仰望星空赞美造物主，心中满是喜乐。在约柜前跳舞的那天，我有说不出的欢喜。但罪把这一切都夺走了。将近一年来，我的心像一片荒漠。现在我恳求神把那喜乐还给我。
 
-> "神所要的祭就是忧伤的灵。神啊，忧伤痛悔的心，你必不轻看。"（诗篇51:17）
+> "神所要的祭就是忧伤的灵；神啊，忧伤痛悔的心，你必不轻看。"（诗篇51:17）
 
 这是我在写这首诗时领悟到的最重要的真理，也是我最想告诉你们的话。
 
@@ -1432,7 +1432,7 @@ That is the gospel.
 
 弟兄姐妹，请记住这句话：
 
-> "神所要的祭就是忧伤的灵。神啊，忧伤痛悔的心，你必不轻看。"（诗篇51:17）
+> "神所要的祭就是忧伤的灵；神啊，忧伤痛悔的心，你必不轻看。"（诗篇51:17）
 
 你那颗碎裂的心，在神眼中比千万只公羊、比万道江河的油更宝贵。因为碎裂的心是谦卑的心，是不再倚靠自己的心，是完全仰望恩典的心。
 

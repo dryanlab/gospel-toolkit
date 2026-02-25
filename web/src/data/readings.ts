@@ -2027,7 +2027,7 @@ readings.push({
 
 弟兄姐妹，如果你今天正在等候神的应许，如果你已经等了很久，如果你开始想要用自己的方法来"帮助"神——请停下来。看看以实玛利。人的方法可以产生结果，但那个结果会带来几千年的冲突和痛苦。神的时间表不是你的时间表，但神的时间表永远是最好的。
 
-同时，如果你觉得自己被忽略、被遗忘、不被看见——请记住夏甲的神。他是El Roi，看见你的神。他听见你的苦情，他在旷野中寻找你，他为你的眼泪起了一个名字。
+同时，如果你觉得自己被忽略、被遗忘、不被看见——请记住夏甲的神。他是El Roi，看见你的神。他听见你的苦情，他在旷野中寻找你，他为你的眼泪起了一个名字——以实玛利，"神听见"。
 
 你不是无人看顾的。永活的神看见你了。`,
   content_en: `Brothers and sisters, chapter sixteen is a story about waiting — about what happens when people can no longer wait and try to "help" God fulfill His promise through their own methods.
@@ -2100,7 +2100,7 @@ Paul later used this story in Galatians 4:22-26 as a profound allegory: Hagar re
 
 Brothers and sisters, if today you are waiting for God's promise, if you have been waiting a long time, if you are beginning to think about "helping" God with your own methods — please stop. Look at Ishmael. Human methods can produce results, but those results will bring millennia of conflict and pain. God's timetable is not your timetable, but God's timetable is always the best.
 
-At the same time, if you feel overlooked, forgotten, unseen — remember Hagar's God. He is El Roi, the God who sees you. He hears your affliction, He seeks you in the wilderness, He has given a name to your tears.
+At the same time, if you feel overlooked, forgotten, unseen — remember Hagar's God. He is El Roi, the God who sees you. He hears your affliction, He seeks you in the wilderness, He has given a name to your tears — Ishmael, "God hears."
 
 You are not uncared for. The living God sees you.`,
   historyContext_zh: `撒莱将使女给丈夫为妾的做法，在古代近东法律中有据可循。努兹文书（约公元前1500年）明确规定：不育的妻子应为丈夫提供一个使女来生育后嗣。汉谟拉比法典第146条也有类似规定。"书珥路"是从迦南到埃及的商路，说明夏甲逃跑的方向是回埃及老家。庇耳拉海莱井位于加低斯和巴列之间，即今天的内盖夫沙漠地区。`,
@@ -2109,7 +2109,7 @@ You are not uncared for. The living God sees you.`,
   structure_en: `The chapter divides into three sections: verses 1-6 (human planning — Sarai gives Hagar); verses 7-14 (divine intervention — the angel of the LORD finds Hagar); verses 15-16 (the outcome — Ishmael's birth). The pivotal turn comes at verse 7, "The angel of the LORD found her" — shifting from human failure to divine mercy. Two namings form an inclusio: Ishmael ("God hears") and Beer-lahai-roi ("the well of the Living One who sees me"), highlighting that God both hears and sees.`,
   theology_zh: `人的方法不能成就神的应许——以实玛利是血气之子，非应许之子（加4:23）；神的主权怜悯超越人的等级——他看顾一个埃及女奴；耶和华的使者是旧约中基督的显现（Christophany）；神在人的失败中仍然掌权，将人的错误纳入他更大的计划；等候神的时间是信心的核心操练。`,
   theology_en: `Human methods cannot fulfill God's promises — Ishmael is the child of the flesh, not of promise (Galatians 4:23); God's sovereign mercy transcends human hierarchy — He cares for an Egyptian slave; the angel of the LORD is a Christophany in the Old Testament; God remains sovereign even in human failure, incorporating human errors into His larger plan; waiting on God's timing is a core exercise of faith.`,
-  christShadow_zh: `耶和华的使者在旷野寻找逃亡的夏甲，这是基督寻找失丧之人的预表——"人子来，为要寻找、拯救失丧的人"（路加福音19:10）。神主动到旷野中寻找一个被遗弃的女奴，正如基督来到世间寻找被罪遗弃的罪人。以实玛利的名字"神听见"也预指基督的代求职分——"他是长远活着，替他们祈求"（希伯来书7:25）。`,
+  christShadow_zh: `耶和华的使者在旷野寻找逃亡的夏甲，这是基督寻找失丧之人的预表——"人子来，为要寻找，拯救失丧的人"（路加福音19:10）。神主动到旷野中寻找一个被遗弃的女奴，正如基督来到世间寻找被罪遗弃的罪人。以实玛利的名字"神听见"也预指基督的代求职分——"他是长远活着，替他们祈求"（希伯来书7:25）。`,
   christShadow_en: `The angel of the LORD seeking the fleeing Hagar in the wilderness foreshadows Christ seeking the lost — "For the Son of Man came to seek and to save the lost" (Luke 19:10). God went into the wilderness to find an abandoned slave woman, just as Christ came into the world to find sinners abandoned by sin. Ishmael's name, "God hears," also prefigures Christ's intercessory office — "He always lives to make intercession for them" (Hebrews 7:25).`,
 });
 readings.push({
@@ -2142,7 +2142,7 @@ readings.push({
 
 第二，立约。"我要与你并你世世代代的后裔坚立我的约，作永远的约，是要作你和你后裔的神。"
 
-注意这句话的核心："是要作你和你后裔的神。"这是整本圣经中恩典之约的公式。从亚伯拉罕开始，一直到新约，神反复说的就是这句话："我要作你们的神，你们要作我的子民。"（耶利米书31:33；希伯来书8:10）这不仅仅是一个法律条文，这是一个关系的宣告——全能的神要作你的神，亲自与你同在，亲自负责你的一切。
+注意这句话的核心："是要作你和你后裔的神。"这是整本圣经中恩典之约的公式。从亚伯拉罕开始，一直到新约，神反复说的就是这句话："我要作他们的神，他们要作我的子民。"（耶利米书31:33；希伯来书8:10）这不仅仅是一个法律条文，这是一个关系的宣告——全能的神要作你的神，亲自与你同在，亲自负责你的一切。
 
 第三，赐地。"我要将你现在寄居的地，就是迦南全地，赐给你和你的后裔永远为业。"
 
@@ -2172,7 +2172,7 @@ readings.push({
 
 但神也没有抛弃以实玛利："至于以实玛利，我也应允你：我必赐福给他，使他昌盛，极其繁多。他必生十二个族长；我也要使他成为大国。"
 
-这里有一个重要的区分：以实玛利有神的祝福，但没有约的应许。应许之约只与以撒坚定。神爱以实玛利，但拣选的线路经过以撒。这不是因为以撒比以实玛利好，而是因为神的主权拣选。"双子还没有生下来，善恶还没有作出来，只因要显明神拣选人的旨意，不在乎人的行为，乃在乎召人的主。"（罗马书9:11-12）
+这里有一个重要的区分：以实玛利有神的祝福，但没有约的应许。应许之约只与以撒坚定。神爱以实玛利，但拣选的线路经过以撒。这不是因为以撒比以实玛利好，而是因为神的主权拣选。"双子还没有生下来，善恶还没有做出来，只因要显明神拣选人的旨意，不在乎人的行为，乃在乎召人的主。"（罗马书9:11-12）
 
 正当那日，亚伯拉罕遵着神的命，给他的儿子以实玛利和家里的一切男子都行了割礼。亚伯拉罕受割礼的时候年九十九岁。
 
@@ -2540,7 +2540,7 @@ readings.push({
 
 第一，罪的后果是真实的、可怕的。所多玛不是一个寓言——它是神审判的历史事件。彼得后书2:6说神"将所多玛、蛾摩拉焚烧成灰，定为后世不敬虔人的鉴戒"。
 
-第二，环境会塑造人。罗得在所多玛住久了，他的道德判断、他的属灵影响力、甚至他妻子和女儿的价值观，都被那个环境侵蚀了。"滥交是败坏善行的"（哥林多前书15:33）。
+第二，环境会塑造人。罗得在所多玛住久了，他的道德判断、他的属灵影响力、甚至他妻子和女儿的价值观，都被那个环境侵蚀了。"滥交是败坏善行"（哥林多前书15:33）。
 
 第三，恩典在审判中仍然运作。罗得不配被救，但神记念亚伯拉罕。代祷的果效是真实的——即使你看不见立即的结果。
 
@@ -2636,7 +2636,7 @@ God is still taking you by the hand today. Just as the angels seized Lot's hand 
   structure_en: `The chapter divides into four sections: verses 1-11 (the angels arrive in Sodom; the city's sin exposed); verses 12-22 (urgent evacuation — Lot's lingering and God's mercy); verses 23-29 (destruction — sulfur and fire, Lot's wife looks back); verses 30-38 (the dark conclusion — Lot and his daughters). The chapter forms a descending structure from light to darkness, in stark contrast to the warm scene of chapter eighteen.`,
   theology_zh: `神的审判是真实的——所多玛的毁灭是"后世不敬虔人的鉴戒"（彼后2:6）；恩典在审判中运作——神因记念亚伯拉罕而救罗得；环境对信徒有塑造力——罗得在所多玛的长期居住侵蚀了他全家的道德判断；悔改必须彻底——"不可回头看"；代祷的果效超出代祷者的预期——亚伯拉罕的祷告虽未能救所多玛，却救了罗得。`,
   theology_en: `God's judgment is real — Sodom's destruction is "an example of what is going to happen to the ungodly" (2 Peter 2:6); grace operates within judgment — God saved Lot because He remembered Abraham; environment shapes believers — Lot's prolonged residence in Sodom corroded his entire family's moral judgment; repentance must be thorough — "do not look back"; the fruit of intercession exceeds the intercessor's expectations — Abraham's prayer did not save Sodom, yet it saved Lot.`,
-  christShadow_zh: `天使拉着罗得的手将他从毁灭中救出，预表基督从罪的审判中拯救信徒——"他救了我们脱离黑暗的权势，把我们迁到他爱子的国里"（西1:13）。所多玛的硫磺之火预表末日的审判（路17:28-30）。从摩押后裔中出了路得，进入弥赛亚家谱——这表明基督的救赎能从最深的罪中带出恩典的果子。罗得的迟延与基督的催促形成对比："今天你们若听他的话，就不可硬着心"（来3:15）。`,
+  christShadow_zh: `天使拉着罗得的手将他从毁灭中救出，预表基督从罪的审判中拯救信徒——"他救了我们脱离黑暗的权势，把我们迁到他爱子的国里"（西1:13）。所多玛的硫磺之火预表末日的审判（路17:28-30）。从摩押后裔中出了路得，进入弥赛亚家谱——这表明基督的救赎能从最深的罪中带出恩典的果子。罗得的迟延与基督的催促形成对比："你们今日若听他的话，就不可硬着心"（来3:15）。`,
   christShadow_en: `The angels seizing Lot's hand and rescuing him from destruction foreshadows Christ saving believers from the judgment of sin — "He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son" (Colossians 1:13). The sulfur and fire upon Sodom foreshadow the final judgment (Luke 17:28-30). From Moab's line came Ruth, who entered the Messiah's genealogy — showing that Christ's redemption can bring the fruit of grace from the deepest sin. Lot's lingering contrasts with Christ's urgency: "Today, if you hear his voice, do not harden your hearts" (Hebrews 3:15).`,
 });
 readings.push({
