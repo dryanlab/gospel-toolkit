@@ -1232,7 +1232,7 @@ That is the gospel.
     authorBioEn: 'Greatest king of Israel, a man after God\'s own heart, primary author of the Psalms',
     title_zh: '写诗篇51那天',
     title_en: 'The Day I Wrote Psalm 51',
-    date: '2026-03-15',
+    date: '2026-03-14',
     category: 'testimony',
     scripture: '诗篇 51:1-19',
     scriptureText_zh: '神所要的祭就是忧伤的灵；神啊，忧伤痛悔的心，你必不轻看。',
