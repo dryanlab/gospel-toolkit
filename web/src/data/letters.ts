@@ -950,7 +950,7 @@ And then you will hear Him call your name.
     authorBioEn: 'Father of faith, called from Ur of the Chaldeans, friend of God',
     title_zh: '摩利亚山上的三天路程',
     title_en: 'Three Days\' Journey to Mount Moriah',
-    date: '2026-03-08',
+    date: '2026-03-07',
     category: 'testimony',
     scripture: '创世记 22:1-19',
     scriptureText_zh: '神说："你带着你的儿子，就是你独生的儿子，你所爱的以撒，往摩利亚地去，在我所要指示你的山上，把他献为燔祭。"',
