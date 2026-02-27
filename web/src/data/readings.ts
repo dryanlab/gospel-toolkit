@@ -2809,60 +2809,501 @@ readings.push({
   publishDate: '2026-03-16',
   title: '以撒出生', titleEn: 'The Birth of Isaac',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 21:1 / Genesis 21:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 21:1-34 / Genesis 21:1-34',
+  content_zh: `亲爱的读者，我是摩西，耶和华的仆人。今日我要向你述说亚伯拉罕一生中最荣耀也最痛苦的一章——应许之子以撒的出生，以及随之而来的家庭风暴。
+
+经上记着说："耶和华按着先前的话眷顾撒拉，便照他所说的给撒拉成就。当亚伯拉罕年老的时候，撒拉怀了孕；到神所说的日期，就给亚伯拉罕生了一个儿子。"（创21:1-2）请你留意这几个字——"按着先前的话"、"照他所说的"、"到神所说的日期"。三重的强调，只为告诉你一件事：神的应许，一个字也不会落空。
+
+从神第一次应许亚伯拉罕要有后裔（创12:2），到以撒出生，整整二十五年。二十五年的等候！你能想象吗？我自己在旷野带领以色列人四十年，我深知等候的煎熬。当百姓在加低斯巴尼亚退缩不前，当他们一次次发怨言要回埃及，我也曾在暗夜里问耶和华："你的应许何时成就？"但我从亚伯拉罕的经历中学到：神的时间表从不延误，只是常常超出我们的忍耐。
+
+"亚伯拉罕给撒拉所生的儿子起名叫以撒。"（创21:3）以撒，意思是"他笑"。这名字是神亲自起的（创17:19）。想想看——全能的神给一个婴孩取了一个带着笑声的名字！这笑声里有什么呢？
+
+撒拉说："神使我喜笑，凡听见的必与我一同喜笑。"又说："谁能预先对亚伯拉罕说'撒拉要乳养婴孩'呢？因为在他年老的时候，我给他生了一个儿子。"（创21:6-7）你还记得撒拉从前的笑吗？在幔利橡树那里，她躲在帐棚门后偷笑，心里说："我既已衰败，我主也老迈，岂能有这喜事呢？"（创18:12）那是不信的笑，是人以有限的理性嘲笑无限之神的笑。但如今，同一个撒拉，笑声却完全不同了——这是被恩典征服后喜极而泣的笑，是亲眼看见不可能变为可能的笑。
+
+弟兄姊妹，从不信的笑到喜乐的笑，中间隔着什么？隔着神的信实。不是撒拉变得更有信心了，而是神按着自己的时候成就了他的话。我们的信心常常软弱，但神的应许从不落空。正如经上所说："我们纵然失信，他仍是可信的，因为他不能背乎自己。"（提后2:13）
+
+然而，喜乐的宴席之后，紧接着就是一场撕裂人心的离别。
+
+"当时，撒拉看见埃及人夏甲给亚伯拉罕所生的儿子戏笑，就对亚伯拉罕说：'你把这使女和他儿子赶出去！因为这使女的儿子不可与我的儿子以撒一同承受产业。'"（创21:9-10）
+
+这事令亚伯拉罕极其忧愁，因为以实玛利毕竟是他的亲生骨肉。但神对亚伯拉罕说："你不必为这童子和你的使女忧愁。凡撒拉对你说的话，你都该听从；因为从以撒生的，才要称为你的后裔。至于使女的儿子，我也必使他的后裔成立一国，因为他是你所生的。"（创21:12-13）
+
+我要你注意神话语中的温柔与坚定。神没有忽视亚伯拉罕作为父亲的心痛，他说"你不必忧愁"。但神也绝不妥协他拣选的旨意——"从以撒生的，才要称为你的后裔"。这不是血气的拣选，不是长幼的次序，乃是恩典的主权。使徒保罗后来引用这段经文说得极其清楚："肉身所生的儿女不是神的儿女，惟独那应许的儿女才算是后裔。"（罗9:8）
+
+"亚伯拉罕清早起来，拿饼和一皮袋水，给了夏甲，搭在他的肩上，又把孩子交给他，打发他走。"（创21:14）清早起来——亚伯拉罕没有拖延，没有与神讨价还价。这让我想起我自己在尼波山上的经历。耶和华告诉我不能进入应许之地，我的心何等痛苦！但我顺服了。有时候，信心的顺服不是不痛，而是在痛中仍然相信神的旨意高过我的意愿。
+
+夏甲在别是巴的旷野走迷了路，水也用尽了。她把孩子撇在小树底下，自己走开约有一箭之远，说："我不忍见孩子死。"就放声大哭。（创21:15-16）这是何等凄凉的画面！一个母亲，走投无路，眼看孩子将要渴死。
+
+"神听见童子的声音；神的使者从天上呼叫夏甲说：夏甲，你为何这样呢？不要害怕，神已经听见童子的声音了。起来！把童子抱在怀中，我必使他的后裔成为大国。"（创21:17-18）神听见了。请注意，经文说神听见的是"童子的声音"，不是夏甲的哭声。这个被赶出家门的孩子，在旷野中向神呼求，神就回应了他。这再次证明：我们的神是听祷告的神，即便是在最荒凉的旷野，即便是在人看来无望的境地。
+
+"神使夏甲的眼睛明亮，他就看见一口水井。"（创21:19）那口井一直在那里！不是神变出了一口新井，而是神开了夏甲的眼睛。弟兄姊妹，多少时候，神的供应就在我们眼前，只是我们被忧虑蒙蔽了眼睛看不见？
+
+本章最后的段落转向亚伯拉罕与亚比米勒立约。亚比米勒看见"凡你所行的事都有神的保佑"（创21:22），就主动来寻求与亚伯拉罕立约。他们在别是巴起誓立约，亚伯拉罕在那里栽了一棵垂丝柳树，"又在那里求告耶和华永生神的名"（创21:33）。
+
+"永生神"——El Olam。这个称呼在整本圣经中第一次出现。亚伯拉罕在经历了等候应许、送别以实玛利、与外邦王立约之后，他对神的认识更深了一层：这位神不仅是全能的（El Shaddai），更是永恒的。他的应许跨越世代，他的信实永不改变。
+
+亲爱的读者，创世记第二十一章从一个婴孩的笑声开始，到一棵树下的敬拜结束。在笑声与眼泪之间，在应许与等候之间，在离别与立约之间，有一条金线贯穿始终：那就是神绝对的信实和他不可动摇的旨意。愿你在自己的"二十五年等候"中，紧紧抓住这位永生神的应许，因为他说的，他必成就。`,
+  content_en: `Dear reader, I am Moses, servant of the LORD. Today I shall recount to you the most glorious and most painful chapter in Abraham's life—the birth of Isaac, the son of promise, and the family storm that followed.
+
+It is written: "The LORD visited Sarah as he had said, and the LORD did to Sarah as he had promised. And Sarah conceived and bore Abraham a son in his old age at the time of which God had spoken to him." (Gen 21:1-2) Notice these phrases—"as he had said," "as he had promised," "at the time of which God had spoken." This threefold emphasis tells you one thing: not a single word of God's promise will fall to the ground.
+
+From when God first promised Abraham offspring (Gen 12:2) to Isaac's birth, twenty-five full years passed. Twenty-five years of waiting! Can you fathom it? I myself led Israel through the wilderness for forty years, and I know well the agony of waiting. When the people shrank back at Kadesh-barnea, when they grumbled again and again to return to Egypt, I too asked the LORD in the dark of night: "When will your promise be fulfilled?" But from Abraham's experience I learned: God's timetable never delays—it simply exceeds our patience.
+
+"Abraham called the name of his son who was born to him, whom Sarah bore him, Isaac." (Gen 21:3) Isaac means "he laughs." This name was given by God himself (Gen 17:19). Consider—the Almighty God gave an infant a name filled with laughter! What is contained in this laughter?
+
+Sarah said, "God has made laughter for me; everyone who hears will laugh over me." And she said, "Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age." (Gen 21:6-7) Do you remember Sarah's earlier laughter? At the oaks of Mamre, she laughed behind the tent door, saying to herself, "After I am worn out, and my lord is old, shall I have pleasure?" (Gen 18:12) That was the laughter of unbelief—finite reason mocking the infinite God. But now, the same Sarah laughs with an entirely different sound—this is the laughter of one conquered by grace, weeping for joy at seeing the impossible become possible.
+
+Brothers and sisters, what lies between the laughter of unbelief and the laughter of joy? God's faithfulness. It was not that Sarah grew more faithful, but that God fulfilled his word in his own time. Our faith often wavers, but God's promise never fails. As it is written: "If we are faithless, he remains faithful—for he cannot deny himself." (2 Tim 2:13)
+
+Yet after the joyful feast came a heart-rending separation.
+
+"But Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, laughing. So she said to Abraham, 'Cast out this slave woman with her son, for the son of this slave woman shall not be heir with my son Isaac.'" (Gen 21:9-10)
+
+This was very displeasing to Abraham, for Ishmael was his own flesh and blood. But God said to Abraham, "Be not displeased because of the boy and because of your slave woman. Whatever Sarah says to you, do as she tells you, for through Isaac shall your offspring be named. And I will make a nation of the son of the slave woman also, because he is your offspring." (Gen 21:12-13)
+
+Notice the tenderness and firmness in God's words. God did not ignore Abraham's pain as a father—he said "Be not displeased." But neither did God compromise his elective purpose—"through Isaac shall your offspring be named." This is not selection by flesh, not by birth order, but by sovereign grace. The apostle Paul later cited this passage with utmost clarity: "This means that it is not the children of the flesh who are the children of God, but the children of the promise are counted as offspring." (Rom 9:8)
+
+"So Abraham rose early in the morning and took bread and a skin of water and gave it to Hagar, putting it on her shoulder, along with the child, and sent her away." (Gen 21:14) He rose early—Abraham did not delay, did not bargain with God. This reminds me of my own experience on Mount Nebo. The LORD told me I could not enter the promised land, and how my heart ached! But I obeyed. Sometimes the obedience of faith is not painless—it is trusting God's will above our own in the midst of pain.
+
+Hagar wandered in the wilderness of Beersheba. When the water was gone, she put the child under one of the bushes and went a good way off, about the distance of a bowshot, for she said, "Let me not look on the death of the child." And she lifted up her voice and wept. (Gen 21:15-16) What a desolate scene! A mother, with nowhere to turn, watching her child about to die of thirst.
+
+"And God heard the voice of the boy, and the angel of God called to Hagar from heaven and said to her, 'What troubles you, Hagar? Fear not, for God has heard the voice of the boy where he is. Up! Lift up the boy, and hold him fast with your hand, for I will make him into a great nation.'" (Gen 21:17-18) God heard. Notice: the text says God heard "the voice of the boy," not Hagar's weeping. This child cast out from his home cried to God in the wilderness, and God answered. This proves once more: our God hears prayer, even in the most desolate wilderness, even in what seems a hopeless situation.
+
+"Then God opened her eyes, and she saw a well of water." (Gen 21:19) That well had been there all along! God did not conjure a new well—he opened Hagar's eyes. Brothers and sisters, how often is God's provision right before us, yet our eyes are blinded by anxiety?
+
+The final section of this chapter turns to Abraham's covenant with Abimelech. Abimelech saw that "God is with you in all that you do" (Gen 21:22) and came seeking a covenant with Abraham. They swore an oath at Beersheba, and Abraham planted a tamarisk tree there and "called there on the name of the LORD, the Everlasting God" (Gen 21:33).
+
+"The Everlasting God"—El Olam. This title appears here for the first time in all of Scripture. After waiting for the promise, sending away Ishmael, and making a covenant with a foreign king, Abraham's knowledge of God deepened: this God is not only Almighty (El Shaddai) but Eternal. His promises span generations; his faithfulness never changes.
+
+Dear reader, Genesis 21 begins with the laughter of a baby and ends with worship beneath a tree. Between laughter and tears, between promise and waiting, between parting and covenant-making, one golden thread runs throughout: God's absolute faithfulness and his unshakable purpose. May you, in your own "twenty-five years of waiting," hold fast to the promise of this Everlasting God—for what he has spoken, he will surely accomplish.`,
+  historyContext_zh: `创世记第21章的历史背景约在主前2066年，地点在迦南地南部的基拉耳至别是巴一带。亚伯拉罕此时约一百岁，撒拉九十岁。以撒的出生是神在创世记12章、15章、17章、18章反复应许的最终成就。夏甲是埃及使女，以实玛利约十四岁。亚比米勒是基拉耳的非利士王（此处"非利士"为早期称呼，非后来的海上民族）。别是巴意为"盟誓的井"或"七口井"，位于内盖夫沙漠北缘，是重要的水源地和交通要道。本章所记之事发生在亚伯拉罕寄居基拉耳之后，正是创世记20章的延续。`,
+  historyContext_en: `The historical setting of Genesis 21 is approximately 2066 BC, in the region from Gerar to Beersheba in southern Canaan. Abraham was about one hundred years old, and Sarah ninety. Isaac's birth was the ultimate fulfillment of God's repeated promises in Genesis 12, 15, 17, and 18. Hagar was an Egyptian servant, and Ishmael was about fourteen years old. Abimelech was the Philistine king of Gerar (here "Philistine" is an early designation, not the later Sea Peoples). Beersheba means "well of the oath" or "well of seven," located on the northern edge of the Negev desert—an important water source and crossroads. The events of this chapter follow Abraham's sojourn in Gerar, continuing directly from Genesis 20.`,
+  structure_zh: `创世记第21章可分为三个段落：
+一、以撒出生与命名（1-7节）：神按应许眷顾撒拉，以撒出生，亚伯拉罕行割礼，撒拉发出喜乐的笑声。
+二、夏甲与以实玛利被逐（8-21节）：以撒断奶宴席上的冲突，撒拉要求赶逐夏甲母子，神安慰亚伯拉罕并确认应许的传承线，夏甲在旷野绝望中蒙神眷顾，神开她的眼看见水井。
+三、亚伯拉罕与亚比米勒立约（22-34节）：外邦王认出神与亚伯拉罕同在，双方在别是巴立约，亚伯拉罕栽树敬拜永生神。`,
+  structure_en: `Genesis 21 divides into three sections:
+1. The Birth and Naming of Isaac (vv. 1-7): God visits Sarah as promised, Isaac is born, Abraham circumcises him, and Sarah utters her joyful laughter.
+2. The Expulsion of Hagar and Ishmael (vv. 8-21): Conflict at Isaac's weaning feast, Sarah demands the removal of Hagar and her son, God comforts Abraham and confirms the line of promise, Hagar despairs in the wilderness yet is visited by God, who opens her eyes to see a well.
+3. Abraham's Covenant with Abimelech (vv. 22-34): The foreign king recognizes that God is with Abraham, they swear a covenant at Beersheba, and Abraham plants a tree and worships the Everlasting God.`,
+  theology_zh: `本章彰显了改革宗神学的核心教义。第一，神的主权与信实：以撒的出生完全出于神的应许和能力，不是出于人的血气。第二，拣选的恩典：神明确区分以撒与以实玛利——"从以撒生的，才要称为你的后裔"（创21:12），这不是根据行为或长幼，而是根据神拣选的旨意（罗9:7-13）。第三，恩典之约的延续：以撒是约的承受者，神的救赎计划通过这条应许之线一路传递直到基督。第四，神的护理：即使对约外的以实玛利，神也施以普遍恩典，保全他的性命并使他成为大国。第五，信心的顺服：亚伯拉罕虽然心痛，仍顺服神的命令，这是真信心的标记。`,
+  theology_en: `This chapter displays core doctrines of Reformed theology. First, God's sovereignty and faithfulness: Isaac's birth was entirely from God's promise and power, not from human effort. Second, electing grace: God explicitly distinguishes Isaac from Ishmael—"through Isaac shall your offspring be named" (Gen 21:12)—not according to works or birth order, but according to God's purpose of election (Rom 9:7-13). Third, the continuity of the covenant of grace: Isaac is the covenant heir; God's redemptive plan passes through this line of promise all the way to Christ. Fourth, divine providence: even toward Ishmael, who is outside the covenant line, God extends common grace, preserving his life and making him a great nation. Fifth, the obedience of faith: though Abraham's heart ached, he obeyed God's command—this is the mark of true faith.`,
+  christShadow_zh: `以撒是基督最清晰的预表之一。第一，以撒是应许之子，基督是那终极的应许之子——"及至时候满足，神就差遣他的儿子"（加4:4）。第二，以撒的出生超越自然律（老年得子），基督的降生更超越自然（童女怀孕）。第三，以撒的名字意为"喜笑"，基督的降临带来真正的大喜信息（路2:10）。第四，以实玛利被逐与以撒承受产业，预表了律法之约与恩典之约的对比——"属肉体的逼迫属圣灵的"（加4:29），惟有凭应许、凭恩典而生的才是真后裔。第五，神在旷野为夏甲开眼看见水井，预表基督是生命的活水（约4:14），即便在绝望的旷野，神的恩典也能寻到罪人。`,
+  christShadow_en: `Isaac is one of the clearest types of Christ. First, Isaac is the son of promise; Christ is the ultimate Son of promise—"when the fullness of time had come, God sent forth his Son" (Gal 4:4). Second, Isaac's birth defied nature (born to aged parents); Christ's birth surpassed nature even more (born of a virgin). Third, Isaac's name means "laughter"; Christ's coming brought the true tidings of great joy (Luke 2:10). Fourth, the casting out of Ishmael and Isaac's inheritance foreshadow the contrast between the covenant of law and the covenant of grace—"the one who was born according to the flesh persecuted the one who was born according to the Spirit" (Gal 4:29); only those born by promise and grace are the true offspring. Fifth, God opening Hagar's eyes to see a well in the wilderness foreshadows Christ as the living water (John 4:14)—even in the wilderness of despair, God's grace finds the lost.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 22,
   publishDate: '2026-03-17',
   title: '献以撒', titleEn: 'The Binding of Isaac',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 22:1 / Genesis 22:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 22:1-24 / Genesis 22:1-24',
+  content_zh: `亲爱的读者，我是摩西，耶和华的仆人。我今日要向你讲述圣经中最震撼人心的一幕——神试验亚伯拉罕。当你读完这一章，你将看见，这不仅是一个信心的故事，更是一幅指向那位将要来的救赎主的伟大图画。
+
+"这些事以后，神要试验亚伯拉罕，就呼叫他说：'亚伯拉罕！'他说：'我在这里。'"（创22:1）请注意，经文说的是"试验"，不是"试探"。雅各书告诉我们，神不试探人（雅1:13）。试验是为了显明信心，使信心如精金一般经过火炼而更加纯净。神是信实的，祂绝不会将祂的儿女推入毁灭，乃是要借着试炼坚固他们。
+
+然后神说了那句令人心碎的话："你带着你的儿子，就是你独生的儿子，你所爱的以撒，往摩利亚地去，在我所要指示你的山上，把他献为燔祭。"（创22:2）请留意神说话的方式——"你的儿子"、"你独生的儿子"、"你所爱的"——每一个修饰词都像刀一样刺入亚伯拉罕的心。神并非不知道这命令的重量，祂乃是要亚伯拉罕清清楚楚地面对这个代价。以撒是应许之子，是亚伯拉罕等候了二十五年才得到的儿子，是神自己赐下的恩典。如今神竟要他把这恩典献上？
+
+弟兄姊妹，这正是信心最深处的功课：你愿意将神所赐的最宝贵之物归还给神吗？
+
+"亚伯拉罕清早起来，备上驴，带着两个仆人和他儿子以撒，也劈好了燔祭的柴，就起身往神所指示他的地方去了。"（创22:3）清早起来！亚伯拉罕没有拖延，没有讨价还价，没有像我后来在燃烧的荆棘前那样推三阻四。他的顺服是即刻的、彻底的。他劈好了柴——这意味着他亲手预备了将要焚烧自己儿子的燃料。每劈下一斧，他的心该是何等痛苦，但他的手没有停下。
+
+三天的路程。三天！想想亚伯拉罕那三天的心境。从别是巴到摩利亚，大约六十英里的路。三天里，他有无数次机会回头，无数次机会说"我做不到"。但他一步一步地走向那座山。这三天的等候，仿佛死亡的阴影笼罩着父子二人——而三天之后，以撒从那祭坛上"复活"了。这三天，岂不正预表着我们的主在坟墓中的三天吗？
+
+到了第三天，亚伯拉罕对仆人说了一句惊人的话："你们和驴在此等候，我与童子往那里去拜一拜，就回到你们这里来。"（创22:5）"就回到你们这里来"——他说的是"我们"回来，不是"我"回来。希伯来书的作者揭示了这信心的奥秘："他以为神还能叫人从死里复活；他也仿佛从死中得回他的儿子来。"（来11:19）亚伯拉罕相信，即便以撒死了，神也能使他复活，因为神的应许不能落空——"从以撒生的，才要称为你的后裔"（创21:12）。这是何等的信心！他不是不痛苦，乃是他对神应许的信靠胜过了眼前的苦难。
+
+接下来的场景更加动人。"亚伯拉罕把燔祭的柴放在他儿子以撒身上，自己手里拿着火与刀；于是二人同行。"（创22:6）以撒背着柴走向献祭之地。我写下这一幕时，圣灵让我看见了远处的影子——千百年后，神的独生子将要背着自己的十字架，走向各各他山。以撒背柴上山，基督背架上山，何等奇妙的对应！
+
+以撒开口了："父亲哪！……火与柴都有了，但燔祭的羊羔在那里呢？"（创22:7）这个问题穿透了亚伯拉罕的心。一个天真的孩子，信任着自己的父亲，却不知道自己就是那祭物。亚伯拉罕的回答成为了整本圣经中最伟大的预言之一："我儿，神必自己预备作燔祭的羊羔。"（创22:8）
+
+"神必自己预备。"亚伯拉罕说出这句话时，他或许只是凭信心说出安慰的话。但这句话的意义远超他的想象。千百年后，在约旦河边，施洗约翰指着拿撒勒人耶稣喊道："看哪，神的羔羊，除去世人罪孽的！"（约1:29）神果然自己预备了那只羔羊——不是公羊，不是牛犊，乃是祂自己的独生爱子。
+
+"他们到了神所指示的地方，亚伯拉罕在那里筑坛，把柴摆好，捆绑他的儿子以撒，放在坛的柴上。亚伯拉罕就伸手拿刀，要杀他的儿子。"（创22:9-10）经文记载以撒被捆绑却没有反抗。犹太传统认为以撒当时已是青年，完全有能力挣脱年迈的父亲。但他甘愿顺服，如羊在剪毛的人手下无声。这顺服的影子，指向那位"他被欺压，在受苦的时候却不开口"的受苦仆人（赛53:7）。
+
+就在刀举起的那一刻——"耶和华的使者从天上呼叫他说：'亚伯拉罕！亚伯拉罕！'他说：'我在这里。'天使说：'你不可在这童子身上下手。一点不可害他！现在我知道你是敬畏神的了；因为你没有将你的儿子，就是你独生的儿子，留下不给我。'"（创22:11-12）
+
+"亚伯拉罕举目观看，不料，有一只公羊，两角扣在稠密的小树中，亚伯拉罕就取了那只公羊来，献为燔祭，代替他的儿子。"（创22:13）"代替"——这是整本圣经救赎之道的核心。公羊代替以撒死，正如基督代替我们死。以撒本该死，公羊代替了他；我们本该死，基督代替了我们。这就是代赎，这就是福音的根基。
+
+亚伯拉罕给那地方起名叫"耶和华以勒"，意思是"耶和华必预备"（创22:14）。这个名字成为世世代代信徒的安慰：在我们最绝望的时刻，在我们看不到出路的山上，耶和华必预备。祂预备的不是别的，乃是祂自己的儿子，作为赎罪的祭物。
+
+最后，耶和华的使者第二次呼叫亚伯拉罕，重申了那伟大的应许："论福，我必赐大福给你；论子孙，我必叫你的子孙多起来，如同天上的星，海边的沙。你子孙必得着仇敌的城门，并且地上万国都必因你的后裔得福。"（创22:17-18）这"后裔"最终指向的，正是亚伯拉罕的那一位子孙——耶稣基督（加3:16）。
+
+亲爱的弟兄姊妹，每当你读到这一章，求圣灵开你的眼睛，让你看见：摩利亚山上发生的一切，都是在预演各各他山上将要成就的救恩。亚伯拉罕没有留下他的独生子，但神却为了你，"不爱惜自己的儿子，为我们众人舍了"（罗8:32）。亚伯拉罕的以撒被救回来了，但神的以撒——耶稣基督——却真的死了，为要叫你活。这就是恩典，这就是爱，这就是我摩西所写下的一切历史的终极指向。`,
+  content_en: `Dear reader, I am Moses, servant of the LORD. Today I shall recount to you one of the most staggering scenes in all of Scripture—God's testing of Abraham. When you have finished this chapter, you will see that this is not merely a story of faith, but a grand portrait pointing to the Redeemer who was to come.
+
+"After these things God tested Abraham and said to him, 'Abraham!' And he said, 'Here I am.'" (Gen 22:1) Note carefully: the text says "tested," not "tempted." James tells us that God tempts no one (Jas 1:13). A test is meant to reveal and refine faith, as gold is purified through fire. God is faithful—He never pushes His children toward destruction, but strengthens them through trial.
+
+Then God spoke those heart-rending words: "Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you." (Gen 22:2) Notice how God spoke—"your son," "your only son," "whom you love"—each qualifier like a blade piercing Abraham's heart. God was not unaware of the weight of this command; He wanted Abraham to face the cost with full clarity. Isaac was the son of promise, the child Abraham waited twenty-five years to receive, the very gift of God's grace. And now God asked him to give that gift back?
+
+Brothers and sisters, this is the deepest lesson of faith: are you willing to return to God the most precious thing He has given you?
+
+"So Abraham rose early in the morning, saddled his donkey, and took two of his young men with him, and his son Isaac. And he cut the wood for the burnt offering and arose and went to the place of which God had told him." (Gen 22:3) Early in the morning! Abraham did not delay, did not bargain, did not make excuses as I myself did before the burning bush. His obedience was immediate and total. He cut the wood—meaning he prepared with his own hands the fuel that would burn his son. With every stroke of the axe, his heart must have been in agony, yet his hands did not stop.
+
+Three days of travel. Three days! Consider Abraham's state of mind during those days. From Beersheba to Moriah, roughly sixty miles. For three days he had countless opportunities to turn back, countless chances to say, "I cannot do this." But he walked on, step by step, toward that mountain. Those three days were like a shadow of death over father and son—and after three days, Isaac was "raised" from that altar. Do not those three days foreshadow our Lord's three days in the tomb?
+
+On the third day, Abraham said to his servants a stunning word: "Stay here with the donkey; I and the boy will go over there and worship and come again to you." (Gen 22:5) "Come again to you"—he said "we" will come back, not "I." The author of Hebrews reveals the mystery of this faith: "He considered that God was able even to raise him from the dead, from which, figuratively speaking, he did receive him back." (Heb 11:19) Abraham believed that even if Isaac died, God could raise him, for God's promise cannot fail—"Through Isaac shall your offspring be named" (Gen 21:12). What extraordinary faith! He was not without pain, but his trust in God's promise overcame the suffering before him.
+
+What follows is even more moving. "And Abraham took the wood of the burnt offering and laid it on Isaac his son. And he took in his hand the fire and the knife. So they went both of them together." (Gen 22:6) Isaac carried the wood toward the place of sacrifice. As I wrote this scene, the Spirit showed me a shadow in the distance—centuries later, God's only Son would carry His own cross toward Golgotha. Isaac bearing wood up the mountain, Christ bearing the cross up the hill—what a wondrous parallel!
+
+Isaac spoke: "My father! ... Behold, the fire and the wood, but where is the lamb for a burnt offering?" (Gen 22:7) This question pierced Abraham's heart. An innocent child, trusting his father, not knowing that he himself was the offering. Abraham's answer became one of the greatest prophecies in all of Scripture: "God will provide for himself the lamb for a burnt offering, my son." (Gen 22:8)
+
+"God will provide." When Abraham spoke these words, perhaps he spoke only in faith, offering comfort. But the meaning of these words far exceeded his imagination. Centuries later, by the Jordan River, John the Baptist pointed at Jesus of Nazareth and cried: "Behold, the Lamb of God, who takes away the sin of the world!" (John 1:29) God indeed provided the Lamb—not a ram, not a bull, but His own beloved Son.
+
+"When they came to the place of which God had told him, Abraham built the altar there and laid the wood in order and bound Isaac his son and laid him on the altar, on top of the wood. Then Abraham reached out his hand and took the knife to slaughter his son." (Gen 22:9-10) Scripture records that Isaac was bound yet did not resist. Jewish tradition holds that Isaac was by then a young man, fully capable of overpowering his aged father. Yet he willingly submitted, like a sheep silent before its shearers. This shadow of obedience points to the Suffering Servant who "was oppressed, and he was afflicted, yet he opened not his mouth" (Isa 53:7).
+
+At the very moment the knife was raised—"the angel of the LORD called to him from heaven and said, 'Abraham, Abraham!' And he said, 'Here I am.' He said, 'Do not lay your hand on the boy or do anything to him, for now I know that you fear God, seeing you have not withheld your son, your only son, from me.'" (Gen 22:11-12)
+
+"And Abraham lifted up his eyes and looked, and behold, behind him was a ram, caught in a thicket by his horns. And Abraham went and took the ram and offered it up as a burnt offering instead of his son." (Gen 22:13) "Instead of"—this is the very heart of the Bible's way of redemption. The ram died in Isaac's place, just as Christ died in ours. Isaac deserved death; the ram took his place. We deserved death; Christ took ours. This is substitutionary atonement. This is the foundation of the gospel.
+
+Abraham called that place "The LORD will provide" (Gen 22:14). This name has comforted believers through every generation: in our most desperate hour, on the mountain where we see no way out, the LORD will provide. And what He provided was nothing less than His own Son, as the atoning sacrifice.
+
+Finally, the angel of the LORD called to Abraham a second time, reaffirming the great promise: "I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand that is on the seashore. And your offspring shall possess the gate of his enemies, and in your offspring shall all the nations of the earth be blessed." (Gen 22:17-18) This "offspring" ultimately points to that one descendant of Abraham—Jesus Christ (Gal 3:16).
+
+Dear brothers and sisters, whenever you read this chapter, may the Spirit open your eyes to see: everything that happened on Mount Moriah was a rehearsal for the salvation accomplished on Golgotha. Abraham did not withhold his only son—but God, for your sake, "did not spare his own Son but gave him up for us all" (Rom 8:32). Abraham's Isaac was returned alive, but God's Isaac—Jesus Christ—truly died, so that you might live. This is grace, this is love, and this is the ultimate destination of all the history I, Moses, was given to write.`,
+  historyContext_zh: `创世记22章发生在以撒出生之后、撒拉去世之前。此时亚伯拉罕已定居别是巴（创21:34），以实玛利已被逐出（创21章）。以撒是亚伯拉罕唯一的应许之子，承载着神与亚伯拉罕所立之约的全部盼望。摩利亚地后来成为所罗门建造圣殿之处（代下3:1），这绝非偶然——神在历史的开端就标定了献祭与救赎的地点。亚伯拉罕所处的时代约为主前2000年，当时迦南地盛行将儿女献给偶像的恶俗，但神在此章中彻底否定了人祭，并指向祂自己将要预备的真正祭物。`,
+  historyContext_en: `Genesis 22 takes place after Isaac's birth and before Sarah's death. Abraham had settled in Beersheba (Gen 21:34), and Ishmael had been sent away (Gen 21). Isaac was Abraham's sole son of promise, carrying the entire hope of God's covenant with Abraham. The land of Moriah later became the site where Solomon built the temple (2 Chr 3:1)—this was no coincidence. God marked the place of sacrifice and redemption from the very beginning of history. Abraham lived around 2000 BC, when child sacrifice to idols was common in Canaan. In this chapter, God decisively rejected human sacrifice and pointed forward to the true offering He Himself would provide.`,
+  structure_zh: `本章结构清晰，可分为五段：（一）神的试验与命令（1-2节）——神呼召亚伯拉罕，发出献以撒为燔祭的命令；（二）顺服的行程（3-6节）——三天路程，父子同行上山；（三）信心的对话（7-8节）——以撒的提问与亚伯拉罕的预言性回答；（四）祭坛上的高潮（9-14节）——捆绑以撒、天使拦阻、公羊代替，命名"耶和华以勒"；（五）应许的重申与拓展（15-24节）——耶和华因亚伯拉罕的顺服再次坚立约中的应许，并以起誓加以确认。全章以试验开始，以祝福结束，显明真正的信心必带来真正的恩典。`,
+  structure_en: `The chapter has a clear five-part structure: (1) God's test and command (vv. 1-2)—God calls Abraham and commands him to offer Isaac as a burnt offering; (2) The obedient journey (vv. 3-6)—three days of travel, father and son ascending together; (3) The dialogue of faith (vv. 7-8)—Isaac's question and Abraham's prophetic answer; (4) The climax at the altar (vv. 9-14)—the binding of Isaac, the angel's intervention, the ram as substitute, and the naming of "The LORD Will Provide"; (5) The reaffirmation and expansion of the promise (vv. 15-24)—the LORD reestablishes His covenant promise because of Abraham's obedience, confirmed with an oath. The chapter begins with testing and ends with blessing, demonstrating that true faith always leads to true grace.`,
+  theology_zh: `本章的核心神学主题是信心与顺服的关系。亚伯拉罕的信心不是停留在口头的认信，乃是在最极端的试炼中以行动证明的真信心（雅2:21-22）。韦敏斯德信条教导我们，得救的信心不仅包括知识和赞同，更包括在基督里的信靠与交托。亚伯拉罕正是如此——他信靠神的应许不会落空，因此即便面对看似矛盾的命令，仍然顺服。本章也彰显了神的主权与信实：祂有权试验祂的子民，但祂绝不撇弃祂的应许。"耶和华以勒"这个名字宣告了一个永恒的真理：救恩从始至终都是神的预备，不是人的努力。`,
+  theology_en: `The central theological theme of this chapter is the relationship between faith and obedience. Abraham's faith was not mere verbal profession but true faith demonstrated by action under the most extreme trial (Jas 2:21-22). The Westminster Confession teaches that saving faith includes not only knowledge and assent but trust and reliance upon Christ. Abraham exemplified this—he trusted that God's promise could not fail, and therefore obeyed even when the command seemed to contradict that promise. This chapter also displays God's sovereignty and faithfulness: He has the right to test His people, but He never abandons His promise. The name "The LORD Will Provide" proclaims an eternal truth: salvation from beginning to end is God's provision, not human effort.`,
+  christShadow_zh: `创世记22章是旧约中最丰富、最清晰的基督预表。请看这些对应：
+
+第一，以撒是基督的影子。神称以撒为"你的儿子，你独生的儿子，你所爱的"（创22:2），正对应天父论到基督："这是我的爱子，我所喜悦的"（太3:17）。以撒甘愿被捆绑在祭坛上，没有反抗，预表基督"存心顺服，以至于死，且死在十字架上"（腓2:8）。以撒背柴上摩利亚山，预表基督背十字架走向各各他（约19:17）。以撒三天后从"死亡"中被归还给亚伯拉罕（来11:19），预表基督三日后从死里复活。
+
+第二，公羊代替以撒，是代赎的核心图画。以撒本当死，公羊"代替他的儿子"（创22:13）被献上——这正是以赛亚所预言的："耶和华使我们众人的罪孽都归在他身上……像羊羔被牵到宰杀之地"（赛53:6-7）。在摩利亚山上，是公羊代替人子；在各各他山上，是神的羔羊代替罪人。
+
+第三，地点的奥秘。摩利亚山正是后来所罗门建圣殿之处（代下3:1），也在各各他山附近。神在亚伯拉罕的时代就拣选了这个地方，两千年后，祂的独生子就在这同一座山的周围，被钉在十字架上，成就了永远的赎罪祭。
+
+第四，"神必自己预备作燔祭的羊羔"（创22:8）——这句话贯穿整本圣经的救赎历史。从创世记到启示录，从摩利亚山到各各他，从亚伯拉罕的口到施洗约翰的宣告"看哪，神的羔羊，除去世人罪孽的"（约1:29），神始终在预备那一位终极的祭物。
+
+然而，预表终究不是实体。亚伯拉罕的以撒被救回来了，刀没有落下；但天父的独生子，却没有被救回——"神既不爱惜自己的儿子，为我们众人舍了"（罗8:32）。在摩利亚山上，有天使喊"住手"；在各各他山上，没有声音喊"住手"。这就是恩典最深处的奥秘：亚伯拉罕不必付出的代价，天父亲自付了。`,
+  christShadow_en: `Genesis 22 is the richest and clearest typology of Christ in the entire Old Testament. Consider these parallels:
+
+First, Isaac is a shadow of Christ. God called Isaac "your son, your only son, whom you love" (Gen 22:2), directly corresponding to the Father's words about Christ: "This is my beloved Son, with whom I am well pleased" (Matt 3:17). Isaac willingly submitted to being bound on the altar without resistance, foreshadowing Christ who "humbled himself by becoming obedient to the point of death, even death on a cross" (Phil 2:8). Isaac carried the wood up Mount Moriah, prefiguring Christ carrying His cross to Golgotha (John 19:17). Isaac was received back from "death" after three days (Heb 11:19), foreshadowing Christ's resurrection on the third day.
+
+Second, the ram substituted for Isaac is the core image of substitutionary atonement. Isaac deserved to die; the ram was offered "instead of his son" (Gen 22:13)—this is precisely what Isaiah prophesied: "The LORD has laid on him the iniquity of us all... like a lamb that is led to the slaughter" (Isa 53:6-7). On Moriah, a ram took the place of the son; on Golgotha, the Lamb of God took the place of sinners.
+
+Third, the mystery of the location. Mount Moriah is the very place where Solomon later built the temple (2 Chr 3:1), near Golgotha. God chose this place in Abraham's day, and two thousand years later, His only Son was crucified on this same mountain ridge, accomplishing the eternal atoning sacrifice.
+
+Fourth, "God will provide for himself the lamb" (Gen 22:8)—this sentence threads through the entire redemptive history of Scripture. From Genesis to Revelation, from Moriah to Golgotha, from Abraham's lips to John the Baptist's declaration, "Behold, the Lamb of God, who takes away the sin of the world!" (John 1:29), God was always providing that one ultimate sacrifice.
+
+Yet the type is not the reality. Abraham's Isaac was spared—the knife did not fall. But the Father's only Son was not spared—"He who did not spare his own Son but gave him up for us all" (Rom 8:32). On Moriah, an angel cried "Stop!" On Golgotha, no voice cried "Stop!" This is the deepest mystery of grace: the price Abraham did not have to pay, the heavenly Father paid Himself.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 23,
   publishDate: '2026-03-18',
   title: '撒拉之死', titleEn: 'The Death of Sarah',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 23:1 / Genesis 23:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 23:1-20 / Genesis 23:1-20',
+  content_zh: `
+亲爱的弟兄姊妹，我是摩西。当耶和华感动我写下这卷书的时候，我在旷野已经年迈。我带领以色列人出了埃及，却尚未踏入那应许之地。正因如此，当我提笔写到亚伯拉罕在迦南地为撒拉买坟地的这一章时，我心中满了感触——信心的寄居者，如何在尚未得着应许的时候，仍然持守盼望？
+
+撒拉的一生，是与亚伯拉罕同行信心之路的一生。经上记着说："撒拉享寿一百二十七岁，这是撒拉一生的岁数。撒拉死在迦南地的基列亚巴，就是希伯仑。亚伯拉罕为他哀恸哭号。"（创23:1-2）在整卷创世记中，撒拉是唯一被记下寿数的女子。耶和华如此记念她，因为她是应许之子以撒的母亲，是那信心家庭的柱石。她曾经笑过——在帐棚门口听见天使说她要生子的时候，她笑了（创18:12）；后来以撒出生，她又笑了，那是喜乐的笑（创21:6）。如今，那笑声归于寂静，信心的同路人走完了地上的旅程。
+
+亚伯拉罕"为她哀恸哭号"——请注意，信心之父并非不悲伤。他哀哭，因为失去至亲是真实的痛苦；但他不像那些没有指望的人一样绝望（帖前4:13）。他的眼泪是真实的，他的盼望也是真实的。弟兄姊妹，当你面对丧失和哀伤的时候，不必压抑你的泪水——连亚伯拉罕都哭了。但要在哀哭中仰望那位使无变有、叫死人复活的神（罗4:17）。
+
+接下来发生的事，在人看来不过是一桩地产交易，在神的眼中却是一篇信心的宣告。亚伯拉罕从死人面前起来，对赫人说："我在你们中间是外人，是寄居的。求你们在这里给我一块地，我好埋葬我的死人，使他不在我眼前。"（创23:3-4）
+
+请留意亚伯拉罕如何称呼自己——"外人"、"寄居的"。他蒙神呼召离开吾珥，走遍迦南全地，神应许说："我要将你所看见的一切地都赐给你和你的后裔，直到永远。"（创13:15）然而直到撒拉去世，他在这片应许之地连立足之地都没有。他住帐棚，不是因为贫穷，乃是因为他"等候那座有根基的城，就是神所经营所建造的"（来11:10）。
+
+赫人回答得很客气："我主请听。你在我们中间是一位尊大的王子，只管在我们最好的坟地里埋葬你的死人；我们没有一人不容你在他的坟地里埋葬你的死人。"（创23:5-6）他们愿意白白送给亚伯拉罕一块坟地。但亚伯拉罕拒绝了。他坚持要买，而且坚持要付足价银。他看中了麦比拉洞，就是以弗仑的那块田和洞。
+
+以弗仑先是说要白送，后来又说出了价钱："值四百舍客勒银子的一块田，在你我中间还算甚么呢？只管埋葬你的死人罢！"（创23:15）亚伯拉罕没有讨价还价，"照着他在赫人面前所说的话，把买卖通用的银子平了四百舍客勒给以弗仑。"（创23:16）
+
+弟兄姊妹，亚伯拉罕为何坚持付全价？因为这不仅仅是一桩交易——这是一个信心的行动。他要在法律上、在众人面前确确实实地拥有这块地。这是他在迦南地第一块合法拥有的产业。他一生寄居，从未拥有一亩应许之地的土地，如今却花重价买了一块坟地。这看似矛盾，实则深意无穷：他不是为活人买房屋，乃是为死人买坟墓——因为他相信，这片土地终将属于他的后裔，而他和撒拉虽然死了，却仍要在复活中承受这应许。
+
+希伯来书的作者这样解释这些信心伟人："这些人都是存着信心死的，并没有得着所应许的；却从远处望见，且欢喜迎接，又承认自己在世上是客旅，是寄居的。说这样话的人是表明自己要找一个家乡。他们若想念所离开的家乡，还有可以回去的机会。他们却羡慕一个更美的家乡，就是在天上的。所以神被称为他们的神，并不以为耻，因为他已经给他们预备了一座城。"（来11:13-16）
+
+亚伯拉罕把撒拉埋葬在麦比拉田间的洞里。后来，亚伯拉罕自己也埋葬在那里（创25:9），以撒和利百加埋在那里，雅各和利亚也埋在那里（创49:31）。这个洞穴成为了列祖信心的纪念碑——他们都死在应许之地，等候那更美的复活。
+
+最后，让我说说亚伯拉罕在这笔交易中所表现的品格。他在赫人面前诚实守信、光明磊落。他不占便宜，不取白给之物，在异族面前活出了耶和华子民当有的见证。弟兄姊妹，我们在世上也是客旅，但我们在世人面前的行为，就是我们信仰的见证。保罗后来写道："你们行事为人与基督的福音相称。"（腓1:27）亚伯拉罕在四千年前就已经这样行了。
+
+我写下这些事，是要你们知道：信心不是空洞的口号，信心是在看不见应许成就的时候，仍然凭着信心行事。亚伯拉罕买了一块坟地，把妻子的身体安放在应许之地的土里——这是何等的信心宣告：我相信神的应许必定成就，哪怕我今生看不见，我的后裔必要承受这地！
+
+愿这位亚伯拉罕的神、以撒的神、雅各的神，也坚固你的信心，使你在寄居的日子里，持守那活泼的盼望，直到见主面的日子。阿们。
+`,
+  content_en: `
+Dear brothers and sisters, I am Moses. When the LORD moved me to write this book, I was already aged in the wilderness. I had led Israel out of Egypt, yet had not set foot in the Promised Land. For this very reason, when I took up the pen to record Abraham purchasing a burial site in Canaan for Sarah, my heart was deeply stirred — how does a sojourner of faith hold fast to hope when the promise remains unfulfilled?
+
+Sarah's life was one of walking the path of faith alongside Abraham. As it is written: "Sarah lived 127 years; these were the years of the life of Sarah. And Sarah died at Kiriath-arba (that is, Hebron) in the land of Canaan, and Abraham went in to mourn for Sarah and to weep for her." (Gen 23:1-2) In all of Genesis, Sarah is the only woman whose lifespan is recorded. The LORD remembered her so, for she was the mother of Isaac, the child of promise, and the pillar of that household of faith. She had once laughed — when she overheard the angel say she would bear a son (Gen 18:12); and she laughed again when Isaac was born, this time with joy (Gen 21:6). Now that laughter fell silent; the companion of faith had finished her earthly journey.
+
+Abraham "went in to mourn for Sarah and to weep for her" — note well, the father of faith was not without grief. He wept because losing a beloved is real pain; yet he did not grieve as those who have no hope (1 Thess 4:13). His tears were real, and his hope was equally real. Brothers and sisters, when you face loss and sorrow, do not suppress your tears — even Abraham wept. But in your weeping, look to the God who gives life to the dead and calls into existence the things that do not exist (Rom 4:17).
+
+What followed may appear to be merely a real estate transaction, but in God's eyes it was a declaration of faith. Abraham rose from before his dead and said to the Hittites, "I am a sojourner and foreigner among you; give me property among you for a burying place, that I may bury my dead out of my sight." (Gen 23:3-4)
+
+Notice how Abraham identified himself — "a sojourner and foreigner." He had been called by God to leave Ur, had traversed the entire land of Canaan, and God had promised: "All the land that you see I will give to you and to your offspring forever." (Gen 13:15) Yet by the time Sarah died, he did not own a single plot in this promised land. He dwelt in tents, not because of poverty, but because "he was looking forward to the city that has foundations, whose designer and builder is God" (Heb 11:10).
+
+The Hittites responded courteously: "Hear us, my lord; you are a prince of God among us. Bury your dead in the choicest of our tombs. None of us will withhold from you his tomb to hinder you from burying your dead." (Gen 23:5-6) They were willing to give Abraham a burial site for free. But Abraham refused. He insisted on purchasing it and paying the full price. He had set his heart on the cave of Machpelah, belonging to Ephron — the field and the cave within it.
+
+Ephron first offered to give it freely, then named a price: "My lord, listen to me: a piece of land worth four hundred shekels of silver, what is that between you and me? Bury your dead." (Gen 23:15) Abraham did not bargain. He "weighed out for Ephron the silver that he had named in the hearing of the Hittites, four hundred shekels of silver, according to the weights current among the merchants." (Gen 23:16)
+
+Brothers and sisters, why did Abraham insist on paying the full price? Because this was not merely a transaction — it was an act of faith. He wanted to possess this land legally and publicly, beyond any dispute. This was the first piece of property he legally owned in Canaan. He had sojourned his entire life without owning a single acre of the promised land, and now he paid a heavy price for a burial plot. This seems contradictory, yet its meaning is profound: he did not buy a house for the living but a tomb for the dead — because he believed this land would ultimately belong to his descendants, and that he and Sarah, though dead, would inherit the promise through resurrection.
+
+The author of Hebrews explains these heroes of faith: "These all died in faith, not having received the things promised, but having seen them and greeted them from afar, and having acknowledged that they were strangers and exiles on the earth. For people who speak thus make it clear that they are seeking a homeland. If they had been thinking of that land from which they had gone out, they would have had opportunity to return. But as it is, they desire a better country, that is, a heavenly one. Therefore God is not ashamed to be called their God, for he has prepared for them a city." (Heb 11:13-16)
+
+Abraham buried Sarah in the cave of the field of Machpelah. Later, Abraham himself was buried there (Gen 25:9), Isaac and Rebekah were buried there, and Jacob and Leah were buried there (Gen 49:31). This cave became a monument to the patriarchs' faith — they all died in the Promised Land, awaiting the better resurrection.
+
+Finally, let me speak of the character Abraham displayed in this transaction. He was honest, upright, and transparent before the Hittites. He took no advantage, accepted nothing for free, and lived out the witness that the people of the LORD ought to bear before the nations. Brothers and sisters, we too are sojourners in this world, but our conduct before the watching world is the testimony of our faith. Paul later wrote: "Only let your manner of life be worthy of the gospel of Christ." (Phil 1:27) Abraham practiced this very thing four thousand years ago.
+
+I wrote these things so that you may know: faith is not an empty slogan. Faith is acting in obedience when you cannot yet see the promise fulfilled. Abraham bought a burial plot and laid his wife's body in the soil of the Promised Land — what a declaration of faith: I believe God's promise will surely come to pass; though I may not see it in my lifetime, my offspring will possess this land!
+
+May the God of Abraham, the God of Isaac, and the God of Jacob also strengthen your faith, so that in your days of sojourning you may hold fast to that living hope, until the day you see the Lord face to face. Amen.
+`,
+  historyContext_zh: `创世记23章的背景约在主前2000年左右。撒拉死时127岁，亚伯拉罕约137岁，以撒37岁。基列亚巴即希伯仑，位于迦南地南部山地，是当时赫人聚居之地。赫人（赫梯人）是古代近东的重要民族，亚伯拉罕与他们的交易遵循了当时通行的地产交易惯例——在城门口、在众人面前公开议价并称量银子。四百舍客勒银子在当时是一笔相当可观的费用（参耶利米花十七舍客勒买田，耶32:9），显示亚伯拉罕为确保合法拥有权而甘付高价。麦比拉洞后来成为列祖家族墓地，至今仍是希伯仑最重要的历史遗址。`,
+  historyContext_en: `Genesis 23 is set around 2000 BC. Sarah died at 127, Abraham was about 137, and Isaac was 37. Kiriath-arba, that is Hebron, lies in the southern hill country of Canaan and was then inhabited by the Hittites. The Hittites were a significant ancient Near Eastern people, and Abraham's transaction with them followed the customary land-purchase protocol of the time — negotiating publicly at the city gate and weighing out silver before witnesses. Four hundred shekels of silver was a substantial sum (compare Jeremiah's purchase of a field for seventeen shekels, Jer 32:9), showing Abraham's willingness to pay a premium to secure undisputed legal ownership. The cave of Machpelah became the patriarchal family tomb and remains the most important historical site in Hebron to this day.`,
+  structure_zh: `创世记23章结构清晰，可分为四段：（一）撒拉之死与亚伯拉罕的哀恸（1-2节）——全章的起因，记录撒拉寿数与去世地点；（二）亚伯拉罕向赫人求购坟地（3-6节）——自称"外人和寄居的"，赫人尊称他为"尊大的王子"；（三）具体交涉：麦比拉洞的购买过程（7-16节）——从请求以弗仑卖地，到以弗仑假意赠送，再到亚伯拉罕坚持付全价四百舍客勒，是全章的核心叙事；（四）产权确认与安葬（17-20节）——详细记录田地、洞穴、树木的产权转移，并以撒拉的安葬作结。全章以法律文书般的精确语言写成，强调产权的合法性与公开性。`,
+  structure_en: `Genesis 23 has a clear four-part structure: (1) Sarah's death and Abraham's mourning (vv. 1-2) — the occasion of the chapter, recording Sarah's lifespan and place of death; (2) Abraham's request to the Hittites for a burial site (vv. 3-6) — he calls himself "a sojourner and foreigner," while they honor him as "a prince of God"; (3) The negotiation: purchasing the cave of Machpelah (vv. 7-16) — from the initial request to Ephron, to Ephron's ostensible offer of a gift, to Abraham's insistence on paying the full price of four hundred shekels — this is the core narrative; (4) Transfer of ownership and burial (vv. 17-20) — a precise legal record of the field, cave, and trees changing hands, concluding with Sarah's burial. The entire chapter reads with the precision of a legal document, emphasizing the legitimacy and public nature of the transaction.`,
+  theology_zh: `本章蕴含丰富的改革宗神学要义。第一，寄居者的身份与天上的盼望：亚伯拉罕自称"外人和寄居的"（23:4），韦敏斯德大要理问答第87问教导，信徒在今世是客旅，等候灵魂与身体在末日完全得赎。第二，信心的确据：亚伯拉罕花重价买坟地，不是绝望之举，乃是信心的宣告——他相信神必将这地赐给他的后裔（创13:15），因此将亲人的骨骸安放在应许之地（来11:13-16）。第三，在哀恸中的盼望：亚伯拉罕哀哭但不绝望，这合乎保罗所教导的"恐怕你们忧伤，像那些没有指望的人一样"（帖前4:13）。第四，诚信的见证：亚伯拉罕在外邦人面前公义行事，不贪不占，彰显了神子民在世的见证。神的护理贯穿此事——这块地后来成为列祖的安息之所，也是神信实守约的明证。`,
+  theology_en: `This chapter contains rich Reformed theological significance. First, the sojourner's identity and heavenly hope: Abraham called himself "a sojourner and foreigner" (23:4); Westminster Larger Catechism Q87 teaches that believers in this life are pilgrims, awaiting the full redemption of soul and body at the last day. Second, the assurance of faith: Abraham's costly purchase of a tomb was not an act of despair but a declaration of faith — he believed God would give this land to his offspring (Gen 13:15), and therefore laid his loved one's remains in the Promised Land (Heb 11:13-16). Third, hope amid grief: Abraham mourned but did not despair, consistent with Paul's instruction not to "grieve as others do who have no hope" (1 Thess 4:13). Fourth, the witness of integrity: Abraham dealt justly before the Gentiles, taking no advantage, displaying the testimony God's people ought to bear in the world. God's providence threads through this event — this plot of land became the patriarchal resting place and stands as proof of God's covenant faithfulness.`,
+  christShadow_zh: `在这看似平凡的丧葬记事中，基督的影子若隐若现。第一，亚伯拉罕为安葬撒拉付出了"足价"——四百舍客勒银子，不接受白白赠送。这预表了基督为祂的新妇（教会）所付的代价：不是用能朽坏的金银，乃是用祂自己的宝血（彼前1:18-19）。祂付了完全的代价，买赎了属于祂的百姓。第二，麦比拉洞是死人安息之所，却也是复活盼望的记号。基督自己被埋葬在借来的坟墓中，第三天从死里复活，成为"睡了之人初熟的果子"（林前15:20）。列祖埋在麦比拉洞，等候的正是这位复活的基督。第三，亚伯拉罕在应许之地买坟地，是对神应许的信心回应；基督的复活则是神对所有应许的终极成全——"神的应许，不论有多少，在基督都是是的"（林后1:20）。`,
+  christShadow_en: `In this seemingly ordinary burial account, the shadow of Christ appears. First, Abraham paid "full price" — four hundred shekels of silver — to bury Sarah, refusing a free gift. This foreshadows the price Christ paid for His bride, the Church: not with perishable silver or gold, but with His own precious blood (1 Pet 1:18-19). He paid the complete price to redeem a people for Himself. Second, the cave of Machpelah was a resting place for the dead, yet also a sign of resurrection hope. Christ Himself was buried in a borrowed tomb, and on the third day He rose from the dead, becoming "the firstfruits of those who have fallen asleep" (1 Cor 15:20). The patriarchs buried in Machpelah awaited this very risen Christ. Third, Abraham's purchase of a burial site in the Promised Land was a faith-response to God's promise; Christ's resurrection is God's ultimate fulfillment of all His promises — "For all the promises of God find their Yes in him" (2 Cor 1:20).`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 24,
   publishDate: '2026-03-19',
   title: '以撒的新娘', titleEn: 'A Bride for Isaac',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 24:1 / Genesis 24:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 24:1-67 / Genesis 24:1-67',
+  content_zh: `亲爱的读者，我是摩西，耶和华的仆人。今天我要带你细读创世记第二十四章——这是创世记中最长的一章，共六十七节。为什么圣灵引导我用如此大的篇幅来记载一桩婚事？因为这不仅仅是一个婚姻的故事，这是一幅关乎救赎的荣耀图画。
+
+**一、父亲的差遣（1-9节）**
+
+"亚伯拉罕年纪老迈，向来在一切事上耶和华都赐福给他。"（创24:1）经文以这句话开篇，让我们看见一位蒙福的父亲。亚伯拉罕一生跟随耶和华，如今他最挂心的事，不是财产的分配，而是儿子以撒的婚姻。他叫了管理他全业最老的仆人来，郑重地嘱咐他："你要往我本地本族去，为我的儿子以撒娶一个妻子。"（创24:4）
+
+亚伯拉罕为何如此坚持？因为他深知迦南人不敬畏耶和华。信仰的纯洁比地理的方便更为重要。他凭信心宣告："耶和华——天上的主……他必差遣使者在你面前，你就可以从那里为我儿子娶一个妻子。"（创24:7）这位年迈的族长，信心丝毫未减。
+
+**二、仆人的祷告（10-14节）**
+
+那仆人带了十匹骆驼和各样美物，起身往美索不达米亚去，到了拿鹤的城。他使骆驼跪在城外的水井旁。请留意，这位无名的仆人做了一件极其重要的事——他祷告了。
+
+"耶和华——我主人亚伯拉罕的神阿，求你施恩给我主人亚伯拉罕，使我今日遇见好机会。"（创24:12）他没有倚靠自己的智慧去挑选，而是完全仰望神的引导。他甚至设定了一个具体的记号："我向哪一个女子说：'请你拿下水瓶来，给我水喝'，他若说：'请喝！我也给你的骆驼喝'，愿那女子就作你所预定给你仆人以撒的妻。"（创24:14）
+
+这个记号绝非随意。一匹骆驼饮足需要约二十加仑的水，十匹就是两百加仑！愿意做这事的女子，必然有非凡的慷慨、勤劳和服事的心志。
+
+**三、利百加在井旁（15-27节）**
+
+"话还没有说完，不料，利百加肩头上扛着水瓶出来。"（创24:15）神的回应何等迅速！利百加不仅容貌俊美，更重要的是她心地善良。她对一个素不相识的旅人说："请喝！"又说："我再为你的骆驼打水，叫骆驼也喝足。"（创24:18-19）
+
+经文特别记载："那人定睛看他，一句话也不说，要晓得耶和华赐他通达的道路没有。"（创24:21）仆人安静地观察，等候神的印证。当他确认这就是神所预备的，他便俯伏在地，敬拜耶和华，说："耶和华——我主人亚伯拉罕的神是应当称颂的，因他不断地以慈爱诚实待我主人。至于我，耶和华在路上引领我，直走到我主人的兄弟家里。"（创24:26-27）
+
+**四、拉班家中的见证（28-53节）**
+
+利百加跑回家告诉母亲，她哥哥拉班出来迎接仆人。仆人被请进家中，但他说："我不吃，等我说明白我的事情再吃。"（创24:33）他将亚伯拉罕的富足、以撒的尊贵、神一路的引导，都详细述说了。
+
+拉班和彼土利回答说："这事乃出于耶和华，我们不能向你说好说歹。看哪，利百加在你面前，可以将他带去，照着耶和华所说的，给你主人的儿子为妻。"（创24:50-51）连这些还不完全认识耶和华的人，也不得不承认：这事出于神。
+
+**五、利百加的信心："我去"（54-61节）**
+
+第二天早晨，仆人说："请打发我回我主人那里去吧。"利百加的哥哥和母亲想留她多住几天，至少十天。但仆人坚持要走。于是他们叫了利百加来，问她："你和这人同去吗？"利百加说："我去。"（创24:58）
+
+这两个字何等有力！利百加几乎不认识以撒，也从未见过迦南地。她只凭仆人的见证，就甘愿离开父家、离开本族，踏上一条完全未知的道路。这是信心，是对神引导的信靠。她的家人为她祝福说："我们的妹子阿，愿你作千万人的母！愿你的后裔得着仇敌的城门！"（创24:60）——这祝福遥遥呼应了神给亚伯拉罕的应许。
+
+**六、在田间的相遇（62-67节）**
+
+"以撒住在南地……天将晚，以撒出来在田间默想。"（创24:62,63）这位安静等候的新郎，举目远望，看见骆驼来了。利百加也举目看见以撒，就急忙下了骆驼。当她得知那人就是以撒，便拿帕子蒙上脸。
+
+"以撒便领利百加进了他母亲撒拉的帐棚，娶了他为妻，并且爱他。以撒自从他母亲不在了，这才得了安慰。"（创24:67）一段美好的婚姻，始于父亲的安排，成于仆人的忠心，终于新郎与新妇在田间的相遇。
+
+读者啊，当我写下这六十七节经文时，圣灵在我心中激荡。这不仅是以撒和利百加的故事。这是天父为祂独生爱子预备新妇的永恒计划的一个影子。求主开你的眼睛，在这古老的叙事中看见那将要来的基督，和祂用重价赎回的教会。`,
+  content_en: `Dear reader, I am Moses, the servant of the LORD. Today I bring you through Genesis chapter 24—the longest chapter in all of Genesis, spanning sixty-seven verses. Why did the Holy Spirit lead me to devote such length to a marriage account? Because this is not merely a wedding story; it is a glorious portrait of redemption.
+
+**I. The Father's Commission (vv. 1–9)**
+
+"Now Abraham was old, well advanced in years. And the LORD had blessed Abraham in all things." (Gen 24:1) The chapter opens with a blessed father. Abraham had followed the LORD all his life, and now his greatest concern was not the distribution of wealth but his son Isaac's marriage. He summoned his oldest servant and solemnly charged him: "You will go to my country and to my kindred, and take a wife for my son Isaac." (Gen 24:4)
+
+Why such insistence? Abraham knew that the Canaanites did not fear the LORD. Purity of faith mattered more than convenience of geography. In faith he declared: "The LORD, the God of heaven…will send his angel before you, and you shall take a wife for my son from there." (Gen 24:7) This aged patriarch's faith had not diminished one measure.
+
+**II. The Servant's Prayer (vv. 10–14)**
+
+The servant took ten camels and all manner of fine gifts, and set out for Mesopotamia, arriving at the city of Nahor. He made the camels kneel outside the city by the well of water. Note carefully: this unnamed servant did something of supreme importance—he prayed.
+
+"O LORD, God of my master Abraham, please grant me success today and show steadfast love to my master Abraham." (Gen 24:12) He did not rely on his own wisdom to choose; he depended entirely on God's guidance. He even set a specific sign: "Let the young woman to whom I shall say, 'Please let down your jar that I may drink,' and who shall say, 'Drink, and I will water your camels'—let her be the one whom you have appointed for your servant Isaac." (Gen 24:14)
+
+This sign was far from arbitrary. A single camel can drink roughly twenty gallons of water; ten camels would require two hundred gallons! A woman willing to do this must possess extraordinary generosity, diligence, and a servant's heart.
+
+**III. Rebekah at the Well (vv. 15–27)**
+
+"Before he had finished speaking, behold, Rebekah…came out with her water jar on her shoulder." (Gen 24:15) How swift was God's answer! Rebekah was not only beautiful in appearance; far more importantly, she was beautiful in heart. She said to a complete stranger, "Drink, my lord," and added, "I will draw water for your camels also, until they have finished drinking." (Gen 24:18–19)
+
+Scripture records: "The man gazed at her in silence to learn whether the LORD had prospered his journey or not." (Gen 24:21) The servant watched quietly, awaiting God's confirmation. When he was convinced this was God's provision, he bowed his head and worshiped the LORD, saying: "Blessed be the LORD, the God of my master Abraham, who has not forsaken his steadfast love and his faithfulness toward my master. As for me, the LORD has led me in the way to the house of my master's kinsmen." (Gen 24:26–27)
+
+**IV. Testimony in Laban's House (vv. 28–53)**
+
+Rebekah ran home to tell her mother, and her brother Laban came out to welcome the servant. Though invited in, the servant said, "I will not eat until I have said what I have to say." (Gen 24:33) He recounted Abraham's wealth, Isaac's honor, and God's guidance along the entire journey.
+
+Laban and Bethuel answered, "The thing has come from the LORD; we cannot speak to you bad or good. Behold, Rebekah is before you; take her and go, and let her be the wife of your master's son, as the LORD has spoken." (Gen 24:50–51) Even these people, who did not fully know the LORD, could not help but acknowledge: this thing was from God.
+
+**V. Rebekah's Faith: "I Will Go" (vv. 54–61)**
+
+The next morning, the servant said, "Send me away to my master." Rebekah's brother and mother wanted her to remain at least ten days. But the servant urged them not to delay. So they called Rebekah and asked her, "Will you go with this man?" Rebekah said, "I will go." (Gen 24:58)
+
+What powerful words! Rebekah scarcely knew Isaac and had never seen the land of Canaan. Based solely on the servant's testimony, she was willing to leave her father's house, leave her kindred, and set out on a wholly unknown road. This was faith—trust in God's leading. Her family blessed her: "Our sister, may you become thousands of ten thousands, and may your offspring possess the gate of those who hate him!" (Gen 24:60)—a blessing that echoes God's promise to Abraham.
+
+**VI. The Meeting in the Field (vv. 62–67)**
+
+"Now Isaac…settled in the Negeb…And Isaac went out to meditate in the field toward evening." (Gen 24:62–63) This quiet, waiting bridegroom lifted up his eyes and saw the camels coming. Rebekah also lifted her eyes, and when she saw Isaac, she dismounted from the camel. When she learned who he was, she took her veil and covered herself.
+
+"Then Isaac brought Rebekah into the tent of Sarah his mother and took Rebekah, and she became his wife, and he loved her. So Isaac was comforted after his mother's death." (Gen 24:67) A beautiful marriage—initiated by the father's plan, accomplished through the servant's faithfulness, and consummated in the bridegroom and bride's meeting in the field.
+
+Reader, when I penned these sixty-seven verses, the Holy Spirit stirred within me. This is not merely the story of Isaac and Rebekah. It is a shadow of the Heavenly Father's eternal plan to prepare a bride for His only begotten Son. May the Lord open your eyes to see, within this ancient narrative, the Christ who was to come and the Church He purchased at great price.`,
+  historyContext_zh: `创世记第24章的背景发生在亚伯拉罕晚年。撒拉已经去世（第23章），亚伯拉罕在希伯仑的麦比拉洞安葬了她。以撒约四十岁，尚未婚配。亚伯拉罕寄居在迦南地，周围是拜偶像的迦南人。按照古近东的习俗，父亲为儿子安排婚姻是庄重的责任。亚伯拉罕坚持不从迦南人中娶妻，而差仆人回到哈兰的亲族中去——这是信仰纯洁的考量。美索不达米亚的拿鹤城（今叙利亚东北部）是亚伯拉罕兄弟拿鹤的后裔所居之地，利百加正是拿鹤的孙女、彼土利的女儿。`,
+  historyContext_en: `Genesis 24 is set in Abraham's old age. Sarah had already died (ch. 23), and Abraham buried her in the cave of Machpelah near Hebron. Isaac was about forty years old and still unmarried. Abraham sojourned in Canaan, surrounded by idol-worshiping Canaanites. In ancient Near Eastern custom, arranging a son's marriage was a father's solemn duty. Abraham's insistence on not taking a wife from the Canaanites but sending his servant back to his kindred in Haran was a matter of preserving covenant faith. The city of Nahor in Mesopotamia (modern northeastern Syria) was where the descendants of Abraham's brother Nahor dwelt; Rebekah was Nahor's granddaughter, the daughter of Bethuel.`,
+  structure_zh: `创世记第24章可分为六个段落：
+一、父亲的差遣（1-9节）——亚伯拉罕嘱咐仆人为以撒娶妻，立下誓约。
+二、仆人的祷告（10-14节）——仆人到达井旁，向耶和华祈求明确的印证。
+三、井旁的相遇（15-27节）——利百加慷慨打水，仆人确认神的引导，俯伏敬拜。
+四、拉班家的见证（28-53节）——仆人述说神的作为，彼土利和拉班承认"这事出于耶和华"。
+五、利百加的决定（54-61节）——面对挽留，利百加以信心回应"我去"，踏上未知之路。
+六、田间的相遇（62-67节）——以撒在田间默想，利百加到来，二人结为夫妻。
+全章以"神的引导"为主线，从祷告到成就，处处彰显耶和华的护理之工。`,
+  structure_en: `Genesis 24 divides into six movements:
+I. The Father's Commission (vv. 1–9) — Abraham charges his servant with an oath to find a wife for Isaac.
+II. The Servant's Prayer (vv. 10–14) — The servant arrives at the well and asks the LORD for a clear sign.
+III. The Meeting at the Well (vv. 15–27) — Rebekah generously draws water; the servant confirms God's guidance and worships.
+IV. Testimony in Laban's House (vv. 28–53) — The servant recounts God's deeds; Bethuel and Laban acknowledge "this thing has come from the LORD."
+V. Rebekah's Decision (vv. 54–61) — Faced with family's plea to delay, Rebekah responds in faith: "I will go," setting out on an unknown journey.
+VI. The Meeting in the Field (vv. 62–67) — Isaac meditates in the field; Rebekah arrives; the two become husband and wife.
+The entire chapter is threaded by the theme of divine guidance—from prayer to fulfillment—displaying the LORD's providential care at every turn.`,
+  theology_zh: `本章最核心的神学主题是**神的护理（Providence）**。韦敏斯德小要理问答第11问教导我们："神的护理之工，就是祂用至极的圣洁、智慧和大能，保守并管理祂所造的万物，和他们一切的行动。"在整章中，仆人祷告、利百加出现、拉班同意、利百加甘愿前行——每一步都不是偶然，而是神主权的安排。
+
+其次，本章彰显了**圣约的信实**。神应许亚伯拉罕"地上的万族都要因你得福"（创12:3），以撒的婚姻正是这应许延续的关键一环。神亲自护理这桩婚事，确保应许之子有应许的后裔。
+
+第三，**信心的顺服**贯穿全章：亚伯拉罕凭信差遣，仆人凭信祷告，利百加凭信说"我去"。正如希伯来书11:8所言："亚伯拉罕因着信，蒙召的时候，就遵命出去。"利百加同样蒙召，凭信踏上未知的路。`,
+  theology_en: `The central theological theme of this chapter is **God's Providence**. Westminster Shorter Catechism Q.11 teaches: "God's works of providence are his most holy, wise, and powerful preserving and governing all his creatures, and all their actions." Throughout the chapter—the servant's prayer, Rebekah's appearance, Laban's consent, Rebekah's willingness—every step is not coincidence but the sovereign arrangement of God.
+
+Second, the chapter displays **covenant faithfulness**. God promised Abraham, "In you all the families of the earth shall be blessed" (Gen 12:3), and Isaac's marriage was a critical link in the continuation of that promise. God Himself superintended this union to ensure the son of promise would have promised offspring.
+
+Third, **the obedience of faith** runs through the entire chapter: Abraham sends in faith, the servant prays in faith, and Rebekah says "I will go" in faith. As Hebrews 11:8 states, "By faith Abraham obeyed when he was called to go out." Rebekah was likewise called and set out by faith on an unknown road.`,
+  christShadow_zh: `创世记第24章是圣经中最完整的基督与教会之预表之一。
+
+**亚伯拉罕预表天父**——祂差遣仆人为爱子寻找新娘，正如天父在永恒中定意为基督预备教会（弗1:4-5）。**无名的仆人预表圣灵**——他不荣耀自己，只述说主人的富足和新郎的尊贵，引导新娘归向新郎。正如主耶稣所说："他（圣灵）要荣耀我，因为他要将受于我的告诉你们。"（约16:14）
+
+**以撒预表基督**——他是父所爱的独生子，曾在摩利亚山上被献（创22章），如今在田间安静等候新娘的到来。基督也是如此，祂已成就了救赎之工，如今在天上等候祂的教会。
+
+**利百加预表教会**——她原本不认识以撒，只凭仆人的见证就甘愿离开旧生活。信徒也是如此，"你们虽然没有见过他，却是爱他；如今虽不得看见，却因信他就有说不出来、满有荣光的大喜乐。"（彼前1:8）她那句"我去"，是每一个蒙召之人信心回应的缩影。
+
+正如保罗所说："丈夫是妻子的头，如同基督是教会的头……基督爱教会，为教会舍己。"（弗5:23,25）这桩古老的婚事，遥指那终极的婚筵——羔羊的婚宴（启19:7-9）。`,
+  christShadow_en: `Genesis 24 is one of Scripture's most complete typological portraits of Christ and the Church.
+
+**Abraham typifies the Father** — He sends his servant to find a bride for his beloved son, just as the Heavenly Father purposed from eternity to prepare the Church for Christ (Eph 1:4–5). **The unnamed servant typifies the Holy Spirit** — he does not glorify himself but speaks of the master's riches and the bridegroom's honor, guiding the bride toward the groom. As the Lord Jesus said, "He [the Spirit] will glorify me, for he will take what is mine and declare it to you." (John 16:14)
+
+**Isaac typifies Christ** — he is the beloved only son of the father, once offered on Mount Moriah (Gen 22), now quietly waiting in the field for his bride's arrival. So too Christ has accomplished the work of redemption and now waits in heaven for His Church.
+
+**Rebekah typifies the Church** — she did not know Isaac personally; she was willing to leave her old life based solely on the servant's testimony. So it is with believers: "Though you have not seen him, you love him. Though you do not now see him, you believe in him and rejoice with joy that is inexpressible and filled with glory." (1 Pet 1:8) Her words "I will go" are an emblem of every called soul's response of faith.
+
+As Paul wrote, "The husband is the head of the wife even as Christ is the head of the church…Christ loved the church and gave himself up for her." (Eph 5:23, 25) This ancient marriage points forward to the ultimate wedding feast — the marriage supper of the Lamb (Rev 19:7–9).`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 25,
   publishDate: '2026-03-20',
   title: '以扫与雅各', titleEn: 'Esau and Jacob',
   author: '摩西', authorEn: 'Moses',
-  scripture: '创世记 25:1 / Genesis 25:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  scripture: '创世记 25:1-34 / Genesis 25:1-34',
+  content_zh: `亲爱的读者，我是摩西，耶和华的仆人。今天我要带你走进创世记第二十五章——这一章记载了信心之父亚伯拉罕的落幕，也揭开了神在雅各身上拣选之恩的序幕。
+
+一、亚伯拉罕的晚年与基土拉的后代（25:1-6）
+
+撒拉去世之后，亚伯拉罕又娶了一个妻子，名叫基土拉。她给亚伯拉罕生了六个儿子：心兰、约珊、米但、米甸、伊施巴和书亚。你看，神应许亚伯拉罕要作"多国的父"（创17:4），这应许何等真实！然而，亚伯拉罕极其清醒——"亚伯拉罕将一切所有的都给了以撒"（创25:5）。至于其余众子，他趁着还在世的日子，打发他们往东方去，离开他的儿子以撒。这并非偏心，乃是信心的行动。亚伯拉罕深知，神的约、神的应许、弥赛亚的血脉，唯独通过以撒延续。他用行动分辨了应许之子与其余儿女的区别。
+
+二、信心之父的安息（25:7-11）
+
+"亚伯拉罕一生的年日是一百七十五岁。亚伯拉罕寿高年迈，气绝而死，归到他列祖那里"（创25:7-8）。请留意这句话——"归到他列祖那里"。这不仅仅是身体的死亡，更是灵魂归向神的安息。亚伯拉罕一生是信心的一生：他七十五岁蒙召离开本地本族父家，在迦南寄居如客旅，等候"那座有根基的城，就是神所经营所建造的"（来11:10）。如今，他终于安息了。
+
+以撒和以实玛利一同来埋葬他们的父亲，把他安葬在麦比拉洞里，就是在撒拉的旁边。这幅画面令人动容——两个儿子，一个是应许之子，一个是使女之子，在父亲的墓前暂时放下一切，共同尽孝。"亚伯拉罕死后，神赐福给他的儿子以撒"（创25:11）。约的传承没有中断，恩典的河流继续奔涌。
+
+三、以实玛利的后代（25:12-18）
+
+我在此记录了以实玛利的十二个儿子，作十二族的族长。这正应验了神对亚伯拉罕的应许："至于以实玛利，我也应允你，我必赐福给他，使他昌盛，极其繁多。他必生十二个族长，我也要使他成为大国"（创17:20）。神是信实的，祂的每一句话都不落空。然而，以实玛利的约与以撒的约截然不同——前者是肉体的昌盛，后者是属灵的传承，是弥赛亚降临的管道。
+
+四、利百加怀双子与神的预旨（25:19-23）
+
+以撒四十岁娶了利百加，利百加却不能生育。以撒便为妻子祈求耶和华，"耶和华应允他的祈求"（创25:21）。然而怀孕之后，腹中的孩子彼此相争。利百加痛苦地说："若是这样，我为什么活着呢？"她就去求问耶和华。
+
+耶和华对她说："两国在你腹内；两族要从你身上出来。这族必强于那族；将来大的要服事小的"（创25:23）。
+
+这是何等令人震撼的宣告！孩子还未出生，还没有行善行恶，神就已经定意——大的要服事小的。使徒保罗后来引用这段经文，揭示了拣选的奥秘："双子还没有生下来，善恶还没有做出来，只因要显明神拣选人的旨意，不在乎人的行为，乃在乎召人的主。神就对利百加说：'将来大的要服事小的。'正如经上所记：'雅各是我所爱的；以扫是我所恶的'"（罗9:11-13）。
+
+弟兄姊妹，拣选的教义是圣经中最深邃、最令人敬畏的真理之一。这不是关于人的功德或预见的信心，乃是神在创世以前，按着自己旨意所预定的（弗1:4-5）。韦敏斯德信条第三章宣告："神从永远，按照祂自己旨意的至智至圣的计划，自由不变地预定了将来所要发生的一切。"雅各的蒙拣选，不是因为他比以扫更好——他是个诡诈的人。但神的恩典不凭功德，唯独出于祂主权的美意。
+
+五、以扫与雅各的出生（25:24-28）
+
+生产的日子到了，"先产的身体发红，浑身有毛，如同皮衣，他们就给他起名叫以扫"（创25:25）。随后雅各出来，"手抓住以扫的脚跟"（创25:26），因此起名叫雅各，就是"抓住"的意思。以撒那时六十岁。
+
+以扫善于打猎，常在田野；雅各为人安静，常住在帐棚里。以撒爱以扫，因为常吃他的野味；利百加却爱雅各。这个家庭的偏爱，日后将酿成许多痛苦和纷争。
+
+六、长子名分的出卖（25:29-34）
+
+有一天，雅各熬汤。以扫从田野回来，累昏了。以扫对雅各说："我累昏了，求你把这红汤给我喝。""雅各说：你今日把长子的名分卖给我罢"（创25:31）。以扫竟然说："我将要死，这长子的名分于我有什么益处呢？"他就起了誓，把长子的名分卖给雅各。"于是雅各将饼和红豆汤给了以扫，以扫吃了喝了，便起来走了。这就是以扫轻看了他长子的名分"（创25:34）。
+
+长子的名分意味着什么？在族长时代，长子拥有祭司的职分，可以代表全家献祭敬拜神；长子享有双份的产业继承权；最重要的是，在亚伯拉罕家族中，长子名分承载着弥赛亚降临的应许血脉。以扫为了一碗红豆汤，就把这一切都卖了！希伯来书警告我们："恐怕有淫乱的，有贪恋世俗如以扫的，他因一点食物把自己长子的名分卖了。后来想要承受父所祝的福，竟被弃绝，虽然号哭切求，却得不着门路使他父亲的心意回转"（来12:16-17）。
+
+以扫是属世之人的典型——他只看眼前的满足，不看永恒的价值。他轻看神的应许，如同轻看一件无用之物。而雅各虽然手段不正当，但他渴慕长子名分所代表的属灵祝福，这一点是蒙神悦纳的。
+
+让我们在这一章中看见：神的拣选是主权的、无条件的、不可逆转的。祂的旨意不因人的行为而改变，祂的应许不因岁月而废弃。愿我们都像雅各一样，看重属灵的福分过于世上一切的享乐！`,
+  content_en: `Dear reader, I am Moses, servant of the LORD. Today I will walk you through Genesis chapter 25—a chapter that records the final curtain of Abraham, the father of faith, and raises the curtain on God's electing grace in Jacob.
+
+I. Abraham's Later Years and the Descendants of Keturah (25:1-6)
+
+After Sarah's death, Abraham took another wife, whose name was Keturah. She bore him six sons: Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. Behold how true God's promise was—that Abraham would be "the father of a multitude of nations" (Gen 17:4)! Yet Abraham was remarkably clear-minded: "Abraham gave all he had to Isaac" (Gen 25:5). As for his other sons, while he was still living he sent them away eastward, away from his son Isaac. This was not favoritism but an act of faith. Abraham knew well that God's covenant, God's promise, and the Messianic line would continue solely through Isaac. By his actions he distinguished the child of promise from all the rest.
+
+II. The Rest of the Father of Faith (25:7-11)
+
+"These are the days of the years of Abraham's life, 175 years. Abraham breathed his last and died in a good old age, an old man and full of years, and was gathered to his people" (Gen 25:7-8). Note this phrase—"gathered to his people." This is not merely physical death but the soul's return to rest with God. Abraham's life was a life of faith: called at seventy-five to leave his country and kindred, he sojourned in Canaan as a stranger, looking forward to "the city that has foundations, whose designer and builder is God" (Heb 11:10). Now at last, he rested.
+
+Isaac and Ishmael came together to bury their father, laying him in the cave of Machpelah, beside Sarah. What a moving scene—two sons, one the child of promise, the other born of a servant, setting aside everything at their father's grave to honor him together. "After the death of Abraham, God blessed Isaac his son" (Gen 25:11). The covenant's transmission was unbroken; the river of grace flowed on.
+
+III. The Descendants of Ishmael (25:12-18)
+
+Here I recorded Ishmael's twelve sons, who became twelve princes according to their tribes. This fulfilled exactly what God had promised Abraham: "As for Ishmael, I have heard you; behold, I have blessed him and will make him fruitful and multiply him greatly. He shall father twelve princes, and I will make him into a great nation" (Gen 17:20). God is faithful—not one of His words falls to the ground. Yet Ishmael's covenant differs entirely from Isaac's: the former is earthly prosperity, the latter is spiritual inheritance—the channel through which the Messiah would come.
+
+IV. Rebekah's Twins and the Divine Decree (25:19-23)
+
+Isaac was forty years old when he took Rebekah as his wife, but Rebekah was barren. Isaac prayed to the LORD for his wife, and "the LORD granted his prayer" (Gen 25:21). Yet after conceiving, the children struggled within her. In her anguish Rebekah cried, "If it is thus, why is this happening to me?" So she went to inquire of the LORD.
+
+And the LORD said to her: "Two nations are in your womb, and two peoples from within you shall be divided; the one shall be stronger than the other, the older shall serve the younger" (Gen 25:23).
+
+What a staggering declaration! Before the children were born, before they had done anything good or evil, God had already determined—the older shall serve the younger. The apostle Paul later cited this passage to reveal the mystery of election: "Though they were not yet born and had done nothing either good or bad—in order that God's purpose of election might continue, not because of works but because of him who calls—she was told, 'The older will serve the younger.' As it is written, 'Jacob I loved, but Esau I hated'" (Rom 9:11-13).
+
+Brothers and sisters, the doctrine of election is one of the most profound and awe-inspiring truths in all of Scripture. It is not about human merit or foreseen faith, but about God's predestination before the foundation of the world, according to the purpose of His will (Eph 1:4-5). The Westminster Confession of Faith, Chapter 3, declares: "God from all eternity did, by the most wise and holy counsel of His own will, freely and unchangeably ordain whatsoever comes to pass." Jacob's election was not because he was better than Esau—he was a deceitful man. But God's grace is not earned; it flows solely from His sovereign good pleasure.
+
+V. The Birth of Esau and Jacob (25:24-28)
+
+When the time came to give birth, "the first came out red, all his body like a hairy cloak, so they called his name Esau" (Gen 25:25). Afterward his brother came out "with his hand holding Esau's heel" (Gen 25:26), so he was called Jacob, meaning "he grasps the heel." Isaac was sixty years old at their birth.
+
+Esau was a skillful hunter, a man of the field, while Jacob was a quiet man, dwelling in tents. Isaac loved Esau because he ate of his game, but Rebekah loved Jacob. This parental favoritism would later breed much sorrow and strife.
+
+VI. The Sale of the Birthright (25:29-34)
+
+One day Jacob was cooking stew. Esau came in from the field exhausted and said to Jacob, "Let me eat some of that red stew, for I am exhausted!" "Jacob said, 'Sell me your birthright now'" (Gen 25:31). Esau replied, "I am about to die; of what use is a birthright to me?" So he swore an oath and sold his birthright to Jacob. "Then Jacob gave Esau bread and lentil stew, and he ate and drank and rose and went his way. Thus Esau despised his birthright" (Gen 25:34).
+
+What did the birthright signify? In the patriarchal era, the firstborn held the priestly office, representing the entire family in sacrifice and worship before God; the firstborn received a double portion of the inheritance; and most importantly, within Abraham's family, the birthright carried the promised Messianic bloodline. Esau sold all of this for a single bowl of stew! Hebrews warns us: "that no one is sexually immoral or unholy like Esau, who sold his birthright for a single meal. For you know that afterward, when he desired to inherit the blessing, he was rejected, for he found no chance to repent, though he sought it with tears" (Heb 12:16-17).
+
+Esau is the archetype of the worldly person—he saw only immediate gratification and was blind to eternal value. He despised God's promise as though it were a worthless thing. Jacob, though his methods were wrong, yearned for the spiritual blessing the birthright represented, and this desire found favor with God.
+
+Let us see in this chapter: God's election is sovereign, unconditional, and irrevocable. His purposes do not change with human behavior; His promises do not expire with the passing of ages. May we all, like Jacob, prize spiritual blessings above every pleasure this world offers!`,
+  historyContext_zh: `创世记第25章处于族长叙事的关键转折点。亚伯拉罕时代落幕（约主前2090年去世），以撒-雅各时代开启。当时近东地区，城邦文明蓬勃发展，长子继承制（primogeniture）是普遍的社会制度。长子名分不仅关乎经济利益（双份产业），更承载祭司职分和家族领袖权。基土拉所生的后裔——米甸人等——后来成为以色列历史中重要的邻族。以实玛利的十二族长则发展为阿拉伯诸部落的先祖。麦比拉洞是亚伯拉罕在迦南唯一合法购买的土地，成为族长家族的墓地，也是对迦南应许之地的信心宣告。`,
+  historyContext_en: `Genesis 25 stands at a pivotal transition in the patriarchal narrative. The Abrahamic era closes (Abraham died ca. 2090 BC) and the Isaac-Jacob era begins. In the ancient Near East, city-state civilizations were flourishing, and primogeniture was a widespread social institution. The birthright entailed not only economic benefits (a double portion) but also the priestly office and family leadership. Keturah's descendants—including the Midianites—later became significant neighboring peoples in Israel's history. Ishmael's twelve princes developed into ancestors of various Arabian tribes. The cave of Machpelah was the only plot of land Abraham legally purchased in Canaan, serving as the patriarchal burial site and a declaration of faith in the promised land.`,
+  structure_zh: `创世记25章分为六个段落：
+1. 亚伯拉罕与基土拉的后代（1-6节）——产业归以撒
+2. 亚伯拉罕之死与安葬（7-11节）——享寿175岁，归到列祖
+3. 以实玛利的后代谱系（12-18节）——十二族长，应验17:20
+4. 以撒的祈祷与利百加怀孕（19-23节）——"两国在你腹内"
+5. 双子的出生与性格（24-28节）——以扫（猎人）与雅各（安静人）
+6. 长子名分的出卖（29-34节）——以扫轻看长子名分
+
+全章以"结束与开始"为主题：亚伯拉罕故事的收束，雅各故事的萌芽。神的应许在世代交替中持续向前。`,
+  structure_en: `Genesis 25 divides into six sections:
+1. Abraham and Keturah's descendants (vv. 1-6)—all possessions to Isaac
+2. Abraham's death and burial (vv. 7-11)—175 years, gathered to his people
+3. Ishmael's genealogy (vv. 12-18)—twelve princes, fulfilling 17:20
+4. Isaac's prayer and Rebekah's conception (vv. 19-23)—"Two nations in your womb"
+5. Birth and characters of the twins (vv. 24-28)—Esau (hunter) and Jacob (quiet man)
+6. The sale of the birthright (vv. 29-34)—Esau despised his birthright
+
+The overarching theme is "ending and beginning": the closing of Abraham's story and the budding of Jacob's. God's promise presses forward through the changing of generations.`,
+  theology_zh: `本章最核心的神学主题是**神主权的拣选**。耶和华在双子未出生、未行善恶之前，就宣告"将来大的要服事小的"（创25:23）。保罗在罗马书9:10-13明确指出，这彰显的是"神拣选人的旨意，不在乎人的行为，乃在乎召人的主"。韦敏斯德信条第三章教导：神的预定是永恒的、自由的、不可改变的。其次，本章揭示了**长子名分的属灵重量**——它包含祭司职分、双份产业和弥赛亚血统的传承。以扫轻看这一切，暴露了属肉体之人的本质：只顾今生，不顾永恒。第三，亚伯拉罕的死展示了**信心完满的人生**——他至终持守信心，将产业归给应许之子，然后安然离世。这提醒我们：信徒的死不是终结，乃是"归到列祖那里"，进入永恒的安息。`,
+  theology_en: `The central theological theme of this chapter is **God's sovereign election**. Before the twins were born or had done anything good or evil, the LORD declared, "The older shall serve the younger" (Gen 25:23). Paul in Romans 9:10-13 explicitly states that this demonstrates "God's purpose of election might continue, not because of works but because of him who calls." The Westminster Confession, Chapter 3, teaches that God's predestination is eternal, free, and unchangeable. Second, this chapter reveals the **spiritual weight of the birthright**—encompassing the priestly office, a double inheritance, and the transmission of the Messianic bloodline. Esau's contempt for all this exposed the nature of the carnal person: focused on the present, blind to eternity. Third, Abraham's death displays a **life of faith brought to fullness**—he held fast to faith to the end, gave his possessions to the son of promise, and departed in peace. This reminds us: a believer's death is not the end but being "gathered to his people," entering eternal rest.`,
+  christShadow_zh: `在创世记25章中，基督的影子从多个角度浮现。首先，**以撒是基督的预表**——正如一切产业都归给以撒（25:5），天父也将万有赐给基督（约3:35）。以撒是独一的应许之子，基督是独一的神子。其次，**雅各的蒙拣选预表教会的蒙拣选**——不是因为我们配得，乃是神在创世以前的恩典（弗1:4）。第三，**长子名分的转移指向基督里的翻转**——在基督里，末后的成为在先的，外邦人得以进入亚伯拉罕的祝福。以扫轻看名分，正如以色列后来拒绝弥赛亚；雅各渴慕名分，正如外邦教会珍惜福音。最终，亚伯拉罕的一生——蒙召、信靠、等候——是每一位在基督里之人的信心旅程缩影：我们都是客旅，等候那座有根基的城。`,
+  christShadow_en: `In Genesis 25, the shadow of Christ emerges from multiple angles. First, **Isaac is a type of Christ**—just as all possessions were given to Isaac (25:5), so the Father has given all things to Christ (John 3:35). Isaac is the sole son of promise; Christ is the only Son of God. Second, **Jacob's election foreshadows the election of the Church**—not because we deserve it, but by God's grace before the foundation of the world (Eph 1:4). Third, **the transfer of the birthright points to the reversal accomplished in Christ**—in Him, the last become first, and Gentiles are brought into Abraham's blessing. Esau's contempt for the birthright foreshadows Israel's later rejection of the Messiah; Jacob's desire for it mirrors the Gentile Church's treasuring of the Gospel. Finally, Abraham's entire life—called, trusting, waiting—is a miniature of the faith journey for everyone in Christ: we are all sojourners, looking for the city that has foundations.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 26,
