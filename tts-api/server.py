@@ -11,7 +11,28 @@ ZH_REPLACEMENTS = {
     '牠': '他',
     '祂': '他',
     '衪': '他',
+    # === 多音字发音修正 — Edge TTS 默认读错的 ===
+    # 传 zhuàn (传记/经传) — not chuán (传递)
+    '使徒行传': '使徒型撰',
+    '伶长': '伶掌',  # 长 zhǎng (chief musician) not cháng
+    '名在全地': '名，在全第',  # 地 dì (earth) + 逗号断句
+
+    # 乐 yuè (音乐) — 连读吞字修正
+    # 长 zhǎng (长老/族长/长子) — not cháng; edge-tts usually correct, keep as safety
+    # 差 chāi (差遣) — edge-tts usually correct
+    # 数 shǔ (数点/数算) — edge-tts usually correct
 }
+
+import re
+# Regex-based replacements applied after dict replacements
+ZH_REGEX_FIXES = [
+    # Remove translator notes — not part of scripture
+    (re.compile(r'（或译[^）]*）'), ''),
+    (re.compile(r'（或作[^）]*）'), ''),
+    # 耶和华─ → comma pause
+    (re.compile(r'耶和华─'), '耶和华，'),
+    (re.compile(r'─'), '，'),
+]
 
 class Handler(BaseHTTPRequestHandler):
     def do_OPTIONS(self):
@@ -36,6 +57,8 @@ class Handler(BaseHTTPRequestHandler):
         if lang == 'zh':
             for wrong, right in ZH_REPLACEMENTS.items():
                 text = text.replace(wrong, right)
+            for pattern, replacement in ZH_REGEX_FIXES:
+                text = pattern.sub(replacement, text)
 
         voice = VOICES.get(lang, VOICES['zh'])
         try:
