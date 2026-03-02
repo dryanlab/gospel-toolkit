@@ -7,7 +7,7 @@ import { letters as staticLetters, categoryLabels } from '@/data/letters';
 import type { Letter } from '@/data/letters';
 import { fetchLettersList } from '@/lib/api';
 
-const categories = ['all', 'testimony', 'exposition', 'theology', 'fellowship', 'to-you'] as const;
+const categories = ['all', 'testimony', 'theology', 'fellowship', 'to-you'] as const;
 
 export default function LettersPage() {
   const hydrated = useHydrated();

@@ -136,12 +136,19 @@ export default {
       // GET /readings - list published readings
       if (path === '/readings' && request.method === 'GET') {
         const book = url.searchParams.get('book');
-        let query = 'SELECT id, book, book_en, chapter, title, title_en, author, author_en, scripture, publish_date FROM readings WHERE status = ? AND publish_date <= date(\'now\')';
-        const params: string[] = ['published'];
+        const showAll = url.searchParams.get('all') === 'true' && auth(request, env);
+        let query: string;
+        const params: string[] = [];
+        if (showAll) {
+          query = 'SELECT id, book, book_en, chapter, title, title_en, author, author_en, scripture, publish_date, status FROM readings WHERE 1=1';
+        } else {
+          query = 'SELECT id, book, book_en, chapter, title, title_en, author, author_en, scripture, publish_date FROM readings WHERE status = ? AND publish_date <= date(\'now\')';
+          params.push('published');
+        }
         if (book) { query += ' AND book_en = ?'; params.push(book); }
         query += ' ORDER BY book_en, chapter';
         const stmt = env.DB.prepare(query);
-        const rows = await (params.length === 1 ? stmt.bind(params[0]) : stmt.bind(params[0], params[1])).all();
+        const rows = await (params.length === 0 ? stmt : params.length === 1 ? stmt.bind(params[0]) : stmt.bind(params[0], params[1])).all();
         return cors(env, json({ readings: rows.results }));
       }
 
@@ -150,9 +157,10 @@ export default {
         const parts = path.split('/');
         const bookEn = parts[2];
         const chapter = parseInt(parts[3]);
-        const row = await env.DB.prepare(
-          'SELECT * FROM readings WHERE book_en = ? AND chapter = ? AND status = ? AND publish_date <= date(\'now\')'
-        ).bind(bookEn, chapter, 'published').first();
+        const isAdmin = auth(request, env);
+        const row = isAdmin
+          ? await env.DB.prepare('SELECT * FROM readings WHERE book_en = ? AND chapter = ?').bind(bookEn, chapter).first()
+          : await env.DB.prepare('SELECT * FROM readings WHERE book_en = ? AND chapter = ? AND status = ? AND publish_date <= date(\'now\')').bind(bookEn, chapter, 'published').first();
         if (!row) return cors(env, json({ error: 'Not found' }, 404));
         return cors(env, json({ reading: row }));
       }

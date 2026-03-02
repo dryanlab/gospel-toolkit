@@ -8,7 +8,7 @@ export interface Letter {
   title_zh: string;
   title_en: string;
   date: string;
-  category: 'testimony' | 'exposition' | 'theology' | 'fellowship' | 'to-you';
+  category: 'testimony' | 'theology' | 'fellowship' | 'to-you';
   scripture: string;
   scriptureText_zh: string;
   scriptureText_en: string;
@@ -22,7 +22,6 @@ export interface Letter {
 
 export const categoryLabels: Record<string, { zh: string; en: string; icon: string }> = {
   testimony: { zh: '心路历程', en: 'Personal Testimony', icon: '✉️' },
-  exposition: { zh: '经文解读', en: 'Scripture Exposition', icon: '📖' },
   theology: { zh: '神学专题', en: 'Theological Reflections', icon: '💡' },
   fellowship: { zh: '圣徒团契', en: 'Fellowship & Discussion', icon: '🤝' },
   'to-you': { zh: '致读者书', en: 'Letters to You', icon: '📬' },

@@ -135,6 +135,9 @@ export default function GenesisClient({ chapters: staticChapters }: { chapters: 
         {/* Scripture ref */}
         <div className="rounded-xl border-l-4 border-[var(--color-accent)] bg-[var(--color-bg-secondary)] p-4 mb-8">
           <span className="text-sm font-bold text-[var(--color-text)]">📖 {ch.scripture}</span>
+          <Link href={`/bible/GEN/${ch.chapter}`} className="ml-3 text-xs text-[var(--color-accent)] hover:underline">
+            📖 阅读创世记第{ch.chapter}章全文 →
+          </Link>
         </div>
 
         {/* Chinese content */}

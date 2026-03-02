@@ -46,7 +46,7 @@ export default function AboutPage() {
 
             <div>
               <h3 className="font-bold text-base">4. 📜 圣徒来信</h3>
-              <p className="mt-1">圣经人物写给你的<strong>亲笔信</strong>——他们最真实的挣扎、信心与得胜。涵盖<strong>心路历程</strong>、<strong>经文解读</strong>、<strong>神学专题</strong>、<strong>圣徒团契</strong>和<strong>致读者书</strong>五个栏目，每周更新。支持<strong>点赞</strong>、<strong>留言</strong>和<strong>分享</strong>。</p>
+              <p className="mt-1">圣经人物写给你的<strong>亲笔信</strong>——他们最真实的挣扎、信心与得胜。涵盖<strong>心路历程</strong>、<strong>神学专题</strong>、<strong>圣徒团契</strong>和<strong>致读者书</strong>四个栏目，每周更新。支持<strong>点赞</strong>、<strong>留言</strong>和<strong>分享</strong>。</p>
             </div>
 
             <div>
@@ -85,8 +85,8 @@ export default function AboutPage() {
             </div>
 
             <div>
-              <h3 className="font-bold text-base">12. 📚 书库</h3>
-              <p className="mt-1"><strong>326本</strong>改革宗经典著作，支持按<strong>作者</strong>（222位）、<strong>适合人群</strong>、<strong>分类</strong>浏览和搜索。其中<strong>21本</strong>可在线阅读全文，是深入学习的宝贵资源。</p>
+              <h3 className="font-bold text-base">12. 📚 圣经·书库</h3>
+              <p className="mt-1">收录<strong>和合本</strong>与<strong>KJV</strong>圣经全文（66卷1189章，支持中英对照阅读），以及<strong>326本</strong>改革宗经典著作，支持按<strong>作者</strong>（222位）、<strong>适合人群</strong>、<strong>分类</strong>浏览和搜索。其中<strong>21本</strong>可在线阅读全文，是深入学习的宝贵资源。</p>
             </div>
 
           </div>

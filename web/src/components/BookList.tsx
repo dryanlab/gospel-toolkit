@@ -1,5 +1,10 @@
 import Link from 'next/link';
 import SpeakButton from '@/components/SpeakButton';
+import bibleIndex from '@/data/bible/index.json';
+
+const bibleIdMap = new Map(
+  (bibleIndex as { id: string; name_en: string }[]).map(b => [b.name_en, b.id])
+);
 
 export interface BibleBook {
   id: string;
@@ -96,6 +101,18 @@ export default function BookList({ icon, title_zh, title_en, desc_zh, desc_en, g
                 <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic mb-2">&ldquo;{book.keyVerse_en}&rdquo;</p>
                 <p className="text-xs text-[var(--color-accent)] font-medium">— {book.keyRef}</p>
               </div>
+
+              {/* Link to Bible full text */}
+              {bibleIdMap.get(book.name_en) && (
+                <div className="mt-4">
+                  <Link
+                    href={`/bible/${bibleIdMap.get(book.name_en)}`}
+                    className="inline-flex items-center gap-2 rounded-lg border border-[var(--color-accent)]/30 bg-[var(--color-accent)]/10 px-4 py-2.5 text-sm text-[var(--color-accent)] font-medium hover:bg-[var(--color-accent)]/20 transition-colors"
+                  >
+                    📖 阅读{book.name_zh}全文 Read {book.name_en}
+                  </Link>
+                </div>
+              )}
             </div>
           </div>
         ))}

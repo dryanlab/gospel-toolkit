@@ -67,36 +67,11 @@ export default function ShareBar({ url, title, summary, scripture, emoji = '📜
   };
 
   const platforms = [
-    // Show native share button on mobile as first option
+    // Native share (mobile) — system handles app selection
     ...(canNativeShare ? [{
-      name: '分享',
+      name: '分享 Share',
       icon: '📤',
       onClick: nativeShare,
-    }] : []),
-    ...(!isWechatBrowser ? [{
-      name: 'Telegram',
-      icon: '✈️',
-      onClick: () => window.open(`https://t.me/share/url?url=${encodeURIComponent(prodUrl)}&text=${encodeURIComponent(`${emoji} ${title}\n\n${summary}${scriptureLine}${authorLine ? '\n' + authorLine : ''}\n\n— ${siteTag}`)}`, '_blank'),
-    }] : []),
-    {
-      name: '微信',
-      icon: '💬',
-      onClick: handleWechatClick,
-    },
-    ...(!isWechatBrowser ? [{
-      name: 'WhatsApp',
-      icon: '📱',
-      onClick: () => window.open(`https://wa.me/?text=${encodeURIComponent(shareText)}`, '_blank'),
-    },
-    {
-      name: 'X',
-      icon: '🐦',
-      onClick: () => window.open(`https://twitter.com/intent/tweet?url=${encodeURIComponent(prodUrl)}&text=${encodeURIComponent(`${emoji} ${title}${scripture ? '\n📖 ' + scripture : ''}\n\n— ${siteTag}`)}`, '_blank'),
-    },
-    {
-      name: 'Email',
-      icon: '📧',
-      onClick: () => window.open(`mailto:?subject=${encodeURIComponent(`${emoji} ${title} — ${siteTag}`)}&body=${encodeURIComponent(`${summary}\n\n${scripture ? '📖 ' + scripture + '\n\n' : ''}${authorLine ? authorLine + '\n\n' : ''}阅读全文 Read more:\n${prodUrl}\n\n— ${siteTag}\nrockoftruth.net`)}`, '_self'),
     }] : []),
   ];
 

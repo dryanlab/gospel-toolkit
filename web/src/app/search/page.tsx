@@ -12,7 +12,7 @@ const scopes: { key: SearchScope; label: string; icon: string }[] = [
   { key: 'qa', label: '福音问答', icon: '💬' },
   { key: 'catechism', label: '要理问答', icon: '📖' },
   { key: 'apologetics', label: '护教学', icon: '🛡️' },
-  { key: 'books', label: '书库', icon: '📚' },
+  { key: 'books', label: '圣经·书库', icon: '📚' },
   { key: 'youth', label: '青少年', icon: '🌱' },
   { key: 'worship', label: '诗歌', icon: '🎵' },
 ];
@@ -128,7 +128,7 @@ function SearchResults() {
           {showSection('books') && results.books.length > 0 && (
             <section>
               <h2 className="font-semibold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-3 flex items-center gap-2">
-                📚 书库 <span className="text-xs bg-[var(--color-accent)]/15 text-[var(--color-accent)] px-2 py-0.5 rounded-full">{results.books.length}</span>
+                📚 圣经·书库 <span className="text-xs bg-[var(--color-accent)]/15 text-[var(--color-accent)] px-2 py-0.5 rounded-full">{results.books.length}</span>
               </h2>
               <div className="space-y-2">
                 {results.books.map(b => (

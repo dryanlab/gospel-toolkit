@@ -219,7 +219,7 @@ export default function LetterClient({ id }: { id: string }) {
       <CommentSection articleId={letter.id} />
 
       {/* Prev/Next navigation */}
-      <div className="flex justify-between gap-4">
+      <div className="flex justify-between gap-4 mt-8">
         {prev ? (
           <Link href={`/letters/${prev.id}`} className="flex-1 p-4 rounded-xl border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all">
             <p className="text-xs text-[var(--color-text-secondary)]">← 上一封</p>

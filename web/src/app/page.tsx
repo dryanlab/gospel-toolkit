@@ -61,8 +61,8 @@ const modules = [
   },
   {
     href: '/library',
-    title: '书库',
-    subtitle: 'Library',
+    title: '圣经·书库',
+    subtitle: 'Bible · Library',
     desc: '326本精选经典，21本可阅读全文',
     color: 'from-purple-600 to-violet-700',
     icon: '📚',

@@ -9,3 +9,7 @@ DerivedData/
 .DS_Store
 .vercel
 .env*.local
+
+# Local state
+api/.wrangler/
+podcast/
