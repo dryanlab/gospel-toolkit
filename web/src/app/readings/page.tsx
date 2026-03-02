@@ -311,6 +311,13 @@ export default function ReadingsPage() {
         </div>
       </div>
 
+      {/* Divider */}
+      <div className="my-10 flex items-center gap-4">
+        <div className="flex-1 border-t border-[var(--color-border)]" />
+        <span className="text-sm text-[var(--color-text-secondary)] whitespace-nowrap">📖 全部书卷 All Books</span>
+        <div className="flex-1 border-t border-[var(--color-border)]" />
+      </div>
+
       {/* 旧约 Old Testament */}
       <div className="mb-10">
         <h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-6 flex items-center gap-3">
