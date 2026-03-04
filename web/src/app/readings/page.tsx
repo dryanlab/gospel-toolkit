@@ -136,8 +136,8 @@ const NT_CATEGORIES = [
 ];
 
 // 已有内容或即将推出的书卷
-const ACTIVE_BOOKS = new Set(['genesis', 'psalms', 'proverbs']);
-const COMING_SOON = new Set(['john', 'exodus', 'acts', 'leviticus', 'romans']);
+const ACTIVE_BOOKS = new Set(['genesis', 'psalms', 'proverbs', 'john', 'acts', 'romans']);
+const COMING_SOON = new Set(['exodus', 'leviticus']);
 
 type BookDef = { id: string; name: string; nameEn: string; icon: string; total: number };
 
