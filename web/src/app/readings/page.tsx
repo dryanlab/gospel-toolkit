@@ -136,7 +136,7 @@ const NT_CATEGORIES = [
 ];
 
 // 已有内容或即将推出的书卷
-const ACTIVE_BOOKS = new Set(['genesis']);
+const ACTIVE_BOOKS = new Set(['genesis', 'psalms', 'proverbs']);
 const COMING_SOON = new Set(['john', 'exodus', 'acts', 'leviticus', 'romans']);
 
 type BookDef = { id: string; name: string; nameEn: string; icon: string; total: number };
@@ -157,14 +157,12 @@ function BookCard({ book, readings }: { book: BookDef; readings: ReadingChapter[
         <div className="flex-1 min-w-0">
           <h4 className="font-serif-cn font-bold text-sm text-[var(--color-text)]">{book.name}</h4>
           <p className="text-xs text-[var(--color-text-secondary)] italic">{book.nameEn}</p>
-          {published > 0 && (
-            <div className="mt-1 flex items-center gap-2">
-              <div className="flex-1 h-1.5 bg-[var(--color-bg)] rounded-full overflow-hidden">
-                <div className="h-full bg-[var(--color-accent)] rounded-full" style={{ width: `${Math.max(pct, 2)}%` }} />
-              </div>
-              <span className="text-xs text-[var(--color-accent)] font-bold whitespace-nowrap">{published}/{book.total}</span>
+          <div className="mt-1 flex items-center gap-2">
+            <div className="flex-1 h-1.5 bg-[var(--color-bg)] rounded-full overflow-hidden">
+              <div className="h-full bg-[var(--color-accent)] rounded-full" style={{ width: `${Math.max(pct, 2)}%` }} />
             </div>
-          )}
+            <span className="text-xs text-[var(--color-accent)] font-bold whitespace-nowrap">{published}/{book.total}</span>
+          </div>
         </div>
       </Link>
     );
@@ -298,7 +296,7 @@ export default function ReadingsPage() {
               </div>
               <div className="flex-1 min-w-0">
                 <div className="flex items-center gap-2">
-                  <h3 className="font-bold text-[var(--color-text)]">{item.book} 第{item.chapter}章 · {item.title}</h3>
+                  <h3 className="font-bold text-[var(--color-text)]">{item.book} 第{item.chapter}{item.bookEn === 'Psalms' ? '篇' : '章'} · {item.title}</h3>
                   {i === 0 && (
                     <span className="text-xs px-2 py-0.5 rounded-full bg-[var(--color-accent)] text-white font-bold">NEW</span>
                   )}

@@ -1650,7 +1650,7 @@ May the God who had mercy on me likewise have mercy on you. May He create in you
     authorBio: '摩押的女子，波阿斯的妻子，大卫的曾祖母',
     authorBioEn: 'A Moabite woman, wife of Boaz, great-grandmother of David',
     title_zh: '你的国就是我的国',
-    title_en: 'Where You Go I Will Go',
+    title_en: 'Your People Shall Be My People',
     date: '2026-03-21',
     category: 'testimony',
     scripture: '路得记 1:16-17',
@@ -1813,7 +1813,7 @@ May the God who had mercy on me likewise have mercy on you. May He create in you
 你们的姐妹，摩押女子路得
 `,
     content_en: `
-## Where You Go I Will Go
+## Your People Shall Be My People
 
 Dear brothers and sisters,
 

@@ -3605,3 +3605,131 @@ readings.push({
   theology_zh: '', theology_en: '',
   christShadow_zh: '', christShadow_en: '',
 });
+
+// ===== 诗篇伴读 (周日) =====
+
+readings.push({
+  book: '诗篇', bookEn: 'Psalms', chapter: 23,
+  publishDate: '2026-03-08',
+  title: '耶和华是我的牧者', titleEn: 'The Lord Is My Shepherd',
+  author: '大卫', authorEn: 'David',
+  scripture: '诗篇 23:1-6 / Psalm 23:1-6',
+  content_zh: `弟兄姐妹，我是大卫，犹大支派耶西的儿子，伯利恒的牧童。
+
+我写这首诗的时候，想的不是什么深奥的神学。我想的是小时候在旷野里放羊的日子。清晨带着羊群出去，找有草的地方、有水的地方，一整天守着它们，晚上再带回羊圈。日复一日，年复一年。
+
+那时候我不知道神在预备我。我只知道，羊需要牧人。
+
+"耶和华是我的牧者，我必不致缺乏。"（诗篇23:1）
+
+这句话，后来成了我一生的总结。不是因为我一生顺利——恰恰相反。扫罗追杀我，我在旷野逃亡多年；我犯了大罪，害了乌利亚，失了孩子；我的儿子押沙龙叛变，我赤脚过汲沦溪逃出耶路撒冷。我这一生，艰难的日子比安逸的日子多得多。
+
+但我说"我必不致缺乏"。这不是说我物质上从不匮乏，而是说——有耶和华做我的牧者，我真正需要的，他一样也不会少给我。
+
+"他使我躺卧在青草地上，领我在可安歇的水边。"（诗篇23:2）
+
+弟兄姐妹，你们知道羊是什么样的动物吗？羊胆小、容易迷路、不会自己找水源。最要命的是，羊不会自己安静下来。一只焦虑的羊是吃不进草的——它的眼睛到处乱看，耳朵竖着听动静，随时准备跑。只有当牧人在旁边，羊确信安全了，它才肯躺下来吃草。
+
+"使我躺卧"——不是羊自己想躺就躺，是牧人营造了安全的环境，羊才能安歇。
+
+我们也是一样。这个世界充满了让人焦虑的事，工作的压力、家庭的重担、对未来的不确定。我们的心像受惊的羊，到处乱跑。但耶和华这位牧者，他在我们身边的时候，我们的心就能安静下来。不是因为环境变了，而是因为牧者在。
+
+"他使我的灵魂苏醒，为自己的名引导我走义路。"（诗篇23:3）
+
+"灵魂苏醒"——这个词在希伯来文里是 שׁוּב (shuv)，有"归回、恢复"的意思。一只迷路的羊，牧人把它找回来，它的魂就苏醒了。
+
+我太懂这个了。当我在罪中麻木的时候，是神差拿单来对我说"你就是那人"。那一刻，我的灵魂苏醒了。苏醒不是舒服的——苏醒是痛苦的，因为你突然看见自己走了多远。但苏醒是好的，因为你开始往回走。
+
+"为自己的名"——注意，不是为了我大卫的名。神引导我走义路，首先是因为他自己的信实，不是因为我配得。这给了我极大的安慰：即便我再次跌倒，他还是会为自己名的缘故来寻找我。
+
+"我虽然行过死荫的幽谷，也不怕遭害，因为你与我同在；你的杖，你的竿，都安慰我。"（诗篇23:4）
+
+弟兄姐妹，请注意这里的措辞：是"行过"，不是"停留在"。幽谷不是终点，是必经之路。牧人带羊群从一片草场到另一片草场，中间常常要穿过阴暗的山谷。羊害怕，但牧人知道路，他走在前面。
+
+"你的杖，你的竿，都安慰我。"杖是用来打狼的，保护羊群；竿是用来勾住偏离的羊，把它拉回来。一个是保护，一个是管教。两样都是爱。
+
+我在逃亡的旷野里经历过死荫的幽谷。我在犯罪后的黑暗里也经历过。但回头看，每一个幽谷里，他都在。他没有挪去幽谷，但他与我同行。
+
+"在我敌人面前，你为我摆设筵席；你用油膏了我的头，使我的福杯满溢。"（诗篇23:5）
+
+这里画面突然转变了——从牧场到了宴席。在中东的文化里，为客人摆设筵席是最大的尊荣。用油膏头是尊贵的礼节。而这一切，是"在我敌人面前"发生的。
+
+弟兄姐妹，这是何等的安慰！神不是等到所有敌人都消失了才赐福给你。他在你还被敌人包围的时候，就在你面前摆上筵席。你的敌人看着，却不能碰你一根头发。这是牧者的主权：他不一定立刻除去你的困难，但他在困难中间赐你丰盛。
+
+"我一生一世必有恩惠慈爱随着我；我且要住在耶和华的殿中，直到永远。"（诗篇23:6）
+
+"恩惠慈爱随着我"——希伯来文的"随着"（רָדַף, radaph）其实是"追赶"的意思。不是恩惠慈爱在后面慢慢跟着，是在后面追赶你！就像牧人追赶迷路的羊一样。
+
+弟兄姐妹，这就是我们的神。你不需要去追赶恩典，恩典在追赶你。你跑不掉的。你躲在旷野里，他追来；你藏在罪里，他追来；你沉在绝望里，他还是追来。
+
+"住在耶和华的殿中，直到永远"——这是最终的归宿。羊群晚上回到羊圈，旅人最终回到家。我们在世上是客旅，但我们有一个永恒的家。
+
+这首诗只有六节。但这六节，涵盖了一个人一生可能经历的一切：安歇、迷失、幽谷、争战、丰盛、归家。而贯穿始终的，是那一位牧者——耶和华。
+
+弟兄姐妹，你今天在哪个阶段？也许你在青草地上享受安歇，那就感恩。也许你正行过幽谷，那就记住：牧人在前面走，你不是一个人。也许你觉得自己迷路了，灵魂需要苏醒——那就回来。牧者在等你。
+
+因为耶和华是你的牧者，你必不致缺乏。`,
+  content_en: `Brothers and sisters, I am David, son of Jesse, of the tribe of Judah, a shepherd boy from Bethlehem.
+
+When I wrote this psalm, I wasn't thinking about deep theology. I was thinking about my childhood days in the wilderness, tending sheep. Going out at dawn with the flock, finding green pastures and water, guarding them all day, bringing them back to the fold at night. Day after day, year after year.
+
+I didn't know then that God was preparing me. All I knew was that sheep need a shepherd.
+
+"The LORD is my shepherd; I shall not want." (Psalm 23:1)
+
+This verse became the summary of my entire life. Not because my life was easy — far from it. Saul hunted me for years; I committed grievous sin against Uriah and lost my child; my own son Absalom rebelled, and I fled Jerusalem barefoot across the Kidron Valley. My difficult days far outnumbered my peaceful ones.
+
+Yet I said, "I shall not want." This doesn't mean I never lacked materially. It means that with the LORD as my shepherd, everything I truly needed, He never withheld.
+
+"He maketh me to lie down in green pastures: he leadeth me beside the still waters." (Psalm 23:2)
+
+Do you know what sheep are like? They are timid, easily lost, and cannot find water on their own. Worst of all, sheep cannot calm themselves down. An anxious sheep cannot eat — its eyes dart everywhere, its ears strain for danger, ready to bolt at any moment. Only when the shepherd is near and the sheep is certain of safety will it lie down to graze.
+
+"He maketh me to lie down" — the sheep doesn't choose to rest on its own. The shepherd creates the conditions of safety so the sheep can be at peace.
+
+We are the same. This world is full of anxiety — work pressures, family burdens, uncertainty about the future. Our hearts are like frightened sheep, running in every direction. But when the LORD our shepherd is beside us, our hearts can be still. Not because circumstances have changed, but because the shepherd is present.
+
+"He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake." (Psalm 23:3)
+
+"Restoreth my soul" — the Hebrew word שׁוּב (shuv) means "to return, to recover." A lost sheep, brought back by the shepherd — its soul is restored.
+
+I know this all too well. When I was numb in my sin, God sent Nathan to say, "You are the man." In that moment, my soul was restored. Restoration is not comfortable — it is painful, because you suddenly see how far you've strayed. But restoration is good, because you begin the journey home.
+
+"For his name's sake" — notice, not for David's sake. God leads me in right paths because of His own faithfulness, not because I deserve it. This brings immense comfort: even if I fall again, He will still seek me out for the sake of His name.
+
+"Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me." (Psalm 23:4)
+
+Notice the wording: "walk through," not "remain in." The valley is not the destination; it is a passage. When a shepherd leads the flock from one pasture to another, they often must traverse dark ravines. The sheep are afraid, but the shepherd knows the way and walks ahead.
+
+"Thy rod and thy staff they comfort me." The rod fends off wolves — protection. The staff hooks a wandering sheep and pulls it back — discipline. Both are love.
+
+I walked through the valley in the wilderness while fleeing Saul. I walked through it again in the darkness after my sin. But looking back, in every valley, He was there. He did not remove the valley, but He walked through it with me.
+
+"Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over." (Psalm 23:5)
+
+The imagery shifts suddenly — from pasture to banquet. In Middle Eastern culture, preparing a table for a guest is the highest honor. Anointing the head with oil is a gesture of dignity. And all of this happens "in the presence of mine enemies."
+
+What comfort this is! God does not wait until every enemy is vanquished before blessing you. While you are still surrounded, He sets a feast before you. Your enemies watch but cannot touch a hair on your head. This is the sovereignty of the shepherd: He may not immediately remove your troubles, but He grants abundance in the midst of them.
+
+"Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever." (Psalm 23:6)
+
+"Follow me" — the Hebrew word רָדַף (radaph) actually means "to pursue, to chase." Goodness and mercy are not casually strolling behind you — they are chasing you down! Like a shepherd pursuing a lost sheep.
+
+Brothers and sisters, this is our God. You don't need to chase grace — grace is chasing you. You cannot outrun it. You hide in the wilderness, He comes after you. You hide in your sin, He comes after you. You sink into despair, He still comes after you.
+
+"I will dwell in the house of the LORD for ever" — this is the final destination. The flock returns to the fold at evening; the traveler finally comes home. We are pilgrims in this world, but we have an eternal home.
+
+This psalm has only six verses. But these six verses encompass everything a person might experience in a lifetime: rest, wandering, darkness, battle, abundance, and homecoming. And through it all, there is one constant — the shepherd, the LORD.
+
+Brothers and sisters, where are you today? Perhaps you are resting in green pastures — then give thanks. Perhaps you are walking through the valley — then remember: the shepherd goes before you, and you are not alone. Perhaps you feel lost, your soul in need of restoration — then come back. The shepherd is waiting.
+
+For the LORD is your shepherd, and you shall not want.`,
+  historyContext_zh: '诗篇23篇是大卫所作最广为人知的诗篇。大卫年少时在伯利恒做牧童，亲身经历牧羊生活的艰辛与喜乐。这首诗很可能写于大卫晚年，回顾一生的高山低谷——从牧童到逃亡者，从君王到悔罪者——他用牧人与羊的关系来描述神与他之间不离不弃的盟约之爱。',
+  historyContext_en: 'Psalm 23 is the most well-known psalm written by David. As a youth, David tended sheep near Bethlehem, experiencing firsthand the hardships and joys of shepherding. This psalm was likely written in David\'s later years as he reflected on a life of mountains and valleys — from shepherd boy to fugitive, from king to penitent — using the relationship between shepherd and sheep to describe God\'s unfailing covenant love.',
+  structure_zh: '诗篇23篇的结构可分为两大画面：**牧场画面**（1-4节）和**筵席画面**（5-6节）。前四节用牧人与羊的关系描绘神的引导和保护；后两节转为宴席的主人，描绘神的尊荣和丰盛。贯穿全诗的是一个转变：从第三人称"他"（1-3节）到第二人称"你"（4-5节），表明大卫与神的关系在患难中从"谈论神"变为"与神对话"——在幽谷中，神不再是遥远的对象，而是同在的那一位。',
+  structure_en: 'Psalm 23 divides into two major images: the **pastoral scene** (vv. 1-4) and the **banquet scene** (vv. 5-6). The first four verses use the shepherd-sheep relationship to portray God\'s guidance and protection; the latter two shift to a host at a feast, depicting God\'s honor and abundance. A key transition runs through the psalm: from third person "He" (vv. 1-3) to second person "You" (vv. 4-5), showing that David\'s relationship with God shifts from talking about God to talking with God — in the valley, God is no longer a distant subject but an intimate presence.',
+  theology_zh: '诗篇23篇的核心神学是**神的牧养主权**。耶和华不仅是创造者、审判者，更是亲自牧养他百姓的牧者。这个画面贯穿整本圣经：以西结书34章神说"我必亲自作我羊的牧人"；约翰福音10章耶稣说"我是好牧人，好牧人为羊舍命"。大卫在这里预尝了基督的牧养——那位真正的好牧人，不仅与我们同行幽谷，更为我们死在十字架上，使我们永远住在父的家中。',
+  theology_en: 'The core theology of Psalm 23 is **God\'s sovereign shepherding**. The LORD is not merely Creator and Judge but personally shepherds His people. This image threads through all of Scripture: in Ezekiel 34, God declares "I myself will be the shepherd of my sheep"; in John 10, Jesus says "I am the good shepherd. The good shepherd lays down his life for the sheep." David here tastes in advance the shepherding of Christ — the true Good Shepherd who not only walks with us through the valley but died on the cross for us, that we might dwell in the Father\'s house forever.',
+  christShadow_zh: '诗篇23篇的每一节都指向基督。"耶和华是我的牧者"——耶稣说"我是好牧人"（约翰福音10:11）。"他使我躺卧在青草地上"——耶稣使五千人坐在草地上，喂饱他们（马可福音6:39）。"我虽然行过死荫的幽谷"——基督亲自行过死亡的幽谷，在十字架上为我们尝了死味。"在我敌人面前，你为我摆设筵席"——基督在被卖的那一夜设立圣餐。"我且要住在耶和华的殿中，直到永远"——因着基督的救赎，我们有了永恒的盼望。大卫所唱的好牧人，最终在拿撒勒人耶稣身上完全显明了。',
+  christShadow_en: 'Every verse of Psalm 23 points to Christ. "The LORD is my shepherd" — Jesus said, "I am the good shepherd" (John 10:11). "He maketh me to lie down in green pastures" — Jesus had five thousand sit on the grass and fed them (Mark 6:39). "Though I walk through the valley of the shadow of death" — Christ Himself walked through death\'s valley, tasting death on the cross for us. "Thou preparest a table before me in the presence of mine enemies" — Christ instituted the Lord\'s Supper on the night He was betrayed. "I will dwell in the house of the LORD for ever" — through Christ\'s redemption, we have the hope of eternity. The Good Shepherd David sang about was fully revealed in Jesus of Nazareth.',
+});
