@@ -20,7 +20,867 @@ export interface ReadingChapter {
   publishDate: string;
 }
 
-export const readings: ReadingChapter[] = [];
+export const readings: ReadingChapter[] = [
+  // === 箴言 (Proverbs) ===
+  {
+    book: '箴言', bookEn: 'Proverbs', chapter: 3,
+    publishDate: '2026-03-15',
+    title: '智慧的道路', titleEn: 'The Path of Wisdom',
+    author: '所罗门', authorEn: 'Solomon',
+    scripture: '箴言 3:1-35 / Proverbs 3:1-35',
+    content_zh: `亲爱的读者，我是所罗门，大卫的儿子，以色列的王。今天我要将父亲教导我的智慧传授给你——这智慧来自耶和华，是生命的泉源。
+
+我儿，不要忘记我的法则，你心要谨守我的诫命。这不是律法主义的重担，乃是生命的护栏。你若谨守，他必将长久的日子、生命的年数与平安加给你。这应许何等真实！敬畏耶和华、遵行他话语的人，必在地上享长寿，在心中享平安。
+
+### 一、慈爱与诚实——永不离弃的美德（3:3-4）
+
+不可使慈爱、诚实离开你，要系在你颈项上，刻在你心版上。这两样美德是神性情的彰显，也是祂对我们的要求。慈爱（hesed），是立约的信实之爱，不因环境而改变；诚实（'emet），是可靠的真实，言行一致。这两样要"系在颈项上"——像佩戴珠宝一样显在众人面前；也要"刻在心版上"——成为你内在生命的本质。
+
+这样，你必在神和世人眼前蒙恩宠，有聪明。这让我想起主耶稣基督——路加福音2:52说，"耶稣的智慧和身量，并神和人喜爱他的心，都一齐增长。"唯有基督完美地活出慈爱与诚实，也唯有在基督里，我们才能效法这样的生命。
+
+### 二、专心仰赖耶和华（3:5-8）
+
+你要专心仰赖耶和华，不可倚靠自己的聪明。在你一切所行的事上都要认定他，他必指引你的路。这是整本箴言书最核心的经文之一！
+
+"专心仰赖"（trust with all your heart），不是头脑的同意，乃是全人的投靠。"不可倚靠自己的聪明"——人的智慧在永恒的事上是瞎眼的，唯有神看见全局。"在你一切所行的事上都要认定他"——无论婚姻、事业、财务、服事，每一个决定都先求问神、承认他的主权。他必指引你的路——不是你自己开路，乃是神为你铺路。
+
+不要自以为有智慧；要敬畏耶和华，远离恶事。这便医治你的肚脐，滋润你的百骨。骄傲使人愚昧，谦卑使人得医治。敬畏耶和华不仅是灵魂的良药，也是身体的健康之源。
+
+### 三、以财物尊荣耶和华（3:9-10）
+
+你要以财物和一切初熟的土产尊荣耶和华。这样，你的仓房必充满有余；你的酒醡有新酒盈溢。
+
+初熟的土产献给神，是承认一切都来自他的手。这不是交易——"我给你十分之一，你就祝福我"——乃是信心的操练：我相信神是供应者，我将最好的献上，他必看顾我的需要。新约教导我们："少种的少收，多种的多收"（林后9:6）。慷慨的心必蒙神纪念。
+
+### 四、耶和华的管教（3:11-12）
+
+我儿，你不可轻看耶和华的管教，也不可厌烦他的责备；因为耶和华所爱的，他必责备，正如父亲责备所喜爱的儿子。
+
+管教是爱的明证。希伯来书12:5-6引用这段经文说："我儿，你不可轻看主的管教，被他责备的时候也不可灰心；因为主所爱的，他必管教，又鞭打凡所收纳的儿子。"苦难不是神离弃你的证据，乃是他爱你的记号。他要借着管教除去你的渣滓，使你得以分享他的圣洁。
+
+### 五、智慧的价值——超越万有（3:13-20）
+
+得智慧、得聪明的，这人便为有福。因为得智慧胜过得银子，其利益强如精金，比珍珠宝贵；你一切所喜爱的，都不足与比较。
+
+世人追求金钱、权力、名誉，但这一切在永恒里都要朽坏。唯有智慧——敬畏耶和华的智慧——存到永远。他右手有长寿，左手有富贵。他的道是安乐；他的路全是平安。他与持守他的作生命树；持定他的，俱各有福。
+
+"生命树"这个意象将我们带回伊甸园。人因犯罪失去了生命树的通路，但在基督里，生命树重新向我们敞开。启示录22:14说："那些洗净自己衣服的有福了！可得权柄能到生命树那里，也能从门进城。"智慧在基督里具体化——基督就是"神的智慧"（林前1:24），也是我们的生命树。
+
+耶和华以智慧立地，以聪明定天，以知识使深渊裂开，使天空滴下甘露。创造主用智慧设计宇宙，这智慧也要引导你的人生。
+
+### 六、生命的保障（3:21-26）
+
+我儿，要谨守真智慧和谋略，不可使他离开你的眼目。这样，他必作你的生命，颈项的美饰。你就坦然行路，不致碰脚。你躺下，必不惧怕；你躺卧，睡得香甜。忽然来的惊恐，不要害怕；恶人遭毁灭，也不要恐惧。因为耶和华是你所倚靠的；他必保守你的脚不陷入网罗。
+
+这是何等的平安！不是因为环境顺利，乃是因为耶和华是你的保障。诗篇4:8说："我必安然躺下睡觉，因为独有你——耶和华使我安然居住。"这平安是世界不能给的，也是世界不能夺去的。
+
+### 七、向人行善（3:27-30）
+
+你手若有行善的力量，不可推辞，就当向那应得的人施行。你那里若有现成的，不可对邻舍说：去罢，明天再来，我必给你。
+
+智慧不仅是内在的虔诚，也必然流露为外在的善行。雅各书2:15-16警告我们："若是弟兄或是姐妹，赤身露体，又缺了日用的饮食，你们中间有人对他们说'平平安安地去罢！愿你们穿得暖，吃得饱'，却不给他们身体所需用的，这有什么益处呢？"有能力行善而不行，就是罪。
+
+你的邻舍既在你附近安居，你不可设计害他。人未曾加害与你，不可无故与他相争。不可嫉妒强暴的人,也不可选择他所行的路。不要被恶人的短暂成功所迷惑，他们的结局是灭亡。
+
+### 八、两种人的结局（3:31-35）
+
+因为，乖僻人为耶和华所憎恶；正直人为他所亲密。耶和华咒诅恶人的家庭，赐福与义人的居所。他讥诮那好讥诮的人，赐恩给谦卑的人。智慧人必承受尊荣；愚昧人高升也成为羞辱。
+
+这是永恒的法则：骄傲的，神阻挡他；谦卑的，神赐恩给他（雅4:6）。你要选择哪一条路？是走智慧人蒙福的路，还是走愚昧人羞辱的路？
+
+亲爱的读者，愿你选择智慧。而那智慧的化身，就是主耶稣基督。歌罗西书2:3说："所积蓄的一切智慧知识，都在他里面藏着。"你若要得智慧，就当到基督面前来。他是道路、真理、生命；他是神的智慧，也是你的生命树。`,
+    content_en: `Dear reader, I am Solomon, son of David, King of Israel. Today I will pass on to you the wisdom my father taught me—wisdom that comes from the LORD and is the fountain of life.
+
+My son, do not forget my teaching; let your heart keep my commandments. This is not the burden of legalism, but the guardrails of life. If you keep them, length of days and years of life and peace will be added to you. How true this promise is! Those who fear the LORD and walk in His word will enjoy long life on earth and peace in their hearts.
+
+### I. Steadfast Love and Faithfulness—Virtues Never to Forsake (3:3-4)
+
+Let not steadfast love and faithfulness forsake you; bind them around your neck; write them on the tablet of your heart. These two virtues reflect God's character and are His requirement for us. Steadfast love (hesed) is covenant faithfulness that does not change with circumstances; faithfulness ('emet) is reliable truth, consistency between word and deed. They must be "bound around your neck"—displayed before all like jewelry—and "written on the tablet of your heart"—becoming the essence of your inner life.
+
+So you will find favor and good success in the sight of God and man. This reminds me of the Lord Jesus Christ—Luke 2:52 says, "Jesus increased in wisdom and in stature and in favor with God and man." Only Christ perfectly embodied steadfast love and faithfulness, and only in Christ can we imitate such a life.
+
+### II. Trust in the LORD with All Your Heart (3:5-8)
+
+Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths. This is one of the most central verses in all of Proverbs!
+
+"Trust with all your heart" is not mere mental assent, but whole-person reliance. "Do not lean on your own understanding"—human wisdom is blind to eternal matters; only God sees the whole picture. "In all your ways acknowledge him"—whether in marriage, career, finances, or ministry, every decision must first seek God and acknowledge His sovereignty. He will make straight your paths—you do not pave your own way; God paves the way for you.
+
+Be not wise in your own eyes; fear the LORD, and turn away from evil. It will be healing to your flesh and refreshment to your bones. Pride makes one foolish; humility brings healing. The fear of the LORD is not only medicine for the soul but a source of physical health.
+
+### III. Honor the LORD with Your Wealth (3:9-10)
+
+Honor the LORD with your wealth and with the firstfruits of all your produce. Then your barns will be filled with plenty, and your vats will be bursting with wine.
+
+Offering the firstfruits to God is acknowledging that everything comes from His hand. This is not a transaction—"I give you ten percent and you bless me"—but an exercise of faith: I believe God is the provider; I offer the best, and He will meet my needs. The New Testament teaches: "Whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully" (2 Cor 9:6). A generous heart will be remembered by God.
+
+### IV. The LORD's Discipline (3:11-12)
+
+My son, do not despise the LORD's discipline or be weary of his reproof, for the LORD reproves him whom he loves, as a father the son in whom he delights.
+
+Discipline is the proof of love. Hebrews 12:5-6 quotes this passage: "My son, do not regard lightly the discipline of the Lord, nor be weary when reproved by him. For the Lord disciplines the one he loves, and chastises every son whom he receives." Suffering is not evidence that God has forsaken you, but a sign of His love. Through discipline He removes your dross, that you may share in His holiness.
+
+### V. The Value of Wisdom—Above All Else (3:13-20)
+
+Blessed is the one who finds wisdom, and the one who gets understanding, for the gain from her is better than gain from silver and her profit better than gold. She is more precious than jewels, and nothing you desire can compare with her.
+
+The world pursues money, power, and fame, but all these will perish in eternity. Only wisdom—wisdom that fears the LORD—endures forever. Long life is in her right hand; in her left hand are riches and honor. Her ways are ways of pleasantness, and all her paths are peace. She is a tree of life to those who lay hold of her; those who hold her fast are called blessed.
+
+The "tree of life" image brings us back to the Garden of Eden. Man lost access to the tree of life through sin, but in Christ, the tree of life is reopened to us. Revelation 22:14 says, "Blessed are those who wash their robes, so that they may have the right to the tree of life and that they may enter the city by the gates." Wisdom is embodied in Christ—Christ is "the wisdom of God" (1 Cor 1:24) and our tree of life.
+
+The LORD by wisdom founded the earth; by understanding he established the heavens; by his knowledge the deeps broke open, and the clouds drop down the dew. The Creator designed the universe with wisdom, and this same wisdom will guide your life.
+
+### VI. The Security of Life (3:21-26)
+
+My son, do not lose sight of these—keep sound wisdom and discretion, and they will be life for your soul and adornment for your neck. Then you will walk on your way securely, and your foot will not stumble. If you lie down, you will not be afraid; when you lie down, your sleep will be sweet. Do not be afraid of sudden terror or of the ruin of the wicked, when it comes, for the LORD will be your confidence and will keep your foot from being caught.
+
+What peace this is! Not because circumstances are favorable, but because the LORD is your security. Psalm 4:8 says, "In peace I will both lie down and sleep; for you alone, O LORD, make me dwell in safety." This is peace the world cannot give and cannot take away.
+
+### VII. Do Good to Others (3:27-30)
+
+Do not withhold good from those to whom it is due, when it is in your power to do it. Do not say to your neighbor, "Go, and come again, tomorrow I will give it"—when you have it with you.
+
+Wisdom is not merely inward piety but must overflow into outward good works. James 2:15-16 warns: "If a brother or sister is poorly clothed and lacking in daily food, and one of you says to them, 'Go in peace, be warmed and filled,' without giving them the things needed for the body, what good is that?" To have the ability to do good and not do it is sin.
+
+Do not plan evil against your neighbor, who dwells trustingly beside you. Do not contend with a man for no reason, when he has done you no harm. Do not envy a man of violence and do not choose any of his ways. Do not be deceived by the wicked person's temporary success; their end is destruction.
+
+### VIII. The Destinies of Two Kinds of People (3:31-35)
+
+For the devious person is an abomination to the LORD, but the upright are in his confidence. The LORD's curse is on the house of the wicked, but he blesses the dwelling of the righteous. Toward the scorners he is scornful, but to the humble he gives favor. The wise will inherit honor, but fools get disgrace.
+
+This is the eternal law: God opposes the proud but gives grace to the humble (James 4:6). Which path will you choose? The blessed path of the wise or the shameful path of the fool?
+
+Dear reader, may you choose wisdom. And the embodiment of that wisdom is the Lord Jesus Christ. Colossians 2:3 says, "In him are hidden all the treasures of wisdom and knowledge." If you want wisdom, come to Christ. He is the way, the truth, and the life; He is the wisdom of God and your tree of life.`,
+    historyContext_zh: `箴言第3章是所罗门王智慧文学的经典篇章，写作时间约在主前970-930年，正值以色列王国的黄金时期。所罗门在基遍求智慧（王上3:5-15），神赐他超越常人的智慧，"智慧充满，如同海沙不可测量"（王上4:29）。当时近东地区的智慧文学传统（埃及的《Instruction of Amenemope》等）强调实用的人生智慧，但箴言的独特性在于：智慧的源头是"敬畏耶和华"（箴1:7）。第3章以父亲教导儿子的口吻写成，反映古代以色列家庭教育的模式——父亲是信仰传承的主要责任人（申6:6-7）。"初熟的土产"献给神（3:9）对应摩西律法的规定（出23:19，民18:12），这不仅是经济奉献，更是承认神主权的信仰宣告。`,
+    historyContext_en: `Proverbs chapter 3 is a classic passage of Solomon's wisdom literature, written around 970-930 BC during the golden age of the Israelite kingdom. Solomon asked for wisdom at Gibeon (1 Kings 3:5-15), and God granted him wisdom surpassing all others, "as vast as the sand on the seashore" (1 Kings 4:29). While ancient Near Eastern wisdom traditions (such as Egypt's *Instruction of Amenemope*) emphasized practical life wisdom, Proverbs is unique in that the source of wisdom is "the fear of the LORD" (Prov 1:7). Chapter 3 is written in the voice of a father instructing his son, reflecting the ancient Israelite family education model—the father was the primary bearer of faith transmission (Deut 6:6-7). Offering "the firstfruits of all your produce" to God (3:9) corresponds to Mosaic Law (Exod 23:19; Num 18:12), representing not only economic offering but a faith declaration acknowledging God's sovereignty.`,
+    structure_zh: `箴言3章可分为八个段落：
+1. 序言：谨守诫命得长寿平安（1-2节）
+2. 慈爱诚实的美德（3-4节）
+3. 专心仰赖耶和华（5-8节）
+4. 以财物尊荣神（9-10节）
+5. 耶和华的管教（11-12节）
+6. 智慧的价值（13-20节）——本章核心
+7. 生命的保障与向人行善（21-30节）
+8. 两种人的结局（31-35节）
+
+全章以"智慧"为主题，从多个角度展开：智慧的源头（敬畏耶和华）、智慧的价值（超越金银）、智慧的果子（平安、健康、尊荣）、智慧的操练（倚靠神、行善、远离恶）。`,
+    structure_en: `Proverbs 3 divides into eight sections:
+1. Prologue: Keep the commandments for long life and peace (vv. 1-2)
+2. The virtues of steadfast love and faithfulness (vv. 3-4)
+3. Trust in the LORD wholeheartedly (vv. 5-8)
+4. Honor God with your wealth (vv. 9-10)
+5. The LORD's discipline (vv. 11-12)
+6. The value of wisdom (vv. 13-20)—the core of the chapter
+7. Life's security and doing good to others (vv. 21-30)
+8. The destinies of two kinds of people (vv. 31-35)
+
+The entire chapter centers on "wisdom," unfolding from multiple angles: the source of wisdom (fearing the LORD), the value of wisdom (surpassing gold and silver), the fruit of wisdom (peace, health, honor), and the practice of wisdom (trusting God, doing good, turning from evil).`,
+    theology_zh: `本章的核心神学主题是**敬畏耶和华是智慧的开端**。改革宗神学强调：真智慧不是人类理性的产物，乃是启示的恩赐。加尔文说："除非我们认识神，否则我们无法认识自己。"第5-6节"专心仰赖耶和华，不可倚靠自己的聪明"是反启蒙运动人本主义的宣告——人的堕落导致理性的败坏，唯独神的启示才是可靠的。其次，**管教论**（11-12节）揭示神主权护理的目的：苦难不是偶然的，乃是天父爱的管教，为要使我们"得以分享他的圣洁"（来12:10）。第三，**智慧的基督论**：箴言中的"智慧"在新约中被解释为基督（林前1:24, 30；西2:3）。"生命树"（3:18）指向基督——他是真智慧，也是救恩之道。韦敏斯德小要理问答第2问："圣经主要教导的是什么？"答："圣经主要教导的就是人对神当信什么，并且神要人当尽什么责任。"本章完美诠释了这一点：当信的（神是智慧的源头），当尽的（倚靠、敬畏、顺服）。`,
+    theology_en: `The central theological theme of this chapter is that **the fear of the LORD is the beginning of wisdom**. Reformed theology emphasizes that true wisdom is not the product of human reason but a gift of revelation. Calvin said, "Without knowledge of God there is no knowledge of self." Verses 5-6—"Trust in the LORD with all your heart, and do not lean on your own understanding"—are a declaration against Enlightenment humanism: humanity's fall corrupted reason; only God's revelation is reliable. Second, the **doctrine of discipline** (vv. 11-12) reveals the purpose of God's sovereign providence: suffering is not accidental but the Father's loving discipline, that we may "share his holiness" (Heb 12:10). Third, the **Christology of wisdom**: "Wisdom" in Proverbs is interpreted in the New Testament as Christ (1 Cor 1:24, 30; Col 2:3). The "tree of life" (3:18) points to Christ—He is true wisdom and the way of salvation. Westminster Shorter Catechism Q2: "What do the Scriptures principally teach?" A: "The Scriptures principally teach what man is to believe concerning God, and what duty God requires of man." This chapter perfectly illustrates this: what to believe (God is the source of wisdom) and what duty to perform (trust, fear, obey).`,
+    christShadow_zh: `箴言3章多处预表基督。首先，**"生命树"（3:18）预表基督**——人类因罪失去生命树的通路（创3:22-24），但基督是"生命树"的真体，赐永生给凡信他的人（约3:16；启22:14）。其次，**"智慧"本身就是基督的预表**——保罗明确说基督是"神的智慧"（林前1:24）。一切智慧知识都在基督里藏着（西2:3）。第三，**"专心仰赖耶和华"（3:5）指向唯独因信称义**——不是倚靠自己的行为或聪明，乃是单单倚靠基督的义。第四，**耶和华的管教（3:11-12）预表父神对信徒的慈爱管教**——"因为主所爱的，他必管教"（来12:6）。基督在十字架上担当了我们当受的刑罚，使我们所受的管教成为爱的管教，而非愤怒的审判。最后，**初熟的土产（3:9）预表基督的献上**——基督是"睡了之人初熟的果子"（林前15:20），他将自己献上为赎罪祭，使我们得以成为圣洁的活祭归给神。`,
+    christShadow_en: `Proverbs 3 foreshadows Christ in multiple ways. First, the **"tree of life" (3:18) foreshadows Christ**—humanity lost access to the tree of life because of sin (Gen 3:22-24), but Christ is the true embodiment of the "tree of life," granting eternal life to all who believe in Him (John 3:16; Rev 22:14). Second, **"wisdom" itself is a type of Christ**—Paul explicitly says Christ is "the wisdom of God" (1 Cor 1:24). All the treasures of wisdom and knowledge are hidden in Christ (Col 2:3). Third, **"Trust in the LORD with all your heart" (3:5) points to justification by faith alone**—not relying on our own works or understanding, but solely on the righteousness of Christ. Fourth, **the LORD's discipline (3:11-12) foreshadows the Father's loving discipline of believers**—"For the Lord disciplines the one he loves" (Heb 12:6). Christ bore on the cross the punishment we deserved, so that the discipline we receive is loving correction, not wrathful judgment. Finally, **the firstfruits (3:9) foreshadow Christ's offering**—Christ is "the firstfruits of those who have fallen asleep" (1 Cor 15:20); He offered Himself as an atoning sacrifice, that we might become holy living sacrifices unto God.`,
+  },
+  {
+    book: '箴言', bookEn: 'Proverbs', chapter: 4,
+    publishDate: '2026-03-29',
+    title: '智慧为首', titleEn: 'Wisdom is Supreme',
+    author: '所罗门', authorEn: 'Solomon',
+    scripture: '箴言 4:1-27 / Proverbs 4:1-27',
+    content_zh: `亲爱的读者，我是大卫，耶西的儿子，以色列的王。今天我要与你分享一首诗歌——这是在惊涛骇浪中仍然屹立的信心之歌，是在列国喧嚷中仍然平安的盼望之歌。
+
+**神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。**
+
+这是全诗的主题句，也是我一生的见证。我曾在旷野逃避扫罗的追杀，躲藏在山洞中；我曾面对歌利亚的辱骂，独自站在战场上；我曾犯罪跌倒，在拔示巴的事上得罪神；我也曾看见儿子押沙龙叛乱，被迫逃离耶路撒冷。在这一切患难中，我深深体会：唯有神是真正的避难所。
+
+### 一、地虽改变，我们也不害怕（46:1-3）
+
+所以，地虽改变，山虽摇动到海心，其中的水虽匉訇翻腾，山虽因海涨而战抖，我们也不害怕。（细拉）
+
+这是何等大胆的宣告！地震、海啸、山崩地裂——最可怕的自然灾害——都不能夺去我们的平安。为什么？因为我们的盼望不在这地上，乃在创造天地的主。
+
+"地虽改变"——地是人类生存的根基，若地不稳，万物倾覆。但即使地改变了，我们的神不改变！希伯来书13:8说："耶稣基督昨日、今日、一直到永远，是一样的。"世界会改变，政权会更迭，经济会衰退，但神的话永远立定。
+
+"我们也不害怕"——不是因为我们勇敢,乃是因为我们所倚靠的神是全能的。约翰一书4:18说："爱里没有惧怕；爱既完全，就把惧怕除去。"神的爱完全，所以我们不惧怕。
+
+### 二、有一道河使神的城欢喜（46:4-7）
+
+有一道河，这河的分使神的城欢喜；这城就是至高者居住的圣所。神在其中，城必不动摇；到天一亮，神必帮助这城。
+
+外邦喧嚷，列国动摇；神发声，地便镕化。
+
+万军之耶和华与我们同在；雅各的神是我们的避难所！（细拉）
+
+这"一道河"是什么？耶路撒冷城并没有大河流经，这河是象征性的——代表神的同在、神的恩典、神的供应。启示录22:1说："天使又指示我在城内街道当中一道生命水的河，明亮如水晶，从神和羔羊的宝座流出来。"这河使神的城欢喜！
+
+"神在其中，城必不动摇"——关键不在城墙多坚固、兵力多强大，乃在于神是否同在。以马内利（神与我们同在）是最大的保障。当主耶稣升天前，他对门徒说："我就常与你们同在，直到世界的末了"（太28:20）。
+
+"外邦喧嚷，列国动摇；神发声，地便镕化"——列国的权势看似强大，但神一发声，万有都要臣服。诗篇2:1-4说："外邦为什么争闹？万民为什么谋算虚妄的事？...那坐在天上的必发笑；主必嗤笑他们。"历史的主权在神手中。
+
+"万军之耶和华与我们同在；雅各的神是我们的避难所！"——这是副歌，是全诗的高潮。"万军之耶和华"（LORD of hosts）强调神的全能——天上的天使、地上的万军，都听他差遣。"雅各的神"强调神的信实——他是亚伯拉罕、以撒、雅各的神，他的应许永不落空。
+
+### 三、来看耶和华的作为（46:8-9）
+
+你们来看耶和华的作为，看他使地怎样荒凉。他止息刀兵，直到地极；他折弓、断枪，把战车焚烧在火中。
+
+"来看"——这是邀请，是见证。我们要回顾历史，看神如何拯救他的百姓。出埃及、过红海、攻取耶利哥、胜过非利士人——每一次得胜都是神的作为。
+
+"他止息刀兵，直到地极"——神是和平的君王。以赛亚书2:4预言弥赛亚国度："他们要将刀打成犁头，把枪打成镰刀。这国不举刀攻击那国；他们也不再学习战事。"主耶稣基督来，是要赐下真平安——不是世界的平安，乃是内心与神和好的平安（罗5:1）。
+
+"他折弓、断枪，把战车焚烧在火中"——神摧毁一切抵挡他的力量。最终，在世界的末了，他要彻底废除战争、死亡和痛苦。启示录21:4说："神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛，因为以前的事都过去了。"
+
+### 四、你们要休息，要知道我是神（46:10-11）
+
+你们要休息，要知道我是神！我必在外邦中被尊崇，在遍地上也被尊崇。
+
+万军之耶和华与我们同在；雅各的神是我们的避难所！
+
+"你们要休息"（Be still）——这是神的命令，也是神的邀请。希伯来文的"休息"（raphah）有"放手、停止挣扎"的意思。我们常常太忙碌，太焦虑，想靠自己解决一切问题。神说：停下来！放手！承认你的有限，承认我是神！
+
+"要知道我是神"——不是头脑的知识，乃是生命的认识。知道神是全能的、智慧的、慈爱的、信实的。知道他掌管万有，他的旨意不能被拦阻。
+
+"我必在外邦中被尊崇，在遍地上也被尊崇"——这是神的心意，也是历史的必然。腓立比书2:10-11说："叫一切在天上的、地上的和地底下的，因耶稣的名无不屈膝，无不口称耶稣基督为主，使荣耀归与父神。"无论外邦如何抵挡，神的国度终将充满全地。
+
+最后再次宣告："万军之耶和华与我们同在；雅各的神是我们的避难所！"这是我们的信心，这是我们的盼望，这是我们在风暴中的磐石。
+
+亲爱的读者，你在患难中吗？你在焦虑中吗？你在恐惧中吗？请听神的话："你们要休息，要知道我是神！"他是你的避难所，是你的力量，是你在患难中随时的帮助。他与你同在，直到永远。`,
+    content_en: `Dear reader, I am David, son of Jesse, King of Israel. Today I will share with you a psalm—a song of faith that stands firm amid raging storms, a song of hope that rests in peace while nations rage.
+
+**God is our refuge and strength, a very present help in trouble.**
+
+This is the theme of the entire psalm and the testimony of my entire life. I once fled Saul's pursuit in the wilderness, hiding in caves; I once faced Goliath's taunts, standing alone on the battlefield; I once sinned and fell in the matter of Bathsheba, offending God; and I once saw my son Absalom rebel, forcing me to flee Jerusalem. In all these troubles, I have deeply experienced: Only God is the true refuge.
+
+### I. Though the Earth Gives Way, We Will Not Fear (46:1-3)
+
+Therefore we will not fear though the earth gives way, though the mountains be moved into the heart of the sea, though its waters roar and foam, though the mountains tremble at its swelling. (Selah)
+
+What a bold declaration! Earthquakes, tsunamis, landslides—the most terrifying natural disasters—cannot rob us of our peace. Why? Because our hope is not in this earth, but in the Lord who created heaven and earth.
+
+"Though the earth gives way"—the earth is the foundation of human existence; if the earth is unstable, all things collapse. But even if the earth gives way, our God does not change! Hebrews 13:8 says, "Jesus Christ is the same yesterday and today and forever." The world may change, governments may fall, economies may collapse, but God's word stands forever.
+
+"We will not fear"—not because we are brave, but because the God we trust is almighty. 1 John 4:18 says, "There is no fear in love, but perfect love casts out fear." God's love is perfect, so we do not fear.
+
+### II. There Is a River That Makes the City of God Glad (46:4-7)
+
+There is a river whose streams make glad the city of God, the holy habitation of the Most High. God is in the midst of her; she shall not be moved; God will help her when morning dawns.
+
+The nations rage, the kingdoms totter; he utters his voice, the earth melts.
+
+The LORD of hosts is with us; the God of Jacob is our fortress! (Selah)
+
+What is this "river"? No great river flows through Jerusalem; this river is symbolic—representing God's presence, God's grace, God's provision. Revelation 22:1 says, "Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb." This river makes the city of God glad!
+
+"God is in the midst of her; she shall not be moved"—the key is not how strong the walls or how mighty the army, but whether God is present. Immanuel (God with us) is the greatest security. Before Jesus ascended, He said to His disciples, "I am with you always, to the end of the age" (Matt 28:20).
+
+"The nations rage, the kingdoms totter; he utters his voice, the earth melts"—the powers of the nations seem mighty, but when God speaks, all must submit. Psalm 2:1-4 says, "Why do the nations rage and the peoples plot in vain? ...He who sits in the heavens laughs; the Lord holds them in derision." The sovereignty of history is in God's hand.
+
+"The LORD of hosts is with us; the God of Jacob is our fortress!"—this is the refrain, the climax of the entire psalm. "LORD of hosts" emphasizes God's omnipotence—the angels of heaven and the armies of earth all obey His command. "God of Jacob" emphasizes God's faithfulness—He is the God of Abraham, Isaac, and Jacob; His promises never fail.
+
+### III. Come, Behold the Works of the LORD (46:8-9)
+
+Come, behold the works of the LORD, how he has brought desolations on the earth. He makes wars cease to the end of the earth; he breaks the bow and shatters the spear; he burns the chariots with fire.
+
+"Come, behold"—this is an invitation, a testimony. We must look back on history and see how God has saved His people. The Exodus, the parting of the Red Sea, the conquest of Jericho, victory over the Philistines—every triumph is God's work.
+
+"He makes wars cease to the end of the earth"—God is the Prince of Peace. Isaiah 2:4 prophesies of the Messianic kingdom: "They shall beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war anymore." The Lord Jesus Christ came to give true peace—not the world's peace, but the peace of reconciliation with God in the heart (Rom 5:1).
+
+"He breaks the bow and shatters the spear; he burns the chariots with fire"—God destroys all powers that resist Him. Finally, at the end of the world, He will utterly abolish war, death, and pain. Revelation 21:4 says, "He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away."
+
+### IV. Be Still, and Know That I Am God (46:10-11)
+
+Be still, and know that I am God. I will be exalted among the nations, I will be exalted in the earth!
+
+The LORD of hosts is with us; the God of Jacob is our fortress!
+
+"Be still"—this is God's command and also God's invitation. The Hebrew word "raphah" means "let go, cease striving." We are often too busy, too anxious, trying to solve everything ourselves. God says: Stop! Let go! Acknowledge your limitations, acknowledge that I am God!
+
+"Know that I am God"—not head knowledge, but life knowledge. Know that God is almighty, wise, loving, and faithful. Know that He rules over all, that His will cannot be thwarted.
+
+"I will be exalted among the nations, I will be exalted in the earth"—this is God's intention and also the inevitable course of history. Philippians 2:10-11 says, "That at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father." No matter how the nations resist, God's kingdom will fill the earth.
+
+Finally, the declaration once again: "The LORD of hosts is with us; the God of Jacob is our fortress!" This is our faith, this is our hope, this is our rock in the storm.
+
+Dear reader, are you in trouble? Are you anxious? Are you afraid? Hear God's word: "Be still, and know that I am God!" He is your refuge, your strength, your very present help in trouble. He is with you, forever.`,
+    historyContext_zh: `诗篇46篇的写作背景学者有不同看法。有人认为是大卫在押沙龙叛乱时所写（撒下15-18章），有人认为是希西家王时期，神奇迹般地拯救耶路撒冷脱离亚述王西拿基立的围攻（王下18-19章，主前701年）。无论具体背景如何，这首诗的主题是：神是真正的避难所，在患难中他必保护他的子民。诗篇标题"可拉后裔的诗歌"表明这是利未诗班的礼拜用诗。"调用女音"可能指用高音部演唱，或用某种特定的乐器伴奏。"细拉"（Selah）是音乐术语，可能表示间奏、停顿或强调。历史上，这首诗在教会历史中极其重要——马丁·路德根据这首诗创作了著名赞美诗《上主是我坚固保障》（A Mighty Fortress Is Our God），成为宗教改革的战歌。`,
+    historyContext_en: `Scholars differ on the background of Psalm 46. Some believe it was written by David during Absalom's rebellion (2 Sam 15-18), while others suggest it was written during the time of King Hezekiah, when God miraculously delivered Jerusalem from the siege of the Assyrian king Sennacherib (2 Kings 18-19, 701 BC). Whatever the specific context, the theme of this psalm is: God is the true refuge, and in trouble He protects His people. The title "A Psalm of the Sons of Korah" indicates it was a liturgical psalm for the Levitical choir. "According to Alamoth" may refer to singing in a high register or using certain instruments. "Selah" is a musical term, possibly indicating an interlude, pause, or emphasis. Historically, this psalm has been immensely important in church history—Martin Luther composed the famous hymn "A Mighty Fortress Is Our God" based on this psalm, which became the battle hymn of the Reformation.`,
+    structure_zh: `诗篇46篇分为三段，每段结尾都有"细拉"（Selah）标记，表示间奏或停顿：
+
+第一段（1-3节）：神是我们的避难所——宣告主题，地虽改变我们也不惧怕
+第二段（4-7节）：有一道河使神的城欢喜——神的同在保护锡安城，副歌："万军之耶和华与我们同在"
+第三段（8-11节）：来看耶和华的作为——神止息刀兵，命令我们"休息"，再次副歌
+
+全诗结构工整，主题递进：从个人的信靠（我们的避难所）→ 群体的保护（神的城）→ 普世的掌权（外邦中被尊崇）。副歌重复两次，强化"以马内利"（神与我们同在）的核心信息。`,
+    structure_en: `Psalm 46 divides into three stanzas, each ending with "Selah," indicating an interlude or pause:
+
+First stanza (vv. 1-3): God is our refuge—theme declaration, though the earth gives way we will not fear
+Second stanza (vv. 4-7): There is a river that makes the city of God glad—God's presence protects Zion, refrain: "The LORD of hosts is with us"
+Third stanza (vv. 8-11): Come, behold the works of the LORD—God makes wars cease, commands us to "be still," refrain repeated
+
+The structure is symmetrical with a progressive theme: from personal trust (our refuge) → communal protection (the city of God) → universal sovereignty (exalted among the nations). The refrain is repeated twice, reinforcing the core message of "Immanuel" (God with us).`,
+    theology_zh: `本诗的核心神学主题是**神的同在是信徒唯一的避难所**。改革宗神学强调神的护理（Providence）——神不仅创造世界，也持续掌管万有。"地虽改变...我们也不害怕"体现加尔文的主权神学：无论环境多么险恶，神的主权不变，他的应许不落空。其次，**锡安神学**：神拣选锡安（耶路撒冷）为他的圣城，这预表教会——神的新锡安。希伯来书12:22说："你们乃是来到锡安山，永生神的城邑，就是天上的耶路撒冷。"第三，**末世论视角**："他止息刀兵，直到地极"指向基督再来时的最终和平。以赛亚书2:4和弥迦书4:3预言弥赛亚国度万国和平，启示录21章描绘新天新地。第四，**唯独信靠神**："你们要休息，要知道我是神"是反对人本主义的宣告——人的努力有限，唯独神的作为才是可靠的。路德的赞美诗"上主是我坚固保障"完美诠释了这首诗的神学：无论撒但和世界如何攻击，神的城必站立得稳。`,
+    theology_en: `The central theological theme of this psalm is **God's presence is the believer's only refuge**. Reformed theology emphasizes God's providence—God not only created the world but continually governs all things. "Though the earth gives way...we will not fear" embodies Calvin's theology of sovereignty: no matter how dire the circumstances, God's sovereignty is unchanged and His promises do not fail. Second, **Zion theology**: God chose Zion (Jerusalem) as His holy city, foreshadowing the Church—God's new Zion. Hebrews 12:22 says, "You have come to Mount Zion and to the city of the living God, the heavenly Jerusalem." Third, **eschatological perspective**: "He makes wars cease to the end of the earth" points to the ultimate peace when Christ returns. Isaiah 2:4 and Micah 4:3 prophesy the Messianic kingdom's universal peace; Revelation 21 depicts the new heaven and new earth. Fourth, **trust in God alone**: "Be still, and know that I am God" is a declaration against humanism—human effort is limited; only God's work is reliable. Luther's hymn "A Mighty Fortress Is Our God" perfectly interprets the theology of this psalm: no matter how Satan and the world attack, God's city stands firm.`,
+    christShadow_zh: `诗篇46篇多处预表基督。首先，**"避难所"（refuge）预表基督**——他是罪人唯一的避难所。希伯来书6:18说我们"逃往避难所，持定摆在我们前头的盼望"，这盼望就是基督。其次，**"神的城"预表教会**——基督是教会的根基（林前3:11），教会是"神的城"，是基督用宝血买赎回来的（徒20:28）。第三，**"有一道河使神的城欢喜"预表圣灵**——约翰福音7:38-39说："信我的人...从他腹中要流出活水的江河来。"耶稣这话是指着信他之人要受圣灵说的。第四，**"他止息刀兵"预表基督带来和平**——以弗所书2:14说："因他使我们和睦，将两下合而为一，拆毁了中间隔断的墙。"基督在十字架上成就和平，使罪人与神和好。第五，**"你们要休息，要知道我是神"预表安息日的真义**——希伯来书4:9-10说："这样看来，必有一安息日的安息为神的子民存留。因为那进入安息的，乃是歇了自己的工，正如神歇了他的工一样。"在基督里，我们停止靠行为称义的挣扎，单单安息在他的救恩中。最终，"万军之耶和华与我们同在"完全应验在基督身上——"以马内利，神与我们同在"（太1:23），这是福音的核心。`,
+    christShadow_en: `Psalm 46 foreshadows Christ in multiple ways. First, **"refuge" foreshadows Christ**—He is the only refuge for sinners. Hebrews 6:18 speaks of those who "have fled for refuge to lay hold upon the hope set before us," and that hope is Christ. Second, **"the city of God" foreshadows the Church**—Christ is the foundation of the Church (1 Cor 3:11); the Church is "the city of God," purchased by His blood (Acts 20:28). Third, **"there is a river whose streams make glad the city of God" foreshadows the Holy Spirit**—John 7:38-39 says, "Whoever believes in me, as the Scripture has said, 'Out of his heart will flow rivers of living water.' Now this he said about the Spirit, whom those who believed in him were to receive." Fourth, **"He makes wars cease" foreshadows Christ bringing peace**—Ephesians 2:14 says, "For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility." Christ accomplished peace on the cross, reconciling sinners to God. Fifth, **"Be still, and know that I am God" foreshadows the true meaning of Sabbath rest**—Hebrews 4:9-10 says, "So then, there remains a Sabbath rest for the people of God, for whoever has entered God's rest has also rested from his works as God did from his." In Christ, we cease from the struggle of justification by works and rest solely in His salvation. Finally, "The LORD of hosts is with us" is fully fulfilled in Christ—"Immanuel, God with us" (Matt 1:23) is the heart of the gospel.`,
+  },
+  // === 诗篇 additional ===
+  {
+    book: '诗篇', bookEn: 'Psalms', chapter: 46,
+    publishDate: '2026-03-22',
+    title: '神是我们的避难所', titleEn: 'God Is Our Refuge',
+    author: '大卫', authorEn: 'David',
+    scripture: '诗篇 46:1-11 / Psalm 46:1-11',
+    content_zh: `亲爱的读者，我是所罗门，大卫的儿子，以色列的王。今天我要把父亲大卫教导我的智慧传递给你——这智慧是从世代到世代传承的宝贵产业。
+
+### 一、听父亲的教训（4:1-9）
+
+众子啊，要听父亲的教训，留心得知聪明。因我所给你们的是好教训；不可离弃我的法则。
+
+我在父亲面前为孝子，在母亲眼中为独一的娇儿。父亲教训我说：你心要存记我的言语，遵守我的命令，便得存活。
+
+这里我回忆起童年的光景。虽然大卫有多个儿子，但我是拔示巴所生的——神特别爱我，差派先知拿单给我起名叫"耶底底亚"（意为"耶和华所爱的"，撒下12:25）。父亲大卫常常教导我，将他一生从神那里领受的智慧倾囊相授。
+
+要得智慧，要得聪明，不可忘记，也不可偏离我口中的言语。不可离弃智慧，智慧就护卫你；要爱他，他就保守你。
+
+智慧为首；所以，要得智慧。在你一切所得之内必得聪明。
+
+"智慧为首"——这是何等关键的一句话！在人生一切追求中，智慧是第一位的。世人追求财富、权力、名誉，但所罗门说：先要得智慧！因为智慧比这一切都宝贵，智慧能引导你正确使用其他一切。
+
+高举智慧，他就使你高升；怀抱智慧，他就使你尊荣。他必将华冠加在你头上，把荣冕交给你。
+
+这应许何等美好！智慧不仅保护你、引导你，也尊荣你。箴言3:16说智慧"右手有长寿，左手有富贵"。但记住：这智慧不是世俗的诡诈,乃是"敬畏耶和华"的智慧（箴1:7）。
+
+### 二、智慧的道路与恶人的道路（4:10-19）
+
+我儿，你要听受我的言语，就必延年益寿。我已指教你走智慧的道，引导你行正直的路。你行走，脚步必不致狭窄；你奔跑，也不致跌倒。要持定训诲，不可放松；必当谨守，因为他是你的生命。
+
+人生有两条路——智慧的道路和恶人的道路。这不是新的教训，摩西早在申命记30:15-19就说："看哪，我今日将生与福，死与祸，陈明在你面前...所以你要拣选生命。"
+
+智慧的道路的特征是什么？"脚步必不致狭窄...不致跌倒"——这路是宽广的（不是说容易，乃是说自由）、稳固的（有神的保守）。"他是你的生命"——智慧不是外在的装饰，乃是生命的本质。
+
+不可行恶人的路；不要走坏人的道。要躲避，不可经过；要转身而去。
+
+这等人若不行恶，不得睡觉；不使人跌倒，睡卧不安；因为他们以奸恶吃饼,以强暴喝酒。
+
+恶人的道路是什么？他们"以奸恶吃饼，以强暴喝酒"——罪恶成了他们的食物，他们靠欺压度日。这样的人不会满足，因为罪的本质是永不满足的欲望。他们"不使人跌倒，睡卧不安"——他们以使别人跌倒为乐，这是何等扭曲的心灵！
+
+但义人的路好像黎明的光，越照越明，直到日午。恶人的道好像幽暗，自己不知因甚么跌倒。
+
+这是何等鲜明的对比！义人的路像太阳从东方升起——起初也许微弱，但渐渐明亮，最终达到正午的辉煌。这不是说义人没有挣扎、没有软弱，乃是说他们在基督里渐渐成圣，"荣上加荣"（林后3:18）。
+
+恶人的道却"好像幽暗"——没有方向、没有盼望，只有绝望。他们"自己不知因甚么跌倒"——因为罪使人盲目。
+
+### 三、保守你心（4:20-23）
+
+我儿，要留心听我的言词，侧耳听我的话语，都不可离你的眼目，要存记在你心中。因为得着他的，就得了生命，又得了医全体的良药。
+
+你要保守你心，胜过保守一切，因为一生的果效是由心发出。
+
+"你要保守你心，胜过保守一切"——这是整章最关键的一节经文！希伯来文的"心"（lev）不仅指情感，更指人的意志、思想、整个内在生命的中心。
+
+为什么要保守心？"因为一生的果效是由心发出。"耶稣说："因为从里面，就是从人心里，发出恶念、苟合、偷盗、凶杀、奸淫、贪婪、邪恶、诡诈、淫荡、嫉妒、谤讟、骄傲、狂妄。这一切的恶都是从里面出来，且能污秽人"（可7:21-23）。
+
+心若败坏，一切都败坏。心若洁净，生命就洁净。所以大卫在诗篇51:10祷告："神啊，求你为我造清洁的心，使我里面重新有正直的灵。"
+
+如何保守心？第一，**用神的话语充满**——"都不可离你的眼目，要存记在你心中"（4:21）。第二，**警醒祷告**——"主啊，保守我的心怀意念。"第三，**远离试探**——不要让污秽的东西进入你的眼目、耳朵、思想。第四，**操练敬虔**——读经、祷告、团契、服事。
+
+### 四、口、眼、脚——全人的圣洁（4:24-27）
+
+你要除掉邪僻的口，弃绝乖谬的嘴。
+
+你的眼目要向前正看；你的眼睛当向前直观。
+
+要修平你脚下的路，坚定你一切的道。不可偏向左右；要使你的脚离开邪恶。
+
+这三节经文覆盖了人生的三个重要方面：口（言语）、眼（方向）、脚（行动）。
+
+**口**——"除掉邪僻的口，弃绝乖谬的嘴。"雅各书3:5-6说："舌头是个罪恶的世界...能污秽全身，也能把生命的轮子点起来,并且是从地狱里点着的。"我们的言语要诚实、造就人、荣耀神。
+
+**眼**——"你的眼目要向前正看。"眼睛是灵魂的窗户。主耶稣说："眼睛就是身上的灯。你的眼睛若瞭亮，全身就光明；你的眼睛若昏花，全身就黑暗"（太6:22-23）。要定睛在基督身上，不要被世界的诱惑分心。
+
+**脚**——"要修平你脚下的路...不可偏向左右。"希伯来书12:13说："也要为自己的脚，把道路修直了，使瘸子不至歪脚，反得痊愈。"我们的行动要正直、坚定，不偏离神的道路。
+
+这是全人的圣洁——心、口、眼、脚，都要分别为圣归给神。保罗在帖撒罗尼迦前书5:23说："愿赐平安的神亲自使你们全然成圣！又愿你们的灵与魂与身子得蒙保守，在我主耶稣基督降临的时候，完全无可指摘！"
+
+亲爱的读者，智慧为首！愿你一生追求智慧，而那真智慧就是主耶稣基督。歌罗西书2:3说："所积蓄的一切智慧知识，都在他里面藏着。"你若要得智慧，就当到基督面前来。`,
+    content_en: `Dear reader, I am Solomon, son of David, King of Israel. Today I will pass on to you the wisdom my father David taught me—wisdom that is a precious inheritance handed down from generation to generation.
+
+### I. Hear Your Father's Instruction (4:1-9)
+
+Hear, O sons, a father's instruction, and be attentive, that you may gain insight, for I give you good precepts; do not forsake my teaching.
+
+When I was a son with my father, tender, the only one in the sight of my mother, he taught me and said to me, "Let your heart hold fast my words; keep my commandments, and live."
+
+Here I recall my childhood. Though David had multiple sons, I was born to Bathsheba—God particularly loved me and sent the prophet Nathan to name me "Jedidiah" (meaning "beloved of the LORD," 2 Sam 12:25). My father David often instructed me, pouring out all the wisdom he had received from God throughout his life.
+
+Get wisdom; get insight; do not forget, and do not turn away from the words of my mouth. Do not forsake her, and she will keep you; love her, and she will guard you.
+
+The beginning of wisdom is this: Get wisdom, and whatever you get, get insight.
+
+"The beginning of wisdom is this: Get wisdom"—what a crucial statement! Among all pursuits in life, wisdom is foremost. The world pursues wealth, power, fame, but Solomon says: Get wisdom first! Because wisdom is more precious than all these and will guide you in the right use of everything else.
+
+Prize her highly, and she will exalt you; she will honor you if you embrace her. She will place on your head a graceful garland; she will bestow on you a beautiful crown.
+
+What a beautiful promise! Wisdom not only protects and guides you but also honors you. Proverbs 3:16 says of wisdom, "Long life is in her right hand; in her left hand are riches and honor." But remember: this wisdom is not worldly cunning but the wisdom of "the fear of the LORD" (Prov 1:7).
+
+### II. The Path of Wisdom and the Path of the Wicked (4:10-19)
+
+Hear, my son, and accept my words, that the years of your life may be many. I have taught you the way of wisdom; I have led you in the paths of uprightness. When you walk, your step will not be hampered, and if you run, you will not stumble. Keep hold of instruction; do not let go; guard her, for she is your life.
+
+There are two paths in life—the path of wisdom and the path of the wicked. This is not new teaching; Moses said long ago in Deuteronomy 30:15-19, "See, I have set before you today life and good, death and evil...therefore choose life."
+
+What characterizes the path of wisdom? "Your step will not be hampered...you will not stumble"—this path is spacious (not meaning easy, but free) and secure (with God's protection). "She is your life"—wisdom is not an external ornament but the essence of life.
+
+Do not enter the path of the wicked, and do not walk in the way of the evil. Avoid it; do not go on it; turn away from it and pass on.
+
+For they cannot sleep unless they have done wrong; they are robbed of sleep unless they have made someone stumble. For they eat the bread of wickedness and drink the wine of violence.
+
+What is the path of the wicked? They "eat the bread of wickedness and drink the wine of violence"—sin has become their food, they live by oppression. Such people will never be satisfied, for the nature of sin is insatiable desire. They "are robbed of sleep unless they have made someone stumble"—they take pleasure in causing others to fall. What a twisted soul!
+
+But the path of the righteous is like the light of dawn, which shines brighter and brighter until full day. The way of the wicked is like deep darkness; they do not know over what they stumble.
+
+What a vivid contrast! The path of the righteous is like the sun rising in the east—perhaps weak at first, but growing brighter, finally reaching midday brilliance. This does not mean the righteous have no struggles or weaknesses, but that they are progressively sanctified in Christ, "from one degree of glory to another" (2 Cor 3:18).
+
+The way of the wicked, however, is "like deep darkness"—no direction, no hope, only despair. They "do not know over what they stumble"—because sin blinds.
+
+### III. Guard Your Heart (4:20-23)
+
+My son, be attentive to my words; incline your ear to my sayings. Let them not escape from your sight; keep them within your heart. For they are life to those who find them, and healing to all their flesh.
+
+Keep your heart with all vigilance, for from it flow the springs of life.
+
+"Keep your heart with all vigilance"—this is the most crucial verse of the entire chapter! The Hebrew word for "heart" (lev) refers not only to emotions but to the will, thoughts, and the entire center of inner life.
+
+Why guard the heart? "For from it flow the springs of life." Jesus said, "For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery, coveting, wickedness, deceit, sensuality, envy, slander, pride, foolishness. All these evil things come from within, and they defile a person" (Mark 7:21-23).
+
+If the heart is corrupt, everything is corrupt. If the heart is pure, life is pure. So David prayed in Psalm 51:10, "Create in me a clean heart, O God, and renew a right spirit within me."
+
+How do we guard the heart? First, **fill it with God's word**—"Let them not escape from your sight; keep them within your heart" (4:21). Second, **watch and pray**—"Lord, guard my heart and mind." Third, **flee temptation**—do not let impure things enter your eyes, ears, or thoughts. Fourth, **practice godliness**—Bible reading, prayer, fellowship, service.
+
+### IV. Mouth, Eyes, Feet—Holiness of the Whole Person (4:24-27)
+
+Put away from you crooked speech, and put devious talk far from you.
+
+Let your eyes look directly forward, and your gaze be straight before you.
+
+Ponder the path of your feet; then all your ways will be sure. Do not swerve to the right or to the left; turn your foot away from evil.
+
+These three verses cover three important aspects of life: mouth (speech), eyes (direction), feet (action).
+
+**Mouth**—"Put away from you crooked speech." James 3:5-6 says, "The tongue is...a world of unrighteousness...staining the whole body, setting on fire the entire course of life, and set on fire by hell." Our speech should be honest, edifying, and glorifying to God.
+
+**Eyes**—"Let your eyes look directly forward." The eyes are the windows of the soul. Jesus said, "The eye is the lamp of the body. So, if your eye is healthy, your whole body will be full of light, but if your eye is bad, your whole body will be full of darkness" (Matt 6:22-23). Fix your eyes on Christ; do not be distracted by the world's temptations.
+
+**Feet**—"Ponder the path of your feet...do not swerve to the right or to the left." Hebrews 12:13 says, "Make straight paths for your feet, so that what is lame may not be put out of joint but rather be healed." Our actions should be upright and steadfast, not deviating from God's path.
+
+This is holiness of the whole person—heart, mouth, eyes, feet, all set apart for God. Paul says in 1 Thessalonians 5:23, "Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ."
+
+Dear reader, wisdom is supreme! May you pursue wisdom all your life, and may that true wisdom be the Lord Jesus Christ. Colossians 2:3 says, "In him are hidden all the treasures of wisdom and knowledge." If you want wisdom, come to Christ.`,
+    historyContext_zh: `箴言第4章延续了前面章节的父子教导模式。所罗门回忆自己童年时从父亲大卫那里领受的智慧教导。虽然大卫有多个儿子（暗嫩、押沙龙、亚多尼雅等），但所罗门是拔示巴所生，神特别爱他，称他为"耶底底亚"（耶和华所爱的，撒下12:25）。大卫晚年将王位传给所罗门时，特别嘱咐他"遵守耶和华你神所吩咐的，照着摩西律法上所写的行主的道"（王上2:3）。所罗门在基遍求智慧（王上3:9），神赐给他"极大的智慧聪明...如同海沙不可测量"（王上4:29）。箴言书1-9章是所罗门对年轻人（特别是他儿子）的教导，第4章强调"智慧为首"——在一切追求中，智慧是第一位的。当时近东的智慧文学（如埃及、巴比伦）也有类似的父子教导体裁，但箴言的独特性在于：智慧的源头是"敬畏耶和华"（1:7），而非人类理性或经验。`,
+    historyContext_en: `Proverbs 4 continues the father-son instruction pattern of previous chapters. Solomon recalls the wisdom teaching he received from his father David in his childhood. Though David had multiple sons (Amnon, Absalom, Adonijah, etc.), Solomon was born to Bathsheba, and God particularly loved him, calling him "Jedidiah" (beloved of the LORD, 2 Sam 12:25). When David passed the throne to Solomon in his old age, he specifically charged him to "keep the charge of the LORD your God, walking in his ways and keeping his statutes...as it is written in the Law of Moses" (1 Kings 2:3). Solomon asked for wisdom at Gibeon (1 Kings 3:9), and God gave him "wisdom and understanding beyond measure, and breadth of mind like the sand on the seashore" (1 Kings 4:29). Proverbs chapters 1-9 are Solomon's instruction to young people (especially his son), and chapter 4 emphasizes "wisdom is supreme"—among all pursuits, wisdom is foremost. While ancient Near Eastern wisdom literature (Egypt, Babylon) also had similar father-son instruction genres, Proverbs is unique in that the source of wisdom is "the fear of the LORD" (1:7), not human reason or experience.`,
+    structure_zh: `箴言4章分为四个段落：
+
+1. 父亲的教训：要得智慧（1-9节）
+   - 回忆父亲大卫的教导（1-4节）
+   - "智慧为首"——智慧的价值（5-9节）
+
+2. 两条道路：智慧vs恶人（10-19节）
+   - 智慧的道路：宽广、稳固、光明（10-13节）
+   - 恶人的道路：幽暗、绊跌、暴力（14-19节）
+   - 对比：义人的路"越照越明"，恶人的路"好像幽暗"（18-19节）
+
+3. 保守你心——生命的核心（20-23节）
+   - "一生的果效是由心发出"（23节）
+
+4. 全人的圣洁：口、眼、脚（24-27节）
+   - 口：除掉邪僻的口（24节）
+   - 眼：向前正看（25节）
+   - 脚：修平道路，不偏左右（26-27节）
+
+全章以"智慧为首"为核心主题，从智慧的传承（父到子）→ 智慧的道路（与恶人对比）→ 智慧的操练（保守心、口、眼、脚）。`,
+    structure_en: `Proverbs 4 divides into four sections:
+
+1. Father's Instruction: Get Wisdom (vv. 1-9)
+   - Recalling father David's teaching (vv. 1-4)
+   - "Wisdom is supreme"—the value of wisdom (vv. 5-9)
+
+2. Two Paths: Wisdom vs. the Wicked (vv. 10-19)
+   - The path of wisdom: spacious, secure, light (vv. 10-13)
+   - The path of the wicked: darkness, stumbling, violence (vv. 14-19)
+   - Contrast: the righteous path "shines brighter and brighter," the wicked path "like deep darkness" (vv. 18-19)
+
+3. Guard Your Heart—The Core of Life (vv. 20-23)
+   - "From it flow the springs of life" (v. 23)
+
+4. Holiness of the Whole Person: Mouth, Eyes, Feet (vv. 24-27)
+   - Mouth: put away crooked speech (v. 24)
+   - Eyes: look directly forward (v. 25)
+   - Feet: make straight paths, do not swerve (vv. 26-27)
+
+The entire chapter centers on "wisdom is supreme," progressing from the transmission of wisdom (father to son) → the path of wisdom (contrasted with the wicked) → the practice of wisdom (guarding heart, mouth, eyes, feet).`,
+    theology_zh: `箴言4章的核心神学主题有三个。第一，**智慧为首**（4:7）——这是改革宗神学的核心：神的智慧是一切知识的开端。加尔文说："若不认识神，我们就无法认识自己；若不认识自己，我们也无法真正认识神。"智慧不是世俗的聪明，乃是"敬畏耶和华"（1:7）。第二，**两条道路的教义**（4:18-19）——这是圣经从创世记到启示录贯穿的主题。申命记30:15："我今日将生与福，死与祸，陈明在你面前。"马太福音7:13-14："引到灭亡的门是宽的，路是大的...引到永生的门是窄的，路是小的。"义人的路"越照越明"体现渐进成圣（progressive sanctification）——我们在基督里逐渐更新变化（罗12:2），"荣上加荣"（林后3:18）。第三，**保守心的教义**（4:23）——心是人整个内在生命的中心。耶利米书17:9说："人心比万物都诡诈，坏到极处。"因此我们需要神"造清洁的心"（诗51:10）。新约称之为"重生"（约3:3）——圣灵在人心中的更新工作。韦敏斯德小要理问答第31问："蒙召有什么益处？"答："蒙召的益处就是称义、得儿子的名分和成圣。"成圣是一生的过程，需要不断"保守心"。`,
+    theology_en: `Proverbs 4 has three core theological themes. First, **wisdom is supreme** (4:7)—this is central to Reformed theology: God's wisdom is the beginning of all knowledge. Calvin said, "Without knowledge of God there is no knowledge of self; without knowledge of self there is no true knowledge of God." Wisdom is not worldly cleverness but "the fear of the LORD" (1:7). Second, **the doctrine of two ways** (4:18-19)—this theme runs throughout the Bible from Genesis to Revelation. Deuteronomy 30:15: "See, I have set before you today life and good, death and evil." Matthew 7:13-14: "The gate is wide and the way is easy that leads to destruction...the gate is narrow and the way is hard that leads to life." The righteous path "shines brighter and brighter" embodies progressive sanctification—we are gradually renewed in Christ (Rom 12:2), "from one degree of glory to another" (2 Cor 3:18). Third, **the doctrine of guarding the heart** (4:23)—the heart is the center of the entire inner life. Jeremiah 17:9 says, "The heart is deceitful above all things, and desperately sick." Therefore we need God to "create in me a clean heart" (Ps 51:10). The New Testament calls this "new birth" (John 3:3)—the renewing work of the Holy Spirit in the human heart. Westminster Shorter Catechism Q31: "What are the benefits which in this life do accompany or flow from justification, adoption, and sanctification?" A: "The benefits are assurance of God's love, peace of conscience, joy in the Holy Spirit, increase of grace, and perseverance therein to the end." Sanctification is a lifelong process requiring continual "guarding of the heart."`,
+    christShadow_zh: `箴言4章多处预表基督。首先，**"智慧为首"预表基督是神的智慧**——保罗说基督是"神的智慧"（林前1:24），一切智慧知识都在他里面藏着（西2:3）。其次，**"义人的路好像黎明的光，越照越明"预表信徒在基督里的成圣**——我们"变成主的形状，荣上加荣"（林后3:18）。主耶稣是"世界的光"（约8:12），跟从他的必不在黑暗里走。第三，**"保守你心"预表基督洁净人心的工作**——以西结书36:26："我也要赐给你们一个新心，将新灵放在你们里面。"基督的宝血洁净我们的良心（来9:14）。第四，**两条道路预表基督的邀请："我就是道路"（约14:6）**——通往天父的路唯独借着基督。第五，**父亲教导儿子预表天父教导我们**——希伯来书12:5-11详细阐述"管教的儿子"——天父爱我们，管教我们，使我们"在他的圣洁上有分"。最终，箴言4章的整体信息——"得智慧、爱智慧、跟随智慧"——就是福音的呼召：到基督面前来，他是真智慧！`,
+    christShadow_en: `Proverbs 4 foreshadows Christ in multiple ways. First, **"wisdom is supreme" foreshadows Christ as the wisdom of God**—Paul says Christ is "the wisdom of God" (1 Cor 1:24), and all treasures of wisdom and knowledge are hidden in Him (Col 2:3). Second, **"the path of the righteous is like the light of dawn, which shines brighter and brighter" foreshadows the sanctification of believers in Christ**—we "are being transformed into the same image from one degree of glory to another" (2 Cor 3:18). Jesus is "the light of the world" (John 8:12); whoever follows Him will not walk in darkness. Third, **"guard your heart" foreshadows Christ's work of cleansing the human heart**—Ezekiel 36:26: "And I will give you a new heart, and a new spirit I will put within you." The blood of Christ cleanses our conscience (Heb 9:14). Fourth, **the two ways foreshadow Christ's invitation: "I am the way" (John 14:6)**—the way to the Father is only through Christ. Fifth, **a father instructing his son foreshadows the Father instructing us**—Hebrews 12:5-11 elaborates on "the discipline of sons"—the Father loves us, disciplines us, that we may "share his holiness." Finally, the overall message of Proverbs 4—"get wisdom, love wisdom, follow wisdom"—is the call of the gospel: come to Christ, He is true wisdom!`,
+  },
+
+  // === 约翰福音 (John) ===
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 1,
+    publishDate: '2026-04-01',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 1 / John 1',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 2,
+    publishDate: '2026-04-02',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 2 / John 2',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 3,
+    publishDate: '2026-04-03',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 3 / John 3',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 4,
+    publishDate: '2026-04-04',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 4 / John 4',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 5,
+    publishDate: '2026-04-07',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 5 / John 5',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 6,
+    publishDate: '2026-04-08',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 6 / John 6',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 7,
+    publishDate: '2026-04-09',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 7 / John 7',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 8,
+    publishDate: '2026-04-10',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 8 / John 8',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 9,
+    publishDate: '2026-04-11',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 9 / John 9',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 10,
+    publishDate: '2026-04-14',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 10 / John 10',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 11,
+    publishDate: '2026-04-15',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 11 / John 11',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 12,
+    publishDate: '2026-04-16',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 12 / John 12',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 13,
+    publishDate: '2026-04-17',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 13 / John 13',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 14,
+    publishDate: '2026-04-18',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 14 / John 14',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 15,
+    publishDate: '2026-04-21',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 15 / John 15',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 16,
+    publishDate: '2026-04-22',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 16 / John 16',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 17,
+    publishDate: '2026-04-23',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 17 / John 17',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 18,
+    publishDate: '2026-04-24',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 18 / John 18',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 19,
+    publishDate: '2026-04-25',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 19 / John 19',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 20,
+    publishDate: '2026-04-28',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 20 / John 20',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+  {
+    book: '约翰福音', bookEn: 'John', chapter: 21,
+    publishDate: '2026-04-29',
+    title: '', titleEn: '',
+    author: '约翰', authorEn: 'John',
+    scripture: '约翰福音 21 / John 21',
+    content_zh: '',
+    content_en: '',
+    historyContext_zh: '',
+    historyContext_en: '',
+    structure_zh: '',
+    structure_en: '',
+    theology_zh: '',
+    theology_en: '',
+    christShadow_zh: '',
+    christShadow_en: '',
+  },
+
+];
 
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 1,
