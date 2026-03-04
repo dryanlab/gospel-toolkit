@@ -8436,7 +8436,7 @@ Finally, Antioch church donating to Jerusalem church prefigures love in Christ t
   // === 使徒行传 (Acts) ===
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 1,
-    publishDate: '2026-05-05',
+    publishDate: '2026-06-25',
     title: '主升天与使徒的预备', titleEn: 'The Ascension and Apostolic Preparation',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 1 / Acts 1',
@@ -8559,7 +8559,7 @@ Israel's twelve tribes symbolize God's people. The Lord chose twelve apostles, f
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 2,
-    publishDate: '2026-05-06',
+    publishDate: '2026-06-26',
     title: '五旬节圣灵降临', titleEn: 'The Day of Pentecost',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 2 / Acts 2',
@@ -8710,7 +8710,7 @@ Jeremiah 31:31–34 prophesies the New Covenant: "I will put My law within them,
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 3,
-    publishDate: '2026-05-07',
+    publishDate: '2026-06-29',
     title: '美门前的神迹', titleEn: 'The Miracle at the Beautiful Gate',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 3 / Acts 3',
@@ -8873,7 +8873,7 @@ Peter calls Jesus the "Author of life" (archegos, v. 15—also "Prince," "Founde
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 4,
-    publishDate: '2026-05-08',
+    publishDate: '2026-06-30',
     title: '使徒在公会前的见证', titleEn: 'The Apostles Before the Sanhedrin',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 4 / Acts 4',
@@ -9042,7 +9042,7 @@ Acts 4's focus is not merely persecution but God's sovereign accomplishment. Hum
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 5,
-    publishDate: '2026-05-11',
+    publishDate: '2026-07-01',
     title: '亚拿尼亚与撒非喇', titleEn: 'Ananias and Sapphira',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 5 / Acts 5',
@@ -9205,7 +9205,7 @@ The apostles rejoiced "that they were counted worthy to suffer dishonor for the 
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 6,
-    publishDate: '2026-05-12',
+    publishDate: '2026-07-02',
     title: '七执事的拣选', titleEn: 'The Choosing of the Seven',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 6 / Acts 6',
@@ -9330,7 +9330,7 @@ Finally, Stephen's story reminds us that Christ's suffering is not an isolated e
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 7,
-    publishDate: '2026-05-13',
+    publishDate: '2026-07-03',
     title: '司提反的殉道', titleEn: 'The Martyrdom of Stephen',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 7 / Acts 7',
@@ -9463,7 +9463,7 @@ Finally, Saul's appearance is highly typological. This young man guarding garmen
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 8,
-    publishDate: '2026-05-14',
+    publishDate: '2026-07-06',
     title: '福音传到撒玛利亚', titleEn: 'The Gospel Reaches Samaria',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 8 / Acts 8',
@@ -9628,7 +9628,7 @@ Finally, after the eunuch's baptism, Philip was taken away yet the eunuch went r
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 9,
-    publishDate: '2026-05-15',
+    publishDate: '2026-07-07',
     title: '扫罗的归信', titleEn: 'The Conversion of Saul',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 9 / Acts 9',
@@ -9793,7 +9793,7 @@ Finally, Saul immediately preaching Christ after conversion prefigures all belie
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 10,
-    publishDate: '2026-05-18',
+    publishDate: '2026-07-08',
     title: '哥尼流的归信', titleEn: 'The Conversion of Cornelius',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 10 / Acts 10',
@@ -9954,7 +9954,7 @@ Finally, Peter baptizing Cornelius's household, making them God's household, pre
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 11,
-    publishDate: '2026-05-19',
+    publishDate: '2026-07-09',
     title: '外邦人领受福音', titleEn: 'The Gentiles Receive the Gospel',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 11 / Acts 11',
@@ -10095,7 +10095,7 @@ Finally, Antioch church donating to Jerusalem church prefigures love in Christ t
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 12,
-    publishDate: '2026-05-20',
+    publishDate: '2026-07-10',
     title: '彼得被囚与获释', titleEn: 'Peter\'s Imprisonment and Deliverance',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 12 / Acts 12',
@@ -10256,7 +10256,7 @@ Finally, "the word of God increased" prefigures Christ's kingdom cannot be stopp
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 13,
-    publishDate: '2026-05-21',
+    publishDate: '2026-07-13',
     title: '保罗第一次宣教旅行', titleEn: 'Paul\'s First Missionary Journey',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 13 / Acts 13',
@@ -10387,7 +10387,7 @@ This is the core section of the chapter. Paul's sermon (vv. 16-41) is a carefull
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 14,
-    publishDate: '2026-05-22',
+    publishDate: '2026-07-14',
     title: '以哥念、路司得与特庇', titleEn: 'Iconium, Lystra, and Derbe',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 14 / Acts 14',
@@ -10464,7 +10464,7 @@ Finally they returned to Antioch, gathered the church, and declared all that God
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 15,
-    publishDate: '2026-05-25',
+    publishDate: '2026-07-15',
     title: '耶路撒冷大会', titleEn: 'The Jerusalem Council',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 15 / Acts 15',
@@ -10545,7 +10545,7 @@ Brothers and sisters, even apostles have disputes, even the mighty Paul has weak
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 16,
-    publishDate: '2026-05-26',
+    publishDate: '2026-07-16',
     title: '福音进入欧洲', titleEn: 'The Gospel Enters Europe',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 16 / Acts 16',
@@ -10630,7 +10630,7 @@ That very night the jailer was baptized, with his entire household, and he rejoi
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 17,
-    publishDate: '2026-05-27',
+    publishDate: '2026-07-17',
     title: '保罗在雅典', titleEn: 'Paul in Athens',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 17 / Acts 17',
@@ -10719,7 +10719,7 @@ Brothers and sisters, though the harvest in Athens was small, every fruit was a 
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 18,
-    publishDate: '2026-05-28',
+    publishDate: '2026-07-20',
     title: '保罗在哥林多', titleEn: 'Paul in Corinth',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 18 / Acts 18',
@@ -10800,7 +10800,7 @@ Then Apollos appeared—an eloquent Jew, well-versed in the Scriptures, but know
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 19,
-    publishDate: '2026-05-29',
+    publishDate: '2026-07-21',
     title: '保罗在以弗所', titleEn: 'Paul in Ephesus',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 19 / Acts 19',
@@ -10877,7 +10877,7 @@ Brothers and sisters, Demetrius' rage was fundamentally about **damaged profits*
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 20,
-    publishDate: '2026-06-01',
+    publishDate: '2026-07-22',
     title: '保罗的告别讲道', titleEn: 'Paul\'s Farewell Address',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 20 / Acts 20',
@@ -10960,7 +10960,7 @@ Brothers and sisters, this is a pastor's most authentic farewell—with tears, w
   // === 罗马书 (Romans) ===
   {
     book: '罗马书', bookEn: 'Romans', chapter: 1,
-    publishDate: '2026-06-12',
+    publishDate: '2026-09-10',
     title: '福音的大能与人类的罪', titleEn: 'The Power of the Gospel and Human Sin',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 1 / Romans 1',
@@ -11097,7 +11097,7 @@ Verse 32 says those who do such things "deserve to die"—but Christ died for us
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 2,
-    publishDate: '2026-06-15',
+    publishDate: '2026-09-11',
     title: '神公义的审判', titleEn: 'God\'s Righteous Judgment',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 2 / Romans 2',
@@ -11242,7 +11242,7 @@ Finally, the definition of a "true Jew" points to Christ. He is the true Israel,
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 3,
-    publishDate: '2026-06-16',
+    publishDate: '2026-09-14',
     title: '因信称义', titleEn: 'Justification by Faith',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 3 / Romans 3',
@@ -11429,7 +11429,7 @@ From beginning to end, Christ is this chapter's center. Without him, we have onl
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 4,
-    publishDate: '2026-06-17',
+    publishDate: '2026-09-15',
     title: '亚伯拉罕：信心之父', titleEn: 'Abraham: The Father of Faith',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 4 / Romans 4',
@@ -11614,7 +11614,7 @@ From beginning to end, Abraham's story is the shadow, Christ is the substance. W
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 5,
-    publishDate: '2026-06-18',
+    publishDate: '2026-09-16',
     title: '在基督里的恩典与盼望', titleEn: 'Grace and Hope in Christ',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 5 / Romans 5',
@@ -11833,7 +11833,7 @@ Finally, "grace...reigns through righteousness" (verse 21). How does grace reign
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 6,
-    publishDate: '2026-06-19',
+    publishDate: '2026-09-17',
     title: '向罪死，向神活', titleEn: 'Dead to Sin, Alive to God',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 6 / Romans 6',
@@ -12018,7 +12018,7 @@ From beginning to end, sanctification is not our self-cultivation, but because w
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 7,
-    publishDate: '2026-06-22',
+    publishDate: '2026-09-18',
     title: '律法与罪的挣扎', titleEn: 'The Law and the Struggle with Sin',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 7 / Romans 7',
@@ -12189,7 +12189,7 @@ From beginning to end, the law drives us to desperation, showing we need a Savio
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 8,
-    publishDate: '2026-06-23',
+    publishDate: '2026-09-21',
     title: '在基督里不被定罪', titleEn: 'No Condemnation in Christ',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 8 / Romans 8',
@@ -12470,7 +12470,7 @@ From beginning to end, chapter eight's blessings are all in Christ. Apart from h
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 9,
-    publishDate: '2026-06-24',
+    publishDate: '2026-09-22',
     title: '神主权的拣选', titleEn: 'God\'s Sovereign Election',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 9 / Romans 9',
@@ -12527,7 +12527,7 @@ The potter and clay analogy (verses 20-21) comes from Jeremiah 18, commonly used
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 10,
-    publishDate: '2026-06-25',
+    publishDate: '2026-09-23',
     title: '以色列的不信与福音的普世性', titleEn: 'Israel\'s Unbelief and the Universality of the Gospel',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 10 / Romans 10',
@@ -12616,7 +12616,7 @@ Brothers, this is the message of chapter 10—salvation is by faith, from first 
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 11,
-    publishDate: '2026-06-26',
+    publishDate: '2026-09-24',
     title: '以色列的将来与神的智慧', titleEn: 'Israel\'s Future and God\'s Wisdom',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 11 / Romans 11',
@@ -12741,7 +12741,7 @@ For from him and through him and to him are all things. To him be glory forever.
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 12,
-    publishDate: '2026-06-29',
+    publishDate: '2026-09-25',
     title: '活祭与肢体生活', titleEn: 'Living Sacrifice and Body Life',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 12 / Romans 12',
@@ -12890,7 +12890,7 @@ Do not be overcome by evil, but overcome evil with good. This is the chapter's s
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 13,
-    publishDate: '2026-06-30',
+    publishDate: '2026-09-28',
     title: '顺服掌权者与爱的律法', titleEn: 'Submission to Authority and the Law of Love',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 13 / Romans 13',
@@ -13007,7 +13007,7 @@ Brothers, the message of chapter 13 is: living in this world, we should be respo
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 14,
-    publishDate: '2026-07-01',
+    publishDate: '2026-09-29',
     title: '信心软弱者与刚强者', titleEn: 'The Weak and the Strong in Faith',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 14 / Romans 14',
@@ -13136,7 +13136,7 @@ Brothers, the message of chapter 14 is: there will be different consciences in t
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 15,
-    publishDate: '2026-07-02',
+    publishDate: '2026-09-30',
     title: '效法基督，服事万民', titleEn: 'Following Christ, Serving All Nations',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 15 / Romans 15',
@@ -13289,7 +13289,7 @@ May the God of peace be with you all. Amen. This is blessing—"the God of peace
   },
   {
     book: '罗马书', bookEn: 'Romans', chapter: 16,
-    publishDate: '2026-07-03',
+    publishDate: '2026-10-01',
     title: '问安与最后的劝勉', titleEn: 'Greetings and Final Exhortation',
     author: '保罗', authorEn: 'Paul',
     scripture: '罗马书 16 / Romans 16',
@@ -13438,7 +13438,7 @@ May the God of peace be with you all. To the only wise God be glory forever. Ame
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 21,
-    publishDate: '2026-06-02',
+    publishDate: '2026-07-23',
     title: '保罗前往耶路撒冷', titleEn: 'Paul\'s Journey to Jerusalem',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 21 / Acts 21',
@@ -13541,7 +13541,7 @@ Paul standing on the steps to address the crowd displayed apostolic authority an
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 22,
-    publishDate: '2026-06-03',
+    publishDate: '2026-07-24',
     title: '保罗在台阶上的申辩', titleEn: 'Paul\'s Defense on the Steps',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 22 / Acts 22',
@@ -13644,7 +13644,7 @@ Paul's Roman citizenship protecting him from flogging reveals God's providential
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 23,
-    publishDate: '2026-06-04',
+    publishDate: '2026-07-27',
     title: '公会前的智慧与主的安慰', titleEn: 'Wisdom Before the Sanhedrin and the Lord\'s Comfort',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 23 / Acts 23',
@@ -13743,7 +13743,7 @@ Paul's transfer from Jerusalem to Caesarea appeared to be fleeing danger but was
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 24,
-    publishDate: '2026-06-05',
+    publishDate: '2026-07-28',
     title: '在巡抚腓力斯面前', titleEn: 'Before Governor Felix',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 24 / Acts 24',
@@ -13850,7 +13850,7 @@ Felix ultimately left office, without the bribe he sought and without truly gras
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 25,
-    publishDate: '2026-06-08',
+    publishDate: '2026-07-29',
     title: '上告于该撒', titleEn: 'Paul\'s Appeal to Caesar',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 25 / Acts 25',
@@ -13945,7 +13945,7 @@ Paul's appeal to Caesar meant he would face the highest court in Rome. This pref
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 26,
-    publishDate: '2026-06-09',
+    publishDate: '2026-07-30',
     title: '在亚基帕王面前的见证', titleEn: 'Paul\'s Testimony Before King Agrippa',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 26 / Acts 26',
@@ -14056,7 +14056,7 @@ Paul said "except for these chains"—his chains were precisely the mark of Chri
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 27,
-    publishDate: '2026-06-10',
+    publishDate: '2026-07-31',
     title: '暴风中的信心', titleEn: 'Faith in the Storm',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 27 / Acts 27',
@@ -14163,7 +14163,7 @@ Everyone reaching shore and being "saved"—in Greek sozo, the very word for spi
   },
   {
     book: '使徒行传', bookEn: 'Acts', chapter: 28,
-    publishDate: '2026-06-11',
+    publishDate: '2026-08-03',
     title: '抵达罗马：并没有人禁止', titleEn: 'Arriving in Rome: Without Hindrance',
     author: '路加', authorEn: 'Luke',
     scripture: '使徒行传 28 / Acts 28',
@@ -14283,5 +14283,5452 @@ Paul healing Publius's father through prayer and laying on of hands mirrors the 
 Paul quoting Isaiah about Israel's hardening is precisely what the Lord Jesus did in Matthew 13. Christ and Paul faced the same rejection—Israel's unbelief. But Isaiah's judgment words are immediately followed by the promise of salvation (Isaiah 6:13, "the holy seed"), just as behind Israel's hardening lies God's greater plan of redemption.
 
 "Without hindrance"—this final declaration points to the fact of Christ's reign. Ephesians 1:20-22 says the Father raised Christ from the dead, seated Him at the highest heavenly place, "far above all rule and authority and power and dominion, and above every name that is named." No power can hinder Christ's gospel because Christ sits above all things. Acts ending with "without hindrance" declares: Christ reigns!`,
+  },
+
+  // === 出埃及记 (Exodus) ===
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 1,
+    publishDate: '2026-04-30',
+    title: '以色列人在埃及受苦', titleEn: 'Israel Suffers in Egypt',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 1 / Exodus 1',
+    content_zh: `我摩西，在年迈的时候，常常回想我们民族那段黑暗的岁月。那是一段血与泪的历史，是铁炉中的磨炼，是神在暗夜中工作的奥秘。
+
+我们的祖先雅各带着七十人下到埃及（出埃及记1:5），那是一段因约瑟蒙恩而得的庇护岁月。然而历史翻转，"一个不认识约瑟的新王起来，治理埃及"（出埃及记1:8）。这短短一句话，标志着以色列历史上四百年苦难的开始。约瑟的恩情被遗忘了，我们民族昔日对埃及的贡献被抹去了。当一个政权改变叙事，受苦的永远是软弱的族群。
+
+新王的心里充满了恐惧。经文记载他对百姓说："看哪，以色列民比我们还多，又比我们强盛。来吧，我们要用巧计待他们"（出埃及记1:9-10）。注意这里的逻辑——法老的残忍源于他的恐惧。一个真正有权势的人不会惧怕一群奴隶；正是因为他内心虚弱，才要用暴力来巩固权威。这是所有压迫者的本质：他们强大的外表之下，是战栗的灵魂。
+
+法老的计策分三步升级：先是派督工使以色列人服苦役，建造比东和兰塞两座积货城（出埃及记1:11）；然而神的祝福抵消了压迫——"越发苦害他们，他们越发多起来"（出埃及记1:12）。这是多么令人震撼的异象！压迫成为了神增殖祂百姓的工具。埃及人"因以色列人就忧愁烦恼"——这忧愁不是出于怜悯，而是出于恐惧和挫败。
+
+第二步，法老秘密召见两位希伯来收生婆，示弗拉和普阿，命令她们杀死所有出生的男婴（出埃及记1:15-16）。这两位默默无名的女子，在信仰的历史上留下了永恒的脚印。她们是如何回应的？经文说："收生婆却敬畏神，不照埃及王的吩咐行，竟存留男孩的性命"（出埃及记1:17）。
+
+"敬畏神"——就这四个字，解释了一切。在人类所有的道德抉择中，最根本的问题是：你最怕谁？示弗拉和普阿面对法老的命令，没有说"我们不同意这道命令"，没有组织什么抵抗运动，而是简单地、静静地行了不同的事——因为她们更敬畏神。她们是圣经中最早记录的公民抗命的典范，她们的名字流传至今，而那位逼迫她们的法老的名字，历史却几乎已经遗忘。
+
+法老质问她们为何留存男孩性命，她们回答希伯来妇人比埃及妇女更强壮，在产婆来到之前就已生产（出埃及记1:19）。神因她们的信心而祝福她们，"赐她们生育"（出埃及记1:21）。
+
+第三步，法老恼羞成怒，将命令公开化：吩咐全体百姓，将希伯来人生的所有男孩都丢在尼罗河里（出埃及记1:22）。尼罗河——那个埃及生命的象征，神圣的母亲河，如今成了屠杀婴儿的墓场。
+
+我常常思想这段历史，神在其中的作为令我沉默。为什么神允许这一切发生？为什么祂不提早拯救？改革宗神学的先贤们教导我，神的时间不同于人的时间，祂的道路高过我们的道路（以赛亚书55:9）。那四百年的苦难，正是神实现救赎目的的必要路径：它使以色列人成为一个民族，使他们的哀声积聚成为向天的呼喊，使神的救赎从一次家族的迁移，升华为一场宇宙级的拯救大作为。
+
+苦难不是神忘记我们的证据，而是祂正在做更大事情的序曲。那正在尼罗河边哭泣的婴孩，正在砖窑边喘息的奴隶，神都看见了。神在黑暗中守望，在沉默中工作，在苦难中预备，直到时候满足。
+
+然后，祂动了手。
+
+在埃及的铁炉中，神不仅保存了以色列人的生命，更在锤炼一个民族的灵魂。苦难使他们知道自己是谁——他们是亚伯拉罕的后裔，是被神拣选的人；苦难也使他们明白自己需要什么——他们需要一位救赎主，一位比任何人间的领袖都更强大的神。
+
+示弗拉和普阿的故事告诉我们：神的国度进展，往往不是靠权势和力量，而是靠那些在无名角落中敬畏神、安静行善的人。神记念她们，就如祂记念一切在黑暗中忠心的人。`,
+    content_en: `I, Moses, in my old age, often recall that dark era of our people. It was a history written in blood and tears, a refining in the iron furnace, the mystery of God working in the night.
+
+Our ancestor Jacob brought seventy people down to Egypt (Exodus 1:5), a season of shelter enjoyed through Joseph's favor. Yet history turned: "there arose a new king over Egypt, who did not know Joseph" (Exodus 1:8). This single brief sentence marks the beginning of four hundred years of suffering in Israel's history. Joseph's kindness was forgotten; our people's past contributions to Egypt were erased. When a regime changes its narrative, the weak are always the ones who suffer.
+
+The new king's heart was filled with fear. The text records him telling his people: "Behold, the people of Israel are too many and too mighty for us. Come, let us deal shrewdly with them" (Exodus 1:9-10). Notice the logic here — Pharaoh's cruelty arose from his fear. A truly powerful man does not fear a band of slaves; it is precisely because he is inwardly weak that he must use violence to consolidate authority. This is the nature of all oppressors: beneath their powerful exterior are trembling souls.
+
+Pharaoh's scheme escalated in three stages: first, appointing taskmasters to afflict Israel with forced labor, building the storage cities of Pithom and Raamses (Exodus 1:11); yet God's blessing countered the oppression — "the more they were oppressed, the more they multiplied" (Exodus 1:12). What a striking vision! Oppression became the instrument by which God multiplied His people. The Egyptians "were in dread of the people of Israel" — this dread was not pity but fear and frustration.
+
+Second, Pharaoh secretly summoned two Hebrew midwives, Shiphrah and Puah, commanding them to kill all male infants at birth (Exodus 1:15-16). These two obscure women left eternal footprints in the history of faith. How did they respond? The text says: "But the midwives feared God and did not do as the king of Egypt commanded them, but let the male children live" (Exodus 1:17).
+
+"Feared God" — these two words explain everything. In all human moral choices, the most fundamental question is: whom do you fear most? Shiphrah and Puah, facing Pharaoh's command, did not say "we disagree with this decree" or organize any resistance movement — they simply, quietly, did something different, because they feared God more than Pharaoh. They are the earliest recorded example of civil disobedience in the Bible. Their names endure to this day, while the name of the Pharaoh who persecuted them has been nearly forgotten by history.
+
+When Pharaoh questioned them about why they let the boys live, they answered that Hebrew women were stronger than Egyptian women and had given birth before the midwife arrived (Exodus 1:19). God blessed them for their faith and "gave them families" (Exodus 1:21).
+
+Third, Pharaoh, enraged and humiliated, made his command public: he ordered all his people to throw every Hebrew boy born into the Nile (Exodus 1:22). The Nile — that symbol of Egyptian life, the sacred mother river — now became a graveyard for murdered infants.
+
+I often meditate on this history, and God's ways in it leave me speechless. Why did God allow all this? Why did He not rescue them sooner? The great teachers of Reformed theology have taught me that God's timing is not our timing, and His ways are higher than our ways (Isaiah 55:9). Those four hundred years of suffering were the necessary path for God to accomplish His redemptive purpose: it forged Israel into a nation, allowed their cry to accumulate into a shout reaching heaven, and elevated God's salvation from a family migration into a cosmic act of rescue.
+
+Suffering is not evidence that God has forgotten us; it is the overture to something greater He is doing. The infant crying at the Nile's edge, the slave gasping at the brick kiln — God saw them all. God watches in the darkness, works in the silence, prepares in the suffering, until the time is full.
+
+Then He moved.
+
+In Egypt's iron furnace, God not only preserved Israel's lives but was also tempering the soul of a nation. Suffering made them know who they were — descendants of Abraham, a people chosen by God. Suffering also made them understand what they needed — a Redeemer, a God more powerful than any human leader.
+
+The story of Shiphrah and Puah tells us: God's kingdom advances not by might and power, but by those who fear God and quietly do good in obscure corners. God remembered them, just as He remembers all who are faithful in the darkness.`,
+    historyContext_zh: `出埃及记开篇承接创世记的结尾，雅各一家七十人进入埃及（约公元前1876年）。根据出埃及记12:40，以色列人在埃及寄居了430年，因此出埃及事件约发生在公元前1446年（早期年代说，以列王记上6:1为据）或公元前1270年前后（晚期年代说，以拉美西斯二世时代为据）。
+
+"不认识约瑟的新王"（1:8）标志着埃及政治格局的根本转变。一些学者认为这可能是希克索斯人（外来统治者）被驱逐后的本土埃及王朝，对希伯来外族人更加猜疑；另一些学者认为是内部的王朝更迭。无论哪种解释，政治的变化导致了以色列人从客居者变为奴隶的命运逆转。
+
+比东和兰塞（1:11）是法老的积货城，考古发掘在东尼罗河三角洲地区发现了大规模的泥砖建筑遗址，与圣经记载相符。以色列人还被迫从事田间劳动等各样苦工（1:14），形成了完整的奴役体系。`,
+    historyContext_en: `The opening of Exodus continues from the end of Genesis, with Jacob's family of seventy entering Egypt (approximately 1876 BC). According to Exodus 12:40, Israel sojourned in Egypt for 430 years, placing the Exodus event around 1446 BC (early date view, based on 1 Kings 6:1) or around 1270 BC (late date view, based on the era of Ramesses II).
+
+"A new king... who did not know Joseph" (1:8) marks a fundamental shift in Egypt's political landscape. Some scholars identify this with a native Egyptian dynasty after the expulsion of the Hyksos (foreign rulers), more suspicious of the Hebrew foreigners; others see it as an internal dynastic change. Whatever the interpretation, the political shift brought about Israel's reversal from sojourners to slaves.
+
+Pithom and Raamses (1:11) were Pharaoh's store cities; archaeological excavations in the eastern Nile Delta have uncovered large-scale mudbrick structures consistent with the biblical record. The Israelites were also forced into field labor and all manner of hard work (1:14), forming a comprehensive system of enslavement.`,
+    structure_zh: `一、以色列人繁衍兴旺（1:1-7）
+   - 进埃及的雅各诸子（1:1-5）
+   - 约瑟和那个世代都过去（1:6）
+   - 以色列人极其众多（1:7）
+
+二、法老第一次压迫：强迫劳役（1:8-14）
+   - 不认识约瑟的新王兴起（1:8）
+   - 法老的恐惧与计谋（1:9-10）
+   - 设立督工，服苦役（1:11-14）
+   - 越受苦越增多的悖论（1:12）
+
+三、法老第二次压迫：命令收生婆（1:15-21）
+   - 秘密命令：杀死男婴（1:15-16）
+   - 收生婆的敬畏与抗命（1:17）
+   - 神赐福给收生婆（1:20-21）
+
+四、法老第三次压迫：公开屠杀（1:22）
+   - 命令全体埃及人将男婴丢进尼罗河`,
+    structure_en: `I. Israel's Multiplication and Growth (1:1-7)
+   - The sons of Jacob who came to Egypt (1:1-5)
+   - Joseph and that generation passed away (1:6)
+   - Israel multiplied exceedingly (1:7)
+
+II. Pharaoh's First Oppression: Forced Labor (1:8-14)
+   - A new king arises who did not know Joseph (1:8)
+   - Pharaoh's fear and scheming (1:9-10)
+   - Taskmasters appointed; hard labor imposed (1:11-14)
+   - The paradox: the more oppressed, the more they multiplied (1:12)
+
+III. Pharaoh's Second Oppression: Commanding the Midwives (1:15-21)
+   - Secret command: kill the male infants (1:15-16)
+   - The midwives' fear of God and civil disobedience (1:17)
+   - God blesses the midwives (1:20-21)
+
+IV. Pharaoh's Third Oppression: Public Massacre (1:22)
+   - Command to all Egyptians: throw every male infant into the Nile`,
+    theology_zh: `**要点一：神的主权胜过人的策谋（God's Sovereignty Overcomes Human Schemes）**
+
+法老以为自己能够通过压迫阻止神的计划，但每一次他的策谋，都成为神成就更大旨意的工具。以色列人"越发多起来"（1:12），这不是对法老能力的讽刺，而是对神主权的宣告。韦敏斯德信条第三章第一节教导："神从永恒就凭自己意志最明智最圣洁的计划，自由地并不变地预定了一切将要发生的事。"法老的残暴不在神的计划之外，它恰恰是神计划的一部分——压迫使以色列人保持了民族的凝聚力，苦难使他们的眼睛向天呼求，为神伟大的救赎作为预备了条件。
+
+**要点二：敬畏神使人超越人间的权威（Fear of God Transcends Human Authority）**
+
+示弗拉和普阿的故事是圣经政治神学的奠基案例。她们的行为证明：对神的敬畏是一切合法公民抗命的根基。使徒行传5:29保罗和彼得宣告："顺从神，不顺从人，是应当的。"这不是无政府主义，而是一种有神学根基的界限：当人间的命令直接要求人违背神的律法时，信徒的最终效忠属于神。这一原则在历史上激励了无数抵抗邪恶权柄的基督徒，从荷兰庇护犹太人的信徒，到中国地下教会的信徒。神记念每一个在黑暗中为祂忠心的人。
+
+**要点三：苦难是神救赎计划的序曲（Suffering as Prelude to God's Redemptive Plan）**
+
+出埃及记第一章是整本书的序幕，它的存在是为了铺垫神的大能拯救。在神学上，苦难从来不是偶然或无意义的——它在神的救赎叙事中扮演着必不可少的角色。约瑟被卖、以色列被奴役，这些苦难凝聚了一个民族，为神最终显现祂的救赎大能做好了预备。正如韦敏斯德信条第五章第五节所言，神在至圣的护理中，也许允许祂的儿女"堕入各种试探，并且因自己的心而受多方腐败"，但目的是"管教他们……使他们更加谦卑，以及成就祂旨意中的其他圣洁目的"。`,
+    theology_en: `**Point One: God's Sovereignty Overcomes Human Schemes**
+
+Pharaoh thought he could halt God's plan through oppression, but every scheme of his became a tool for God to accomplish a greater purpose. Israel "multiplied" (1:12) — this is not a mockery of Pharaoh's ability but a proclamation of God's sovereignty. Westminster Confession chapter 3, section 1 teaches: "God from all eternity did, by the most wise and holy counsel of his own will, freely and unchangeably ordain whatsoever comes to pass." Pharaoh's brutality was not outside God's plan; it was precisely part of it — oppression kept Israel's national identity cohesive, and suffering lifted their eyes heavenward in cry, preparing the conditions for God's great redemptive act.
+
+**Point Two: Fear of God Transcends Human Authority**
+
+The story of Shiphrah and Puah is a foundational case in biblical political theology. Their actions demonstrate that fear of God is the basis for all legitimate civil disobedience. In Acts 5:29, Peter and the apostles declared: "We must obey God rather than men." This is not anarchism but a theologically grounded boundary: when human commands directly require violating God's law, the believer's ultimate allegiance belongs to God. This principle has inspired countless Christians who resisted evil authority throughout history, from Dutch believers who sheltered Jews to house church believers in China. God remembers everyone who is faithful to Him in the darkness.
+
+**Point Three: Suffering as Prelude to God's Redemptive Plan**
+
+Exodus chapter 1 is the prologue to the entire book, existing to set the stage for God's mighty salvation. Theologically, suffering is never accidental or meaningless — it plays an indispensable role in God's redemptive narrative. Joseph being sold, Israel being enslaved — these sufferings forged a nation and prepared the way for God's ultimate display of redemptive power. As Westminster Confession chapter 5, section 5 states, in His most holy providence God may permit His children "to fall into manifold temptations and the corruption of their own hearts," with the purpose of "chastening them... to humble them, and to make them more close and constant dependence upon Himself."`,
+    christShadow_zh: `出埃及记第一章的苦难叙事，在多个维度预表了基督和祂的救赎工作。
+
+**压迫中的拯救：** 以色列人在埃及的受苦，预表了全人类在罪的辖制之下的苦难。法老是罪和撒但权势的象征——那位强迫神的百姓服苦役、试图消灭救赎者的残暴统治者。正如神最终拯救以色列人脱离埃及，基督也来拯救祂的百姓"脱离他们的罪"（马太福音1:21）。
+
+**无辜婴儿遭害：** 法老命令杀死所有希伯来男婴（1:22），这直接预表了希律王屠杀伯利恒两岁以下婴儿的史事（马太福音2:16-18）。马太福音2:17-18引用了耶利米书31:15："在拉玛听见号啕大哭的声音，是拉结哭她儿女，不肯受安慰，因为他们都不在了。"两次屠杀，都是撒但通过人间暴君试图扼杀神的救赎计划，两次都以失败告终。
+
+**越压迫越增多：** "越发苦害他们，他们越发多起来"（1:12），这个悖论贯穿了教会历史。初代教会在罗马皇帝的迫害下不断增长，正应验了这个模式。德尔图良的名言"基督徒的血是教会的种子"，是对这个出埃及模式的神学总结。基督的十字架是最极致的形式——正是通过祂的死，才成就了生命的救赎。
+
+**神记念约的应许：** 出埃及记1章没有出现神的明显作为，只有苦难的不断升级。然而，神的缺席只是表象——章末的法老屠杀令，其实是神救赎大工即将展开的黑暗前夜。黑暗越深，黎明越近。基督也是在最黑暗的时刻——在十字架的死亡中——成就了最光明的救赎。`,
+    christShadow_en: `The narrative of suffering in Exodus chapter 1 prefigures Christ and His redemptive work on multiple dimensions.
+
+**Rescue in Oppression:** Israel's suffering in Egypt prefigures all humanity's bondage under the dominion of sin. Pharaoh is a symbol of sin and the power of Satan — the brutal ruler who compelled God's people to serve as slaves and sought to eliminate the redeemer. Just as God ultimately rescued Israel from Egypt, Christ came to save His people "from their sins" (Matthew 1:21).
+
+**Slaughter of Innocent Infants:** Pharaoh's command to kill all Hebrew male infants (1:22) directly foreshadows Herod's massacre of the infants of Bethlehem two years old and under (Matthew 2:16-18). Matthew 2:17-18 quotes Jeremiah 31:15: "A voice was heard in Ramah, weeping and loud lamentation, Rachel weeping for her children; she refused to be comforted, because they are no more." Both massacres were Satan's attempt through a human tyrant to extinguish God's redemptive plan, and both failed.
+
+**The More Oppressed, the More They Multiply:** "The more they were oppressed, the more they multiplied" (1:12) — this paradox runs throughout church history. The early church grew continuously under Roman imperial persecution, fulfilling this pattern. Tertullian's famous saying, "The blood of the martyrs is the seed of the church," is a theological summary of this Exodus pattern. The cross of Christ is its most extreme form — it is precisely through His death that the redemption of life was accomplished.
+
+**God Remembers His Covenant Promises:** Chapter 1 of Exodus shows no obvious action by God — only suffering's unceasing escalation. Yet God's absence is only apparent; Pharaoh's massacre decree at the chapter's end is actually the dark eve before God's redemptive work is about to unfold. The deeper the darkness, the nearer the dawn. Christ, too, accomplished the most brilliant redemption at the darkest moment — in the death of the cross.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 2,
+    publishDate: '2026-05-01',
+    title: '摩西的出生与蒙召预备', titleEn: 'The Birth of Moses and Preparation for His Calling',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 2 / Exodus 2',
+    content_zh: `我摩西，在每一次回忆自己出生的故事时，都会被神奇妙的护理所震撼。我的出生，是在极度黑暗中的一道光——法老刚刚下了那道死令，要将所有希伯来男婴丢进尼罗河。
+
+我的父亲亚兰和母亲约基别是利未支派的人（出埃及记2:1）。当我出生时，母亲看见我"俊美"（出埃及记2:2），就将我藏了三个月。"俊美"这个词，在希伯来语中有"美好"的含义，斯提反在使徒行传7:20引用时说我"在神眼前甚是俊美"。我的俊美，不是成就我逃脱的原因，而是神预定要保存这个孩子的记号。
+
+三个月后，无法再藏，母亲用蒲草编了一个箱子，抹上石漆和沥青，把我放在里面，搁在尼罗河边的芦荻中（出埃及记2:3）。这个"箱子"在希伯来原文中，与挪亚的"方舟"（tevah）使用同一个词！这绝不是偶然的文字巧合——在洪水中拯救挪亚的那位神，如今用同一种方式，在河流中保护这个注定要成为救赎者的婴孩。
+
+法老女儿到河边沐浴，发现了那个箱子，打开一看，孩子正在哭泣。经文说她"动了怜悯的心"（出埃及记2:6）。就是这一刻的怜悯，改变了历史的走向。我的姐姐米利暗一直在远处守望，这时机智地上前问道："我去在希伯来妇人中为你叫一个奶妈来，给你哺乳这孩子，好不好？"（出埃及记2:7）法老女儿同意了。于是我自己的母亲约基别被带来，竟然以有薪酬的方式哺乳我——这是神的幽默，也是神护理的精妙。
+
+我在法老宫廷长大，受了埃及一切的学问（使徒行传7:22）。我学习了埃及的语言、文字、法律、军事、行政。这一切看似世俗的教育，其实都是神的装备——神要使用我成为一个领袖、一个立法者、一个书写祂律法的人。神从来不浪费任何经历。
+
+然而，荣华富贵并没有使我忘记自己的根。当我长大，"有一天，摩西出去到他弟兄那里，看他们担重担"（出埃及记2:11）。那是一个决定性的时刻。我认同了那些受苦的同胞，而不是那些施压的主人。希伯来书11:24-25说，我"因着信，长大了，就不肯称为法老女儿之子，他宁可与神的百姓同受苦害，也不愿暂时享受罪中之乐"。
+
+但那天，我的热情超过了智慧。看见一个埃及人打希伯来人，我出手打死了那个埃及人，把他藏在沙地里。我以为没有人看见，却没有想到，我的同胞正在冷眼旁观（出埃及记2:14）。次日，当我试图调解两个希伯来人的争执，其中一人嘲讽地问："谁立你作我们的首领和审判官呢？"——这话刺穿了我的心。
+
+我不是神所立的时候，妄自称为救赎者，结果一败涂地。这是我生命中的第一次大失败，也是神在塑造我之前，必须让我经历的破碎。法老知道了此事，要杀我，我就逃往米甸（出埃及记2:15）。
+
+在米甸，我帮助祭司叶忒罗的七个女儿驱逐欺负她们的牧羊人，使她们能饮水牲畜。叶忒罗请我住下，我娶了他的女儿西坡拉为妻（出埃及记2:21）。在米甸的旷野，我度过了四十年。从权贵之子到旷野牧羊人，这四十年是神砥砺我的学校。在那里，神磨去了我的锐气，培养了我的忍耐，使我学会了在旷野中行走——为的是日后带领以色列人在旷野中跋涉。
+
+与此同时，在埃及，"过了许多年日……以色列人因做苦工就叹息哀求，他们的哀声达到神面前。神听见他们的哀声，就记念祂与亚伯拉罕、以撒、雅各所立的约。神看顾以色列人，也知道他们的苦情"（出埃及记2:23-25）。
+
+这四节经文是整个出埃及故事的神学枢纽。神"听见"、神"记念"、神"看顾"、神"知道"——这四个动词宣告了神不是一个冷漠的旁观者，而是一位主动介入历史的约神。祂从未忘记祂的百姓，即使他们已经哭喊了四百年。
+
+旷野岁月是寂寞的，但它是神的学校。我在那里学到了在宫廷里学不到的东西：谦卑、等候、倚靠。神花了四十年，将一个鲁莽的王子塑造成一个温柔的牧者。`,
+    content_en: `I, Moses, am struck with awe at God's marvelous providence every time I remember the story of my birth. My birth was a ray of light in the deepest darkness — Pharaoh had just issued that death decree, commanding that all Hebrew male infants be thrown into the Nile.
+
+My father Amram and mother Jochebed were of the tribe of Levi (Exodus 2:1). When I was born, my mother saw that I was "a fine child" (Exodus 2:2) and hid me for three months. The word "fine" carries the meaning of "beautiful" in Hebrew; Stephen, quoting this in Acts 7:20, says I was "beautiful in God's sight." My beauty was not the reason I escaped, but a sign that God had predetermined to preserve this child.
+
+Three months later, unable to hide me any longer, my mother made a basket of bulrushes, daubing it with bitumen and pitch, and placed me in it among the reeds at the river's edge (Exodus 2:3). This "basket" uses the same Hebrew word (tevah) as Noah's "ark"! This is no mere coincidence of language — the same God who saved Noah in the ark amid floodwaters was now protecting, in the same way, this infant destined to be a redeemer.
+
+Pharaoh's daughter came to the river to bathe and found the basket. Opening it, she saw the child crying. The text says she "took pity on him" (Exodus 2:6). It was this moment of compassion that changed the course of history. My sister Miriam had been watching from a distance, and cleverly stepped forward: "Shall I go and call you a nurse from the Hebrew women to nurse the child for you?" (Exodus 2:7). Pharaoh's daughter agreed. So my own mother Jochebed was brought to nurse me — with pay. This is divine humor, and the exquisite artistry of God's providence.
+
+I grew up in Pharaoh's court and was "instructed in all the wisdom of the Egyptians" (Acts 7:22). I studied the Egyptian language, writing, law, military strategy, and administration. This seemingly secular education was in fact God's preparation — God intended to use me as a leader, a lawgiver, a scribe of His law. God never wastes any experience.
+
+Yet wealth and honor did not make me forget my roots. As I grew up, "one day Moses went out to his people and looked on their burdens" (Exodus 2:11). That was a decisive moment. I identified with those suffering compatriots rather than their oppressors. Hebrews 11:24-25 says that "by faith Moses, when he was grown up, refused to be called the son of Pharaoh's daughter, choosing rather to be mistreated with the people of God than to enjoy the fleeting pleasures of sin."
+
+But that day, my zeal exceeded my wisdom. Seeing an Egyptian beating a Hebrew, I killed the Egyptian and hid him in the sand. I thought no one had seen, not realizing that my own countrymen were watching with cold eyes (Exodus 2:14). The next day, when I tried to mediate a quarrel between two Hebrews, one of them mockingly asked: "Who made you a prince and a judge over us?" — those words pierced my heart.
+
+When I was not appointed by God, I presumed to call myself a rescuer and failed completely. This was my first great failure in life, and also the brokenness God had to lead me through before He could shape me. Pharaoh heard of it and sought to kill me, so I fled to Midian (Exodus 2:15).
+
+In Midian, I helped the seven daughters of the priest Jethro drive away the shepherds who were harassing them, enabling them to water their flocks. Jethro invited me to stay, and I married his daughter Zipporah (Exodus 2:21). In the wilderness of Midian, I spent forty years. From a son of privilege to a wilderness shepherd — those forty years were God's school to refine me. There, God ground away my sharp edges, cultivated patience in me, and taught me to walk in the wilderness — in preparation for leading Israel through the wilderness.
+
+Meanwhile, in Egypt, "during those many days... the people of Israel groaned because of their slavery and cried out for help. Their cry for rescue from slavery came up to God. And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob. God saw the people of Israel — and God knew" (Exodus 2:23-25).
+
+These four verses are the theological pivot of the entire Exodus story. God "heard," God "remembered," God "saw," God "knew" — these four verbs proclaim that God is not a disinterested bystander but an actively intervening covenant God. He never forgot His people, even though they had been crying out for four hundred years.
+
+The wilderness years were lonely, but they were God's school. There I learned what the palace could not teach: humility, waiting, dependence. God spent forty years transforming a rash prince into a gentle shepherd.`,
+    historyContext_zh: `摩西的出生和早年经历可追溯至公元前15世纪（早期年代说）或公元前13世纪（晚期年代说）。埃及王室宫廷的教育体系高度发达，包括文学、数学、天文、法律等学科，这与使徒行传7:22所描述的摩西受了"埃及一切的学问"完全吻合。
+
+米甸位于今日西奈半岛和阿拉伯半岛西北部，是含有铜矿和其他资源的地区。摩西在那里的四十年牧羊经历，使他熟悉了西奈旷野的地理，为后来带领以色列人的旅程提供了重要的实际知识。
+
+叶忒罗（又称流珥）是米甸的祭司，其宗教信仰与以色列人有一定关联（可能是亚伯拉罕后裔以实玛利或基土拉的后裔）。摩西娶西坡拉，是神为他在米甸安置了家，同时也通过叶忒罗将行政管理的智慧传授给他（参出埃及记18章）。
+
+"方舟"（tevah）这个词在旧约中只出现两次：创世记中的挪亚方舟和出埃及记中摩西的蒲草箱，显示了圣经作者有意识的神学平行。`,
+    historyContext_en: `Moses's birth and early years can be traced to the 15th century BC (early date view) or 13th century BC (late date view). Egypt's royal court had a highly developed educational system, including literature, mathematics, astronomy, and law, fully consistent with Acts 7:22's description of Moses being "instructed in all the wisdom of the Egyptians."
+
+Midian was located in the Sinai Peninsula and northwestern Arabia, a region containing copper mines and other resources. Moses's forty years of shepherding there familiarized him with the geography of the Sinai wilderness, providing crucial practical knowledge for later leading Israel on their journey.
+
+Jethro (also called Reuel) was a priest of Midian, whose religious beliefs had some connection to Israel (possibly a descendant of Abraham through Ishmael or Keturah). Moses's marriage to Zipporah was God's way of establishing him in Midian, while also transmitting wisdom about administrative management through Jethro (see Exodus 18).
+
+The word "ark" (tevah) appears only twice in the Old Testament: Noah's ark in Genesis and Moses's basket in Exodus, revealing the biblical author's intentional theological parallelism.`,
+    structure_zh: `一、摩西的出生与被保护（2:1-10）
+   - 父母和支派背景（2:1）
+   - 母亲藏匿婴儿（2:2-4）
+   - 法老女儿发现摩西（2:5-6）
+   - 米利暗的机智（2:7-9）
+   - 摩西被命名，在宫廷成长（2:10）
+
+二、摩西的成年与第一次失败（2:11-15）
+   - 认同受苦的同胞（2:11）
+   - 打死埃及人（2:11-12）
+   - 同胞的拒绝（2:13-14）
+   - 逃往米甸（2:15）
+
+三、摩西在米甸（2:16-22）
+   - 帮助叶忒罗的女儿（2:16-17）
+   - 在米甸安家（2:18-22）
+
+四、神记念祂的约（2:23-25）
+   - 以色列人哀声达天（2:23）
+   - 神听见、记念、看顾、知道（2:24-25）`,
+    structure_en: `I. Moses's Birth and Protection (2:1-10)
+   - Parental and tribal background (2:1)
+   - Mother hides the infant (2:2-4)
+   - Pharaoh's daughter finds Moses (2:5-6)
+   - Miriam's cleverness (2:7-9)
+   - Moses named; grows up in the palace (2:10)
+
+II. Moses's Adulthood and First Failure (2:11-15)
+   - Identification with suffering compatriots (2:11)
+   - Kills the Egyptian (2:11-12)
+   - Rejection by his own people (2:13-14)
+   - Flight to Midian (2:15)
+
+III. Moses in Midian (2:16-22)
+   - Helps Jethro's daughters (2:16-17)
+   - Settles in Midian (2:18-22)
+
+IV. God Remembers His Covenant (2:23-25)
+   - Israel's cry reaches heaven (2:23)
+   - God hears, remembers, sees, knows (2:24-25)`,
+    theology_zh: `**要点一：神的护理通过看似偶然的事件成就（Providence Through Apparent Coincidence）**
+
+摩西的整个婴儿时期充满了"偶然"：蒲草箱恰好漂到法老女儿沐浴的地方，法老女儿恰好开了慈悲之心，米利暗恰好提出了正确的建议。改革宗神学拒绝"偶然"这个概念——没有什么是真正偶然的。韦敏斯德信条第五章第二节教导：神的护理延伸到"最小的事情"，祂"以最精妙、最无法抗拒的方式"成就祂的旨意。每一个"偶然"都是神手的轻触。这对我们的日常生活意味着：我们所经历的每一个看似偶然的相遇、转折，都可能是神护理的安排。
+
+**要点二：神使用失败塑造器皿（God Uses Failure to Shape His Vessels）**
+
+摩西在试图拯救同胞时的失败，是神教育的一部分。他以自己的力量出手，结果铸成大错。但这次失败不是终点，而是新起点的预备。神花了四十年的旷野生活，将一个充满自信的王子塑造成一个说自己"口笨舌拙"的谦卑人（出埃及记4:10）。改革宗神学强调全然败坏（Total Depravity）的教义，不仅指人在救恩上的无力，也指人凭自己的义或能力行神之事的无力。神的工作通过我们的软弱更完全地彰显（哥林多后书12:9）。
+
+**要点三：神记念祂的约（God Remembers His Covenant）**
+
+出埃及记2:24-25是圣经中最令人安慰的经文之一。在以色列人哭泣了数百年之后，神"记念"祂的约。这里的"记念"不是指神曾经忘记，而是指神以行动回应祂的约承诺。在改革宗神学中，神的约是不可撤销的（unconditional in its ultimate fulfillment）。以色列人的苦难甚至不能被解释为神惩罚他们的不信——而是在神更大计划中一段黑暗却必要的时期。这给了信徒极大的安慰：无论我们的处境多么绝望，神的约承诺都坚定不移。`,
+    theology_en: `**Point One: God's Providence Through Apparent Coincidence**
+
+Moses's entire infancy was filled with "coincidences": the basket happened to float to where Pharaoh's daughter was bathing; Pharaoh's daughter happened to open her heart in compassion; Miriam happened to make exactly the right suggestion. Reformed theology rejects the concept of "coincidence" — nothing is truly coincidental. Westminster Confession chapter 5, section 2 teaches that God's providence extends to "the least things," accomplishing His will "in the most holy, free, and wise manner." Each "coincidence" is a gentle touch of God's hand. For our daily lives, this means: every seemingly chance encounter, every turn of events we experience, may be God's providential arrangement.
+
+**Point Two: God Uses Failure to Shape His Vessels**
+
+Moses's failure when trying to rescue his compatriots was part of God's education. He acted in his own strength and made a serious mistake. But this failure was not an endpoint, but preparation for a new beginning. God spent forty years of wilderness life transforming a self-confident prince into a humble man who said he was "not eloquent" (Exodus 4:10). Reformed theology emphasizes the doctrine of Total Depravity — not only referring to human inability in salvation, but also inability to do God's work through one's own righteousness or strength. God's work is more fully manifested through our weakness (2 Corinthians 12:9).
+
+**Point Three: God Remembers His Covenant**
+
+Exodus 2:24-25 is one of the most comforting passages in Scripture. After Israel had been crying out for hundreds of years, God "remembered" His covenant. This "remembering" does not mean God had forgotten; it means God responded with action to His covenant commitments. In Reformed theology, God's covenant is irrevocable (unconditional in its ultimate fulfillment). Israel's suffering cannot even be interpreted as God punishing their unfaithfulness — it was a dark but necessary period in God's larger plan. This gives believers great comfort: no matter how desperate our circumstances, God's covenant promises remain firm.`,
+    christShadow_zh: `摩西的生命轨迹在多个层面预表了基督。
+
+**从死里被拯救的婴儿：** 摩西在水中被拯救，脱离了法老的屠杀令；耶稣在婴儿时期被带往埃及，脱离了希律的屠杀令（马太福音2:13-15）。两者都是在残暴王权的阴影下，被神奇妙保护的婴儿救赎者。
+
+**与百姓认同：** 摩西"不肯称为法老女儿之子"，选择"与神的百姓同受苦害"（希伯来书11:24-25）。这预表了基督的道成肉身——祂本是神，却"取了奴仆的形象，成为人的样式"（腓立比书2:7），与罪人完全认同，甚至为我们的罪成为咒诅（加拉太书3:13）。
+
+**被自己人拒绝：** 摩西第一次出现在同胞面前时被拒绝（出埃及记2:14），司提反在使徒行传7:35明确将此与基督相比："他们拒绝的这个摩西，就是神借那在荆棘中显现之天使的手，差派来作首领和救赎者的。"以色列人第一次拒绝摩西，正如以色列人拒绝了基督。但摩西第二次回来时，以色列人接受了他；基督也将第二次再来，"那时以色列全家都要得救"（罗马书11:26）。
+
+**旷野预备：** 摩西四十年的旷野生涯，是神为他预备的装备期；基督在正式服事前，也在旷野受了四十天的试探（马太福音4:1-11），胜了亚当和以色列人所败的试探，证明自己是真正的、完全的救赎者。
+
+摩西的蒲草箱漂流尼罗河，是每一个失落灵魂被神保护、引导、拯救的缩影。而将我们从罪的洪流中拯救出来的，是比摩西更大的那一位——祂不是被放在蒲草箱里，而是被放在十字架上，以死亡成就了永恒的救赎。`,
+    christShadow_en: `Moses's life trajectory prefigures Christ on multiple levels.
+
+**An infant saved from death:** Moses was rescued from the waters, escaping Pharaoh's massacre decree; Jesus was taken to Egypt as an infant, escaping Herod's massacre decree (Matthew 2:13-15). Both were infant redeemers miraculously protected by God in the shadow of a brutal royal power.
+
+**Identification with the people:** Moses "refused to be called the son of Pharaoh's daughter," choosing to "be mistreated with the people of God" (Hebrews 11:24-25). This prefigures Christ's incarnation — He who was God "took the form of a servant, being born in the likeness of men" (Philippians 2:7), fully identifying with sinners, even becoming a curse for our sins (Galatians 3:13).
+
+**Rejected by his own people:** Moses was rejected when he first appeared among his countrymen (Exodus 2:14). Stephen in Acts 7:35 explicitly parallels this to Christ: "This Moses, whom they rejected... God sent as both ruler and redeemer by the hand of the angel who appeared to him in the bush." Israel's first rejection of Moses is like Israel's rejection of Christ. But when Moses came a second time, Israel received him; Christ will also come a second time, and "in this way all Israel will be saved" (Romans 11:26).
+
+**Wilderness preparation:** Moses's forty years in the wilderness were God's equipping period for him; before His formal ministry, Christ also spent forty days in the wilderness being tempted (Matthew 4:1-11), overcoming the temptations in which Adam and Israel had failed, proving Himself to be the true and perfect Redeemer.
+
+Moses's basket floating on the Nile is a microcosm of every lost soul being protected, guided, and saved by God. But the One who rescues us from the flood of sin is greater than Moses — He was not placed in a basket but on a cross, accomplishing eternal redemption through death.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 3,
+    publishDate: '2026-05-04',
+    title: '荆棘火焰中的呼召', titleEn: 'The Call from the Burning Bush',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 3 / Exodus 3',
+    content_zh: `我摩西，在何烈山牧羊的那一天，我以为不过是平常的一天。我已经在米甸旷野牧羊四十年了，每一天都大同小异——赶着羊群，寻找水草，看着同样的山石和天空。那一年，我已经八十岁了（使徒行传7:30），在人看来，已是垂暮之年，早过了建功立业的时候。
+
+然而，神的呼召从不按人的时间表。
+
+"耶和华的使者从荆棘里火焰中向摩西显现"（出埃及记3:2）。荆棘在燃烧，却没有被烧毁——这个异象本身就是一个神学宣告。火代表神的圣洁和临在，但这火不消耗、不毁灭。神在以色列人受苦的过程中同样如此临在——祂临在于苦难之中，却不被苦难所灭，祂的百姓在铁炉中被熬炼，却不被火所吞噬。
+
+我对自己说："我要过去看这大异象，这荆棘为何没有烧坏呢？"（出埃及记3:3）。是好奇心驱使我走近，但神等的正是这一步。当神看见我过来要看时，就从荆棘里呼唤我说："摩西！摩西！"我说："我在这里。"
+
+神的呼唤是双重的——"摩西！摩西！"这种重复的呼唤模式，在圣经中出现在最重要的时刻：神呼唤亚伯拉罕（创世记22:11），呼唤雅各（创世记46:2），呼唤撒母耳（撒母耳记上3:10）。这种双重呼唤是亲密与紧迫的同时表达。
+
+神先是命令我："不要近前来。当把你脚上的鞋脱下来，因为你所站之地是圣地"（出埃及记3:5）。脱鞋——这是一个东方文化中极为深刻的谦卑和敬畏的姿势。在神圣的临在面前，没有任何人间的地位、成就或身份可以作为倚靠。一个法老宫廷的王子，一个旷野的牧羊人，在神面前都必须赤脚站立，承认自己不过是蒙召的受造物。
+
+接着，神宣告自己的身份："我是你父亲的神，是亚伯拉罕的神，以撒的神，雅各的神"（出埃及记3:6）。这个自我介绍震动了我——神用祖先们的名字来定义自己，表明祂是历史的神，是守约的神。那时，我"蒙上脸，因为怕看神"（出埃及记3:6）。
+
+在大多数宗教中，人追寻神；但在这里，是神主动追寻人。是神选择了显现，是神主动呼唤，是神来寻找一个在旷野放羊的老人。这是恩典的本质。
+
+神向我宣告了祂的使命托付："我的百姓在埃及所受的困苦，我实在看见了，他们因受督工辖制所发的哀声，我也听见了。我原知道他们的痛苦，我下来是要救他们脱离埃及人的手，领他们出了那地，到美好宽阔、流奶与蜜之地"（出埃及记3:7-8）。
+
+注意神所用的动词：看见、听见、知道、下来、救——这些是行动的动词，是参与的动词，是神亲自投入历史的宣告。神不是高高在上、袖手旁观的神，祂是"下来"的神，是主动介入苦难的神。
+
+但接下来神的话让我震惊——"我要打发你去见法老，使你可以将我的百姓以色列人从埃及领出来"（出埃及记3:10）。等等！神说的是"我下来救他们"，但祂打发的是"我"？这就是神做事的方式——祂要通过一个人来成就祂的旨意。
+
+我的第一反应是推辞："我是什么人，竟能去见法老，将以色列人从埃及领出来呢？"（出埃及记3:11）。这个问题既是谦卑，也是本能的恐惧。四十年前，我还会冲动行事；四十年后的旷野经历，已经彻底磨碎了我的自信。然而，谦卑与推辞是有区别的。真正的谦卑是对自己软弱的认知，同时仍然信靠那位呼召自己的神；而推辞则是用软弱作为拒绝神的借口。
+
+神的回答不是给我一张资历证书，而是一个应许："我必与你同在"（出埃及记3:12）。神同在，这是一切呼召的根基，也是一切能力的来源。祂不会让我单独面对法老；祂要与我同去。
+
+然后我问了那个改变了整个救赎史神学的问题："他们若问我说，他叫什么名字，我要对他们说什么呢？"（出埃及记3:13）。神的回答是宇宙中最深刻的自我启示："我是自有永有的"（出埃及记3:14）——在希伯来语中，这是"ehyeh asher ehyeh"，直译为"我是我所是"，或"我将是我将是"。这个神名包含了存在的完全性、自足性和永恒性。祂不依赖任何外物而存在，祂就是存在本身。
+
+这个名字要告诉我和以色列人：引导你们的那一位，是不改变的、永恒的、自有的神。无论法老多么强大，无论旷野多么艰难，无论未来多么不可预测，"我是"永远是"我是"——祂昨日今日一直到永远都不改变。`,
+    content_en: `I, Moses, on the day I tended sheep at Horeb, thought it would be an ordinary day. I had been shepherding flocks in the wilderness of Midian for forty years — each day much the same as the last: driving the sheep, seeking water and pasture, watching the same rocks and sky. That year I was already eighty years old (Acts 7:30), past what anyone would consider the age of achievement by human reckoning.
+
+Yet God's calling never follows a human timetable.
+
+"The angel of the LORD appeared to him in a flame of fire out of the midst of a bush" (Exodus 3:2). The bush was burning, yet it was not consumed — this vision is itself a theological proclamation. Fire represents God's holiness and presence, but this fire does not consume or destroy. God was similarly present in Israel's suffering — present in the midst of affliction, yet not destroyed by it; His people were refined in the furnace but not devoured by the flame.
+
+I said to myself, "I will turn aside to see this great sight, why the bush is not burned" (Exodus 3:3). Curiosity drew me near, but this was precisely the step God was waiting for. When God saw that I turned aside to look, He called to me out of the bush: "Moses, Moses!" And I said, "Here I am."
+
+God's call was doubled — "Moses, Moses!" This pattern of repeated calling appears in Scripture at its most pivotal moments: God calling Abraham (Genesis 22:11), Jacob (Genesis 46:2), Samuel (1 Samuel 3:10). This doubling simultaneously expresses intimacy and urgency.
+
+God first commanded me: "Do not come near; take your sandals off your feet, for the place on which you are standing is holy ground" (Exodus 3:5). Removing one's sandals — in Eastern culture this is a profound gesture of humility and reverence. In the presence of the divine, no human status, achievement, or identity can be relied upon. A prince of Pharaoh's palace, a wilderness shepherd — both must stand barefoot before God, acknowledging they are merely creatures called by His grace.
+
+Then God declared His identity: "I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob" (Exodus 3:6). This self-introduction shook me — God defined Himself by the names of the patriarchs, showing that He is the God of history, the covenant-keeping God. At that, I "hid his face, for he was afraid to look at God" (Exodus 3:6).
+
+In most religions, humans seek God; but here, God actively seeks humans. It was God who chose to appear, God who called out, God who came to find an old man tending sheep in the wilderness. This is the nature of grace.
+
+God declared to me His commission: "I have surely seen the affliction of my people who are in Egypt and have heard their cry because of their taskmasters. I know their sufferings, and I have come down to deliver them out of the hand of the Egyptians and to bring them up out of that land to a good and broad land, a land flowing with milk and honey" (Exodus 3:7-8).
+
+Notice the verbs God used: seen, heard, know, come down, deliver — these are verbs of action, of engagement, of God personally entering history. God is not a distant, uninvolved deity; He is the God who "comes down," the God who actively intervenes in suffering.
+
+But then God's next words stunned me: "Come, I will send you to Pharaoh that you may bring my people, the children of Israel, out of Egypt" (Exodus 3:10). Wait — God said "I have come down to deliver them," but He is sending me? This is how God works — He accomplishes His will through a human instrument.
+
+My first response was to demur: "Who am I that I should go to Pharaoh and bring the children of Israel out of Egypt?" (Exodus 3:11). This question was both humility and instinctive fear. Forty years earlier I would have acted impulsively; forty years of wilderness experience had thoroughly shattered my self-confidence. Yet there is a difference between humility and refusal. True humility recognizes one's weakness while still trusting the God who calls; refusal uses weakness as an excuse to reject God.
+
+God's answer was not a certificate of my qualifications but a promise: "But I will be with you" (Exodus 3:12). God's presence — this is the foundation of every calling and the source of every ability. He would not send me to face Pharaoh alone; He would go with me.
+
+Then I asked the question that transformed the entire theology of redemptive history: "If I come to the people of Israel and say to them, 'The God of your fathers has sent me to you,' and they ask me, 'What is his name?' what shall I say to them?" (Exodus 3:13). God's answer was the most profound self-revelation in the universe: "I AM WHO I AM" (Exodus 3:14) — in Hebrew, "ehyeh asher ehyeh," literally "I am what I am" or "I will be what I will be." This divine name contains complete existence, self-sufficiency, and eternity. He does not depend on anything external; He is existence itself.
+
+This name was meant to tell me and Israel: the One who guides you is the unchanging, eternal, self-existent God. No matter how powerful Pharaoh, how harsh the wilderness, how unpredictable the future, "I AM" forever remains "I AM" — He is the same yesterday, today, and forever.`,
+    historyContext_zh: `何烈山（Horeb）是西奈山的另一名称，是圣经中极具神学意义的地点。神在此向摩西显现，后来又在此颁布律法（出埃及记19-20章），以利亚也曾在此处遇见神（列王记上19:8-12）。这座山成为神与人相遇的神圣空间的象征。
+
+荆棘（在希伯来语中为seneh）是西奈半岛常见的植物，有学者认为可能是一种荆棘灌木（Rubus sanctus或Acacia）。然而，对于这一神迹，重要的不是荆棘的植物学身份，而是"燃烧而不消耗"这一神学意象。
+
+"流奶与蜜"（3:8）是迦南地肥沃的惯用表达，乳品来自丰盛的牧场，蜂蜜来自野生蜂巢或枣蜜。考古证据显示，公元前二千年代的迦南地确为农业富饶之地。
+
+神圣四字神名YHWH（雅威/耶和华）在出埃及记3:14-15首次得到解释。传统上犹太人不发音这个名字，代以"主"（Adonai）。这个名字与"是"（hayah）动词相关，强调神的自存性和主动临在性。`,
+    historyContext_en: `Horeb (Horeb) is another name for Mount Sinai, a site of great theological significance in Scripture. God appeared to Moses here; later He gave the law here (Exodus 19-20); Elijah also encountered God here (1 Kings 19:8-12). This mountain became the symbol of a sacred space where God and humans meet.
+
+The "bush" (Hebrew: seneh) is a plant common to the Sinai Peninsula; some scholars identify it as a thorny shrub (Rubus sanctus or Acacia). However, what matters for this miracle is not the plant's botanical identity but the theological image of "burning yet not consumed."
+
+"A land flowing with milk and honey" (3:8) is a conventional expression for Canaan's fertility: dairy from abundant pastures, honey from wild beehives or date honey. Archaeological evidence shows that Canaan in the second millennium BC was indeed agriculturally rich.
+
+The divine tetragrammaton YHWH (Yahweh/Jehovah) receives its first explicit explanation in Exodus 3:14-15. Traditionally, Jewish people do not pronounce this name, substituting "Lord" (Adonai). The name relates to the verb "to be" (hayah), emphasizing God's self-existence and active presence.`,
+    structure_zh: `一、荆棘异象：神的临在（3:1-6）
+   - 摩西在何烈山牧羊（3:1）
+   - 荆棘燃烧而不消耗（3:2-3）
+   - 神呼唤摩西（3:4）
+   - 脱鞋：神圣临在的要求（3:5）
+   - 神宣告自己是列祖的神（3:6）
+
+二、神的使命宣告（3:7-10）
+   - 神看见以色列人的苦情（3:7）
+   - 神应许带他们进迦南（3:8）
+   - 神呼召摩西去见法老（3:9-10）
+
+三、摩西的问题与神的应许（3:11-22）
+   - 第一个问题：我是谁？（3:11）
+   - 神的回答：我必与你同在（3:12）
+   - 第二个问题：你叫什么名字？（3:13）
+   - 神的回答：我是自有永有的（YHWH）（3:14-15）
+   - 神的具体行动计划（3:16-22）`,
+    structure_en: `I. The Burning Bush: God's Presence (3:1-6)
+   - Moses shepherding at Horeb (3:1)
+   - The bush burns but is not consumed (3:2-3)
+   - God calls Moses (3:4)
+   - Remove sandals: the demand of holy presence (3:5)
+   - God declares Himself the God of the patriarchs (3:6)
+
+II. God's Commission (3:7-10)
+   - God sees Israel's suffering (3:7)
+   - God promises to bring them to Canaan (3:8)
+   - God calls Moses to go to Pharaoh (3:9-10)
+
+III. Moses's Questions and God's Promises (3:11-22)
+   - First question: Who am I? (3:11)
+   - God's answer: I will be with you (3:12)
+   - Second question: What is your name? (3:13)
+   - God's answer: I AM WHO I AM (YHWH) (3:14-15)
+   - God's specific action plan (3:16-22)`,
+    theology_zh: `**要点一：神圣的临在与人的谦卑（Divine Presence and Human Humility）**
+
+"把你脚上的鞋脱下来，因为你所站之地是圣地"（3:5）——这个命令揭示了圣洁论的核心：神的绝对圣洁要求人的绝对谦卑。改革宗神学对神的超越性（transcendence）有高度的强调：神是"在一切之上的神"，是受造物所无法企及的圣者。韦敏斯德小要理问答第4问答教导：神是一个灵，在祂的自身与完全中是无限的、永恒的、不变的。当如此圣洁的神选择"下来"，这本身就是极大的恩典；当祂对我说话，是全然圣洁者屈尊俯就污秽的受造物。脱鞋，是对这恩典的认知，也是对自身有限性的承认。这个姿势教导我们，所有的敬拜都必须始于对神圣洁的认识和对自身罪性的谦卑。
+
+**要点二：神的名字——自有永有的存在（The Divine Name: Self-Existent Being）**
+
+"我是自有永有的"（ehyeh asher ehyeh）是圣经最深刻的神学宣告之一。改革宗神学在此基础上建立了神本体论的基石——神的阿斯它（aseity）：神完全自足，不依赖任何外物。加尔文在《基督教要义》第一卷中教导：神是"无来源之源"，是一切存在的根基。这个名字也是神的约名YHWH（耶和华）的解释——"将要是"与"曾经是"的总和，即永恒的现在。新约中，约翰福音多次记录耶稣使用"我是"（ego eimi）的自我宣告（约翰福音8:58："我实实在在地告诉你们，还没有亚伯拉罕，就有了我"），表明祂与YHWH的同一性。
+
+**要点三：神主动的恩典呼召（God's Active, Gracious Calling）**
+
+荆棘火焰的故事颠覆了"人寻找神"的宗教模式。是神选择显现，是神发出呼唤，是神委托使命。摩西没有祈求异象，没有进行什么属灵准备，他只是在平凡的工作中被神拦截。这是改革宗神学关于有效呼召（effectual calling）的图像——神的呼召不依赖人的配得或寻求，而是神主权恩典的单方面行动。韦敏斯德信条第十章第一节："神所有那些蒙拣选……在神所定的时候，乐意呼召他们进入与耶稣基督的恩典相交……凭祂的灵和话语，照样更新他们的心，有效地把他们带到耶稣基督那里。"神在荆棘中寻找摩西，正如祂在我们的平凡日子中寻找我们。`,
+    theology_en: `**Point One: Divine Presence and Human Humility**
+
+"Take your sandals off your feet, for the place on which you are standing is holy ground" (3:5) — this command reveals the core of holiness theology: God's absolute holiness requires absolute human humility. Reformed theology places great emphasis on divine transcendence: God is the "God who is above all," the Holy One beyond the reach of creatures. Westminster Shorter Catechism Q&A 4 teaches: God is a Spirit, infinite, eternal, and unchangeable in His being and perfections. That such a holy God should choose to "come down" is itself great grace; that He should speak to me is the completely Holy One condescending to a polluted creature. Removing one's sandals is the recognition of this grace and the acknowledgment of one's own finitude. This posture teaches us that all worship must begin with knowledge of God's holiness and humility about our own sinfulness.
+
+**Point Two: The Divine Name — Self-Existent Being**
+
+"I AM WHO I AM" (ehyeh asher ehyeh) is one of Scripture's most profound theological declarations. Reformed theology builds upon this the cornerstone of divine ontology — God's aseity: God is completely self-sufficient, dependent on nothing external. Calvin taught in Institutes Book I that God is the "uncaused Cause," the ground of all existence. This name is also the explanation of God's covenant name YHWH (Jehovah) — the sum of "will be" and "was," i.e., the eternal present. In the New Testament, John's Gospel records Jesus using "I am" (ego eimi) in multiple self-declarations (John 8:58: "Truly, truly, I say to you, before Abraham was, I am"), indicating His identity with YHWH.
+
+**Point Three: God's Active, Gracious Calling**
+
+The burning bush story overturns the religious pattern of "humans seeking God." It was God who chose to appear, God who issued the call, God who assigned the mission. Moses had not prayed for a vision, had not undertaken any spiritual preparation — he was simply intercepted by God in the midst of ordinary work. This is the image of Reformed theology's doctrine of effectual calling — God's calling does not depend on human worthiness or seeking, but is a unilateral act of sovereign grace. Westminster Confession chapter 10, section 1: "All those whom God hath predestinated unto life... He is pleased, in His appointed time, effectually to call... by His Word and Spirit, out of that state of sin and death... into grace and salvation." God sought Moses in the burning bush, just as He seeks us in our ordinary days.`,
+    christShadow_zh: `出埃及记第三章是基督论最丰富的预表章节之一。
+
+**荆棘燃烧而不消耗：** 这一异象是基督在道成肉身中的预表。神性的"火"（全然的神圣荣耀）在基督道成肉身时，"燃烧"在人性之中，却没有毁灭祂的人性——神性与人性在基督里完全联合，两性各全、互不相混（迦克墩信经）。路德在解经中提出，荆棘燃烧也象征以色列在苦难中被保护：受火焰试炼却不被毁灭，正如教会在逼迫中被保护。
+
+**"我是自有永有的"与约翰福音：** 耶稣在约翰福音8:58说"还没有亚伯拉罕，就有了我"，使用了"我是"（ego eimi）的绝对形式，这是对出埃及记3:14的直接呼应，宣告自己就是那出现在荆棘中的YHWH。耶稣在约翰福音中的七个"我是"（我是生命的粮、世界的光、羊的门、好牧人、复活与生命、道路真理生命、真葡萄树）都是建立在这个神圣名字上的自我启示。
+
+**摩西的中保角色：** 摩西作为神与百姓之间的中保，预表了基督唯一中保的身份（提摩太前书2:5）。摩西从神那里领受使命，然后代表神去见法老、去服事百姓；基督则从父那里被差遣，进入世界，成为神与罪人之间完全的中保。区别在于：摩西是一个有罪的人，是不完全的中保；基督是完全无罪的，是永远活着为我们代求的完全中保（希伯来书7:25）。
+
+**神"下来"救赎：** "我下来是要救他们脱离埃及人的手"（3:8）——这个"下来"是道成肉身的预表。神不是在天上发命令，而是亲自下来参与在人类的苦难中。约翰福音1:14"道成了肉身，住在我们中间"，是这"下来"最完全的实现。在荆棘中显现的那一位，后来成为了人，生活在我们中间，与我们一同经历苦难，最终通过自己的死，带领祂的百姓进入那更美的应许之地。`,
+    christShadow_en: `Exodus chapter 3 is one of the richest chapters in Christological typology.
+
+**The Bush Burning Yet Not Consumed:** This vision is a type of Christ in the incarnation. The divine "fire" (the full divine glory) "burned" in His human nature during Christ's incarnation, yet did not destroy His humanity — the divine and human natures are perfectly united in Christ, each complete, neither confused with the other (Council of Chalcedon). Luther proposed in his commentary that the burning bush also symbolizes Israel protected in suffering: refined by flame yet not destroyed, just as the church is protected in persecution.
+
+**"I AM WHO I AM" and the Gospel of John:** Jesus's statement in John 8:58, "before Abraham was, I am," uses the absolute form of "I am" (ego eimi), directly echoing Exodus 3:14 and declaring Himself to be the YHWH who appeared in the burning bush. Jesus's seven "I am" statements in John's Gospel (I am the bread of life, the light of the world, the door of the sheep, the good shepherd, the resurrection and the life, the way the truth and the life, the true vine) are all self-revelations built upon this divine name.
+
+**Moses's Mediatorial Role:** Moses as mediator between God and the people foreshadows Christ's identity as the one mediator (1 Timothy 2:5). Moses received the commission from God, then went to represent God before Pharaoh and to serve the people; Christ was sent by the Father, entered the world, and became the perfect mediator between God and sinners. The difference is: Moses was a sinful man, an imperfect mediator; Christ is perfectly sinless, the complete mediator who "always lives to make intercession" for us (Hebrews 7:25).
+
+**God "Coming Down" to Redeem:** "I have come down to deliver them out of the hand of the Egyptians" (3:8) — this "coming down" is a type of the incarnation. God did not issue commands from heaven; He personally came down to participate in human suffering. John 1:14, "the Word became flesh and dwelt among us," is the fullest realization of this "coming down." The One who appeared in the burning bush later became human, lived among us, experienced suffering with us, and ultimately led His people into that better promised land through His own death.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 4,
+    publishDate: '2026-05-05',
+    title: '摩西的犹豫与神的装备', titleEn: 'Moses s Hesitation and Gods Equipping',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 4 / Exodus 4',
+    content_zh: `弟兄姐妹，我是摩西。在荆棘火焰中，耶和华呼召我回埃及去领祂的百姓出来。但我心中的恐惧和犹豫如同深渊一样。第四章记载了我如何一次次推辞，而神如何一次次耐心地回应、装备、差遣。
+
+我的第一个推辞是："他们必不信我，也不听我的话，必说：耶和华并没有向你显现。"这是可以理解的担忧——一个逃亡四十年的牧羊人，突然回来说神差他来，谁会信呢？但耶和华没有责备我，而是赐给我三个神迹记号。
+
+第一个记号：耶和华对我说："你手里是甚么？"我说："是杖。"祂说："丢在地上。"我一丢下去，杖就变作蛇，我便跑开。耶和华又说："伸出手来，拿住他的尾巴。"我伸手拿住，蛇又在我手中变为杖。第二个记号：祂叫我把手放在怀里，抽出来时竟长了大麻疯，有雪那样白；再放回去，又复原了。第三个记号：若前两个都不信，就从河里取水倒在旱地上，水必变作血。
+
+这三个记号都是指向同一个真理：耶和华是掌管万有的神。杖变蛇显明祂胜过埃及蛇神的权柄；手生麻疯又复原显明祂有赐生命又取回生命的主权；水变血预示了即将临到埃及的审判。
+
+然后我提出第二个推辞："主阿，我素日不是能言的人，就是从你对仆人说话以后，也是这样。我本是拙口笨舌的。"耶和华的回答直击要害："谁造人的口呢？谁使人口哑、耳聋、目明、眼瞎呢？岂不是我——耶和华么？现在去罢，我必赐你口才，指教你所当说的话。"
+
+这话何等有力！祂造了口，祂当然能赐口才。创造者不需要向被造物证明祂的能力。但我仍然胆怯，说出了最直白的话："主阿，你愿意打发谁，就打发谁去罢！"这不是谦卑，而是悖逆。我在拒绝神明确的呼召。
+
+耶和华向我发怒了——这是经文中少有的神向祂仆人发怒的记载。但即便在怒气中，祂仍然有恩典。祂说我的哥哥利未人亚伦善于说话，要差他来帮助我："你要将当说的话传给他；我也要赐你和他口才，又要指教你们所当行的。他要替你对百姓说话；你要以他当作口，他要以你当作神。"
+
+神原本要独用我，但因我的软弱，祂安排了亚伦作我的代言人。这既是恩典也是后果——亚伦后来造金牛犊，部分原因正是他在百姓面前的影响力。我的推辞带来了意想不到的代价。
+
+然后我辞别岳父叶忒罗，带着妻子和儿子回埃及去。耶和华吩咐我："你回到埃及的时候，要将我指示你的一切奇事行在法老面前。但我要使他的心刚硬，他必不容百姓去。你要对法老说：耶和华这样说：以色列是我的儿子，我的长子。我对你说过：容我的儿子去，好事奉我。你还是不肯容他去。看哪，我要杀你的长子。"
+
+"以色列是我的儿子，我的长子"——这是何等尊贵的称呼！神不仅仅把以色列当作仆人，而是当作儿子。而"我要杀你的长子"预示了第十灾的可怕——法老拒绝释放神的长子，神就要取走法老的长子。
+
+路上发生了一件令人震惊的事：耶和华在住处遇见摩西，想要杀他。西坡拉急忙拿火石割下儿子的阳皮，丢在摩西脚前，说"你真是我的血郎了。"这段记载虽然简短却意义深远——我竟然没有给自己的儿子行割礼，违背了神与亚伯拉罕所立的约。一个要去领以色列人出埃及的人，自己的家中却没有遵守约的记号。神要我知道：你若要作我的器皿，你自己的家必须先在约中。
+
+最后，耶和华差亚伦到旷野来迎接我。我们相遇在神的山上。我将耶和华的话和神迹都告诉了亚伦。然后我们一起去招聚以色列的众长老。亚伦述说了一切，又在百姓眼前行了那些神迹。"百姓就信了。以色列人听见耶和华眷顾他们，鉴察他们的困苦，就低头下拜。"
+
+弟兄姐妹，这一章教导我们：神的呼召不取决于我们的能力，而取决于祂的能力。我每一个推辞，祂都有回答。祂不需要完美的器皿，只需要愿意被使用的器皿。`,
+    content_en: `Brothers and sisters, I am Moses. In the burning bush, the LORD called me to return to Egypt and lead His people out. But the fear and hesitation in my heart were deep as an abyss. Chapter 4 records how I made excuse after excuse, and how God patiently responded, equipped, and sent me each time.
+
+My first objection was: "But behold, they will not believe me or listen to my voice, for they will say, 'The LORD did not appear to you.'" This was an understandable concern—a shepherd who had been a fugitive for forty years, suddenly claiming God sent him—who would believe? But the LORD did not rebuke me. Instead, He gave me three miraculous signs.
+
+The first sign: The LORD said, "What is that in your hand?" I said, "A staff." He said, "Throw it on the ground." When I threw it down, it became a serpent, and I fled from it. The LORD said, "Put out your hand and catch it by the tail." I reached out and caught it, and it became a staff again. The second sign: He told me to put my hand inside my cloak; when I drew it out, it was leprous like snow. I put it back, and it was restored. The third sign: if they would not believe either sign, I was to take water from the Nile and pour it on dry ground, and it would become blood.
+
+All three signs pointed to the same truth: the LORD is God who governs all things. The staff becoming a serpent displayed His authority over Egypt's serpent gods; the leprous hand restored displayed His sovereignty to give life and take it back; water becoming blood foreshadowed the judgment about to fall on Egypt.
+
+Then I raised my second objection: "Oh, my Lord, I am not eloquent, either in the past or since you have spoken to your servant, but I am slow of speech and of tongue." The LORD's answer struck at the heart: "Who has made man's mouth? Who makes him mute, or deaf, or seeing, or blind? Is it not I, the LORD? Now therefore go, and I will be with your mouth and teach you what you shall speak."
+
+How powerful these words! He who made the mouth can certainly give eloquence. The Creator need not prove His ability to the creature. But I was still afraid, and said the most direct thing: "Oh, my Lord, please send someone else." This was not humility but rebellion. I was refusing God's explicit call.
+
+The LORD's anger was kindled against me—one of the rare instances in Scripture where God was angry at His servant. Yet even in anger, He showed grace. He said my brother Aaron the Levite spoke well, and He would send him to help me: "You shall speak to him and put the words in his mouth, and I will be with your mouth and with his mouth and will teach you both what to do. He shall speak for you to the people, and he shall be your mouth, and you shall be as God to him."
+
+God originally intended to use me alone, but because of my weakness, He arranged Aaron as my spokesman. This was both grace and consequence—Aaron later made the golden calf, partly because of the influence he had gained before the people. My excuses brought unforeseen costs.
+
+Then I took leave of my father-in-law Jethro, took my wife and sons, and returned to Egypt. The LORD instructed me: "When you go back to Egypt, see that you do before Pharaoh all the miracles that I have put in your power. But I will harden his heart, so that he will not let the people go. Then you shall say to Pharaoh, 'Thus says the LORD, Israel is my firstborn son, and I say to you, Let my son go that he may serve me. If you refuse to let him go, behold, I will kill your firstborn son.'"
+
+"Israel is my firstborn son"—what a majestic title! God did not merely regard Israel as a servant but as a son. And "I will kill your firstborn son" foreshadowed the terrible tenth plague—Pharaoh refused to release God's firstborn, so God would take Pharaoh's firstborn.
+
+On the way, something shocking happened: the LORD met Moses at a lodging place and sought to put him to death. Zipporah quickly took a flint and cut off her son's foreskin, touching Moses' feet, saying, "Surely you are a bridegroom of blood to me." Though brief, this account carries profound significance—I had failed to circumcise my own son, violating God's covenant with Abraham. A man about to lead Israel out of Egypt had not maintained the covenant sign in his own household. God was teaching me: if you would be my vessel, your own house must first be in the covenant.
+
+Finally, the LORD sent Aaron to meet me in the wilderness. We met at the mountain of God. I told Aaron all the LORD's words and signs. Together we gathered the elders of Israel. Aaron spoke everything and performed the signs before the people. "And the people believed; and when they heard that the LORD had visited the people of Israel and that he had seen their affliction, they bowed their heads and worshiped."
+
+Brothers and sisters, this chapter teaches us: God's call does not depend on our ability but on His. For every excuse I made, He had an answer. He does not need perfect vessels—only willing ones.`,
+    historyContext_zh: `出埃及记第4章的背景仍在何烈山（西奈山）。摩西已在米甸牧羊四十年，他的犹豫反映了一个长期远离公共生活之人的心态。三个神迹记号在古近东文化中具有重要意义——埃及法老也通过术士行奇事来证明神明的权柄，因此耶和华赐给摩西的记号是直接挑战埃及的宗教权威。割礼事件（24-26节）暗示摩西在米甸期间可能受妻子西坡拉的影响，没有给儿子行割礼。这在神学上极为严重——神与亚伯拉罕立约的记号若被忽略，就是对约的轻慢。神要在使命开始前纠正这个根本问题。`,
+    historyContext_en: `Exodus 4 is still set at Horeb (Mount Sinai). Moses had been shepherding in Midian for forty years, and his hesitation reflects the mindset of someone long removed from public life. The three miraculous signs carried great significance in the ancient Near East—Egyptian pharaohs also used magicians to perform wonders proving divine authority, so the signs the LORD gave Moses directly challenged Egypt's religious establishment. The circumcision incident (vv. 24-26) suggests that during his time in Midian, possibly influenced by his wife Zipporah, Moses had neglected to circumcise his son. Theologically this was extremely serious—neglecting the sign of God's covenant with Abraham was contempt for the covenant itself. God needed to correct this fundamental issue before the mission began.`,
+    structure_zh: `**三个神迹记号（1-9节）**——杖变蛇、手生麻疯复原、水变血——证实神的差遣。
+
+**摩西推辞口才不好（10-12节）**——"我本是拙口笨舌的"，神回答：谁造人的口？
+
+**摩西最后的拒绝与神的怒气（13-17节）**——"你愿意打发谁就打发谁"，亚伦被指定为代言人。
+
+**启程回埃及（18-23节）**——辞别叶忒罗、以色列是神的长子的宣告。
+
+**割礼危机（24-26节）**——耶和华在路上要杀摩西、西坡拉紧急行割礼。
+
+**亚伦迎接与百姓相信（27-31节）**——兄弟在神的山相遇、向长老述说、百姓低头下拜。`,
+    structure_en: `**Three Miraculous Signs (vv. 1-9)**—Staff to serpent, leprous hand restored, water to blood—confirming God's commission.
+
+**Moses' Excuse of Poor Speech (vv. 10-12)**—"I am slow of speech and of tongue"; God responds: Who made man's mouth?
+
+**Moses' Final Refusal and God's Anger (vv. 13-17)**—"Please send someone else"; Aaron appointed as spokesman.
+
+**Departure for Egypt (vv. 18-23)**—Farewell to Jethro, declaration that Israel is God's firstborn son.
+
+**The Circumcision Crisis (vv. 24-26)**—The LORD seeking to kill Moses at the lodging place, Zipporah's emergency circumcision.
+
+**Aaron's Meeting and the People's Belief (vv. 27-31)**—Brothers meeting at the mountain of God, speaking to the elders, the people bowing in worship.`,
+    theology_zh: `**神的主权呼召与人的软弱**
+摩西的五次推辞显明人在神面前的彻底软弱。但改革宗神学教导：神的呼召不基于人的资格。韦敏斯德信条第3章论神的预旨："神从永远，按祂至智至圣的旨意，自由不变地预定了将来所要成的一切事。"摩西的被拣选不是因为他的能力，而是神主权的决定。正如保罗所说："神却拣选了世上愚拙的，叫有智慧的羞愧"（哥林多前书1:27）。
+
+**"以色列是我的儿子"——收养的恩典**
+神称以色列为"我的长子"，这不是生物学意义的父子关系，而是约的收养关系。韦敏斯德信条第12章论收养："凡被称义的人，神在他独生子耶稣基督里，并为了他的缘故，使他们得着收养的恩典。"以色列蒙拣选为长子，预表了新约信徒在基督里被收养为神的儿女。
+
+**割礼与约的严肃性**
+摩西差点因未给儿子行割礼而被神击杀——这显明神对约的记号极其严肃。改革宗神学强调：圣礼（如洗礼、圣餐）不是可选的附加品，而是约的必要记号。忽略圣礼就是轻慢约本身。神要求祂的仆人在自己家中首先遵守约，然后才能带领别人进入约中。`,
+    theology_en: `**God's Sovereign Call and Human Weakness**
+Moses' five objections reveal utter human weakness before God. But Reformed theology teaches: God's call is not based on human qualification. Westminster Confession chapter 3 on God's eternal decree: "God from all eternity, did, by the most wise and holy counsel of His own will, freely and unchangeably ordain whatsoever comes to pass." Moses' selection was not based on his ability but on God's sovereign decision. As Paul wrote: "But God chose what is foolish in the world to shame the wise" (1 Corinthians 1:27).
+
+**"Israel Is My Son"—The Grace of Adoption**
+God calling Israel "my firstborn son" was not a biological father-son relationship but a covenantal adoption. Westminster Confession chapter 12 on adoption: "All those that are justified, God vouchsafes, in and for His only Son Jesus Christ, to make partakers of the grace of adoption." Israel's election as firstborn prefigures New Testament believers adopted as God's children in Christ.
+
+**Circumcision and the Seriousness of the Covenant**
+Moses nearly died because he had not circumcised his son—this reveals how seriously God regards the covenant sign. Reformed theology emphasizes: sacraments (such as baptism and the Lord's Supper) are not optional additions but necessary signs of the covenant. To neglect sacraments is to treat the covenant itself with contempt. God requires His servants to observe the covenant in their own households first before leading others into it.`,
+    christShadow_zh: `出埃及记第四章处处指向基督。三个神迹记号预表了基督的权柄和救赎工作。杖变蛇又变回杖，预表基督胜过撒但——那古蛇（启示录12:9）——的权柄。创世记3:15预言女人的后裔要伤蛇的头，基督在十字架上已经践踏了蛇头。
+
+手长麻疯又复原，预表基督洁净罪的大能。麻疯在旧约中是罪的象征，被视为不洁。以赛亚书53:4说弥赛亚"担当我们的忧患，背负我们的痛苦"，马太福音8:2-3记载耶稣伸手摸大麻疯的人说"我肯，你洁净了罢"。基督不仅有能力洁净，祂也甘愿洁净。
+
+"以色列是我的儿子，我的长子"直接预表基督。何西阿书11:1说："以色列年幼的时候，我爱他，就从埃及召出我的儿子来。"马太福音2:15引用这节经文指向幼年耶稣从埃及归回。以色列作为神的长子是预表，基督才是神真正的、永恒的、独生的儿子。以色列的出埃及预表了基督的救赎——祂要领更大的百姓从罪的埃及中出来。
+
+割礼的危机预表了基督的血约。西坡拉说"你真是我的血郎"——约必须用血来坚立。旧约的割礼之血指向新约基督十字架上流的血。歌罗西书2:11说："你们在他里面也受了不是人手所行的割礼，乃是基督使你们脱去肉体情欲的割礼。"基督的死是终极的割礼——将我们从罪的肉体中切割出来，归入约中。`,
+    christShadow_en: `Exodus 4 everywhere points to Christ. The three miraculous signs prefigure Christ's authority and redemptive work. The staff becoming a serpent and returning to a staff prefigures Christ's authority over Satan—that ancient serpent (Revelation 12:9). Genesis 3:15 prophesied the woman's offspring would bruise the serpent's head; Christ on the cross crushed the serpent's head.
+
+The leprous hand restored prefigures Christ's power to cleanse sin. Leprosy in the Old Testament symbolized sin and uncleanness. Isaiah 53:4 says the Messiah "has borne our griefs and carried our sorrows"; Matthew 8:2-3 records Jesus reaching out to touch the leper saying, "I will; be clean." Christ not only has the power to cleanse—He is willing to cleanse.
+
+"Israel is my firstborn son" directly prefigures Christ. Hosea 11:1 says, "When Israel was a child, I loved him, and out of Egypt I called my son." Matthew 2:15 applies this verse to the infant Jesus returning from Egypt. Israel as God's firstborn was a type; Christ is God's true, eternal, only-begotten Son. Israel's exodus prefigures Christ's redemption—He would lead a greater people out of sin's Egypt.
+
+The circumcision crisis prefigures Christ's blood covenant. Zipporah said, "Surely you are a bridegroom of blood to me"—the covenant must be established through blood. The blood of Old Testament circumcision pointed to the blood Christ shed on the cross. Colossians 2:11 says, "In him also you were circumcised with a circumcision made without hands, by putting off the body of the flesh, by the circumcision of Christ." Christ's death is the ultimate circumcision—cutting us out of the body of sin and bringing us into the covenant.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 5,
+    publishDate: '2026-05-06',
+    title: '首见法老与加重的苦工', titleEn: 'First Audience with Pharaoh and Intensified Labor',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 5 / Exodus 5',
+    content_zh: `弟兄姐妹，我是摩西。第五章是我踏进法老宫殿的第一次。我和亚伦站在埃及全地最有权势的人面前，传达了宇宙至高者的命令："耶和华以色列的神这样说：容我的百姓去，在旷野向我守节。"
+
+法老的回答傲慢而冷酷："耶和华是谁，使我听他的话，容以色列人去呢？我不认识耶和华，也不容以色列人去！"在法老眼里，耶和华不过是一个无名小神，不值得他这位自称为神的王去理会。他不认识耶和华——但耶和华认识他。这场对抗不是摩西与法老的较量，而是耶和华与法老背后一切偶像势力的争战。
+
+我们退了一步，说："希伯来人的神遇见了我们。求你容我们往旷野去，走三天的路程，祭祀耶和华我们的神，免得他用瘟疫、刀兵攻击我们。"但法老完全不为所动。他反倒指控我们叫百姓旷工："摩西、亚伦！你们为甚么叫百姓旷工呢？你们去担你们的担子罢！"
+
+法老随即加重了以色列人的苦工。他吩咐督工的和官长："你们不可照常把草给百姓做砖，叫他们自己去捡草。他们素常做砖的数目，你们仍旧向他们要，一点不可减少。"这是何等残忍的命令——原料减少，产量不减。法老的逻辑是："他们是懒惰的，所以呼求说容我们去祭祀我们的神。"在暴君的眼中，敬拜神是懒惰的借口，信仰是不服从的根源。
+
+百姓散在埃及遍地捡碎秸当作草。督工的催逼说："你们一天当完一天的工，与先前有草一样。"以色列人的官长被责打。他们去哀求法老，法老只是重复："你们是懒惰的！你们是懒惰的！"
+
+然后，最令我心碎的事发生了。以色列人的官长从法老面前出来，正遇见我和亚伦站在对面。他们对我们说："愿耶和华鉴察你们，施行判断；因你们使我们在法老和他臣仆面前有了臭名，把刀递在他们手中杀我们。"
+
+他们不是在责备法老，而是在责备我。他们说是我害了他们——是我的出现使情况变得更糟。我来之前他们虽然受苦，但至少还有草做砖；我来之后，他们的苦工加倍了。在他们眼里，神的拯救计划不但没有减轻痛苦，反而加增了痛苦。
+
+我心中的苦楚无以言表。我回到耶和华那里，说了一段几乎是质问的祷告："主阿，你为甚么苦待这百姓呢？为甚么打发我去呢？自从我去见法老，奉你的名说话，他就苦待这百姓，你一点也没有拯救他们。"
+
+这是赤裸裸的诚实。我没有用华丽的属灵言语掩饰我的困惑和痛苦。我真的不明白——如果神要拯救，为什么情况反而更糟了？如果祂差遣我，为什么百姓因我受更多的苦？
+
+弟兄姐妹，这是每一位顺服神呼召的人都可能经历的——你顺服了，情况却更糟了。你传了福音，却招来更多的逼迫。你做了对的事，却被自己的百姓责备。暗夜最黑的时刻，往往就在黎明之前。
+
+法老加重苦工的真正目的，不仅是惩罚以色列人，更是要切断他们与耶和华的关系。他说"叫他们劳碌，不听虚谎的言语"——在法老看来，耶和华的应许是"虚谎的言语"。撒但也是如此运作的——当神开始做工的时候，仇敌会加倍地逼迫，目的是让百姓怀疑神的信实，让神的仆人怀疑自己的呼召。
+
+但第五章的结尾正是第六章的开头——神即将以大能回应摩西的祷告。黑暗越深，光明越近。`,
+    content_en: `Brothers and sisters, I am Moses. Chapter 5 records my first step into Pharaoh's palace. Aaron and I stood before the most powerful man in all Egypt, delivering the command of the Most High: "Thus says the LORD, the God of Israel, 'Let my people go, that they may hold a feast to me in the wilderness.'"
+
+Pharaoh's response was arrogant and cold: "Who is the LORD, that I should obey his voice and let Israel go? I do not know the LORD, and moreover, I will not let Israel go." In Pharaoh's eyes, the LORD was just an unknown minor deity, unworthy of attention from a king who claimed to be divine himself. He did not know the LORD—but the LORD knew him. This confrontation was not Moses versus Pharaoh but the LORD versus all the idol powers behind Pharaoh.
+
+We retreated slightly: "The God of the Hebrews has met with us. Please let us go a three days' journey into the wilderness that we may sacrifice to the LORD our God, lest he fall upon us with pestilence or with the sword." But Pharaoh was unmoved. Instead, he accused us of making the people idle: "Moses and Aaron, why do you take the people away from their work? Get back to your burdens."
+
+Pharaoh immediately intensified Israel's labor. He ordered the taskmasters and foremen: "You shall no longer give the people straw to make bricks, as in the past; let them go and gather straw for themselves. But the number of bricks that they made in the past you shall impose on them, you shall by no means reduce it." What a cruel command—less material, same quota. Pharaoh's logic: "They are idle. That is why they cry, 'Let us go and offer sacrifice to our God.'" In the tyrant's eyes, worshiping God was an excuse for laziness; faith was the root of disobedience.
+
+The people scattered throughout Egypt to gather stubble for straw. The taskmasters pressed them: "Complete your work, your daily task each day, as when there was straw." The Israelite foremen were beaten. They pleaded with Pharaoh, who only repeated: "You are idle, you are idle!"
+
+Then the most heartbreaking thing happened. The Israelite foremen came out from Pharaoh's presence and met Aaron and me standing there. They said to us: "The LORD look on you and judge, because you have made us stink in the sight of Pharaoh and his servants, and have put a sword in their hand to kill us."
+
+They were not blaming Pharaoh but blaming me. They said I had caused their suffering—my appearance had made things worse. Before I came, they suffered but at least had straw; after I came, their labor doubled. In their eyes, God's rescue plan had not lessened their pain but multiplied it.
+
+The anguish in my heart was beyond words. I returned to the LORD and prayed what was nearly an accusation: "O Lord, why have you done evil to this people? Why did you ever send me? For since I came to Pharaoh to speak in your name, he has done evil to this people, and you have not delivered your people at all."
+
+This was raw honesty. I did not disguise my confusion and pain with polished spiritual language. I genuinely did not understand—if God intended to rescue, why had things gotten worse? If He sent me, why were the people suffering more because of me?
+
+Brothers and sisters, this is what everyone who obeys God's call may experience—you obeyed, and things got worse. You shared the gospel, and persecution increased. You did the right thing, and your own people blamed you. The darkest moment of night often comes just before dawn.
+
+Pharaoh's real purpose in intensifying the labor was not merely punishment but severing Israel's relationship with the LORD. He said "let heavier work be laid on the men that they may labor at it and pay no regard to lying words"—in Pharaoh's view, the LORD's promises were "lying words." Satan operates the same way—when God begins to work, the enemy doubles the persecution, aiming to make the people doubt God's faithfulness and God's servant doubt his own calling.
+
+But the end of chapter 5 is the beginning of chapter 6—God is about to answer Moses' prayer with mighty power. The deeper the darkness, the nearer the light.`,
+    historyContext_zh: `出埃及记第5章的场景发生在埃及的王宫和砖窑工地。古埃及确实大量使用奴隶劳动制砖建造城市和神庙。考古发现的埃及文献记载了类似的做法——扣留原料同时维持产量，作为惩罚手段。法老自称为太阳神拉（Ra）的儿子，被视为神的化身，所以当摩西说"耶和华如此说"，法老的反应不仅是政治抗拒，更是宗教对抗——他不承认有比自己更高的神。以色列人制砖的苦工地点可能在尼罗河三角洲的兰塞和比东二城（出埃及记1:11），考古学在该区域发现了大量无草砖和有草砖的遗存。`,
+    historyContext_en: `Exodus 5 is set in the Egyptian palace and brick-making worksites. Ancient Egypt indeed used extensive slave labor for brick-making to construct cities and temples. Archaeological Egyptian documents record similar practices—withholding materials while maintaining quotas as a form of punishment. Pharaoh claimed to be the son of the sun god Ra and was regarded as a divine incarnation, so when Moses said "Thus says the LORD," Pharaoh's reaction was not merely political resistance but religious confrontation—he did not acknowledge any god above himself. The brick-making sites were likely at Raamses and Pithom in the Nile Delta (Exodus 1:11), where archaeology has uncovered extensive remains of both straw bricks and strawless bricks.`,
+    structure_zh: `**摩西亚伦首见法老（1-3节）**——传达耶和华的命令、法老的傲慢拒绝。
+
+**法老加重苦工（4-9节）**——不再供草、产量不减、"他们是懒惰的"。
+
+**百姓的困苦（10-14节）**——散在遍地捡碎秸、督工催逼、官长被打。
+
+**官长向法老哀求无果（15-19节）**——法老再次指责懒惰。
+
+**百姓怨恨摩西（20-21节）**——"愿耶和华鉴察你们"、归咎于摩西。
+
+**摩西向耶和华倾诉（22-23节）**——"你为甚么苦待这百姓"、坦诚的质问式祷告。`,
+    structure_en: `**Moses and Aaron's First Audience with Pharaoh (vv. 1-3)**—Delivering the LORD's command, Pharaoh's arrogant refusal.
+
+**Pharaoh Intensifies the Labor (vv. 4-9)**—No more straw provided, same quota, "they are idle."
+
+**The People's Suffering (vv. 10-14)**—Scattered to gather stubble, taskmasters pressing, foremen beaten.
+
+**Foremen's Fruitless Appeal to Pharaoh (vv. 15-19)**—Pharaoh again accuses laziness.
+
+**The People Blame Moses (vv. 20-21)**—"The LORD look on you and judge"; attributing their woes to Moses.
+
+**Moses Pours Out His Heart to the LORD (vv. 22-23)**—"Why have you done evil to this people?"; a raw, questioning prayer.`,
+    theology_zh: `**暗夜中的信心**
+摩西顺服了神的呼召，情况却更糟了。改革宗灵修传统称之为"灵魂的暗夜"——神似乎隐藏了祂的面，苦难加增，信心被试验。韦敏斯德信条第18章论救恩的确据："真信徒的信心可能受到多方面的动摇、削减和间歇"，但信心的对象不是我们的感受，而是神不变的应许。摩西的祷告虽然充满困惑，却仍是向耶和华祷告——他没有转向别神，这本身就是信心。
+
+**神的时间与人的急切**
+百姓期望立刻得救，但神有祂自己的时间表。改革宗神学强调神的"计划"（counsel）不受人的催促。以赛亚书55:8-9说："我的意念非同你们的意念；我的道路非同你们的道路。"十灾的过程是神向埃及和以色列双方显明祂主权的过程——每一灾都有教育意义。快速的拯救不会产生深刻的认识。
+
+**敬拜是自由的核心**
+摩西向法老的要求是"容我的百姓去，在旷野向我守节"——核心不是政治自由，而是敬拜的自由。改革宗神学将敬拜视为人类被造的首要目的。韦敏斯德小要理问答第一问："人的首要目的是甚么？"答："人的首要目的就是荣耀神，以祂为乐，直到永远。"以色列人在埃及的根本困境不仅是肉体的奴役，更是无法自由地敬拜他们的神。`,
+    theology_en: `**Faith in the Dark Night**
+Moses obeyed God's call, yet things got worse. The Reformed devotional tradition calls this the "dark night of the soul"—God seems to hide His face, suffering increases, faith is tested. Westminster Confession chapter 18 on assurance of salvation: "True believers may have the assurance of their salvation divers ways shaken, diminished, and intermitted," yet faith's object is not our feelings but God's unchanging promises. Though Moses' prayer was full of confusion, it was still directed to the LORD—he did not turn to other gods, and this itself was faith.
+
+**God's Timing and Human Urgency**
+The people expected immediate deliverance, but God had His own timetable. Reformed theology emphasizes that God's "counsel" is not hastened by human urgency. Isaiah 55:8-9 says, "For my thoughts are not your thoughts, neither are your ways my ways." The process of the ten plagues was God's means of displaying His sovereignty to both Egypt and Israel—each plague carried educational purpose. Swift deliverance would not produce deep understanding.
+
+**Worship Is the Heart of Freedom**
+Moses' demand to Pharaoh was "Let my people go, that they may hold a feast to me in the wilderness"—the core was not political freedom but freedom of worship. Reformed theology views worship as humanity's primary created purpose. Westminster Shorter Catechism Q1: "What is the chief end of man?" Answer: "Man's chief end is to glorify God, and to enjoy him forever." Israel's fundamental plight in Egypt was not merely physical slavery but inability to freely worship their God.`,
+    christShadow_zh: `出埃及记第五章深刻预表了基督救赎的模式。法老问"耶和华是谁"，正如彼拉多问"真理是甚么"（约翰福音18:38）——世上的掌权者面对神的启示时的傲慢和无知。法老不认识耶和华，正如约翰福音1:10所说："他在世界，世界也是藉着他造的，世界却不认识他。"
+
+法老加重以色列人的苦工，正如基督来到世上时，黑暗的权势反而更加猖獗。撒但在旷野试探耶稣，希律追杀婴孩，法利赛人密谋除掉祂——救赎者的来临并没有立刻消除苦难，反而激起了更猛烈的逼迫。但这不是神计划的失败，而是神计划的展开。
+
+百姓责怪摩西"使我们在法老面前有了臭名"，预表了以色列人弃绝基督。以赛亚书53:3说弥赛亚"被人藐视，被人厌弃"。主耶稣来拯救祂的百姓，却被自己的百姓拒绝："他到自己的地方来，自己的人倒不接待他"（约翰福音1:11）。
+
+摩西向耶和华的质问——"你为甚么苦待这百姓"——预表了基督在十字架上的呼喊："我的神！我的神！为甚么离弃我？"（马太福音27:46）。摩西在困惑中转向神，基督在被弃中仍称神为"我的神"。两者都在最深的苦难中紧紧抓住与神的关系。但摩西的困惑是暂时的——神即将回应；基督的被弃是为了承担我们的罪——祂在十字架上经历了真正的与父隔绝，好使我们永远不被隔绝。`,
+    christShadow_en: `Exodus 5 profoundly prefigures the pattern of Christ's redemption. Pharaoh asking "Who is the LORD?" parallels Pilate asking "What is truth?" (John 18:38)—the arrogance and ignorance of earthly rulers confronting divine revelation. Pharaoh did not know the LORD, just as John 1:10 says, "He was in the world, and the world was made through him, yet the world did not know him."
+
+Pharaoh intensifying Israel's labor parallels how the powers of darkness grew fiercer when Christ entered the world. Satan tempted Jesus in the wilderness, Herod slaughtered infants, Pharisees plotted His death—the Redeemer's coming did not immediately eliminate suffering but provoked fiercer persecution. But this was not the failure of God's plan but its unfolding.
+
+The people blaming Moses for making them "stink in the sight of Pharaoh" prefigures Israel rejecting Christ. Isaiah 53:3 says the Messiah was "despised and rejected by men." The Lord Jesus came to save His people but was rejected by His own: "He came to his own, and his own people did not receive him" (John 1:11).
+
+Moses' questioning of the LORD—"Why have you done evil to this people?"—prefigures Christ's cry on the cross: "My God, my God, why have you forsaken me?" (Matthew 27:46). Moses turned to God in confusion; Christ on the cross still called God "my God." Both clung to their relationship with God in deepest suffering. But Moses' confusion was temporary—God was about to respond; Christ's abandonment was to bear our sins—He experienced true separation from the Father on the cross so that we would never be separated.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 6,
+    publishDate: '2026-05-07',
+    title: '神重申应许', titleEn: 'God Reaffirms His Promises',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 6 / Exodus 6',
+    content_zh: `我摩西，站在神与法老之间，是一个满怀惧怕却被神差遣的人。当我第一次去见法老，要求他释放以色列人，他不但不听，反而加重了百姓的劳役。以色列人因此埋怨我，我自己也向神倾诉内心的绝望："主啊，你为何苦待这百姓呢？你为何打发我去呢？"（出埃及记 5:22）
+
+就在那绝望的深处，神再次对我说话。
+
+耶和华对我说："我是耶和华。我从前向亚伯拉罕、以撒、雅各显现为全能的神，至于我名耶和华，他们未曾知道。"（出埃及记 6:2-3）这句话震撼了我的心。神的名字"耶和华"——那自有永有、信实守约的神——正是要通过这场救赎彰显出来。列祖们虽然认识全能的神（以勒·沙代），但"耶和华"这个名字所代表的救赎之约的信实，将在埃及的救赎中完全显明。
+
+神接着向我宣告了祂七个庄严的应许："我要用伸出来的膀臂，并行严厉的审判，救赎你们脱离埃及人的重担，不做他们的苦工。我要以你们为我的百姓，我也要作你们的神……我要把你们领进去，将那地赐给你们为业。我是耶和华。"（出埃及记 6:6-8）这七个"我要"是神信实的誓言，是祂恩约的宣告。神不是根据以色列人的功绩作出这些应许，而是因为祂曾与亚伯拉罕、以撒、雅各立约，因为祂听见了子民的哀声，因为祂是耶和华——那守约施慈爱的神。
+
+然而，当我将这些话告诉以色列人时，"他们因苦工甚重，不肯听摩西的话"（出埃及记 6:9）。苦难有时会让人的灵魂变得麻木。当苦楚压垮一切盼望，神的应许听起来像是遥远的幻梦。我深深体会到这种痛苦——百姓不听我，我自己的口也笨拙，我怎能去说服法老？
+
+但神对我说的话成了我的力量。祂不是说"若你们顺服，我就救你们"，而是"我是耶和华，我必救你们"。这是恩典之约的本质——神先行动，神信守诺言，不是因为人的配得，而是因为神自己的名和性情。
+
+在本章接下来的部分，神叙述了我和亚伦的家谱（出埃及记 6:14-25）。这看似是一段平淡的族谱记录，却有深意：神的救赎是在历史中发生的，是通过真实的人、真实的家族成就的。救赎不是神话传说，而是历史事实。而在这家谱中，我们看到利未的后裔，这是祭司的支派——暗示着神将在这个支派中建立祂的会幕侍奉。
+
+神第二次吩咐我去见法老，要他容以色列人离开。我再次以口笨辩解，但神说："亚伦要替你做先知。"（出埃及记 6:27-30, 7:1）这也是恩典：神知道我的软弱，祂为我的软弱作了预备。我不必成为完美的器皿，只须愿意被神使用。
+
+兄弟姐妹，你是否也曾处于那种绝望的处境中？盼望一再落空，努力换来的是更多困难，祷告似乎没有回应？以色列人的经历告诉我们：神的应许不会因现实的黑暗而失效。"我是耶和华"——这四个字是整本出埃及记的基石，也是信徒生命的根基。当一切都动摇时，神的名字屹立不倒。
+
+神的救赎往往不按我们期待的时间表和方式来临。有时，在事情变得更好之前，必须先变得更坏。但这不是因为神忘了祂的应许，而是因为祂正在按祂的计划，在祂的时间，用祂的方式，成就祂的旨意，好使祂的名得荣耀，好使我们认识祂真正是耶和华。`,
+    content_en: `I, Moses, stood between God and Pharaoh—a man filled with fear yet sent by God. When I first went to Pharaoh demanding he release Israel, he not only refused but increased the people's burdens. The Israelites blamed me, and I poured out my own despair to God: "O Lord, why have you done evil to this people? Why did you ever send me?" (Exodus 5:22)
+
+It was in that depth of despair that God spoke to me again.
+
+The LORD said to me: "I am the LORD. I appeared to Abraham, to Isaac, and to Jacob, as God Almighty, but by my name the LORD I did not make myself known to them." (Exodus 6:2-3) These words shook my heart. God's name "the LORD"—the self-existent, eternally faithful One who keeps covenant—was about to be revealed through this act of redemption. The patriarchs knew God Almighty (El Shaddai), but the faithfulness of the covenanting name "the LORD" (YHWH) would be fully displayed in the redemption from Egypt.
+
+God then declared to me seven solemn promises: "I will bring you out from under the burdens of the Egyptians, and I will deliver you from slavery to them, and I will redeem you with an outstretched arm and with great acts of judgment. I will take you to be my people, and I will be your God... I will bring you into the land that I swore to give to Abraham, to Isaac, and to Jacob. I will give it to you for a possession. I am the LORD." (Exodus 6:6-8) These seven "I will" statements are God's faithful pledges—declarations of His covenant grace. God made these promises not based on Israel's merit, but because He had covenanted with Abraham, Isaac, and Jacob; because He had heard His people's cry; because He is the LORD who keeps covenant and shows steadfast love.
+
+Yet when I told the Israelites these things, "they did not listen to Moses, because of their broken spirit and harsh slavery." (Exodus 6:9) Suffering can sometimes numb the soul. When anguish crushes every hope, God's promises sound like distant dreams. I deeply understood this pain—the people wouldn't listen to me, and I myself was of uncircumcised lips. How could I persuade Pharaoh?
+
+But God's words to me became my strength. He did not say "if you obey, I will save you," but rather "I am the LORD, I will save you." This is the essence of the covenant of grace—God acts first, God keeps His promises, not because of human merit but because of His own name and character.
+
+In the latter part of this chapter, God traces the genealogy of Aaron and me (Exodus 6:14-25). This may seem like a dry family record, yet it carries deep significance: God's redemption occurs in history, accomplished through real people and real families. Redemption is not mythology but historical fact. And in this genealogy, we see the descendants of Levi, the priestly tribe—hinting that God would establish His tabernacle service through this tribe.
+
+God commanded me a second time to go before Pharaoh and demand Israel's release. I again protested my poor speech, but God said, "Aaron shall be your prophet." (Exodus 6:27-30; 7:1) This too is grace: God knew my weakness and made provision for it. I did not need to be a perfect vessel—only a willing one.
+
+Brothers and sisters, have you ever found yourself in such a place of despair? Hopes repeatedly dashed, efforts met with more hardship, prayers seemingly unanswered? Israel's experience tells us: God's promises do not fail because of present darkness. "I am the LORD"—these words are the cornerstone of the entire book of Exodus, and the foundation of every believer's life. When everything shakes, God's name stands firm.
+
+God's redemption rarely comes according to our expected timetable or method. Sometimes things must get worse before they get better. But this is not because God forgot His promises. He is at work according to His plan, in His time, in His way, accomplishing His purpose—so that His name might be glorified, and so that we might truly know He is the LORD.`,
+    historyContext_zh: `出埃及记第6章发生在摩西首次觐见法老失败之后。法老不仅拒绝释放以色列人，反而停止提供制砖的草料，却要求同样数量的砖（出埃及记 5章）。这一背景极为重要：神的救赎计划开始时，情况反而恶化了。
+
+从历史背景来看，"耶和华"（YHWH）这个名字在创世记中已出现，但其完整救赎含义要在出埃及事件中才得彰显。改革宗神学家卡尔·柏特认为，神在此是以更丰富的方式启示祂的约名，而非说列祖完全不知道这个名字。
+
+本章中的家谱（6:14-25）具有文学和神学双重功能：一方面将摩西和亚伦定位于以色列族谱体系中（利未支派），另一方面也突显了亚伦的后裔非尼哈，他在后来的历史中因维护神的圣洁而得特别称许（民数记 25:10-13）。家谱在古近东文化中代表合法性与权威性，这里强调摩西和亚伦是蒙神合法差遣的器皿，而非自封的领袖。`,
+    historyContext_en: `Exodus chapter 6 takes place after Moses' failed first audience with Pharaoh. Pharaoh not only refused to release the Israelites but stopped supplying straw for brickmaking while maintaining the same brick quota (Exodus 5). This context is crucial: when God's plan of redemption began, the situation actually worsened.
+
+From a historical perspective, the name "the LORD" (YHWH) already appears in Genesis, but its full redemptive significance was to be displayed in the Exodus event. Reformed theologian Karl Barth argued that God was revealing His covenant name in a richer way here, rather than suggesting the patriarchs were entirely unaware of this name.
+
+The genealogy in this chapter (6:14-25) serves both literary and theological purposes: it situates Moses and Aaron within Israel's tribal structure (the tribe of Levi), while also highlighting Aaron's descendant Phinehas, who later received special commendation for upholding God's holiness (Numbers 25:10-13). Genealogies in ancient Near Eastern culture conveyed legitimacy and authority—emphasizing that Moses and Aaron were divinely commissioned agents, not self-appointed leaders.`,
+    structure_zh: `一、神重申祂的名与约（6:1-8）
+　　1. 神宣告祂的名：耶和华（6:2-3）
+　　2. 神重申与列祖所立的约（6:4-5）
+　　3. 七个救赎应许："我要…"（6:6-8）
+
+二、百姓不肯听，摩西的疑惑（6:9-13）
+　　1. 以色列人因苦不听摩西（6:9）
+　　2. 摩西再次以口拙辩解（6:10-12）
+　　3. 神重申命令（6:13）
+
+三、摩西和亚伦的家谱（6:14-25）
+　　1. 流便、西缅的后裔（6:14-15）
+　　2. 利未的后裔（6:16-25）
+　　3. 亚伦和摩西的系谱确认（6:26-27）
+
+四、神再次差遣摩西（6:28-30）
+　　1. 摩西再次申言口拙
+　　2. 神赋予亚伦先知之职`,
+    structure_en: `I. God Reaffirms His Name and Covenant (6:1-8)
+　　1. God declares His name: the LORD (6:2-3)
+　　2. God reaffirms the covenant with the patriarchs (6:4-5)
+　　3. Seven promises of redemption: "I will..." (6:6-8)
+
+II. The People Refuse to Listen; Moses' Doubt (6:9-13)
+　　1. Israelites too discouraged to listen to Moses (6:9)
+　　2. Moses again protests his inadequate speech (6:10-12)
+　　3. God reiterates His command (6:13)
+
+III. Genealogy of Moses and Aaron (6:14-25)
+　　1. Descendants of Reuben and Simeon (6:14-15)
+　　2. Descendants of Levi (6:16-25)
+　　3. Confirmation of Aaron and Moses' lineage (6:26-27)
+
+IV. God Recommissions Moses (6:28-30)
+　　1. Moses again claims inadequate speech
+　　2. God assigns Aaron the role of prophet`,
+    theology_zh: `【神学要点一：神名字的自我启示与救赎论】
+"我是耶和华"这一宣告是本章神学的核心。改革宗神学强调，神对自身的启示是渐进的、有机的——不是矛盾的，而是深化的。"全能的神"（以勒·沙代）强调神的能力和供应；"耶和华"则启示神作为守约救赎者的性情。神学家赫尔曼·巴文克指出，神名字的启示是神自我沟通的一部分，是神主动向受造物弯腰的恩典行动。在韦敏斯德信条的框架中，神的名字体现祂的存有、属性和恩约关系。当神说"我是耶和华"，祂不只是在报名号，而是在宣告一种关系、一种承诺、一种救赎性的临在。
+
+【神学要点二：恩典之约的无条件性】
+六章中神七个"我要"的应许是恩约（Covenant of Grace）无条件性的有力例证。神不等以色列人悔改或顺服，就宣告祂必定履行救赎。韦敏斯德信条第七章论及神的约，强调在堕落之后，神出于纯粹的怜悯主动与人立恩约，救赎完全出于神的主动。以色列人因苦不信，却丝毫不影响神应许的有效性——这正彰显了恩典的本质：它不依赖人的回应，而依赖神的信实。这对身处苦难中的信徒是极大的安慰：神的应许不是条件句，而是神自己的宣誓。
+
+【神学要点三：神使用软弱的器皿】
+摩西两次以"我是拙口拙舌的人"推辞，但神仍然差遣他，并为他安排了亚伦。改革宗神学强调"工具性因果"（instrumental causality）：神可以使用并不完美、甚至有明显缺陷的器皿成就祂的旨意。哥林多前书1:27-28说："神却拣选了世上软弱的，叫有能力的羞愧。"神拣选软弱的摩西，正是为了彰显力量属于神，荣耀归于神。这一原则贯穿整个救赎历史：神不寻找完美的工具，而是在软弱中彰显祂的全能。`,
+    theology_en: `[Theological Point 1: God's Self-Revelation Through His Name and Soteriology]
+The declaration "I am the LORD" is the theological heart of this chapter. Reformed theology emphasizes that God's self-revelation is progressive and organic—not contradictory but deepening. "God Almighty" (El Shaddai) stresses God's power and provision; "the LORD" (YHWH) reveals God's character as covenant-keeping Redeemer. Theologian Herman Bavinck taught that the revelation of God's name is part of His self-communication—an act of grace in which God stoops down to His creatures. Within the Westminster Confession framework, God's name reflects His being, attributes, and covenantal relationship. When God says "I am the LORD," He is not merely identifying Himself but declaring a relationship, a commitment, and a redemptive presence.
+
+[Theological Point 2: The Unconditionality of the Covenant of Grace]
+God's seven "I will" promises in chapter 6 are a powerful demonstration of the unconditionality of the Covenant of Grace. God did not wait for Israel to repent or obey before declaring His certain redemption. Westminster Confession Chapter 7 addresses God's covenant, emphasizing that after the Fall, God out of pure mercy initiated a covenant of grace with humanity—salvation flowing entirely from divine initiative. Israel's unbelief due to suffering did not diminish God's promises in the slightest—this displays the essence of grace: it depends not on human response but on God's faithfulness. This is profound comfort for believers in suffering: God's promises are not conditional statements but divine oaths.
+
+[Theological Point 3: God Uses Weak Instruments]
+Moses twice protested, "I am of uncircumcised lips," yet God still sent him and arranged for Aaron. Reformed theology emphasizes instrumental causality: God can use imperfect, even significantly flawed instruments to accomplish His purposes. First Corinthians 1:27-28 says, "God chose what is weak in the world to shame the strong." God's choice of the hesitant Moses was precisely to display that strength belongs to God and glory returns to God. This principle runs through all redemptive history: God does not seek perfect tools but displays His omnipotence through weakness.`,
+    christShadow_zh: `出埃及记第六章以多种方式预表基督，其中最深刻的是神名字"耶和华"的充分启示与约翰福音中基督的"我是"宣言之间的关联。
+
+耶稣在约翰福音中七次说"我是"（Ego Eimi）：我是生命的粮、世界的光、羊的门、好牧人、复活与生命、道路真理生命、真葡萄树。这些"我是"宣言直接呼应出埃及记中神对摩西所宣告的"我是自有永有的"（出埃及记 3:14）和本章"我是耶和华"。基督在约翰福音8:58更明确地说："还没有亚伯拉罕，就有了我。"这是对出埃及记6:3最直接的回应——那位向列祖应许的神，正是道成肉身的耶稣基督。
+
+神在本章宣告的七个"我要"的救赎应许，预表基督成就终极救赎的七个层面：祂要带我们脱离罪的重担（称义）、脱离罪的奴役（成圣）、用大能的膀臂救赎我们（赎价）、使我们成为祂的子民（收养）、成为我们的神（联合）、带我们进入属天的迦南（得荣）。摩西所带领的出埃及是地上的、有限的、物质的；基督所带领的"出埃及"则是属灵的、永恒的、完全的。
+
+摩西的软弱与亚伦的配合也预表基督的中保职分。摩西是不完全的中保，他有缺陷，需要亚伦的帮助；而基督是完美的中保——"因为只有一位神，在神和人中间，只有一位中保，乃是降世为人的基督耶稣"（提摩太前书 2:5）。基督不需要任何助手，祂自己就完全代表神说话，也完全代表人说话。
+
+本章的家谱也有神学意义：基督道成肉身，具有真实的人类家谱（马太福音1章），进入人类历史的脉络，以真实的身份成就救赎——这与出埃及记通过具体的利未家族彰显救赎的方式遥相呼应。`,
+    christShadow_en: `Exodus chapter 6 foreshadows Christ in multiple ways, most profoundly through the connection between the full revelation of God's name "the LORD" and Christ's "I am" declarations in the Gospel of John.
+
+Jesus makes seven "I am" (Ego Eimi) declarations in John's Gospel: I am the bread of life, the light of the world, the door of the sheep, the good shepherd, the resurrection and the life, the way and the truth and the life, and the true vine. These "I am" declarations directly echo God's self-revelation to Moses as "I AM WHO I AM" (Exodus 3:14) and the "I am the LORD" of this chapter. In John 8:58, Christ states even more explicitly: "Before Abraham was, I am." This is the most direct response to Exodus 6:3—the God who promised the patriarchs is none other than Jesus Christ, the Word made flesh.
+
+The seven "I will" redemptive promises God declares in this chapter prefigure the seven dimensions of Christ's ultimate redemption: He will bring us out from under sin's burden (justification), from slavery to sin (sanctification), redeem us with a mighty arm (atonement), make us His people (adoption), be our God (union), and bring us into the heavenly Canaan (glorification). The exodus Moses led was earthly, limited, and material; the "exodus" Christ leads is spiritual, eternal, and complete.
+
+Moses' weakness and Aaron's assistance also prefigure Christ's mediatorial office. Moses was an imperfect mediator—flawed, needing Aaron's help; but Christ is the perfect Mediator: "For there is one God, and there is one mediator between God and men, the man Christ Jesus" (1 Timothy 2:5). Christ requires no assistant; He perfectly represents God to humanity and humanity to God.
+
+The genealogy in this chapter also carries theological significance: Christ's incarnation involved a real human genealogy (Matthew 1), entering the stream of human history with genuine identity to accomplish redemption—mirroring how Exodus reveals redemption through the concrete lineage of the tribe of Levi.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 7,
+    publishDate: '2026-05-08',
+    title: '亚伦的杖与第一灾', titleEn: 'Aaron s Staff and the First Plague',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 7 / Exodus 7',
+    content_zh: `我摩西，奉耶和华的命，带着八十岁的身躯，第二次走进法老的宫殿。这一次，神赐给了我一个记号。
+
+耶和华吩咐我："法老若问你们说，你们行个奇事吧！你就吩咐亚伦说，把杖扔在法老面前，那杖就成了蛇。"（出埃及记 7:9）我和亚伦照做了。亚伦把杖扔在法老面前，那杖果然变成了蛇。然而法老召来了他的术士和行法术的，"埃及行法术的人也用邪术照样而行，各人把杖扔下，也就成了蛇"（出埃及记 7:11-12）。法老的心似乎仍旧刚硬——直到神奇迹般的事情发生："亚伦的杖吞了他们的杖。"（出埃及记 7:12）
+
+这个记号意义深远。蛇在埃及神话中是守护神和力量的象征，法老头冠上就绘有眼镜蛇图案，代表王权的神圣守护。埃及的术士能制造蛇的幻象，表明他们有某种真实的超自然能力——但这能力有其限度。神所赐给亚伦的杖变成的蛇，不是魔术表演，而是真实的神迹；不是平手，而是彻底的胜利——亚伦的蛇吞噬了众多的蛇。这是对埃及众神的挑战，是对法老权威的质疑。然而，"法老的心这次变硬了，不肯听他们，正如耶和华所说的。"（出埃及记 7:13）
+
+于是，神降下了第一场灾：水变为血。
+
+耶和华吩咐我对亚伦说："把你的杖伸在埃及所有的水上，就是在他们的江、河、池、塘上，水就成了血；在埃及遍地，无论在木器中，石器中，都有血。"（出埃及记 7:19）亚伦遵命而行，结果"埃及遍地的血，在木器中，石器中都有血"（出埃及记 7:21）。尼罗河是埃及的生命线，是埃及人崇拜的神明"哈比"（Hapi）的化身。尼罗河变成血，鱼死，河水腥臭，埃及人不能喝水——这不只是天灾，而是对埃及主神的正面冲击。
+
+然而"埃及的术士也用法术照样而行"（出埃及记 7:22）——他们能在已成血水的环境中再制造更多血？或者他们在别处有少量干净的水？这显然已是强弩之末。但法老看见术士能行同样的事，"法老的心就刚硬了，不肯听摩西、亚伦，正如耶和华所说的"（出埃及记 7:22）。
+
+这七天（出埃及记 7:25）里，埃及人在尼罗河边挖地找水。我在旷野思考神的旨意：神为何要允许术士模仿神迹？我渐渐明白：神在硬化法老的心，不是出于不公义，而是出于主权的智慧。法老的刚硬是他本有的罪性的显现，神只是在坚固他已然选择的道路，好成就更大的目的——彰显神的大能，使神的名传遍天下，也使以色列人知道，他们的神是比埃及一切神明都更高的神。
+
+我必须诚实地承认：这对我来说并不容易理解。神为什么要使法老的心刚硬？为什么不直接感化他的心？但慢慢地，我学会了不用自己有限的理性去衡量神无限的智慧。神的道路高过我的道路，神的意念高过我的意念（参以赛亚书 55:8-9）。
+
+我的百姓在苦难中，法老在骄傲中，而耶和华在宝座上——一切都在祂的掌控中。这场与埃及众神的较量，从一开始结局就已注定。`,
+    content_en: `I, Moses, at the age of eighty, entered Pharaoh's palace a second time, commissioned by the LORD. This time, God had given us a sign.
+
+The LORD instructed me: "When Pharaoh says to you, 'Prove yourselves by working a miracle,' then you shall say to Aaron, 'Take your staff and cast it down before Pharaoh, that it may become a serpent.'" (Exodus 7:9) Aaron and I obeyed. Aaron cast his staff down before Pharaoh, and it became a serpent. But Pharaoh summoned his wise men and sorcerers, and "the magicians of Egypt also did the same by their secret arts. Each man cast down his staff, and they became serpents." (Exodus 7:11-12) Pharaoh's heart seemed as hard as ever—until something miraculous occurred: "But Aaron's staff swallowed up their staffs." (Exodus 7:12)
+
+The significance of this sign was profound. In Egyptian mythology, the serpent was a symbol of divine protection and royal power—the cobra was depicted on Pharaoh's crown, representing the sacred guardian of kingship. Egypt's magicians could produce serpents, indicating they possessed some form of genuine supernatural power—but that power had limits. The serpent that Aaron's staff became was not a magical performance but a true miracle; not a draw, but total victory—Aaron's serpent devoured all the others. This was a challenge to Egypt's gods, a questioning of Pharaoh's authority. Yet "still Pharaoh's heart was hardened, and he would not listen to them, as the LORD had said." (Exodus 7:13)
+
+And so God brought the first plague: water turned to blood.
+
+The LORD commanded me to tell Aaron: "Take your staff and stretch out your hand over the waters of Egypt, over their rivers, their canals, and their ponds, and all their pools of water, so that they may become blood, and there shall be blood throughout all the land of Egypt, even in vessels of wood and in vessels of stone." (Exodus 7:19) Aaron obeyed, and "there was blood throughout all the land of Egypt." (Exodus 7:21) The Nile was Egypt's lifeline—the incarnation of the god "Hapi" whom Egyptians worshiped. The Nile turning to blood, the fish dying, the river reeking, the people unable to drink—this was not merely a natural disaster but a direct assault on Egypt's chief deity.
+
+Yet "the magicians of Egypt did the same by their secret arts." (Exodus 7:22) Could they produce more blood in an already blood-saturated environment? Or did they find a small amount of clean water elsewhere? This was clearly a last gasp. But Pharaoh saw the magicians could do the same thing, and "Pharaoh's heart remained hardened, and he would not listen to them, as the LORD had said." (Exodus 7:22)
+
+For seven days (Exodus 7:25), the Egyptians dug along the banks of the Nile for water to drink. I reflected in the wilderness on God's purposes: why would God allow the magicians to imitate the miracles? Gradually I came to understand: God was hardening Pharaoh's heart—not out of injustice, but from sovereign wisdom. Pharaoh's hardness was the expression of his innate sinfulness; God was simply confirming the path he had already chosen, to accomplish a greater purpose—displaying God's power, spreading God's name throughout the earth, and showing Israel that their God was higher than all Egypt's gods.
+
+I must honestly confess: this was not easy for me to understand. Why would God harden Pharaoh's heart? Why not simply change it? But gradually I learned not to measure God's infinite wisdom by my finite reason. "For my thoughts are not your thoughts, neither are your ways my ways, declares the LORD." (Isaiah 55:8) 
+
+My people were in suffering, Pharaoh was in pride, and the LORD was on His throne—everything was in His control. This confrontation with Egypt's gods had a predetermined outcome from the very beginning.`,
+    historyContext_zh: `第七章在历史上标志着十灾的正式开始。水变血是十灾中的第一灾，针对埃及最重要的神明——尼罗河神哈比（Hapi）。尼罗河是埃及文明的根基，每年的洪水泛滥带来肥沃的土壤，是埃及农业的生命源泉。
+
+关于埃及术士能行"同样的事"，改革宗神学家一般认为他们有某种真实的（尽管是有限的、由魔鬼赋予的）超自然能力，而非单纯的幻术。这与新约中假先知能行"大神迹"（马太福音 24:24）的描述一致。
+
+"法老的心刚硬"在希伯来文中有两个不同的词：有时是法老自己使心刚硬，有时是神使他的心刚硬。这一圣经神学上的张力在改革宗传统中被理解为：人有真实的意志责任，神有绝对的主权——两者并行不悖，正如韦敏斯德信条第三章所论述的预定论与人的责任的关系。`,
+    historyContext_en: `Chapter 7 historically marks the formal beginning of the Ten Plagues. The water-to-blood plague was the first, targeting Egypt's most important deity—the Nile god Hapi. The Nile was the foundation of Egyptian civilization; its annual floods deposited fertile soil and were the life source of Egyptian agriculture.
+
+Regarding the Egyptian magicians' ability to "do the same," Reformed theologians generally hold that they possessed some form of genuine (though limited, demonically-empowered) supernatural ability, rather than mere illusion. This accords with the New Testament's description of false prophets performing "great signs and wonders" (Matthew 24:24).
+
+The "hardening of Pharaoh's heart" uses two different Hebrew verbs: sometimes Pharaoh hardened his own heart, and sometimes God hardened it. This biblical-theological tension is understood in the Reformed tradition as: humans bear genuine moral responsibility while God exercises absolute sovereignty—both truths held simultaneously, as the Westminster Confession Chapter 3 addresses in its treatment of predestination and human responsibility.`,
+    structure_zh: `一、亚伦的杖变蛇（7:1-13）
+　　1. 神吩咐摩西和亚伦的职分（7:1-7）
+　　2. 亚伦的杖变蛇（7:8-10）
+　　3. 术士模仿，亚伦的蛇吞噬众蛇（7:11-12）
+　　4. 法老心刚硬（7:13）
+
+二、第一灾：水变血（7:14-25）
+　　1. 神吩咐审判原因（7:14-18）
+　　2. 摩西和亚伦执行（7:19-21）
+　　3. 术士模仿，法老心刚硬（7:22-24）
+　　4. 七天过去（7:25）`,
+    structure_en: `I. Aaron's Staff Becomes a Serpent (7:1-13)
+　　1. God designates Moses' and Aaron's roles (7:1-7)
+　　2. Aaron's staff becomes a serpent (7:8-10)
+　　3. Magicians imitate; Aaron's serpent swallows theirs (7:11-12)
+　　4. Pharaoh's heart hardened (7:13)
+
+II. First Plague: Water Turned to Blood (7:14-25)
+　　1. God announces the judgment and its purpose (7:14-18)
+　　2. Moses and Aaron execute the plague (7:19-21)
+　　3. Magicians imitate; Pharaoh's heart hardened (7:22-24)
+　　4. Seven days pass (7:25)`,
+    theology_zh: `【神学要点一：神的主权与人的刚硬——双重因果论】
+"耶和华使法老的心刚硬"（出埃及记 7:3）与"法老的心刚硬了"（出埃及记 7:22）并列出现，揭示了改革宗神学的核心主题：神的绝对主权与人的真实责任并行不悖。韦敏斯德信条第三章第一节说，神"从永恒中，凭着祂至高智慧和圣旨的最自由旨意，定意了所要成就的一切事"，同时第九章肯定人有真正的意志。法老的刚硬不是神强迫他做他不愿做的事，而是神在法老已有的罪性和骄傲中，用神迹激化了他内心本有的悖逆。这是改革宗关于预定与责任的辩证张力，也是保罗在罗马书9:17所阐释的："圣经对法老说：'我将你兴起来，特要在你身上彰显我的权能，并要使我的名传遍天下。'"
+
+【神学要点二：神迹的目的是彰显神的荣耀】
+神迹在圣经中从来不是娱乐或证明某人能力的工具，而是神荣耀的彰显。出埃及记7章中的神迹——杖变蛇、水变血——具体针对埃及的假神，是神宣战的旗帜。改革宗神学认为，神行神迹的目的是："使我的名传遍天下"（出埃及记 9:16）。亚伦的杖吞噬埃及人的杖，象征着耶和华的权能压倒一切假神和人间权势。这也是为何在新约中，耶稣的神迹总是伴随着宣教和对神国的宣告——神迹指向神自己，而非指向行神迹的人。
+
+【神学要点三：审判是对假神的审判，也是对罪的公义回应】
+水变血不只是惩罚埃及人，更是对埃及神明体系的正面宣战。出埃及记12:12说："我要审判埃及所有的神明。"十灾每一灾都针对埃及神明体系中的某一具体神明。这彰显了改革宗神学中神的公义与祂对偶像崇拜的仇恶。韦敏斯德信条第二章论到神是"最公义的"，"至圣的"，祂的公义要求对罪和偶像崇拜的审判。然而，这审判同时也是慈悲的前奏——它是为了使神的百姓得以离开，是要实现最终的救赎。审判与慈悲在神的计划中并非矛盾，而是有机统一的。`,
+    theology_en: `[Theological Point 1: God's Sovereignty and Human Hardness—Dual Causality]
+"The LORD hardened Pharaoh's heart" (Exodus 7:3) appears alongside "Pharaoh's heart was hardened" (Exodus 7:22), revealing a core theme of Reformed theology: God's absolute sovereignty and genuine human responsibility exist simultaneously. Westminster Confession Chapter 3, Section 1 states that God "from all eternity did, by the most wise and holy counsel of his own will, freely and unchangeably ordain whatsoever comes to pass," while Chapter 9 affirms genuine human will. Pharaoh's hardening was not God forcing him against his will, but God using the miracles to intensify the rebellion already present in Pharaoh's sinful, prideful heart. This is the Reformed dialectical tension between predestination and responsibility—and what Paul explains in Romans 9:17: "For the Scripture says to Pharaoh, 'For this very purpose I have raised you up, that I might show my power in you, and that my name might be proclaimed in all the earth.'"
+
+[Theological Point 2: Miracles Serve to Manifest God's Glory]
+In Scripture, miracles are never entertainment or demonstrations of human ability—they are manifestations of God's glory. The miracles of Exodus 7—staff to serpent, water to blood—specifically targeted Egypt's false gods, serving as God's declaration of war. Reformed theology holds that God's purpose in performing miracles was "that my name might be proclaimed in all the earth" (Exodus 9:16). Aaron's staff swallowing the Egyptian staffs symbolized the LORD's power overwhelming all false gods and human authority. This is also why in the New Testament, Jesus' miracles were always accompanied by proclamation of the kingdom—miracles point to God Himself, not to the miracle-worker.
+
+[Theological Point 3: Judgment is Against False Gods and a Just Response to Sin]
+The water-to-blood plague was not merely punishment of Egyptians but a direct declaration of war against Egypt's divine system. Exodus 12:12 states, "I will execute judgments against all the gods of Egypt." Each of the ten plagues targeted a specific deity in the Egyptian pantheon. This displays what Reformed theology teaches about God's justice and His hatred of idolatry. Westminster Confession Chapter 2 describes God as "most just" and "most holy"—His justice requires judgment against sin and idolatry. Yet this judgment was simultaneously the prelude to mercy—it served to bring God's people out, to accomplish ultimate redemption. Judgment and mercy are not contradictions in God's plan but organic constituents of one unified purpose.`,
+    christShadow_zh: `出埃及记7章以多种方式预表基督和祂的救赎工作。
+
+首先，亚伦的杖吞噬众蛇预表基督的十字架胜利。那条古蛇（撒旦）在创世记3章以蛇的形象出现，而亚伦的杖所变成的蛇吞噬了众蛇，象征着最终将有一位来者击败那古蛇。希伯来书2:14说，基督"也照样亲自成了血肉之体，特要藉着死，败坏那掌死权的魔鬼"。在十字架上，基督成了"为我们受咒诅的"（加拉太书 3:13），"神使那无罪的，替我们成为罪，好叫我们在他里面成为神的义"（哥林多后书 5:21）——正如铜蛇被举起（民数记 21:9，约翰福音 3:14-15），蛇（罪的象征）被用来除掉蛇（罪的咒诅）。
+
+其次，水变血这一审判预表基督的宝血所带来的救赎。尼罗河的血带来死亡与审判；但基督所流的血带来生命与救赎。约翰一书1:7说："耶稣神儿子的血也洗净我们一切的罪。"十灾中的第一灾是水变血（死亡）；而逾越节（第十灾后的救赎记号）所点的门楣是羊羔的血（生命）。这一对比深刻地预示：审判的血与救赎的血，是同一位神在历史两端的行动——前者预备，后者成全。
+
+第三，法老的刚硬与神的主权预表福音宣讲中的拒绝与拣选。正如法老的刚硬并非偶然，而是神主权计划的一部分；同样，以赛亚书6章和约翰福音12:38-40所引用的话也说，有人听了福音却不信，这也在神的主权计划之内。但这不妨碍神的福音的有效性——凡神所拣选的，必会相信。基督是那最终的"亚伦"，祂的话语和工作必定吞噬一切对立的力量，带着祂的子民得胜。`,
+    christShadow_en: `Exodus chapter 7 prefigures Christ and His redemptive work in multiple ways.
+
+First, Aaron's staff swallowing the serpents prefigures Christ's victory at the cross. The ancient serpent (Satan) appeared in serpent form in Genesis 3, and Aaron's staff-turned-serpent swallowing the others symbolizes that One would come to defeat that ancient serpent. Hebrews 2:14 says Christ "himself likewise partook of the same things, that through death he might destroy the one who has the power of death, that is, the devil." On the cross, Christ "became a curse for us" (Galatians 3:13); "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God" (2 Corinthians 5:21)—just as the bronze serpent was lifted up (Numbers 21:9; John 3:14-15), a serpent (symbol of sin) was used to remove the serpent (sin's curse).
+
+Second, the judgment of water turned to blood prefigures the redemption accomplished by Christ's blood. The Nile's blood brought death and judgment; but the blood Christ shed brings life and redemption. First John 1:7 says, "the blood of Jesus his Son cleanses us from all sin." The first plague turned water to blood (death); but the Passover (the sign of redemption after the tenth plague) involved the blood of a lamb painted on doorposts (life). This contrast profoundly foreshadows: the blood of judgment and the blood of redemption are the actions of the same God at two ends of history—the former preparing, the latter fulfilling.
+
+Third, Pharaoh's hardening and God's sovereignty prefigure both the rejection and election encountered in gospel proclamation. Just as Pharaoh's hardening was no accident but part of God's sovereign plan, Isaiah 6 and John 12:38-40 likewise say that some hear the gospel and do not believe—also within God's sovereign plan. But this does not diminish the gospel's efficacy—all whom God has chosen will believe. Christ is the ultimate "Aaron," whose word and work will certainly swallow up every opposing force, leading His people to victory.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 8,
+    publishDate: '2026-05-11',
+    title: '蛙灾、虱灾与蝇灾', titleEn: 'Plagues of Frogs, Gnats, and Flies',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 8 / Exodus 8',
+    content_zh: `我摩西，继续站在神与法老之间，见证着一场史无前例的属灵争战。七天的血水之后，神差遣我再次去见法老，带来了接连三场灾难。每一场灾难，都是对埃及神明体系的精准打击，也是对法老刚硬之心的更深揭露。
+
+第二灾：青蛙（出埃及记 8:1-15）
+
+耶和华对我说："你进去见法老，对他说：'耶和华这样说：你要容我的百姓去，好事奉我。你若不肯容他们去，我必叫青蛙糟蹋你的四境。'"（出埃及记 8:1-2）
+
+青蛙！这在埃及不是简单的灾难。埃及女神海奎特（Heqet）以蛙首人身的形象出现，是生育和生命的女神，埃及人不敢杀害青蛙。而现在，无数的青蛙从尼罗河涌出，充满埃及人的家、卧室、床上、炉灶、饮食器皿。那神圣的象征成了刑罚的工具。
+
+令我意外的是，这一次法老来求我了。"法老叫了摩西、亚伦来，说：你们向耶和华祷告，叫这些蛙从我和我的百姓身上去，我就容百姓去祭祀耶和华。"（出埃及记 8:8）这是法老第一次妥协的请求。我回答他说："你只管指定我当为你，为你的臣仆，为你的百姓祷告的时候，青蛙就从你和你的房屋里除去，只在河中才有。"（出埃及记 8:9）法老说："明天。"我照所定的时候向耶和华祷告，青蛙都死了。然而"法老见得了舒缓，就硬着心，不听他们，正如耶和华所说的"（出埃及记 8:15）。
+
+这一细节深深刺痛了我的心：法老知道耶和华能除去青蛙，却在危机解除后立刻反悔。这是人心的本相——在苦难中向神祈求，在苦难过去后背弃神。
+
+第三灾：虱子（出埃及记 8:16-19）
+
+这一次，神没有警告，直接命令亚伦用杖击打地上的尘土，尘土变成了虱子，遍布人身和牲畜身上。这是对埃及地神和土地神明的直接打击。
+
+更重要的是，这一次埃及的术士无法模仿了。"术士也用法术要这样而行，叫虱子出来，却是不能。"（出埃及记 8:18）他们无奈地对法老说："这是神的手指头"（出埃及记 8:19）。这是埃及术士首次认败，承认自己的极限。然而法老的心刚硬了，不听他们。
+
+第四灾：蝇（出埃及记 8:20-32）
+
+第四灾带来了一个重要的转变：神开始区分以色列人和埃及人。
+
+耶和华说："我要用成群的苍蝇攻击你和你的臣仆并你的百姓，以及你的房屋；埃及人的房屋，和他们所住的土地，都要满了苍蝇。那日我要叫我百姓所住的歌珊地另施恩待，在那里没有成群的苍蝇，好叫你知道我是在这地中间的耶和华。"（出埃及记 8:21-22）
+
+神立了"区别"（原文：救赎/分离）——祂的百姓得到特别的保护，这不是因为他们有什么功德，而是因为他们是神的百姓，神要通过这区别向法老和埃及人显明：耶和华是在历史中掌权的神，祂保护祂的子民。
+
+这一次，法老三次试图妥协，却都是表面的让步：
+- "你们在这地祭祀你们的神吧"——要以色列人在埃及境内祭祀，而非离开
+- "我容你们去，只是不可走得太远"——有限度地答应
+- "你们可以去……只是求你为我祷告"——在顺从中夹杂私心
+
+每一次，法老都在试图控制和谈判，而非真正顺服。我们的神不接受这种谈判——祂要求完全的顺服。我向神祷告，苍蝇离去，"但法老这次也硬了心，不容百姓去"（出埃及记 8:32）。
+
+这三场灾难教导了我，也教导我们：神的审判是有步骤的，是有层次的，是有目的的。苦难可以软化人心，也可以使人心更刚硬——取决于人对神话语的回应。法老每一次暂时的悔软，都被随后更深的刚硬取代。这是拒绝神恩典的危险：每一次拒绝都使心更加硬化，直到到达无可挽回的地步。`,
+    content_en: `I, Moses, continued to stand between God and Pharaoh, witnessing an unprecedented spiritual conflict. After seven days of the bloody Nile, God sent me again to Pharaoh, bringing three successive plagues. Each one was a precise strike against Egypt's divine system and a deeper exposure of Pharaoh's hardened heart.
+
+The Second Plague: Frogs (Exodus 8:1-15)
+
+The LORD said to me: "Go in to Pharaoh and say to him, 'Thus says the LORD, "Let my people go, that they may serve me. But if you refuse to let them go, behold, I will plague all your country with frogs."'" (Exodus 8:1-2)
+
+Frogs! This was no simple nuisance in Egypt. The Egyptian goddess Heqet appeared with the head of a frog and was the goddess of fertility and birth—Egyptians dared not kill frogs. Now countless frogs surged from the Nile, filling the Egyptians' houses, bedrooms, beds, ovens, and food vessels. The sacred symbol had become an instrument of punishment.
+
+To my surprise, Pharaoh came to me this time. "Then Pharaoh called Moses and Aaron and said, 'Plead with the LORD to take away the frogs from me and from my people, and I will let the people go to sacrifice to the LORD.'" (Exodus 8:8) This was Pharaoh's first plea for compromise. I answered him: "Be it as you say, so that you may know that there is no one like the LORD our God. The frogs shall go away from you and your houses and be left only in the Nile." (Exodus 8:10-11) Pharaoh said "Tomorrow." I prayed at the appointed time, and the frogs died. But "when Pharaoh saw that there was a respite, he hardened his heart and would not listen to them, as the LORD had said." (Exodus 8:15)
+
+This detail pierced my heart: Pharaoh knew the LORD could remove the frogs, yet the moment the crisis passed, he immediately broke his word. This is the nature of the human heart—crying out to God in suffering, abandoning God when the suffering ends.
+
+The Third Plague: Gnats (Exodus 8:16-19)
+
+This time God gave no warning, directly commanding Aaron to strike the dust of the earth with his staff. The dust became gnats covering people and animals throughout the land. This was a direct assault on Egypt's earth deities and land gods.
+
+More significantly, this time the Egyptian magicians could not replicate the plague. "The magicians tried by their secret arts to produce gnats, but they could not." (Exodus 8:18) Helplessly they told Pharaoh: "This is the finger of God." (Exodus 8:19) This was the first time the Egyptian magicians admitted defeat, acknowledging the limits of their power. Yet Pharaoh's heart was hardened, and he would not listen to them.
+
+The Fourth Plague: Flies (Exodus 8:20-32)
+
+The fourth plague brought an important development: God began to distinguish between Israel and Egypt.
+
+The LORD said: "I will send swarms of flies on you and your servants and your people, and into your houses. And the houses of the Egyptians shall be filled with swarms of flies, and also the ground on which they stand. But on that day I will set apart the land of Goshen, where my people dwell, so that no swarms of flies shall be there, that you may know that I am the LORD in the midst of the earth." (Exodus 8:21-22)
+
+God established a "distinction" (the Hebrew word relates to redemption/separation)—His people received special protection, not because of their merit, but because they were God's people. God wanted to demonstrate through this distinction to Pharaoh and Egypt: the LORD is God who reigns in history, and He protects His people.
+
+This time Pharaoh attempted three compromises, each only a surface concession:
+- "Go, sacrifice to your God within the land"—offering to let Israel worship in Egypt without leaving
+- "I will let you go... only you must not go very far away"—conditional agreement
+- "Go, sacrifice to your God... only plead with the LORD for me"—obedience mixed with self-interest
+
+Each time, Pharaoh tried to control and negotiate rather than truly submit. Our God does not accept such negotiations—He demands complete obedience. I prayed, and the flies departed, "but Pharaoh hardened his heart this time also, and did not let the people go." (Exodus 8:32)
+
+These three plagues taught me—and teach us—that God's judgment is sequential, layered, and purposeful. Suffering can soften a heart, or it can harden it further—depending on one's response to God's word. Each of Pharaoh's temporary softenings was replaced by deeper hardening. This is the danger of rejecting God's grace: each refusal hardens the heart further, until reaching a point of no return.`,
+    historyContext_zh: `出埃及记8章中的三场灾难（蛙、虱、蝇）各有其针对的埃及神明：
+- 青蛙：针对生育女神海奎特（Heqet），她以蛙首人身形象出现
+- 虱子（或尘虱）：针对埃及地神盖布（Geb），因虱子从地土中产生
+- 蝇（可能是牛虻或甲虫蝇）：可能针对苍蝇神乌阿奇特（Uatchit）或太阳神拉（Ra）的一个形态
+
+第四灾开始区分以色列人的歌珊地，这是神保护选民、彰显祂约忠信的明确行动。歌珊地是尼罗河三角洲东部的一片肥沃土地，是雅各全家从迦南移居埃及时约瑟为他们安排的住所（创世记 47:6）。
+
+法老的三次"妥协"提议反映了古代近东政治谈判的惯例，也显示法老将与摩西的交涉视为政治谈判而非神圣命令。从考古和历史角度看，法老被视为神在地上的代表，向另一位"神"的代表（摩西）妥协在意识形态上是极为困难的。`,
+    historyContext_en: `The three plagues of Exodus 8 (frogs, gnats, flies) each targeted specific Egyptian deities:
+- Frogs: targeted Heqet, goddess of fertility, depicted with a frog's head
+- Gnats/lice: targeted Geb, god of the earth, since the gnats came from the dust of the ground
+- Flies (possibly gadflies or beetle-flies): possibly targeted Uatchit (fly deity) or a manifestation of the sun god Ra
+
+The fourth plague's separation of Goshen from Egypt was God's explicit action to protect His elect and demonstrate His covenant faithfulness. Goshen was a fertile area in the eastern Nile Delta—the region where Joseph had settled Jacob's family when they migrated from Canaan (Genesis 47:6).
+
+Pharaoh's three "compromise" offers reflect ancient Near Eastern political negotiation conventions and reveal that Pharaoh viewed his dealings with Moses as political bargaining rather than divine command. From archaeological and historical perspectives, Pharaoh was considered the divine representative on earth—ideologically, conceding to another "divine" representative (Moses) was extremely difficult.`,
+    structure_zh: `一、第二灾：青蛙（8:1-15）
+　　1. 神警告法老（8:1-4）
+　　2. 灾难执行（8:5-7）
+　　3. 术士模仿，法老求摩西祷告（8:8）
+　　4. 摩西祷告，蛙灾解除（8:9-13）
+　　5. 法老舒缓后心刚硬（8:14-15）
+
+二、第三灾：虱子（8:16-19）
+　　1. 无警告，直接执行（8:16-17）
+　　2. 术士无法模仿，承认"神的手指"（8:18-19）
+　　3. 法老心刚硬（8:19）
+
+三、第四灾：苍蝇（8:20-32）
+　　1. 神警告，宣告区分（8:20-23）
+　　2. 灾难执行（8:24）
+　　3. 法老三次妥协（8:25-29）
+　　4. 摩西祷告，蝇灾解除（8:30-31）
+　　5. 法老再次心刚硬（8:32）`,
+    structure_en: `I. Second Plague: Frogs (8:1-15)
+　　1. God warns Pharaoh (8:1-4)
+　　2. Plague executed (8:5-7)
+　　3. Magicians imitate; Pharaoh asks Moses to pray (8:8)
+　　4. Moses prays; plague lifted (8:9-13)
+　　5. Pharaoh hardens his heart after relief (8:14-15)
+
+II. Third Plague: Gnats (8:16-19)
+　　1. No warning; direct execution (8:16-17)
+　　2. Magicians fail; acknowledge "the finger of God" (8:18-19)
+　　3. Pharaoh's heart hardened (8:19)
+
+III. Fourth Plague: Flies (8:20-32)
+　　1. God warns; announces distinction (8:20-23)
+　　2. Plague executed (8:24)
+　　3. Pharaoh's three compromises (8:25-29)
+　　4. Moses prays; plague lifted (8:30-31)
+　　5. Pharaoh hardens his heart again (8:32)`,
+    theology_zh: `【神学要点一：神判断的升级与恩典的耐心】
+三场灾难的排列呈现出一种升级模式：第二灾仍有警告，第三灾没有警告，第四灾带来了新的转折（歌珊的区分）。这种升级既彰显神公义审判的严肃性，也彰显神耐心的恩典——神一次次给法老机会认罪悔改，却一次次遭到拒绝。改革宗神学强调，神的长忍（patience）是祂属性的彰显，"不愿有一人沉沦，乃愿人人都悔改"（彼得后书 3:9）。十灾不是一次完成的，而是一场漫长的见证，给法老和埃及人充分的机会回转。然而，拒绝神的长忍最终导致更严重的审判——这是圣经中反复出现的模式（参罗马书 2:4-5）。
+
+【神学要点二：拣选与区分——神设立"歌珊界限"】
+第四灾中神设立歌珊之地的保护，是改革宗拣选论（doctrine of election）的一个生动例证。神没有因为以色列人比埃及人更好而保护他们——事实上，以色列人同样满了罪性——而是因为神的拣选与约。韦敏斯德信条第十七章（论教会成员的蒙恩之道）的基础，就是神出于主权的拣选。神在历史中立下的"区别"预示了最终的区别：审判之日，绵羊与山羊的分别（马太福音 25:31-46）。蒙恩之人不是因自己的义，而是因蒙神拣选并被基督宝血所遮盖而得保全。
+
+【神学要点三：术士认败——"神的手指"与属灵战争的本质】
+第三灾中，埃及术士承认"这是神的手指头"（出埃及记 8:19），这是一个具有深远神学意义的承认。"神的手指"在圣经中与圣灵的工作有关——耶稣说："我若靠着神的灵赶鬼，这就是神的国临到你们了"（马太福音 12:28），路加福音的平行记载则用"神的指头"（路加福音 11:20）。埃及术士（无论其能力来源如何）在第三灾面前完全无能为力，表明真正的属灵权能只属于神。改革宗神学强调，魔鬼的权能是真实的但有限的，神允许它存在是为了更大的目的，最终神的权能必然胜过一切。`,
+    theology_en: `[Theological Point 1: The Escalation of Judgment and the Patience of Grace]
+The three plagues display an escalating pattern: the second plague still carries warning, the third does not, and the fourth brings a new development (the Goshen distinction). This escalation manifests both the seriousness of God's righteous judgment and the patience of His grace—God repeatedly gave Pharaoh opportunities to confess and repent, only to be repeatedly refused. Reformed theology emphasizes that God's longsuffering (patience) is a manifestation of His attributes: He is "not wishing that any should perish, but that all should reach repentance" (2 Peter 3:9). The ten plagues were not completed in one stroke but constitute a lengthy testimony, giving Pharaoh and Egypt ample opportunity to turn. Yet rejecting God's patience ultimately leads to more severe judgment—a pattern that recurs throughout Scripture (see Romans 2:4-5).
+
+[Theological Point 2: Election and Distinction—God Establishes the "Goshen Boundary"]
+God's establishment of the protection over Goshen in the fourth plague is a vivid illustration of the Reformed doctrine of election. God did not protect Israel because they were better than the Egyptians—in fact, Israel was equally sinful—but because of His election and covenant. The foundation of Westminster Confession Chapter 17 (on the perseverance of the saints) rests on God's sovereign election. The "distinction" God established in history foreshadows the ultimate distinction: on the day of judgment, the separation of sheep from goats (Matthew 25:31-46). The elect are preserved not by their own righteousness but because they are chosen by God and covered by Christ's precious blood.
+
+[Theological Point 3: The Magicians Concede—"The Finger of God" and the Nature of Spiritual Warfare]
+In the third plague, the Egyptian magicians confessed "this is the finger of God" (Exodus 8:19)—an acknowledgment with profound theological significance. "The finger of God" in Scripture is associated with the Holy Spirit's work—Jesus said, "But if it is by the Spirit of God that I cast out demons, then the kingdom of God has come upon you" (Matthew 12:28), while Luke's parallel uses "the finger of God" (Luke 11:20). Egypt's magicians (whatever their power source) were completely impotent before the third plague, demonstrating that true spiritual power belongs to God alone. Reformed theology emphasizes that demonic power is real but limited; God permits it to exist for greater purposes, and ultimately God's power must prevail over all.`,
+    christShadow_zh: `出埃及记8章中基督的预表集中在两个方面：区分与代祷。
+
+第四灾中神将歌珊地从蝇灾中区分出来保护，深刻地预表了基督为祂的子民在审判中的保护。约翰福音17:15-16，耶稣为门徒祷告说："我不求你叫他们离开世界，只求你保守他们脱离那恶者……他们不属世界，正如我不属世界一样。"在审判临到世界的时候，属基督的人得到特别的保护——不是被接离苦难（正如以色列人仍在歌珊地，并非在迦南），而是在苦难中得保守（歌珊地与埃及同在一地，却没有苍蝇）。这正是改革宗神学关于"在世界中却不属世界"的理解，也是逾越节血涂门楣的预表——血涂的地方，死亡的使者越过了。
+
+摩西代替法老祈祷的行动也预表基督的代祷职分。每次法老求摩西向神祷告，摩西都去代求，灾难就解除了。这预表基督"靠着祂长远活着，替他们祈求"（希伯来书 7:25）。然而，有一个深刻的区别：法老的祷告求的是脱离审判的结果，而非真正的悔改；但在基督里的祈祷是真实的悔改和信靠。摩西代祷的有效性来自神对摩西的任命；基督代祷的有效性来自祂本身是又圣洁又无辜、完美的大祭司（希伯来书 7:26）。
+
+蝇灾中法老的三次妥协与诱惑也预表撒但对基督的试探的模式（马太福音 4:1-11）。撒但也试图通过一系列的"妥协"让基督不必完全顺从天父的旨意："你可以在埃及境内敬拜（不必完全离开罪的国度）……你可以走，只是不要走太远（留一些与世界的关联）……"但基督拒绝了所有这些妥协，祂来是要将祂的百姓从罪的权势下完全解放，而不是部分的、有条件的解放。`,
+    christShadow_en: `The typological foreshadowings of Christ in Exodus 8 center on two themes: distinction and intercession.
+
+God's separation of Goshen from the fly plague profoundly prefigures Christ's protection of His people in judgment. In John 17:15-16, Jesus prays for His disciples: "I do not ask that you take them out of the world, but that you keep them from the evil one... They are not of the world, just as I am not of the world." When judgment comes upon the world, those belonging to Christ receive special protection—not removal from suffering (just as Israel remained in Goshen, not yet in Canaan), but preservation through suffering (Goshen was in the same land as Egypt, yet without flies). This precisely embodies the Reformed theological understanding of being "in the world but not of the world," and prefigures the Passover blood on doorposts—where the blood was applied, the destroyer passed over.
+
+Moses' intercession on Pharaoh's behalf also prefigures Christ's intercessory office. Each time Pharaoh asked Moses to pray to God, Moses interceded, and the plague was lifted. This foreshadows Christ, who "always lives to make intercession" for His people (Hebrews 7:25). Yet there is a profound difference: Pharaoh's prayers sought relief from judgment's consequences, not genuine repentance; but prayer in Christ involves true repentance and faith. The effectiveness of Moses' intercession derived from his divine appointment; the effectiveness of Christ's intercession derives from who He is—"holy, innocent, unstained, separated from sinners" (Hebrews 7:26).
+
+Pharaoh's three compromise proposals in the fly plague also typologically echo Satan's pattern of tempting Christ (Matthew 4:1-11). Satan likewise attempted through a series of "compromises" to get Christ to avoid full obedience to the Father's will: "You can worship within Egypt (without fully leaving sin's kingdom)... you can go, just not too far (maintaining some connection to the world)..." But Christ refused all such compromises. He came to completely liberate His people from the power of sin—not partial, conditional liberation.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 9,
+    publishDate: '2026-05-12',
+    title: '畜疫、疮灾与雹灾', titleEn: 'Plagues of Livestock, Boils, and Hail',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 9 / Exodus 9',
+    content_zh: `我摩西，目睹了神的审判在埃及大地上一层层加深。第九章记载了三场灾难，它们的规模和烈度不断升级，同时也越来越清楚地彰显了神的目的：不只是要解放以色列，更是要向全地宣告祂是独一的真神。
+
+第五灾：畜疫（出埃及记 9:1-7）
+
+耶和华对我说，明天神要使埃及人的牲畜患严重的瘟疫——马、驴、骆驼、牛群、羊群——而以色列人的牲畜则一无所损。神不仅宣告了灾难，还设定了时间："明天耶和华必在这地行这事。"（出埃及记 9:5）
+
+第二天，所有埃及人的牲畜都死了，而以色列人的牲畜一无所死。法老打发人去察看——"以色列牲畜，一无死亡"（出埃及记 9:7）——但"法老的心仍然刚硬，不容百姓去"（出埃及记 9:7）。
+
+埃及人的牲畜在宗教和经济两个层面都有极其重要的意义。公牛神阿匹斯（Apis）和母牛神哈托尔（Hathor）是埃及最重要的神明之一。这场灾难不只是经济打击，更是对埃及宗教核心的冲击。
+
+第六灾：疮（出埃及记 9:8-12）
+
+神吩咐我和亚伦各取"炉中的炭灰"撒向天空，"在埃及遍地的人身上，牲畜身上，成了起泡的疮"（出埃及记 9:9）。
+
+这里有一个戏剧性的细节：炭灰，通常在祭祀仪式中被用来祈求神明保护，现在被神用来带来疾病。这是对埃及祭司和医疗神塞克美特（Sekhmet）的直接挑战。"术士因为身上长疮，不能站在摩西面前；疮是长在术士身上和埃及所有人身上。"（出埃及记 9:11）
+
+埃及的术士彻底退出了历史舞台。他们不再出现来与摩西抗衡，因为连他们自己也被灾难击中了。这是个清晰的信号：埃及所倚仗的任何神秘能力，在耶和华面前都已耗尽。
+
+"但耶和华使法老的心刚硬，不听他们，正如耶和华对摩西所说的。"（出埃及记 9:12）
+
+第七灾：雹（出埃及记 9:13-35）
+
+第七灾带来了本章最重要的神学宣告——事实上，这是整个出埃及记中最深刻的神学宣告之一：
+
+"我这次要叫一切灾殃临到你心上，并临到你臣仆和你百姓的身上，叫你知道在全地没有像我一样的。"（出埃及记 9:14）
+
+随后是一句令人深思的话："我叫你存立，是特要向你显我的大能，并要使我的名传遍天下。"（出埃及记 9:16）
+
+这句话是理解整个十灾叙事的钥匙。神不是被动地回应法老的刚硬，而是主动地使用法老的刚硬来达成祂更大的目的：彰显祂无可比拟的大能，使祂的名传遍天下。使徒保罗在罗马书9:17引用了这句话，将它放在神主权拣选的框架中——神行祂所喜悦的，祂的目的包括使祂的荣耀在审判中也得彰显。
+
+但神的公义和怜悯并行不悖：在宣告雹灾之前，神警告埃及人将牲畜赶进房屋，"那些在埃及地敬畏耶和华话语的人，就叫他的仆人和牲畜往屋里逃跑；那不把神的话放在心上的人，就把他的仆人和牲畜留在地里"（出埃及记 9:20-21）。就连这场审判中，神也为那些肯听祂话语的人预备了拯救的路。
+
+大雹倾盆而下，伴着雷轰和火焰，击打了埃及全地——"从埃及建国以来，没有这样的雹"（出埃及记 9:24）。法老这次颤抖了，他承认："这次我犯了罪，耶和华是公义的，我和我的百姓是邪恶的。"（出埃及记 9:27）
+
+然而，当我祷告雹和雷停止之后，"法老见雨雹雷霆止住了，就越发犯罪，他和他的臣仆都硬着心"（出埃及记 9:34）。雷雨中的认罪，并非真实的悔改——这是苦难中的权宜之词，而非心灵的真实回转。
+
+三场灾难，每一场都在问同一个问题：你，法老，你真的认识耶和华是谁吗？你愿意顺服祂吗？每一次，法老的心都给出了否定的答案。而每一次否定，都让神的名在地上更加彰显。`,
+    content_en: `I, Moses, witnessed God's judgment deepen layer by layer across the land of Egypt. Chapter 9 records three plagues of ever-increasing scale and intensity, progressively revealing God's purpose—not merely to liberate Israel, but to declare to all the earth that He alone is the true God.
+
+The Fifth Plague: Livestock Disease (Exodus 9:1-7)
+
+The LORD told me that the next day God would bring a severe plague upon Egypt's livestock—horses, donkeys, camels, herds, and flocks—while Israel's livestock would be completely spared. God not only announced the disaster but set a precise time: "Tomorrow the LORD will do this thing in the land." (Exodus 9:5)
+
+The next day, all Egypt's livestock died, while not one of Israel's animals perished. Pharaoh sent people to investigate—"not one of the livestock of Israel was dead" (Exodus 9:7)—but "the heart of Pharaoh was hardened, and he did not let the people go." (Exodus 9:7)
+
+Egypt's livestock held immense religious and economic significance. The bull god Apis and the cow goddess Hathor were among Egypt's most important deities. This plague was not merely an economic blow but a strike at the heart of Egyptian religion.
+
+The Sixth Plague: Boils (Exodus 9:8-12)
+
+God instructed Aaron and me each to take "handfuls of soot from the kiln" and throw it toward the sky, and it became "boils breaking out in sores on man and beast throughout all the land of Egypt." (Exodus 9:9)
+
+Here is a dramatic detail: the soot from a furnace, normally used in sacrificial rituals to invoke divine protection, was now used by God to bring disease. This was a direct challenge to Egypt's priests and the healing goddess Sekhmet. "The magicians could not stand before Moses because of the boils, for the boils came upon the magicians and upon all the Egyptians." (Exodus 9:11)
+
+Egypt's magicians permanently withdrew from the stage. They no longer appeared to contend with Moses, having themselves been struck by the plague. This was an unmistakable signal: whatever mysterious powers Egypt relied upon had been exhausted in the presence of the LORD.
+
+"But the LORD hardened the heart of Pharaoh, and he did not listen to them, as the LORD had spoken to Moses." (Exodus 9:12)
+
+The Seventh Plague: Hail (Exodus 9:13-35)
+
+The seventh plague brought the most important theological declaration in this chapter—in fact, one of the most profound theological statements in all of Exodus:
+
+"For this time I will send all my plagues on you yourself, and on your servants and your people, so that you may know that there is none like me in all the earth." (Exodus 9:14)
+
+Then comes a deeply thought-provoking statement: "But for this purpose I have raised you up, to show you my power, so that my name may be proclaimed in all the earth." (Exodus 9:16)
+
+This verse is the key to understanding the entire plague narrative. God was not passively responding to Pharaoh's hardness but actively using it to accomplish His greater purpose: displaying His incomparable power and spreading His name throughout the earth. The Apostle Paul quotes this verse in Romans 9:17, placing it within the framework of God's sovereign election—God does what pleases Him, and His purposes include displaying His glory even through judgment.
+
+Yet God's justice and mercy operate in parallel: before announcing the hailstorm, God warned the Egyptians to bring their livestock inside. "Then whoever feared the word of the LORD among the servants of Pharaoh hurried his slaves and his livestock into the houses, but whoever did not pay attention to the word of the LORD left his slaves and his livestock in the field." (Exodus 9:20-21) Even within this judgment, God prepared a path of salvation for those willing to heed His word.
+
+Enormous hail poured down with thunder and lightning, striking all of Egypt—"there had been nothing like it in all the land of Egypt since it became a nation." (Exodus 9:24) This time Pharaoh trembled, and he confessed: "This time I have sinned; the LORD is in the right, and I and my people are in the wrong." (Exodus 9:27)
+
+Yet when I prayed and the hail, thunder, and rain ceased, "when Pharaoh saw that the rain and the hail and the thunder had ceased, he sinned yet again and hardened his heart, he and his servants." (Exodus 9:34) The confession in the storm was not genuine repentance—it was expedient words under pressure, not a true turning of the heart.
+
+Three plagues, each asking the same question: Pharaoh, do you truly know who the LORD is? Will you submit to Him? Each time, Pharaoh's heart gave a negative answer. And each refusal made God's name all the more proclaimed throughout the earth.`,
+    historyContext_zh: `第九章的三场灾难针对了埃及神明体系的核心：
+- 畜疫：针对牛神阿匹斯（Apis）、母牛女神哈托尔（Hathor）
+- 疮：针对医疗与战争女神塞克美特（Sekhmet）以及埃及的医疗传统
+- 雹：可能针对天空女神努特（Nut）和雨神特夫努特（Tefnut）
+
+历史背景方面，"我叫你存立"（出埃及记 9:16）这句话在神学史上引起了关于预定论的重要讨论。改革宗神学家（包括加尔文、赫尔曼·巴文克）将此理解为神主权性地"使用"法老的存在和刚硬来成就祂的旨意，而非神强迫法老犯罪。
+
+雹灾中，埃及的术士和官员中有"敬畏耶和华话语的人"（出埃及记 9:20），这表明神的审判和神迹已经产生了影响——即便在埃及宫廷内部，也有人开始认真对待耶和华的话语。这是神的话语的能力，即便在最顽固的环境中也能找到听从之人。`,
+    historyContext_en: `The three plagues of chapter 9 targeted the core of Egypt's divine system:
+- Livestock disease: targeted the bull god Apis and the cow goddess Hathor
+- Boils: targeted Sekhmet (goddess of medicine and war) and Egypt's medical traditions
+- Hail: possibly targeted Nut (sky goddess) and Tefnut (goddess of rain)
+
+From a historical-theological perspective, the statement "I have raised you up" (Exodus 9:16) has prompted significant discussion about predestination in theological history. Reformed theologians (including Calvin and Herman Bavinck) understand this as God sovereignly "using" Pharaoh's existence and hardness to accomplish His purposes, not as God forcing Pharaoh to sin.
+
+During the hail plague, some among Egypt's magicians and officials "feared the word of the LORD" (Exodus 9:20), indicating that God's judgment and miracles had made an impact—even within Pharaoh's court, there were people beginning to take the LORD's word seriously. This demonstrates the power of God's word, which can find receptive hearts even in the most hardened environments.`,
+    structure_zh: `一、第五灾：畜疫（9:1-7）
+　　1. 神警告和宣告区别（9:1-5）
+　　2. 以色列与埃及牲畜的不同结局（9:6-7）
+　　3. 法老察看后仍心刚硬（9:7）
+
+二、第六灾：疮（9:8-12）
+　　1. 无警告，炭灰变疮（9:8-9）
+　　2. 术士被疮击中，无法站立（9:10-11）
+　　3. 神使法老心刚硬（9:12）
+
+三、第七灾：雹（9:13-35）
+　　1. 神宣告目的："全地没有像我一样的"（9:13-16）
+　　2. 神的怜悯：警告敬畏者进屋（9:17-21）
+　　3. 雹灾执行（9:22-26）
+　　4. 法老认罪求摩西祷告（9:27-29）
+　　5. 摩西代祷，雹灾止息（9:30-33）
+　　6. 法老再次刚硬（9:34-35）`,
+    structure_en: `I. Fifth Plague: Livestock Disease (9:1-7)
+　　1. God warns and announces distinction (9:1-5)
+　　2. Contrasting fates of Israel's and Egypt's livestock (9:6-7)
+　　3. Pharaoh investigates but hardens his heart (9:7)
+
+II. Sixth Plague: Boils (9:8-12)
+　　1. No warning; soot becomes boils (9:8-9)
+　　2. Magicians struck with boils; unable to stand (9:10-11)
+　　3. God hardens Pharaoh's heart (9:12)
+
+III. Seventh Plague: Hail (9:13-35)
+　　1. God announces His purpose: "none like me in all the earth" (9:13-16)
+　　2. God's mercy: warning those who fear Him to go inside (9:17-21)
+　　3. Hailstorm executed (9:22-26)
+　　4. Pharaoh confesses; asks Moses to pray (9:27-29)
+　　5. Moses intercedes; hail ceases (9:30-33)
+　　6. Pharaoh hardens his heart again (9:34-35)`,
+    theology_zh: `【神学要点一：神主权目的的宣告——"使我的名传遍天下"】
+出埃及记9:16是整个十灾叙事中最明确的神学宣言："我叫你存立，是特要向你显我的大能，并要使我的名传遍天下。"这句话清楚表明，十灾不只是以色列解放的手段，更是神向全地自我启示的行动。改革宗神学家约翰·加尔文在注释这节经文时指出，神行动的首要目的（primary purpose）是荣耀祂自己的名，次要目的（secondary purpose）才是救赎祂的百姓——然而这两个目的是不可分割的。韦敏斯德信条第2章第1节描述神是"最为荣耀的"，"在祂自身和从祂自身得最充足的满足"。十灾清楚地彰显了这一神学真理：神的行动的最终目的是祂自己的荣耀，这荣耀通过审判和救赎两条渠道同时彰显。
+
+【神学要点二：普通恩典与特殊恩典的并行】
+第七灾中有一个重要的细节：神警告所有埃及人将牲畜赶入房屋，"那些在埃及地敬畏耶和华话语的人"就照做了（出埃及记 9:20-21）。这是改革宗神学中"普通恩典"（common grace）的体现——神向所有人发出警告，给予所有人机会。然而，只有那些"敬畏耶和华话语"的人才接受了这恩典。这预示了福音宣教的模式：福音被普遍宣扬（普通恩典），但只有神所拣选的人才会真正悔改相信（特殊恩典）。警告本身是恩典，但恩典要求回应——这两方面都是真实的。
+
+【神学要点三：真假悔改的辨别】
+法老在雹灾中的"认罪"（出埃及记 9:27）与随后的刚硬（出埃及记 9:34-35）形成了一个关于真假悔改的深刻教导。法老说"耶和华是公义的，我和我的百姓是邪恶的"，这是一种"律法上的认罪"（legal confession）——承认神的公义和自己的过失，却没有对神本身的爱和信靠，没有真实意志的转变。改革宗神学区分"表面的悔改"（法语 contrition）和"真实的悔改"（penance/repentance）：前者是痛苦引发的自我保护机制，后者是圣灵工作带来的心灵转变。加尔文说，真悔改包括：对神的敬畏、对罪的憎恶、对恩典的渴慕。法老的认罪中，只有对惩罚的畏惧，没有对神本身的爱。`,
+    theology_en: `[Theological Point 1: The Declaration of God's Sovereign Purpose—"That My Name May Be Proclaimed in All the Earth"]
+Exodus 9:16 is the most explicit theological declaration in the entire plague narrative: "But for this purpose I have raised you up, to show you my power, so that my name may be proclaimed in all the earth." This verse clearly shows that the ten plagues were not merely means for Israel's liberation but an act of God's self-revelation to all the earth. Reformed theologian John Calvin, commenting on this verse, noted that God's primary purpose was to glorify His own name, while the secondary purpose was the redemption of His people—yet these two purposes are inseparable. Westminster Confession Chapter 2, Section 1 describes God as "most glorious in himself" and "most abundantly satisfied in himself." The ten plagues clearly manifest this theological truth: God's ultimate purpose in action is His own glory, displayed simultaneously through both judgment and redemption.
+
+[Theological Point 2: Common Grace and Special Grace Operating in Parallel]
+The seventh plague contains an important detail: God warned all Egyptians to bring their livestock inside, and "whoever feared the word of the LORD among the servants of Pharaoh hurried his slaves and his livestock into the houses" (Exodus 9:20-21). This exemplifies Reformed theology's concept of "common grace"—God issued warnings to all and gave everyone an opportunity. Yet only those who "feared the word of the LORD" received this grace. This prefigures the pattern of gospel proclamation: the gospel is universally proclaimed (common grace), but only those whom God has elected will truly repent and believe (special grace). The warning itself is grace, but grace requires a response—both aspects are true.
+
+[Theological Point 3: Distinguishing Genuine from False Repentance]
+Pharaoh's "confession" during the hailstorm (Exodus 9:27) followed by his subsequent hardening (Exodus 9:34-35) provides a profound lesson on distinguishing genuine from false repentance. Pharaoh said "the LORD is in the right, and I and my people are in the wrong"—this is a form of "legal confession": acknowledging God's justice and one's own fault without any love or trust in God Himself, without genuine transformation of the will. Reformed theology distinguishes between "surface contrition" and "genuine repentance": the former is a self-protective mechanism triggered by suffering; the latter is a transformation of heart wrought by the Holy Spirit. Calvin said that true repentance includes: fear of God, hatred of sin, and longing for grace. In Pharaoh's confession, there was only fear of punishment, no love for God Himself.`,
+    christShadow_zh: `出埃及记9章的三场灾难以不同方式预表基督和祂的救赎工作，其中最深刻的预表见于9:16这节关于神目的的宣告。
+
+"我叫你存立，是特要向你显我的大能，并要使我的名传遍天下"（出埃及记 9:16）——这句话最终的应验是在基督的十字架上。保罗在罗马书9:17引用此节，将其置于关于拣选和神主权的讨论中。而十字架正是神最大能力与最大荣耀的彰显处：不是通过战胜法老，而是通过圣子自愿降卑、受死、复活，神的名"传遍天下"（腓立比书 2:9-11："神将他升为至高，又赐给他那超乎万名之上的名字，叫一切在天上的、地上的和地底下的都因耶稣的名屈膝，无不口称耶稣基督为主"）。
+
+畜疫灾难中以色列牲畜完全幸免，深刻预表基督徒在最终审判中的豁免。不是因为信徒比非信徒好（正如以色列人并不比埃及人更有道德），而是因为他们属于神的约民，被基督宝血所遮盖。这与逾越节的血涂门楣同一模式，而逾越节最终指向基督"我们逾越节的羔羊"（哥林多前书 5:7）。
+
+疮的灾难中，埃及术士因身上长疮而无法站在摩西面前，这预表一个真理：所有属于这世界体系的权势，在神的审判者面前都无法站立。但基督不是带来疾病的，而是带来医治的——祂"担当我们的软弱，背负我们的疾病"（马太福音 8:17）。十灾带来身体上的疾病，预示罪带来的更深层属灵疾病；而基督带来的救赎则是对这一切疾病的终极医治。
+
+雹灾警告中神给予埃及人机会的恩典，预表基督在审判来临前为罪人提供的救赎机会。正如那些"敬畏耶和华话语"的人在雹灾中得以幸免，那些信靠基督的人在末日审判中也将得到保护——不是逃离审判本身，而是因在基督里而被审判所越过，正如门楣上的逾越节羊血使死亡天使越过以色列的家。`,
+    christShadow_en: `The three plagues of Exodus 9 foreshadow Christ and His redemptive work in different ways, with the most profound typology found in the theological declaration of 9:16.
+
+"But for this purpose I have raised you up, to show you my power, so that my name may be proclaimed in all the earth" (Exodus 9:16)—this statement finds its ultimate fulfillment at the cross of Christ. Paul quotes this verse in Romans 9:17, placing it within his discussion of election and God's sovereignty. And the cross is precisely where God's greatest power and greatest glory are manifested: not through defeating Pharaoh, but through the Son voluntarily humbling Himself, dying, and rising—God's name "proclaimed in all the earth" (Philippians 2:9-11: "Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord").
+
+Israel's livestock being completely spared from the livestock plague profoundly prefigures the believer's exemption from final judgment. Not because believers are better than unbelievers (just as the Israelites were not morally superior to the Egyptians), but because they belong to God's covenant people, covered by Christ's precious blood. This follows the same pattern as the Passover blood on doorposts, which ultimately points to Christ "our Passover lamb" (1 Corinthians 5:7).
+
+The magicians being unable to stand before Moses because of the boils foreshadows a truth: all powers belonging to this world's system cannot stand before God's judge. But Christ did not come to bring disease but healing—He "took our illnesses and bore our diseases" (Matthew 8:17). The plagues brought physical disease, foreshadowing the deeper spiritual disease of sin; and the redemption Christ brings is the ultimate healing of all these ailments.
+
+The grace God showed in warning the Egyptians before the hail prefigures the opportunity for salvation that Christ provides for sinners before judgment arrives. Just as those who "feared the word of the LORD" were spared from the hail, those who trust in Christ will be protected in the final judgment—not escaping judgment itself, but having judgment pass over them because they are in Christ, just as the Passover blood on the doorpost caused the destroying angel to pass over Israel's homes.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 10,
+    publishDate: '2026-05-13',
+    title: '蝗灾与黑暗之灾', titleEn: 'Plagues of Locusts and Darkness',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 10 / Exodus 10',
+    content_zh: `弟兄姐妹，我是摩西。出埃及记第十章记载了第八灾蝗虫和第九灾黑暗——十灾中最后两个铺垫性的灾难，为第十灾击杀长子的高潮做预备。法老的心越来越刚硬，但耶和华的权柄在每一灾中越来越彰显。
+
+耶和华对我说了一段极其重要的话："你进去见法老。我使他和他臣仆的心刚硬，为要在他们中间显我这些神迹，并要叫你将我向埃及人所做的事，和在他们中间所行的神迹，传于你儿子和你孙子的耳中，好叫你们知道我是耶和华。"
+
+这段话揭示了十灾的双重目的：第一，在埃及人面前彰显神的主权；第二，为以色列后代留下永远的见证。神不仅要拯救当代人，更要教导后代认识祂。这是改革宗教育神学的根基——信仰不是一代人的事，而是世世代代传承的约的故事。
+
+我和亚伦进去见法老："耶和华希伯来人的神这样说：你在我面前不肯自卑要到几时呢？容我的百姓去，好事奉我。你若不肯，明天我要使蝗虫进入你的境内，遮满地面，甚至看不见地，并且吃那冰雹所剩的和田间所长的一切树木。"
+
+这一次，法老的臣仆先开口了："这人为我们的网罗要到几时呢？容这些人去事奉耶和华他们的神罢！埃及已经败坏了，你还不知道么？"即便法老的臣仆也看出来了——继续对抗耶和华只是自取灭亡。但法老只愿让壮年人去，不让妇女孩童和牲畜同去。这是妥协，不是顺服。
+
+耶和华使东风刮了一昼一夜，到了早晨，东风把蝗虫刮了来。蝗虫遮满地面，以致地都黑暗了。它们吃尽了冰雹所剩的一切——之前的雹灾已经毁了大部分庄稼，蝗虫把剩余的也吃干净了。埃及遍地没有一点青的东西。
+
+法老急忙召摩西亚伦来，说"我得罪耶和华你们的神，又得罪了你们"，求我们再饶恕他一次，去求耶和华免去这必死的灾。耶和华转了极大的西风，把蝗虫刮到红海里，在埃及的四境连一个也没有留下。但耶和华使法老的心刚硬，他仍不容以色列人去。法老的"悔改"只是恐惧驱动的临时退让，不是真正的心意转变。
+
+然后是第九灾——黑暗之灾。耶和华对我说："你向天伸杖，使埃及地黑暗——就是黑暗得可以摸得着的。"我向天伸杖，埃及遍地就乌黑了三天。人不能相见，谁也不敢起来离开本处，三天之久。惟有以色列人家中都有亮光。
+
+"黑暗得可以摸得着"——这不是普通的夜晚，而是超自然的黑暗，是埃及太阳神拉的完全失败。法老自称是拉的儿子，太阳是埃及宗教的核心。当耶和华把光从埃及夺去，祂宣告了一个不可逆转的事实：你所信的太阳神是虚假的，真正的光在我手中。
+
+法老召我来，说可以去事奉耶和华，妇人孩子可以同去，只是牲畜不可带去。我说："你总要把祭物和燔祭牲交给我们，使我们可以祭祀耶和华我们的神。我们的牲畜也要带去，连一蹄也不留下。"这不是讨价还价，而是原则性的坚持——敬拜耶和华需要全部的奉献，不能打折扣。
+
+法老的心再次刚硬。他对我说出了最后的威胁："你离开我去罢，你要小心，不要再见我的面！因为你见我面的那日你就必死！"我回答说："你说得好！我必不再见你的面了。"
+
+这是摩西与法老的最后对话。下一次见面，将在第十灾之后——法老的长子死了，他在夜间催促以色列人离去。人的骄傲拒绝了一切恩典的机会，最终只剩下审判。`,
+    content_en: `Brothers and sisters, I am Moses. Exodus chapter 10 records the eighth plague of locusts and the ninth plague of darkness—the final two preparatory plagues before the climactic tenth plague, the striking of the firstborn. Pharaoh's heart grew ever harder, but the LORD's authority was increasingly revealed in each plague.
+
+The LORD spoke to me a critically important word: "Go in to Pharaoh, for I have hardened his heart and the heart of his servants, that I may show these signs of mine among them, and that you may tell in the hearing of your son and of your grandson how I have dealt harshly with the Egyptians and what signs I have done among them, that you may know that I am the LORD."
+
+This statement reveals the dual purpose of the ten plagues: first, to display God's sovereignty before the Egyptians; second, to leave an eternal testimony for Israel's descendants. God was not only rescuing the present generation but teaching future generations to know Him. This is the foundation of Reformed educational theology—faith is not a one-generation affair but a covenantal story transmitted from generation to generation.
+
+Aaron and I went before Pharaoh: "Thus says the LORD, the God of the Hebrews, 'How long will you refuse to humble yourself before me? Let my people go, that they may serve me. For if you refuse, tomorrow I will bring locusts into your country, and they shall cover the face of the land, so that no one can see the land. And they shall eat what is left to you after the hail, and they shall eat every tree of yours that grows in the field.'"
+
+This time Pharaoh's own servants spoke first: "How long shall this man be a snare to us? Let the men go, that they may serve the LORD their God. Do you not yet understand that Egypt is ruined?" Even Pharaoh's servants could see that continuing to resist the LORD was self-destruction. But Pharaoh only offered to let the men go, withholding women, children, and livestock. This was compromise, not obedience.
+
+The LORD brought an east wind all that day and night, and by morning the locusts had arrived. They covered the whole land until it was black. They ate everything the hail had left—the previous hailstorm had already destroyed most crops, and the locusts consumed the remainder. Not a green thing remained in all Egypt.
+
+Pharaoh hastily summoned Moses and Aaron: "I have sinned against the LORD your God, and against you. Now therefore, forgive my sin, please, only this once, and plead with the LORD your God only to remove this death from me." The LORD turned a very strong west wind that carried the locusts into the Red Sea; not a single locust remained in all Egypt. But the LORD hardened Pharaoh's heart, and he did not let Israel go. Pharaoh's "repentance" was merely fear-driven temporary retreat, not genuine transformation of heart.
+
+Then came the ninth plague—darkness. The LORD said to me, "Stretch out your hand toward heaven, that there may be darkness over the land of Egypt, a darkness to be felt." I stretched out my hand, and there was pitch darkness in all Egypt for three days. People could not see one another, and no one rose from his place for three days. But all the people of Israel had light where they lived.
+
+"A darkness to be felt"—this was no ordinary night but supernatural darkness, the total defeat of Ra, the Egyptian sun god. Pharaoh claimed to be Ra's son; the sun was central to Egyptian religion. When the LORD removed light from Egypt, He declared an irreversible fact: the sun god you worship is false; true light is in my hand.
+
+Pharaoh summoned me and said they could go serve the LORD with women and children, but livestock must stay. I said, "You must also let us have sacrifices and burnt offerings, that we may sacrifice to the LORD our God. Our livestock also must go with us; not a hoof shall be left behind." This was not bargaining but principled insistence—worshiping the LORD requires total offering, no discounts.
+
+Pharaoh's heart was hardened again. He issued his final threat: "Get away from me; take care never to see my face again, for on the day you see my face you shall die." I answered, "As you say! I will not see your face again."
+
+This was Moses' final dialogue with Pharaoh. The next meeting would come after the tenth plague—Pharaoh's firstborn dead, and he urgently driving Israel out in the night. Human pride rejected every opportunity of grace, and in the end only judgment remained.`,
+    historyContext_zh: `蝗灾在古代近东地区极为常见且具有毁灭性。一个大型蝗群可以覆盖数百平方公里，一天内吃掉数千吨植物。黑暗之灾直接挑战了埃及的核心信仰——太阳神拉（Ra）是法老的守护神，法老自称"拉之子"。三天的超自然黑暗宣告了拉的无能和耶和华的至高主权。以色列人家中有光，显明了神在审判中区分祂的百姓——这是"分别"（separation）的主题，贯穿整个十灾叙事。改革宗传统把十灾视为神系统性地审判埃及的诸神（民数记33:4），每一灾都针对一个特定的埃及神祇。`,
+    historyContext_en: `Locust plagues were extremely common and devastating in the ancient Near East. A large swarm could cover hundreds of square kilometers and consume thousands of tons of vegetation in a single day. The plague of darkness directly challenged Egypt's core belief—the sun god Ra was Pharaoh's patron deity, and Pharaoh claimed the title "Son of Ra." Three days of supernatural darkness declared Ra's impotence and the LORD's supreme sovereignty. Israel having light in their dwellings demonstrated God's distinction of His people amid judgment—the theme of "separation" that runs throughout the ten plagues narrative. The Reformed tradition views the ten plagues as God's systematic judgment on Egypt's gods (Numbers 33:4), each plague targeting a specific Egyptian deity.`,
+    structure_zh: `**十灾的教育目的（1-2节）**——刚硬法老的心、在后代中传讲的使命。
+
+**第八灾：蝗虫（3-20节）**——警告、臣仆的劝阻、法老的虚假妥协、蝗虫遮天、假悔改、蝗虫被除。
+
+**第九灾：黑暗（21-23节）**——三天可摸着的黑暗、以色列家中有光。
+
+**最后的谈判与决裂（24-29节）**——法老要留牲畜、摩西坚持全部带走、法老的最终威胁、最后的对话。`,
+    structure_en: `**The Educational Purpose of the Plagues (vv. 1-2)**—Hardening Pharaoh's heart, the mandate to proclaim to future generations.
+
+**The Eighth Plague: Locusts (vv. 3-20)**—Warning, servants' counsel, Pharaoh's false compromise, locusts covering the land, feigned repentance, locusts removed.
+
+**The Ninth Plague: Darkness (vv. 21-23)**—Three days of tangible darkness, light in Israel's dwellings.
+
+**Final Negotiation and Rupture (vv. 24-29)**—Pharaoh demanding livestock stay, Moses insisting on taking everything, Pharaoh's final threat, the last dialogue.`,
+    theology_zh: `**神的心意刚硬（Divine Hardening）**
+第1节明确说"我使他的心刚硬"。改革宗神学区分两种刚硬：神的主权刚硬（judicial hardening）和人自己的刚硬（self-hardening）。前几灾中法老自己硬着心（出8:15, 8:32, 9:34），后来神主动使他的心刚硬。韦敏斯德信条第5章第6条：对于那些因先前的罪而心被刚硬的恶人，神任凭他们的心刚硬。神的刚硬是审判性的——不是使无辜者变恶，而是让已经选择悖逆的人走到自己选择的终极后果。
+
+**以色列家中有光——分别之恩**
+黑暗笼罩全埃及，唯有以色列人家中有光。这不是自然现象，而是神恩典的分别。改革宗神学用"特殊恩典"（special grace）与"普通恩典"（common grace）来区分。以色列家中的光是特殊恩典——不是因为以色列人比埃及人好，而是因为神拣选了他们。以弗所书5:8说："从前你们是暗昧的，但如今在主里面是光明的。"
+
+**全部的奉献**
+摩西坚持"连一蹄也不留下"，这教导我们敬拜神需要全部的奉献。法老愿意让人去，但要留下牲畜——这是只给一半的信仰。改革宗传统强调信仰的整全性：基督是我们生活每个领域的主，不仅仅是"属灵"部分的主。路加福音14:33："你们无论甚么人，若不撇下一切所有的，就不能作我的门徒。"`,
+    theology_en: `**Divine Hardening**
+Verse 1 explicitly says "I have hardened his heart." Reformed theology distinguishes two kinds of hardening: God's sovereign judicial hardening and human self-hardening. In the earlier plagues, Pharaoh hardened his own heart (8:15, 8:32, 9:34); later God actively hardened it. Westminster Confession chapter 5, section 6: concerning those wicked whose hearts are hardened by prior sin, God gives them over to their own hardness. God's hardening is judicial—not making the innocent wicked but allowing those who have chosen rebellion to reach the ultimate consequence of their choice.
+
+**Light in Israel's Houses—The Grace of Separation**
+Darkness covered all Egypt, yet Israel's homes had light. This was not natural phenomenon but God's separating grace. Reformed theology distinguishes "special grace" from "common grace." The light in Israel's houses was special grace—not because Israelites were better than Egyptians, but because God chose them. Ephesians 5:8 says, "For at one time you were darkness, but now you are light in the Lord."
+
+**Total Offering**
+Moses insisted "not a hoof shall be left behind," teaching that worshiping God requires total offering. Pharaoh was willing to let the people go but keep the livestock—a half-commitment faith. The Reformed tradition emphasizes faith's wholeness: Christ is Lord of every area of our lives, not merely the "spiritual" parts. Luke 14:33: "So therefore, any one of you who does not renounce all that he has cannot be my disciple."`,
+    christShadow_zh: `出埃及记第十章的两灾深刻预表了基督的工作。蝗虫之灾吞噬了一切绿色植物，使遍地荒凉——这是审判的画面，预表启示录9:3-4的蝗虫灾："有蝗虫从烟中出来，飞到地上，有能力赐给他们，好像地上蝎子的能力一样。"但启示录的蝗虫不伤害"额上有神印记的人"——分别的主题从出埃及记延续到启示录。
+
+黑暗之灾是所有灾难中最具基督论意义的一灾。约翰福音8:12记载主耶稣说："我是世界的光。跟从我的，就不在黑暗里走，必要得着生命的光。"埃及三天的黑暗预表了主耶稣钉十字架时遍地黑暗三小时（路加福音23:44-45）——太阳失光，天地黑暗。但这黑暗的尽头是复活的光明！基督穿过了十字架的黑暗，带来了复活的光。
+
+以色列人家中有光而埃及人在黑暗中，预表了约翰福音1:5的宣告："光照在黑暗里，黑暗却不接受光。"世界拒绝基督的光，但凡信靠祂的人就有永远的光明。歌罗西书1:13说："他救了我们脱离黑暗的权势，把我们迁到他爱子的国里。"出埃及的以色列人从埃及的黑暗中被迁出，正如新约的信徒从罪的黑暗国度被迁到光明的国度。`,
+    christShadow_en: `The two plagues in Exodus 10 profoundly prefigure Christ's work. The locust plague devoured all vegetation, leaving the land desolate—a picture of judgment prefiguring Revelation 9:3-4's locusts: "Then from the smoke came locusts on the earth, and they were given power like the power of scorpions of the earth." But Revelation's locusts do not harm "those who have the seal of God on their foreheads"—the theme of separation continues from Exodus to Revelation.
+
+The plague of darkness is the most Christologically significant of all plagues. John 8:12 records the Lord Jesus saying, "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life." Egypt's three days of darkness prefigure the three hours of darkness over all the land when Jesus was crucified (Luke 23:44-45)—the sun's light failing, heaven and earth in darkness. But at the end of that darkness was the light of resurrection! Christ passed through the cross's darkness to bring the light of resurrection.
+
+Israel having light while Egypt was in darkness prefigures John 1:5's declaration: "The light shines in the darkness, and the darkness has not overcome it." The world rejects Christ's light, but all who trust in Him have eternal light. Colossians 1:13 says, "He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son." The Israelites being brought out of Egypt's darkness parallels New Testament believers being transferred from sin's dark kingdom into the kingdom of light.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 11,
+    publishDate: '2026-05-14',
+    title: '预告击杀长子', titleEn: 'Warning of the Death of the Firstborn',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 11 / Exodus 11',
+    content_zh: `我站在法老面前，心中清楚地知道，这是最后一次了。耶和华已经告诉我："我再使一样的灾殃临到法老和埃及，然后他必容你们离开这里。"（出埃及记 11:1）九次灾难过去了，埃及的大地已经满目疮痍，尼罗河变为血、青蛙铺天盖地、虱子遍布人畜、苍蝇蜂拥而至、牲畜瘟疫、毒疮脓包、雹子雷火、蝗虫遮天、三日黑暗——然而法老的心依然刚硬，就像耶和华所预言的那样。
+
+我知道，神的目的不只是要拯救以色列人出埃及。祂要在这件事上显明祂自己——祂是谁，祂的权能有多大，祂对祂百姓的忠信有多深。每一次灾难都是一次宣告，告诉埃及诸神——那尼罗河神、太阳神、青蛙神——它们不过是虚无，唯有耶和华是真神。
+
+神也告诉我说，以色列人要向埃及人讨要金银首饰，而耶和华使以色列人在埃及人眼前蒙恩，借此让他们得到这些财物。（出 11:2-3）我在法老的臣仆和百姓眼中，也成为极大的人。这不是我的荣耀，这是耶和华的荣耀彰显在软弱器皿之中。那个在米甸旷野说"我不善于言词"的牧羊人，如今却使埃及全境颤抖。这一切都是神的作为。
+
+我对法老说出了那可畏的话语："耶和华这样说：约到夜半，我必出去巡行埃及遍地，凡埃及地头生的，都必死，从坐宝座的法老长子，直到磨子后面奴婢的长子，以及一切头生的牲畜。"（出 11:4-5）当我说这话的时候，我的内心是沉重的。死亡不是耶和华轻易降下的事；神并不喜悦恶人的死亡。但法老一次又一次地硬着心肠，拒绝神的话语，拒绝放以色列人去。每一次刚硬，都是在积累神的审判。
+
+"在埃及遍地必有大哀号，是从来没有的，也是以后没有的。但在以色列中，无论是人是牲畜，连狗也不敢向他们狺狺，好使你们知道耶和华是将埃及人和以色列人分开的。"（出 11:6-7）这个区分是关键的。不是因为以色列人更好、更义，而是因为耶和华拣选了他们，与亚伯拉罕、以撒、雅各立了约。神的拣选是祂主权的彰显，不基于人的功德，只基于祂自己的怜悯和旨意。
+
+我那时候的怒气极为发作，因为法老的顽梗实在令人心寒。（出 11:8）然而我的怒气与神的公义之怒不可同日而语。神的忿怒是圣洁的、公义的、必然临到一切悖逆罪恶的审判。祂忍耐了这么久，给了法老一次又一次的机会，每次灾难都是一次呼召——悔改，放手，承认耶和华是神。法老就是不肯。
+
+我也明白，这一切都在神的掌控之中。"耶和华对摩西说：法老必不听你们，使我的奇事在埃及地多起来。"（出 11:9）这不是失败，这是神预定的计划在展开。主权的神在历史中掌权，即便是法老的刚硬，也在神的手中成就祂荣耀的旨意——使祂的名传遍天下，使祂救赎以色列的大能让万国知晓。
+
+站在那个时刻，我能感受到历史的轴心正在转动。四百年的奴役即将结束。亚伯拉罕所得到的应许——"你的后裔必寄居别人的地，又服事那地的人；那地的人要苦待他们四百年。但你要在平安里归到你列祖那里……第四代他们必回到此地"（创 15:13-16）——这个应许的时刻到了。神是信实的，祂的话没有一句落空。我站在这历史的时刻，既恐惧战兢，又充满了对神的敬畏与信靠。
+
+最后的灾难将要临到，不是因为神残忍，而是因为神圣洁。不是因为神仇恨埃及人，而是因为罪必有其代价，公义必须伸张。那要来临的死亡天使，将要越过以色列人的门——不是因为以色列人的好行为，而是因为羔羊的血涂在门框上。这就是恩典：不是我们做了什么，而是神为我们做了什么。`,
+    content_en: `I stood before Pharaoh, knowing clearly in my heart that this was the last time. The LORD had told me, "Yet one plague more I will bring upon Pharaoh and upon Egypt. Afterward he will let you go from here." (Exodus 11:1) Nine plagues had passed, and the land of Egypt lay in ruins — the Nile turned to blood, frogs everywhere, lice on man and beast, swarms of flies, livestock pestilence, festering boils, hail and fire, locusts covering the sky, three days of darkness — yet Pharaoh's heart remained hard, just as the LORD had foretold.
+
+I understood that God's purpose was not only to deliver Israel from Egypt. He wanted to reveal Himself in this event — who He is, how great His power is, how deep His faithfulness to His people runs. Every plague was a declaration, announcing to Egypt's gods — the god of the Nile, the sun god, the frog goddess — that they were nothing, that only the LORD is the true God.
+
+God also told me that the Israelites were to ask from the Egyptians silver and gold jewelry, and the LORD gave the people favor in the sight of the Egyptians, so that they received what they asked. (Ex. 11:2-3) And I myself was considered very great in the land of Egypt. This was not my glory — it was the glory of the LORD shining through a weak vessel. The shepherd who had said in the wilderness of Midian, "I am not eloquent," now made all of Egypt tremble. All of this was God's doing.
+
+I spoke those dreadful words to Pharaoh: "Thus says the LORD: 'About midnight I will go out in the midst of Egypt, and every firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the slave girl who is behind the handmill, and all the firstborn of the cattle.'" (Ex. 11:4-5) As I spoke these words, my heart was heavy. Death is not something the LORD brings down lightly; God takes no pleasure in the death of the wicked. But Pharaoh had hardened his heart again and again, refusing God's word, refusing to let Israel go. Each hardening was an accumulation of divine judgment.
+
+"There shall be a great cry throughout all the land of Egypt, such as there has never been, nor ever will be again. But not a dog shall growl against any of the people of Israel, either man or beast, that you may know that the LORD makes a distinction between Egypt and Israel." (Ex. 11:6-7) This distinction is crucial. Not because Israelites were better or more righteous, but because the LORD had chosen them and made a covenant with Abraham, Isaac, and Jacob. God's election is the expression of His sovereignty — not based on human merit, but solely on His mercy and will.
+
+My anger burned hot at that time, for Pharaoh's stubbornness was truly chilling. (Ex. 11:8) Yet my anger cannot be compared to God's holy wrath. God's anger is holy, righteous, and must fall upon all rebellion and evil. He had been patient so long, giving Pharaoh chance after chance, every plague a call — repent, release them, acknowledge that the LORD is God. Pharaoh simply would not.
+
+I also understood that all of this was under God's control. "The LORD said to Moses, 'Pharaoh will not listen to you, that my wonders may be multiplied in the land of Egypt.'" (Ex. 11:9) This was not failure — it was God's predetermined plan unfolding. The sovereign God rules in history, and even Pharaoh's hardness of heart was in God's hands, accomplishing His glorious purpose — spreading His name throughout the earth, making His mighty redemption of Israel known to all nations.
+
+Standing in that moment, I could feel the axis of history turning. Four hundred years of slavery were about to end. The promise given to Abraham — "your offspring will be sojourners in a land that is not theirs and will be servants there, and they will be afflicted for four hundred years... but in the fourth generation they shall come back here" (Gen. 15:13-16) — the moment of that promise had arrived. God is faithful; not one of His words falls to the ground. I stood in that historical moment, trembling with fear, yet filled with reverence and trust in God.
+
+The final plague was about to come — not because God is cruel, but because God is holy. Not because God hates Egyptians, but because sin must have its consequences and justice must be served. The coming angel of death would pass over the houses of Israel — not because of Israel's good deeds, but because the blood of the lamb was painted on the doorframes. This is grace: not what we have done, but what God has done for us.`,
+    historyContext_zh: `出埃及记第11章发生在约公元前1446年（按早期出埃及年代学）或公元前1270年代（按晚期年代学）。埃及新王国时期正值鼎盛，法老掌握着古代世界最强大的军事和经济力量。以色列人在埃及为奴约四百年（参创 15:13），人口从雅各家族的七十人增长为一个庞大的民族，使埃及人心生恐惧（出 1:7-10）。
+
+九次灾难摧毁了埃及的经济基础：农业（蝗虫、雹子）、畜牧（瘟疫、头生牲畜之死）、宗教象征（尼罗河变血打击了河神哈比、青蛙女神赫克特等）。法老的刚硬不仅是个人意志问题，也是神主权掌管历史、成就祂旨意的明证。本章的金银财物赔偿也是神在历史中的公义补偿——四百年的无偿劳役将在出埃及时得到归还。`,
+    historyContext_en: `Exodus chapter 11 takes place around 1446 BC (according to early Exodus chronology) or the 1270s BC (according to late chronology). During Egypt's New Kingdom at its height, Pharaoh commanded the most powerful military and economic force in the ancient world. The Israelites had been enslaved in Egypt for approximately four hundred years (cf. Gen. 15:13), growing from Jacob's family of seventy to an enormous nation, which caused the Egyptians to fear them (Ex. 1:7-10).
+
+Nine plagues had destroyed Egypt's economic foundation: agriculture (locusts, hail), livestock (pestilence, death of firstborn animals), and religious symbols (the Nile turning to blood attacked the river god Hapi, the frog goddess Heqet, and others). Pharaoh's hardness of heart was not merely a matter of personal will but also evidence of God's sovereign governance of history to accomplish His purposes. The compensation of silver and gold in this chapter also represents God's historical act of justice — four hundred years of unpaid labor would be repaid at the Exodus.`,
+    structure_zh: `第11章结构简明，可分为三段：
+一、神向摩西宣告最后的灾难（11:1-3）：神的预告与以色列人的蒙恩；
+二、摩西向法老宣告第十灾内容（11:4-8）：死亡天使的降临与以色列人的被保护；
+三、过渡性总结（11:9-10）：法老的刚硬乃是神奇事增多的背景，为第12章逾越节叙事做铺垫。`,
+    structure_en: `Chapter 11 has a concise structure divisible into three sections:
+I. God announces the final plague to Moses (11:1-3): God's forewarning and Israel's favor;
+II. Moses announces the tenth plague to Pharaoh (11:4-8): the coming of the death angel and Israel's protection;
+III. Transitional summary (11:9-10): Pharaoh's hardness as the context for multiplied wonders, setting up the Passover narrative of chapter 12.`,
+    theology_zh: `本章蕴含数个重要的改革宗神学主题：
+
+**神的主权与法老的刚硬**：加尔文主义坚持神绝对的主权，包括在人的意志中的工作。法老的刚硬（有时神"硬了"他的心，有时他自己硬了心）并不消除人的责任，而是彰显神预定的计划在历史中展开。神在审判中也是公义的，因为法老首先是自己悖逆神的。
+
+**神的拣选与区分**：以色列人得保护并非因其本身的义，而是神主权的拣选与约的忠信。这预示了新约的拣选教义（弗 1:4-5）。
+
+**审判与恩典同时彰显**：同一事件中，神向埃及施行审判，向以色列施行怜悯。这是神圣洁与慈爱二属性的完整彰显。`,
+    theology_en: `This chapter contains several important Reformed theological themes:
+
+**God's Sovereignty and Pharaoh's Hardening**: Calvinism upholds God's absolute sovereignty, including His work within human will. Pharaoh's hardening (sometimes God "hardened" his heart, sometimes Pharaoh hardened his own heart) does not eliminate human responsibility but manifests God's predetermined plan unfolding in history. God is just even in judgment, for Pharaoh first rebelled against God himself.
+
+**God's Election and Distinction**: Israel's protection was not due to their own righteousness but to God's sovereign election and covenant faithfulness. This foreshadows the New Testament doctrine of election (Eph. 1:4-5).
+
+**Judgment and Grace Simultaneously Revealed**: In the same event, God executes judgment upon Egypt and shows mercy to Israel. This is the full manifestation of both God's holiness and His love.`,
+    christShadow_zh: `第11章预告的最后审判，深深地指向基督：
+
+**长子之死与神独生子**：每一个埃及家庭将失去长子，这是创世以来最深重的哀痛。然而神自己的独生子（约 3:16），在新约中因世人的罪而死——那是更深的哀痛，却成了全人类得救的根源。埃及的死亡是审判，基督的死亡是代赎。
+
+**区分以色列与埃及**：这个区分预示了在基督里信与不信的区分。"信子的人有永生，不信子的人不得见永生，神的震怒常在他身上。"（约 3:36）
+
+**最终的审判**：第十灾是一次历史性的末日审判的预演，指向那最后的日子，当神在公义中审判世界，分别绵羊与山羊（太 25:31-46）。`,
+    christShadow_en: `The final judgment announced in chapter 11 points profoundly to Christ:
+
+**Death of the Firstborn and God's Only Son**: Every Egyptian household would lose its firstborn — the deepest grief since creation. Yet God's own only Son (John 3:16), in the New Testament, died for the sins of the world — a deeper grief still, yet the source of salvation for all humanity. Egypt's death was judgment; Christ's death was substitutionary atonement.
+
+**Distinction Between Israel and Egypt**: This distinction foreshadows the distinction in Christ between those who believe and those who do not. "Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him." (John 3:36)
+
+**The Final Judgment**: The tenth plague is a historical preview of the eschatological last judgment, pointing toward that final day when God will judge the world in righteousness, separating the sheep from the goats (Matt. 25:31-46).`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 12,
+    publishDate: '2026-05-15',
+    title: '逾越节与出埃及', titleEn: 'The Passover and the Exodus',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 12 / Exodus 12',
+    content_zh: `那是我一生中最庄严的夜晚。耶和华对我和亚伦说："这月要作你们的正月，为你们诸月之首。"（出埃及记 12:2）时间本身在这个晚上被重新定义了。以色列人历史的纪元从此从这个逾越节之夜开始计算。神不只是在拯救一个民族，祂在创造一段新的历史。
+
+神的吩咐是精确的：正月初十，每家取一只羊羔，公的、一岁的、无残疾的。（出 12:3-5）这细节不是随意的。无残疾的羔羊，象征着完全、纯洁、无瑕疵的祭物。到正月十四日，黄昏的时候，以色列全会众要把羊羔宰了。（出 12:6）那血，要用牛膝草蘸着，涂在门的左右柱子和门楣上。（出 12:7）血的涂抹是关键的行动——不是把羊杀了就算了，而是那血必须被看见，被施用，被涂在特定的地方。
+
+神说："我当夜要经过埃及地，把埃及地一切头生的，无论是人是牲畜，都击杀了……但你们所住的房屋，血要在你们那里作记号；我见了血，就越过你们，我击杀埃及地头生的时候，灾殃必不临到你们身上灭你们。"（出 12:12-13）
+
+"我见了血，就越过你们"——这句话深深地烙印在我心里。不是"我见了你们好行为就越过"，不是"我见了你们的祈祷就越过"，不是"我见了你们的眼泪就越过"。是血。保护以色列人的，是那无辜羔羊所流的血，是代死的生命所留下的记号。死亡的代价已经付清——只不过是另一条生命代付的。
+
+那天夜里，我带领全体以色列人按神的吩咐行事。他们宰了逾越节的羔羊，把血涂在门框上，在屋里吃逾越节的筵席：烤羊肉、无酵饼、苦菜。（出 12:8）他们腰间束带，脚上穿鞋，手中拿杖，急忙地吃——因为他们知道这是逾越节，是即将出发的前夜。（出 12:11）
+
+午夜的时候，耶和华击杀了埃及地一切头生的，从坐在宝座上的法老的长子，到被囚在牢里之人的长子，并一切头生的牲畜。（出 12:29）法老在夜间起来，他和一切臣仆并埃及众人，都起来了；埃及有大哀号，因为没有一家不死一个人的。（出 12:30）
+
+那哀嚎声在黑夜中回响，我听见了。这哀号令人心碎，然而我也知道，这是公义神对一个悖逆了四百年、拒绝了九次警告、硬着心肠不肯放神之百姓的国家所施行的审判。神的怜悯一次又一次地延伸，但怜悯不是没有终点的。
+
+法老当夜召摩西和亚伦来，说："起来！从我民中出去，去事奉耶和华，照你们所说的去罢！把你们的羊群牛群带走罢！"（出 12:31-32）埃及人催促以色列人，要他们快走，因为他们说："我们都要死了。"（出 12:33）
+
+就这样，以色列人从拉美西起行……约有六十万人，此外还有许多闲杂人，并有羊群牛群，牲畜甚多。（出 12:37-38）这支庞大的队伍踏出了埃及的土地，背后是哀嚎的埃及，前面是未知的旷野，而神与他们同在。
+
+以色列人住在埃及共有四百三十年。正满了四百三十年的那一天，耶和华的军队都从埃及地出来了。（出 12:40-41）四百三十年！这个数字本身就是神信实的证明。祂向亚伯拉罕所说的话，祂向约瑟在梦中所启示的，祂向雅各所应许的——一切都在这个准确的时刻应验了。"这夜是耶和华的夜，是耶和华领以色列人出埃及地所当守的夜。"（出 12:42）
+
+逾越节不只是一个历史事件，它是要世代遵守的记念。神吩咐以色列人世世代代都要守这节，因为它记念的是神的救赎大能，是神对祂百姓约的忠信。吃苦菜，是要记念在埃及的苦难；吃无酵饼，是要记念仓皇离去、来不及发面的那个夜晚；吃羊羔，是要记念那使他们得救的宝血。记念是信仰的行动，是把神所做的事刻印在每一代人的心上。`,
+    content_en: `That was the most solemn night of my life. The LORD said to me and Aaron, "This month shall be for you the beginning of months. It shall be the first month of the year for you." (Exodus 12:2) Time itself was redefined that night. The calendar of Israel's history would henceforth be reckoned from this Passover night. God was not merely saving a nation — He was creating a new history.
+
+God's instructions were precise: on the tenth day of this month, each household was to take a lamb — male, one year old, without blemish. (Ex. 12:3-5) These details were not arbitrary. The unblemished lamb symbolized a complete, pure, spotless sacrifice. On the fourteenth day of the month, at twilight, the whole assembly of Israel was to slaughter their lambs. (Ex. 12:6) The blood was to be taken with a bunch of hyssop and struck on the lintel and the two doorposts of their houses. (Ex. 12:7) The application of the blood was the crucial act — it was not enough merely to kill the lamb; the blood had to be seen, applied, and placed on specific locations.
+
+God said, "For I will pass through the land of Egypt that night, and I will strike all the firstborn in the land of Egypt, both man and beast... The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt." (Ex. 12:12-13)
+
+"When I see the blood, I will pass over you" — these words were burned into my heart. Not "when I see your good deeds, I will pass over you," not "when I see your prayers," not "when I see your tears." It is blood. What protected Israel was the blood of that innocent lamb, the mark left by a life given in substitution. The price of death had been paid — only it was paid by another life in our place.
+
+That night, I led all of Israel to act as God had commanded. They slaughtered the Passover lambs, put the blood on the doorframes, and ate the Passover meal in their houses — roasted meat, unleavened bread, and bitter herbs. (Ex. 12:8) They were to eat it with their belt fastened, their sandals on their feet, and their staff in hand — eating in haste, for it was the LORD's Passover, the eve of their departure. (Ex. 12:11)
+
+At midnight, the LORD struck down all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon, and all the firstborn of the livestock. (Ex. 12:29) Pharaoh rose up in the night, he and all his servants and all the Egyptians. And there was a great cry in Egypt, for there was not a house where someone was not dead. (Ex. 12:30)
+
+The wailing echoed through the darkness of night, and I heard it. That cry was heartbreaking — yet I also knew that this was the judgment of a holy God upon a nation that had defied Him for four hundred years, rejected nine warnings, and stubbornly refused to release God's people. God's mercy had extended again and again, but mercy is not without end.
+
+That same night, Pharaoh summoned Moses and Aaron and said, "Up, go out from among my people, both you and the people of Israel; and go, serve the LORD, as you have said. Take your flocks and your herds, as you have said." (Ex. 12:31-32) The Egyptians were urgent with the people to send them out of the land in haste, for they said, "We shall all be dead." (Ex. 12:33)
+
+And so the people of Israel journeyed from Rameses... about six hundred thousand men on foot, besides women and children, and also a mixed multitude went up with them, and very much livestock, both flocks and herds. (Ex. 12:37-38) This vast host stepped out of Egyptian soil — behind them, a mourning Egypt; before them, an unknown wilderness — and God was with them.
+
+The people of Israel had lived in Egypt for 430 years. At the end of 430 years, on that very day, all the hosts of the LORD went out from the land of Egypt. (Ex. 12:40-41) Four hundred and thirty years! That number itself is proof of God's faithfulness. What He had spoken to Abraham, what He had revealed to Joseph in dreams, what He had promised to Jacob — all of it was fulfilled at precisely this moment. "It was a night of watching by the LORD, to bring them out of the land of Egypt; so this same night is a night of watching kept to the LORD by all the people of Israel throughout their generations." (Ex. 12:42)
+
+Passover was not merely a historical event — it was a memorial to be observed for all generations, for it commemorated God's mighty redemption and His covenant faithfulness to His people. The bitter herbs were to recall the bitterness of slavery in Egypt; the unleavened bread recalled that hurried night when there was no time for dough to rise; the lamb recalled the precious blood that brought their salvation. Remembrance is an act of faith — it is the inscription of what God has done upon the heart of every generation.`,
+    historyContext_zh: `逾越节（Pesach）成为以色列最重要的年节，也是整个旧约救赎历史的核心。正月（亚筆月/尼散月，相当于公历三四月）被指定为宗教历法的第一月，显明神以救赎来重新定义时间。
+
+"六十万步行的男人"（出 12:37）加上妇女、孩童及闲杂人，学者估计总人数在二百万至三百万之间，也有较保守的估计。这支人数庞大的队伍需要神迹性的供应才能在旷野生存——这正是神在旷野中四十年持续供应的序幕。
+
+无酵饼（Matzah）是仓皇离去的记号，但后来也成为除酵节（七天）的中心，象征除去罪的酵（参林前 5:7-8）。混杂的人群（"闲杂人"）随着以色列人出埃及，显示出埃及记中的救赎不是纯粹种族性的，凡相信并顺从的人都可以加入神的子民。`,
+    historyContext_en: `Passover (Pesach) became Israel's most important annual festival and the central event of all Old Testament redemptive history. The designation of the first month (the month of Abib/Nisan, roughly March-April) as the first month of the religious calendar shows that God redefines time through redemption.
+
+"About six hundred thousand men on foot" (Ex. 12:37), plus women, children, and mixed multitude, leads scholars to estimate the total number between two and three million people (with more conservative estimates also proposed). This enormous host required miraculous provision to survive in the wilderness — this was the prelude to forty years of sustained divine provision in the desert.
+
+Unleavened bread (Matzah) was the sign of hasty departure, but it became central to the Feast of Unleavened Bread (seven days), symbolizing the removal of the leaven of sin (cf. 1 Cor. 5:7-8). The "mixed multitude" who went up with Israel shows that the redemption in Exodus was not purely ethnic — all who believed and followed could join the people of God.`,
+    structure_zh: `第12章是出埃及记叙事的高峰，结构宏大：
+一、逾越节的规条（12:1-20）：羊羔的选取、血的涂抹、节期的守法；
+二、摩西将规条传给百姓（12:21-28）；
+三、第十灾的执行：击杀长子（12:29-32）；
+四、以色列人出埃及（12:33-42）：六十万人出发；
+五、逾越节的附加规条（12:43-51）：谁可以守逾越节。`,
+    structure_en: `Chapter 12 is the narrative climax of Exodus, with a grand structure:
+I. The Passover regulations (12:1-20): selection of the lamb, application of blood, observance of the feast;
+II. Moses transmits the regulations to the people (12:21-28);
+III. Execution of the tenth plague: death of the firstborn (12:29-32);
+IV. Israel departs from Egypt (12:33-42): six hundred thousand set out;
+V. Additional Passover regulations (12:43-51): who may eat the Passover.`,
+    theology_zh: `本章是旧约救赎神学的顶峰，充满改革宗神学的核心主题：
+
+**代替性赎罪**：羔羊的死代替了以色列头生子的死。这是代替原则（substitution）的最清晰的旧约预表。神不是简单地忽视罪，而是要求代替性的死亡。罪的代价必须被付清，问题是谁来付——是罪人自己，还是有人代为受死。
+
+**因信称义的预表**：以色列人得救不是因为他们比埃及人更好，而是因为他们相信并顺从了神关于羔羊之血的吩咐。这是信心带来的保护，而非善行带来的保护。改革宗神学强调：得救是神的恩典，通过信心领受，不是靠行为赚取（弗 2:8-9）。
+
+**神的公义与怜悯**：对埃及是公义的审判，对以色列是怜悯的救赎。二者在同一个夜晚同时彰显。神是完全圣洁的，罪不能在祂面前逃脱；神也是完全慈爱的，祂为祂的子民预备了出路。
+
+**记念作为信仰的行动**：神吩咐以色列人世代守逾越节，这是"礼仪性记念"（sacramental remembrance）的神学原型。记念神的救赎作为不是可选的，而是信仰群体生命的核心。`,
+    theology_en: `This chapter is the pinnacle of Old Testament redemptive theology, filled with core Reformed theological themes:
+
+**Substitutionary Atonement**: The death of the lamb substituted for the death of Israel's firstborn. This is the clearest Old Testament type of the principle of substitution. God does not simply overlook sin; He requires a substitutionary death. The price of sin must be paid — the question is who pays it: the sinner himself, or someone who dies in his place.
+
+**A Type of Justification by Faith**: Israel was not saved because they were better than the Egyptians, but because they believed and obeyed God's command concerning the blood of the lamb. This is protection through faith, not protection through good works. Reformed theology emphasizes: salvation is God's grace, received through faith, not earned by works (Eph. 2:8-9).
+
+**God's Justice and Mercy**: Toward Egypt, righteous judgment; toward Israel, merciful redemption — both manifested on the same night. God is perfectly holy; sin cannot escape His presence. God is also perfectly loving; He has prepared a way of escape for His people.
+
+**Remembrance as an Act of Faith**: God commanded Israel to observe Passover for all generations — this is the theological prototype of sacramental remembrance. Remembering God's redemptive acts is not optional; it is central to the life of the covenant community.`,
+    christShadow_zh: `第12章是整本圣经中最完整的基督预表章节之一：
+
+**基督是我们的逾越节羔羊**：保罗明确宣告："我们逾越节的羔羊基督已经被杀献祭了。"（林前 5:7）逾越节羔羊的每一个细节都指向基督：无残疾（基督是完全无罪的；彼前 1:19）、一岁（生命的全盛，自愿献上）、骨头一根也不可折断（出 12:46，参约 19:36）。
+
+**血涂门框与十字架**：血涂在门的左右柱子和门楣上，形成了十字架的形状。进入那扇有血的门，就是得救赎的路。基督的宝血涂在信徒的良心上，使他们得洁净（来 9:14）。
+
+**圣餐是新约的逾越节**：耶稣设立圣餐，正是在逾越节筵席上。"这是我的身体，为你们舍的……这杯是用我血所立的新约。"（林前 11:24-25）圣餐是新约的记念，正如逾越节是旧约的记念。基督是逾越节的最终成全，是所有预表的实体。`,
+    christShadow_en: `Chapter 12 is one of the most complete typological chapters in the entire Bible pointing to Christ:
+
+**Christ Is Our Passover Lamb**: Paul explicitly declares, "Christ, our Passover lamb, has been sacrificed." (1 Cor. 5:7) Every detail of the Passover lamb points to Christ: without blemish (Christ is perfectly sinless; 1 Pet. 1:19), one year old (the prime of life, offered willingly), and not a bone of it shall be broken (Ex. 12:46, cf. John 19:36).
+
+**Blood on the Doorframes and the Cross**: The blood was struck on the two doorposts and the lintel, forming the shape of a cross. To enter through that blood-marked door was the path to redemption. Christ's precious blood sprinkled on the consciences of believers cleanses them (Heb. 9:14).
+
+**The Lord's Supper as the New Testament Passover**: Jesus instituted the Lord's Supper at the Passover meal. "This is my body, which is for you... This cup is the new covenant in my blood." (1 Cor. 11:24-25) The Lord's Supper is the New Testament memorial, just as Passover was the Old Testament memorial. Christ is the ultimate fulfillment of Passover, the substance of all the types.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 13,
+    publishDate: '2026-05-18',
+    title: '头生分别为圣与云柱火柱', titleEn: 'Consecration of the Firstborn and Pillar of Cloud and Fire',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 13 / Exodus 13',
+    content_zh: `我们离开了埃及，带着四百三十年积压的盼望，带着逾越节羔羊血的记号，带着神奇迹性的同在，踏上了旷野的征途。然而神首先对我说的，不是下一步去哪里，而是关于归属与记念的话。
+
+"以色列中头生的，无论是人是牲畜，都要归我，因为一切头生的都是我的。"（出埃及记 13:2）
+
+这句话震动了我。头生的归耶和华——这是为什么？因为在那个逾越节之夜，耶和华击杀了埃及所有头生的，而以色列的头生者因着羔羊的血得以存活。他们的生命不是自己的，他们是被赎回来的生命。他们活着，是因为有另一条生命代替他们死去。既然如此，他们的生命就属于那位赎他们的神。
+
+这个道理深深地击中了我。我自己的生命也是如此——每一个被神拯救的人，都不再属于自己，而是属于那位用重价买赎了他们的神。这不是压迫，这是最深刻的自由：从奴役中被释放，归属于最配得称颂的主。
+
+神也吩咐我们要守除酵节，七天不吃有酵的饼，以此记念那个仓皇出离埃及的夜晚。（出 13:3-10）但这记念不只是历史的追忆，而是真理的确认：神救赎的作为真实发生过，祂是守约施慈爱的神。"你要将这话对你儿子说，这是因耶和华我出埃及所行的事。"（出 13:8）信仰的传承是父传子、子传孙的——每一代都要重新认识自己是蒙赎之民，重新明白神救赎大恩的意义。
+
+然后是头生的归属问题的实践：驴头生的，要用羊羔代赎；若不代赎，就要打折它的颈项。凡你儿子中头生的都要赎出来。（出 13:13）这赎买制度是神圣洁要求的彰显：属于神的东西，若不能实际献给神（如驴不可作祭物），就必须用可献的祭物来赎回。这预示着人无法以自己的生命直接来到神面前，需要一个代赎者——一个羔羊。
+
+离开埃及的路线，神没有带我们走近路——非利士地的路虽然最近，但神说："恐怕百姓遇见打仗后悔，就回埃及去。"（出 13:17）神了解祂子民的软弱。即将出离埃及、刚刚经历神迹的百姓，在真正的战争面前，未必有信心坚持。神的带领是怜悯的带领，祂考量到祂子民的软弱，选择了更长但更安全的路。这不是软弱，这是智慧的牧养。
+
+我们也带上了约瑟的骸骨。（出 13:19）约瑟临死前吩咐以色列人说："神必眷顾你们，你们要把我的骸骨从这里带上去。"（创 50:25）那是约瑟对神应许的信心告白，相信神必将以色列人带回迦南。四百三十年后，我亲手履行了这个承诺。约瑟的骸骨与我们同行，是一个无声的见证：神应许的连续性，跨越几代人，从未改变。
+
+然后，耶和华在他们前面行，白天在云柱中引导他们的路，夜间在火柱中给他们光，使他们白天黑夜都可以行走。白天云柱，夜间火柱，总不离开百姓的面前。（出 13:21-22）
+
+云柱与火柱——这是我见过的最美的神学真理的视觉呈现。神不是派遣天使来带领我们，也不是给我们一张地图，而是祂自己来。祂自己在云柱中、在火柱中行在我们前面。神同在（Immanuel）的概念，在旷野的沙土上、在夜空的火光中，变得清晰可见。
+
+这位引导的神，在白天遮蔽他们免受烈日炙烤，在夜晚照亮他们免陷黑暗。祂是光明与庇护，是方向与温暖，是祂子民所需要的一切。那云柱与火柱不只是方向指示，更是神同在的应许：我在这里，我带你们走，你们不孤单。
+
+我看着那云柱在我们队伍前方缓缓移动，心中充满了对神的敬畏与感恩。这位刚刚在埃及显示了无与伦比的审判大权的神，如今亲自在旷野中走在祂儿女的前面。权柄与怜悯并存，审判与同在并立——这就是耶和华，我们的神。`,
+    content_en: `We left Egypt, carrying four hundred and thirty years of accumulated hope, marked by the blood of the Passover lamb, accompanied by God's miraculous presence, stepping into the wilderness journey. Yet the first thing God spoke to me was not about our next destination, but about belonging and remembrance.
+
+"Consecrate to me all the firstborn. Whatever is the first to open the womb among the people of Israel, both of man and of beast, is mine." (Exodus 13:2)
+
+These words shook me. Why should the firstborn belong to the LORD? Because on that Passover night, the LORD had struck down all the firstborn of Egypt, while Israel's firstborn had survived through the blood of the lamb. Their lives were not their own — they were redeemed lives. They were alive because another life had died in their place. Therefore, their lives belonged to the God who had redeemed them.
+
+This truth struck me deeply. My own life was the same — everyone saved by God no longer belongs to themselves, but to the God who bought them at a great price. This is not oppression; it is the deepest freedom: released from slavery, belonging to the most worthy Lord.
+
+God also commanded us to observe the Feast of Unleavened Bread — seven days without eating leavened bread, to commemorate that night of hasty departure from Egypt. (Ex. 13:3-10) But this commemoration was not mere historical remembrance; it was the affirmation of a truth: God's redemptive acts truly happened, and He is a God who keeps covenant and shows steadfast love. "You shall tell your son on that day, 'It is because of what the LORD did for me when I came out of Egypt.'" (Ex. 13:8) The transmission of faith is from father to son to grandson — each generation must afresh know themselves as a redeemed people, afresh understand the meaning of God's great grace of redemption.
+
+Then came the practical application of the firstborn's consecration: every firstborn donkey was to be redeemed with a lamb; if not redeemed, its neck was to be broken. Every firstborn among your sons you shall redeem. (Ex. 13:13) This system of redemption manifested God's holy requirement: what belongs to God, if it cannot actually be offered to God (as a donkey cannot be a sacrifice), must be redeemed by an acceptable sacrifice. This foreshadows how humanity cannot approach God directly with their own lives — a substitute is needed, a lamb.
+
+For the route out of Egypt, God did not lead us by the shortest road. The way of the land of the Philistines was nearest, but God said, "Lest the people change their minds when they see war and return to Egypt." (Ex. 13:17) God understood the weakness of His people. Those who had just left Egypt and witnessed miracles might not have the faith to persevere in actual warfare. God's leading was compassionate leading — He accounted for His people's weakness and chose a longer but safer path. This was not weakness; this was wise shepherding.
+
+We also took the bones of Joseph with us. (Ex. 13:19) Joseph had solemnly sworn the Israelites before his death, saying, "God will surely visit you, and you shall carry up my bones from here." (Gen. 50:25) That was Joseph's confession of faith in God's promise, believing that God would surely bring Israel back to Canaan. Four hundred and thirty years later, I personally fulfilled that promise. Joseph's bones walked with us — a silent testimony to the continuity of God's promises, spanning generations without change.
+
+Then the LORD went before them by day in a pillar of cloud to lead them along the way, and by night in a pillar of fire to give them light, that they might travel by day and by night. The pillar of cloud by day and the pillar of fire by night did not depart from before the people. (Ex. 13:21-22)
+
+The pillar of cloud and pillar of fire — these were the most beautiful visual presentation of theological truth I had ever witnessed. God did not send an angel to guide us, nor did He give us a map. He came Himself. He Himself in the pillar of cloud and the pillar of fire walked before us. The concept of Immanuel — God with us — became visibly clear in the desert sand, in the firelight of the night sky.
+
+This guiding God sheltered them by day from the scorching sun, and lit their way by night against the darkness. He was light and shelter, direction and warmth, everything His people needed. The pillars of cloud and fire were not merely directional indicators but the promise of God's presence: I am here, I am leading you, you are not alone.
+
+I watched the pillar of cloud slowly moving before our column, and my heart was filled with reverence and gratitude toward God. The One who had just displayed incomparable judicial authority in Egypt was now personally walking before His children in the wilderness. Authority and mercy coexist; judgment and presence stand together — this is the LORD our God.`,
+    historyContext_zh: `第13章连接了逾越节（第12章）与旷野征途（第14章起）的叙事。神所选择的路线——经旷野去红海（出 13:18）——绕开了非利士人的迦萨地道路，这是当时埃及通往迦南最主要的军事商道"何鲁斯之路"（或称"腓力斯丁之路"）。这条路有埃及军队把守的要塞，对刚从奴役中出来的民众来说极为危险。
+
+约瑟的骸骨：约瑟约于公元前1805年去世（传统年代）。他的骸骨在以色列人中保存了约四百年，直到进入迦南后葬于示剑（书 24:32）。这个细节显示以色列人对神应许有持续的信仰，并强化了出埃及与列祖之约的连续性。
+
+云柱火柱：这是神的"舍金那荣耀"（Shekinah Glory）在旷野时期的主要显现方式，后来也充满了会幕（出 40:34-38）和所罗门圣殿（王上 8:10-11）。`,
+    historyContext_en: `Chapter 13 bridges the Passover narrative (chapter 12) with the wilderness journey (beginning in chapter 14). The route God chose — through the wilderness toward the Red Sea (Ex. 13:18) — bypassed the road through Philistine territory, which was the main Egyptian military and commercial road to Canaan, known as the "Way of Horus" or "Way of the Philistines." This route was guarded by Egyptian military fortresses and would have been extremely dangerous for a people just emerging from slavery.
+
+Joseph's bones: Joseph died around 1805 BC (traditional chronology). His bones were preserved among the Israelites for approximately four hundred years until they were buried at Shechem after entering Canaan (Josh. 24:32). This detail shows Israel's sustained faith in God's promise and reinforces the continuity between the Exodus and the covenant with the patriarchs.
+
+Pillar of cloud and fire: This was the primary manifestation of God's Shekinah Glory during the wilderness period, which later also filled the tabernacle (Ex. 40:34-38) and Solomon's temple (1 Kings 8:10-11).`,
+    structure_zh: `第13章可分为三段：
+一、头生的分别为圣（13:1-2）：原则的宣告；
+二、除酵节的记念与教导（13:3-16）：包含向儿女传授信仰的命令，以及头生之赎的规条；
+三、离埃及的路线与神的引导（13:17-22）：绕道旷野、约瑟骸骨、云柱火柱。`,
+    structure_en: `Chapter 13 divides into three sections:
+I. Consecration of the firstborn (13:1-2): the declaration of the principle;
+II. The commemoration and teaching of the Feast of Unleavened Bread (13:3-16): including the command to pass faith to children, and regulations for the redemption of the firstborn;
+III. The route out of Egypt and God's guidance (13:17-22): the wilderness detour, Joseph's bones, and the pillar of cloud and fire.`,
+    theology_zh: `本章包含数个重要的改革宗神学主题：
+
+**圣别与归属**：头生的归耶和华，这是救赎之后的归属宣告。改革宗神学（特别是韦敏斯德大要理问答）强调：人被造并被救赎，目的是荣耀神、享受祂（WSC Q.1）。得救之人的整个生命——包括头生的象征意义——都归属于救赎他们的神。
+
+**信仰的传承**："你要将这话对你儿子说"（13:8）是改革宗教育神学（paedagogy）的圣经根基之一。信仰不是私人的，而是群体的、代际的。父母有责任将信仰传给子女，这是约的应许在每一代中的更新。
+
+**神的怜悯引导**：神绕道而行（13:17）是神的怜悯引导的范本。神的道路并非总是最短的，但总是最适合祂子民成长的。这与改革宗对护理（Providence）的理解一致：神在历史中主权地安排一切，包括"绕路"，都是为着最终的益处。`,
+    theology_en: `This chapter contains several important Reformed theological themes:
+
+**Consecration and Belonging**: The firstborn belonging to the LORD is a declaration of belonging following redemption. Reformed theology (especially the Westminster Larger Catechism) emphasizes that humanity was created and redeemed for the purpose of glorifying God and enjoying Him (WSC Q.1). The entire life of the saved person — including the symbolic meaning of the firstborn — belongs to the God who redeemed them.
+
+**Transmission of Faith**: "You shall tell your son on that day" (13:8) is one of the biblical foundations of Reformed educational theology (paedagogy). Faith is not private but communal and intergenerational. Parents have the responsibility to pass faith to their children — this is the renewal of the covenant promise in each generation.
+
+**God's Compassionate Guidance**: God's detour (13:17) is a paradigm of His compassionate guidance. God's ways are not always the shortest, but they are always the most suited for His people's growth. This aligns with the Reformed understanding of Providence: God sovereignly arranges all things in history, including "detours," for ultimate good.`,
+    christShadow_zh: `第13章蕴含丰富的基督论预表：
+
+**头生子的赎买与基督**：每一个头生的都需要用羔羊来赎，否则必死。基督是神的"头生子"（罗 8:29，启 1:5），却为我们这些理当死亡之人的罪而受死，成为终极的代赎。祂是赎买者，也是被献上的羔羊——二者在祂身上完全合一。
+
+**云柱火柱与圣灵**：云柱火柱代表神的同在与引导。在新约中，圣灵住在信徒心中（约 14:17），是内住的引导者。旧约的外在云柱，预示新约圣灵内在的引导：将我们引导入一切真理（约 16:13）。
+
+**绕道旷野与基督的旷野试探**：以色列人被带入旷野经历试炼，基督也在旷野中经历四十天的试探（太 4:1-11），成就了以色列人在旷野中失败的事。祂是真以色列，凡以色列人当做而未做的，祂都完全成就了。`,
+    christShadow_en: `Chapter 13 contains rich Christological typology:
+
+**Redemption of the Firstborn and Christ**: Every firstborn required a lamb for redemption, or it would die. Christ is God's "firstborn" (Rom. 8:29; Rev. 1:5), yet He died for the sin of those of us who deserved death, becoming the ultimate substitute. He is both the Redeemer and the offered lamb — both perfectly united in Him.
+
+**Pillar of Cloud and Fire and the Holy Spirit**: The pillars of cloud and fire represent God's presence and guidance. In the New Testament, the Holy Spirit dwells within believers (John 14:17), the indwelling Guide. The Old Testament's external pillar of cloud foreshadows the New Testament Holy Spirit's internal guidance: leading us into all truth (John 16:13).
+
+**Wilderness Detour and Christ's Wilderness Temptation**: Israel was led into the wilderness to experience testing; Christ also experienced forty days of temptation in the wilderness (Matt. 4:1-11), accomplishing what Israel had failed to do in the wilderness. He is the true Israel — everything Israel was called to do but failed, He perfectly accomplished.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 14,
+    publishDate: '2026-05-19',
+    title: '过红海', titleEn: 'Crossing the Red Sea',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 14 / Exodus 14',
+    content_zh: `我永远不会忘记那一天站在红海岸边的感受。背后是法老的战车，前面是茫茫的水域，两侧是无法翻越的山丘——从人的眼光看，我们被包围了，死路一条。然而就在这个时刻，神对我说了一句话，这句话成为我此后一生都倚靠的根基。
+
+法老带领着六百辆选出来的战车、埃及所有的战车，以及他的一切马兵追上了我们，在以色列人安营的地方追上了我们。（出 14:7，9）百姓极其惧怕，向耶和华哀求，又对我说："难道在埃及没有坟地，你把我们带来死在旷野吗？你为何这样待我们，将我们从埃及领出来呢？"（出 14:11）
+
+我理解他们的恐惧。我自己也看见了那追来的战车，尘土漫天，铁蹄声声。然而神已经对我说了这件事要如何发展，所以我能在他们的恐惧中成为稳定的声音：
+
+"不要惧怕，只管站住！看耶和华今天向你们所要施行的救恩。因为你们今天所看见的埃及人，必永远不再看见了。耶和华必为你们争战，你们只管静默，不要作声。"（出 14:13-14）
+
+然后，耶和华对我说了那句令我惊讶的话："你为何向我哀求呢？你吩咐以色列人往前走。你手里举起杖，伸手在海上，把水分开，以色列人要下海中走干地。"（出 14:15-16）
+
+"往前走"——这命令的荒谬之大，以人的逻辑无法理解。往前走？那是水！那是海！然而神的命令就是如此：在完全不可能的情况下，往前走。这不是鲁莽，这是信心。信心就是在神的话语和眼前的情况相矛盾时，选择相信神的话语。
+
+神也告诉我，祂要在法老和他的全军身上得荣耀，让埃及人知道祂是耶和华。（出 14:18）这整个事件的目的不只是以色列的救赎，也是神荣耀的彰显。宇宙的舞台是神荣耀的剧场，所有的历史事件——包括这场看似危机的景况——都在神的主权掌管下服务于祂荣耀的彰显。
+
+我伸手在海上，耶和华便用大东风，使海水一夜退去，水便分开，海就成了干地。以色列人下海中走干地；水在他们的左右作了墙垣。（出 14:21-22）
+
+站在那干地上的感受是无与伦比的。两边是高高矗立的水墙，在火柱的光照下闪着光，脚下是刚刚从深渊变成的干地。我们在深水之中走在干地上——这只有神才能做到，这只有创造宇宙的神才能命令水服从祂的旨意。
+
+埃及人追进去了。他们以为这路同样为他们开着。但耶和华在那火云柱中向埃及军队看了，使埃及军队混乱，使他们的车轮脱落（出 14:24-25），他们说："我们从以色列人面前逃跑吧！因为耶和华为他们攻打我们了。"（出 14:25）
+
+"耶和华为他们攻打我们了"——这句话出自仇敌之口，是最有力的神学宣告。他们终于明白了，但已经太迟了。
+
+耶和华吩咐我说："你伸手在海上，叫水仍合在埃及人并他们的车辆、马兵身上。"（出 14:26）我照样行了。水回流，遮盖了所有追赶以色列人进入海中的法老的马兵车辆，连一个也没有剩下。（出 14:28）
+
+那一天，以色列人看见耶和华向埃及人所行的大事，百姓就惧怕耶和华，又信服耶和华和祂的仆人摩西。（出 14:31）
+
+这两个反应是不可分的：惧怕神、信服神。真正的信心不是没有敬畏的轻率，而是在认识神的圣洁与大能之后，甘心降服在祂的主权之下。以色列人那天所经历的，不只是军事上的胜利，而是神自我启示的时刻——神借着这件事说："我是耶和华，我同在，我争战，我救赎，我得荣耀。"
+
+红海是以色列历史上最深刻的教会时刻——神的子民在水中、在云中受洗归入与摩西的团契（参林前 10:2），经历死亡与复活的象征性历程：旧生命在埃及，新生命在应许之地；旧的奴役，新的自由；旧的绝望，新的盼望。`,
+    content_en: `I will never forget how it felt to stand on the shore of the Red Sea that day. Behind us were Pharaoh's chariots; before us, vast waters; on both sides, impassable hills — from a human perspective, we were surrounded with no way out. Yet it was at this very moment that God spoke a word to me, a word that became the foundation I leaned on for the rest of my life.
+
+Pharaoh took six hundred chosen chariots and all the other chariots of Egypt, and all his horsemen, and pursued Israel, overtaking them encamped at the sea. (Ex. 14:7, 9) The people were terrified and cried out to the LORD, and they said to me, "Is it because there are no graves in Egypt that you have taken us away to die in the wilderness? What have you done to us in bringing us out of Egypt?" (Ex. 14:11)
+
+I understood their fear. I too had seen those approaching chariots, the dust cloud billowing, the thunder of hooves. Yet God had already told me how this would unfold, and so I could be a voice of stability amidst their terror:
+
+"Fear not, stand firm, and see the salvation of the LORD, which he will work for you today. For the Egyptians whom you see today, you shall never see again. The LORD will fight for you, and you have only to be silent." (Ex. 14:13-14)
+
+Then the LORD said to me something that astonished me: "Why do you cry to me? Tell the people of Israel to go forward. Lift up your staff, and stretch out your hand over the sea and divide it, that the people of Israel may go through the sea on dry ground." (Ex. 14:15-16)
+
+"Go forward" — the absurdity of this command was incomprehensible by human logic. Go forward? That's water! That's the sea! Yet God's command was exactly this: in completely impossible circumstances, go forward. This was not recklessness — this was faith. Faith is choosing to believe God's word when it contradicts what we see before our eyes.
+
+God also told me that He would get glory over Pharaoh and all his host, so that the Egyptians would know that He is the LORD. (Ex. 14:18) The purpose of this entire event was not only Israel's rescue but the manifestation of God's glory. The cosmic stage is the theater of God's glory, and all historical events — including this seemingly crisis situation — serve, under God's sovereign governance, to manifest His glory.
+
+I stretched out my hand over the sea, and the LORD drove the sea back by a strong east wind all night and made the sea dry land, and the waters were divided. The people of Israel went into the midst of the sea on dry ground, the waters being a wall to them on their right hand and on their left. (Ex. 14:21-22)
+
+The feeling of standing on that dry ground was incomparable. On both sides towered walls of water, gleaming in the light of the pillar of fire, and underfoot was dry land freshly emerged from the abyss. We walked on dry ground in the midst of the deep — only God could do this, only the God who created the universe could command water to obey His will.
+
+The Egyptians followed them in. They thought the road was open to them as well. But the LORD in the pillar of fire and of cloud looked down on the Egyptian forces and threw them into a panic, clogging their chariot wheels (Ex. 14:24-25), and they said, "Let us flee from before Israel, for the LORD fights for them against Egypt." (Ex. 14:25)
+
+"The LORD fights for them against Egypt" — this confession from the lips of enemies is the most powerful theological declaration. They finally understood, but it was too late.
+
+The LORD said to me, "Stretch out your hand over the sea, that the water may come back upon the Egyptians, upon their chariots, and upon their horsemen." (Ex. 14:26) I did so. The waters returned and covered the chariots and the horsemen — the entire host of Pharaoh that had followed them into the sea; not one of them remained. (Ex. 14:28)
+
+That day, Israel saw the great power that the LORD used against the Egyptians, so the people feared the LORD, and they believed in the LORD and in his servant Moses. (Ex. 14:31)
+
+These two responses are inseparable: fearing God and believing in God. True faith is not rash presumption without reverence, but willing submission to God's sovereignty after knowing His holiness and power. What Israel experienced that day was not merely a military victory, but a moment of divine self-revelation — God saying through this event: "I am the LORD. I am present, I fight, I redeem, and I am glorified."
+
+The Red Sea was the most profound ecclesial moment in Israel's history — God's people were baptized into Moses in the cloud and in the sea (cf. 1 Cor. 10:2), experiencing the symbolic passage of death and resurrection: old life in Egypt, new life in the promised land; old slavery, new freedom; old despair, new hope.`,
+    historyContext_zh: `红海事件（有时译"苇海"，希伯来文 yam suph，意为"苇草之海"或"终结之海"）是整个出埃及事件的顶峰。学者对确切地点有争议，候选地点包括比特湖（Bitter Lakes）、提姆萨湖（Lake Timsah）或实际的红海（Gulf of Suez）一带。
+
+法老的六百辆选战车（14:7）代表当时最精锐的军事力量。古代近东战车作战是当时最先进的军事技术，就如同今天的坦克。以色列人面对的，是古代世界最强大的军事机器——然而这正是神最能彰显祂荣耀的处境。
+
+"一个也没有剩下"（14:28）是一个绝对的军事覆灭。这不只是以色列的得救，更是法老政权的根本瓦解——以色列人从此在埃及军队无法追赶的处境中自由前行。这个事件在古代近东各国广泛流传（参书 2:10），成为神大能的见证。`,
+    historyContext_en: `The Red Sea event (sometimes rendered "Reed Sea," Hebrew yam suph, meaning "sea of reeds" or "sea of the end") is the climax of the entire Exodus event. Scholars debate the precise location, with candidates including the Bitter Lakes, Lake Timsah, or the actual Red Sea (Gulf of Suez) region.
+
+Pharaoh's six hundred chosen chariots (14:7) represented the most elite military force of the time. Ancient Near Eastern chariot warfare was the most advanced military technology of the era — like tanks today. Israel faced the most powerful military machine in the ancient world — yet this was precisely the situation in which God could most glorify Himself.
+
+"Not one of them remained" (14:28) represents total military annihilation. This was not only Israel's rescue but the fundamental collapse of Pharaoh's power — from this point, Israel moved forward free from pursuit by Egyptian forces. This event was widely reported throughout the ancient Near East (cf. Josh. 2:10), becoming a testimony to God's mighty power.`,
+    structure_zh: `第14章叙事张力极强，可分为四段：
+一、神的战略安排与法老的追赶（14:1-14）：以色列的绝境与摩西的信心宣告；
+二、神的指示与分海神迹（14:15-22）：往前走、云柱移位保护、海水分开；
+三、埃及军队的覆灭（14:23-29）：车轮脱落、水归原位、全军覆没；
+四、以色列人的回应（14:30-31）：惧怕耶和华、信服神和摩西。`,
+    structure_en: `Chapter 14 has intense narrative tension, divisible into four sections:
+I. God's strategic arrangement and Pharaoh's pursuit (14:1-14): Israel's desperate situation and Moses' declaration of faith;
+II. God's instructions and the miracle of the divided sea (14:15-22): go forward, the pillar of cloud moves to protect, the sea divides;
+III. The destruction of the Egyptian army (14:23-29): wheels clog, waters return, total annihilation;
+IV. Israel's response (14:30-31): fear of the LORD, belief in God and in Moses.`,
+    theology_zh: `红海事件蕴含丰富的系统神学意义：
+
+**神独自的救赎**："耶和华为你们争战，你们只管静默。"（14:14）以色列人在这场救赎中没有任何军事贡献，他们唯一的角色是站住、信靠、往前走。这是福音的核心图画：救赎完全是神的作为，人的角色是信心的顺从，而非功德的积累。改革宗神学强调：称义（justification）是完全由神而来的，人无法以行为补充。
+
+**神的荣耀是救赎的终极目的**：神明确宣告祂要在法老身上"得荣耀"（14:4,17,18）。这与改革宗神学的"唯独神的荣耀"（Soli Deo Gloria）核心原则完全一致。救赎不以人为中心，而以神的荣耀为中心，而人的最大益处恰恰在于荣耀神。
+
+**惧怕神是敬虔的开始**："百姓就惧怕耶和华"（14:31）——这不是奴役性的恐惧，而是对神的圣洁与大能的正当回应，是敬畏（reverent fear）。箴言说："敬畏耶和华是智慧的开端。"（箴 9:10）看见神的作为的人，不可能不产生深深的敬畏。`,
+    theology_en: `The Red Sea event contains rich systematic theological significance:
+
+**God's Sole Redemption**: "The LORD will fight for you, and you have only to be silent." (14:14) Israel made no military contribution to this redemption. Their only role was to stand firm, trust, and go forward. This is the core picture of the Gospel: salvation is entirely God's act; humanity's role is faithful obedience, not merit accumulation. Reformed theology emphasizes that justification is entirely from God — human beings cannot supplement it with works.
+
+**God's Glory as the Ultimate Purpose of Redemption**: God explicitly declared that He would "get glory" over Pharaoh (14:4, 17, 18). This perfectly aligns with the core Reformed principle of Soli Deo Gloria. Redemption is not anthropocentric but theocentric — centered on God's glory. And humanity's greatest benefit is precisely to glorify God.
+
+**Fear of God as the Beginning of Piety**: "The people feared the LORD" (14:31) — this is not slavish terror but the proper response to God's holiness and power: reverent fear. Proverbs says, "The fear of the LORD is the beginning of wisdom." (Prov. 9:10) Those who witness God's acts cannot but be filled with profound awe.`,
+    christShadow_zh: `红海过渡是新约中明确被解释为基督与教会的类型：
+
+**洗礼的预表**：保罗明确说："他们都在云里、海里受洗归了摩西。"（林前 10:2）过红海是旧约的洗礼——进入水中，旧生命被埋葬（奴役的生命），从水中出来，新生命开始（自由的生命）。基督徒洗礼是这一主题的新约成全：与基督同死、同埋葬、同复活（罗 6:3-4）。
+
+**基督作为真正的摩西**：摩西带领以色列人穿越红海，基督带领祂的子民穿越死亡。摩西伸杖，水便分开；基督受死，死亡的权势被打破。旷野的带领者，是新约中更大的带领者的影子。
+
+**仇敌的最终覆灭**：法老及其军队在水中覆灭，预表撒但及其势力将在末日被最终胜过。启示录中，神的仇敌被投入火湖（启 20:10），而神的子民在新歌中（正如以色列在红海边唱歌）永远称颂神的救赎（启 15:3-4，正引摩西之歌）。`,
+    christShadow_en: `The Red Sea crossing is explicitly interpreted in the New Testament as a type of Christ and His church:
+
+**Type of Baptism**: Paul explicitly states, "All were baptized into Moses in the cloud and in the sea." (1 Cor. 10:2) Crossing the Red Sea was Old Testament baptism — entering the water, the old life buried (life of slavery); emerging from the water, the new life beginning (life of freedom). Christian baptism is the New Testament fulfillment of this theme: dying with Christ, being buried with Him, and rising with Him (Rom. 6:3-4).
+
+**Christ as the True Moses**: Moses led Israel through the Red Sea; Christ leads His people through death. Moses stretched out his staff and the waters divided; Christ died and the power of death was broken. The wilderness leader is the shadow of a greater leader in the New Testament.
+
+**The Ultimate Defeat of the Enemy**: Pharaoh and his army perishing in the waters foreshadows Satan and his forces being ultimately overcome at the last day. In Revelation, God's enemies are thrown into the lake of fire (Rev. 20:10), while God's people sing a new song (just as Israel sang at the Red Sea), forever praising God's redemption (Rev. 15:3-4, which explicitly quotes the Song of Moses).`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 15,
+    publishDate: '2026-05-20',
+    title: '摩西之歌与玛拉苦水', titleEn: 'The Song of Moses and the Bitter Waters of Marah',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 15 / Exodus 15',
+    content_zh: `当我们站在红海东岸，看着最后一匹战马在海浪中消失，看着埃及帝国最精锐的军队永远沉在海底，我的灵魂里涌出了一首歌。这首歌不是我预先准备的，它是从那个时刻迸发出来的——从一颗曾经绝望、如今充满敬畏与感恩的心里涌出来的。
+
+"我要向耶和华歌唱，因祂大大得胜，将马和骑马的人投在海中。耶和华是我的力量，我的诗歌，也成了我的拯救。这是我的神，我要赞美祂；是我父亲的神，我要尊崇祂。"（出 15:1-2）
+
+这首歌从"耶和华大大得胜"开始，因为荣耀属乎祂。那一刻，我清楚地知道，我们所经历的一切——从埃及的十次灾难，到红海的分开，到敌军的覆灭——没有一件是我的功劳。每一件都是耶和华的作为。我不过是一个器皿，祂才是工作者。
+
+"耶和华是战士；耶和华是祂的名。"（出 15:3）神是战士——这对受过和平主义文化熏陶的现代人可能感到不舒服，但这是真理。神是圣洁的，祂面对一切罪恶、一切压迫的终极回应是公义的争战。以色列人被奴役了四百年，神出手了，而且彻底地出手。"法老的车辆、军兵，耶和华已抛在海中；他特选的军长都沉于红海。"（出 15:4）
+
+歌中描述神的大能：祂的右手有能力，甚是荣耀；祂的右手打碎仇敌；祂以丰盛的荣威推倒那些起来攻击祂的；祂发出烈怒，烧灭他们，如同烧灭碎秸一样。（出 15:6-7）这些语言是诗意的，但它所描绘的神是真实的——一位圣洁到不能容忍罪恶不受审判的神，一位爱子民爱到亲自为他们争战的神。
+
+我在歌中也说到了神的宏谋远略——祂要引导以色列人进入迦南，植在祂产业的山上，在圣所里立基，神的手所建立的。（出 15:17）出埃及不是目的，进迦南才是目标，而迦南也不是终点，建立神的居所、神与人同住才是最终的异象。每一个历史事件都在更大的神圣叙事中有其位置。
+
+歌声刚落，我的姐姐米利暗——女先知——拿着鼓，率领所有的妇女出去，她们打鼓跳舞，米利暗领她们唱和："你们要向耶和华歌唱，因祂大大得胜，将马和骑马的人抛在海中。"（出 15:20-21）
+
+我想到了米利暗，这位从小就认识我的姐姐。当我三个月大、母亲将我放在蒲草箱里漂在尼罗河上的时候，是她站在远处守望，是她在法老的女儿发现我之后机敏地上前说："我去在希伯来妇人中叫一个奶妈来，为你奶这孩子，可以不可以？"（出 2:7）然后她把我的母亲带来，让我在自己母亲的怀抱中成长。那一刻的她，是神的护理中的微小工具；这一刻的她，是神子民当中赞美的领袖。神的恩典贯穿了她的一生，也贯穿了我的一生。
+
+然而，赞美的歌声刚刚平息，就面对了第一个旷野的考验。
+
+摩西领以色列人从红海往旷野走，走了三天，在旷野中寻不着水。到了玛拉，不能喝那里的水，因为水是苦的，所以那地名叫玛拉。百姓就向摩西发怨言，说："我们喝什么呢？"（出 15:22-24）
+
+三天。他们刚刚亲眼见到了神在红海所行的惊天大事，三天之后就在旷野中抱怨。这不是需要批判的——这是人性的真实写照。在高峰的属灵体验之后，紧接着就是日常生活的艰辛；在神迹的感动之后，就是干渴的喉咙和疲惫的双腿。信心的操练就是在这些日常的困难中持续相信，而不只是在神迹中相信。
+
+我向耶和华哀求。耶和华指示我一棵树，我把树丢在水里，水就变甜了。（出 15:25）
+
+这棵树——这个细节令人深思。不是神直接以话语使水变甜，而是通过一棵树的使用。树是神使用的器物，却没有自身的力量使水变甜。正是这棵被丢入苦水中的树，成了医治的媒介。神可以用任何方式工作，祂选择通过器物、通过人的顺从、通过看似微小的行动来成就祂的目的。
+
+耶和华在那里为他们立了定例、典章，在那里试验他们，说："你若留意听耶和华你神的话，又行我眼中看为正的事，留心听我的诫命，守我一切的律例，我就不将所加与埃及人的疾病加在你身上，因为我耶和华是医治你的。"（出 15:25-26）
+
+"我耶和华是医治你的"——希伯来文是"耶和华拉法"（Yahweh Rapha）——这是神名字的一个启示。神不只是审判者，不只是救赎者，祂也是医治者。玛拉的苦水变甜，是神本性的一个缩影：祂能把苦变甜，把死变活，把绝望变盼望。然后我们来到了以琳，那里有十二股水泉、七十棵棕树；他们就在那里的水边安营。（出 15:27）苦水之后是甘泉，旷野中有绿洲——神的道路总是经历试炼之后的安慰，苦中有甜，艰难之后是安息。`,
+    content_en: `As we stood on the eastern shore of the Red Sea, watching the last warhorse disappear beneath the waves, watching Egypt's most elite forces sink forever to the ocean floor, a song welled up in my soul. This song was not prepared in advance — it burst forth from that moment, surging from a heart that had once despaired and was now filled with awe and gratitude.
+
+"I will sing to the LORD, for he has triumphed gloriously; the horse and his rider he has thrown into the sea. The LORD is my strength and my song, and he has become my salvation; this is my God, and I will praise him, my father's God, and I will exalt him." (Ex. 15:1-2)
+
+The song begins with "the LORD has triumphed gloriously," because glory belongs to Him. In that moment, I knew clearly that everything we had experienced — from the ten plagues in Egypt, to the parting of the Red Sea, to the defeat of the enemy — not one thing was my achievement. Every single thing was the LORD's work. I was merely a vessel; He was the one doing the work.
+
+"The LORD is a man of war; the LORD is his name." (Ex. 15:3) God is a warrior — this may make modern people raised in pacifist culture uncomfortable, but it is truth. God is holy, and His ultimate response to all evil and oppression is righteous warfare. Israel had been enslaved for four hundred years; God intervened, and He intervened completely. "Pharaoh's chariots and his host he cast into the sea, and his chosen officers were sunk in the Red Sea." (Ex. 15:4)
+
+The song describes God's great power: His right hand is glorious in power, His right hand shatters the enemy; in the greatness of His majesty He overthrows His adversaries; He sends out His fury and it consumes them like stubble. (Ex. 15:6-7) These words are poetic, but the God they describe is real — a God so holy that He cannot tolerate evil going unjudged, a God who loves His people so deeply that He personally fights on their behalf.
+
+In the song I also spoke of God's sweeping plan — He would guide Israel into Canaan, plant them on the mountain of His inheritance, at the sanctuary His hands have established. (Ex. 15:17) The Exodus was not the destination; entering Canaan was the goal — and even Canaan was not the final end. Establishing God's dwelling, God living among His people, was the ultimate vision. Every historical event has its place in the larger divine narrative.
+
+As the singing ended, my sister Miriam — the prophetess — took a tambourine and led all the women out, dancing and playing tambourines. Miriam led them in the refrain: "Sing to the LORD, for he has triumphed gloriously; the horse and his rider he has thrown into the sea." (Ex. 15:20-21)
+
+I thought of Miriam, the sister who had known me since childhood. When I was three months old and my mother placed me in a basket of reeds and set me floating on the Nile, it was she who stood at a distance to watch, and it was she who shrewdly stepped forward when Pharaoh's daughter found me, saying, "Shall I go and call you a nurse from the Hebrew women to nurse the child for you?" (Ex. 2:7) Then she brought my own mother, so that I grew up in my mother's arms. In that moment she was a small instrument in God's providence; in this moment she was the leader of praise among God's people. God's grace ran through all of her life, and all of mine.
+
+Yet no sooner had the songs of praise quieted than the first test of the wilderness came.
+
+I led Israel from the Red Sea into the wilderness of Shur. They went three days in the wilderness and found no water. When they came to Marah, they could not drink the water of Marah because it was bitter; therefore it was named Marah. And the people grumbled against me, saying, "What shall we drink?" (Ex. 15:22-24)
+
+Three days. They had just witnessed with their own eyes what God had done at the Red Sea, and three days later they were complaining in the wilderness. This is not something to criticize — it is an honest portrait of human nature. After the peak spiritual experience comes the hardship of daily life; after the wonder of miracles come parched throats and weary legs. The exercise of faith is to keep believing in these everyday difficulties, not only in miracles.
+
+I cried to the LORD, and the LORD showed me a log, and I threw it into the water, and the water became sweet. (Ex. 15:25)
+
+This log — this detail is worth pondering. God did not make the water sweet by His word alone; He did it through the use of a log. The log was an instrument God used, yet it had no inherent power to sweeten water. It was precisely this log thrown into the bitter water that became the medium of healing. God can work in any way He chooses; He chooses to accomplish His purposes through instruments, through human obedience, through seemingly small actions.
+
+There the LORD made for them a statute and a rule, and there he tested them, saying, "If you will diligently listen to the voice of the LORD your God, and do that which is right in his eyes, and give ear to his commandments and keep all his statutes, I will put none of the diseases on you that I put on the Egyptians, for I am the LORD, your healer." (Ex. 15:25-26)
+
+"I am the LORD, your healer" — in Hebrew, "Yahweh Rapha" — this is a revelation of one of God's names. God is not only a judge, not only a redeemer; He is also a healer. The sweetening of Marah's bitter waters is a miniature of God's nature: He can turn bitter to sweet, death to life, despair to hope. Then we came to Elim, where there were twelve springs of water and seventy palm trees, and we encamped there by the water. (Ex. 15:27) After bitter waters come sweet springs; in the wilderness is an oasis. God's way always leads through testing to comfort — bitterness contains sweetness, and difficulty is followed by rest.`,
+    historyContext_zh: `出埃及记第15章包含圣经中最古老的诗歌之一——摩西之歌（15:1-18）。语言学研究表明，这首诗歌可能使用了圣经希伯来文中最古老的诗歌体裁，与乌加里特诗歌有相似的文学结构，进一步支持其历史真实性与古老年代。
+
+玛拉（Marah）意为"苦的"，以琳（Elim）意为"树木"或"大树"。玛拉的可能位置是今日西奈半岛的'Ain Hawarah，以琳被认为是靠近今日苏伊士湾的一处绿洲。
+
+米利暗（Miriam）被称为"女先知"（出 15:20），是圣经中最早被称为先知的女性之一。她与摩西、亚伦是兄姊（民 26:59），后来因嫉妒摩西被神击打患了麻风（民 12章），但经过祷告恢复，这显示神公义中有怜悯。`,
+    historyContext_en: `Exodus chapter 15 contains one of the oldest poems in the Bible — the Song of Moses (15:1-18). Linguistic studies suggest this poem may use the oldest poetic forms in Biblical Hebrew, with literary structures similar to Ugaritic poetry, further supporting its historical authenticity and ancient date.
+
+Marah (meaning "bitter") and Elim (meaning "trees" or "great trees") — Marah's probable location is present-day 'Ain Hawarah on the Sinai Peninsula, while Elim is believed to be an oasis near the present-day Gulf of Suez.
+
+Miriam is called "the prophetess" (Ex. 15:20), making her one of the earliest women in Scripture to bear the title of prophet. She was the sister of Moses and Aaron (Num. 26:59). Later, she was struck with leprosy by God for jealousy of Moses (Num. 12), but was restored after prayer — showing mercy within God's justice.`,
+    structure_zh: `第15章由三大段构成：
+一、摩西之歌（15:1-18）：全会众的赞美，颂扬神在红海的胜利与将来在迦南的荣耀计划；
+二、米利暗之歌（15:19-21）：妇女的应和赞美，历史上妇女在庆典中用打鼓跳舞赞美的模式；
+三、玛拉的苦水与以琳（15:22-27）：旷野的第一个考验与神的医治供应，以琳的休息。`,
+    structure_en: `Chapter 15 consists of three major sections:
+I. The Song of Moses (15:1-18): the whole assembly's praise, celebrating God's victory at the Red Sea and His future glorious plan in Canaan;
+II. The Song of Miriam (15:19-21): the women's responsive praise, in the historical pattern of women praising with tambourines and dancing at celebrations;
+III. Marah's bitter waters and Elim (15:22-27): the first wilderness test and God's healing provision, and rest at Elim.`,
+    theology_zh: `本章包含数个改革宗神学的核心主题：
+
+**赞美是救赎的自然回应**：摩西之歌表明，真正遇见神救赎恩典的人，自然地会爆发出赞美。改革宗礼拜神学（worship theology）强调：敬拜不是人取悦神的方式，而是被神恩典充满的人对神本性与作为的自然回应。诗篇的传统，从摩西之歌开始。
+
+**苦难中的信心成长**：玛拉的苦水是神"试验"（test）祂子民的方式（15:25）。改革宗神学对苦难的解释：苦难不是神的失误或惩罚（在与神和好的关系中），而是神牧养性的试炼，目的是炼净信心（彼前 1:6-7）、培育顺从、使人更深地倚靠神。
+
+**神的名：耶和华拉法**：这是神的名字系列中（耶和华以勒、耶和华沙龙、耶和华尼西等）的重要一个。神的名字揭示祂的本性与作为。"我是医治你的神"——这不只是身体的医治，更是罪创的医治、灵魂的医治。改革宗神学强调：救赎是全人的更新，包括整个存在的医治与更新（参启 21:4-5）。`,
+    theology_en: `This chapter contains several core Reformed theological themes:
+
+**Praise as the Natural Response to Redemption**: The Song of Moses shows that those who truly encounter God's saving grace naturally overflow in praise. Reformed worship theology emphasizes: worship is not humanity's way of pleasing God, but the natural response of those filled with God's grace to God's nature and acts. The tradition of the Psalms begins with the Song of Moses.
+
+**Growth of Faith Through Hardship**: Marah's bitter waters are how God "tested" His people (15:25). The Reformed theological explanation of suffering: suffering (within a reconciled relationship with God) is not God's error or punishment, but His pastoral testing, aimed at refining faith (1 Pet. 1:6-7), cultivating obedience, and drawing people into deeper dependence on God.
+
+**God's Name: Yahweh Rapha**: This is an important entry in the series of God's names (Yahweh Jireh, Yahweh Shalom, Yahweh Nissi, etc.). God's names reveal His nature and acts. "I am the LORD your healer" — this is not only physical healing but the healing of sin's wounds and the healing of the soul. Reformed theology emphasizes: redemption is the renewal of the whole person, including the healing and renewal of entire existence (cf. Rev. 21:4-5).`,
+    christShadow_zh: `第15章在多个层次上指向基督：
+
+**摩西之歌与羔羊之歌**：启示录第15章直接引用这首歌，称为"神的仆人摩西的歌，并羔羊的歌"（启 15:3）。在末世的最终得胜中，蒙救赎的人仍然唱摩西之歌——但现在它成了羔羊之歌，因为基督是终极的摩西，祂引导神的子民穿越最终的死亡，进入永恒的应许之地。
+
+**苦水中的树与十字架**：那棵被丢入苦水中使水变甜的树，是十字架最有力的预表之一。十字架是人类历史上最大的苦难——神子的死亡——然而正是这棵"树"（加 3:13，"被挂在木头上"），被丢入人类苦难与罪恶的深渊，使一切变甜，使生命从死亡中涌出。保罗说："基督既为我们受了咒诅，就赎出我们脱离律法的咒诅。"（加 3:13）
+
+**以琳的绿洲与末世的安息**：苦水之后的以琳，是末世安息（eschatological rest）的象征。在患难之后，神子民有安息——不只是旷野中的暂时安歇，更是新天新地中永恒的安息（来 4:9-11；启 21:1-4）。每一个以琳，都是天堂的先尝，是告诉我们旅途虽艰，终点是荣耀的。`,
+    christShadow_en: `Chapter 15 points to Christ on multiple levels:
+
+**The Song of Moses and the Song of the Lamb**: Revelation chapter 15 directly quotes this song, calling it "the song of Moses, the servant of God, and the song of the Lamb" (Rev. 15:3). In the final eschatological victory, the redeemed still sing the Song of Moses — but now it has become the song of the Lamb, for Christ is the ultimate Moses, leading God's people through the final death into the eternal promised land.
+
+**The Log in Bitter Waters and the Cross**: The log thrown into bitter waters to make them sweet is one of the most powerful types of the cross. The cross represents humanity's greatest bitterness — the death of God's Son — yet it is precisely this "tree" (Gal. 3:13, "hung on a tree") thrown into the abyss of human suffering and sin that makes everything sweet and causes life to flow from death. Paul says, "Christ redeemed us from the curse of the law by becoming a curse for us." (Gal. 3:13)
+
+**Elim's Oasis and Eschatological Rest**: Elim after the bitter waters is a symbol of eschatological rest. After tribulation, God's people have rest — not merely temporary respite in the wilderness, but eternal rest in the new heavens and new earth (Heb. 4:9-11; Rev. 21:1-4). Every Elim is a foretaste of heaven, telling us that though the journey is arduous, the destination is glorious.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 16,
+    publishDate: '2026-05-21',
+    title: '吗哪与鹌鹑', titleEn: 'Manna and Quail',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 16 / Exodus 16',
+    content_zh: `我是摩西，西伯来人的领袖，神的仆人。离开埃及已经四十五天了，以色列全会众从以琳起行，来到汛的旷野——那是一片荒凉、干燥、令人窒息的地方，没有树荫，没有流水，只有灼热的沙砾和无边的寂静。
+
+我清楚地记得那一天，百姓的抱怨像沙漠中的热风一样扑面而来。他们聚在一起，向我和我哥哥亚伦发怨言，说："巴不得我们早死在埃及地，死在肉锅旁边，吃饱饭的时候。你们将我们领出来，到这旷野，是要叫这全会众都饿死啊！"
+
+听到这些话，我心里有说不出的苦涩。我亲眼看见神在埃及行的十灾，我亲历了红海分开、法老军队被淹没，神的大能何等彰显！然而不过四十五天，百姓已经忘却了这一切，他们宁愿要埃及的肉锅，也不要旷野中与神同行的自由。这不是人对食物的渴望，这是人心对神的背离——用肚腹代替信仰，用昨日的记忆替代对明日应许的盼望。
+
+但神的回应令我震惊，也令我深深感恩。祂没有发怒惩罚那些抱怨的人——至少不是立刻。祂对我说："我要将粮食从天上降给你们。百姓可以出去，每天收当天的分，我好试验他们遵不遵我的法度。"神的心肠是何等宽广！祂将百姓的抱怨转变成一个教导的契机，将他们的饥饿转变成一堂关于信靠的功课。
+
+傍晚时分，鹌鹑飞来，落满了营地。百姓吃了肉，心稍微平静。然后清晨，当露水蒸发，旷野地面上出现了一种细小、圆圆的、好像白霜一样的东西。百姓彼此说："这是什么呢？"——因为他们不知道那是什么。我告诉他们："这就是耶和华给你们吃的食物。"
+
+吗哪——这个名字，源自他们的疑问，"这是什么？"神用这个奇妙的食物，每天清晨降下，像父亲一样喂养祂的儿女。祂的规定是精确的：每人每天收一俄梅珥，不多不少；安息日前一天要收双份，因为安息日神不降吗哪。那些贪心多收的，多的变馊腐烂；那些疑虑不收双份准备安息日的，出去却发现什么也没有。
+
+每一天，吗哪的降下都是一个信仰的考验：你相信神明天还会供应吗？你愿意单靠祂的话生活吗？你能在安息日歇手、不为自己的需要忧虑吗？
+
+我承认，有些时候，当我看到百姓再次抱怨，再次违背神的命令出去寻找安息日的吗哪时，我的心里涌起疲倦与软弱。四十年啊——神要我们在旷野漂流四十年！这四十年里，每一个清晨，吗哪从天而降；每一个傍晚，神保守营地。神用这日复一日的供应，教导我们一个最简单也最深刻的功课：人活着，不是单靠食物，乃是靠神口里所出的一切话。
+
+神还吩咐我们保留一俄梅珥吗哪放在约柜旁，留给后代看见。这是一个永远的纪念——神是供应之神，是旷野中的父亲，是天上的粮食的赐予者。在最荒凉的地方，祂不忘记祂的子民。
+
+四十年后，当我们终于踏上迦南地，吗哪停止了。但神的供应没有停止，只是换了形式。旷野的旅程结束，迦南地的丰盛开始。神从未让祂的子民在祂的旨意中受饥渴——这是我一生最深的见证。`,
+    content_en: `I am Moses, servant of the Lord, leader of the Hebrew people. Forty-five days had passed since we left Egypt, and the whole congregation of Israel set out from Elim and came to the wilderness of Sin — a desolate, parched, suffocating place with no shade, no running water, only burning gravel and endless silence.
+
+I remember clearly the day when the people's complaints swept over me like a hot desert wind. They gathered together and grumbled against me and my brother Aaron, saying, "Would that we had died by the hand of the LORD in the land of Egypt, when we sat by the meat pots and ate bread to the full, for you have brought us out into this wilderness to kill this whole assembly with hunger."
+
+Hearing these words, I felt an indescribable bitterness in my heart. I had witnessed with my own eyes the ten plagues God sent upon Egypt; I had experienced the parting of the Red Sea and the drowning of Pharaoh's army — how mightily God had shown His power! Yet in just forty-five days, the people had forgotten all of this. They preferred Egypt's meat pots to the freedom of walking with God in the wilderness. This was not merely a longing for food; it was the human heart turning away from God — replacing faith with appetite, replacing hope in tomorrow's promise with yesterday's memories.
+
+But God's response astonished me and moved me to deep gratitude. He did not immediately punish those who grumbled. He said to me, "Behold, I am about to rain bread from heaven for you, and the people shall go out and gather a day's portion every day, that I may test them, whether they will walk in my law or not." How vast is the heart of God! He transformed the people's complaints into a teaching opportunity, their hunger into a lesson in trust.
+
+In the evening, quail came up and covered the camp. The people ate meat and calmed somewhat. Then in the morning, when the dew evaporated, there appeared on the surface of the wilderness a fine, flake-like thing, fine as frost on the ground. The people said to one another, "What is it?" — for they did not know what it was. I told them, "It is the bread that the LORD has given you to eat."
+
+Manna — the name itself comes from their question, "What is it?" God used this wondrous food, descending each morning, to feed His children like a father. His instructions were precise: gather an omer per person each day, no more, no less; on the day before the Sabbath, gather a double portion, for God would send no manna on the Sabbath. Those who greedily gathered more found it rotted and bred worms; those who doubted and did not gather double before the Sabbath went out and found nothing.
+
+Each day, the falling of manna was a test of faith: Do you believe God will provide again tomorrow? Are you willing to live by His word alone? Can you rest on the Sabbath without anxiety about your needs?
+
+I confess that sometimes, when I watched the people complain again, violating God's commands by going out on the Sabbath to search for manna, weariness and weakness welled up in my heart. Forty years — God told us to wander in the wilderness for forty years! Through those forty years, every morning manna fell from heaven; every evening God watched over the camp. Through this day-by-day provision, God taught us the simplest yet most profound lesson: man does not live by bread alone, but by every word that comes from the mouth of God.
+
+God also commanded us to keep an omer of manna beside the ark of the covenant, so future generations could see it. This was an eternal memorial — God is the God who provides, the Father in the wilderness, the giver of heavenly bread. In the most desolate places, He does not forget His people.
+
+Forty years later, when we finally entered Canaan, the manna ceased. But God's provision did not cease — it only changed form. The wilderness journey ended, and the abundance of Canaan began. God never allows His people to hunger or thirst within His will. This is the deepest testimony of my life.`,
+    historyContext_zh: `出埃及记第16章发生在以色列人出埃及后第45天（参16:1，"第二月十五日"）。从拉美西斯出发，经红海，到汛的旷野，行程约300公里。汛旷野位于西奈半岛西部，介于以琳和西奈山之间，是一片极度干旱的石灰岩高原。
+
+公元前13世纪的旷野，几乎没有可供两百万人口（约六十万成年男丁及其家属）维持生计的食物来源。考古和历史学家对出埃及的具体路线仍有争议，但旷野供应的神迹性质在文本中是明确的。
+
+"吗哪"一词在阿拉伯语和闪米特语中与"塔玛里斯克树上的蚜虫分泌物"相关，有学者认为这是自然现象的类比，但圣经文本强调其规律性、安息日前的双倍降下以及在约柜旁的保存，均超越自然解释，指向神迹性质。
+
+一俄梅珥（约2.2升）是当时旷野中一个成年人一天的食物基本需求量，显示神的供应是精确且足够的，既不奢侈也不匮乏。`,
+    historyContext_en: `Exodus 16 takes place on the 45th day after Israel left Egypt (see 16:1, "the fifteenth day of the second month"). From Rameses through the Red Sea to the wilderness of Sin, the journey covered approximately 300 kilometers. The wilderness of Sin lies in the western Sinai Peninsula, between Elim and Mount Sinai — an extremely arid limestone plateau.
+
+In the 13th century BC, this wilderness offered virtually no food sources sufficient to sustain a population of two million (approximately 600,000 adult men with their families). Archaeologists and historians continue to debate the exact route of the Exodus, but the miraculous nature of the wilderness provision is clear in the text.
+
+The word "manna" is related in Arabic and Semitic languages to secretions from aphids on tamarisk trees. Some scholars see this as a natural analogy, but the biblical text emphasizes its regularity, the double portion before the Sabbath, and its preservation beside the ark — all of which transcend natural explanation and point to its miraculous nature.
+
+One omer (approximately 2.2 liters) represents the basic daily food requirement for one adult in the ancient wilderness context, indicating that God's provision was precise and sufficient — neither extravagant nor lacking.`,
+    structure_zh: `第16章结构清晰，分为四个单元：
+1. 百姓的抱怨（1-3节）：会众向摩西、亚伦发怨言，怀念埃及的食物。
+2. 神的应许与鹌鹑（4-13节）：神宣告将降粮食，傍晚鹌鹑飞来。
+3. 吗哪的降下与律例（14-30节）：吗哪出现、规定每日分量、安息日双倍收取的命令，以及百姓违背的记录。
+4. 永远的纪念（31-36节）：吗哪的名称确定，保留一俄梅珥为纪念，四十年供应直到进入迦南。
+
+本章以"抱怨→神的供应→律法的试验→纪念"为叙事弧线，将旷野供应与遵守律法的主题紧密联系，为后来的律法颁布（第20章）作铺垫。`,
+    structure_en: `Chapter 16 has a clear structure in four units:
+1. The People's Complaint (vv. 1-3): The congregation grumbles against Moses and Aaron, longing for food in Egypt.
+2. God's Promise and the Quail (vv. 4-13): God announces the provision of bread; quail arrive in the evening.
+3. The Manna — Its Descent and Regulations (vv. 14-30): The appearance of manna, the daily ration rule, the command to gather double before the Sabbath, and the record of the people's disobedience.
+4. Eternal Memorial (vv. 31-36): The name of manna established, an omer preserved as a memorial, forty years of provision until the entry into Canaan.
+
+The chapter's narrative arc — complaint → divine provision → legal testing → memorial — tightly links wilderness provision with Torah observance, preparing the ground for the later giving of the law (ch. 20).`,
+    theology_zh: `本章蕴含丰富的改革宗神学主题：
+
+**神的主权供应**：神不因百姓的抱怨而撤回恩典，反而主动赐下食物。这彰显了神的单方面恩典（Unilateral Grace）——祂的供应不取决于人的配得，而取决于祂自己的慈爱和拣选。
+
+**安息日神学**：神通过吗哪的双倍降下与安息日停止，将安息日制度具体化为日常信仰实践。安息日是信仰的宣告：我相信神会在我歇手时供应我。改革宗神学强调，安息日不是律法的重担，而是信靠之人的自由与喜乐。
+
+**试验与成圣**：神说"我好试验他们遵不遵我的法度"（4节），显示旷野不仅是地理旅程，更是灵魂成圣的学校。苦难与有限的供应，是神雕刻祂子民信心的工具。
+
+**神的够用**：每人每天一俄梅珥，不多不少——这是神"够用恩典"（Sufficient Grace）的图像。哥林多后书12:9："我的恩典够你用的。"`,
+    theology_en: `This chapter contains rich Reformed theological themes:
+
+**God's Sovereign Provision**: God does not withdraw grace because of the people's grumbling; instead, He proactively gives food. This manifests His unilateral grace — His provision depends not on human worthiness but on His own lovingkindness and election.
+
+**Sabbath Theology**: Through the double portion before the Sabbath and its cessation on the Sabbath day itself, God makes Sabbath observance a concrete daily faith practice. The Sabbath is a declaration of faith: I trust that God will provide while I rest. Reformed theology emphasizes that the Sabbath is not a burden of law but freedom and joy for those who trust.
+
+**Testing and Sanctification**: God says, "that I may test them, whether they will walk in my law or not" (v. 4), revealing that the wilderness is not merely a geographical journey but a school of sanctification for the soul. Hardship and limited provision are tools by which God sculpts the faith of His people.
+
+**God's Sufficiency**: One omer per person per day — no more, no less — is an image of God's sufficient grace. As 2 Corinthians 12:9 declares: "My grace is sufficient for you."`,
+    christShadow_zh: `出埃及记16章是新约中最明确的预表之一。约翰福音第6章，耶稣在五饼二鱼的神迹后，明确宣告：
+
+"我就是生命的粮。到我这里来的，必定不饿；信我的，永远不渴。"（约6:35）
+"我是从天上降下来的粮……人若吃这粮，就必永远活着。我所要赐的粮，就是我的肉，为世人之生命所赐的。"（约6:51）
+
+吗哪是天上降下的食物，基督是真正从天而来的粮食（约6:32-33）。
+吗哪每天必须新鲜领受，基督是我们每日灵魂的滋养。
+吗哪只能维持肉身的生命，吃了还会死；基督赐的生命是永恒的。
+吗哪保存在约柜旁（16:33），预表基督是神与人之间立约的中保，是约柜所指向的那位。
+
+保罗在哥林多前书10:3也说，旷野的以色列人"都吃了一样的灵食"，指向基督作为真实属灵食物的预表。
+
+吗哪从天而降、白色纯洁、甘甜如蜜——这是基督降世、纯全圣洁、赐人甘甜救恩的美丽预表。旷野中的百姓每天清晨俯身拾取吗哪，正如每个蒙恩的罪人，每天必须俯伏在基督面前，领受祂的恩典。`,
+    christShadow_en: `Exodus 16 is one of the most explicit types in the New Testament. In John 6, after the miracle of the five loaves and two fish, Jesus explicitly declared:
+
+"I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst." (John 6:35)
+"I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. And the bread that I will give for the life of the world is my flesh." (John 6:51)
+
+Manna was food that descended from heaven; Christ is the true bread that came down from heaven (John 6:32-33).
+Manna had to be freshly gathered each day; Christ is the daily nourishment of our souls.
+Manna could only sustain physical life — those who ate it still died; Christ gives life that is eternal.
+Manna was preserved beside the ark (16:33), foreshadowing Christ as the mediator of the covenant between God and man — the one to whom the ark pointed.
+
+Paul also writes in 1 Corinthians 10:3 that the Israelites in the wilderness "all ate the same spiritual food," pointing to Christ as the true spiritual food they typified.
+
+Manna descended from heaven, white and pure, sweet as honey — a beautiful type of Christ's incarnation: perfectly holy, bringing the sweet salvation of grace. The wilderness people bent down each morning to gather manna, just as every sinner saved by grace must bow daily before Christ to receive His grace.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 17,
+    publishDate: '2026-05-22',
+    title: '磐石出水与亚玛力人争战', titleEn: 'Water from the Rock and Battle with Amalek',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 17 / Exodus 17',
+    content_zh: `我是摩西。旷野的日子是漫长的，每一天都有新的考验，每一站都有新的危机。从汛旷野起行，以色列会众来到利非订安营。在这里，两件事接连发生，将我的心几乎压垮，又将我的眼睛向神打开，看见我以前从未见过的祂的荣耀。
+
+先是缺水。百姓没有水喝，他们与我争闹，说："给我们水喝吧！"起初我还能平和地说："你们为何与我争闹？为何试探耶和华呢？"但他们的怒气越来越盛，"你为何将我们从埃及领出来，要我们和我们的儿女并牲畜都渴死呢？"我知道他们不只是在抱怨缺水，他们在质问神——神在哪里？神还管我们吗？神能信任吗？
+
+我的心里也有软弱。我向耶和华呼求说："我当怎样待这百姓呢？他们几乎要拿石头打死我了。"神在我最绝望的时刻回应了我。祂说："你手里拿着你先前击打河水的杖，去吧。我必在何烈的磐石那里，站在你面前。你要击打磐石，从磐石里必有水流出来，使百姓可以喝。"
+
+我按神的吩咐行了。我举杖击打磐石，水涌流而出——清凉的、甘甜的水，从坚硬的石头里流出来。这不是我的能力，这不是杖的能力，这是神话语的能力，是神主权的彰显。祂站在磐石上，祂就是那磐石！祂用祂自己的身体承受了击打，好叫祂的子民得到生命的水。
+
+然而我心中满是哀伤，因为我给那地方起了两个名字：玛撒（试探）和米利巴（争闹）。以色列人在这里试探神，说："耶和华在我们中间不在呢？"我每次想起这句话，心里就有说不出的痛——他们看见了十灾，看见了红海分开，神的荣耀与能力何等彰显，他们怎能说出这句话？但我又何尝没有软弱？我不也曾在西奈山前问过神："我是谁，竟能去见法老呢？"人的信心，总是有限的。
+
+就在这时，第二件事发生了——亚玛力人来攻打以色列。亚玛力是以扫的后裔，是旷野中凶悍的游牧民族，擅长沙漠战斗。他们趁以色列人疲惫、落在队伍后面的人展开攻击（申25:18），是懦弱而残忍的。
+
+我叫约书亚拣选勇士出去迎战，我自己则拿着神的杖，登上山顶，向神祷告。战场的规律是奇特的：每当我举手，以色列人得胜；每当我放下手，亚玛力人得胜。手举起，是信仰的姿态；手放下，是软弱与疲乏的表现。
+
+渐渐地，我的手沉重了。亚伦和户珥搬了一块石头让我坐下，一个托住这只手，一个托住那只手。直到日落，我的手都没有放下来。约书亚用刀杀败了亚玛力人。
+
+我经常回想那一幕——两个人扶着我疲惫的双手，让神的工作得以持续。这不是软弱的时刻，这是共同体的时刻。教会不是独行的个人，乃是彼此扶持的肢体。没有亚伦和户珥，以色列就会战败；没有约书亚的勇士，祷告也无从落实。
+
+战争结束后，神对我说要记录这件事，作为永远的纪念。我建了一座坛，起名叫"耶和华尼西"——"耶和华是我的旌旗"。旌旗是王权的象征，是军队的归属，是战争的指挥。以色列的旌旗不是军事实力，不是人数众多，而是耶和华自己！祂的名字是我们的旗帜，祂的荣耀是我们的力量。
+
+神还宣告对亚玛力的永恒审判："我要将亚玛力的名号从天下全然涂抹。"这是神公义的宣告——那些攻击祂子民的，必要受到审判。神不是旁观者，祂是我们的旌旗，也是我们的复仇者。`,
+    content_en: `I am Moses. The wilderness days were long, each day bringing new trials, each campsite a new crisis. Setting out from the wilderness of Sin, the congregation of Israel came to Rephidim and camped there. In this place two things happened in succession that nearly crushed my heart and then opened my eyes to a glory in God I had never seen before.
+
+First came the lack of water. The people had no water to drink, and they quarreled with me, saying, "Give us water to drink." At first I managed to respond calmly: "Why do you quarrel with me? Why do you test the LORD?" But their anger grew more intense: "Why did you bring us up out of Egypt, to kill us and our children and our livestock with thirst?" I knew they were not merely complaining about water — they were questioning God. Where is God? Does God still care for us? Can God be trusted?
+
+Weakness stirred in my own heart too. I cried to the LORD, "What shall I do with this people? They are almost ready to stone me." God answered me in my most desperate moment. He said, "Pass on before the people, taking with you some of the elders of Israel, and take in your hand the staff with which you struck the Nile, and go. Behold, I will stand before you there on the rock at Horeb, and you shall strike the rock, and water shall come out of it, and the people will drink."
+
+I did as God commanded. I raised my staff and struck the rock, and water gushed out — cool, sweet water flowing from a hard stone. This was not my power, not the staff's power; this was the power of God's word, the demonstration of His sovereignty. He stood on the rock; He was the rock! He bore the striking in His own person so that His people might receive the water of life.
+
+Yet grief filled my heart, for I named that place two names: Massah (testing) and Meribah (quarreling). Israel had tested God there, saying, "Is the LORD among us or not?" Every time I recalled those words, an unspeakable pain rose within me — they had witnessed the ten plagues, seen the Red Sea divide, seen such a display of God's glory and power — how could they say such a thing? But who was I to judge? Had I not once asked God before the burning bush, "Who am I that I should go to Pharaoh?" Human faith is always limited.
+
+Then the second thing happened — the Amalekites came and fought against Israel. Amalek was a descendant of Esau, a fierce nomadic people of the desert, skilled in wilderness warfare. They attacked from the rear, striking those who were weary and lagging behind the column (Deut. 25:18) — a cowardly and cruel assault.
+
+I told Joshua to choose warriors and go out to fight, while I took the staff of God and went up to the top of the hill to pray. The pattern of battle was extraordinary: whenever I lifted my hands, Israel prevailed; whenever I lowered them, Amalek prevailed. Hands raised high — the posture of faith; hands falling — the expression of weakness and fatigue.
+
+Gradually my hands grew heavy. Aaron and Hur brought a stone for me to sit on, and one held up one hand, the other held up the other hand, steady until the going down of the sun. Joshua overwhelmed Amalek and his people with the sword.
+
+I have often reflected on that scene — two men supporting my weary arms so that God's work could continue. That was not a moment of weakness; it was a moment of community. The church is not a collection of solitary individuals but members who bear one another's burdens. Without Aaron and Hur, Israel would have been defeated; without Joshua's warriors, prayer would have had no outworking.
+
+After the battle, God told me to write this as a memorial in a book. I built an altar and called it "The LORD is my Banner" — Jehovah Nissi. A banner is the symbol of a king's authority, the identity of an army, the command of a campaign. Israel's banner was not military strength or numerical superiority — it was the LORD Himself! His name is our flag; His glory is our strength.
+
+God also declared eternal judgment on Amalek: "I will utterly blot out the memory of Amalek from under heaven." This is the declaration of God's justice — those who attack His people will face His judgment. God is not a spectator; He is our banner, and He is our avenger.`,
+    historyContext_zh: `利非订的地理位置有争议，多数学者将其置于西奈半岛中部的瓦迪·费兰（Wadi Feiran）地区，这里有古代水源，但干旱季节常常枯竭。
+
+亚玛力人是古代近东的游牧民族，活跃于内盖夫沙漠和西奈半岛一带。他们在整个旧约历史中都是以色列的敌人（参：撒母耳记上第15章，扫罗与亚甲的故事）。申命记25:17-18详细记载他们攻击以色列落队者的方式，被称为历史上最懦弱的攻击之一。
+
+约书亚在此处第一次登上历史舞台，他后来成为摩西的接班人，率领以色列人进入迦南。他在这里展现的勇猛和对领袖权威的服从，预示了他后来的领导角色。
+
+"耶和华尼西"（Jehovah Nissi）是神名称的一个组合，旌旗象征在古代近东战争中极为重要——军队在旷野中必须随时看见旌旗以确认方向和归属。`,
+    historyContext_en: `The geographical location of Rephidim is debated; most scholars place it in the Wadi Feiran region of central Sinai, where ancient water sources existed but could dry up in the dry season.
+
+The Amalekites were a nomadic people of the ancient Near East, active in the Negev desert and Sinai Peninsula. They are persistent enemies of Israel throughout the Old Testament (see 1 Samuel 15, the account of Saul and Agag). Deuteronomy 25:17-18 records in detail their method of attacking Israel's stragglers — considered one of the most cowardly attacks in ancient warfare.
+
+Joshua appears here for the first time in the narrative. He later becomes Moses' successor and leads Israel into Canaan. The courage and submission to leadership authority he demonstrates here foreshadows his later role.
+
+"Jehovah Nissi" (the LORD is my Banner) is a compound divine name. The banner symbol was of immense importance in ancient Near Eastern warfare — armies in the wilderness had to always be able to see the banner to confirm direction and allegiance.`,
+    structure_zh: `第17章由两个平行的救恩叙事构成：
+
+**单元一：磐石出水（1-7节）**
+- 以色列在利非订扎营，缺水（1节）
+- 百姓向摩西争闹，质问神（2-3节）
+- 神的命令：击打何烈的磐石（4-6节）
+- 命名：玛撒与米利巴（7节）
+
+**单元二：亚玛力的争战（8-16节）**
+- 亚玛力人来攻（8节）
+- 约书亚出战，摩西山上举手祷告（9-12节）
+- 得胜与纪念（13-15节）
+- 神宣告对亚玛力的永恒审判（16节）
+
+两个单元的主题结构相同：危机→神的介入→神的荣耀彰显→纪念。磐石出水强调神的供应，亚玛力争战强调神是战士与旌旗。两者共同宣告：以色列的生存完全依赖神，不依赖自己的资源或军事实力。`,
+    structure_en: `Chapter 17 consists of two parallel salvation narratives:
+
+**Unit One: Water from the Rock (vv. 1-7)**
+- Israel camps at Rephidim; no water (v. 1)
+- The people quarrel with Moses and question God (vv. 2-3)
+- God's command: strike the rock at Horeb (vv. 4-6)
+- Naming: Massah and Meribah (v. 7)
+
+**Unit Two: The Battle with Amalek (vv. 8-16)**
+- Amalek comes and attacks (v. 8)
+- Joshua goes out to fight; Moses prays with raised hands on the hill (vv. 9-12)
+- Victory and memorial (vv. 13-15)
+- God declares eternal judgment against Amalek (v. 16)
+
+Both units share the same thematic structure: crisis → divine intervention → manifestation of God's glory → memorial. Water from the rock emphasizes God's provision; the battle with Amalek emphasizes God as warrior and banner. Together they declare: Israel's survival depends entirely on God, not on its own resources or military strength.`,
+    theology_zh: `**神是磐石（神的不变性）**：磐石在旧约中是神的重要意象（申32:4，"祂是磐石"；诗18:2，"耶和华是我的磐石"）。神站在磐石上（17:6），表明祂与磐石认同——祂是那坚定不移、永不改变的根基。
+
+**代祷神学**：摩西举手祷告是代祷的范式。一个人在山上为众人祷告，争战的结果取决于祷告的持续。改革宗神学强调，神使用祷告作为祂成就旨意的次级手段——祷告是真实且有效的，不是因为它改变了神的心意，而是因为神命定祷告作为祂供应的途径。
+
+**神圣战士（Divine Warrior）**：神宣告要亲自为以色列争战，祂是"耶和华万军之神"（LORD of Hosts）。以色列的胜利不是军事的，而是神学的——旌旗决定战争，而旌旗是神自己的名字。
+
+**肉身的软弱与团契的力量**：摩西的手变重，显示即使最伟大的领袖也有软弱。亚伦和户珥的扶持，彰显了教会团契（koinonia）的意义——我们彼此承担，才能走完信仰的路程。`,
+    theology_en: `**God as Rock (Divine Immutability)**: The rock is a major image for God in the Old Testament (Deut. 32:4, "He is the Rock"; Ps. 18:2, "The LORD is my rock"). God standing on the rock (17:6) indicates His identification with it — He is the immovable, unchanging foundation.
+
+**Theology of Intercession**: Moses' raised hands in prayer is the paradigm of intercession. One man praying on the hill for the community; the outcome of battle depends on the continuity of prayer. Reformed theology emphasizes that God uses prayer as a secondary means by which He accomplishes His purposes — prayer is real and effective not because it changes God's mind, but because God ordains prayer as the channel of His provision.
+
+**Divine Warrior**: God declares He will fight for Israel personally; He is the LORD of Hosts. Israel's victory is not military but theological — the banner determines the battle, and the banner is God's own name.
+
+**Bodily Weakness and the Power of Fellowship**: Moses' hands growing heavy shows that even the greatest leaders have weakness. Aaron and Hur's support manifests the meaning of church fellowship (koinonia) — we bear one another's burdens so that the journey of faith can be completed.`,
+    christShadow_zh: `磐石出水是新约中最直接被引用的预表之一。保罗在哥林多前书10:4明确说："都喝了一样的灵水，所喝的是出于随着他们的灵磐石，那磐石就是基督。"
+
+被击打的磐石预表了被钉十字架的基督：
+- 磐石被摩西的杖击打，基督被神公义的审判击打（赛53:4，"他为我们的过犯受害"）
+- 磐石被击打后流出水来，基督受刺后"有血和水流出来"（约19:34）
+- 磐石的水供给了整个会众，基督的救恩赐给全教会
+
+重要的是，神说祂"站在磐石上"（17:6）——神站在受击打之处。这是十字架的预表：父神没有远离受苦的基督，祂与子同在于审判中，成就了救赎。
+
+亚玛力争战中摩西举起的双手，也被许多教父和改革宗学者视为十字架的预表——摩西伸展两臂，如同基督在十字架上伸展双手，成为以色列（教会）得胜的根基。
+
+"耶和华是我的旌旗"——十字架是基督教的旌旗，是教会在世界中战争与得胜的记号。`,
+    christShadow_en: `The water from the rock is one of the most directly cited types in the New Testament. Paul explicitly states in 1 Corinthians 10:4, "all drank the same spiritual drink. For they drank from the spiritual Rock that followed them, and the Rock was Christ."
+
+The struck rock foreshadows the crucified Christ:
+- The rock was struck by Moses' staff; Christ was struck by the judgment of God's justice (Isa. 53:4, "he was stricken for our transgressions")
+- After the rock was struck, water flowed out; after Christ was pierced, "blood and water flowed out" (John 19:34)
+- The water from the rock supplied the whole congregation; Christ's salvation is given to the whole church
+
+Significantly, God said He would stand on the rock (17:6) — God stood at the place of striking. This is a type of the cross: the Father was not absent from the suffering Christ; He was with the Son in the judgment, accomplishing redemption.
+
+Moses' outstretched arms in the battle with Amalek are also seen by many church fathers and Reformed scholars as a type of the cross — Moses stretching out both arms, like Christ on the cross stretching out His hands, becoming the foundation for Israel's (the church's) victory.
+
+"The LORD is my Banner" — the cross is the banner of Christianity, the sign of the church's battle and victory in the world.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 18,
+    publishDate: '2026-05-25',
+    title: '叶忒罗来访', titleEn: 'Jethro s Visit',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 18 / Exodus 18',
+    content_zh: `我是摩西。在旷野的那些年月里，我从未停止思念两个人——我的妻子西坡拉，和她的父亲叶忒罗。
+
+离开埃及的时候，我将西坡拉和两个儿子送回了她父亲那里。这是一个艰难的决定。带着妻儿走过那场大审判——十灾、过红海、旷野的艰辛——对一个父亲来说太沉重了。叶忒罗是米甸的祭司，是一个智慧的人，是个有神所赐洞察力的人，虽然他不是以色列人，但神的光也照耀在他身上。
+
+当消息传到他那里，说神为摩西和以色列行了何等的大事，叶忒罗将西坡拉和两个儿子带来，到旷野的摩西那里，就是他安营之处。他打发人先去告诉摩西，摩西就出去迎接他。那一刻，我在旷野中跑向岳父的情形，至今记忆犹新——我向他下拜，与他亲嘴，彼此问安。然后摩西把神为以色列所行的一切事，就是为攻击他们、怎样劳苦之事，以及耶和华怎样拯救他们，都对岳父述说了。
+
+叶忒罗听了这一切话，就因耶和华赐给以色列的一切福惠，以及祂拯救以色列脱离埃及人手说，甚是欢喜。叶忒罗说："耶和华是公义的，因为祂救了你们脱离埃及人和法老的手，拯救这百姓脱离埃及人的欺压。现在我知道耶和华比万神都大。"他说这话时，眼中有泪光——一个外邦长老，在听见神的作为后，发自内心地承认这位神的伟大。
+
+叶忒罗取燔祭和平安祭献给神。亚伦和以色列的众长老来了，与摩西的岳父在神面前吃饭。那是一场美好的筵席——敬拜、感恩、团契，在旷野中短暂而珍贵。
+
+然而，就在这样美好的相聚中，叶忒罗观察到了一个让我痛苦已久却习以为常的问题。第二天，摩西坐着审判百姓，百姓从早到晚都站在摩西的左右。岳父见摩西向百姓所做的一切事，就说："你向百姓做的是什么事呢？你为何独自坐着，众百姓从早到晚都站在你的左右呢？"
+
+我回答说，百姓来寻问神，有争论的事就来就近我，我判断在两造之间，并使他们知道神的律例和法度。
+
+叶忒罗摇了摇头，他说："你这样做是不好的。你和这些百姓都必疲惫，因为这事太重，你独自一人办理不了。现在你要听我的话，我为你出个主意，愿神与你同在。"
+
+他的建议，从今天的管理学角度看，是极其精明的：拣选有才能的人、敬畏神的人、诚实的人、恨不义之财的人，设立为千夫长、百夫长、五十夫长、十夫长，让他们随时审判百姓；大事才归摩西，小事他们自己审判。
+
+我仔细听着，心里有一种说不出的感动——这个建议，来自一个外邦人，来自我的岳父，但这建议背后有神的智慧。神有时用出人意料的渠道说话。谦卑接受别人的建议，不是软弱，而是智慧。我一直以为我必须为百姓承担一切，我以为这是对神旨意的尽忠。但实际上，我是在用自己的疲惫和能力局限来绑架神的工作。
+
+我听从了岳父的话，照他所说的去行，从以色列人中拣选有才能的人，立他们为百姓的首领，作千夫长、百夫长、五十夫长、十夫长。他们随时审判百姓，有难断的案件才带到摩西这里，小事他们自己审判。
+
+这一天，我学到了一生中最重要的领导力功课之一：真正的领袖，是培养更多领袖的人。独揽权力是骄傲，分权是信任神，信任人，也信任神在人身上的工作。
+
+叶忒罗之后辞别了我，返回本地。他来了，留下了智慧；他走了，留下了制度。这个外邦人，在短短的拜访中，帮助以色列建立了最初的治理框架，这框架将支撑整个旷野旅程，甚至影响后来的以色列国家结构。神使用各式各样的人完成祂的旨意——不论是以色列人还是外邦人，不论是先知还是岳父。`,
+    content_en: `I am Moses. Throughout those wilderness years, I never stopped thinking of two people — my wife Zipporah and her father Jethro.
+
+When we left Egypt, I had sent Zipporah and my two sons back to her father. It was a painful decision. To bring a wife and children through that great judgment — the ten plagues, the crossing of the Red Sea, the hardships of the wilderness — was too great a burden for a family. Jethro was the priest of Midian, a man of wisdom, a man with insight given by God. Though he was not an Israelite, God's light shone upon him as well.
+
+When word reached Jethro of all that God had done for Moses and Israel, he took Zipporah and the two sons and came to Moses in the wilderness, to the place where he was encamped. He sent word ahead to Moses, and Moses went out to meet him. I still vividly remember running toward my father-in-law through the wilderness — bowing down to him, kissing him, exchanging greetings. Then Moses told his father-in-law all that the LORD had done to Pharaoh and to the Egyptians for Israel's sake, all the hardship that had come upon them in the way, and how the LORD had delivered them.
+
+Jethro rejoiced for all the good that the LORD had done to Israel in delivering them out of the hand of the Egyptians. And Jethro said, "Blessed be the LORD, who has delivered you out of the hand of the Egyptians and out of the hand of Pharaoh and has delivered the people from under the hand of the Egyptians. Now I know that the LORD is greater than all gods." As he spoke these words, there was a glint of tears in his eyes — an elder of the nations, having heard of God's works, acknowledging from the depths of his heart the greatness of this God.
+
+Jethro brought a burnt offering and sacrifices to God, and Aaron came with all the elders of Israel to eat bread with Moses' father-in-law before God. It was a beautiful feast — worship, thanksgiving, fellowship — brief and precious in the wilderness.
+
+Yet in the midst of this joyful reunion, Jethro observed a problem I had long suffered under but had grown accustomed to. The next day Moses sat to judge the people, and the people stood around Moses from morning till evening. When his father-in-law saw all that Moses was doing for the people, he said, "What is this that you are doing for the people? Why do you sit alone, and all the people stand around you from morning till evening?"
+
+I explained that the people came to me to inquire of God, and when they had a dispute, they came to me and I decided between them and made them know the statutes of God and His laws.
+
+Jethro shook his head and said, "What you are doing is not good. You and the people with you will certainly wear yourselves out, for the thing is too heavy for you. You are not able to do it alone. Now obey my voice; I will give you advice, and God be with you!"
+
+His advice, viewed from today's perspective on leadership, was remarkably astute: choose able men from all the people — men who fear God, who are trustworthy, who hate a bribe — and appoint them as chiefs of thousands, hundreds, fifties, and tens. Let them judge the people at all times; every great matter they shall bring to Moses, but every small matter they shall decide themselves.
+
+I listened carefully, and something stirred within me that I could not quite name — this counsel came from a Gentile, from my father-in-law, yet behind it lay the wisdom of God. God sometimes speaks through unexpected channels. Humbly receiving another's counsel is not weakness; it is wisdom. I had always thought I must bear everything for the people — I thought this was faithfulness to God's will. But in reality, I was binding God's work to my own exhaustion and limitations.
+
+I listened to the voice of my father-in-law and did all that he had said. I chose able men out of all Israel and made them heads over the people — chiefs of thousands, of hundreds, of fifties, and of tens. They judged the people at all times; the hard cases they brought to Moses, but any small matter they decided themselves.
+
+That day I learned one of the most important lessons of leadership in my life: a true leader is one who raises up more leaders. Concentrating all power is pride; distributing it is trusting God, trusting people, and trusting God's work within people.
+
+After this, Jethro bade me farewell and returned to his own country. He came and left wisdom; he left and left behind a structure. This Gentile, in the course of a brief visit, helped Israel establish its first framework of governance — a framework that would sustain the entire wilderness journey and even influence the later structure of the Israelite nation. God uses all kinds of people to accomplish His purposes — whether Israelite or Gentile, prophet or father-in-law.`,
+    historyContext_zh: `叶忒罗是米甸的祭司（出2:16），也是摩西的岳父。米甸人是亚伯拉罕与基土拉所生后裔（创25:2），居住在西奈半岛东部和亚拉伯半岛西北部。
+
+叶忒罗的宗教身份颇为复杂。他是"米甸的祭司"——服侍哪位神不明确。他宣告"耶和华比万神都大"（18:11），一些学者认为这是多神论的框架内对耶和华的承认，另一些学者认为这标志着他真实信仰的转变。改革宗传统倾向于后者，视叶忒罗为神拣选的外邦人，展现了神救恩的宇宙性范围。
+
+叶忒罗建议的治理结构（千夫长、百夫长、五十夫长、十夫长）与古代近东多种文化的军事和行政组织结构相似，显示叶忒罗将普遍性的人类智慧（普通恩典）与对以色列神的信仰结合起来。
+
+关于叶忒罗来访的时间，学者有争议——本章似乎在西奈山之前，但民数记10:29-32提到约基罗（叶忒罗）在西奈山之后，可能是第二次相遇，或是叶忒罗短暂留下又回来。`,
+    historyContext_en: `Jethro was the priest of Midian (Exod. 2:16) and Moses' father-in-law. The Midianites were descendants of Abraham through Keturah (Gen. 25:2), dwelling in the eastern Sinai Peninsula and northwestern Arabian Peninsula.
+
+Jethro's religious identity is complex. He is called "the priest of Midian" — which deity he served is unclear. He declares "the LORD is greater than all gods" (18:11); some scholars see this as an acknowledgment of Yahweh within a polytheistic framework, while others view it as a genuine conversion. The Reformed tradition tends toward the latter, seeing Jethro as a Gentile chosen by God, demonstrating the universal scope of divine salvation.
+
+The governance structure Jethro recommends (chiefs of thousands, hundreds, fifties, tens) parallels military and administrative organizational structures in several ancient Near Eastern cultures, suggesting Jethro integrated universal human wisdom (common grace) with faith in Israel's God.
+
+The timing of Jethro's visit is debated among scholars. The chapter appears to place it before Sinai, but Numbers 10:29-32 mentions Hobab (Jethro's son or alternate name) after Sinai — possibly a second encounter, or Jethro may have briefly remained and returned.`,
+    structure_zh: `第18章在出埃及记叙事中处于独特的"间奏"位置——夹在旷野的争战神迹（第17章）和西奈山的律法颁布（第19-20章）之间，提供了一个人性化的、家庭性的场景，也构建了以色列的社会秩序框架。
+
+**结构划分：**
+1. 叶忒罗带家人来访（1-12节）：叶忒罗听见神作为、带来西坡拉和儿子、摩西迎接、叶忒罗的信仰表白、献祭与团契
+2. 叶忒罗的观察与建议（13-23节）：摩西独自审判百姓、岳父的提醒和建议
+3. 改革的实施（24-26节）：摩西照行、设立各级审判官
+4. 叶忒罗辞别（27节）
+
+本章的神学功能：在律法颁布之前，先建立执行律法的社会架构，显示神在安排救恩的同时也安排社会秩序，两者同等重要。`,
+    structure_en: `Chapter 18 occupies a unique "interlude" position in the Exodus narrative — sandwiched between the wilderness miracles of battle (ch. 17) and the giving of the law at Sinai (chs. 19-20). It provides a humanizing, domestic scene while also constructing the social order framework for Israel.
+
+**Structural divisions:**
+1. Jethro's visit with the family (vv. 1-12): Jethro hears of God's work, brings Zipporah and the sons, Moses' welcome, Jethro's confession of faith, sacrifice and fellowship
+2. Jethro's observation and counsel (vv. 13-23): Moses judging alone, the father-in-law's observation and advice
+3. Implementation of the reform (vv. 24-26): Moses acts accordingly, appointing judges at every level
+4. Jethro's departure (v. 27)
+
+The theological function of this chapter: before the giving of the law, it first establishes the social framework for administering the law, showing that God, in arranging salvation, also arranges social order — the two are equally important.`,
+    theology_zh: `**普通恩典（Common Grace）**：叶忒罗是一个外邦人，却持有神所赐的实践智慧。改革宗神学中的普通恩典教义（约翰·加尔文及亚伯拉罕·凯波尔）承认，神赐给所有人类实践理性和社会智慧，无论其是否信仰真神。叶忒罗的建议是普通恩典的典范——一个外邦人的世俗智慧，却被神使用来建造以色列的会众。
+
+**领袖谦卑与权力分散**：摩西接受建议，拣选人才分权，是领袖谦卑的典范。改革宗治理论（Presbyterian polity）的长老治理结构，其原型可追溯至叶忒罗的建议——分散权力、集体负责，防止专制，是符合人性软弱现实的治理智慧。
+
+**神的供应的多样性**：在本章之前，神通过云柱、火柱、吗哪、磐石出水等超自然方式供应。在本章，神通过一个岳父的常识性建议来供应。神的工作不总是神迹性的，祂也用寻常的人际关系和生活智慧来建造祂的教会。
+
+**家庭与信仰**：叶忒罗将西坡拉和两个儿子带来，这是家庭团聚与信仰见证的结合。摩西向岳父述说神的大作为，岳父因此认信神的伟大——这是信仰在家庭中的传递和见证。`,
+    theology_en: `**Common Grace**: Jethro is a Gentile, yet he possesses the practical wisdom given by God. The doctrine of common grace in Reformed theology (Calvin, Abraham Kuyper) acknowledges that God grants all humanity practical reason and social wisdom, regardless of whether they believe in the true God. Jethro's advice is a paradigm of common grace — a Gentile's practical wisdom used by God to build Israel's congregation.
+
+**Leadership Humility and the Distribution of Power**: Moses' acceptance of counsel and his selection of leaders to share authority is a model of leadership humility. The Presbyterian polity's elder-governance structure traces its prototype to Jethro's advice — distributing power, collective responsibility, preventing autocracy. This is governance wisdom that corresponds to the reality of human weakness.
+
+**The Diversity of God's Provision**: Before this chapter, God provided through supernatural means — the pillar of cloud, fire, manna, water from rock. In this chapter, God provides through the common-sense advice of a father-in-law. God's work is not always miraculous; He also builds His church through ordinary human relationships and practical wisdom.
+
+**Family and Faith**: Jethro brings Zipporah and the two sons — a combination of family reunion and faith witness. Moses recounts God's great works to his father-in-law; the father-in-law then confesses the greatness of God. This is the transmission and witness of faith within the family.`,
+    christShadow_zh: `出埃及记18章对基督的预表相比其他章节更为间接，但同样深刻：
+
+**唯一中保与众多同工**：摩西起初独自审判百姓，好像唯一的中间人。但他意识到这不可持续，于是建立了众多审判官的体系。基督是神与人之间唯一的中保（提前2:5），但祂设立了教会——众多长老、执事、牧师——来在这个世界管理和牧养祂的子民。教会的治理结构，是基督中保职分的延伸与彰显。
+
+**叶忒罗的认信预表外邦人归信**：叶忒罗宣告"耶和华比万神都大"，预表了在基督里，万国万民都将承认基督为主。"因此，神将祂升为至高，又赐给祂那超乎万名之上的名……使天上的、地上的和地底下的，因耶稣的名，无不屈膝。"（腓2:9-10）叶忒罗是新约中外邦人蒙恩得救的先声。
+
+**家庭团聚与末世团聚**：摩西在旷野与家人重聚，这是末世盼望的小小图像——在基督里，被罪和死亡分散的家庭、民族、教会，将在新天新地里完全重聚，不再分离。`,
+    christShadow_en: `The typology of Christ in Exodus 18 is more indirect than in other chapters, yet equally profound:
+
+**The One Mediator and the Many Co-workers**: Moses initially judged the people alone, as if the sole intermediary. But recognizing this was unsustainable, he established a system of many judges. Christ is the one mediator between God and man (1 Tim. 2:5), but He established the church — with many elders, deacons, and pastors — to govern and shepherd His people in this world. The church's governance structure is the extension and manifestation of Christ's mediatorial office.
+
+**Jethro's Confession Prefigures Gentile Conversion**: Jethro's declaration "the LORD is greater than all gods" foreshadows how in Christ, peoples of every nation will acknowledge Christ as Lord. "Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth." (Phil. 2:9-10) Jethro is the foretaste of the Gentiles receiving saving grace in the New Testament.
+
+**Family Reunion and Eschatological Reunion**: Moses' reunion with his family in the wilderness is a small image of eschatological hope — in Christ, families, peoples, and churches scattered by sin and death will be fully reunited in the new heaven and new earth, never to be separated again.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 19,
+    publishDate: '2026-05-26',
+    title: '西奈山前的预备', titleEn: 'Preparation Before Sinai',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 19 / Exodus 19',
+    content_zh: `我是摩西。出埃及已经整整三个月了。当我们来到西奈旷野，在山下安营的那一刻，我感到有一种前所未有的庄严降临在我心上。这座山，我认识它——四十年前，当我还是一个逃亡的牧羊人，神就是在这里的荆棘丛中向我显现，呼召了我。祂曾对我说："你将百姓从埃及领出来之后，你们必在这山上事奉神。"（3:12）那句话已经应验了。我们回来了，带着整个以色列，站在神的山前。
+
+摩西上山去见神。耶和华从山上呼唤他，说："你要这样告诉雅各家，晓谕以色列人说：'我向埃及人所行的事，你们都看见了；我如鹰将你们背在翅膀上，带来归我。如今你们若实在听从我的话，遵守我的约，就要在万民中作属我的子民，因为全地都是我的；你们要归我作祭司的国度，为圣洁的国民。'"
+
+"如鹰将你们背在翅膀上"——这个意象让我久久沉思。大鹰教导雏鸟飞翔，会将小鹰推落巢外，然后迅速俯冲，在小鹰坠落之前将它托住翅膀之上。神就是这样背负着以色列——在我们跌倒之前，在我们灭亡之前，祂俯冲而来，将我们托起。从埃及到西奈的整个旅程，是神鹰翅的保守。
+
+然后神宣告了一个令我战栗的应许："你们要归我作祭司的国度，为圣洁的国民。"祭司是在神与人之间居中的人，是带着百姓进入神面前的人，是为万民代祷的人。神呼召以色列不只是为了以色列自身的得救，而是为了万国——以色列是神对万国施恩的管道，是神国度在地上的代表。这个呼召何其尊贵，也何其沉重。
+
+我下山将这话告诉百姓，百姓同声回答说："耶和华所吩咐的，我们都要遵行。"这是立约的宣誓，也是信心的宣告。此时此刻的以色列，在西奈山前，郑重地承诺了自己的忠诚。后来的历史证明，他们未能信守，但这时的心意是真诚的——正如我们每一个信徒，在归主的那一刻，都满怀真诚地说，"主啊，我愿意跟随祢"，却在随后的岁月里一次又一次跌倒。
+
+神要我们为三天后祂的降临做预备：分别为圣，洗衣服，不要亲近女人。神要来了！祂要用有形可见的方式向整个以色列显现，使他们永远记住：神是圣洁的，与神相遇是一件庄严而严肃的事。
+
+神还颁布了严格的界限："你要在山的四围给百姓定界限，说：'你们当谨慎，不可上山去，也不可摸山的边界；凡摸这山的，必要治死他。'"圣洁的神与罪人之间，有一道不可逾越的鸿沟。百姓可以站在山下，但不能踏上山。这个禁令不是神的专横，而是祂对人软弱和有限性的保护——罪人不能赤裸裸地面对纯全圣洁的神，那会是毁灭。
+
+第三天早晨，神降临了。闪电、云彩、雷声——整座西奈山被浓烟笼罩，因为耶和华在火中降于其上，山的烟气上腾，如烧窑一般；遍山大大地震动。号角声极其洪亮，营中的百姓无不战抖。
+
+我将百姓领出营迎接神，他们就站在山下。百姓看见这景象，就都战抖，远远地站立。我自己呢？我诚实地说，我也恐惧。即使是我，一个曾经在神面前摘冠帽的人，在这神圣的震动中，也感到内心深处的战栗——不是对刑罚的恐惧，而是对那位至圣者的崇敬与敬畏。
+
+"敬畏耶和华是智慧的开端"——站在西奈山下，我深刻体会到这句话的重量。`,
+    content_en: `I am Moses. Three full months had passed since we left Egypt. When we came to the wilderness of Sinai and camped there at the foot of the mountain, I felt an unprecedented solemnity descend upon my heart. I knew this mountain — forty years earlier, when I was a fugitive shepherd, God had appeared to me here in the burning bush and called me. He had said to me, "When you have brought the people out of Egypt, you shall serve God on this mountain." (3:12) That word had been fulfilled. We had returned — with all of Israel — standing before the mountain of God.
+
+Moses went up to God, and the LORD called to him out of the mountain, saying, "Thus you shall say to the house of Jacob, and tell the people of Israel: You yourselves have seen what I did to the Egyptians, and how I bore you on eagles' wings and brought you to myself. Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine; and you shall be to me a kingdom of priests and a holy nation."
+
+"Bore you on eagles' wings" — this image gave me long pause. An eagle teaching its fledglings to fly will push the young eagle from the nest, then swiftly dive and catch it on its wings before it falls. This is how God carried Israel — before we fell, before we perished, He dove down and caught us on His wings. The entire journey from Egypt to Sinai was the safekeeping of God's eagle wings.
+
+Then God declared an awe-inspiring promise: "You shall be to me a kingdom of priests and a holy nation." A priest is one who stands between God and man, who brings the people into God's presence, who intercedes for all people. God called Israel not merely for Israel's own salvation, but for all nations — Israel was the channel of God's grace to the nations, the representative of God's kingdom on earth. How glorious this calling, and how weighty.
+
+I descended and told the people, and all the people answered together and said, "All that the LORD has spoken we will do." This was a covenant oath, a declaration of faith. At this moment, Israel before Mount Sinai solemnly pledged their loyalty. Later history proved they could not keep it — but their intention in that moment was sincere. Just as every believer, at the moment of coming to faith, sincerely says, "Lord, I am willing to follow You," yet in the years that follow falls again and again.
+
+God commanded us to prepare for His descent in three days: consecrate themselves, wash their garments, do not go near a woman. God was coming! He would appear to all Israel in a visible, tangible way, so they would forever remember: God is holy, and meeting with God is a solemn and serious thing.
+
+God also established strict boundaries: "You shall set limits for the people all around, saying, 'Take care not to go up into the mountain or touch the edge of it. Whoever touches the mountain shall be put to death.'" Between a holy God and sinful humanity there is an uncrossable chasm. The people could stand at the foot of the mountain, but they could not step upon it. This prohibition was not God's arbitrariness but His protection of human frailty and finitude — a sinner cannot stand bare-faced before a perfectly holy God without being destroyed.
+
+On the morning of the third day, God descended. Lightning, thick cloud, thunder — the whole of Mount Sinai was wrapped in smoke, because the LORD had descended upon it in fire, and its smoke went up like the smoke of a kiln. The whole mountain trembled greatly. The sound of the trumpet was very loud, so that all the people in the camp trembled.
+
+I brought the people out of the camp to meet God, and they took their stand at the foot of the mountain. When the people saw the thunder and the lightning and the sound of the trumpet and the mountain smoking, the people were afraid and trembled and stood far off.
+
+And I myself? I will be honest — I was also afraid. Even I, one who had once stood shoeless before God, trembled in the deepest place of my soul in this holy convulsion — not a terror of punishment, but reverence and awe before the Most Holy One.
+
+"The fear of the LORD is the beginning of wisdom" — standing at the foot of Sinai, I felt the full weight of those words.`,
+    historyContext_zh: `西奈山（也称何烈山）的确切位置至今仍有学术争议。传统观点将其定在西奈半岛南部的杰贝尔·穆萨（Gebel Musa，"摩西之山"），高约2,285米，基督徒和穆斯林都视之为圣地。另有学者将其置于西奈半岛东北部，靠近加低斯或亚拉伯半岛的赫加兹山区（麦地那附近），这一观点近年受到一些学者重视。
+
+从叙事结构来看，西奈山事件是出埃及记乃至整个摩西五经的神学中心。从第19章到民数记第10章的漫长叙述，都发生在西奈山下——这是律法颁布、会幕建立、祭司制度设立的中心地点。
+
+"祭司的国度"（kingdom of priests，19:6）这个表达在旧约中极为独特，直接被引用于新约（启1:6，彼前2:9），成为新约教会自我认同的核心语汇之一。`,
+    historyContext_en: `The exact location of Mount Sinai (also called Horeb) remains academically contested. The traditional view places it at Gebel Musa ("Mountain of Moses") in the southern Sinai Peninsula, approximately 2,285 meters high, regarded as sacred by both Christians and Muslims. Other scholars locate it in the northeastern Sinai, near Kadesh, or in the Hejaz mountains of Arabia (near Medina) — a view that has gained renewed attention in recent scholarship.
+
+From the perspective of narrative structure, the Sinai event is the theological center of Exodus and indeed of the entire Pentateuch. The extensive narrative from chapter 19 through Numbers 10 is set at the foot of Sinai — the central location for the giving of the law, the construction of the tabernacle, and the establishment of the priestly system.
+
+The expression "kingdom of priests" (19:6) is remarkably unique in the Old Testament, directly cited in the New Testament (Rev. 1:6; 1 Pet. 2:9), becoming one of the core vocabulary terms for the church's self-understanding in the New Testament.`,
+    structure_zh: `第19章在叙事上是一个精心设计的"准备-降临"结构：
+
+**第一段：神的邀约与百姓的应允（1-9节）**
+- 以色列来到西奈（1-2节）
+- 神的应许：鹰翅背负与"祭司国度"的呼召（3-6节）
+- 百姓的盟誓应答（7-8节）
+- 神宣告将在密云中降临（9节）
+
+**第二段：三天的分别为圣（10-15节）**
+- 神的命令：洗衣、设定边界（10-15节）
+
+**第三段：神的降临（16-25节）**
+- 第三天早晨：雷电、烟云、号角、山震（16节）
+- 摩西将百姓领到山下（17节）
+- 神在火中降于山上（18节）
+- 与摩西的对话，反复强调界限（19-25节）
+
+本章三次强调"第三天"（v.11,15,16），这个数字在圣经中与复活、神圣降临和新开始密切相关，为基督论的解读提供了线索。`,
+    structure_en: `Chapter 19 is narratively structured as a careful "preparation-descent" pattern:
+
+**Section One: God's Invitation and the People's Response (vv. 1-9)**
+- Israel arrives at Sinai (vv. 1-2)
+- God's promises: carried on eagles' wings and the calling as "kingdom of priests" (vv. 3-6)
+- The people's covenant oath (vv. 7-8)
+- God announces He will descend in a thick cloud (v. 9)
+
+**Section Two: Three Days of Consecration (vv. 10-15)**
+- God's commands: wash garments, establish boundaries (vv. 10-15)
+
+**Section Three: God's Descent (vv. 16-25)**
+- Third-day morning: thunder, lightning, thick cloud, trumpet blast, mountain quaking (v. 16)
+- Moses leads the people to the foot of the mountain (v. 17)
+- God descends upon the mountain in fire (v. 18)
+- Dialogue with Moses, repeatedly emphasizing the boundaries (vv. 19-25)
+
+The chapter emphasizes "the third day" three times (vv. 11, 15, 16). This number in Scripture is closely associated with resurrection, divine descent, and new beginnings, providing a clue for Christological interpretation.`,
+    theology_zh: `**神的圣洁（Holiness of God）**：第19章是旧约中对神圣洁最强烈的戏剧性展现之一。雷电、火焰、烟雾、地震、号角——所有这些都在宣告：这位神不是人手所造的偶像，不是人类幻想的投射，祂是活生生的、令人敬畏的神。改革宗神学强调，神的圣洁是祂的核心属性，其他属性（慈爱、信实、公义）都在祂圣洁的光照下被理解。
+
+**立约神学（Covenant Theology）**：西奈盟约是摩西之约，是神与以色列在恩典之约框架内建立的特殊关系。改革宗立约神学将其视为恩典之约（Covenant of Grace）在历史中的一种特殊管理形式，本质上仍然指向基督。条件性语言（"若……就"，19:5）不表示以色列靠行为得救，而是描述约关系的责任结构。
+
+**选民与使命**："属我的子民"（am segullah，宝贝子民）强调神的主权拣选，同时"祭司国度"强调选民有使命——不是特权的享受者，而是服侍万民的仆人。这是改革宗选民论的精华：拣选是为了服侍，不是为了骄傲。`,
+    theology_en: `**Holiness of God**: Chapter 19 is one of the most dramatically intense displays of divine holiness in the Old Testament. Thunder, lightning, fire, smoke, earthquake, trumpet blast — all these declare: this God is not an idol made by human hands, not a projection of human imagination; He is the living, awe-inspiring God. Reformed theology emphasizes that God's holiness is His central attribute; all other attributes (love, faithfulness, justice) are understood in the light of His holiness.
+
+**Covenant Theology**: The Sinai covenant is the Mosaic covenant — a special relationship established between God and Israel within the framework of the Covenant of Grace. Reformed covenant theology views it as a particular administrative form of the Covenant of Grace in history, pointing in essence still to Christ. The conditional language ("if... then," 19:5) does not suggest Israel is saved by works but describes the responsibility structure within the covenant relationship.
+
+**Election and Mission**: "Treasured possession" (am segullah) emphasizes God's sovereign election, while "kingdom of priests" emphasizes that the elect have a mission — not as privileged beneficiaries but as servants of all nations. This is the essence of the Reformed doctrine of election: chosen for service, not for pride.`,
+    christShadow_zh: `出埃及记19章与希伯来书12章形成深刻的对比，揭示了基督来前与来后的对比：
+
+希伯来书12:18-22写道："你们所来到的，并不是那可以摸着的山，不是那燃烧着火焰、密云、黑暗、暴风、角声，与言语之声的山……你们乃是来到锡安山，永生神的城邑，就是天上的耶路撒冷。"
+
+西奈山的不可触摸，对比基督的可亲近性：
+- 百姓被拦在山下，新约中每一个信徒都可直接来到神面前（来4:16）
+- 摩西是唯一能上山的人，基督是"更好的中保"，通过祂，所有人都可以进入至圣所（来9:11-12）
+- 西奈山的律法要求完全顺服，基督在十字架上代我们满足了律法的要求（罗10:4）
+
+第三天神降临（19:16），预表基督第三天复活——神以救恩降临，不再是律法的审判，乃是恩典的彰显。
+
+"鹰翅背负"（19:4）也是基督拯救教会的图像：祂俯冲而下，进入死亡的深渊，将我们从罪的坠落中托起，带我们归到父神面前。`,
+    christShadow_en: `Exodus 19 forms a profound contrast with Hebrews 12, revealing the contrast between the era before Christ and after His coming:
+
+Hebrews 12:18-22 says, "For you have not come to what may be touched, a blazing fire and darkness and gloom and a tempest and the sound of a trumpet and a voice whose words made the hearers beg that no further messages be spoken to them... But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem."
+
+The untouchable nature of Sinai contrasts with the accessibility granted through Christ:
+- The people were barred from the mountain; in the New Testament, every believer can come directly before God (Heb. 4:16)
+- Moses was the only one who could ascend the mountain; Christ is the "better mediator" through whom all people can enter the Most Holy Place (Heb. 9:11-12)
+- The law from Sinai demanded perfect obedience; Christ on the cross fulfilled the law's demands on our behalf (Rom. 10:4)
+
+God's descent on the third day (19:16) foreshadows Christ's resurrection on the third day — God descending not in the judgment of law but in the manifestation of grace.
+
+"Carried on eagles' wings" (19:4) is also an image of Christ saving the church: He dove down into the depths of death, caught us from the fall of sin, and brought us to the Father.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 20,
+    publishDate: '2026-05-27',
+    title: '十诫', titleEn: 'The Ten Commandments',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 20 / Exodus 20',
+    content_zh: `我是摩西。在我漫长的一生中，我经历过许多神圣的时刻——荆棘火焰中的呼召、红海的分开、西奈山上的四十天。但出埃及记第二十章，是那一切的核心。这一天，神亲口向整个以色列会众说话了。
+
+不是通过我传话。不是通过天使。是神自己，在雷电烟云之中，向数以百万计的人，说出了这些话。我在山下，与百姓一同站立，听见那从密云中传出的声音——威严、清晰、无可抗拒。
+
+"我是耶和华你的神，曾将你从埃及地为奴之家领出来。"
+
+在颁布诫命之前，神先宣告了祂的身份和祂的作为。这一点至关重要。十诫不是神强加给陌生人的律法，而是立约之神给祂所拯救的子民的约法。律法的根基是福音：我救了你，我是你的神，所以现在我告诉你当如何而活。
+
+第一诫："除我以外，你不可有别的神。"这是一切的基础。如果这条诫命守住了，后面九条都不难；如果这条失去了，后面九条都是空谈。神要求的是独一无二的忠诚，是整个心的归属。
+
+第二诫：禁止偶像崇拜。神不可以被任何受造物的形象所代表——不是牛，不是人，不是任何形状的雕刻。因为"我耶和华你的神是忌邪的神"——祂是活的，不是死的；祂是主，不是被操控的对象；祂的荣耀不与任何受造物分享。
+
+第三诫：不可妄称神的名。名字代表身份。妄称神的名，是将祂的尊严践踏在泥土中，是用祂的名字服务于自己的目的。后来以色列的历史一再证明，最危险的不是明显的偶像崇拜，而是用神的名字来合法化自己的罪恶和野心——先知、祭司、王都曾犯过这罪。
+
+第四诫：守安息日。每七天，停下来，记念神是创造主，记念神已经为你成就了救恩，在祂的工作里安息。这不是懒惰，这是信仰宣告：我的生命不靠自己的劳苦维持，我靠神的供应。
+
+在前四条诫命之后，有一个转向——从垂直关系（人与神）到水平关系（人与人）：
+
+第五诫：孝敬父母，使你的日子在地上得以长久。父母是神在家庭中的权威代表，尊重父母是学习尊重神圣权威的第一课。这是十诫中唯一带应许的诫命。
+
+第六诫：不可杀人。生命是神赋予的，人没有权利随意夺取。这条诫命的背后是神对人的尊严和价值的宣告——每一个人，都是按神形象造的，都有神赋予的神圣价值。
+
+第七诫：不可奸淫。婚约是神所设立的盟约，是祂与以色列之约的地上图像。毁坏婚约，不只是对配偶的背叛，也是对神圣约的亵渎。
+
+第八诫：不可偷盗。这条诫命肯定了私有财产的合法性，也宣告了一个更深的真理：满足与知足是信仰的标志，贪婪是不信神供应的表现。
+
+第九诫：不可作假见证。言语的诚实是公义社会的基础。谎言毁坏信任，腐蚀关系，最终毁坏社会的根基。真理是神的本质，谎言是魔鬼的本质（约8:44）。
+
+第十诫：不可贪婪。这条诫命是独特的，因为它针对的是内心的动机，而非外在的行为。一个人可以没有偷盗，但心里可以充满贪婪；可以没有奸淫，但眼里充满淫念。神要求的不只是行为的顺服，而是心灵的圣洁。保罗后来说，他因这条诫命才知道罪是什么（罗7:7）。
+
+当神说完这一切，百姓远远地站立，因为他们看见雷轰、闪电和山上冒烟，就都发颤，对我说："你来替我们说，我们必听；但不要神跟我们说话，恐怕我们死亡。"
+
+我告诉他们："不要惧怕，因为神降临是要试验你们，叫你们时常敬畏祂，不至犯罪。"
+
+恐惧不是信仰的终点，而是信仰的入口。十诫带来恐惧，是因为它揭示了神的圣洁和人的罪。但这恐惧的目的，是引我们来到那位满足了律法的基督面前，在祂里面找到安息和自由。`,
+    content_en: `I am Moses. In my long life I have experienced many holy moments — the call in the burning bush, the parting of the Red Sea, forty days on Mount Sinai. But Exodus chapter 20 is the heart of all of them. On this day, God Himself spoke directly to the entire congregation of Israel.
+
+Not through me as intermediary. Not through angels. God Himself, from within the thunder and smoke and cloud, spoke these words to millions of people. I stood at the foot of the mountain with the people, hearing that voice from the thick cloud — majestic, clear, irresistible.
+
+"I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery."
+
+Before declaring the commandments, God first announced His identity and His acts. This is crucial. The Ten Commandments are not laws imposed by a stranger but covenant statutes given by the covenant God to the people He has redeemed. The foundation of the law is the gospel: I saved you; I am your God; therefore now I tell you how to live.
+
+First Commandment: "You shall have no other gods before me." This is the foundation of everything. If this commandment is kept, the other nine are not difficult; if this one is lost, the other nine are empty words. God demands unique, undivided loyalty — the belonging of the whole heart.
+
+Second Commandment: Prohibition of idolatry. God cannot be represented by the image of any creature — not an ox, not a human, not any carved form. For "I the LORD your God am a jealous God" — He is living, not dead; He is Lord, not an object to be manipulated; His glory is not shared with any creature.
+
+Third Commandment: Do not take the LORD's name in vain. A name represents identity. To misuse God's name is to trample His dignity in the dust, to use His name in service of one's own purposes. Later Israelite history repeatedly demonstrated that the most dangerous sin is not obvious idolatry but using God's name to legitimize one's own sins and ambitions — prophets, priests, and kings all committed this sin.
+
+Fourth Commandment: Remember the Sabbath. Every seven days, stop — remember that God is Creator, remember that God has accomplished salvation for you, rest in His finished work. This is not laziness; it is a declaration of faith: my life is not sustained by my own labor; I rest on God's provision.
+
+After the first four commandments — governing the vertical relationship (human-God) — there is a turn to the horizontal (human-human):
+
+Fifth Commandment: Honor your father and your mother, that your days may be long in the land. Parents are God's representatives of authority in the family; respecting parents is the first lesson in learning to respect divine authority. This is the only commandment with an accompanying promise.
+
+Sixth Commandment: You shall not murder. Life is given by God; humans have no right to take it arbitrarily. Behind this commandment is God's declaration of human dignity and value — every person, made in the image of God, bears a God-given sacred worth.
+
+Seventh Commandment: You shall not commit adultery. The marriage covenant is established by God — an earthly image of His covenant with Israel. Destroying the marriage covenant is not only a betrayal of one's spouse but a desecration of the divine covenant itself.
+
+Eighth Commandment: You shall not steal. This commandment affirms the legitimacy of private property and declares a deeper truth: contentment and satisfaction are marks of faith; greed is a manifestation of distrust in God's provision.
+
+Ninth Commandment: You shall not bear false witness. The honesty of speech is the foundation of a just society. Lies destroy trust, corrupt relationships, and ultimately undermine the foundations of community. Truth is the essence of God; lying is the essence of the devil (John 8:44).
+
+Tenth Commandment: You shall not covet. This commandment is unique because it targets inner motivation, not outward behavior. A person may not steal but can be filled with greed; may not commit adultery but can be full of lustful thoughts. God demands not merely behavioral compliance but purity of heart. Paul later said that through this commandment he came to know what sin was (Rom. 7:7).
+
+When God had said all these things, the people stood far off, for they saw the thunder and the lightning flashes and the sound of the trumpet and the mountain smoking, and the people were afraid and trembled. They said to me, "You speak to us, and we will listen, but do not let God speak to us, lest we die."
+
+I told them, "Do not fear, for God has come to test you, that the fear of him may be before you, that you may not sin."
+
+Fear is not the destination of faith but its entrance. The Ten Commandments bring fear because they reveal God's holiness and human sinfulness. But the purpose of this fear is to lead us to Christ, who fulfilled the law — so that in Him we may find rest and freedom.`,
+    historyContext_zh: `十诫在希伯来文原文中称为"十句话"（עֲשֶׂרֶת הַדְּבָרִים，'aseret haddevarim），而非"诫命"——这个细节意义深远：它们首先是神的话语（divine speech），然后才是律法（law）。
+
+关于十诫的划分，历史上有不同的传统：
+- 改革宗（加尔文）：偶像禁令作为第二诫单独列出，第十诫为贪婪；
+- 路德宗/天主教：将前两诫合并为一，将第十诫分为两条；
+- 东正教与大多数新教：与改革宗相同。
+
+出埃及记20章的十诫与申命记5章有细微差别（尤其是安息日诫命的理由不同），显示律法在不同场合的重述中有神学的诠释深化。
+
+十诫后来被写在两块石版上（出31:18），这与古代近东的条约形式（Suzerainty Treaty）高度对应——宗主国君王对藩属国所立的约，包括序言（神的身份）、历史背景（神的作为）、诫命条款、祝福与咒诅。`,
+    historyContext_en: `The Ten Commandments are called in the Hebrew original "ten words" (עֲשֶׂרֶת הַדְּבָרִים, 'aseret haddevarim), not "commandments" — a significant detail: they are first divine speech, then law.
+
+The numbering of the Ten Commandments has varied across traditions:
+- Reformed (Calvin): the prohibition of idols is a separate second commandment; the tenth is covetousness
+- Lutheran/Catholic: the first two are combined; the tenth is divided into two
+- Eastern Orthodox and most Protestants: same as the Reformed tradition
+
+The Ten Commandments in Exodus 20 differ subtly from those in Deuteronomy 5 (especially the reason given for the Sabbath commandment), showing that the law undergoes theological deepening in its re-presentation on different occasions.
+
+The Ten Commandments were later written on two stone tablets (Exod. 31:18), closely corresponding to the ancient Near Eastern Suzerainty Treaty form — the covenant of a sovereign king with a vassal state, including prologue (the king's identity), historical preamble (the king's acts), stipulations, and blessings/curses.`,
+    structure_zh: `第20章结构分明：
+
+**序言（2节）**：神的自我宣告与救恩历史——律法颁布的前提和基础。
+
+**第一板：人与神的关系（3-11节）**
+- 第一诫：唯一的神（3节）
+- 第二诫：禁止偶像（4-6节）
+- 第三诫：神名的尊严（7节）
+- 第四诫：安息日（8-11节）
+
+**第二板：人与人的关系（12-17节）**
+- 第五诫：孝敬父母（12节）
+- 第六诫：禁止杀人（13节）
+- 第七诫：禁止奸淫（14节）
+- 第八诫：禁止偷盗（15节）
+- 第九诫：禁止假见证（16节）
+- 第十诫：禁止贪婪（17节）
+
+**百姓的回应与神的补充（18-26节）**：百姓的恐惧后退、摩西的安慰、关于祭坛的规定。
+
+值得注意的是，"十诫"的两块石版结构，在礼仪上也呼应了立约的形式——两块石版各存一份，一份归神（存于约柜），一份归以色列（表示双方均认可）。`,
+    structure_en: `Chapter 20 has a clear structure:
+
+**Prologue (v. 2)**: God's self-declaration and salvation history — the premise and foundation for giving the law.
+
+**First Table: Human-God Relationship (vv. 3-11)**
+- First Commandment: the one God (v. 3)
+- Second Commandment: prohibition of idols (vv. 4-6)
+- Third Commandment: the dignity of God's name (v. 7)
+- Fourth Commandment: the Sabbath (vv. 8-11)
+
+**Second Table: Human-Human Relationship (vv. 12-17)**
+- Fifth Commandment: honor parents (v. 12)
+- Sixth Commandment: no murder (v. 13)
+- Seventh Commandment: no adultery (v. 14)
+- Eighth Commandment: no stealing (v. 15)
+- Ninth Commandment: no false witness (v. 16)
+- Tenth Commandment: no coveting (v. 17)
+
+**The People's Response and God's Addition (vv. 18-26)**: The people's fear and withdrawal, Moses' reassurance, regulations concerning altars.
+
+Notably, the two-tablet structure of the Ten Commandments liturgically echoes the covenant form — two tablets, each bearing a copy, one for God (stored in the ark), one for Israel (indicating both parties acknowledged the covenant).`,
+    theology_zh: `**律法与福音（Law and Gospel）**：十诫以福音开头（"我是耶和华你的神，将你从埃及领出来"），然后才是律法的诫命。这是改革宗神学的核心顺序：福音先于律法，恩典先于诫命，神的慈爱是遵守律法的动机，而非遵守律法来赚取神的慈爱。路德宗的"律法与福音"辩证法与改革宗在此有所差异，但都承认十诫不是得救的方式，而是得救之人的生活蓝图。
+
+**律法的三种功用（Three Uses of the Law）**：
+1. **政治功用（Civil Use）**：约束社会罪恶，维持公民秩序；
+2. **神学功用（Theological Use）**：揭示人的罪，将人引到基督面前（加3:24，"律法是我们训蒙的师傅"）；
+3. **规范功用（Normative Use）**：指导重生信徒的新生活——改革宗神学尤其强调此点，路德宗较少强调。
+
+**十诫与基督徒生活**：十诫不是基督徒的重担，而是自由的框架。约翰·加尔文强调，律法对信徒最重要的功用是"第三种用途"——它是神之道德意志的表达，是圣灵在信徒心中工作、使其越来越像基督的指导原则。
+
+**神的忌邪（Divine Jealousy）**：第二诫中神说"我是忌邪的神"。这不是人类嫉妒情绪的神话化，而是神对立约关系的强烈保护——就像忠诚的丈夫不会容忍妻子的不忠，神不容忍任何对祂专一之爱的背离。`,
+    theology_en: `**Law and Gospel**: The Ten Commandments begin with the gospel ("I am the LORD your God, who brought you out of Egypt"), and only then come the legal stipulations. This is the core sequence in Reformed theology: gospel precedes law, grace precedes commandment, God's love is the motivation for keeping the law — not keeping the law to earn God's love. Lutheran and Reformed theology differ somewhat in their Law-Gospel dialectic, but both affirm that the Ten Commandments are not the means of salvation but the blueprint for the life of the redeemed.
+
+**Three Uses of the Law**:
+1. **Civil Use**: Restraining social evil, maintaining civil order
+2. **Theological Use**: Revealing sin, driving people to Christ (Gal. 3:24, "the law was our guardian until Christ")
+3. **Normative Use**: Guiding the new life of regenerate believers — Reformed theology especially emphasizes this; Lutheran theology less so
+
+**The Ten Commandments and the Christian Life**: The Ten Commandments are not a burden for Christians but a framework for freedom. Calvin emphasizes that the most important use of the law for believers is the "third use" — it is the expression of God's moral will, the guiding principle by which the Holy Spirit works in believers to make them increasingly like Christ.
+
+**Divine Jealousy**: In the second commandment God says, "I the LORD your God am a jealous God." This is not the mythologizing of human jealousy but God's intense protection of the covenant relationship — just as a faithful husband will not tolerate a wife's unfaithfulness, God will not tolerate any deviation from undivided love toward Him.`,
+    christShadow_zh: `出埃及记20章是新约神学讨论最集中的旧约段落之一：
+
+**律法的功用——引至基督**：保罗在加拉太书3:24明确说，"律法是我们训蒙的师傅，引我们到基督那里，使我们因信称义。"十诫最重要的功用，是像一面镜子，照出我们无法满足神圣洁要求的罪。当百姓发颤说"我们不要神跟我们说话，恐怕我们死亡"，他们说出了所有罪人面对圣洁之神时的真实处境。
+
+**基督满足了律法**：耶稣说："莫想我来要废掉律法……我来不是要废掉，乃是要成全。"（太5:17）基督在十字架上满足了十诫对完全顺服的要求，代替我们承受了违背律法的咒诅（加3:13）。祂是唯一真正守全十诫的人。
+
+**山上宝训与十诫**：马太福音5-7章，耶稣的山上宝训，是对十诫的终极解释和深化。祂将十诫从外在行为深入到内心动机："你们听见有话说……只是我告诉你们……"基督不废除律法，而是揭示律法的真正意义，指向心灵的彻底更新。
+
+**第十诫与恩典**：保罗在罗马书7:7说，他因第十诫（不可贪婪）认识了罪。贪婪是所有罪的根，也是人最难承认的罪。唯有神恩典的光照，才能让人看见自己内心的贪婪，转而仰望基督完全的满足——祂是我们一切需要的满足者，是我们最终和永恒的财宝。`,
+    christShadow_en: `Exodus 20 is one of the Old Testament passages most intensely discussed in New Testament theology:
+
+**The Law's Function — Leading to Christ**: Paul explicitly says in Galatians 3:24, "the law was our guardian until Christ came, in order that we might be justified by faith." The most important function of the Ten Commandments is to serve as a mirror, revealing our inability to meet the holy demands of God. When the people trembled and said, "Do not let God speak to us, lest we die," they expressed the true situation of every sinner before a holy God.
+
+**Christ Fulfilled the Law**: Jesus said, "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them." (Matt. 5:17) On the cross, Christ satisfied the Ten Commandments' demand for perfect obedience, bearing in our place the curse for disobedience (Gal. 3:13). He is the only person who ever truly kept all ten commandments.
+
+**The Sermon on the Mount and the Ten Commandments**: Matthew 5-7, the Sermon on the Mount, is the ultimate interpretation and deepening of the Ten Commandments. Jesus takes the commandments from outward behavior to inner motivation: "You have heard that it was said... But I say to you..." Christ does not abolish the law but reveals its true meaning, pointing to the thorough renewal of the heart.
+
+**The Tenth Commandment and Grace**: Paul says in Romans 7:7 that through the tenth commandment (you shall not covet) he came to know sin. Covetousness is the root of all sin and the sin most difficult for humans to acknowledge. Only the illumination of God's grace can enable a person to see the covetousness within, and then look to Christ for complete satisfaction — He is the fulfillment of all our needs, our ultimate and eternal treasure.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 21,
+    publishDate: '2026-05-28',
+    title: '奴仆条例', titleEn: 'Laws About Servants',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 21 / Exodus 21',
+    content_zh: `我是摩西，西拿本亚米兰之子。在西奈山脚，当百姓仍战兢于山上的雷声与火焰之时，耶和华将我召上山去，把这些典章交托给我，命我传讲给以色列民。
+
+你们也许会问：为何全能的神，在颁布十诫之后，紧接着便说起奴仆条例？这是因为，神的律法从不悬于云端，叫人无处着力——祂的公义要落在真实的人生里，落在市集、家宅、田间，落在每一个被压制、被遗忘之人的境遇中。
+
+这些典章，是西奈盟约的细则，是十诫的具体展开。十诫说"不可杀人"，典章便规定何为故意凶杀、何为意外；十诫说"不可偷盗"，典章便细述偷牛偷羊的赔偿之数。神不是立法者后便撒手不管的君王——祂是那位俯身进入人间细碎之事的神。
+
+关于希伯来奴仆，神这样晓谕我："你若买希伯来人作奴仆，他必服事你六年；到第七年，他可以自由出去，不用还赎价。"（出21:2）这一条例深刻地揭示了神的性情——以色列人曾在埃及作奴隶四百年，那是无尽期的、没有出头之日的压迫。但在神的律法之下，不得有人永远困锁于奴役之中。六年之后，第七年必须释放——那"七"字，让我想起创造之工的第七日安息，神将安息的恩典编织进社会秩序里。
+
+然而神又顾念了人心中的爱。若一个奴仆爱他的主人，爱他的妻子儿女，不愿离去，该当如何？神说，他可以到审判官那里表明心志，由主人将他带到门框旁，用锥子穿他的耳朵——从此他便永远服事那主人，不再离开。（出21:5-6）
+
+每次我默想这一段，心里都涌起难以言说的感动。这个奴仆，本可自由，却因爱而甘愿留下，甘愿被钉在门框上，以身上的印记宣告：我属于这家，我永不离去。
+
+这不正是那将要来的主的预表吗？
+
+耶稣基督，祂本有神的形象，不以自己与神同等为强夺的，反倒虚己，取了奴仆的形象，成为人的样式（腓2:6-7）。祂本可不来，本可居于荣耀之中，不受死亡的缠绕。但祂爱那被罪捆绑的人类，情愿降卑，情愿被钉在十字架上——那十字架，岂不是那门框的成全？
+
+典章中亦有关于女儿被卖为婢女的条例（出21:7-11）：若主人娶她为妻，不可亏待她；若另娶别人，仍须供给她衣食，不可将她卖给外邦人。在古代近东，女奴几乎毫无保障，可任意处置。但神的律法，将这些最脆弱的人置于保护之下。祂是孤儿和寡妇的神，是那些无处伸冤者的辩护者。
+
+接下来是关于故意伤人、伤父母的严厉规定，以及那句著名的"以眼还眼、以牙还牙"（出21:24）。后世常误解这句话，以为是鼓励报复。恰恰相反——这是限制报复的律法。古代社会，受了一掌之伤，往往血腥复仇，满门尽灭。神说：不，刑罚须与罪行对等，不可过分。这是公义的量尺，是将人类残暴的报复心收束于法律框架之内。
+
+我摩西传递这些律法，心中满是敬畏。神啊，你是何等细致、何等慈悲！你看见每一个被遗忘的人——那奴仆、那婢女、那被打伤的工人。你的律法不是冰冷的条文，而是一位父神弯腰下来，亲自为软弱者设立保障。
+
+愿以色列民，也愿世世代代读到这典章的人，都能在这些律例中，看见神慈爱公义的脸面。`,
+    content_en: `I am Moses, son of Amram, son of Kohath. As the people still trembled at the foot of Sinai, shaken by its thunder and fire, the LORD called me up the mountain and entrusted to me these ordinances — to be set before Israel.
+
+You might ask: why would the Almighty, having just thundered forth the Ten Commandments, turn immediately to speak of servants and slaves? Because God's law never floats in the abstract, demanding the impossible. His justice must land in real human life — in the marketplace, the household, the field — wherever the oppressed and forgotten struggle to survive.
+
+These ordinances are the detailed application of the Sinai covenant, the Ten Commandments made concrete. "You shall not murder" finds expression in the distinction between premeditated killing and accidental death. "You shall not steal" unfolds into careful restitution laws for stolen oxen and sheep. God is not a lawgiver who walks away after making his decree. He is the God who stoops into the small particulars of human existence.
+
+Regarding the Hebrew servant, the LORD spoke plainly: "When you buy a Hebrew slave, he shall serve six years, and in the seventh he shall go out free, for nothing." (Exodus 21:2) This single ordinance reveals God's character profoundly. Israel had been slaves in Egypt for four hundred years — bondage without horizon, oppression without end. But under God's law, no one may be permanently locked in servitude. The seventh year brings release — and that "seven" calls to mind the seventh day of creation. God wove the grace of sabbath rest into the very structure of society.
+
+Yet God also honors the love within the human heart. What if a servant loves his master, loves the wife and children given to him, and refuses to go free? God provides a way: he is brought before the judges, his ear pierced against the doorpost, and from that moment he serves his master forever. (Exodus 21:5-6)
+
+Every time I meditate on this passage, something stirs deep within me. This servant could have chosen freedom. Instead, he chose love. He accepted the mark on his body as his declaration: I belong to this household. I will never leave.
+
+Is this not a foreshadowing of the One who was to come?
+
+Jesus Christ, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, taking the form of a servant, being born in the likeness of men. (Philippians 2:6-7) He could have remained untouched in glory, beyond the reach of death and suffering. But He loved those enslaved by sin, and willingly humbled himself — willingly was nailed to the cross. And is not that cross the fulfillment of this doorpost?
+
+These ordinances also speak of those who are most vulnerable: the daughter sold as a servant (Exodus 21:7-11), who must not be treated as a foreign slave, who must be given her rights if her master takes another wife. In the ancient Near East, female slaves had virtually no legal protection. Yet God's law wraps around them. He is the God of orphans and widows, the defender of those who have no one to plead their cause.
+
+Then comes the famous principle: "eye for eye, tooth for tooth." (Exodus 21:24) This is widely misread as a license for vengeance. It is precisely the opposite — it is a law limiting vengeance. In ancient societies, a single blow could trigger a massacre of entire families. God says: No. Punishment must be proportionate to the offense. This is the measure of justice — restraining the cruelty of human revenge within the boundary of law.
+
+I, Moses, transmitted these laws with a heart full of awe. O God, how meticulous, how merciful you are! You see every forgotten soul — the servant, the maidservant, the injured worker. Your law is not cold legislation. It is a Father bending down, personally establishing protection for those who are weak.
+
+May Israel, and may all generations who read these ordinances, see in them the face of a God who is both just and kind.`,
+    historyContext_zh: `本章是"约书"（Book of the Covenant，出20:22-23:33）的开篇，属于西奈盟约的法典部分。这些律法在结构上与古代近东法典（如汉谟拉比法典，约公元前1754年）存在明显的文化背景联系，但在神学精神上截然不同。
+
+汉谟拉比法典依社会阶层给出差异化惩罚（贵族与平民受伤赔偿不同），而摩西律法的核心精神是"以眼还眼"的平等原则——无论贫富，伤害人者必同等受罚。
+
+希伯来奴隶制度的背景：在古代近东，战俘、债务人及穷人均可成为奴隶，且无固定的释放年限。以色列人自身经历过埃及奴役，神的律法因此对奴隶制加以明确限制，强调第七年释放（沙米塔原则的雏形）。
+
+"穿耳于门框"的仪式（出21:6）在考古学上已有记录，是古代近东表示永久归属的标志，在乌加里特文献中亦有类似习俗记载。`,
+    historyContext_en: `This chapter opens the "Book of the Covenant" (Exodus 20:22–23:33), the legal corpus at the heart of the Sinai covenant. These laws share a cultural background with ancient Near Eastern legal codes such as the Code of Hammurabi (c. 1754 BC), but differ fundamentally in theological spirit.
+
+Hammurabi's code applied differential punishments based on social class — an aristocrat's injury was compensated differently from a commoner's. By contrast, the lex talionis ("eye for eye") in Mosaic law establishes a principle of equality before the law: regardless of wealth or status, the punishment must fit the crime.
+
+The background to Hebrew slavery: in the ancient Near East, prisoners of war, debtors, and the desperately poor could all become slaves, with no guaranteed release date. Having themselves endured Egyptian slavery, Israel received from God a law explicitly limiting servitude — the seventh-year release anticipating the later Jubilee and Sabbath principles.
+
+The ritual of ear-piercing at the doorpost (Exodus 21:6) is archaeologically attested as a mark of permanent belonging in ancient Near Eastern cultures, with similar customs documented in Ugaritic texts.`,
+    structure_zh: `**出埃及记第二十一章结构**
+
+1. **希伯来男奴仆条例**（1-6节）
+   - 六年服事，第七年释放
+   - 自愿永久留下的奴仆之例
+
+2. **希伯来女奴仆条例**（7-11节）
+   - 婢女的婚姻权利保护
+
+3. **故意与意外伤人的刑法**（12-27节）
+   - 故意杀人处死刑；意外杀人可逃往逃城
+   - 伤父母者处死
+   - "以眼还眼"原则（同态复仇法的限制性应用）
+
+4. **关于牲畜伤人的规定**（28-36节）
+   - 牛顶人致死的赔偿与责任`,
+    structure_en: `**Structure of Exodus 21**
+
+1. **Laws on Hebrew Male Servants** (vv. 1–6)
+   - Six years of service; release in the seventh
+   - The voluntary permanent servant
+
+2. **Laws on Hebrew Female Servants** (vv. 7–11)
+   - Protection of a maidservant's marital rights
+
+3. **Criminal Laws: Intentional and Accidental Harm** (vv. 12–27)
+   - Premeditated murder: death penalty
+   - Accidental killing: cities of refuge
+   - Striking or cursing parents: death
+   - The lex talionis: "eye for eye" (limiting, not licensing, vengeance)
+
+4. **Liability for Animals** (vv. 28–36)
+   - Compensation when an ox gores a person to death`,
+    theology_zh: `**改革宗神学视角：律法与恩典**
+
+本章向我们展示了神律法的三重功用（Three Uses of the Law）在具体处境中的运作：
+
+**第一用途（政治用途）**：这些典章构成以色列的民事法典，约束社会秩序，保护弱势群体，防止报复升级。神的律法为社会提供了公义的结构。
+
+**第二用途（神学用途/定罪用途）**："以眼还眼"的原则揭示了完全的公义要求人完全的对等赔偿。没有人能在这面镜子前说自己全然无亏。我们欠神的债，远超"一只眼睛"。
+
+**第三用途（规范用途）**：对于重生的信徒，这些律例展示了神如何看待社会公义、如何爱护弱小——这成为我们生命实践的指引。
+
+**恩典的框架**：值得注意的是，这些律法是在神的救赎行动（出埃及）之后颁布的，不是用来赚取救恩，而是蒙恩之民回应神恩的生活规范。这正是改革宗神学所强调的：律法在福音之后，是感恩之行，而非功德之道。`,
+    theology_en: `**Reformed Theological Perspective: Law and Grace**
+
+This chapter illustrates the Three Uses of the Law operating in a concrete social context:
+
+**First Use (Civil/Political Use):** These ordinances constitute Israel's civil code, restraining social disorder, protecting the vulnerable, and preventing the escalation of vengeance. God's law provides the structure of a just society.
+
+**Second Use (Theological/Convicting Use):** The lex talionis reveals that perfect justice demands perfect, proportional repayment. No one can stand before this mirror and say they are without debt. What we owe God far exceeds "one eye."
+
+**Third Use (Normative Use):** For the regenerate believer, these laws reveal how God regards social justice and care for the weak — providing a pattern for the redeemed life.
+
+**The Framework of Grace:** Critically, these laws were given after God's redemptive act (the Exodus), not as a means to earn salvation, but as the life-pattern for a people already redeemed. This is precisely the Reformed emphasis: law follows gospel; obedience is gratitude, not merit.`,
+    christShadow_zh: `**基督的预表：甘愿为奴的那一位**
+
+出埃及记21:5-6中，那位甘愿放弃自由、让耳朵被穿刺于门框的奴仆，是旧约中最动人的基督预表之一。
+
+**腓立比书2:6-8**："祂本有神的形象，不以自己与神同等为强夺的，反倒虚己，取了奴仆的形象，成为人的样式；既有人的样子，就自己卑微，存心顺服，以至于死，且死在十字架上。"
+
+那奴仆因爱选择留下，留下的记号是穿耳——基督因爱道成肉身，留下的记号是钉痕。
+
+**诗篇40:6**（马索拉文本）："你不喜悦祭物和礼物……你开通了我的耳朵。"希伯来书1:5引用七十士译本转述为："你为我预备了身体。"无论哪个版本，那"开通的耳朵"都象征着顺服——而这正是主耶稣一生的主旋律："我来了，是要照你的旨意行。"
+
+此外，"以眼还眼"的律法预表了基督在十字架上的代赎：我们亏欠神的义债，本当以等价赔偿，但神的独生子成为我们的代替，完全承担了那公义的要求，让我们得以白白称义。这是律法的终结，也是律法的成全（罗10:4）。`,
+    christShadow_en: `**The Shadow of Christ: The One Who Chose Servitude**
+
+The servant in Exodus 21:5–6 — who willingly surrenders his freedom and allows his ear to be pierced at the doorpost — is one of the most moving foreshadowings of Christ in the Old Testament.
+
+**Philippians 2:6–8:** "Though he was in the form of God, [he] did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross."
+
+The servant chose to remain because of love; his mark was a pierced ear. Christ chose to come because of love; his marks were pierced hands and feet.
+
+**Psalm 40:6** (Hebrew): "You have given me an open ear." Hebrews 10:5 renders the Septuagint: "A body you have prepared for me." Whether "open ear" or "prepared body," the image is the same: the posture of perfect obedience — and this was the defining note of Jesus' entire life: "I have come to do your will, O God."
+
+Furthermore, the lex talionis itself points forward to the atonement: we owe a debt of perfect justice to God that demands perfect, proportional repayment. God's own Son became our substitute, bearing the full weight of that just demand in our place, that we might be freely justified. He is the end of the law — and its fulfillment. (Romans 10:4)`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 22,
+    publishDate: '2026-05-29',
+    title: '财产与道德律例', titleEn: 'Laws About Property and Morality',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 22 / Exodus 22',
+    content_zh: `我是摩西，在西奈山上聆听了耶和华四十天四十夜的声音。这些典章，每一条都是从神的口中直接发出的，不是人间智慧的汇编，而是那位创造万物之神对祂所造之人如何彼此相待的明确旨意。
+
+第二十二章所记载的，是关于财产、道德与神圣界限的一系列律例。当我将这些一条条记录下来的时候，我深深体会到：神对以色列人的管治，不仅关乎宗教仪式，更深入每个人日常生活的最细处——邻居的牛被偷了怎么办？借出去的驴死了谁负责？穷人的衣裳被抵押了，晚上如何取暖？
+
+**关于偷盗与赔偿**
+
+律法开篇即言："人若偷牛或羊，无论是宰了，是卖了，他必赔五牛，或四羊。"（出22:1）这是双倍乃至四倍、五倍的赔偿。为何如此之重？因为偷盗不仅是侵害财产，更是破坏了邻舍之间的信任，破坏了社区的根基。神的公义要求，凡破坏者，须付出高过所取的代价来修复。
+
+若盗贼在行窃中被人击打而死，打人者无罪——这是保护家园的正当防卫。但若是在白昼行事，则另当别论（出22:3）。神的律法区分情境，不是冷硬的一刀切，而是细察人心与处境。
+
+若人无力赔偿，"他必为所偷的作奴仆"（出22:3）。这条律法叫我心中沉重。在神的国度里，债务是真实的，逃避责任是不被允许的。我们对彼此的亏欠，必须有所了结。
+
+**保护弱势：寄居者、孤儿、寡妇**
+
+然后神说了一些让我心里最深处颤动的话："你不可欺压寄居的，因为你们在埃及地作过寄居的，知道寄居的心。"（出22:21）
+
+我们以色列人，曾经就是那些没有根、没有权、没有人为我们申诉的人。我们在埃及的泥砖坑里呻吟，无处可逃。神以祂铁臂将我们救出来，祂怎能容忍我们转头去压迫那些如我们昔日一般无助的人？
+
+神更进一步说："你们若苦待他们，他们向我呼求，我必听他们的呼声。我的怒气必发作，用刀杀你们，使你们的妻子为寡妇，儿女为孤儿。"（出22:23-24）
+
+多么严肃的话语！这不是空洞的道德教训，这是来自宇宙主宰的警告——祂垂听孤儿寡妇的哭声，祂不会坐视不理。
+
+**关于借贷与担保**
+
+"你们中间若有人借钱给我民中的穷人，你不可向他取利，也不可向他索取过分的利息。"（出22:25，和合本参考；及26节关于衣裳抵押）
+
+若你拿了穷人的外衣作抵押，日落以前必须还给他，"因为那是他唯一的遮盖，是他身上的衣服，他还用什么睡觉呢？他若向我呼求，我必听他的话，因为我是有恩惠的。"（出22:27）
+
+神竟然说，祂会因为一件外衣的事亲自介入！这句话让我每次思及都泪盈于眶。神不是高高在上、不管人间疾苦的君王，祂是那位亲自俯身听见一个穷人夜里发抖的神。这位神，就是我们的神，以色列的神。
+
+**禁止行邪术与通奸**
+
+"行邪术的女人，不可容她存活。"（出22:18）这条律法在今天听来严苛，但我们必须理解其神学背景：巫术是以谎言取代神的权能，是对神的僭越，是将人引向鬼魔而非真神的道路。在一个圣洁的社群中，这样的污染不可留存。
+
+**初熟之物与头生之子**
+
+"你要将你庄稼初熟之物和葡萄园初熟之物，归给我。你的长子，你也要归给我。"（出22:29）
+
+这是一个关于主权的宣告：一切美好的第一个，都属于神。我们把最好的、最初的献给神，是承认一切来自祂、一切归于祂的信仰表达。这不是神在向我们索取，而是神在邀请我们以感恩的手打开握紧的拳头——因为那握住的，本来就是祂的。
+
+这些律法，构成了以色列作为"圣洁的国民、祭司的国度"（出19:6）的日常骨架。每一条，都在说同一件事：你们是被赎出来的民，要活得配得上你们的神。`,
+    content_en: `I am Moses, who listened to the voice of the LORD on Sinai for forty days and forty nights. These ordinances came directly from God's mouth — not a compilation of human wisdom, but the explicit will of the Creator concerning how his creatures are to treat one another.
+
+Chapter twenty-two records a series of laws about property, morality, and sacred boundaries. As I set each one down, I understood more deeply: God's governance of Israel was not limited to religious ritual. It reached into the smallest details of everyday life — a stolen ox, a borrowed donkey that died, a poor man's cloak taken as collateral for a debt on a cold night.
+
+**On Theft and Restitution**
+
+The law opens: "If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and four sheep for a sheep." (Exodus 22:1) Four or five times the value stolen. Why so severe? Because theft is not merely property damage. It destroys the trust between neighbors, the foundations of community. God's justice requires that whatever is broken must be restored at a cost greater than what was taken.
+
+If a thief is killed while breaking in at night, the homeowner bears no guilt. But if the same thing happens in daylight, the situation is judged differently. (Exodus 22:3) God's law attends to circumstance, not blunt uniformity. It looks into context and motive.
+
+If the thief cannot repay, "he shall be sold for his theft." (Exodus 22:3) Debt in God's kingdom is real. Escaping responsibility is not permitted. What we owe one another must be accounted for.
+
+**Protection of the Vulnerable: Sojourners, Orphans, Widows**
+
+Then God said the words that shake me to my core: "You shall not wrong a sojourner or oppress him, for you were sojourners in the land of Egypt." (Exodus 22:21)
+
+We, Israel, were once those without roots, without rights, without anyone to plead our case. We groaned in Egypt's brick pits with nowhere to turn. How could God, who delivered us with his mighty arm, permit us to turn around and oppress those as helpless as we once were?
+
+And God went further: "If you do afflict them, and they cry out to me, I will surely hear their cry, and my wrath will burn, and I will kill you with the sword, and your wives shall become widows and your children fatherless." (Exodus 22:23–24)
+
+What solemn words. This is not abstract moral instruction. It is a warning from the Sovereign of the universe — He hears the cry of orphans and widows. He will not look away.
+
+**On Lending and Pledges**
+
+"If you lend money to any of my people with you who is poor, you shall not be like a moneylender to him, and you shall not exact interest from him." (Exodus 22:25) And: if you take a neighbor's cloak as a pledge, return it before sunset — "for that is his only covering, and it is his cloak for his body; in what else shall he sleep? And if he cries to me, I will hear, for I am compassionate." (Exodus 22:27)
+
+God himself will intervene over a cloak. That sentence has brought tears to my eyes more times than I can count. He is not an enthroned monarch indifferent to human suffering. He is the God who personally stoops to hear a poor man shivering in the night. This God is our God — the God of Israel.
+
+**Prohibitions on Sorcery and Sexual Immorality**
+
+"You shall not permit a sorceress to live." (Exodus 22:18) This sounds severe to modern ears, but the theological logic is clear: sorcery is the attempt to seize God's power through deception, to divert people from the living God toward demonic forces. In a holy community, such corruption cannot be tolerated.
+
+**Firstfruits and Firstborn**
+
+"The firstfruits of your grain, of your wine, and of your oil you shall not delay to offer to me. The firstborn of your sons you shall give to me." (Exodus 22:29)
+
+This is a declaration of sovereignty: the first and best of everything belongs to God. Offering our firstfruits is the embodied confession that everything comes from him and returns to him. It is not God demanding what is ours; it is God inviting us to open our clenched fists in gratitude — because what we're holding was his all along.
+
+These laws form the daily skeleton of Israel's calling to be "a kingdom of priests and a holy nation." (Exodus 19:6) Every ordinance says the same thing: You are a redeemed people. Live as those who belong to your God.`,
+    historyContext_zh: `**历史背景：古代近东财产法与以色列律法的比较**
+
+出埃及记22章的财产律法在结构上与苏美尔法典（乌尔纳木法典，约公元前2100年）和汉谟拉比法典有相似之处，但在精神上有根本差异：
+
+1. **赔偿vs刑罚**：汉谟拉比法典对偷盗的惩罚通常是死刑或身体刑罚，而摩西律法以经济赔偿为主，保留了人的生命尊严。
+2. **阶级平等**：古代近东法典通常依社会阶层判决，以色列律法则一视同仁。
+3. **神学动机**：以色列律法明确将服从道德律与对神的敬畏连接（"因为我是有恩惠的"，出22:27），这在其他法典中几乎没有对应。
+
+关于禁止向以色列人收取利息：这一条例在历史上对教会关于高利贷的神学讨论影响深远，中世纪教会曾广泛引用此节禁止基督徒放贷取利。`,
+    historyContext_en: `**Historical Context: Ancient Near Eastern Property Law and Mosaic Law**
+
+The property laws of Exodus 22 share structural parallels with Sumerian codes (the Code of Ur-Nammu, c. 2100 BC) and the Code of Hammurabi, but differ fundamentally in spirit:
+
+1. **Restitution vs. Punishment:** Hammurabi's code typically prescribes death or corporal punishment for theft; Mosaic law primarily requires economic restitution, preserving human dignity.
+2. **Equality Before the Law:** Ancient Near Eastern codes applied different standards based on social class; Israel's law applied the same standard to all.
+3. **Theological Motivation:** Israel's law explicitly links moral obedience with the fear of God ("for I am compassionate," Exodus 22:27) — a theological grounding largely absent from other ancient codes.
+
+The prohibition on charging interest to fellow Israelites had significant influence on later ecclesiastical debates about usury; medieval Church teaching widely cited this passage in prohibiting Christians from lending money at interest.`,
+    structure_zh: `**出埃及记第二十二章结构**
+
+1. **财产律法：偷窃与赔偿**（1-15节）
+   - 偷盗牲畜的多倍赔偿（1-4节）
+   - 损毁庄稼和财物的赔偿（5-6节）
+   - 寄存物品的责任（7-15节）
+
+2. **社会道德律例**（16-20节）
+   - 诱骗未许配女子（16-17节）
+   - 禁止巫术（18节）
+   - 禁止与兽交（19节）
+   - 禁止向别神献祭（20节）
+
+3. **保护弱势群体**（21-27节）
+   - 不可欺压寄居者（21节）
+   - 不可苦待寡妇孤儿（22-24节）
+   - 不可向穷人取利（25节）
+   - 抵押衣裳须归还（26-27节）
+
+4. **对神的尊崇**（28-31节）
+   - 不可毁谤神和官长（28节）
+   - 初熟之物与头生归神（29-30节）
+   - 圣洁饮食规定（31节）`,
+    structure_en: `**Structure of Exodus 22**
+
+1. **Property Laws: Theft and Restitution** (vv. 1–15)
+   - Multiple restitution for stolen livestock (vv. 1–4)
+   - Compensation for destroyed crops and property (vv. 5–6)
+   - Responsibility for goods held in trust (vv. 7–15)
+
+2. **Social and Moral Laws** (vv. 16–20)
+   - Seducing an unbetrothed woman (vv. 16–17)
+   - Prohibition of sorcery (v. 18)
+   - Prohibition of bestiality (v. 19)
+   - Prohibition of sacrifice to other gods (v. 20)
+
+3. **Protection of the Vulnerable** (vv. 21–27)
+   - Do not oppress sojourners (v. 21)
+   - Do not afflict widows and orphans (vv. 22–24)
+   - No interest on loans to the poor (v. 25)
+   - Return the pledged cloak by sunset (vv. 26–27)
+
+4. **Reverence for God** (vv. 28–31)
+   - Do not revile God or a ruler (v. 28)
+   - Firstfruits and firstborn belong to God (vv. 29–30)
+   - Dietary holiness (v. 31)`,
+    theology_zh: `**改革宗神学视角：普遍恩典与邻舍之爱**
+
+本章最深的神学脉络，是神的**普遍恩典**如何通过律法约束社会，以及神对**弱势群体的特别关怀**如何成为道德义务的基础。
+
+**加尔文的见解**：律法不仅对教会有效，也通过自然律和公民法对整个社会起着约束作用。本章中关于财产赔偿和弱势保护的律法，正是普遍恩典的具体体现——神通过律法维持社会的基本秩序，使罪的影响不至彻底毁灭社会结构。
+
+**爱邻舍的神学根基**：22:21-27这段话提供了爱邻舍之最深的神学理由——"因为你们曾经如此"。我们对弱势者的怜悯，不是来自对他们困境的同情，而是来自对自身被神拯救之历史的记忆。改革宗传统特别强调：恩典历史（historia salutis）必须塑造信徒的道德实践。被拯救的记忆，必须成为服事他人的动力。
+
+**司法律法与礼仪律法的区分**：本章混合了司法律法（财产赔偿、弱势保护）和礼仪律法（初熟之物、圣洁饮食）。改革宗神学传统区分律法的三个类型：道德律（永恒有效）、司法律（以色列国家情境下有效，原则可应用）、礼仪律（在基督成全后已废止）。这种区分有助于我们智慧地将旧约律法应用于当代处境。`,
+    theology_en: `**Reformed Theological Perspective: Common Grace and Love of Neighbor**
+
+The deepest theological thread running through this chapter is God's **common grace** operating through law to restrain society, and how God's **special concern for the vulnerable** becomes the foundation of moral obligation.
+
+**Calvin's Insight:** The law is not only binding on the church; through natural law and civil law, it exercises a restraining function on all of society. The property and protection laws of this chapter are a concrete expression of common grace — God uses law to maintain basic social order, preventing sin from destroying human community entirely.
+
+**The Theological Basis for Loving the Neighbor:** Exodus 22:21–27 provides the deepest theological motive for mercy — "for you were sojourners in Egypt." Our compassion for the vulnerable does not arise merely from empathy with their plight; it arises from remembering our own history of being saved by God. The Reformed tradition particularly emphasizes: the history of grace (historia salutis) must shape the moral practice of believers. The memory of redemption becomes the engine of service to others.
+
+**Judicial vs. Ceremonial Laws:** This chapter weaves together judicial laws (property restitution, protection of the weak) and ceremonial laws (firstfruits, dietary holiness). Reformed theology distinguishes three categories of Old Testament law: moral law (eternally binding), judicial law (applicable in Israel's national context, with transferable principles), and ceremonial law (fulfilled and abrogated in Christ). This distinction helps us apply the Old Testament wisely to contemporary contexts.`,
+    christShadow_zh: `**基督的预表：完全的赔偿与完全的代替**
+
+出埃及记22章的核心主题——赔偿与代替——在耶稣基督身上得到了终极的应验。
+
+**律法要求的赔偿**：我们偷窃了神的荣耀——我们应当全心全意爱神、服事神，却将本属于祂的心思、时间、爱，挪用于自己和偶像。按照律法，我们欠下的债是无法以倍数偿还的。
+
+**基督是完全的赔偿者**：耶稣在十字架上承担了我们亏欠神的全部债务。祂不仅"还清了我们的债"，更将自己的义归算给我们——这是一种超越律法所要求之最大倍数的偿还。
+
+**初熟之物的成全**："初熟之物"的献祭预表了基督作为"睡了之人初熟的果子"（林前15:20）——祂是死人中第一个复活的，使所有属祂的人将来也必复活。
+
+**关于抵押的外衣**：那件被抵押的、必须在日落前归还的外衣，让我想起主耶稣在十字架上的赤身受死——祂脱去了属于自己的一切，使我们可以穿上祂的义袍（赛61:10，启19:8）。祂成为赤露的，使我们得穿戴；祂成为贫穷的，使我们因祂的贫穷成为富足（林后8:9）。`,
+    christShadow_en: `**The Shadow of Christ: Perfect Restitution and Perfect Substitution**
+
+The central theme of Exodus 22 — restitution and substitution — finds its ultimate fulfillment in Jesus Christ.
+
+**The Debt the Law Requires:** We have stolen God's glory — we were meant to love and serve him with our whole hearts, yet we have diverted the thoughts, time, and love that belong to him toward ourselves and idols. The debt we owe cannot be paid back at any multiple.
+
+**Christ as the Perfect Restitution:** On the cross, Jesus bore the full weight of our debt to God. He did not merely "pay off" what we owed; he credited his own perfect righteousness to our account — a repayment surpassing any multiple the law could require.
+
+**The Fulfillment of the Firstfruits:** The offering of firstfruits foreshadows Christ as "the firstfruits of those who have fallen asleep" (1 Corinthians 15:20) — the first to rise from the dead, guaranteeing that all who belong to him will follow.
+
+**The Pledged Cloak:** The cloak held as collateral, which must be returned before sunset, calls to mind the Lord Jesus stripped and exposed on the cross — he was divested of all that was his, so that we might be clothed in his righteousness (Isaiah 61:10; Revelation 19:8). He became naked, that we might be clothed. He became poor, so that by his poverty we might become rich. (2 Corinthians 8:9)`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 23,
+    publishDate: '2026-06-01',
+    title: '公义、节期与应许之地', titleEn: 'Justice, Festivals, and the Promised Land',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 23 / Exodus 23',
+    content_zh: `我是摩西。写下这些律例时，西奈山的烟与火仍历历在目，神的声音仍在我耳畔回响。第二十三章是"约书"的末篇，也是神将祂的子民带入应许之地之前，所给予的最后一段路程指南。
+
+这一章分三段：公义律例、节期律法、和应许之地的异象。每一段都在说同一件事：你们是圣洁的神的圣洁子民，你们的生活——在法庭上、在节日中、在征途里——都必须活出这身份。
+
+**公义的律例：法庭与社会**
+
+"不可随众行恶，不可在争讼的事上随众偏行，作见证屈枉正直。"（出23:2）
+
+在审判官的席上，在证人的台上，多数人的声音不是真理的保证。神的子民被呼召抗拒群体压力，单单站立在真理一边。这是一个反文化的命令——人类社会总有随波逐流的诱惑，而神说：不可。
+
+更令我深思的是接下来的这句话："也不可在争讼的事上偏护穷人。"（出23:3）神不仅禁止欺压穷人，也禁止因怜悯穷人而歪曲公义。公义的眼是不看人的——无论贫富，无论强弱，只看事实。这是极其高尚也极其艰难的要求，因为人心天然会向强权倾斜，也会向同情心倾斜，但两者都可能歪曲公义。
+
+神又说了一件出乎我意料的事："若遇见你仇敌的牛或驴迷失了路，总要牵回来交给他。若看见恨你人的驴压卧在重驮之下，不可走开，务要和驴主一同抬开重驮。"（出23:4-5）
+
+帮助你的仇敌！这与人的本性多么相悖。但这正是神的律法所要求的：在一个被罪扭曲的社会里，爱邻舍不只是爱可爱的邻舍，而是连仇敌也要以善回应。主耶稣后来说"要爱你们的仇敌"（太5:44），原来这命令早在西奈山下就已埋下了种子。
+
+**三大节期：安息年与安息日**
+
+神颁布了以色列一年的节期日历：**逾越节**（无酵饼节）、**七七节**（初熟节）、**住棚节**（收藏节）。这三个节期，是以色列信仰生活的年度骨架。
+
+"一年三次，凡你们中间的男丁要朝见主耶和华。"（出23:17）
+
+每年三次，全国的男人都要带着礼物，离开田间农事，来到神面前。这是一个定期的"记忆行动"——提醒自己：你不是靠双手养活自己，你是靠神的恩典而活。
+
+但在节期之前，神先说了关于**安息日**和**安息年**的命令："六年你要耕种你的地，收藏土产；到第七年要叫地歇息，不耕不种，使你民中的穷人有得吃，他们所剩下的，野地的走兽可以吃。你修理葡萄园和橄榄园，也要照样行。"（出23:10-11）
+
+安息年的地！土地每七年要"休息"一次，庄稼不收，穷人和野兽都可以进来吃。这是一个关于所有权的神学宣言：这地不是你的，是神的。你只是管家，你所"拥有"的，神随时可以命令你放手。
+
+同样，安息日"叫你的牛、驴可以歇息，使你婢女的儿子和寄居的人可以舒畅"（出23:12）。神把六天工作、一天休息的节奏，不仅给了以色列人，也给了他们的动物、奴仆、外来寄居者——这里没有任何人是工具，每一个生命都有被造物应有的安息。
+
+**应许之地的异象：使者与征途**
+
+最后，神给了以色列一个令人心跳加速的应许："我差遣使者在你前面，在路上保护你，领你到我所预备的地方去。"（出23:20）
+
+这是谁？这位"使者"不是普通的天使——因为神说"祂的名在祂里面"（出23:21），这是神圣名字的居所，是神性临在的标志。许多教父和改革宗神学家将这位使者解释为道成肉身之前的基督（前身基督，Christophany）——那位贯穿整个旧约、在火焰荆棘中、在雅各角力中显现的那一位。
+
+神的应许，伴随着严肃的警告："你不可跪拜他们的神，不可事奉他，也不可效法他们的行为，却要把神像尽行拆毁，打碎他们的柱像。"（出23:24）
+
+进入应许之地，不是军事征服，首先是属灵征战。最大的危险不是迦南人的战车，而是迦南人的神明——那些用性与力量和恐惧来吸引人心的偶像。
+
+神应许："我必赐福给你的食物和你的水，也必从你们中间除去疾病……你一生的年日，我要使你享足。"（出23:25-26）应许是真实的，但应许是有条件的——条件不是完全的顺服（因为那没有人能做到），而是对神的专一委身，对偶像的彻底拒绝。
+
+我摩西站在西奈山上，回望带出来的这群百姓——他们崇拜过金牛犊，他们会在路上抱怨，他们脆弱而善变。但神仍然说"我差遣使者在你前面"。不是因为他们值得，而是因为神有约在先，神的信实比人的软弱更大。
+
+这，就是恩约神学的心脏。`,
+    content_en: `I am Moses. As I set down these ordinances, the smoke and fire of Sinai are still vivid before me, the voice of God still echoing in my ears. Chapter twenty-three is the closing section of the Book of the Covenant, the final stretch of instructions before God's people enter the Promised Land.
+
+This chapter falls into three parts: laws of justice, laws of the festivals, and the vision of the Promised Land. Each part says the same thing: you are a holy people belonging to a holy God; your lives — in the courtroom, at the festival, on the march — must embody that identity.
+
+**The Laws of Justice: Courts and Community**
+
+"You shall not spread a false report. You shall not join hands with a wicked man to be a malicious witness. You shall not fall in with the many to do evil, nor shall you bear witness in a lawsuit, siding with the many, so as to pervert justice." (Exodus 23:1–2)
+
+On the judge's seat, in the witness box, the voice of the majority is no guarantee of truth. God's people are called to resist group pressure and stand alone on the side of truth. This is a countercultural command — human society is always tempted to go along with the crowd, and God says: No.
+
+More striking is the next verse: "Nor shall you be partial to a poor man in his lawsuit." (Exodus 23:3) God prohibits not only the oppression of the poor, but also distorting justice in the name of pity for the poor. Justice has no eyes for social status — wealthy or destitute, powerful or helpless, it sees only the facts. This is a lofty and difficult demand, because the human heart naturally tilts both toward power and toward sympathy — and either can corrupt justice.
+
+Then God said something that surprised even me: "If you meet your enemy's ox or his donkey going astray, you shall bring it back to him. If you see the donkey of one who hates you lying down under its burden, you shall refrain from leaving him with it; you shall rescue it with him." (Exodus 23:4–5)
+
+Help your enemy! How contrary to human nature. Yet this is what God's law requires: in a world distorted by sin, loving your neighbor means not only loving the lovable neighbor, but responding with goodness even to those who hate you. When Jesus said "love your enemies" (Matthew 5:44), the seed had already been planted here at the foot of Sinai.
+
+**The Three Feasts: Sabbath Year and Sabbath Day**
+
+God ordained Israel's annual festival calendar: **Passover** (the Feast of Unleavened Bread), **the Feast of Weeks** (Firstfruits), and **the Feast of Booths** (the ingathering). These three festivals formed the annual skeleton of Israel's life with God.
+
+"Three times in the year shall all your males appear before the Lord God." (Exodus 23:17)
+
+Three times a year, every man in Israel was to leave his fields, take up his offering, and come before God. This was a regular act of memory — a reminder: you are not sustained by your own hands; you live by the grace of God.
+
+But before the feasts, God spoke of the **Sabbath year** and the **Sabbath day**: "For six years you shall sow your land and gather in its yield, but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave the beasts of the field may eat." (Exodus 23:10–11)
+
+The land must rest! Every seventh year, fields go untended; the poor and the wild animals may eat freely. This is a theological declaration about ownership: this land is not yours — it belongs to God. You are stewards. What you "possess," God may at any moment command you to release.
+
+Similarly, the Sabbath day is "that your ox and your donkey may have rest, and the son of your servant woman, and the alien, may be refreshed." (Exodus 23:12) God built the rhythm of six days' work and one day's rest not only for Israel, but for their animals, their servants, and the foreigners living among them. No one in this system is merely a tool. Every living creature has the sabbath rest that belongs to it as God's creature.
+
+**The Vision of the Promised Land: The Angel and the Journey**
+
+Finally, God gave Israel a promise that quickens the pulse: "Behold, I send an angel before you to guard you on the way and to bring you to the place that I have prepared." (Exodus 23:20)
+
+Who is this? This "angel" is no ordinary messenger — for God says "my name is in him" (Exodus 23:21), marking him as the bearer of the divine name, a sign of God's own presence. Many church fathers and Reformed theologians have interpreted this figure as the pre-incarnate Christ (a Christophany) — the One who appears throughout the Old Testament: in the burning bush, wrestling with Jacob, leading the pillar of cloud and fire.
+
+God's promise comes with a solemn warning: "You shall not bow down to their gods nor serve them, nor do as they do, but you shall utterly overthrow them and break their pillars in pieces." (Exodus 23:24)
+
+Entering the Promised Land is not first of all a military conquest — it is a spiritual campaign. The greatest danger is not Canaanite war chariots; it is Canaanite gods — idols that attract the human heart through sex, power, and fear.
+
+God promised: "I will bless your bread and your water, and I will take sickness away from among you… I will fulfill the number of your days." (Exodus 23:25–26) The promise is real, but it has a condition — not perfect obedience (for no one can achieve that), but exclusive devotion to God and complete rejection of idols.
+
+I, Moses, stood on Sinai and looked back at the people I had led out — the people who had worshipped a golden calf, who would grumble on the road ahead, fragile and fickle. Yet God still said, "I send an angel before you." Not because they deserved it, but because God had made a covenant, and God's faithfulness is greater than human weakness.
+
+This is the heart of covenant theology.`,
+    historyContext_zh: `**历史背景：迦南宗教与以色列节期**
+
+出埃及记23章的节期律法（逾越节、七七节、住棚节）在历史学界有丰富的研究背景：
+
+**三大节期与农业历法**：以色列的三大节期与迦南农业历法密切相关——逾越节对应大麦初熟，七七节对应小麦初熟，住棚节对应秋季收藏。这不是偶然的，而是神将祂的救赎记忆（出埃及）嵌入以色列人的农业生活节奏，让每年的丰收都成为感恩祂恩典的机会。
+
+**安息年（沙米塔）的历史实践**：安息年的经济意义一直是历史学家争议的焦点。有证据显示以色列在二战国时期（公元前8-7世纪）并未全面执行安息年，历代志下36:21更提及被掳是为了让土地"享受安息年"——即长期未执行安息年的神圣惩罚。
+
+**"带我名的使者"**：这位"名在其中的使者"在旧约历史中引发了神学争论。朱斯丁殉道者（Justin Martyr）、俄利根、奥古斯丁以及加尔文都曾讨论此处，改革宗传统普遍将其视为基督前身显现的有力证据。`,
+    historyContext_en: `**Historical Context: Canaanite Religion and the Israelite Festivals**
+
+The festival laws of Exodus 23 (Passover, the Feast of Weeks, the Feast of Booths) are richly documented in historical scholarship:
+
+**The Three Feasts and the Agricultural Calendar:** Israel's three major festivals correspond closely to the Canaanite agricultural calendar — Passover aligns with the barley harvest, Weeks with the wheat harvest, and Booths with the autumn ingathering. This is not accidental. God embedded Israel's memory of redemption (the Exodus) into their agricultural rhythms, transforming every harvest into an occasion to give thanks for his grace.
+
+**The Historical Practice of the Sabbath Year (Shemittah):** Whether Israel consistently observed the sabbath year is disputed by historians. Evidence suggests the practice was not fully maintained during the divided monarchy (8th–7th centuries BC); 2 Chronicles 36:21 explicitly connects the Babylonian exile to the land "enjoying its sabbaths" — divine retribution for years of neglect.
+
+**"The Angel in Whom Is My Name":** This figure has generated sustained theological debate. Justin Martyr, Origen, Augustine, and Calvin all discussed this passage; the Reformed tradition generally regards it as strong evidence for a pre-incarnate appearance of Christ (Christophany).`,
+    structure_zh: `**出埃及记第二十三章结构**
+
+1. **公义律例：法庭与邻舍**（1-9节）
+   - 禁止假见证和随众偏行（1-3节）
+   - 帮助仇敌的牲畜（4-5节）
+   - 不可在审判中偏向穷人或枉屈义人（6-9节）
+
+2. **安息年与安息日**（10-13节）
+   - 第七年土地安息（10-11节）
+   - 每周第七日安息（12节）
+   - 不可提别神的名（13节）
+
+3. **三大节期律法**（14-19节）
+   - 无酵饼节（逾越节）（15节）
+   - 初熟节（七七节）（16节）
+   - 收藏节（住棚节）（16节）
+   - 三节朝见神（17节）
+   - 附加礼仪规定（18-19节）
+
+4. **应许之地：使者与征服**（20-33节）
+   - 神差遣使者引路（20-23节）
+   - 专心事奉神的应许与祝福（24-26节）
+   - 渐进驱逐列国的应许（27-31节）
+   - 不可与迦南人立约（32-33节）`,
+    structure_en: `**Structure of Exodus 23**
+
+1. **Laws of Justice: Courts and Neighbors** (vv. 1–9)
+   - Prohibition of false witness and mob justice (vv. 1–3)
+   - Helping an enemy's animal (vv. 4–5)
+   - No partiality to the poor; no perverting justice (vv. 6–9)
+
+2. **Sabbath Year and Sabbath Day** (vv. 10–13)
+   - The land rests in the seventh year (vv. 10–11)
+   - The weekly Sabbath rest (v. 12)
+   - Do not mention other gods' names (v. 13)
+
+3. **The Three Annual Feasts** (vv. 14–19)
+   - The Feast of Unleavened Bread (Passover) (v. 15)
+   - The Feast of Harvest (Weeks) (v. 16)
+   - The Feast of Ingathering (Booths) (v. 16)
+   - Three annual appearances before God (v. 17)
+   - Supplementary ritual regulations (vv. 18–19)
+
+4. **The Promised Land: The Angel and the Conquest** (vv. 20–33)
+   - God sends an angel to lead them (vv. 20–23)
+   - Promises and blessings for exclusive devotion (vv. 24–26)
+   - The promise of gradual displacement of nations (vv. 27–31)
+   - No covenant with the Canaanites (vv. 32–33)`,
+    theology_zh: `**改革宗神学视角：安息的神学与圣约的进程**
+
+**安息的神学**：本章中的安息日和安息年，不仅是社会规定，更是深刻的神学宣言。加尔文指出，安息是对神主权的承认——当以色列人让土地安息，让仆人安息时，他们是在宣告：这一切不是我的，我在这里只是管家，最终的供应者是神。
+
+改革宗神学强调安息日（主日）对新约信徒的持续有效性，尽管形式从第七日转为第一日（复活日）。其神学精髓是不变的：人需要定期停下来，在神面前记念、感恩、更新。
+
+**渐进征服的神学**：神明确说祂不会"在一年之内"将迦南人驱逐，而是"慢慢地"（出23:29-30）。这不是神能力的限制，而是神智慧的安排——以色列人尚未准备好独立管理这广大的土地。神的时间表顾念人的有限，这是一种充满恩典的渐进性（progressive）圣约实践。
+
+这一原则在灵命成长上也有重要的应用：神不会一下子除去我们所有的罪性，而是在整个一生中，通过患难、律法的光照、圣灵的更新，渐进地使我们成圣。恩典不是瞬间的魔法，而是生命全程的工作。`,
+    theology_en: `**Reformed Theological Perspective: The Theology of Rest and Covenantal Progress**
+
+**The Theology of Rest:** The Sabbath day and Sabbath year in this chapter are not merely social regulations — they are profound theological declarations. Calvin observed that rest is an acknowledgment of divine sovereignty. When Israel lets the land lie fallow, when masters release servants for a day, they are proclaiming: this is not mine; I am only a steward here; the ultimate provider is God.
+
+The Reformed tradition insists on the continuing validity of the Sabbath for New Testament believers, though its form shifts from the seventh day to the first (the day of resurrection). The theological substance is unchanged: people need to regularly stop, remember, give thanks, and be renewed before God.
+
+**The Theology of Gradual Conquest:** God explicitly says he will not drive out the Canaanites "in a single year," but "little by little." (Exodus 23:29–30) This is not a limitation on God's power, but an expression of his wisdom — Israel was not yet ready to manage and inhabit the full breadth of the land. God's timetable accommodates human limitations. This is a gracious progressive covenantal practice.
+
+This principle applies directly to spiritual growth: God does not remove all our sinfulness at once, but throughout our entire lives — through trials, the illumination of the law, and the renewal of the Spirit — he progressively sanctifies us. Grace is not instantaneous magic; it is the work of a lifetime.`,
+    christShadow_zh: `**基督的预表：那位名在其中的使者**
+
+本章中最光辉的基督预表，是那位"名在其中的使者"（出23:20-23）。
+
+**神学家的解读**：从早期教父到宗教改革时期的加尔文，几乎所有改革宗神学家都将这位使者解读为前身基督（pre-incarnate Christ）。理由是：
+- 祂有神的名字在祂里面（神性的标志）
+- 祂有权柄赦罪或惩罚（"你们若惹他发怒"）
+- 祂领人进入神所预备的地方（约14:2："我去是为你们预备地方"）
+
+**节期的成全**：三大节期在基督里得到了终极应验：
+- **逾越节**：基督是我们的逾越节羔羊（林前5:7），被杀献祭，使我们脱离罪与死的权势
+- **七七节（初熟节）**：基督是"睡了之人初熟的果子"（林前15:20），祂的复活是所有信徒将来复活的保证
+- **住棚节（收藏节）**：住棚节预表神与人同住的最终实现——"道成了肉身，住在我们中间"（约1:14，原文"支搭帐幕"），以及启示录21章最终新天新地中神与人永远同住
+
+**爱仇敌的成全**：出23:4-5关于帮助仇敌的命令，在基督身上得到了超越性的应验——当我们还是神的仇敌时，基督就为我们死了（罗5:8）。祂不仅帮助了祂的仇敌，更为仇敌舍命。`,
+    christShadow_en: `**The Shadow of Christ: The Angel in Whom Is God's Name**
+
+The most luminous foreshadowing of Christ in this chapter is "the angel" in whom God's name dwells (Exodus 23:20–23).
+
+**Theological Interpretation:** From the early church fathers to Calvin at the Reformation, nearly all Reformed theologians have identified this figure as the pre-incarnate Christ. The reasons are compelling:
+- He bears God's name within him (a mark of deity)
+- He has authority to forgive or to punish ("if you rebel against him")
+- He leads his people to the place God has prepared (cf. John 14:2: "I go to prepare a place for you")
+
+**The Fulfillment of the Feasts:** The three great feasts find their ultimate fulfillment in Christ:
+- **Passover:** Christ is our Passover lamb (1 Corinthians 5:7), sacrificed to deliver us from the power of sin and death
+- **Feast of Weeks (Firstfruits):** Christ is "the firstfruits of those who have fallen asleep" (1 Corinthians 15:20); his resurrection is the guarantee of every believer's future resurrection
+- **Feast of Booths (Ingathering):** The Feast of Booths foreshadows the ultimate fulfillment of God dwelling with humanity — "the Word became flesh and dwelt [tabernacled] among us" (John 1:14), and finally the eternal dwelling of God with his people in the new creation of Revelation 21
+
+**The Fulfillment of Loving the Enemy:** The command of Exodus 23:4–5 to help one's enemy finds its transcendent fulfillment in Christ — "while we were enemies we were reconciled to God by the death of his Son." (Romans 5:10) He did not merely help his enemies; he died for them.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 24,
+    publishDate: '2026-06-02',
+    title: '立约仪式', titleEn: 'The Covenant Ceremony',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 24 / Exodus 24',
+    content_zh: `我是摩西。这是我一生中最神圣的一天——不，是人类历史上最神圣的时刻之一。西奈山下，以色列民与永生神立约。山上，我独自进入那云彩深处，与神同在四十天四十夜。
+
+让我将那一天的事，一件件地告诉你。
+
+**盟约的宣告：百姓的应承**
+
+神将律法、典章和一切吩咐传达给我之后，我下山，将这一切告诉百姓。"摩西将耶和华的命令都述说给百姓听，百姓齐声说：耶和华所吩咐的，我们都必遵行。"（出24:3）
+
+"耶和华所吩咐的，我们都必遵行"——这句话，百姓说了两次（3节和7节）。我每次听到这句话，心里都是既感动又忧虑。感动，是因为百姓在这一刻的心志是真诚的；忧虑，是因为我知道人心的软弱——他们的承诺远比他们的能力更大。
+
+然而这承诺是必要的。盟约需要双方的立约宣告，即使我们明知一方必将失败，另一方必将持守。这是约的奥秘：神知道以色列必会违约，祂仍然立约；这是因为祂的约最终不是建立在以色列人的顺服上，而是建立在那将要来的一位——完全守约者的顺服上。
+
+**立约的血：约书与洒血仪式**
+
+我将神的话语写下来，这就是"约书"。次日清早，我在山脚下筑坛，为以色列十二支派立十二根柱子，派以色列的少年人献燔祭、平安祭。
+
+然后，我做了一件让所有人都屏息的事——
+
+"摩西将血的一半盛在盆中，其余的一半洒在坛上。然后将约书拿来，念给百姓听；他们说：耶和华所吩咐的，我们都必遵行。摩西将血洒在百姓身上，说：你看，这是立约的血，是耶和华按这一切话与你们立约的凭据。"（出24:6-8）
+
+立约的血。
+
+那血，一半洒在坛上（代表神），一半洒在百姓身上。这个动作的含义无比深刻：立约双方被同一血所连结，血是生命，血是盟约的担保。古代近东的立约仪式中，常有宰杀动物的程序，当事人从被劈开的动物中间走过，含义是："我若违约，愿我如此兽一般。"
+
+神与以色列所立的约，是以血为印——违约的代价是死亡。以色列人在那一刻未必完全理解这句话的深度，但我站在那里，望着那些被血洒到的百姓，心中有一种无法言说的感觉：这血，是暂时的，是指向前方的。总有一天，会有一位用自己的血来立一个更新、更好的约。
+
+**山上的神圣筵席：七十长老见神**
+
+接下来发生的事，是整个以色列历史上前所未有的：摩西、亚伦、拿答、亚比户，以及以色列七十位长老，一同上山——他们看见了以色列的神。
+
+"他们看见神的脚下彷彿有平铺的蓝宝石，如同天色明净。祂的手并不加害以色列的尊贵人；他们观看神，他们又吃又喝。"（出24:10-11）
+
+"他们观看神，他们又吃又喝。"
+
+我每次读到这句话都要停下来。这是何等的恩典！全能的神，宇宙的创造者，祂的脚踩在蓝宝石上，天色明净如镜——而七十位尘土做成的人，就坐在祂面前，吃喝！不是被烧灭，不是被击毙，而是被接纳，被款待。
+
+这是圣约筵席——这顿饭，是盟约关系的确立与庆祝。神邀请祂的百姓到祂的桌前同吃，这是在预表那最后的筵席、那从东到西万国要来赴席的羔羊婚宴（启19:9）。
+
+**进入云彩：摩西独上神山**
+
+然后神呼唤我独自上山。我把百姓交托给亚伦和户珥，就上去了。
+
+"摩西上山，有云彩把山遮盖。耶和华的荣耀停在西奈山上，云彩遮盖山六天；第七天神从云中呼唤摩西。"（出24:15-16）
+
+六天。神的荣耀在山上，云彩遮盖，我在山脚等候。第七天，神才呼唤我。这个等候是必要的——进入神的同在不是闯入，不是凭着自己的力量和勇气强攻，而是等候被呼召，等候神自己开门。
+
+"在山下以色列人眼前，耶和华荣耀的形状，彷彿烈火。摩西进入云中上山，在山上共四十天四十夜。"（出24:17-18）
+
+那云彩里面，是怎样的？语言无法描述。我只知道，我在那里四十天，听见了神的声音，领受了关于会幕、祭司、祭祀和圣约的全部指示。我知道山下的百姓，但我不知道他们正在做什么——我不知道，就在我与神亲密交谈的时候，他们正在铸造金牛犊。
+
+这大约是整个出埃及记中最深沉的讽刺，也是人心最真实的写照：山上有神的同在，山下有人的背叛。两件事，同时发生。`,
+    content_en: `I am Moses. This was the most sacred day of my life — indeed, one of the most sacred moments in all of human history. At the foot of Sinai, Israel entered into covenant with the living God. And on the mountain, I entered alone into the cloud, dwelling with God for forty days and forty nights.
+
+Let me tell you what happened that day, step by step.
+
+**The Covenant Declared: The People's Pledge**
+
+After God had communicated all his laws and ordinances to me, I descended the mountain and reported everything to the people. "Moses came and told the people all the words of the LORD and all the rules. And all the people answered with one voice and said, 'All the words that the LORD has spoken we will do.'" (Exodus 24:3)
+
+"All that the LORD has spoken we will do" — the people said it twice (verses 3 and 7). Every time I heard those words, I was moved and anxious at the same time. Moved, because in that moment their commitment was sincere. Anxious, because I know the weakness of the human heart — their promise far exceeded their ability to keep it.
+
+Yet the pledge was necessary. A covenant requires both parties to speak their vow — even when we know that one party will inevitably fail and the other will remain faithful. This is the mystery of the covenant: God knew Israel would break it, and still he made it. Because his covenant is ultimately not built on Israel's obedience, but on the obedience of the One who was to come — the perfect Covenant-Keeper.
+
+**The Blood of the Covenant: The Book and the Sprinkling**
+
+I wrote down God's words — this became the "Book of the Covenant." The next morning I rose early, built an altar at the foot of the mountain, and erected twelve pillars for Israel's twelve tribes. I appointed young men from Israel to offer burnt offerings and peace offerings.
+
+Then I did something that left every witness breathless —
+
+"Moses took half of the blood and put it in basins, and half of the blood he threw against the altar. Then he took the Book of the Covenant and read it in the hearing of the people. And they said, 'All that the LORD has spoken we will do, and we will be obedient.' And Moses took the blood and threw it on the people and said, 'Behold the blood of the covenant that the LORD has made with you in accordance with all these words.'" (Exodus 24:6–8)
+
+The blood of the covenant.
+
+Half the blood was thrown against the altar (representing God); the other half was thrown on the people. The significance is immense: the two covenant parties are bound together by a single blood. Blood is life; blood is the surety of the covenant. In ancient Near Eastern covenant rituals, animals were slaughtered and the parties walked between the divided carcasses, declaring: if I break this covenant, may I be as this animal. 
+
+The covenant between God and Israel was sealed in blood — the penalty for breaking it was death. Israel in that moment may not have fully grasped the depth of what was happening. But standing there, watching the blood fall on the people, I felt something I could not name: this blood is temporary. It points forward. One day, Someone will come who will ratify a new and better covenant with his own blood.
+
+**The Sacred Meal on the Mountain: The Seventy Elders See God**
+
+What followed was unprecedented in all of Israel's history: Moses, Aaron, Nadab, Abihu, and seventy of Israel's elders ascended together — and they saw the God of Israel.
+
+"There was under his feet as it were a pavement of sapphire stone, like the very heaven for clearness. And he did not lay his hand on the chief men of the people of Israel; they beheld God, and ate and drank." (Exodus 24:10–11)
+
+"They beheld God, and ate and drank."
+
+Every time I read these words I must stop. What grace this is! The Almighty God, Creator of the universe, his feet resting on sapphire blue like the sky at its clearest — and seventy people made of dust sat before him and ate and drank. Not struck dead. Not consumed. Welcomed. Hosted at table.
+
+This is the covenant meal — this eating and drinking was the establishment and celebration of the covenant relationship. God invited his people to his table. This is a foretaste of the final feast, the wedding supper of the Lamb, when people from east and west will come and recline at table in the kingdom of God. (Revelation 19:9)
+
+**Into the Cloud: Moses Ascends Alone**
+
+Then God called me to ascend alone. I left the people in the care of Aaron and Hur, and I went up.
+
+"Moses went up on the mountain, and the cloud covered the mountain. The glory of the LORD dwelt on Mount Sinai, and the cloud covered it six days. And on the seventh day he called to Moses out of the midst of the cloud." (Exodus 24:15–16)
+
+Six days. God's glory rested on the mountain; the cloud covered it; I waited at the foot. On the seventh day, God called. The waiting was necessary — entering God's presence is not a matter of storming in by force or courage. It is waiting to be called. Waiting for God himself to open the way.
+
+"Now the appearance of the glory of the LORD was like a devouring fire on the top of the mountain in the sight of the people of Israel. Moses entered the cloud and went up on the mountain. And Moses was on the mountain forty days and forty nights." (Exodus 24:17–18)
+
+What was inside that cloud? Language cannot describe it. I know only that for forty days I heard God's voice and received the complete instructions for the tabernacle, the priesthood, the sacrifices, and the covenant. I knew the people were below — but I did not know what they were doing. I did not know that even as I was in intimate conversation with God, they were casting a golden calf.
+
+This is perhaps the most profound irony in all of Exodus — and the truest portrait of the human heart: on the mountain, God's presence; at the foot of the mountain, human betrayal. Both things, happening at the same moment.`,
+    historyContext_zh: `**历史背景：古代立约仪式与西奈盟约的独特性**
+
+出埃及记24章是整个旧约中对立约仪式描述最详细的段落之一，历史学家和圣经学者对其文化背景有丰富研究。
+
+**赫梯宗主约的形式**：学者乔治·门登霍尔（George Mendenhall）和克劳斯·柯赫（Klaus Koch）指出，西奈盟约的结构与公元前14-13世纪赫梯帝国的宗主约（Suzerainty Treaty）高度吻合：历史序言（神救以色列出埃及）、规定（律法典章）、见证（十二柱）、祝福与咒诅（遵守则祝福，违背则咒诅）。这一文化背景证明西奈盟约是在真实的历史情境中颁布的，并非后期编造。
+
+**血盟仪式**：古代中东有"血盟"传统，立约双方以血相连。但以色列立约仪式的独特性在于：血被洒在神的坛（代表神）和百姓身上——这是神主动与人立约的神学宣言，而非平等双方的血盟。
+
+**七十长老见神**：七十位长老代表整个以色列民族（七十这个数字在古代表示完整、全体），他们"见神"的经历在旧约中极为罕见，突显了西奈盟约的独特崇高性。`,
+    historyContext_en: `**Historical Context: Ancient Covenant Ceremonies and the Uniqueness of Sinai**
+
+Exodus 24 contains one of the most detailed descriptions of a covenant ratification ceremony in all of the Old Testament. Historians and biblical scholars have thoroughly investigated its cultural context.
+
+**The Hittite Suzerainty Treaty Form:** Scholars George Mendenhall and Klaus Koch noted that the structure of the Sinai covenant closely parallels the Hittite suzerainty treaties of the 14th–13th centuries BC: historical prologue (God's rescue of Israel from Egypt), stipulations (the laws and ordinances), witnesses (the twelve pillars), and blessings and curses (obedience brings blessing; violation brings judgment). This cultural parallel provides strong evidence that the Sinai covenant was ratified in a real historical setting, not invented in a later period.
+
+**The Blood Covenant Ritual:** Blood covenants are widely attested across the ancient Near East, where two parties were bound by blood. The uniqueness of Israel's ceremony lies in the blood being sprinkled both on the altar (representing God) and on the people — a theological declaration that God himself has taken the initiative to enter covenant with humanity; this is not a covenant between equals.
+
+**The Seventy Elders Seeing God:** The seventy elders represent the entire nation of Israel (the number seventy signifying completeness in ancient thought). Their experience of "beholding God" is extraordinarily rare in the Old Testament, highlighting the singular, transcendent dignity of the Sinai covenant.`,
+    structure_zh: `**出埃及记第二十四章结构**
+
+1. **立约的准备：宣告与应承**（1-4节）
+   - 神呼召摩西、亚伦等人上山（1-2节）
+   - 摩西传达律法，百姓应许顺从（3节）
+   - 摩西书写约书，筑坛立柱（4节）
+
+2. **立约的血：洒血仪式**（5-8节）
+   - 少年人献祭（5节）
+   - 血一半洒坛，一半洒民（6-8节）
+   - 宣告"立约的血"
+
+3. **圣约的确立：七十长老见神同食**（9-11节）
+   - 摩西、亚伦、拿答、亚比户及七十长老上山
+   - 他们见神，在神面前吃喝
+
+4. **摩西独上山进入云彩**（12-18节）
+   - 神呼召摩西独上领受石版（12节）
+   - 六天等候，第七天被呼唤（16节）
+   - 摩西进入云彩，在山上四十天四十夜（18节）`,
+    structure_en: `**Structure of Exodus 24**
+
+1. **Covenant Preparation: Declaration and Pledge** (vv. 1–4)
+   - God summons Moses, Aaron, and others to ascend (vv. 1–2)
+   - Moses relays the laws; the people pledge obedience (v. 3)
+   - Moses writes the Book of the Covenant; builds altar and pillars (v. 4)
+
+2. **The Blood of the Covenant: The Sprinkling Ceremony** (vv. 5–8)
+   - Young men offer burnt offerings (v. 5)
+   - Half the blood thrown on the altar; half on the people (vv. 6–8)
+   - The declaration: "the blood of the covenant"
+
+3. **Covenant Confirmed: The Seventy Elders Behold God and Eat** (vv. 9–11)
+   - Moses, Aaron, Nadab, Abihu, and seventy elders ascend
+   - They behold God; they eat and drink in his presence
+
+4. **Moses Ascends Alone into the Cloud** (vv. 12–18)
+   - God calls Moses alone to receive the stone tablets (v. 12)
+   - Six days of waiting; called on the seventh day (v. 16)
+   - Moses enters the cloud; forty days and forty nights on the mountain (v. 18)`,
+    theology_zh: `**改革宗神学视角：约的神学与圣礼的根源**
+
+出埃及记24章是改革宗约的神学（Covenant Theology）的关键文本之一。
+
+**恩典之约与行为之约的关系**：百姓的宣告"我们都必遵行"（出24:3）让人想起行为之约（Covenant of Works）的结构——以顺服换取祝福。但正如改革宗神学所阐明的，这段关系首先建立在神的救赎恩典之上（出埃及在先，律法在后），因此西奈盟约从根本上是**恩典之约**的旧约时期管理形式，而不是全新的行为之约。以色列人是被蒙恩拯救的民，律法是他们感恩回应的框架，不是他们赚取救恩的途径。
+
+**圣餐的预表**：七十长老"见神，又吃又喝"（出24:11）是圣餐神学的重要根源。加尔文在《基督教要义》中强调圣餐是"圣约的印记"——就如西奈山上的筵席是旧约的印记，主的圣餐是新约的印记。在这两处，神都在邀请祂蒙约的子民：进来，坐在我面前，吃喝——我与你同在。
+
+**等候的神学**：摩西在山脚等候六天才被呼唤，是"等候神"这一属灵功课的经典范例。诗篇一再呼吁"当默默无声，专等候神"（诗62:1）。改革宗灵修传统强调，神的同在不是人可以凭自己努力强行进入的，而是祂赐予的恩典；信徒需要学习在等候中的信心与顺服。`,
+    theology_en: `**Reformed Theological Perspective: Covenant Theology and the Root of the Sacraments**
+
+Exodus 24 is one of the key texts in Reformed covenant theology.
+
+**The Covenant of Grace and the Covenant of Works:** The people's pledge "we will do" (Exodus 24:3) echoes the structure of a Covenant of Works — obedience in exchange for blessing. But as Reformed theology clarifies, this relationship is first grounded in God's redemptive grace (the Exodus precedes the law). Therefore the Sinai covenant is fundamentally the **Covenant of Grace** administered in the Old Testament era, not a new Covenant of Works. Israel was a people redeemed by grace; the law was the framework for their grateful response, not the means of earning their salvation.
+
+**The Root of the Lord's Supper:** The seventy elders "beholding God and eating and drinking" (Exodus 24:11) is an important root of eucharistic theology. Calvin, in the Institutes, emphasized that the Lord's Supper is "the seal of the covenant" — just as the meal on Sinai sealed the old covenant, the Lord's Table seals the new covenant. In both, God issues the same invitation to his covenant people: Come. Sit before me. Eat and drink. I am with you.
+
+**The Theology of Waiting:** Moses waiting six days at the foot of the mountain before being called is a classic illustration of the spiritual discipline of waiting on God. The Psalms repeatedly urge: "For God alone my soul waits in silence" (Psalm 62:1). The Reformed spiritual tradition emphasizes that God's presence is not something human effort can force; it is his grace to give. Believers must learn the faith and obedience that waiting requires.`,
+    christShadow_zh: `**基督的预表：立约的血与更美的约**
+
+出埃及记24章是新约中被明确引用最多的旧约文本之一，基督的预表极为丰富。
+
+**最后晚餐的直接回应**：在最后晚餐中，耶稣亲口说："这杯是用我血所立的新约，这血是为你们流出来的。"（路22:20）祂直接引用了出24:8的"立约的血"。这是一个刻意的、神圣的宣告：西奈山的洒血仪式，在各各他找到了它的成全。
+
+**希伯来书的诠释**：希伯来书9:18-22详细比较了两约的血，结论是："按着律法，凡物差不多都是用血洁净的；若不流血，罪就不得赦免。"旧约的血（牛羊的血）只能使身体洁净，是"前事的影儿"（希10:1）；基督的血才能洁净良心，除去死行（希9:14）。
+
+**更美之约的中保**：摩西是西奈盟约的中保，但希伯来书8:6说基督是"更美之约的中保，这约原是凭更美之应许立的"。摩西将约书的话念给百姓听，然后用血确立盟约；基督将神的话语活出来，然后用自己的血完成那更美的约——不写在石版上，而是写在心版上（耶31:33，林后3:3）。
+
+**"见神，又吃又喝"的终极成全**：七十长老在神面前吃喝的异象，将在新耶路撒冷得到终极成全——在那里，神的子民将在祂的脸光中永远敬拜，一同坐席，不再有隔离，不再有死亡（启21:3-4，22:4）。`,
+    christShadow_en: `**The Shadow of Christ: The Blood of the Covenant and the Better Covenant**
+
+Exodus 24 is one of the most directly cited Old Testament texts in the New Testament, and its foreshadowing of Christ is extraordinarily rich.
+
+**The Direct Echo at the Last Supper:** At the Last Supper, Jesus said explicitly: "This cup that is poured out for you is the new covenant in my blood." (Luke 22:20) He directly echoed the "blood of the covenant" of Exodus 24:8. This was an intentional, sacred declaration: the blood-sprinkling ceremony at Sinai found its fulfillment at Calvary.
+
+**The Interpretation in Hebrews:** Hebrews 9:18–22 carefully compares the blood of the two covenants, concluding: "Under the law almost everything is purified with blood, and without the shedding of blood there is no forgiveness of sins." The blood of the old covenant (the blood of bulls and goats) could only cleanse the body — it was "a shadow of the good things to come" (Hebrews 10:1). The blood of Christ alone can purify the conscience and remove the dead works of sin. (Hebrews 9:14)
+
+**The Mediator of a Better Covenant:** Moses was the mediator of the Sinai covenant, but Hebrews 8:6 declares that Christ is "the mediator of a better covenant, which is enacted on better promises." Moses read the words of the covenant to the people and sealed it with blood; Christ lived out the words of God perfectly and completed the better covenant with his own blood — written not on stone tablets, but on the heart. (Jeremiah 31:33; 2 Corinthians 3:3)
+
+**The Ultimate Fulfillment of "Beholding God and Eating":** The vision of the seventy elders eating and drinking in the presence of God will find its ultimate fulfillment in the New Jerusalem — where God's people will worship in the full light of his face forever, seated together at the great feast, with no more separation, no more death. (Revelation 21:3–4; 22:4)`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 25,
+    publishDate: '2026-06-03',
+    title: '约柜、陈设饼桌与金灯台', titleEn: 'The Ark, the Table, and the Lampstand',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 25 / Exodus 25',
+    content_zh: `弟兄姐妹，我是摩西。出埃及记第二十五章是一个新篇章的开始——耶和华在西奈山上向我启示会幕的设计。从这一章起，神不再只是在远处说话，而是要住在祂百姓中间。祂说："又当为我造圣所，使我可以住在他们中间。"
+
+这句话何等惊人！那位创造天地的至高神，竟然愿意住在一群刚从埃及出来的前奴隶中间。天上的天都不足以容纳祂，祂却要在地上支搭一个帐幕来住。这不是因为神需要住处，而是因为祂渴望与祂的百姓同在。
+
+耶和华首先吩咐以色列人献举祭："你告诉以色列人当为我送礼物来；凡甘心乐意的，你们就可以收下归我。"注意——是"甘心乐意的"。神不强迫人奉献，祂要的是从心里涌出的感恩。这些礼物包括金、银、铜，蓝色紫色朱红色线和细麻，山羊毛，染红的公羊皮，海狗皮，皂荚木，点灯的油，做膏油和香的香料，红玛瑙与别样的宝石。
+
+然后耶和华吩咐我制造三件圣物。第一件是约柜——用皂荚木做一个柜子，长二肘半，宽一肘半，高一肘半，里外包上精金。柜上有施恩座，纯金做成，两端有两个基路伯，脸对脸，翅膀展开遮掩施恩座。耶和华说："我要在那里与你相会，又要从法柜施恩座上二基路伯中间，和你说我所要吩咐你传给以色列人的一切事。"
+
+约柜是整个会幕的核心。里面将存放十诫法版——神与以色列人立约的凭据。施恩座是赎罪日大祭司洒血之处——神的公义和怜悯在这里相遇。约柜不是偶像，而是神与人相会的地方。基路伯的翅膀遮掩施恩座，正如伊甸园的基路伯守护生命树的路——约柜是神恢复人与祂关系的起点。
+
+第二件是陈设饼桌——用皂荚木做桌子，包上精金，长二肘，宽一肘，高一肘半。桌上要摆陈设饼，常在神面前。这十二个饼代表以色列十二支派，常在神面前意味着神时刻看顾祂的百姓。饼是生命的供应——在旷野中，神用吗哪供养百姓；在会幕中，饼代表神永远的供应。
+
+第三件是金灯台——用精金锤出来，有一个主干和六个枝子，上面有杏花形的杯、球和花。灯台的设计精美绝伦，整个灯台是从一块精金锤出来的——不是拼接，而是一体。灯台上的七盏灯要常常点着，在圣所中提供光明。
+
+弟兄姐妹，这三件圣物揭示了神与人关系的三个基本面向：约柜代表神的同在和约的信实；陈设饼桌代表神的供应和看顾；金灯台代表神的光明和引导。会幕不是华丽的装饰，每一个细节都有神学意义，都指向那位将来要道成肉身住在我们中间的基督。
+
+耶和华特别强调："制造这一切物件都要照着我在山上指示你的样式。"人不能按自己的想法设计敬拜的方式——必须按神启示的样式。这是改革宗敬拜观的根基：我们的敬拜不是按人的喜好，而是按神的命令。`,
+    content_en: `Brothers and sisters, I am Moses. Exodus chapter 25 marks the beginning of a new section—the LORD revealing to me on Mount Sinai the design of the tabernacle. From this chapter onward, God would no longer merely speak from a distance but would dwell among His people. He said, "And let them make me a sanctuary, that I may dwell in their midst."
+
+What an astonishing statement! The Most High God who created heaven and earth was willing to dwell among a group of former slaves just out of Egypt. The heaven of heavens cannot contain Him, yet He would pitch a tent on earth to dwell. This was not because God needed a dwelling place but because He desired to be with His people.
+
+The LORD first commanded Israel to bring offerings: "Speak to the people of Israel, that they take for me a contribution. From every man whose heart moves him you shall receive the contribution for me." Note—"whose heart moves him." God does not compel giving; He desires gratitude that flows from the heart. These offerings included gold, silver, bronze, blue and purple and scarlet yarns and fine linen, goats' hair, tanned rams' skins, goatskins, acacia wood, oil for lamps, spices for anointing oil and incense, onyx stones and other gems.
+
+Then the LORD instructed me to make three sacred objects. First, the ark of the covenant—a chest of acacia wood, two and a half cubits long, a cubit and a half wide, a cubit and a half high, overlaid inside and out with pure gold. Upon it, a mercy seat of pure gold with two cherubim at each end, facing each other, their wings spread out covering the mercy seat. The LORD said, "There I will meet with you, and from above the mercy seat, from between the two cherubim that are on the ark of the testimony, I will speak with you about all that I will give you in commandment for the people of Israel."
+
+The ark was the tabernacle's very heart. Inside would be placed the tablets of the Ten Commandments—the evidence of God's covenant with Israel. The mercy seat was where the high priest would sprinkle blood on the Day of Atonement—where God's justice and mercy met. The ark was not an idol but the place where God met with man. The cherubim's wings covering the mercy seat echoed the cherubim guarding the way to the tree of life in Eden—the ark was the starting point of God's restoration of humanity's relationship with Him.
+
+Second, the table for the bread of the Presence—a table of acacia wood overlaid with pure gold, two cubits long, a cubit wide, a cubit and a half high. On it would be placed the bread of the Presence, always before God. These twelve loaves represented the twelve tribes of Israel; being always before God meant He constantly watched over His people. Bread is life's provision—in the wilderness God sustained the people with manna; in the tabernacle, the bread represented God's eternal provision.
+
+Third, the golden lampstand—hammered from pure gold, with a central shaft and six branches, adorned with almond-blossom cups, buds, and flowers. The lampstand's design was exquisitely beautiful, the entire piece hammered from a single block of gold—not assembled from parts but formed as one. Its seven lamps were to burn continually, providing light in the Holy Place.
+
+Brothers and sisters, these three sacred objects reveal three fundamental aspects of God's relationship with His people: the ark represents God's presence and covenant faithfulness; the table represents God's provision and care; the lampstand represents God's light and guidance. The tabernacle was not mere ornament; every detail carried theological meaning, pointing to Christ who would one day become flesh and dwell among us.
+
+The LORD particularly emphasized: "Exactly as I show you concerning the pattern of the tabernacle... so you shall make it." Humanity cannot design worship according to its own ideas—it must follow God's revealed pattern. This is the foundation of Reformed worship: our worship follows not human preference but divine command.`,
+    historyContext_zh: `出埃及记25-31章和35-40章是会幕建造的两个对称部分——前者是神的指示，后者是百姓的执行。古代近东的君王常在征服后建造神庙，但以色列的会幕独特之处在于它是可移动的——适合旷野中行走的百姓。会幕的设计与埃及和迦南的神庙有相似元素（如基路伯、洗濯盆等），但本质上是耶和华独特启示的产物。约柜的尺寸（约113x68x68厘米）意味着它是可以被四人抬着行走的，体现了神与百姓同行的理念。`,
+    historyContext_en: `Exodus 25-31 and 35-40 form two symmetrical sections of tabernacle construction—the former being God's instructions, the latter the people's execution. Ancient Near Eastern kings commonly built temples after conquest, but Israel's tabernacle was unique in being portable—suited for a people journeying through the wilderness. The tabernacle's design shared elements with Egyptian and Canaanite temples (such as cherubim and lavers), but was fundamentally the product of the LORD's unique revelation. The ark's dimensions (approximately 113x68x68 cm) meant it could be carried by four men, embodying the concept of God journeying with His people.`,
+    structure_zh: `**甘心奉献的命令（1-9节）**——"凡甘心乐意的"、列出奉献材料清单。
+
+**约柜的制作（10-22节）**——皂荚木包金、施恩座、两基路伯、"我要在那里与你相会"。
+
+**陈设饼桌（23-30节）**——包金的桌子、十二个饼、代表神的供应。
+
+**金灯台（31-40节）**——一块精金锤出、七枝灯、杏花形装饰、"照着山上指示你的样式"。`,
+    structure_en: `**The Command for Willing Offerings (vv. 1-9)**—"From every man whose heart moves him"; the list of offering materials.
+
+**The Ark of the Covenant (vv. 10-22)**—Acacia wood overlaid with gold, mercy seat, two cherubim, "there I will meet with you."
+
+**The Table for the Bread of the Presence (vv. 23-30)**—Gold-overlaid table, twelve loaves, representing God's provision.
+
+**The Golden Lampstand (vv. 31-40)**—Hammered from one piece of pure gold, seven lamps, almond-blossom ornamentation, "exactly as I show you."`,
+    theology_zh: `**神渴望与人同在**
+"使我可以住在他们中间"是整部圣经的核心主题之一。韦敏斯德信条第7章论神与人的约：神自愿降卑与人立约。至高的神不需要与人同在，但祂选择了这样做。这揭示了神的性情——祂不是遥远冷漠的神，而是渴望与祂所爱的百姓亲密相交的父。从伊甸园到会幕到所罗门圣殿到道成肉身到新耶路撒冷，"神与人同在"是一条贯穿始终的金线。
+
+**敬拜的规范性原则**
+"照着山上指示你的样式"——改革宗神学称之为"敬拜的规范性原则"（Regulative Principle of Worship）：敬拜中只能做神所命令的，不能添加人的发明。韦敏斯德信条第21章：敬拜神的蒙悦纳方式，乃是神自己所设立的。约柜、陈设饼桌、金灯台的每个细节都由神指定，不是摩西设计的。这教导我们：真正的敬拜不在乎人觉得好不好，而在乎神是否命令。
+
+**甘心的奉献**
+神要的是"甘心乐意"的奉献，不是勉强的。哥林多后书9:7说："各人要随本心所酌定的，不要作难，不要勉强，因为捐得乐意的人是神所喜爱的。"改革宗神学强调：真正的奉献出于对神恩典的回应，不是出于律法的强迫或功德的积累。`,
+    theology_en: `**God's Desire to Dwell with His People**
+"That I may dwell in their midst" is one of the Bible's central themes. Westminster Confession chapter 7 on God's covenant with man: God voluntarily condescended to covenant with humanity. The Most High God does not need to dwell with man, but He chose to do so. This reveals God's character—He is not a distant, cold deity but a Father who desires intimate fellowship with His beloved people. From Eden to the tabernacle to Solomon's temple to the incarnation to the New Jerusalem, "God with man" is the golden thread running throughout.
+
+**The Regulative Principle of Worship**
+"Exactly as I show you"—Reformed theology calls this the Regulative Principle of Worship: in worship, only what God commands may be done; human inventions may not be added. Westminster Confession chapter 21: the acceptable way of worshiping God is instituted by Himself. Every detail of the ark, table, and lampstand was specified by God, not designed by Moses. This teaches us: true worship is not about what humans find appealing but whether God has commanded it.
+
+**Willing Offering**
+God desired offerings given "willingly," not grudgingly. 2 Corinthians 9:7 says, "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver." Reformed theology emphasizes: genuine offering arises from response to God's grace, not from legal compulsion or merit accumulation.`,
+    christShadow_zh: `出埃及记第二十五章的三件圣物都深刻预表基督。约柜是基督最完整的预表之一。施恩座是赎罪之处——希伯来书9:5称之为"施恩的宝座"。大祭司在赎罪日将公牛和公山羊的血洒在施恩座上，预表基督用自己的血一次进入至圣所，成就了永远的赎罪（希伯来书9:12）。约柜中的法版代表神的律法——基督完全遵守了律法，成为我们的义。罗马书3:25说："神设立耶稣作挽回祭，是凭着耶稣的血，藉着人的信，要显明神的义。"
+
+陈设饼桌预表基督是生命的粮。约翰福音6:35主耶稣说："我就是生命的粮。到我这里来的，必定不饿；信我的，永远不渴。"十二个饼常在神面前，预表基督永远为我们在父面前代求（希伯来书7:25）。祂不仅供应我们肉身的需要，更供应我们灵魂的需要。
+
+金灯台预表基督是世界的光。约翰福音8:12："我是世界的光。跟从我的，就不在黑暗里走，必要得着生命的光。"灯台从一块金子锤出来，预表基督的位格不可分割——祂完全是神又完全是人，是一位整全的救主。启示录1:12-13约翰看见七个金灯台，基督在灯台中间行走——祂在教会中间同在。
+
+整个会幕预表了约翰福音1:14："道成了肉身，住在我们中间。""住"（skenoo）的希腊文正是"支搭帐幕"的意思。基督就是终极的会幕——神在祂里面与人同在。`,
+    christShadow_en: `All three sacred objects in Exodus 25 profoundly prefigure Christ. The ark is one of the most complete types of Christ. The mercy seat is the place of atonement—Hebrews 9:5 calls it the "mercy seat." On the Day of Atonement the high priest sprinkled the blood of bulls and goats on the mercy seat, prefiguring Christ entering the Most Holy Place once for all with His own blood, accomplishing eternal redemption (Hebrews 9:12). The tablets inside the ark represent God's law—Christ perfectly fulfilled the law, becoming our righteousness. Romans 3:25 says, "God put forward [Jesus] as a propitiation by his blood, to be received by faith... to show God's righteousness."
+
+The table for the bread of the Presence prefigures Christ as the bread of life. In John 6:35 the Lord Jesus said, "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst." The twelve loaves always before God prefigure Christ forever interceding for us before the Father (Hebrews 7:25). He supplies not only our physical needs but our spiritual needs.
+
+The golden lampstand prefigures Christ as the light of the world. John 8:12: "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life." The lampstand hammered from one piece of gold prefigures the indivisible person of Christ—fully God and fully man, one complete Savior. In Revelation 1:12-13 John saw seven golden lampstands with Christ walking among them—His presence among the churches.
+
+The entire tabernacle prefigures John 1:14: "And the Word became flesh and dwelt among us." The Greek word "dwelt" (skenoo) literally means "tabernacled." Christ is the ultimate tabernacle—God dwelling with man in Him.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 26,
+    publishDate: '2026-06-04',
+    title: '会幕的幔子与竖板', titleEn: 'The Curtains and Frames of the Tabernacle',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 26 / Exodus 26',
+    content_zh: `我是摩西，西坡拉的丈夫，利未支派的儿子，但更重要的——我是神的仆人。当我站在西奈山上，俯首聆听耶和华的声音，祂所颁布的每一条命令都如火焰般刻在我的心里。那四十个昼夜，不是酷刑，而是恩典——神啊，祢竟然要与我们同住！
+
+祂对我说会幕的幔子：十幅幔子，用捻的细麻、蓝色紫色朱红色线织成，上面要绣出基路伯的像。这不是普通的装饰，弟兄们。这是神的居所。祂是圣的，我们是罪人，然而祂却要俯就，搭起帐篷住在我们中间。
+
+我低头沉思，手中握着神给我的样式图，心里涌起一种难以名状的战兢与感恩。每一根线，每一块金扣，都不是人的创意，而是神的旨意。十一幅山羊毛的幔子盖在外层，保护着那精美绝伦的细麻幔子。再外面是红色公羊皮的遮盖，最外层是海狗皮——这会幕啊，外表朴素，内里荣耀，正如神的国度在这世界的样式：外表卑微，内里藏着无尽的荣光。
+
+竖板的指示让我沉思良久。四十八块皂荚木的竖板，每块用金子包裹，站立在银座上。银座！这银子从哪里来？后来我才明白，是从百姓的赎罪银里熔铸而成——每个以色列男丁半舍客勒，赎回自己的生命之价。这银座承托着整个会幕，而那银，是赎价的银。多么深刻的预表！整个与神同在的居所，其根基不是人的功德，而是赎罪之价。
+
+幔子把圣所与至圣所分开——那道蓝色紫色朱红色的幔子，绣着基路伯，悬挂在四根皂荚木柱上。这道幔子啊，你们可曾想过它意味着什么？神是圣洁的，人是罪污的，两者之间必须有隔断。大祭司一年只能进入至圣所一次，带着血——没有血，就没有赦免。
+
+我走过会幕院子，脚踩着旷野的黄沙，却思想着天上的事。这一切——幔子、竖板、银座、金钩——都是照着神在山上指示我的样式建造的。"你们要谨慎，照着在山上指示你的样式做。"这话在我耳中回响。神不要我们凭想象敬拜祂，祂要我们照着祂所启示的来亲近祂。
+
+会幕是可移动的——这点让我深受感动。神不是被困在一个固定的圣殿里，祂要与祂的子民同走旷野的路。哪里有以色列的营，哪里就有会幕；哪里有会幕，哪里就有神的荣耀。祂不是遥远的神，祂是同行的神。
+
+多年后，当我在摩押平原写下这些话，白发苍苍，手已颤抖，我仍然为那四十昼夜在山上所领受的一切感恩流泪。神要住在我们中间——这恩典，没有任何语言可以完全表达。`,
+    content_en: `I am Moses, servant of the LORD, son of Amram, and shepherd of this stiff-necked people. When I stood on Sinai and received the LORD's commands across forty days and nights, every instruction burned into my memory like fire on stone. The detailed instructions for the Tabernacle were not mere architectural blueprints—they were a covenant gift. God Almighty desired to dwell among sinners.
+
+He described the curtains: ten curtains of fine twined linen, woven with blue, purple, and scarlet yarn, embroidered with cherubim. Every thread, every cubit, every loop and clasp of gold—none of it was human invention. This was the pattern shown to me on the mountain, the earthly shadow of heavenly realities.
+
+Eleven curtains of goats' hair formed the outer tent, protecting the inner glory. Over these, a covering of rams' skins dyed red, and an outermost layer of sea cow hides. The Tabernacle appeared plain from without—even rough—but within lay breathtaking beauty. So it is with the kingdom of God: its glory is hidden from the proud, but revealed to those who enter by the prescribed way.
+
+The boards of acacia wood, forty-eight in total, each overlaid with gold and standing in sockets of silver—those silver sockets! Cast from the ransom money of Israel's males, half a shekel per man, the price of a redeemed life. The very foundation of God's dwelling place was built from atonement money. Nothing about approaching God rests on human merit; every plank stands in a base of purchased redemption.
+
+The veil—that magnificent curtain of blue, purple, and scarlet, embroidered with cherubim—divided the Holy Place from the Most Holy Place. That veil was a sermon in thread: God is holy; man is sinful; there must be a separation. Only once a year could the High Priest pass beyond it, and never without blood. Without the shedding of blood there is no forgiveness.
+
+Yet in all this separation, there is also approach. The Tabernacle was God's gracious condescension—He who inhabits eternity stooping to tent among dust and ashes. And the Tabernacle moved with us. Through every desert march, through every stopping place, the cloud and the glory traveled with the camp. He is not a distant God. He is Emmanuel—God with us.`,
+    historyContext_zh: `出埃及记二十五至三十一章是神颁布会幕建造指示的完整单元，学者称之为"会幕法典"（Tabernacle Code）。这段经文与创世记一至二章有深刻的文学平行：神七次对摩西说话（25:1; 30:11,17,22,34; 31:1,12），呼应创世记七日的创造结构，暗示会幕是神在以色列中间重建"伊甸园同在"的新创造。
+
+从考古和文化背景看，古近东的神庙建筑通常是君王彰显自身荣耀的纪念碑，而会幕恰恰相反：结构可移动，材料来自百姓的奉献，目的是神同在于子民。这与当时埃及、迦南的神庙文化形成鲜明对比。
+
+第26章所述的幔子工艺（青色紫色朱红色捻线，绣基路伯）与当时已知的古代近东纺织工艺高度吻合，反映了出埃及前以色列人在埃及学到的精湛手艺，神借着以色列人从埃及带出的财物（12:35-36）来建造祂的居所——历史的吊诡，也是神的主权。`,
+    historyContext_en: `Exodus 25–31 forms a unified literary unit scholars call the "Tabernacle Code." Notably, God speaks to Moses seven times within this section (25:1; 30:11, 17, 22, 34; 31:1, 12), paralleling the seven days of creation in Genesis 1–2. This literary parallel suggests the Tabernacle represents a new creation—God re-establishing His Eden-presence in the midst of Israel.
+
+Archaeologically, ancient Near Eastern temples were typically royal monuments glorifying the king who built them. The Tabernacle inverts this pattern: it was portable, constructed from the freewill offerings of the people, and its purpose was entirely relational—God dwelling among His covenant people. This stands in sharp contrast to the immovable temples of Egypt and Canaan.
+
+The embroidery techniques described in chapter 26—twisted fine linen with blue, purple, and scarlet thread—correspond well to textile arts documented in ancient Egypt, where Israel had labored for generations. Providentially, the gold, silver, and fine fabrics Israel had "plundered" from Egypt (12:35-36) became the material of God's dwelling place. Egypt's wealth, extracted as restitution from the house of slavery, was consecrated to the house of worship.`,
+    structure_zh: `出埃及记第二十六章结构清晰：
+
+**一、内层幔子（1-6节）**
+十幅细麻幔子，每五幅一组，用蓝色金钩连接。
+
+**二、外层山羊毛幔子（7-13节）**
+十一幅山羊毛幔子，每六幅、五幅各一组，用铜钩连接；多出的半幅垂在会幕后面。
+
+**三、最外层遮盖（14节）**
+红色公羊皮盖在外面，海狗皮为最外层。
+
+**四、竖板与银座（15-30节）**
+皂荚木竖板包金，南面、北面各二十块，西面六块另加两块角板；每块立在两个银座上。
+
+**五、隔幔与门幔（31-37节）**
+隔开圣所与至圣所的幔子，悬挂在四根金包柱子上；门口的帘子挂在五根柱子上。
+
+全章按"由内而外"的逻辑展开，反映神学原则：神的同在是核心，一切外部结构都是为保护和导向这神圣的中心。`,
+    structure_en: `Exodus 26 is organized concentrically, moving from the innermost beauty outward:
+
+**I. Inner Linen Curtains (vv. 1–6)**
+Ten curtains of fine twisted linen with cherubim, joined in two sets of five by fifty golden clasps.
+
+**II. Outer Goat-Hair Curtains (vv. 7–13)**
+Eleven curtains of goat hair, joined by fifty bronze clasps; the extra half-curtain hung at the rear.
+
+**III. Outermost Coverings (v. 14)**
+A layer of ram skins dyed red, topped by sea cow hides—plain, protective, unadorned.
+
+**IV. Upright Frames and Silver Bases (vv. 15–30)**
+Forty-eight acacia-wood frames overlaid with gold: twenty for the south, twenty for the north, six plus two corner frames for the west. Each stood in two silver sockets.
+
+**V. The Inner Veil and Entrance Screen (vv. 31–37)**
+The veil separating Holy Place from Most Holy Place, hung on four gold-overlaid pillars; the entrance screen hung on five pillars.
+
+The structure moves "from glory outward"—the most holy things at the center, with each successive layer less ornate. Access to God is graduated, reserved, and prescribed.`,
+    theology_zh: `第二十六章的神学核心是**神的超越与内住**（Divine Transcendence and Immanence）的张力。
+
+**神的圣洁与隔离（超越性）：** 幔子的设置不是装饰，而是神学宣告——神是圣洁的，罪人不能随便进入祂的同在。隔幔绣着基路伯，守卫着至圣所，正如基路伯曾守卫伊甸园的进入（创3:24）。人类因罪失去了与神的直接同在，这是严肃的宣告。
+
+**神的恩典与俯就（内住性）：** 然而神却主动要"住在以色列人中间"（出25:8）。会幕的存在本身就是恩典——是神主权的拣选，是神单方面的恩典，使有罪的百姓可以在规定的方式下亲近祂。这不是百姓的功德，而是神的旨意。
+
+**银座的神学：** 整个会幕的竖板立在银座上，而银来自赎罪的钱（出30:11-16）。改革宗神学强调：与神同在的根基是赎罪，不是人的宗教表现。约翰·加尔文注释说，会幕的每一细节都指向神圣洁的本性，同时也指向祂预备赦免之道的恩典。
+
+**礼仪的意义：** 神严格规定会幕的样式，表明真正的敬拜必须照着神所启示的方式进行，而不是人自己创造的方式。改革宗"唯独圣经"原则（Sola Scriptura）的含义之一，就是敬拜的规范原则（Regulative Principle of Worship）：只有神命令的才在敬拜中被允许。`,
+    theology_en: `The central theological tension of chapter 26 is the interplay between **Divine Transcendence and Immanence**.
+
+**Transcendence—God's Holiness and Separation:** The veil and the graduated structure of the Tabernacle declare that God is holy and cannot be approached casually by sinners. The cherubim embroidered on the veil echo the cherubim placed at Eden's entrance after the Fall (Gen. 3:24), guarding the presence of God from unholy intrusion. The architecture itself is a sermon on the holiness of God.
+
+**Immanence—God's Grace in Condescension:** Yet the very existence of the Tabernacle is an act of grace. God said, "Let them make Me a sanctuary, that I may dwell in their midst" (Ex. 25:8). This initiative was entirely divine. A holy God choosing to dwell among a sinful people is not self-evident; it is astonishing, sovereign mercy.
+
+**The Theology of the Silver Sockets:** The forty-eight frames of the Tabernacle stood in silver sockets, and that silver came from the ransom payment of Israel's men (Ex. 30:11–16). The entire structure of God's dwelling rested on atonement money. As Calvin observed, every detail of the Tabernacle pointed simultaneously to God's holiness and to His provision of a way of forgiveness.
+
+**The Regulative Principle:** God's insistence on an exact pattern (25:40; 26:30) reflects what Reformed theology calls the Regulative Principle of Worship: true worship is governed by Scripture alone, not by human invention. We may not approach God on our own terms.`,
+    christShadow_zh: `第二十六章的基督预表丰富而深刻：
+
+**幔子——基督的身体：** 希伯来书十章20节明确解释，至圣所的幔子象征基督的身体。当耶稣在十字架上断气，圣殿的幔子从上到下裂为两半（马太福音27:51）——这是神亲手撕开的！那撕裂的幔子宣告：通往至圣所的道路，通过基督的受死，向所有信徒永远开放了。人类自亚当以来第一次，可以凭借基督的血"坦然无惧地来到施恩的宝座前"（希伯来书4:16）。
+
+**会幕——道成肉身：** 约翰福音一章14节用"住在我们中间"（字面义：搭幕于我们中间）来描述基督的降生。会幕是基督降世的预表——神在帐幕里与人同住，正如神子在肉身里与人同住。正如会幕外表朴素，基督降生也是卑微的；正如会幕内里是神的荣光，基督里面充满了恩典与真理。
+
+**大祭司——基督的中保：** 进入至圣所的专属通道只为大祭司保留。基督是我们永远的大祭司（希伯来书7:24-25），不是每年一次带着动物的血进入至圣所，而是一次永远地，带着自己的血进入了天上真正的至圣所，为我们的罪做了完全的赎罪祭。
+
+**旷野中的会幕——末世的应许：** 启示录二十一章3节引用会幕的语言描述新天新地："神的帐幕在人间，祂要与人同住。"会幕是应许的开始，基督是应许的成全，新创造是应许的最终完成。`,
+    christShadow_en: `Chapter 26 is extraordinarily rich in Christological typology:
+
+**The Veil—Christ's Body:** Hebrews 10:20 explicitly interprets the inner veil as a type of Christ's flesh. When Jesus died on the cross, the Temple veil was torn in two from top to bottom (Matt. 27:51)—torn by God Himself, from above. That act declared: through the death of Christ, the way into the Most Holy Place is now open to all believers. For the first time since Eden, sinners may "draw near with confidence to the throne of grace" (Heb. 4:16).
+
+**The Tabernacle—The Incarnation:** John 1:14 deliberately echoes Tabernacle language: "The Word became flesh and dwelt [literally: tabernacled] among us." As the Tabernacle was God's dwelling in the midst of Israel, so the Incarnation was God's dwelling in human flesh. As the Tabernacle appeared plain from without but housed the shekinah glory within, so Christ "had no form or majesty that we should look at him" (Isa. 53:2), yet was "full of grace and truth."
+
+**The Restricted Access—Christ the Only Way:** The Most Holy Place could only be entered by the High Priest, once a year, with blood. This typifies Christ's unique mediatorial role. He is the one High Priest who entered the true heavenly sanctuary "once for all" with His own blood (Heb. 9:12), securing eternal redemption for His people.
+
+**The Portable Tabernacle—Eschatological Promise:** The movable Tabernacle anticipated the ultimate fulfillment in Revelation 21:3: "Behold, the dwelling place of God is with man. He will dwell with them." The Tabernacle was the beginning; Christ is the fulfillment; the New Creation is the consummation of God's promise to dwell with His people forever.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 27,
+    publishDate: '2026-06-05',
+    title: '燔祭坛与院子', titleEn: 'The Altar of Burnt Offering and the Court',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 27 / Exodus 27',
+    content_zh: `旷野的风吹过帐篷，我站在燔祭坛前，鼻中是血和火的气味，眼前是青烟袅袅升天。三十多年后，每当我闭上眼睛，那气味仍然真实——那是罪得赦免的气味，那是神悦纳我们的祭的凭证。
+
+神在山上对我说燔祭坛的样式：皂荚木做的，方形，长宽各五肘，高三肘，四角有角——那角是极其重要的，献祭时要把牲畜的血抹在角上，因为角象征力量与救赎。整个坛用铜包裹，坛上的一切器具——灰盆、铲子、碗、肉叉、火盘——都用铜制成。坛中间有一个铜网格，网格在坛的半腰处，网格四角各有一个铜环，用来穿扛坛的杠子。这坛是会移动的，它要跟着会幕，跟着以色列人，走过旷野的每一段路。
+
+我是一个见过鲜血的人。牧羊时，狮子袭来，你要搏杀，血会溅到你身上。但会幕的祭，不同于这一切。这里的血不是暴力，而是救赎。当百姓把手按在牲畜头上，意味着什么？意味着把自己的罪转嫁给这无辜的祭牲。然后那祭牲死去，在坛上被火烧尽，香气升天，作为馨香的祭。这是多么严肃的象征！罪的代价是死，而神却设立了替代的方式——让无辜者代替有罪者。
+
+院子的设计让我看见了神的慷慨：南面北面各一百肘，东面西面各五十肘，用细麻布帷子围成。院子里，任何以色列人都可以进来——这里不是祭司专属的地方。院子是神邀请百姓亲近的空间。在院子里，你能看见燔祭坛，闻见祭的气味，你知道有人正在代表你们献祭。然而院子有入口，有门帘——那入口朝东，是有原因的。亚当夏娃被赶出伊甸园，神在东边设立基路伯把守（创3:24），而会幕的入口开在东方，意味着神为被逐出伊甸的人类，开了一条回家的路。
+
+神又吩咐要为会幕持续供应橄榄油，使灯台的灯常明。"要吩咐以色列人，把那为点灯捣成的清橄榄油拿来给你，使灯常常点着。"这命令深深打动了我。神要在会幕里有长明的光。黑暗中的光——这不只是物理的照明，这是神圣在场的象征。那灯台在圣所里昼夜燃烧，无论外面是白天还是黑夜，神的光在里面从不熄灭。
+
+燔祭坛是会幕院子里最显眼的物件。百姓一进入院子，第一眼看见的就是那高大的铜坛，坛上的火不停燃烧——那火是从主而来的，永远不可熄灭（利6:13）。这是神给以色列的宣告：你们来到我面前，首先必须经过这坛。没有祭，就没有进深。没有流血，就没有赦免。这顺序不能颠倒，这是神圣洁的本性所要求的。
+
+我摩西，亲眼看过神的荣耀，俯伏在祂面前，深知一件事：神是不可冒犯的圣洁。然而就是这位圣洁的神，亲自设计了这个系统——坛、血、火、院子、光——让罪人可以接近祂。这不是人类的聪明，这是神的恩典。每一根帷柱，每一个铜环，都在诉说：神要赦免，神要与人同在。`,
+    content_en: `The wind moves across the desert camp, and I stand before the bronze altar, the smell of blood and fire filling my nostrils, the smoke rising in columns toward heaven. Decades later, I close my eyes and the memory is still vivid—not as something dreadful, but as something profound. That smell was the scent of sins forgiven. That smoke was the sign of God's acceptance.
+
+On the mountain, the LORD described the altar: acacia wood, square, five cubits long and wide, three cubits high, with four horns at the corners. Those horns were not ornamental—blood was applied to them in the rite of atonement, for the horn speaks of power and salvation. The entire altar was overlaid with bronze. Every utensil—the pots for ashes, the shovels, the basins, the forks, the fire pans—all bronze. A grating of bronze network sat at the altar's midpoint, with four bronze rings at its corners for the carrying poles. This altar would travel with Israel through every stage of the wilderness journey.
+
+I have seen blood before—a shepherd's life brings you close to violence and death. But the blood at the Tabernacle altar was different. This was not violence; this was redemption. When a worshiper laid his hand on the animal's head, he was transferring his sin to an innocent substitute. Then the animal died in his place. The fire consumed it, the smoke ascended, a pleasing aroma to the LORD. The arithmetic of this ritual is solemn: sin requires death, and God ordained a way of substitution—let the innocent bear the penalty of the guilty.
+
+The court surrounding the Tabernacle measured a hundred cubits on the north and south sides, fifty on the east and west, hung with fine linen curtains on bronze pillars. Any Israelite could enter this court—it was not restricted to priests. The court was God's gracious invitation to the people to draw near. From within the court you could see the altar, smell the sacrifice, know that atonement was being made on your behalf.
+
+The entrance to the court opened eastward. This was not arbitrary. When Adam and Eve were expelled from Eden, God placed cherubim at the east of the garden to guard the way back (Gen. 3:24). The Tabernacle entrance faces east—it is the way back to God's presence for those exiled from Eden. The gate of the court is the first step of the path home.
+
+Then the LORD spoke about oil for the lamp—clear beaten olive oil to keep the lampstand burning continually in the Holy Place. God wanted a perpetual light in His dwelling. Darkness and divine presence are incompatible. That lamp burned day and night, week after week, year after year, as long as Israel journeyed. The light never went out in the sanctuary, even when the world outside was plunged in midnight.
+
+What a sight it must have been for any Israelite entering the court: the massive bronze altar dominating the space, its fire never extinguished, for the LORD had commanded: "Fire shall be kept burning on the altar continually; it shall not go out" (Lev. 6:13). This was God's announcement: you cannot bypass this altar. There is no approach to Me without sacrifice, no forgiveness without blood. This sequence cannot be reversed. It flows from the very nature of the Holy One.
+
+I, Moses, who saw the LORD's glory and fell on my face, know this beyond all doubt: God is holy and cannot be trespassed against lightly. Yet this same holy God designed this entire system—altar, blood, fire, court, light—so that sinners might approach Him. Not by human ingenuity. By divine grace. Every pillar of the courtyard, every bronze ring, every measure of olive oil proclaims: God desires to forgive; God desires to dwell with His people.`,
+    historyContext_zh: `燔祭坛的铜质结构和形制与古代近东已发掘的祭坛遗址有比较研究价值。在美吉多（Megiddo）和哈索（Hazor）等地发掘的迦南祭坛显示，角状祭坛在古代近东是普遍存在的祭祀设施，角的象征性（力量、保护）广为人知。以色列的燔祭坛与这些祭坛共享形式语言，但神学意义截然不同：不是安抚喜怒无常的神明，而是按照圣约的规定献上代替赎罪的祭。
+
+会幕院子的尺寸（100×50肘）经学者研究，与旷野行进营地的规模比较协调。约瑟夫（Flavius Josephus）在《犹太古史》中记录了会幕的外观，强调它在以色列人中间的中心地位。
+
+"清橄榄油"的供应是整个以色列会众的责任，这在神学上意味着：维持神的同在之光，是全体神的子民共同的责任，不只是祭司的事。这种共同参与的神学后来在新约中发展为"众信徒皆祭司"的原则。`,
+    historyContext_en: `The bronze altar's horned design has archaeological parallels throughout the ancient Near East. Horned altars have been excavated at Megiddo, Hazor, Beersheba, and other sites in Canaan, attesting to the widespread use of this altar form. While the form was culturally familiar, the theology of Israel's altar was distinct: it was not about appeasing a capricious deity but about covenantal atonement—substitutionary sacrifice ordered by God Himself.
+
+The court dimensions (100 × 50 cubits) have been studied in relation to wilderness encampment patterns. Josephus, in his Jewish Antiquities, preserved external descriptions of the Tabernacle, emphasizing its centrality in Israelite communal life.
+
+The command to supply "clear beaten olive oil" was addressed to the entire congregation of Israel—this was a community responsibility. The maintenance of God's light in the sanctuary was not the priests' task alone but Israel's collective calling. This anticipates the New Testament development of the "priesthood of all believers" (1 Pet. 2:9), where the whole church shares responsibility for the ministry of God's presence.`,
+    structure_zh: `出埃及记第二十七章分三个主要部分：
+
+**一、燔祭坛（1-8节）**
+- 材料：皂荚木包铜
+- 形制：方形，5×5×3肘，四角有角
+- 器具：灰盆、铲子、碗、肉叉、火盘，皆铜制
+- 铜网格与杠子：便于搬运
+
+**二、会幕的院子（9-19节）**
+- 南北面：各一百肘，二十根柱子，二十个铜座
+- 东西面：各五十肘，十根柱子，十个铜座
+- 东面门口：二十肘宽的帘子，用蓝色紫色朱红色线绣成
+- 材料：帷柱铜座，柱钩与横杆包银
+
+**三、灯的油（20-21节）**
+- 以色列会众供油
+- 圣所灯台昼夜长明
+- 亚伦和他儿子们负责管理`,
+    structure_en: `Exodus 27 divides into three well-defined sections:
+
+**I. The Bronze Altar (vv. 1–8)**
+- Material: acacia wood overlaid with bronze
+- Dimensions: 5 × 5 × 3 cubits, square, with four horns
+- Utensils: pots, shovels, basins, forks, fire pans—all bronze
+- Bronze grating and carrying poles for transport
+
+**II. The Court of the Tabernacle (vv. 9–19)**
+- North and south sides: 100 cubits, twenty pillars in bronze bases
+- East and west sides: 50 cubits, ten pillars in bronze bases
+- East entrance: a 20-cubit screen of blue, purple, and scarlet embroidery
+- Materials: bronze bases, silver-banded pillars and hooks
+
+**III. The Lamp Oil (vv. 20–21)**
+- Supplied by the whole congregation
+- The lampstand to burn continuously in the Holy Place
+- Aaron and his sons to tend it from evening to morning`,
+    theology_zh: `第二十七章的神学核心围绕**亲近神的代价与途径**展开。
+
+**燔祭坛的神学——替代赎罪：** 燔祭坛不只是一件宗教器具，它是神圣洁与恩典之间张力的具体化。神是圣洁的，祂的公义要求罪必须被审判。然而神的恩典提供了替代之道：无辜的祭牲代替有罪的献祭者。改革宗神学将此称为"代替赎罪"（Penal Substitutionary Atonement）的早期启示。无数只被献上的羊羔、公牛，每一只都指向将来那"神的羔羊，除去世人罪孽的"（约1:29）。
+
+**院子的神学——开放与规范的双重性：** 院子对所有以色列人开放，体现了神恩典的广泛邀请；但进入院子仍然需要经过门，经过坛，遵循规定的方式。敬拜不是无规矩的随意进入，而是在神设立的秩序中靠近。约翰·欧文（John Owen）指出，这种"开放中的规范"正是神学中"普遍呼召"与"规范的亲近方式"的完美结合。
+
+**常明之灯的神学——持续的见证：** 神的光在圣所中永不熄灭。这灯象征神同在的实在性、持续性。以色列的每一代人，每一天，都知道：神的光在会幕中燃烧。这光的维持是全体会众的责任，意味着整个以色列都是神同在的守护者。这是"神的百姓是神同在的管家"这一神学主题的早期表达。`,
+    theology_en: `The theological center of chapter 27 is **the cost and ordained path of access to God**.
+
+**The Altar's Theology—Penal Substitution:** The bronze altar was not merely a religious implement; it was the concrete instantiation of the tension between God's holiness and His grace. God is holy; His justice demands that sin be punished. Yet His grace provided a way of substitution: an innocent animal dies in the place of the guilty worshiper. This is an early revelation of what Reformed theology calls Penal Substitutionary Atonement. Every lamb, every bull offered on that altar pointed forward to "the Lamb of God, who takes away the sin of the world" (John 1:29).
+
+**The Court's Theology—Open Yet Ordered:** The court was accessible to all Israel, expressing the breadth of God's gracious invitation. Yet there was still a gate, still an altar, still an ordained path. Worship is not casual or self-directed approach; it is drawing near through God's appointed means. John Owen observed that this combination of open access and regulated approach reflects the theological balance between the universal call of the gospel and the necessity of the prescribed way of salvation.
+
+**The Perpetual Lamp—Unceasing Witness:** The lampstand burning night and day in the Holy Place proclaimed the reality and continuity of God's presence. Every generation of Israel knew: the light is burning in the Tabernacle; God is there. The responsibility for maintaining that oil rested on the whole congregation, making every Israelite a steward of divine presence—an early expression of the theme that God's people are custodians of His testimony on earth.`,
+    christShadow_zh: `第二十七章在基督身上得到了深刻的应验：
+
+**燔祭坛——十字架的预表：** 如果说会幕是救恩蓝图，那么燔祭坛就是十字架的直接预表。那坛上永不熄灭的火，象征着罪的审判的严肃性，以及神必须满足祂自己公义要求的必然性。耶稣基督在十字架上，不只是"殉道者"，而是被神的烈怒之火焚烧的替代祭牲。以赛亚书53:10说："耶和华却定意将祂压伤，使祂受痛苦"——这是神的公义在祂的爱子身上被满足。
+
+**院子入口——基督是唯一的门：** 会幕院子只有一个入口，且朝向东方。约翰福音10:9，耶稣说："我就是门，凡从我进来的，必然得救。"没有绕过坛的捷径，没有翻越帷子的侧门。只有一条路进入神的同在，那就是经过代替赎罪的祭——也就是经过基督。
+
+**常明之灯——基督是世界的光：** 约翰福音8:12，耶稣宣告："我是世界的光，跟从我的，就不在黑暗里走，必要得着生命的光。"圣所里那盏不灭的灯，是基督的预表——祂是那真光，在世界的黑暗中永恒地发光，不会被黑暗胜过（约1:5）。五旬节降临的圣灵也与这灯的图像相关：祂是那住在教会中永不熄灭的神圣之光。`,
+    christShadow_en: `Chapter 27 is fulfilled in Christ in several profound ways:
+
+**The Altar—Typology of the Cross:** If the Tabernacle is the blueprint of salvation, the bronze altar is the direct type of the cross. The fire on the altar that could never go out symbolized the gravity of divine judgment against sin and God's determination to satisfy His own justice. On the cross, Jesus was not merely a martyr; He was the substitute who bore the consuming fire of God's wrath (Isa. 53:10: "It was the will of the LORD to crush him"). At Calvary, divine justice was satisfied in the person of the Son.
+
+**The Single Gate—Christ Is the Only Door:** The court had only one entrance, facing east. In John 10:9 Jesus declares: "I am the door. If anyone enters by me, he will be saved." There was no side entrance to the Tabernacle court, no way in that bypassed the altar. There is no access to God that bypasses the atoning sacrifice—that is, no access except through Christ. The exclusivity of the gospel (Acts 4:12: "There is salvation in no one else") is graven into the very architecture of the Tabernacle.
+
+**The Perpetual Lamp—Christ the Light of the World:** John 8:12: "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life." The never-extinguished lampstand in the Holy Place typified Christ—the true Light who shines in the darkness, whom the darkness has not overcome (John 1:5). By extension, the Holy Spirit who dwells in the church (1 Cor. 3:16) is the fulfillment of this perpetual divine light: the presence of God burning in the midst of His people to this day.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 28,
+    publishDate: '2026-06-08',
+    title: '祭司的圣衣', titleEn: 'The Priestly Garments',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 28 / Exodus 28',
+    content_zh: `有一天，神呼召我独自上山，在云中与祂说话。那四十昼夜，我所领受的不只是石版上的律法，还有关于祭司的细节——多么细微的细节！服饰的每一个颜色、每一颗宝石、每一条金链，都由神亲口指定。那一刻我忽然明白：神极其在意我们亲近祂的方式。
+
+亚伦是我的哥哥，我爱他。但这份爱让我更加明白，是神的怜悯，不是亚伦的德性，使他得以进入神的同在。神吩咐我为亚伦和他的儿子们做圣衣，使他们成圣，好给我献祭。八件圣衣中，最重要的是以弗得和胸牌。
+
+以弗得——那件华美的背心！用金线、蓝色紫色朱红色线、捻的细麻织成，两肩上各有一块红玛瑙，上面刻着以色列十二支派的名字，六个在左，六个在右。"亚伦要把他们的名字担在两肩上，在耶和华面前作为记念。"这句话让我的眼泪夺眶而出。大祭司进入神的面前，肩上担着全以色列的名字。他不是一个人独自去的——他把整个以色列带在身上去！
+
+然后是胸牌——"决断的胸牌"。用四排宝石镶嵌，十二颗，每颗上刻一个支派的名字。那胸牌要系在以弗得上，贴近亚伦的心。"亚伦进圣所的时候，要将这决断的胸牌带在心上，在耶和华面前常作记念。"大祭司不只是肩上担着以色列，他更是心里装着以色列。担在肩上是承托，贴近心脏是爱。
+
+胸牌里还放着乌陵和土明——神用来对以色列指引方向、回答问题的神圣器具。当领袖们需要知道神的旨意，就要来求问大祭司；大祭司持守乌陵与土明，在神面前求问。这是何等的特权，又是何等的责任！
+
+圣衣的其他部分同样充满意义：以弗得底下的蓝色外袍，下摆交替缀着石榴和金铃；金铃的声响让人知道大祭司在圣所里行走——当他进入，铃声告知他还活着，神悦纳了他。袍子上绣着"归耶和华为圣"的金牌贴在大祭司额上，因为"这牌要常在他额上，使以色列人所奉献的一切圣物蒙耶和华悦纳"（出28:38）。
+
+我站在山上，手中拿着神所给我的所有这些指示，心里有一种深沉的感慨：神为什么要这么麻烦？为什么不干脆任何人任何时候都可以随意进入？答案在于神的本性：祂是圣洁的，亲近祂必须按照祂的规定，借着祂所设立的中保，用祂所悦纳的方式。这不是神的骄傲，这是神保护人的方式——因为未经规范的接触神的圣洁，对罪人来说只有死亡。
+
+亚伦穿上这些圣衣，就不再代表他自己，他代表整个以色列。他进入至圣所，不是作为亚伦，而是作为以色列的代表、神与人之间的中保。这是何等的职分，又是何等的荣耀！`,
+    content_en: `There was a day on the mountain when I received not just commandments but a detailed commission—instructions for priestly garments so intricate, so beautiful, so precisely specified, that I could only conclude: God cares immensely about how His people draw near to Him.
+
+Aaron is my brother. I love him. But that love makes me all the more aware that it was God's mercy, not Aaron's merit, that appointed him to this office. The command was plain: "Make holy garments for Aaron your brother, for glory and for beauty" (28:2). Eight garments were prescribed; the most significant were the ephod and the breastpiece.
+
+The ephod—that magnificent woven vest of gold thread, blue, purple, and scarlet yarn, and fine twisted linen. On each shoulder, a setting of onyx stones engraved with the names of Israel's twelve tribes—six on the left stone, six on the right. "Aaron shall bear their names before the LORD on his two shoulders as a remembrance." I read those words and something broke open in my chest. The High Priest does not enter the presence of God alone. He carries all of Israel on his shoulders. He bears them before God as a memorial.
+
+Then the breastpiece—"the breastpiece of judgment." Four rows of precious stones, twelve in total, one for each tribe, each stone engraved with a name. The breastpiece was fastened to the ephod and rested against Aaron's heart. "Aaron shall bear the judgment of the people of Israel on his heart before the LORD regularly." On his shoulders: he carries them. On his heart: he loves them. The high priest's body is a living sermon—the people of God are supported by his strength and cherished in his affection.
+
+Inside the breastpiece were placed the Urim and Thummim—the sacred instruments by which God would give direction and judgment to Israel. When the nation needed to know God's will, the leader would inquire through the high priest; the high priest would stand before God with the Urim and Thummim, and God would answer. What an extraordinary privilege—and what an awesome responsibility.
+
+The other garments carried their own weight of meaning: the blue robe under the ephod, its hem hung alternately with golden bells and pomegranates; the bells rang as Aaron moved through the Holy Place, announcing his living presence before God. And the golden plate engraved "Holy to the LORD," bound to his forehead—"It shall be on Aaron's forehead, and Aaron shall bear any guilt from the holy things that the people of Israel consecrate... that they may be accepted before the LORD" (28:38). Even Israel's holy offerings were tainted with imperfection; the high priest bore that imperfection on his brow so that God would accept the people's worship.
+
+I stood on the mountain with all these instructions pressing on my mind, and I felt a great solemnity. Why does God require such elaborate mediation? Why not open access for everyone at any time? The answer is His holiness. He is the consuming fire; unregulated contact with His holiness would mean death for sinners. This is not God's arrogance—it is His protection. He designed a way of approach that would keep His people alive while drawing them near. The high priest was not a barrier but a bridge, not an obstacle but an advocate.
+
+When Aaron put on these garments, he ceased to represent himself. He represented all Israel. He entered the presence of God not as Aaron the individual but as the covenant mediator, the representative of the whole people. What an office. What a glory. What a weight.`,
+    historyContext_zh: `第二十八章描述的祭司圣衣在古代近东的宗教背景中独具特色。埃及、美索不达米亚的神庙祭司也有特殊的礼服，通常象征神明的力量或祭司的地位。但以色列大祭司圣衣的独特之处在于其**代表性功能**：十二宝石代表十二支派，大祭司是以色列全体的代表，而非个人宗教精英。
+
+关于乌陵（Urim）和土明（Thummim），学者们对其确切性质和使用方式有多种理论。最普遍的看法是两块（或更多）刻有神圣符号的石头或签子，用于在两个选项之间求问神的旨意。历史上，乌陵和土明的使用在大卫时期后逐渐减少，在第二圣殿时期已基本不见，因为先知的职分和后来圣灵的赐下取代了这一功能。
+
+"以弗得"作为一件可穿戴的神圣器物，在撒母耳记和历代志中多次出现（如大卫在约柜前跳舞时穿的细麻以弗得），显示这不仅是礼仪圣衣，在整个旧约历史中都是特殊同在与中保职分的象征。`,
+    historyContext_en: `The priestly garments of chapter 28 stand out even within the broader ancient Near Eastern context of priestly attire. Egyptian and Mesopotamian temple priests also wore distinctive garments, typically symbolizing divine power or priestly status. What distinguishes Israel's high-priestly vestments is their **representational function**: the twelve stones bearing tribal names made the high priest not a religious aristocrat but the representative of the entire covenant community before God.
+
+Regarding the Urim and Thummim, scholars have debated their exact nature and mechanism. The most widely accepted view is that they were sacred lots—stones or objects used to receive binary divine answers. Their use appears to decline after the Davidic monarchy, and by the Second Temple period they had essentially disappeared, their function superseded by the prophetic office and ultimately by the indwelling of the Holy Spirit.
+
+The ephod appears numerous times throughout the Old Testament historical narratives (notably the linen ephod worn by David before the ark in 2 Sam. 6:14), suggesting that throughout Israel's history it remained a recognized symbol of priestly mediation and divine presence—not merely ceremonial attire for occasional use.`,
+    structure_zh: `出埃及记第二十八章的结构以大祭司圣衣为中心，由内而外展开：
+
+**一、总纲：圣衣的目的（1-5节）**
+- 呼召亚伦和他的儿子担任祭司
+- 为荣耀、为华美制作圣衣
+- 材料：金线、蓝紫朱红色线、细麻
+
+**二、以弗得（6-14节）**
+- 材料与工艺
+- 两肩的红玛瑙及支派名字
+- 用金链连接
+
+**三、决断的胸牌（15-30节）**
+- 四排宝石，每排三颗，共十二颗
+- 每颗刻一支派名
+- 胸牌系在以弗得上，贴近心脏
+- 乌陵与土明放在胸牌里
+
+**四、外袍与其他圣衣（31-43节）**
+- 蓝色外袍：金铃与石榴交替装饰
+- 细麻布内袍与腰带
+- 额牌："归耶和华为圣"
+- 内裤（保持圣洁）`,
+    structure_en: `Exodus 28 is organized around the high priest's garments, moving systematically through each item:
+
+**I. Introduction: The Purpose of the Garments (vv. 1–5)**
+- The appointment of Aaron and his sons
+- Purpose: "for glory and for beauty"
+- Materials listed: gold, blue, purple, scarlet, fine linen
+
+**II. The Ephod (vv. 6–14)**
+- Materials and craftsmanship
+- Two onyx stones with tribal names on the shoulder pieces
+- Gold chains connecting the stones
+
+**III. The Breastpiece of Judgment (vv. 15–30)**
+- Four rows of three stones, twelve total
+- Each stone engraved with a tribal name
+- Fastened to the ephod, resting on the heart
+- Urim and Thummim placed within
+
+**IV. The Robe, Turban, and Other Garments (vv. 31–43)**
+- Blue robe with alternating golden bells and pomegranates
+- Fine linen tunic, sash, and turban
+- The golden plate: "Holy to the LORD"
+- Linen undergarments for priestly modesty`,
+    theology_zh: `第二十八章的神学核心是**祭司中保职分**（Priestly Mediation）的本质。
+
+**祭司职分的代表性（Representation）：** 大祭司圣衣最深刻的神学含义是代表性——他肩上担着十二支派的名字，心上贴着十二支派的名字，他的额牌承担着以色列敬拜中的不完全。他不是为自己进入神的面前，他是为以色列进入。改革宗神学家将此视为基督代表性（Federal Headship）的旧约原型：正如亚当代表全人类在伊甸园失败，基督代表选民在十字架上得胜；正如大祭司代表以色列进入神的面前，基督代表祂的教会进入天上的至圣所。
+
+**"为荣耀、为华美"的神学：** 神要求祭司的圣衣要有荣耀和美丽，这说明神不是一个禁欲主义的神。荣耀和美丽属于神的本性，祭司圣衣的华美反映了神自己的荣耀。加尔文指出，这些华美的圣衣不是人的骄傲，而是提醒以色列人：他们的大祭司是按照神的旨意被妆扮的，他进入神的面前是带着神所喜悦的荣耀。
+
+**额牌的神学——归神为圣：** "归耶和华为圣"这金牌贴在大祭司额上，有深刻的神学意义。人的一切行为，即使是最虔诚的宗教行为（献祭），都不是完全纯洁的。大祭司的额牌承担了以色列献祭中所有的不完全，使这些不完全的奉献仍能被神悦纳。这是一个深刻的神学宣告：没有中保，人的一切宗教行为在神面前都是不够的。`,
+    theology_en: `The theological center of chapter 28 is the nature of **priestly mediation**.
+
+**The Principle of Representation:** The most profound theological theme of the high priest's garments is representation. He bore Israel's names on his shoulders (strength), on his heart (love), and on his forehead he bore Israel's imperfection (intercession). He did not enter God's presence as an individual but as Israel's covenant representative. Reformed theology sees in this the Old Testament prototype of Christ's federal headship: as Adam represented all humanity in Eden's failure, Christ represents the elect in the victory of the cross; as the high priest represented Israel before God in the earthly sanctuary, Christ represents His church in the heavenly Most Holy Place.
+
+**"For Glory and for Beauty":** God's requirement that the priestly garments be beautiful is theologically significant—God is not an ascetic God. Glory and beauty belong to His nature, and the splendor of the vestments reflected something of His own majesty. Calvin observed that these garments reminded Israel that their high priest was arrayed according to God's pleasure, entering His presence clothed in God-appointed glory.
+
+**The Golden Plate—Bearing Imperfection:** "Holy to the LORD" on Aaron's forehead addressed a profound problem: even Israel's best religious acts were tainted with imperfection. The high priest bore that imperfection, enabling God to accept the people's offerings despite their incompleteness. The theological declaration is sobering: without a mediator, no human act of worship—however sincere—is sufficient before the Holy God.`,
+    christShadow_zh: `第二十八章是整本出埃及记中基督预表最为密集的章节之一：
+
+**大祭司的圣衣——基督的荣耀：** 希伯来书4-10章把以色列的大祭司制度全面应用于基督。基督是"按照麦基洗德的等次"的大祭司（来7:17），不需要每年重新就职，因为祂的祭司职分是永远的。如果说亚伦的圣衣是外在的荣耀与华美，基督的荣耀是本质的——祂是"神荣耀所发的光辉，是神本体的真像"（来1:3）。
+
+**肩上担名——基督的托持：** 大祭司将以色列十二支派刻在肩上的玛瑙上，担在耶和华面前。基督将祂所有的选民托在祂全能的肩膀上，永不失落。"我赐给他们永生；他们永不灭亡，谁也不能从我手里把他们夺去"（约10:28）。宇宙基督的大能，全都用在托持祂的百姓上。
+
+**心上贴名——基督的代祷：** 大祭司将以色列的名字贴在心上进入至圣所。希伯来书7:25说基督"靠着祂，凡靠着祂进到神面前的人，祂都能拯救到底；因为祂是长远活着，替他们祈求"。复活升天的基督，此刻在天父面前，以祂的受死与复活，为祂的百姓持续代祷——我们每个人的名字都在祂心上。
+
+**额牌与代赎——基督的义：** 大祭司额上"归耶和华为圣"承担了以色列敬拜的不完全。基督在十字架上不只是承担了我们的罪，也"成为我们的智慧、公义、圣洁、救赎"（林前1:30）。我们现在进到神面前，靠的不是自己的圣洁，而是披戴基督的义——好像穿上了最荣美的"圣衣"，在神面前被视为圣洁的。`,
+    christShadow_en: `Chapter 28 is among the richest in Christological typology in all of Exodus:
+
+**The High Priest's Garments—Christ's Glory:** Hebrews 4–10 applies the entire Aaronic high-priestly system to Christ. Christ is the High Priest "after the order of Melchizedek" (Heb. 7:17), requiring no annual re-appointment because His priesthood is eternal. If Aaron's vestments displayed external glory and beauty, Christ's glory is ontological—He is "the radiance of the glory of God and the exact imprint of his nature" (Heb. 1:3).
+
+**Names on the Shoulders—Christ's Sustaining Power:** The high priest engraved the names of the twelve tribes on the onyx stones of his shoulders, bearing them before God. Christ bears all His elect on His omnipotent shoulders, and none will be lost. "I give them eternal life, and they will never perish, and no one will snatch them out of my hand" (John 10:28). The entire power of the cosmic Christ is engaged in sustaining His people.
+
+**Names on the Heart—Christ's Intercession:** The high priest bore Israel's names on his heart as he entered the Most Holy Place. Hebrews 7:25 declares that Christ "is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them." The risen, ascended Christ stands continually before the Father, interceding for His people through His completed sacrifice—every one of us named on His heart.
+
+**The Golden Plate and Imputed Righteousness:** The "Holy to the LORD" plate enabled God to accept Israel's imperfect worship by having the high priest bear the imperfection. Christ on the cross did not merely remove our sin; He became "our wisdom and our righteousness and sanctification and redemption" (1 Cor. 1:30). We now approach God not in our own holiness but clothed in Christ's righteousness—dressed, as it were, in the most glorious priestly garments of all, accepted before God in the Beloved.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 29,
+    publishDate: '2026-06-09',
+    title: '祭司的承接圣职', titleEn: 'The Consecration of the Priests',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 29 / Exodus 29',
+    content_zh: `没有什么时刻比那七天更让我感受到罪的重量，同时也感受到神恩典的深度。承接圣职礼——让亚伦和他的儿子们成为圣的仪式——是我所执行过的最严肃、最繁复、也最充满异象的事。
+
+神的指示详细到令人敬畏：先用水洗净他们，然后给亚伦穿上所有的圣衣——内袍、以弗得、胸牌、头巾，再用圣膏油膏抹他的头。接着他的儿子们穿上内袍，束腰带。这一切都是在全以色列会众面前进行的，不是秘密，而是见证。
+
+然后是牛犊和公羊。当亚伦和他的儿子们将手按在牛犊头上，那庄严的时刻让在场的每一个人屏住了呼吸。罪要被转嫁。那只无辜的牛犊要死，因为圣职的就任本身就是一个宣告：担任祭司的人也是罪人，他必须先为自己献赎罪祭，才有资格为百姓献祭。
+
+血被弹在坛的四角上，洒在坛的周围，倒在坛的脚旁。整只牛犊——皮、肉、血、粪——被烧在营外。营外！不是在圣所里，而是在营外。这是"分别为圣"的象征，罪污的东西要被驱逐到分离之地。
+
+第一只公羊，整只燔祭，火烧在坛上，是馨香的祭，是献给耶和华的火祭。这是完全奉献的象征——整个人生，整个事奉，献给神，没有保留。我看着那火焰升腾，心里涌起一种敬畏与向往：能把整个生命献给神，这才是人生最高的意义。
+
+第二只公羊，那"承职之公羊"——最让我感到震撼的仪式。把公羊血抹在亚伦右耳垂上、右手拇指上、右脚大拇趾上；同样也抹在他儿子们身上。耳朵：要听从神的话。手：要做神的工。脚：要走神的路。整个身体都要分别为圣，献给神。
+
+然后我取了摇祭的胸、举祭的腿，连同油饼、无酵的薄饼、抹油的薄饼，一起放在亚伦和他儿子们手中，叫他们"摇一摇"献给耶和华作摇祭。这个摇祭的动作——前后摇动——是把祭物"献给神、再从神手中接回"的象征。一切都是神的，但神在恩典中将其归还给祭司，作为他们的食物。
+
+七天！整个承接圣职礼持续七天，每天要重复这些仪式。七，完全的数字。成为圣洁不是一夕之事，是持续的过程，是日复一日在神面前学习站立的训练。
+
+每天早晨和黄昏，两只羊羔，一只早上献，一只傍晚献——这就是日常燔祭（tamid），是以色列祭祀生活的心跳。神说："我要在那里与以色列人相会，会幕要因我的荣耀成为圣洁。"神要在这里相会——不是偶尔，不是特殊节日，而是每天早晨和傍晚。神渴望与祂的百姓每天相遇。
+
+承接圣职礼的结尾，神说了一句话，成为整章、乃至整个出埃及记前半段的神学总结："我要住在以色列人中间，作他们的神。他们也要知道我是耶和华他们的神，是把他们从埃及地领出来的，为要住在他们中间。我是耶和华他们的神。"（出29:45-46）
+
+我把笔搁下，闭上眼睛。这几句话就是一切。不是律法，不是祭祀程序，不是圣衣或金属器具——而是神要与人同在，这才是一切的核心。所有的细节，所有的仪式，所有的圣衣，都是为了这一个目标：神与人同在。`,
+    content_en: `No seven days have weighed on me more than those seven days of consecration. To take my brother Aaron and his sons, to wash them, to clothe them, to anoint them, to slaughter animals and apply blood to their ears and thumbs and toes—it was the most solemn task I have ever performed. And yet it was also the most extraordinary privilege: to install mediators between a holy God and a sinful people.
+
+The LORD's instructions were meticulous. First, wash them with water—cleansing before consecration. Then clothe Aaron in all the holy garments: the tunic, the robe of the ephod, the breastpiece, the turban. Anoint his head with oil. Then clothe his sons in their tunics and fasten their sashes. All of this was performed before the whole congregation of Israel, not in secret. The installation of priests was a public covenant act.
+
+Then the animals. When Aaron and his sons laid their hands on the head of the bull, every person present understood what was happening: the transfer of guilt. The innocent animal was taking on the weight of the priests' sin, because the very act of approaching God required acknowledgment that those who served at the altar were themselves sinners. No one comes before God on the basis of personal righteousness. The bull had to die so the priests could stand.
+
+The blood was thrown against the altar's four sides, poured at its base. The bull's entire carcass—skin, flesh, blood, dung—was burned outside the camp. Outside the camp. Not in the sanctuary, but expelled to the place of separation. Sin's defilement must be removed from the presence of the holy.
+
+The first ram: a whole burnt offering, entirely consumed on the altar, a pleasing aroma to the LORD. This was the symbol of total dedication—every part of the animal given to God, nothing held back. Watching that fire, I felt something lift in my own chest. To give everything to God—is there any higher human calling?
+
+The second ram—the "ram of ordination"—was the most striking ritual of all. Blood from this ram was applied to Aaron's right ear lobe, right thumb, and right big toe; then the same for each of his sons. The ear: hear God's word. The hand: do God's work. The foot: walk in God's way. The whole body consecrated from extremity to extremity, from hearing to walking, for God's exclusive service.
+
+Then I took the fat portions, the breast of the wave offering, and the right thigh, along with unleavened bread from the basket, and placed them all in Aaron's and his sons' hands for them to wave before the LORD—the wave offering's back-and-forth motion enacting a spiritual reality: everything presented to God, and God graciously returning it. The priests' food came from God's hand, through their act of surrender.
+
+Seven days. The entire consecration lasted seven days, with the ceremonies repeated each day. Seven—the number of completeness. Holiness is not achieved in a moment; it is the work of sustained, repeated, daily return to the presence of God.
+
+And then the daily burnt offering—the tamid—two lambs each day, one in the morning and one at evening, "throughout your generations." This was the heartbeat of Israel's worship life. God said: "I will meet with the people of Israel there, and it shall be sanctified by my glory" (29:43). Not occasionally. Not on special occasions. Every morning and every evening, God desired to meet with His people.
+
+The chapter ends with a declaration that is the theological summit of everything that has come before: "I will dwell among the people of Israel and will be their God. And they shall know that I am the LORD their God, who brought them out of the land of Egypt that I might dwell among them. I am the LORD their God" (29:45-46).
+
+I set down my stylus and closed my eyes. This is everything. Not the law, not the sacrificial procedures, not the garments or the gold instruments—but God dwelling with His people. Every detail, every ritual, every ceremony exists for this single end: Immanuel. God with us.`,
+    historyContext_zh: `出埃及记第二十九章描述的承接圣职礼在利未记第八章有相应的实施记载，两者相互印证。古代近东各文化都有神庙祭司就职仪式，但以色列的仪式有其独特性：强调洁净（水洗）、代赎（献牛犊为赎罪祭）、分别为圣（膏油）、以及全人奉献（血抹在耳、手、脚）。
+
+日常燔祭（tamid，"常献的祭"）在整个第二圣殿时期是以色列礼仪生活的核心。每天早晨和傍晚在圣殿的两次燔祭，成为犹太祈祷时间（沙哈里特和明哈）的起源，并在后来演变为早祷和晚祷。即使在今天，犹太会堂的祈祷仍然在某种程度上反映着这古老的节奏。
+
+"在营外"烧掉牛犊的礼仪在利未记四章也有规定，希伯来书十三章12节引用这一细节，指出耶稣也是"在城门外受苦"——这是希伯来书作者将承接圣职礼的细节应用于基督受难的精彩例子。`,
+    historyContext_en: `Exodus 29 finds its narrative fulfillment in Leviticus 8, which records Moses actually performing the consecration ceremony—providing a remarkable case of command followed by precise execution. Ancient Near Eastern cultures also had temple priest installation rites, but Israel's ceremony was distinctive in its emphases: cleansing (washing with water), atonement (the sin offering of the bull), dedication (anointing with oil), and whole-body consecration (blood on ear, thumb, and toe).
+
+The daily burnt offering (tamid, "the continual offering") became the cornerstone of Second Temple worship. The twice-daily sacrifices gave birth to fixed Jewish prayer times—Shacharit (morning) and Mincha (afternoon)—which persist in Jewish practice to this day. The rhythm of morning-and-evening return to God, established in this chapter, shaped the daily devotional life of God's people across three millennia.
+
+The burning of the bull "outside the camp" is cited in Hebrews 13:12 as a type of Jesus suffering "outside the gate." This is one of the Epistle to the Hebrews' most precise typological applications, demonstrating that even the disposal of the sin offering's carcass was divinely ordered to foreshadow the Messiah's crucifixion outside Jerusalem's walls.`,
+    structure_zh: `出埃及记第二十九章的结构以承接圣职礼的步骤为主线：
+
+**一、预备（1-3节）**
+- 所需动物和饼食
+
+**二、洗净与穿圣衣（4-9节）**
+- 用水洗亚伦和他的儿子们
+- 给亚伦穿上所有圣衣
+- 给他的儿子们穿上内袍、束腰带
+
+**三、膏抹（7节）**
+- 将圣膏油浇在亚伦头上
+
+**四、赎罪祭——牛犊（10-14节）**
+- 按手
+- 宰杀、用血
+- 烧在营外
+
+**五、燔祭——第一只公羊（15-18节）**
+- 按手、宰杀
+- 整只烧在坛上：完全奉献
+
+**六、承职祭——第二只公羊（19-28节）**
+- 血抹耳垂、手拇指、脚拇趾
+- 摇祭：将胸与腿献上
+- 祭司的食物份额
+
+**七、七天圣职礼（29-37节）**
+- 每天重复，为期七天
+- 每天都要献赎罪祭洁净坛
+
+**八、日常燔祭（38-46节）**
+- 每天早晚各一只羊羔
+- 神学总结：神住在以色列中间`,
+    structure_en: `Exodus 29 follows the ceremonial sequence of priestly consecration:
+
+**I. Preparation (vv. 1–3)**
+- The animals and bread required
+
+**II. Washing and Vesting (vv. 4–9)**
+- Washing Aaron and his sons with water
+- Clothing Aaron in all the holy garments
+- Clothing his sons in tunics with sashes
+
+**III. Anointing (v. 7)**
+- Pouring the anointing oil on Aaron's head
+
+**IV. The Sin Offering—the Bull (vv. 10–14)**
+- Laying on of hands
+- Slaughter and blood rites
+- Burning outside the camp
+
+**V. The Burnt Offering—First Ram (vv. 15–18)**
+- Laying on of hands, slaughter
+- Whole animal burned: symbol of total dedication
+
+**VI. The Ordination Offering—Second Ram (vv. 19–28)**
+- Blood on ear lobe, thumb, big toe
+- Wave offering of breast and right thigh
+- Priestly food portions
+
+**VII. Seven Days of Consecration (vv. 29–37)**
+- Ceremonies repeated daily for seven days
+- Daily sin offering to cleanse the altar
+
+**VIII. The Daily Burnt Offering (vv. 38–46)**
+- Two lambs per day, morning and evening
+- Theological summation: God dwelling with Israel`,
+    theology_zh: `第二十九章的神学核心是**成圣的路径与神同在的目的**。
+
+**成圣需要代赎（Sanctification Requires Atonement）：** 承接圣职礼最令人震惊的神学要素是：连祭司本身也需要先献赎罪祭，才能开始事奉。这宣告了一个根本的真理：没有任何人凭自己的宗教地位、道德成就或虔诚行为，可以站在神面前。甚至是蒙召服事的祭司，也首先需要血的遮盖。改革宗神学在此看见了"称义先于成圣"（Justification precedes Sanctification）原则的仪式表达：先有赎罪（牛犊），然后才有奉献（两只公羊）。
+
+**血抹全身的神学（Total Consecration）：** 血抹在右耳垂、右手拇指、右脚大拇趾上，象征着整个身体的圣洁奉献。这是全人成圣的符号语言：耳朵象征聆听神的话；手象征行动与服事；脚象征行走的方向与生命道路。没有任何部分可以留给自己，不在神的成圣工作之外。保罗在罗马书12:1所说的"以身体献上，当作活祭，是圣洁的，是神所喜悦的"，与这一仪式有深刻的神学连贯性。
+
+**"我要住在你们中间"的神学（Divine Indwelling）：** 整章以29:45-46的宣告结束，这是整个会幕建造指示的神学心脏。神出埃及的目的不仅是从埃及的奴役中拯救以色列，更是要住在他们中间。救赎不只是"从……出来"，也是"为……进入"——为要与神同在。改革宗系统神学在这里看见了救赎论（Soteriology）与教会论（Ecclesiology）的交汇：救赎的终极目的是建立神与祂子民之间的团契（Communion）。`,
+    theology_en: `The theological heart of chapter 29 is **the pathway to holiness and the purpose of divine indwelling**.
+
+**Sanctification Requires Atonement:** The most theologically striking feature of the consecration rite is that the priests themselves required a sin offering before they could begin to minister. This declares a fundamental truth: no person—regardless of religious office, moral achievement, or sincere piety—can stand before God on the basis of their own standing. Even those called to priestly service needed blood first. Reformed theology sees here a ritual enactment of the principle that justification precedes sanctification: first atonement (the bull), then dedication (the two rams).
+
+**Blood on the Whole Body—Total Consecration:** Blood applied to the right ear lobe, right thumb, and right big toe symbolized the consecration of the whole person. The ear hears God's Word; the hand performs God's work; the foot walks in God's way. No part of the person remains outside God's sanctifying claim. Paul's call to "present your bodies as a living sacrifice, holy and acceptable to God" (Rom. 12:1) carries deep theological continuity with this priestly rite.
+
+**"I Will Dwell Among Them"—The Purpose of Redemption:** The chapter closes with the theological summit of the entire Tabernacle section (29:45-46). God's purpose in the Exodus was not merely liberation from Egyptian slavery; it was indwelling. Salvation is not only "from" bondage but "into" communion. The Exodus was for the sake of Tabernacle—redemption was for the sake of relationship. Reformed systematic theology sees here the intersection of soteriology and ecclesiology: the ultimate end of redemption is the communion of God with His people.`,
+    christShadow_zh: `第二十九章的基督预表围绕"完全的大祭司"这一主题展开：
+
+**承接圣职的水洗——基督的受洗：** 亚伦和他的儿子们在承职前用水洗净，这预表基督在开始公开事工之前的受洗（马太福音3:13-17）。耶稣的洗不是为自己的罪，而是与有罪的百姓认同，"成全一切义"，正式承担起作为神百姓救主与大祭司的职分。
+
+**营外焚烧的赎罪祭——基督在城外受难：** 希伯来书13:11-13明确引用这一预表："原来牲畜的血被大祭司带入圣所作赎罪祭；牲畜的身子被烧在营外。所以耶稣要用自己的血叫百姓成圣，也在城门外受苦。"城外是被弃绝、被诅咒之地；基督在那里受死，承担了我们应得的被逐出神同在的咒诅（加3:13）。
+
+**七天的承职——完全的成圣工作：** 七天的持续仪式象征完全的成圣工程。基督不像亚伦需要七天来完成就职，也不需要重复献祭，因为"祂凭着永远的灵，将自己无瑕无疵献给神"（来9:14），一次完成了完全的成圣工作。那一次十字架，成就了所有七天仪式所指向的完全。
+
+**日常燔祭——基督永远的中保：** 每天早晚的两只羊羔是无尽代求的预表。基督"靠着祂，凡靠着祂进到神面前的人，祂都能拯救到底；因为祂是长远活着，替他们祈求"（来7:25）。日常燔祭的节奏——每天早晨和傍晚，从不间断——是基督永远不间断的代祷事工的完美图像。祂永远活着，永远为我们代求。`,
+    christShadow_en: `Chapter 29 anticipates Christ along several typological lines:
+
+**The Washing—Christ's Baptism:** Aaron and his sons were washed before consecration, typifying Jesus' baptism before He began His public ministry (Matt. 3:13-17). Jesus' baptism was not for His own sin but an act of identification with sinful humanity, "fulfilling all righteousness"—formally taking up His office as the Savior and High Priest of God's people.
+
+**Burning Outside the Camp—Christ Crucified Outside the Gate:** Hebrews 13:11-13 makes this typological connection explicit: "For the bodies of those animals whose blood is brought into the holy places by the high priest as a sacrifice for sin are burned outside the camp. So Jesus also suffered outside the gate in order to sanctify the people through his own blood." The place outside the camp was the place of rejection and cursing. Christ died there, bearing the curse of being expelled from God's presence that we deserved (Gal. 3:13).
+
+**Seven Days of Ordination—Christ's Complete Work:** The seven-day ceremony symbolized the completeness of consecration. Christ needed no seven-day rite and no repeated ceremonies because He "through the eternal Spirit offered himself without blemish to God" (Heb. 9:14), accomplishing in one act what the entire consecration week could only symbolize. The cross was the single, sufficient fulfillment of every day's ceremonies.
+
+**The Daily Burnt Offering—Christ's Perpetual Intercession:** Two lambs every morning and evening typified unceasing intercession. Christ "is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them" (Heb. 7:25). The tamid's never-interrupted rhythm—morning and evening, day after day—is the perfect image of Christ's eternal, unbroken intercessory ministry. He lives forever. He intercedes forever. For us.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 30,
+    publishDate: '2026-06-10',
+    title: '香坛、赎罪银与洗濯盆', titleEn: 'The Incense Altar, Atonement Money, and Basin',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 30 / Exodus 30',
+    content_zh: `弟兄姐妹，我是摩西。出埃及记第三十章记载了耶和华在西奈山上向我启示的最后几件会幕器具——香坛、赎罪银、洗濯盆和圣膏油。每一件器具都有独特的属灵意义，都指向那位将要来的基督。
+
+首先是香坛。耶和华吩咐我用皂荚木做一座坛来烧香，长一肘，宽一肘，是四方的，高二肘。坛的四角与坛接连一块，包上精金。把坛放在法柜前的幔子外，对着法柜上的施恩座——就是我与你相会的地方。亚伦每早晨收拾灯的时候要烧这馨香，黄昏点灯的时候也要烧这馨香。
+
+香坛在至圣所的幔子外面，与施恩座遥遥相对。每天早晚烧香，香烟升腾在至圣所之前。这是祷告的象征——诗篇141:2大卫说："愿我的祷告如香陈列在你面前；愿我举手祈求，如献晚祭。"启示录8:3-4也描述天使将众圣徒的祷告和金香炉中的香一同升到神面前。
+
+耶和华特别警告："你们不可在这坛上奉上异样的香，不可献燔祭、素祭，也不可浇上奠祭。"敬拜有神设定的规矩——不能随意添加人的发明。亚伦的儿子拿答和亚比户后来献上凡火，就被耶和华的火烧灭了（利未记10章）。这是何等严肃的教训。
+
+然后是赎罪银。耶和华吩咐我数点以色列人的时候，每人要为自己的生命把赎价奉给耶和华——半舍客勒。"富足的不可多出，贫穷的也不可少出。"在神面前，每个人的生命价值是一样的——不因贫富有别。这赎罪银作为会幕的使用费用，也是提醒每一个以色列人：你的生命不属于自己，是从耶和华赎来的。
+
+接着是洗濯盆。耶和华吩咐用铜做洗濯盆和盆座，放在会幕和坛的中间，盆中盛水。亚伦和他的儿子进会幕或就近坛前供职的时候，必须用水洗手洗脚，免得他们死亡。进入神的同在需要洁净——不是外在的仪式主义，而是内在洁净的象征。
+
+最后是圣膏油和圣香的配方。膏油用流质的没药、香肉桂、菖蒲、桂皮和橄榄油调制。这膏油要抹会幕和会幕中一切的器具，使之成为圣。也要膏亚伦和他的儿子，使他们成圣归我作祭司。耶和华严禁按这配方制造普通用途的膏油——"不可倒在别人的身上，也不可按这调和之法做与此相似的。这膏油是圣的，你们也要以为圣。"
+
+圣香同样有特定配方——拿他弗、施喜列、喜利比拿三种香料加上净乳香，各样的分量相同，和成圣香。不可按这配方为自己做香，要以此香为圣，归耶和华。
+
+弟兄姐妹，这一章的每一件器具都教导我们敬拜的神圣性。香坛教导我们祷告是常常的、有规律的——早晨晚上不停息。赎罪银教导我们在神面前人人平等，都需要救赎。洗濯盆教导我们亲近神必须先洁净自己。圣膏油教导我们分别为圣——属于神的东西不可挪作俗用。整个会幕的敬拜体系都在说一件事：圣洁的神和罪人之间需要一位中保——那位将要来的大祭司耶稣基督。`,
+    content_en: `Brothers and sisters, I am Moses. Exodus chapter 30 records the final tabernacle items the LORD revealed to me on Sinai—the altar of incense, the atonement money, the bronze basin, and the holy anointing oil. Each item carries unique spiritual significance, pointing to Christ who was to come.
+
+First, the altar of incense. The LORD commanded me to make an altar of acacia wood for burning incense, one cubit long, one cubit wide—square—and two cubits high. Its horns were of one piece with it, overlaid with pure gold. It was to be placed before the veil near the ark of the testimony, before the mercy seat—where God would meet with me. Aaron was to burn fragrant incense on it every morning when he tended the lamps, and again at twilight.
+
+The incense altar stood outside the veil of the Most Holy Place, facing the mercy seat. Incense burned morning and evening, its smoke ascending before the Most Holy Place. This symbolized prayer—Psalm 141:2 says, "Let my prayer be counted as incense before you, and the lifting up of my hands as the evening sacrifice." Revelation 8:3-4 describes an angel offering the prayers of the saints with incense before God.
+
+The LORD specifically warned: "You shall not offer unauthorized incense on it, or a burnt offering, or a grain offering, and you shall not pour a drink offering on it." Worship has God-ordained regulations—human inventions must not be added. Aaron's sons Nadab and Abihu later offered unauthorized fire and were consumed by fire from the LORD (Leviticus 10). What a solemn lesson.
+
+Then the atonement money. When numbering the people, each person was to give a ransom for his life to the LORD—a half shekel. "The rich shall not give more, and the poor shall not give less." Before God, every life has equal value—no distinction by wealth. This atonement money funded the tabernacle's service, reminding every Israelite: your life is not your own; it was ransomed from the LORD.
+
+Next, the bronze basin. The LORD commanded a bronze basin with a bronze stand, placed between the tent of meeting and the altar, filled with water. Aaron and his sons were to wash their hands and feet before entering the tent or approaching the altar to minister, lest they die. Entering God's presence required cleansing—not mere external ritualism but a symbol of inner purity.
+
+Finally, the holy anointing oil and incense formulas. The oil was made from liquid myrrh, sweet-smelling cinnamon, aromatic cane, cassia, and olive oil. This oil would anoint the tabernacle and all its furnishings, making them holy. Aaron and his sons were also anointed, consecrated as priests. The LORD strictly prohibited making this formula for ordinary use—"It shall not be poured on the body of an ordinary person, and you shall make no other like it in composition. It is holy, and it shall be holy to you."
+
+The sacred incense likewise had a specific formula—stacte, onycha, galbanum, and pure frankincense in equal parts, blended as holy incense. No one was to make this formula for personal use; it was to be regarded as holy to the LORD.
+
+Brothers and sisters, every item in this chapter teaches us the holiness of worship. The incense altar teaches that prayer must be constant and regular—morning and evening without ceasing. The atonement money teaches that before God all are equal, all needing redemption. The basin teaches that approaching God requires self-cleansing. The anointing oil teaches consecration—what belongs to God must not be put to common use. The entire tabernacle worship system declares one thing: between a holy God and sinners, a mediator is needed—the great High Priest Jesus Christ who was to come.`,
+    historyContext_zh: `香坛在古代近东宗教中普遍存在，但以色列香坛的独特之处在于它只烧神所指定配方的香，且与神的同在直接关联。半舍客勒赎罪银（约5.7克银）在当时是一个工人约两天的工资，对穷人不至负担太重，但也不是无足轻重的——代表生命的价值。洗濯盆在功能上类似古代神庙的净化设施，但神学意义完全不同——它指向的不是魔法般的洁净，而是内在圣洁的必要性。圣膏油的配方中含有没药、肉桂等昂贵香料，总量约为6公升，这些材料部分来自以色列人从埃及带出的财物。`,
+    historyContext_en: `Incense altars were common in ancient Near Eastern religions, but Israel's was unique in burning only divinely specified incense and being directly connected to God's presence. The half-shekel atonement money (approximately 5.7 grams of silver) was about two days' wages for a laborer—not too burdensome for the poor, yet not insignificant, representing life's value. The bronze basin functioned similarly to purification facilities in ancient temples, but its theological meaning was entirely different—pointing not to magical cleansing but to the necessity of inner holiness. The anointing oil formula contained expensive spices like myrrh and cinnamon, totaling approximately 6 liters, with materials partly from the wealth Israel brought out of Egypt.`,
+    structure_zh: `**香坛（1-10节）**——皂荚木包金、幔子外面、每日早晚烧香、赎罪日的血。
+
+**赎罪银（11-16节）**——数点人口时的半舍客勒、贫富相同、用于会幕的使用。
+
+**洗濯盆（17-21节）**——铜盆铜座、会幕与坛之间、进前必洗手脚。
+
+**圣膏油（22-33节）**——没药肉桂菖蒲桂皮橄榄油、膏会幕和祭司、不可挪作俗用。
+
+**圣香（34-38节）**——四种香料等分、和成圣香、归耶和华为圣。`,
+    structure_en: `**The Altar of Incense (vv. 1-10)**—Acacia wood overlaid with gold, outside the veil, daily morning and evening incense, Day of Atonement blood.
+
+**The Atonement Money (vv. 11-16)**—Half shekel at census, same for rich and poor, used for tabernacle service.
+
+**The Bronze Basin (vv. 17-21)**—Bronze basin and stand, between tent and altar, washing hands and feet before approaching.
+
+**The Holy Anointing Oil (vv. 22-33)**—Myrrh, cinnamon, calamus, cassia, olive oil; anointing tabernacle and priests; not for common use.
+
+**The Sacred Incense (vv. 34-38)**—Four spices in equal parts, blended as holy incense, holy to the LORD.`,
+    theology_zh: `**祷告如香升到神面前**
+香坛教导祷告的神学：常常祷告（早晚不停）、按神旨意祷告（不可献异样的香）、藉中保祷告（香坛在施恩座前）。改革宗传统强调祷告必须奉基督的名——基督是我们的香坛，我们的祷告藉着祂升到父面前。韦敏斯德信条第21章：祷告是蒙神悦纳的一部分宗教敬拜，而且是神在祂的话语中对所有人所要求的。
+
+**在神面前人人平等**
+赎罪银"富足的不可多出，贫穷的也不可少出"——这是神面前人人平等的宣告。改革宗神学强调：在救赎面前没有等级之分。不是富人更需要或更不需要救赎，所有人同样需要赎价。罗马书3:23-24："因为世人都犯了罪，亏缺了神的荣耀；如今却蒙神的恩典，因基督耶稣的救赎，就白白地称义。"
+
+**分别为圣**
+圣膏油和圣香不可挪作俗用——这教导"分别"的神学。改革宗传统将圣俗之分看作敬拜的根本原则：属于神的（安息日、圣礼、圣职）不能随意世俗化。韦敏斯德信条第21章论安息日和敬拜的圣洁性。这不是律法主义，而是认识到神是圣的，与祂相关的一切都当被视为圣洁。`,
+    theology_en: `**Prayer as Incense Rising to God**
+The incense altar teaches the theology of prayer: praying constantly (morning and evening without ceasing), praying according to God's will (no unauthorized incense), praying through the Mediator (the altar before the mercy seat). The Reformed tradition emphasizes prayer must be offered in Christ's name—Christ is our incense altar, and our prayers ascend to the Father through Him. Westminster Confession chapter 21: prayer is an acceptable part of religious worship required by God in His Word of all people.
+
+**Equality Before God**
+The atonement money—"the rich shall not give more, and the poor shall not give less"—declares equality before God. Reformed theology emphasizes: before redemption there are no ranks. The wealthy do not need redemption more or less than the poor; all equally need the ransom. Romans 3:23-24: "For all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus."
+
+**Consecration**
+The anointing oil and incense must not be put to common use—teaching the theology of "separation." The Reformed tradition views the distinction between sacred and common as a fundamental worship principle: what belongs to God (the Sabbath, sacraments, holy offices) must not be casually secularized. Westminster Confession chapter 21 on the holiness of the Sabbath and worship. This is not legalism but recognition that God is holy and everything related to Him must be regarded as holy.`,
+    christShadow_zh: `出埃及记第三十章的每件器具都指向基督。香坛预表基督的代求——希伯来书7:25说基督"是长远活着，替他们祈求"。香烟升腾在施恩座前，正如基督的祷告常常升到父面前。启示录5:8中的香炉盛满了圣徒的祷告——这些祷告因基督的中保而蒙悦纳。
+
+赎罪银预表基督是我们的赎价。马可福音10:45主耶稣说："人子来，不是要受人的服事，乃是要服事人，并且要舍命作多人的赎价。"每个以色列人交半舍客勒赎罪银，但基督为我们付的赎价不是银子，而是祂自己宝贵的生命。彼得前书1:18-19说："你们得赎……不是凭着能坏的金银等物，乃是凭着基督的宝血，如同无瑕疵、无玷污的羔羊之血。"
+
+洗濯盆预表基督洁净我们的工作。以弗所书5:25-26说基督"爱教会，为教会舍己，要用水藉着道把教会洗净"。约翰福音13章主耶稣为门徒洗脚，说"凡洗过澡的人，只把脚一洗，全身就干净了"——基督已经一次彻底洁净了我们（称义），但我们每日仍需祂的话语洁净我们的行为（成圣）。
+
+圣膏油预表圣灵的膏抹。基督（Christos）就是"受膏者"的意思——祂被圣灵膏立为先知、祭司、君王。约翰一书2:20说信徒"从那圣者受了恩膏"——我们在基督里也有圣灵的膏抹。`,
+    christShadow_en: `Every item in Exodus 30 points to Christ. The incense altar prefigures Christ's intercession—Hebrews 7:25 says Christ "always lives to make intercession for them." Incense rising before the mercy seat parallels Christ's prayers constantly ascending to the Father. Revelation 5:8's censers full of the saints' prayers—these prayers are accepted through Christ's mediation.
+
+The atonement money prefigures Christ as our ransom. In Mark 10:45 the Lord Jesus said, "The Son of Man came not to be served but to serve, and to give his life as a ransom for many." Each Israelite paid a half shekel, but Christ's ransom for us was not silver but His own precious life. 1 Peter 1:18-19 says, "You were ransomed...not with perishable things such as silver or gold, but with the precious blood of Christ, like that of a lamb without blemish or spot."
+
+The bronze basin prefigures Christ's cleansing work. Ephesians 5:25-26 says Christ "loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word." In John 13, Jesus washed the disciples' feet, saying "The one who has bathed does not need to wash, except for his feet, but is completely clean"—Christ has once for all thoroughly cleansed us (justification), but we still daily need His word to cleanse our conduct (sanctification).
+
+The anointing oil prefigures the Holy Spirit's anointing. Christ (Christos) means "the Anointed One"—He was anointed by the Spirit as Prophet, Priest, and King. 1 John 2:20 says believers "have been anointed by the Holy One"—in Christ, we too share the Spirit's anointing.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 31,
+    publishDate: '2026-06-11',
+    title: '蒙召的工匠与安息日', titleEn: 'Called Craftsmen and the Sabbath',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 31 / Exodus 31',
+    content_zh: `我在西奈山顶已守候了三十九天。神的话语如活水涌流，将会幕的每一块木板、每一根柱子、每一件器皿的规格都清清楚楚地刻在我心里。然而当神说到这里，祂转向了一个我意想不到的话题——工匠。
+
+"看哪，犹大支派中，户珥的孙子、乌利的儿子比撒列，我已经题名召他。我用神的灵充满了他，使他有智慧、有聪明、有知识，能做各样的工……"（出三十一：2-3）
+
+我的心猛然一震。神竟然"题名"召了一个工匠！就如同祂题名召了亚伯拉罕、呼召了摩西一样——那个燃烧的荆棘旁，祂也是如此呼唤我的名字。比撒列不是偶然站上工场的人，他是被神特意拣选、特意装备的仆人。
+
+神不只是给了他一张蓝图，而是将祂自己的灵浇灌在他身上。那灵带来的是"智慧、聪明、知识"——这三个词在希伯来文中描述的是全备的工匠技艺，是从上面来的能力。比撒列所做的每一件金器、每一片香柏木的雕刻，都不只是人手的技艺，而是圣灵运行的果效。
+
+然后神又加添了亚何利亚伯——但支派中，亚希撒抹的儿子。两支派，两个工匠，代表了整个以色列的参与。神还说祂赐给"一切心里有智慧的人"智慧，使他们能做祂所吩咐的一切（出三十一：6）。会幕的建造，是全体会众蒙召参与的圣工。
+
+这让我想到一件深沉的事：神的国度工程，从来不是由少数"属灵精英"独力完成的。祂赐给比撒列圣灵的充满，祂赐给织布的女人技艺，祂赐给献金的长老愿心——每一个人都有他在建造圣所中的位置，因为这是神的工，不是人的工。
+
+然后神话锋一转，说到安息日。
+
+"你们要守我的安息日，因为这是你们与我之间世世代代的证据，使你们知道我耶和华是叫你们成为圣的那位。"（出三十一：13）
+
+这段话对我震撼极深。就在神刚刚完整地颁布了会幕建造的全部细节之后，祂立刻说：即便是建造这神圣的会幕，也不能在安息日进行！
+
+会幕是为了让神与人同住——但神要先教导以色列人，祂的同住不是靠人的工作挣来的，而是靠祂的恩典赐予的。安息日是印记，是记号——不是一个额外的规条，而是对一个现实的宣告：以色列是属于耶和华的，是被祂分别为圣的。
+
+六天劳碌工作，第七天停下来。这停下来，本身就是一种信仰的宣告——我相信这六天的工够了，我相信神会在祂的主权里完成祂的工。
+
+"我耶和华在六日之内造了天地，第七日便安息舒畅。"（出三十一：17）
+
+安息日不只是律法条文，它是神创造秩序的回响，是救赎工程完成的预表。神在创造之初就已安息，那安息邀请人类进入——不是懒惰的停歇，而是在完全的工之后，进入完全的满足。
+
+神说完这一切，将那两块法版——神用指头写的石版——交在我手中。此刻我双手捧着这两块石版，不知山下正在酝酿着何等可怕的背叛……`,
+    content_en: `I had been on the summit of Sinai for thirty-nine days. The words of God had flowed like living water, engraving in my heart every plank of the tabernacle, every pillar, every vessel with precise detail. Then, as God came to the end of these instructions, He turned to a subject I had not anticipated—craftsmen.
+
+"See, I have called by name Bezalel the son of Uri, son of Hur, of the tribe of Judah, and I have filled him with the Spirit of God, with ability and intelligence, with knowledge and all craftsmanship…" (Exodus 31:2-3)
+
+My heart leapt. God had called a craftsman by name! Just as He had called Abraham by name, just as He had called Moses—there at the burning bush, He had spoken my name too. Bezalel did not arrive at the workshop by chance. He was a servant specifically chosen, specifically equipped.
+
+God had not merely given him a blueprint. He poured His own Spirit upon him—a Spirit that brought "ability, intelligence, and knowledge." These three Hebrew words describe the fullness of craftsman's skill, a capacity from above. Every golden vessel Bezalel fashioned, every carved cedar plank, was not merely the work of human hands, but the fruit of the Spirit's movement.
+
+Then God added Oholiab—son of Ahisamach, of the tribe of Dan. Two tribes, two craftsmen, representing the participation of all Israel. And God said He had given wisdom to every able man, that they might make all that He had commanded (Exodus 31:6). The building of the tabernacle was a holy work to which the whole congregation was called.
+
+This awakened something deep in me: the building projects of God's kingdom are never completed by a handful of "spiritual elites" alone. He poured His Spirit upon Bezalel. He gave skill to the women who wove. He gave willingness to the elders who brought gold. Every person had their place in the building of the sanctuary, because this was God's work, not man's.
+
+Then God pivoted to the Sabbath.
+
+"You are to keep my Sabbaths, for this is a sign between me and you throughout your generations, that you may know that I, the LORD, sanctify you." (Exodus 31:13)
+
+These words shook me to the core. Having just given complete instructions for the tabernacle's construction, God immediately declared: even this sacred work may not be done on the Sabbath!
+
+The tabernacle was built so that God could dwell with man—but God first needed to teach Israel that His presence is not earned by human labor. It is given by His grace. The Sabbath is a sign, a mark—not an added rule, but a declaration of reality: Israel belongs to the LORD, set apart as holy to Him.
+
+Six days of labor, then rest on the seventh. That rest is itself a declaration of faith—I trust that six days' work is enough. I trust that God will accomplish His work in His sovereignty.
+
+"For in six days the LORD made heaven and earth, and on the seventh day he rested and was refreshed." (Exodus 31:17)
+
+The Sabbath is not merely a legal statute. It is the echo of God's created order, a foreshadowing of the completion of redemption's work. God rested at the dawn of creation, and that rest invites humanity in—not idle cessation, but entering into complete satisfaction after complete work.
+
+When God finished speaking, He placed in my hands the two tablets of the testimony—tablets of stone, written with the finger of God. I held them in trembling hands, unaware of what terrible betrayal was already brewing at the foot of the mountain.`,
+    historyContext_zh: `出埃及记三十一章发生在以色列人出埃及后大约第三个月，摩西在西奈山顶与神同在的第四十天即将到来之际。这是摩西第一次上山领受律法和会幕指令的最后阶段（出二十四：18）。
+
+比撒列（Bezalel）的名字在希伯来文中意为"在神的荫庇之下"，他属于犹大支派，是以色列人中最受尊崇的支派之一，大卫和弥赛亚皆出于此支派。亚何利亚伯（Oholiab）的名字意为"父神是我的帐幕"，属于但支派，在以色列营地驻扎于北方。这两人同被召，象征南北（或全体以色列）合一参与圣工。
+
+安息日律法（Shabbat）在此重申，是因为它是西奈之约的核心记号（出三十一：16-17）。在古近东文化中，服事神的工匠通常会在神庙建造期间享有特殊豁免；神在此明确规定：即便最神圣的建筑工程，也不能凌驾于安息日之上。这表明安息日的神圣性超越了会幕建造本身——因为安息日的根基在于创造，不在于会幕。`,
+    historyContext_en: `Exodus 31 takes place approximately three months after the Exodus from Egypt, as Moses nears the fortieth day of his first ascent of Sinai to receive the Law and tabernacle instructions (Exodus 24:18).
+
+The name Bezalel in Hebrew means "in the shadow of God." He belonged to the tribe of Judah, the most honored tribe in Israel, from which both David and the Messiah would come. Oholiab means "the Father is my tent" and belonged to the tribe of Dan, which camped to the north of the Israelite camp. Their joint calling symbolizes the unified participation of all Israel—north and south—in the sacred work.
+
+The Sabbath law (Shabbat) is here reaffirmed because it is the central sign of the Sinai covenant (Exodus 31:16-17). In the ancient Near East, craftsmen serving the deity were often granted special exemptions during temple construction. God explicitly rules this out: even the most sacred building project cannot override the Sabbath. This demonstrates that the Sabbath's sanctity surpasses even the tabernacle's construction—for the Sabbath is rooted in creation, not in the tabernacle.`,
+    structure_zh: `出埃及记三十一章可分为两个主要部分：
+
+**一、匠人的蒙召（1-11节）**
+- 神题名召比撒列（1-5节）
+- 神增添亚何利亚伯及众工匠（6-11节）
+
+**二、安息日的命令（12-18节）**
+- 安息日是立约的记号（12-17节）
+- 颁布两块法版（18节）
+
+这两部分看似独立，实则有内在张力：神既命令建造会幕（需要人的工作），又命令安息日停工（需要人的信靠）。这个张力教导：神的旨意通过人的劳动实现，但绝不依赖人的劳动——最终是祂的主权在成就一切。`,
+    structure_en: `Exodus 31 divides into two main sections:
+
+**I. The Calling of the Craftsmen (vv. 1-11)**
+- God calls Bezalel by name (vv. 1-5)
+- God adds Oholiab and other skilled workers (vv. 6-11)
+
+**II. The Sabbath Command (vv. 12-18)**
+- The Sabbath as a sign of the covenant (vv. 12-17)
+- The two tablets of the testimony given (v. 18)
+
+These two sections appear independent but hold an inner tension: God commands the building of the tabernacle (requiring human labor) while also commanding the Sabbath rest (requiring human trust). This tension teaches that God's purposes are accomplished through human work, yet never depend on it—ultimately His sovereignty alone accomplishes all things.`,
+    theology_zh: `**圣灵的赋能（Spirit-Gifting）**
+
+比撒列蒙受"神的灵"的充满（出三十一：3），这是旧约中圣灵赋能个人从事特定圣工的典型例证。值得注意的是，圣灵在此充满的不是祭司、不是先知，而是一位工匠。这推翻了一种错误的观念——认为只有"属灵的"职分才与圣灵有关。改革宗神学强调，一切合法的呼召与职业，若在神的荣耀中被执行，都可以成为圣灵运行的领域（韦敏斯德大要理问答第141问）。
+
+**安息日神学**
+
+安息日在圣经神学中有三重根基：
+1. **创造的根基**（出三十一：17；创二：2-3）——神的安息是宇宙秩序的原型
+2. **盟约的记号**（出三十一：13）——安息日是西奈之约的外在记号，如同割礼是亚伯拉罕之约的记号
+3. **末世的预表**（来四：9-11）——安息日指向那将临的安息，即在基督里得享的永恒安息
+
+改革宗神学区分道德律（十诫）与礼仪律，视安息日诫命为道德律的一部分，但在新约中其形式转变为"主日"（启一：10）。`,
+    theology_en: `**Spirit-Gifting**
+
+Bezalel received the filling of "the Spirit of God" (Exodus 31:3)—a paradigmatic Old Testament example of the Spirit empowering an individual for specific sacred service. Remarkably, the Spirit here fills not a priest or prophet, but a craftsman. This overturns the misconception that only "spiritual" offices are related to the Spirit's work. Reformed theology affirms that every legitimate calling and vocation, when executed for God's glory, may be a sphere of the Spirit's movement (Westminster Larger Catechism Q. 141).
+
+**Sabbath Theology**
+
+The Sabbath rests on three biblical foundations:
+1. **Creation** (Exodus 31:17; Genesis 2:2-3)—God's rest is the prototype of cosmic order
+2. **Covenantal Sign** (Exodus 31:13)—the Sabbath is the outward sign of the Sinai covenant, as circumcision was the sign of the Abrahamic covenant
+3. **Eschatological Type** (Hebrews 4:9-11)—the Sabbath points forward to the coming rest, the eternal Sabbath enjoyed in Christ
+
+Reformed theology distinguishes moral law (the Ten Commandments) from ceremonial law, viewing the Sabbath commandment as part of the moral law. Its form, however, transitions in the New Testament to the "Lord's Day" (Revelation 1:10).`,
+    christShadow_zh: `**比撒列——基督的预表**
+
+比撒列被神题名拣选，被圣灵充满，奉命建造神居住的圣所——这是基督的鲜明预影。
+
+主耶稣基督是那位被父神"题名"差来的（约十七：6，"我已将你的名显明给你从世上赐给我的人"），被圣灵无限度地充满（约三：34），并以自己的身体建造那真正的圣所（约二：21，"但耶稣这话，是以祂的身体为殿"）。比撒列用金银铜木建造会幕；基督用自己的宝血建造教会——那真正神与人同住的居所（弗二：21-22）。
+
+**安息日——基督完成之工的预表**
+
+安息日最深的神学指向，是基督在十字架上说的那句话："成了！"（约十九：30）希伯来书第四章明确指出：那真正的安息，是在基督里才得以进入的（来四：3）。旧约安息日是影儿，基督是那影儿的实体。信徒在主日聚集敬拜，是在宣告并预尝那将来完全的安息。`,
+    christShadow_en: `**Bezalel as Type of Christ**
+
+Bezalel was called by name, filled with the Spirit, and commissioned to build the sanctuary where God would dwell—a vivid foreshadowing of Christ.
+
+The Lord Jesus Christ was the One whom the Father "named" and sent (John 17:6, "I have manifested your name to the people whom you gave me"), filled with the Spirit without measure (John 3:34), who built the true sanctuary through His own body (John 2:21, "he was speaking about the temple of his body"). Bezalel built the tabernacle with gold, silver, bronze, and wood; Christ builds His church with His precious blood—the true dwelling place where God and humanity meet (Ephesians 2:21-22).
+
+**The Sabbath as Type of Christ's Completed Work**
+
+The deepest theological trajectory of the Sabbath points to those words Christ spoke on the cross: "It is finished!" (John 19:30). Hebrews 4 makes explicit that the true rest is entered only in Christ (Hebrews 4:3). The Old Testament Sabbath was the shadow; Christ is the substance of that shadow. When believers gather for worship on the Lord's Day, they proclaim and foretaste that coming perfect rest.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 32,
+    publishDate: '2026-06-12',
+    title: '金牛犊事件', titleEn: 'The Golden Calf',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 32 / Exodus 32',
+    content_zh: `我永远不会忘记那一刻。
+
+神突然停止说话，转而对我说："你下去吧，因为你的百姓——就是你从埃及地领出来的——败坏了。"（出三十二：7）
+
+祂说"你的百姓"。不是"我的百姓"。那两个字刺进我的心，比刀还深。
+
+我知道了。在山下，某些可怕的事情已经发生了。
+
+神将那景象展开在我眼前：他们铸造了一头牛犊，向它下拜，献祭，喊叫说"这是领你出埃及地的神"！（出三十二：8）四十天——我只离开了四十天！他们就将那带他们出红海、在旷野喂养他们、在西奈山向他们显现的神，换成了一个用耳环融铸的金属偶像。
+
+然后神说了一句让我窒息的话："我且不管他们，我将要向他们发烈怒，把他们灭绝；然后我必叫你的后裔成为大国。"（出三十二：10）
+
+那一刻我的心里经历了一场激战。作为一个人，我能理解神的怒火——以色列人所作的是何等可憎的背约！但此刻，另一种更强烈的冲动胜过了一切：我不能让他们灭亡。
+
+我不是因为他们配。他们不配。他们所作的恶，使他们毫无辩白的余地。我是为了神自己的名，为了祂对亚伯拉罕、以撒、雅各所起的誓，为了不让列国嘲讽说耶和华的能力只够领人出去、却不够领人进迦南——我在神面前求情，恳求祂回转，不将这祸降临他们（出三十二：11-13）。
+
+神听了我的祷告，"后悔了"（出三十二：14）——这不是说神改变了心意（神的旨意永不改变），而是说神的怜悯在这一刻通过我的代求得以彰显，那本该降临的审判被暂缓了。
+
+然而当我转身下山，看见那牛犊，听见那喧哗的声音——当那幕景象真实地出现在我眼前——怒火在我胸中熊熊燃起。我将神亲手写的两块石版摔碎在山脚下（出三十二：19）。
+
+后来有人问我为何如此。我对他们说：这两块法版，是神与以色列所立盟约的凭据。以色列已经背约，盟约已经破碎——我摔碎法版，只是让那在灵里已经发生的事，在物质上得到了形象的展示。
+
+我烧了那牛犊，磨成粉末，撒在水上，叫以色列人喝了（出三十二：20）。他们用口喝下了他们罪恶的苦果。然后我质问亚伦——我的哥哥，我信任的哥哥——他为何如此行？他的回答软弱得让我心碎："百姓专于作恶……我把金子扔在火里，就出来这牛犊了。"（出三十二：22-24）
+
+仿佛牛犊是自己跳出来的一样。
+
+那一天，利未人奉我的命令，拔刀行走全营，有三千人倒下（出三十二：28）。这不是残忍，这是公义——在以色列最严峻的试炼时刻，利未支派选择了站在耶和华这边，这也是日后他们成为祭司支派的缘起。
+
+然后我再次上山，再次站在神面前，说出了我这一生最沉重的祷告："唉！这百姓犯了大罪，为自己做了金子的神像。倘或你肯赦免他们的罪……不然，求你从你所写的册上涂抹我的名。"（出三十二：31-32）
+
+我愿以自己的灭亡，换取以色列的存活。
+
+神没有接受这个以命换命的提议。祂告诉我，犯罪的人才会从祂的册上被涂抹。但这一刻，我明白了一件事：真正的代求者，必须有舍命的心志。`,
+    content_en: `I will never forget that moment.
+
+God suddenly stopped speaking and said to me: "Go down, for your people, whom you brought up out of the land of Egypt, have corrupted themselves." (Exodus 32:7)
+
+"Your people." Not "my people." Those two words pierced my heart like a blade.
+
+I knew. Something terrible had happened at the foot of the mountain.
+
+God unfolded the scene before my eyes: they had cast a golden calf, bowed down to it, offered sacrifices, and cried out, "These are your gods, O Israel, who brought you up out of the land of Egypt!" (Exodus 32:8). Forty days—I had only been gone forty days! And they had exchanged the God who led them through the Red Sea, fed them in the wilderness, and revealed Himself at Sinai—for a metal idol cast from earrings.
+
+Then God spoke words that stopped my breath: "Now therefore let me alone, that my wrath may burn hot against them and I may consume them, in order that I may make a great nation of you." (Exodus 32:10)
+
+In that moment my soul became a battlefield. As a man, I could understand God's fury—what Israel had done was an abomination of covenant-breaking! Yet another impulse, stronger still, overcame everything: I could not let them perish.
+
+Not because they deserved mercy. They did not. What they had done gave them no ground for defense. I interceded for the sake of God's own name—for the oath He swore to Abraham, Isaac, and Jacob—lest the nations mock and say the LORD's power was sufficient only to bring people out of Egypt but not to bring them into Canaan. I pleaded before God, begging Him to relent from the disaster He had spoken (Exodus 32:11-13).
+
+God heard my prayer and "relented" (Exodus 32:14)—not meaning His purpose changed (God's will never changes), but that His mercy was displayed through my intercession, and the judgment that should have fallen was stayed.
+
+But when I turned and descended the mountain, and saw the calf with my own eyes, heard the clamor—when the scene appeared before me in flesh and blood—rage erupted in my chest. I cast the two tablets of stone from my hands and shattered them at the foot of the mountain (Exodus 32:19).
+
+Some later asked me why. I told them: those two tablets were the evidence of the covenant between God and Israel. Israel had broken the covenant; the covenant was shattered. My breaking of the tablets was merely a visible, physical manifestation of what had already happened in the spiritual realm.
+
+I burned the calf, ground it to powder, scattered it on water, and made the Israelites drink it (Exodus 32:20). They drank down the bitter fruit of their own sin. Then I confronted Aaron—my brother, my trusted brother—demanding why he had done this. His answer broke my heart with its weakness: "The people are set on evil… I threw the gold into the fire, and out came this calf." (Exodus 32:22-24)
+
+As though the calf had jumped out on its own.
+
+That day, the Levites at my command drew their swords and went through the camp, and three thousand men fell (Exodus 32:28). This was not cruelty—it was justice. In Israel's most severe hour of crisis, the tribe of Levi chose to stand on the LORD's side. This is the origin of their later calling as the priestly tribe.
+
+Then I ascended the mountain again and stood before God, and spoke the heaviest prayer of my life: "Alas, this people has sinned a great sin. They have made for themselves gods of gold. But now, if you will forgive their sin—but if not, please blot me out of your book that you have written." (Exodus 32:31-32)
+
+I was willing to be destroyed in their place, that Israel might live.
+
+God did not accept this trade of life for life. He told me that whoever sinned would be blotted from His book. But in that moment, I understood something: a true intercessor must have a heart willing to lay down his life.`,
+    historyContext_zh: `出埃及记三十二章是以色列历史上最黑暗的时刻之一。此事发生在西奈之约刚刚缔结之后（出二十四章），是对神与以色列"婚约"的迅速背叛。
+
+金牛犊（Hebrew: 'egel massekhah，铸造的牛犊）在古近东是神圣力量的常见象征，特别在埃及（阿匹斯神牛）和迦南（巴力的圣牛）文化中普遍存在。以色列人所做的，是将出埃及神迹归于异教象征，是文化同化的最恶劣形式。
+
+亚伦（Aaron）作为大祭司（尚未正式就任，但已被拣选），在这一事件中扮演了令人痛心的妥协角色。圣经学者注意到，亚伦所说"用耳环做的牛犊"与后来耶罗波安在伯特利和但立的牛犊（王上十二：28-29）使用了几乎完全相同的语言，表明这一叛逆模式深深嵌入以色列历史之中。
+
+摩西的代求（intercession）在结构上与亚伯拉罕为所多玛的代求（创十八章）相似，但更为激烈——摩西愿以自己的名字从神的册上被涂抹。这被认为是预表保罗在罗马书九：3所表达的类似情感："为我弟兄，我骨肉之亲，就是自己被咒诅，与基督分离，我也愿意。"`,
+    historyContext_en: `Exodus 32 marks one of the darkest moments in Israel's history. It occurred immediately after the Sinai covenant had been established (Exodus 24), a swift betrayal of God's "marriage covenant" with Israel.
+
+The golden calf (Hebrew: 'egel massekhah, a molten calf) was a common symbol of divine power in the ancient Near East, found widely in Egyptian culture (the Apis bull) and Canaanite religion (the bull associated with Baal). What Israel did was to attribute the miracles of the Exodus to a pagan symbol—the worst possible form of cultural assimilation.
+
+Aaron, chosen as high priest (not yet formally installed), played a heartbreaking role of compromise in this event. Biblical scholars note that Aaron's language about "a calf made from earrings" uses nearly identical phrasing to the calves Jeroboam later erected at Bethel and Dan (1 Kings 12:28-29), indicating that this pattern of rebellion was deeply embedded in Israel's history.
+
+Moses' intercession structurally resembles Abraham's intercession for Sodom (Genesis 18), but is more intense—Moses was willing to have his own name blotted out of God's book. This is considered a foreshadowing of Paul's similar sentiment in Romans 9:3: "For I could wish that I myself were accursed and cut off from Christ for the sake of my brothers."`,
+    structure_zh: `出埃及记三十二章结构层次分明：
+
+**一、山上：神的震怒与摩西的代求（1-14节）**
+- 百姓的背叛（1-6节）
+- 神向摩西宣告并发怒（7-10节）
+- 摩西的第一次代求（11-14节）
+
+**二、山下：摩西的义怒与惩判（15-29节）**
+- 摩西下山，摔碎法版（15-20节）
+- 质问亚伦（21-24节）
+- 利未人执行审判（25-29节）
+
+**三、再上山：摩西的第二次代求（30-35节）**
+- 摩西再次为民求情，愿以自身换（30-32节）
+- 神的回应（33-34节）
+- 神降瘟疫（35节）
+
+注意：摩西两次代求形成首尾呼应，而中间的审判场景是必要的插曲——代求不能绕过公义。`,
+    structure_en: `Exodus 32 has a clear layered structure:
+
+**I. On the Mountain: God's Wrath and Moses' Intercession (vv. 1-14)**
+- The people's rebellion (vv. 1-6)
+- God announces the situation to Moses and burns with anger (vv. 7-10)
+- Moses' first intercession (vv. 11-14)
+
+**II. At the Foot: Moses' Righteous Anger and Judgment (vv. 15-29)**
+- Moses descends and shatters the tablets (vv. 15-20)
+- Moses confronts Aaron (vv. 21-24)
+- The Levites execute judgment (vv. 25-29)
+
+**III. Back on the Mountain: Moses' Second Intercession (vv. 30-35)**
+- Moses intercedes again, offering himself (vv. 30-32)
+- God's response (vv. 33-34)
+- God sends a plague (v. 35)
+
+Note: Moses' two intercessions form a frame narrative, with the judgment scene as a necessary interlude—intercession cannot circumvent justice.`,
+    theology_zh: `**人的全然败坏（Total Depravity）**
+
+金牛犊事件是人类罪性最生动的神学图示。以色列人不是在无知状态中犯罪——他们刚刚经历了十灾、红海分开、西奈山上的雷轰火焰，刚刚立了盟约说"耶和华所说的，我们都必遵行"（出二十四：7）。改革宗神学所说的"全然败坏"，在此得到铁证：人的罪不是因为信息不足，而是因为本性的悖逆。
+
+**代求神学（Intercession）**
+
+摩西愿意以自己的名字被涂抹来换取百姓的赦免，展示了真正的代求精神：代求者将自己置于神的义怒与罪人之间。这是一种"替代性"的姿态，却在摩西身上无法完全成就——因为摩西自己也是罪人。改革宗神学指出，真正完全的代求只在基督那里实现：祂真正地以无罪替代了有罪，以死亡担当了审判（罗八：34，"有基督耶稣已经死了，而且从死里复活，现今在神的右边，也替我们祈求"）。
+
+**神的后悔（Divine Relenting）**
+
+神"后悔了"（出三十二：14）不是神的旨意改变，而是神在历史进程中对代求的回应。改革宗神学将此理解为神的"护理意志"（providential will）在与人的真实互动中的彰显，同时坚持神的"命令意志"和"隐秘旨意"永不改变。`,
+    theology_en: `**Total Depravity**
+
+The golden calf incident is the most vivid theological illustration of human sinfulness. Israel did not sin in a state of ignorance—they had just witnessed the ten plagues, the parting of the Red Sea, the thunder and fire of Sinai, and had just made a covenant saying "All that the LORD has spoken we will do" (Exodus 24:7). Reformed theology's doctrine of total depravity finds iron-clad evidence here: human sin is not a product of insufficient information, but of nature's rebellion.
+
+**Theology of Intercession**
+
+Moses' willingness to have his own name blotted out in exchange for the people's forgiveness reveals the essence of true intercession: the intercessor places himself between God's righteous wrath and the sinner. This is a "substitutionary" posture, yet it cannot be fully accomplished in Moses—because Moses himself is a sinner. Reformed theology holds that truly complete intercession is realized only in Christ: He genuinely substituted the sinless for the sinful, bearing judgment in death (Romans 8:34, "Christ Jesus is the one who died—more than that, who was raised—who is at the right hand of God, who indeed is interceding for us").
+
+**Divine Relenting**
+
+That God "relented" (Exodus 32:14) does not mean His purpose changed, but that God responds to intercession within the flow of history. Reformed theology understands this as the manifestation of God's "providential will" in genuine interaction with His creatures, while firmly maintaining that God's "decretive will" and "secret counsel" never change.`,
+    christShadow_zh: `**摩西的代求——基督中保的预影**
+
+摩西站在神的震怒与以色列百姓之间，愿以自己的毁灭换取他们的赦免——这是基督中保工作最清晰的旧约预影之一。
+
+然而摩西只是预影，不是实体。神没有接受摩西以命换命的提议，因为摩西是罪人，他的死不能为他人赎罪。但神接受了基督的献祭——因为基督是无罪的神子，祂的死真正能够为众多人赎罪（可十：45，"人子来，不是要受人的服侍，乃是要服侍人，并且要舍命作多人的赎价"）。
+
+**摔碎的法版——律法的控告与恩典的盼望**
+
+摩西摔碎法版，不只是一个情绪化的举动，更是神学性的宣告：罪使人站在律法的控告之下。但摔碎之后，神命令重刻——这预示着新约将来神所应许的：不是将律法刻在石版上，而是用圣灵将律法刻在心版上（耶三十一：33；林后三：3）。这正是基督新约所成就的。`,
+    christShadow_en: `**Moses' Intercession as Type of Christ the Mediator**
+
+Moses stood between God's wrath and the people of Israel, willing to be destroyed that they might be forgiven—this is one of the clearest Old Testament types of Christ's mediatorial work.
+
+Yet Moses is only the type, not the reality. God did not accept Moses' offer of life for life, because Moses was a sinner whose death could not atone for others. But God accepted Christ's sacrifice—for Christ is the sinless Son of God, whose death truly redeems the many (Mark 10:45, "For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many").
+
+**The Shattered Tablets: Law's Accusation and Grace's Hope**
+
+Moses' shattering of the tablets was not merely an emotional act but a theological declaration: sin places humanity under the indictment of the law. But after the shattering, God commanded new tablets to be cut—pointing forward to God's new covenant promise: not law written on stone tablets, but law written by the Spirit on tablets of the heart (Jeremiah 31:33; 2 Corinthians 3:3). This is precisely what Christ's new covenant accomplishes.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 33,
+    publishDate: '2026-06-15',
+    title: '摩西求见神的荣耀', titleEn: 'Moses Asks to See Gods Glory',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 33 / Exodus 33',
+    content_zh: `金牛犊事件之后，营地里弥漫着一种沉重的寂静。
+
+神对我说了一句让所有人都揪心的话：
+
+"我要打发使者在你前面行，我要赶出迦南人……但我自己不同你们上去，因为你们是硬着颈项的百姓，恐怕我在路上把你们灭绝了。"（出三十三：2-3）
+
+以色列人听见这坏消息，没有一个人装饰自己。他们摘下头上的妆饰（出三十三：4-6）。这一幕比哭泣更让我心酸——沉默的哀恸，是灵魂深处真正知道自己亏欠了神的反应。
+
+然后神命令我把"会幕"（那时还是一个临时的帐篷，不是后来正式建造的会幕）支搭在营外，"离营甚远"。每当有人要寻求耶和华，就必须出营，到那帐幕去（出三十三：7）。这个命令本身是一幅隔离的图画——罪使神与人之间出现了距离，圣洁不能与污秽同居。
+
+但我每次进入那帐篷，就有事情发生。
+
+云柱降下，立在帐篷门口。整个以色列营地，各人站在自己帐篷门口，望着云柱，下拜（出三十三：10）。他们知道，那里面有一种对话正在发生。
+
+"耶和华与摩西面对面说话，好像人与朋友说话一般。"（出三十三：11）
+
+我每次走出帐篷，都要重新接触那个世界——那个充满了悖逆、恐惧、疑惑的营地世界。但每次我走进帐篷，神就在那里。
+
+这就是为何在接下来的一段话里，我向神说出了我最深的渴望。
+
+我对神说："你吩咐我说，把这百姓领上去，却没有叫我知道你要打发谁与我同去……如今我若在你眼前蒙恩，求你把你的道指示我，使我可以认识你，好在你眼前蒙恩。"（出三十三：12-13）
+
+神回答："我必亲自和你同去，使你得安息。"（出三十三：14）
+
+我听了这话，没有欣喜若狂，而是紧追不舍。我对神说："你若不亲自和我们同去，就不要把我们从这里领上去。"（出三十三：15）
+
+我不要天使的带领。我不要安全的道路。我不要神的祝福代替神自己。
+
+有时人们以为我这样说是大胆，甚至冒险。但我那时心里只有一个念头：若没有祂自己，其他一切又算什么？带着祂的礼物却没有祂，那不是蒙恩，那是流落。
+
+神再次回应，说祂要照我所说的行，因为我在祂眼前蒙了恩，而且祂按名认识我（出三十三：17）。
+
+然后我说出了那个请求，大概是我一生中所求过的最大的事：
+
+"求你显出你的荣耀给我看。"（出三十三：18）
+
+神没有拒绝我，但祂的回答是一个界限与恩典并存的回答：
+
+"我要使我一切的恩慈在你面前经过，我要在你面前宣告我的名……你不能看见我的面，因为人见我的面不能存活。"（出三十三：19-20）
+
+神安置我在磐石的穴中，用手遮掩我。等祂经过之后，我只能看见祂的背影。
+
+就连这背影，就让我接下来四十天的脸上放出光来。
+
+那背影已经是最多人类在这一生所能承受的神的荣耀了。`,
+    content_en: `After the golden calf incident, a heavy silence settled over the camp.
+
+God spoke words that tore at every heart:
+
+"I will send an angel before you… but I will not go up among you, for you are a stiff-necked people, lest I consume you on the way." (Exodus 33:2-3)
+
+When Israel heard this disaster, not one person put on their ornaments. They stripped off their jewelry (Exodus 33:4-6). This sight broke my heart more than weeping would have—silent grief is the response of a soul that truly knows it has failed God.
+
+Then God commanded me to pitch the "tent of meeting" (at that time a temporary structure, not the formally constructed tabernacle that came later) outside the camp, "far off from the camp." Anyone who sought the LORD would have to go out of the camp to that tent (Exodus 33:7). This command was itself a picture of separation—sin had created distance between God and humanity; holiness cannot cohabit with impurity.
+
+But whenever I entered that tent, something would happen.
+
+The pillar of cloud would descend and stand at the door of the tent. Throughout the whole camp of Israel, every person would stand at their own tent door and worship, gazing at the pillar of cloud (Exodus 33:10). They knew a conversation was taking place within.
+
+"Thus the LORD used to speak to Moses face to face, as a man speaks to his friend." (Exodus 33:11)
+
+Every time I walked out of the tent I had to re-enter that world—a world filled with rebellion, fear, and doubt. But every time I walked into the tent, God was there.
+
+This is why in the words that follow, I voiced to God my deepest longing.
+
+I said to God: "You have said, 'Bring up this people,' but you have not let me know whom you will send with me… Now therefore, if I have found favor in your sight, please show me your ways, that I may know you in order to find favor in your sight." (Exodus 33:12-13)
+
+God answered: "My presence will go with you, and I will give you rest." (Exodus 33:14)
+
+When I heard these words, I did not rejoice and move on. I pressed further. I said: "If your presence will not go with me, do not bring us up from here." (Exodus 33:15)
+
+I did not want an angel's leading. I did not want a safe path. I did not want God's blessings as a substitute for God Himself.
+
+Some have thought this was boldness, even recklessness. But in that moment, I had only one thought: without Him, what does anything else amount to? To have His gifts without Him—that is not grace, that is exile.
+
+God answered again, saying He would do this very thing, because I had found favor in His sight, and He knew me by name (Exodus 33:17).
+
+Then I made the request that was perhaps the greatest request of my life:
+
+"Please show me your glory." (Exodus 33:18)
+
+God did not refuse me, but His answer held both limits and grace in the same breath:
+
+"I will make all my goodness pass before you and will proclaim before you my name… But you cannot see my face, for man shall not see me and live." (Exodus 33:19-20)
+
+God placed me in a cleft of the rock and covered me with His hand. After He passed by, I could only see His back.
+
+Even that back—even that glimpse—caused my face to shine for the forty days that followed.
+
+That back was already more of God's glory than any human being in this life can bear.`,
+    historyContext_zh: `出埃及记三十三章处于金牛犊事件（第三十二章）和新法版颁布（第三十四章）之间，是一个深度神学反思与祷告的章节。
+
+"会幕"（Tent of Meeting，ohel mo'ed）在此处指摩西在正式会幕建成前临时使用的帐篷，位于营外。这与后来利未记所描述的会幕不同；早期学者认为这一帐篷是预指正式会幕的前身。
+
+"面对面"（panim el-panim）这一表达在希伯来文中是一个成语，表示直接、亲密的交流，而非字面意义上的"看见神的面"——因为同章经文中神明确说"人不能见我的面存活"（第20节）。两种表述的并列揭示了神启示的渐进性：摩西与神的关系是旧约中最亲密的先知关系（申三十四：10），但仍有其局限。
+
+"神的荣耀"（kabod YHWH，神的重量/辉煌）这一神学概念贯穿出埃及记，在此达到个人化的巅峰：摩西不只是集体地看见神的荣耀（如西奈山上的云火），他个人渴望亲见神自己。神将他安置在磐石穴中，用手遮掩——这个意象在基督教神学中被广泛用来指向基督作为"磐石"遮护信徒（林前十：4）。`,
+    historyContext_en: `Exodus 33 stands between the golden calf incident (chapter 32) and the giving of the new tablets (chapter 34), functioning as a chapter of deep theological reflection and prayer.
+
+The "Tent of Meeting" (ohel mo'ed) here refers to the temporary tent Moses used before the formal tabernacle was constructed, located outside the camp. This is distinct from the tabernacle described in Leviticus; earlier scholars considered this tent a precursor foreshadowing the formal tabernacle.
+
+The expression "face to face" (panim el-panim) in Hebrew is an idiom for direct, intimate communication, not a literal seeing of God's face—for the same chapter explicitly states "you cannot see my face, for man shall not see me and live" (v. 20). The juxtaposition of these two statements reveals the progressive nature of divine revelation: Moses' relationship with God was the most intimate prophetic relationship in the Old Testament (Deuteronomy 34:10), yet it still had its limits.
+
+The theological concept of "the glory of God" (kabod YHWH, God's weight/splendor) runs throughout Exodus, reaching its personal apex here: Moses no longer seeks to see God's glory merely collectively (as in the cloud and fire at Sinai) but personally, face to face. God placed him in a cleft of the rock and covered him with His hand—an image widely used in Christian theology to point to Christ as the "rock" sheltering believers (1 Corinthians 10:4).`,
+    structure_zh: `出埃及记三十三章分为三个递进的神学层次：
+
+**一、神宣告撤离（1-6节）**
+- 神应许使者同行，但拒绝亲自同去
+- 以色列人的哀痛回应
+
+**二、帐篷中的相遇（7-11节）**
+- 会幕的设立与功能
+- "面对面"的同在之描述
+
+**三、摩西的两重祈求（12-23节）**
+- 第一求：求神同行（12-17节）
+- 第二求：求见神的荣耀（18-23节）
+
+章节结构体现了神学的递进：从"神是否同行"到"神的本质是什么"——从要求神的护佑，到渴慕神的本身。这是每一个成熟信仰者的属灵轨迹。`,
+    structure_en: `Exodus 33 develops through three progressive theological levels:
+
+**I. God Declares His Withdrawal (vv. 1-6)**
+- God promises an angel as guide but refuses to go personally
+- Israel's grieving response
+
+**II. The Encounter at the Tent (vv. 7-11)**
+- The establishment and function of the tent of meeting
+- The description of "face to face" communion
+
+**III. Moses' Twofold Petition (vv. 12-23)**
+- First petition: that God would go with them (vv. 12-17)
+- Second petition: to see God's glory (vv. 18-23)
+
+The structure of the chapter embodies a theological progression: from "will God accompany us?" to "what is God's very nature?"—from seeking God's protection to longing for God Himself. This is the spiritual trajectory of every maturing believer.`,
+    theology_zh: `**神的同在（Divine Presence）**
+
+摩西的坚持——"若你不亲自同去，就不要把我们从这里领上去"——是改革宗神学中"神人关系"最经典的表达之一。这里显示的是：对真正认识神的人来说，神的同在比任何世俗利益都更宝贵。韦敏斯德小要理问答第一问回答："人的首要目的是荣耀神，并永远以祂为乐。"摩西的这份渴望，就是这一答案在旧约中最深刻的人格化。
+
+**神的可知性与不可知性**
+
+神对摩西说"你不能看见我的面"，同时又说要使"一切的恩慈在你面前经过"并"宣告我的名"——这揭示了改革宗神学所说的"神的可知性"（God is knowable）与"神的不可测性"（God is incomprehensible）之间的张力。人永远无法完全认识神，但神选择了启示自己，使人真实地（though partially）认识祂（约一：18，独生子已将祂表明出来）。
+
+**神的荣耀宣告（出三十四：6-7的铺垫）**
+
+第18节摩西"求你显出你的荣耀"，在第三十四章得到了神的完整回应——神用言语宣告自己的属性（慈爱、恩惠、怜悯、真实、宽恕……审判）。这表明：神的荣耀不首先是一种视觉现象，而是一种道德/属性的彰显。神就是祂所是的那一位，祂的荣耀是祂全备性格的光照。`,
+    theology_en: `**Divine Presence**
+
+Moses' insistence—"If your presence will not go with me, do not bring us up from here"—is one of the most classic expressions of the "God-human relationship" in Reformed theology. It demonstrates that for those who truly know God, His presence is more precious than any worldly benefit. The Westminster Shorter Catechism Question 1 answers: "Man's chief end is to glorify God, and to enjoy him forever." Moses' longing is the deepest personal embodiment of this answer in the Old Testament.
+
+**God's Knowability and Incomprehensibility**
+
+God told Moses "you cannot see my face," yet also said "I will make all my goodness pass before you" and "will proclaim my name"—revealing the tension between what Reformed theology calls God's "knowability" (God is knowable) and "incomprehensibility" (God cannot be fully known). Humanity can never comprehensively know God, yet God chooses to reveal Himself so that people may know Him truly (though partially)—as John 1:18 says, "The only God, who is at the Father's side, he has made him known."
+
+**The Proclamation of God's Glory (Setting Up Exodus 34:6-7)**
+
+Moses' request "please show me your glory" in verse 18 receives God's full response in chapter 34—where God verbally proclaims His own attributes (mercy, grace, compassion, faithfulness, forgiveness… and judgment). This indicates that God's glory is not primarily a visual phenomenon but a moral/attributive manifestation. God is who He is; His glory is the shining forth of His complete character.`,
+    christShadow_zh: `**磐石穴——基督遮护的预表**
+
+神将摩西藏在磐石穴中，用手遮盖，使他在神的荣耀经过时得以存活——这是基督保护信徒的经典预表。保罗在哥林多前书十章4节明说："那磐石就是基督。"在祂里面，我们被遮护在神荣耀的震怒之外，又在祂的同在中被滋养。
+
+**"面对面"的盼望——新约中的完全成就**
+
+在此章，摩西渴望看见神的荣耀，却只能看见背影——因为他是旧约的子民，只能领受预表。但新约宣告：在基督里，信徒得以"以没有遮掩的脸"见主的荣光（林后三：18）。末世论的盼望是"他们要面对面见他的面"（启二十二：4，"他们要见祂的面"）。那个摩西所渴望却无法完全得着的，正是信徒在基督再来时将要完全得着的。
+
+**基督——那真正"面对面"与神同在的一位**
+
+摩西"如朋友般"与神面对面说话，是先知职分中最高的特权。而主耶稣基督——那道成肉身的神子——永远是神的怀中（约一：18，"独生子，在父怀里的，祂将祂表明出来了"），是那真正与父面对面的一位。摩西是预影，基督是实体。`,
+    christShadow_en: `**The Cleft of the Rock: Type of Christ's Shelter**
+
+God hid Moses in a cleft of the rock, covering him with His hand, so that Moses could survive as God's glory passed by—a classic type of Christ's protection of believers. Paul states explicitly in 1 Corinthians 10:4: "that Rock was Christ." In Him, we are sheltered from the consuming wrath of God's glory, while being nourished by His presence.
+
+**The Hope of "Face to Face": Fully Accomplished in the New Testament**
+
+In this chapter, Moses longed to see God's glory but could only glimpse His back—for he was an Old Testament figure who could only receive types and shadows. But the New Testament declares: in Christ, believers may behold the Lord's glory "with unveiled face" (2 Corinthians 3:18). The eschatological hope is "they will see his face" (Revelation 22:4). What Moses longed for yet could not fully attain is precisely what believers will fully attain when Christ returns.
+
+**Christ: The One Truly "Face to Face" with God**
+
+Moses speaking with God "as a friend" face to face was the highest privilege of prophetic office. But the Lord Jesus Christ—the incarnate Son of God—is forever "at the Father's side" (John 1:18, "The only God, who is at the Father's side, he has made him known"). He is the one who truly communes with the Father face to face. Moses is the type; Christ is the reality.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 34,
+    publishDate: '2026-06-16',
+    title: '重刻法版与神的属性', titleEn: 'New Tablets and Gods Character',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 34 / Exodus 34',
+    content_zh: `第二次上山，与第一次不同。
+
+第一次上山，我两手空空，神将祂所写的法版交给我。这一次，神对我说："你要凿出两块石版，和先前的相同，你所摔碎的那两块上的字，我要再写在这两块上。"（出三十四：1）
+
+我凿了两块石版，清早起来，独自一人上山。这孤独是刻意的——神吩咐这一次不许任何人同上来，甚至连羊群、牛群也不许在山下吃草（出三十四：3）。上一次，我领着以色列的长老，热闹而庄严；这一次，是我一人与神。
+
+然后神降临，站在我旁边，宣告祂的名。
+
+这是出埃及记神学的最高峰，也是整本旧约对神属性最完整的宣告：
+
+"耶和华，耶和华，是有怜悯、有恩典的神，不轻易发怒，并有丰盛的慈爱和诚实，为千万人存留慈爱，赦免罪孽、过犯，和罪恶；万不以有罪的为无罪，必追讨他的罪，自父及子，直到三四代。"（出三十四：6-7）
+
+当神宣告这些话的时候，我立刻俯伏在地下拜（出三十四：8）。在旧约中，每当神真正彰显祂的本质，人的回应都是俯伏——不是辩论，不是提问，而是跪拜。
+
+神的名是一个悖论：慈爱与公义并立，赦免与审判同在。
+
+"不轻易发怒"（slow to anger）——这不是说神没有怒气，而是说祂的怒气不是冲动的，而是公义的，是有绝对理由才发的。
+"丰盛的慈爱"（hesed，不变的盟约之爱）——这是出埃及记最重要的神学词汇之一，指神对盟约的绝对忠信，无论人是否配得。
+"万不以有罪的为无罪"——这句话与前面的"赦免罪孽"形成了逻辑上看似的矛盾，但这正是福音的核心张力：神是慈爱的，祂赦免；神也是公义的，祂不无视罪。这个张力，最终在基督的十字架上得到解决。
+
+神随后与以色列重立盟约（出三十四：10-27），这次盟约的核心是驱逐迦南人、不可与他们混杂、不可制造偶像、守住三个重要节期（无酵节、收割节、收藏节）。这些诫命不是新律法，而是在金牛犊事件的背景下，对分别为圣的更新呼唤——以色列必须与迦南人的宗教彻底隔绝。
+
+我在山上待了四十昼夜，不吃饭，不喝水（出三十四：28）。这不是超人的意志力，而是神的供应。在神同在的荣耀中，肉身的需要暂时被超越了。
+
+最后，当我下山，约书亚和众祭司看见我的脸——我的面皮发光了（出三十四：29-30）。
+
+我不知道。我完全不知道自己的脸在发光。这正是恩典的本质：真正与神同在过的人，他身上会带着那同在的荣光，而他自己往往是最后一个察觉的。
+
+百姓惧怕靠近我，我只好用帕子蒙上脸，等到进入会幕与神说话的时候才拿下来（出三十四：33-35）。那帕子，后来成了保罗在哥林多后书里精彩神学发挥的题材——但那是后话了。`,
+    content_en: `The second ascent was different from the first.
+
+The first time, I went up empty-handed, and God placed in my hands the tablets He had written. This time, God told me: "Cut for yourself two tablets of stone like the first, and I will write on the tablets the words that were on the first tablets, which you broke." (Exodus 34:1)
+
+I cut two tablets of stone and rose early in the morning and went up the mountain alone. This solitude was deliberate—God commanded that no one should come up with me, that no flock or herd should graze before the mountain (Exodus 34:3). The first time, I had come up with the elders of Israel, solemn and accompanied; this time, it was only God and me.
+
+Then the LORD descended in the cloud, stood with me, and proclaimed His name.
+
+This is the theological pinnacle of Exodus and the most complete declaration of God's attributes in the entire Old Testament:
+
+"The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin, but who will by no means clear the guilty, visiting the iniquity of the fathers on the children and the children's children, to the third and the fourth generation." (Exodus 34:6-7)
+
+When God proclaimed these words, I immediately bowed my head to the earth and worshipped (Exodus 34:8). In the Old Testament, whenever God truly manifests His nature, the human response is prostration—not debate, not questioning, but worship.
+
+God's name is a paradox: mercy and justice stand together, forgiveness and judgment coexist.
+
+"Slow to anger"—not that God has no anger, but that His anger is not impulsive; it is righteous, arising only from absolute cause.
+
+"Abounding in steadfast love" (hesed, the unfailing covenantal love)—this is one of the most important theological terms in Exodus, referring to God's absolute faithfulness to His covenant, regardless of whether the recipient deserves it.
+
+"Who will by no means clear the guilty"—this appears logically contradictory to the preceding "forgiving iniquity," but this is precisely the central tension of the gospel: God is loving—He forgives; God is also just—He does not overlook sin. This tension finds its ultimate resolution at the cross of Christ.
+
+God then renewed the covenant with Israel (Exodus 34:10-27). The core of this covenant was the driving out of the Canaanites, the prohibition against mixing with them, the prohibition against making idols, and the keeping of three important feasts (Unleavened Bread, Harvest, and Ingathering). These commands were not new laws but, in the aftermath of the golden calf, a renewed call to holiness—Israel must be completely separated from Canaanite religion.
+
+I remained on the mountain forty days and forty nights, neither eating bread nor drinking water (Exodus 34:28). This was not superhuman willpower but God's provision. In the glory of His presence, the needs of the flesh were temporarily transcended.
+
+Finally, when I descended, Joshua and the priests saw my face—my face was shining (Exodus 34:29-30).
+
+I did not know. I had absolutely no idea that my face was shining. This is the very nature of grace: a person who has truly been in God's presence carries the glory of that presence, and they are often the last to notice.
+
+The people were afraid to come near me, so I covered my face with a veil, removing it only when I entered the tent of meeting to speak with God (Exodus 34:33-35). That veil later became the subject of Paul's remarkable theological development in 2 Corinthians—but that is for another day.`,
+    historyContext_zh: `出埃及记三十四章发生在金牛犊危机之后，是神与以色列重新立约的历史时刻。第6-7节的神性宣告（"耶和华，耶和华……"）在旧约中被多次引用或呼应（民十四：18；尼九：17；诗八十六：15；约二：13；拿四：2），成为以色列神学中对神本质的标准表达，学者称之为"神的十三属性"（Thirteen Attributes of God）或"Middot"，在犹太传统礼拜中至今仍被诵读。
+
+"摩西面皮发光"（出三十四：29-35）在希伯来文中，"发光"一词（qaran）来自"角"（qeren），意为"发射光芒如角"。拉丁文圣经（Vulgate）因为误译而把这个词译成了"长角"（cornuta），导致中世纪艺术中米开朗基罗的著名摩西雕像头上长了两个角——这是历史上著名的翻译误差。
+
+摩西戴帕子这一记号，保罗在哥林多后书第三章将其发展为一个完整的新旧约对比神学，指向旧约的荣耀是暂时消逝的（fading glory），而新约在基督里的荣耀是永恒增长的（surpassing glory）。`,
+    historyContext_en: `Exodus 34 takes place after the golden calf crisis and marks the historic moment of covenant renewal between God and Israel. The divine proclamation in verses 6-7 ("The LORD, the LORD…") is cited or echoed multiple times in the Old Testament (Numbers 14:18; Nehemiah 9:17; Psalm 86:15; Joel 2:13; Jonah 4:2), becoming the standard expression of God's nature in Israel's theology. Scholars refer to this as the "Thirteen Attributes of God" (Middot), which remains recited in Jewish liturgy to this day.
+
+Regarding Moses' shining face (Exodus 34:29-35): in Hebrew, the word for "shining" (qaran) derives from "horn" (qeren), meaning "to radiate beams like horns." The Latin Vulgate mistranslated this word as "having horns" (cornuta), which led to the famous Michelangelo statue of Moses with two horns on his head—one of history's most famous translation errors.
+
+Paul in 2 Corinthians 3 develops Moses' use of a veil into a complete theological contrast between the Old and New Covenants: the glory of the old covenant was a fading glory, while the glory of the new covenant in Christ is a surpassing and permanent glory.`,
+    structure_zh: `出埃及记三十四章结构如下：
+
+**一、重刻法版的准备（1-4节）**
+- 神命令凿制石版，独自上山
+
+**二、神的属性宣告（5-9节）**
+- 神降临，宣告祂的名（6-7节）
+- 摩西的回应：俯伏敬拜，再次代求（8-9节）
+
+**三、更新的盟约（10-28节）**
+- 神宣告盟约（10节）
+- 盟约的具体诫命：偶像、节期、奉献（11-26节）
+- 摩西抄写盟约（27-28节）
+
+**四、摩西下山与面皮发光（29-35节）**
+- 摩西面皮发光，众人惧怕
+- 帕子的使用
+
+章节的神学核心在第二部分：神性宣告（6-7节）是整章乃至整卷书的最高点。`,
+    structure_en: `Exodus 34 is structured as follows:
+
+**I. Preparation for New Tablets (vv. 1-4)**
+- God commands the cutting of new tablets; Moses goes up alone
+
+**II. Proclamation of God's Attributes (vv. 5-9)**
+- God descends and proclaims His name (vv. 6-7)
+- Moses' response: prostrate worship and renewed intercession (vv. 8-9)
+
+**III. The Renewed Covenant (vv. 10-28)**
+- God declares the covenant (v. 10)
+- Specific covenant commands: idols, feasts, offerings (vv. 11-26)
+- Moses writes the covenant (vv. 27-28)
+
+**IV. Moses' Descent and Shining Face (vv. 29-35)**
+- Moses' face shines; the people are afraid
+- The use of the veil
+
+The theological center of the chapter is the second section: the divine proclamation (vv. 6-7) is the apex of both this chapter and the entire book.`,
+    theology_zh: `**神的属性（Divine Attributes）**
+
+出埃及记三十四：6-7是旧约神学中最重要的单一经文之一。它揭示：
+- **神的仁慈（mercy/compassion，rachamim）**：来自"子宫"的词根，描述母亲对孩子的那种本能的爱
+- **神的恩典（grace/chen）**：无条件赐予不配得者的好处
+- **神的慢怒（slow to anger）**：神的怒气是真实的，但是有节制的
+- **神的hesed（steadfast love/盟约之爱）**：对盟约的绝对忠信，超越人的配得与否
+- **神的真实（faithfulness/emet）**：绝对可靠，言出必行
+
+同时，神说"万不以有罪的为无罪"（by no means clear the guilty）——这确立了神公义的不可妥协性。改革宗神学将这两方面——神的慈爱与神的公义——视为神属性中的核心张力，而这张力唯有在基督的救赎工作中得到完美的调和。
+
+**摩西的面光——圣化与转变**
+
+面皮发光是与神同在之后的自然结果，也是改革宗神学所说"圣化"（sanctification）的图像：越亲近神，越被祂荣耀的光改变。保罗在哥林多后书三：18引用此段，说明新约信徒"以没有遮掩的脸，得以看见主的荣光，好像从镜子里返照，就变成主的形状，荣上加荣"。`,
+    theology_en: `**Divine Attributes**
+
+Exodus 34:6-7 is one of the most important single passages in Old Testament theology. It reveals:
+- **God's mercy/compassion (rachamim)**: from a root meaning "womb," describing a mother's instinctive love for her child
+- **God's grace (chen)**: unconditional favor bestowed upon the undeserving
+- **Slow to anger**: God's anger is real but restrained
+- **God's hesed (steadfast love/covenantal love)**: absolute faithfulness to the covenant, transcending the merit or demerit of the recipient
+- **God's faithfulness (emet)**: absolutely reliable; He will do what He has said
+
+At the same time, God declares He will "by no means clear the guilty"—establishing the non-negotiability of His justice. Reformed theology treats these two aspects—God's love and God's justice—as the central tension within His attributes, a tension resolved perfectly only in Christ's redemptive work.
+
+**Moses' Shining Face: Sanctification and Transformation**
+
+The shining of Moses' face is the natural result of being in God's presence, and is an image of what Reformed theology calls "sanctification": the nearer one draws to God, the more one is transformed by the light of His glory. Paul cites this passage in 2 Corinthians 3:18, explaining that New Testament believers "with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another."`,
+    christShadow_zh: `**神的十三属性——基督十字架的宣告**
+
+出埃及记三十四：6-7所宣告的神的属性，是一个只有基督的十字架才能完全解释的神学公式。
+
+"赦免罪孽"与"万不以有罪的为无罪"看似矛盾：神怎么能既赦免又追讨？答案在各各他山。在十字架上，神的公义在基督承担刑罚中得到满足，神的慈爱在赦免悔罪信徒中得以彰显——这是"神既公义，也称信耶稣的人为义"（罗三：26）的奥秘。保罗在罗马书三：25-26称这个真理为"神显明祂自己公义的事"。
+
+**摩西的面光——基督荣耀的预影**
+
+摩西从会幕出来时面皮发光，预示着基督在登山变像时的荣光（太十七：2，"祂的面貌明亮如日头"）。但有一关键区别：摩西的荣光是借来的，是神荣耀照射在他身上的反射；基督的荣光是内在的，是神子本来就有的荣耀在人性中的流露（来一：3，"祂是神荣耀所发的光辉，是神本体的真像"）。
+
+**帕子——预表被揭去的阻隔**
+
+摩西用帕子遮盖发光的面，代表旧约荣耀的隐蔽与渐消。基督来了，那帕子被揭去——不只是物质上的，而是在祂的救赎工作中，那使人不能直接到神面前来的隔阂被永远除去（弗二：18，"我们两下借着祂，被一个圣灵所感，得以进到父面前"）。`,
+    christShadow_en: `**The Thirteen Attributes—Proclaimed at the Cross of Christ**
+
+The divine attributes proclaimed in Exodus 34:6-7 constitute a theological formula that only the cross of Christ can fully explain.
+
+"Forgiving iniquity" and "by no means clearing the guilty" appear contradictory: how can God both forgive and hold accountable? The answer is Calvary. On the cross, God's justice was satisfied as Christ bore the penalty; God's love was manifested as He forgave the repentant believer—this is the mystery of God being "just and the justifier of the one who has faith in Jesus" (Romans 3:26). Paul in Romans 3:25-26 calls this truth "the demonstration of God's righteousness."
+
+**Moses' Shining Face—A Shadow of Christ's Glory**
+
+Moses' shining face as he came out of the tent foreshadows Christ's glory at the Transfiguration (Matthew 17:2, "his face shone like the sun"). But there is a key difference: Moses' glory was borrowed—it was the reflection of God's glory shining upon him; Christ's glory is intrinsic—it is the outshining of the Son's own eternal glory through His human nature (Hebrews 1:3, "He is the radiance of the glory of God and the exact imprint of his nature").
+
+**The Veil—A Type of the Barrier Removed**
+
+Moses' veil covering the shining of his face represents the hiddenness and fading of Old Testament glory. When Christ came, that veil was removed—not merely physically, but in His redemptive work, the barrier preventing direct access to the Father was permanently abolished (Ephesians 2:18, "For through him we both have access in one Spirit to the Father").`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 35,
+    publishDate: '2026-06-17',
+    title: '甘心奉献建会幕', titleEn: 'Willing Offerings for the Tabernacle',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 35 / Exodus 35',
+    content_zh: `终于，那个时刻来到了。
+
+我从山上下来，心里带着重刻的法版，带着神属性的宣告，带着被更新的盟约。现在是时候了——是时候将那在山顶见到的蓝图，变成营地中心那座会幕的时候了。
+
+我把以色列全会众召集在一起（出三十五：1）。在我开口说关于会幕的任何事情之前，我先说了安息日。
+
+"六天可以做工，但第七天要成为圣日，是向耶和华完全安息的日子。无论何人，在这日做工，必要治死。"（出三十五：2）
+
+这个先后顺序不是偶然的。神在山上将安息日诫命放在会幕建造指令之前；而在山下，我也照样将安息日放在召集众人奉献建造的话语之前。这是一个神学信号：你们将要为神建造圣所，但你们对这件工作的热情，不能凌驾于神的命令之上。就连敬拜神的工程，也必须在祂的律法框架内进行。
+
+然后我说出了那个邀请：
+
+"你们要从所有的人中选取礼物献给耶和华……凡心里甘心乐意的，可以拿耶和华的礼物来：金，银，铜……"（出三十五：5）
+
+"凡心里甘心乐意的。"
+
+这六个字，就是一切的关键。
+
+建造会幕是神的旨意，但神没有下命令说每一个人都必须奉献。祂的旨意是通过自愿奉献来成就的——因为祂所要的，不只是材料，更是奉献者的心。被迫的顺服建不了神所要的圣所；甘心的奉献才配得上那圣所所代表的神的荣耀。
+
+接下来发生的事，让我亲眼见到了信心最美丽的样子。
+
+众人散去，然后一波一波地回来——男人、女人、首领——每一个心里受感动的，每一个灵里被圣灵激动的（出三十五：21），都带来了他们所有的：
+
+金子的耳环、戒指、手镯、颈链——那些曾经在金牛犊事件中被用于做偶像的同类饰物！——这一次，他们带来献给神（出三十五：22）。
+
+女人们带来了蓝色、紫色、朱红色的线，和细麻；有技巧的女人用手纺线，另有人把山羊毛纺线（出三十五：25-26）。
+
+首领们带来红玛瑙和其他宝石，香料和灯油（出三十五：27-28）。
+
+以色列人——那些刚刚因金牛犊而险些被神灭绝的人——如今争相将自己最好的东西奉献给神。这不是宗教义务，这是爱的回应。
+
+我看见比撒列和亚何利亚伯走到会众中间（出三十五：30-35）。神亲自提名拣选他们，我此刻向全会众宣告他们的名字。圣灵已经充满了他们，使他们有能力不只是自己做工，也能教导别人做（出三十五：34）——这是领袖的标志：不是独占恩赐，而是装备他人同行。
+
+当我看着那堆积起来的材料，当我看着那一张张俯首奉献的脸——我心里知道：这就是神的旨意在人心中结成果子的样子。
+
+不是强迫，不是义务，不是规条——而是被神的恩典感动之后，从心里涌出来的回应。
+
+会幕所需要的一切，将由这些甘心的心来供应。`,
+    content_en: `Finally, that moment came.
+
+I descended from the mountain carrying the recut tablets in my heart, carrying the proclamation of God's attributes, carrying the renewed covenant. Now was the time—time to transform the blueprint seen on the mountaintop into the tabernacle that would stand at the center of the camp.
+
+I assembled the whole congregation of Israel (Exodus 35:1). Before I said a single word about the tabernacle, I spoke first about the Sabbath.
+
+"Six days work shall be done, but on the seventh day you shall have a Sabbath of solemn rest, holy to the LORD. Whoever does any work on it shall be put to death." (Exodus 35:2)
+
+This ordering was not accidental. On the mountain, God had placed the Sabbath commandment before the tabernacle building instructions; now at the foot of the mountain, I did the same—placing the Sabbath before the call for contributions and construction. This was a theological signal: you are about to build a sanctuary for God, but your enthusiasm for this work cannot override God's commands. Even the work of worshipping God must proceed within the framework of His law.
+
+Then I issued the invitation:
+
+"Take from among you a contribution to the LORD. Whoever is of a generous heart… gold, silver, and bronze…" (Exodus 35:5)
+
+"Whoever is of a generous heart."
+
+These words were everything.
+
+Building the tabernacle was God's will, but God did not command every person to contribute. His will was to be accomplished through voluntary giving—because what He wanted was not merely materials but the hearts of the givers. Coerced obedience cannot build the sanctuary God desires; only willing offering is worthy of the glory the sanctuary represents.
+
+What happened next let me witness faith in its most beautiful form.
+
+The people dispersed, then returned wave after wave—men and women, leaders—everyone whose heart stirred them, everyone moved by the Spirit (Exodus 35:21), bringing everything they had:
+
+Gold earrings, rings, armlets, necklaces—the very same kind of ornaments that had been used to make the golden calf!—this time they brought them as an offering to God (Exodus 35:22).
+
+Women brought blue, purple, and scarlet yarn and fine linen; skilled women spun it with their hands, while others spun goat hair (Exodus 35:25-26).
+
+Leaders brought onyx and other gemstones, spices and oil for the lamps (Exodus 35:27-28).
+
+The Israelites—those who had just barely escaped destruction over the golden calf—now competed to offer their finest things to God. This was not religious obligation. This was love's response.
+
+I watched as Bezalel and Oholiab came forward among the congregation (Exodus 35:30-35). God had called them by name on the mountain; now I declared their names before all the people. The Spirit had filled them not only with ability to work but with the capacity to teach others to work as well (Exodus 35:34)—a mark of true leadership: not hoarding gifts, but equipping others to walk the same path.
+
+As I watched the materials accumulate, as I looked at face after face bowing in offering, I knew: this is what God's will producing fruit in human hearts looks like.
+
+Not compulsion, not obligation, not law—but the response welling up from within, moved by the grace of God.
+
+Everything the tabernacle required would be supplied by these willing hearts.`,
+    historyContext_zh: `出埃及记三十五章标志着出埃及记从"命令"（二十至三十一章）进入"执行"（三十五至四十章）的转折点。经历了金牛犊事件（三十二章）、摩西的代求（三十三章）和重立盟约（三十四章）之后，以色列人在恢复的关系中开始实际建造会幕。
+
+百姓奉献的慷慨程度出人意料，以致后来建造者不得不请摩西下令停止奉献（出三十六：5-7）——这在圣经全书中是独一无二的情形：奉献多于所需。
+
+古代近东所有的神庙建造都依赖强制劳役（corvée labor）或国家征税；以色列的会幕建造方式是反文化的——完全基于自愿奉献（nedabah，甘心祭）。这一方式所宣告的是：神的殿不依赖强权，而依赖祂子民甘心的爱。
+
+三十五章亦是比撒列和亚何利亚伯在公众场合的首次正式亮相，他们被摩西在全会众面前宣告为神拣选的工匠。这个公开宣告给予他们权威带领工程，也让全体以色列人知道，这不是摩西自己的工程，而是神拣选、神装备、神供应的工程。`,
+    historyContext_en: `Exodus 35 marks the pivotal transition in Exodus from "command" (chapters 20-31) to "execution" (chapters 35-40). After the golden calf incident (chapter 32), Moses' intercession (chapter 33), and the covenant renewal (chapter 34), Israel begins the actual construction of the tabernacle within a restored relationship with God.
+
+The generosity of the people's offering was so extraordinary that the craftsmen eventually had to ask Moses to command them to stop giving (Exodus 36:5-7)—a unique occurrence in all of Scripture: more was given than was needed.
+
+All ancient Near Eastern temple construction relied on corvée labor (forced labor) or state taxation; Israel's tabernacle construction was counter-cultural—based entirely on voluntary offering (nedabah, freewill offering). This method declared: God's house does not depend on power, but on the willing love of His people.
+
+Chapter 35 is also Bezalel and Oholiab's first formal public appearance, as Moses declares them before the whole congregation as the craftsmen chosen by God. This public announcement gave them authority to lead the work, and also made clear to all Israel that this was not Moses' project—it was a project chosen, equipped, and supplied by God.`,
+    structure_zh: `出埃及记三十五章结构清晰：
+
+**一、安息日的重申（1-3节）**
+- 先于一切建造工程的神圣前提
+
+**二、会幕材料的征集（4-19节）**
+- 摩西宣告所需材料（5-9节）
+- 摩西描述需要建造的各件器具（10-19节）
+
+**三、百姓的甘心奉献（20-29节）**
+- 众人受感动而来（20-22节）
+- 男女各阶层的奉献（22-29节）
+- 总结：以色列人甘心献给耶和华（29节）
+
+**四、工匠的宣告（30-35节）**
+- 摩西宣告比撒列蒙召（30-33节）
+- 亚何利亚伯和众工匠（34-35节）
+
+章节的情感顶点在第三部分：百姓的自愿奉献超过需要，这是对神恩典的真实回应，是整卷出埃及记叙事走向和好的最美明证。`,
+    structure_en: `Exodus 35 has a clear structure:
+
+**I. The Sabbath Reiterated (vv. 1-3)**
+- The sacred prerequisite before all construction work
+
+**II. The Call for Tabernacle Materials (vv. 4-19)**
+- Moses declares what materials are needed (vv. 5-9)
+- Moses describes each item to be constructed (vv. 10-19)
+
+**III. The People's Willing Offering (vv. 20-29)**
+- The people come as their hearts stir them (vv. 20-22)
+- Offerings from men, women, and all levels of society (vv. 22-29)
+- Summary: Israel gave willingly to the LORD (v. 29)
+
+**IV. The Proclamation of the Craftsmen (vv. 30-35)**
+- Moses announces Bezalel's calling (vv. 30-33)
+- Oholiab and the skilled workers (vv. 34-35)
+
+The emotional apex of the chapter is part three: the people's voluntary offering exceeds what is needed—the most beautiful demonstration of reconciliation in the entire Exodus narrative, a genuine response to God's grace.`,
+    theology_zh: `**甘心奉献与奉献神学**
+
+"凡心里甘心乐意的"（出三十五：5，21，22，29）这个短语在本章中反复出现。这反映的是改革宗神学中的一个核心原则：真正的顺服出于更新的心，而不是律法的强迫。韦敏斯德信条第十六章（On Good Works）指出，善工是"出于信心，按照神话语的规则，以神的荣耀为目的"。百姓的奉献完全符合这一定义：他们不是被迫的，他们是被神的恩典激励而自愿给予的。
+
+保罗在哥林多后书九：7引用了这一原则："各人要随本心所酌定的，不要作难，不要勉强，因为捐得乐意的人是神所喜爱的。"这直接呼应了出埃及记三十五章的精神。
+
+**安息日先于工程——恩典优先于功劳**
+
+将安息日诫命放在建造征召之前，神学意义深刻：休息在工作之前，接受在给予之前，恩典在功劳之前。改革宗神学强调，我们的事奉是对神恩典的回应（response to grace），而非赚取神青睐的手段（means of earning favor）。这一原则在以色列建造会幕的结构中得到了清晰的编排体现。
+
+**圣灵的装备与教导**
+
+比撒列不只是被圣灵赐予技艺，还被赋予"教导别人的能力"（出三十五：34）。这预表了圣灵在教会中的工作：不只是赋予个人恩赐，更是通过装备者建立整体——这是新约"各样的恩赐"（林前十二：4-7）和"教师"职分（弗四：11-12）的旧约根基。`,
+    theology_en: `**Willing Offering and Theology of Stewardship**
+
+The phrase "whose heart stirred him" (Exodus 35:5, 21, 22, 29) recurs throughout this chapter. It reflects a core principle of Reformed theology: true obedience springs from a renewed heart, not legal compulsion. Westminster Confession of Faith Chapter 16 (On Good Works) states that good works are "done in faith, according to the rule of God's word, and to the glory of God." The people's offering perfectly fits this definition: they were not compelled; they were motivated by God's grace to give voluntarily.
+
+Paul cites this principle in 2 Corinthians 9:7: "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver"—directly echoing the spirit of Exodus 35.
+
+**Sabbath Before Building—Grace Before Works**
+
+Placing the Sabbath commandment before the call for contributions carries deep theological significance: rest before work, receiving before giving, grace before merit. Reformed theology emphasizes that our service is a response to God's grace, not a means of earning His favor. This principle is clearly encoded in the structure of Israel's tabernacle building.
+
+**The Spirit's Equipping and Teaching**
+
+Bezalel was not merely given skill by the Spirit; he was also granted "the ability to teach" (Exodus 35:34). This foreshadows the Spirit's work in the church: not only bestowing individual gifts, but building up the whole body through those who equip others—the Old Testament foundation for New Testament "varieties of gifts" (1 Corinthians 12:4-7) and the "teacher" office (Ephesians 4:11-12).`,
+    christShadow_zh: `**甘心奉献——基督完全献祭的预表**
+
+以色列人从心里涌出的甘心奉献，最终指向那终极的、完全甘心的献祭：主耶稣基督在十字架上的自献。
+
+希伯来书十：5-7引用诗篇四十篇宣告："祭物和礼物，你不愿意……那时我说，神啊，我来了，我的事在经卷上已经记载了，我以你的旨意为乐，我的神。"基督的献祭不是被迫的，而是从永恒中就甘心乐意的——"祂因那摆在前面的喜乐，就轻看羞辱，忍受了十字架"（来十二：2）。以色列人的金银是有限的礼物；基督的宝血是无限的献祭，建成了那永恒的"真会幕"（来八：2）。
+
+**会幕的建成——教会的预影**
+
+以色列全体参与建造会幕，每一个人按着圣灵所赐的恩赐贡献各自的部分——这是新约教会最鲜明的旧约预表。保罗在以弗所书二：20-22说，教会"被建造在使徒和先知的根基上，有基督耶稣自己为房角石，各房靠他联络得合式，渐渐成为主的圣殿；你们也靠他同被建造，成为神借着圣灵居住的所在"。会幕是图画，教会是实体；旧约的帐篷需要金银铜木，新约的圣殿是由活石——被圣灵更新的信徒——建成的（彼前二：5）。
+
+**"奉献超过所需"——神恩典的充足性**
+
+以色列人的奉献多到不得不停止（出三十六：5-7），这个细节是神恩典丰盛的美丽预像：在基督里，神的供应总是丰盛过我们的需要。"神能将各样的恩惠多多地加给你们，使你们凡事常常充足，能多行各样善事"（林后九：8）。神的国度工程从不因资源不足而失败——祂从人甘心的心里取用，从不让真正的需要无法被供应。`,
+    christShadow_en: `**Willing Offering—A Type of Christ's Complete Self-Sacrifice**
+
+Israel's willing, heart-driven offering ultimately points to that ultimate, wholly willing sacrifice: the Lord Jesus Christ's self-offering on the cross.
+
+Hebrews 10:5-7 cites Psalm 40 to declare: "Sacrifices and offerings you have not desired… then I said, 'Behold, I have come to do your will, O God, as it is written of me in the scroll of the book.'" Christ's sacrifice was not compelled—it was joyfully willing from eternity: "Who for the joy that was set before him endured the cross, despising the shame" (Hebrews 12:2). Israel's gold and silver were finite gifts; Christ's blood is an infinite sacrifice, building that eternal "true tent" (Hebrews 8:2).
+
+**The Completed Tabernacle—A Type of the Church**
+
+All Israel participating in building the tabernacle, each person contributing according to the Spirit's gift—this is the most vivid Old Testament type of the New Testament church. Paul says in Ephesians 2:20-22 that the church is "built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone, in whom the whole structure, being joined together, grows into a holy temple in the Lord. In him you also are being built together into a dwelling place for God by the Spirit." The tabernacle is the image; the church is the reality. The Old Testament tent required gold, silver, bronze, and wood; the New Testament temple is built of living stones—believers renewed by the Spirit (1 Peter 2:5).
+
+**"More Than Enough"—The Sufficiency of God's Grace**
+
+The offering so exceeded what was needed that giving had to be stopped (Exodus 36:5-7)—this detail is a beautiful preview of the abundance of God's grace: in Christ, God's provision always surpasses our need. "And God is able to make all grace abound to you, so that having all sufficiency in all things at all times, you may abound in every good work" (2 Corinthians 9:8). The kingdom project of God never fails for lack of resources—He draws from willing hearts, and never leaves a true need unmet.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 36,
+    publishDate: '2026-06-18',
+    title: '建造会幕', titleEn: 'Building the Tabernacle',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 36 / Exodus 36',
+    content_zh: `那一天清晨，当我走进营地，看见的景象让我的心中充满敬畏与感动——百姓仍在涌来，手中捧着各样礼物：金银、铜料、染色的布匹、皂荚木、香料……他们一批一批地来，脸上带着一种我从未在埃及见过的神情。那不是恐惧，也不是强迫，而是一种从心底涌出的喜乐。
+
+我想起数日前，当耶和华在西奈山上将会幕的样式指示给我看，我心中既震惊又惶恐。那图样如此精细，那材料如此珍贵，而这些在旷野流浪的百姓，他们有什么呢？然而神早已预备——当年他们出埃及时，耶和华使他们在埃及人眼前得恩典，埃及人把那些金银首饰、衣裳都给了他们。那不是人的智慧，乃是神的供应。神早在我们离开埃及之前，就已经为圣殿的建造预备了材料。
+
+比撒列和亚何利亚伯，这两位蒙神灵充满的工匠，站在帐幕前接收百姓带来的物品。比撒列是犹大支派的，他父亲乌利，祖父是户珥——他的名字之所以令我印象深刻，是因为当年亚玛力人来攻打时，正是户珥和亚伦一左一右扶着我的手，直到日落。神记念祖先的忠心，并将技艺的恩典赐给他们的后代。
+
+然而出乎意料的事情发生了。
+
+每天早晨，百姓仍然来。工匠们来找我说："百姓带来的东西太多了，超过了建造圣所各样使用的工程。"
+
+太多了。我在旷野四十年，从未想到会说出这样的话。
+
+我传令停止："无论男女，不必再为圣所奉献礼物了。"于是百姓停止了带来——因为已经有的材料足够了，而且有余。
+
+我站在那里，看着一车车的材料，心中默然。这是怎样的一个民族！同样是这些人，他们曾在西奈山下熔金造牛犊，曾在旷野埋怨食物；然而此刻，他们甘心乐意，奉献过了头，以至于要被叫停。这不是人性的改变，这是圣灵的工作。神在他们心中动了工，感动了他们的灵，使他们愿意。
+
+我想起大卫后来写的话——虽然他还未出生——神的殿必须由甘心的人来建造，因为神爱捐得乐意的人。我们旷野中的这段历史，预表了将来整个救恩的模式：神先给予，人才能奉献；神先感动，人才能甘心。以色列人手中捧着从埃及带出来的金银，那是神的预备；他们心中燃烧着愿意奉献的火，那也是神的工作。
+
+工程开始了。比撒列用金线、蓝色紫色朱红色线，和细麻绳制作了内幔，十幅幔子联成一幅；又做了山羊毛的幔子作为帐幕的顶盖，铺在细麻幔子之上。皂荚木的板，一块块被精心地制成，包上金子，插入银座之中。北面南面各二十块板，西面六块，加上两块角板。
+
+我走在工地之间，看着这些从旷野中长大的人，如今用神所赐的技艺建造神的居所，心中有一种说不出的感慨。这帐幕不是我们的骄傲，而是神的怜悯——全能者竟然愿意俯就居住在我们中间，在这片飘扬着沙尘的旷野里，在这群刚硬悖逆的百姓中间，设立祂的居所。
+
+这是恩典，纯粹的恩典。
+
+我常常在夜里独坐，仰望那永无止境的星空，心想：神不需要我们为祂建造任何东西。天是祂的座，地是祂的脚凳；宇宙不能容纳祂，何况人手所造的殿？然而祂说，"你们要为我造圣所，使我可以住在他们中间。"这句话里藏着一个奥秘，我一生都在思索，却始终没有完全明白。神要与人同住——这个渴望，远比我们渴望神更深更久。
+
+那天傍晚，工程的框架渐渐成形，皂荚木的柱子直立着，银座沉稳地托着一切。我看着这一切，知道这只是开始。约柜还未制成，圣衣还未缝制，炉火还未点燃。但神的工在进行，祂必成就。`,
+    content_en: `That morning, as I walked through the camp, the sight filled my heart with reverence and wonder — the people were still coming, hands laden with offerings: gold and silver, bronze, dyed fabrics, acacia wood, spices… They came in waves, their faces bearing an expression I had never seen in Egypt. It was not fear, nor compulsion, but a joy welling up from deep within.
+
+I recalled how, days before on Mount Sinai, when the LORD showed me the pattern of the tabernacle, my heart was seized with both awe and dread. The design was so intricate, the materials so precious — yet what did these wilderness wanderers possess? But God had already provided. When Israel left Egypt, the LORD had given them favor in the eyes of the Egyptians, who had given them gold, silver, and fine garments. That was not human wisdom; it was divine provision. Before we ever left Egypt, God had already prepared the materials for His sanctuary.
+
+Bezalel and Oholiab — the two craftsmen filled with the Spirit of God — stood at the entrance of the tent receiving the people's gifts. Bezalel was of the tribe of Judah; his father was Uri, his grandfather Hur. That name remained vivid in my memory, for it was Hur who, together with Aaron, held up my hands during the battle against Amalek until sunset. God honors ancestral faithfulness and bestows the gift of craftsmanship upon their descendants.
+
+But then the unexpected happened.
+
+Each morning, the people kept coming. The craftsmen came to me and said, "The people are bringing much more than enough for doing the work the LORD commanded to be done."
+
+Too much. In forty years of wilderness life, I never imagined I would say such a thing.
+
+So I commanded: "Let no man or woman do anything more for the contribution for the sanctuary." And the people were restrained from bringing — for the material they had was sufficient to do all the work, and more.
+
+I stood there, gazing at the piled materials, silent within. What manner of people are these! These same people who had melted gold to make a calf at the foot of Sinai, who had grumbled in the wilderness about food — now they gave with such willing hearts that they had to be told to stop. This was not a change in human nature; this was the work of the Holy Spirit. God had moved within them, stirring their spirits to willingness.
+
+I thought of words David would later write — though he was not yet born — that the house of God must be built by willing hearts, for God loves a cheerful giver. This episode in the wilderness prefigures the entire pattern of salvation: God gives first, and only then can we offer; God moves first, and only then do we willingly respond. The gold and silver Israel carried out of Egypt was God's provision; the fire of willing generosity burning in their hearts was also God's work.
+
+The construction began. Bezalel wove the inner curtain with gold, blue, purple, and scarlet thread, and fine twined linen — ten curtains joined as one. He made curtains of goats' hair for the covering of the tent, laid over the fine linen. Planks of acacia wood were carefully fashioned, overlaid with gold, set into silver bases. Twenty planks for the south side, twenty for the north, six for the west, plus two corner planks.
+
+I walked among the worksite, watching these men who had grown up in the wilderness now building God's dwelling with divinely given skill. A deep emotion stirred within me. This tabernacle was not our achievement — it was God's mercy. The Almighty was willing to condescend and dwell among us, here in this dust-blown wilderness, among this stiff-necked and rebellious people.
+
+This was grace. Pure grace.
+
+Many nights I sat alone, gazing up at the endless stars, thinking: God has no need for us to build Him anything. Heaven is His throne and earth His footstool; the universe cannot contain Him — how much less a house built by human hands? Yet He had said, "Let them make Me a sanctuary, that I may dwell in their midst." Those words held a mystery I pondered my entire life without fully comprehending. God desires to dwell with humanity — and that desire runs deeper and older than our desire for God.
+
+As evening fell, the framework of the structure gradually took shape — acacia planks standing upright, silver bases firmly bearing the weight of all. I looked at it all and knew: this was only the beginning. The ark was not yet made, the priestly garments not yet sewn, the fire not yet kindled. But God's work was in progress. He would surely complete it.`,
+    historyContext_zh: `出埃及记第三十六章记录了会幕建造工程正式开始的过程。从历史背景看，这一章的特殊之处在于"奉献太多"的场景——在古代近东，建造神庙通常需要王权强制征用劳力与财富，而以色列百姓的甘心奉献是极为罕见的现象。
+
+考古学上，会幕的结构与青铜时代中东的可移动神祠有若干相似之处，但其神学意涵远超任何异教建筑。会幕使用的材料——金、银、铜、细麻布、皂荚木——与考古发掘中发现的埃及宫廷及宗教建筑材料高度吻合，印证了以色列人在出埃及时带出了大量埃及财富（出12:35-36）。
+
+比撒列（Bezalel，意为"神的荫庇下"）被特别提及为"被圣灵充满"（出31:3），这是旧约中极少数明确提到圣灵充满个人从事具体事工的记载之一，具有重要的神学意义。`,
+    historyContext_en: `Exodus 36 records the official commencement of tabernacle construction. Historically, the notable feature of this chapter is the "too much" offering scenario. In the ancient Near East, temple construction typically required royal coercion of labor and wealth; Israel's willing generosity was extraordinarily rare.
+
+Archaeologically, the tabernacle structure bears some similarities to portable shrines from the Bronze Age Middle East, but its theological significance far surpasses any pagan structure. The materials used — gold, silver, bronze, fine linen, acacia wood — closely match those found in Egyptian royal and religious buildings from the period, corroborating the account of Israel carrying out great wealth from Egypt (Exod 12:35-36).
+
+Bezalel (meaning "in the shadow of God") is explicitly noted as being "filled with the Spirit of God" (Exod 31:3) — one of the rare Old Testament references to the Holy Spirit filling an individual for specific work, carrying significant theological weight.`,
+    structure_zh: `第三十六章结构清晰，可分为三个段落：
+
+**一、奉献丰余（1-7节）**
+工匠接收百姓的奉献，发现材料超过需要，摩西传令停止接收。这是全章的高峰，也是全书中极具戏剧性的时刻。
+
+**二、制作幔子（8-19节）**
+比撒列按神的指示制作了帐幕的内幔（细麻幔）和外幔（山羊毛幔），以及盖顶的鞣皮和海狗皮覆盖物。
+
+**三、制作木板与柱子（20-38节）**
+皂荚木板、横木、柱子、帷帘等构成帐幕的骨架，所有部件按神的样式精确制成。
+
+本章与第二十六章（神给摩西的指示）形成严格的平行对照，显示百姓"照耶和华所吩咐摩西的一切"行了（35:29）。这种叙事对应是出埃及记后半部分的文学特征，强调顺服的完全性。`,
+    structure_en: `Chapter 36 has a clear three-part structure:
+
+**I. Superabundant Offerings (vv. 1-7)**
+The craftsmen receive the people's gifts and find the materials exceed what is needed; Moses commands the offerings to stop. This is the chapter's climax — one of the most dramatic moments in the entire book.
+
+**II. The Curtains (vv. 8-19)**
+Bezalel crafts the inner curtains (fine linen) and outer curtains (goats' hair), along with the ram-skin and porpoise-skin coverings, following God's design.
+
+**III. Planks and Pillars (vv. 20-38)**
+Acacia planks, crossbars, pillars, and screens form the skeleton of the tabernacle, each component made precisely according to God's pattern.
+
+This chapter forms a strict literary parallel with chapter 26 (God's instructions to Moses), demonstrating that the people did "everything just as the LORD had commanded Moses" (35:29). This narrative correspondence is a literary feature of the latter half of Exodus, emphasizing the completeness of obedience.`,
+    theology_zh: `第三十六章至少蕴含三个重要神学主题：
+
+**一、圣灵赐人才干以成就神的工**
+比撒列和亚何利亚伯被圣灵充满，具有各样技艺（31:3-6）。这揭示了一个原则：神不仅呼召人去做工，也亲自赐下完成工作所需的能力。这与新约中圣灵赐下属灵恩赐给教会肢体（林前12章）形成直接对应。
+
+**二、甘心奉献是圣灵感动的果子**
+百姓的奉献不是被迫的，而是"心里感动"、"灵里甘心"（35:21）。改革宗神学强调，真正的顺服源于圣灵在人心中的重生与更新，而非人的自我努力。这段历史生动地说明了"神在你们心里运行，使你们立志行事，都是为着祂的美意"（腓2:13）的真理。
+
+**三、神居住在百姓中间是恩典**
+全能神愿意住在帐幕里，住在这群刚硬、悖逆、软弱的百姓中间，这本身就是难以理解的恩典。神不需要一个地点，但祂选择了一个地点——这是祂向人伸出的手，是神向罪人的怜悯俯就。`,
+    theology_en: `Chapter 36 carries at least three significant theological themes:
+
+**I. The Holy Spirit Gifts People for God's Work**
+Bezalel and Oholiab were filled with the Spirit of God and given every kind of skill (31:3-6). This reveals a principle: God not only calls people to work, but personally provides the abilities needed to accomplish it. This directly parallels the New Testament's teaching on the Spirit distributing spiritual gifts to members of the church (1 Cor 12).
+
+**II. Willing Giving Is the Fruit of the Spirit's Moving**
+The people's offerings were not coerced — they gave because their hearts were "stirred" and their spirits "moved" (35:21). Reformed theology emphasizes that true obedience flows from the Spirit's regeneration and renewal of the human heart, not from human self-effort. This passage vividly illustrates the truth that "it is God who works in you, both to will and to work for His good pleasure" (Phil 2:13).
+
+**III. God's Dwelling Among His People Is Grace**
+The Almighty's willingness to dwell in a tent, among this stiff-necked, rebellious, and weak people, is itself unfathomable grace. God has no need of a location — yet He chose one. This is His outstretched hand toward humanity, the condescension of God in mercy toward sinners.`,
+    christShadow_zh: `会幕作为整体，指向基督道成肉身这一终极奥秘。约翰福音一章14节说："道成了肉身，住在我们中间"——原文"住"（σκηνόω）正是"搭帐幕"之意。
+
+第三十六章特别强调的"甘心奉献"，预表了基督降世的自愿性质。祂不是被迫降生为人，而是出于甘心："祂本有神的形象……却虚己，取了奴仆的形象，成为人的样式"（腓2:6-7）。百姓将从埃及带出的财宝奉献给神，基督将从永恒怀抱带来的荣耀奉献给罪人——这两者之间有一种神圣的类比。
+
+此外，会幕建造需要精巧的技艺，而那技艺来自圣灵的充满。基督作为神的智慧（林前1:24），是一切智慧和知识的宝藏（西2:3）。会幕是人手所造的影子，基督是实体；幕是临时的，基督是永恒的。`,
+    christShadow_en: `The tabernacle as a whole points toward the ultimate mystery of the Incarnation. John 1:14 says, "The Word became flesh and dwelt among us" — the Greek verb (σκηνόω) literally means "to pitch a tent" or "to tabernacle."
+
+Chapter 36's emphasis on willing, generous giving prefigures the voluntary nature of Christ's coming. He was not compelled to become human; He came willingly: "Though He was in the form of God… He emptied Himself, taking the form of a servant, being born in the likeness of men" (Phil 2:6-7). The people offered to God the treasures they had carried out of Egypt; Christ offered to sinners the glory He carried from the eternal bosom of the Father — a divine analogy between the two.
+
+Furthermore, the tabernacle's construction required exquisite skill flowing from the Spirit's filling. Christ is "the wisdom of God" (1 Cor 1:24) and in Him "are hidden all the treasures of wisdom and knowledge" (Col 2:3). The tabernacle was a hand-made shadow; Christ is the substance. The tent was temporary; Christ is eternal.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 37,
+    publishDate: '2026-06-19',
+    title: '制造约柜与圣物', titleEn: 'Making the Ark and Sacred Objects',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 37 / Exodus 37',
+    content_zh: `那些日子，我常常站在工地旁，看着比撒列工作。他的手稳健而精准，凿刻皂荚木，锤打金叶，仿佛他的每一个动作都经过了神圣的量度。我知道，他手中制作的每一件器具，都不只是木料和金属的组合——它们是神用来教导我们认识祂的课本，是祂荣耀的影像，是遥远将来之事的轮廓。
+
+约柜先被制成。
+
+那是一个皂荚木的箱子，长二肘半，宽一肘半，高一肘半——我在心中换算，大约是一个人伸开双臂的长度。里外都包上精金，四脚有金环，备着穿抬杠的皂荚木杠，杠也包了金。然后是施恩座——纯金打造，与约柜等长等宽，两端各有一个基路伯，用金子锤出，展翅向上，面对面，脸向施恩座。
+
+当我第一次站在施恩座面前，心中一阵战栗。在两个基路伯之间、施恩座之上，就是神说祂要与我相会、向我说话的地方。整个旷野四十年，我所追求的、所盼望的，不就是这个吗——与神相遇？然而神的圣洁如此高远，人的污秽如此深重，以至于这相遇需要一个施恩座，需要血的遮盖，需要大祭司一年一次在战战兢兢中才能进入。
+
+神的慈爱与圣洁在约柜上并立——祂的律法（两块石版）藏在里面，祂的恩典（施恩座）覆盖在上面。这不是矛盾，这是福音的预表：有一天，神的律法被完全遵守了，神的公义被完全满足了，神的恩典就可以毫无遮拦地临到罪人。但在旷野的当下，我只能远远地仰望，凭着信心期待那一天。
+
+陈设饼的桌子接着被制成：皂荚木，包金，四腿有金环，有金边，有金的花圈。那些盘子、杯子、壶、碗，都是纯金的。桌子摆在会幕北面，每安息日更换上面的饼——十二个，代表以色列十二支派，在耶和华面前常设摆列。
+
+这桌子让我想到的，是神养育祂百姓的方式。旷野里的吗哪，是神每日供给的肉体食物；陈设饼的桌子，是神在圣所中宣告的属灵喂养——我是以色列的神，你们在我面前有席位，我记念你们十二个支派，我不会遗忘你们中的任何一个。
+
+然后是灯台。那是用一整块纯金锤制出来的，中间一根主干，两旁各三根枝子，共七盏灯。每根枝子上都有杏花样式的花萼、花、花苞。从未有人告诉我为什么是杏花——也许因为杏花是春天最先开放的花，是复活与盼望的象征；也许因为在那次亚伦的杖忽然发芽结杏的奇迹中，神已经将杏花刻入了以色列人的心里。灯台的七盏灯要常常点着，在会幕内照明——这圣所里没有窗户，没有自然光，唯一的光来自神吩咐制造的灯台。
+
+我站在灯台前思索良久：在这个世界的黑暗中，人们能看见什么？只有神所提供的光。没有神的话，没有神的圣灵，没有神在圣所中的彰显，人就行走在黑暗里，即便眼睛是睁开的，也无法看见真实。以色列是神的光的持守者，神的话是他们脚前的灯、路上的光。
+
+最后是香坛，用皂荚木制成，包金，方形，有四个角，角上有金環，有横档，使能扛抬。这坛要设在约柜前的幔子外面，在施恩座正前方。每天早晨和傍晚，祭司要在上面烧香——那持续升起的香烟，是以色列百姓祈祷的象征，是他们向神发出的声音，是神与百姓之间不间断的交通。
+
+我想到，祈祷本身就是一件奇妙的事。神知道一切，何须人来告诉祂？然而祂命令祈祷，因为祈祷不是给神提供信息，而是人在神面前的虔敬、信靠与倚赖。香坛要在施恩座前燃烧，这告诉我：我们的祈祷是被接纳的，不是因为我们足够好，而是因为施恩座在那里，因为遮盖之血在那里。
+
+这四件器具——约柜、桌子、灯台、香坛——构成了会幕内室（至圣所）和外室（圣所）的核心陈设。它们各自指向神的某个属性，又共同组成一幅关于神如何与人同在的完整画面：祂的话语（约柜中的律法）、祂的供养（桌子上的饼）、祂的光（灯台）、祂与人的交通（香坛）。
+
+当夕阳的余晖渐渐消散，工地里只剩下香坛上最后一缕烟气，我跪在旷野的沙地上，心中涌起一个感恩的祷告：神啊，你竟然愿意如此深地与我们相交，你竟然命令我们为你建造这一切——不是因为你需要，而是因为你爱我们，你要让我们知道你是谁，你要让我们来到你面前。这是多大的怜悯，这是多深的爱。`,
+    content_en: `In those days I often stood beside the worksite, watching Bezalel. His hands were steady and precise — carving acacia wood, hammering gold leaf — as if each movement had been divinely measured. I knew that every piece of furniture he was fashioning was more than a combination of wood and metal. These were God's textbooks for teaching us to know Him, shadows of His glory, the silhouettes of things far in the future.
+
+The ark was made first.
+
+It was a chest of acacia wood — two and a half cubits long, one and a half wide, one and a half high. In my mind I measured: roughly the span of a man's outstretched arms. Overlaid with pure gold inside and out, with gold rings at its four feet through which the carrying poles — also acacia overlaid with gold — were inserted. Then the mercy seat: pure gold, beaten work, the same length and width as the ark, with a cherub at each end hammered from gold, their wings spread upward, facing each other, their faces turned toward the mercy seat.
+
+When I first stood before the mercy seat, a trembling seized my heart. Between the two cherubim, above the mercy seat — that was where God said He would meet with me and speak to me. In forty years of wilderness wandering, was this not what I had sought and longed for — to meet with God? Yet God's holiness was so exalted, and human defilement so deep, that this meeting required a mercy seat, required the covering of blood, required the high priest to enter only once a year, in trembling reverence.
+
+God's love and holiness stood together upon the ark — His law (the two tablets of stone) hidden within, His grace (the mercy seat) covering above. This was no contradiction; it was a prefigurement of the gospel: one day, God's law would be perfectly fulfilled, His justice completely satisfied, and His grace could flow without hindrance to sinners. But there in the wilderness, I could only gaze from afar, trusting by faith for that day to come.
+
+The table for the bread of the Presence was made next: acacia wood, overlaid with gold, four legs with gold rings, a gold molding border, a gold crown. The plates, cups, flagons, and bowls — all pure gold. The table was placed on the north side of the tabernacle; every Sabbath the bread was changed — twelve loaves representing the twelve tribes of Israel, perpetually set in the LORD's presence.
+
+This table made me think of the way God nourishes His people. The manna in the wilderness was daily physical provision; the table of bread was a proclamation of spiritual feeding in the sanctuary — I am the God of Israel; you have a place at My table; I remember each of the twelve tribes; I will not forget a single one of you.
+
+Then the lampstand. Beaten from a single talent of pure gold — a central shaft, six branches extending from its sides, seven lamps in all. Each branch bore almond-shaped calyxes, blossoms, and buds. No one told me why almonds — perhaps because the almond blossoms first in spring, a symbol of resurrection and hope; perhaps because in the miracle of Aaron's staff that suddenly sprouted and bore almonds, God had already carved the almond into the memory of Israel. The seven lamps were to burn continually, giving light inside the tabernacle — there were no windows in the sanctuary, no natural light; the only light came from the lampstand God had commanded to be made.
+
+I pondered long before the lampstand: In the darkness of this world, what can people see? Only the light God provides. Without God's word, without His Spirit, without His manifestation in the sanctuary, people walk in darkness — eyes open, yet unable to see reality. Israel was the keeper of God's light; God's word was a lamp to their feet and a light to their path.
+
+Last was the altar of incense — acacia wood, overlaid with gold, square, with four horns, gold rings, and poles for carrying. This altar was to be placed before the veil in front of the ark, directly before the mercy seat. Every morning and evening the priest was to burn incense on it — the continuously rising smoke was the symbol of Israel's prayers, the sound of their voices ascending to God, the unbroken communion between God and His people.
+
+I thought about how prayer itself is a wondrous thing. God knows all things — why would He need people to tell Him? Yet He commands prayer, because prayer does not provide God with information; it is the human act of reverence, trust, and dependence before God. The incense altar burned before the mercy seat — this told me: our prayers are accepted, not because we are good enough, but because the mercy seat is there, because the covering blood is there.
+
+These four furnishings — the ark, the table, the lampstand, the incense altar — formed the core appointments of the inner chamber (the Most Holy Place) and the outer chamber (the Holy Place). Each pointed to an attribute of God; together they composed a complete picture of how God dwells with humanity: His word (the law within the ark), His provision (the bread on the table), His light (the lampstand), His communion with people (the incense altar).
+
+As the last light of the sun faded and only a final wisp of smoke drifted from the incense altar, I knelt in the wilderness sand, and a prayer of thanksgiving welled up within me: O God, you are willing to commune with us so deeply; You have commanded us to build all this for You — not because You need it, but because You love us, because You want us to know who You are, because You want us to come before You. What great mercy this is. What deep love.`,
+    historyContext_zh: `第三十七章所记载的四件圣所器具，在考古与历史上都有丰富的背景：
+
+**约柜（Ark of the Covenant）**：在古代近东，神圣器物被置于特制容器中携带的做法并不罕见（如埃及的神船），但以色列约柜的神学含义是独特的——它不是神的载体，而是神立约的见证，律法的保存处，施恩座是神临在的象征地点。历史上，约柜在所罗门圣殿被建成后被安放其中（王上8:1-9），此后其下落成谜（很可能在主前586年巴比伦毁圣殿时被带走或毁坏）。
+
+**陈设饼桌**：在迦南、美索不达米亚的神庙中，神的供桌是普遍存在的。以色列的陈设饼（字面意思是"面前的饼"，"the Bread of the Presence"）神学上不同于异教的供神食物——那不是神需要吃的食物，而是表示以色列十二支派常在神面前的象征。
+
+**金灯台（Menorah）**：七枝灯台成为犹太民族最著名的象征，至今仍是以色列国徽的主体。提多凯旋门（Arch of Titus，公元82年）上刻有罗马人从圣殿掠走金灯台的场景，是目前已知最早的灯台图像之一。`,
+    historyContext_en: `The four sanctuary furnishings recorded in chapter 37 have rich archaeological and historical backgrounds:
+
+**The Ark of the Covenant**: In the ancient Near East, housing sacred objects in specially constructed containers for transport was not unusual (e.g., Egyptian sacred barques). But the theological significance of Israel's ark was unique — it was not a vehicle for God but a witness to His covenant, a repository for the law, with the mercy seat as the symbolic location of divine presence. Historically, the ark was housed in Solomon's temple (1 Kgs 8:1-9); its whereabouts after that became mysterious (most likely removed or destroyed when Babylon destroyed the temple in 586 BC).
+
+**The Table of Showbread**: Tables for divine offerings were common in Canaanite and Mesopotamian temples. The theological significance of Israel's showbread (literally "the Bread of the Presence") differs from pagan food offerings — it was not food that God needed to eat, but a symbol that the twelve tribes of Israel were perpetually before God.
+
+**The Golden Lampstand (Menorah)**: The seven-branched lampstand became the most famous symbol of the Jewish people and remains the central element of the Israeli national emblem today. The Arch of Titus (AD 82) depicts Romans carrying the golden lampstand from the temple — one of the earliest known representations of the menorah.`,
+    structure_zh: `第三十七章的结构是纯粹的器具制造清单，但有其内在逻辑：
+
+**一、约柜与施恩座（1-9节）**
+最神圣之物首先被制作，处于整个章节的首位，反映了神同在的核心地位。
+
+**二、陈设饼的桌子（10-16节）**
+圣所北面的器具，象征神对百姓的供应与记念。
+
+**三、灯台（17-24节）**
+圣所南面的器具，需要最精密的工艺（用整块金子锤制），象征神的光照与圣灵。
+
+**四、香坛（25-29节）**
+位于至圣所幔子前，是祈祷与敬拜的象征，也是距离神同在最近的器具（仅次于约柜）。
+
+本章与三十一章的指示形成平行，并以工匠的顺序完成，强调每一步骤都"照耶和华所吩咐摩西的"。`,
+    structure_en: `Chapter 37 is structured as a pure catalog of furnishings, but with an inherent logic:
+
+**I. The Ark and the Mercy Seat (vv. 1-9)**
+The most holy object is made first, occupying the chapter's prime position, reflecting the centrality of God's presence.
+
+**II. The Table of Showbread (vv. 10-16)**
+The furnishing on the north side of the Holy Place, symbolizing God's provision for and remembrance of His people.
+
+**III. The Lampstand (vv. 17-24)**
+The furnishing on the south side, requiring the most exquisite craftsmanship (beaten from a single piece of gold), symbolizing God's illumination and the Holy Spirit.
+
+**IV. The Altar of Incense (vv. 25-29)**
+Placed before the veil of the Most Holy Place, the altar symbolizes prayer and worship — the furnishing nearest to the divine presence (second only to the ark).
+
+This chapter parallels the instructions of chapter 31, completed by the craftsmen in sequence, emphasizing that each step was done "just as the LORD had commanded Moses."`,
+    theology_zh: `**一、神的临在（约柜/施恩座）**
+施恩座（希伯来文 כַּפֹּרֶת，kapporeth，字面意思是"遮盖"）是神应许显现的地方（利16:2）。神在罪人中间的同在需要"遮盖"——罪的遮盖、公义的满足。改革宗神学称这为"神与罪人相交的唯一基础是挽回祭"，这正是约柜与施恩座所宣告的。
+
+**二、神的话语（律法石版）**
+约柜里存放的是西奈山的律法——神自己所写、刻在石版上的十诫。律法与恩典不是对立的，而是共存的：律法在里面（定罪的功能），恩典在上面（遮盖的功能）。这是旧约福音的缩影。
+
+**三、神的光（灯台）**
+诗篇119篇105节说："你的话是我脚前的灯，是我路上的光。"灯台的七盏灯象征神话语的完全照明（七是完全数）。没有神的话，人在黑暗中；有了神的话，人就能看见路。
+
+**四、神的喂养（陈设饼）**
+神不仅关心灵魂，也关心祂百姓的全人需要。旷野中有吗哪，圣所中有陈设饼——神是养育祂百姓的牧者。`,
+    theology_en: `**I. God's Presence (The Ark / Mercy Seat)**
+The mercy seat (Hebrew כַּפֹּרֶת, kapporeth, literally "covering") was the place where God promised to appear (Lev 16:2). God's presence among sinners required a "covering" — a covering of sin, a satisfaction of justice. Reformed theology holds that "the only basis for a sinner's communion with God is the propitiation" — exactly what the ark and mercy seat proclaim.
+
+**II. God's Word (The Stone Tablets of the Law)**
+Within the ark lay the law of Sinai — the Ten Commandments written by God's own hand on stone tablets. Law and grace are not opposites but coexist: the law inside (its condemning function) and grace on top (its covering function). This is a microcosm of the Old Testament gospel.
+
+**III. God's Light (The Lampstand)**
+Psalm 119:105 says, "Your word is a lamp to my feet and a light to my path." The seven lamps symbolize the complete illumination of God's word (seven being the number of completeness). Without God's word, people walk in darkness; with God's word, they can see the way.
+
+**IV. God's Nourishment (The Showbread)**
+God cares not only for souls but for the whole person of His people. Manna in the wilderness, showbread in the sanctuary — God is the Shepherd who feeds His people.`,
+    christShadow_zh: `第三十七章的四件器具，每一件都是基督某个面向的影像：
+
+**约柜/施恩座 → 基督是挽回祭**
+罗马书三章25节说，神"设立耶稣作挽回祭（hilasterion，即施恩座）"。基督既是祭物，也是施恩座本身——祂的身体是律法之所居（祂完全遵守了律法），祂的宝血是遮盖的恩典（祂的血遮盖了我们的罪）。大祭司每年用牛羊的血来到施恩座前，而基督用自己的血，只一次进入至圣所，永远完成了赎罪（来9:12）。
+
+**桌子/陈设饼 → 基督是生命的粮**
+约翰福音六章35节："我就是生命的粮，到我这里来的，必定不饿。"会幕的陈设饼每周更换，只有祭司可以吃；基督是永恒的生命之粮，向所有人开放，凡来的人都不饿。
+
+**灯台 → 基督是世界的光**
+约翰福音八章12节："我是世界的光，跟从我的，就不在黑暗里走。"会幕的灯台靠橄榄油燃烧；基督靠圣灵的膏抹（橄榄油象征圣灵）成为那光。
+
+**香坛 → 基督是我们的中保与代祷者**
+希伯来书七章25节："祂永远活着，为他们祈求。"香烟升上代表祈祷升到神面前；基督在父的右边为我们代祷，这是永不止息的。`,
+    christShadow_en: `Each of the four furnishings in chapter 37 is a shadow of an aspect of Christ:
+
+**The Ark / Mercy Seat → Christ Is Our Propitiation**
+Romans 3:25 says that God "put forward [Jesus] as a propitiation (hilasterion — the mercy seat)." Christ is both the sacrifice and the mercy seat itself — His body is where the law resides (He perfectly fulfilled it), and His blood is the covering grace (His blood covers our sins). The high priest came before the mercy seat once a year with the blood of bulls and goats; Christ entered the Most Holy Place once for all with His own blood, accomplishing eternal redemption (Heb 9:12).
+
+**The Table / Showbread → Christ Is the Bread of Life**
+John 6:35: "I am the bread of life; whoever comes to me shall not hunger." The showbread in the tabernacle was changed weekly, eaten only by priests; Christ is the eternal bread of life, open to all — whoever comes will never go hungry.
+
+**The Lampstand → Christ Is the Light of the World**
+John 8:12: "I am the light of the world. Whoever follows me will not walk in darkness." The tabernacle lampstand burned on olive oil; Christ was anointed by the Holy Spirit (oil symbolizes the Spirit) to become that Light.
+
+**The Incense Altar → Christ Is Our Mediator and Intercessor**
+Hebrews 7:25: "He always lives to make intercession for them." The rising smoke of incense represents prayer ascending before God; Christ intercedes for us at the right hand of the Father — a work that never ceases.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 38,
+    publishDate: '2026-06-22',
+    title: '制造祭坛与院子', titleEn: 'Making the Altar and the Court',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 38 / Exodus 38',
+    content_zh: `如果说至圣所是与神最近的地方，那么院子的大门就是每一个平凡以色列人最熟悉的地方。他们每天不会走到施恩座前，但他们会来到院门，带着他们的祭物，带着他们的罪，带着他们的祈祷。院子的每一样东西——燔祭坛、洗濯盆、白色的细麻布围幕——都是为他们设计的。
+
+我站在院门前，思索这件事良久。
+
+比撒列制造了燔祭坛——五肘见方，三肘高，皂荚木制成，包铜，四角有铜角，周围有铜网，网的四角有铜环，穿着皂荚木包铜的杠，用来扛抬。坛里是空的，没有底，因为祭物直接在地上燃烧，铜网撑起祭物。
+
+我看着这个坛，想起了什么叫做"燔祭"。燔祭（olah，意为"上升者"）是完全焚烧的祭，没有任何部分留给人——整只牲畜在火上燃烧，完全献给神。那升起的烟，是人对神全然奉献、全然依靠的象征。一个以色列人来到这坛前，不是带着自己的功德来换取神的恩惠；他把手按在祭物头上，祭物代替他死，祭物的血洒在坛旁，然后祭物在火中化为灰烬，上升为悦纳的香气。
+
+替代、血、火、上升——这四个词概括了以色列的整个祭祀系统，也概括了神解决罪的方式。
+
+然而我心里也清楚，这些牛羊的血不能真正洗去人的罪。我见过太多的祭——旷野四十年，血流成河，但心里的硬石并没有变软。百姓今天献祭，明天又悖逆；今天的血遮盖今天的罪，下次的罪需要下次的血。这是一个永无止境的循环，直到……直到有一个完全的祭物出现，一次献上，永远有效。这是我凭信心所盼望的，却是我未曾亲眼看见的。
+
+然后是洗濯盆——用铜制成，放在燔祭坛和会幕之间。有一个细节令我印象深刻：制造洗濯盆所用的铜，是从聚集在会幕门口侍奉的妇女们的铜镜而来的（38:8）。
+
+铜镜在那个时代是珍贵的——它是一个人看见自己面孔的工具，是骄傲与自我欣赏的象征。这些妇女们愿意献出铜镜，是一种深刻的象征：她们愿意放弃自我欣赏，不再镜中看自己，而是来到神面前。洗濯盆盛水，祭司在事奉前必须洗手洗脚——圣洁的神要求那些事奉祂的人是洁净的。这洗涤不是仪式性的表演，而是一个不断的提醒：进到神面前，我们需要洁净；而这洁净不是我们自己造成的，乃是神赐予的。
+
+妇女们的铜镜变成了洗濯盆——从自我注目，到神所赐的洁净，这本身就是一幅救恩的图画。
+
+院子的建造是第三十八章的大部分内容。细麻布的幔子用铜柱支撑，柱头和横档是银的，底座是铜的——这个设计有其象征意义：铜代表审判（因为铜的颜色与火焰相近），银代表救赎（因为以色列人的"赎身价"是用银子支付的，见出30:12-16）。进入院子意味着既面对审判的现实（铜），又得到救赎的盼望（银）。
+
+院门在东面，宽二十肘，用蓝色紫色朱红色线和细麻绳绣成，比两侧的围幕更加华美——这是会幕唯一的入口，是神为罪人开的门。不是北面，不是南面，不是西面——是东面。自从始祖被逐出伊甸园，守护伊甸门的基路伯被安置在东边（创3:24），人就一直向东流落。如今，会幕开门的方向面向营地，面向百姓，意味着：神的居所朝向你们，门是开着的，欢迎你们来。
+
+整个会幕院子的材料记录（38:21-31）显示：光是银子，就来自二十岁以上男丁的赎身银——每人半舍客勒，共收了一百他连得零一千七百七十五舍客勒。被赎的人有六十万三千五百五十人。那是六十万条生命，每一条都向神交出了自己的赎价——银半舍客勒，不多不少，人人相同，因为在神面前，没有人比别人更贵，也没有人比别人更便宜。罪的代价对所有人是一样的。
+
+当我听到这些数字，内心既沉重又感慨。六十万人在旷野，他们的罪、他们的需要、他们的软弱都被这一堆银子象征了出来。而神接收了这银子，用它来制造圣所的柱子底座——那些支撑整个圣所结构的基座。六十万人的赎价，成了神居所的根基。
+
+这是怎样的一个图像！人的赎价，成了神与人相遇之处的根基。`,
+    content_en: `If the Most Holy Place was the nearest point to God, then the gateway of the courtyard was the most familiar place for every ordinary Israelite. They would not enter before the mercy seat each day, but they would come to the gate — bringing their offerings, their sins, their prayers. Everything in the courtyard — the altar of burnt offering, the bronze basin, the white linen hangings — was designed for them.
+
+I stood at the courtyard gate and pondered this for a long while.
+
+Bezalel made the altar of burnt offering — five cubits square, three cubits high, of acacia wood overlaid with bronze, with bronze horns at its four corners, a bronze grating, bronze rings at its four corners, and poles of acacia overlaid with bronze for carrying. The altar was hollow inside with no bottom, for the offering burned directly on the ground while the grating supported it.
+
+Looking at this altar, I reflected on what "burnt offering" meant. The burnt offering (olah, meaning "that which ascends") was entirely consumed by fire — no portion kept for the offerer; the entire animal burned, wholly given to God. The rising smoke symbolized complete consecration and utter dependence. An Israelite coming to this altar did not come bearing his own merits to bargain for God's favor; he laid his hand on the head of the offering, the animal died in his place, its blood was sprinkled at the altar's base, and then it ascended in fire as a pleasing aroma.
+
+Substitution, blood, fire, ascent — these four words summarize Israel's entire sacrificial system, and God's way of dealing with sin.
+
+Yet I also knew in my heart that the blood of bulls and goats cannot truly wash away human sin. I had witnessed too many sacrifices — forty years in the wilderness, rivers of blood, yet the stone within human hearts had not softened. The people sacrificed today and rebelled tomorrow; today's blood covered today's sin, but the next sin required the next blood. It was a cycle without end — until… until a perfect sacrifice appeared, offered once, effective forever. This was what I hoped for in faith, though I had not yet seen it with my own eyes.
+
+Then the bronze basin — made of bronze, placed between the altar of burnt offering and the tent of meeting. One detail caught my attention: the bronze used to make the basin came from the mirrors of the women who served at the entrance of the tent of meeting (38:8).
+
+Bronze mirrors in that era were precious — they were instruments by which a person could see their own face, symbols of pride and self-admiration. These women were willing to give up their mirrors, a profound act of symbolism: they chose to stop gazing at themselves, no longer looking in the mirror but coming before God. The basin held water; before serving, the priests had to wash their hands and feet — the holy God requires that those who serve Him be clean. This washing was not ritual performance but a constant reminder: to come before God, we need cleansing — and that cleansing is not something we produce ourselves; it is given by God.
+
+The women's mirrors became the washing basin — from self-admiration to God-given cleansing. This in itself is a portrait of salvation.
+
+The construction of the courtyard comprises most of chapter 38. Fine linen hangings hung on bronze pillars with silver hooks and rods, set on bronze bases — a design with symbolic significance: bronze represents judgment (its color near that of flame), silver represents redemption (Israel's "ransom price" was paid in silver; see Exod 30:12-16). Entering the courtyard meant facing both the reality of judgment (bronze) and the hope of redemption (silver).
+
+The gate faced east, twenty cubits wide, embroidered in blue, purple, and scarlet thread with fine linen — more ornate than the surrounding hangings. This was the tabernacle's only entrance — the door God opened for sinners. Not to the north, south, or west — but east. Ever since our ancestors were expelled from Eden, and the cherubim guarding Eden's entrance were stationed to the east (Gen 3:24), humanity had wandered eastward. Now the tabernacle's open gate faced the camp, faced the people — a declaration: God's dwelling turns toward you; the door is open; you are welcome to come.
+
+The accounting of materials for the entire tabernacle courtyard (38:21-31) reveals: the silver alone came from the ransom-money of men twenty years and older — half a shekel each, totaling one hundred talents and one thousand seven hundred and seventy-five shekels. The number redeemed: 603,550 men. Six hundred thousand lives, each one paying their ransom price to God — half a shekel, no more and no less, the same for everyone. Before God, no one is worth more than another, and no one less. The price of sin is the same for all.
+
+When I heard these numbers, my heart was heavy with feeling. Six hundred thousand people in the wilderness — their sins, their needs, their weakness all symbolized by this pile of silver. God received this silver and used it to make the bases for the pillars of the sanctuary — the very foundations that supported the entire structure. The ransom of six hundred thousand souls became the foundation of the place where God and humanity met.
+
+What an image! The ransom price of humanity became the very foundation of the meeting place between God and man.`,
+    historyContext_zh: `**燔祭坛的考古背景**
+在迦南和以色列地区已发掘出数个青铜时代的祭坛，但多为石坛（参见出20:24-25关于石坛的规定）。会幕使用的铜坛（可移动）是为旷野特殊情况设计的，与后来所罗门圣殿中更永久性的建造有所不同。
+
+**洗濯盆的背景**
+神庙中的洗涤设施在古代近东极为普遍，反映了普世的"礼仪洁净"概念——祭司必须在礼仪上洁净才能接近神圣。以色列的洗濯盆与异教洗涤的区别在于其背后的神学：以色列的洁净指向道德和灵性的洁净，而非仅仅是仪式。
+
+**材料统计与普查的关系**
+38:25-26提到的人口数字（603,550人）与民数记一章46节的普查数字完全一致，显示这两个记录指向同一时期的同一事件（西奈旷野，约主前1446年）。这个精确的数字对应是历史真实性的内部印证。`,
+    historyContext_en: `**Archaeological Background of the Burnt Offering Altar**
+Several Bronze Age altars have been excavated in Canaan and the land of Israel, but most were stone altars (cf. Exod 20:24-25 on stone altars). The tabernacle's bronze altar — portable by design — was intended for wilderness conditions, differing from the more permanent structures of Solomon's later temple.
+
+**Background of the Bronze Basin**
+Washing facilities in temples were extremely common throughout the ancient Near East, reflecting a universal concept of "ritual purity" — priests must be ritually clean to approach the sacred. Israel's basin differed theologically from pagan washing: Israel's purification pointed toward moral and spiritual cleansing, not merely ritual observance.
+
+**The Connection Between the Materials Accounting and the Census**
+The population figure mentioned in 38:25-26 (603,550 men) corresponds exactly to the census number in Numbers 1:46, indicating that both records point to the same event in the same period (the Sinai wilderness, c. 1446 BC). This precise numerical correspondence is internal confirmation of historical authenticity.`,
+    structure_zh: `第三十八章按空间由内而外、由圣到俗的顺序展开：
+
+**一、燔祭坛（1-7节）**
+最靠近会幕的外院器具，是罪人接近神的第一站——罪必须在此被处理。
+
+**二、洗濯盆（8节）**
+在坛和会幕之间，祭司每次事奉前必须在此洗涤——罪的处理（坛）之后，需要洁净（盆）。
+
+**三、院子的建造（9-20节）**
+院子四面的围幔、柱子、以及唯一的东向院门，构成了一个"神圣空间"与"世俗营地"之间的清晰界限。
+
+**四、材料与劳工的统计（21-31节）**
+本章以一份详细的材料清单结尾，显示会幕是全以色列共同参与的工程，每一克金银都有出处，每一个人的贡献都被记录在册。这份"账目"也是神赐下百姓拥有什么、百姓奉献给神什么的历史凭证。`,
+    structure_en: `Chapter 38 unfolds spatially from inside outward, from the most sacred to the more accessible:
+
+**I. The Altar of Burnt Offering (vv. 1-7)**
+The outermost court furnishing nearest the tent — the sinner's first stop in approaching God. Sin must be dealt with here first.
+
+**II. The Bronze Basin (v. 8)**
+Between the altar and the tent, where priests must wash before every act of service — after sin is dealt with (the altar) comes cleansing (the basin).
+
+**III. Construction of the Courtyard (vv. 9-20)**
+The hangings on all four sides of the courtyard, the pillars, and the single east-facing gate create a clear boundary between sacred space and the secular camp.
+
+**IV. Accounting of Materials and Labor (vv. 21-31)**
+The chapter closes with a detailed inventory showing that the tabernacle was a project in which all Israel participated. Every gram of gold and silver is accounted for, every person's contribution recorded. This "ledger" is also historical testimony to what God had given the people and what the people offered back to God.`,
+    theology_zh: `**一、替代赎罪（Penal Substitutionary Atonement）**
+燔祭坛是改革宗神学中"替代赎罪"概念的旧约根源之一。手按祭物头（利1:4）象征罪咎的转移；祭物的死是罪人应得之死的替代。这与加尔文、慕迪、斯托得等改革宗神学家所强调的基督代死神学直接相连。
+
+**二、罪的普世性与救赎的平等**
+半舍客勒的赎价人人相同，无论贫富、长幼。这宣告了罪的普世性（所有人都需要救赎）和救赎的平等性（没有人可以用财富获得更好的救赎）。这与改革宗神学中"全然堕落"（Total Depravity）的教义高度一致：人类罪性面前，没有人比别人"好一点"。
+
+**三、神对圣洁事奉的要求**
+洗濯盆提醒我们：神要求那些事奉祂的人是洁净的。这不是关于仪式的规定，而是神圣洁本性的彰显。新约中，保罗呼召信徒"将身体献上，当作活祭，是圣洁的，是神所喜悦的"（罗12:1），这是洗濯盆所指向的终极实现。`,
+    theology_en: `**I. Penal Substitutionary Atonement**
+The altar of burnt offering is one of the Old Testament roots of the Reformed doctrine of penal substitution. Laying a hand on the animal's head (Lev 1:4) symbolizes the transfer of guilt; the animal's death substitutes for the death the sinner deserves. This connects directly to the theology of Christ's atoning death emphasized by Calvin, John Murray, John Stott, and other Reformed theologians.
+
+**II. The Universality of Sin and the Equality of Redemption**
+The half-shekel ransom price was identical for everyone — rich or poor, old or young. This proclaims both the universality of sin (all people need redemption) and the equality of redemption (no one can purchase a superior salvation with wealth). This aligns closely with the Reformed doctrine of Total Depravity: before human sinfulness, no one is "slightly better" than another.
+
+**III. God's Demand for Holy Service**
+The bronze basin reminds us: God requires those who serve Him to be clean. This is not merely a ritual regulation but a manifestation of God's holy nature. In the New Testament, Paul calls believers to "present your bodies as a living sacrifice, holy and acceptable to God" (Rom 12:1) — the ultimate fulfillment of what the basin pointed toward.`,
+    christShadow_zh: `**燔祭坛 → 基督是燔祭**
+希伯来书十章5-7节引用诗篇四十篇，说基督来到世界是为了将自己献上："看哪，我来了……神啊，我以行你的旨意为乐。"基督的整个生命和死亡是一个完全的燔祭——没有任何部分留给自己，完全奉献给父神。祂的死不是因为环境所迫，而是甘心乐意。
+
+**洗濯盆 → 基督是我们的洁净**
+提多书三章5节："祂便救了我们，并不是因我们自己所行的义，乃是照祂的怜悯，藉着重生的洗和圣灵的更新。"基督用自己的话、自己的血、圣灵的浇灌，成为那完全的洗濯盆，彻底洁净祂的教会（弗5:26）。
+
+**东向院门 → 基督是唯一的门**
+约翰福音十章9节："我就是门，凡从我进来的，必然得救。"会幕只有一个入口，朝东开放；基督是天国唯一的门。人被逐出东面的伊甸园，如今神从东面开门，在基督里邀请人归回。
+
+**赎价的银子 → 基督用宝血赎买我们**
+彼得前书一章18-19节："你们得赎……不是凭着能坏的金银等物，乃是凭着基督的宝血，如同无瑕疵无玷污的羔羊之血。"以色列人的半舍客勒银子只是影子，基督的宝血才是真实的赎价。`,
+    christShadow_en: `**The Burnt Offering Altar → Christ Is the Burnt Offering**
+Hebrews 10:5-7 quotes Psalm 40, showing that Christ came into the world to offer Himself: "Behold, I have come… I delight to do your will, O my God." Christ's entire life and death was a perfect burnt offering — nothing held back for Himself, wholly given to the Father. His death was not compelled by circumstance but entirely willing.
+
+**The Basin → Christ Is Our Cleansing**
+Titus 3:5: "He saved us, not because of works done by us in righteousness, but according to His own mercy, by the washing of regeneration and renewing of the Holy Spirit." Through His word, His blood, and the outpouring of the Spirit, Christ became the perfect basin, thoroughly cleansing His church (Eph 5:26).
+
+**The East-Facing Gate → Christ Is the One Door**
+John 10:9: "I am the door. If anyone enters by me, he will be saved." The tabernacle had only one entrance, opening to the east; Christ is the only door to the kingdom. Humanity was expelled from the east side of Eden; now God opens a door from the east, inviting people to return in Christ.
+
+**The Ransom Silver → Christ Redeems Us with His Precious Blood**
+1 Peter 1:18-19: "You were ransomed… not with perishable things such as silver or gold, but with the precious blood of Christ, like that of a lamb without blemish or spot." The half-shekel of silver paid by Israel was only a shadow; the precious blood of Christ is the true ransom price.`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 39,
+    publishDate: '2026-06-23',
+    title: '制作圣衣与工程验收', titleEn: 'Making the Garments and Inspection',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 39 / Exodus 39',
+    content_zh: `那一天，当亚伦和他的儿子们第一次穿上那些圣衣站在我面前，我的心里有一种难以言说的感动。那衣服是用金线、蓝色紫色朱红色线和细麻绳织成的，华美到令人屏息——以弗得的金线在阳光下闪烁，胸牌上的十二颗宝石每一颗都有以色列一个支派的名字。亚伦穿上它，不再是我的兄长，不再是那个在金牛犊事件中软弱失败的人——他是以色列的大祭司，神在人间代言人的象征。
+
+但制作这衣服的过程，让我更加明白了一件事：顺服的代价是精心与用心。
+
+以弗得（Ephod）是大祭司外袍的主体，用金线、蓝紫朱红线和细麻绳织成，有两块缟玛瑙宝石固定在肩带上，上面刻着以色列十二支派的名字——每块六个，按出生顺序排列。这些宝石是为了让大祭司"在耶和华面前把以色列人的名字常带在两肩上，作为纪念"（28:12）。
+
+我默默思索这个设计：当大祭司进入神的面前，他不是只代表自己，他肩膀上承担着十二个支派所有人的名字。每一个普通的以色列人——种地的、牧羊的、打铁的——他们的名字都在大祭司的肩上，都被带到了神面前。这是何等的代表性！这是何等的中保职分！
+
+胸牌（Breastpiece of Judgment）更是令人叹为观止：折叠成方形，上面镶嵌四行宝石，共十二块，每块上刻一个支派的名字：红宝石（流便）、拓帕石（西缅）、石榴石（利未）……每当大祭司进入至圣所，这些名字就在他心口处，在神面前。"亚伦要将以色列人的名字带在胸牌上，在神面前作为常时的记念"（28:29）——神永远记念祂的百姓，不是抽象的集体，而是一个一个具体的人，每个人都有名字。
+
+袍子是全蓝色的，底边缀满了石榴形状的装饰，用蓝色紫色朱红色线做成，中间夹着金铃铛。大祭司每次进出至圣所，铃铛就响，让外面的百姓知道他在里面活着，神仍然接纳他的事奉。那铃铛声是整个以色列的安慰：大祭司还活着，神没有发怒将他击杀——今天又得到了神的恩惠。
+
+我想，那是每个以色列人最屏息等待的声音。
+
+金牌（the plate of the holy crown）是最神圣的装饰：纯金打成，上面刻着"归耶和华为圣"。这牌固定在大祭司的头巾前方，当他代替百姓进到神面前时，这四个字表明他的身份——他不是普通人，他是神的圣者，专门分别出来事奉神的人。
+
+然而更深的意义在于：这金牌是为了"担当以色列人在一切圣物上所犯错误的罪孽"（28:38）。这意味着什么？就算是以色列人献给神的祭物、祈祷、敬拜，里面都有罪污——那些出于不纯动机的奉献、那些心不在焉的祷告、那些例行公事的朝拜……都是有罪的。大祭司头上的金牌，不仅遮盖百姓的显明之罪，也遮盖他们在圣洁事奉中所犯的隐微之罪。
+
+这让我心里一阵战栗：连我们的宗教行为都需要被遮盖？是的。这才是人类罪性的深度——即便在我们最虔诚的时刻，我们的心也并非完全。
+
+工程完成后，圣经简洁地记录了一个反复出现的短语："以色列人就照着耶和华所吩咐摩西的一切去行了。"这句话在第三十九章里出现了至少七次（39:1, 5, 7, 21, 26, 29, 31），而在三十五至四十章整个建造叙事中出现超过十八次。
+
+这是为什么？
+
+因为在西奈山下金牛犊的背叛之后，这种完全的顺服就是奇迹。那时的百姓，是刚刚在神面前立了约、转头就铸造偶像的人。而如今，每一针每一线、每一块金片每一颗宝石，都按照神的吩咐，毫无偏差地完成了。这不是因为百姓天性顺从，而是因为圣灵在工作，因为神的恩典比人的罪更大。
+
+最后，百姓把所有造好的东西都带到我这里来。我检验每一件物品，逐一查看它是否与神给我看的样式相符。帐幕、帐幕的一切器具、纽扣、板、闩、柱子、带座、幔子……一件件摆在我面前。每一件，我都看了，都比照了，都应验了。
+
+然后第三十九章以最简洁的话结束：
+
+"摩西察看了一切工作，见他们所做的都照耶和华所吩咐的，就给他们祝福。"
+
+我祝福了他们。不是因为他们聪明，不是因为他们能干，而是因为他们顺服。顺服神的吩咐，就是福的来源。在整本出埃及记里，没有什么时刻比这更令我感到喜乐——神交托给我的事，我交托给了百姓；百姓忠心完成，再交回到我手中；我查验，确认，然后祝福。这是一个顺服的链条，始于神，经过人，归荣耀于神。`,
+    content_en: `That day, when Aaron and his sons first stood before me wearing the holy garments, an indescribable emotion stirred within me. The garments were woven of gold thread, blue and purple and scarlet yarn, and fine twined linen — beautiful enough to take one's breath away. The gold thread of the ephod glimmered in the sunlight; the twelve precious stones on the breastpiece each bore the name of one of Israel's tribes. Aaron, wearing it, was no longer simply my older brother — no longer the man who had weakly failed during the golden calf incident. He was the high priest of Israel, the symbol of God's representative among humanity.
+
+But the process of making these garments taught me something even deeper: the cost of obedience is care and intentionality.
+
+The ephod — the high priest's principal outer garment — was woven of gold thread, blue, purple, and scarlet yarn, and fine twined linen, with two onyx stones set in the shoulder pieces, engraved with the names of Israel's twelve tribes — six on each stone, in order of birth. These stones were so that the high priest would "bear the names of the sons of Israel on his two shoulders before the LORD as a memorial" (28:12).
+
+I pondered this design in silence: when the high priest entered God's presence, he was not representing only himself — on his shoulders he bore the names of all the people from all twelve tribes. Every ordinary Israelite — the farmer, the shepherd, the blacksmith — their names were on the high priest's shoulders, brought before God. What extraordinary representation! What a profound mediatorial office!
+
+The breastpiece of judgment was even more breathtaking: folded into a square, set with four rows of precious stones — twelve in all, each engraved with a tribal name: carnelian (Reuben), topaz (Simeon), carbuncle (Levi)… Every time the high priest entered the Most Holy Place, those names rested over his heart, before God. "Aaron shall bear the names of the sons of Israel in the breastpiece of judgment on his heart, when he goes into the Holy Place, to bring them to regular remembrance before the LORD" (28:29) — God eternally remembers His people: not an abstract collective, but specific individuals, each with a name.
+
+The robe was entirely blue, its hem adorned with pomegranates of blue, purple, and scarlet yarn, with golden bells interspersed between them. Every time the high priest entered or exited the Most Holy Place, the bells rang, letting the people outside know he was alive within — that God had still accepted his ministry. The sound of those bells was Israel's comfort: the high priest is still alive; God has not struck him in anger; we have received God's favor today.
+
+I think that sound was what every Israelite held their breath to hear.
+
+The gold plate — the holy crown — was the most sacred ornament: beaten from pure gold with the words "Holy to the LORD" engraved upon it. Fixed to the front of the high priest's turban, when he entered God's presence on behalf of the people, those words declared his identity — he was not an ordinary person; he was God's holy one, set apart specifically to serve God.
+
+Yet the deeper significance was this: the gold plate was worn so he might "bear any guilt from the holy things that the people of Israel consecrate as their holy gifts" (28:38). What does this mean? Even Israel's offerings, prayers, and worship to God contained pollution — the donations given from impure motives, the distracted prayers, the routine and perfunctory acts of worship… all were tainted by sin. The gold plate on the high priest's head covered not only the people's obvious sins but also the subtle sins committed even in their holiest acts of service.
+
+This sent a tremor through my heart: even our religious acts require covering? Yes. This is the depth of human sinfulness — even in our most devout moments, our hearts are never fully pure.
+
+When the work was complete, Scripture records simply and repeatedly: "The people of Israel did all that the LORD had commanded Moses." This phrase appears at least seven times in chapter 39 (vv. 1, 5, 7, 21, 26, 29, 31) and more than eighteen times across the entire building narrative of chapters 35-40.
+
+Why this repetition?
+
+Because after the betrayal of the golden calf at the foot of Sinai, this total obedience was itself a miracle. These same people had just made a covenant before God and then turned to cast an idol. Now, every stitch, every sheet of gold, every gemstone — all completed exactly as God had commanded, without deviation. Not because the people were naturally obedient, but because the Spirit was at work, because God's grace was greater than humanity's sin.
+
+Finally, the people brought everything they had made to me. I inspected each item, checking one by one whether it matched the pattern God had shown me. The tabernacle, all its furnishings, clasps, frames, bars, pillars, bases, the screen… laid before me piece by piece. Each one I examined, compared, confirmed.
+
+Then chapter 39 closes with the simplest words:
+
+"And Moses saw all the work, and behold, they had done it; as the LORD had commanded, so had they done it. Then Moses blessed them."
+
+I blessed them. Not because they were clever, not because they were skilled, but because they were obedient. Obedience to God's commands is the source of blessing. In all of Exodus, there was no moment that filled me with greater joy — what God entrusted to me, I entrusted to the people; the people faithfully completed it and returned it to my hands; I examined, confirmed, and blessed. A chain of obedience: beginning with God, passing through humanity, returning glory to God.`,
+    historyContext_zh: `**大祭司圣衣的历史背景**
+大祭司的八件圣衣（以弗得、胸牌、外袍、格子织的内袍、冠冕/头巾、腰带、裤子、金牌）是古代世界最精细的祭司服装之一。埃及祭司服装（通常是白色细麻布）强调洁净，而以色列大祭司圣衣强调的是"荣耀和华美"（28:2）——反映了神的荣耀要通过祭司彰显。
+
+**胸牌上的宝石**
+十二块宝石的具体种类在学术界有一定争议（希伯来文宝石名称难以与现代宝石学准确对应），但其象征意义清晰：以色列十二支派都被珍视为神面前的宝贝，如同宝石一样珍贵。
+
+**乌陵和土明（Urim and Thummim）**
+胸牌中放有乌陵和土明（39:8-21，参28:30），这是用于寻求神指引的神谕器具。其确切形制和使用方式已无从考证，但它们代表了一个重要的神学原则：神向祂的百姓显明祂的旨意，通过祂所设立的器具和渠道。`,
+    historyContext_en: `**Historical Background of the High Priestly Garments**
+The eight high priestly garments (ephod, breastpiece, robe, woven tunic, turban/cap, sash, undergarments, gold plate) represented some of the most elaborate priestly vestments in the ancient world. Egyptian priestly garments (typically white linen) emphasized purity, while Israel's high priestly garments emphasized "glory and beauty" (28:2) — reflecting that God's glory was to be manifested through the priesthood.
+
+**The Twelve Stones of the Breastpiece**
+The specific identification of the twelve stones has generated some scholarly debate (Hebrew gemstone names are difficult to correlate precisely with modern mineralogy), but the symbolism is clear: Israel's twelve tribes were each precious before God, valued like gemstones.
+
+**The Urim and Thummim**
+The breastpiece contained the Urim and Thummim (39:8-21; cf. 28:30), oracular instruments used to seek divine guidance. Their exact form and manner of use can no longer be determined, but they represent an important theological principle: God reveals His will to His people through the instruments and channels He Himself has established.`,
+    structure_zh: `第三十九章可分为两大部分：
+
+**一、圣衣的制作（1-31节）**
+按照神在二十八章所指示的顺序制作：
+- 以弗得（1-7节）
+- 胸牌（8-21节）
+- 外袍（22-26节）
+- 内袍、头巾、裤子（27-29节）
+- 金牌（30-31节）
+
+每段末尾都有"照耶和华所吩咐摩西的"这一公式化短语，形成强烈的叙事重复。
+
+**二、工程的验收与祝福（32-43节）**
+百姓将所有完成的器具和圣衣带到摩西面前，摩西逐一检验，然后为百姓祝福。这个结尾在结构上呼应了创世记第一章神察看所造的一切，"神看着一切所造的都甚好"（创1:31）。摩西作为神的代表，在此扮演了相似的角色。`,
+    structure_en: `Chapter 39 divides into two major sections:
+
+**I. The Making of the Holy Garments (vv. 1-31)**
+Constructed in the sequence prescribed in chapter 28:
+- The ephod (vv. 1-7)
+- The breastpiece (vv. 8-21)
+- The robe (vv. 22-26)
+- The tunic, turban, and undergarments (vv. 27-29)
+- The gold plate (vv. 30-31)
+
+Each section ends with the formulaic phrase "as the LORD had commanded Moses," creating a strong narrative refrain.
+
+**II. The Inspection and Blessing (vv. 32-43)**
+The people bring all the completed furnishings and garments to Moses; he inspects them one by one, then blesses the people. This conclusion structurally echoes Genesis 1, where God surveys all He had made and declares it "very good" (Gen 1:31). Moses, as God's representative, plays an analogous role here.`,
+    theology_zh: `**一、祭司职分的神圣性**
+圣衣不是制服，而是圣召的彰显。大祭司穿上圣衣，代表他已进入神所分别的职分。改革宗神学强调，在旧约中，祭司职分是神所设立的（非人自取），通过圣别礼（膏抹、穿衣）进入——正如加尔文所说，神的事奉需要神的分别为圣，而非人的自我任命。
+
+**二、大祭司的代表职分**
+肩上的玛瑙宝石和胸前的十二块宝石，共同宣告大祭司的代表性：他是整个以色列的代表。这是改革宗圣约神学（Covenant Theology）中"联合代表"（federal representation）概念的生动体现——一人代表众人，众人的命运通过代表人而定。第一亚当代表全人类，导致罪与死；大祭司代表以色列，为他们求告恩典。
+
+**三、顺服作为敬拜**
+第三十九章最重要的神学贡献，可能是它对"顺服"的理解：以色列人不是创造性地建造会幕，而是严格按照神的吩咐行事。这宣告了改革宗崇拜规范性原则（Regulative Principle of Worship）的核心思想：神的崇拜必须由神自己来规定，人不可凭自己的想法增减。`,
+    theology_en: `**I. The Sanctity of the Priestly Office**
+The holy garments were not a uniform but a manifestation of a sacred calling. When the high priest put on the garments, he was entering the office God had set apart. Reformed theology emphasizes that in the Old Testament, the priestly office was divinely instituted (not self-assumed) and entered through consecration rites (anointing, vesting) — as Calvin argued, God's service requires God's sanctification, not human self-appointment.
+
+**II. The High Priest's Representative Office**
+The onyx stones on the shoulders and the twelve stones on the breastpiece together declare the high priest's representative function: he stands for all of Israel. This is a vivid embodiment of the Reformed covenant theology concept of "federal representation" — one person represents many, and the destiny of the many is bound to the representative. The first Adam represented all humanity and brought sin and death; the high priest represented Israel and interceded for their grace.
+
+**III. Obedience as Worship**
+Perhaps the most important theological contribution of chapter 39 is its understanding of obedience: the Israelites did not creatively design the tabernacle but strictly followed God's commands. This declares the core principle of the Reformed Regulative Principle of Worship: God's worship must be prescribed by God Himself; humanity may not add to or subtract from it according to their own ideas.`,
+    christShadow_zh: `**大祭司圣衣 → 基督的完全中保职分**
+希伯来书整本书可以说是第三十九章的新约注解。以弗得、胸牌、金牌——每一件都指向基督的中保职分：
+
+- **肩膀上的宝石**：基督在父面前为我们代求，"因为祂永远活着，为他们代求"（来7:25）。我们的名字在基督的"肩头"——祂担当了我们的重担，而非只是提名我们。
+
+- **胸牌上的宝石**：基督把教会放在心上——"谁能使我们与基督的爱隔绝？"（罗8:35）。我们的名字在祂心上，被纪念，被爱。
+
+- **金牌"归耶和华为圣"**：基督是真正"归耶和华为圣"的那一位，是完全圣洁的大祭司（来7:26）。祂的圣洁不仅遮盖我们显明的罪，也遮盖我们在敬拜事奉中无意的错失。
+
+- **圣衣的完全 → 基督的义袍**：以赛亚书六十一章10节："祂以公义的外袍为我披上。"基督的义是我们的袍子，是神所赐的婚宴礼服（太22:11-12）。`,
+    christShadow_en: `**The High Priestly Garments → Christ's Perfect Mediatorial Office**
+The entire book of Hebrews is essentially a New Testament commentary on chapter 39. The ephod, the breastpiece, the gold plate — each one points to Christ's mediatorial office:
+
+- **The Stones on the Shoulders**: Christ intercedes for us before the Father, "since He always lives to make intercession for them" (Heb 7:25). Our names are on Christ's "shoulders" — He bears our burden; He does not merely mention us.
+
+- **The Stones on the Breastpiece**: Christ carries the church on His heart. "Who shall separate us from the love of Christ?" (Rom 8:35). Our names are on His heart — remembered, beloved.
+
+- **The Gold Plate: "Holy to the LORD"**: Christ is the one truly "holy to the LORD" — the completely holy high priest (Heb 7:26). His holiness covers not only our obvious sins but also the inadvertent failures in our worship and service.
+
+- **The Completeness of the Garments → The Robe of Christ's Righteousness**: Isaiah 61:10: "He has covered me with the robe of righteousness." Christ's righteousness is our garment — the wedding robe given by God (Matt 22:11-12).`,
+  },
+  {
+    book: '出埃及记', bookEn: 'Exodus', chapter: 40,
+    publishDate: '2026-06-24',
+    title: '立起会幕与神的荣光', titleEn: 'Erecting the Tabernacle and Gods Glory',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '出埃及记 40 / Exodus 40',
+    content_zh: `弟兄姐妹，我是摩西。出埃及记第四十章是整卷书的最高潮——会幕终于立起来了，而耶和华的荣光充满了会幕。从第一章以色列人在埃及受苦，到第四十章神的荣光降临，这是一段从奴役到敬拜、从哀号到荣耀的壮丽旅程。
+
+耶和华吩咐我："正月初一日，你要立起帐幕。"这是出埃及后的第二年正月初一——整整一年前的这一天，以色列人还在埃及作奴隶。如今，他们不仅是自由人，更有至高神要住在他们中间。
+
+我按照耶和华的吩咐，一件一件地安置每样器具。先立起会幕的帐幕，铺上罩棚，把法版放在柜里，把杠穿上，把施恩座安在柜上，把柜抬进帐幕，挂上遮掩柜的幔子。把桌子安在会幕内幔子外北边，在桌子上将饼陈设在耶和华面前。把灯台安在会幕内桌子对面南边，在耶和华面前点灯。把金香坛安在会幕内幔子前，在坛上烧了馨香料做的香。
+
+然后在会幕门口挂上帘子，把燔祭坛安在会幕门前，把燔祭和素祭献在其上。把洗濯盆安在会幕和坛的中间，盆中盛了水。我和亚伦并亚伦的儿子在那里洗手洗脚——进会幕或就近坛的时候，便都洗濯，是照耶和华所吩咐的。
+
+经文反复说"是照耶和华所吩咐摩西的"——这句话在这一章中出现了七次之多。每一步都是照着神的命令，不多也不少。这是敬拜的本质——不是按人的创意，而是按神的旨意。
+
+最后，我在帐幕四围立了院帷，把院子的门帘挂上。"这样，摩西就完了工。"
+
+然后，最荣耀的时刻到来了。
+
+"当时，云彩遮盖会幕，耶和华的荣光就充满了帐幕。摩西不能进会幕；因为云彩停在其上，并且耶和华的荣光充满了帐幕。"
+
+神的荣光——shekinah——降临了。那位在荆棘火焰中向我显现的神，那位在西奈山上雷轰闪电中降临的神，如今住在了会幕中。祂的荣光如此浩大，以至于连我摩西也不能进去。我曾在何烈山见过荆棘不烧毁的火焰，曾在西奈山上四十天与神面对面，但此刻祂的荣光充满会幕的程度，是我从未经历过的。
+
+这一刻回应了整卷出埃及记的核心主题。为什么神要拯救以色列人？不仅是为了让他们脱离法老的奴役，更是为了让祂可以住在他们中间。第二十五章神说"使我可以住在他们中间"，现在这应许实现了。
+
+从此以后，"每逢云彩从帐幕收上去，以色列人就起程前往；云彩若不收上去，他们就不起程，直等到云彩收上去。日间，耶和华的云彩是在帐幕以上；夜间，云中有火，在以色列全家的眼前。在他们所行的路上都是这样。"
+
+云柱火柱不是气象现象，而是神同在的可见标记。白天遮阳，夜晚照亮。什么时候走，什么时候停，都由云彩决定——都由神决定。以色列人不是自己选择道路，而是跟随神的引导。
+
+弟兄姐妹，出埃及记以神的荣光充满会幕结束，这是何等完美的结局。整卷书开始于百姓在埃及的哀号，结束于神的荣耀降临。开始于法老的压迫，结束于耶和华的同在。开始于砖窑的苦工，结束于会幕的敬拜。神完成了祂的救赎计划——不仅拯救百姓脱离埃及，更将百姓带到祂的面前。
+
+而这一切，都是那更大救赎的影子。有一天，神的荣光不再只充满一个帐幕，而是充满全地——"认识耶和华荣耀的知识要充满遍地，好像水充满洋海一般"（哈巴谷书2:14）。那日，新天新地中将有一个从天降下的圣城，"看哪，神的帐幕在人间。他要与人同住，他们要作他的子民。神要亲自与他们同在，作他们的神"（启示录21:3）。`,
+    content_en: `Brothers and sisters, I am Moses. Exodus chapter 40 is the entire book's supreme climax—the tabernacle was finally erected, and the glory of the LORD filled it. From chapter 1's suffering in Egypt to chapter 40's descent of God's glory, this is a magnificent journey from slavery to worship, from crying to glory.
+
+The LORD commanded me: "On the first day of the first month you shall erect the tabernacle." This was the first day of the first month in the second year after the Exodus—exactly one year earlier, Israel had still been slaves in Egypt. Now they were not only free people but had the Most High God dwelling among them.
+
+Following the LORD's command, I placed each item one by one. First I erected the tabernacle's framework, spread the covering over it, placed the tablets in the ark, inserted the poles, set the mercy seat upon the ark, brought the ark into the tabernacle, and hung the screening veil. I placed the table in the tabernacle on the north side outside the veil, set the bread in order before the LORD. I placed the lampstand opposite the table on the south side and lit the lamps before the LORD. I placed the golden altar of incense inside the tabernacle before the veil and burned fragrant incense on it.
+
+Then I hung the screen at the tabernacle's entrance, set the altar of burnt offering before the entrance, and offered burnt offerings and grain offerings on it. I placed the basin between the tent of meeting and the altar and put water in it. Aaron, his sons, and I washed our hands and feet there—whenever entering the tent or approaching the altar, as the LORD had commanded.
+
+The text repeatedly states "as the LORD had commanded Moses"—this phrase appears seven times in this chapter. Every step followed God's command, nothing more, nothing less. This is worship's essence—not by human creativity but by God's will.
+
+Finally, I erected the court around the tabernacle and altar and set up the screen of the court gate. "So Moses finished the work."
+
+Then the most glorious moment arrived.
+
+"Then the cloud covered the tent of meeting, and the glory of the LORD filled the tabernacle. And Moses was not able to enter the tent of meeting because the cloud settled on it, and the glory of the LORD filled the tabernacle."
+
+God's glory—the Shekinah—descended. The God who appeared to me in the burning bush, who descended on Sinai amid thunder and lightning, now dwelt in the tabernacle. His glory was so overwhelming that even I, Moses, could not enter. I had seen the unconsumed fire at Horeb, I had spent forty days face to face with God on Sinai, but this moment—His glory filling the tabernacle—surpassed anything I had experienced.
+
+This moment answered the entire book's central theme. Why did God rescue Israel? Not merely to free them from Pharaoh's slavery but so He could dwell among them. In chapter 25 God said "that I may dwell in their midst"; now that promise was fulfilled.
+
+From then on, "whenever the cloud was taken up from over the tabernacle, the people of Israel would set out. But if the cloud was not taken up, then they did not set out till the day that it was taken up. For the cloud of the LORD was on the tabernacle by day, and fire was in it by night, in the sight of all the house of Israel throughout all their journeys."
+
+The cloud and fire pillars were not meteorological phenomena but visible marks of God's presence. Shade by day, light by night. When to move, when to stop—all determined by the cloud, all determined by God. Israel did not choose their own path but followed God's leading.
+
+Brothers and sisters, Exodus ends with God's glory filling the tabernacle—what a perfect conclusion. The book begins with the people's cries in Egypt and ends with God's glory descending. It begins with Pharaoh's oppression and ends with the LORD's presence. It begins with brick-kiln labor and ends with tabernacle worship. God completed His redemptive plan—not only rescuing the people from Egypt but bringing them before Himself.
+
+And all of this was but the shadow of a greater redemption. One day, God's glory will fill not just one tabernacle but the entire earth—"For the earth will be filled with the knowledge of the glory of the LORD as the waters cover the sea" (Habakkuk 2:14). On that day, in the new heaven and earth, a holy city will descend from heaven: "Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God" (Revelation 21:3).`,
+    historyContext_zh: `会幕的竖立时间是出埃及后第二年正月初一日（约主前1445年）。从西奈山领受指示（第25-31章）到金牛犊事件（第32-34章），再到百姓奉献材料和建造（第35-39章），最后到第四十章的竖立，整个过程约半年。"耶和华的荣光充满帐幕"（shekinah glory）在旧约中只出现两次——会幕竖立时和所罗门圣殿奉献时（列王纪上8:10-11）。两次神的荣光都充满到人不能进入的程度。会幕存在了约480年，直到所罗门建造圣殿（列王纪上6:1），之后约柜放在圣殿的至圣所中。`,
+    historyContext_en: `The tabernacle was erected on the first day of the first month of the second year after the Exodus (approximately 1445 BC). From receiving instructions on Sinai (chapters 25-31) through the golden calf incident (chapters 32-34), the people's offerings and construction (chapters 35-39), to chapter 40's erection, the entire process took approximately six months. "The glory of the LORD filled the tabernacle" (Shekinah glory) occurs only twice in the Old Testament—at the tabernacle's erection and at Solomon's temple dedication (1 Kings 8:10-11). Both times God's glory filled the structure to the point where people could not enter. The tabernacle stood for approximately 480 years until Solomon built the temple (1 Kings 6:1), after which the ark was placed in the temple's Most Holy Place.`,
+    structure_zh: `**竖立会幕的命令（1-16节）**——正月初一日、按次序安置每件器具。
+
+**摩西执行命令（17-33节）**——立帐幕、安约柜、摆桌子陈设饼、点灯台、烧香、安燔祭坛、安洗濯盆、立院帷——"照耶和华所吩咐摩西的"出现七次。
+
+**耶和华的荣光降临（34-35节）**——云彩遮盖、荣光充满、摩西不能进入。
+
+**云柱火柱的引导（36-38节）**——云彩收上去就起程、不收上去就不起程、日间云彩夜间有火。`,
+    structure_en: `**The Command to Erect the Tabernacle (vv. 1-16)**—The first day of the first month; placing each item in order.
+
+**Moses Executes the Command (vv. 17-33)**—Erecting the framework, placing the ark, setting the table with bread, lighting the lampstand, burning incense, setting up the altar, placing the basin, erecting the court—"as the LORD had commanded Moses" appears seven times.
+
+**The Glory of the LORD Descends (vv. 34-35)**—Cloud covering, glory filling, Moses unable to enter.
+
+**Guidance by Cloud and Fire (vv. 36-38)**—Setting out when the cloud lifted, remaining when it did not, cloud by day and fire by night.`,
+    theology_zh: `**神的荣光——至圣的临在**
+耶和华的荣光充满会幕，以至于摩西不能进入。这教导我们神的圣洁是不可靠近的——以赛亚书6章以赛亚看见主的荣耀就说"祸哉！我灭亡了"。改革宗神学强调神的超越性（transcendence）——祂不是我们的朋友那么简单，祂是至圣者。韦敏斯德信条第2章：神是无限的、永恒的、不变的，在祂的存有、智慧、权能、圣洁、公义、良善和真实上。
+
+**顺服的敬拜**
+"照耶和华所吩咐摩西的"七次重复，强调了敬拜的规范性。摩西不能按自己的意思摆放器具，不能调整次序。改革宗敬拜的规范原则（Regulative Principle）就是建立在这个基础上：真正蒙悦纳的敬拜只能包含神所命令的元素。人的创意在敬拜中必须让步于神的启示。
+
+**云柱火柱——神引导的确据**
+以色列人在旷野中不需要自己找路——神的云柱引导他们的每一步。改革宗神学将此应用于信徒生活：我们不是自己做主，而是跟随圣灵的引导。罗马书8:14："因为凡被神的灵引导的，都是神的儿子。"我们今天没有可见的云柱，但有圣灵和神的话语——这是更完美的引导方式。`,
+    theology_en: `**God's Glory—The Presence of the Holy**
+The LORD's glory filling the tabernacle so that Moses could not enter teaches us God's holiness is unapproachable—in Isaiah 6, when Isaiah saw the Lord's glory he cried "Woe is me! For I am lost." Reformed theology emphasizes God's transcendence—He is not simply our friend; He is the Holy One. Westminster Confession chapter 2: God is infinite, eternal, and unchangeable in His being, wisdom, power, holiness, justice, goodness, and truth.
+
+**Obedient Worship**
+"As the LORD had commanded Moses" repeated seven times emphasizes worship's normativity. Moses could not arrange the furnishings by his own preference or adjust the order. The Reformed Regulative Principle of Worship is built on this foundation: truly acceptable worship can include only God-commanded elements. Human creativity in worship must yield to divine revelation.
+
+**Cloud and Fire—The Assurance of God's Guidance**
+Israel in the wilderness did not need to find their own way—God's cloud pillar guided their every step. Reformed theology applies this to believers' lives: we do not direct ourselves but follow the Spirit's leading. Romans 8:14: "For all who are led by the Spirit of God are sons of God." Today we have no visible cloud pillar but have the Holy Spirit and God's Word—a more perfect means of guidance.`,
+    christShadow_zh: `出埃及记第四十章是整卷书基督论的高峰。"耶和华的荣光充满了帐幕"直接预表了道成肉身——约翰福音1:14说"道成了肉身，住在我们中间，充充满满地有恩典有真理。我们也见过他的荣光，正是父独生子的荣光。""住"的希腊文是skenoo，就是"支搭帐幕"。基督的身体就是那终极的会幕——神在祂里面与人同在。
+
+会幕竖立后摩西不能进入，因为神的荣光太强烈。但希伯来书4:16说因着基督，我们可以"坦然无惧地来到施恩的宝座前"。旧约中连摩西都不能进入的至圣所，如今因着基督的血，所有信徒都可以进入（希伯来书10:19-20）。幔子已经裂开了——基督的身体为我们裂开，打通了到神面前的路。
+
+云柱火柱预表基督和圣灵的引导。基督说"我是世界的光"（约翰福音8:12），祂在黑暗中为我们照亮道路。圣灵住在信徒心中，引导我们的一切道路。旧约的外在引导（云柱）变为新约的内在引导（圣灵），更加亲密，更加真实。
+
+出埃及记以"以色列全家在他们所行的路上"结束——一群被救赎的百姓，在神的荣光引导下走旷野的路。这正是教会在地上的写照：我们是被基督宝血赎出的百姓，被圣灵引导，在地上寄居的旷野中向着那永恒的应许之地行进。`,
+    christShadow_en: `Exodus 40 is the entire book's Christological summit. "The glory of the LORD filled the tabernacle" directly prefigures the incarnation—John 1:14 says, "And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth." The Greek "dwelt" is skenoo, meaning "tabernacled." Christ's body is that ultimate tabernacle—God dwelling with man in Him.
+
+After the tabernacle's erection, Moses could not enter because God's glory was too intense. But Hebrews 4:16 says that because of Christ we may "with confidence draw near to the throne of grace." The Most Holy Place that even Moses could not enter in the Old Testament is now accessible to all believers through Christ's blood (Hebrews 10:19-20). The veil has been torn—Christ's body was torn for us, opening the way to God's presence.
+
+The cloud and fire pillars prefigure Christ's and the Spirit's guidance. Christ said "I am the light of the world" (John 8:12), illuminating our path in darkness. The Holy Spirit dwells in believers' hearts, guiding all our ways. The Old Testament's external guidance (cloud pillar) became the New Testament's internal guidance (Holy Spirit)—more intimate, more real.
+
+Exodus ends with "all the house of Israel throughout all their journeys"—a redeemed people walking the wilderness under God's glorious guidance. This is the church on earth: a people ransomed by Christ's blood, led by the Holy Spirit, journeying through this world's wilderness toward that eternal promised land.`,
   },
 ];
