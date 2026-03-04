@@ -3334,16 +3334,122 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '路加',
     authorEn: 'Luke',
     publishDate: '2026-04-30',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `我是路加，医生，保罗的同工。在我的前书中，我向提阿非罗大人详述了主耶稣从起初所行所教训的一切。如今，我要接续记录那些惊人的事——主升天之后，圣灵如何降临，教会如何诞生，福音如何从耶路撒冷传到地极。
+
+主受难复活之后，用许多确凿的凭据向使徒显现，四十天之久与他们同在，讲说神国的事。这不是虚构的神话，而是我详细考察过的历史。我亲眼见证了这一切的展开。
+
+主升天前，嘱咐使徒不要离开耶路撒冷，要等候父所应许的圣灵。约翰是用水施洗，但不多几日，他们要受圣灵的洗。使徒们仍带着犹太人的盼望，问主："你复兴以色列国就在这时候么？"主的回答超越了他们狭隘的民族主义期待——父所定的时候不是他们可以知道的，但圣灵降临后，他们要得着能力，在耶路撒冷、犹太全地、撒玛利亚，直到地极，作主的见证。
+
+这是整部使徒行传的蓝图。教会的使命不是复兴一个地上的国度，而是为复活的君王作见证，直到地极。
+
+说了这话,主就在他们眼前被取上升，有云彩把他接去。他们定睛望天，忽然有两位天使显现，宣告那荣耀的应许："这离开你们被接升天的耶稣，你们见他怎样往天上去，他还要怎样来。"
+
+使徒们从橄榄山回到耶路撒冷，进入楼房。在那里有彼得、约翰、雅各、安得烈、腓力、多马、巴多罗买、马太、亚勒腓的儿子雅各、奋锐党的西门，和雅各的儿子犹大——十一位使徒。他们同着几个妇女和主的母亲马利亚，并主的弟兄们，都同心合意恒切祷告。这是何等美好的画面！曾经四散逃跑的门徒，如今聚集等候，同心祷告。
+
+那时约有一百二十人聚会。彼得站起来，引用诗篇的话，说明犹大的背叛早已预言。这叛徒用作恶的工价买了一块田，后来身子仆倒，肚腹崩裂而死。彼得引用诗篇说："愿他的住处变为荒场，无人在内居住；又说：愿别人得他的职分。"
+
+于是他们选举两个人：巴撒巴（又称犹士都）和马提亚。众人祷告说："主啊，你知道万人的心，求你从这两个人中，指明你所拣选的是谁。"然后摇签，摇出马提亚来。他就和十一个使徒同列，补满了十二使徒的数目。
+
+这不是人的筹划，而是顺服神主权的行动。诗篇的预言应验了，十二使徒的职分得以恢复，预备好迎接五旬节圣灵的浇灌。
+
+这一章是过渡，也是预备。主已升天，坐在父的右边；使徒们在地上等候、祷告、顺服。伟大的事即将发生。`,
+    content_en: `I am Luke, a physician, and a fellow worker of Paul. In my former account, I detailed to the most excellent Theophilus all that Jesus began both to do and to teach. Now I continue the record of those astonishing events—how the Holy Spirit descended after the Lord's ascension, how the church was born, and how the gospel spread from Jerusalem to the ends of the earth.
+
+After His suffering and resurrection, the Lord presented Himself alive to the apostles by many infallible proofs, appearing to them over forty days and speaking of the kingdom of God. This is not mythical fiction, but history I have carefully investigated. I have witnessed the unfolding of all these things.
+
+Before His ascension, the Lord commanded the apostles not to depart from Jerusalem, but to wait for the Promise of the Father—the Holy Spirit. John baptized with water, but in a few days they would be baptized with the Holy Spirit. The apostles, still holding to Jewish nationalistic hopes, asked, "Lord, will You at this time restore the kingdom to Israel?" The Lord's answer transcended their narrow expectations—the times and seasons set by the Father are not for them to know, but when the Holy Spirit comes upon them, they will receive power to be His witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.
+
+This is the blueprint of the entire book of Acts. The church's mission is not to restore an earthly kingdom, but to bear witness to the risen King, to the ends of the earth.
+
+Having said this, the Lord was taken up before their eyes, and a cloud received Him. As they gazed into heaven, two angels suddenly appeared, proclaiming that glorious promise: "This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven."
+
+The apostles returned from the Mount of Olives to Jerusalem and entered the upper room. There were Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James the son of Alphaeus, Simon the Zealot, and Judas the son of James—eleven apostles. Together with several women, the Lord's mother Mary, and His brothers, they devoted themselves to prayer with one accord. What a beautiful picture! Those who once scattered in fear now gathered in unity, waiting and praying together.
+
+About one hundred twenty persons were assembled. Peter stood up and, quoting the Psalms, explained that Judas' betrayal was foretold. The traitor bought a field with his ill-gotten wages, then fell headlong, burst open, and died. Peter quoted the Psalms: "Let his dwelling place be desolate, and let no one live in it," and, "Let another take his office."
+
+So they put forward two men: Joseph called Barsabbas (surnamed Justus) and Matthias. They prayed, "You, O Lord, who know the hearts of all, show which of these two You have chosen." Then they cast lots, and the lot fell on Matthias, who was numbered with the eleven apostles, restoring the number of the Twelve.
+
+This was not human planning, but obedient submission to God's sovereignty. The Psalm's prophecy was fulfilled, the apostolic office restored, preparing for the outpouring of the Spirit at Pentecost.
+
+This chapter is both transition and preparation. The Lord has ascended and is seated at the Father's right hand; the apostles on earth wait, pray, and obey. Great things are about to happen.`,
+    historyContext_zh: `主后30年（或33年），主耶稣在逾越节被钉十字架，三日后复活。四十天之久，主向使徒们显现，证明自己活着，讲说神国的事。然后在橄榄山升天。使徒们回到耶路撒冷，聚集在楼房中等候。这段时间大约在五旬节前十天。
+
+耶路撒冷当时在罗马统治之下，本丢彼拉多任犹太巡抚。犹太宗教领袖（撒都该人和法利赛人）掌控圣殿和公会。使徒们作为加利利人，仍然怀着犹太人的弥赛亚期待——盼望主复兴以色列国，推翻罗马统治。但主的回答重新定义了他们的使命：不是地上的国度，而是属天的见证。
+
+选立马提亚补满十二使徒之数，反映了犹太人的思维模式——十二支派、十二使徒，象征神子民的完整性。摇签在旧约中是寻求神心意的方式（箴16:33）。五旬节圣灵降临后，教会不再用摇签，而是由圣灵直接引导（如徒13:2）。`,
+    historyContext_en: `Around A.D. 30 (or 33), the Lord Jesus was crucified at Passover and rose on the third day. For forty days, He appeared to the apostles, proving Himself alive and speaking of the kingdom of God. Then He ascended from the Mount of Olives. The apostles returned to Jerusalem and gathered in the upper room to wait. This period was about ten days before Pentecost.
+
+Jerusalem was under Roman rule at the time, with Pontius Pilate as the Roman governor of Judea. The Jewish religious leaders (Sadducees and Pharisees) controlled the temple and the Sanhedrin. The apostles, as Galileans, still held Jewish messianic expectations—hoping the Lord would restore the kingdom to Israel and overthrow Roman rule. But the Lord's answer redefined their mission: not an earthly kingdom, but a heavenly witness.
+
+The selection of Matthias to restore the Twelve reflects the Jewish mindset—twelve tribes, twelve apostles, symbolizing the completeness of God's people. Casting lots was an Old Testament method of seeking God's will (Prov. 16:33). After Pentecost, the church no longer used lots, but was guided directly by the Spirit (as in Acts 13:2).`,
+    structure_zh: `本章分为三个部分：
+
+**第一部分（1-11节）：主的升天与大使命**
+主复活后四十天显现，吩咐使徒等候圣灵。使徒询问以色列国的复兴，主回答以大使命——圣灵降临后，他们要作见证直到地极。随后主在他们眼前升天，天使宣告主必再来。
+
+**第二部分（12-14节）：使徒同心祷告**
+十一位使徒回到耶路撒冷楼房，与妇女们、主的母亲和弟兄们同心合意恒切祷告。约一百二十人聚集等候。
+
+**第三部分（15-26节）：选立马提亚**
+彼得站起来，引用诗篇说明犹大的背叛是预言的应验，提出选立使徒补满十二之数。众人祷告后摇签，选出马提亚。
+
+全章结构清晰：主升天→门徒等候→补满使徒——为五旬节圣灵降临预备舞台。`,
+    structure_en: `This chapter divides into three parts:
+
+**Part One (vv. 1–11): The Ascension and the Great Commission**
+After forty days of post-resurrection appearances, the Lord commands the apostles to wait for the Spirit. They ask about restoring Israel's kingdom; He responds with the Great Commission—after the Spirit comes, they will be His witnesses to the ends of the earth. Then the Lord ascends before their eyes, and angels announce His return.
+
+**Part Two (vv. 12–14): The Apostles' Unified Prayer**
+The eleven apostles return to the upper room in Jerusalem, joining with the women, the Lord's mother, and His brothers in devoted, unified prayer. About one hundred twenty people gather to wait.
+
+**Part Three (vv. 15–26): The Election of Matthias**
+Peter stands and, citing the Psalms, explains that Judas' betrayal fulfilled prophecy and proposes selecting an apostle to restore the Twelve. After prayer, they cast lots and choose Matthias.
+
+The chapter's structure is clear: the Lord's ascension → the disciples' waiting → the apostles' restoration—setting the stage for Pentecost.`,
+    theology_zh: `**主权的神与等候的门徒**
+本章彰显改革宗神学的核心：神的绝对主权。主复活后四十天讲说神国（不是地上国度），升天坐在父右边掌权（弗1:20-22）。使徒的使命不由人定，而由圣灵赋予能力（8节）。"父凭着自己的权柄所定的时候、日期，不是你们可以知道的"（7节）——这是神主权的宣告。
+
+**圣灵的应许**
+主应许圣灵的洗（5节）是新约的核心应许。旧约先知预言（珥2:28-29），施洗约翰宣告（太3:11），如今主亲口确认。圣灵不是人可以赚取的，乃是父的应许、子的赐予。这是恩典之约的成全。
+
+**使徒的职分**
+选立马提亚不是民主选举，而是寻求主的心意。使徒职分独特——必须是主亲自呼召的见证人（21-22节）。今日没有使徒，但教会建造在使徒和先知的根基上（弗2:20），领受他们所传承的真道。
+
+**教会的合一**
+"同心合意恒切祷告"（14节）——这是初代教会的美好见证。圣灵降临前，门徒先合一祷告；神的工作总是从祷告开始。`,
+    theology_en: `**God's Sovereignty and the Disciples' Waiting**
+This chapter manifests the core of Reformed theology: God's absolute sovereignty. After His resurrection, the Lord spoke for forty days about the kingdom of God (not an earthly kingdom) and then ascended to sit at the Father's right hand (Eph. 1:20–22). The apostles' mission is not self-defined but empowered by the Spirit (v. 8). "It is not for you to know times or seasons which the Father has put in His own authority" (v. 7)—a declaration of God's sovereignty.
+
+**The Promise of the Spirit**
+The Lord's promise of baptism with the Holy Spirit (v. 5) is central to the New Covenant. Prophesied in the Old Testament (Joel 2:28–29), proclaimed by John the Baptist (Matt. 3:11), and now confirmed by the Lord Himself, the Spirit is not earned by man but given by the Father's promise and the Son's gift. This is the fulfillment of the covenant of grace.
+
+**The Apostolic Office**
+The selection of Matthias is not democratic election but seeking the Lord's will. The apostolic office is unique—apostles must be personally called by the Lord as witnesses (vv. 21–22). There are no apostles today, but the church is built on the foundation of the apostles and prophets (Eph. 2:20), receiving the doctrine they transmitted.
+
+**The Unity of the Church**
+"These all continued with one accord in prayer" (v. 14)—a beautiful testimony of the early church. Before the Spirit's descent, the disciples were united in prayer; God's work always begins with prayer.`,
+    christShadow_zh: `**升天的君王**
+主耶稣升天不是消失，而是登基掌权。诗篇110:1预言："耶和华对我主说：你坐在我的右边，等我使你仇敌作你的脚凳。"彼得在五旬节讲道引用这节经文（徒2:34-35）。主升天，坐在父右边，等候仇敌服在他脚下。这是福音的成全——被钉死的弥赛亚已复活升天，掌管万有。
+
+**圣灵的应许成全**
+约珥书2:28-29预言："我要将我的灵浇灌凡有血气的。"主应许使徒"不多几日，你们要受圣灵的洗"（5节）——这应许在第2章五旬节成就。旧约预言，福音书应许，使徒行传成全。
+
+**见证人的呼召**
+以赛亚书43:10："你们是我的见证，我所拣选的仆人。"主呼召使徒"作我的见证"（8节），从耶路撒冷到地极。福音书记载主的生平死而复活，使徒行传记载门徒如何见证主，直到地极。这是大使命的展开，救恩历史的延续。
+
+**十二使徒的恢复**
+以色列十二支派象征神的子民。主拣选十二使徒，预表新以色列——教会。犹大背叛应验诗篇41:9和69:25，马提亚补满十二，预备五旬节教会的诞生。旧约预言在新约教会中成全。`,
+    christShadow_en: `**The Enthroned King**
+The Lord's ascension is not disappearance but enthronement. Psalm 110:1 prophesies: "The LORD said to my Lord, 'Sit at My right hand, till I make Your enemies Your footstool.'" Peter quotes this at Pentecost (Acts 2:34–35). The Lord ascends, sits at the Father's right hand, and awaits His enemies' subjugation. This is gospel fulfillment—the crucified Messiah has risen, ascended, and rules over all.
+
+**The Fulfillment of the Spirit's Promise**
+Joel 2:28–29 prophesies: "I will pour out My Spirit on all flesh." The Lord promises the apostles, "You shall be baptized with the Holy Spirit not many days from now" (v. 5)—fulfilled at Pentecost in chapter 2. Old Testament prophecy, gospel promise, Acts fulfillment.
+
+**The Calling of Witnesses**
+Isaiah 43:10: "You are My witnesses…My servant whom I have chosen." The Lord calls the apostles to be His witnesses (v. 8), from Jerusalem to the ends of the earth. The Gospels record the Lord's life, death, and resurrection; Acts records how the disciples witnessed to the Lord, to the ends of the earth. This is the unfolding of the Great Commission, the continuation of redemptive history.
+
+**The Restoration of the Twelve Apostles**
+Israel's twelve tribes symbolize God's people. The Lord chose twelve apostles, foreshadowing the new Israel—the church. Judas' betrayal fulfills Psalm 41:9 and 69:25; Matthias' selection restores the Twelve, preparing for the church's birth at Pentecost. Old Testament prophecy fulfilled in the New Testament church.`,
   },
   {
     id: 'acts-2',
@@ -3355,16 +3461,150 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '路加',
     authorEn: 'Luke',
     publishDate: '2026-05-01',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `五旬节到了！这是我一生中见过最惊人的事。
+
+门徒都聚集在一处。忽然，从天上有响声下来，好像一阵大风吹过，充满了他们所坐的屋子。又有舌头如火焰显现出来，分开落在各人头上。他们就都被圣灵充满，按着圣灵所赐的口才说起别国的话来。
+
+这不是醉酒，不是癫狂，而是约珥先知预言的成全，是主耶稣应许的实现！旧约时代，圣灵只降临在先知、祭司、君王身上；如今在五旬节，圣灵浇灌凡有血气的——无论男女老幼，都被圣灵充满。
+
+那时，有虔诚的犹太人从天下各国来到耶路撒冷过节。这声音一响，众人都来聚集，各人听见门徒用他们自己的乡谈说话，就甚纳闷。他们惊讶希奇，说："看哪，这说话的不都是加利利人么？我们各人怎么听见他们说我们生来所用的乡谈呢？"
+
+从帕提亚、玛代、以拦、米所波大米、犹太、加帕多家、本都、亚西亚、弗吕家、旁非利亚、埃及、古利奈、罗马、革哩底、阿拉伯——十五个地方的人，都听见门徒用各人的乡谈讲说神的大作为！这是巴别塔变乱口音的反转，是神救恩的记号。
+
+有人讥诮说："他们无非是新酒灌满了。"但彼得和十一个使徒站起来，彼得高声说："犹太人和一切住在耶路撒冷的人哪，这件事你们当知道，也当侧耳听我的话。你们想这些人是醉了，其实不是醉了，因为时候刚到巳初（上午九点）。这正是先知约珥所说的！"
+
+然后彼得讲了一篇震撼人心的讲道。他宣告：神藉着拿撒勒人耶稣在你们中间施行异能、奇事、神迹，将他证明出来。他按着神的定旨先见被交与人，你们藉着无法之人的手把他钉在十字架上，杀了。神却将死的痛苦解释了，叫他复活，因为他原不能被死拘禁！
+
+彼得引用诗篇16篇，证明大卫的话不是指着自己说的，而是预言基督的复活——他的灵魂不撇在阴间，他的肉身也不见朽坏。这耶稣，神已经叫他复活了，我们都为这事作见证！
+
+他被神的右手高举，又从父受了所应许的圣灵，就把你们所看见所听见的，浇灌下来。大卫并没有升到天上，但自己说："主对我主说，你坐在我的右边，等我使你仇敌作你的脚凳。"
+
+彼得最后宣告："故此，以色列全家当确实的知道，你们钉在十字架上的这位耶稣，神已经立他为主，为基督了！"
+
+众人听见这话，觉得扎心，就对彼得和其余的使徒说："弟兄们，我们当怎样行？"
+
+彼得说："你们各人要悔改，奉耶稣基督的名受洗，叫你们的罪得赦，就必领受所赐的圣灵。因为这应许是给你们和你们的儿女，并一切在远方的人，就是主我们神所召来的。"
+
+彼得还用许多话作见证，劝勉他们说："你们当救自己脱离这弯曲的世代。"
+
+那一天，领受他话的人就受了洗，门徒约添了三千人！何等的神迹！那曾经三次不认主的彼得，如今被圣灵充满,大有能力地讲道，三千人悔改归主。
+
+从此，信徒恒心遵守使徒的教训，彼此交接，擘饼，祈祷。众人都惧怕，使徒又行了许多奇事神迹。信的人都在一处，凡物公用，卖了田产家业，照各人所需用的分给各人。他们天天同心合意恒切地在殿里，且在家中擘饼，存着欢喜诚实的心用饭，赞美神，得众民的喜爱。主将得救的人天天加给他们。
+
+这就是教会的诞生！这就是圣灵降临的大能！这就是福音的爆发力！`,
+    content_en: `Pentecost had come! This is the most astonishing thing I have ever witnessed.
+
+The disciples were all together in one place. Suddenly, a sound like a mighty rushing wind came from heaven and filled the whole house where they were sitting. Tongues as of fire appeared, distributed and resting on each one of them. They were all filled with the Holy Spirit and began to speak in other languages as the Spirit gave them utterance.
+
+This was not drunkenness or madness, but the fulfillment of Joel's prophecy, the realization of the Lord Jesus' promise! In the Old Testament era, the Spirit descended only on prophets, priests, and kings; now at Pentecost, the Spirit is poured out on all flesh—male and female, young and old, all filled with the Holy Spirit.
+
+At that time, devout Jews from every nation under heaven were in Jerusalem for the feast. When this sound occurred, the crowd came together and was bewildered, because each one heard them speaking in his own language. Amazed and astonished, they said, "Are not all these who are speaking Galileans? How is it that we each hear in our own native language?"
+
+From Parthia, Media, Elam, Mesopotamia, Judea, Cappadocia, Pontus, Asia, Phrygia, Pamphylia, Egypt, Cyrene, Rome, Crete, and Arabia—people from fifteen regions all heard the disciples speaking in their own languages about the mighty works of God! This is the reversal of Babel's confusion of tongues, a sign of God's salvation.
+
+Some mocked, saying, "They are filled with new wine." But Peter, standing with the eleven, raised his voice and addressed them: "Men of Judea and all who dwell in Jerusalem, let this be known to you. These are not drunk, as you suppose, since it is only the third hour of the day (nine in the morning). But this is what was spoken by the prophet Joel!"
+
+Then Peter preached a soul-stirring sermon. He proclaimed: God attested to Jesus of Nazareth by miracles, wonders, and signs in your midst. He was delivered up according to God's definite plan and foreknowledge, and you crucified Him by the hands of lawless men. But God raised Him up, loosing the pangs of death, because it was not possible for Him to be held by it!
+
+Peter quoted Psalm 16, proving that David's words were not about himself but prophesied Christ's resurrection—His soul was not abandoned to Hades, nor did His flesh see corruption. This Jesus God raised up, and of that we are all witnesses!
+
+Exalted at the right hand of God, He received from the Father the promised Holy Spirit and poured out what you now see and hear. David did not ascend into heaven, but he himself said, "The Lord said to my Lord, 'Sit at my right hand, until I make your enemies your footstool.'"
+
+Peter concluded: "Let all the house of Israel therefore know assuredly that God has made Him both Lord and Christ, this Jesus whom you crucified!"
+
+When they heard this, they were cut to the heart and said to Peter and the rest of the apostles, "Brothers, what shall we do?"
+
+Peter said: "Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit. For the promise is for you and for your children and for all who are far off, everyone whom the Lord our God calls to Himself."
+
+With many other words Peter testified and exhorted them, saying, "Save yourselves from this crooked generation."
+
+That day, those who received his word were baptized, and about three thousand souls were added! What a miracle! Peter, who once denied the Lord three times, was now filled with the Holy Spirit, preached powerfully, and three thousand repented and believed.
+
+From then on, the believers devoted themselves to the apostles' teaching, to fellowship, to the breaking of bread, and to prayers. Awe came upon everyone, and many wonders and signs were done through the apostles. All who believed were together and had all things in common, selling possessions and goods and distributing to all as any had need. Day by day, attending the temple together and breaking bread in their homes, they received their food with glad and generous hearts, praising God and having favor with all the people. And the Lord added to their number day by day those who were being saved.
+
+This is the birth of the church! This is the power of the Spirit's descent! This is the explosive force of the gospel!`,
+    historyContext_zh: `五旬节（希腊文Pentecost，意为"第五十日"）是犹太三大节期之一，在逾越节后五十天举行（利23:15-21），又称七七节或收割节。这是庆祝小麦收割的节期，也是纪念西奈山赐律法的日子。按犹太传统，五旬节是神在西奈山颁布十诫的日子。
+
+主后30年（或33年）的五旬节，圣灵降临——新约的律法不是刻在石版上，而是刻在人心里（耶31:33，结36:26-27）。旧约在西奈山赐律法，百姓拜金牛犊，三千人被杀（出32:28）；新约在五旬节赐圣灵，彼得讲道，三千人得救——这是鲜明的对比！律法叫人死，圣灵叫人活。
+
+五旬节当天，耶路撒冷城挤满了从世界各地来过节的犹太人。据历史学家约瑟夫记载，节期时耶路撒冷人口可达数十万。这些散居各地的犹太人（diaspora Jews）讲不同的语言。圣灵使门徒说各地方言，让每个人都听见福音——这是宣教的神迹，预示福音将传遍万国。`,
+    historyContext_en: `Pentecost (Greek Pentecost, meaning "fiftieth day") was one of the three major Jewish feasts, held fifty days after Passover (Lev. 23:15–21), also called the Feast of Weeks or Harvest Festival. It celebrated the wheat harvest and commemorated the giving of the Law at Sinai. According to Jewish tradition, Pentecost was the day God gave the Ten Commandments at Mount Sinai.
+
+On Pentecost in A.D. 30 (or 33), the Holy Spirit descended—the New Covenant law not written on stone tablets but on human hearts (Jer. 31:33; Ezek. 36:26–27). The Old Covenant gave the Law at Sinai, the people worshiped the golden calf, and three thousand died (Ex. 32:28); the New Covenant gave the Spirit at Pentecost, Peter preached, and three thousand were saved—a striking contrast! The Law kills, but the Spirit gives life.
+
+On Pentecost day, Jerusalem was packed with Jews from all over the world who had come for the feast. Historian Josephus records that Jerusalem's population during festivals could reach hundreds of thousands. These diaspora Jews spoke different languages. The Spirit enabled the disciples to speak in various languages so everyone heard the gospel—a missionary miracle foreshadowing the gospel's spread to all nations.`,
+    structure_zh: `本章可分为四个部分：
+
+**第一部分（1-13节）：圣灵降临**
+五旬节到了，圣灵如大风降临，如火焰落在各人头上，门徒被圣灵充满，说起别国的话。从各地来的犹太人听见门徒用各人的乡谈讲说神的大作为，众人惊讶希奇，有人讥诮说他们醉了。
+
+**第二部分（14-36节）：彼得的讲道**
+彼得站起来，引用约珥书预言，证明这是圣灵浇灌的时代。然后宣讲耶稣的死与复活，引用诗篇16篇和110篇，证明耶稣是基督，是主。
+
+**第三部分（37-41节）：三千人悔改**
+众人听道扎心，问"我们当怎样行"？彼得呼召悔改受洗，应许赦罪和圣灵。那一天约三千人受洗归主。
+
+**第四部分（42-47节）：初代教会的生活**
+信徒恒心遵守使徒教训，彼此交接，擘饼祈祷，凡物公用，天天赞美神，得众民喜爱。主将得救的人天天加给他们。
+
+全章结构：圣灵降临→福音宣讲→罪人悔改→教会建立——完美呈现救恩历史的新纪元。`,
+    structure_en: `This chapter divides into four parts:
+
+**Part One (vv. 1–13): The Descent of the Spirit**
+Pentecost arrives, the Spirit descends like a mighty wind, tongues of fire rest on each person, the disciples are filled with the Spirit and speak in other languages. Jews from various regions hear the disciples speaking in their own tongues about God's mighty works; the crowd is amazed and astonished, some mock them as drunk.
+
+**Part Two (vv. 14–36): Peter's Sermon**
+Peter stands and quotes Joel's prophecy, proving this is the age of the Spirit's outpouring. He then proclaims Jesus' death and resurrection, citing Psalms 16 and 110 to prove Jesus is the Christ and Lord.
+
+**Part Three (vv. 37–41): Three Thousand Repent**
+The hearers are cut to the heart and ask, "What shall we do?" Peter calls for repentance and baptism, promising forgiveness and the Spirit. About three thousand are baptized that day.
+
+**Part Four (vv. 42–47): The Life of the Early Church**
+Believers devote themselves to the apostles' teaching, fellowship, breaking bread, and prayers; they hold all things in common, daily praise God, and enjoy favor with all the people. The Lord adds daily to their number those being saved.
+
+The chapter's structure: the Spirit descends → the gospel is preached → sinners repent → the church is established—perfectly presenting the new era of salvation history.`,
+    theology_zh: `**圣灵的主权**
+圣灵不是人能控制的，乃是神主权的赐予。"他们就都被圣灵充满"（4节）——是圣灵充满他们，不是他们招来圣灵。圣灵如风（约3:8），随意吹在谁身上。五旬节的圣灵降临是父的应许（路24:49），子的赐予（约14:16-17），不是人的功劳。
+
+**有效的呼召**
+彼得讲道，众人"觉得扎心"（37节）——这是圣灵有效的工作。人心刚硬如石，唯有圣灵能刺透人心。改革宗神学强调"有效的呼召"（effectual calling）：外在的福音宣讲加上内在的圣灵工作，罪人才能悔改。彼得讲的是同一篇道，但只有"主我们神所召来的"才会悔改（39节）。
+
+**悔改与信心**
+"你们各人要悔改，奉耶稣基督的名受洗"（38节）。悔改不只是情感的懊悔，而是心意的转变（metanoia）——从拒绝基督转向信靠基督。洗礼不是得救的条件，而是信心的记号与印证（罗4:11）。洗礼见证内在的重生，正如圣餐见证与主联合。
+
+**教会的标记**
+42-47节描绘初代教会的美好图景：恒心遵守使徒教训（纯正教义），彼此交接（圣徒相通），擘饼（圣餐），祈祷（敬拜）。这四样是教会生活的核心——道、团契、圣礼、祷告。改革宗传统重视"教会的标记"（marks of the church）：纯正传讲神的道，正确施行圣礼，执行教会纪律（太28:19-20，约20:21-23）。初代教会已有雏形。`,
+    theology_en: `**The Sovereignty of the Spirit**
+The Holy Spirit is not controlled by man but sovereignly given by God. "They were all filled with the Holy Spirit" (v. 4)—the Spirit filled them, not they summoned the Spirit. The Spirit is like the wind (John 3:8), blowing where it wills. Pentecost's Spirit descent is the Father's promise (Luke 24:49) and the Son's gift (John 14:16–17), not man's merit.
+
+**Effectual Calling**
+Peter preached, and the people were "cut to the heart" (v. 37)—this is the Spirit's effectual work. Human hearts are hard as stone; only the Spirit can pierce the heart. Reformed theology emphasizes "effectual calling": external gospel proclamation plus internal Spirit work leads sinners to repentance. Peter preached the same message, but only those "whom the Lord our God calls to Himself" (v. 39) repented.
+
+**Repentance and Faith**
+"Repent and be baptized in the name of Jesus Christ" (v. 38). Repentance is not mere emotional regret but a change of mind (metanoia)—turning from rejecting Christ to trusting Him. Baptism is not a condition for salvation but a sign and seal of faith (Rom. 4:11). Baptism witnesses to inward regeneration, just as the Lord's Supper witnesses to union with Christ.
+
+**The Marks of the Church**
+Verses 42–47 depict the beautiful picture of the early church: devoted to the apostles' teaching (sound doctrine), fellowship (communion of saints), breaking bread (the Lord's Supper), and prayers (worship). These four are the core of church life—Word, fellowship, sacraments, prayer. Reformed tradition emphasizes the "marks of the church": faithful preaching of God's Word, right administration of the sacraments, exercise of church discipline (Matt. 28:19–20; John 20:21–23). The early church already had these in embryonic form.`,
+    christShadow_zh: `**约珥书的预言成全**
+彼得引用约珥书2:28-32："在末后的日子，我要将我的灵浇灌凡有血气的。你们的儿女要说预言，少年人要见异象,老年人要做异梦。"五旬节圣灵降临，正是这预言的成全。"末后的日子"已经开始，弥赛亚时代已经来临！
+
+**大卫的预言成全**
+彼得引用诗篇16:8-11，证明大卫预言基督的复活："你必不将我的灵魂撇在阴间，也不叫你的圣者见朽坏。"大卫自己死了葬埋了，但基督复活了，应验了这预言。
+
+彼得又引用诗篇110:1："主对我主说，你坐在我的右边，等我使你仇敌作你的脚凳。"这是旧约最多被引用的经文之一。耶稣用这节经文质问法利赛人（太22:41-46），证明弥赛亚不只是大卫的子孙，更是大卫的主。如今主升天坐在父右边，这预言已经成全。
+
+**新约的成全**
+耶利米书31:31-34预言新约："我要将我的律法放在他们里面，写在他们心上。"以西结书36:26-27预言："我也要赐给你们一个新心，将新灵放在你们里面。"五旬节圣灵降临，新约正式成立。律法时代结束，恩典时代开始。教会诞生，福音传遍万国的时代到来！`,
+    christShadow_en: `**The Fulfillment of Joel's Prophecy**
+Peter quotes Joel 2:28–32: "In the last days I will pour out My Spirit on all flesh. Your sons and daughters shall prophesy, your young men shall see visions, and your old men shall dream dreams." Pentecost's Spirit descent is the fulfillment of this prophecy. The "last days" have begun, the Messianic age has arrived!
+
+**The Fulfillment of David's Prophecy**
+Peter quotes Psalm 16:8–11, proving David prophesied Christ's resurrection: "You will not abandon my soul to Hades, nor let Your Holy One see corruption." David himself died and was buried, but Christ rose, fulfilling this prophecy.
+
+Peter also quotes Psalm 110:1: "The Lord said to my Lord, 'Sit at My right hand, until I make Your enemies Your footstool.'" This is one of the most quoted Old Testament verses. Jesus used it to challenge the Pharisees (Matt. 22:41–46), proving the Messiah is not merely David's son but David's Lord. Now the Lord has ascended and sits at the Father's right hand; this prophecy is fulfilled.
+
+**The Fulfillment of the New Covenant**
+Jeremiah 31:31–34 prophesies the New Covenant: "I will put My law within them, and write it on their hearts." Ezekiel 36:26–27 prophesies: "I will give you a new heart and put a new spirit within you." Pentecost's Spirit descent officially establishes the New Covenant. The age of Law ends, the age of grace begins. The church is born, the era of gospel proclamation to all nations has arrived!`,
   },
   {
     id: 'acts-3',
@@ -3376,16 +3616,162 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '路加',
     authorEn: 'Luke',
     publishDate: '2026-05-02',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `申初祷告的时候，彼得和约翰上圣殿去。这是犹太人一天三次祷告时间中的一次——下午三点。
+
+圣殿美门口，有一个生来瘸腿的人。他天天被人抬来，放在那里求赒济。当他看见彼得、约翰将要进殿，就向他们求赒济。
+
+彼得和约翰定睛看他，彼得说："你看我们！"那人就留意看他们，指望得着什么。
+
+彼得说的话震撼人心："金银我都没有，只把我所有的给你。我奉拿撒勒人耶稣基督的名，叫你起来行走！"
+
+于是拉着他的右手扶他起来。我亲眼看见——他的脚和踝子骨立刻健壮了！他跳起来，站着，又行走，同我们进了殿，走着、跳着、赞美神。
+
+这生来瘸腿、四十多岁的人（4:22），从未走过一步路，如今在耶稣基督的名里得医治，在殿里跳跃赞美神！百姓都看见他行走赞美神，认得他是那素常坐在美门口求赒济的，就因他所遇着的事满心希奇惊讶。
+
+那人拉着彼得、约翰，在所罗门的廊下。众百姓一齐跑到他们那里，很觉希奇。彼得看见，就对百姓讲道。
+
+"以色列人哪，为什么把这事当作希奇呢？为什么定睛看我们，以为我们凭自己的能力和虔诚使这人行走呢？"彼得立刻把荣耀归给神。
+
+"亚伯拉罕、以撒、雅各的神，就是我们列祖的神，已经荣耀了他的仆人耶稣。你们却把他交付彼拉多，彼拉多定意要释放他，你们竟在彼拉多面前弃绝了他。你们弃绝了那圣洁公义者，反求着释放一个凶手给你们。你们杀了那生命的主，神却叫他从死里复活了，我们都是为这事作见证。"
+
+然后彼得说明医治的原因："我们因信他的名，他的名便叫你们所看见所认识的这人健壮了。正是他所赐的信心，叫这人在你们众人面前全然好了。"
+
+这医治不是魔术，不是使徒的能力，而是复活的主耶稣基督的大能！是信靠他名的结果！
+
+接着彼得说了令人震惊又满有恩典的话："弟兄们，我晓得你们做这事是出于不知，你们的官长也是如此。但神曾藉众先知的口预言基督将要受害，就这样应验了。"
+
+他们钉死耶稣是罪，但神使用这罪成就救恩。这是神主权的奥秘。
+
+然后彼得发出呼召："所以你们当悔改归正，使你们的罪得以涂抹，这样，那安舒的日子就必从主面前来到。主也必差遣所预定给你们的基督耶稣降临。天必留他，等到万物复兴的时候，就是神从创世以来藉着圣先知的口所说的。"
+
+彼得引用摩西的话："主神要从你们弟兄中间给你们兴起一位先知像我，凡他向你们所说的，你们都要听从。凡不听从那先知的，必要从民中全然灭绝。"（申18:15-19）
+
+又说："从撒母耳以来的众先知，凡说预言的，也都说到这些日子。"
+
+最后彼得宣告："你们是先知的子孙，也承受神与你们祖宗所立的约，就是对亚伯拉罕说：'地上万族都要因你的后裔得福。'神既兴起他的仆人，就先差他到你们这里来，赐福给你们，叫你们各人回转，离开罪恶。"
+
+这篇讲道充满旧约预言的成全：摩西预言的先知就是耶稣，神与亚伯拉罕所立的约在基督里成就，使万族得福！
+
+美门口的神迹不只是一个人得医治，更是福音的明证——在耶稣基督的名里有医治，有救恩，有生命！`,
+    content_en: `At the hour of prayer, the ninth hour (three in the afternoon), Peter and John were going up to the temple. This was one of the three daily Jewish prayer times.
+
+At the Beautiful Gate of the temple sat a man lame from birth. He was carried there daily to beg alms from those entering the temple. When he saw Peter and John about to enter, he asked for alms.
+
+Peter and John looked intently at him, and Peter said, "Look at us!" The man gave them his attention, expecting to receive something.
+
+Peter's words were stunning: "Silver and gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, rise up and walk!"
+
+He took him by the right hand and raised him up. I witnessed it myself—immediately his feet and ankle bones received strength! He leaped up, stood, and walked, entering the temple with us, walking and leaping and praising God.
+
+This man, lame from birth, over forty years old (4:22), had never taken a single step. Now, healed in the name of Jesus Christ, he leaped and praised God in the temple! All the people saw him walking and praising God, recognized him as the one who sat begging at the Beautiful Gate, and were filled with wonder and amazement at what had happened.
+
+The man clung to Peter and John in Solomon's Portico. The people all ran together to them, utterly astonished. When Peter saw this, he addressed the people.
+
+"Men of Israel, why do you marvel at this? Why do you stare at us, as though by our own power or godliness we had made this man walk?" Peter immediately gave glory to God.
+
+"The God of Abraham, Isaac, and Jacob, the God of our fathers, glorified His Servant Jesus, whom you delivered up and denied in the presence of Pilate, when he had decided to release Him. You denied the Holy and Righteous One and asked for a murderer to be granted to you. You killed the Author of life, whom God raised from the dead. To this we are witnesses."
+
+Peter then explained the healing: "By faith in His name, this man whom you see and know was made strong by His name. The faith that is through Jesus has given this man perfect health in the presence of you all."
+
+This healing was not magic, not the apostles' power, but the mighty power of the risen Lord Jesus Christ! The result of trusting in His name!
+
+Then Peter spoke words both shocking and full of grace: "Brothers, I know that you acted in ignorance, as did also your rulers. But what God foretold by the mouth of all the prophets, that His Christ would suffer, He thus fulfilled."
+
+Their crucifying Jesus was sin, but God used that sin to accomplish salvation. This is the mystery of God's sovereignty.
+
+Then Peter issued a call: "Repent therefore, and turn back, that your sins may be blotted out, that times of refreshing may come from the presence of the Lord, and that He may send the Christ appointed for you, Jesus. Heaven must receive Him until the time for restoring all things, as God spoke by the mouth of His holy prophets long ago."
+
+Peter quoted Moses: "The Lord God will raise up for you a prophet like me from your brothers. You shall listen to Him in whatever He tells you. Every soul who does not listen to that prophet shall be destroyed from the people." (Deut. 18:15–19)
+
+He added: "All the prophets who have spoken, from Samuel and those who came after him, also proclaimed these days."
+
+Finally, Peter declared: "You are the sons of the prophets and of the covenant that God made with your fathers, saying to Abraham, 'And in your offspring shall all the families of the earth be blessed.' God, having raised up His Servant, sent Him to you first, to bless you by turning every one of you from your wickedness."
+
+This sermon is full of fulfilled Old Testament prophecies: the prophet Moses foretold is Jesus; the covenant God made with Abraham is fulfilled in Christ, blessing all nations!
+
+The miracle at the Beautiful Gate is not just one man's healing but a clear testimony of the gospel—in the name of Jesus Christ there is healing, salvation, and life!`,
+    historyContext_zh: `圣殿美门（Beautiful Gate）的具体位置有争议。根据约瑟夫的记载，可能指的是圣殿东面连接外邦人院和妇女院的尼迦挪门（Nicanor Gate），用科林多铜制成，极其华美。乞丐常坐在这里，因为进殿敬拜的人众多，容易得到赒济。
+
+申初（下午三点）是犹太人一天三次祷告的时间之一（另外两次是早晨和傍晚）。虽然圣殿已不再献祭（因基督已献上自己为祭），但初代信徒仍然保持到圣殿祷告的习惯。彼得和约翰作为犹太信徒，继续参加圣殿的敬拜，直到主后70年圣殿被毁。
+
+生来瘸腿四十多岁（4:22）意味着这人的病是众所周知的。他不是装病，而是真正的残疾。这医治是公开的、无可否认的神迹，连公会也无法驳倒（4:16）。
+
+所罗门廊是圣殿外邦人院东面的柱廊，以所罗门王命名。主耶稣曾在这里行走讲道（约10:23）。这是公开的地方，众人常在此聚集。`,
+    historyContext_en: `The specific location of the Beautiful Gate is debated. According to Josephus, it likely refers to the Nicanor Gate on the temple's east side, connecting the Court of the Gentiles and the Court of Women. Made of Corinthian bronze, it was exceedingly magnificent. Beggars commonly sat here because many worshipers entered the temple, making it easy to receive alms.
+
+The ninth hour (three in the afternoon) was one of the three daily Jewish prayer times (the others being morning and evening). Though temple sacrifices had ceased (for Christ had offered Himself), early believers still maintained the habit of temple prayer. Peter and John, as Jewish believers, continued participating in temple worship until its destruction in A.D. 70.
+
+The man being lame from birth and over forty years old (4:22) meant his condition was well known. He was not faking illness but genuinely disabled. This healing was a public, undeniable miracle that even the Sanhedrin could not refute (4:16).
+
+Solomon's Portico was the colonnade on the temple's east side, named after King Solomon. The Lord Jesus had walked and taught here (John 10:23). It was a public place where crowds often gathered.`,
+    structure_zh: `本章分为三部分：
+
+**第一部分（1-10节）：美门口的医治**
+彼得和约翰上圣殿祷告，遇见生来瘸腿的乞丐。彼得说"金银我都没有"，奉耶稣基督的名叫他起来行走。那人立刻得医治，跳起来赞美神。众人认出他，满心希奇。
+
+**第二部分（11-16节）：彼得的见证**
+众人希奇，彼得抓住机会讲道。他说这医治不是使徒的能力，而是神荣耀了他的仆人耶稣。"你们杀了那生命的主，神却叫他从死里复活。"因信耶稣的名，这人得医治。
+
+**第三部分（17-26节）：呼召悔改**
+彼得承认他们是出于无知，但神藉先知预言基督受害，已经应验。他呼召百姓悔改，引用摩西和众先知的话，证明耶稣就是那位先知，神与亚伯拉罕立约要赐福万族，如今在基督里成就。
+
+结构清晰：神迹引发关注→福音宣讲→呼召悔改——这是使徒行传多次重复的模式。`,
+    structure_en: `This chapter divides into three parts:
+
+**Part One (vv. 1–10): The Healing at the Beautiful Gate**
+Peter and John go to the temple to pray and encounter a beggar lame from birth. Peter says, "Silver and gold I do not have," and commands him to rise and walk in Jesus Christ's name. The man is instantly healed, leaps up, and praises God. The people recognize him and are filled with wonder.
+
+**Part Two (vv. 11–16): Peter's Testimony**
+The people are amazed, and Peter seizes the opportunity to preach. He says the healing is not the apostles' power but God glorifying His Servant Jesus. "You killed the Author of life, but God raised Him from the dead." Through faith in Jesus' name, this man was healed.
+
+**Part Three (vv. 17–26): Call to Repentance**
+Peter acknowledges they acted in ignorance, but God fulfilled the prophets' predictions of Christ's suffering. He calls the people to repent, quoting Moses and the prophets to prove Jesus is the Prophet, and God's covenant with Abraham to bless all nations is now fulfilled in Christ.
+
+The structure is clear: miracle draws attention → gospel proclamation → call to repentance—a pattern repeated throughout Acts.`,
+    theology_zh: `**耶稣名的权柄**
+"奉拿撒勒人耶稣基督的名"（6节）——这不是咒语，而是权柄。耶稣的名代表他的位格和作为。因信他的名，这人得医治（16节）。今日教会奉主名祷告、施洗、赶鬼，都是基于主的权柄（太28:18-19）。
+
+**信心的本质**
+"正是他所赐的信心，叫这人在你们众人面前全然好了"（16节）。信心不是人自己产生的，而是神所赐的（弗2:8）。瘸腿的人并没有先相信才得医治——他只是求赒济！是彼得宣告主的名，神迹发生，然后他跳起来赞美神。这显明信心是神的恩赐。
+
+**预定与人的责任**
+"你们做这事是出于无知"（17节）——这不是为他们的罪开脱，而是说明他们不知道耶稣就是弥赛亚。但无知不等于无罪。神预定基督受害（2:23），但钉死耶稣的人仍要为自己的罪负责。神的主权和人的责任并行不悖，这是圣经的张力。
+
+**万物复兴**
+"天必留他，等到万物复兴的时候"（21节）——这指基督再来，新天新地降临（启21:1-5）。救恩历史分为两个阶段：初临（道成肉身、受死复活）和再临（审判世界、更新万有）。教会时代是"已然未然"（already but not yet）——救恩已经成就，但完全的实现要等主再来。`,
+    theology_en: `**The Authority of Jesus' Name**
+"In the name of Jesus Christ of Nazareth" (v. 6)—this is not magic but authority. Jesus' name represents His person and work. Through faith in His name, this man was healed (v. 16). Today the church prays, baptizes, and casts out demons in the Lord's name, all based on His authority (Matt. 28:18–19).
+
+**The Nature of Faith**
+"The faith that is through Jesus has given this man perfect health" (v. 16). Faith is not self-generated but God-given (Eph. 2:8). The lame man did not believe first before being healed—he was only asking for alms! Peter proclaimed the Lord's name, the miracle occurred, then he leaped up praising God. This shows faith is God's gift.
+
+**Predestination and Human Responsibility**
+"You acted in ignorance" (v. 17)—this is not excusing their sin but explaining they did not know Jesus was the Messiah. But ignorance does not equal innocence. God ordained Christ's suffering (2:23), but those who crucified Jesus are still responsible for their sin. God's sovereignty and human responsibility coexist in biblical tension.
+
+**The Restoration of All Things**
+"Heaven must receive Him until the time for restoring all things" (v. 21)—this refers to Christ's return and the new heaven and earth (Rev. 21:1–5). Salvation history has two stages: the first coming (incarnation, death, resurrection) and the second coming (judging the world, renewing all things). The church age is "already but not yet"—salvation is accomplished, but full realization awaits the Lord's return.`,
+    christShadow_zh: `**摩西预言的先知**
+申命记18:15-19："耶和华你的神要从你弟兄中间给你兴起一位先知像我，你们要听从他。"彼得引用这段话，宣告耶稣就是那位先知。摩西预表基督：摩西领百姓出埃及，基督领百姓出罪的捆绑；摩西颁布律法，基督成全律法；摩西举起铜蛇，基督被举在十字架上（约3:14）。
+
+**亚伯拉罕之约的成全**
+创世记12:3："地上万族都要因你得福。"神与亚伯拉罕立约，应许他的后裔要使万国得福。加拉太书3:16说："所应许的原是向亚伯拉罕和他子孙说的。神并不是说'众子孙'，指着许多人；乃是说'你那一个子孙'，指着一个人，就是基督。"亚伯拉罕之约在基督里成就，使万族因信得福！
+
+**众先知的见证**
+"从撒母耳以来的众先知，凡说预言的，也都说到这些日子"（24节）。整本旧约都预言弥赛亚的来临：以赛亚书53章预言受苦的仆人，诗篇22篇预言十字架的痛苦，诗篇16篇预言复活，诗篇110篇预言升天掌权。旧约是基督的影子，新约是实体（西2:17）。
+
+**生命的主**
+彼得称耶稣为"生命的主"（archegos，15节，和合本译为"生命的主"）——这词也可译为"元首""创始者""先锋"。耶稣是生命的源头，是救恩的先锋（来2:10，12:2）。他胜过死亡，赐人生命。美门口瘸腿的人得医治，正是这生命大能的彰显。`,
+    christShadow_en: `**The Prophet Moses Foretold**
+Deuteronomy 18:15–19: "The LORD your God will raise up for you a prophet like me from among you. You shall listen to Him." Peter quotes this passage, declaring Jesus is that Prophet. Moses typified Christ: Moses led the people out of Egypt, Christ leads people out of sin's bondage; Moses gave the Law, Christ fulfilled the Law; Moses lifted up the bronze serpent, Christ was lifted on the cross (John 3:14).
+
+**The Fulfillment of the Abrahamic Covenant**
+Genesis 12:3: "In you all the families of the earth shall be blessed." God made a covenant with Abraham, promising his offspring would bless all nations. Galatians 3:16 says: "Now the promises were made to Abraham and to his offspring. It does not say, 'And to offsprings,' referring to many, but referring to one, 'And to your offspring,' who is Christ." The Abrahamic covenant is fulfilled in Christ, blessing all nations through faith!
+
+**The Testimony of the Prophets**
+"All the prophets from Samuel and those who came after him also proclaimed these days" (v. 24). The entire Old Testament prophesies the Messiah's coming: Isaiah 53 foretells the Suffering Servant, Psalm 22 foretells the cross's agony, Psalm 16 foretells the resurrection, Psalm 110 foretells the ascension and reign. The Old Testament is Christ's shadow, the New Testament is the reality (Col. 2:17).
+
+**The Author of Life**
+Peter calls Jesus the "Author of life" (archegos, v. 15—also "Prince," "Founder," "Pioneer"). This word can mean "originator," "leader," "forerunner." Jesus is the source of life, the Pioneer of salvation (Heb. 2:10; 12:2). He conquered death and gives life. The healing of the lame man at the Beautiful Gate is a manifestation of this life-giving power.`,
   },
   {
     id: 'acts-4',
@@ -3397,16 +3783,168 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '路加',
     authorEn: 'Luke',
     publishDate: '2026-05-05',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `当彼得和约翰正对百姓说话的时候，祭司们、守殿官和撒都该人忽然来了。他们因使徒教训百姓，本着耶稣传说死人复活，就很烦恼。于是下手拿住他们，因为天已经晚了，就把他们押到第二天。
+
+但听道之人有许多信的，男丁数目约到五千。这是何等的对比！宗教领袖逮捕使徒,但神的道兴旺——男丁五千，加上妇女儿童,可能总数上万！
+
+第二天,官府、长老和文士在耶路撒冷聚会。大祭司亚那和该亚法、约翰、亚力山大,并大祭司的亲族都在那里。这是犹太公会——七十人的最高宗教法庭,就是几周前审判主耶稣的那个公会。
+
+他们叫使徒站在当中,问他们:"你们用什么能力,奉谁的名做这事呢?"
+
+那时彼得被圣灵充满。这不是五旬节那次充满,而是主应许的——当他们被交官府时,圣灵会赐给他们当说的话(路12:11-12)。
+
+彼得对他们说:"治民的官府和长老啊,倘若今日因为在残疾人身上所行的善事查问我们他是怎么得了痊愈,你们众人和以色列百姓都当知道,站在你们面前的这人得痊愈是因你们所钉十字架、神叫他从死里复活的拿撒勒人耶稣基督的名。他是你们匠人所弃的石头,已成了房角的头块石头。除他以外,别无拯救;因为在天下人间,没有赐下别的名,我们可以靠着得救。"
+
+何等大胆的宣告!在钉死主耶稣的公会面前,彼得宣告:你们钉死的那位,神叫他复活了!你们弃绝的石头,已成了房角石!除他以外别无拯救!
+
+这是唯一救恩论(exclusivism)的经典宣告——不是条条大路通罗马,只有一位救主,一条道路,就是耶稣基督。
+
+公会的人见彼得约翰的胆量,又看出他们原是没有学问的小民,就希奇,认明他们是跟过耶稣的。又看见那治好了的人和他们一同站着,就无话可驳。
+
+于是吩咐他们从公会出去,就彼此商议说:"我们当怎样办这两个人呢?因为他们诚然行了一件明显的神迹,凡住耶路撒冷的人都知道,我们也不能说没有。惟恐这事越发传扬在民间,我们必须恐吓他们,叫他们不再奉这名对人讲论。"
+
+于是叫了他们来,禁止他们总不可奉耶稣的名讲论教训人。
+
+彼得约翰的回答掷地有声:"听从你们,不听从神,这在神面前合理不合理,你们自己酌量吧!我们所看见所听见的,不能不说。"
+
+这是公民抗命(civil disobedience)的典范——当人的命令与神的命令冲突时,顺从神不顺从人,是应当的(5:29)。
+
+官长为百姓的缘故,想不出法子刑罚他们,又恐吓一番,把他们释放了。因众人为所行的奇事都归荣耀与神。
+
+二人既被释放,就到会友那里去,把祭司长和长老所说的话都告诉他们。他们听见了,就同心合意地高声向神祷告。
+
+这段祷告是初代教会的经典祷告——他们引用诗篇2篇,说希律和本丢彼拉多、外邦人和以色列民,果然聚集攻打神所膏的圣仆耶稣,成就神手和旨意所预定必有的事。
+
+然后他们求神鉴察仇敌的恐吓,一面叫仆人大放胆量讲神的道,一面伸出手来医治疾病,使神迹奇事因着耶稣的名行出来。
+
+祷告完了,聚会的地方震动,他们就都被圣灵充满,放胆讲论神的道。
+
+接着路加记载了初代教会凡物公用的美好见证——那许多信的人都是一心一意的,没有一人说他的东西有一样是自己的,都是大家公用。使徒大有能力见证主耶稣复活,众人也都蒙大恩。内中也没有一个缺乏的,因为人人将田产房屋都卖了,把所卖的价银拿来,放在使徒脚前,照各人所需用的分给各人。
+
+有一个利未人,生在塞浦路斯,名叫约瑟,使徒称他为巴拿巴(意思是"劝慰子")。他有田地,也卖了,把价银拿来,放在使徒脚前。
+
+这是何等美好的团契!逼迫临到,教会不是四散,而是更合一,更慷慨,更有能力见证主!`,
+    content_en: `While Peter and John were speaking to the people, the priests, the captain of the temple, and the Sadducees came upon them, greatly annoyed because they were teaching the people and proclaiming in Jesus the resurrection from the dead. They arrested them and put them in custody until the next day, for it was already evening.
+
+But many who heard the word believed, and the number of the men came to about five thousand. What a contrast! The religious leaders arrested the apostles, but God's word flourished—five thousand men, plus women and children, possibly tens of thousands total!
+
+The next day, their rulers, elders, and scribes gathered in Jerusalem, with Annas the high priest, Caiaphas, John, Alexander, and all who were of the high-priestly family. This was the Sanhedrin—the seventy-member supreme religious court, the same council that tried the Lord Jesus weeks earlier.
+
+They set the apostles before them and inquired, "By what power or by what name did you do this?"
+
+Then Peter, filled with the Holy Spirit—not the Pentecost filling but the Lord's promise that when brought before authorities, the Spirit would give them what to say (Luke 12:11–12)—said:
+
+"Rulers of the people and elders, if we are being examined today concerning a good deed done to a crippled man, by what means this man has been healed, let it be known to all of you and to all the people of Israel that by the name of Jesus Christ of Nazareth, whom you crucified, whom God raised from the dead—by Him this man is standing before you well. This Jesus is the stone that was rejected by you, the builders, which has become the cornerstone. And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved."
+
+What bold proclamation! Before the council that crucified the Lord, Peter declares: The one you killed, God raised! The stone you rejected has become the cornerstone! There is no salvation in anyone else!
+
+This is the classic declaration of exclusivism—not all roads lead to heaven; there is one Savior, one way: Jesus Christ.
+
+The council was astonished at the boldness of Peter and John, and perceived they were uneducated, common men. They recognized they had been with Jesus. And seeing the healed man standing with them, they had nothing to say in opposition.
+
+They commanded them to leave the council and conferred with one another, saying, "What shall we do with these men? For a notable sign has been performed through them, evident to all Jerusalem, and we cannot deny it. But to keep it from spreading further, let us warn them to speak no more to anyone in this name."
+
+So they called them and charged them not to speak or teach at all in the name of Jesus.
+
+Peter and John's answer was resounding: "Whether it is right in the sight of God to listen to you rather than to God, you must judge, for we cannot but speak of what we have seen and heard."
+
+This is exemplary civil disobedience—when human commands conflict with God's commands, obedience to God over man is right (5:29).
+
+The authorities, finding no way to punish them because of the people, threatened them further and released them, for all were praising God for what had happened.
+
+When released, they went to their friends and reported what the chief priests and elders had said. Upon hearing this, they lifted their voices together to God in prayer.
+
+This prayer is a classic of the early church—quoting Psalm 2, they said Herod, Pontius Pilate, Gentiles, and Jews truly gathered against God's holy Servant Jesus to accomplish what God's hand and plan had predestined.
+
+They asked God to look upon the enemies' threats, grant His servants boldness to speak, and stretch out His hand to heal and perform signs and wonders through Jesus' name.
+
+When they finished praying, the place was shaken, they were all filled with the Holy Spirit, and spoke God's word with boldness.
+
+Luke then records the early church's beautiful testimony of sharing possessions—the multitude of believers was of one heart and soul, no one claimed private ownership, but shared everything. The apostles testified powerfully to the Lord's resurrection, and great grace was upon them all. There was not a needy person among them, for as many as owned lands or houses sold them, brought the proceeds, laid them at the apostles' feet, and distribution was made as any had need.
+
+Joseph, a Levite from Cyprus, called by the apostles Barnabas (meaning "son of encouragement"), sold a field, brought the money, and laid it at the apostles' feet.
+
+What beautiful fellowship! Persecution came, but the church did not scatter—instead, it became more united, more generous, more powerful in witness!`,
+    historyContext_zh: `撒都该人是犹太社会的贵族阶层，多为祭司家族，掌控圣殿和献祭制度。他们只接受摩西五经为权威，不信天使、灵魂和复活（23:8）。使徒传讲耶稣复活，直接冲击撒都该人的神学，所以他们"很烦恼"。
+
+大祭司亚那（Annas，主后6-15年任职）虽已卸任，但仍掌握实权。他的女婿该亚法（Caiaphas，18-36年任职）是现任大祭司。约翰和亚力山大可能是大祭司家族成员。这个家族腐败贪婪，垄断圣殿献祭买卖，主耶稣曾洁净圣殿赶出他们的生意（约2:13-17）。
+
+犹太公会（Sanhedrin）由七十位成员组成，包括祭司长（撒都该人）、文士（法利赛人）、长老（各家族代表）。大祭司是主席。这是犹太人最高的宗教和民事法庭，在罗马统治下保留一定自治权，但无权执行死刑（约18:31）。
+
+"没有学问的小民"（13节）不是说彼得约翰是文盲，而是指他们没有受过正规的拉比训练。他们是渔夫，不是文士。但他们跟过耶稣，这是最好的神学教育！
+
+"匠人所弃的石头"引用诗篇118:22，是犹太人熟悉的弥赛亚经文。主耶稣曾用这节经文指着自己说（太21:42）。彼得在公会面前大胆宣告:你们就是那些弃绝房角石的匠人！`,
+    historyContext_en: `The Sadducees were the aristocratic class of Jewish society, mostly priestly families controlling the temple and sacrificial system. They accepted only the Pentateuch as authoritative and denied angels, spirits, and resurrection (23:8). The apostles' proclamation of Jesus' resurrection directly challenged Sadducean theology, hence their great annoyance.
+
+High Priest Annas (A.D. 6–15) was officially deposed but still wielded power. His son-in-law Caiaphas (18–36) was the current high priest. John and Alexander were likely members of the high-priestly family. This family was corrupt and greedy, monopolizing temple sacrifice trade. The Lord Jesus cleansed the temple and drove out their business (John 2:13–17).
+
+The Sanhedrin consisted of seventy members: chief priests (Sadducees), scribes (Pharisees), and elders (family representatives). The high priest presided. This was the Jews' supreme religious and civil court. Under Roman rule, it retained certain autonomy but lacked authority to execute capital punishment (John 18:31).
+
+"Uneducated, common men" (v. 13) does not mean Peter and John were illiterate but that they lacked formal rabbinic training. They were fishermen, not scribes. But they had been with Jesus—the best theological education!
+
+"The stone the builders rejected" quotes Psalm 118:22, a familiar Messianic text. The Lord Jesus applied this verse to Himself (Matt. 21:42). Peter boldly declares before the council: You are the builders who rejected the cornerstone!`,
+    structure_zh: `本章分为三部分：
+
+**第一部分（1-22节）：使徒在公会受审**
+祭司们和撒都该人因使徒传讲复活而逮捕他们。次日公会审问，彼得被圣灵充满，大胆宣告唯有耶稣的名能救人。公会希奇他们的胆量，看见神迹无法否认，只好恐吓禁止他们传道，然后释放他们。
+
+**第二部分（23-31节）：教会同心祷告**
+使徒回到会友那里，报告公会的恐吓。众人同心祷告，引用诗篇2篇，承认神的主权，求神赐胆量继续传道。祷告完毕，地方震动，他们都被圣灵充满。
+
+**第三部分（32-37节）：信徒凡物公用**
+信徒一心一意，凡物公用，没有缺乏的。巴拿巴卖了田地，把价银放在使徒脚前。
+
+全章主题：逼迫来临，教会不退缩，反而更合一、更有能力见证主。`,
+    structure_en: `This chapter divides into three parts:
+
+**Part One (vv. 1–22): The Apostles Before the Council**
+Priests and Sadducees arrest the apostles for preaching resurrection. The next day the council interrogates them. Peter, filled with the Spirit, boldly declares only Jesus' name can save. The council is astonished at their boldness, cannot deny the miracle, threatens them not to preach, then releases them.
+
+**Part Two (vv. 23–31): The Church Prays Together**
+The apostles return and report the council's threats. The people pray in unity, quoting Psalm 2, acknowledging God's sovereignty, asking for boldness to continue preaching. After prayer, the place shakes, and they are all filled with the Holy Spirit.
+
+**Part Three (vv. 32–37): Believers Share Possessions**
+Believers are of one heart, share all things, and none lack. Barnabas sells a field and lays the money at the apostles' feet.
+
+The chapter's theme: Persecution comes, but the church does not retreat; instead, it becomes more united and powerful in witness.`,
+    theology_zh: `**唯独基督**
+"除他以外，别无拯救"（12节）——这是改革宗五个唯独之一：唯独基督（Solus Christus）。不是基督加玛利亚，不是基督加善行，不是基督加宗教仪式，唯独基督！这在多元主义时代是冒犯性的宣告，但却是圣经的真理。约翰福音14:6："我就是道路、真理、生命，若不藉着我，没有人能到父那里来。"
+
+**神的主权与人的责任**
+祷告中说："希律和本丢彼拉多、外邦人和以色列民，果然聚集攻打你所膏的圣仆耶稣，成就你手和你意旨所预定必有的事"（27-28节）。神预定基督受害，但希律、彼拉多、犹太人的罪责不因此减轻。神使用人的恶成就他的善，这是奥秘，但不是矛盾。
+
+**圣灵的充满**
+本章两次提到"被圣灵充满"（8节，31节）。第一次是彼得个人在公会受审时，第二次是全体信徒祷告后。圣灵充满不是一次性的经历，而是持续的需要。信徒需要不断被圣灵充满，才能放胆见证主。
+
+**教会的合一**
+"那许多信的人都是一心一意的"（32节）——合一不是组织上的统一，而是心灵上的契合。他们有共同的信仰、共同的目标、共同的爱。这合一是圣灵的工作（弗4:3），不是人的组织。凡物公用是爱心的自然流露，不是律法的强制。`,
+    theology_en: `**Christ Alone**
+"There is salvation in no one else" (v. 12)—this is one of the five Solas of the Reformation: Solus Christus (Christ Alone). Not Christ plus Mary, not Christ plus good works, not Christ plus religious rituals—Christ alone! This is an offensive declaration in a pluralistic age, but it is biblical truth. John 14:6: "I am the way, and the truth, and the life. No one comes to the Father except through Me."
+
+**God's Sovereignty and Human Responsibility**
+The prayer says: "Herod and Pontius Pilate, along with Gentiles and peoples of Israel, gathered together against Your holy Servant Jesus to do whatever Your hand and Your plan had predestined to take place" (vv. 27–28). God ordained Christ's suffering, but Herod, Pilate, and the Jews are still responsible for their sin. God uses human evil to accomplish His good—this is mystery, not contradiction.
+
+**Filled with the Spirit**
+The chapter twice mentions being "filled with the Holy Spirit" (vv. 8, 31). The first is Peter individually before the council; the second is all believers after prayer. Being filled with the Spirit is not a one-time experience but an ongoing need. Believers must continually be filled to boldly witness.
+
+**Unity of the Church**
+"The multitude of believers was of one heart and soul" (v. 32)—unity is not organizational uniformity but spiritual harmony. They shared common faith, common purpose, common love. This unity is the Spirit's work (Eph. 4:3), not human organization. Sharing possessions was love's natural outflow, not legal compulsion.`,
+    christShadow_zh: `**房角石的预言**
+诗篇118:22："匠人所弃的石头已成了房角的头块石头。"这是弥赛亚诗篇，预言基督被弃绝却被神高举。以赛亚书28:16也预言："看哪，我在锡安放一块石头作根基，是试验过的石头，是稳固根基，宝贵的房角石。"彼得宣告：你们弃绝的耶稣，就是神所立的房角石！
+
+**外邦人和君王的抵挡**
+诗篇2:1-2："外邦为什么争闹，万民为什么谋算虚妄的事？世上的君王一齐起来，臣宰一同商议，要敌挡耶和华并他的受膏者。"初代教会的祷告引用这段经文，说希律、彼拉多、外邦人、以色列民果然应验了这预言。旧约预言基督受害，新约记录应验。
+
+**神的救赎计划**
+使徒行传4章的重点不只是逼迫，而是神主权的成就。人的恶谋不能拦阻神的旨意，反而成就神的救赎计划。约瑟对哥哥们说："从前你们的意思是要害我，但神的意思原是好的"（创50:20）。十字架是人类最大的罪，也是神最大的爱。`,
+    christShadow_en: `**The Prophecy of the Cornerstone**
+Psalm 118:22: "The stone that the builders rejected has become the cornerstone." This is a Messianic psalm prophesying Christ's rejection and exaltation by God. Isaiah 28:16 also prophesies: "Behold, I am laying in Zion a stone, a tested stone, a precious cornerstone, of a sure foundation." Peter declares: The Jesus you rejected is the cornerstone God established!
+
+**The Opposition of Gentiles and Kings**
+Psalm 2:1–2: "Why do the nations rage and the peoples plot in vain? The kings of the earth set themselves, and the rulers take counsel together, against the LORD and against His Anointed." The early church's prayer quotes this passage, saying Herod, Pilate, Gentiles, and Israel fulfilled this prophecy. The Old Testament foretells Christ's suffering; the New Testament records its fulfillment.
+
+**God's Redemptive Plan**
+Acts 4's focus is not merely persecution but God's sovereign accomplishment. Human evil cannot thwart God's will but instead fulfills His redemptive plan. Joseph told his brothers: "You meant evil against me, but God meant it for good" (Gen. 50:20). The cross is humanity's greatest sin and God's greatest love.`,
   },
   {
     id: 'acts-5',
@@ -3418,16 +3956,162 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '路加',
     authorEn: 'Luke',
     publishDate: '2026-05-06',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `第5章记录了两个令人震撼的事件：亚拿尼亚和撒非喇欺哄圣灵被击杀，以及使徒被逼迫却喜乐。
+
+有一个人名叫亚拿尼亚，同他的妻子撒非喇卖了田产，把价银私自留下几分，他的妻子也知道，其余的几分拿来放在使徒脚前。这本身不是罪——巴拿巴卖了田地奉献，亚拿尼亚可以只奉献一部分。罪在于他们假冒为善，装作奉献全部，实际私自留下。
+
+彼得说："亚拿尼亚，为什么撒但充满了你的心，叫你欺哄圣灵，把田地的价银私自留下几分呢？田地还没有卖，不是你自己的吗？既卖了，价银不是你作主吗？你怎么心里起这意念呢？你不是欺哄人，是欺哄神了！"
+
+这段话显明几个真理：(1)财产权是神所赐的，没有人可以强制奉献；(2)欺哄教会就是欺哄圣灵，因为教会是圣灵的殿；(3)罪不是起于外在压力，而是起于人心。
+
+亚拿尼亚听见这话，就仆倒断了气。约过了三小时，他的妻子进来，还不知道这事。彼得试验她，她也说谎，同样仆倒断气。
+
+全教会和听见这事的人都甚惧怕。这是神圣洁的彰显。新约教会的开端，神用严厉的管教显明他的圣洁，就像旧约会幕建立时拿答、亚比户献凡火被击杀（利10章），迦南地征服时亚干取了当灭之物被处死（书7章）。这些审判不是常态，而是关键时刻神圣洁的警告。
+
+主藉使徒的手在民间行了许多神迹奇事。甚至有人将病人抬到街上，放在床上或褥子上，指望彼得过来的时候，或者得他的影儿照在什么人身上。还有许多人带着病人和被污鬼缠磨的，从耶路撒冷四围的城邑来，全都得了医治。
+
+这引发了第二次逼迫。大祭司和撒都该教门的人起来，满心忌恨，下手拿住使徒，收在外监。但主的使者夜间开了监门，领他们出来，说："你们去站在殿里，把这生命的道都讲给百姓听。"
+
+天亮时，大祭司差人到监里提使徒，却发现监牢关得极妥当，看守的人也站在门外，但里面一个人都不见！后来有人报告说使徒正在殿里教训百姓。守殿官就去带他们来，并没有用强暴，因为怕百姓用石头打他们。
+
+这次在公会受审，彼得和众使徒回答了那句千古名言："顺从神，不顺从人，是应当的。"
+
+你们挂在木头上杀害的耶稣，我们祖宗的神已经叫他复活。神且用右手将他高举，叫他作君王、作救主，将悔改的心和赦罪的恩赐给以色列人。我们为这事作见证，神赐给顺从之人的圣灵也为这事作见证。
+
+公会的人听见就极其恼怒，想要杀他们。但有一个法利赛人名叫迦玛列，是众百姓所敬重的教法师，他说了一番智慧的话。
+
+他举了两个例子：从前丢大起来自夸为大，附从他的约有四百人，他被杀后全都散了。后来报名上册时又有加利利的犹大起来，引诱些百姓，他也灭亡，附从他的也都四散了。
+
+然后迦玛列说："现在我劝你们不要管这些人，任凭他们吧！他们所谋的、所行的，若是出于人，必要败坏；若是出于神，你们就不能败坏他们，恐怕你们倒是攻击神了。"
+
+这是智慧的劝告——真理不怕考验。如果基督教是人造的宗教，必然会像其他运动一样消亡；如果是出于神，人无法拦阻。两千年历史证明：基督教不是出于人，而是出于神！
+
+公会听从了迦玛列，便叫使徒来，把他们打了，又吩咐他们不可奉耶稣的名讲道，就把他们释放了。
+
+他们离开公会，心里欢喜，因被算是配为这名受辱。他们就每日在殿里、在家里不住地教训人，传耶稣是基督。
+
+何等的反差！被打却欢喜，被禁止却不住传讲。这就是圣灵充满的生命——以受苦为喜乐，以羞辱为荣耀。`,
+    content_en: `Chapter 5 records two shocking events: Ananias and Sapphira struck dead for lying to the Holy Spirit, and the apostles persecuted yet rejoicing.
+
+A man named Ananias, with his wife Sapphira, sold property and brought part of the proceeds to the apostles, keeping back some for themselves with his wife's full knowledge. This was not sin in itself—Barnabas sold land and gave it all, but Ananias could give only part. The sin was hypocrisy: pretending to give all while secretly keeping some.
+
+Peter said: "Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back part of the proceeds? While it remained unsold, did it not remain your own? And after it was sold, was it not at your disposal? Why have you contrived this deed in your heart? You have not lied to man but to God!"
+
+This passage reveals several truths: (1) Property rights are God-given; no one can compel giving. (2) Lying to the church is lying to the Holy Spirit, for the church is the Spirit's temple. (3) Sin originates not from external pressure but from the human heart.
+
+When Ananias heard these words, he fell down and breathed his last. About three hours later, his wife came in, unaware of what had happened. Peter tested her; she also lied and likewise fell dead.
+
+Great fear came upon the whole church and all who heard. This was God's holiness manifested. At the church's beginning, God used severe discipline to display His holiness, just as in the Old Testament when the tabernacle was established and Nadab and Abihu were struck down for offering unauthorized fire (Lev. 10), or when Canaan was conquered and Achan was executed for taking devoted things (Josh. 7). These judgments are not the norm but warnings of God's holiness at critical moments.
+
+Through the apostles' hands, many signs and wonders were performed. People even carried the sick into the streets, hoping Peter's shadow might fall on some of them. Crowds from surrounding towns brought the sick and demon-possessed, and all were healed.
+
+This provoked a second persecution. The high priest and Sadducees, filled with jealousy, arrested the apostles and put them in the public prison. But an angel opened the prison doors at night, led them out, and said, "Go stand in the temple and speak to the people all the words of this Life."
+
+At daybreak, the high priest sent for them, but found the prison securely locked and guards at the doors, yet no one inside! Then someone reported the apostles were teaching in the temple. The captain brought them without violence, fearing the people would stone them.
+
+In this council trial, Peter and the apostles gave that immortal reply: "We must obey God rather than men."
+
+The God of our fathers raised Jesus, whom you killed by hanging Him on a tree. God exalted Him at His right hand as Leader and Savior, to give repentance to Israel and forgiveness of sins. We are witnesses to these things, and so is the Holy Spirit, whom God has given to those who obey Him.
+
+The council was enraged and wanted to kill them. But a Pharisee named Gamaliel, a teacher of the law honored by all, spoke wisely.
+
+He cited two examples: Theudas rose up claiming to be somebody, and about four hundred men joined him. He was killed, and all his followers dispersed. After him, Judas the Galilean rose up and led people astray. He too perished, and his followers scattered.
+
+Gamaliel said: "I tell you, keep away from these men and let them alone, for if this plan or this undertaking is of man, it will fail; but if it is of God, you will not be able to overthrow them. You might even be found opposing God!"
+
+This is wise counsel—truth fears no test. If Christianity were man-made, it would perish like other movements; if from God, man cannot stop it. Two thousand years of history prove: Christianity is not of man but of God!
+
+The council followed Gamaliel, called the apostles, beat them, charged them not to speak in Jesus' name, and released them.
+
+They left the council, rejoicing that they were counted worthy to suffer dishonor for the Name. Every day, in the temple and from house to house, they did not cease teaching and preaching that the Christ is Jesus.
+
+What a contrast! Beaten yet rejoicing, forbidden yet ceaselessly preaching. This is the Spirit-filled life—counting suffering as joy, shame as glory.`,
+    historyContext_zh: `亚拿尼亚事件发生的时间可能在主后30-33年之间，教会刚刚建立。凡物公用不是强制性的共产制度，而是爱心的自愿分享。巴拿巴卖田地奉献（4:36-37）是美好的榜样，可能引发亚拿尼亚夫妇的虚荣心——他们想得到同样的称赞，却不愿付出同样的代价。
+
+"撒但充满了你的心"（3节）——这不是说亚拿尼亚被鬼附，而是说他受撒但试探，让贪心和虚荣掌控了内心。犹大卖主也是"撒但入了他的心"（约13:27）。
+
+"欺哄圣灵"="欺哄神"（3-4节）——这明确显示圣灵的神性。圣灵不是一股能力，而是三位一体的第三位，是神自己。亵渎圣灵是不得赦免的罪（太12:31-32）。
+
+迦玛列（Gamaliel）是当时最著名的拉比之一，法利赛派的领袖，希勒学派（较自由派）的代表。使徒保罗曾在他门下受教（22:3）。他的学生走向两个极端：保罗成为外邦人的使徒，另一些人成为逼迫基督徒的激进分子。
+
+丢大和加利利的犹大都是犹太起义领袖。根据约瑟夫的记载，主后6年罗马进行人口普查征税时，加利利的犹大率众起义，结果失败。犹太历史上有许多自称弥赛亚的人，最终都归于无有。但耶稣的运动没有消亡，反而遍及全球——这证明基督教是出于神的。`,
+    historyContext_en: `The Ananias incident likely occurred around A.D. 30–33, shortly after the church's founding. Sharing possessions was not compulsory communism but voluntary love-sharing. Barnabas selling land and giving it (4:36–37) set a beautiful example, possibly triggering the vanity of Ananias and Sapphira—they wanted the same praise without the same sacrifice.
+
+"Satan filled your heart" (v. 3)—this does not mean Ananias was demon-possessed but that he yielded to Satan's temptation, letting greed and vanity control his heart. Judas' betrayal also involved "Satan entering him" (John 13:27).
+
+"Lie to the Holy Spirit" = "lie to God" (vv. 3–4)—this clearly demonstrates the Spirit's deity. The Holy Spirit is not a force but the third Person of the Trinity, God Himself. Blaspheming the Holy Spirit is the unforgivable sin (Matt. 12:31–32).
+
+Gamaliel was one of the most famous rabbis of the time, a Pharisee leader representing the school of Hillel (more liberal). Apostle Paul studied under him (22:3). His students went to extremes: Paul became the apostle to the Gentiles, while others became zealous persecutors of Christians.
+
+Theudas and Judas the Galilean were Jewish revolt leaders. According to Josephus, Judas led a rebellion around A.D. 6 during a Roman census for taxation, which failed. Jewish history saw many self-proclaimed messiahs who came to nothing. But Jesus' movement did not perish; it spread worldwide—proving Christianity is from God.`,
+    structure_zh: `本章分为三部分：
+
+**第一部分（1-11节）：亚拿尼亚和撒非喇**
+夫妻二人卖田产私自留下几分，却假装全部奉献。彼得揭穿他们欺哄圣灵，两人先后仆倒断气。全教会都甚惧怕。
+
+**第二部分（12-16节）：使徒行神迹**
+使徒行了许多神迹奇事，病人甚至盼望彼得的影儿照在身上。从四围城邑来的人全都得医治。
+
+**第三部分（17-42节）：使徒第二次受审**
+大祭司逮捕使徒下监，天使夜间释放他们。次日公会再次审问，彼得说"顺从神不顺从人"。迦玛列劝公会任凭他们，若出于神就不能败坏。使徒被打后欢喜，继续传道。
+
+全章对比：教会内部的罪（亚拿尼亚）vs 外部的逼迫（公会）——神都掌权，审判罪恶，保护见证人。`,
+    structure_en: `This chapter divides into three parts:
+
+**Part One (vv. 1–11): Ananias and Sapphira**
+The couple sell property, keep back part, but pretend to give all. Peter exposes their lie to the Holy Spirit; both fall dead. Great fear comes upon the church.
+
+**Part Two (vv. 12–16): The Apostles' Miracles**
+Many signs and wonders occur; people hope Peter's shadow will fall on the sick. All from surrounding towns are healed.
+
+**Part Three (vv. 17–42): The Apostles' Second Trial**
+The high priest imprisons the apostles; an angel releases them at night. The next day the council interrogates them again; Peter says, "We must obey God rather than men." Gamaliel advises leaving them alone—if from God, it cannot be stopped. The apostles are beaten, rejoice, and continue preaching.
+
+The chapter contrasts internal sin (Ananias) vs. external persecution (council)—God reigns over both, judges evil, protects witnesses.`,
+    theology_zh: `**教会纪律的必要性**
+亚拿尼亚事件显明教会纪律的重要。神是圣洁的，教会是圣洁的团体。罪若不对付，会像面酵一样发起来（林前5:6）。马太福音18章和哥林多前书5章都教导教会纪律的步骤。今日教会常常忽视纪律，导致罪恶蔓延。
+
+**圣灵的神性**
+"你不是欺哄人，是欺哄神了"（4节）——欺哄圣灵就是欺哄神，清楚显示圣灵是神。尼西亚信经和亚他那修信经都确认圣灵与父、子同等、同荣、同受敬拜。
+
+**顺服神的权柄**
+"顺从神，不顺从人，是应当的"（29节）——这不是无政府主义，而是确认神的权柄高于人的权柄。罗马书13章教导顺服掌权者，但当人的命令违背神的命令时，基督徒必须选择顺服神。改革宗传统重视"较小的官长论"（doctrine of the lesser magistrate）——下级官员有责任抵抗上级的不义命令。
+
+**神主权中的人的谋算**
+迦玛列的话是智慧的："若是出于神，你们就不能败坏他们"（39节）。人的筹算不能拦阻神的旨意（箴19:21，21:30）。历史上无数逼迫都没能消灭教会，反而使福音更广传——"殉道者的血是教会的种子"（特土良）。`,
+    theology_en: `**The Necessity of Church Discipline**
+The Ananias incident shows the importance of church discipline. God is holy; the church is a holy community. Unaddressed sin spreads like leaven (1 Cor. 5:6). Matthew 18 and 1 Corinthians 5 teach steps for church discipline. Today's church often neglects discipline, allowing sin to spread.
+
+**The Deity of the Holy Spirit**
+"You have not lied to man but to God" (v. 4)—lying to the Holy Spirit is lying to God, clearly showing the Spirit is God. The Nicene and Athanasian Creeds affirm the Spirit is equal with the Father and Son in glory and worship.
+
+**Obedience to God's Authority**
+"We must obey God rather than men" (v. 29)—this is not anarchism but affirming God's authority above human authority. Romans 13 teaches submission to authorities, but when human commands violate God's commands, Christians must choose to obey God. Reformed tradition values the "doctrine of the lesser magistrate"—lower officials have a duty to resist unjust commands from superiors.
+
+**Human Plans in God's Sovereignty**
+Gamaliel's words are wise: "If it is of God, you will not be able to overthrow them" (v. 39). Human schemes cannot thwart God's will (Prov. 19:21; 21:30). Countless persecutions throughout history have failed to destroy the church; instead, they spread the gospel—"The blood of the martyrs is the seed of the church" (Tertullian).`,
+    christShadow_zh: `**生命的道**
+天使说："把这生命的道都讲给百姓听"（20节）。"生命的道"指福音——这道使死人活过来（弗2:1-5）。约翰福音6:63："叫人活着的乃是灵，肉体是无益的。我对你们所说的话就是灵，就是生命。"旧约律法是死的字句，新约福音是活的生命。
+
+**君王和救主**
+"神且用右手将他高举，叫他作君王，作救主"（31节）。以赛亚书9:6预言："有一婴孩为我们而生，有一子赐给我们，政权必担在他的肩头上。他名称为奇妙策士、全能的神、永在的父、和平的君。"耶稣是君王——掌管万有；是救主——拯救罪人。
+
+**为主名受辱的荣耀**
+使徒"因被算是配为这名受辱"而欢喜（41节）。彼得前书4:14："你们若为基督的名受辱骂，便是有福的，因为神荣耀的灵常住在你们身上。"主在登山宝训中说："为义受逼迫的人有福了"（太5:10）。旧约约瑟、但以理、耶利米都因神的名受苦；使徒继承这荣耀的传统。
+
+**顺服带来圣灵**
+"神赐给顺从之人的圣灵"（32节）。这不是说顺服是得圣灵的条件——五旬节的门徒是先领受圣灵，然后才有能力顺服。但圣灵持续的同在与信徒的顺服密切相关。以弗所书4:30："不要叫神的圣灵担忧。"`,
+    christShadow_en: `**The Word of Life**
+The angel said: "Speak to the people all the words of this Life" (v. 20). "The word of this Life" is the gospel—it makes the dead alive (Eph. 2:1–5). John 6:63: "It is the Spirit who gives life; the flesh is no help at all. The words that I have spoken to you are spirit and life." Old Testament law is dead letter; New Covenant gospel is living life.
+
+**Leader and Savior**
+"God exalted Him at His right hand as Leader and Savior" (v. 31). Isaiah 9:6 prophesies: "For to us a child is born…and the government shall be upon His shoulder, and His name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace." Jesus is Leader—ruling over all; Savior—redeeming sinners.
+
+**The Glory of Suffering for His Name**
+The apostles rejoiced "that they were counted worthy to suffer dishonor for the Name" (v. 41). 1 Peter 4:14: "If you are insulted for the name of Christ, you are blessed, because the Spirit of glory and of God rests upon you." The Lord said in the Sermon on the Mount: "Blessed are those who are persecuted for righteousness' sake" (Matt. 5:10). Old Testament Joseph, Daniel, and Jeremiah suffered for God's name; the apostles inherit this glorious tradition.
+
+**The Spirit Given to Those Who Obey**
+"The Holy Spirit, whom God has given to those who obey Him" (v. 32). This does not mean obedience is the condition for receiving the Spirit—Pentecost disciples received the Spirit first, then had power to obey. But the Spirit's continued presence is closely related to believers' obedience. Ephesians 4:30: "Do not grieve the Holy Spirit of God."`,
   },
   {
     id: 'acts-6',
@@ -3439,16 +4123,124 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '路加',
     authorEn: 'Luke',
     publishDate: '2026-05-07',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `我是路加，医生，也是保罗弟兄的同工。今天让我向你讲述耶路撒冷教会成长中的第一次危机，以及神如何兴起司提反这位满有信心和圣灵的执事。
+
+那时，门徒的数目不断增多，教会从五旬节的三千人，到后来的五千男丁，如今更是日日加增。但在这属灵复兴的背后，却出现了一个实际的问题——说希利尼话的犹太人向希伯来人发怨言，因为在天天的供给上忽略了他们的寡妇。
+
+这并非简单的行政失误。教会中有两种犹太基督徒：说希伯来话的本地犹太人，和说希利尼话的散居归回犹太人。语言和文化的差异，加上日常事务的繁忙，使得一些说希利尼话的寡妇在每日的分配中被忽略了。这个问题若不妥善处理，可能会在教会中造成分裂。
+
+十二使徒召集众门徒，展现了属灵的智慧。他们并非轻看供给寡妇的事——事实上，照顾寡妇一直是神的心意，是律法和先知反复强调的。但他们清楚自己从主领受的主要呼召：专心以祈祷、传道为事。于是他们提出解决方案：从众人中选出七个有好名声、被圣灵充满、智慧充足的人，来管理这事。
+
+请注意这七个人的资格：不仅要有好名声（外在的见证），更要被圣灵充满（内在的生命），还要智慧充足（处理事务的能力）。真正的服事不是靠人的热心，而是靠圣灵的充满和从神而来的智慧。
+
+大众都喜悦这话。这表明他们的心是合一的，愿意顺服属灵的权柄，也愿意信任这七个人。于是他们拣选了司提反——这个名字你要记住，因为他将成为教会历史上第一位殉道者。经文特别说他"大有信心、圣灵充满"。其他六位是腓利（后来被称为传福音的腓利）、伯罗哥罗、尼迦挪、提门、巴米拿，以及进犹太教的安提阿人尼哥拉。
+
+使徒为他们按手祷告，这是一个庄严的差派礼。按手不是赋予他们某种魔力，而是公开认证他们的呼召，并为他们祈求神的恩典和能力。这也显示了初代教会的秩序：虽然人人都是祭司，但具体的职分是经过祷告认证、公开设立的。
+
+结果如何？神的道兴旺起来！在耶路撒冷门徒数目加增的甚多，甚至有许多祭司信从了这道。祭司本是最抵挡福音的群体，如今连他们也被圣灵感动，承认耶稣是基督。这显明当教会内部合一、次序井然时，福音的大能就能更有力地彰显出来。
+
+然而，司提反的服事并不限于管理饭食。经文说他"满得恩惠、能力，在民间行了大奇事和神迹"。这提醒我们：被选来"管理饭食"的人，仍然可以满有圣灵的恩赐和能力。在神的国度里，没有"属灵"与"属世"的二分法——忠心管理饭食的人，神也会使用他行大能的神迹。
+
+但光照越大，黑暗的反扑就越猛烈。有几个会堂的人起来和司提反辩论——利百地拿会堂（可能是罗马获释奴隶的会堂）、古利奈人、亚力山太人、基利家人、亚西亚人的会堂。这些都是说希利尼话的犹太人，可能与司提反同一背景，因此对他的"背叛"更加愤怒。
+
+他们辩论，却敌挡不住司提反的智慧和圣灵。真理的光辉无法被遮蔽。于是他们采用了古老而卑劣的手段——买假见证人，控告司提反说谤讟摩西和神的话，说他讲论耶稣要毁坏圣殿、改变摩西的规条。
+
+这些控告似曾相识——当年他们也是这样控告耶稣的。主的仆人不能高过主人；如果他们逼迫了主，也必定会逼迫跟随主的人。但在这场审判中，神的荣耀却彰显出来：在公会里坐着的人都定睛看司提反，见他的面貌好像天使的面貌。
+
+当世界充满仇恨和谎言时，被圣灵充满的人脸上却反照出天上的荣光。这是神给他子民的印记，是世界无法夺去的荣美。司提反即将面对死亡，但神已经在他身上彰显了得胜。
+
+弟兄姊妹，这一章提醒我们：教会的成长必然伴随着挑战。内部的分歧、事务的繁杂、外来的逼迫，都是我们要面对的现实。但神有他的智慧：设立合适的同工，各尽其职；依靠圣灵的充满，而非人的血气；在逼迫中持守真道，反映基督的荣美。愿我们都像司提反一样，满有信心、被圣灵充满，在各样的服事中忠心到底。`,
+    content_en: `I am Luke, a physician and fellow worker with brother Paul. Today let me tell you about the first crisis in the growth of the Jerusalem church, and how God raised up Stephen, a deacon full of faith and the Holy Spirit.
+
+At that time, the number of disciples was increasing daily—from three thousand at Pentecost, to five thousand men, and now growing day by day. But behind this spiritual revival, a practical problem emerged: the Hellenistic Jews complained against the Hebraic Jews because their widows were being overlooked in the daily distribution.
+
+This was not a simple administrative error. The church had two types of Jewish Christians: Hebrew-speaking local Jews and Greek-speaking diaspora Jews who had returned. Language and cultural differences, combined with the busyness of daily affairs, caused some Hellenistic widows to be neglected in the daily distribution. If not properly handled, this problem could have caused division in the church.
+
+The twelve apostles gathered the disciples and displayed spiritual wisdom. They did not despise the ministry of serving widows—in fact, caring for widows has always been God's heart, repeatedly emphasized in the Law and Prophets. But they were clear about their primary calling from the Lord: to devote themselves to prayer and the ministry of the word. So they proposed a solution: choose seven men from among you who are known to be full of the Spirit and wisdom to handle this matter.
+
+Note the qualifications of these seven: they must have a good reputation (external witness), be full of the Holy Spirit (internal life), and be full of wisdom (ability to handle affairs). True ministry is not based on human zeal, but on being filled with the Spirit and wisdom from God.
+
+The whole group was pleased with this proposal. This showed their hearts were united, willing to submit to spiritual authority and trust these seven men. So they chose Stephen—remember this name, for he will become the first martyr in church history. Scripture specifically says he was "a man full of faith and of the Holy Spirit." The other six were Philip (later called Philip the Evangelist), Procorus, Nicanor, Timon, Parmenas, and Nicolas, a proselyte from Antioch.
+
+The apostles laid hands on them and prayed—a solemn commissioning ceremony. Laying on of hands did not impart some magical power, but publicly recognized their calling and sought God's grace and power for them. This also shows the order of the early church: though all are priests, specific offices were established through prayer, recognition, and public appointment.
+
+The result? The word of God increased! The number of disciples in Jerusalem multiplied greatly, and even a great many of the priests became obedient to the faith. Priests were the group most opposed to the gospel, yet now even they were moved by the Holy Spirit to acknowledge Jesus as the Christ. This demonstrates that when the church is internally united and orderly, the power of the gospel can be displayed more forcefully.
+
+However, Stephen's ministry was not limited to managing food distribution. Scripture says he was "full of grace and power, doing great wonders and signs among the people." This reminds us that those chosen to "serve tables" can still be full of the Spirit's gifts and power. In God's kingdom, there is no dichotomy between "spiritual" and "secular"—those faithful in managing food can also be used by God to perform mighty miracles.
+
+But the greater the light, the more fierce the darkness's counterattack. Men from several synagogues rose up to dispute with Stephen—the Synagogue of Freedmen (possibly of freed Roman slaves), Cyrenians, Alexandrians, Cilicians, and Asians. These were all Greek-speaking Jews, possibly from the same background as Stephen, and thus even more angry at his "betrayal."
+
+They disputed with him, but could not withstand the wisdom and the Spirit with which he spoke. The light of truth cannot be covered. So they resorted to an ancient and despicable tactic—hiring false witnesses to accuse Stephen of speaking blasphemy against Moses and God, saying he spoke against the temple and claimed Jesus would destroy it and change Moses' customs.
+
+These charges sound familiar—they made similar accusations against Jesus. A servant is not greater than his master; if they persecuted the Lord, they will certainly persecute those who follow him. But in this trial, God's glory was revealed: all who sat in the council fixed their eyes on Stephen and saw that his face was like the face of an angel.
+
+When the world is full of hatred and lies, the face of one filled with the Holy Spirit reflects the glory of heaven. This is the seal God gives his people, a beauty the world cannot take away. Stephen was about to face death, but God had already displayed victory through him.
+
+Brothers and sisters, this chapter reminds us that church growth inevitably brings challenges. Internal differences, administrative complexities, external persecution—these are all realities we must face. But God has his wisdom: appoint suitable workers, each fulfilling their role; depend on the filling of the Spirit, not human effort; maintain the true way in persecution, reflecting Christ's glory. May we all be like Stephen—full of faith, filled with the Holy Spirit, faithful to the end in all ministry.`,
+    historyContext_zh: `使徒行传第6章的历史背景是公元30年代初期的耶路撒冷教会，此时距离五旬节圣灵降临可能已有一到两年时间。教会人数从最初的三千人增长到至少八千人（五千男丁加上妇女儿童），这种快速增长给教会管理带来前所未有的挑战。
+
+当时耶路撒冷的犹太社群分为两大类：说希伯来话/亚兰语的本地犹太人，以及说希利尼话（希腊语）的散居归回犹太人。后者来自地中海各地，在希腊化文化中长大，虽然敬虔地回到圣城，但语言和文化上与本地人有明显差异。这种张力在日常生活中很容易转化为摩擦，特别是在资源分配方面。
+
+教会实行"凡物公用"的生活方式，每日需要供应大量寡妇（古代社会最脆弱的群体之一）的需要。管理如此庞大的慈善系统，即使在今天也是一项艰巨的任务，更何况在没有现代行政系统的古代。设立七执事的决定，显示初代教会在圣灵的引导下，开始发展出教会治理的雏形。
+
+司提反作为七执事之首，可能与使徒保罗（扫罗）有相似背景——都是说希利尼话、受过良好教育的犹太人。他在各希腊语会堂中的辩论，以及随后的逼迫，预示着福音将突破犹太人的界限，走向外邦世界。祭司信主的现象也极为重要，显示福音甚至渗透到最保守的宗教阶层。这一切都发生在大逼迫（第8章）爆发之前，是暴风雨前短暂的平静。`,
+    historyContext_en: `The historical context of Acts 6 is the Jerusalem church in the early 30s AD, possibly one to two years after Pentecost when the Holy Spirit descended. The church had grown from the initial three thousand to at least eight thousand people (five thousand men plus women and children), bringing unprecedented administrative challenges.
+
+The Jewish community in Jerusalem was divided into two major groups: Hebrew/Aramaic-speaking local Jews and Greek-speaking diaspora Jews who had returned. The latter came from throughout the Mediterranean, grew up in Hellenistic culture, and though devoutly returning to the holy city, had clear linguistic and cultural differences from the locals. This tension could easily turn into friction in daily life, especially regarding resource distribution.
+
+The church practiced "holding all things in common," requiring daily provision for numerous widows (one of the most vulnerable groups in ancient society). Managing such a massive charitable system would be daunting even today, much more so in antiquity without modern administrative systems. The decision to establish seven deacons shows that the early church, under the Spirit's guidance, began developing a framework for church governance.
+
+Stephen, as chief among the seven deacons, likely shared a similar background with the apostle Paul (Saul)—both were Greek-speaking, well-educated Jews. His debates in the Greek-speaking synagogues and subsequent persecution foreshadowed how the gospel would break through Jewish boundaries to reach the Gentile world. The phenomenon of priests believing is also extremely important, showing the gospel penetrating even the most conservative religious strata. All this occurred before the great persecution (chapter 8), the calm before the storm.`,
+    structure_zh: `使徒行传第6章的结构可分为三个清晰的段落：教会的危机（1-4节）、解决方案的实施（5-7节）、以及司提反的事奉与受敌对（8-15节）。
+
+第一段（1-4节）以问题陈述开始："有发怨言的"，直接点明矛盾。使徒的回应显示出属灵的优先次序："我们要专心以祈祷、传道为事"，这句话成为后世教会分工的神学基础。使徒并非逃避责任，而是认识到呼召的焦点。
+
+第二段（5-7节）记录了解决过程：众人喜悦、选出七人、使徒按手、神的道兴旺。这个段落的高潮是第7节的三重果效：神的道兴旺、门徒数目大大加增、甚至祭司信主。这显示当教会以合乎圣经的方式处理内部问题时，就能释放出更大的福音能力。
+
+第三段（8-15节）聚焦司提反。8-10节描述他的恩赐和服事，11-14节记录敌人的控告，15节则是戏剧性的转折——众人看见他面貌如天使。这个段落的结构呼应耶稣受审：假见证、宗教领袖的敌意、关于圣殿的指控。作者路加有意将司提反塑造为基督的真门徒，连受苦的模式都效法主。
+
+整章的叙事节奏是从教会内部的实际问题，过渡到属灵争战的外部冲突，显示教会生活的两个维度：团契中的彼此服事，以及世界中的见证与争战。七执事的设立解决了前者，司提反的殉道（将在第7章完成）则展现了后者。`,
+    structure_en: `Acts 6 can be divided into three clear sections: the church's crisis (vv.1-4), implementation of the solution (vv.5-7), and Stephen's ministry and opposition (vv.8-15).
+
+The first section (vv.1-4) begins with the problem statement: "there arose a complaint," directly identifying the conflict. The apostles' response shows spiritual priorities: "we will devote ourselves to prayer and to the ministry of the word"—a statement that became the theological foundation for church division of labor. The apostles were not evading responsibility but recognizing the focus of their calling.
+
+The second section (vv.5-7) records the solution process: the people were pleased, seven were chosen, the apostles laid hands on them, and God's word increased. The climax of this passage is verse 7's threefold effect: the word of God increased, disciples multiplied greatly, and even priests believed. This shows that when the church handles internal problems biblically, greater gospel power is released.
+
+The third section (vv.8-15) focuses on Stephen. Verses 8-10 describe his gifts and ministry, verses 11-14 record the enemy's accusations, and verse 15 is the dramatic turn—all saw his face was like an angel's. This section's structure echoes Jesus' trial: false witnesses, hostility from religious leaders, accusations about the temple. Luke intentionally portrays Stephen as Christ's true disciple, even following the pattern of his Master's suffering.
+
+The chapter's narrative rhythm moves from the church's internal practical problems to external spiritual warfare, showing two dimensions of church life: mutual service in fellowship and witness and warfare in the world. The establishment of the seven deacons solved the former; Stephen's martyrdom (completed in chapter 7) demonstrates the latter.`,
+    theology_zh: `使徒行传第6章包含多个重要的改革宗神学主题。首先是教会治理的神学：神设立不同的职分（使徒、执事），各有其独特的呼召和功能。使徒专注于祷告和话语的职事，执事管理实际事务，这不是高低之分，而是恩赐和呼召的不同。改革宗传统强调多元的职分制度，反对天主教的等级制度，也反对极端平等主义的混乱。
+
+其次是圣灵充满的神学。七执事必须"被圣灵充满"，这不是偶然的要求。管理饭食不是"属世"的工作，而是属灵的服事，因为是为基督的身体服务。改革宗神学拒绝圣俗二分，相信所有蒙召的工作都是神圣的，只要是在基督里、靠圣灵而行。
+
+第三是教会合一的神学。希利尼话犹太人和希伯来人之间的张力，预示后来犹太人与外邦人之间更大的冲突（第15章耶路撒冷大会）。但合一不是忽视差异，而是在基督里超越差异。设立七执事（全部都是希腊名字，可能都是希利尼人）显示使徒团体的公义和谦卑。
+
+第四是殉道神学的萌芽。司提反的面貌如天使，预示了他即将的殉道。改革宗传统继承了初代教会的殉道观：教会是在逼迫中成长的，殉道者的血是福音的种子。神允许他的子民受苦，不是因为他软弱，而是要在软弱中彰显他的荣耀，使福音传得更广。司提反的死将直接导致教会分散，福音传到撒玛利亚和外邦世界。`,
+    theology_en: `Acts 6 contains several important Reformed theological themes. First is the theology of church government: God establishes different offices (apostles, deacons), each with unique callings and functions. Apostles focus on prayer and the ministry of the word, deacons manage practical affairs—not a hierarchy, but different gifts and callings. Reformed tradition emphasizes multiple office systems, rejecting both Catholic hierarchy and extreme egalitarian chaos.
+
+Second is the theology of Spirit-filling. The seven deacons must be "full of the Spirit"—not an accidental requirement. Managing food distribution is not "secular" work but spiritual ministry, because it serves Christ's body. Reformed theology rejects the sacred-secular divide, believing all vocational work is holy when done in Christ and by the Spirit.
+
+Third is the theology of church unity. The tension between Greek-speaking Jews and Hebrew-speaking Jews foreshadows the later, greater conflict between Jews and Gentiles (Jerusalem Council in chapter 15). But unity is not ignoring differences; it is transcending them in Christ. The appointment of seven deacons (all with Greek names, likely all Hellenists) shows the apostolic community's justice and humility.
+
+Fourth is the embryo of martyrdom theology. Stephen's face like an angel's foreshadows his impending martyrdom. Reformed tradition inherited the early church's view of martyrdom: the church grows through persecution, the blood of martyrs is the seed of the gospel. God allows his people to suffer not because he is weak, but to manifest his glory through weakness, spreading the gospel further. Stephen's death will directly cause the church's dispersion, taking the gospel to Samaria and the Gentile world.`,
+    christShadow_zh: `使徒行传第6章充满了基督的预表和影子。首先，七执事的设立预表基督作为教会的仆人。耶稣说："人子来，不是要受人的服事，乃是要服事人"（马太福音20:28）。这七个人被选来"服事饭桌"（希腊文diakonein，即执事/服事），正如基督降卑自己，取了奴仆的形像。真正的属灵权柄不是辖制，而是服事。
+
+其次，司提反是基督受难的预表。他被假见证控告，正如基督在公会前被诬陷；他被指控反对圣殿和律法，正如基督被控"要拆毁神的殿"；他的面貌如天使，正如基督在登山变像时面貌发光。这些平行不是巧合，而是显明跟随基督的人必然经历与他类似的道路——从荣耀到羞辱，从被拥戴到被弃绝，从生命到死亡，最终到复活的荣耀。
+
+第三，司提反"满得恩惠、能力"，预表基督的丰盛恩典。约翰福音1:14说基督"道成了肉身，住在我们中间，充充满满的有恩典有真理"。司提反身上彰显的恩典和能力，源头都在基督里。他行的神迹，是奉基督的名；他说话的智慧，是基督的灵在他里面说话。
+
+第四，众人定睛看司提反，看见他面貌如天使，预表将来所有信徒都要变成主的形状，荣上加荣（哥林多后书3:18）。司提反脸上的荣光，是反照基督荣光的结果。这荣光不是司提反自己的，而是基督的灵在他身上的彰显。这预示着教会最终的命运：我们这些卑微的罪人，将要在基督里被改变，完全像他。
+
+最后，司提反的故事提醒我们：基督的受苦不是孤立事件，而是他子民必走的道路。"学生不能高过先生，仆人不能高过主人"（马太福音10:24）。但主也应许："在世上你们有苦难，但你们可以放心，我已经胜了世界"（约翰福音16:33）。司提反的面貌如天使，显明他已经支取了这个得胜。`,
+    christShadow_en: `Acts 6 is full of types and shadows of Christ. First, the establishment of the seven deacons prefigures Christ as the church's servant. Jesus said, "The Son of Man came not to be served but to serve" (Matthew 20:28). These seven were chosen to "serve tables" (Greek diakonein, meaning to deacon/serve), just as Christ humbled himself and took the form of a servant. True spiritual authority is not domination but service.
+
+Second, Stephen is a type of Christ's passion. He was accused by false witnesses, as Christ was falsely charged before the council; he was accused of opposing the temple and law, as Christ was charged with "destroying God's temple"; his face was like an angel's, as Christ's face shone at the transfiguration. These parallels are not coincidental but show that followers of Christ must experience a similar path—from glory to shame, from acclaim to rejection, from life to death, and ultimately to resurrection glory.
+
+Third, Stephen was "full of grace and power," prefiguring Christ's abundant grace. John 1:14 says Christ became flesh "and dwelt among us, full of grace and truth." The grace and power manifested in Stephen all have their source in Christ. The miracles he performed were in Christ's name; the wisdom with which he spoke was Christ's Spirit speaking through him.
+
+Fourth, all fixed their eyes on Stephen and saw his face like an angel's, prefiguring how all believers will be transformed into the Lord's image, from glory to glory (2 Corinthians 3:18). The glory on Stephen's face was the result of reflecting Christ's glory. This glory was not Stephen's own but the manifestation of Christ's Spirit upon him. This foreshadows the church's ultimate destiny: we humble sinners will be transformed in Christ to be completely like him.
+
+Finally, Stephen's story reminds us that Christ's suffering is not an isolated event but the path his people must walk. "A disciple is not above his teacher, nor a servant above his master" (Matthew 10:24). But the Lord also promised, "In the world you will have tribulation. But take heart; I have overcome the world" (John 16:33). Stephen's angelic face shows he had already laid hold of this victory.`,
   },
   {
     id: 'acts-7',
@@ -3460,16 +4252,132 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '路加',
     authorEn: 'Luke',
     publishDate: '2026-05-08',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `这是我路加所记载的最长的一篇讲道——司提反在公会前的辩护，也是他生命的最后见证。当大祭司问他"这些事果然有么"时，司提反没有直接回答控告，而是讲述了以色列整个救赎历史，从亚伯拉罕到所罗门，揭示一个贯穿始终的主题：以色列人一直在抗拒神的带领，拒绝神所差来的拯救者。
+
+司提反从亚伯拉罕开始。当亚伯拉罕还在米所波大米、未住哈兰时，荣耀的神向他显现，呼召他离开本地和亲族。这是关键：神在圣地之外、圣殿建立之前就与人同在。神不受地理限制，他拣选人的主权不依赖任何建筑物。神应许将迦南地赐给亚伯拉罕为业，但那时他连立足之地也没有，甚至还没有儿子。神的应许看似荒谬，却最终应验。
+
+神预言亚伯拉罕的后裔要在外邦寄居四百年，作奴仆受苦待，但神要惩罚那奴役他们的国，之后他们要出来事奉神。这预示出埃及的历史。神又赐下割礼的约，于是亚伯拉罕生以撒，以撒生雅各,雅各生十二位先祖——以色列十二支派的源头。
+
+接着司提反讲到约瑟。先祖因嫉妒把约瑟卖到埃及，这是兄弟之间的第一次拒绝。但神与约瑟同在，救他脱离一切苦难，使他在法老面前得恩典,被立为埃及的宰相。后来饥荒来临，雅各打发众子去埃及籴粮。第二次约瑟与弟兄们相认——注意"第二次"这个词,司提反在强调一个模式：神的拯救者第一次被拒绝,但神仍然成就救赎。
+
+然后是摩西的故事，司提反花了最多篇幅在这里。摩西生来俊美非凡,被法老女儿收养,学了埃及人一切的学问,说话行事都有才能。四十岁时他想拯救以色列人，打死了一个欺压希伯来人的埃及人。他以为弟兄必明白神是藉他的手搭救他们——但他们不明白。第二天他想劝两个以色列人和睦,反被质问："谁立你作我们的首领和审判官？"
+
+这是第二次拒绝。摩西逃到米甸旷野，在那里四十年。直到神在西奈山的荆棘火焰中向他显现,差遣他回埃及。这摩西——就是百姓弃绝说"谁立你作我们的首领"的那位——神却藉他行了大能的神迹，领百姓出埃及、过红海、在旷野四十年。摩西还预言说："神要从你们弟兄中间给你们兴起一位先知像我"——这直指基督。
+
+但以色列人在旷野如何对待摩西？他们不肯听从,反弃绝他,心里归向埃及,造金牛犊，向偶像献祭。神就任凭他们事奉天上的日月星辰。司提反引用先知阿摩司的话：你们在旷野四十年，岂是将祭物献给我么？你们抬着摩洛的帐幕和理番神的星——因此我要把你们迁到巴比伦外去。
+
+即使有神同在的帐幕、约柜，以色列人仍然悖逆。他们把帐幕带进迦南，存到大卫的日子。大卫祈求为神预备居所，所罗门为神造成殿宇。但司提反引用以赛亚书说："其实至高者并不住人手所造的。天是我的座位，地是我的脚凳，你们要为我造何等的殿宇？那里是我安息的地方？这一切不都是我手所造的么？"
+
+这就是司提反讲道的核心：你们以为神被限制在圣殿里，以为靠外在的宗教仪式就能讨神喜悦，但你们的祖宗一直在抗拒圣灵！你们硬着颈项、心与耳未受割礼，常时抗拒圣灵，像你们祖宗一样。那一个先知不是你们祖宗逼迫的呢？他们把预言那义者要来的人杀了；如今你们又把那义者卖了、杀了。
+
+这些话如刀刺入公会众人的心。他们极其恼怒，向司提反咬牙切齿。但司提反被圣灵充满，定睛望天，看见神的荣耀，又看见耶稣站在神的右边。他说："我看见天开了，人子站在神的右边！"
+
+耶稣为他的见证人站立！通常经文说基督是坐在父的右边，但此刻他站起来，迎接他第一位殉道者。众人大声喊叫,摀着耳朵,齐心拥上去,把司提反推到城外，用石头打他。作见证的人把衣裳放在一个少年人脚前——他名叫扫罗，日后要成为外邦人的使徒保罗。
+
+他们正用石头打的时候，司提反呼吁说："求主耶稣接收我的灵魂！"又跪下大声喊着："主啊，不要将这罪归于他们！"说了这话就睡了——圣经用"睡了"这个温柔的词形容他的死亡。司提反的最后两句话几乎是耶稣在十字架上祷告的翻版："父啊，我将我的灵魂交在你手里"和"父啊，赦免他们，因为他们所做的他们不知道"。
+
+弟兄姊妹，司提反的殉道不是悲剧，而是荣耀的见证。他看见天开了，看见人子站在神的右边。他完全效法基督，甚至在死亡中也彰显基督赦免的爱。而那个看守衣裳、喜悦他被害的扫罗，不久之后也要在大马士革的路上遇见这位复活的主，生命被完全翻转。神的道路高过人的道路——殉道者的血成为福音的种子，教会的分散成为福音广传的起点。`,
+    content_en: `This is the longest sermon I, Luke, recorded—Stephen's defense before the council, and his final witness. When the high priest asked, "Are these things so?" Stephen did not directly answer the charges but recounted Israel's entire redemption history from Abraham to Solomon, revealing a theme running throughout: Israel had always resisted God's guidance and rejected the deliverers God sent.
+
+Stephen began with Abraham. When Abraham was still in Mesopotamia, before living in Haran, the God of glory appeared to him, calling him to leave his land and kindred. This is key: God was present with people outside the holy land, before the temple was built. God is not geographically limited; his sovereign choice of people does not depend on any building. God promised to give Canaan to Abraham as an inheritance, but at that time he had not even a foothold, nor even a son. God's promise seemed absurd, yet it was ultimately fulfilled.
+
+God predicted Abraham's descendants would sojourn in a foreign land for four hundred years, serving as slaves and suffering mistreatment, but God would judge the nation they served, and afterward they would come out to worship him. This foreshadowed the Exodus. God also gave the covenant of circumcision, so Abraham fathered Isaac, Isaac fathered Jacob, and Jacob fathered the twelve patriarchs—the source of Israel's twelve tribes.
+
+Then Stephen spoke of Joseph. The patriarchs, jealous of Joseph, sold him into Egypt—the first rejection between brothers. But God was with Joseph, rescued him from all his afflictions, and gave him favor before Pharaoh, who made him governor over Egypt. Later when famine came, Jacob sent his sons to Egypt to buy grain. The second time, Joseph made himself known to his brothers—note the phrase "the second time"; Stephen was emphasizing a pattern: God's deliverer is first rejected, but God still accomplishes redemption.
+
+Then came Moses' story, where Stephen spent the most time. Moses was born beautiful, adopted by Pharaoh's daughter, educated in all Egyptian wisdom, mighty in words and deeds. At forty, he wanted to deliver Israel, killing an Egyptian who oppressed a Hebrew. He supposed his brothers would understand that God was giving them deliverance by his hand—but they did not understand. The next day he tried to reconcile two Israelites, but was questioned, "Who made you a ruler and judge over us?"
+
+This was the second rejection. Moses fled to Midian's wilderness for forty years, until God appeared to him in the burning bush at Mount Sinai, sending him back to Egypt. This Moses—whom the people rejected saying "Who made you a ruler?"—God used to perform mighty miracles, leading the people out of Egypt, through the Red Sea, for forty years in the wilderness. Moses also prophesied, "God will raise up for you a prophet like me from your brothers"—directly pointing to Christ.
+
+But how did Israel treat Moses in the wilderness? They refused to obey, rejected him, turned their hearts to Egypt, made the golden calf, and offered sacrifice to the idol. So God gave them over to worship the host of heaven. Stephen quoted the prophet Amos: "Did you bring to me sacrifices and offerings during the forty years in the wilderness? You took up the tent of Moloch and the star of your god Rephan—therefore I will send you into exile beyond Babylon."
+
+Even with God's tabernacle and ark present, Israel remained rebellious. They brought the tabernacle into Canaan, preserved until David's time. David asked to find a dwelling for God, and Solomon built him a house. But Stephen quoted Isaiah: "Yet the Most High does not dwell in houses made by hands. 'Heaven is my throne, and the earth is my footstool. What kind of house will you build for me? Or what is the place of my rest? Did not my hand make all these things?'"
+
+This was the core of Stephen's sermon: You think God is confined to the temple, that you can please him through external religious rituals, but your fathers have always resisted the Holy Spirit! You stiff-necked people, uncircumcised in heart and ears, you always resist the Holy Spirit, as your fathers did. Which of the prophets did your fathers not persecute? They killed those who announced the coming of the Righteous One; and now you have become his betrayers and murderers.
+
+These words pierced the hearts of the council. They were enraged and ground their teeth at him. But Stephen, full of the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at the right hand of God. He said, "Behold, I see the heavens opened, and the Son of Man standing at the right hand of God!"
+
+Jesus stood for his witness! Scripture usually says Christ sits at the Father's right hand, but at this moment he stood to welcome his first martyr. They cried out with a loud voice, stopped their ears, rushed together upon him, dragged him out of the city, and stoned him. The witnesses laid down their garments at the feet of a young man named Saul—who would later become Paul, the apostle to the Gentiles.
+
+As they were stoning him, Stephen called out, "Lord Jesus, receive my spirit!" Then he fell to his knees and cried with a loud voice, "Lord, do not hold this sin against them!" And when he had said this, he fell asleep—Scripture uses this gentle word to describe his death. Stephen's final two sentences almost mirror Jesus' prayers on the cross: "Father, into your hands I commit my spirit" and "Father, forgive them, for they know not what they do."
+
+Brothers and sisters, Stephen's martyrdom was not tragedy but glorious witness. He saw heaven opened, saw the Son of Man standing at God's right hand. He completely followed Christ, even in death manifesting Christ's forgiving love. And that Saul, who guarded the garments and approved his execution, would soon meet the risen Lord on the Damascus road, his life completely transformed. God's ways are higher than man's ways—the blood of martyrs became the seed of the gospel, the church's dispersion became the starting point for gospel spread.`,
+    historyContext_zh: `使徒行传第7章记载的司提反殉道，可能发生在公元33-35年间，是基督教历史上第一次有记录的殉道事件。当时罗马帝国治下的犹太公会有一定的司法自治权，但死刑判决理论上需要罗马总督批准（如耶稣受审）。司提反被石头打死是按照律法对亵渎神者的处决方式（利未记24:16），但从过程看，这更像是一场失控的私刑而非正式审判。
+
+司提反的讲道展现了高度的希腊化犹太教教育背景。他对旧约历史的梳理、对七十士译本的熟悉（他引用的某些细节来自七十士译本而非希伯来文圣经）、以及他辩论的风格，都显示他可能受过类似保罗那样的良好教育。他在会堂中的辩论对手也都是希腊语系的犹太人，这预示着福音最终将突破犹太文化的界限。
+
+从历史影响看，司提反的殉道是一个转折点。他的死直接引发了耶路撒冷教会的大逼迫（8:1），迫使信徒分散到犹太、撒玛利亚各处，无意中完成了耶稣在使徒行传1:8的大使命："你们要在耶路撒冷、犹太全地和撒玛利亚，直到地极，作我的见证。"更重要的是，见证司提反之死的扫罗深受震撼，这成为他后来归主的伏笔。
+
+司提反的神学核心——神不受圣殿限制、以色列历史是不断拒绝神的历史——为后来保罗的外邦宣教提供了神学基础。如果神的同在不依赖圣殿和耶路撒冷，那么外邦人也可以不经过犹太教的仪式直接归向基督。`,
+    historyContext_en: `Stephen's martyrdom in Acts 7, likely occurring between 33-35 AD, was the first recorded martyrdom in Christian history. Under Roman rule, the Jewish Sanhedrin had certain judicial autonomy, but technically death sentences required Roman governor approval (as with Jesus' trial). Stephen's stoning followed the Law's prescription for blasphemers (Leviticus 24:16), but the process looks more like a mob lynching than formal trial.
+
+Stephen's sermon displays a highly Hellenistic Jewish educational background. His survey of Old Testament history, familiarity with the Septuagint (some details he cited come from the LXX rather than the Hebrew Bible), and his debating style all suggest he likely received excellent education similar to Paul's. His debating opponents in the synagogues were also Greek-speaking Jews, foreshadowing how the gospel would ultimately break through Jewish cultural boundaries.
+
+Historically, Stephen's martyrdom was a turning point. His death directly triggered the great persecution of the Jerusalem church (8:1), forcing believers to scatter throughout Judea and Samaria, inadvertently fulfilling Jesus' Great Commission in Acts 1:8: "You will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth." More importantly, Saul, who witnessed Stephen's death, was profoundly shaken—a foreshadowing of his later conversion.
+
+Stephen's theological core—that God is not confined to the temple and Israel's history is one of continual rejection of God—provided theological foundation for Paul's later Gentile mission. If God's presence does not depend on the temple and Jerusalem, then Gentiles can turn directly to Christ without going through Jewish ritual.`,
+    structure_zh: `使徒行传第7章是新约中最长的单一讲道之一，结构精密，层层递进。全章可分为历史回顾（2-50节）、直接指控（51-53节）、异象与殉道（54-60节）三大部分。
+
+历史回顾部分又分为四个时期：亚伯拉罕时期（2-8节）、先祖时期（9-16节）、摩西时期（17-43节）、帐幕与圣殿时期（44-50节）。每个时期都强调同一个主题：神的主动拣选和百姓的抗拒。司提反用"第二次"这个词两次（13节、35节），建立"拒绝-拯救"的循环模式，最终指向基督被拒绝与复活。
+
+摩西时期是重点（占了27节经文），因为摩西是最清晰的基督预表。司提反详细叙述摩西如何两次被拒绝：第一次在四十岁想拯救以色列时，第二次在旷野造金牛犊时。但神仍然使用他，并藉他预言将来的先知（基督）。这部分的高潮是42-43节引用阿摩司书，揭示即使有神的同在，以色列仍然拜偶像。
+
+圣殿论述（44-50节）是司提反为自己"反对圣殿"的指控辩护。他不是说圣殿不好，而是引用以赛亚书指出：至高神不住人手所造的殿。这为福音走出犹太教、不再依赖圣殿崇拜做了神学铺垫。
+
+51-53节是全章转折点。司提反从历史回顾突然转为直接指控："你们这硬着颈项的人……你们又把那义者卖了、杀了。"这种修辞策略效仿旧约先知，用历史镜子让听众看见自己的罪。
+
+54-60节是高潮：从人间法庭转向天上异象，从被定罪者转为得荣耀者。司提反看见天开、人子站立、最后的祷告与安睡，每个细节都充满神学意义。全章以扫罗的名字作结（58节、8:1），为下文埋下伏笔。`,
+    structure_en: `Acts 7 is one of the longest single sermons in the New Testament, with precise structure building progressively. The chapter divides into three major parts: historical review (vv.2-50), direct accusation (vv.51-53), and vision and martyrdom (vv.54-60).
+
+The historical review subdivides into four periods: Abraham (vv.2-8), the patriarchs (vv.9-16), Moses (vv.17-43), and tabernacle/temple (vv.44-50). Each period emphasizes the same theme: God's sovereign choice and the people's resistance. Stephen uses "the second time" twice (vv.13, 35), establishing a "rejection-salvation" cyclical pattern ultimately pointing to Christ's rejection and resurrection.
+
+The Moses period is central (occupying 27 verses) because Moses is the clearest type of Christ. Stephen details how Moses was twice rejected: first at forty when he tried to deliver Israel, second in the wilderness with the golden calf. Yet God still used him and prophesied through him of the coming prophet (Christ). This section's climax is verses 42-43 quoting Amos, revealing that even with God's presence, Israel still worshiped idols.
+
+The temple discourse (vv.44-50) defends Stephen against charges of opposing the temple. He doesn't say the temple is bad but quotes Isaiah to point out: the Most High does not dwell in man-made houses. This provides theological groundwork for the gospel to move beyond Judaism, no longer depending on temple worship.
+
+Verses 51-53 are the chapter's turning point. Stephen suddenly shifts from historical review to direct accusation: "You stiff-necked people...you have now betrayed and murdered the Righteous One." This rhetorical strategy imitates Old Testament prophets, using history as a mirror for the audience to see their own sin.
+
+Verses 54-60 are the climax: shifting from earthly court to heavenly vision, from condemned to glorified. Stephen seeing heaven opened, the Son of Man standing, his final prayer and falling asleep—every detail is laden with theological meaning. The chapter concludes with Saul's name (v.58, 8:1), foreshadowing what follows.`,
+    theology_zh: `使徒行传第7章是改革宗救赎历史神学的经典文本。司提反展现了"约的历史"视角：从亚伯拉罕、摩西到基督，神的救赎计划一脉相承，而人的背叛也一以贯之。这挑战了当时犹太人的自义——他们以为拥有律法、圣殿、割礼就能得救，却不明白这些都是指向基督的预表。
+
+"拒绝-拯救"的模式体现了改革宗的"已然未然"末世论。约瑟被兄弟卖了，第二次却成为拯救者；摩西被拒绝，神却使用他拯救以色列；基督被钉十字架，却在复活中成为万主之主。每一次人的拒绝都无法拦阻神的计划，反而成就了神更大的救赎。
+
+司提反关于圣殿的论述直接挑战了犹太教的圣殿中心论。改革宗神学强调神的超越性：神不被任何地理位置、建筑物或仪式所限制。真正的敬拜是"在灵里和真理中"（约翰福音4:24），不依赖外在形式。这为新约教会脱离犹太教、在各地建立会众提供了神学基础。
+
+殉道神学也在这里清晰呈现。司提反的死不是神的失败，而是见证的高峰。他看见天开了、看见人子站立，显明殉道者与基督同在的荣耀。改革宗殉道观继承初代教会传统：教会在逼迫中被洁净、被激励，殉道者的信心成为信徒的榜样。
+
+司提反最后的祷告——"不要将这罪归于他们"——体现了恩典神学。他没有咒诅仇敌，而是为他们代求，正如基督在十字架上所行。这是福音最有力的见证：被改变的罪人能以恩典对待逼迫他们的人。更奇妙的是，这祷告直接应验在扫罗身上——不久之后，这个逼迫教会的人要成为外邦人的使徒。神的恩典何等浩大！`,
+    theology_en: `Acts 7 is a classic text of Reformed redemptive-historical theology. Stephen displays a "covenant history" perspective: from Abraham through Moses to Christ, God's redemptive plan is continuous, as is human rebellion. This challenged the self-righteousness of contemporary Jews—they thought possessing Law, temple, and circumcision guaranteed salvation, not understanding these were types pointing to Christ.
+
+The "rejection-salvation" pattern embodies Reformed "already-not yet" eschatology. Joseph was sold by his brothers but became savior the second time; Moses was rejected but God used him to deliver Israel; Christ was crucified but became Lord of all in resurrection. Each human rejection cannot thwart God's plan but accomplishes his greater redemption.
+
+Stephen's temple discourse directly challenged Judaism's temple-centrism. Reformed theology emphasizes God's transcendence: God is not limited by any location, building, or ritual. True worship is "in spirit and truth" (John 4:24), not dependent on external forms. This provided theological foundation for the New Testament church to separate from Judaism and establish congregations everywhere.
+
+Martyrdom theology is also clearly presented here. Stephen's death was not God's failure but the climax of witness. He saw heaven opened and the Son of Man standing, revealing the glory of martyrs' fellowship with Christ. Reformed martyrology inherits early church tradition: the church is purified and encouraged through persecution; martyrs' faith becomes an example for believers.
+
+Stephen's final prayer—"do not hold this sin against them"—embodies grace theology. He did not curse his enemies but interceded for them, just as Christ did on the cross. This is the gospel's most powerful witness: transformed sinners can treat their persecutors with grace. More wonderfully, this prayer was directly answered in Saul—soon this persecutor of the church would become the apostle to the Gentiles. How great is God's grace!`,
+    christShadow_zh: `使徒行传第7章整篇讲道都是基督的预表。约瑟、摩西、所有被拒绝的先知，都指向那位最终的"被拒绝者"——拿撒勒人耶稣。司提反两次强调"第二次"：约瑟第二次与弟兄们相认，摩西第二次被神差遣——这预表基督的第一次来临被拒绝，第二次再来要作王。
+
+摩西是最明显的基督预表。他生来俊美（基督是神荣耀的光辉）、学了埃及一切学问（基督充满智慧）、想要拯救以色列却被拒绝（基督来到自己的地方，自己的人却不接待他）、在旷野四十年（基督在旷野受试探）、在荆棘火焰中遇见神（基督显明神的临在）、行大能神迹领百姓出埃及（基督行神迹将人从罪的奴役中释放）、预言将来有一位先知像他（直接指向基督）。
+
+更深一层，整个以色列历史都是基督受难的预演。百姓不断拒绝神的拯救者，造金牛犊拜偶像，逼迫先知——这一切在十字架上达到顶点：他们把生命的主钉在十字架上。但正如神没有因百姓的悖逆而放弃救赎计划，反而藉摩西成就拯救，神也藉基督的死成就了永恒的救赎。
+
+司提反本人就是基督的活画像。他被假见证控告（基督受诬陷）、在公会前受审（基督在公会前）、被控告反对圣殿（基督被控要拆毁圣殿）、被拉到城外用石头打（基督在城外被钉十字架）、祷告"求主接收我的灵魂"（基督说"父啊,我将我的灵魂交在你手里"）、为仇敌代求"不要将这罪归于他们"（基督说"父啊，赦免他们"）。这些平行不是巧合，而是显明真门徒必然效法基督，连受苦的模式都像他。
+
+最荣耀的基督预表是：司提反看见"人子站在神的右边"。圣经通常说基督"坐"在父右边，但此刻他"站"起来。这是为什么？他站起来迎接他的见证人，为他的殉道者辩护，显明他与受苦的子民同在。这预表将来基督再来时，要为所有忠心的圣徒站立，公开承认他们是属他的（马太福音10:32）。
+
+最后，扫罗的出现极具预表意义。这个看守衣裳、喜悦司提反被害的年轻人，很快要在大马士革路上遇见复活的基督。基督会对他说："扫罗，扫罗，你为什么逼迫我？"原来逼迫基督的门徒,就是逼迫基督自己。这揭示了教会与基督神秘的联合：我们与他同死、同埋葬、同复活，他的苦难成为我们的苦难,他的荣耀也成为我们的荣耀。`,
+    christShadow_en: `The entire sermon in Acts 7 is a type of Christ. Joseph, Moses, all rejected prophets point to the ultimate "Rejected One"—Jesus of Nazareth. Stephen twice emphasizes "the second time": Joseph the second time made himself known, Moses the second time was sent by God—prefiguring Christ's first coming in rejection, his second coming to reign.
+
+Moses is the most obvious Christ-type. Born beautiful (Christ is the radiance of God's glory), learned in all Egyptian wisdom (Christ full of wisdom), wanted to deliver Israel but was rejected (Christ came to his own, his own received him not), forty years in wilderness (Christ tempted in wilderness), encountered God in burning bush (Christ revealed God's presence), performed mighty miracles leading people from Egypt (Christ performed miracles freeing people from sin's bondage), prophesied a future prophet like him (directly pointing to Christ).
+
+At a deeper level, all Israel's history prefigures Christ's passion. The people continually rejected God's deliverers, made golden calves and worshiped idols, persecuted prophets—all culminating at the cross when they crucified the Author of Life. But just as God didn't abandon his redemptive plan despite the people's rebellion but accomplished salvation through Moses, God accomplished eternal redemption through Christ's death.
+
+Stephen himself is a living portrait of Christ. He was accused by false witnesses (Christ falsely charged), tried before the council (Christ before the council), accused of opposing the temple (Christ accused of wanting to destroy the temple), dragged outside the city and stoned (Christ crucified outside the city), prayed "Lord, receive my spirit" (Christ said "Father, into your hands I commit my spirit"), interceded for enemies "do not hold this sin against them" (Christ said "Father, forgive them"). These parallels are not coincidental but show true disciples must follow Christ, even in the pattern of suffering.
+
+The most glorious Christ-type is Stephen seeing "the Son of Man standing at the right hand of God." Scripture usually says Christ "sits" at the Father's right hand, but now he "stands." Why? He stands to welcome his witness, to defend his martyr, showing his presence with suffering people. This prefigures Christ's return, when he will stand for all faithful saints, publicly acknowledging them as his (Matthew 10:32).
+
+Finally, Saul's appearance is highly typological. This young man guarding garments, approving Stephen's execution, would soon meet the risen Christ on the Damascus road. Christ would say to him, "Saul, Saul, why are you persecuting me?" Persecuting Christ's disciples is persecuting Christ himself. This reveals the mysterious union between church and Christ: we die with him, are buried with him, rise with him; his sufferings become our sufferings, his glory becomes our glory.`,
   },
   {
     id: 'acts-8',
@@ -3481,16 +4389,164 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '路加',
     authorEn: 'Luke',
     publishDate: '2026-05-09',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `我是路加，今天向你讲述一个似乎是悲剧、却成为福音广传起点的故事。司提反殉道的那一天，耶路撒冷的教会大遭逼迫。除了使徒以外，门徒都分散在犹太和撒玛利亚各处。逼迫者想要扑灭福音的火焰，没想到却如同吹散蒲公英的种子——信徒去到哪里，就把福音带到哪里。
+
+扫罗此时展现了他逼迫教会的狂热。经文说他"残害教会，进各人的家,拉着男女下在监里"。这个年轻的法利赛人以为自己在为神大发热心，却不知道他正在抵挡神自己。但神有他的时间，很快他要在大马士革的路上遇见那位复活的主。
+
+虽有虔诚的人为司提反捶胸大哭、好好安葬了他,但教会不能停留在哀伤中。那些分散的人往各处去传道。请注意：不是只有使徒才传道,每一个分散的门徒都在传扬福音。这显明初代教会每个信徒都是传道人的真理——传福音不是神职人员的专利,而是所有蒙恩者的自然表现。
+
+腓利——就是第6章被选为七执事之一的腓利——下撒玛利亚城去宣讲基督。这是一个突破：撒玛利亚人和犹太人世代为仇,犹太人认为撒玛利亚人是混血的异端。但福音要打破这道隔断的墙。腓利在那里行神迹,污鬼从被附的人身上出来,瘫痪的、瘸腿的都得医治,城里大有欢喜。
+
+但那城里有个人叫西门,向来行邪术使百姓惊奇,妄自尊大,说自己是神的大能者。这是福音与黑暗权势的对抗。当腓利传讲神国的福音和耶稣基督的名,众人连男带女都信而受洗——连西门自己也信了、受了洗,常与腓利在一处,看见神迹和大异能就甚惊奇。
+
+耶路撒冷的使徒听说撒玛利亚人领受了神的道,就打发彼得、约翰去。这两位使徒到了,就为信徒祷告,要叫他们受圣灵,因为圣灵还没有降在他们一个人身上,他们只奉主耶稣的名受了洗。使徒按手在他们头上,他们就受了圣灵。
+
+这里显明圣灵降临有时候是分阶段的。不是说他们信主时没有圣灵——没有圣灵就不可能认耶稣为主。但圣灵充满、圣灵的洗、圣灵特别的能力,可能在不同时候临到。神这样做有他的美意：让彼得、约翰亲自来,显明撒玛利亚信徒与耶路撒冷教会是同一个身体,打破犹太人与撒玛利亚人的隔阂。
+
+但西门看见使徒按手便有圣灵赐下,竟然拿钱给使徒,说："把这权柄也给我,叫我手按着谁,谁就可以受圣灵。"彼得严厉地责备他："你的银子和你一同灭亡吧！因你想神的恩赐是可以用钱买的。你在这道上无分无关,因为在神面前你的心不正。"
+
+西门的问题暴露了他信仰的真相：他不是真心悔改归主,而是被神迹吸引,想要得着能力。他仍然把信仰当作一种交易、一种可以操控的力量。彼得一针见血：你正在苦胆之中,被罪恶捆绑。真正的悔改不是外在的受洗,而是内心的改变。西门的回应也很可疑："愿你们为我求主,叫你们所说的没有一样临到我身上"——他害怕的只是刑罚,并没有为罪痛悔。教会历史后来称用金钱买卖圣职的行为为"西门的罪"（Simony）。
+
+使徒完成使命后,回耶路撒冷去,一路在撒玛利亚好些村庄传扬福音。福音像火一样蔓延,无人能拦阻。
+
+接着神引导腓利去完成一项特殊使命。主的使者对腓利说："起来,向南走,往那从耶路撒冷下迦萨的路上去。那路是旷野。"腓利就起身去了——没有问为什么,没有讨价还价,立刻顺服。这是真门徒的记号。
+
+神引导他遇见一个埃提阿伯的太监,是女王干大基手下的大臣,总管银库。他上耶路撒冷礼拜去了,现在回来,在车上念先知以赛亚的书。这个人可能是敬畏神的外邦人,或者是皈依犹太教的人。他手中的圣经卷轴价值不菲,显示他是有地位、有资财的人。但财富和地位不能使人明白神的道——他正念着以赛亚书53章,却不明白那段经文说的是谁。
+
+圣灵对腓利说:"你去,贴近那车走。"腓利就跑过去,听见他念以赛亚书,便问:"你所念的,你明白吗?"太监诚实地说:"没有人指教我,怎能明白呢?"多么谦卑的回应！他请腓利上车,与他同坐。
+
+他所念的是以赛亚书53:7-8："他像羊被牵到宰杀之地,又像羊羔在剪毛的人手下无声,他也是这样不开口。他卑微的时候,人不按公义审判他;谁能述说他的世代,因为他的生命从地上夺去。"太监问:"请问,先知说这话是指着谁？"
+
+腓利就开口从这经上起,对他传讲耶稣。这是何等美好的传福音方式——从圣经出发,指向基督。腓利一定是详细解释了耶稣如何应验这段预言:他在彼拉多面前默然不语,他被不公义地审判,他被钉十字架、生命被夺去,却又从死里复活。整本旧约都在为基督作见证,关键是要有人打开我们的眼睛。
+
+二人正往前走,到了有水的地方,太监说:"看哪,这里有水,我受洗有什么妨碍呢?"腓利说:"你若是一心相信,就可以。"太监回答:"我信耶稣基督是神的儿子。"于是车停住,二人同下水里去,腓利给他施洗。
+
+从水里上来,主的灵把腓利提了去,太监也不再见他了,就欢欢喜喜地走路。这真是神迹！腓利突然消失,显明这次相遇完全是神超自然的安排。而太监虽然再也见不到腓利,却欢欢喜喜地走路——因为他得着的不是腓利,而是基督。真正的喜乐源于认识救主,而非依赖某个传道人。
+
+后来有人在亚锁都遇见腓利,他走遍那地方,在各城宣传福音,直到该撒利亚。一个顺服的仆人,神就大大使用他。腓利从撒玛利亚的大复兴,到旷野路上引领一个人归主,都同样忠心。服事的大小在神眼中并不重要,重要的是是否顺服、是否忠心。
+
+弟兄姊妹,使徒行传第8章提醒我们:逼迫不能拦阻福音,反而使福音传得更广；每个信徒都是传福音的器皿;神会特别引导我们去遇见他预备的人;传福音的核心是指向基督;真实的信心必定结出顺服和喜乐的果子。愿我们都像腓利一样,随时准备好,被圣灵差遣,无论往哪里去都传扬我们的主。`,
+    content_en: `I am Luke. Today I tell you a story that seemed tragic but became the starting point of gospel expansion. The day Stephen was martyred, great persecution broke out against the church in Jerusalem. Except for the apostles, all were scattered throughout Judea and Samaria. The persecutors wanted to extinguish the gospel flame, not realizing they were scattering dandelion seeds—wherever believers went, they carried the gospel.
+
+At this time, Saul displayed his zeal in persecuting the church. Scripture says he "was ravaging the church, entering house after house, dragging off men and women and committing them to prison." This young Pharisee thought he was zealous for God, not knowing he was resisting God himself. But God had his time—soon he would meet the risen Lord on the Damascus road.
+
+Though devout men buried Stephen with loud lamentation, the church could not remain in grief. Those scattered went about preaching the word. Notice: not only apostles preached; every scattered disciple proclaimed the gospel. This reveals the early church truth that every believer is an evangelist—evangelism is not clergy's monopoly but the natural expression of all who have received grace.
+
+Philip—one of the seven deacons chosen in chapter 6—went down to the city of Samaria and proclaimed Christ. This was a breakthrough: Samaritans and Jews were ancestral enemies; Jews considered Samaritans mixed-blood heretics. But the gospel would break down this dividing wall. Philip performed miracles there: unclean spirits came out of the possessed, paralytics and lame were healed, and there was much joy in that city.
+
+But there was a man named Simon in that city who had practiced magic and amazed people, boasting to be someone great, claiming to be "the Great Power of God." This was gospel confronting dark powers. When Philip preached about the kingdom of God and the name of Jesus Christ, both men and women believed and were baptized—even Simon himself believed, was baptized, and continued with Philip, amazed at the signs and great miracles.
+
+When the apostles in Jerusalem heard that Samaria had received the word of God, they sent Peter and John. These two apostles came and prayed for believers to receive the Holy Spirit, for the Spirit had not yet fallen on any of them but they had only been baptized in the name of the Lord Jesus. The apostles laid hands on them, and they received the Holy Spirit.
+
+This shows the Holy Spirit's coming is sometimes staged. Not that they had no Spirit when believing—one cannot confess Jesus as Lord without the Spirit. But Spirit-filling, Spirit-baptism, special Spirit power may come at different times. God's purpose in this: having Peter and John come personally showed Samaritan believers and Jerusalem church were one body, breaking down the barrier between Jews and Samaritans.
+
+But when Simon saw the Spirit given through apostolic laying on of hands, he offered money, saying, "Give me this power also, so that anyone I lay hands on may receive the Holy Spirit." Peter sternly rebuked him: "May your silver perish with you, because you thought you could obtain the gift of God with money! You have neither part nor lot in this matter, for your heart is not right before God."
+
+Simon's problem exposed his faith's true nature: not genuine repentant turning to the Lord, but attraction to miracles, wanting power. He still treated faith as a transaction, a force he could manipulate. Peter hit the nail: you are in the gall of bitterness, bound by iniquity. True repentance is not external baptism but heart transformation. Simon's response was also suspicious: "Pray for me to the Lord, that nothing you have said may come upon me"—he only feared punishment, without grief over sin. Church history later called buying holy office with money "Simon's sin" (Simony).
+
+After completing their mission, the apostles returned to Jerusalem, preaching the gospel in many Samaritan villages. The gospel spread like fire; no one could stop it.
+
+Then God guided Philip to a special mission. An angel of the Lord said to Philip, "Rise and go toward the south to the road that goes down from Jerusalem to Gaza." This is a desert place. Philip rose and went—no asking why, no bargaining, immediate obedience. This is the mark of a true disciple.
+
+God led him to meet an Ethiopian eunuch, a court official of Candace queen of the Ethiopians, in charge of all her treasure. He had come to Jerusalem to worship and was returning, sitting in his chariot reading the prophet Isaiah. This man was likely a God-fearing Gentile or a Jewish proselyte. The scroll in his hands was valuable, showing his status and wealth. But wealth and status cannot make one understand God's word—he was reading Isaiah 53, yet didn't understand whom it spoke of.
+
+The Spirit said to Philip, "Go over and join this chariot." Philip ran up, heard him reading Isaiah, and asked, "Do you understand what you are reading?" The eunuch honestly replied, "How can I, unless someone guides me?" What humble response! He invited Philip to sit with him.
+
+He was reading Isaiah 53:7-8: "Like a sheep he was led to the slaughter and like a lamb before its shearer is silent, so he opens not his mouth. In his humiliation justice was denied him. Who can describe his generation? For his life is taken away from the earth." The eunuch asked, "About whom does the prophet say this?"
+
+Philip opened his mouth and beginning with this Scripture told him the good news about Jesus. What a beautiful way to evangelize—starting from Scripture, pointing to Christ. Philip surely explained in detail how Jesus fulfilled this prophecy: silent before Pilate, unjustly judged, crucified and life taken, yet risen from the dead. The whole Old Testament witnesses to Christ; the key is having someone open our eyes.
+
+As they went along, they came to some water, and the eunuch said, "See, here is water! What prevents me from being baptized?" Philip said, "If you believe with all your heart, you may." He replied, "I believe that Jesus Christ is the Son of God." So they stopped the chariot, both went down into the water, and Philip baptized him.
+
+When they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, but went on his way rejoicing. This was miraculous! Philip suddenly vanished, showing this meeting was entirely God's supernatural arrangement. Though the eunuch never saw Philip again, he went rejoicing—because what he gained was not Philip but Christ. True joy comes from knowing the Savior, not depending on a preacher.
+
+Later Philip was found at Azotus, and as he passed through he preached the gospel to all the towns until he came to Caesarea. One obedient servant, God greatly used him. Philip was equally faithful from Samaritan revival to leading one person to the Lord on a desert road. Ministry size doesn't matter in God's eyes; what matters is obedience and faithfulness.
+
+Brothers and sisters, Acts 8 reminds us: persecution cannot stop the gospel but spreads it further; every believer is a gospel vessel; God specially guides us to people he has prepared; evangelism's core is pointing to Christ; genuine faith inevitably bears fruit of obedience and joy. May we all be like Philip—always ready, sent by the Spirit, proclaiming our Lord wherever we go.`,
+    historyContext_zh: `使徒行传第8章标志着福音从耶路撒冷向外扩展的正式开始,应验了主在使徒行传1:8的应许:"你们要在耶路撒冷、犹太全地和撒玛利亚,直到地极,作我的见证。"这个扩展不是有计划的宣教策略,而是逼迫导致的被动分散,却成就了神的主动旨意。
+
+撒玛利亚位于犹太和加利利之间,居民是主前722年北国以色列被亚述灭亡后,剩余以色列人与外邦移民通婚的后代。他们只接受摩西五经,在基利心山建立与耶路撒冷圣殿对立的敬拜中心,与犹太人的仇恨已有七百年历史。腓利向撒玛利亚人传福音,是一个革命性的突破,预示福音将越过种族和文化的界限。
+
+行邪术的西门在撒玛利亚有相当影响力。当时地中海世界充斥各种魔术师、占卜者、行奇事的人,他们宣称拥有神秘知识和超自然能力。西门可能是诺斯底主义的早期代表——这种异端强调秘密知识、神秘体验,后来成为早期教会主要敌人之一。彼得对西门的斥责,预示教会将持续面对试图将福音变成可操控力量的异端。
+
+埃提阿伯太监的故事具有深远意义。埃提阿伯（今苏丹地区）位于罗马帝国南端之外,是当时已知世界的边缘。这位太监是宫廷高官,却不惜长途跋涉数千公里到耶路撒冷敬拜,显示他是虔诚寻求真神的人。但作为太监,他按律法不能完全进入以色列会众（申命记23:1）。福音却接纳他,应验以赛亚书56:3-5的预言:"太监不要说,我是枯树……我必使他们在我殿中有纪念,有名号。"
+
+这位太监可能是埃提阿伯教会的创始人。埃提阿伯基督教有古老传统,至今仍存,他们相信自己的信仰源自这位太监的见证。`,
+    historyContext_en: `Acts 8 marks the formal beginning of gospel expansion from Jerusalem, fulfilling the Lord's promise in Acts 1:8: "You will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth." This expansion was not a planned missionary strategy but passive dispersion due to persecution, yet accomplished God's sovereign purpose.
+
+Samaria was located between Judea and Galilee, its inhabitants descendants of intermarriage between remaining Israelites and foreign immigrants after the northern kingdom of Israel fell to Assyria in 722 BC. They accepted only the Pentateuch, established a worship center on Mount Gerizim opposing Jerusalem's temple, and their hatred with Jews spanned seven hundred years. Philip preaching to Samaritans was a revolutionary breakthrough, foreshadowing the gospel crossing racial and cultural boundaries.
+
+Simon the magician had considerable influence in Samaria. The Mediterranean world at that time was filled with magicians, diviners, miracle workers claiming mysterious knowledge and supernatural powers. Simon was possibly an early representative of Gnosticism—a heresy emphasizing secret knowledge and mystical experience that later became a main enemy of the early church. Peter's rebuke of Simon foreshadowed the church's ongoing battle against heresies attempting to turn the gospel into manipulable power.
+
+The Ethiopian eunuch's story has profound significance. Ethiopia (modern Sudan region) lay beyond the southern edge of the Roman Empire, at the edge of the known world. This eunuch was a high court official, yet willing to travel thousands of kilometers to worship in Jerusalem, showing he sincerely sought the true God. But as a eunuch, he could not fully enter Israel's assembly according to the Law (Deuteronomy 23:1). The gospel accepted him, fulfilling Isaiah 56:3-5's prophecy: "Let not the eunuch say, 'Behold, I am a dry tree'... I will give in my house a monument and a name."
+
+This eunuch was possibly the founder of the Ethiopian church. Ethiopian Christianity has ancient tradition, still exists today, and they believe their faith originated from this eunuch's witness.`,
+    structure_zh: `使徒行传第8章结构呈现三个平行的福音扩展场景,每个都展现不同层面的突破。
+
+第一段（1-25节）是撒玛利亚的突破:从种族隔阂到合一。开头用逼迫和分散作为转折（1-3节）,接着是腓利在撒玛利亚的事工（4-8节）、西门的故事（9-13节）、使徒确认这工作（14-17节）、西门的贪心被揭露（18-24节）、使徒回程继续传道（25节）。这一段高潮是17节"按手在他们头上,他们就受了圣灵",显明撒玛利亚信徒与犹太信徒同得圣灵,打破隔阂。西门的插曲则警告教会要防备假信徒和异端。
+
+第二段（26-40节）是埃提阿伯太监的故事:从地理边界到地极。天使指引（26节）、太监的背景（27节）、圣灵的催促（29节）、传福音的对话（30-35节）、受洗（36-38节）、腓利被提走和太监的喜乐（39节）、腓利继续传道（40节）。整个叙事充满神超自然的引导:天使说话、圣灵催促、腓利被提走,显明这是神刻意安排的历史性时刻——福音传到"地极"的开始。
+
+两段故事的对比耐人寻味:撒玛利亚是大规模复兴,埃提阿伯是一对一带领;撒玛利亚有神迹奇事,埃提阿伯只有话语讲解;撒玛利亚需要使徒确认,埃提阿伯是腓利独自完成;撒玛利亚出现假信徒西门,埃提阿伯太监是真诚渴慕。这显明神的工作有多样性:大复兴和个人布道都重要,神迹和话语都是神使用的方式,团队同工和个人顺服都蒙神祝福。
+
+全章由"分散"（1节）开始,以腓利"走遍那地方"（40节）结束,形成完美的包容结构:逼迫导致分散,分散导致广传,广传成就神的心意。每个段落都强调"传道"/"宣讲"这个动词,显明这一章的中心主题是福音的扩展。`,
+    structure_en: `Acts 8 presents three parallel gospel expansion scenes, each showing different levels of breakthrough.
+
+The first section (vv.1-25) is the Samaritan breakthrough: from racial division to unity. It opens with persecution and scattering as the turning point (vv.1-3), then Philip's ministry in Samaria (vv.4-8), Simon's story (vv.9-13), apostolic confirmation (vv.14-17), Simon's greed exposed (vv.18-24), apostles' return journey preaching (v.25). This section's climax is verse 17 "laid their hands on them and they received the Holy Spirit," showing Samaritan believers received the same Spirit as Jewish believers, breaking down barriers. Simon's episode warns the church to guard against false believers and heresy.
+
+The second section (vv.26-40) is the Ethiopian eunuch's story: from geographic boundaries to the ends of the earth. Angel's guidance (v.26), eunuch's background (v.27), Spirit's urging (v.29), evangelistic dialogue (vv.30-35), baptism (vv.36-38), Philip taken away and eunuch's joy (v.39), Philip's continued preaching (v.40). The entire narrative is filled with God's supernatural guidance: angel speaking, Spirit urging, Philip taken away—showing this was a historic moment deliberately arranged by God, the beginning of gospel reaching "the ends of the earth."
+
+The contrast between the two stories is intriguing: Samaria was mass revival, Ethiopia one-on-one witnessing; Samaria had miracles and wonders, Ethiopia only word exposition; Samaria needed apostolic confirmation, Ethiopia was Philip alone; Samaria produced false believer Simon, Ethiopian eunuch was sincerely thirsting. This shows God's work has diversity: both mass revival and personal evangelism matter, both miracles and word are ways God uses, both team ministry and individual obedience are blessed by God.
+
+The chapter begins with "scattered" (v.1) and ends with Philip "passing through" (v.40), forming perfect inclusio structure: persecution caused scattering, scattering caused spreading, spreading accomplished God's purpose. Every section emphasizes "preaching"/"proclaiming," showing this chapter's central theme is gospel expansion.`,
+    theology_zh: `使徒行传第8章包含丰富的改革宗神学主题。首先是神主权的护理:逼迫本是撒但的工作,却成就了神扩展福音的计划。改革宗神学强调"万事互相效力,叫爱神的人得益处"（罗马书8:28）,即使是苦难和逼迫,也在神的掌管之下服务于他的救赎目的。
+
+其次是福音的普世性。从犹太人到撒玛利亚人、再到埃提阿伯太监,福音逐步打破种族、文化、地理的界限。改革宗神学坚持"在基督里并不分犹太人、希利尼人"（加拉太书3:28）,教会是从各族、各方、各民、各国召出来的新群体。撒玛利亚人领受圣灵与犹太人同样,显明神的拣选不基于血统,而基于恩典。
+
+第三是圣灵论的复杂性。撒玛利亚信徒先受洗、后领受圣灵,与五旬节和后来哥尼流家的经历都不同。改革宗神学承认圣灵工作的主权和多样性,不将某一种模式绝对化。关键不是经历的顺序,而是圣灵的真实同在和生命的转化。
+
+西门的故事涉及真假信徒的辨别。他外在受了洗,却内心未改变,被彼得宣告"在这道上无分无关"。改革宗神学强调真信心必然结出果子,外在宗教仪式不能拯救人,唯有内心真实的悔改和对基督的信靠才能得救。这也警戒教会:受洗不等于得救,必须省察人心是否真正归向基督。
+
+埃提阿伯太监的故事彰显预定论和人的责任的平衡。一方面,神主动差遣天使和圣灵引导整个过程,显明这是神的主权拣选;另一方面,太监自己渴慕真理、阅读圣经、诚实承认不明白、邀请腓利教导,显明人的责任和回应。神的主权和人的责任不是矛盾,而是和谐并行。
+
+最后是以基督为中心的解经法。腓利"从这经上起,对他传讲耶稣"——这是改革宗解经的典范。整本圣经都指向基督,旧约不仅是道德教训,更是基督的预言和预表。真正的传道不是讲道德、讲宗教,而是讲基督和他钉十字架。`,
+    theology_en: `Acts 8 contains rich Reformed theological themes. First is God's sovereign providence: persecution was Satan's work, yet accomplished God's plan to expand the gospel. Reformed theology emphasizes "all things work together for good for those who love God" (Romans 8:28)—even suffering and persecution are under God's control, serving his redemptive purpose.
+
+Second is the gospel's universality. From Jews to Samaritans to the Ethiopian eunuch, the gospel progressively broke through racial, cultural, and geographic boundaries. Reformed theology insists "in Christ there is neither Jew nor Greek" (Galatians 3:28); the church is a new community called from every tribe, tongue, people, and nation. Samaritans receiving the Spirit like Jews shows God's election is not based on bloodline but grace.
+
+Third is the complexity of pneumatology. Samaritan believers were first baptized, then received the Spirit—different from Pentecost and later Cornelius's household. Reformed theology acknowledges the Spirit's sovereign and diverse work, not absolutizing any one pattern. The key is not the sequence of experience but the Spirit's real presence and life transformation.
+
+Simon's story involves discerning true from false believers. He was externally baptized but internally unchanged; Peter declared him having "neither part nor lot in this matter." Reformed theology emphasizes true faith inevitably bears fruit; external religious ritual cannot save; only genuine heart repentance and trust in Christ saves. This also warns the church: baptism doesn't equal salvation; one must examine whether the heart truly turns to Christ.
+
+The Ethiopian eunuch's story manifests the balance of predestination and human responsibility. On one hand, God proactively sent angel and Spirit to guide the whole process, showing God's sovereign election; on the other hand, the eunuch himself thirsted for truth, read Scripture, honestly admitted not understanding, invited Philip to teach—showing human responsibility and response. God's sovereignty and human responsibility are not contradictory but harmoniously parallel.
+
+Finally is Christocentric hermeneutics. Philip "beginning with this Scripture told him the good news about Jesus"—this is the Reformed interpretive model. All Scripture points to Christ; the Old Testament is not just moral instruction but prophecy and typology of Christ. True preaching is not morality or religion but Christ and him crucified.`,
+    christShadow_zh: `使徒行传第8章充满基督的预表和影子。首先,信徒的分散与受苦预表基督的受难。正如基督必须经过苦难才能进入荣耀,教会也必须经过逼迫才能广传福音。那些分散的人"往各处去传道",正如复活的基督差遣门徒往普天下去。逼迫不能拦阻教会,正如死亡不能拘禁基督。
+
+腓利在撒玛利亚的事工预表基督打破隔阂的工作。耶稣在约翰福音第4章就亲自向撒玛利亚妇人传道,宣告"救恩是从犹太人出来的",但真正的敬拜不在耶路撒冷或基利心山,而在灵里和真理中。腓利延续基督的工作,将福音带给撒玛利亚人,应验了主在使徒行传1:8的应许。
+
+西门的故事是假基督跟随者的警戒。他被神迹吸引、想要得着能力,却不是真心悔改,这预表历代都有人跟随基督是为了属世的好处（饼和鱼）,而非为了基督自己。主在约翰福音6:26责备那些跟随他只为吃饼得饱的人:"你们找我,并不是因见了神迹,乃是因吃饼得饱。"西门想要用钱买圣灵,正如犹大为了钱出卖基督,都显明人心败坏到何等程度。
+
+埃提阿伯太监读的以赛亚书53章,是最清晰的基督受难预言。腓利"从这经上起,对他传讲耶稣",显明基督就是那位像羊羔被牵到宰杀之地、为我们的罪孽被压伤、因他受的刑罚我们得平安的那一位。太监从不明白到明白、从寻求到找着、从悲哀到喜乐,正是每个罪人遇见基督的写照。
+
+太监的身份本身也是基督工作的预表。作为太监,他按律法被排除在以色列会众之外,正如我们因罪被排除在神的国之外。但以赛亚书56:4-5预言:"那些谨守我的安息日、拣选我所喜悦的事、持守我约的太监,我必使他们在我殿中、在我墙内,有记念、有名号,比有儿女的更美。"这预言在福音中应验:基督接纳被排斥的人,使无儿女的不再是枯树,而成为神家中的儿女。
+
+太监在车上读经却不明白,直到腓利为他讲解,这预表基督是唯一能打开我们眼睛、使我们明白圣经的那位。路加福音24章记载复活的主向以马忤斯路上的门徒"从摩西和众先知起,凡经上所指着自己的话都给他们讲解明白了"。今天圣灵仍然在做同样的工作,引导我们明白真理,让我们在圣经中看见基督。
+
+最后,太监受洗后腓利被提走、太监却欢欢喜喜地走路,预表真正的喜乐不在于看得见的传道人,而在于看不见却真实同在的基督。正如基督升天后门徒不再看见他,却被圣灵充满、欢欢喜喜地传道。基督的肉身离开,却藉着圣灵更亲密地与我们同在。`,
+    christShadow_en: `Acts 8 is full of types and shadows of Christ. First, believers' scattering and suffering prefigure Christ's passion. Just as Christ had to suffer before entering glory, the church must go through persecution before spreading the gospel widely. Those scattered "went about preaching the word," just as the risen Christ sent disciples into all the world. Persecution cannot stop the church, just as death could not hold Christ.
+
+Philip's ministry in Samaria prefigures Christ's work breaking down barriers. Jesus himself preached to the Samaritan woman in John 4, declaring "salvation is from the Jews," but true worship is not in Jerusalem or Mount Gerizim but in spirit and truth. Philip continued Christ's work, bringing the gospel to Samaritans, fulfilling the Lord's promise in Acts 1:8.
+
+Simon's story warns of false Christ-followers. Attracted by miracles, wanting power without genuine repentance, he prefigures those through the ages who follow Christ for worldly benefits (bread and fish) rather than Christ himself. The Lord rebuked in John 6:26 those who followed him only for full stomachs: "You seek me not because you saw signs, but because you ate your fill of the loaves." Simon wanting to buy the Spirit with money, like Judas selling Christ for money, shows human heart corruption.
+
+The Isaiah 53 passage the Ethiopian eunuch read is the clearest prophecy of Christ's passion. Philip "beginning with this Scripture told him the good news about Jesus," showing Christ is the one led like a lamb to slaughter, crushed for our iniquities, by whose stripes we are healed. The eunuch's journey from not understanding to understanding, seeking to finding, sorrow to joy, mirrors every sinner's encounter with Christ.
+
+The eunuch's identity itself prefigures Christ's work. As a eunuch, he was excluded from Israel's assembly by Law, just as we are excluded from God's kingdom by sin. But Isaiah 56:4-5 prophesies: "To the eunuchs who keep my Sabbaths, choose what pleases me, hold fast my covenant, I will give in my house a monument and a name better than sons and daughters." This prophecy is fulfilled in the gospel: Christ accepts the rejected, making the childless no longer a dry tree but children in God's household.
+
+The eunuch reading Scripture in his chariot without understanding until Philip explained prefigures Christ as the only one who can open our eyes to understand Scripture. Luke 24 records the risen Lord on the Emmaus road "beginning with Moses and all the Prophets, interpreted to them in all the Scriptures the things concerning himself." Today the Spirit still does the same work, guiding us into truth, enabling us to see Christ in Scripture.
+
+Finally, after the eunuch's baptism, Philip was taken away yet the eunuch went rejoicing—prefiguring true joy is not in visible preachers but in the invisible yet truly present Christ. Just as after Christ's ascension, disciples no longer saw him but were filled with the Spirit and joyfully preached. Christ's physical departure meant more intimate presence through the Spirit.`,
   },
   {
     id: 'acts-9',
@@ -3502,16 +4558,164 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '路加',
     authorEn: 'Luke',
     publishDate: '2026-05-12',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `我是路加。今天要向你讲述基督教历史上最戏剧性的转变——扫罗的归主。这个曾经"口吐威吓凶杀的话"逼迫教会的法利赛人，要在大马士革的路上遇见复活的主，生命被彻底翻转，成为外邦人的使徒保罗。
+
+扫罗仍然向主的门徒口吐威吓凶杀的话。他不满足于在耶路撒冷逼迫信徒，还去见大祭司，求文书给大马士革的各会堂，要捆绑那里信奉这道的人，无论男女，都带到耶路撒冷。他的热心是真实的，但方向完全错了——他以为自己在为神大发热心，却不知道正在抵挡神自己。这是宗教热心最可怕的地方：可以如此真诚，却如此错谬。
+
+扫罗行路将到大马士革时，忽然从天上发光，四面照着他。他就仆倒在地，听见有声音对他说："扫罗！扫罗！你为什么逼迫我？"注意这句话的深意：逼迫基督的门徒，就是逼迫基督自己。教会是基督的身体，触摸教会就是触摸基督。
+
+扫罗问："主啊，你是谁？"他知道这是从天上来的声音，所以称"主"。主说："我就是你所逼迫的耶稣。"这个回答一定让扫罗震惊不已：那个被钉十字架的拿撒勒人，竟然活着，而且从天上向他说话！他所有的神学体系在这一刻崩塌——弥赛亚不可能被钉十字架，但如今这位被钉十字架的，却从天上的荣耀中向他显现。
+
+主对他说："起来，进城去，你所当做的事，必有人告诉你。"扫罗从地上起来，睁开眼睛，竟不能看见什么。那从天上来的大光使他肉眼瞎了，但他的灵眼却被打开了。同行的人听见声音，却看不见人——这显明这是扫罗个人的遇见，是主特别的拣选和呼召。
+
+他们拉着扫罗的手，领他进了大马士革。这个曾经趾高气扬、手持文书要捆绑信徒的法利赛人，如今像瞎子一样被人牵着。三日不能看见，也不吃也不喝。这三天一定是他生命中最剧烈的挣扎时期——他所有的确信都被推翻，他所有的追求都成了抵挡神。他需要在黑暗和禁食中重新认识神、认识自己。
+
+同时，在大马士革有一个门徒名叫亚拿尼亚。主在异象中对他说："起来，往直街去，在犹大的家里，访问一个大数人，名叫扫罗。他正祷告。"亚拿尼亚一定很惊讶：扫罗在祷告？那个逼迫教会的扫罗？但主说扫罗又看见异象，有一个人名叫亚拿尼亚进来按手在他身上，叫他能看见。
+
+亚拿尼亚的反应很真实："主啊，我听见许多人说，这人怎样在耶路撒冷多多苦害你的圣徒，并且他在这里有从祭司长得来的权柄捆绑一切求告你名的人。"他的担心完全可以理解——这不是送羊入虎口吗？
+
+但主说："你只管去！他是我所拣选的器皿，要在外邦人和君王并以色列人面前宣扬我的名。我也要指示他，为我的名必须受许多的苦难。"这是对扫罗一生使命的预言：外邦人的使徒、在君王面前作见证、也向同胞以色列人传福音，并且要为主的名受苦。主拣选器皿不是为了享福，而是为了受苦、为了服事。
+
+亚拿尼亚顺服了。他进入那家，把手按在扫罗身上，说："兄弟扫罗"——注意这个称呼，他称这个曾经的逼迫者为"兄弟"！这是何等的恩典，何等的信心。"在你来的路上向你显现的主，就是耶稣，打发我来，叫你能看见，又被圣灵充满。"
+
+扫罗的眼睛上好像有鳞立刻掉下来，他就能看见，于是起来受了洗。属灵的瞎眼得医治，肉体的瞎眼也得医治。他吃过饭就健壮了，与大马士革的门徒同住了些日子。这个转变何等迅速——刚才还是要捆绑他们的仇敌，现在成了一同敬拜的弟兄。
+
+扫罗立刻在各会堂里宣传耶稣，说他是神的儿子。凡听见的人都惊奇说："在耶路撒冷残害求告这名的，不是这人吗？"扫罗不但悔改，而且立刻成为见证人。他不是等自己"准备好了"才传福音，而是一认识基督就迫不及待要告诉别人。真正的悔改总是带来见证的热心。
+
+扫罗越发有能力，驳倒住大马士革的犹太人，证明耶稣是基督。他过去用来抵挡福音的学问和口才，如今完全用来传扬基督。神不浪费我们的任何经历和恩赐，连我们犯罪时所用的才干，悔改后也能被神使用来荣耀他。
+
+但逼迫很快来临。犹太人商议要杀扫罗，昼夜在城门守候。他的门徒——注意他已经有门徒了——就在夜间用筐子把他从城墙上缒下去。这是何等的狼狈！这个曾经意气风发的法利赛人，如今要像逃犯一样被装在筐子里从城墙上吊下去。但这正是主预言的"为我的名必须受许多的苦难"的开始。
+
+扫罗到了耶路撒冷，想与门徒结交，他们却都怕他，不信他是门徒。这完全可以理解——谁知道这是不是陷阱？惟有巴拿巴接待他。巴拿巴这个名字意思是"劝慰子"，他真是名副其实——总是在关键时刻接纳别人、鼓励别人。他领扫罗去见使徒，把他在路上怎么看见主、主怎么向他说话、他在大马士革怎么奉耶稣的名放胆传道，都述说出来。
+
+于是扫罗在耶路撒冷和门徒出入来往，奉主的名放胆传道，并与说希利尼话的犹太人讲论辩驳。这些人就是当初与司提反辩论、最后杀害他的那群人。如今扫罗站在司提反曾经站过的位置，用司提反曾经用过的论证，向同样的敌人传讲同一位基督。司提反的死没有白费——他的祷告"主啊，不要将这罪归于他们"在扫罗身上应验了。
+
+他们又想杀扫罗，弟兄们就送他下该撒利亚，打发他往大数去。大数是扫罗的家乡。他需要一段时间安静、学习、默想。从使徒行传第9章到第13章，中间有好几年的空白期——这些年扫罗在做什么？可能是在旷野默想、被主深深教导，正如他在加拉太书中所说，福音不是从人领受的，乃是从耶稣基督启示来的。
+
+与此同时，教会在犹太、加利利、撒玛利亚各处都得平安，被建立，凡事敬畏主，蒙圣灵的安慰，人数就增多了。逼迫教会的最大仇敌悔改了，教会就得了平安。这一章的后半部分记载彼得的两个神迹：在吕大医治瘫痪八年的以尼雅，在约帕使多加从死里复活。这显明即使扫罗这样显赫的归主，使徒的工作仍在继续，神的能力仍在彰显。
+
+弟兄姊妹，扫罗的故事给我们何等的盼望！没有人是神救不了的。最刚硬的逼迫者可以成为最热心的使徒；最错谬的信念可以被真理光照；最黑暗的过去可以被恩典更新。如果神能拯救扫罗，他也能拯救你所认识的任何一个"不可能得救"的人。永远不要放弃为他们祷告！`,
+    content_en: `I am Luke. Today I will tell you the most dramatic conversion in Christian history—Saul's turning to the Lord. This Pharisee who "breathed threats and murder against the disciples" would meet the risen Lord on the Damascus road, his life completely transformed, becoming Paul the apostle to the Gentiles.
+
+Saul was still breathing threats and murder against the Lord's disciples. Not satisfied with persecuting believers in Jerusalem, he went to the high priest and asked for letters to Damascus synagogues, to arrest followers of the Way, both men and women, and bring them to Jerusalem. His zeal was genuine, but completely misdirected—he thought he was zealous for God, not knowing he was resisting God himself. This is the most frightening aspect of religious zeal: it can be so sincere yet so wrong.
+
+As Saul approached Damascus, suddenly a light from heaven flashed around him. He fell to the ground and heard a voice: "Saul, Saul, why are you persecuting me?" Note this statement's depth: persecuting Christ's disciples is persecuting Christ himself. The church is Christ's body; touching the church is touching Christ.
+
+Saul asked, "Who are you, Lord?" He knew this was a voice from heaven, hence "Lord." The Lord said, "I am Jesus, whom you are persecuting." This answer must have shocked Saul: that crucified Nazarene was alive, speaking from heaven! His entire theological system collapsed—the Messiah couldn't be crucified, yet now this crucified one appeared from heavenly glory.
+
+The Lord said, "Rise and enter the city, and you will be told what you must do." Saul rose from the ground, opened his eyes, but could see nothing. The great light from heaven blinded his physical eyes, yet opened his spiritual eyes. His companions heard the voice but saw no one—showing this was Saul's personal encounter, the Lord's special election and calling.
+
+They led Saul by the hand into Damascus. This once proud Pharisee carrying letters to arrest believers now led like a blind man. Three days without sight, food, or drink. These three days must have been his life's most intense struggle—all his certainties overturned, all his pursuits becoming resistance to God. He needed darkness and fasting to re-know God and himself.
+
+Meanwhile, in Damascus was a disciple named Ananias. The Lord said to him in a vision, "Rise and go to Straight Street, to Judas's house, and ask for Saul of Tarsus. He is praying." Ananias must have been amazed: Saul praying? That persecutor? But the Lord said Saul had seen a vision of a man named Ananias laying hands on him to restore his sight.
+
+Ananias's response was genuine: "Lord, I have heard from many about this man, how much evil he has done to your saints in Jerusalem, and he has authority from the chief priests to bind all who call on your name here." His concern was completely understandable—wasn't this walking into the lion's den?
+
+But the Lord said, "Go, for he is a chosen instrument of mine to carry my name before Gentiles and kings and the children of Israel. I will show him how much he must suffer for the sake of my name." This prophesied Saul's life mission: apostle to Gentiles, witnessing before kings, preaching to fellow Israelites, and suffering for the Lord's name. The Lord chooses vessels not for comfort but for suffering and service.
+
+Ananias obeyed. He entered the house, laid hands on Saul, saying, "Brother Saul"—note this address, calling the former persecutor "brother"! What grace, what faith. "The Lord Jesus who appeared to you on the road has sent me so that you may regain your sight and be filled with the Holy Spirit."
+
+Something like scales fell from Saul's eyes and he regained sight, then rose and was baptized. Spiritual blindness healed, physical blindness healed. After eating he was strengthened, staying some days with disciples in Damascus. What swift transformation—moments ago an enemy to arrest them, now a brother in worship.
+
+Immediately Saul proclaimed Jesus in synagogues, saying he is the Son of God. All who heard were amazed: "Isn't this the man who ravaged those who call on this name in Jerusalem?" Saul not only repented but immediately became a witness. He didn't wait until "ready" to evangelize but urgently told others upon knowing Christ. True repentance always brings witnessing zeal.
+
+Saul increased in strength, confounding Damascus Jews, proving Jesus is the Christ. His learning and eloquence once used against the gospel now completely devoted to proclaiming Christ. God wastes none of our experiences and gifts; even talents used in sin can glorify him after repentance.
+
+But persecution came quickly. Jews plotted to kill Saul, watching the gates day and night. His disciples—note he already had disciples—lowered him in a basket through the wall at night. How humiliating! This once proud Pharisee now escaping like a criminal in a basket. But this was the beginning of "how much he must suffer for my name."
+
+Saul went to Jerusalem, trying to join disciples, but they all feared him, not believing he was a disciple. Completely understandable—who knew if this was a trap? But Barnabas welcomed him. Barnabas means "son of encouragement," and he lived up to it—always accepting and encouraging at critical moments. He brought Saul to the apostles, explaining how he saw the Lord on the road, how the Lord spoke, how he boldly preached in Damascus.
+
+So Saul moved about Jerusalem with disciples, boldly preaching in the Lord's name, debating with Hellenistic Jews. These were the same people who debated Stephen and killed him. Now Saul stood where Stephen stood, using Stephen's arguments, preaching the same Christ to the same enemies. Stephen's death was not in vain—his prayer "Lord, do not hold this sin against them" was answered in Saul.
+
+They tried to kill Saul, so brothers sent him to Caesarea and on to Tarsus, his hometown. He needed time for quiet, study, meditation. Between Acts 9 and 13, several years pass—what was Saul doing? Possibly in wilderness meditation, deeply taught by the Lord, as he said in Galatians, the gospel came through revelation of Jesus Christ.
+
+Meanwhile, the church throughout Judea, Galilee, and Samaria had peace, being built up, walking in fear of the Lord and comfort of the Holy Spirit, multiplying. The church's greatest persecutor repented; the church had peace. This chapter's latter half records Peter's two miracles: healing Aeneas paralyzed eight years in Lydda, raising Dorcas from death in Joppa. This shows even with Saul's prominent conversion, apostolic work continued, God's power still manifest.
+
+Brothers and sisters, Saul's story gives such hope! No one is beyond God's salvation. The hardest persecutor can become the most zealous apostle; the most erroneous belief can be illuminated by truth; the darkest past can be renewed by grace. If God could save Saul, he can save anyone you know deemed "impossible." Never stop praying for them!`,
+    historyContext_zh: `使徒行传第9章记载的扫罗归主事件，可能发生在公元34-36年间，是教会历史的转折点。扫罗（后来的保罗）出身便雅悯支派，生在基利家的大数——一个希腊化程度很高的城市，拥有罗马公民权。他在耶路撒冷师从当时最著名的拉比迦玛列，是严格的法利赛人，精通律法和希腊文化。这样的背景使他成为向外邦宣教的完美器皿。
+
+扫罗逼迫教会的动机可能源于真诚的宗教信念。对于法利赛人而言，拿撒勒人耶稣的跟随者是异端：他们宣称一个被罗马人钉十字架的犹太人是弥赛亚，这在当时看来是荒谬的（申命记21:23说挂在木头上的人是被神咒诅的）。更严重的是，基督徒宣称外邦人可以不经割礼直接进入神的国，这动摇了犹太教的根基。扫罗认为自己是在捍卫正统信仰、保护神的荣耀，却不知道正在抵挡神自己。
+
+大马士革在当时是重要的犹太侨民聚居地，离耶路撒冷约240公里，步行需要5-7天。犹太公会的权限理论上不延伸到罗马的叙利亚行省，但实际上大祭司对散居各地的犹太会堂有相当影响力，可以要求他们配合抓捕"异端"。扫罗持文书前往，显示他的使命得到官方授权。
+
+扫罗悔改后在"亚拉伯"（可能指大马士革附近的旷野地区）度过的那些年（加拉太书1:17），是他神学装备的关键时期。他需要重新理解整本旧约——所有那些他曾经熟悉的经文，如今都要在基督的光照下重新解读。这段时期的默想和启示，成为他后来书信神学的基础。`,
+    historyContext_en: `Saul's conversion recorded in Acts 9, likely occurring between 34-36 AD, was a turning point in church history. Saul (later Paul) was from the tribe of Benjamin, born in Tarsus of Cilicia—a highly Hellenized city—with Roman citizenship. He studied in Jerusalem under Gamaliel, the most famous rabbi of the time, was a strict Pharisee, proficient in Law and Greek culture. This background made him the perfect vessel for Gentile mission.
+
+Saul's motivation to persecute likely stemmed from sincere religious belief. For Pharisees, followers of Jesus of Nazareth were heretics: they claimed a Jew crucified by Romans was the Messiah—absurd at the time (Deuteronomy 21:23 says one hanged is cursed by God). More seriously, Christians proclaimed Gentiles could enter God's kingdom without circumcision, shaking Judaism's foundation. Saul thought he was defending orthodox faith and protecting God's glory, not knowing he was resisting God himself.
+
+Damascus was then an important Jewish diaspora center, about 240 km from Jerusalem, requiring 5-7 days on foot. The Sanhedrin's jurisdiction theoretically didn't extend to Rome's Syrian province, but the high priest had considerable influence over diaspora synagogues, able to request cooperation in arresting "heretics." Saul's letters showed his mission had official authorization.
+
+The years Saul spent in "Arabia" (possibly wilderness near Damascus) after conversion (Galatians 1:17) were crucial for theological preparation. He needed to re-understand the entire Old Testament—all those familiar Scriptures now reinterpreted in Christ's light. This period of meditation and revelation became the foundation for his later epistles' theology.`,
+    structure_zh: `使徒行传第9章分为三个主要段落：扫罗的悔改（1-19a节）、扫罗的传道与逃离（19b-31节）、彼得的神迹（32-43节）。整章以扫罗为中心，但最后一段回到彼得，显示神在多个器皿中同时工作。
+
+第一段（1-19a）是精心构建的悔改叙事。开头描述扫罗的逼迫（1-2节），然后是主显现（3-6节）、同行者的见证（7-9节）、亚拿尼亚的异象（10-16节）、扫罗得医治受洗（17-19a节）。这个结构中有两个平行的异象：主向扫罗显现，主向亚拿尼亚显现，两个异象在第17节交汇，完成神的计划。
+
+亚拿尼亚的顺服是关键转折。他的恐惧（13-14节）代表所有信徒对扫罗的戒备，但主的命令（15-16节）揭示更大的图景。第15节的"拣选的器皿"、"在外邦人和君王并以色列人面前宣扬我的名"是对扫罗一生使命的浓缩预言。
+
+第二段（19b-31节）展现悔改的果子：立即传道（19b-22节）、遭遇逼迫（23-25节）、在耶路撒冷被接纳（26-30节）、教会得平安（31节）。这段用"立即"、"越发有能力"等词强调扫罗传道的热心，也用逼迫和逃亡显示十字架的道路从一开始就临到他。第31节是整段的总结，也是承上启下的过渡："教会都得平安，被建立……人数就增多了。"
+
+第三段（32-43节）表面上是叙事转向，其实有深意。彼得医治瘫痪的以尼雅、使多加复活，显明即使扫罗这样的归主大事，使徒的工作仍在继续。这也预示后来彼得（犹太人的使徒）和保罗（外邦人的使徒）将各有分工但彼此配搭。路加巧妙地把扫罗的故事和彼得的故事并列，显示神在多个战线上同时推进他的国度。`,
+    structure_en: `Acts 9 divides into three main sections: Saul's conversion (vv.1-19a), Saul's preaching and escape (vv.19b-31), Peter's miracles (vv.32-43). The chapter centers on Saul but concludes with Peter, showing God working through multiple vessels simultaneously.
+
+The first section (vv.1-19a) is a carefully constructed conversion narrative. It opens with Saul's persecution (vv.1-2), then the Lord's appearance (vv.3-6), companions' witness (vv.7-9), Ananias's vision (vv.10-16), Saul's healing and baptism (vv.17-19a). This structure has two parallel visions: the Lord appearing to Saul, the Lord appearing to Ananias, converging in verse 17 to complete God's plan.
+
+Ananias's obedience is the key turning point. His fear (vv.13-14) represents all believers' wariness of Saul, but the Lord's command (vv.15-16) reveals the bigger picture. Verse 15's "chosen instrument," "to carry my name before Gentiles and kings and Israel" is a condensed prophecy of Saul's life mission.
+
+The second section (vv.19b-31) shows conversion's fruit: immediate preaching (vv.19b-22), persecution encountered (vv.23-25), acceptance in Jerusalem (vv.26-30), church peace (v.31). This section uses "immediately," "increased in strength" emphasizing Saul's preaching zeal, also using persecution and escape to show the cross's path came from the start. Verse 31 summarizes and transitions: "So the church... had peace... was being built up... multiplied."
+
+The third section (vv.32-43) appears to shift narrative but has deeper meaning. Peter healing paralyzed Aeneas and raising Dorcas shows that even with Saul's momentous conversion, apostolic work continued. This also foreshadows later Peter (apostle to Jews) and Paul (apostle to Gentiles) having distinct yet cooperative roles. Luke skillfully juxtaposes Saul's and Peter's stories, showing God advancing his kingdom on multiple fronts.`,
+    theology_zh: `使徒行传第9章是改革宗预定论和拣选教义的经典文本。主对亚拿尼亚说扫罗"是我所拣选的器皿"，这不是基于扫罗的任何功德——当时他正在逼迫教会！这显明神拣选的主权：不在乎人的行为，只在乎神的怜悯（罗马书9:16）。扫罗后来自己也多次强调，他能成为使徒完全是神的恩典，因为他"原是使徒中最小的，不配称为使徒，因为我从前逼迫神的教会"（哥林多前书15:9）。
+
+第二，这章显明不可抗拒的恩典。扫罗不是在寻求基督——他正在逼迫基督！是基督主动临到他、击打他、光照他、呼召他。他没有能力拒绝这个呼召。这就是改革宗所说的"有效恩召"：神所呼召的人必定会回应，因为是神自己在改变人心，而非人靠自由意志选择神。
+
+第三，称义与成圣立即连接。扫罗一悔改就立刻传道，没有等待"更多装备"或"更多成长"。这显明真正的归主必然带来生命的转化和使命的热心。改革宗反对"廉价恩典"——真信心必然结出行为的果子，虽然得救不靠行为，但得救的人必然有好行为。
+
+第四，受苦是呼召的一部分。主对亚拿尼亚说："我也要指示他，为我的名必须受许多的苦难。"这与今天"成功神学"的教导完全相反。改革宗神学强调，跟随基督意味着背十字架，荣耀之前必有苦难。扫罗立刻就经历了：刚传道就遭逼迫，要从城墙上逃跑，在耶路撒冷不被信任。但这些苦难都在神的计划之中，是装备他、塑造他的过程。
+
+第五，教会的合一与接纳。亚拿尼亚称扫罗为"兄弟"，巴拿巴接待他，显示基督里的新身份超越过去的仇恨。改革宗教会强调，在基督里我们是一家人，过去的罪（无论多重）都被基督的宝血洗净。教会应该像亚拿尼亚和巴拿巴一样，愿意接纳悔改的罪人，给他们重新开始的机会。
+
+最后，这章也暗示特殊启示的终止。扫罗在这里经历的是使徒性的呼召和启示，与其他十二使徒类似。他在加拉太书1:12说："因为我不是从人领受的，也不是人教导我的，乃是从耶稣基督启示来的。"这种直接从基督而来的启示构成新约正典的基础。但这样的启示随着使徒时代结束而结束，如今我们有全备的圣经，不再需要新的启示。`,
+    theology_en: `Acts 9 is a classic text for Reformed predestination and election doctrine. The Lord told Ananias Saul "is a chosen instrument of mine"—not based on any merit of Saul's, who was then persecuting the church! This shows God's sovereign election: not dependent on human will or works, but God's mercy (Romans 9:16). Paul himself later emphasized he became an apostle entirely by God's grace, being "the least of the apostles, unworthy to be called an apostle, because I persecuted the church of God" (1 Corinthians 15:9).
+
+Second, this chapter shows irresistible grace. Saul wasn't seeking Christ—he was persecuting Christ! Christ proactively came, struck, illuminated, and called him. He had no power to refuse this call. This is Reformed "effectual calling": those God calls will certainly respond, because God himself changes hearts, not people choosing God by free will.
+
+Third, justification and sanctification immediately connect. Saul immediately preached upon conversion, not waiting for "more preparation" or "more growth." This shows genuine turning to the Lord inevitably brings life transformation and mission zeal. Reformed theology rejects "cheap grace"—true faith inevitably bears behavioral fruit; though salvation isn't by works, the saved inevitably have good works.
+
+Fourth, suffering is part of the calling. The Lord told Ananias, "I will show him how much he must suffer for the sake of my name." This completely contradicts today's "prosperity gospel." Reformed theology emphasizes following Christ means bearing the cross; glory comes through suffering. Saul immediately experienced this: persecution upon preaching, escaping over the wall, distrusted in Jerusalem. But these sufferings were in God's plan, equipping and shaping him.
+
+Fifth, church unity and acceptance. Ananias called Saul "brother," Barnabas welcomed him, showing new identity in Christ transcends past hatred. Reformed churches emphasize in Christ we are one family; past sins (however grave) are washed by Christ's blood. The church should be like Ananias and Barnabas, willing to accept repentant sinners, giving them a fresh start.
+
+Finally, this chapter implies special revelation's cessation. Saul experienced apostolic calling and revelation similar to the twelve. He said in Galatians 1:12, "For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ." Such direct revelation from Christ formed the foundation of the New Testament canon. But such revelation ended with the apostolic age; now we have complete Scripture, no new revelation needed.`,
+    christShadow_zh: `使徒行传第9章整章都是基督救赎大能的彰显。扫罗的悔改本身就是基督复活和升天的明证——那位被钉十字架的拿撒勒人，如今从天上的荣耀中向逼迫他的人显现，完全翻转他的生命。这显明基督不是死了的教主，而是活着的主，有能力拯救到底。
+
+扫罗在大马士革路上的经历预表每个罪人的归主。他本来在黑暗中，以为自己行在光明里；他逼迫基督，还以为自己在事奉神。这正是罪人的光景：瞎眼、悖逆、抵挡神，却不自知。然后基督的光照耀他，他仆倒在地，眼睛瞎了——这象征罪人被圣灵光照后，看见自己的罪和神的圣洁，在神面前完全降服。
+
+扫罗三日不能看见、不吃不喝，预表与基督同死同埋葬。这三日如同基督在坟墓里的三日，是旧人死去的时期。当亚拿尼亚来为他按手，他眼睛上的鳞掉下来，这预表复活——从死里活过来，成为新造的人。"若有人在基督里，他就是新造的人，旧事已过，都变成新的了"（哥林多后书5:17）。
+
+主对扫罗说"你为什么逼迫我"，揭示了教会与基督的联合。基督把教会称为"我"——教会是基督的身体，与他联合到一个地步，逼迫教会就是逼迫基督自己。这预表基督徒与基督神秘的联合：我们在他里面，他也在我们里面；我们的苦难是他的苦难，他的荣耀也是我们的荣耀。
+
+主对亚拿尼亚说的话"他是我所拣选的器皿"，预表基督是拣选的主。正如父在创世以前在基督里拣选了我们（以弗所书1:4），扫罗在母腹中就被神拣选（加拉太书1:15）。这不是基于人的行为，而完全是神主权的恩典。基督为他所拣选的人死在十字架上，也必定使他们归向他。
+
+"他必须为我的名受许多苦难"预表基督受苦的道路。正如基督"必须"受苦才能进入荣耀，他的门徒也"必须"背十字架跟随他。扫罗一生的苦难都是与基督一同受苦，"和他一同受苦，效法他的死"（腓立比书3:10）。将来我们若与他一同受苦，也必与他一同得荣耀（罗马书8:17）。
+
+亚拿尼亚对扫罗说"兄弟扫罗"，预表基督使我们成为神家里的人。这个逼迫教会的仇敌，如今被称为"弟兄"，是因为基督的宝血使我们与神和好，也彼此和好。基督"拆毁了中间隔断的墙"（以弗所书2:14），使我们这些本来与神为仇的人，如今在基督里成为弟兄姊妹。
+
+最后，扫罗归主后立刻传讲基督，预表所有信徒都是基督的见证人。我们不是等到完全了才传福音，而是一认识基督就迫不及待要告诉别人。这是圣灵在我们里面的自然流露——我们不能不说我们所看见所听见的（使徒行传4:20）。`,
+    christShadow_en: `Acts 9 entire chapter manifests Christ's redemptive power. Saul's conversion itself is evidence of Christ's resurrection and ascension—that crucified Nazarene now appears from heavenly glory to his persecutor, completely transforming his life. This shows Christ is not a dead teacher but living Lord, able to save to the uttermost.
+
+Saul's Damascus road experience prefigures every sinner's turning to the Lord. He was in darkness thinking he walked in light; persecuting Christ thinking he served God. This is the sinner's condition: blind, rebellious, resisting God unknowingly. Then Christ's light shone on him, he fell, eyes blinded—symbolizing sinners illuminated by the Spirit, seeing their sin and God's holiness, completely surrendering before God.
+
+Saul's three days without sight, food, or drink prefigure dying and being buried with Christ. These three days like Christ's three days in the tomb, the old man's dying period. When Ananias laid hands on him and scales fell from his eyes, this prefigures resurrection—coming alive from death, becoming a new creation. "If anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come" (2 Corinthians 5:17).
+
+The Lord's question "Why are you persecuting me" reveals the church's union with Christ. Christ called the church "me"—the church is Christ's body, united with him so that persecuting the church is persecuting Christ himself. This prefigures Christians' mystical union with Christ: we in him, he in us; our sufferings are his sufferings, his glory is our glory.
+
+The Lord's words to Ananias "he is a chosen instrument of mine" prefigure Christ as the chooser. Just as the Father chose us in Christ before the world's foundation (Ephesians 1:4), Saul was chosen from his mother's womb (Galatians 1:15). Not based on human works but entirely God's sovereign grace. Christ died on the cross for his chosen ones and will certainly draw them to himself.
+
+"He must suffer much for the sake of my name" prefigures Christ's suffering path. Just as Christ "must" suffer to enter glory, his disciples "must" take up the cross and follow. Saul's lifetime sufferings were suffering with Christ, "that I may know him and the power of his resurrection, and may share his sufferings" (Philippians 3:10). If we suffer with him, we will be glorified with him (Romans 8:17).
+
+Ananias calling Saul "Brother Saul" prefigures Christ making us God's household. This church-persecuting enemy now called "brother" because Christ's blood reconciled us to God and each other. Christ "broke down the dividing wall" (Ephesians 2:14), making us who were enemies of God now brothers and sisters in Christ.
+
+Finally, Saul immediately preaching Christ after conversion prefigures all believers as Christ's witnesses. We don't wait until perfect to evangelize but urgently tell others upon knowing Christ. This is the Spirit's natural outflow in us—we cannot but speak of what we have seen and heard (Acts 4:20).`,
   },
   {
     id: 'acts-10',
@@ -3523,16 +4727,160 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '路加',
     authorEn: 'Luke',
     publishDate: '2026-05-13',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `我是路加。今天要向你讲述福音历史上的另一个重大突破——外邦人哥尼流全家归主。如果说扫罗的悔改是个人层面的神迹，哥尼流的悔改则是群体层面的突破：外邦人不必先成为犹太人，就可以直接因信称义、领受圣灵。
+
+在该撒利亚有一个人名叫哥尼流，是意大利营的百夫长。这意味着他是罗马军官，外邦人，甚至是占领军的一员。但经文特别说他"是个虔诚人，他和全家都敬畏神，多多赒济百姓，常常祷告神"。他是"敬畏神的人"——这是当时对那些被一神信仰吸引、却未完全皈依犹太教（未受割礼）的外邦人的称呼。
+
+有一天约在申初（下午三点，犹太人的祷告时间），他在异象中明明看见神的使者进来，对他说："哥尼流。"他惊怕地说："主啊，什么事呢？"天使说："你的祷告和你的赒济达到神面前，已蒙记念了。现在你当打发人往约帕去，请那称呼彼得的西门来。"
+
+这是何等的恩典！哥尼流还不认识基督，但他对神的敬畏和对人的怜悯，神都看见了。这不是说他靠行为得救——救恩永远是因着恩典、借着信心。但神回应寻求他的人，为他们预备认识真理的机会。哥尼流立刻顺服，打发两个家人和一个虔诚兵往约帕去。
+
+第二天，这些人行路将近约帕时，彼得约在午正上房顶去祷告。他觉得饿了，想要吃。那家的人正预备饭时，彼得魂游象外，看见天开了，有一物降下，好像一块大布，系着四角，缒在地上，里面有地上各样四足的走兽和昆虫，并天上的飞鸟。又有声音向他说："彼得，起来，宰了吃！"
+
+彼得却说："主啊，这是不可的！凡俗物和不洁净的物，我从来没有吃过。"这反应很自然——彼得是虔诚的犹太人，从小就遵守利未记的饮食律法。不洁净的动物不能吃，这是他的信仰基础之一。
+
+但第二次有声音向他说："神所洁净的，你不可当作俗物。"这样一连三次，那物随即收回天上去了。这个异象太清楚了：神在重新定义什么是洁净、什么是不洁净。新约时代来临，旧约的礼仪律法已经完成使命，不再约束信徒。
+
+正当彼得猜疑之间，哥尼流差来的人已经站在门外。圣灵向彼得说："有三个人来找你。起来，下去，和他们同往，不要疑惑，因为是我差他们来的。"彼得立刻顺服——虽然按犹太人的规矩，不应该接待外邦人，但圣灵既然吩咐，他就去了。
+
+次日，他们进入该撒利亚。哥尼流已经请了他的亲属密友等候。彼得一进去，哥尼流就俯伏在他脚前拜他。这个罗马百夫长，习惯被人敬礼，如今却谦卑地俯伏在一个犹太渔夫面前。但彼得拉他说："你起来，我也是人。"这显明真使徒的心——不接受人的敬拜，只把荣耀归给神。
+
+彼得进去，见有好些人在那里聚集。他对他们说明："你们知道，犹太人和别国的人亲近来往本是不合例的，但神已经指示我，无论什么人都不可看作俗而不洁净的。"这是多么大的突破！彼得承认这违反了他一生的教养，但神的启示高于人的传统。
+
+哥尼流讲述了四天前的异象，然后说："现今我们都在神面前，要听主所吩咐你的一切话。"多么谦卑、多么渴慕的心！他聚集了亲友，专心要听神的话。这才是听道的正确态度。
+
+彼得就开口传讲福音：神不偏待人，各国中那敬畏主、行义的人都为主所悦纳。他讲述耶稣的生平、受死、复活、升天，以及将来要审判活人死人。他说："众先知也为他作见证，说凡信他的人，必因他的名得蒙赦罪。"
+
+彼得还说这话的时候，圣灵降在一切听道的人身上！那些奉割礼、和彼得同来的信徒见圣灵的恩赐也浇在外邦人身上，就都希奇，因听见他们说方言、称赞神为大。这是"外邦人的五旬节"——圣灵主动降临，不是在彼得讲道结束后，也不是在受洗之后，而是在他们正听道、正相信的时候。神亲自印证：外邦人与犹太人一样，因信就可以得救、受圣灵。
+
+于是彼得说："这些人既受了圣灵，与我们一样，谁能禁止用水给他们施洗呢？"就吩咐奉耶稣基督的名给他们施洗。他们又请彼得住了几天——新生的信徒需要教导和牧养。
+
+弟兄姊妹，这一章对教会意义重大。它显明神的救恩是给万国万民的，不分犹太人、外邦人。在基督里，一切隔断的墙都拆毁了。神不偏待人，不是看外在的血统和仪式，而是看内心的信心。今天我们这些外邦信徒能够直接归向基督，全是因为哥尼流家的突破。感谢神的恩典，使福音临到地极！`,
+    content_en: `I am Luke. Today I tell you another major breakthrough in gospel history—the conversion of Cornelius the Gentile and his household. If Saul's conversion was a miracle at the individual level, Cornelius's conversion was a breakthrough at the group level: Gentiles need not first become Jews but can be justified by faith and receive the Spirit directly.
+
+In Caesarea was a man named Cornelius, a centurion of the Italian Cohort. This meant he was a Roman officer, a Gentile, even part of the occupying army. But Scripture specifically says he "was a devout man who feared God with all his household, gave alms generously, and prayed continually to God." He was a "God-fearer"—the term for Gentiles attracted to monotheism but not fully converted to Judaism (uncircumcised).
+
+One day at the ninth hour (3 PM, Jewish prayer time), he clearly saw in a vision an angel of God coming in and saying, "Cornelius." He stared at him in fear and said, "What is it, Lord?" The angel said, "Your prayers and your alms have ascended as a memorial before God. Now send men to Joppa and bring one Simon who is called Peter."
+
+What grace! Cornelius didn't yet know Christ, but God saw his reverence and compassion. This doesn't mean he was saved by works—salvation is always by grace through faith. But God responds to those who seek him, preparing opportunities to know truth. Cornelius immediately obeyed, sending two servants and a devout soldier to Joppa.
+
+The next day, as they approached Joppa, Peter went up on the housetop at noon to pray. He became hungry and wanted to eat. While they were preparing food, he fell into a trance and saw heaven opened and something like a great sheet descending, lowered by its four corners, with all kinds of four-footed animals, reptiles, and birds. A voice said, "Rise, Peter; kill and eat."
+
+But Peter said, "By no means, Lord; for I have never eaten anything common or unclean." This response was natural—Peter was a devout Jew, observing Levitical dietary laws from childhood. Unclean animals couldn't be eaten; this was foundational to his faith.
+
+But a second voice said, "What God has made clean, do not call common." This happened three times, then was taken up to heaven. This vision was crystal clear: God was redefining what is clean and unclean. The New Covenant era had come; Old Covenant ceremonial laws had fulfilled their mission and no longer bound believers.
+
+While Peter was pondering, Cornelius's messengers stood at the gate. The Spirit said to Peter, "Behold, three men are looking for you. Rise and go down and accompany them without hesitation, for I have sent them." Peter immediately obeyed—though Jewish custom prohibited hosting Gentiles, since the Spirit commanded, he went.
+
+The next day they entered Caesarea. Cornelius had gathered his relatives and close friends. When Peter entered, Cornelius fell at his feet and worshiped. This Roman centurion, accustomed to receiving salutes, now humbly prostrated before a Jewish fisherman. But Peter lifted him, saying, "Stand up; I too am a man." This shows a true apostle's heart—refusing human worship, giving glory to God alone.
+
+Peter entered and saw many gathered. He explained: "You yourselves know it is unlawful for a Jew to associate with or visit a Gentile, but God has shown me I should not call any person common or unclean." What a breakthrough! Peter admitted this violated his lifelong upbringing, but God's revelation supersedes human tradition.
+
+Cornelius recounted his vision four days earlier, then said, "Now we are all here in the presence of God to hear all that you have been commanded by the Lord." What humble, thirsting hearts! He gathered relatives and friends, earnestly wanting to hear God's word. This is the right attitude for hearing.
+
+Peter began preaching the gospel: God shows no partiality, but in every nation anyone who fears him and does right is acceptable to him. He recounted Jesus' life, death, resurrection, ascension, and future judgment of living and dead. He said, "To him all the prophets bear witness that everyone who believes in him receives forgiveness of sins through his name."
+
+While Peter was still speaking, the Holy Spirit fell on all who heard! The circumcised believers who came with Peter were amazed that the Holy Spirit's gift was poured out even on Gentiles, for they heard them speaking in tongues and extolling God. This was the "Gentile Pentecost"—the Spirit sovereignly descended, not after Peter finished preaching, not after baptism, but while they were hearing and believing. God himself confirmed: Gentiles like Jews can be saved and receive the Spirit by faith.
+
+Then Peter said, "Can anyone withhold water for baptizing these who have received the Holy Spirit just as we have?" He commanded them to be baptized in the name of Jesus Christ. They asked Peter to remain for some days—newborn believers need teaching and shepherding.
+
+Brothers and sisters, this chapter is crucial for the church. It shows God's salvation is for all nations, no distinction between Jew and Gentile. In Christ, all dividing walls are demolished. God shows no partiality, not looking at external lineage and ritual but inward faith. Today we Gentile believers can turn directly to Christ entirely because of the Cornelius household breakthrough. Thanks be to God's grace, bringing the gospel to earth's ends!`,
+    historyContext_zh: `使徒行传第10章的事件可能发生在公元40-41年间，距离五旬节约十年。哥尼流的归主是早期教会从犹太宗教转向普世教会的关键转折点，为后来保罗的外邦宣教铺平道路。
+
+该撒利亚是罗马在犹太行省的首府，由大希律建造，以罗马皇帝奥古斯都（该撒）命名。这是一个彻底罗马化、希腊化的城市，有宏伟的港口、圆形剧场、希律宫殿等。在犹太人眼中，这是外邦人的城市、不洁之地。哥尼流作为"意大利营"的百夫长，管理80-100名士兵，是罗马占领军的中级军官。
+
+"敬畏神的人"（希腊文sebomenoi）是当时一个特殊群体的称呼。他们被犹太教的一神信仰和道德律法吸引，参加会堂聚会，遵守某些律法（如禁食猪肉、守安息日），但未完全归信犹太教（未受割礼、未完全遵守律法）。使徒行传中多次提到这个群体（13:16,26; 13:43; 16:14; 17:4,17; 18:7），他们成为早期基督教最receptive的听众——他们厌倦了希腊罗马多神教的虚空，却不愿意承受犹太教的重担。福音正好满足了他们的需要：敬拜独一真神，却不必受割礼或遵守繁琐的礼仪律法。
+
+彼得住在硝皮匠西门家也很重要。按犹太传统，硝皮匠（处理死动物皮革的工匠）是不洁净的职业，虔诚的犹太人应避免与他们来往。但彼得住在他家，显示他已经开始突破犹太人的洁净观念。这为接受哥尼流做了心理准备。
+
+这一章后来引发耶路撒冷教会的激烈辩论（使徒行传11章），最终导致使徒行传15章的耶路撒冷大会，正式确认外邦信徒的地位。`,
+    historyContext_en: `The events in Acts 10 likely occurred around 40-41 AD, about ten years after Pentecost. Cornelius's conversion was a key turning point in the early church's shift from Jewish religion to universal church, paving the way for Paul's later Gentile mission.
+
+Caesarea was the Roman capital of Judea province, built by Herod the Great and named after Caesar Augustus. This was a thoroughly Romanized, Hellenized city with magnificent harbor, amphitheater, Herod's palace, etc. In Jewish eyes, this was a Gentile city, an unclean place. Cornelius as centurion of the "Italian Cohort" managed 80-100 soldiers, a mid-level officer of the Roman occupation.
+
+"God-fearers" (Greek sebomenoi) was a term for a special group at the time. They were attracted to Judaism's monotheism and moral law, attended synagogue, observed some laws (like avoiding pork, keeping Sabbath), but hadn't fully converted (uncircumcised, didn't fully observe the Law). Acts mentions this group multiple times (13:16,26; 13:43; 16:14; 17:4,17; 18:7); they became early Christianity's most receptive audience—tired of Greco-Roman polytheism's emptiness yet unwilling to bear Judaism's burden. The gospel perfectly met their need: worshiping the one true God without circumcision or burdensome ceremonial laws.
+
+Peter staying at Simon the tanner's house was also significant. By Jewish tradition, tanners (craftsmen handling dead animal hides) had an unclean profession; devout Jews should avoid association. But Peter stayed there, showing he was already breaking through Jewish purity concepts. This prepared him psychologically to accept Cornelius.
+
+This chapter later sparked intense debate in the Jerusalem church (Acts 11), ultimately leading to the Jerusalem Council in Acts 15, formally confirming Gentile believers' status.`,
+    structure_zh: `使徒行传第10章采用精心编织的双线叙事：哥尼流的异象（1-8节）与彼得的异象（9-16节）平行展开，然后在该撒利亚汇合（17-48节）。这种结构强调神在两端同时工作，主动预备双方的心。
+
+第一段（1-8节）聚焦哥尼流。经文先介绍他的身份和敬虔（1-2节），然后是异象（3-6节）、顺服（7-8节）。第2节特别强调他"和全家"都敬畏神，预示后来"全家"都要归主。天使的话"你的祷告和赒济已蒙记念"显明神回应寻求他的人。
+
+第二段（9-16节）聚焦彼得。时间上与哥尼流的人"将近那城"精确对应（9节），显示神的时间安排。异象三次重复（"这样一连三次"），强调信息的重要性和确定性。"神所洁净的，你不可当作俗物"是全章的神学核心。
+
+第三段（17-23a节）是过渡：彼得猜疑（17节）、圣灵说话（19-20节）、彼得顺服接待外邦使者（21-23a节）。这显示虽有异象，彼得仍需要时间理解和顺服。
+
+第四段（23b-33节）叙述双方会面。彼得带着"约帕的几个弟兄"同去（23节），他们后来成为见证人（11:12）。哥尼流俯伏、彼得拒绝敬拜（25-26节）、彼得解释自己的转变（28-29节）、哥尼流讲述异象（30-33节），每个细节都在建立信任和理解。
+
+第五段（34-43节）是彼得的讲道。结构清晰：神不偏待人的宣告（34-35节）、福音概要（36-43节）。福音概要包括耶稣的事工（36-38节）、十字架（39节）、复活（40节）、显现（41节）、审判（42节）、赦罪（43节）。
+
+第六段（44-48节）是高潮：圣灵降临（44节）、犹太信徒惊奇（45-46节）、施洗（47-48节）。圣灵在彼得讲道中间就降临，打破了所有传统程序，显明神的主权和恩典。全章以彼得"住了几天"结束，显示归信不是一次性事件，而是需要持续的牧养和教导。`,
+    structure_en: `Acts 10 uses carefully woven dual narrative: Cornelius's vision (vv.1-8) parallels Peter's vision (vv.9-16), then converges in Caesarea (vv.17-48). This structure emphasizes God working simultaneously on both sides, proactively preparing hearts.
+
+The first section (vv.1-8) focuses on Cornelius. Scripture first introduces his identity and piety (vv.1-2), then vision (vv.3-6), obedience (vv.7-8). Verse 2 especially emphasizes he and "all his household" feared God, foreshadowing "whole household" conversion. The angel's words "your prayers and alms have been remembered" show God responding to seekers.
+
+The second section (vv.9-16) focuses on Peter. Timing precisely corresponds with Cornelius's men "approaching the city" (v.9), showing God's timing. The vision repeats three times ("This happened three times"), emphasizing the message's importance and certainty. "What God has made clean, do not call common" is the chapter's theological core.
+
+The third section (vv.17-23a) transitions: Peter pondering (v.17), Spirit speaking (vv.19-20), Peter obeying by hosting Gentile messengers (vv.21-23a). This shows despite the vision, Peter still needed time to understand and obey.
+
+The fourth section (vv.23b-33) narrates the meeting. Peter brought "some of the brothers from Joppa" (v.23), who later became witnesses (11:12). Cornelius prostrating, Peter refusing worship (vv.25-26), Peter explaining his transformation (vv.28-29), Cornelius recounting his vision (vv.30-33)—every detail builds trust and understanding.
+
+The fifth section (vv.34-43) is Peter's sermon. Clear structure: God shows no partiality declaration (vv.34-35), gospel summary (vv.36-43). Summary includes Jesus' ministry (vv.36-38), cross (v.39), resurrection (v.40), appearances (v.41), judgment (v.42), forgiveness (v.43).
+
+The sixth section (vv.44-48) is climax: Spirit descending (v.44), Jewish believers amazed (vv.45-46), baptism (vv.47-48). The Spirit descended mid-sermon, breaking all traditional procedures, showing God's sovereignty and grace. The chapter ends with Peter "remaining for some days," showing conversion isn't a one-time event but requires ongoing shepherding and teaching.`,
+    theology_zh: `使徒行传第10章是改革宗普遍恩召（common grace）与有效恩召（effectual calling）教义的绝佳例证。哥尼流虽是外邦人，却因普遍恩召（借着良心和神在自然界的启示）敬畏神、行善。但普遍恩召不能拯救人——他仍需听见福音、信靠基督。神的普遍恩典使人寻求神，神的特殊恩典（福音）使人得救。
+
+彼得的宣告"神不偏待人"（希腊文prosopolemptes）是全章的神学核心。这不是说所有人都会得救（普救论），而是说神拣选不基于外在的身份、血统或遵行律法，而完全基于他主权的恩典和人的信心。"各国中那敬畏主、行义的人都为主所悦纳"不是说靠行为得救，而是说真信心必然带来敬畏神和行义的生活——行为是信心的果子和证据。
+
+圣灵在彼得讲道中间就降临，显明救恩的次序：不是先受洗后得圣灵，也不是先有完全的理解后才得圣灵，而是在听道、相信的时候，圣灵就赐下。这支持改革宗的"因信称义"教义：人得救的那一刻就被圣灵重生、印记，虽然后续还有成圣的过程。
+
+"神所洁净的，你不可当作俗物"宣告了旧约礼仪律法的废除。改革宗神学区分三种律法：道德律（十诫，永远有效）、民事律（以色列国家律法，基督徒不必遵守）、礼仪律（献祭、洁净条例等，在基督里已经成全）。饮食律属于礼仪律，在新约时代不再约束信徒。这不是说律法本身有问题，而是它已经完成了指向基督的使命。
+
+哥尼流全家归主也显明改革宗的"约中儿女"概念。信徒的家庭在神的约中有特殊地位，神乐意拯救一家。但这不是自动的——每个人仍需个人的信心。哥尼流全家都信，不是因为家长信就自动得救，而是神同时在每个人心中工作。
+
+最后，这章显明圣灵的主权。是圣灵主动引导彼得去、主动降临在听道的人身上，不是人的仪式或努力能控制的。改革宗神学强调圣灵是自由的风，随己意吹（约翰福音3:8），我们只能顺服和见证他的工作。`,
+    theology_en: `Acts 10 excellently illustrates Reformed doctrines of common grace and effectual calling. Though a Gentile, Cornelius through common grace (via conscience and God's revelation in nature) feared God and did good. But common grace cannot save—he still needed to hear the gospel and trust Christ. God's common grace makes people seek God; God's special grace (gospel) saves people.
+
+Peter's declaration "God shows no partiality" (Greek prosopolemptes) is the chapter's theological core. This doesn't mean everyone will be saved (universalism), but that God's election isn't based on external identity, lineage, or law-keeping but entirely on his sovereign grace and human faith. "In every nation anyone who fears him and does right is acceptable to him" doesn't mean salvation by works, but that true faith inevitably brings God-fearing and right-doing life—works are faith's fruit and evidence.
+
+The Spirit descending mid-sermon shows salvation's order: not first baptism then Spirit, not first full understanding then Spirit, but while hearing and believing, the Spirit is given. This supports Reformed "justification by faith" doctrine: the moment of salvation one is regenerated and sealed by the Spirit, though sanctification follows.
+
+"What God has made clean, do not call common" abolished Old Testament ceremonial law. Reformed theology distinguishes three types of law: moral law (Ten Commandments, eternally valid), civil law (Israel's national law, Christians need not observe), ceremonial law (sacrifices, purity regulations, fulfilled in Christ). Dietary laws are ceremonial, no longer binding believers in the New Covenant era. Not that the law was flawed, but it completed its mission of pointing to Christ.
+
+Cornelius's household conversion also shows Reformed "covenant children" concept. Believers' families have special covenant status; God delights to save households. But not automatic—each still needs personal faith. Cornelius's household all believed not because the head's faith automatically saved them, but God simultaneously worked in every heart.
+
+Finally, this chapter shows the Spirit's sovereignty. The Spirit proactively guided Peter to go, proactively descended on hearers, not controlled by human ritual or effort. Reformed theology emphasizes the Spirit is free wind, blowing where he wills (John 3:8); we can only obey and witness his work.`,
+    christShadow_zh: `使徒行传第10章整章都预表基督拆毁隔断的墙、使犹太人和外邦人在他里面合一的工作。"神所洁净的，你不可当作俗物"不仅是关于食物，更是关于人——基督的宝血洁净了我们，使我们这些不洁净的罪人得以进到神面前。
+
+彼得看见的异象——一块大布从天降下，里面有各样的走兽——预表基督从天降下，召聚各国各族的人进入他的国度。那块布"系着四角"，象征地的四方，显明福音要传到地极。里面的"各样"走兽预表万国万民，无论是犹太人还是外邦人，在基督里都成为洁净。
+
+"神所洁净的"指向基督的救赎工作。是基督在十字架上的宝血洁净我们，不是我们自己变得洁净。正如那些走兽本来是不洁净的，但神宣告它们为洁净，我们也本来是罪人、不配的，但神因基督的缘故宣告我们为义。这就是"称义"——神法庭上的宣判。
+
+彼得必须"起来、宰了吃"，预表我们必须凭信心接受基督。彼得一开始拒绝，正如我们的老我抵挡神的恩典，不愿承认自己需要救恩。但神的命令是清楚的："神所洁净的，你不可当作俗物。"我们不能凭自己的标准拒绝神的恩典。
+
+哥尼流俯伏在彼得脚前，彼得拉他起来说"我也是人"，预表基督是唯一配受敬拜的。所有使徒、传道人都只是仆人，唯有基督是主。这也预示将来在启示录中，约翰想敬拜天使，天使也说"不可！我与你和你的弟兄同是作仆人的。你要敬拜神"（启示录19:10）。
+
+圣灵在彼得讲道中间就降临，预表得救完全是神的主权和恩典。哥尼流不是等到完全明白、完全圣洁、完全预备好才得圣灵——他在听道、相信的那一刻就得着了。这显明救恩不是我们努力达到的目标，而是神白白赐下的礼物。基督为我们成就了一切，我们只需相信接受。
+
+犹太信徒"希奇"外邦人也受圣灵，预表神的恩典超过人的预期。我们常常给神的拯救设限，以为某些人"太坏了"不可能得救。但基督的救恩浩大无边，他能拯救任何罪人——只要他们愿意相信。"神爱世人"不是只爱犹太人，而是爱全世界。
+
+最后，彼得为哥尼流全家施洗，他们成为神家里的人，预表基督建立的教会是从各族各方各民各国召出来的新群体。在基督里不分犹太人、希利尼人、为奴的、自主的、男的、女的，因为我们在基督里都成为一了（加拉太书3:28）。教会是基督的新妇，是万国万民合一的彰显。`,
+    christShadow_en: `Acts 10 entire chapter prefigures Christ breaking down dividing walls, uniting Jews and Gentiles in himself. "What God has made clean, do not call common" is not just about food but about people—Christ's blood cleansed us, making us unclean sinners able to approach God.
+
+The vision Peter saw—a great sheet descending from heaven with all kinds of animals—prefigures Christ descending from heaven, gathering people from all nations into his kingdom. The sheet "let down by its four corners" symbolizes earth's four corners, showing the gospel reaching earth's ends. The "all kinds" of animals prefigure all nations and peoples; whether Jew or Gentile, all become clean in Christ.
+
+"What God has made clean" points to Christ's redemptive work. Christ's blood on the cross cleanses us, not our own becoming clean. Just as those animals were originally unclean but God declared them clean, we are originally sinners, unworthy, yet God declares us righteous for Christ's sake. This is "justification"—God's courtroom verdict.
+
+Peter must "rise, kill and eat" prefigures we must receive Christ by faith. Peter initially refused, just as our old self resists God's grace, unwilling to admit needing salvation. But God's command is clear: "What God has made clean, do not call common." We cannot reject God's grace by our own standards.
+
+Cornelius falling at Peter's feet, Peter lifting him saying "I too am a man" prefigures Christ as the only one worthy of worship. All apostles and preachers are just servants; only Christ is Lord. This also foreshadows Revelation when John wants to worship an angel, and the angel says, "You must not do that! I am a fellow servant with you and your brothers. Worship God" (Revelation 19:10).
+
+The Spirit descending mid-sermon prefigures salvation as entirely God's sovereignty and grace. Cornelius didn't wait until fully understanding, fully holy, fully prepared to receive the Spirit—he received at the moment of hearing and believing. This shows salvation is not a goal we strive to reach but a gift God freely gives. Christ accomplished everything for us; we need only believe and receive.
+
+Jewish believers "amazed" that Gentiles also received the Spirit prefigures God's grace exceeding human expectations. We often limit God's salvation, thinking some are "too bad" to be saved. But Christ's salvation is boundless; he can save any sinner—if they will believe. "God so loved the world" isn't just Jews but the whole world.
+
+Finally, Peter baptizing Cornelius's household, making them God's household, prefigures Christ's church as a new community called from every tribe, tongue, people, nation. In Christ there is neither Jew nor Greek, slave nor free, male nor female, for we are all one in Christ (Galatians 3:28). The church is Christ's bride, the manifestation of all nations' unity.`,
   },
   {
     id: 'acts-11',
@@ -3544,16 +4892,140 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '路加',
     authorEn: 'Luke',
     publishDate: '2026-05-14',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `我是路加。上一章记载了彼得在该撒利亚向外邦人哥尼流传福音、圣灵降临的大事。但这个突破并非所有人都能立刻接受。今天要讲的是彼得如何向耶路撒冷教会解释这件事，以及福音如何传到安提阿、建立第一间以外邦信徒为主的教会。
+
+使徒和在犹太的众弟兄听说外邦人也领受了神的道。这消息很快传回耶路撒冷，但反应不是欢呼，而是质疑。及至彼得上了耶路撒冷，那些奉割礼的门徒和他争辩说："你进入未受割礼之人的家，和他们一同吃饭了。"
+
+注意他们的关注点：不是"你向外邦人传福音"，而是"你和他们一同吃饭"。在犹太人看来，与外邦人同席是严重违背洁净律法的行为。这显示即使在信主之后，我们仍然会被旧有的传统和观念束缚。神的真理需要时间在我们心中扎根、更新我们的思维模式。
+
+彼得没有恼怒或辩驳，而是"把这事挨次给他们讲解"。他完整复述了整个过程：在约帕的异象、圣灵的吩咐、哥尼流的异象、他的讲道、圣灵的降临。他特别强调是圣灵主动引导每一步——"圣灵吩咐我和他们同去，不要疑惑"、"我一开讲，圣灵便降在他们身上"。
+
+彼得提醒众人主耶稣的话："约翰是用水施洗，但你们要受圣灵的洗。"然后他问了一个无法回答的问题："神既然给他们恩赐，像在我们信主耶稣基督的时候给了我们一样，我是谁，能拦阻神呢？"
+
+这话太有力了！如果是神自己接纳外邦人、赐圣灵给他们，谁敢说不可以？彼得不是在为自己的行为辩护，而是在见证神的工作。重点不是"我做了什么"，而是"神做了什么"。
+
+众人听见这话，就不言语了，只归荣耀与神，说："这样看来，神也赐恩给外邦人，叫他们悔改得生命了。"这是教会历史的转折点。耶路撒冷教会——犹太基督徒的大本营——正式承认外邦人可以直接归主，不必先成为犹太人。虽然后来还会有争论（使徒行传15章），但基本共识已经形成。
+
+接着路加笔锋一转，讲述那些因司提反的事遭患难四散的门徒。他们直走到腓尼基、居比路、安提阿，但"不向别人讲道，只向犹太人讲"。这是很自然的——他们仍然认为福音主要是给犹太人的。
+
+但内中有居比路和古利奈人，他们到了安提阿，也向说希利尼话的人传讲主耶稣。主与他们同在，信而归主的人就很多了。这些无名的传道人，主动向外邦人（或说希腊语的非犹太人）传福音，开创了安提阿教会——将来成为外邦宣教的中心。
+
+这风声传到耶路撒冷教会人的耳中，他们就打发巴拿巴出去，走到安提阿为止。为什么选巴拿巴？因为他是居比路人（4:36），与那些主动向外邦人传福音的居比路人有同样背景。而且他的名字意思是"劝慰子"，性格温和、善于鼓励人，最适合去牧养这间新兴的、文化复杂的教会。
+
+巴拿巴到了那里，看见神所赐的恩就欢喜，劝勉众人立定心志、恒久靠主。他没有批评"你们怎么可以向外邦人传福音"，也没有质疑"这些人受洗前有没有受割礼"，而是单纯地为神的恩典欢喜。经文特别说："这巴拿巴原是个好人，被圣灵充满，大有信心。"这样的评价在使徒行传中很少见。结果"有许多人归服了主"。
+
+但巴拿巴知道自己需要帮手。他想起了扫罗——那个在大马士革归主、后来回到大数老家的法利赛人。巴拿巴又往大数去找扫罗，找着了就带他到安提阿去。他们足有一年的工夫和教会一同聚集，教训了许多人。
+
+这一年极其关键。扫罗（保罗）和巴拿巴一起牧养、教导这间外邦教会，积累了宝贵的经验。更重要的是，经文说："门徒称为基督徒是从安提阿起首。""基督徒"（Christianoi）这个名字可能一开始是外人给的绰号，但信徒们欣然接受，因为这名字表明我们的身份——属基督的人。
+
+当那些日子，有几位先知从耶路撒冷下到安提阿。内中有一位名叫亚迦布，站起来，藉着圣灵指明天下将有大饥荒。这事到革老丢年间果然有了（历史记载公元46-48年确实有大饥荒）。于是门徒定意，照各人的力量捐钱，送去供给住在犹太的弟兄。
+
+这是何等美好的见证！安提阿这间年轻的外邦教会，听说母会——曾经质疑他们、不接纳他们的耶路撒冷教会——要遭遇饥荒，立刻慷慨解囊。他们没有记仇，反而以善报善。这显明基督的爱已经在他们心中，使他们超越文化和历史的隔阂，真正成为一家人。
+
+弟兄姊妹，使徒行传第11章提醒我们：神的工作常常超出我们的预期和传统；我们要以开放的心寻求神的引导，不可用自己的框架限制圣灵的工作。同时，新兴教会需要成熟信徒的牧养和支持；不同文化背景的信徒要学会彼此接纳、互相帮助。最重要的是，我们的身份是"基督徒"——无论犹太人、外邦人，都是属基督的人。`,
+    content_en: `I am Luke. The previous chapter recorded Peter preaching the gospel to Gentile Cornelius in Caesarea and the Spirit's descent—a momentous event. But not everyone could immediately accept this breakthrough. Today I tell how Peter explained this to the Jerusalem church, and how the gospel reached Antioch, establishing the first Gentile-majority church.
+
+The apostles and brothers throughout Judea heard that Gentiles had also received the word of God. This news quickly reached Jerusalem, but the response wasn't celebration but questioning. When Peter went up to Jerusalem, the circumcision party criticized him: "You went to uncircumcised men and ate with them."
+
+Notice their focus: not "you preached to Gentiles" but "you ate with them." For Jews, dining with Gentiles seriously violated purity laws. This shows even after believing, we remain bound by old traditions and concepts. God's truth needs time to take root in our hearts and renew our thinking.
+
+Peter didn't get angry or defensive but "explained it to them in order." He fully recounted the whole process: the vision in Joppa, the Spirit's command, Cornelius's vision, his preaching, the Spirit's descent. He especially emphasized the Spirit proactively guiding every step—"the Spirit told me to go with them without hesitation," "as I began to speak, the Holy Spirit fell on them."
+
+Peter reminded them of the Lord Jesus' words: "John baptized with water, but you will be baptized with the Holy Spirit." Then he asked an unanswerable question: "If then God gave the same gift to them as he gave to us when we believed in the Lord Jesus Christ, who was I that I could stand in God's way?"
+
+How powerful! If God himself accepted Gentiles and gave them the Spirit, who dares say no? Peter wasn't defending his actions but witnessing God's work. The point wasn't "what I did" but "what God did."
+
+When they heard this, they fell silent and glorified God, saying, "Then to the Gentiles also God has granted repentance that leads to life." This was a turning point in church history. The Jerusalem church—the Jewish Christian stronghold—formally acknowledged Gentiles could turn directly to the Lord without first becoming Jews. Though debates would continue (Acts 15), basic consensus was formed.
+
+Then Luke shifts focus to those scattered by Stephen's persecution. They traveled to Phoenicia, Cyprus, and Antioch, but "speaking the word to no one except Jews." This was natural—they still thought the gospel was mainly for Jews.
+
+But some of them, men of Cyprus and Cyrene, came to Antioch and spoke to the Hellenists, preaching the Lord Jesus. The Lord's hand was with them, and many believed and turned to the Lord. These unnamed preachers proactively evangelized Gentiles (or Greek-speaking non-Jews), founding the Antioch church—future center of Gentile mission.
+
+News of this reached the Jerusalem church, and they sent Barnabas to Antioch. Why Barnabas? Because he was from Cyprus (4:36), sharing background with those Cypriots who proactively evangelized Gentiles. Plus his name means "son of encouragement"—gentle, good at encouraging, perfectly suited to shepherd this emerging, culturally complex church.
+
+When Barnabas arrived and saw God's grace, he rejoiced and exhorted them all to remain faithful to the Lord with steadfast purpose. He didn't criticize "how could you preach to Gentiles" or question "were they circumcised before baptism," but simply rejoiced in God's grace. Scripture specially notes: "For he was a good man, full of the Holy Spirit and of faith." Such praise is rare in Acts. Result: "a great many people were added to the Lord."
+
+But Barnabas knew he needed help. He remembered Saul—that Pharisee who converted in Damascus, later returning to his Tarsus hometown. Barnabas went to Tarsus to look for Saul, found him, and brought him to Antioch. For a whole year they met with the church and taught many people.
+
+This year was crucial. Saul (Paul) and Barnabas together shepherded and taught this Gentile church, gaining invaluable experience. More importantly, Scripture says: "In Antioch the disciples were first called Christians." The name "Christians" (Christianoi) was probably initially a nickname from outsiders, but believers gladly accepted it because it signified our identity—belonging to Christ.
+
+In those days prophets came down from Jerusalem to Antioch. One named Agabus stood up and foretold by the Spirit that a great famine would come over the whole world (this took place during Claudius's reign). So the disciples determined, each according to his ability, to send relief to the brothers living in Judea.
+
+What beautiful testimony! This young Gentile Antioch church, hearing that the mother church—which had questioned and not accepted them—would face famine, immediately gave generously. They didn't hold grudges but returned good for good. This shows Christ's love was in their hearts, enabling them to transcend cultural and historical barriers, truly becoming one family.
+
+Brothers and sisters, Acts 11 reminds us: God's work often exceeds our expectations and traditions; we must seek God's guidance with open hearts, not limiting the Spirit's work with our frameworks. Meanwhile, emerging churches need mature believers' shepherding and support; believers from different cultural backgrounds must learn mutual acceptance and help. Most importantly, our identity is "Christians"—whether Jew or Gentile, all belonging to Christ.`,
+    historyContext_zh: `使徒行传第11章反映了早期教会从犹太宗教向普世教会转型的阵痛。耶路撒冷教会的"奉割礼的门徒"（可能是法利赛派基督徒）的质疑，显示当时教会内部对外邦人归主的神学理解尚未统一。这种张力将在使徒行传15章的耶路撒冷大会达到顶峰并获得解决。
+
+安提阿是叙利亚行省的首府，罗马帝国第三大城（仅次于罗马和亚力山大），人口约50万。这是一个高度国际化的商业和文化中心，希腊文化、罗马政治、东方宗教混杂。犹太侨民众多，但外邦人更多。在这样的环境中建立以外邦信徒为主的教会，是前所未有的创举。
+
+"基督徒"（Christianoi）这个称呼的出现意义重大。在此之前，信徒被称为"这道的人"（9:2）、"拿撒勒教党"（24:5）等。"基督徒"这个名字可能是安提阿的外邦人给的（-iani是拉丁文后缀，表示"属于某人的党羽"），类似"希律党人"（Herodianoi）。虽然可能带有嘲讽意味，但信徒们接受了这个名字，因为它准确表达了他们的身份认同——不是犹太教的一个分支，而是跟随基督的新群体。
+
+亚迦布预言的大饥荒得到历史证实。罗马历史学家约瑟夫、塔西佗、苏埃托尼乌斯都记载公元46-48年间巴勒斯坦地区确实有严重饥荒。安提阿教会的捐款（可能由保罗和巴拿巴带去，参加拉太书2:1-10）是新约教会彼此相顾、济贫扶弱传统的开始，后来保罗的"为圣徒捐项"（罗马书15:25-27）承继了这一精神。`,
+    historyContext_en: `Acts 11 reflects the early church's growing pains in transitioning from Jewish religion to universal church. The "circumcision party" in Jerusalem (likely Pharisaic Christians) questioning shows theological understanding of Gentile conversion wasn't yet unified. This tension would peak and be resolved at the Jerusalem Council in Acts 15.
+
+Antioch was the capital of Syria province, the Roman Empire's third-largest city (after Rome and Alexandria), population about 500,000. This was a highly international commercial and cultural center mixing Greek culture, Roman politics, and Eastern religions. Large Jewish diaspora but even more Gentiles. Establishing a Gentile-majority church in such environment was unprecedented.
+
+The appearance of "Christians" (Christianoi) was significant. Previously, believers were called "the Way" (9:2), "the sect of the Nazarenes" (24:5), etc. "Christians" was probably given by Antioch Gentiles (-iani is a Latin suffix meaning "partisan of someone"), similar to "Herodians" (Herodianoi). Though possibly mocking, believers accepted it because it accurately expressed their identity—not a Jewish sect but a new community following Christ.
+
+Agabus's prophecy of famine is historically confirmed. Roman historians Josephus, Tacitus, and Suetonius all record serious famine in Palestine around 46-48 AD. The Antioch church's donation (probably brought by Paul and Barnabas, see Galatians 2:1-10) began the New Testament church tradition of mutual care and helping the poor, later continued by Paul's "collection for the saints" (Romans 15:25-27).`,
+    structure_zh: `使徒行传第11章分为三个段落：彼得的辩护（1-18节）、安提阿教会的建立（19-26节）、济贫的行动（27-30节）。整章显示福音扩展带来的挑战和祝福。
+
+第一段（1-18节）结构清晰：控告（2-3节）、辩护（4-17节）、接纳（18节）。彼得的辩护占了大部分篇幅，显示路加认为这个事件极为重要——它不仅是个人的经历，而是教会历史的转折。彼得的辩护策略是完整复述神的引导，强调是圣灵主动工作，他只是顺服。第17节的反问句"我是谁，能拦阻神呢？"是全段的高潮。
+
+第二段（19-26节）从"那些因司提反的事遭患难四散的门徒"开始（呼应8:4），显示路加在编织一个连贯的叙事。这段展现了两个平行的发展：一些人只向犹太人传道（19节），另一些人向希利尼人传道（20节）。巴拿巴的到来（22-24节）和寻找扫罗（25-26节）是关键转折，显示个人领袖对教会发展的重要性。"门徒称为基督徒是从安提阿起首"（26节）是这段的高潮，标志着一个新身份的诞生。
+
+第三段（27-30节）看似附录，其实是全章的完美结局。安提阿教会的慷慨济贫显明他们不是理论上的合一，而是实际行动中的爱。这也呼应了初代教会"凡物公用"的精神（2:44-45; 4:32-35），显示无论犹太人、外邦人，在基督里都是一家人。巴拿巴和扫罗"托"他们的手送捐项去，预示这二人将成为安提阿教会差派的宣教士（13:1-3）。`,
+    structure_en: `Acts 11 divides into three sections: Peter's defense (vv.1-18), Antioch church's establishment (vv.19-26), relief action (vv.27-30). The chapter shows challenges and blessings of gospel expansion.
+
+The first section (vv.1-18) has clear structure: accusation (vv.2-3), defense (vv.4-17), acceptance (v.18). Peter's defense occupies most space, showing Luke considered this event extremely important—not just personal experience but a church history turning point. Peter's defense strategy was fully recounting God's guidance, emphasizing the Spirit's proactive work, he merely obeyed. Verse 17's rhetorical question "Who was I that I could stand in God's way?" is the section's climax.
+
+The second section (vv.19-26) begins "those who were scattered because of the persecution that arose over Stephen" (echoing 8:4), showing Luke weaving a coherent narrative. This section shows two parallel developments: some preaching only to Jews (v.19), others to Hellenists (v.20). Barnabas's arrival (vv.22-24) and seeking Saul (vv.25-26) are key turning points, showing personal leadership's importance for church development. "In Antioch the disciples were first called Christians" (v.26) is this section's climax, marking a new identity's birth.
+
+The third section (vv.27-30) seems an appendix but is the chapter's perfect conclusion. The Antioch church's generous relief shows not theoretical unity but love in action. This echoes early church "all things in common" spirit (2:44-45; 4:32-35), showing whether Jew or Gentile, all are one family in Christ. Barnabas and Saul "sent" relief by their hands foreshadows these two becoming Antioch church's sent missionaries (13:1-3).`,
+    theology_zh: `使徒行传第11章展示了改革宗教会论的核心要素。首先是教会的大公性（catholicity）：教会不限于某一种族或文化,而是从万国万民中召出来的新群体。安提阿教会的建立显明神的心意是建立一个超越犹太-外邦界限的普世教会。
+
+其次是圣灵的主权和权威。彼得辩护的核心论点不是"我认为应该这样做",而是"圣灵吩咐我"、"圣灵降在他们身上"。改革宗神学强调教会是圣灵的群体,不是人的组织。教会的一切决策和行动都应当寻求圣灵的引导,顺服他的工作。当圣灵明确工作时,人无权拦阻。
+
+第三是恩典的主权性和普世性。神"赐恩"给外邦人,不是因为他们配得,而是因为神的怜悯。改革宗神学反对任何形式的种族优越感或文化自义,相信救恩完全是神主权的拣选和恩典的赐予,不基于人的血统或成就。
+
+第四是教会合一的实践。安提阿教会为耶路撒冷教会捐款,显明合一不仅是教义上的宣告,更是生活中的实践。改革宗教会强调众教会虽然在不同地方、有不同文化,但在基督里是一个身体,应当彼此相顾、互相帮助。
+
+最后,"基督徒"这个名称的出现,显明教会的身份认同。改革宗神学强调信徒最根本的身份不是种族、国籍或文化,而是"在基督里"。我们是属基督的人,是他用宝血买赎回来的子民。这个身份超越一切人为的界限,成为我们合一和使命的基础。`,
+    theology_en: `Acts 11 displays core Reformed ecclesiology elements. First is the church's catholicity: the church isn't limited to one race or culture but a new community called from all nations. Antioch church's establishment shows God's intent to build a universal church transcending Jew-Gentile boundaries.
+
+Second is the Spirit's sovereignty and authority. Peter's defense's core argument wasn't "I thought we should do this" but "the Spirit told me," "the Holy Spirit fell on them." Reformed theology emphasizes the church is the Spirit's community, not human organization. All church decisions and actions should seek the Spirit's guidance, submitting to his work. When the Spirit clearly works, humans have no right to obstruct.
+
+Third is grace's sovereignty and universality. God "granted" Gentiles grace not because they deserved it but because of his mercy. Reformed theology opposes all forms of racial superiority or cultural self-righteousness, believing salvation is entirely God's sovereign election and grace's bestowal, not based on human lineage or achievement.
+
+Fourth is church unity's practice. Antioch church donating to Jerusalem church shows unity isn't just doctrinal declaration but life practice. Reformed churches emphasize though churches are in different places with different cultures, they are one body in Christ and should care for and help each other.
+
+Finally, "Christians'" appearance shows the church's identity. Reformed theology emphasizes believers' most fundamental identity isn't race, nationality, or culture but "in Christ." We belong to Christ, people he redeemed with his blood. This identity transcends all human boundaries, becoming the foundation of our unity and mission.`,
+    christShadow_zh: `使徒行传第11章处处预表基督拆毁隔断的墙、建立合一教会的工作。彼得与外邦人"一同吃饭"预表基督的筵席——天国的宴席向万民开放,不分犹太人、外邦人。耶稣在地上时就经常与税吏和罪人一同坐席,被法利赛人批评,正如彼得被"奉割礼的门徒"批评。但这正是福音的本质:基督来是召罪人,不是召义人。
+
+彼得复述异象时说"神所洁净的,你不可当作俗物",再次指向基督的洁净之工。不是我们使自己洁净,而是基督的宝血洗净我们。以弗所书5:25-27说,基督爱教会,为教会舍己,要用水藉着道把教会洗净,成为圣洁。外邦人能进入神的家,完全是因为基督的宝血遮盖了他们的罪。
+
+圣灵降临在外邦人身上,正如降临在犹太信徒身上,预表基督赐下同一个圣灵给所有信他的人。哥林多前书12:13说:"我们不拘是犹太人,是希利尼人,是为奴的,是自主的,都从一位圣灵受洗,成了一个身体,饮于一位圣灵。"圣灵是合一的灵,是基督差来住在我们心中的保惠师。
+
+安提阿教会的建立预表基督要建造他的教会,这教会是从各族各方各民各国召出来的(启示录5:9)。安提阿成为外邦宣教的中心,预示教会的使命是往普天下去,使万民作主的门徒。基督在马太福音28:19的大使命,在安提阿教会中开始实现。
+
+"门徒称为基督徒"这个名称的诞生,预表所有信徒都要以基督的名为名、效法基督的样式。罗马书8:29说,神预先所知道的人,就预先定下效法他儿子的模样,使他儿子在许多弟兄中作长子。我们被称为"基督徒",意味着我们要越来越像基督,活出他的生命。
+
+巴拿巴去找扫罗、一起牧养教会,预表基督建立他的教会时,兴起不同恩赐的工人一起配搭服事。以弗所书4:11-12说,基督所赐的有使徒、有先知、有传福音的、有牧师和教师,为要成全圣徒,各尽其职,建立基督的身体。巴拿巴的"劝慰"恩赐和保罗的"教导"恩赐完美配搭,显明基督如何藉着不同恩赐的人建造他的教会。
+
+最后,安提阿教会为耶路撒冷教会捐款,预表基督里的爱超越一切界限。外邦信徒和犹太信徒虽然文化不同、曾经有隔阂,但在基督里成为一家人,彼此相爱、互相帮补。这是基督新命令的实践:"你们要彼此相爱,像我爱你们一样"(约翰福音15:12)。基督的爱使我们成为一,也使我们能彼此相爱。`,
+    christShadow_en: `Acts 11 everywhere prefigures Christ breaking down dividing walls and building a unified church. Peter "eating with" Gentiles prefigures Christ's feast—the kingdom banquet open to all nations, no distinction between Jew and Gentile. Jesus on earth often ate with tax collectors and sinners, criticized by Pharisees, just as Peter was criticized by "the circumcision party." But this is the gospel's essence: Christ came to call sinners, not the righteous.
+
+Peter recounting the vision saying "What God has made clean, do not call common" again points to Christ's cleansing work. Not us making ourselves clean but Christ's blood cleansing us. Ephesians 5:25-27 says Christ loved the church and gave himself for her, to make her holy by cleansing her with water through the word. Gentiles entering God's household is entirely because Christ's blood covered their sins.
+
+The Spirit falling on Gentiles as on Jewish believers prefigures Christ giving the same Spirit to all who believe. 1 Corinthians 12:13 says, "For in one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and all were made to drink of one Spirit." The Spirit is the Spirit of unity, the Counselor Christ sent to dwell in our hearts.
+
+Antioch church's establishment prefigures Christ building his church, a church called from every tribe, tongue, people, nation (Revelation 5:9). Antioch becoming the Gentile mission center foreshadows the church's mission going into all the world, making disciples of all nations. Christ's Great Commission in Matthew 28:19 began being fulfilled in the Antioch church.
+
+The birth of "Christians" prefigures all believers bearing Christ's name and conforming to Christ's image. Romans 8:29 says those God foreknew he predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers. Being called "Christians" means we must increasingly become like Christ, living his life.
+
+Barnabas finding Saul to shepherd together prefigures Christ building his church by raising different gifted workers to serve together. Ephesians 4:11-12 says Christ gave apostles, prophets, evangelists, pastors, and teachers to equip the saints for ministry, building up Christ's body. Barnabas's "encouragement" gift and Paul's "teaching" gift perfectly complemented, showing how Christ builds his church through differently gifted people.
+
+Finally, Antioch church donating to Jerusalem church prefigures love in Christ transcending all boundaries. Gentile and Jewish believers, though culturally different and once divided, became one family in Christ, loving and helping each other. This practices Christ's new command: "Love one another as I have loved you" (John 15:12). Christ's love makes us one and enables us to love one another.`,
   },
   {
     id: 'acts-12',
@@ -3565,16 +5037,160 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '路加',
     authorEn: 'Luke',
     publishDate: '2026-05-15',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `我是路加。今天要讲述神如何保护他的教会——雅各殉道、彼得神奇获救，以及希律王悲惨的结局。这一章显明一个真理：地上的君王可以逼迫教会，甚至杀害使徒，但神的道却不被捆绑，反而越发兴旺。
+
+那时，希律王下手苦害教会中几个人。这个希律是希律亚基帕一世，大希律的孙子。他用刀杀了约翰的哥哥雅各——这是使徒中第一位殉道者。雅各和约翰曾被主称为"雷子"，曾求坐在主左右，主问他们能否喝他所喝的杯、受他所受的洗。如今雅各真的喝了这杯，为主殉道。
+
+经文没有详细描述雅各之死，只一句"用刀杀了"，显得如此平静。但这背后一定有神的美意。主为什么允许雅各殉道，却神奇地拯救彼得？我们不能完全明白，只能顺服神的主权。重要的是：雅各的死荣耀了神，彼得的获救也荣耀了神。
+
+希律见犹太人喜欢他杀雅各，又去捉拿彼得。那时正是除酵的日子（逾越节期间）。他把彼得收在监里，交付四班兵丁看守，每班四人，意思要在逾越节后把他提出来当着百姓办他。十六个士兵看守一个渔夫！可见希律多么害怕彼得逃脱——可能他听说过使徒曾被天使救出监牢的事（5:19）。
+
+彼得被囚在监里，教会却为他切切地祷告神。注意这个对比：一边是希律的权势、士兵、监牢，另一边是教会的祷告。哪一边更有力量？答案很快揭晓。
+
+希律将要提他出来的前一夜——最后一夜了！彼得被两条铁链锁着，睡在两个兵丁当中，看守的人也在门外看守。在这样绝望的处境中，彼得竟然在睡觉！这显示他完全的平安和信靠神。主说过"天父尚且养活飞鸟，你们不比飞鸟贵重得多吗？"彼得活出了这个信心。
+
+忽然，有主的一个使者站在旁边，屋里有光照耀。天使拍彼得的肋旁，拍醒了他，说："快快起来！"那铁链就从他手上脱落下来。这是何等的神迹！四班兵丁、两条铁链、牢房的门，在神面前都如同无物。
+
+天使吩咐彼得束上带子、穿上鞋、披上外衣、跟着走。彼得顺服地照做，却"不知道天使所做是真的，只当见了异象"。他走过第一层监牢、第二层监牢，来到临街的铁门，那门自己开了！他们出来，走过一条街，天使便离开他去了。
+
+彼得醒悟过来说："我现在真知道主差遣他的使者，救我脱离希律的手和犹太百姓一切所盼望的。"他想了一想，就往那称呼马可的约翰、他母亲马利亚家去。在那里有好些人聚集祷告——他们正在为彼得祷告！
+
+彼得敲外门，有一个使女名叫罗大出来探听。她听得是彼得的声音，就欢喜得顾不得开门，跑进去告诉众人说："彼得站在门外！"他们说："你是疯了！"她极力地说是真的，他们说："必是他的天使！"
+
+这段记载充满人性的真实。他们正在为彼得祷告，却不相信彼得真的来了！我们常常如此——嘴上祷告神成就大事，心里却不真信神会成就。但神的信实不因我们的小信而减少。
+
+彼得不住地敲门，他们开了门，看见他，就甚惊奇。彼得摆手不要他们作声，就告诉他们主怎样领他出监，又说："你们把这事告诉雅各和众弟兄。"于是出去往别处去了。这个雅各不是刚殉道的使徒雅各，而是主的兄弟雅各，当时已成为耶路撒冷教会的领袖。
+
+到了天亮，兵丁扰乱得很，不知道彼得往哪里去了。希律找他找不着，就审问看守的人，吩咐把他们拉去杀了。守不住囚犯的看守要被处死，这是罗马军法。但这些士兵何其无辜——他们怎么能拦阻神的使者呢？
+
+接着路加记载希律的结局。他在所定的日子，穿上朝服，坐在位上，对推罗西顿的人讲论一番。百姓喊着说："这是神的声音，不是人的声音！"希律接受了这种僭越的赞美，归荣耀给自己而非神。
+
+立刻，主的使者罚他，他被虫所咬，气就绝了。同样是主的使者，拯救谦卑的彼得，击打骄傲的希律。神阻挡骄傲的人，赐恩给谦卑的人。
+
+最后一节是整卷书反复出现的主题："神的道日见兴旺，越发广传。"逼迫者死了，神的道却活着。教会可能受苦，使徒可能殉道，但福音不能被拦阻。这是我们的盼望——不是倚靠势力、不是倚靠才能，乃是倚靠神的灵方能成事（撒迦利亚书4:6）。
+
+弟兄姊妹，让我们学习彼得在监牢中的平安、罗大的单纯、教会的祷告，也警戒希律的骄傲。我们的神掌管万有，他的旨意必然成就。我们只管忠心祷告、忠心服事，其余的交托给他。`,
+    content_en: `I am Luke. Today I tell how God protected his church—James martyred, Peter miraculously rescued, and King Herod's tragic end. This chapter reveals a truth: earthly kings can persecute the church and even kill apostles, but God's word cannot be bound; instead it flourishes.
+
+At that time, King Herod laid violent hands on some from the church. This Herod was Herod Agrippa I, grandson of Herod the Great. He killed James the brother of John with the sword—the first apostle to be martyred. James and John were called "Sons of Thunder," once sought to sit at the Lord's right and left, asked if they could drink his cup and be baptized with his baptism. Now James truly drank that cup, martyred for the Lord.
+
+Scripture doesn't detail James's death, just "killed with the sword"—seeming so calm. But behind this must be God's good purpose. Why did the Lord allow James's martyrdom yet miraculously save Peter? We cannot fully understand, only submit to God's sovereignty. What matters: James's death glorified God, Peter's rescue also glorified God.
+
+Seeing this pleased the Jews, Herod proceeded to arrest Peter during the Feast of Unleavened Bread (Passover). He put Peter in prison, delivering him to four squads of soldiers, four men each, intending to bring him out after Passover. Sixteen soldiers guarding one fisherman! Shows how afraid Herod was of Peter escaping—perhaps he heard of apostles being rescued by angels before (5:19).
+
+Peter was kept in prison, but earnest prayer for him was made to God by the church. Note this contrast: on one side Herod's power, soldiers, prison; on the other the church's prayer. Which was more powerful? The answer soon revealed.
+
+The very night before Herod was about to bring him out—the last night!—Peter was sleeping between two soldiers, bound with two chains, with sentries before the door. In such hopeless circumstances, Peter was asleep! This shows his complete peace and trust in God. The Lord said, "Your heavenly Father feeds the birds; are you not of more value?" Peter lived this faith.
+
+Suddenly an angel of the Lord stood next to him, and light shone in the cell. The angel struck Peter's side, woke him, saying, "Get up quickly!" The chains fell off his hands. What a miracle! Four squads, two chains, prison doors—nothing before God.
+
+The angel told Peter to dress, put on sandals, wrap his cloak, and follow. Peter obeyed but "did not know that what was being done by the angel was real, but thought he was seeing a vision." He passed the first guard, the second, came to the iron gate leading to the city—it opened by itself! They went out, walked one street, and the angel left.
+
+Peter came to himself: "Now I am sure the Lord has sent his angel and rescued me from Herod's hand and from all that the Jewish people were expecting." He thought, then went to Mary's house (mother of John Mark), where many were gathered praying—praying for Peter!
+
+Peter knocked at the outer door. A servant girl named Rhoda came to answer. Recognizing Peter's voice, she was so overjoyed she didn't open the door but ran in announcing, "Peter is at the gate!" They said, "You are out of your mind!" She insisted, they said, "It must be his angel!"
+
+This account is full of human reality. They were praying for Peter yet didn't believe Peter actually came! We often do this—pray for God to do great things, yet in our hearts don't truly believe he will. But God's faithfulness doesn't diminish because of our little faith.
+
+Peter kept knocking. They opened and saw him, utterly amazed. Peter motioned for silence, told them how the Lord brought him out, said, "Tell these things to James and the brothers." Then he left for another place. This James wasn't the martyred apostle but the Lord's brother James, by then the Jerusalem church leader.
+
+At daybreak, there was no little disturbance among the soldiers about what had become of Peter. Herod searched and couldn't find him, examined the guards and commanded them to be executed. Guards who lost prisoners faced death under Roman military law. But how innocent these soldiers were—how could they stop God's angel?
+
+Then Luke records Herod's end. On an appointed day he put on royal robes, sat on his throne, delivered an oration to the people of Tyre and Sidon. The people shouted, "The voice of a god, not of a man!" Herod accepted this blasphemous praise, glorifying himself instead of God.
+
+Immediately an angel of the Lord struck him down, he was eaten by worms and breathed his last. The same Lord's angel rescued humble Peter, struck proud Herod. God opposes the proud but gives grace to the humble.
+
+The last verse echoes a recurring theme throughout the book: "But the word of God increased and multiplied." The persecutor died; God's word lives. The church may suffer, apostles may be martyred, but the gospel cannot be stopped. This is our hope—not by might, nor by power, but by my Spirit, says the Lord (Zechariah 4:6).
+
+Brothers and sisters, let us learn Peter's prison peace, Rhoda's simplicity, the church's prayer, and beware Herod's pride. Our God rules all; his will shall be done. We need only faithfully pray, faithfully serve; the rest we entrust to him.`,
+    historyContext_zh: `使徒行传第12章发生在公元44年左右。希律亚基帕一世是大希律的孙子，提比略·亚历山大的儿子。他在罗马长大，与罗马皇帝该犹（Caligula）是好友。公元37年该犹继位后，希律得到巴勒斯坦东北部的领地；公元41年革老丢继位后，又得到犹太和撒玛利亚，几乎恢复了大希律时代的版图。他是罗马提拔的犹太王，需要讨好犹太人以巩固统治。
+
+逾越节期间禁止处决犯人，所以希律要等节期过后才公审彼得。这与当年彼拉多处决耶稣的时间相同——都在逾越节期间，显示一种可怕的历史重演。但神介入了，这次结局不同。
+
+约瑟夫记载希律之死更详细：他在该撒利亚庆祝皇帝生日，穿着银线织成的朝服，在阳光下闪闪发光，群众赞美他为神。他没有拒绝这种亵渎的赞美，立刻腹部剧痛，五天后死去。路加的记载"被虫所咬"可能指某种腹部寄生虫病或肠道穿孔导致的蛆虫感染。无论如何，这个骄傲的王悲惨地死去，应验了诗篇2篇："世上的君王一齐起来，臣宰一同商议，要敌挡耶和华……坐在天上的必发笑，主必嗤笑他们。"
+
+这一章也标志着使徒行传的转折。从此彼得逐渐淡出，保罗成为主角。彼得最后一次在耶路撒冷公开出现是第15章的耶路撒冷大会，之后他就往"别处"去了——可能是安提阿、小亚细亚、最终到罗马。`,
+    historyContext_en: `Acts 12 occurred around 44 AD. Herod Agrippa I was grandson of Herod the Great, son of Aristobulus. He grew up in Rome, good friends with Roman Emperor Caligula. When Caligula became emperor in 37 AD, Herod received northeastern Palestine; when Claudius succeeded in 41 AD, he gained Judea and Samaria, nearly restoring Herod the Great's territory. He was a Roman-appointed Jewish king, needing to please Jews to consolidate rule.
+
+Executing prisoners during Passover was forbidden, so Herod had to wait until after the feast to publicly try Peter. This coincides with Pilate's timing executing Jesus—both during Passover, showing a fearful historical repetition. But God intervened; this time the outcome differed.
+
+Josephus records Herod's death more详细：他在该撒利亚庆祝皇帝生日，穿着银线织成的朝服，在阳光下闪闪发光，群众赞美他为神。他没有拒绝这种亵渎的赞美，立刻腹部剧痛，五天后死去。路加的记载"被虫所咬"可能指某种腹部寄生虫病或肠道穿孔导致的蛆虫感染。无论如何，这个骄傲的王悲惨地死去，应验了诗篇2篇："世上的君王一齐起来，臣宰一同商议，要敌挡耶和华……坐在天上的必发笑,主必嗤笑他们。"
+
+This chapter also marks Acts' turning point. Henceforth Peter gradually fades, Paul becomes protagonist. Peter's last public Jerusalem appearance is the Jerusalem Council in chapter 15; afterward he went "elsewhere"—possibly Antioch, Asia Minor, ultimately Rome.`,
+    structure_zh: `使徒行传第12章采用对比结构：雅各的殉道与彼得的获救对比（1-19节），教会的软弱与神的大能对比，希律的高升与希律的灭亡对比（20-23节）。最后以"神的道兴旺"（24节）和巴拿巴扫罗归来（25节）作结。
+
+第一段（1-5节）快速交代雅各殉道和彼得被捕,形成张力。雅各之死只一句话,却让人感受到教会的悲痛和危机。彼得被四班兵丁看守,似乎必死无疑,但第5节突然转折："教会却为他切切地祷告神。"这个"却"字扭转全局。
+
+第二段（6-17节）详细叙述彼得获救,充满戏剧性细节：彼得在睡觉（6节）、天使来临（7节）、铁链脱落（7节）、经过两层监牢（10节）、铁门自开（10节）、彼得以为是异象（9节）、到了马利亚家（12节）、罗大的反应（13-15节）、彼得的见证（17节）。每个细节都增强故事的真实性和神迹的奇妙性。
+
+第三段（18-19节）是讽刺性的结尾：兵丁扰乱、希律找不着彼得、看守被杀。人的权势在神面前何其可笑！
+
+第四段（20-23节）记载希律之死,结构与彼得获救对比：同样是"主的使者",一个拯救谦卑的仆人,一个击打骄傲的王。第23节"被虫所咬,气就绝了"与第7节"铁链就从他手上脱落下来"形成鲜明对比——神能救,也能灭。
+
+第24节是全章的神学总结,也是使徒行传的主旋律。第25节过渡到下一段——保罗和巴拿巴即将开始第一次宣教旅行。`,
+    structure_en: `Acts 12 uses contrastive structure: James's martyrdom vs. Peter's rescue (vv.1-19), the church's weakness vs. God's power, Herod's rise vs. Herod's demise (vv.20-23). Concludes with "the word of God increased" (v.24) and Barnabas and Saul's return (v.25).
+
+The first section (vv.1-5) quickly reports James's martyrdom and Peter's arrest, creating tension. James's death in one sentence lets readers feel the church's grief and crisis. Peter guarded by four squads seemed doomed, but verse 5 suddenly turns: "but earnest prayer for him was made to God by the church." This "but" reverses everything.
+
+The second section (vv.6-17) details Peter's rescue with dramatic details: Peter sleeping (v.6), angel coming (v.7), chains falling (v.7), passing two guards (v.10), iron gate opening (v.10), Peter thinking it's a vision (v.9), arriving at Mary's house (v.12), Rhoda's reaction (vv.13-15), Peter's testimony (v.17). Each detail enhances the story's authenticity and miracle's wonder.
+
+The third section (vv.18-19) is an ironic ending: soldiers disturbed, Herod can't find Peter, guards executed. How ridiculous human power before God!
+
+The fourth section (vv.20-23) records Herod's death, contrasting with Peter's rescue: the same "angel of the Lord," one rescuing the humble servant, one striking the proud king. Verse 23 "eaten by worms and breathed his last" sharply contrasts verse 7 "the chains fell off his hands"—God can save or destroy.
+
+Verse 24 is the chapter's theological summary and Acts' main theme. Verse 25 transitions to the next section—Paul and Barnabas about to begin their first missionary journey.`,
+    theology_zh: `使徒行传第12章展现了改革宗神学的多个核心主题。首先是神的主权和护理。雅各殉道和彼得获救都在神的主权计划中。神允许雅各殉道不是因为他不爱雅各,而是要藉此成就更大的荣耀。神拯救彼得也不是因为彼得比雅各更重要,而是要他继续完成使命。改革宗神学强调神的主权高过一切,我们不能用人的标准质疑神的决定,只能相信他的美意尽都美善（罗马书8:28）。
+
+第二是祷告的功效与限制。教会为彼得切切祷告,神垂听了祷告。但他们自己却不相信彼得真的被救出来!这显示人的小信和神的大能之间的张力。改革宗神学相信祷告是有效的蒙恩之道,但祷告不能控制神——神按他的主权和时间回应祷告,有时超过我们所求所想（以弗所书3:20）。
+
+第三是殉道神学。雅各为主殉道荣耀了神,正如司提反的殉道一样。改革宗传统高举殉道者的见证,相信为基督舍命是最高的荣耀。但殉道不是所有基督徒的命运——神拯救彼得继续服事,也是荣耀他的方式。重要的不是生死,而是忠心（启示录2:10）。
+
+第四是神对骄傲的审判。希律接受百姓的敬拜,将荣耀归给自己,立刻被神击打。这应验了以赛亚书42:8:"我是耶和华,这是我的名,我必不将我的荣耀归给假神。"改革宗神学强调神的荣耀是他的首要关注,一切受造物都应当把荣耀归给神,否则必遭审判。
+
+最后是"神的道兴旺"的主题。这是使徒行传反复出现的总结（6:7; 12:24; 19:20）。改革宗神学相信神的道有生命力和创造力,不依赖人的权势,反而在逼迫中越发兴旺。正如以赛亚书55:11所说:"我口所出的话也必如此,决不徒然返回,却要成就我所喜悦的,在我发他去成就的事上必然亨通。"`,
+    theology_en: `Acts 12 displays multiple Reformed theology core themes. First is God's sovereignty and providence. Both James's martyrdom and Peter's rescue are in God's sovereign plan. God allowing James's martyrdom wasn't lack of love for James but to accomplish greater glory. God saving Peter wasn't because Peter was more important than James but for him to continue his mission. Reformed theology emphasizes God's sovereignty over all; we cannot question God's decisions by human standards, only trust his good purposes are entirely good (Romans 8:28).
+
+Second is prayer's effectiveness and limitations. The church earnestly prayed for Peter; God answered prayer. But they themselves didn't believe Peter was actually rescued! This shows the tension between human little faith and God's great power. Reformed theology believes prayer is an effective means of grace, but prayer cannot control God—God answers according to his sovereignty and timing, sometimes exceeding what we ask or think (Ephesians 3:20).
+
+Third is martyrdom theology. James's martyrdom for the Lord glorified God, just as Stephen's did. Reformed tradition honors martyrs' testimony, believing laying down life for Christ is the highest glory. But martyrdom isn't every Christian's destiny—God saving Peter to continue serving also glorifies him. What matters isn't life or death but faithfulness (Revelation 2:10).
+
+Fourth is God's judgment on pride. Herod accepting people's worship, glorifying himself, was immediately struck by God. This fulfilled Isaiah 42:8: "I am the LORD; that is my name; my glory I give to no other." Reformed theology emphasizes God's glory is his primary concern; all creatures should give glory to God or face judgment.
+
+Finally is the "word of God increased" theme. This repeatedly summarizes Acts (6:7; 12:24; 19:20). Reformed theology believes God's word has vitality and creative power, not dependent on human power but flourishing more in persecution. As Isaiah 55:11 says, "So shall my word be that goes out from my mouth; it shall not return to me empty, but it shall accomplish that which I purpose."`,
+    christShadow_zh: `使徒行传第12章处处预表基督和他的救赎工作。雅各的殉道预表基督为罪人舍命。雅各是第一位殉道的使徒,正如基督是第一个为罪人死的义人。他被"用刀杀了",预表基督被残忍地钉十字架。但正如雅各的死不是失败而是得胜(他进入荣耀),基督的死也不是失败,而是完成救赎的得胜。
+
+彼得被囚在监牢中,被两条铁链锁着,预表罪人被罪和死亡捆绑。罗马书7:24保罗呼喊:"我真是苦啊!谁能救我脱离这取死的身体呢?"我们都曾是这样的囚犯,被罪捆绑,无力自救,等待死亡的审判。
+
+主的使者来到监牢,有光照耀,预表基督来到这黑暗的世界。约翰福音1:5说:"光照在黑暗里,黑暗却不接受光。"但光仍然照耀,要救那坐在黑暗中死荫里的人（路加福音1:79）。
+
+天使拍醒彼得,铁链立刻脱落,预表基督的救赎使我们从罪的捆绑中得释放。加拉太书5:1说:"基督释放了我们,叫我们得以自由。"彼得不是靠自己挣脱铁链,而是铁链自己脱落——这正是恩典的记号。我们得救不是靠自己的努力,而是神的大能和恩典。
+
+彼得经过第一层监牢、第二层监牢、铁门,预表基督为我们打开通往神的道路。希伯来书10:19-20说:"弟兄们,我们既因耶稣的血得以坦然进入至圣所,是藉着他给我们开了一条又新又活的路,从幔子经过,这幔子就是他的身体。"彼得不能自己开门,是神为他开路;我们也不能自己打开天堂的门,唯有基督是道路。
+
+彼得获救后到马利亚家,那里有教会聚集祷告,预表基督复活后向门徒显现,建立他的教会。教会是基督的身体,是他从死里救出来的人的聚集。
+
+罗大不相信彼得真的来了,预表门徒起初不相信基督复活。路加福音24:11记载妇女们报告空坟墓的消息时,"使徒以为是胡言,就不相信。"但基督真的复活了,正如彼得真的获救了。神的应许必然成就,不因我们的小信而改变。
+
+希律骄傲地接受百姓的敬拜,立刻被神击打,预表一切抵挡基督、僭越神荣耀的权势必遭审判。启示录19:19-21预言万王之王、万主之主基督再来时,要击杀一切抵挡他的君王和军队。希律的灭亡是所有神敌人最终命运的预演。
+
+最后,"神的道兴旺"预表基督的国度不能被拦阻。马太福音16:18主说:"我要把我的教会建造在这磐石上,阴间的权柄不能胜过他。"希律死了,彼得活着,雅各在天上,神的道仍在地上兴旺——这一切都见证基督永远的得胜。`,
+    christShadow_en: `Acts 12 everywhere prefigures Christ and his redemptive work. James's martyrdom prefigures Christ laying down his life for sinners. James was the first martyred apostle, as Christ was the first righteous one to die for sinners. He was "killed with the sword," prefiguring Christ's cruel crucifixion. But just as James's death wasn't defeat but victory (he entered glory), Christ's death also wasn't defeat but victorious completion of redemption.
+
+Peter imprisoned, bound with two chains, prefigures sinners bound by sin and death. Romans 7:24 Paul cries, "Wretched man that I am! Who will deliver me from this body of death?" We all were such prisoners, bound by sin, powerless to save ourselves, awaiting death's judgment.
+
+The Lord's angel came to the prison, light shone, prefiguring Christ coming to this dark world. John 1:5 says, "The light shines in the darkness, and the darkness has not overcome it." But light still shines, to rescue those sitting in darkness and shadow of death (Luke 1:79).
+
+The angel struck Peter awake, chains immediately fell off, prefiguring Christ's redemption freeing us from sin's bondage. Galatians 5:1 says, "For freedom Christ has set us free." Peter didn't break free himself; the chains fell off—this is grace's mark. Our salvation isn't by our effort but God's power and grace.
+
+Peter passing the first guard, second guard, iron gate prefigures Christ opening the way to God for us. Hebrews 10:19-20 says, "Brothers, we have confidence to enter the holy places by the blood of Jesus, by the new and living way that he opened for us through the curtain, that is, through his flesh." Peter couldn't open doors himself; God opened the way; we also cannot open heaven's door ourselves—only Christ is the way.
+
+Peter rescued, arriving at Mary's house where the church gathered praying, prefigures Christ resurrected appearing to disciples, building his church. The church is Christ's body, the gathering of those he rescued from death.
+
+Rhoda not believing Peter actually came prefigures disciples initially not believing Christ's resurrection. Luke 24:11 records when women reported the empty tomb, "these words seemed to them an idle tale, and they did not believe them." But Christ truly rose, just as Peter was truly rescued. God's promises will certainly be fulfilled, unchanged by our little faith.
+
+Herod proudly accepting people's worship, immediately struck by God, prefigures all powers resisting Christ and usurping God's glory facing judgment. Revelation 19:19-21 prophesies when Christ the King of kings, Lord of lords returns, he will strike down all kings and armies resisting him. Herod's destruction previews all God's enemies' ultimate fate.
+
+Finally, "the word of God increased" prefigures Christ's kingdom cannot be stopped. Matthew 16:18 the Lord says, "I will build my church, and the gates of hell shall not prevail against it." Herod died, Peter lived, James in heaven, God's word still flourishing on earth—all testify to Christ's eternal victory.`,
   },
   {
     id: 'acts-13',
@@ -3924,16 +5540,136 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '保罗',
     authorEn: 'Paul',
     publishDate: '2026-06-09',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `弟兄们，我保罗，耶稣基督的仆人，奉召为使徒，要对你们谈论这封信的开篇——关于福音的大能，以及神对罪的忿怒。
+
+当我提笔写这封信时，我的心充满了对你们的思念。你们这些在罗马为神所爱的人，虽然我尚未谋面，但我知道你们的信德已经传遍天下。我昼夜在祷告中记念你们，渴望能将属灵的恩赐分给你们，好使我们彼此坚固。
+
+我必须告诉你们，我不以福音为耻。这不是一句客套话，而是我生命的根基。在这个充满哲学与权势的罗马帝国，在这个看重智慧与能力的世界，传讲一位被钉十字架的救主看似愚拙。但我深知，这福音本是神的大能，要救一切相信的——先是犹太人,后是希利尼人。
+
+什么是福音？福音就是神的义在其中显明出来。这义不是我们靠行为赚取的，而是"本于信，以致于信"。正如先知哈巴谷所说："义人必因信得生。"这是整封书信的钥匙，是改革宗神学的核心——唯独因信称义。
+
+但在宣告这好消息之前，我必须先让你们看见坏消息。人类的处境是何等绝望！神的忿怒从天上显明在一切不虔不义的人身上。注意，这不是将来的忿怒，而是现在正在显明的忿怒。
+
+为什么神要发怒？因为人明明知道神，却不当作神荣耀他，也不感谢他。从造天地以来,神的永能和神性藉着所造之物就可以晓得，叫人无可推诿。人看见日月星辰的秩序，看见生命的奇妙，却选择不认识造物主。
+
+人的堕落是逐步下沉的。他们的思念变为虚妄，无知的心就昏暗了。他们自称为聪明，反成了愚拙，将不能朽坏之神的荣耀变为偶像——仿佛必朽坏的人和飞禽、走兽、昆虫的样式。这是何等可悲！人本是按神形像造的，却去拜人手所造的。
+
+神的审判是可怕的，但也是公义的。他"任凭"他们——这个词在本章出现三次（24、26、28节）。神任凭他们逞着心里的情欲行污秽的事，任凭他们放纵可羞耻的情欲，任凭他们存邪僻的心。这是神的忿怒，不是从天降下火来，而是任凭人在罪中越陷越深，自取败坏。
+
+我详细列出了罪的清单：不义、邪恶、贪婪、恶毒、嫉妒、凶杀、争竞、诡诈、毒恨、谗毁、背后说人、怨恨神、侮慢人、狂傲、自夸、捏造恶事、违背父母、无知、背约、无亲情、不怜悯人。这不是夸张的修辞，而是对人类堕落状态的如实描绘。
+
+最可怕的是最后一节：他们虽知道神判定行这样事的人是当死的，然而他们不但自己去行，还喜欢别人去行。这是罪的终极形态——不仅自己犯罪，还鼓励、赞许、庆祝别人犯罪。
+
+弟兄们，我写这些不是要定你们的罪（我们都曾在其中），而是要让你们明白福音的必要性。没有这个坏消息的背景，你们就无法真正理解好消息的宝贵。人类不是道德上需要改进，而是灵性上已经死亡，完全无法自救。
+
+这就是为什么我说"我不以福音为耻"。因为面对如此绝望的人类光景，唯有神的大能可以拯救。不是人的哲学，不是宗教仪式，不是道德修养，而是神主动的、白白的、全然恩典的救赎。
+
+在接下来的章节中，我会继续展开这个主题：犹太人和外邦人都在罪恶之下，但神预备了一条出路——藉着他儿子耶稣基督的死与复活，使一切相信的人可以因信称义。
+
+弟兄们，愿你们读这第一章时，心中既有敬畏（因神的圣洁与忿怒），也有盼望（因神为我们预备了救恩）。这是通向真理的必经之路：先认识自己的罪，才能领受神的义。`,
+    content_en: `Brothers, I, Paul, servant of Jesus Christ, called to be an apostle, want to speak to you about the opening of this letter—concerning the power of the gospel and God's wrath against sin.
+
+When I took up my pen to write this letter, my heart was full of longing for you. You who are loved by God in Rome, though I have not yet met you, I know your faith is proclaimed throughout the world. I remember you day and night in my prayers, longing to impart some spiritual gift to you, that we may be mutually encouraged.
+
+I must tell you, I am not ashamed of the gospel. This is not a mere pleasantry, but the foundation of my life. In this Roman Empire filled with philosophy and power, in this world that values wisdom and strength, proclaiming a crucified Savior seems foolish. But I know deeply that this gospel is the power of God for salvation to everyone who believes—to the Jew first and also to the Greek.
+
+What is the gospel? The gospel is that the righteousness of God is revealed in it. This righteousness is not earned by our works, but is "from faith for faith." As the prophet Habakkuk said: "The righteous shall live by faith." This is the key to the entire letter, the core of Reformed theology—justification by faith alone.
+
+But before proclaiming this good news, I must first show you the bad news. How desperate is the human condition! The wrath of God is revealed from heaven against all ungodliness and unrighteousness of men. Note, this is not future wrath, but wrath being revealed now.
+
+Why is God angry? Because although people knew God, they did not honor him as God or give thanks to him. For since the creation of the world, God's eternal power and divine nature have been clearly perceived through what has been made, leaving people without excuse. People see the order of sun, moon, and stars, see the wonder of life, yet choose not to know the Creator.
+
+Human depravity is a gradual descent. Their thinking became futile and their foolish hearts were darkened. Claiming to be wise, they became fools, and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things. How tragic! Humans made in God's image worship what human hands have made.
+
+God's judgment is terrible, but also righteous. He "gave them up"—this phrase appears three times in this chapter (verses 24, 26, 28). God gave them up to the lusts of their hearts to impurity, gave them up to dishonorable passions, gave them up to a debased mind. This is God's wrath—not fire falling from heaven, but allowing people to sink deeper into sin and reap their own destruction.
+
+I listed the catalog of sins in detail: unrighteousness, evil, covetousness, malice, envy, murder, strife, deceit, maliciousness, gossip, slander, hatred of God, insolence, haughtiness, boastfulness, invention of evil, disobedience to parents, foolishness, faithlessness, heartlessness, ruthlessness. This is not rhetorical exaggeration, but a faithful description of humanity's fallen state.
+
+The most terrible is the last verse: Though they know God's righteous decree that those who practice such things deserve to die, they not only do them but give approval to those who practice them. This is sin's ultimate form—not only committing sin oneself, but encouraging, approving, and celebrating others' sin.
+
+Brothers, I write these things not to condemn you (we were all once in this state), but to help you understand the necessity of the gospel. Without this background of bad news, you cannot truly appreciate the preciousness of the good news. Humanity is not morally in need of improvement, but spiritually dead, completely unable to save itself.
+
+This is why I say "I am not ashamed of the gospel." Because facing such a desperate human condition, only God's power can save. Not human philosophy, not religious rituals, not moral cultivation, but God's initiative, free, completely gracious redemption.
+
+In the following chapters, I will continue to unfold this theme: both Jews and Gentiles are under sin, but God has prepared a way out—through the death and resurrection of his Son Jesus Christ, so that all who believe may be justified by faith.
+
+Brothers, as you read this first chapter, may your hearts have both reverence (for God's holiness and wrath) and hope (for God has prepared salvation for us). This is the necessary path to truth: first know your sin, then receive God's righteousness.`,
+    historyContext_zh: `这封信写于主后57年左右，我第三次宣教旅程即将结束之时。当时我在哥林多，正计划前往耶路撒冷送捐项给那里的穷困圣徒，之后希望能访问罗马，再前往西班牙开拓新的宣教工场。
+
+罗马教会的建立不是使徒直接创立的，很可能是五旬节从耶路撒冷回来的犹太人和归信的外邦人建立的。教会中既有犹太背景的信徒，也有外邦信徒，两群体之间存在一些张力——关于律法、饮食、守日等问题有不同看法。
+
+罗马帝国当时正值尼禄统治初期，表面相对稳定，但对基督徒的逼迫暗流涌动。主后49年，革老丢曾下令驱逐在罗马的犹太人（使徒行传18:2提到），现在部分犹太基督徒返回罗马，与留下来的外邦信徒需要重新整合。
+
+我写这封信有多重目的：一是希望罗马教会能在财务和祷告上支持我的西班牙宣教；二是系统阐明福音真理，解决犹太人与外邦人在教会中的合一问题；三是为我可能的访问铺路。我深知这封信不仅是写给罗马人的，更是神要藉此向历世历代教会说话的经典文献。`,
+    historyContext_en: `This letter was written around AD 57, near the end of my third missionary journey. I was in Corinth at the time, planning to go to Jerusalem to deliver a contribution for the poor saints there, and afterward hoping to visit Rome before proceeding to Spain to open new mission fields.
+
+The Roman church was not directly founded by the apostles, but most likely established by Jews and converted Gentiles who returned from Jerusalem after Pentecost. The church had both Jewish and Gentile believers, with some tension between the two groups—different views on law, food, observance of days, and such matters.
+
+The Roman Empire was in the early years of Nero's reign, relatively stable on the surface, but with undercurrents of persecution against Christians. In AD 49, Claudius had issued an edict expelling Jews from Rome (mentioned in Acts 18:2); now some Jewish Christians were returning to Rome and needed to reintegrate with the Gentile believers who had remained.
+
+I wrote this letter with multiple purposes: first, hoping the Roman church would support my Spanish mission financially and in prayer; second, to systematically expound gospel truth and resolve issues of unity between Jews and Gentiles in the church; third, to pave the way for my possible visit. I deeply knew this letter was not only for the Romans, but that God would use it to speak to the church throughout all ages as a classic document.`,
+    structure_zh: `第一章可分为三个部分：
+
+问安与引言（1-15节）：我介绍自己的使徒身份，说明福音的内容（关于神的儿子），表达对罗马信徒的关切和访问的渴望。关键宣告在14-15节："无论是希利尼人、化外人、聪明人、愚拙人，我都欠他们的债"——这显明福音的普世性。
+
+福音的主题（16-17节）：这是全书的命题句。"我不以福音为耻"是因为"这福音本是神的大能"。第17节是改革宗神学的核心经文："神的义正在这福音上显明出来；这义是本于信，以致于信。如经上所记：义人必因信得生。"
+
+人类的罪与神的忿怒（18-32节）：这是福音背景的第一部分，聚焦外邦人的罪。结构是递进式的：人拒绝敬拜真神（18-23节）→神任凭人犯罪（24-27节）→人全然堕落的状态（28-32节）。三次"神任凭"（24、26、28节）是关键词，显示神的审判方式。
+
+这个结构设计精妙：先确立福音的大能，再展示人类对福音的需要，为接下来2-3章继续论述"所有人都在罪恶之下"铺路。`,
+    structure_en: `Chapter 1 can be divided into three parts:
+
+Greeting and Introduction (verses 1-15): I introduce my apostolic identity, explain the content of the gospel (concerning God's Son), and express my concern for the Roman believers and desire to visit. The key declaration is in verses 14-15: "I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish"—showing the universality of the gospel.
+
+The Theme of the Gospel (verses 16-17): This is the thesis statement for the entire letter. "I am not ashamed of the gospel" because "it is the power of God." Verse 17 is a core text of Reformed theology: "For in it the righteousness of God is revealed from faith for faith. As it is written, 'The righteous shall live by faith.'"
+
+Human Sin and God's Wrath (verses 18-32): This is the first part of the gospel's background, focusing on Gentile sin. The structure is progressive: people reject worship of the true God (verses 18-23) → God gives people over to sin (verses 24-27) → people's totally depraved state (verses 28-32). The three occurrences of "God gave them up" (verses 24, 26, 28) are key phrases, showing God's method of judgment.
+
+This structural design is masterful: first establishing the power of the gospel, then demonstrating humanity's need for the gospel, paving the way for chapters 2-3 to continue arguing that "all are under sin."`,
+    theology_zh: `本章的神学核心是"因信称义"的宣告（17节）与"普世性罪恶"的展示（18-32节）。这形成了改革宗神学的两大支柱。
+
+首先，神的义不是我们靠行为达到的标准，而是神白白赐给的礼物。"本于信，以致于信"表明称义从始至终都是藉着信心，不掺杂任何人的功劳。这就是"唯独信心"（Sola Fide）的圣经根据。
+
+其次，人类的罪不仅是道德上的过失，更是对神的背叛。18节的"不虔"（ungodliness）指向人与神的关系破裂，"不义"（unrighteousness）指向人与人的关系破裂。所有的罪都源于不敬拜真神。
+
+第三，神的忿怒是现在式的（"正在显明"），不仅是末日审判。神的忿怒表现为"任凭"人在罪中自取败坏——这是可怕的审判，因为人失去了神的普遍恩典的约束。
+
+第四，普遍启示（19-20节）使所有人无可推诿。人可以从受造界认识神的永能和神性，但这知识不足以拯救人，只能显明人的罪责。唯有特殊启示（福音）才能带来救恩。
+
+最后，人的堕落是全面的（Total Depravity）——这是加尔文主义五要点的第一点。人的理性、情感、意志全然败坏，完全无法凭自己归向神。`,
+    theology_en: `The theological core of this chapter is the declaration of "justification by faith" (verse 17) and the demonstration of "universal sinfulness" (verses 18-32). These form two pillars of Reformed theology.
+
+First, God's righteousness is not a standard we achieve through works, but a gift God freely gives. "From faith for faith" shows that justification from beginning to end is through faith, unmixed with any human merit. This is the biblical basis for "faith alone" (Sola Fide).
+
+Second, human sin is not merely moral failure, but rebellion against God. The "ungodliness" in verse 18 points to the broken relationship between humans and God; "unrighteousness" points to broken relationships between humans. All sin stems from failure to worship the true God.
+
+Third, God's wrath is present tense ("is revealed"), not only final judgment. God's wrath is manifested in "giving people over" to reap destruction in sin—this is terrible judgment, because people lose the restraint of God's common grace.
+
+Fourth, general revelation (verses 19-20) leaves all people without excuse. People can know God's eternal power and divine nature from creation, but this knowledge is insufficient to save, only to demonstrate human guilt. Only special revelation (the gospel) can bring salvation.
+
+Finally, human depravity is total (Total Depravity)—the first of the five points of Calvinism. Human reason, emotion, and will are completely corrupted, utterly unable to turn to God by themselves.`,
+    christShadow_zh: `虽然本章主要论述人的罪与神的忿怒，但基督的影子无处不在。
+
+第3-4节已经预告了福音的核心："论到他儿子——我主耶稣基督。按肉体说，是从大卫后裔生的；按圣善的灵说，因从死里复活，以大能显明是神的儿子。"这是基督的双重身份：真人（大卫的后裔）与真神（神的儿子）。道成肉身与复活是福音的根基。
+
+第16节的"神的大能"最终在十字架上显明。在世人眼中，十字架是软弱与羞耻，但在信的人却是神拯救的大能。基督代替我们承受了本章所描述的神的忿怒。
+
+第17节的"神的义"在基督里得以显明。不是我们的义，而是神的义；不是我们达到神的标准，而是基督的义归算给我们。这就是"唯独基督"（Solus Christus）的含义。
+
+第18节及以下描述的神的忿怒，本应完全倾倒在我们身上，但基督在十字架上为我们承受了。他成为"罪身的形状"（8:3），好叫我们在他里面成为神的义。
+
+第32节说"行这样事的人是当死的"——但基督为我们死了！他代替我们承受了死的刑罚，使我们这些该死的罪人可以因信得生。每一项控诉，基督都替我们回答了；每一样刑罚,基督都替我们承担了。这就是福音！`,
+    christShadow_en: `Though this chapter primarily discusses human sin and God's wrath, the shadow of Christ is everywhere.
+
+Verses 3-4 already herald the gospel's core: "concerning his Son—our Lord Jesus Christ. According to the flesh, descended from David; according to the Spirit of holiness, declared to be the Son of God in power by his resurrection from the dead." This is Christ's dual identity: true man (seed of David) and true God (Son of God). The incarnation and resurrection are the foundation of the gospel.
+
+The "power of God" in verse 16 is ultimately revealed on the cross. In the world's eyes, the cross is weakness and shame, but to those who believe, it is God's saving power. Christ bore in our place the wrath of God described in this chapter.
+
+The "righteousness of God" in verse 17 is revealed in Christ. Not our righteousness, but God's righteousness; not us reaching God's standard, but Christ's righteousness imputed to us. This is the meaning of "Christ alone" (Solus Christus).
+
+God's wrath described in verse 18 and following should have been poured out entirely on us, but Christ bore it for us on the cross. He became "in the likeness of sinful flesh" (8:3), that we might become the righteousness of God in him.
+
+Verse 32 says those who do such things "deserve to die"—but Christ died for us! He bore death's penalty in our place, so that we who deserve death may live by faith. Every accusation, Christ answered for us; every punishment, Christ bore for us. This is the gospel!`,
   },
   {
     id: 'romans-2',
@@ -3945,16 +5681,144 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '保罗',
     authorEn: 'Paul',
     publishDate: '2026-06-10',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `弟兄们，在第一章我揭露了外邦人的罪，但现在我必须转向那些论断别人的人——特别是我的同胞犹太人。这一章的信息尖锐而不留情面：神不偏待人。
+
+"你这论断人的，无论你是谁，也无可推诿。"注意我说的是"无论你是谁"——这包括犹太人，也包括任何自以为道德高尚的人。当你论断行第一章所列罪恶的人时，你是在定自己的罪，因为你所行的和别人一样。
+
+也许有人会说："但我没有犯那些大罪啊！"弟兄们，罪的本质不在于外在的行为大小，而在于内心对神的悖逆。你论断别人，证明你知道什么是罪；但你自己也犯罪，这就显出你是故意的。"你以为能逃脱神的审判么？"神的审判是按真理的，不是按外表。
+
+神的恩慈、宽容、忍耐本是领人悔改的。但人却藐视神的恩慈，任着刚硬不悔改的心，为自己积蓄忿怒。想想看，神每天赐给人阳光、雨水、食物、健康，这一切都是恩典，目的是领人悔改。但人却利用神的宽容继续犯罪，这是何等可怕！
+
+神的审判有一个原则："他必照各人的行为报应各人。"这不是说我们靠行为得救，而是说审判是公平的。那些恒心行善、寻求荣耀、尊贵和不能朽坏之福的，神以永生报应他们；那些结党、不顺从真理、反顺从不义的，神以忿怒、恼恨报应他们。
+
+关键的是11节："因为神不偏待人。"这句话打碎了犹太人的骄傲。他们以为自己有律法、有割礼、是亚伯拉罕的后裔，就能在审判中占便宜。但神说："不！"在我面前，犹太人和希利尼人一视同仁。
+
+我详细解释了这个原则：没有律法的外邦人犯了罪，不按律法灭亡（因为他们没有律法）；但在律法以下的犹太人犯了罪，也必按律法受审判。在神面前，不是听律法的为义，乃是行律法的称义。
+
+但这里有一个悖论：如果真要靠行律法称义，没有人做得到！我这样说是为了显明，律法本是叫人知罪（3:20），不是叫人靠它得救。连外邦人都有良心作见证，他们的思念互相较量，或以为是，或以为非——这证明神的律法刻在人心里。
+
+然后我转向犹太人，直接质问他们：你称为犹太人，倚靠律法，指着神夸口，从律法中受了教训，晓得神的旨意，能分别是非，自以为是给瞎子领路的，是黑暗中人的光——但你教导别人,还不教导自己么？
+
+这一连串的反问句是灵魂深处的刺痛。你讲说人不可偷窃，自己还偷窃么？你说人不可奸淫，自己还奸淫么？你厌恶偶像，自己还偷窃庙中之物么？你指着律法夸口，自己倒犯律法，玷辱神么？
+
+结果是什么？"神的名在外邦人中，因你们受了亵渎。"犹太人本应是世界的光，让列国认识真神，但他们的假冒伪善反而让外邦人轻看神。这是何等可悲的失败！
+
+最后，我谈到割礼。割礼本是神与亚伯拉罕立约的记号，是属神子民的标记。但割礼有什么用呢？如果你犯律法，你的割礼就算不得割礼。反过来，那未受割礼的外邦人如果遵守律法的条例，他虽然未受割礼，岂不算是有割礼么？
+
+这话震动了犹太人的根基。他们一向以为，有割礼就有保障，是亚伯拉罕的子孙就能进天国。但我告诉他们："外面作犹太人的，不是真犹太人；外面肉身的割礼，也不是真割礼。惟有里面作的，才是真犹太人；真割礼也是心里的，在乎灵，不在乎仪文。"
+
+这是福音的核心真理之一：神看重的是内心，不是外表的记号。真正的属神子民不是凭血统、仪式，而是凭信心。这为第四章讲亚伯拉罕因信称义铺路，也为第九章讲神拣选的主权铺路。
+
+弟兄们，这一章的信息对我们今天仍然适用。不要以为参加教会、受洗礼、遵守一些规条就能得救。神要的是内心的真实悔改和信靠。不要论断别人而忽视自己的罪。不要藐视神的恩慈，以为神不会审判。神是公义的，他的审判是按真理的，他不偏待人。
+
+但在这严厉的信息背后，仍有恩典的盼望。神的恩慈是领人悔改的。如果你今天听见这话，不要硬着心，要趁着还有今日，回转归向神。他必照各人的行为报应各人——但感谢神，我们有基督的义可以穿上！`,
+    content_en: `Brothers, in chapter one I exposed the sin of the Gentiles, but now I must turn to those who judge others—especially my fellow Jews. The message of this chapter is sharp and unsparing: God shows no partiality.
+
+"Therefore you have no excuse, O man, every one of you who judges." Notice I say "every one of you"—this includes Jews and anyone who considers themselves morally superior. When you judge those who commit the sins listed in chapter one, you condemn yourself, because you do the same things.
+
+Someone might say, "But I haven't committed those great sins!" Brothers, the essence of sin is not the magnitude of outward actions, but inward rebellion against God. You judge others, proving you know what sin is; but you also sin, showing you do it deliberately. "Do you suppose you will escape the judgment of God?" God's judgment is according to truth, not appearances.
+
+God's kindness, forbearance, and patience are meant to lead to repentance. But people despise God's kindness, and by their hard and impenitent heart are storing up wrath for themselves. Consider—God daily gives people sunshine, rain, food, health; all this is grace aimed at leading to repentance. But people use God's forbearance to continue sinning. How terrible!
+
+God's judgment has a principle: "He will render to each one according to his works." This doesn't mean we're saved by works, but that judgment is fair. To those who by patience in well-doing seek for glory, honor, and immortality, he will give eternal life; but for those who are self-seeking, who do not obey the truth but obey unrighteousness, there will be wrath and fury.
+
+The key is verse 11: "For God shows no partiality." This statement shatters Jewish pride. They thought having the law, circumcision, and being Abraham's descendants gave them an advantage in judgment. But God says, "No!" Before me, Jews and Greeks are treated the same.
+
+I explained this principle in detail: Gentiles who sin without the law will perish without the law; but Jews who sin under the law will be judged by the law. Before God, it is not the hearers of the law who are righteous, but the doers of the law who will be justified.
+
+But there's a paradox here: if one truly had to be justified by doing the law, no one could do it! I say this to show that the law's purpose is to make us conscious of sin (3:20), not to save us by it. Even Gentiles have conscience bearing witness, their thoughts accusing or defending them—proving God's law is written on their hearts.
+
+Then I turned to the Jews and directly questioned them: You call yourself a Jew, rely on the law, boast in God, know his will from instruction in the law, can discern what is best, are confident you're a guide to the blind, a light to those in darkness—but do you teach yourself while teaching others?
+
+This series of rhetorical questions pierces the soul. You preach against stealing, but do you steal? You say one must not commit adultery, but do you? You abhor idols, but do you rob temples? You boast in the law, but do you dishonor God by breaking it?
+
+What's the result? "The name of God is blasphemed among the Gentiles because of you." Jews were supposed to be a light to the world, making the nations know the true God, but their hypocrisy caused Gentiles to despise God. What tragic failure!
+
+Finally, I addressed circumcision. Circumcision was the sign of God's covenant with Abraham, the mark of God's people. But what good is circumcision? If you break the law, your circumcision becomes uncircumcision. Conversely, if an uncircumcised Gentile keeps the law's requirements, will not his uncircumcision be regarded as circumcision?
+
+This shook the foundation of Jewish confidence. They'd always thought circumcision gave them security, that being Abraham's children guaranteed heaven. But I told them: "For no one is a Jew who is merely one outwardly, nor is circumcision outward and physical. But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter."
+
+This is a core gospel truth: God values the heart, not outward signs. True membership in God's people is not by bloodline or ceremony, but by faith. This paves the way for chapter four on Abraham's justification by faith, and for chapter nine on God's sovereign election.
+
+Brothers, this chapter's message still applies today. Don't think attending church, being baptized, or keeping some rules will save you. God wants genuine heart repentance and trust. Don't judge others while ignoring your own sin. Don't despise God's kindness, thinking God won't judge. God is righteous, his judgment is according to truth, he shows no partiality.
+
+But behind this stern message, there's still hope of grace. God's kindness is meant to lead to repentance. If you hear this today, don't harden your heart; while it is still called today, turn back to God. He will render to each according to his works—but thank God, we have Christ's righteousness to put on!`,
+    historyContext_zh: `第二章针对的主要对象是犹太人，特别是那些在道德和宗教上自以为义的人。在第一世纪的犹太教中，有一种普遍的观念认为，作为亚伯拉罕的后裔、拥有律法和割礼的犹太人，在神面前自动拥有特殊地位。
+
+当时的拉比教导中有一个概念叫"亚伯拉罕的功德"（merit of Abraham），意思是亚伯拉罕的义可以遮盖他后裔的罪。割礼被视为进入神国度的保证——有拉比甚至说："受过割礼的人不会下到地狱。"这种观念在约翰福音8章中也有反映，犹太人对耶稣说："我们是亚伯拉罕的后裔。"
+
+同时，犹太人普遍轻看外邦人，称他们为"外邦狗"。他们认为外邦人注定灭亡，而犹太人则有得救的特权。这种民族和宗教上的骄傲，正是保罗在本章所要打破的。
+
+罗马教会中犹太信徒和外邦信徒之间的张力，部分源于这种背景。犹太信徒可能仍然认为自己在属灵上优越，需要保罗纠正这种错误观念，强调神不偏待人，审判是按真理和实际行为的。`,
+    historyContext_en: `Chapter two's primary audience is Jews, especially those who were self-righteous in morals and religion. In first-century Judaism, there was a widespread notion that as Abraham's descendants possessing the law and circumcision, Jews automatically had special standing before God.
+
+Rabbinic teaching of that time included a concept called "the merit of Abraham," meaning Abraham's righteousness could cover the sins of his descendants. Circumcision was viewed as a guarantee of entry into God's kingdom—some rabbis even said, "The circumcised will not go down to Gehenna." This concept is also reflected in John 8, where Jews told Jesus, "We are offspring of Abraham."
+
+At the same time, Jews generally despised Gentiles, calling them "Gentile dogs." They believed Gentiles were destined for destruction, while Jews had the privilege of salvation. This ethnic and religious pride is precisely what Paul aims to dismantle in this chapter.
+
+The tension between Jewish and Gentile believers in the Roman church partly stemmed from this background. Jewish believers may have still considered themselves spiritually superior, requiring Paul's correction of this false notion, emphasizing that God shows no partiality and that judgment is according to truth and actual deeds.`,
+    structure_zh: `第二章的结构围绕着"神的审判"这个主题展开，可分为四个段落：
+
+神审判的原则（1-11节）：针对论断别人的人（特别是犹太人），指出神的审判是按真理的，照各人的行为报应各人，神不偏待人。这三个原则（按真理、按行为、不偏待人）贯穿全章。
+
+律法与审判（12-16节）：阐明犹太人和外邦人在审判中的平等。没有律法的灭亡不按律法，有律法的受审按律法。关键在于行律法，不在于听律法。连外邦人心中都有律法的功用刻在其上。
+
+犹太人的假冒伪善（17-24节）：直接质问犹太人——你们倚靠律法、教导别人，自己却不遵行，结果神的名因你们在外邦人中受亵渎。这是先知性的控诉。
+
+割礼的真义（25-29节）：真正的犹太人是里面作的，真割礼是心里的。这段话将外在的宗教仪式与内在的属灵实际区分开来，为因信称义的教义铺路。
+
+整章的逻辑是递进的：先确立审判的公平原则,再指出犹太人和外邦人在神面前平等，然后揭露犹太人的假冒伪善，最后重新定义什么是真犹太人。`,
+    structure_en: `Chapter two's structure revolves around the theme of "God's judgment" and can be divided into four sections:
+
+Principles of God's Judgment (verses 1-11): Addressing those who judge others (especially Jews), pointing out that God's judgment is according to truth, rendering to each according to works, and showing no partiality. These three principles (by truth, by deeds, without partiality) pervade the chapter.
+
+Law and Judgment (verses 12-16): Explaining the equality of Jews and Gentiles in judgment. Those without law who sin will perish without law; those under law who sin will be judged by law. The key is doing the law, not hearing it. Even Gentiles have the law's work written on their hearts.
+
+Jewish Hypocrisy (verses 17-24): Directly questioning Jews—you rely on the law and teach others, yet don't obey it yourselves, resulting in God's name being blasphemed among Gentiles because of you. This is prophetic accusation.
+
+The True Meaning of Circumcision (verses 25-29): The true Jew is one inwardly, true circumcision is of the heart. This passage distinguishes outward religious ceremony from inward spiritual reality, paving the way for the doctrine of justification by faith.
+
+The chapter's logic is progressive: first establishing fair principles of judgment, then pointing out Jewish and Gentile equality before God, then exposing Jewish hypocrisy, finally redefining what a true Jew is.`,
+    theology_zh: `本章的神学主题是"神审判的公义性"，这是改革宗神学中神的属性的重要方面。
+
+首先，神审判是公正无偏的（11节）。改革宗神学强调神的公义（justice）与神的恩典（grace）并不矛盾。神不偏待人，意味着他按同样的标准审判所有人，不会因为你是某个族裔、拥有某些宗教特权就网开一面。这打破了犹太人的特权意识。
+
+其次，神的恩慈与神的审判（4-5节）。神的恩慈是为领人悔改，不是纵容罪恶。那些藐视神恩慈的人，实际上是在为自己积蓄忿怒。改革宗神学称之为"不可抗拒的恩典"的反面——人可以刚硬地抗拒神的普遍恩慈，但不能抗拒神拣选之恩（effectual calling）。
+
+第三，律法的功用（12-16节）。律法不是让人靠它得救，而是显明人的罪（3:20）。外邦人心中有律法的功用（良心），犹太人有成文的律法，但两者都无法靠律法称义。这为"唯独恩典"铺路。
+
+第四，真犹太人的定义（28-29节）。这是"看不见的教会"（invisible church）概念的雏形。不是所有外在属于神子民的人都是真正得救的，唯有心里受割礼、被圣灵更新的才是神真正的儿女。这与约翰福音3章尼哥底母的"重生"相呼应。`,
+    theology_en: `The theological theme of this chapter is "the righteousness of God's judgment," an important aspect of God's attributes in Reformed theology.
+
+First, God's judgment is just and impartial (verse 11). Reformed theology emphasizes that God's justice and God's grace are not contradictory. God's showing no partiality means he judges all by the same standard, not giving anyone a pass based on ethnicity or religious privilege. This shatters Jewish presumption of privilege.
+
+Second, God's kindness and God's judgment (verses 4-5). God's kindness is meant to lead to repentance, not to excuse sin. Those who despise God's kindness are actually storing up wrath for themselves. Reformed theology calls this the opposite of "irresistible grace"—people can stubbornly resist God's common grace, but cannot resist God's electing grace (effectual calling).
+
+Third, the function of the law (verses 12-16). The law is not for justification, but to reveal sin (3:20). Gentiles have the law's work in their hearts (conscience), Jews have the written law, but neither can be justified by the law. This paves the way for "grace alone."
+
+Fourth, the definition of a true Jew (verses 28-29). This is an embryonic form of the concept of the "invisible church." Not all who outwardly belong to God's people are truly saved; only those circumcised in heart and renewed by the Spirit are God's true children. This echoes Nicodemus's "new birth" in John 3.`,
+    christShadow_zh: `本章虽然主要讲审判，但基督的影子隐藏其中。
+
+首先，神的恩慈、宽容、忍耐（4节）都在基督里显明。神没有立刻审判罪人，而是差遣基督来，这是神恩慈的最高表现。彼得后书3:9说："主所应许的尚未成就，有人以为他是耽延，其实不是耽延，乃是宽容你们，不愿有一人沉沦，乃愿人人都悔改。"
+
+其次，"神的审判是按真理的"（2节）。但谁能在神公义的审判中站立得住呢？唯有基督！他是唯一完全行律法的人。他为我们成为义（哥林多前书1:30），使我们这些不能行律法的人可以在审判中得称为义。
+
+第三，"他必照各人的行为报应各人"（6节）。这是可怕的宣告——但基督为我们承受了报应！他在十字架上承受了我们该受的刑罚，使神的公义得到满足。同时，他的义行（obedience）归算给我们，使我们可以得永生。
+
+第四，"真割礼也是心里的"（29节）。这是新约的应许，由基督成就。以西结书36:26说："我也要赐给你们一个新心，将新灵放在你们里面，又从你们的肉体中除掉石心，赐给你们肉心。"这是藉着基督的死和圣灵的工作成就的。
+
+最后，"真犹太人"的定义指向基督。他是真以色列，完美的以色列人。我们在他里面成为"亚伯拉罕的后裔，是照着应许承受产业的了"（加拉太书3:29）。`,
+    christShadow_en: `Though this chapter mainly discusses judgment, Christ's shadow is hidden within.
+
+First, God's kindness, forbearance, and patience (verse 4) are all revealed in Christ. God didn't immediately judge sinners, but sent Christ—this is the highest expression of God's kindness. 2 Peter 3:9 says, "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance."
+
+Second, "God's judgment is according to truth" (verse 2). But who can stand in God's righteous judgment? Only Christ! He is the only one who perfectly kept the law. He became righteousness for us (1 Corinthians 1:30), so that we who cannot keep the law can be declared righteous in judgment.
+
+Third, "He will render to each one according to his works" (verse 6). This is a terrifying declaration—but Christ bore the penalty for us! On the cross he bore the punishment we deserved, satisfying God's justice. At the same time, his righteous deeds (obedience) are imputed to us, so we can receive eternal life.
+
+Fourth, "circumcision is a matter of the heart" (verse 29). This is a new covenant promise, fulfilled by Christ. Ezekiel 36:26 says, "And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh." This is accomplished through Christ's death and the Spirit's work.
+
+Finally, the definition of a "true Jew" points to Christ. He is the true Israel, the perfect Israelite. In him we become "Abraham's offspring, heirs according to promise" (Galatians 3:29).`,
   },
   {
     id: 'romans-3',
@@ -3966,16 +5830,186 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '保罗',
     authorEn: 'Paul',
     publishDate: '2026-06-11',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `弟兄们，在前两章我已经证明，外邦人在罪恶之下，犹太人也在罪恶之下。现在我要回答一些自然的反对意见，然后宣告那荣耀的福音：因信称义。
+
+有人会问："这样说来，犹太人有什么长处？割礼有什么益处呢？"我的回答是："凡事大有好处：第一是神的圣言交托他们。"犹太人拥有神的启示、律法、先知的话语，这是巨大的特权。但特权不等于自动得救，拥有圣经不等于拥有救恩。
+
+即便有不信的犹太人，这有何妨呢？难道他们的不信就废掉神的信么？断乎不能！人都是虚谎的，唯有神是真实的。神的信实不取决于人的回应。他的应许永不改变，他的计划必然成就。
+
+但有人会狡辩："我们的不义若显出神的义来，我们可以怎么说呢？神降怒，是他不义么？"换句话说，如果我的罪恶反而衬托了神的荣耀，神为什么还要惩罚我？这是何等荒谬的逻辑！如果这样，神怎能审判世界呢？我们不可以作恶以成善，那些说我有这话的人，定罪是该当的。
+
+现在我要进入本书最重要的宣告之一："我们已经证明，犹太人和希利尼人都在罪恶之下。"这不是我的偏见，而是圣经的见证。我用一连串的旧约引文来证明：
+
+"没有义人，连一个也没有。"这是诗篇14篇的话。注意是"连一个也没有"——没有例外，没有人可以说"我比别人好"。
+
+"没有明白的；没有寻求神的。"人的理性被罪玷污，以致不认识神；人的意志被罪捆绑，以致不寻求神。这就是全然败坏（Total Depravity）。
+
+"都是偏离正路，一同变为无用。没有行善的，连一个也没有。"人类集体性地偏离了神的道路，像羊走迷了路，各人偏行己路。
+
+接下来我描述罪如何掌控人的全身：喉咙（敞开的坟墓）、舌头（弄诡诈）、嘴唇（虺蛇的毒气）、口（咒骂苦毒）、脚（飞跑去杀人流血）、路（残害暴虐）、眼（不怕神）。从头到脚，人完全被罪玷污。
+
+"律法上的话都是对律法以下之人说的，好塞住各人的口，叫普世的人都伏在神审判之下。"这是律法的功用——不是让人夸口，而是让人闭口。律法像一面镜子，照出人的污秽，使人无话可说，只能在神面前俯伏认罪。
+
+"所以凡有血气的，没有一个因行律法能在神面前称义，因为律法本是叫人知罪。"这是关键的神学宣告！律法不是通往天堂的阶梯，而是显明我们需要救主的工具。改革宗神学称此为律法的第二功用（second use of the law）——使人知罪。
+
+但感谢神，故事没有在这里结束！"但如今，神的义在律法以外已经显明出来，有律法和先知为证。"注意"但如今"（But now）这个转折词——这是福音的黎明！神的义不是藉着我们守律法得来，而是"在律法以外"已经显明出来。
+
+这义是什么？"就是神的义，因信耶稣基督加给一切相信的人，并没有分别。"这是改革宗神学五大唯独的核心：唯独因信、唯独基督、唯独恩典。我们不是自己变义，而是神的义加给我们；不是因行为，而是因信；不是因为我们好，而是因为基督。
+
+"因为世人都犯了罪，亏缺了神的荣耀。"这是普世性的诊断。亏缺神的荣耀，意思是达不到神设立人的标准。人本该反映神的形像，但因犯罪而扭曲、玷污、失去了这荣耀。
+
+"如今却蒙神的恩典，因基督耶稣的救赎，就白白的称义。"三个关键词：恩典（不是我们配得）、救赎（基督买赎我们）、白白（不是我们赚得）。称义是神的法庭宣告——虽然我们是罪人，但因着基督，神宣判我们为义！
+
+"神设立耶稣作挽回祭，是凭着耶稣的血，藉着人的信，要显明神的义。"挽回祭是旧约赎罪日大祭司在施恩座上洒血的那个仪式。基督的血不仅洗净我们的罪，更平息了神对罪的忿怒。这显明神的义——他既是公义的（罪必须受罚），又是使人称义的（罪人可以被赦免）。
+
+这怎么可能？因为神在十字架上同时满足了他的公义和慈爱。基督承受了刑罚，神的忿怒被平息；基督的义归给我们，我们可以被称义。这是何等奇妙的救恩！
+
+"既是这样，那里能夸口呢？没有可夸的了。"如果救恩是靠我们的行为，我们就有可夸的；但既然是白白的恩典，我们只能感恩。"用何法没有的呢？是用立功之法么？不是，乃用信主之法。"
+
+"所以我们看定了：人称义是因着信，不在乎遵行律法。"这是宗教改革的旗帜，是改革宗神学的基石，是每个罪人唯一的盼望。不是因行为，乃是因信。
+
+最后，这福音是给所有人的。"难道神只作犹太人的神么？不也是作外邦人的神么？"神既是一位，他就要因信称那受割礼的为义，也要因信称那未受割礼的为义。同一个神，同一个救法，同一个福音。
+
+有人问："我们因信废了律法么？"断乎不是！更是坚固律法。因信称义不是废除律法，而是成全律法——基督为我们完美地遵行了律法，我们因信与他联合，就在他里面满足了律法的要求。
+
+弟兄们，这第三章是整本罗马书的核心。前两章半是诊断（人的罪），后面的是应用（信徒的生活），但3:21-26这几节是福音的精髓。请你们反复诵读、默想、相信：神使那无罪的，替我们成为罪，好叫我们在他里面成为神的义。`,
+    content_en: `Brothers, in the first two chapters I have proven that Gentiles are under sin, and Jews are also under sin. Now I will answer some natural objections, then proclaim that glorious gospel: justification by faith.
+
+Someone will ask, "Then what advantage has the Jew? Or what is the value of circumcision?" My answer is, "Much in every way. To begin with, the Jews were entrusted with the oracles of God." Jews possess God's revelation, law, prophetic words—this is immense privilege. But privilege doesn't equal automatic salvation; having Scripture doesn't equal having salvation.
+
+Even if some Jews are unfaithful, what does that matter? Does their faithlessness nullify God's faithfulness? By no means! Let God be true though every one were a liar. God's faithfulness doesn't depend on human response. His promises never change, his plan will surely be accomplished.
+
+But someone will argue sophistically: "If our unrighteousness serves to show God's righteousness, what shall we say? That God is unrighteous to inflict wrath?" In other words, if my sin highlights God's glory, why should God still punish me? What absurd logic! If this were so, how could God judge the world? We cannot do evil that good may come—those who say I teach this deserve condemnation.
+
+Now I come to one of this book's most important declarations: "We have already charged that all, both Jews and Greeks, are under sin." This is not my bias, but Scripture's witness. I use a string of Old Testament quotations to prove it:
+
+"None is righteous, no, not one." These are words from Psalm 14. Notice "not one"—no exceptions, no one can say "I'm better than others."
+
+"No one understands; no one seeks for God." Human reason is tainted by sin so as not to know God; human will is bound by sin so as not to seek God. This is Total Depravity.
+
+"All have turned aside; together they have become worthless; no one does good, not even one." Humanity collectively has strayed from God's path, like sheep gone astray, each turning to his own way.
+
+Next I describe how sin controls the whole body: throat (open grave), tongue (deceit), lips (viper's venom), mouth (cursing and bitterness), feet (swift to shed blood), paths (ruin and misery), eyes (no fear of God). From head to toe, people are completely defiled by sin.
+
+"Now we know that whatever the law says it speaks to those who are under the law, so that every mouth may be stopped, and the whole world may be held accountable to God." This is the law's function—not to make people boast, but to silence them. The law is like a mirror, showing human filth, leaving people speechless, able only to bow before God in confession.
+
+"For by works of the law no human being will be justified in his sight, since through the law comes knowledge of sin." This is a crucial theological declaration! The law is not a ladder to heaven, but a tool showing we need a Savior. Reformed theology calls this the second use of the law—to convict of sin.
+
+But thank God, the story doesn't end here! "But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it." Notice the transitional words "But now"—this is the gospel's dawn! God's righteousness comes not through our law-keeping, but "apart from the law" has already been manifested.
+
+What is this righteousness? "The righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction." This is the core of Reformed theology's five solas: faith alone, Christ alone, grace alone. We don't become righteous ourselves, but God's righteousness is given to us; not by works, but by faith; not because we're good, but because of Christ.
+
+"For all have sinned and fall short of the glory of God." This is the universal diagnosis. Falling short of God's glory means failing to reach God's standard for humanity. People should reflect God's image, but through sin have distorted, defiled, lost that glory.
+
+"And are justified by his grace as a gift, through the redemption that is in Christ Jesus." Three key words: grace (we don't deserve it), redemption (Christ bought us back), gift (we didn't earn it). Justification is God's courtroom declaration—though we are sinners, because of Christ, God declares us righteous!
+
+"Whom God put forward as a propitiation by his blood, to be received by faith. This was to show God's righteousness." Propitiation is the Old Testament Day of Atonement ceremony where the high priest sprinkled blood on the mercy seat. Christ's blood not only cleanses our sin, but propitiates God's wrath against sin. This demonstrates God's righteousness—he is both just (sin must be punished) and the justifier (sinners can be forgiven).
+
+How is this possible? Because on the cross God simultaneously satisfied his justice and love. Christ bore the punishment, God's wrath was appeased; Christ's righteousness is credited to us, we can be justified. What marvelous salvation!
+
+"Then what becomes of our boasting? It is excluded." If salvation were by our works, we could boast; but since it's free grace, we can only be grateful. "By what kind of law? By a law of works? No, but by the law of faith."
+
+"For we hold that one is justified by faith apart from works of the law." This is the Reformation's banner, the cornerstone of Reformed theology, every sinner's only hope. Not by works, but by faith.
+
+Finally, this gospel is for everyone. "Or is God the God of Jews only? Is he not the God of Gentiles also?" Since God is one, he will justify the circumcised by faith and the uncircumcised through faith. One God, one way of salvation, one gospel.
+
+Someone asks, "Do we then overthrow the law by this faith?" By no means! On the contrary, we uphold the law. Justification by faith doesn't abolish the law, but fulfills it—Christ perfectly obeyed the law for us; we by faith are united with him and in him satisfy the law's demands.
+
+Brothers, this third chapter is the core of the entire book of Romans. The first two and a half chapters are diagnosis (human sin), the rest is application (believer's life), but 3:21-26 is the gospel's essence. Please read, meditate, believe repeatedly: God made him who knew no sin to be sin for us, that we might become the righteousness of God in him.`,
+    historyContext_zh: `第三章是罗马书神学论述的高峰之一，它总结了前两章对人类罪性的诊断，然后宣告因信称义的福音。这个教义后来成为宗教改革的核心。
+
+在第一世纪的犹太教中，称义（justification）的概念主要指在末日审判中被神宣判为义。拉比教导说，人要靠遵行律法和善行来获得义。虽然他们也相信神的怜悯，但重点仍在人的努力上。
+
+保罗在这里革命性地宣告：称义不是在末日才发生，而是现在就藉着信心领受的；称义不是靠人的行为，而是完全靠神的恩典；称义不是部分因信、部分因行为，而是完全因信，完全基于基督的工作。
+
+3:25提到的"挽回祭"（希腊文hilasterion）在旧约指赎罪日大祭司洒血的施恩座（出埃及记25:17-22）。保罗用这个意象说明，基督的死就像赎罪日的祭物，平息了神的忿怒，使罪人可以与神和好。
+
+这个教义在16世纪的宗教改革中成为核心议题。马丁·路德读到这一章（特别是"义人必因信得生"）时，称之为"天堂的门为我打开"。加尔文在《基督教要义》中详细阐述了称义的教义，强调它是forensic（法庭性的）宣告，不是内在的更新（那是成圣）。`,
+    historyContext_en: `Chapter three is one of the theological peaks of Romans, summarizing the first two chapters' diagnosis of human sinfulness, then proclaiming the gospel of justification by faith. This doctrine later became central to the Reformation.
+
+In first-century Judaism, the concept of justification mainly referred to being declared righteous by God at the final judgment. Rabbis taught that people must obtain righteousness through law-keeping and good deeds. Though they also believed in God's mercy, the emphasis remained on human effort.
+
+Paul here makes a revolutionary declaration: justification doesn't happen only at the end, but is received now through faith; justification is not by human works, but entirely by God's grace; justification is not partly by faith and partly by works, but entirely by faith, entirely based on Christ's work.
+
+The "propitiation" (Greek hilasterion) mentioned in 3:25 refers in the Old Testament to the mercy seat where the high priest sprinkled blood on the Day of Atonement (Exodus 25:17-22). Paul uses this imagery to show that Christ's death is like the Day of Atonement sacrifice, propitiating God's wrath, enabling sinners to be reconciled with God.
+
+This doctrine became a central issue in the 16th-century Reformation. When Martin Luther read this chapter (especially "the righteous shall live by faith"), he called it "the gates of heaven opening for me." Calvin in his Institutes elaborately expounded the doctrine of justification, emphasizing it is a forensic (legal) declaration, not inward renewal (which is sanctification).`,
+    structure_zh: `第三章分为两大部分：
+
+辩护与诊断（1-20节）：先回答三个反对意见（1-8节）：犹太人的优势何在？神的信实是否受影响？人的不义是否显出神的义？然后用旧约经文证明所有人都在罪恶之下（9-18节），最后总结律法的功用——叫人知罪（19-20节）。
+
+福音的宣告（21-31节）：这是全章的高潮，也是全书的核心。可细分为：
+- 神的义显明（21-22节）
+- 人的罪（23节）
+- 白白的称义（24节）
+- 挽回祭（25-26节）
+- 夸口被除去（27-28节）
+- 普世性的救恩（29-30节）
+- 信心与律法的关系（31节）
+
+结构上，保罗用了一个经典的"problem-solution"模式：先用20节的篇幅描述问题（人的罪与律法的无能），然后用11节宣告解决方案（因信称义）。3:21的"但如今"是整本罗马书最重要的转折点。`,
+    structure_en: `Chapter three divides into two major parts:
+
+Defense and Diagnosis (verses 1-20): First answering three objections (verses 1-8): What advantage have the Jews? Is God's faithfulness affected? Does human unrighteousness demonstrate God's righteousness? Then using Old Testament texts to prove all are under sin (verses 9-18), finally summarizing the law's function—to convict of sin (verses 19-20).
+
+Proclamation of the Gospel (verses 21-31): This is the chapter's climax and the book's core. Can be subdivided into:
+- God's righteousness revealed (verses 21-22)
+- Human sin (verse 23)
+- Free justification (verse 24)
+- Propitiation (verses 25-26)
+- Boasting excluded (verses 27-28)
+- Universal salvation (verses 29-30)
+- Relationship of faith and law (verse 31)
+
+Structurally, Paul uses a classic "problem-solution" pattern: first using 20 verses to describe the problem (human sin and the law's inability), then using 11 verses to proclaim the solution (justification by faith). The "But now" of 3:21 is the most important turning point in the entire book of Romans.`,
+    theology_zh: `第三章包含了改革宗神学最核心的教义——因信称义（Justification by Faith Alone）。
+
+首先，"全然败坏"（Total Depravity）在9-20节得到完整论述。这不是说人坏到极致，而是说罪玷污了人的每一部分——理性、意志、情感、身体。没有一个人靠自己能认识神、寻求神、行善。这是加尔文主义五要点的第一点。
+
+其次，"律法的限制"。律法是圣洁的（7:12），但不能使人称义（20节）。律法有三个功用：第一是约束罪恶（civil use），第二是使人知罪（pedagogical use），第三是指导信徒（normative use）。本章强调的是第二功用——律法像镜子显明我们的罪，像量尺显明我们的不足。
+
+第三，"称义的本质"（21-26节）。称义（dikaiosis）是法庭术语，意思是"宣告为义"，不是"使之成义"。这是forensic的，不是transformative的。神不是改变我们的本质使我们配得称义，而是基于基督的义，法庭性地宣判我们为义。
+
+第四，"双重归算"（Double Imputation）。我们的罪归算给基督（他在十字架上承担），基督的义归算给我们（我们因信领受）。这是改革宗救赎论的核心——不是我们的义，而是基督的义。
+
+第五，"唯独信心"（Sola Fide，28节）。信心本身没有功德，但它是领受基督义的管道。信心的对象是基督，不是信心本身。信心是空着的手，领受神白白的恩典。`,
+    theology_en: `Chapter three contains Reformed theology's most core doctrine—Justification by Faith Alone.
+
+First, "Total Depravity" receives complete exposition in verses 9-20. This doesn't mean people are as bad as possible, but that sin has defiled every part of humanity—reason, will, emotion, body. No one by themselves can know God, seek God, or do good. This is the first of the five points of Calvinism.
+
+Second, "the limitation of the law." The law is holy (7:12), but cannot justify (verse 20). The law has three uses: first is restraining evil (civil use), second is convicting of sin (pedagogical use), third is guiding believers (normative use). This chapter emphasizes the second use—the law as a mirror showing our sin, as a ruler showing our inadequacy.
+
+Third, "the nature of justification" (verses 21-26). Justification (dikaiosis) is a legal term meaning "declare righteous," not "make righteous." This is forensic, not transformative. God doesn't change our nature to make us worthy of justification, but based on Christ's righteousness, legally declares us righteous.
+
+Fourth, "Double Imputation." Our sin is imputed to Christ (he bore it on the cross), Christ's righteousness is imputed to us (we receive it by faith). This is the core of Reformed soteriology—not our righteousness, but Christ's righteousness.
+
+Fifth, "Faith Alone" (Sola Fide, verse 28). Faith itself has no merit, but it is the channel for receiving Christ's righteousness. Faith's object is Christ, not faith itself. Faith is an empty hand, receiving God's free grace.`,
+    christShadow_zh: `第三章是基督最清晰显现的章节之一。
+
+第22节："神的义，因信耶稣基督加给一切相信的人。"基督不仅是信心的对象，更是神的义本身。哥林多前书1:30说："神又使他成为我们的智慧、公义、圣洁、救赎。"我们在基督里得称为义，不是因为我们变好了，而是因为他的义遮盖了我们。
+
+第24节的"救赎"（apolutrosis）原意是付赎价释放奴隶或俘虏。基督是那赎价，他用自己的血买赎了我们（以弗所书1:7）。我们本是罪的奴隶，他释放了我们。
+
+第25节的"挽回祭"（hilasterion）直指基督在十字架上的工作。他不仅是我们的祭物（像旧约的羔羊），更是我们的施恩座（神与人相会的地方）。他的血平息了神的忿怒，开通了我们与神和好的道路。
+
+第26节说神设立这挽回祭，是要"显明他的义，使人知道他自己为义，也称信耶稣的人为义。"这是福音的奥秘——神如何既保持自己的公义（punishing sin），又使罪人称义（forgiving sin）？答案是十字架：神的忿怒倾倒在基督身上，神的怜悯临到相信的人身上。
+
+第31节："我们因信废了律法么？断乎不是！更是坚固律法。"基督成全了律法一切的要求。他是唯一完美守全律法的人。我们因信与他联合，他的顺服就归算为我们的顺服。
+
+从始至终，基督是这章的中心。没有他，我们只有定罪；有了他，我们得称为义。唯独基督（Solus Christus）！`,
+    christShadow_en: `Chapter three is one of the clearest revelations of Christ.
+
+Verse 22: "The righteousness of God through faith in Jesus Christ for all who believe." Christ is not only the object of faith, but God's righteousness itself. 1 Corinthians 1:30 says, "God made him to be...our righteousness and sanctification and redemption." We are justified in Christ, not because we've become better, but because his righteousness covers us.
+
+The "redemption" (apolutrosis) of verse 24 originally meant paying a ransom to free a slave or captive. Christ is that ransom, he bought us back with his blood (Ephesians 1:7). We were slaves to sin, he set us free.
+
+The "propitiation" (hilasterion) of verse 25 directly points to Christ's work on the cross. He is not only our sacrifice (like the Old Testament lamb), but also our mercy seat (the place where God and humans meet). His blood appeased God's wrath, opened the way for our reconciliation with God.
+
+Verse 26 says God put forward this propitiation "to show his righteousness...that he might be just and the justifier of the one who has faith in Jesus." This is the gospel's mystery—how does God remain just (punishing sin) while justifying sinners (forgiving sin)? The answer is the cross: God's wrath poured out on Christ, God's mercy extended to believers.
+
+Verse 31: "Do we then overthrow the law by this faith? By no means! On the contrary, we uphold the law." Christ fulfilled all the law's demands. He is the only one who perfectly kept the whole law. We by faith are united with him, his obedience is credited as our obedience.
+
+From beginning to end, Christ is this chapter's center. Without him, we have only condemnation; with him, we are justified. Christ Alone (Solus Christus)!`,
   },
   {
     id: 'romans-4',
@@ -3987,16 +6021,184 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '保罗',
     authorEn: 'Paul',
     publishDate: '2026-06-12',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `弟兄们，在第三章我宣告了"因信称义"的真理，现在我要用亚伯拉罕这位犹太人的祖宗来证明这不是新发明，而是从起初就是神的心意。
+
+"如此说来，我们的祖宗亚伯拉罕凭着肉体得了什么呢？"这是个挑衅性的问题。犹太人一向以亚伯拉罕为夸耀，认为他是最义的人。如果连亚伯拉罕都不是靠行为称义，那还有谁能靠行为称义呢？
+
+"倘若亚伯拉罕是因行为称义，就有可夸的；只是在神面前并无可夸。"注意"在神面前"这四个字。在人面前，亚伯拉罕确实可夸——他是信心之父，顺服的榜样。但在神面前，连亚伯拉罕也无可夸。为什么？
+
+"经上说什么呢？说：亚伯拉罕信神，这就算为他的义。"这是创世记15:6的引文，是整本圣经最重要的经文之一。不是说亚伯拉罕行了什么，而是说他"信"了；不是说他变得义，而是说"算为他的义"。这是归算的义（imputed righteousness），不是内在的义（inherent righteousness）。
+
+我用一个比喻来解释：做工的得工价，不算恩典，乃是该得的；惟有不做工的，只信称罪人为义的神，他的信就算为义。工价是你赚的，恩典是白白给的。称义不是工价，乃是恩典。
+
+大卫在诗篇32篇也说到这个真理："得赦免其过、遮盖其罪的，这人是有福的。主不算为有罪的，这人是有福的。"大卫说的不是"没有犯罪的人有福"，而是"罪被赦免的人有福"。这就是因信称义——不是我们没有罪，而是神不算我们的罪。
+
+现在我要处理一个关键问题：割礼。犹太人认为割礼是得救的必要条件。但我问："亚伯拉罕的信，就算为他的义，是怎么算的呢？是在他受割礼的时候呢？是在他未受割礼的时候呢？"
+
+答案很清楚：是在未受割礼的时候！创世记15章亚伯拉罕因信称义，创世记17章他才受割礼，中间隔了至少十四年。可见称义在先，割礼在后；称义是因为信，割礼只是记号和印证。
+
+"并且他受了割礼的记号，作他未受割礼的时候因信称义的印证，叫他作一切未受割礼而信之人的父，使他们也算为义。"这段话充满神学深意。割礼是记号（sign）和印证（seal），像是一张收据，证明亚伯拉罕已经因信称义了。
+
+更重要的是，亚伯拉罕作两种人的父：一是"一切未受割礼而信之人的父"（外邦信徒），二是"受割礼并且按亚伯拉罕未受割礼而信之踪迹去行的人的父"（犹太信徒）。关键不在于有没有割礼，而在于有没有信心。
+
+接下来我谈论应许。"神应许亚伯拉罕和他后裔，必得承受世界，不是因律法，乃是因信而得的义。"这应许不是在西奈山赐下律法时（那是430年后的事），而是在亚伯拉罕因信称义时就赐下的。
+
+"若是属乎律法的人才得为后嗣，信就归于虚空，应许也就废弃了。"为什么？因为律法是惹动忿怒的，那里没有律法，那里就没有过犯。律法的功用是显明罪，不是赐下应许。应许是基于神的恩典，不是基于人的行为。
+
+"所以人得为后嗣是本乎信，因此就属乎恩，叫应许定然归给一切后裔。"注意这个逻辑链：信→恩典→应许确定。如果是靠行为，应许就不确定（因为我们可能做不到）；但既然是靠信心，完全基于神的恩典,应许就稳固不动摇。
+
+现在我要描绘亚伯拉罕信心的画面。"亚伯拉罕所信的，是那叫死人复活、使无变为有的神。"这是信心的对象——那位创造主,那位使死人复活的神。亚伯拉罕相信的不是一般的神，而是那位说有就有、命立就立的全能者。
+
+"他在无可指望的时候，因信仍有指望，就得以作多国的父，正如先前所说，你的后裔将要如此。"想象一下：亚伯拉罕将近百岁，撒拉的生育已经断绝，从人来看完全没有盼望了。但亚伯拉罕在这"无可指望的时候"仍然相信神的应许。
+
+"他将近百岁的时候，虽然想到自己的身体如同已死，撒拉的生育已经断绝，他的信心还是不软弱。"注意保罗说"虽然想到"——亚伯拉罕不是盲目乐观，他清楚知道困难。但他的信心不是基于环境，而是基于神的应许。
+
+"并且仰望神的应许，总没有因不信心里起疑惑，反倒因信心里得坚固，将荣耀归给神，且满心相信神所应许的必能做成。"这就是真信心：不是没有疑问，而是仰望应许；不是靠自己的力量，而是满心相信神的大能。
+
+"所以，这就算为他的义。"亚伯拉罕得称为义，不是因为他的信心有多大（他也曾软弱过），而是因为他所信的对象——神。信心本身没有功德，但信心连接于那位全能的神，就带来称义。
+
+最后，我指出这故事的现实意义："算为他义的这句话不是单为他写的，也是为我们将来得算为义之人写的，就是我们这信神使我们的主耶稣从死里复活的人。"亚伯拉罕的故事不是历史课，而是我们的榜样。
+
+亚伯拉罕信那叫死人复活的神，我们信那使耶稣从死里复活的神。亚伯拉罕相信神能使他死的身体生出以撒，我们相信神能使耶稣从死里复活，也能使我们这些灵性死亡的人活过来。
+
+"耶稣被交给人，是为我们的过犯；复活，是为叫我们称义。"这是本章的结论，也是福音的总结。基督的死偿还了我们的罪债，基督的复活证明神接纳了他的献祭，宣告我们称义。
+
+弟兄们，亚伯拉罕是我们信心的榜样。他不是完人，但他相信应许的神。他不是靠行为得救，但他的信心结出了顺服的果子。他是所有因信称义之人的父亲——无论犹太人还是外邦人。
+
+今天，如果你还想靠自己的行为在神面前站立,请看看亚伯拉罕。连他都不能靠行为称义,我们又有什么指望？但如果你愿意相信那使耶稣从死里复活的神，像亚伯拉罕信神一样，这信就算为你的义。这是唯一的路，也是确定的路。`,
+    content_en: `Brothers, in chapter three I proclaimed the truth of "justification by faith," and now I will use Abraham, the patriarch of the Jews, to prove this is not a new invention, but has been God's intention from the beginning.
+
+"What then shall we say was gained by Abraham, our forefather according to the flesh?" This is a provocative question. Jews have always boasted in Abraham, considering him the most righteous man. If even Abraham wasn't justified by works, who can be justified by works?
+
+"For if Abraham was justified by works, he has something to boast about, but not before God." Notice the phrase "before God." Before people, Abraham certainly had grounds to boast—he is the father of faith, an example of obedience. But before God, even Abraham has nothing to boast about. Why?
+
+"For what does the Scripture say? 'Abraham believed God, and it was counted to him as righteousness.'" This is a quotation from Genesis 15:6, one of the most important verses in all Scripture. It doesn't say Abraham did something, but that he "believed"; it doesn't say he became righteous, but that it was "counted to him as righteousness." This is imputed righteousness, not inherent righteousness.
+
+I use an analogy to explain: to one who works, wages are not counted as a gift but as his due; but to one who does not work but believes in him who justifies the ungodly, his faith is counted as righteousness. Wages are what you earn, grace is what's freely given. Justification is not wages, but grace.
+
+David in Psalm 32 also speaks of this truth: "Blessed is the one whose transgression is forgiven, whose sin is covered. Blessed is the man against whom the Lord counts no sin." David doesn't say "blessed is the one who hasn't sinned," but "blessed is the one whose sin is forgiven." This is justification by faith—not that we have no sin, but that God doesn't count our sin.
+
+Now I must address a key issue: circumcision. Jews believed circumcision was necessary for salvation. But I ask: "Was it before or after he was circumcised that Abraham's faith was counted to him as righteousness?"
+
+The answer is clear: before he was circumcised! In Genesis 15 Abraham was justified by faith; not until Genesis 17 was he circumcised, at least fourteen years later. So justification came first, circumcision later; justification was by faith, circumcision was only a sign and seal.
+
+"He received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised. The purpose was to make him the father of all who believe without being circumcised, so that righteousness would be counted to them as well." This passage is full of theological depth. Circumcision is a sign and seal, like a receipt proving Abraham had already been justified by faith.
+
+More importantly, Abraham is the father of two groups: first, "the father of all who believe without being circumcised" (Gentile believers), and second, those "who are circumcised and who also walk in the footsteps of the faith that our father Abraham had before he was circumcised" (Jewish believers). The key is not whether one is circumcised, but whether one has faith.
+
+Next I discuss the promise. "For the promise to Abraham and his offspring that he would be heir of the world did not come through the law but through the righteousness of faith." This promise wasn't given when the law was given at Sinai (that was 430 years later), but when Abraham was justified by faith.
+
+"For if it is the adherents of the law who are to be the heirs, faith is null and the promise is void." Why? Because the law brings wrath; where there is no law there is no transgression. The law's function is to reveal sin, not to give the promise. The promise is based on God's grace, not human works.
+
+"That is why it depends on faith, in order that the promise may rest on grace and be guaranteed to all his offspring." Notice this logic chain: faith → grace → promise guaranteed. If it were by works, the promise would be uncertain (because we might fail); but since it's by faith, completely based on God's grace, the promise is firm and unshakeable.
+
+Now I will paint a picture of Abraham's faith. "Abraham believed in the God who gives life to the dead and calls into existence the things that do not exist." This is faith's object—the Creator, the God who raises the dead. Abraham believed not in just any god, but in the Almighty who speaks and it is done, who commands and it stands.
+
+"In hope he believed against hope, that he should become the father of many nations, as he had been told, 'So shall your offspring be.'" Imagine: Abraham was nearly a hundred years old, Sarah's womb was dead; from a human perspective, there was no hope at all. But Abraham in this "hopeless" situation still believed God's promise.
+
+"He did not weaken in faith when he considered his own body, which was as good as dead (since he was about a hundred years old), or when he considered the barrenness of Sarah's womb." Notice Paul says "when he considered"—Abraham wasn't blindly optimistic, he clearly knew the difficulties. But his faith wasn't based on circumstances, but on God's promise.
+
+"No unbelief made him waver concerning the promise of God, but he grew strong in his faith as he gave glory to God, fully convinced that God was able to do what he had promised." This is true faith: not having no questions, but looking to the promise; not relying on one's own strength, but being fully convinced of God's power.
+
+"That is why his faith was 'counted to him as righteousness.'" Abraham was justified not because his faith was so great (he had moments of weakness too), but because of the object of his faith—God. Faith itself has no merit, but faith connected to the Almighty God brings justification.
+
+Finally, I point out this story's present relevance: "But the words 'it was counted to him' were not written for his sake alone, but for ours also. It will be counted to us who believe in him who raised from the dead Jesus our Lord." Abraham's story is not a history lesson, but our example.
+
+Abraham believed in the God who raises the dead; we believe in the God who raised Jesus from the dead. Abraham believed God could make his dead body produce Isaac; we believe God can raise Jesus from the dead and can also make us who are spiritually dead come alive.
+
+"Jesus was delivered up for our trespasses and raised for our justification." This is the chapter's conclusion and the gospel's summary. Christ's death paid our sin-debt; Christ's resurrection proves God accepted his sacrifice and declares us justified.
+
+Brothers, Abraham is the example of our faith. He wasn't perfect, but he believed the God of promise. He wasn't saved by works, but his faith produced the fruit of obedience. He is the father of all who are justified by faith—whether Jew or Gentile.
+
+Today, if you still want to stand before God by your own works, look at Abraham. Even he couldn't be justified by works; what hope do we have? But if you're willing to believe in the God who raised Jesus from the dead, as Abraham believed God, that faith will be counted to you as righteousness. This is the only way, and it's the certain way.`,
+    historyContext_zh: `第四章是罗马书论证"因信称义"的关键一章，保罗用亚伯拉罕和大卫两位旧约英雄来证明这个教义不是新发明。
+
+在犹太传统中，亚伯拉罕被视为完美顺服的典范。拉比教导说，亚伯拉罕守全了摩西律法（虽然律法在他之后430年才颁布），并且经受了十次试炼都没有失败。他的功德可以遮盖后裔的罪。
+
+保罗在这里挑战了这种观念。他引用创世记15:6——在亚伯拉罕献以撒（创世记22章）之前，甚至在他受割礼（创世记17章）之前，就已经因信称义了。这证明称义不是靠行为，也不是靠割礼。
+
+割礼是犹太人身份的核心标记。在第一世纪，"奉割礼的人"（the circumcision）就是犹太人的代称，"未受割礼的人"（the uncircumcision）就是外邦人的代称。保罗说割礼只是"记号和印证"，不是得救的条件，这在当时是极其震撼的宣告。
+
+罗马教会中的犹太信徒和外邦信徒关于割礼有争论（使徒行传15章记载了耶路撒冷会议处理这个问题）。保罗在这里用亚伯拉罕的例子说明，真正的"亚伯拉罕的后裔"不是按肉体的血统，而是按信心的踪迹。这为犹太和外邦信徒的合一铺路。`,
+    historyContext_en: `Chapter four is a key chapter in Romans' argument for "justification by faith," where Paul uses two Old Testament heroes—Abraham and David—to prove this doctrine is not a new invention.
+
+In Jewish tradition, Abraham was viewed as the perfect example of obedience. Rabbis taught that Abraham kept the entire Mosaic law (though it wasn't given until 430 years after him), and that he endured ten trials without failing. His merit could cover the sins of his descendants.
+
+Paul here challenges this notion. He quotes Genesis 15:6—before Abraham offered Isaac (Genesis 22), even before he was circumcised (Genesis 17), he was already justified by faith. This proves justification is not by works, nor by circumcision.
+
+Circumcision was a core marker of Jewish identity. In the first century, "the circumcision" was simply a term for Jews, "the uncircumcision" for Gentiles. Paul's statement that circumcision is only a "sign and seal," not a condition of salvation, was an extremely shocking declaration at the time.
+
+Jewish and Gentile believers in the Roman church had disputes about circumcision (Acts 15 records the Jerusalem Council addressing this issue). Paul here uses Abraham's example to show that true "offspring of Abraham" are not by physical descent, but by following in the footsteps of faith. This paves the way for unity between Jewish and Gentile believers.`,
+    structure_zh: `第四章围绕"亚伯拉罕因信称义"这个主题，可分为四个段落：
+
+亚伯拉罕的例子（1-8节）：引用创世记15:6证明亚伯拉罕是因信称义，不是因行为。用"做工"与"不做工"的比喻说明称义是恩典，不是工价。再引用大卫的话（诗篇32篇）印证罪得赦免的福分。
+
+割礼的意义（9-12节）：论证亚伯拉罕在未受割礼时就已称义，割礼只是记号和印证。亚伯拉罕作所有信徒的父——无论受割礼或未受割礼。
+
+应许与信心（13-22节）：应许不是藉着律法，乃是藉着信而得的义。详细描绘亚伯拉罕的信心——在无可指望时仍有指望，满心相信神的应许。
+
+应用于我们（23-25节）：亚伯拉罕的故事也是为我们写的。我们信那使耶稣复活的神，这信就算为我们的义。结论是基督的死与复活。
+
+整章的论证逻辑严密：先确立亚伯拉罕是因信称义（1-8节），再说明割礼不是必要条件（9-12节），然后阐述信心的本质（13-22节），最后应用到新约信徒身上（23-25节）。每一步都引用旧约经文，显示因信称义不是新教义，而是从起初就存在的真理。`,
+    structure_en: `Chapter four revolves around the theme "Abraham justified by faith" and can be divided into four sections:
+
+Abraham's Example (verses 1-8): Quoting Genesis 15:6 to prove Abraham was justified by faith, not works. Using the analogy of "works" versus "not works" to show justification is grace, not wages. Then quoting David (Psalm 32) to confirm the blessing of forgiveness.
+
+The Meaning of Circumcision (verses 9-12): Arguing that Abraham was justified before being circumcised; circumcision is only a sign and seal. Abraham is the father of all believers—whether circumcised or uncircumcised.
+
+Promise and Faith (verses 13-22): The promise came not through law, but through the righteousness of faith. Detailed portrayal of Abraham's faith—hoping against hope, fully convinced of God's promise.
+
+Application to Us (verses 23-25): Abraham's story is also written for us. We believe in the God who raised Jesus, and this faith is counted to us as righteousness. The conclusion is Christ's death and resurrection.
+
+The chapter's argumentative logic is rigorous: first establishing that Abraham was justified by faith (verses 1-8), then showing circumcision is not a necessary condition (verses 9-12), then explaining the nature of faith (verses 13-22), finally applying it to New Testament believers (verses 23-25). Each step quotes Old Testament Scripture, showing that justification by faith is not a new doctrine, but truth existing from the beginning.`,
+    theology_zh: `第四章的神学核心是"归算的义"（Imputed Righteousness），这是改革宗救赎论的基石。
+
+首先，"算为"（logizomai）这个词在本章出现11次（希腊文原文），是关键术语。它是法庭/会计术语，意思是"记在账上"、"归算"。神不是改变我们使我们变义，而是将基督的义归算给我们，法庭性地宣判我们为义。
+
+其次，"信心的本质"（13-22节）。真信心有三个特征：1)对象是神（不是信心本身），2)内容是应许（神的话语），3)态度是完全依靠（不是靠自己）。亚伯拉罕的信心不是盲目乐观，而是仰望神的应许，满心相信神的大能。
+
+第三，"记号与实际的区分"（9-12节）。割礼是记号，称义是实际；洗礼是记号，重生是实际。改革宗神学区分"看得见的教会"（受洗的人）与"看不见的教会"（真正重生的人）。外在的仪式不能保证内在的救恩，唯有信心才能。
+
+第四，"应许的确定性"（13-17节）。如果救恩基于律法（人的行为），应许就不确定（因为我们可能失败）。但因为救恩基于信心，完全依靠神的恩典，应许就确定无疑。这是"圣徒永蒙保守"（Perseverance of the Saints）的根基——我们的救恩稳固不是因为我们的信心坚固，而是因为神的应许可靠。
+
+第五，"基督论的根基"（23-25节）。旧约的例子不是终点，而是指向基督。亚伯拉罕信那叫死人复活的神，预表我们信那使基督复活的神。基督的死偿还罪债（justification from guilt），基督的复活证明称义（justification unto life）。`,
+    theology_en: `The theological core of chapter four is "Imputed Righteousness," the cornerstone of Reformed soteriology.
+
+First, the word "counted" (logizomai) appears 11 times in this chapter (in the Greek text) and is a key term. It's a legal/accounting term meaning "credited," "imputed." God doesn't transform us to make us righteous, but credits Christ's righteousness to us, forensically declaring us righteous.
+
+Second, "the nature of faith" (verses 13-22). True faith has three characteristics: 1) its object is God (not faith itself), 2) its content is promise (God's word), 3) its attitude is complete dependence (not self-reliance). Abraham's faith wasn't blind optimism, but looking to God's promise, fully convinced of God's power.
+
+Third, "the distinction between sign and reality" (verses 9-12). Circumcision is a sign, justification is reality; baptism is a sign, regeneration is reality. Reformed theology distinguishes the "visible church" (baptized people) from the "invisible church" (truly regenerated people). Outward ceremonies cannot guarantee inward salvation; only faith can.
+
+Fourth, "certainty of the promise" (verses 13-17). If salvation were based on law (human works), the promise would be uncertain (because we might fail). But because salvation is based on faith, completely relying on God's grace, the promise is absolutely certain. This is the foundation of "Perseverance of the Saints"—our salvation is secure not because our faith is strong, but because God's promise is reliable.
+
+Fifth, "Christological foundation" (verses 23-25). Old Testament examples are not the endpoint, but point to Christ. Abraham believed in the God who raises the dead, prefiguring our belief in the God who raised Christ. Christ's death paid the sin-debt (justification from guilt), Christ's resurrection proved justification (justification unto life).`,
+    christShadow_zh: `第四章虽然讲亚伯拉罕，但处处指向基督。
+
+首先，以撒是基督的预表。亚伯拉罕相信神能使他"死的身体"（如同已死）生出儿子，这预表神使基督从死里复活。罗马书9:7-9进一步说明，以撒是"应许的儿女"，预表所有在基督里因信成为神儿女的人。
+
+其次，亚伯拉罕的献祭（创世记22章，虽然本章没有明说）预表神献上独生子。希伯来书11:19说亚伯拉罕"仿佛从死中得回他的儿子来"，这是复活的预表。
+
+第三，"神使那无罪的，替我们成为罪"（哥林多后书5:21）与本章"算为义"相呼应。双重归算：我们的罪算在基督身上，基督的义算在我们身上。亚伯拉罕的信被"算为义"，预表我们因信与基督联合，他的义被算为我们的义。
+
+第四，应许不是因律法，乃是因信（13节）。律法是摩西在西奈山领受的，但应许是给亚伯拉罕的，在律法之前430年（加拉太书3:17）。这显示恩典先于律法，福音先于律法。基督是应许的实现——"神的应许，不论有多少，在基督都是是的"（哥林多后书1:20）。
+
+第五，25节的总结："耶稣被交给人，是为我们的过犯；复活，是为叫我们称义。"这不仅是总结第四章，更是总结整个因信称义的教义。基督的死和复活是我们称义的根基——他的死处理了我们的罪，他的复活宣告了我们的义。
+
+从始至终，亚伯拉罕的故事是影子，基督是实体。我们不是效法亚伯拉罕而得救，而是效法他的信——信那位应许的神，那位使耶稣从死里复活的神。`,
+    christShadow_en: `Though chapter four discusses Abraham, it everywhere points to Christ.
+
+First, Isaac is a type of Christ. Abraham believed God could make his "dead body" (as good as dead) produce a son, prefiguring God raising Christ from the dead. Romans 9:7-9 further explains that Isaac is a "child of promise," prefiguring all who become God's children through faith in Christ.
+
+Second, Abraham's sacrifice (Genesis 22, though not explicitly mentioned in this chapter) prefigures God offering his only Son. Hebrews 11:19 says Abraham "figuratively speaking, received him back from the dead"—a type of resurrection.
+
+Third, "God made him who knew no sin to be sin for us" (2 Corinthians 5:21) echoes this chapter's "counted as righteousness." Double imputation: our sin is counted to Christ, Christ's righteousness is counted to us. Abraham's faith being "counted as righteousness" prefigures our union with Christ by faith, his righteousness being counted as our righteousness.
+
+Fourth, the promise came not through law, but through faith (verse 13). The law was given to Moses at Sinai, but the promise was given to Abraham, 430 years before the law (Galatians 3:17). This shows grace preceded law, gospel preceded law. Christ is the fulfillment of the promise—"For all the promises of God find their Yes in him" (2 Corinthians 1:20).
+
+Fifth, the summary of verse 25: "Jesus was delivered up for our trespasses and raised for our justification." This not only summarizes chapter four, but the entire doctrine of justification by faith. Christ's death and resurrection are the foundation of our justification—his death dealt with our sin, his resurrection declared our righteousness.
+
+From beginning to end, Abraham's story is the shadow, Christ is the substance. We're not saved by imitating Abraham, but by imitating his faith—faith in the God of promise, the God who raised Jesus from the dead.`,
   },
   {
     id: 'romans-5',
@@ -4008,16 +6210,218 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '保罗',
     authorEn: 'Paul',
     publishDate: '2026-06-13',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `弟兄们，在前四章我已经阐明了因信称义的真理。现在我要告诉你们，因信称义带来哪些祝福。这一章是从教义到经历的桥梁。
+
+"我们既因信称义，就藉着我们的主耶稣基督得与神相和。"这是何等宝贵的宣告！"与神相和"（peace with God）不是指内心的平安感（虽然也包括），而是客观的法律状态——我们与神不再为仇敌，而是和好了。
+
+想想看，我们本是神的仇敌。我们的罪得罪了他,我们的悖逆触怒了他，我们与他为敌。但如今，藉着基督，敌对关系被除去了。不是我们主动与神和好（我们没有这个能力），而是神主动藉着基督使我们与他和好。
+
+"我们又藉着他，因信得进入现在所站的这恩典中，并且欢欢喜喜盼望神的荣耀。"注意三个时态：过去（因信称义），现在（站在恩典中），将来（盼望荣耀）。救恩不仅处理了过去的罪，更让我们现在活在恩典中，将来得着荣耀。
+
+但基督徒的生活不是一帆风顺的。我们会遇到患难。然而，"就是在患难中也是欢欢喜喜的。"为什么？因为我们知道患难的意义和结果。
+
+"因为知道患难生忍耐，忍耐生老练，老练生盼望。"这是一个成长的链条：患难→忍耐→老练→盼望。患难不是毫无意义的苦难，而是神雕琢我们、训练我们的工具。忍耐不是咬牙硬撑，而是在试炼中对神的持续信靠。老练是经过考验的品格。盼望是经历患难后更坚固的信心。
+
+"盼望不至于羞耻，因为所赐给我们的圣灵将神的爱浇灌在我们心里。"这盼望不会落空，因为神的爱已经藉着圣灵浇灌在我们心里。不是我们爱神（虽然我们也爱他），而是神爱我们的爱,已经真实地充满了我们的心。
+
+现在我要讲述神的爱最伟大的证明："因我们还软弱的时候，基督就按所定的日期为罪人死。"注意"还软弱的时候"——不是在我们变好之后，而是在我们还无能为力、毫无指望的时候，基督就为我们死了。
+
+"为义人死，是少有的；为仁人死、或者有敢做的。"这是人间的逻辑。偶尔有人愿意为配得的人、为好人牺牲。但基督的爱超越了这个逻辑："惟有基督在我们还作罪人的时候为我们死，神的爱就在此向我们显明了。"
+
+这是福音的核心：不是我们值得爱，而是神无条件地爱我们。不是我们配得救赎，而是神白白地赐给我们。基督不是为义人死，而是为罪人死；不是为配得的人死，而是为不配的人死。
+
+"现在我们既靠着他的血称义，就更要藉着他免去神的忿怒。"既然神在我们还作罪人时就让基督为我们死，现在我们已经因信称义了，岂不更要藉着他得救、免去将来的忿怒吗？这是"从小到大"的论证——神已经做了更难的事（让基督为罪人死），更何况更容易的事（保守已经称义的人）呢？
+
+"因为我们作仇敌的时候，且藉着神儿子的死,得与神和好；既已和好，就更要因他的生得救了。"又是一个"从小到大"的论证。神儿子的死使我们这些仇敌与神和好，他的生命岂不更要保守我们到底吗？
+
+"不但如此，我们既藉着我主耶稣基督得与神和好，也就藉着他以神为乐。"最终的祝福不仅是得救、免去刑罚，更是以神为乐！这是人受造的目的——享受神，以神为至宝。
+
+现在我要阐述一个深奥但极其重要的真理：两个亚当的对比。"这就如罪是从一人入了世界，死又是从罪来的；于是死就临到众人，因为众人都犯了罪。"第一个人亚当犯罪，罪就入了世界；因着罪，死亡临到所有人。
+
+有人会问："为什么亚当一个人犯罪，我们都要承担后果？"这是因为亚当是人类的代表。他不仅是我们的先祖，更是我们的联邦元首（federal head）。他的罪归算给他所代表的所有后裔。
+
+"然而从亚当到摩西，死就作了王，连那些不与亚当犯一样罪过的，也在他的权下。"即使那些没有违背明确律法的人（从亚当到摩西中间没有成文律法），仍然死了。这证明死不仅是因为个人的罪行，更是因为在亚当里的罪性。
+
+"亚当乃是那以后要来之人的豫像。"亚当是基督的预表——一个是旧人类的头，一个是新人类的头；一个带来罪与死，一个带来义与生命。但恩赐远超过过犯！
+
+"只是过犯不如恩赐，若因一人的过犯，众人都死了，何况神的恩典，与那因耶稣基督一人恩典中的赏赐，岂不更加倍的临到众人么？"亚当的罪影响深远，但基督的恩典更加丰盛！
+
+我用一连串的对比来说明：
+- 审判是由一人（亚当）而定罪，恩赐乃是由许多过犯而称义
+- 因一人的过犯，死作了王；因耶稣基督一人，那些受洪恩又蒙所赐之义的，要在生命中作王
+- 因一次的过犯，众人都被定罪；因一次的义行，众人也就被称义得生命了
+- 因一人的悖逆，众人成为罪人；因一人的顺从，众人也成为义了
+
+这是何等奇妙的真理！我们在亚当里失去的，在基督里更丰盛地得回了。亚当使我们成为罪人，基督使我们成为义人；亚当带来死亡，基督带来生命；亚当的悖逆定了我们的罪，基督的顺从使我们称义。
+
+"律法本是外添的，叫过犯显多。"律法不是救法，而是显明罪。但感谢神，故事没有在这里结束！"只是罪在那里显多，恩典就更显多了。"恩典总是超过罪恶！罪再大，恩典更大；罪再深，恩典更深。
+
+"就如罪作王叫人死；照样，恩典也藉着义作王，叫人因我们的主耶稣基督得永生。"这是本章的结论。罪曾作王，但现在恩典作王！死亡曾掌权，但现在生命掌权！不是我们靠自己翻转局面，而是神的恩典藉着基督的义为我们翻转了一切。
+
+弟兄们，如果你明白这一章的真理，你就会明白：
+1. 你的救恩是稳固的——因为是基于神的恩典，不是你的行为
+2. 你的患难有意义——因为神用它来塑造你
+3. 你的未来有盼望——因为基督的复活保证了你的荣耀
+4. 你在基督里的地位远超过在亚当里失去的——恩典远超过过犯！
+
+站稳在这恩典中吧。欢喜盼望神的荣耀吧。在患难中也要喜乐，因为知道神正在做工。并且，永远记得：神的爱不是因为你配得，而是因为他就是爱。惟有基督在我们还作罪人的时候为我们死，神的爱就在此显明了。`,
+    content_en: `Brothers, in the first four chapters I have explained the truth of justification by faith. Now I will tell you what blessings justification by faith brings. This chapter is a bridge from doctrine to experience.
+
+"Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ." What a precious declaration! "Peace with God" does not merely mean inner feelings of peace (though it includes that), but an objective legal status—we are no longer enemies with God, but reconciled.
+
+Consider—we were God's enemies. Our sin offended him, our rebellion angered him, we were at enmity with him. But now, through Christ, the enmity is removed. Not that we initiated reconciliation with God (we lack that ability), but God initiated reconciliation through Christ.
+
+"Through him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope of the glory of God." Notice three tenses: past (justified by faith), present (standing in grace), future (hoping for glory). Salvation not only deals with past sin, but enables us to live in grace now and obtain glory in the future.
+
+But Christian life is not smooth sailing. We encounter tribulation. Yet, "we rejoice in our sufferings." Why? Because we know the meaning and outcome of suffering.
+
+"Knowing that suffering produces endurance, and endurance produces character, and character produces hope." This is a chain of growth: suffering → endurance → character → hope. Suffering is not meaningless pain, but God's tool for shaping and training us. Endurance is not gritting one's teeth, but continued trust in God through trials. Character is proven quality. Hope is faith strengthened through experiencing suffering.
+
+"And hope does not put us to shame, because God's love has been poured into our hearts through the Holy Spirit who has been given to us." This hope won't disappoint, because God's love has already been poured into our hearts through the Spirit. Not our love for God (though we do love him), but God's love for us has truly filled our hearts.
+
+Now I will speak of the greatest proof of God's love: "For while we were still weak, at the right time Christ died for the ungodly." Notice "while we were still weak"—not after we became better, but while we were still powerless and hopeless, Christ died for us.
+
+"For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die." This is human logic. Occasionally someone will sacrifice for a deserving person, for a good person. But Christ's love transcends this logic: "But God shows his love for us in that while we were still sinners, Christ died for us."
+
+This is the gospel's core: not that we deserve love, but that God unconditionally loves us. Not that we merit redemption, but that God freely gives it. Christ died not for the righteous, but for sinners; not for the worthy, but for the unworthy.
+
+"Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God." Since God let Christ die for us while we were still sinners, now that we're justified by faith, shall we not much more be saved through him and escape future wrath? This is "from lesser to greater" argumentation—God has already done the harder thing (letting Christ die for sinners), how much more the easier thing (preserving those already justified)?
+
+"For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life." Again, "from lesser to greater" argumentation. God's Son's death reconciled us enemies with God; shall not his life much more preserve us to the end?
+
+"More than that, we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation." The ultimate blessing is not just salvation or escape from punishment, but rejoicing in God! This is humanity's created purpose—to enjoy God, to treasure God above all.
+
+Now I will expound a profound but extremely important truth: the contrast between two Adams. "Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned." The first man Adam sinned, and sin entered the world; because of sin, death came to all people.
+
+Someone will ask, "Why should we all bear the consequences of Adam's sin?" This is because Adam is humanity's representative. He is not only our ancestor, but our federal head. His sin is imputed to all descendants he represents.
+
+"Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam." Even those who didn't violate explicit law (there was no written law from Adam to Moses) still died. This proves death comes not only from individual sins, but from sinfulness in Adam.
+
+"Adam was a type of the one who was to come." Adam is a type of Christ—one is the head of old humanity, one the head of new humanity; one brings sin and death, one brings righteousness and life. But the gift far surpasses the trespass!
+
+"But the free gift is not like the trespass. For if many died through one man's trespass, much more have the grace of God and the free gift by the grace of that one man Jesus Christ abounded for many." Adam's sin is far-reaching, but Christ's grace is more abundant!
+
+I use a series of contrasts to illustrate:
+- Judgment followed one trespass (Adam) and brought condemnation, but the free gift followed many trespasses and brought justification
+- Because of one man's trespass, death reigned; because of Jesus Christ, those who receive the abundance of grace and the free gift of righteousness will reign in life
+- Because of one man's trespass, condemnation for all; because of one man's act of righteousness, justification and life for all
+- By one man's disobedience many were made sinners; by one man's obedience many will be made righteous
+
+What marvelous truth! What we lost in Adam, we receive back more abundantly in Christ. Adam made us sinners, Christ makes us righteous; Adam brought death, Christ brings life; Adam's disobedience condemned us, Christ's obedience justifies us.
+
+"Now the law came in to increase the trespass." Law is not the way of salvation, but reveals sin. But thank God, the story doesn't end there! "But where sin increased, grace abounded all the more." Grace always exceeds sin! Sin however great, grace is greater; sin however deep, grace is deeper.
+
+"So that, as sin reigned in death, grace also might reign through righteousness leading to eternal life through Jesus Christ our Lord." This is the chapter's conclusion. Sin once reigned, but now grace reigns! Death once ruled, but now life rules! Not that we reversed the situation by ourselves, but God's grace through Christ's righteousness reversed everything for us.
+
+Brothers, if you understand this chapter's truth, you will understand:
+1. Your salvation is secure—because it's based on God's grace, not your works
+2. Your suffering has meaning—because God uses it to shape you
+3. Your future has hope—because Christ's resurrection guarantees your glory
+4. Your position in Christ far exceeds what was lost in Adam—grace far exceeds the trespass!
+
+Stand firm in this grace. Rejoice in hope of God's glory. Rejoice even in suffering, knowing God is at work. And always remember: God's love is not because you deserve it, but because he is love. God shows his love for us in that while we were still sinners, Christ died for us.`,
+    historyContext_zh: `第五章标志着罗马书从论证"称义"（1-4章）转向阐述"称义的果效"（5-8章）。这一章是整本书的枢纽。
+
+"与神相和"（peace with God）是第一世纪犹太人热切盼望的。他们知道人类与神的关系破裂了，盼望弥赛亚来建立和平的国度。保罗在这里宣告：和平已经成就——不是藉着政治革命，而是藉着基督的十字架。
+
+"两个亚当"的神学（12-21节）在犹太拉比传统中有雏形。拉比们谈论亚当的罪如何影响全人类，但保罗在这里做了革命性的发展——他用亚当作为预表（type）指向基督，用联邦代表（federal headship）的概念解释原罪和救赎。
+
+这个教义后来成为改革宗神学的基石。奥古斯丁用它反驳伯拉纠主义（认为人可以靠自己行善），改教家用它阐明白白的恩典。"双重归算"（double imputation）——亚当的罪归我们，基督的义归我们——是改革宗救赎论的核心。
+
+罗马教会面对逼迫和患难（尼禄的逼迫即将来临），保罗在3-5节关于患难的教导特别贴切。患难不是神离弃的证据，而是神塑造的工具。`,
+    historyContext_en: `Chapter five marks Romans' transition from arguing for "justification" (chapters 1-4) to expounding "the effects of justification" (chapters 5-8). This chapter is the book's pivot.
+
+"Peace with God" was earnestly longed for by first-century Jews. They knew humanity's relationship with God was broken, and hoped the Messiah would establish a kingdom of peace. Paul here declares: peace has been accomplished—not through political revolution, but through Christ's cross.
+
+The theology of "two Adams" (verses 12-21) has embryonic form in Jewish rabbinic tradition. Rabbis discussed how Adam's sin affected all humanity, but Paul here makes revolutionary developments—using Adam as a type pointing to Christ, explaining original sin and redemption through the concept of federal headship.
+
+This doctrine later became a cornerstone of Reformed theology. Augustine used it against Pelagianism (which claimed people could do good by themselves), and Reformers used it to expound free grace. "Double imputation"—Adam's sin imputed to us, Christ's righteousness imputed to us—is the core of Reformed soteriology.
+
+The Roman church faced persecution and tribulation (Nero's persecution was imminent), making Paul's teaching about suffering in verses 3-5 especially relevant. Suffering is not evidence of God's abandonment, but God's tool for shaping.`,
+    structure_zh: `第五章可分为两大部分：
+
+称义的福分（1-11节）：列举因信称义带来的五大祝福：
+1. 与神相和（1节）
+2. 站在恩典中（2节上）
+3. 盼望神的荣耀（2节下）
+4. 患难中有喜乐（3-5节）
+5. 以神为乐（11节）
+
+每一个祝福都是"藉着我们的主耶稣基督"——强调基督是一切祝福的来源和中保。6-10节是插入的论证，用"从小到大"的逻辑证明救恩的确定性。
+
+两个亚当（12-21节）：对比第一个亚当和末后的亚当（基督）：
+- 一人的罪 vs. 一人的义
+- 众人被定罪 vs. 众人被称义
+- 死作王 vs. 生命作王
+- 悖逆 vs. 顺从
+
+结构上用了五次"何况"（how much more），强调恩典远超过过犯。20-21节是总结：律法显多罪，恩典更显多；罪作王叫人死，恩典作王叫人得永生。`,
+    structure_en: `Chapter five can be divided into two major parts:
+
+Blessings of Justification (verses 1-11): Listing five major blessings from justification by faith:
+1. Peace with God (verse 1)
+2. Standing in grace (verse 2a)
+3. Hope of God's glory (verse 2b)
+4. Joy in suffering (verses 3-5)
+5. Rejoicing in God (verse 11)
+
+Each blessing is "through our Lord Jesus Christ"—emphasizing Christ as the source and mediator of all blessings. Verses 6-10 are an inserted argument, using "from lesser to greater" logic to prove salvation's certainty.
+
+Two Adams (verses 12-21): Contrasting the first Adam and the last Adam (Christ):
+- One man's sin vs. one man's righteousness
+- All condemned vs. all justified
+- Death reigning vs. life reigning
+- Disobedience vs. obedience
+
+Structurally uses "how much more" five times, emphasizing grace far exceeds the trespass. Verses 20-21 are the summary: law increased sin, grace increased more; sin reigned in death, grace reigns unto eternal life.`,
+    theology_zh: `第五章包含几个重要神学主题：
+
+首先，"称义的客观性"（1节）。"与神相和"是法律地位的改变，不仅是主观感受。无论我们感觉如何，我们在基督里的地位已经改变——从仇敌变为儿女，从定罪变为称义。
+
+其次，"圣徒永蒙保守"（1-11节）。这一段的逻辑是：神既然在我们还作罪人时为我们死（更难的事），岂不更要在我们已经称义后保守我们到底（更容易的事）？救恩的保障不在于我们的坚持，而在于神的信实。
+
+第三，"联邦神学"（Federal Theology，12-21节）。亚当作为人类的联邦元首，他的罪归算给所有在他里面的人；基督作为新人类的联邦元首，他的义归算给所有在他里面的人。这解释了原罪的传递和救赎的归算。
+
+第四，"原罪"（Original Sin）。不仅是亚当犯的那个罪（original act），更是我们从他承受的罪性（original nature）。"因为众人都犯了罪"（12节）可译为"因为众人都在他里面犯了罪"——我们在亚当里有份于他的悖逆。
+
+第五，"恩典的超越性"（15-19节）。保罗五次说"何况"（much more），强调恩典不仅抵消了罪，更远远超过罪。我们在基督里得的，远超过在亚当里失去的。`,
+    theology_en: `Chapter five contains several important theological themes:
+
+First, "the objectivity of justification" (verse 1). "Peace with God" is a change in legal status, not merely subjective feeling. Regardless of how we feel, our position in Christ has changed—from enemies to children, from condemned to justified.
+
+Second, "Perseverance of the Saints" (verses 1-11). This passage's logic is: since God died for us while we were still sinners (the harder thing), shall he not much more preserve us to the end now that we're justified (the easier thing)? Salvation's security lies not in our perseverance, but in God's faithfulness.
+
+Third, "Federal Theology" (verses 12-21). Adam as humanity's federal head, his sin is imputed to all in him; Christ as new humanity's federal head, his righteousness is imputed to all in him. This explains the transmission of original sin and the imputation of redemption.
+
+Fourth, "Original Sin." Not only the sin Adam committed (original act), but the sinful nature we inherit from him (original nature). "Because all sinned" (verse 12) can be translated "because all sinned in him"—we participated in his rebellion in Adam.
+
+Fifth, "the transcendence of grace" (verses 15-19). Paul says "how much more" five times, emphasizing grace not only cancels sin, but far exceeds it. What we gain in Christ far exceeds what we lost in Adam.`,
+    christShadow_zh: `第五章是基督最荣耀显现的章节之一。
+
+首先，基督是"使人与神和好者"（1节）。以赛亚书9:6称弥赛亚为"和平的君"，基督应验了这预言。他的十字架"拆毁了中间隔断的墙"（以弗所书2:14），使神人和好。
+
+其次，基督是"恩典的中保"（2节）。我们藉着他"得进入"恩典——他是通往父神的唯一道路（约翰福音14:6）。没有基督，我们无法来到施恩的宝座前。
+
+第三，基督是"神的爱的最高彰显"（6-8节）。"惟有基督在我们还作罪人的时候为我们死，神的爱就在此向我们显明了。"这是整本圣经对神之爱最深刻的定义——不是我们爱神，乃是神爱我们，差他的儿子为我们的罪作了挽回祭（约翰一书4:10）。
+
+第四，基督是"末后的亚当"（12-21节）。第一个亚当代表旧人类，基督代表新人类。哥林多前书15:45-49详细阐述了这个对比。亚当使我们成为"属土的"，基督使我们成为"属天的"。
+
+第五，基督的"一次义行"（18节）指他在十字架上完成的救赎。不是一生的义行（虽然他一生都义），而是特指他在十字架上代赎的那一次决定性的行动。这一次义行足以使众人称义——不需要任何补充，不需要我们添加任何功德。
+
+最后，"恩典...藉着义作王"（21节）。恩典如何作王？藉着基督的义。不是藉着降低标准，而是藉着满足最高标准。基督完美地遵行了神的律法，满足了神公义的要求，使神可以既是公义的，又是使人称义的（3:26）。`,
+    christShadow_en: `Chapter five is one of Christ's most glorious revelations.
+
+First, Christ is "the reconciler with God" (verse 1). Isaiah 9:6 calls the Messiah "Prince of Peace"; Christ fulfilled this prophecy. His cross "broke down the dividing wall of hostility" (Ephesians 2:14), reconciling God and humanity.
+
+Second, Christ is "the mediator of grace" (verse 2). Through him we "have obtained access" to grace—he is the only way to the Father (John 14:6). Without Christ, we cannot approach the throne of grace.
+
+Third, Christ is "the supreme manifestation of God's love" (verses 6-8). "God shows his love for us in that while we were still sinners, Christ died for us." This is Scripture's deepest definition of God's love—not that we loved God, but that God loved us and sent his Son to be the propitiation for our sins (1 John 4:10).
+
+Fourth, Christ is "the last Adam" (verses 12-21). The first Adam represents old humanity, Christ represents new humanity. 1 Corinthians 15:45-49 elaborates on this contrast. Adam makes us "of the dust," Christ makes us "of heaven."
+
+Fifth, Christ's "one act of righteousness" (verse 18) refers to his completed redemption on the cross. Not a lifetime of righteous acts (though his whole life was righteous), but specifically that one decisive redemptive act on the cross. This one act of righteousness is sufficient to justify all—needing no supplement, requiring no merit from us.
+
+Finally, "grace...reigns through righteousness" (verse 21). How does grace reign? Through Christ's righteousness. Not by lowering the standard, but by meeting the highest standard. Christ perfectly obeyed God's law, met God's righteous requirement, enabling God to be both just and the justifier (3:26).`,
   },
   {
     id: 'romans-6',
@@ -4029,16 +6433,184 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '保罗',
     authorEn: 'Paul',
     publishDate: '2026-06-16',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `弟兄们，当我宣讲"罪在那里显多，恩典就更显多了"（5:20）之后，必然有人会曲解我的意思说："这样，怎么说呢？我们可以仍在罪中、叫恩典显多么？"这是何等可怕的误解！
+
+我的回答斩钉截铁："断乎不可！"这不仅在道德上不对，在逻辑上也不合理。为什么？因为"我们在罪上死了的人岂可仍在罪中活着呢？"注意这个用词——"在罪上死了"。我们不是仅仅离开罪，而是向罪死了。一个死人不会对任何事物有反应，同样，我们向罪也应当如同死人。
+
+但怎样才能向罪死呢？藉着与基督的联合。"岂不知我们这受洗归入基督耶稣的人是受洗归入他的死么？"洗礼不仅是一个仪式，更是一个属灵实际的记号——我们与基督联合，与他同死、同埋葬、同复活。
+
+"所以，我们藉着洗礼归入死，和他一同埋葬，原是叫我们一举一动有新生的样式，像基督藉着父的荣耀从死里复活一样。"这是何等荣耀的真理！基督死了，我们在他里面也死了；基督埋葬了，我们在他里面也埋葬了；基督复活了，我们在他里面也复活了——不是将来才复活，而是现在就有新生的样式。
+
+"我们若在他死的形状上与他联合，也要在他复活的形状上与他联合。"与基督联合不是抽象的神学概念，而是实际的属灵现实。我们真的在他的死上有份，也真的在他的复活上有份。
+
+"因为知道我们的旧人和他同钉十字架，使罪身灭绝，叫我们不再作罪的奴仆。"注意"旧人"这个词——指的是我们在亚当里的旧身份、旧性情。这旧人已经在十字架上与基督同钉了。罪身（the body of sin）被灭绝，不是说身体被毁灭，而是说罪对身体的掌控被打破。
+
+"因为已死的人是脱离了罪。"这是法律原则——死人不再受法律的约束。罪人死了，罪对他就没有权柄了。我们因着与基督同死，就脱离了罪的权势。
+
+"我们若是与基督同死，就信必与他同活。"注意这里的"信"——不是说我们还在怀疑，而是说我们确信。我们确信，既然与基督同死是真实的，与基督同活也必然是真实的。
+
+"因为知道基督既从死里复活，就不再死，死也不再作他的主了。他死是向罪死了，只有一次；他活是向神活着。"基督的复活是不能逆转的。他死了一次，解决了罪的问题，永远不需要再死。他现在活着，是向神活着——完全为神而活。
+
+现在我要应用这真理："这样，你们向罪也当看自己是死的；向神在基督耶稣里，却当看自己是活的。"这是成圣生活的秘诀——"看"（reckon）自己。不是假装，而是按照真实的属灵身份来看待自己。在客观真理的基础上，主观地应用。
+
+"所以，不要容罪在你们必死的身上作王，使你们顺从身子的私欲。"罪已经被废黜了，不要让它重新作王！我们的身体虽然还是必死的（mortal），但罪不应该在其上作王。
+
+"也不要将你们的肢体献给罪作不义的器具；倒要像从死里复活的人，将自己献给神，并将肢体作义的器具献给神。"成圣不是消极的（不犯罪），更是积极的（献给神）。每一个肢体——手、脚、口、眼——都可以作不义的器具，也可以作义的器具。关键在于我们献给谁。
+
+"罪必不能作你们的主，因你们不在律法之下，乃在恩典之下。"这是何等确定的应许！不是说"罪可能不作你们的主"，而是"罪必不能作你们的主"。为什么？因为我们不在律法之下（那会激发罪），乃在恩典之下（那会赐我们力量）。
+
+但有人又会曲解："这却怎么样呢？我们在恩典之下，不在律法之下，就可以犯罪么？"我再次回答："断乎不可！"
+
+我用奴仆的比喻来解释："岂不晓得你们献上自己作奴仆，顺从谁，就作谁的奴仆么？或作罪的奴仆，以至于死；或作顺命的奴仆，以至成义。"人没有第三个选择——不是作罪的奴仆，就是作义的奴仆。没有所谓的"自由人"——每个人都服事某个主人。
+
+"感谢神！因为你们从前虽然作罪的奴仆，现今却从心里顺服了所传给你们道理的模范。"注意"从心里"——不是外在的强迫，而是内心的转变。真正的悔改是从心里顺服。
+
+"你们既从罪里得了释放，就作了义的奴仆。"释放不是为了让我们随心所欲，而是为了让我们服事新的主人。从罪的奴役中被释放，是为了成为义的奴仆。这是真自由——不是"想做什么就做什么"，而是"能做我们本该做的"。
+
+"因为你们作罪之奴仆的时候，就不被义约束了。你们现今所看为羞耻的事，当日有什么果子呢？那些事的结局就是死。"回顾过去的罪，我们会羞愧——那些事没有结出任何好果子，只是通向死亡。
+
+"但现今，你们既从罪里得了释放，作了神的奴仆，就有成圣的果子，那结局就是永生。"作神的奴仆带来成圣的果子——不是立刻完全，而是渐进成长。结局是永生——不仅是未来的奖赏，更是现在就开始享受的新生命。
+
+最后我用一句名言总结："因为罪的工价乃是死；惟有神的恩赐，在我们的主基督耶稣里，乃是永生。"注意对比：罪给的是"工价"（wages），是我们赚得的，是死；神给的是"恩赐"（gift），是白白给的，是永生。
+
+弟兄们，明白这一章的真理对成圣至关重要。你们已经向罪死了，向神活了。不要让罪在你们身上作王，要将自己献给神。你们不在律法之下，乃在恩典之下——恩典不是纵容，而是力量。你们从前作罪的奴仆，现在作神的奴仆——这是真自由，是真喜乐，结局是永生。`,
+    content_en: `Brothers, after I proclaimed "where sin increased, grace abounded all the more" (5:20), someone will inevitably twist my meaning and say, "What shall we say then? Are we to continue in sin that grace may abound?" What a terrible misunderstanding!
+
+My answer is emphatic: "By no means!" This is not only morally wrong, but logically unreasonable. Why? Because "how can we who died to sin still live in it?" Notice the wording—"died to sin." We have not merely left sin, but died to it. A dead person doesn't respond to anything; likewise, we should be like dead people toward sin.
+
+But how do we die to sin? Through union with Christ. "Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death?" Baptism is not merely a ceremony, but a sign of spiritual reality—we are united with Christ, dying, being buried, and rising with him.
+
+"We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life." What glorious truth! Christ died, we died in him; Christ was buried, we were buried in him; Christ rose, we rose in him—not just in the future, but now we walk in newness of life.
+
+"For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his." Union with Christ is not an abstract theological concept, but actual spiritual reality. We truly share in his death and truly share in his resurrection.
+
+"We know that our old self was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin." Notice "old self"—referring to our old identity and old nature in Adam. This old self has already been crucified with Christ on the cross. The body of sin being "brought to nothing" doesn't mean the body is destroyed, but that sin's control over the body is broken.
+
+"For one who has died has been set free from sin." This is a legal principle—the dead are no longer bound by law. The sinner died, sin has no authority over him. Because we died with Christ, we are freed from sin's power.
+
+"Now if we have died with Christ, we believe that we will also live with him." Notice "believe" here—not that we're still doubting, but that we're certain. We're certain that since dying with Christ is real, living with Christ must also be real.
+
+"We know that Christ, being raised from the dead, will never die again; death no longer has dominion over him. For the death he died he died to sin, once for all, but the life he lives he lives to God." Christ's resurrection is irreversible. He died once, solved the sin problem, never needs to die again. He now lives, living to God—completely for God.
+
+Now I apply this truth: "So you also must consider yourselves dead to sin and alive to God in Christ Jesus." This is the secret of sanctified living—"consider" (reckon) yourselves. Not pretending, but seeing yourself according to your true spiritual identity. On the foundation of objective truth, subjectively apply it.
+
+"Let not sin therefore reign in your mortal body, to make you obey its passions." Sin has been dethroned, don't let it reign again! Though our body is still mortal, sin should not reign over it.
+
+"Do not present your members to sin as instruments for unrighteousness, but present yourselves to God as those who have been brought from death to life, and your members to God as instruments for righteousness." Sanctification is not negative (not sinning), but positive (presenting to God). Every member—hands, feet, mouth, eyes—can be an instrument of unrighteousness or righteousness. The key is whom we present them to.
+
+"For sin will have no dominion over you, since you are not under law but under grace." What a certain promise! Not "sin might not have dominion," but "sin will have no dominion." Why? Because we're not under law (which provokes sin), but under grace (which gives us power).
+
+But someone will twist this again: "What then? Are we to sin because we are not under law but under grace?" I answer again: "By no means!"
+
+I use the slavery analogy to explain: "Do you not know that if you present yourselves to anyone as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?" People don't have a third option—either slaves of sin or slaves of righteousness. There's no such thing as a "free person"—everyone serves some master.
+
+"But thanks be to God, that you who were once slaves of sin have become obedient from the heart to the standard of teaching to which you were committed." Notice "from the heart"—not external compulsion, but inward transformation. True repentance is heartfelt obedience.
+
+"Having been set free from sin, you have become slaves of righteousness." Freedom is not to do whatever we want, but to serve a new master. Being freed from sin's slavery is to become slaves of righteousness. This is true freedom—not "doing whatever I want," but "being able to do what I ought to do."
+
+"For when you were slaves of sin, you were free in regard to righteousness. But what fruit were you getting at that time from the things of which you are now ashamed? For the end of those things is death." Looking back on past sins, we are ashamed—those things bore no good fruit, only led to death.
+
+"But now that you have been set free from sin and have become slaves of God, the fruit you get leads to sanctification and its end, eternal life." Being God's slaves brings the fruit of sanctification—not instant perfection, but gradual growth. The end is eternal life—not only future reward, but new life enjoyed now.
+
+Finally I summarize with a famous saying: "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord." Notice the contrast: sin gives "wages," what we earned, which is death; God gives a "gift," freely given, which is eternal life.
+
+Brothers, understanding this chapter's truth is crucial for sanctification. You have died to sin and are alive to God. Don't let sin reign over you, present yourselves to God. You are not under law but under grace—grace is not license, but power. You were once slaves of sin, now slaves of God—this is true freedom, true joy, ending in eternal life.`,
+    historyContext_zh: `第六章处理的是一个实际问题：既然因信称义、恩典更显多，是否可以继续犯罪？这在早期教会确实引起了争议。
+
+在第一世纪，有一些人（后来被称为"反律法主义者"antinomians）误解了保罗的教导，认为既然救恩是白白的恩典，行为不重要，那就可以随意犯罪。雅各书2章和犹大书可能也在回应这种错误。
+
+保罗在这里用"与基督联合"的神学来回应。洗礼在早期教会是紧跟着悔改信主的，通常是全身浸入水中（象征埋葬）再从水中起来（象征复活）。保罗用这个仪式来说明属灵实际——我们真的与基督同死同复活了。
+
+"向罪死"的概念在希腊哲学中也有（斯多亚学派谈论对欲望的"无感"apatheia），但保罗赋予它新的意义——不是靠自己的意志力压制欲望，而是藉着与基督联合，旧人已经在十字架上被钉死了。
+
+罗马教会面临的试探可能包括：回到犹太律法主义（加上行为来得救），或滑向反律法主义（既然不靠行为得救就不需要行为）。保罗在这里指出第三条路：因信称义，但称义的人会结出成圣的果子。`,
+    historyContext_en: `Chapter six addresses a practical question: since we're justified by faith and grace abounds all the more, can we continue in sin? This indeed caused controversy in the early church.
+
+In the first century, some people (later called "antinomians") misunderstood Paul's teaching, thinking that since salvation is free grace and works don't matter, one can sin freely. James 2 and Jude may also be responding to this error.
+
+Paul here responds with the theology of "union with Christ." Baptism in the early church closely followed repentance and faith, usually full immersion in water (symbolizing burial) and rising from water (symbolizing resurrection). Paul uses this ceremony to illustrate spiritual reality—we truly died and rose with Christ.
+
+The concept of "dying to sin" also existed in Greek philosophy (Stoics spoke of "apathy" toward desires), but Paul gives it new meaning—not suppressing desires through willpower, but through union with Christ, the old self has already been crucified on the cross.
+
+Temptations facing the Roman church may have included: returning to Jewish legalism (adding works for salvation), or sliding toward antinomianism (since we're not saved by works, works don't matter). Paul here points to a third way: justified by faith, but justified people bear the fruit of sanctification.`,
+    structure_zh: `第六章围绕"成圣与联合"的主题，可分为三个段落：
+
+与基督联合（1-14节）：
+- 问题：可以仍在罪中叫恩典显多吗？（1-2节）
+- 真理：我们藉着洗礼与基督同死、同埋葬、同复活（3-5节）
+- 应用：旧人已被钉十字架，向罪看自己是死的，向神是活的（6-11节）
+- 命令：不要容罪作王，要将肢体献给神（12-14节）
+
+作奴仆的比喻（15-23节）：
+- 问题：在恩典之下就可以犯罪吗？（15节）
+- 真理：顺从谁就作谁的奴仆（16节）
+- 对比：从前作罪的奴仆，现在作义的奴仆（17-20节）
+- 结局：罪的工价是死，神的恩赐是永生（21-23节）
+
+结构上，两个段落都是"问题-真理-应用"的模式，用不同的比喻（死与活、主人与奴仆）说明同一个真理：基督徒不应该也不能继续在罪中活着。`,
+    structure_en: `Chapter six revolves around the theme of "sanctification and union," divided into three sections:
+
+Union with Christ (verses 1-14):
+- Question: Shall we continue in sin that grace may abound? (verses 1-2)
+- Truth: Through baptism we died, were buried, and rose with Christ (verses 3-5)
+- Application: Old self crucified, consider yourselves dead to sin, alive to God (verses 6-11)
+- Command: Don't let sin reign, present your members to God (verses 12-14)
+
+The Slavery Analogy (verses 15-23):
+- Question: Can we sin because we're under grace? (verse 15)
+- Truth: You're slaves of the one you obey (verse 16)
+- Contrast: Once slaves of sin, now slaves of righteousness (verses 17-20)
+- Outcome: Wages of sin is death, God's gift is eternal life (verses 21-23)
+
+Structurally, both sections follow a "question-truth-application" pattern, using different analogies (death and life, master and slave) to illustrate the same truth: Christians should not and cannot continue living in sin.`,
+    theology_zh: `第六章的神学核心是"与基督联合"（Union with Christ），这是改革宗神学的关键概念。
+
+首先，"与基督联合"不仅是法律性的（legal），更是有机性的（organic）。不仅是地位的改变（称义），更是生命的联合（成圣）。我们真的与基督成为一体，他的死成为我们的死，他的复活成为我们的复活。
+
+其次，"成圣的确定性"（14节："罪必不能作你们的主"）。成圣不是靠自己的努力，而是基于与基督的联合。因为我们在恩典之下，罪必不能作我们的主——这是应许，不是建议。
+
+第三，"双重否定"。我们向罪死（消极），向神活（积极）。成圣不仅是不犯罪，更是积极地献给神、服事神、荣耀神。
+
+第四，"洗礼的意义"。改革宗神学持"约的洗礼观"（covenantal view of baptism）。洗礼是恩典之约的记号和印证，标志着我们与基督联合、与他同死同复活。洗礼本身不拯救人（除非伴随着信心），但它指向和印证属灵实际。
+
+第五，"真自由的悖论"。真自由不是"不受约束"，而是"作义的奴仆"。罪的奴役是捆绑，神的"奴役"是自由。只有服事神，我们才能真正自由地成为神创造我们时要我们成为的样子。`,
+    theology_en: `The theological core of chapter six is "Union with Christ," a key concept in Reformed theology.
+
+First, "union with Christ" is not only legal but organic. Not only a change of status (justification), but a union of life (sanctification). We truly become one with Christ; his death becomes our death, his resurrection becomes our resurrection.
+
+Second, "the certainty of sanctification" (verse 14: "sin will have no dominion over you"). Sanctification is not by our own effort, but based on union with Christ. Because we're under grace, sin cannot rule us—this is a promise, not a suggestion.
+
+Third, "double negation." We die to sin (negative), live to God (positive). Sanctification is not only not sinning, but positively presenting to God, serving God, glorifying God.
+
+Fourth, "the meaning of baptism." Reformed theology holds a "covenantal view of baptism." Baptism is a sign and seal of the covenant of grace, marking our union with Christ, dying and rising with him. Baptism itself doesn't save (unless accompanied by faith), but it points to and seals spiritual reality.
+
+Fifth, "the paradox of true freedom." True freedom is not "being unconstrained," but "being slaves of righteousness." Slavery to sin is bondage; "slavery" to God is freedom. Only in serving God can we truly freely become what God created us to be.`,
+    christShadow_zh: `第六章处处指向基督。
+
+首先，基督的死与复活是我们成圣的基础（3-5节）。我们不是靠自己的努力向罪死，而是因为与基督联合，他的死成为我们的死。他死了，罪的权势就被打破；他复活了，新生命就开始。
+
+其次，"旧人与他同钉十字架"（6节）指向各各他。我们的旧人不是将来某天要被钉，而是已经在主后33年那个星期五与基督一同被钉了。这是历史事实，也是属灵实际。
+
+第三，"像从死里复活的人"（13节）。我们像基督从死里复活一样，已经从灵性的死亡中复活了。这是"已然未然"（already-not yet）——已经复活（属灵上），尚未复活（身体上）。
+
+第四，基督是我们的新主人（22节："作了神的奴仆"）。从前我们作罪的奴仆，现在我们作基督的奴仆。保罗在哥林多前书7:22说："因为作奴仆蒙召于主的，就是主所释放的人；作自由之人蒙召的，就是基督的奴仆。"
+
+第五，永生在基督里（23节）。注意这句话："在我们的主基督耶稣里"。永生不是单独存在的奖赏，而是在基督里的实际。离开基督就没有永生，在基督里就有永生——现在就有，将来更丰满。
+
+从始至终，成圣不是我们靠自己修炼，而是因为我们在基督里。他的死成为我们的死，他的复活成为我们的复活，他的生命成为我们的生命。成圣的秘诀是联合——与基督联合。`,
+    christShadow_en: `Chapter six everywhere points to Christ.
+
+First, Christ's death and resurrection are the foundation of our sanctification (verses 3-5). We don't die to sin through our own effort, but because through union with Christ, his death becomes our death. He died, sin's power is broken; he rose, new life begins.
+
+Second, "our old self was crucified with him" (verse 6) points to Calvary. Our old self was not crucified at some future day, but was already crucified with Christ on that Friday in AD 33. This is historical fact and spiritual reality.
+
+Third, "as those who have been brought from death to life" (verse 13). Like Christ rose from the dead, we have already risen from spiritual death. This is "already-not yet"—already risen (spiritually), not yet risen (bodily).
+
+Fourth, Christ is our new master (verse 22: "slaves of God"). Once we were slaves of sin, now we are slaves of Christ. Paul says in 1 Corinthians 7:22, "For he who was called in the Lord as a slave is a freedman of the Lord. Likewise he who was free when called is a slave of Christ."
+
+Fifth, eternal life is in Christ (verse 23). Notice the phrase: "in Christ Jesus our Lord." Eternal life is not a separate reward, but a reality in Christ. Apart from Christ there is no eternal life; in Christ there is eternal life—already now, more fully in the future.
+
+From beginning to end, sanctification is not our self-cultivation, but because we are in Christ. His death becomes our death, his resurrection becomes our resurrection, his life becomes our life. The secret of sanctification is union—union with Christ.`,
   },
   {
     id: 'romans-7',
@@ -4050,16 +6622,170 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '保罗',
     authorEn: 'Paul',
     publishDate: '2026-06-17',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `弟兄们，在第六章我谈到了我们向罪死、向神活。现在我要解释律法在这个过程中的角色——这是个复杂但极其重要的话题。
+
+我先用一个比喻来说明："就如女人有了丈夫，丈夫还活着，就被律法约束；丈夫若死了，就脱离了丈夫的律法。"这不是在贬低婚姻，而是说明一个法律原则：死亡终止法律义务。
+
+"我的弟兄们，这样说来，你们藉着基督的身体，在律法上也是死了。"这是关键！我们不是废弃律法，而是藉着与基督同死，我们在律法上死了。律法对死人没有管辖权。
+
+为什么要脱离律法？"叫你们归于别人，就是归于那从死里复活的，叫我们结果子给神。"我们脱离律法，不是为了无法无天，而是为了归于基督，结果子给神。
+
+但律法本身是罪吗？"断乎不是！"律法是圣洁、公义、良善的（12节）。问题不在律法，而在我们。律法像镜子，显明我们的罪；像光，暴露我们的黑暗。
+
+"非因律法，我就不知何为罪。非律法说不可起贪心，我就不知何为贪心。"这是我个人的见证。我本以为自己还不错，但当律法说"不可起贪心"，我才发现内心充满了贪欲。
+
+"然而罪趁着机会，就藉着诫命叫诸般的贪心在我里头发动。"这是罪性的诡诈——律法说"不可"，我们里面的悖逆就被激发。就像小孩被告知"不许碰"，就特别想去碰。
+
+"我以前没有律法是活着的；但是诫命来到，罪又活了，我就死了。"这可能指我年轻时的经历——在真正明白律法要求之前，我以为自己活着（属灵上）；但当律法的光照进来，我才发现自己是死的。
+
+现在我要描述一个痛苦的挣扎——这是每个真基督徒都经历过的："我所做的，我自己不明白；我所愿意的，我并不做；我所恨恶的，我倒去做。"
+
+这不是普通罪人的状态（他们不恨恶罪），而是重生之人的挣扎。我知道什么是好的，我也想做好，但我发现自己做不到。"立志为善由得我，只是行出来由不得我。"
+
+"我也知道在我里头，就是我肉体之中，没有良善。"注意，我不是说"我完全没有良善"，而是说"在我肉体之中"没有良善。重生的我想行善，但肉体（旧性情）仍然在作对。
+
+"我觉得有个律，就是我愿意为善的时候，便有恶与我同在。因为按着我里面的意思，我是喜欢神的律；但我觉得肢体中另有个律和我心中的律交战。"
+
+这是两个律的交战：神的律（我里面的新性情喜欢的）与罪的律（我肢体中的旧性情）。这场战争在每个信徒心中进行，直到我们见主面的那天。
+
+"我真是苦啊！谁能救我脱离这取死的身体呢？"这是绝望的呼喊——但紧接着就是盼望的答案！
+
+"感谢神，靠着我们的主耶稣基督就能脱离了。"救赎不是靠自己的挣扎，而是靠基督。他不仅救我们脱离罪的刑罚（称义），更救我们脱离罪的权势（成圣），将来还要救我们脱离罪的同在（得荣耀）。
+
+弟兄们，这一章描述的挣扎你们必定经历过。这不是失败的标志，而是真基督徒的标志——只有重生的人才会恨恶罪、渴望良善。律法显明了我们的无能，但基督给了我们盼望。不要靠自己，要仰望基督！`,
+    content_en: `Brothers, in chapter six I discussed how we died to sin and live to God. Now I will explain the law's role in this process—a complex but extremely important topic.
+
+I first use an analogy: "A married woman is bound by law to her husband while he lives, but if her husband dies she is released from the law of marriage." This isn't denigrating marriage, but illustrating a legal principle: death terminates legal obligations.
+
+"My brothers, you also have died to the law through the body of Christ." This is key! We don't abolish the law, but through dying with Christ, we died to the law. The law has no jurisdiction over the dead.
+
+Why be released from the law? "So that you may belong to another, to him who has been raised from the dead, in order that we may bear fruit for God." We're released from the law not for lawlessness, but to belong to Christ and bear fruit for God.
+
+But is the law sin? "By no means!" The law is holy, righteous, and good (verse 12). The problem isn't the law, but us. The law is like a mirror showing our sin, like light exposing our darkness.
+
+"If it had not been for the law, I would not have known sin. For I would not have known what it is to covet if the law had not said, 'You shall not covet.'" This is my personal testimony. I thought I was pretty good, but when the law said "you shall not covet," I discovered my heart full of covetousness.
+
+"But sin, seizing an opportunity through the commandment, produced in me all kinds of covetousness." This is sin's deceit—when the law says "don't," our inner rebellion is provoked. Like a child told "don't touch," especially wants to touch.
+
+"I was once alive apart from the law, but when the commandment came, sin came alive and I died." This may refer to my youth—before truly understanding the law's demands, I thought I was alive (spiritually); but when the law's light shone in, I discovered I was dead.
+
+Now I will describe a painful struggle—every true Christian has experienced this: "I do not understand my own actions. For I do not do what I want, but I do the very thing I hate."
+
+This isn't the state of an ordinary sinner (they don't hate sin), but the struggle of the regenerate. I know what's good, I want to do good, but I find I can't. "I have the desire to do what is right, but not the ability to carry it out."
+
+"For I know that nothing good dwells in me, that is, in my flesh." Notice, I'm not saying "I have no good at all," but "in my flesh" there's no good. The regenerate me wants to do good, but the flesh (old nature) still opposes.
+
+"For I delight in the law of God, in my inner being, but I see in my members another law waging war against the law of my mind."
+
+This is warfare between two laws: God's law (which my new nature delights in) and the law of sin (in my old nature). This war continues in every believer's heart until we see the Lord.
+
+"Wretched man that I am! Who will deliver me from this body of death?" This is a desperate cry—but immediately follows the hopeful answer!
+
+"Thanks be to God through Jesus Christ our Lord!" Deliverance is not through our own struggle, but through Christ. He not only saves us from sin's penalty (justification), but from sin's power (sanctification), and will save us from sin's presence (glorification).
+
+Brothers, you've certainly experienced the struggle described in this chapter. This isn't a sign of failure, but of being a true Christian—only the regenerate hate sin and long for good. The law revealed our inability, but Christ gave us hope. Don't rely on yourselves—look to Christ!`,
+    historyContext_zh: `第七章处理律法的角色这个争议性话题。在早期教会，如何看待摩西律法是犹太信徒和外邦信徒之间最大的争议。
+
+犹太化派（Judaizers）认为外邦人必须守律法才能得救（使徒行传15章）。保罗在加拉太书强烈反对这观点。但在罗马书，他采用更温和、更系统的方式解释律法的角色。
+
+14-25节描述的"双重性"（duality）在解经史上引起很大争议。奥古斯丁早期认为这是保罗重生前的经历，后期改变看法认为这是信徒的经历。改教家们（特别是路德和加尔文）认为这是成熟信徒的经历。
+
+从上下文看，这应该是信徒的经历——因为只有重生的人才会"喜欢神的律"（22节），才会"恨恶"罪（15节）。非信徒不会有这种内心的交战。
+
+这段经文后来成为理解"残余的罪性"（remaining sin）的关键。改革宗神学承认即使重生的信徒，在今生仍有罪性的残余，需要不断靠圣灵治死（第8章）。`,
+    historyContext_en: `Chapter seven addresses the controversial topic of the law's role. In the early church, how to view the Mosaic law was the biggest controversy between Jewish and Gentile believers.
+
+The Judaizers believed Gentiles must keep the law to be saved (Acts 15). Paul strongly opposed this view in Galatians. But in Romans, he uses a more gentle, systematic way to explain the law's role.
+
+The "duality" described in verses 14-25 has caused great controversy in interpretive history. Augustine early on thought this was Paul's pre-conversion experience, later changed his view to think it's a believer's experience. The Reformers (especially Luther and Calvin) considered this a mature believer's experience.
+
+From context, this should be a believer's experience—because only the regenerate would "delight in God's law" (verse 22) and "hate" sin (verse 15). Unbelievers don't have this inner warfare.
+
+This passage later became key to understanding "remaining sin." Reformed theology acknowledges that even regenerate believers still have remnants of sinfulness in this life, needing continuous mortification by the Spirit (chapter 8).`,
+    structure_zh: `第七章围绕"律法的角色"这个主题，分为三部分：
+
+脱离律法（1-6节）：
+- 比喻：妇人与丈夫（1-3节）
+- 应用：我们藉着基督的死在律法上死了（4节）
+- 目的：归于基督，结果子给神（4-6节）
+
+律法与罪（7-13节）：
+- 问题：律法是罪吗？（7节上）
+- 答案：律法显明罪（7节下-11节）
+- 结论：律法是圣洁的，罪藉律法显出是恶极了（12-13节）
+
+信徒的挣扎（14-25节）：
+- 矛盾：愿意行善却行不出（14-20节）
+- 交战：两个律的冲突（21-23节）
+- 拯救：靠主耶稣基督（24-25节）
+
+整章的逻辑是：律法本身是好的，但因为我们的罪性，律法反而激发罪、显明罪。我们需要从律法的定罪中被释放，归于基督。`,
+    structure_en: `Chapter seven revolves around "the role of the law," divided into three parts:
+
+Released from the Law (verses 1-6):
+- Analogy: Woman and husband (verses 1-3)
+- Application: We died to the law through Christ's death (verse 4)
+- Purpose: Belong to Christ, bear fruit for God (verses 4-6)
+
+Law and Sin (verses 7-13):
+- Question: Is the law sin? (verse 7a)
+- Answer: Law reveals sin (verses 7b-11)
+- Conclusion: Law is holy, sin through law is shown to be utterly sinful (verses 12-13)
+
+Believer's Struggle (verses 14-25):
+- Paradox: Want to do good but can't (verses 14-20)
+- Warfare: Conflict of two laws (verses 21-23)
+- Deliverance: Through Jesus Christ our Lord (verses 24-25)
+
+The chapter's logic: the law itself is good, but because of our sinfulness, the law provokes sin and reveals sin. We need to be released from the law's condemnation and belong to Christ.`,
+    theology_zh: `第七章的神学主题是"律法的三重功用"（threefold use of the law）：
+
+第一功用（civil use）：约束社会的罪恶，维持秩序。本章未明说，但隐含其中。
+
+第二功用（pedagogical use）：显明罪，领人归基督。这是本章的重点（7-13节）。律法像镜子照出我们的污秽，像光暴露我们的黑暗，像量尺显明我们的不足。律法说"不可贪心"，我们才发现内心充满贪欲。
+
+第三功用（normative use）：指导信徒的生活。虽然我们不在律法之下（作为得救的条件），但律法仍是我们道德的准则。
+
+"残余的罪性"（remaining sin）在14-25节得到深刻描述。改革宗神学承认"渐进成圣"（progressive sanctification）——信徒在今生不会达到完全无罪，但会逐渐成长。这不是给犯罪找借口，而是诚实面对属灵争战的现实。
+
+"simul justus et peccator"（同时是义人和罪人）是路德的名言。从法律地位看，我们完全是义人（因基督的义）；从实际状况看，我们仍有罪性的残余。这不矛盾——称义是客观的法庭宣告，成圣是主观的渐进过程。`,
+    theology_en: `Chapter seven's theological theme is the "threefold use of the law":
+
+First use (civil use): Restraining societal evil, maintaining order. Not explicit in this chapter, but implied.
+
+Second use (pedagogical use): Revealing sin, leading to Christ. This is the chapter's focus (verses 7-13). The law is like a mirror showing our filth, like light exposing our darkness, like a ruler showing our inadequacy. The law says "you shall not covet," revealing our hearts full of covetousness.
+
+Third use (normative use): Guiding believers' lives. Though we're not under law (as a condition for salvation), the law remains our moral standard.
+
+"Remaining sin" is profoundly described in verses 14-25. Reformed theology acknowledges "progressive sanctification"—believers won't achieve complete sinlessness in this life, but will gradually grow. This isn't an excuse for sin, but honestly facing spiritual warfare's reality.
+
+"Simul justus et peccator" (simultaneously righteous and sinner) is Luther's famous phrase. From legal status, we're completely righteous (through Christ's righteousness); from actual condition, we still have remnants of sinfulness. This isn't contradictory—justification is an objective legal declaration, sanctification is a subjective progressive process.`,
+    christShadow_zh: `第七章虽然描述挣扎，但基督是唯一的解答。
+
+"藉着基督的身体"（4节）我们在律法上死了。不是靠自己挣脱律法的定罪，而是藉着基督的死——他为我们承受了律法的咒诅（加拉太书3:13）。
+
+"归于那从死里复活的"（4节）——我们现在属于复活的基督。他不仅为我们死，更为我们活；他现在活着，作我们的主，赐我们力量。
+
+24-25节的对比最明显："我真是苦啊！谁能救我...？感谢神，靠着我们的主耶稣基督就能脱离了。"问题是"谁能？"答案是"基督能！"
+
+律法显明我们的无能——"立志为善由得我，只是行出来由不得我"。但基督赐给我们能力。第8章紧接着说："赐生命圣灵的律，在基督耶稣里释放了我，使我脱离罪和死的律了。"
+
+基督成全了律法的义（8:3-4）。律法要求我们完全顺服，我们做不到；但基督做到了，他的顺服归算给我们。律法定我们的罪，但基督承担了刑罚。律法无能为力的地方，基督大能地成就了。
+
+从始至终，律法把我们逼到绝境，显明我们需要一位救主。那救主就是基督——他满足了律法的要求，承受了律法的咒诅，释放我们脱离律法的定罪，使我们归于他，结果子给神。`,
+    christShadow_en: `Though chapter seven describes struggle, Christ is the only answer.
+
+"Through the body of Christ" (verse 4) we died to the law. Not escaping the law's condemnation by ourselves, but through Christ's death—he bore the law's curse for us (Galatians 3:13).
+
+"Belong to another, to him who has been raised from the dead" (verse 4)—we now belong to the risen Christ. He not only died for us, but lives for us; he now lives, as our Lord, giving us strength.
+
+The contrast in verses 24-25 is most obvious: "Wretched man that I am! Who will deliver me...? Thanks be to God through Jesus Christ our Lord!" The question is "who can?" The answer is "Christ can!"
+
+The law reveals our inability—"I have the desire to do what is right, but not the ability to carry it out." But Christ gives us ability. Chapter 8 immediately says: "The law of the Spirit of life has set you free in Christ Jesus from the law of sin and death."
+
+Christ fulfilled the law's righteousness (8:3-4). The law requires perfect obedience, we can't do it; but Christ did it, his obedience is credited to us. The law condemns us, but Christ bore the penalty. Where the law is powerless, Christ mightily accomplished.
+
+From beginning to end, the law drives us to desperation, showing we need a Savior. That Savior is Christ—he met the law's demands, bore the law's curse, freed us from the law's condemnation, enabling us to belong to him and bear fruit for God.`,
   },
   {
     id: 'romans-8',
@@ -4071,16 +6797,280 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '保罗',
     authorEn: 'Paul',
     publishDate: '2026-06-18',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `弟兄们，如果说罗马书有一个高峰，那就是这第八章！在经历了第七章的挣扎之后，现在我要告诉你们在基督里最荣耀的真理。
+
+"如今，那些在基督耶稣里的就不定罪了。"这是全本圣经最美的宣告之一！"如今"（now）——不是将来，而是现在！"不定罪"（no condemnation）——不是减轻刑罚，而是完全没有定罪！"在基督耶稣里"——这是唯一的条件。
+
+为什么不定罪？"因为赐生命圣灵的律，在基督耶稣里释放了我，使我脱离罪和死的律了。"第七章说有两个律在交战，现在有第三个律——圣灵的律——来释放我们！这律不是外在的规条，而是内住的生命力量。
+
+"律法既因肉体软弱，有所不能行的，神就差遣自己的儿子，成为罪身的形状，作了赎罪祭，在肉体中定了罪案。"这是道成肉身和代赎的精髓。基督取了人的样式（但无罪），在肉体中定了罪案（承受刑罚），成就了律法不能成就的。
+
+"使律法的义成就在我们这不随从肉体、只随从圣灵的人身上。"基督为我们成全了律法的义——不是让我们靠自己去成全，而是他成全了然后归算给我们。同时，圣灵使我们能活出这义。
+
+现在我要对比两种生活方式："随从肉体的人体贴肉体的事，随从圣灵的人体贴圣灵的事。体贴肉体的，就是死；体贴圣灵的，乃是生命、平安。"
+
+关键词是"体贴"（mind set on）——不是偶尔的想法，而是思想的方向、生命的取向。随从肉体的人，思想总是在肉体的事上；随从圣灵的人，思想总是在属灵的事上。
+
+"原来体贴肉体的，就是与神为仇；因为不服神的律法，也是不能服。"这是严厉的宣告。体贴肉体不仅是不好，而是与神为仇！不是不愿意服，而是"不能服"——这是全然败坏的证据。
+
+"而且属肉体的人不能得神的喜欢。如果神的灵住在你们心里，你们就不属肉体，乃属圣灵了。"注意这个"如果"——在希腊文是"既然"的意思。既然神的灵住在你们心里（我确信你们是真信徒），你们就不属肉体了。
+
+"人若没有基督的灵，就不是属基督的。"这是检验得救的试金石。不是问你有没有受洗、有没有做好事，而是问：基督的灵住在你里面吗？如果没有，就不是属基督的。
+
+"基督若在你们心里，身体就因罪而死，心灵却因义而活。"我们的身体仍会死（因亚当的罪），但我们的灵已经活了（因基督的义）。
+
+但故事没有结束！"然而，叫耶稣从死里复活者的灵若住在你们心里，那叫基督耶稣从死里复活的，也必藉着住在你们心里的圣灵，使你们必死的身体又活过来。"这是复活的应许！同一位使基督复活的灵，也要使我们的身体复活。
+
+现在我要谈论圣灵的带领："因为凡被神的灵引导的，都是神的儿子。"不是奴仆，而是儿子！"你们所受的，不是奴仆的心，仍旧害怕；所受的，乃是儿子的心，因此我们呼叫：阿爸！父！"
+
+"阿爸"（Abba）是亚兰文，是小孩对父亲的亲昵称呼，像"爸爸"。这是何等的特权！我们可以像耶稣一样称全能的神为"阿爸，父"（马可福音14:36）。
+
+"圣灵与我们的心同证我们是神的儿女；既是儿女，便是后嗣，就是神的后嗣，和基督同作后嗣。"我们不仅是儿女，更是后嗣——有继承权！我们与基督同作后嗣，他承受的，我们也承受。
+
+但有一个条件："如果我们和他一同受苦，也必和他一同得荣耀。"受苦不是咒诅，而是通往荣耀的路径。基督藉着受苦进入荣耀，我们也要如此。
+
+"我想，现在的苦楚若比起将来要显于我们的荣耀就不足介意了。"这不是轻看苦难，而是正确的比例。现在的苦楚是暂时的、有限的；将来的荣耀是永恒的、无限的。
+
+连受造之物也在盼望："受造之物切望等候神的众子显出来...指望脱离败坏的辖制，得享神儿女自由的荣耀。"整个受造界都在叹息，等候救赎完成的那日。
+
+"不但如此，就是我们这有圣灵初结果子的，也是自己心里叹息，等候得着儿子的名分，乃是我们的身体得赎。"我们已经有圣灵（初结的果子），但仍在等候身体的救赎。这是"已然未然"——已经是儿女，尚未完全得赎。
+
+"我们得救是在乎盼望。"得救有三个时态：已经得救（称义），正在得救（成圣），将要得救（得荣耀）。我们盼望那最终的完全。
+
+圣灵不仅在我们心里做见证，更为我们祷告："我们本不晓得当怎样祷告，只是圣灵亲自用说不出来的叹息替我们祷告。"当我们软弱不知如何祷告时，圣灵在为我们代求！
+
+然后是那句著名的应许："我们晓得万事都互相效力，叫爱神的人得益处，就是按他旨意被召的人。"这不是说万事都是好的，而是说神使万事——包括苦难——互相效力，为我们的益处效力。
+
+现在我要讲述"救赎的金链"（golden chain of redemption）：
+- 预先知道
+- 预先定下
+- 召来
+- 称义
+- 得荣耀
+
+注意都是过去式！连"得荣耀"也用过去式，因为在神的预定中已经确定了。这是"圣徒永蒙保守"的圣经根据。
+
+"既是这样，还有什么说的呢？"面对这样的救恩，我们只能敬拜！接下来是一连串无法回答的反问句：
+
+"神若帮助我们，谁能敌挡我们呢？"答案：没有人！
+
+"神既不爱惜自己的儿子，为我们众人舍了，岂不也把万物和他一同白白的赐给我们么？"这是"从大到小"的论证——神已经给了最大的礼物（他的儿子），还会吝啬小的吗？
+
+"谁能控告神所拣选的人呢？有神称他们为义了。"撒但可以控告，良心可以控告，但神称我们为义了——还有谁的话比神更权威？
+
+"谁能定他们的罪呢？有基督耶稣已经死了，而且从死里复活，现今在神的右边，也替我们祈求。"基督不是控告我们，而是为我们代求！
+
+最后是那荣耀的宣告："谁能使我们与基督的爱隔绝呢？"
+
+保罗列举一切可能的威胁——患难、困苦、逼迫、饥饿、赤身露体、危险、刀剑——然后宣告："然而，靠着爱我们的主，在这一切的事上已经得胜有余了。"
+
+不是勉强得胜，而是"得胜有余"（more than conquerors）——压倒性的胜利！
+
+"因为我深信无论是死，是生，是天使，是掌权的，是有能的，是现在的事，是将来的事，是高处的，是低处的，是别的受造之物，都不能叫我们与神的爱隔绝；这爱是在我们的主基督耶稣里的。"
+
+这是全本圣经最伟大的宣告之一！没有任何力量——无论是属灵的还是物质的，现在的还是将来的——能够使我们与神在基督里的爱隔绝。
+
+弟兄们，如果你记不住罗马书其他章节，请记住第八章。如果你在软弱、怀疑、惧怕中，请读第八章。这一章是信徒一切盼望的总和：不定罪、圣灵内住、儿女名分、将来荣耀、神的爱永不隔绝。在基督耶稣里，我们已经得胜有余了！`,
+    content_en: `Brothers, if Romans has a peak, this is it—chapter eight! After the struggle of chapter seven, now I will tell you the most glorious truth in Christ.
+
+"There is therefore now no condemnation for those who are in Christ Jesus." This is one of Scripture's most beautiful declarations! "Now"—not in the future, but now! "No condemnation"—not reduced penalty, but absolutely no condemnation! "In Christ Jesus"—this is the only condition.
+
+Why no condemnation? "For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death." Chapter seven spoke of two laws at war; now there's a third law—the Spirit's law—to free us! This law is not external rules, but indwelling life-power.
+
+"For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh." This is the essence of incarnation and atonement. Christ took human form (but sinless), condemned sin in the flesh (bore punishment), accomplished what the law could not.
+
+"In order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit." Christ fulfilled the law's righteousness for us—not making us fulfill it ourselves, but he fulfilled it then imputed it to us. Simultaneously, the Spirit enables us to live out this righteousness.
+
+Now I'll contrast two ways of living: "For those who live according to the flesh set their minds on the things of the flesh, but those who live according to the Spirit set their minds on the things of the Spirit. For to set the mind on the flesh is death, but to set the mind on the Spirit is life and peace."
+
+The keyword is "set minds on"—not occasional thoughts, but the direction of thought, life's orientation. Those living according to flesh constantly think about fleshly things; those living according to Spirit constantly think about spiritual things.
+
+"For the mind that is set on the flesh is hostile to God, for it does not submit to God's law; indeed, it cannot." This is a severe declaration. Setting the mind on flesh is not just bad, but hostile to God! Not unwilling to submit, but "cannot"—evidence of total depravity.
+
+"Those who are in the flesh cannot please God. You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you." Notice this "if"—in Greek it means "since." Since the Spirit of God dwells in you (I'm confident you're true believers), you're not in the flesh.
+
+"Anyone who does not have the Spirit of Christ does not belong to him." This is the litmus test of salvation. Not whether you're baptized or do good deeds, but: does Christ's Spirit dwell in you? If not, you don't belong to Christ.
+
+"But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness." Our bodies will still die (due to Adam's sin), but our spirits have already come alive (due to Christ's righteousness).
+
+But the story doesn't end! "If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you." This is the promise of resurrection! The same Spirit who raised Christ will raise our bodies.
+
+Now I'll discuss the Spirit's leading: "For all who are led by the Spirit of God are sons of God." Not slaves, but sons! "For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, 'Abba! Father!'"
+
+"Abba" is Aramaic, a child's intimate term for father, like "Daddy." What a privilege! We can call Almighty God "Abba, Father" just as Jesus did (Mark 14:36).
+
+"The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ." We're not only children, but heirs—with inheritance rights! We're fellow heirs with Christ; what he inherits, we inherit.
+
+But there's a condition: "Provided we suffer with him in order that we may also be glorified with him." Suffering isn't a curse, but the path to glory. Christ entered glory through suffering; so must we.
+
+"For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us." This doesn't belittle suffering, but puts it in proper proportion. Present sufferings are temporary and limited; future glory is eternal and infinite.
+
+Even creation is waiting: "For the creation waits with eager longing for the revealing of the sons of God...in hope that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God." All creation is groaning, waiting for redemption's completion.
+
+"And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies." We already have the Spirit (firstfruits), but still await bodily redemption. This is "already-not yet"—already children, not yet fully redeemed.
+
+"For in this hope we were saved." Salvation has three tenses: already saved (justification), being saved (sanctification), will be saved (glorification). We hope for that final perfection.
+
+The Spirit not only bears witness in our hearts, but prays for us: "For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words." When we're weak and don't know how to pray, the Spirit intercedes for us!
+
+Then comes that famous promise: "And we know that for those who love God all things work together for good, for those who are called according to his purpose." This doesn't mean everything is good, but that God makes everything—including suffering—work together for our good.
+
+Now I'll speak of the "golden chain of redemption":
+- Foreknew
+- Predestined
+- Called
+- Justified
+- Glorified
+
+Notice all are past tense! Even "glorified" is past tense, because it's already determined in God's predestination. This is biblical basis for "Perseverance of the Saints."
+
+"What then shall we say to these things?" Facing such salvation, we can only worship! What follows is a series of unanswerable rhetorical questions:
+
+"If God is for us, who can be against us?" Answer: No one!
+
+"He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?" This is "greater to lesser" argumentation—God already gave the greatest gift (his Son), will he withhold lesser things?
+
+"Who shall bring any charge against God's elect? It is God who justifies." Satan can accuse, conscience can accuse, but God justifies us—whose word is more authoritative than God's?
+
+"Who is to condemn? Christ Jesus is the one who died—more than that, who was raised—who is at the right hand of God, who indeed is interceding for us." Christ doesn't accuse us, but intercedes for us!
+
+Finally, that glorious declaration: "Who shall separate us from the love of Christ?"
+
+Paul lists all possible threats—tribulation, distress, persecution, famine, nakedness, danger, sword—then declares: "No, in all these things we are more than conquerors through him who loved us."
+
+Not barely conquering, but "more than conquerors"—overwhelming victory!
+
+"For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."
+
+This is one of Scripture's greatest declarations! No force—whether spiritual or material, present or future—can separate us from God's love in Christ.
+
+Brothers, if you can't remember other Romans chapters, remember chapter eight. If you're in weakness, doubt, or fear, read chapter eight. This chapter is the sum of all believer's hope: no condemnation, Spirit indwelling, sonship, future glory, God's love never separated. In Christ Jesus, we are more than conquerors!`,
+    historyContext_zh: `第八章是罗马书从"教义"（1-8章）转向"实践"（12-15章）之前的高峰。它总结了1-7章的教义，为9-11章（神的主权）和12-15章（基督徒生活）铺路。
+
+"不定罪"（no condemnation）在第一世纪对犹太和外邦信徒都极具意义。犹太人害怕律法的定罪，外邦人害怕神的忿怒。保罗宣告：在基督里，完全没有定罪！
+
+"阿爸，父"（Abba, Father）是革命性的称呼。在犹太传统中，虽然神被称为"父"，但"阿爸"这种亲昵称呼几乎从不使用（耶稣是例外）。保罗说我们可以像耶稣一样称神为"阿爸"，这显示我们在基督里儿女的地位。
+
+"万事互相效力"（8:28）后来成为改革宗"神的主权护理"（divine providence）教义的经典经文。神不仅允许万事发生，更积极地使万事——包括苦难、试炼、逼迫——为爱他的人的益处效力。
+
+"预定论"的链条（29-30节）是加尔文主义的基石。从"预先知道"到"得荣耀"，整个救赎过程都在神的主权掌管之下。这不是宿命论，而是确信神的计划必然成就。
+
+罗马教会即将面对尼禄的大逼迫（主后64年），31-39节关于得胜和神的爱的宣告必定给他们极大安慰。`,
+    historyContext_en: `Chapter eight is the peak before Romans transitions from "doctrine" (chapters 1-8) to "practice" (chapters 12-15). It summarizes chapters 1-7's doctrine, paving the way for chapters 9-11 (God's sovereignty) and 12-15 (Christian living).
+
+"No condemnation" was extremely significant for both Jewish and Gentile believers in the first century. Jews feared the law's condemnation, Gentiles feared God's wrath. Paul declares: in Christ, absolutely no condemnation!
+
+"Abba, Father" was a revolutionary address. In Jewish tradition, though God was called "Father," the intimate term "Abba" was almost never used (Jesus was the exception). Paul says we can call God "Abba" like Jesus did, showing our sonship position in Christ.
+
+"All things work together for good" (8:28) later became a classic text for Reformed doctrine of "divine providence." God not only permits all things to happen, but actively makes all things—including suffering, trials, persecution—work for the good of those who love him.
+
+The "predestination" chain (verses 29-30) is Calvinism's cornerstone. From "foreknew" to "glorified," the entire redemption process is under God's sovereign control. This isn't fatalism, but confidence that God's plan will surely be accomplished.
+
+The Roman church would soon face Nero's great persecution (AD 64); verses 31-39's declarations about victory and God's love must have given them tremendous comfort.`,
+    structure_zh: `第八章可分为四大部分：
+
+圣灵中的生命（1-17节）：
+- 不定罪（1-4节）
+- 两种生活方式的对比（5-11节）
+- 儿女的名分（12-17节）
+
+荣耀的盼望（18-27节）：
+- 受苦与荣耀（18节）
+- 受造之物的叹息（19-22节）
+- 我们的叹息（23-25节）
+- 圣灵的代求（26-27节）
+
+神的旨意（28-30节）：
+- 万事互相效力（28节）
+- 救赎的金链（29-30节）
+
+得胜的确据（31-39节）：
+- 七个反问句（31-35节）
+- 最终的宣告（36-39节）
+
+整章的结构是渐进式的高潮：从不定罪（1节）到得胜有余（37节），从圣灵内住（9节）到神的爱永不隔绝（39节）。每一段都在前一段的基础上加深、提高。`,
+    structure_en: `Chapter eight can be divided into four major parts:
+
+Life in the Spirit (verses 1-17):
+- No condemnation (verses 1-4)
+- Contrast of two ways of living (verses 5-11)
+- Sonship (verses 12-17)
+
+Hope of Glory (verses 18-27):
+- Suffering and glory (verse 18)
+- Creation's groaning (verses 19-22)
+- Our groaning (verses 23-25)
+- Spirit's intercession (verses 26-27)
+
+God's Purpose (verses 28-30):
+- All things work together for good (verse 28)
+- Golden chain of redemption (verses 29-30)
+
+Assurance of Victory (verses 31-39):
+- Seven rhetorical questions (verses 31-35)
+- Final declaration (verses 36-39)
+
+The chapter's structure is a progressive crescendo: from no condemnation (verse 1) to more than conquerors (verse 37), from Spirit indwelling (verse 9) to God's love never separated (verse 39). Each section deepens and elevates on the previous.`,
+    theology_zh: `第八章包含改革宗神学的几乎所有核心教义：
+
+"唯独基督"（1节）：在基督里就不定罪。救恩完全基于基督的工作，不是我们的行为。
+
+"圣灵的工作"（全章）：圣灵使我们活过来（2节），内住（9节），见证我们是儿女（16节），帮助我们祷告（26节）。这是"圣灵论"（pneumatology）的经典篇章。
+
+"儿女名分"（adoption，15节）。我们不是天生的神的儿女，而是藉着收养成为儿女。改革宗神学强调收养是恩典之约的祝福之一。
+
+"神的主权护理"（28节）。万事都在神的掌管之下，为爱他的人的益处效力。这不是说罪本身是好的，而是说神能使用甚至罪恶的事成就他的美意（参约瑟的故事，创世记50:20）。
+
+"预定论"（29-30节）。改革宗神学的"双重预定"（double predestination）在此有根据：神预定一些人得救（election），也预定一些人灭亡（reprobation）。但本段强调的是蒙拣选者的确据。
+
+"圣徒永蒙保守"（31-39节）。救恩不会失落，因为是神保守的。从"预知"到"得荣耀"全是神的工作，没有一个环节取决于我们。这是"一次得救，永远得救"的圣经根据——不是说可以随便犯罪，而是说真正重生的人神必保守到底。`,
+    theology_en: `Chapter eight contains almost all core Reformed doctrines:
+
+"Christ Alone" (verse 1): In Christ there is no condemnation. Salvation is entirely based on Christ's work, not our works.
+
+"The Spirit's Work" (entire chapter): The Spirit makes us alive (verse 2), indwells (verse 9), witnesses we are children (verse 16), helps us pray (verse 26). This is a classic chapter on pneumatology.
+
+"Adoption" (verse 15). We're not naturally God's children, but become children through adoption. Reformed theology emphasizes adoption as one of the blessings of the covenant of grace.
+
+"God's Sovereign Providence" (verse 28). All things are under God's control, working for the good of those who love him. This doesn't mean sin itself is good, but that God can use even evil things to accomplish his purpose (see Joseph's story, Genesis 50:20).
+
+"Predestination" (verses 29-30). Reformed theology's "double predestination" has basis here: God predestines some for salvation (election) and some for damnation (reprobation). But this passage emphasizes the assurance of the elect.
+
+"Perseverance of the Saints" (verses 31-39). Salvation cannot be lost because God preserves it. From "foreknew" to "glorified" is entirely God's work; no step depends on us. This is biblical basis for "once saved, always saved"—not meaning one can sin freely, but that truly regenerate people will be preserved by God to the end.`,
+    christShadow_zh: `第八章是基督最全面彰显的章节之一。
+
+首先，基督是"不定罪"的根基（1节）。不定罪不是因为我们没有罪，而是因为我们"在基督耶稣里"。他承受了定罪，我们得着了赦免。
+
+其次，基督是律法的成全者（3-4节）。律法因肉体软弱有所不能行的，基督行了。他取了人的样式，在肉体中定了罪案，成就了律法的义。我们不能做的，他替我们做了。
+
+第三，基督是我们"儿女名分"的根据（15-17节）。我们能称神为"阿爸，父"，是因为我们"与基督同作后嗣"。他是神的独生子，我们藉着他成为神的众子。
+
+第四，基督是受苦与荣耀的先锋（17-18节）。"我们和他一同受苦，也必和他一同得荣耀。"他先走过这条路——藉着受苦进入荣耀（希伯来书2:10），我们跟随他的脚踪。
+
+第五，基督是神最大的礼物（32节）。"神既不爱惜自己的儿子，为我们众人舍了，岂不也把万物和他一同白白的赐给我们么？"神给了最大的（基督），还会吝啬小的吗？
+
+第六，基督是我们的辩护者（34节）。他不仅为我们死了，更从死里复活，现今在神的右边替我们祈求。撒但控告，基督辩护。
+
+第七，基督的爱是永不隔绝的（35-39节）。"谁能使我们与基督的爱隔绝呢？"答案：没有任何受造之物能！这爱经过患难、逼迫、死亡，都不会改变。这爱使我们得胜有余。
+
+从始至终，第八章的祝福都在基督里。离开他，我们一无所有；在他里面，我们样样都有。不定罪，圣灵内住，儿女名分，将来荣耀，神的爱——这一切都在我们的主基督耶稣里。`,
+    christShadow_en: `Chapter eight is one of the most comprehensive revelations of Christ.
+
+First, Christ is the foundation of "no condemnation" (verse 1). No condemnation is not because we're sinless, but because we're "in Christ Jesus." He bore condemnation, we received forgiveness.
+
+Second, Christ is the law's fulfiller (verses 3-4). What the law, weakened by flesh, could not do, Christ did. He took human form, condemned sin in the flesh, fulfilled the law's righteousness. What we couldn't do, he did for us.
+
+Third, Christ is the basis of our "adoption" (verses 15-17). We can call God "Abba, Father" because we're "fellow heirs with Christ." He is God's only Son, we become God's sons through him.
+
+Fourth, Christ is the pioneer of suffering and glory (verses 17-18). "We suffer with him in order that we may also be glorified with him." He first walked this path—entering glory through suffering (Hebrews 2:10); we follow his footsteps.
+
+Fifth, Christ is God's greatest gift (verse 32). "He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?" God gave the greatest (Christ); will he withhold lesser things?
+
+Sixth, Christ is our advocate (verse 34). He not only died for us, but rose from the dead and is now at God's right hand interceding for us. Satan accuses, Christ defends.
+
+Seventh, Christ's love is never separated (verses 35-39). "Who shall separate us from the love of Christ?" Answer: No created thing can! This love endures tribulation, persecution, death, and never changes. This love makes us more than conquerors.
+
+From beginning to end, chapter eight's blessings are all in Christ. Apart from him, we have nothing; in him, we have everything. No condemnation, Spirit indwelling, sonship, future glory, God's love—all these are in Christ Jesus our Lord.`,
   },
   {
     id: 'romans-9',
@@ -4092,16 +7082,56 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '保罗',
     authorEn: 'Paul',
     publishDate: '2026-06-19',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `弟兄们，在享受了第八章的荣耀真理之后，我的心转向一个沉重的话题——我骨肉之亲以色列的命运。我在基督里说真话，并不谎言，有我良心被圣灵感动给我作见证：我是大有忧愁，心里时常伤痛。为我弟兄，我骨肉之亲，就是自己被咒诅与基督分离,我也愿意！这不是夸张的修辞，而是我真实的心声。如摩西愿意为以色列人的罪被涂抹（出埃及记32:32），我也有同样的心肠。
+
+他们是以色列人——有儿子的名分、荣耀、诸约、律法、礼仪、应许，列祖是他们的祖宗,按肉体说基督也是从他们出来的。他们拥有如此多的特权！但为什么大部分拒绝了弥赛亚？这是否意味着神的话落了空？断乎不是！问题的关键在于：不是所有从以色列生的都是真以色列人。从亚伯拉罕的后裔来说，以实玛利是后裔，但只有以撒才是应许的儿女。从以撒的后裔来说，以扫和雅各都是，但神拣选了雅各。
+
+"双子还没有生下来，善恶还没有做出来，只因要显明神拣选人的旨意，不在乎人的行为，乃在乎召人的主。"这是无条件拣选（unconditional election）的明证。神的拣选不基于人的行为预知，而完全基于他主权的恩典。
+
+但有人会问："难道神有什么不公平么？"我回答："断乎没有！因他对摩西说：我要怜悯谁就怜悯谁，要恩待谁就恩待谁。"神是造物主，我们是受造物；他有绝对的主权，我们没有权利质问。
+
+我用窑匠和泥土的比喻来说明：窑匠难道没有权柄从一团泥里拿一块做成贵重的器皿，又拿一块做成卑贱的器皿么？神要彰显他的忿怒和权能，就宽容那可怒预备遭毁灭的器皿；又要彰显他丰盛的荣耀，就怜悯那蒙怜悯早预备得荣耀的器皿——这就是我们！
+
+神不仅从犹太人中召人，也从外邦人中召人。何西阿书和以赛亚书都预言了这点——那本来不是我的子民的，我要称为我的子民；以色列人虽多如海沙，得救的不过是剩下的余数。神始终为自己留下余民（remnant）。
+
+这样，我们可说什么呢？外邦人本来不追求义，反得了义，就是因信而得的义。但以色列人追求律法的义，反得不着。为什么？因为他们不凭着信心求，只凭着行为求，正跌在那绊脚的石头上——就是基督。
+
+弟兄们，神的主权拣选不是不公平，而是恩典。我们都不配得救，神若按公平，所有人都该灭亡。但神凭主权怜悯一些人，这是恩典，不是不义。要敬畏神的主权，要感恩他的怜悯！`,
+    content_en: `Brothers, after enjoying chapter eight's glorious truth, my heart turns to a heavy topic—the destiny of my kinsmen Israel. I am speaking the truth in Christ—I am not lying; my conscience bears me witness in the Holy Spirit—that I have great sorrow and unceasing anguish in my heart. For I could wish that I myself were accursed and cut off from Christ for the sake of my brothers, my kinsmen according to the flesh! This is not rhetorical exaggeration, but my true heart. As Moses was willing to be blotted out for Israel's sin (Exodus 32:32), I have the same heart.
+
+They are Israelites—to them belong the adoption, the glory, the covenants, the giving of the law, the worship, and the promises. The patriarchs are their ancestors, and from them, according to the flesh, is the Christ. They have so many privileges! But why have most rejected the Messiah? Does this mean God's word has failed? By no means! The key is: not all who are descended from Israel belong to Israel. Of Abraham's descendants, Ishmael was a descendant, but only Isaac was a child of the promise. Of Isaac's descendants, both Esau and Jacob were, but God chose Jacob.
+
+"Though they were not yet born and had done nothing either good or bad—in order that God's purpose of election might continue, not because of works but because of him who calls." This is clear proof of unconditional election. God's election is not based on foreknowledge of human works, but entirely on his sovereign grace.
+
+But someone will ask, "Is there injustice on God's part?" I answer, "By no means! For he says to Moses, 'I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.'" God is Creator, we are creatures; he has absolute sovereignty, we have no right to question.
+
+I use the potter and clay analogy: Has the potter no right over the clay, to make out of the same lump one vessel for honorable use and another for dishonorable use? To show his wrath and power, God endures with patience vessels of wrath prepared for destruction; to show his rich glory, he has mercy on vessels of mercy prepared beforehand for glory—that's us!
+
+God calls not only from Jews, but also from Gentiles. Hosea and Isaiah both prophesied this—those who were not my people I will call my people; though Israel be as numerous as the sand, only a remnant will be saved. God always preserves a remnant for himself.
+
+What shall we say? Gentiles who did not pursue righteousness attained it, righteousness through faith. But Israel who pursued a law that would lead to righteousness did not succeed. Why? Because they did not pursue it by faith, but as if it were based on works. They stumbled over the stumbling stone—Christ himself.
+
+Brothers, God's sovereign election is not unjust, but gracious. None of us deserve salvation; if God were merely fair, all should perish. But God sovereignly has mercy on some—this is grace, not injustice. Fear God's sovereignty, be grateful for his mercy!`,
+    historyContext_zh: `第9-11章处理一个紧迫的神学问题：如果福音是真的，为什么大部分犹太人拒绝了？这是否意味着神对以色列的应许失败了？这个问题在第一世纪教会引起极大困扰。
+
+保罗用三章篇幅回答：第9章讲神的主权拣选，第10章讲人的责任（以色列拒绝是因为不信），第11章讲神对以色列仍有计划（将来以色列全家都要得救）。
+
+"预定论"在本章得到最清晰阐述。改革宗神学的五要点之一"无条件拣选"（Unconditional Election）就建基于此。与阿民念主义（Arminianism）的争论中，这一章是关键经文。
+
+窑匠和泥土的比喻（20-21节）来自耶利米书18章，在犹太拉比传统中常用来说明神的主权。保罗在此深化了这个教导——神有绝对主权按自己的旨意拣选和弃绝。`,
+    historyContext_en: `Chapters 9-11 address an urgent theological question: if the gospel is true, why did most Jews reject it? Does this mean God's promises to Israel failed? This question caused great distress in the first-century church.
+
+Paul uses three chapters to answer: Chapter 9 on God's sovereign election, Chapter 10 on human responsibility (Israel's rejection was due to unbelief), Chapter 11 on God's continuing plan for Israel (in the future all Israel will be saved).
+
+"Predestination" receives its clearest exposition in this chapter. One of Reformed theology's five points, "Unconditional Election," is based on this. In debates with Arminianism, this chapter is a key text.
+
+The potter and clay analogy (verses 20-21) comes from Jeremiah 18, commonly used in Jewish rabbinic tradition to illustrate God's sovereignty. Paul here deepens this teaching—God has absolute sovereignty to elect and reject according to his will.`,
+    structure_zh: `保罗对以色列的忧伤（1-5节）+ 神拣选的主权（6-29节）+ 以色列的失败（30-33节）`,
+    structure_en: `Paul's sorrow for Israel (1-5) + God's sovereign election (6-29) + Israel's failure (30-33)`,
+    theology_zh: `核心是"无条件拣选"（Unconditional Election），加尔文主义TULIP的U。神的拣选不基于预见的信心或行为，而完全基于他主权的美意。`,
+    theology_en: `Core is "Unconditional Election," the U in Calvinist TULIP. God's election is not based on foreseen faith or works, but entirely on his sovereign good pleasure.`,
+    christShadow_zh: `基督是那块"绊脚的石头"（33节）——以色列人跌倒在他身上，但信靠他的人必不至于羞愧。他既是磐石（救恩的根基），也是绊脚石（对不信者）。`,
+    christShadow_en: `Christ is the "stumbling stone" (verse 33)—Israel stumbled over him, but those who trust him will not be put to shame. He is both the rock (foundation of salvation) and the stumbling stone (to unbelievers).`,
   },
   {
     id: 'romans-10',
@@ -4113,16 +7143,32 @@ John says: "This is the disciple...who is bearing witness about these things" (v
     author: '保罗',
     authorEn: 'Paul',
     publishDate: '2026-06-20',
-    content_zh: '',
-    content_en: '',
-    historyContext_zh: '',
-    historyContext_en: '',
-    structure_zh: '',
-    structure_en: '',
-    theology_zh: '',
-    theology_en: '',
-    christShadow_zh: '',
-    christShadow_en: '',
+    content_zh: `弟兄们，我心里所愿的，向神所求的，是要以色列人得救。我可以证明他们向神有热心，但不是按着真知识。因为不知道神的义，想要立自己的义，就不服神的义了。
+
+律法的总结就是基督，使凡信他的都得着义。摩西写着说：人若行那出于律法的义，就必因此活着。但出于信心的义如此说：你若口里认耶稣为主，心里信神叫他从死里复活，就必得救。因为人心里相信就可以称义，口里承认就可以得救。
+
+犹太人和希利尼人并没有分别，因为众人同有一位主，他也厚待一切求告他的人。因为凡求告主名的就必得救。然而人未曾信他，怎能求他呢？未曾听见他，怎能信他呢？没有传道的，怎能听见呢？若没有奉差遣，怎能传道呢？
+
+可见信道是从听道来的，听道是从基督的话来的。但我说，以色列人没有听见么？诚然听见了。我再说，以色列人不知道么？他们知道。所以他们的不信是故意的拒绝，不是无知。
+
+弟兄们，救恩是给所有人的——犹太人和外邦人。不是靠行为，而是靠信心。信心是从听道来的，而道已经传遍天下。以色列人听见了却不信，这是他们的责任。`,
+    content_en: `Brothers, my heart's desire and prayer to God for them is that they may be saved. For I bear them witness that they have a zeal for God, but not according to knowledge. For, being ignorant of the righteousness of God, and seeking to establish their own, they did not submit to God's righteousness.
+
+For Christ is the end of the law for righteousness to everyone who believes. Moses writes about the righteousness that is based on the law, that the person who does the commandments shall live by them. But the righteousness based on faith says, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For with the heart one believes and is justified, and with the mouth one confesses and is saved.
+
+For there is no distinction between Jew and Greek; for the same Lord is Lord of all, bestowing his riches on all who call on him. For everyone who calls on the name of the Lord will be saved. How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? And how are they to preach unless they are sent?
+
+So faith comes from hearing, and hearing through the word of Christ. But I ask, have they not heard? Indeed they have. So I ask, have Israel not understood? They have. So their unbelief is willful rejection, not ignorance.
+
+Brothers, salvation is for all—Jews and Gentiles. Not by works, but by faith. Faith comes from hearing, and the word has been proclaimed throughout the world. Israel heard but did not believe—this is their responsibility.`,
+    historyContext_zh: `本章强调人的责任，与第9章神的主权形成平衡。改革宗神学持"compatibilism"——神的主权与人的责任并行不悖。`,
+    historyContext_en: `This chapter emphasizes human responsibility, balancing chapter 9's divine sovereignty. Reformed theology holds "compatibilism"—God's sovereignty and human responsibility are not contradictory.`,
+    structure_zh: `以色列的热心与无知（1-4节）+ 信心的义（5-13节）+ 传道的责任（14-17节）+ 以色列的拒绝（18-21节）`,
+    structure_en: `Israel's zeal without knowledge (1-4) + Righteousness by faith (5-13) + Responsibility to preach (14-17) + Israel's rejection (18-21)`,
+    theology_zh: `"因信称义"与"口里承认"（9-10节）的关系。真信心必然产生认信（confession）。信心不是内心的秘密，而是公开的委身。`,
+    theology_en: `The relationship between "justification by faith" and "confession" (verses 9-10). True faith necessarily produces confession. Faith is not an inward secret, but public commitment.`,
+    christShadow_zh: `"律法的总结就是基督"（4节）——基督完美地成全了律法，是律法的目标和终点。他是律法的实现，不是废除。`,
+    christShadow_en: `"Christ is the end of the law" (verse 4)—Christ perfectly fulfilled the law, is the law's goal and culmination. He is the law's fulfillment, not abolishment.`,
   },
   {
     id: 'romans-11',
