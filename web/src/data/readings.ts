@@ -3311,11 +3311,83 @@ readings.push({
   title: '以撒在基拉耳', titleEn: 'Isaac in Gerar',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 26:1 / Genesis 26:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `亲爱的读者，我是摩西。今天我要带你进入创世记第二十六章——这一章的主角是以撒。说实话，以撒在族长的故事中常常被忽略，人们更多记得亚伯拉罕的信心和雅各的挣扎，但以撒的一生却有一个独特的主题：**承继与安静**。
+
+一、饥荒与试探（26:1-6）
+
+"在亚伯拉罕的日子，那地有一次饥荒；这时又有饥荒"（创26:1）。你看，历史重复了。亚伯拉罕当年遇饥荒就下了埃及，结果惹了一堆麻烦。以撒也面临同样的试探——往埃及去，那里有粮食，有安全。
+
+但耶和华向以撒显现，说："你不要下埃及去，要住在我所指示你的地。你寄居在这地，我必与你同在，赐福给你，因为我要将这些地都赐给你和你的后裔。我必坚定我向你父亚伯拉罕所起的誓"（创26:2-3）。
+
+这是何等宝贵的话！神不是对以撒说"你凭着自己去闯"，而是说**"我必与你同在"**。亚伯拉罕之约不是一代人的约，是永约。神把对亚伯拉罕的应许——土地、后裔、万国蒙福——原封不动地传给了以撒。
+
+二、以撒的软弱（26:7-11）
+
+然而以撒也是人。基拉耳的人问起他的妻子利百加，以撒竟然说"她是我的妹子"。这跟他父亲亚伯拉罕犯的错一模一样！亚伯拉罕在埃及说撒拉是妹子（创12章），在基拉耳又说了一次（创20章），如今以撒步了父亲的后尘。
+
+罪的模式会代代相传，这是何等可怕的事。父亲的软弱若不在恩典中被对付，就会成为儿女的陷阱。亚比米勒发现了真相，责备以撒说："你向我们做的是什么事呢？"（创26:10）。感谢神的护理，利百加没有受到伤害，但以撒的谎言暴露了他信心中的裂缝——他信靠神给他应许之地，却不信靠神保护他的妻子。
+
+三、蒙福与嫉妒（26:12-22）
+
+虽然以撒有软弱，神仍然赐福他。"以撒在那地耕种，那一年有百倍的收成。耶和华赐福给他，他就昌大，日增月盛，成了大富户"（创26:12-13）。非利士人嫉妒他，把亚伯拉罕的仆人所挖的井全都塞住了。
+
+以撒的回应很有意思。他没有争战，没有报复，而是一再退让。第一口井被抢了，他又挖一口；第二口井又被争了，他再挖一口。直到第三口井，"他们不再为那口井相争了，他就给那井起名叫利河伯（就是宽阔的意思）。他说：耶和华现在给我们宽阔之地，我们必在这地昌盛"（创26:22）。
+
+弟兄姐妹，以撒的退让不是懦弱，而是信心。他知道争地盘没有意义，因为神已经应许了整片土地。何必为一口井争夺呢？真正给你宽阔之地的，不是人的争竞，而是**神的赐福**。
+
+四、神的显现与亚比米勒的约（26:23-33）
+
+以撒到了别是巴。"当夜耶和华向他显现，说：我是你父亲亚伯拉罕的神，不要惧怕！因为我与你同在，要赐福给你，并要为我仆人亚伯拉罕的缘故，使你的后裔繁多"（创26:24）。
+
+注意这句话的结构：**"不要惧怕"** + **"我与你同在"** + **"赐福"** + **"为亚伯拉罕的缘故"**。以撒蒙福不是因为他自己多好——他刚刚还撒谎呢！是因为神对亚伯拉罕的约。这就是恩典：不是基于你的表现，而是基于**神的应许**。
+
+连亚比米勒也看出来了，带着军长非各来找以撒立约，说："我们明明地看见耶和华与你同在"（创26:28）。外邦人都能看出神的同在，这不正是亚伯拉罕之约的应验吗——"地上的万族都要因你得福"？
+
+五、以扫的婚姻之忧（26:34-35）
+
+这一章以一个令人忧心的尾声结束："以扫四十岁的时候，娶了赫人比利的女儿犹滴，与赫人以伦的女儿巴实抹为妻。他们常使以撒和利百加心里愁烦"（创26:34-35）。以扫娶了迦南女子，这预示了他对属灵产业的轻看——他不在乎信仰的传承。与之对比的是下一章，以撒嘱咐雅各不可娶迦南女子为妻，要回本族本家去娶。
+
+弟兄姐妹，以撒的一生看起来平淡，没有亚伯拉罕那样惊天动地的信心之旅，也没有雅各那样跌宕起伏的摔跤经历。但以撒教导我们一件事：**忠心地承接恩典，安静地活在应许中**。不是每个人都需要轰轰烈烈，有时候最大的信心就是在神所指定的地方安静等候，挖井、耕种、退让、信靠。`, content_en: `Dear readers, I am Moses. Today I bring you to Genesis chapter twenty-six—a chapter whose protagonist is Isaac. In truth, Isaac is often overlooked among the patriarchs; people remember Abraham's faith and Jacob's struggles far more. Yet Isaac's life carries a unique theme: **inheritance and quietness**.
+
+I. Famine and Temptation (26:1-6)
+
+"Now there was a famine in the land, besides the former famine that was in the days of Abraham" (Gen 26:1 ESV). History repeats itself. When Abraham faced famine, he went down to Egypt and reaped nothing but trouble. Isaac faced the same temptation—go to Egypt, where there is food and safety.
+
+But the LORD appeared to Isaac and said: "Do not go down to Egypt; dwell in the land of which I shall tell you. Sojourn in this land, and I will be with you and will bless you, for to you and to your offspring I will give all these lands, and I will establish the oath that I swore to Abraham your father" (Gen 26:2-3 ESV).
+
+What precious words! God did not tell Isaac, "Go forge your own path," but said, **"I will be with you."** The Abrahamic covenant was not for one generation—it was an everlasting covenant. God transferred to Isaac the very same promises given to Abraham: land, offspring, and blessing to all nations.
+
+II. Isaac's Weakness (26:7-11)
+
+Yet Isaac was human. When the men of Gerar asked about his wife Rebekah, Isaac said, "She is my sister." This was the exact same sin his father Abraham had committed! Abraham said Sarah was his sister in Egypt (Gen 12), and again in Gerar (Gen 20). Now Isaac followed in his father's footsteps.
+
+Patterns of sin pass from generation to generation—how terrifying this is. If a father's weakness is not dealt with by grace, it becomes a snare for his children. Abimelech discovered the truth and rebuked Isaac: "What is this you have done to us?" (Gen 26:10 ESV). By God's providence, Rebekah was not harmed, but Isaac's lie exposed a crack in his faith—he trusted God to give him the promised land, yet did not trust God to protect his wife.
+
+III. Blessing and Envy (26:12-22)
+
+Despite Isaac's weakness, God still blessed him. "And Isaac sowed in that land and reaped in the same year a hundredfold. The LORD blessed him, and the man became rich, and gained more and more until he became very wealthy" (Gen 26:12-13 ESV). The Philistines envied him and stopped up all the wells that Abraham's servants had dug.
+
+Isaac's response is remarkable. He did not fight, did not retaliate, but yielded again and again. The first well was seized, so he dug another; the second was disputed, so he dug yet another. Finally, at the third well, "they did not quarrel over it. So he called its name Rehoboth, saying, 'For now the LORD has made room for us, and we shall be fruitful in the land'" (Gen 26:22 ESV).
+
+Brothers and sisters, Isaac's yielding was not cowardice but faith. He knew that fighting over territory was pointless, for God had already promised him the entire land. Why quarrel over one well? The One who truly gives you wide-open spaces is not human competition, but **God's blessing**.
+
+IV. God's Appearance and Abimelech's Covenant (26:23-33)
+
+Isaac went to Beersheba. "That night the LORD appeared to him and said, 'I am the God of Abraham your father. Fear not, for I am with you and will bless you and multiply your offspring for my servant Abraham's sake'" (Gen 26:24 ESV).
+
+Notice the structure: **"Fear not"** + **"I am with you"** + **"bless"** + **"for Abraham's sake."** Isaac was blessed not because he was particularly good—he had just lied! It was because of God's covenant with Abraham. This is grace: not based on your performance, but on **God's promise**.
+
+Even Abimelech could see it, coming with his army commander Phicol to make a covenant, saying, "We see plainly that the LORD has been with you" (Gen 26:28 ESV). When even pagans can see God's presence, is this not the fulfillment of the Abrahamic covenant—"in you all the families of the earth shall be blessed"?
+
+V. Esau's Troubling Marriage (26:34-35)
+
+The chapter closes with a troubling note: "When Esau was forty years old, he took Judith the daughter of Beeri the Hittite to be his wife, and Basemath the daughter of Elon the Hittite, and they made life bitter for Isaac and Rebekah" (Gen 26:34-35 ESV). Esau married Canaanite women, foreshadowing his disregard for the spiritual inheritance—he cared nothing for the continuity of faith. By contrast, in the next chapter, Isaac charged Jacob not to marry a Canaanite woman but to go to his own kinfolk.
+
+Brothers and sisters, Isaac's life appears uneventful—no earth-shaking journey of faith like Abraham's, no dramatic wrestling like Jacob's. But Isaac teaches us this: **faithfully receive grace, and quietly live within the promise.** Not everyone needs a spectacular story. Sometimes the greatest faith is simply to wait quietly in the place God has appointed—digging wells, sowing fields, yielding ground, and trusting.`,
+  historyContext_zh: `创世记26章是圣经中唯一完整聚焦以撒个人故事的章节。以撒身处两代伟人之间——父亲亚伯拉罕和儿子雅各——他的故事常被略过。本章发生在基拉耳（非利士人的领地）和别是巴，时间约在公元前2000年左右。**饥荒**是族长时代反复出现的试炼（创12:10, 26:1, 41-42章），每次饥荒都考验族长对神应许的信心。以撒时期的非利士人与后来大卫时代的非利士人不同，是较早期的族群。井在半干旱的迦南地极其珍贵，**掌控水井等同于掌控生存权**。`, historyContext_en: `Genesis 26 is the only chapter in Scripture that focuses entirely on Isaac's personal story. Sandwiched between two towering figures—his father Abraham and his son Jacob—Isaac's narrative is often overlooked. This chapter takes place in Gerar (Philistine territory) and Beersheba, around 2000 BC. **Famine** was a recurring trial in the patriarchal era (Gen 12:10, 26:1, chs. 41-42), each testing the patriarch's faith in God's promises. The Philistines of Isaac's day were an earlier group, distinct from those of David's time. Wells were extremely precious in the semi-arid land of Canaan; **controlling a well meant controlling survival**.`,
+  structure_zh: `本章分为五个段落：**（一）神对以撒重申亚伯拉罕之约**（26:1-6）；**（二）以撒在基拉耳谎称妻子**（26:7-11）；**（三）以撒蒙福与井的争端**（26:12-22）；**（四）神在别是巴显现，与亚比米勒立约**（26:23-33）；**（五）以扫娶赫人为妻**（26:34-35）。全章的结构呈现一个属灵运动轨迹：从接受应许→软弱跌倒→蒙福退让→得神确认，展现了恩典如何覆盖人的失败。`, structure_en: `The chapter divides into five sections: **(1) God reaffirms the Abrahamic covenant to Isaac** (26:1-6); **(2) Isaac lies about his wife in Gerar** (26:7-11); **(3) Isaac is blessed and disputes arise over wells** (26:12-22); **(4) God appears at Beersheba; covenant with Abimelech** (26:23-33); **(5) Esau marries Hittite women** (26:34-35). The chapter traces a spiritual arc: receiving the promise → falling in weakness → being blessed despite yielding → receiving divine confirmation—showing how grace covers human failure.`,
+  theology_zh: `本章的核心神学主题是**约的传承**。神对以撒说"我必坚定我向你父亚伯拉罕所起的誓"（创26:3），表明救赎之约不是临时的安排，而是跨代延续的永恒计划。韦敏斯德信条第七章论恩典之约："在此约中，神白白地向罪人提供了生命和救恩。"以撒蒙福不凭己功，完全出于恩典。此外，以撒重复亚伯拉罕的罪（谎称妻子），揭示了**原罪的代际传递**——人无法靠自己断绝罪的根源，唯有基督的救赎才能真正释放我们。`, theology_en: `The central theological theme is **covenant succession**. God told Isaac, "I will establish the oath that I swore to Abraham your father" (Gen 26:3 ESV), demonstrating that the covenant of redemption is not a temporary arrangement but an eternal plan that spans generations. The Westminster Confession (ch. 7) states that in the covenant of grace, God "freely offers unto sinners life and salvation." Isaac was blessed not by his own merit but entirely by grace. Furthermore, Isaac's repetition of Abraham's sin (lying about his wife) reveals the **intergenerational transmission of original sin**—humanity cannot sever the root of sin by itself; only the redemption of Christ can truly set us free.`,
+  christShadow_zh: `以撒在本章中预表基督有几个层面：**第一**，以撒是"应许之子"，他承继亚伯拉罕之约，正如基督是那位终极的"亚伯拉罕的后裔"（加3:16），在他里面一切应许都得以成全。**第二**，以撒挖井给人水喝，被争夺却不报复，忍耐退让直到神赐宽阔之地——这预表了基督"他被骂不还口，受害不说威吓的话"（彼前2:23），以温柔忍耐成就救赎。**第三**，外邦人亚比米勒主动来寻求与以撒立约和好，预表万国终将归向基督，寻求与神和好。`, christShadow_en: `Isaac foreshadows Christ on several levels in this chapter. **First**, Isaac is the "son of promise" who inherits the Abrahamic covenant, just as Christ is the ultimate "offspring of Abraham" (Gal 3:16) in whom all promises find their fulfillment. **Second**, Isaac dug wells to give others water, was opposed yet did not retaliate, patiently yielding until God gave him wide-open spaces—this prefigures Christ, who "when he was reviled, he did not revile in return; when he suffered, he did not threaten" (1 Pet 2:23 ESV), accomplishing redemption through meekness. **Third**, the pagan Abimelech came seeking covenant and peace with Isaac, foreshadowing how all nations will ultimately turn to Christ, seeking reconciliation with God.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 27,
@@ -3323,11 +3395,71 @@ readings.push({
   title: '骗取祝福', titleEn: 'The Stolen Blessing',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 27:1 / Genesis 27:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `弟兄姐妹，我是摩西。今天要讲的这一章，是创世记中最令人揪心的家庭故事之一——雅各骗取以扫的祝福。在这一章里，你会看到一个家庭中每个成员的罪如何交织在一起，酿成了几十年的痛苦。但你也会看到，神的旨意如何在人的诡诈中仍然成就。
+
+一、以撒的偏爱与计划（27:1-4）
+
+"以撒年老，眼睛昏花，不能看见"（创27:1）。以撒叫来以扫，吩咐他去打猎，做他爱吃的美味，好在死前给他祝福。你注意到了吗？以撒是在**秘密地**进行这件事。他没有叫利百加来，没有叫雅各来，而是私下对以扫说。为什么？因为他知道神曾对利百加说"将来大的要服事小的"（创25:23），可他偏爱以扫，想要用祝福改变神的旨意。
+
+这是何等的悖逆！一个父亲的偏爱，竟然要对抗神在创世以前的预定。以撒此刻的眼睛昏花，不只是肉体的，更是属灵的。
+
+二、利百加和雅各的欺骗（27:5-29）
+
+利百加偷听到了以撒的计划。她的反应不是祷告，不是等候神，而是立刻策划了一场欺骗。她对雅各说："现在，我儿，你要照着我所吩咐你的，听从我的话"（创27:8）。
+
+雅各的顾虑很能说明问题。他不是说"骗父亲不对"，而是说"恐怕我父亲摸着我，我就在他面前成了一个骗子"（创27:12）——他怕的不是犯罪，而是被抓住。利百加的回答更加惊人："我儿，你招的咒诅归到我身上"（创27:13）。一个母亲为了"帮助"神成就旨意，竟愿意承担咒诅。
+
+然后我们看到了那令人不安的一幕。雅各穿上以扫的衣服，手上和颈上贴着山羊羔皮，端着利百加做的美味进到以撒面前。以撒摸着他说："声音是雅各的声音，手却是以扫的手"（创27:22）。以撒心里有疑惑，但他的口腹之欲胜过了他的判断。他吃了，喝了，然后给了那个极大的祝福："愿神赐你天上的甘露、地上的肥土，并许多五谷新酒。愿多民事奉你，多国跪拜你。愿你作你弟兄的主，你母亲的儿子向你跪拜"（创27:28-29）。
+
+三、以扫的哀恸（27:30-40）
+
+以扫从田野回来，做好了美味端进去。"以撒大大地战兢，说：你弟弟已经用诡计来将你的福分夺去了"（创27:33）。以扫放声大哭——"父亲哪，求你也为我祝福！"（创27:34）。
+
+弟兄姐妹，这声哭喊穿越了几千年，仍然令人心碎。希伯来书的作者后来写道："免得有淫乱的，有贪恋世俗如以扫的，他因一点食物把自己长子的名分卖了。后来想要承受父所祝的福，竟被弃绝，虽然号哭切求，却得不着门路使他父亲的心意回转"（来12:16-17）。
+
+以撒给以扫的祝福充满了苦涩："你必住在地上的肥土之外……你必倚靠刀剑度日，又必事奉你的兄弟"（创27:39-40）。以扫的后裔以东人，果然世代与以色列为仇。
+
+四、逃亡的开始（27:41-46）
+
+"以扫因他父亲给雅各祝的福，就怨恨雅各，心里说：为我父亲居丧的日子近了，到那时候，我要杀我的兄弟雅各"（创27:41）。这个家庭彻底破碎了。利百加得知以扫的杀意，催促雅各逃往哈兰她哥哥拉班家。她对以撒说的理由是："我因这赫人的女子连性命都厌烦了"（创27:46）——一个小小的谎言来掩饰真正的原因。这个家庭已经习惯了欺骗。
+
+弟兄姐妹，看看这一章中的罪：以撒的偏爱和悖逆、利百加的操控和欺骗、雅各的谎言和诡诈、以扫的仇恨和杀意。每个人都有罪，每个人都受了伤。然而，最令人敬畏的事实是：**神的旨意仍然成就了。** 雅各确实得了祝福，"将来大的要服事小的"确实应验了。但神不需要人的欺骗来成就他的计划——人的罪只带来了不必要的痛苦。
+
+恩典不是因为我们做了正确的事才临到我们。恩典是在我们一塌糊涂的时候，神仍然按着他的旨意行事。`, content_en: `Brothers and sisters, I am Moses. Today's chapter is one of the most heart-wrenching family stories in Genesis—Jacob stealing Esau's blessing. In this chapter, you will see how the sins of every family member intertwine to produce decades of pain. But you will also see how God's purpose is still accomplished through human treachery.
+
+I. Isaac's Favoritism and Plan (27:1-4)
+
+"When Isaac was old and his eyes were dim so that he could not see" (Gen 27:1 ESV). Isaac called Esau and told him to go hunting, prepare his favorite dish, so that he might bless him before death. Did you notice? Isaac was doing this **in secret**. He did not call Rebekah, did not call Jacob—he spoke privately to Esau. Why? Because he knew God had told Rebekah, "the older shall serve the younger" (Gen 25:23 ESV), yet he favored Esau and wanted to use his blessing to override God's purpose.
+
+What rebellion! A father's favoritism attempting to resist God's predestination from before creation. Isaac's dim eyes were not merely physical—they were spiritual.
+
+II. Rebekah and Jacob's Deception (27:5-29)
+
+Rebekah overheard Isaac's plan. Her response was not prayer, not waiting on God, but immediate scheming. She told Jacob: "Now therefore, my son, obey my voice as I command you" (Gen 27:8 ESV).
+
+Jacob's hesitation is revealing. He did not say "deceiving my father is wrong," but rather "Perhaps my father will feel me, and I shall seem to be mocking him" (Gen 27:12 ESV)—he feared not the sin, but getting caught. Rebekah's answer was even more astonishing: "Let your curse be on me, my son" (Gen 27:13 ESV). A mother, in order to "help" God fulfill His purpose, was willing to bear a curse.
+
+Then came that unsettling scene. Jacob put on Esau's clothes, covered his hands and neck with goatskin, and brought Rebekah's dish to Isaac. Isaac touched him and said, "The voice is Jacob's voice, but the hands are the hands of Esau" (Gen 27:22 ESV). Isaac had doubts, but his appetite overruled his judgment. He ate, drank, and then pronounced the great blessing: "May God give you of the dew of heaven and of the fatness of the earth and plenty of grain and wine. Let peoples serve you, and nations bow down to you. Be lord over your brothers, and may your mother's sons bow down to you" (Gen 27:28-29 ESV).
+
+III. Esau's Anguish (27:30-40)
+
+Esau returned from the field, prepared the dish, and brought it in. "Then Isaac trembled very violently and said, 'Your brother came deceitfully, and he has taken away your blessing'" (Gen 27:33 ESV). Esau cried out with an exceedingly great and bitter cry—"Bless me, even me also, O my father!" (Gen 27:34 ESV).
+
+Brothers and sisters, that cry echoes across the millennia and still breaks the heart. The author of Hebrews later wrote: "that no one is sexually immoral or unholy like Esau, who sold his birthright for a single meal. For you know that afterward, when he desired to inherit the blessing, he was rejected, for he found no chance to repent, though he sought it with tears" (Heb 12:16-17 ESV).
+
+Isaac's blessing for Esau was filled with bitterness: "Behold, away from the fatness of the earth shall your dwelling be... By your sword you shall live, and you shall serve your brother" (Gen 27:39-40 ESV). Esau's descendants, the Edomites, were indeed perpetual enemies of Israel.
+
+IV. The Beginning of Flight (27:41-46)
+
+"Now Esau hated Jacob because of the blessing with which his father had blessed him, and Esau said to himself, 'The days of mourning for my father are approaching; then I will kill my brother Jacob'" (Gen 27:41 ESV). The family was shattered. Rebekah learned of Esau's murderous intent and urged Jacob to flee to her brother Laban in Haran. Her excuse to Isaac was: "I loathe my life because of the Hittite women" (Gen 27:46 ESV)—a small lie to cover the real reason. This family had grown accustomed to deception.
+
+Brothers and sisters, look at the sins in this chapter: Isaac's favoritism and rebellion, Rebekah's manipulation and deceit, Jacob's lies and trickery, Esau's hatred and murderous intent. Everyone sinned, everyone was wounded. Yet the most awe-inspiring fact is this: **God's purpose was still accomplished.** Jacob did receive the blessing, and "the older shall serve the younger" was indeed fulfilled. But God did not need human deception to accomplish His plan—human sin only brought unnecessary suffering.
+
+Grace does not come to us because we did the right thing. Grace is God still working according to His purpose even when we have made an utter mess of everything.`,
+  historyContext_zh: `创世记27章记载了族长时代最著名的家庭欺骗事件。以撒年迈时约在公元前1950年左右。**族长的祝福**在古代近东文化中具有法律效力，一旦宣告就不可撤回——这解释了为什么以撒"大大地战兢"却无法收回祝福。利百加来自美索不达米亚的拿鹤家族，深谙谋略。雅各穿山羊皮模仿以扫多毛的皮肤，反映了当时人对触觉判断的依赖。以扫后来成为以东（以东人）的始祖，与以色列世代为敌。`, historyContext_en: `Genesis 27 records the most famous family deception in the patriarchal era, occurring around 1950 BC when Isaac was elderly. **The patriarchal blessing** carried legal force in ancient Near Eastern culture; once pronounced, it was irrevocable—this explains why Isaac "trembled violently" yet could not withdraw the blessing. Rebekah, from Nahor's family in Mesopotamia, was well-versed in strategy. Jacob's wearing goatskins to mimic Esau's hairy skin reflects the era's reliance on tactile identification. Esau later became the ancestor of Edom (the Edomites), perpetual enemies of Israel.`,
+  structure_zh: `全章分为四个场景：**（一）以撒秘密准备祝福以扫**（27:1-4）；**（二）利百加和雅各的欺骗行动**（27:5-29），包含准备阶段和执行阶段；**（三）以扫归来发现真相，放声痛哭**（27:30-40）；**（四）以扫怀恨，雅各被迫逃亡**（27:41-46）。叙事采用了**戏剧性反讽**手法：每个角色都试图操控局面，最终却都成了神主权计划的工具。`, structure_en: `The chapter unfolds in four scenes: **(1) Isaac secretly prepares to bless Esau** (27:1-4); **(2) Rebekah and Jacob's deception** (27:5-29), comprising preparation and execution; **(3) Esau returns, discovers the truth, and cries bitterly** (27:30-40); **(4) Esau's hatred forces Jacob to flee** (27:41-46). The narrative employs **dramatic irony**: every character attempts to manipulate the situation, yet each ultimately becomes an instrument of God's sovereign plan.`,
+  theology_zh: `本章展现了**神的主权与人的责任**之间的张力。神在雅各和以扫出生前就已定意"将来大的要服事小的"（创25:23），但这并不意味着人的欺骗是合理的。**神的预旨不免除人的罪责。** 韦敏斯德信条第三章第一条宣告："神从永远……自由不变地预定了将来所要发生的一切；但神决不因此是罪的创始者。"以撒、利百加、雅各各自犯罪，各自承担后果——雅各逃亡二十年，利百加再也没见到她心爱的儿子。恩典的成就不需要人的诡计，但神能使用甚至人的罪恶来成就他的美意。`, theology_en: `This chapter displays the tension between **God's sovereignty and human responsibility**. God had determined before the twins' birth that "the older shall serve the younger" (Gen 25:23 ESV), but this does not justify human deception. **God's decree does not absolve human guilt.** The Westminster Confession (III.1) declares: "God from all eternity did…freely and unchangeably ordain whatsoever comes to pass; yet so as thereby God is neither the author of sin." Isaac, Rebekah, and Jacob each sinned and bore consequences—Jacob fled for twenty years; Rebekah never saw her beloved son again. Grace does not require human scheming, but God can use even human sin to accomplish His good purpose.`,
+  christShadow_zh: `本章中的基督预表深藏在悖论之中。**第一**，雅各"穿上"以扫的衣服才得到祝福——这预表信徒"披戴基督"（加3:27），不是凭自己的义，而是凭基督的义被神悦纳。**第二**，以撒的祝福一旦赐出就不可收回，预表了神在基督里的应许是**不可废弃的**。正如保罗所说："神的恩赐和选召是没有后悔的"（罗11:29）。**第三**，以扫号哭切求祝福却得不着，预示了那些轻看属灵产业的人终将面临的结局——不是神的残忍，而是人自己选择的后果。`, christShadow_en: `The Christological typology in this chapter is hidden within paradox. **First**, Jacob had to "put on" Esau's garments to receive the blessing—foreshadowing how believers "put on Christ" (Gal 3:27 ESV), accepted by God not through their own righteousness but through Christ's. **Second**, Isaac's blessing, once given, was irrevocable, prefiguring God's promises in Christ as **irrevocable**: "For the gifts and the calling of God are irrevocable" (Rom 11:29 ESV). **Third**, Esau's desperate tears seeking a blessing he could not obtain foreshadow the final outcome for those who despise their spiritual inheritance—not God's cruelty, but the consequence of their own choices.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 28,
@@ -3335,11 +3467,75 @@ readings.push({
   title: '天梯', titleEn: 'Jacob\'s Ladder',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 28:1 / Genesis 28:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `弟兄姐妹，我是摩西。创世记第二十八章是整卷创世记中最壮观的异象之一——雅各在伯特利梦见天梯。一个逃亡者，一个骗子，在荒野中枕着石头入睡，却在梦中遇见了永生的神。
+
+一、以撒的嘱咐与祝福（28:1-5）
+
+上一章的结尾，利百加催促雅各逃走。但以撒在雅各临行前做了一件重要的事——他给了雅各一个正式的祝福，这一次不是被骗来的。"愿全能的神赐福给你，使你昌盛繁多，成为多族"（创28:3）。"将应许亚伯拉罕的福赐给你和你的后裔"（创28:4）。
+
+这说明以撒终于顺服了神的旨意。他不再试图把祝福给以扫，而是亲口将亚伯拉罕之约传给雅各。他嘱咐雅各："你不要娶迦南的女子为妻"（创28:1），要回巴旦亚兰去，在外祖父彼土利家中娶妻。约的传承需要信仰的家庭——这是以撒从以扫的赫人妻子身上学到的痛苦教训。
+
+二、以扫的反应（28:6-9）
+
+以扫看见父亲祝福雅各、打发他走、嘱咐他不可娶迦南女子，又知道迦南女子不中他父亲的意。他就到以实玛利那里，在两个妻子之外又娶了以实玛利的女儿玛哈拉为妻。这是以扫试图讨好父亲的努力，但方向完全错了——他不是从心里悔改回转归向耶和华，而是在外在行为上做文章。真正的敬虔从来不是做给人看的。
+
+三、天梯的异象（28:10-15）
+
+雅各离开别是巴往哈兰去。到了一个地方，太阳已经落了，他就拾起一块石头枕在头下，在那里躺卧睡了。
+
+然后，那异象来了。
+
+"梦见一个梯子立在地上，梯子的头顶着天，有神的使者在梯子上，上去下来"（创28:12）。
+
+**天梯连接了天与地。** 在人堕落之后，天和地之间隔着一道无法跨越的鸿沟。人够不到天，天也不下来。但在这个异象中，有一个梯子把天地连接起来了，而且使者在上面上去下来——**天与地之间有了来往的通道。**
+
+耶和华站在梯子以上，对雅各说："我是耶和华你祖亚伯拉罕的神，也是以撒的神。我要将你现在所躺卧之地赐给你和你的后裔"（创28:13）。然后是那个极大的应许："你的后裔必像地上的尘沙那样多，必向东西南北开展；地上万族必因你和你的后裔得福"（创28:14）。
+
+最后神说："我也与你同在。你无论往那里去，我必保佑你，领你归回这地，总不离弃你，直到我成全了向你所应许的"（创28:15）。
+
+弟兄姐妹，你注意到了吗？雅各此刻是什么人？他是一个骗子，一个逃犯，一个从哥哥手中偷了祝福然后连夜逃跑的人。他不配得这一切。但神的恩典就是这样——**不是给配得的人，而是给不配的人**。神没有等雅各先悔改、先变好、先证明自己配得，就把最大的应许赐给了他。
+
+四、雅各的誓愿（28:16-22）
+
+雅各醒来，惧怕地说："耶和华真在这里，我竟不知道……这地方何等可畏！这不是别的，乃是神的殿，也是天的门"（创28:16-17）。他把枕的石头立起来作柱子，浇油在上面，给那地方起名叫**伯特利**——"神的殿"。
+
+然后雅各许了一个愿，但你仔细读，会发现这个愿很"雅各"——"神若与我同在，在我所行的路上保佑我，又给我食物吃、衣服穿，使我平平安安地回到我父亲的家，我就必以耶和华为我的神"（创28:20-21）。他在跟神讲条件！这不是成熟的信心，这是一个刚刚开始认识神的人的信心。但神接纳了他——神不嫌弃小信的人。他会用接下来二十年在拉班家的岁月，慢慢地磨炼雅各，直到雅各不再是"抓"，而是"被抓住"。`, content_en: `Brothers and sisters, I am Moses. Genesis chapter twenty-eight contains one of the most spectacular visions in the entire book—Jacob's dream of a ladder at Bethel. A fugitive, a deceiver, sleeping on a stone pillow in the wilderness, yet encountering the living God in a dream.
+
+I. Isaac's Charge and Blessing (28:1-5)
+
+At the end of the previous chapter, Rebekah urged Jacob to flee. But before Jacob departed, Isaac did something significant—he gave Jacob a formal blessing, this time not obtained by deception. "May God Almighty bless you and make you fruitful and multiply you, that you may become a company of peoples" (Gen 28:3 ESV). "May he give the blessing of Abraham to you and to your offspring with you" (Gen 28:4 ESV).
+
+This shows that Isaac had finally submitted to God's will. No longer attempting to give the blessing to Esau, he verbally passed on the Abrahamic covenant to Jacob. He charged Jacob: "You must not take a wife from the Canaanite women" (Gen 28:1 ESV), but go to Paddan-aram to find a wife among his mother's family. Covenant succession required a household of faith—a painful lesson Isaac learned from Esau's Hittite wives.
+
+II. Esau's Response (28:6-9)
+
+Esau saw that Isaac had blessed Jacob and sent him away, charging him not to marry Canaanite women, and that Canaanite women displeased his father. So he went to Ishmael and took Mahalath, Ishmael's daughter, as his wife—in addition to his existing wives. This was Esau's attempt to please his father, but his approach was entirely wrong. He did not repent and turn to the LORD from his heart; he merely adjusted his outward behavior. True godliness is never a performance for human approval.
+
+III. The Vision of the Ladder (28:10-15)
+
+Jacob left Beersheba toward Haran. He came to a certain place; the sun had set. He took a stone, put it under his head, and lay down to sleep.
+
+Then the vision came.
+
+"And he dreamed, and behold, there was a ladder set up on the earth, and the top of it reached to heaven. And behold, the angels of God were ascending and descending on it!" (Gen 28:12 ESV).
+
+**The ladder connected heaven and earth.** After the fall, an uncrossable chasm lay between heaven and earth. Humanity could not reach heaven, and heaven did not come down. But in this vision, a ladder bridged the gap, with angels going up and coming down—**there was now a pathway between heaven and earth.**
+
+The LORD stood above the ladder and said to Jacob: "I am the LORD, the God of Abraham your father and the God of Isaac. The land on which you lie I will give to you and to your offspring" (Gen 28:13 ESV). Then came the great promise: "Your offspring shall be like the dust of the earth, and you shall spread abroad to the west and to the east and to the north and to the south, and in you and your offspring shall all the families of the earth be blessed" (Gen 28:14 ESV).
+
+Finally God said: "Behold, I am with you and will keep you wherever you go, and will bring you back to this land. For I will not leave you until I have done what I have promised you" (Gen 28:15 ESV).
+
+Brothers and sisters, did you notice? What kind of person was Jacob at this moment? A deceiver, a fugitive, someone who stole his brother's blessing and fled under cover of night. He deserved none of this. But this is exactly how grace works—**not given to the deserving, but to the undeserving**. God did not wait for Jacob to repent first, to improve first, to prove himself worthy. He gave him the greatest promise while Jacob was still a sinner.
+
+IV. Jacob's Vow (28:16-22)
+
+Jacob awoke and said in fear: "Surely the LORD is in this place, and I did not know it... How awesome is this place! This is none other than the house of God, and this is the gate of heaven" (Gen 28:16-17 ESV). He set up the stone as a pillar, poured oil on it, and named the place **Bethel**—"house of God."
+
+Then Jacob made a vow, but if you read it carefully, it is very "Jacob"—"If God will be with me and will keep me in this way that I go, and will give me bread to eat and clothing to wear, so that I come again to my father's house in peace, then the LORD shall be my God" (Gen 28:20-21 ESV). He was bargaining with God! This was not mature faith; it was the faith of someone just beginning to know God. But God accepted him—God does not despise small faith. Over the next twenty years at Laban's house, God would slowly refine Jacob, until Jacob was no longer the one grasping but the one grasped.`,
+  historyContext_zh: `伯特利位于耶路撒冷以北约20公里，原名路斯。在族长时代这是一个重要的宗教圣地。亚伯拉罕早先曾在伯特利附近筑坛（创12:8, 13:3-4）。雅各从别是巴到哈兰的路程约800公里，需要数周时间。**枕石为柱、浇油其上**是古代近东标记圣地的习俗。伯特利后来在以色列历史中一直是重要地点——约书亚时代、士师时代，直到北国以色列的耶罗波安在此设立金牛犊（王上12:29），使圣地变成了偶像崇拜的中心。`, historyContext_en: `Bethel was located about 20 kilometers north of Jerusalem, originally called Luz. It was an important religious site in the patriarchal era. Abraham had earlier built an altar near Bethel (Gen 12:8, 13:3-4). The journey from Beersheba to Haran was approximately 800 kilometers, requiring several weeks. **Setting up a stone pillar and anointing it with oil** was an ancient Near Eastern custom for marking sacred sites. Bethel remained significant throughout Israel's history—through the periods of Joshua and the judges—until Jeroboam of the northern kingdom set up golden calves there (1 Kgs 12:29), turning the holy place into a center of idol worship.`,
+  structure_zh: `全章分为四个部分：**（一）以撒正式祝福雅各并嘱咐他不娶迦南女子**（28:1-5）；**（二）以扫的回应——另娶以实玛利之女**（28:6-9）；**（三）天梯异象——神的使者上去下来，神重申亚伯拉罕之约**（28:10-15）；**（四）雅各的回应——立柱浇油，给那地起名伯特利，许愿**（28:16-22）。全章从人的安排（以撒嘱咐、以扫自作主张）转向神的启示（天梯异象），形成了人的计划与神的主权的鲜明对比。`, structure_en: `The chapter divides into four parts: **(1) Isaac formally blesses Jacob and charges him not to marry Canaanite women** (28:1-5); **(2) Esau's response—marrying Ishmael's daughter** (28:6-9); **(3) The ladder vision—angels ascending and descending, God reaffirming the Abrahamic covenant** (28:10-15); **(4) Jacob's response—setting up a pillar, naming the place Bethel, making a vow** (28:16-22). The chapter transitions from human arrangements (Isaac's charge, Esau's self-directed action) to divine revelation (the ladder vision), creating a sharp contrast between human plans and God's sovereignty.`,
+  theology_zh: `本章的核心神学是**恩典的无条件性**。神对雅各宣告亚伯拉罕之约时，雅各没有任何功德可言。他是靠欺骗得到祝福的人，正在逃亡途中。韦敏斯德信条第十一章论称义："称义是神白白恩典的作为，不是因为注入在他们里面的什么，也不是因为他们所做的什么。"天梯异象还揭示了**神的无所不在**——雅各惊呼"耶和华真在这里，我竟不知道"——神不局限于某个特定的圣所，他在旷野的一块石头旁边，也与人同在。这颠覆了古代近东"地方性神明"的概念。`, theology_en: `The central theology is **the unconditional nature of grace**. When God declared the Abrahamic covenant to Jacob, Jacob had no merit whatsoever. He was a man who obtained his blessing through deception, now on the run. The Westminster Confession (ch. 11) on justification states: "Justification is an act of God's free grace, not for anything wrought in them or done by them." The ladder vision also reveals **God's omnipresence**—Jacob exclaimed, "Surely the LORD is in this place, and I did not know it"—God is not confined to a particular shrine; He is present even beside a stone in the wilderness. This overturns the ancient Near Eastern concept of "local deities."`,
+  christShadow_zh: `天梯是创世记中最直接的基督预表之一。主耶稣亲口引用了这段经文，对拿但业说："你们将要看见天开了，神的使者上去下来在**人子**身上"（约1:51）。耶稣就是那个天梯！**他是天与地之间唯一的中保**，正如保罗所说："在神和人中间，只有一位中保，乃是降世为人的基督耶稣"（提前2:5）。在亚当里，天地隔绝；在基督里，天地重新联通。每一个信靠基督的人，都是通过这位"天梯"来到父面前的。伯特利——神的殿——最终的实现就是基督的身体（约2:21）。`, christShadow_en: `The ladder is one of the most direct Christological types in Genesis. The Lord Jesus Himself referenced this passage, saying to Nathanael: "Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending on **the Son of Man**" (John 1:51 ESV). Jesus is the ladder! **He is the only mediator between heaven and earth**, as Paul wrote: "For there is one God, and there is one mediator between God and men, the man Christ Jesus" (1 Tim 2:5 ESV). In Adam, heaven and earth were severed; in Christ, they are reunited. Every person who trusts in Christ comes to the Father through this "ladder." Bethel—the house of God—finds its ultimate fulfillment in the body of Christ (John 2:21).`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 29,
@@ -3347,11 +3543,81 @@ readings.push({
   title: '拉结与利亚', titleEn: 'Rachel and Leah',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 29:1 / Genesis 29:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `弟兄姐妹，我是摩西。创世记第二十九章，雅各到了东方人之地，遇见了拉结。这一章是一个关于爱情、欺骗和神隐秘护理的故事。那个骗了父亲和哥哥的雅各，如今要尝到被人欺骗的苦味了。
+
+一、井旁的相遇（29:1-14）
+
+雅各来到东方人之地，在一口井旁边看见有三群羊卧在那里。他问当地的牧人认不认识拿鹤的孙子拉班。他们说认识，正说着，"拉班的女儿拉结领着他父亲的羊来了"（创29:6）。
+
+雅各一见拉结，就上前把石头从井口挪开，饮他舅舅拉班的羊群。然后"雅各与拉结亲嘴，就放声而哭"（创29:11）。这哭泣里有太多的情感——逃亡的疲惫、见到亲人的喜悦、或许还有对未来的盼望。拉结跑去告诉父亲，拉班就出来迎接雅各，抱着他与他亲嘴，请他到家中住。雅各住了一个月，拉班对他说："你虽是我的骨肉，岂可白白地服事我？请告诉我，你要什么为工价？"（创29:15）。
+
+二、为爱服事十四年（29:16-30）
+
+"拉班有两个女儿。大的名叫利亚，小的名叫拉结。利亚的眼睛没有神气，拉结却生得美貌俊秀"（创29:16-17）。
+
+雅各爱拉结。他说："我愿为你小女儿拉结服事你七年"（创29:18）。七年的工价，只为娶心爱的女子。"雅各就为拉结服事了七年；他因为深爱拉结，就看这七年如同几天"（创29:20）。这是圣经中最美的爱情描述之一。七年如同几天——唯有深爱才能如此。
+
+然而洞房花烛之夜，拉班把利亚送进了雅各的帐篷。"到了早晨，雅各一看是利亚，就对拉班说：你向我做的是什么事呢？我服事你，不是为拉结么？你为什么欺哄我呢？"（创29:25）。
+
+弟兄姐妹，你们听到了吗？**"你为什么欺哄我呢？"** 这句话是不是很耳熟？以撒曾问过同样的问题（创26:9），以扫也曾质问（创27:36）。如今那个欺骗了父亲和哥哥的雅各，被人以同样的方式欺骗了。**神的公义有时就是让你尝到自己种下的苦果。** 雅各用山羊皮蒙骗年迈的父亲，拉班用面纱和黑夜蒙骗沉浸爱情中的雅各。报应不爽。
+
+拉班的借口是："大女儿还没有给人，先把小女儿给人，在我们这地方没有这规矩"（创29:26）。何等讽刺——这个"先大后小"的规矩，正是雅各自己打破过的！他是小的却抢了大的福分。如今拉班用同样的原则报复了他。
+
+拉班说你再为我服事七年，我就把拉结也给你。雅各只好又服事了七年。十四年的劳苦，为了两个妻子。
+
+三、被忽视的利亚（29:31-35）
+
+"耶和华见利亚失宠，就使他生育"（创29:31）。这里我们看到一位何等怜悯的神。利亚不被丈夫爱，但**神看见了**。利亚给孩子们起的名字，每一个都是一声呼喊：
+
+流便——"耶和华看见我的苦情，如今我的丈夫必爱我了"（创29:32）。
+西缅——"耶和华因为听见我失宠，所以又赐给我这个儿子"（创29:33）。
+利未——"我给丈夫生了三个儿子，他必与我联合了"（创29:34）。
+犹大——"这回我要赞美耶和华"（创29:35）。
+
+前三个名字都是在向丈夫呼求爱——"必爱我"、"听见我"、"联合我"。但第四个名字不同了——**"这回我要赞美耶和华"**。利亚终于不再从丈夫那里寻求满足，而是在神里面找到了安息。这是一个巨大的属灵转折。
+
+弟兄姐妹，你是否也像利亚一样，从人身上寻找只有神才能给你的爱？当人的爱让你失望的时候，唯有转向神说"这回我要赞美耶和华"，你的灵魂才能得安息。
+
+而犹大这个名字，"赞美"——从这个"不被爱"的利亚所生的第四个儿子，日后将成为犹大支派的始祖，大卫的先祖，基督的先祖。**神最伟大的救赎计划，是从一个被忽视的女人的赞美中开始的。**`, content_en: `Brothers and sisters, I am Moses. Genesis chapter twenty-nine: Jacob arrived in the land of the eastern peoples and met Rachel. This is a story of love, deception, and God's hidden providence. The man who deceived his father and brother would now taste the bitterness of being deceived himself.
+
+I. The Meeting at the Well (29:1-14)
+
+Jacob came to the land of the eastern peoples and saw three flocks of sheep lying beside a well. He asked the local shepherds if they knew Laban, the grandson of Nahor. They said yes, and just then, "Rachel, Laban's daughter, came with her father's sheep" (Gen 29:6 ESV).
+
+When Jacob saw Rachel, he rolled the stone from the well's mouth and watered Laban's flock. Then "Jacob kissed Rachel and wept aloud" (Gen 29:11 ESV). That weeping held so many emotions—the exhaustion of flight, the joy of finding family, and perhaps hope for the future. Rachel ran to tell her father, and Laban came out to embrace Jacob, bringing him home. After a month, Laban said: "Because you are my kinsman, should you therefore serve me for nothing? Tell me, what shall your wages be?" (Gen 29:15 ESV).
+
+II. Fourteen Years of Service for Love (29:16-30)
+
+"Now Laban had two daughters. The name of the older was Leah, and the name of the younger was Rachel. Leah's eyes were weak, but Rachel was beautiful in form and appearance" (Gen 29:16-17 ESV).
+
+Jacob loved Rachel. He said: "I will serve you seven years for your younger daughter Rachel" (Gen 29:18 ESV). Seven years' wages, all for the woman he loved. "So Jacob served seven years for Rachel, and they seemed to him but a few days because of the love he had for her" (Gen 29:20 ESV). This is one of the most beautiful descriptions of love in all of Scripture. Seven years like a few days—only deep love could make it so.
+
+Yet on the wedding night, Laban sent Leah into Jacob's tent. "And in the morning, behold, it was Leah! And Jacob said to Laban, 'What is this you have done to me? Did I not serve with you for Rachel? Why then have you deceived me?'" (Gen 29:25 ESV).
+
+Brothers and sisters, did you hear that? **"Why have you deceived me?"** Does that sound familiar? Isaac once asked the same question (Gen 26:9), and Esau too had protested (Gen 27:36). Now the man who deceived his father and brother was himself deceived in the same manner. **God's justice sometimes means tasting the fruit you yourself have planted.** Jacob used goatskins to deceive his aged father; Laban used a veil and darkness to deceive a love-struck Jacob. What goes around comes around.
+
+Laban's excuse was: "It is not so done in our country, to give the younger before the firstborn" (Gen 29:26 ESV). What irony—this rule of "the elder before the younger" was precisely what Jacob himself had violated! He was the younger who seized the elder's blessing. Now Laban applied the same principle against him.
+
+Laban told him to serve another seven years, and he would give Rachel too. So Jacob served fourteen years for two wives.
+
+III. Unloved Leah (29:31-35)
+
+"When the LORD saw that Leah was hated, he opened her womb" (Gen 29:31 ESV). Here we see a God of immense compassion. Leah was unloved by her husband, but **God saw her**. The names she gave her children were each a cry from the heart:
+
+Reuben—"Because the LORD has looked upon my affliction; for now my husband will love me" (Gen 29:32 ESV).
+Simeon—"Because the LORD has heard that I am hated, he has given me this son also" (Gen 29:33 ESV).
+Levi—"Now this time my husband will be attached to me, because I have borne him three sons" (Gen 29:34 ESV).
+Judah—"This time I will praise the LORD" (Gen 29:35 ESV).
+
+The first three names were cries for a husband's love—"will love me," "has heard me," "will be attached to me." But the fourth name was different—**"This time I will praise the LORD."** Leah finally stopped seeking fulfillment from her husband and found rest in God alone. This was a monumental spiritual turning point.
+
+Brothers and sisters, are you like Leah, seeking from people the love that only God can give? When human love disappoints, only by turning to God and saying "This time I will praise the LORD" can your soul find rest.
+
+And that name, Judah—meaning "praise"—this fourth son born to the unloved Leah would become the ancestor of the tribe of Judah, the lineage of David, the lineage of Christ. **God's greatest redemptive plan began from the praise of an overlooked woman.**`,
+  historyContext_zh: `创世记29章描述的婚姻习俗反映了古代近东的**新娘价格制度**——男方以劳动或财产换取新娘。雅各为拉结服事七年，在当时是极高的代价。**洞房夜的骗局**在黑暗中得逞，因为古代婚礼后新娘蒙着面纱，帐篷里没有灯火。拉班的欺骗虽然卑劣，却在当地文化中有一定的"合理性"——长女未嫁而先嫁幼女确实违反习俗。利亚后来成为以色列十二支派中六个支派的母亲（流便、西缅、利未、犹大、以萨迦、西布伦），以及女儿底拿的母亲。`, historyContext_en: `The marriage customs in Genesis 29 reflect the ancient Near Eastern **bride-price system**, where the groom exchanged labor or property for a bride. Jacob's seven years of service for Rachel was an exceptionally high price. **The wedding-night deception** succeeded in darkness because ancient brides wore veils, and tents had no lamplight. Though despicable, Laban's trick had a certain cultural "legitimacy"—marrying off a younger daughter before the elder did violate custom. Leah later became the mother of six of Israel's twelve tribes (Reuben, Simeon, Levi, Judah, Issachar, Zebulun) and of their daughter Dinah.`,
+  structure_zh: `全章分为三个主要段落：**（一）井旁相遇**（29:1-14）——雅各遇见拉结，被拉班接纳；**（二）十四年的服事与被骗**（29:15-30）——拉班用利亚代替拉结，雅各不得不再服事七年；**（三）利亚的四子与属灵转折**（29:31-35）——从"丈夫必爱我"到"我要赞美耶和华"。叙事的讽刺结构极其精妙：骗人者被骗，"先大后小"的规矩反过来惩罚了破坏规矩的人。`, structure_en: `The chapter divides into three major sections: **(1) Meeting at the well** (29:1-14)—Jacob meets Rachel and is welcomed by Laban; **(2) Fourteen years of service and deception** (29:15-30)—Laban substitutes Leah for Rachel, forcing Jacob to serve another seven years; **(3) Leah's four sons and spiritual turning point** (29:31-35)—from "my husband will love me" to "I will praise the LORD." The narrative irony is exquisite: the deceiver is deceived, and the rule of "the elder before the younger" punishes the very one who once violated it.`,
+  theology_zh: `本章展现了**神的护理如何在混乱中成就美意**。雅各被骗娶了利亚——这看似不幸，却是神计划的一部分。利亚所生的犹大成为弥赛亚支派的始祖；利亚所生的利未成为祭司支派的始祖。**神最大的祝福往往来自人看为最不幸的处境。** 此外，利亚从"丈夫必爱我"到"我要赞美耶和华"的转变，是**唯独在神里面寻找满足**的神学典范。人的爱终究有限且会令人失望，唯有神的爱是永远不变、永远充足的。`, theology_en: `This chapter reveals **how God's providence accomplishes good purposes amid chaos**. Jacob was tricked into marrying Leah—this seemed unfortunate, yet it was part of God's plan. Leah's son Judah became the ancestor of the Messianic tribe; Leah's son Levi became the ancestor of the priestly tribe. **God's greatest blessings often come from circumstances that appear most unfortunate.** Furthermore, Leah's transformation from "my husband will love me" to "I will praise the LORD" is a theological paradigm of **finding satisfaction in God alone**. Human love is finite and inevitably disappoints; only God's love is unchanging and ever-sufficient.`,
+  christShadow_zh: `本章最深刻的基督预表在于**犹大的出生**。利亚是不被爱的妻子，但从她而出的犹大支派将产生大卫王，最终产生基督。"犹大"意为"赞美"——**基督从赞美中而来**。此外，雅各为了得到新娘甘愿服事十四年，预表了基督为了得到教会——他的新妇——甘愿付出一切的代价。"基督爱教会，为教会舍己"（弗5:25）。七年如同几天的爱，是基督对教会永恒之爱的微弱倒影。`, christShadow_en: `The deepest Christological typology in this chapter is **the birth of Judah**. Leah was the unloved wife, yet from her came the tribe of Judah, which would produce King David and ultimately Christ. "Judah" means "praise"—**Christ came from praise**. Moreover, Jacob's willingness to serve fourteen years to win his bride foreshadows Christ's willingness to pay the ultimate price for His church—His bride. "Christ loved the church and gave himself up for her" (Eph 5:25 ESV). Love that made seven years seem like a few days is a faint echo of Christ's eternal love for His church.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 30,
@@ -3359,11 +3625,71 @@ readings.push({
   title: '儿女与羊群', titleEn: 'Children and Flocks',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 30:1 / Genesis 30:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `弟兄姐妹，我是摩西。创世记第三十章是一个关于生育竞争和财富积累的章节。表面上看，这是两个妻子争着生孩子、一个牧人想方设法致富的故事。但在这一切背后，神正在悄悄地完成一件大事——以色列十二支派的雏形正在成形。
+
+一、拉结的焦急与使女生子（30:1-8）
+
+"拉结见自己不给雅各生子，就嫉妒他姊姊，对雅各说：你给我孩子，不然我就死了"（创30:1）。拉结的痛苦是真实的——在古代社会，不能生育被视为极大的羞耻。但她的反应却带着苦毒和嫉妒。
+
+"雅各向拉结生气，说：叫你不生育的是神，我岂能代替他作主呢？"（创30:2）。雅各说得没错——**生命在神手中**。但他的语气缺少温柔。面对妻子的绝望，他给出的是正确的神学，却缺少牧者的心肠。
+
+拉结把使女辟拉给雅各为妾，辟拉生了但和拿弗他利。拉结说"我与我姊姊大大相争，并且得胜"（创30:8）。**"得胜"**——她把生儿育女当作一场竞赛。这不是神所喜悦的。
+
+二、利亚的使女与更多的孩子（30:9-21）
+
+利亚见自己停了生育，也把使女悉帕给雅各为妾。悉帕生了迦得和亚设。然后发生了一件有趣的事——流便在田里找到了风茄（古人认为能助孕的植物），拉结向利亚要风茄，利亚苦涩地说："你夺了我的丈夫还算小事吗？你又要夺我儿子的风茄吗？"（创30:15）。两个女人在这里做了一笔交易：拉结用与雅各同房的机会，换取利亚的风茄。
+
+利亚后来又生了以萨迦、西布伦和女儿底拿。她给以萨迦起名时说："神给了我价值，因为我把使女给了我丈夫"（创30:18）。这个"价值"一词令人心酸——利亚仍然在用生育来证明自己的价值。
+
+三、拉结终于生子（30:22-24）
+
+"神顾念拉结，应允了他，使他能生育。他就怀孕生子，说：神除去了我的羞耻"（创30:22-23）。拉结给儿子起名**约瑟**，意思是"愿耶和华再增添我一个儿子"。
+
+弟兄姐妹，注意这个名字——约瑟。这个在竞争、嫉妒、苦涩中出生的孩子，日后将成为拯救整个家族的人。正是这个约瑟，被兄弟们卖到埃及，又被神高举为宰相，在饥荒年间拯救了以色列全家。**神在最混乱的家庭中，生出了最伟大的拯救者。**
+
+四、雅各的羊群策略（30:25-43）
+
+约瑟出生后，雅各想回迦南。拉班不肯放他走，因为"我已算定，耶和华赐福与我是为你的缘故"（创30:27）。甚至外邦人拉班都承认，雅各身上有神的祝福。
+
+雅各提出一个方案：他只要羊群中有点有斑的羊和黑色的羊羔作工价。拉班同意了，以为这些变异色的羊很少，自己不会吃亏。但雅各用了一个策略——将杨树、杏树、枫树的枝子剥了皮，露出白色的条纹，放在羊群饮水的水沟里。肥壮的羊对着条纹枝子交配，生出有纹有点的羊来。
+
+这个策略的科学原理现代遗传学已经否定了——枝条不可能影响遗传。但雅各后来自己承认真正的原因："你父亲的神在梦中向我说话……他使有纹的、有点的、有花斑的都归了我"（创31:10-12）。**真正使雅各致富的不是他的巧计，而是神的作为。** 雅各的策略不过是人的小聪明，神的护理才是真正的力量。
+
+"于是雅各极其发大，得了许多的羊群、仆婢、骆驼和驴"（创30:43）。神信守了他在伯特利的应许——"我必与你同在"。即使在拉班的土地上，在被欺骗和苦待的环境中，神仍然使雅各昌盛。这不是因为雅各有多聪明，而是因为**神的应许不落空**。`, content_en: `Brothers and sisters, I am Moses. Genesis chapter thirty is about rivalry in childbearing and the accumulation of wealth. On the surface, it is the story of two wives competing to bear children and a shepherd devising strategies to grow rich. But behind it all, God was quietly accomplishing something great—the embryonic shape of Israel's twelve tribes was taking form.
+
+I. Rachel's Desperation and Children Through Her Servant (30:1-8)
+
+"When Rachel saw that she bore Jacob no children, she envied her sister and said to Jacob, 'Give me children, or I shall die!'" (Gen 30:1 ESV). Rachel's pain was real—in ancient society, barrenness was considered a great shame. But her response was tinged with bitterness and jealousy.
+
+"Jacob's anger was kindled against Rachel, and he said, 'Am I in the place of God, who has withheld from you the fruit of the womb?'" (Gen 30:2 ESV). Jacob was theologically correct—**life is in God's hands**. But his tone lacked tenderness. Facing his wife's despair, he offered sound theology but lacked a pastor's heart.
+
+Rachel gave her servant Bilhah to Jacob as a wife. Bilhah bore Dan and Naphtali. Rachel said, "With mighty wrestlings I have wrestled with my sister and have prevailed" (Gen 30:8 ESV). **"Prevailed"**—she treated childbearing as a competition. This was not pleasing to God.
+
+II. Leah's Servant and More Children (30:9-21)
+
+When Leah saw she had stopped bearing, she too gave her servant Zilpah to Jacob. Zilpah bore Gad and Asher. Then an interesting incident occurred—Reuben found mandrakes in the field (plants ancients believed promoted fertility), and Rachel asked Leah for them. Leah replied bitterly: "Is it a small matter that you have taken away my husband? Would you take away my son's mandrakes also?" (Gen 30:15 ESV). The two women struck a deal: Rachel traded a night with Jacob for Leah's mandrakes.
+
+Leah later bore Issachar, Zebulun, and a daughter Dinah. When naming Issachar, she said: "God has given me my wages because I gave my servant to my husband" (Gen 30:18 ESV). The word "wages" is heartbreaking—Leah was still trying to prove her worth through childbearing.
+
+III. Rachel Finally Bears a Son (30:22-24)
+
+"Then God remembered Rachel, and God listened to her and opened her womb. She conceived and bore a son and said, 'God has taken away my reproach'" (Gen 30:22-23 ESV). She named him **Joseph**, meaning "May the LORD add to me another son."
+
+Brothers and sisters, note this name—Joseph. This child born amid rivalry, jealousy, and bitterness would one day become the savior of the entire family. It was this Joseph who was sold to Egypt by his brothers, then exalted by God to be prime minister, rescuing all of Israel during famine. **From the most chaotic family, God brought forth the greatest deliverer.**
+
+IV. Jacob's Flock Strategy (30:25-43)
+
+After Joseph's birth, Jacob wanted to return to Canaan. Laban refused, saying, "I have learned by divination that the LORD has blessed me because of you" (Gen 30:27 ESV). Even the pagan Laban acknowledged God's blessing upon Jacob.
+
+Jacob proposed a deal: he would take only the spotted, speckled, and dark-colored animals as wages. Laban agreed, thinking such variant-colored animals were rare and he would lose little. But Jacob employed a strategy—he peeled strips of bark from poplar, almond, and plane branches, exposing white streaks, and placed them at the watering troughs. The stronger animals mated before the striped branches and bore striped, spotted offspring.
+
+Modern genetics has disproven the science of this method—branches cannot influence heredity. But Jacob himself later admitted the real cause: "The angel of God said to me in a dream... He has made all the striped, spotted, and mottled ones come to me" (Gen 31:10-12 ESV). **What truly enriched Jacob was not his clever scheme but God's work.** Jacob's strategy was mere human cunning; God's providence was the real power.
+
+"Thus the man increased greatly and had large flocks, female servants and male servants, and camels and donkeys" (Gen 30:43 ESV). God kept His promise at Bethel—"I am with you." Even on Laban's land, amid deception and mistreatment, God made Jacob prosper. Not because Jacob was clever, but because **God's promises do not fail**.`,
+  historyContext_zh: `创世记30章反映了古代近东的**多妻制和代孕习俗**。妻子不育时让使女代孕，在当时的文化中是被接受的做法（类似撒拉与夏甲的情况）。**风茄**（希伯来文דּוּדָאִים, dudaim）可能是曼德拉草，古代地中海地区广泛认为它有催情和助孕的功效。雅各用枝条影响羊群繁殖的策略，反映了古代对遗传学的朴素理解（母体受孕时的视觉刺激会影响后代），虽然这在现代科学看来并无根据，但叙事的重点是**神的护理超越人的方法**。`, historyContext_en: `Genesis 30 reflects ancient Near Eastern customs of **polygamy and surrogate motherhood**. When a wife was barren, having a servant bear children on her behalf was culturally accepted (similar to Sarah and Hagar). **Mandrakes** (Hebrew דּוּדָאִים, dudaim) were likely Mandragora plants, widely believed in the ancient Mediterranean to have aphrodisiac and fertility-promoting properties. Jacob's strategy of using striped branches to influence breeding reflects ancient folk understanding of genetics (visual stimuli during conception affecting offspring), which modern science has disproven. The narrative's point, however, is that **God's providence transcends human methods**.`,
+  structure_zh: `全章按主题分为两大部分：**（一）生育竞争**（30:1-24）——拉结的使女生但和拿弗他利，利亚的使女生迦得和亚设，利亚再生以萨迦、西布伦、底拿，最后拉结生约瑟。总共八个孩子加一个女儿在本章出生。**（二）财富积累**（30:25-43）——雅各用有纹有斑的羊群策略致富。两部分有内在联系：**生育是神对利亚的赐福，财富是神对雅各的赐福**——在人看来是竞争和诡计的结果，在神看来却是护理和应许的成就。`, structure_en: `The chapter divides thematically into two major sections: **(1) The childbearing rivalry** (30:1-24)—Rachel's servant bears Dan and Naphtali; Leah's servant bears Gad and Asher; Leah bears Issachar, Zebulun, and Dinah; finally Rachel bears Joseph—eight sons and one daughter born in this chapter. **(2) Wealth accumulation** (30:25-43)—Jacob's strategy with striped and spotted flocks. The two parts are connected: **childbearing was God's blessing to Leah; wealth was God's blessing to Jacob**—what appeared to be the result of competition and cunning was in reality the accomplishment of divine providence and promise.`,
+  theology_zh: `本章的核心神学是**神在人的混乱中仍然掌权**。两个妻子的竞争充满嫉妒、苦毒和操控，但神的计划没有被打乱——十二支派的雏形正在形成。经文反复出现"神顾念"、"神应允"、"神听见"等表述，表明**主权在神不在人**。韦敏斯德信条第五章论护理："神以至大至圣的智慧和权能，保护管理他所造的万物和一切行动。"即使在拉结和利亚的争斗中，神也在按着自己的旨意安排每一个孩子的出生。`, theology_en: `The central theology is **God's sovereignty amid human chaos**. The rivalry between two wives was filled with jealousy, bitterness, and manipulation, yet God's plan was not derailed—the embryonic form of the twelve tribes was taking shape. The text repeatedly uses phrases like "God remembered," "God listened," "God heard," demonstrating that **sovereignty belongs to God, not humans**. The Westminster Confession (ch. 5) on providence: "God, the great Creator of all things, does uphold, direct, dispose, and govern all creatures, actions, and things." Even in the strife between Rachel and Leah, God was ordering the birth of every child according to His own purpose.`,
+  christShadow_zh: `本章中最重要的基督预表是**约瑟的出生**。约瑟是拉结期待已久的孩子，他的一生将成为基督最完整的旧约预表之一：被兄弟嫉妒和出卖，受苦被囚，最终被高举拯救全家。此外，**犹大支派**（29章出生）和**利未支派**（29章出生）——君王的支派和祭司的支派——都来自不被爱的利亚。**神拣选人所轻看的来成就大事**（林前1:28），这是贯穿圣经的主题。从被忽视的利亚到被卖的约瑟，神的救赎计划在最意想不到的地方展开。`, christShadow_en: `The most important Christological typology in this chapter is **the birth of Joseph**. Joseph was Rachel's long-awaited child, and his life would become one of the most complete Old Testament types of Christ: envied and betrayed by his brothers, suffering in prison, ultimately exalted to save his entire family. Furthermore, the **tribe of Judah** (born in ch. 29) and the **tribe of Levi** (born in ch. 29)—the royal tribe and the priestly tribe—both came from unloved Leah. **God chose what the world despised to accomplish great things** (1 Cor 1:28 ESV), a theme running throughout Scripture. From overlooked Leah to sold Joseph, God's redemptive plan unfolds in the most unexpected places.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 31,
@@ -3371,11 +3697,149 @@ readings.push({
   title: '离开拉班', titleEn: 'Jacob Flees from Laban',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 31:1 / Genesis 31:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `我摩西在此记下雅各离开拉班的历史。这是神信实带领他仆人的见证，也是约的神保守他选民的明证。
+
+二十年了。雅各在哈兰为拉班服侍了整整二十年——先为拉结做工十四年，又为羊群做工六年。这二十年里，他白日受尽干热，黑夜受尽寒霜，不得合眼睡着（31:40）。拉班欺哄他，十次改了他的工价（31:7,41）。然而神不曾离弃他。正如神对他所应许的："我必与你同在"（28:15），神果然与他同在了。
+
+神的呼召临到。"耶和华对雅各说：你要回你祖、你父之地，到你亲族那里去，我必与你同在"（31:3）。这呼召来得正是时候——拉班的气色向他不如从前（31:2,5），拉班众子的怨言也传到他耳中（31:1）。但雅各的离开不是因为惧怕人，乃是因为顺服神。神在梦中向他显现，自称"我是伯特利的神"（31:13），提醒他当年在伯特利所许的愿。现在，该回去还愿了。
+
+雅各召聚拉结和利亚到田野，向他们陈明神的作为。他细数这二十年神如何保护他、祝福他，如何使拉班虽然十次改他工价，却不能害他（31:4-13）。两个妻子听了，心里明白。他们的父亲早已把他们当作外人，卖了他们，吞了他们的价值（31:14-15）。神从他们父亲所夺出来的一切财物，本就该是他们和他们孩子的。"现今凡神所吩咐你的，你只管去行罢！"（31:16）她们如此回答。这回答中有顺服，也有对神主权的承认。
+
+雅各就带着妻子儿女和一切所有的起身了。拉结却偷了他父亲家中的神像（31:19）。为什么？圣经没有详说。或许她心中仍有对那些偶像的眷恋，或许她以为那些神像能带来保障。但她不知道，真正的保障不在那些木石泥土的偶像里，乃在那位呼召亚伯拉罕、与以撒立约、向雅各显现的永生神那里。
+
+拉班追来了。他追了七日，在基列山追上雅各（31:23）。但在夜间，神到拉班那里，在梦中警告他："你要小心，不可与雅各说好说歹"（31:24）。这是何等的保护！神不许任何人伤害他的选民。拉班虽然口中埋怨雅各为何偷走，为何不让他与外孙女儿亲嘴告别（31:26-28），心里却不敢动手，因为神已经拦阻了他。
+
+神像的搜寻。拉班进了雅各、利亚和两个使女的帐棚，都没有搜出来。拉结把神像藏在骆驼的驮篓里，坐在上头，又以"我身上不便"为由，不在父亲面前起来（31:34-35）。拉班搜寻神像，竟没有搜出来。这里有讽刺的意味：那些所谓的"神"连保护自己不被藏匿都做不到，如何能保护敬拜他们的人呢？
+
+雅各的申诉。搜寻无果之后，雅各发怒了。他斥责拉班："我有甚么过犯，有甚么罪恶，你竟这样火速的追我？"（31:36）他历数这二十年的劳苦：没有让拉班的羊掉过胎，没有吃过群中的公羊，被野兽撕裂的自己赔上，被偷去的也要赔上（31:38-39）。他的申诉是对的。他确实尽心尽力服侍了拉班。但他最后说："若不是我父亲以撒所敬畏的神，就是亚伯拉罕的神与我同在，你如今必定打发我空手而去"（31:42）。雅各深深知道，他能存留、能富足，不是因为自己的劳碌，乃是因为神的看顾。
+
+立约分离。拉班无话可说了。他提议立约："来罢！你我二人可以立约，作你我中间的证据"（31:44）。他们堆石立柱，称那地为"米斯巴"，意思是"愿耶和华在你我中间鉴察"（31:49）。这约的核心是彼此不越界伤害（31:52）。他们在山上献祭，吃饭，住宿。次日清早，拉班与外孙和女儿亲嘴，给他们祝福，就回去了（31:55）。
+
+这一章让我们看见神约的信实。神应许与雅各同在，神果然与他同在了。神应许带他回到本地，现在神正在成就这应许。神不因雅各的软弱而废弃他的约，也不因拉班的诡诈而任凭他的选民受害。神在梦中向他的百姓说话，又在梦中警告敌人。他掌管万有，保护属他的人。雅各离开哈兰时，不是空手回去，而是带着丰盛的产业回去；不是孤身一人回去，而是带着妻子儿女回去。这一切都是神的恩典。`, content_en: `I, Moses, here record the history of Jacob's departure from Laban. This is a testimony to God's faithful guidance of His servant, and clear evidence of the covenant God preserving His chosen people.
+
+Twenty years. Jacob served Laban for a full twenty years in Haran—fourteen years for Rachel, and six years for the flocks. During these twenty years, he suffered the heat by day and the cold by night, unable to sleep (31:40). Laban deceived him and changed his wages ten times (31:7,41). Yet God never forsook him. Just as God had promised him, "I will be with you" (28:15), God was indeed with him.
+
+God's call came. "The LORD said to Jacob, 'Return to the land of your fathers and to your kindred, and I will be with you'" (31:3). This call came at just the right time—Laban's countenance toward him was not as before (31:2,5), and the complaints of Laban's sons had reached his ears (31:1). But Jacob's departure was not driven by fear of man, but by obedience to God. God appeared to him in a dream, declaring, "I am the God of Bethel" (31:13), reminding him of the vow he had made at Bethel years ago. Now it was time to return and fulfill that vow.
+
+Jacob summoned Rachel and Leah to the field and declared to them God's works. He recounted how God had protected and blessed him these twenty years, how Laban had changed his wages ten times yet could not harm him (31:4-13). The two wives heard and understood. Their father had long treated them as foreigners, selling them and devouring their price (31:14-15). All the wealth God had taken from their father rightly belonged to them and their children. "All that God has said to you, do" (31:16), they answered. In this response was obedience and acknowledgment of God's sovereignty.
+
+So Jacob arose with his wives, children, and all his possessions. But Rachel stole her father's household gods (31:19). Why? Scripture does not elaborate. Perhaps she still harbored affection for those idols, or thought they could bring security. But she did not know that true security lay not in those idols of wood, stone, and clay, but in the living God who called Abraham, made covenant with Isaac, and appeared to Jacob.
+
+Laban pursued. He pursued for seven days and overtook Jacob in the hill country of Gilead (31:23). But in the night, God came to Laban and warned him in a dream: "Be careful not to say anything to Jacob, either good or bad" (31:24). What protection! God would not permit anyone to harm His chosen people. Though Laban complained about why Jacob had fled secretly and not allowed him to kiss his grandchildren and daughters goodbye (31:26-28), in his heart he dared not act, for God had restrained him.
+
+The search for the gods. Laban went through Jacob's tent, Leah's tent, and the tents of the two female servants, but found nothing. Rachel had hidden the household gods in the camel's saddle and was sitting on them, using the excuse "I cannot rise before you, for the way of women is upon me" (31:34-35). Laban searched for the household gods but did not find them. There is irony here: these so-called "gods" could not even protect themselves from being hidden—how could they protect those who worshiped them?
+
+Jacob's defense. After the fruitless search, Jacob became angry. He rebuked Laban: "What is my offense? What is my sin, that you have hotly pursued me?" (31:36). He recounted the labors of these twenty years: he had not let Laban's ewes miscarry, had not eaten the rams from the flock, compensated for animals torn by beasts, and was held responsible for what was stolen (31:38-39). His defense was just. He had indeed served Laban faithfully. But he concluded: "If the God of my father, the God of Abraham and the Fear of Isaac, had not been on my side, surely now you would have sent me away empty-handed" (31:42). Jacob knew deeply that his survival and prosperity came not from his own labor, but from God's care.
+
+The covenant of separation. Laban had nothing to say. He proposed a covenant: "Come now, let us make a covenant, you and I" (31:44). They set up stones and a pillar, naming the place "Mizpah," meaning "The LORD watch between you and me" (31:49). The core of this covenant was mutual non-aggression across the boundary (31:52). They offered sacrifice on the mountain, ate, and stayed overnight. Early the next morning, Laban kissed his grandchildren and daughters, blessed them, and returned home (31:55).
+
+This chapter shows us the faithfulness of God's covenant. God promised to be with Jacob, and He was indeed with him. God promised to bring him back to his homeland, and now God was fulfilling that promise. God did not nullify His covenant because of Jacob's weakness, nor did He allow His chosen one to be harmed by Laban's deceit. God spoke to His people in dreams and warned enemies in dreams. He controls all things and protects those who belong to Him. When Jacob left Haran, he did not return empty-handed but with abundant possessions; not alone but with wives and children. All of this was God's grace.`,
+  historyContext_zh: `这段历史发生在主前约1900年左右，正值美索不达米亚地区的城邦林立时期。雅各在哈兰服侍拉班二十年（主前约1929-1909年），期间亚述和巴比伦等强国尚未兴起，迦南地仍是各小族群分散居住的状态。
+
+立石为约的习俗在古近东十分普遍。考古发现的赫人条约、亚摩利人的边界协定都使用类似的仪式。雅各和拉班的"米斯巴之约"是一个典型的古代盟约，以石堆为界，以神明为见证人，双方承诺互不侵犯。但这约中也显出独特之处：雅各所倚靠的不是众神明，而是"我父亲以撒所敬畏的神，就是亚伯拉罕的神"（31:42,53）。这位独一的神，才是真正的见证者和保护者。
+
+家族神像（teraphim）在美索不达米亚文化中具有重要地位，不仅代表家族的宗教传统，有时也象征继承权和财产权。拉结偷神像的行为，或许不仅出于迷信，也可能与继承权的观念有关。然而圣经的叙述清楚表明：这些偶像毫无能力，连保护自己都做不到（31:34-35）。真正赐福雅各的，不是那些死的神像，而是活的神。
+
+雅各的二十年劳苦是立约的恩典在历史中的具体展开。神没有应许他一帆风顺，但应许与他同在；神没有应许他免于试炼，但应许保守到底。这二十年见证了神如何在不义的环境中保守公义，在诡诈的人中保护诚实，在敌对的势力中保全他的选民。这正是救赎历史的缩影：神的百姓在世上必经患难，但神必保守他们到底。`, historyContext_en: `This history occurred around 1900 BC, during the period of competing city-states in Mesopotamia. Jacob served Laban in Haran for twenty years (approximately 1929-1909 BC), when Assyria and Babylon had not yet risen as empires, and the land of Canaan remained inhabited by scattered small tribes.
+
+The practice of setting up stones as covenant markers was widespread in the ancient Near East. Archaeological discoveries of Hittite treaties and Amorite boundary agreements employed similar rituals. The "Mizpah covenant" between Jacob and Laban was a typical ancient pact, using a heap of stones as boundary, invoking deities as witnesses, with both parties pledging non-aggression. Yet this covenant also revealed something unique: Jacob relied not on many gods, but on "the God of my father, the God of Abraham and the Fear of Isaac" (31:42,53). This one true God was the real witness and protector.
+
+Household gods (teraphim) held significant importance in Mesopotamian culture, representing not only family religious tradition but sometimes symbolizing inheritance rights and property claims. Rachel's theft of the household gods may have stemmed not only from superstition but also from concepts of inheritance. However, the biblical narrative makes clear that these idols had no power—they could not even protect themselves (31:34-35). What truly blessed Jacob was not these dead images, but the living God.
+
+Jacob's twenty years of toil represent the concrete unfolding of covenant grace in history. God did not promise him smooth sailing, but promised to be with him; God did not promise exemption from trials, but promised to preserve him to the end. These twenty years testified to how God preserves righteousness in an unrighteous environment, protects honesty among the deceitful, and preserves His chosen people amid hostile forces. This is a microcosm of redemptive history: God's people must endure tribulation in the world, but God will preserve them to the end.`,
+  structure_zh: `本章以清晰的叙事结构展现神的主权引导和人的顺服回应：
+
+**一、神的呼召与雅各的预备（1-16节）**
+1. 处境的变化：拉班气色不如从前（1-2节）
+2. 神的呼召：回归应许之地（3节）
+3. 雅各的陈明：向妻子讲述神的作为（4-13节）
+4. 妻子的顺服：认同神的吩咐（14-16节）
+
+**二、逃离与追赶（17-25节）**
+1. 雅各的起行与拉结偷神像（17-20节）
+2. 拉班的追赶（21-23节）
+3. 神的警告：梦中拦阻拉班（24节）
+4. 双方的相遇（25节）
+
+**三、对质与搜寻（26-35节）**
+1. 拉班的控诉：为何偷走（26-30节）
+2. 雅各的回答：恐怕被夺（31节）
+3. 搜寻神像无果：拉结的隐藏（32-35节）
+
+**四、雅各的申诉与立约（36-55节）**
+1. 雅各的愤怒与申诉：二十年的劳苦（36-42节）
+2. 拉班的提议：立约为证（43-44节）
+3. 立石堆柱：米斯巴之约（45-54节）
+4. 和平分离：祝福与归回（55节）
+
+这结构显出救赎历史的模式：神呼召→百姓回应→神保护→最终成就。每一步都有神的主动恩典，也有人的信心回应。`, structure_en: `This chapter presents a clear narrative structure demonstrating God's sovereign guidance and human obedient response:
+
+**I. God's Call and Jacob's Preparation (vv. 1-16)**
+1. Changed circumstances: Laban's countenance not as before (vv. 1-2)
+2. God's call: Return to the promised land (v. 3)
+3. Jacob's declaration: Recounting God's works to his wives (vv. 4-13)
+4. Wives' obedience: Affirming God's command (vv. 14-16)
+
+**II. Flight and Pursuit (vv. 17-25)**
+1. Jacob's departure and Rachel's theft of household gods (vv. 17-20)
+2. Laban's pursuit (vv. 21-23)
+3. God's warning: Restraining Laban in a dream (v. 24)
+4. Their encounter (v. 25)
+
+**III. Confrontation and Search (vv. 26-35)**
+1. Laban's accusation: Why flee secretly (vv. 26-30)
+2. Jacob's answer: Fear of being robbed (v. 31)
+3. Fruitless search for gods: Rachel's concealment (vv. 32-35)
+
+**IV. Jacob's Defense and Covenant (vv. 36-55)**
+1. Jacob's anger and defense: Twenty years of labor (vv. 36-42)
+2. Laban's proposal: Make a covenant (vv. 43-44)
+3. Setting up stones: The Mizpah covenant (vv. 45-54)
+4. Peaceful separation: Blessing and departure (v. 55)
+
+This structure reveals the pattern of redemptive history: God calls → people respond → God protects → final fulfillment. Every step shows God's initiating grace and human faith response.`,
+  theology_zh: `**神的主权护理**
+本章每一个细节都彰显神的主权护理。拉班的气色改变不是偶然，而是神在调动环境催逼雅各回归（1-2节）。拉班的追赶也不能拦阻神的计划，因为神在梦中警告他（24节）。雅各能平安离开，不是因为他的聪明，乃是因为神的保守（42节）。改革宗神学强调神的护理（Divine Providence）：神不仅创造了世界，也护理世界，借着他的全能和无所不在，保守并治理万有，使万事互相效力，成就他的美意（韦斯敏斯德信条5.1）。雅各的经历正是这真理的活见证。
+
+**约的信实**
+神对雅各说："我必与你同在"（3节），这是重申伯特利之约（28:15）。二十年过去了，神的同在从未改变。他在梦中向雅各显现，自称"我是伯特利的神"（13节），提醒他当年立约的地方。神的约不因人的软弱而废弃，不因环境的恶劣而改变。这正是改革宗所强调的"恩典之约的不可废弃性"：神既然拣选了他的百姓，就必保守他们到底（约10:28-29；罗8:28-30）。雅各的故事预示了新约信徒的确据：我们得救不是因为自己的坚持，而是因为神约的信实。
+
+**偶像的虚无与独一神的荣耀**
+拉结偷神像（19节）是本章的一个讽刺插曲。这些所谓的"神"连保护自己都做不到，被藏在骆驼驮篓里，被坐在下面（34-35节）。它们不能说话，不能行动，更不能赐福。与之形成鲜明对比的是那位活神：他在梦中向雅各显现，在梦中警告拉班，保护雅各脱离一切凶恶。正如以赛亚所宣告的："除我以外，再无别神；我是公义的神，又是救主；除了我以外，再没有别神"（赛45:21）。一切偶像都是虚无，唯有耶和华是真神、是活神。
+
+**劳苦与恩典**
+雅各在这章中两次强调他的劳苦（38-40,42节）。他的申诉是对的——他确实尽心服侍了。但他最后承认："若不是我父亲以撒所敬畏的神……与我同在，你如今必定打发我空手而去"（42节）。这里显出改革宗神学对"恩典与责任"关系的平衡理解：我们当尽心竭力做工，但我们的得救和蒙福完全是出于神的恩典。保罗说："我今日成了何等人，是蒙神的恩才成的；并且他所赐我的恩不是徒然的。我比众使徒格外劳苦；这原不是我，乃是神的恩与我同在"（林前15:10）。雅各的劳苦与蒙福，都是恩典。`, theology_en: `**God's Sovereign Providence**
+Every detail in this chapter manifests God's sovereign providence. The change in Laban's countenance was not accidental, but God orchestrating circumstances to urge Jacob's return (vv. 1-2). Laban's pursuit could not thwart God's plan, for God warned him in a dream (v. 24). Jacob's safe departure came not from his own cleverness, but from God's protection (v. 42). Reformed theology emphasizes Divine Providence: God not only created the world but also upholds and governs all things by His almighty power and omnipresence, making all things work together to accomplish His good pleasure (Westminster Confession 5.1). Jacob's experience is a living testimony to this truth.
+
+**Covenant Faithfulness**
+God said to Jacob, "I will be with you" (v. 3), reaffirming the Bethel covenant (28:15). Twenty years had passed, yet God's presence never changed. He appeared to Jacob in a dream, declaring, "I am the God of Bethel" (v. 13), reminding him of where the covenant was made. God's covenant is not nullified by human weakness nor altered by adverse circumstances. This exemplifies what Reformed theology emphasizes as "the irrevocable nature of the covenant of grace": once God has chosen His people, He will preserve them to the end (John 10:28-29; Romans 8:28-30). Jacob's story foreshadows the assurance of New Testament believers: our salvation depends not on our perseverance but on God's covenant faithfulness.
+
+**The Vanity of Idols and the Glory of the One God**
+Rachel's theft of the household gods (v. 19) is an ironic episode in this chapter. These so-called "gods" could not even protect themselves, being hidden in camel saddles and sat upon (vv. 34-35). They could not speak, could not act, much less bless. In stark contrast stands the living God: He appeared to Jacob in dreams, warned Laban in dreams, and protected Jacob from all harm. As Isaiah proclaimed: "Besides me there is no God; I am a righteous God and a Savior; there is none besides me" (Isaiah 45:21). All idols are nothing; the LORD alone is the true God, the living God.
+
+**Labor and Grace**
+Jacob twice in this chapter emphasizes his labor (vv. 38-40, 42). His defense was just—he had indeed served faithfully. But he finally acknowledged: "If the God of my father, the God of Abraham and the Fear of Isaac, had not been on my side, surely now you would have sent me away empty-handed" (v. 42). This reveals Reformed theology's balanced understanding of the relationship between grace and responsibility: we should work diligently, but our salvation and blessing come entirely from God's grace. Paul said: "By the grace of God I am what I am, and his grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God that is with me" (1 Corinthians 15:10). Both Jacob's labor and his blessing were grace.`,
+  christShadow_zh: `**更美之约的中保**
+雅各和拉班立约，以石堆为界，以神为见证（44-54节）。这约能约束双方暂时不互相伤害,但不能改变人心。雅各与拉班的分离，是两个罪人彼此分开以求平安。但这约预示着一个更美的约——新约。那约不是立在石堆上，而是立在十字架上；不是以牛羊的血立的，而是以基督的血立的（来9:11-15）。基督是新约的中保（来12:24），他的约不仅约束外在行为，更新人的内心（耶31:33）。雅各和拉班的米斯巴之约只能暂时止息纷争，基督的新约却能永远消除神与人、人与人之间的隔阂。
+
+**神的同在的终极显现**
+神对雅各说："我必与你同在"（3节）。这应许贯穿雅各一生，也贯穿整个旧约历史。但旧约的同在总是暂时的、有限的——神在伯特利的梦中显现，又在哈兰的梦中显现，却没有永久住在他百姓中间。这应许在基督里得了完全的实现。"道成了肉身，住在我们中间，充充满满地有恩典有真理"（约1:14）。"住"这个词的原文意思是"支搭帐幕"——神真真实实地来到人间，与人同住了。以马内利的基督，才是"神与我们同在"这应许的终极实现。神对雅各说"我必与你同在"，最终指向神在基督里与所有信他的人同在，直到世界的末了（太28:20）。
+
+**被偷窃却保护选民的神**
+拉结偷了神像，拉班来搜寻（30-35节）。那些偶像被藏在骆驼驮篓里，被坐在下面，毫无能力。但那位真神呢？他虽然"被人忽视"，却正在保护雅各一家脱离拉班的手。这预表基督的工作。世人藐视他、厌弃他（赛53:3），把他钉在十字架上，以为可以除灭他。但正是在这被"偷窃"、被藐视的时刻，他正在成就拯救。那些木石的偶像被藏起来就失去能力，但那位被挂在木头上的基督，却在十字架上败坏了掌死权的魔鬼（来2:14），救赎了属他的百姓。人的藐视不能拦阻神的作为，反而成就神的计划。
+
+**劳苦者的安息**
+雅各述说他的劳苦："我白日受尽干热，黑夜受尽寒霜，不得合眼睡着，我常是这样"（40节）。这是一个劳苦者的呼声。他在罪的世界里辛苦谋生，却得不到安息。这正是所有亚当子孙的写照：我们在罪的咒诅下劳苦愁烦（创3:17-19），却找不到真正的安息。但基督来了，他呼召说："凡劳苦担重担的人可以到我这里来，我就使你们得安息"（太11:28）。雅各在哈兰劳苦二十年，基督却为他的百姓劳苦了一生，甚至死在十字架上。雅各的劳苦为他自己换得产业，基督的劳苦却为我们换得永生。雅各在劳苦后离开哈兰回迦南，我们在基督里也将离开这劳苦的世界，进入安息的家乡（来4:9-11）。`, christShadow_en: `**The Mediator of a Better Covenant**
+Jacob and Laban made a covenant, with a heap of stones as boundary and God as witness (vv. 44-54). This covenant could constrain both parties temporarily from harming each other, but could not change hearts. The separation of Jacob and Laban was two sinners parting to secure peace. But this covenant foreshadows a better covenant—the new covenant. That covenant was not established on a heap of stones but on the cross; not with the blood of animals but with Christ's blood (Hebrews 9:11-15). Christ is the mediator of the new covenant (Hebrews 12:24), whose covenant not only constrains external behavior but renews the inner man (Jeremiah 31:33). The Mizpah covenant between Jacob and Laban could only temporarily cease strife, but Christ's new covenant eternally removes the barrier between God and man, and between people.
+
+**The Ultimate Manifestation of God's Presence**
+God said to Jacob, "I will be with you" (v. 3). This promise accompanied Jacob throughout his life and pervades all of Old Testament history. But the Old Testament presence was always temporary and limited—God appeared in dreams at Bethel and in Haran, yet did not dwell permanently among His people. This promise found complete fulfillment in Christ. "The Word became flesh and dwelt among us, full of grace and truth" (John 1:14). The word "dwelt" literally means "tabernacled"—God truly came to earth and dwelt with humanity. Christ Immanuel is the ultimate realization of the promise "God with us." God's words to Jacob, "I will be with you," ultimately point to God being with all who believe in Him through Christ, until the end of the age (Matthew 28:20).
+
+**The God Stolen Yet Protecting His Chosen**
+Rachel stole the household gods and Laban came searching (vv. 30-35). Those idols were hidden in camel saddles, sat upon, utterly powerless. But what of the true God? Though "disregarded by men," He was protecting Jacob's family from Laban's hand. This prefigures Christ's work. The world despised and rejected Him (Isaiah 53:3), nailing Him to the cross, thinking they could eliminate Him. But precisely in this moment of being "stolen away" and despised, He was accomplishing salvation. Those wooden and stone idols lost power when hidden, but Christ, hung on a tree, destroyed him who has the power of death through the cross (Hebrews 2:14), redeeming His people. Human contempt cannot thwart God's work but rather fulfills God's plan.
+
+**The Laborer's Rest**
+Jacob recounted his toils: "By day the heat consumed me, and the cold by night, and my sleep fled from my eyes" (v. 40). This is the cry of a laborer. He toiled for survival in a sinful world, finding no rest. This depicts all children of Adam: we labor and grieve under sin's curse (Genesis 3:17-19), finding no true rest. But Christ came and called: "Come to me, all who labor and are heavy laden, and I will give you rest" (Matthew 11:28). Jacob labored twenty years in Haran; Christ labored His entire life for His people, even unto death on the cross. Jacob's labor earned possessions for himself; Christ's labor earned eternal life for us. Jacob departed Haran for Canaan after his toil; in Christ we too will leave this world of toil and enter our resting homeland (Hebrews 4:9-11).`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 32,
@@ -3383,11 +3847,147 @@ readings.push({
   title: '摔跤', titleEn: 'Wrestling with God',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 32:1 / Genesis 32:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `我摩西在此记下雅各与神摔跤的历史。这是救赎历史中最奇妙的一夜，也是雅各生命中最关键的转折。
+
+神的军兵显现。雅各离开拉班之后，继续前行。神的使者遇见他（1节）。他看见他们就说："这是神的军兵"，于是给那地方起名叫玛哈念，就是"二军兵"的意思。这显现不是偶然的。雅各正要面对他一生最大的恐惧——他的哥哥以扫。二十年前，他因为夺了长子的名分和祝福，不得不逃离家乡。现在神命令他回去，他心里害怕。神就让他看见天使的军兵，要他知道：不是他孤身一人去面对以扫，而是神的军队与他同在。
+
+打发人去见以扫。雅各打发人先往西珥地去见以扫，称呼他为"我主"，称自己为"你的仆人"（3-5节）。这谦卑的称呼不仅是礼节，也显出他心中的恐惧。使者回来报告说："我们到了你哥哥以扫那里，他带着四百人，正迎着你来"（6节）。四百人！这在雅各听来，不像是来迎接，更像是来报复。圣经说："雅各就甚惧怕，而且愁烦"（7节）。
+
+智慧的预备。雅各把人口和牲畜分做两队，说："以扫若来击杀这一队，剩下的那一队还可以逃避"（7-8节）。这是人的智慧。然后他祷告。他称呼神为"耶和华我祖亚伯拉罕的神，我父亲以撒的神"（9节），提醒神他是约的后裔。他承认自己不配："你向仆人所施的一切慈爱和诚实，我一点也不配得"（10节）。他祈求拯救："求你救我脱离我哥哥以扫的手"（11节）。他抓住神的应许："你曾说：我必定厚待你"（12节）。这是信心的祷告——不是倚靠自己的计谋，而是抓住神的应许。
+
+礼物的预备。雅各从他所有的物中拿了丰厚的礼物送给以扫：母山羊二百只、公山羊二十只、母绵羊二百只、公绵羊二十只、奶崽子的骆驼三十只、母牛四十只、公牛十只、母驴二十匹、驴驹十匹（13-15节），总共五百八十头牲畜！他把这些分成好几批，吩咐仆人一批一批送过去（16-20节）。他心里说："我藉着在我前头去的礼物解他的恨，然后再见他的面，或者他容纳我"（20节）。这是人的方法。雅各用尽了一切人的智慧和方法，但他深知这些都不够。真正的平安，必须来自神。
+
+雅博渡口的那一夜。夜间，雅各带着两个妻子、两个使女和十一个儿子都过了雅博渡口，又打发所有的都过去，只剩下他一人（21-24节）。为什么只剩下他一人？或许他需要独处祷告，或许他想再思想明天如何面对以扫。但神有他的计划。有一个人来和他摔跤，直到黎明（24节）。
+
+这"人"是谁？圣经没有直接说明，但从后文可以清楚看出：这是神自己，是神以人的形象向雅各显现。他们摔跤，整夜整夜地摔。那人见自己胜不过他，就将他的大腿窝摸了一把，雅各的大腿窝就扭了（25节）。神当然可以轻易胜过雅各，但神容许雅各与他"较力"，直到雅各再也站不住，大腿窝被扭伤。
+
+不肯放手。天快亮了，那人说："天黎明了，容我去罢！"但雅各抓住他说："你不给我祝福，我就不容你去"（26节）。这是何等的执着！雅各整夜与神摔跤，大腿虽然瘸了，却不肯放手。他知道，若没有神的祝福，一切人的计谋和礼物都是枉然。他必须抓住神，直到得着祝福。
+
+改名以色列。那人问他："你名叫甚么？"他说："我名叫雅各"（27节）。"雅各"这名字意思是"抓住"或"欺骗者"，正代表他一生的写照——在母腹中抓住哥哥的脚跟，后来又用诡计夺了长子的名分和祝福。但现在，那人说："你的名不要再叫雅各，要叫以色列；因为你与神与人较力，都得了胜"（28节）。"以色列"意思是"与神较力"或"神的王子"。这新名字标志着雅各生命的转变：他不再是那个靠诡计抓取的雅各,而是与神摔跤、抓住神、得胜的以色列。
+
+面对面见神。雅各问那人的名字，那人却说："何必问我的名？"然后就在那里给他祝福（29节）。雅各给那地方起名叫毘努伊勒，意思是"神之面"，因为他说："我面对面见了神，我的性命仍得保全"（30节）。日头出来的时候，雅各经过毘努伊勒，他的大腿就瘸了（31节）。从此，他带着瘸腿的记号，走完他一生的路程。那瘸腿提醒他：他是与神摔跤过的人，他是得了神祝福的人，他是靠神的恩典、而不是靠自己的力量站立的人。
+
+这一夜改变了雅各。他本来是靠自己的聪明和力量生活的人——用诡计夺祝福，用巧思赚钱财。但这一夜，神打碎了他的自信，也赐给他真正的祝福。他瘸了，却得胜了；他软弱了，神的能力却在他身上显得完全。从此，他不再是雅各，而是以色列；不再是抓夺者，而是被神抓住的人。`, content_en: `I, Moses, here record the history of Jacob wrestling with God. This was the most wondrous night in redemptive history and the most crucial turning point in Jacob's life.
+
+The appearance of God's army. After parting from Laban, Jacob continued his journey. The angels of God met him (v. 1). When he saw them, he said, "This is God's camp," and named the place Mahanaim, meaning "two camps." This appearance was not accidental. Jacob was about to face his greatest fear—his brother Esau. Twenty years earlier, he had fled home for taking the birthright and the blessing. Now God commanded him to return, and he was afraid. So God showed him the angelic army, that he might know: he was not going alone to face Esau, but God's army was with him.
+
+Sending messengers to Esau. Jacob sent messengers ahead to Seir to meet Esau, addressing him as "my lord" and himself as "your servant" (vv. 3-5). This humble address was not merely courtesy but revealed his inner fear. The messengers returned with the report: "We came to your brother Esau, and he is coming to meet you, and there are four hundred men with him" (v. 6). Four hundred men! To Jacob, this sounded not like a welcoming party but a revenge force. Scripture says: "Then Jacob was greatly afraid and distressed" (v. 7).
+
+Wise preparation. Jacob divided the people and livestock into two camps, saying, "If Esau comes to the one camp and attacks it, then the camp that is left will escape" (vv. 7-8). This was human wisdom. Then he prayed. He addressed God as "O LORD, God of my father Abraham and God of my father Isaac" (v. 9), reminding God he was a covenant descendant. He acknowledged his unworthiness: "I am not worthy of the least of all the deeds of steadfast love and all the faithfulness that you have shown to your servant" (v. 10). He pleaded for deliverance: "Please deliver me from the hand of my brother, from the hand of Esau" (v. 11). He grasped God's promise: "You said, 'I will surely do you good'" (v. 12). This was a prayer of faith—not relying on his own schemes, but grasping God's promises.
+
+Preparation of gifts. Jacob took from his possessions abundant gifts to send to Esau: two hundred female goats, twenty male goats, two hundred ewes, twenty rams, thirty nursing camels with their colts, forty cows, ten bulls, twenty female donkeys, and ten male donkeys (vv. 13-15)—a total of 580 animals! He divided these into several droves, instructing his servants to send them one drove at a time (vv. 16-20). He thought, "I may appease him with the present that goes ahead of me, and afterward I shall see his face. Perhaps he will accept me" (v. 20). This was human method. Jacob employed every human wisdom and strategy, but he knew deeply these were insufficient. True peace must come from God.
+
+That night at the Jabbok ford. At night, Jacob took his two wives, two female servants, and eleven sons across the ford of the Jabbok, and sent all his possessions across, leaving himself alone (vv. 21-24). Why alone? Perhaps he needed solitude to pray, or perhaps he wanted to contemplate how to face Esau the next day. But God had His plan. A man came and wrestled with him until daybreak (v. 24).
+
+Who was this "man"? Scripture does not directly identify him, but from the context it becomes clear: this was God Himself, appearing to Jacob in human form. They wrestled, through the entire night. When the man saw that he did not prevail against Jacob, he touched his hip socket, and Jacob's hip was put out of joint (v. 25). God could easily have overpowered Jacob, but God allowed Jacob to "wrestle" with Him until Jacob could no longer stand, his hip dislocated.
+
+Refusing to let go. As dawn approached, the man said, "Let me go, for the day has broken." But Jacob clung to him, saying, "I will not let you go unless you bless me" (v. 26). What tenacity! Jacob wrestled with God all night; though his hip was dislocated, he would not let go. He knew that without God's blessing, all human schemes and gifts were futile. He must cling to God until he received the blessing.
+
+Renamed Israel. The man asked him, "What is your name?" He said, "Jacob" (v. 27). The name "Jacob" means "grasper" or "deceiver," representing his life's story—grasping his brother's heel in the womb, later seizing the birthright and blessing through cunning. But now the man said, "Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed" (v. 28). "Israel" means "one who strives with God" or "prince of God." This new name marked Jacob's life transformation: he was no longer the scheming grasper Jacob, but Israel who wrestled with God, clung to God, and prevailed.
+
+Seeing God face to face. Jacob asked the man's name, but he said, "Why is it that you ask my name?" and there he blessed him (v. 29). Jacob named the place Peniel, meaning "face of God," for he said, "I have seen God face to face, and yet my life has been delivered" (v. 30). As the sun rose, Jacob passed through Penuel, limping because of his hip (v. 31). From then on, he bore the mark of his limp for the rest of his life. That limp reminded him: he was one who had wrestled with God, who had received God's blessing, who stood not by his own strength but by God's grace.
+
+This night transformed Jacob. He had been a man who lived by his own cleverness and strength—using cunning to seize blessings, using shrewdness to gain wealth. But this night, God shattered his self-reliance and gave him true blessing. He was crippled, yet he prevailed; he was weakened, yet God's power was made perfect in his weakness. From then on, he was no longer Jacob but Israel; no longer the grasper but one grasped by God.`,
+  historyContext_zh: `这段历史发生在主前约1909年，雅各离开哈兰回迦南途中。雅博渡口（Jabbok ford）位于约旦河东，是进入迦南地的必经之路。考古学家认为这渡口在今天的约旦境内，靠近现代的Zarqa河。
+
+"摔跤"在古近东文化中不仅是体力较量，也常带有仪式和象征意义。埃及、美索不达米亚的文献中都有神明与人较力的故事，但它们大多表现神明的至高无上和人的无能为力。雅各与神摔跤的叙事却独特：神容许雅各与他较力，神"胜不过"雅各（实际是神刻意容许），最终赐福给雅各。这显出圣经独特的神学：神是至高的，但也是与人立约、与人交往的神。
+
+改名在古近东文化中具有重大意义。名字代表身份、命运和性格。君王征服他国常会给被征服者改名（如王下24:17）。神给雅各改名"以色列"，不是征服的记号，而是恩典的记号——从抓夺者变成神的王子，从诡诈者变成得胜者。这新名字后来成为整个民族的名字（以色列），表明这民族的身份：他们是与神摔跤、得神祝福的子民。
+
+"以色列人不吃大腿窝的筋，直到今日"（32节）这句话显出这叙事在以色列民族记忆中的重要性。这饮食习俗成为他们世代的提醒：我们的祖宗雅各曾与神面对面，我们的得胜不是靠血气，而是靠神的恩典。`, historyContext_en: `This history occurred around 1909 BC, during Jacob's journey from Haran back to Canaan. The ford of the Jabbok was located east of the Jordan River, a necessary crossing point into Canaan. Archaeologists believe this ford is in modern-day Jordan, near the modern Zarqa River.
+
+"Wrestling" in ancient Near Eastern culture was not merely physical contest but often carried ritual and symbolic significance. Egyptian and Mesopotamian texts contain stories of deities contesting with humans, but they mostly portray the absolute supremacy of the divine and human powerlessness. Jacob's wrestling with God is unique: God permitted Jacob to wrestle with Him, God "did not prevail" against Jacob (actually God deliberately allowed this), and ultimately blessed Jacob. This reveals the unique theology of Scripture: God is supreme, yet also a covenant-making God who engages with humanity.
+
+Name changes held great significance in ancient Near Eastern culture. Names represented identity, destiny, and character. Conquering kings often renamed the conquered (e.g., 2 Kings 24:17). God's renaming of Jacob as "Israel" was not a mark of conquest but of grace—from grasper to prince of God, from deceiver to overcomer. This new name later became the name of the entire nation (Israel), indicating the identity of this people: they were the people who wrestled with God and received God's blessing.
+
+The statement "therefore to this day the people of Israel do not eat the sinew of the thigh" (v. 32) shows the importance of this narrative in Israelite national memory. This dietary custom became a generational reminder: our forefather Jacob saw God face to face, and our victory comes not from the flesh but from God's grace.`,
+  structure_zh: `本章以神的显现开始，以雅各的改变结束，展现恩典如何改造一个人：
+
+**一、神的军兵显现（1节）**
+看见天使军队，起名玛哈念
+
+**二、预备面对以扫（2-21节）**
+1. 打发人去见以扫，听到"四百人"来的消息（2-6节）
+2. 惧怕与筹划：分两队（7-8节）
+3. 信心的祷告：承认不配、抓住应许（9-12节）
+4. 丰厚的礼物：五批牲畜（13-21节）
+
+**三、雅博渡口的摔跤（22-32节）**
+1. 独处：只剩雅各一人（22-24节上）
+2. 摔跤：与"人"整夜较力（24节下-25节）
+3. 抓住不放：求祝福（26节）
+4. 改名：从雅各到以色列（27-28节）
+5. 祝福与命名：毘努伊勒（29-30节）
+6. 记号：瘸腿与饮食习俗（31-32节）
+
+这结构显出一个属灵的进程：从看见神的保护（军兵），到人的预备（祷告和礼物），最后到与神面对面的遭遇。神一步步引导雅各，直到他不再倚靠自己的计谋，而是单单抓住神。整个过程的高潮是改名——新名字代表新身份、新生命。`, structure_en: `This chapter begins with God's appearance and ends with Jacob's transformation, demonstrating how grace remakes a person:
+
+**I. Appearance of God's Army (v. 1)**
+Seeing the angelic host, naming the place Mahanaim
+
+**II. Preparing to Face Esau (vv. 2-21)**
+1. Sending messengers to Esau, hearing news of "four hundred men" (vv. 2-6)
+2. Fear and planning: dividing into two camps (vv. 7-8)
+3. Prayer of faith: acknowledging unworthiness, grasping promises (vv. 9-12)
+4. Generous gifts: five droves of livestock (vv. 13-21)
+
+**III. Wrestling at the Jabbok Ford (vv. 22-32)**
+1. Solitude: Jacob left alone (vv. 22-24a)
+2. Wrestling: contending with the "man" all night (vv. 24b-25)
+3. Clinging: demanding blessing (v. 26)
+4. Renaming: from Jacob to Israel (vv. 27-28)
+5. Blessing and naming: Peniel (vv. 29-30)
+6. The mark: limp and dietary custom (vv. 31-32)
+
+This structure reveals a spiritual progression: from seeing God's protection (the army), to human preparation (prayer and gifts), finally to face-to-face encounter with God. God led Jacob step by step until he no longer relied on his own schemes but clung solely to God. The climax of the process is the renaming—a new name representing new identity, new life.`,
+  theology_zh: `**神的主权恩典与人的责任**
+雅各既祷告又筹划，既求神拯救又预备礼物。这不是信心的矛盾，而是改革宗神学强调的"神的主权与人的责任并行"。雅各深知若非神拯救，一切人的方法都是枉然；但他也知道，信心不是懒惰，而是在倚靠神的同时尽上当尽的本分。加尔文说："我们祷告，好像一切都靠神；我们工作，好像一切都靠我们"。雅各正是如此行的。
+
+**与神摔跤：恩典中的争战**
+雅各与神摔跤，神"胜不过"他（25节）。这当然不是说雅各的力量大过神，而是神刻意"容许"这场摔跤。神为什么这样做？因为神要训练雅各"抓住他"。雅各一生都在抓——抓哥哥的脚跟、抓长子的名分、抓拉班的羊群。但这些抓都是凭血气。现在神让他抓住对的对象：神自己。神打伤他的大腿，让他知道人的力量是何等有限；又应许祝福他，让他知道神的恩典是何等丰富。这摔跤不是敌意的争战，而是恩典中的操练——神破碎老我，建立新人。改革宗神学称之为"成圣的渐进性"（progressive sanctification）：神不是瞬间改变我们，而是借着各样的环境、试炼、甚至"摔跤"，逐步更新我们，使我们越来越像基督。
+
+**软弱中的得胜**
+雅各瘸了，却得了新名"以色列"，意思是"得胜者"（28节）。这是圣经的悖论：在软弱中得刚强，在失败中得胜利。保罗后来见证说："他对我说：我的恩典够你用的，因为我的能力是在人的软弱上显得完全。所以，我更喜欢夸自己的软弱，好叫基督的能力覆庇我"（林后12:9）。雅各的瘸腿是他得胜的记号，不是因为他强，而是因为他学会了倚靠那位使他刚强的神。这正是改革宗强调的"唯独恩典"（Sola Gratia）：我们的得救、得胜、成圣，都不是出于自己，而是出于神的恩典。
+
+**新名字，新身份**
+从雅各到以色列，不仅是名字的改变,更是身份的更新。"雅各"代表他的旧人——抓夺、欺骗、靠自己；"以色列"代表他的新人——与神较力、得神祝福、靠神得胜。这预示新约中保罗的教导："若有人在基督里，他就是新造的人，旧事已过，都变成新的了"（林后5:17）。神给我们新名字（启2:17），表明我们有新的身份：不再是罪的奴仆，而是神的儿女；不再是靠行为称义，而是靠恩典因信称义。雅各的改名是一切信徒属灵经历的预表。`, theology_en: `**God's Sovereign Grace and Human Responsibility**
+Jacob both prayed and planned; he sought God's deliverance while also preparing gifts. This is not contradiction in faith but exemplifies Reformed theology's emphasis on "the concurrence of God's sovereignty and human responsibility." Jacob knew deeply that without God's deliverance, all human methods were futile; but he also knew that faith is not laziness but fulfilling one's duty while trusting God. Calvin said: "We pray as if everything depends on God; we work as if everything depends on us." This is precisely what Jacob did.
+
+**Wrestling with God: Struggle in Grace**
+Jacob wrestled with God, and God "did not prevail" against him (v. 25). This certainly does not mean Jacob's strength exceeded God's, but that God deliberately "permitted" this wrestling. Why did God do this? Because God wanted to train Jacob to "cling to Him." Jacob had spent his life grasping—grasping his brother's heel, grasping the birthright, grasping Laban's flocks. But all that grasping was in the flesh. Now God made him grasp the right object: God Himself. God injured his thigh to show him how limited human strength is; He promised blessing to show him how abundant God's grace is. This wrestling was not hostile combat but training in grace—God breaking the old self to build the new. Reformed theology calls this "progressive sanctification": God does not change us instantly but gradually renews us through various circumstances, trials, and even "wrestling," making us increasingly like Christ.
+
+**Victory in Weakness**
+Jacob was crippled yet received the new name "Israel," meaning "overcomer" (v. 28). This is Scripture's paradox: strength in weakness, victory in defeat. Paul later testified: "He said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me" (2 Corinthians 12:9). Jacob's limp was the mark of his victory, not because he was strong but because he learned to depend on the God who made him strong. This exemplifies Reformed emphasis on "grace alone" (Sola Gratia): our salvation, victory, and sanctification come not from ourselves but from God's grace.
+
+**New Name, New Identity**
+From Jacob to Israel was not merely a name change but identity renewal. "Jacob" represented his old self—grasping, deceiving, self-reliant; "Israel" represented his new self—striving with God, receiving God's blessing, prevailing through God. This foreshadows Paul's New Testament teaching: "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come" (2 Corinthians 5:17). God gives us a new name (Revelation 2:17), indicating our new identity: no longer slaves to sin but children of God; no longer justified by works but justified by grace through faith. Jacob's renaming typifies the spiritual experience of all believers.`,
+  christShadow_zh: `**黎明前与神摔跤的救主**
+雅各在雅博渡口与神摔跤，直到黎明（24节）。这预表基督在客西马尼园的争战。那一夜，主耶稣也是独自一人，面对即将到来的十字架。他祷告说："我父啊，倘若可行，求你叫这杯离开我。然而，不要照我的意思，只要照你的意思"（太26:39）。他"极其伤痛，祷告更加恳切，汗珠如大血点滴在地上"（路22:44）。雅各与神摔跤是为了得祝福，基督与父的旨意摔跤是为了顺服以至于死。雅各整夜摔跤后得了新名字和祝福，基督整夜痛苦后走向十字架，为我们成就救赎。雅各的摔跤是为他自己，基督的摔跤是为我们众人。
+
+**被打伤却赐福的神**
+那人将雅各的大腿窝摸了一把，雅各就瘸了（25节），但随后那人给他祝福（29节）。这是极深的奥秘：神打伤他的仆人，却是为了赐福给他。这预表基督的受难。以赛亚说："他诚然担当我们的忧患，背负我们的痛苦；我们却以为他受责罚，被神击打苦待了。哪知他为我们的过犯受害，为我们的罪孽压伤。因他受的刑罚，我们得平安；因他受的鞭伤，我们得医治"（赛53:4-5）。基督被神击打，是为叫我们得祝福。雅各的大腿被摸一下就瘸了，基督的全身却被钉在十字架上。雅各因被打伤而得新名，我们因基督被打伤而得新生命。
+
+**不肯放手直到得祝福**
+雅各说："你不给我祝福，我就不容你去"（26节）。这执着的信心预表所有真信徒对基督的态度。主耶稣在路加福音18章讲了一个比喻：一个寡妇不断来到不义的官面前求伸冤，那官因她的缠磨最终给她伸冤。主说："神的选民昼夜呼吁他，他岂不终久给他们伸冤么？"（路18:7）迦南妇人也是如此，虽然主耶稣起初似乎拒绝她，她却不肯放弃，说："主啊，不错；但是狗也吃他主人桌子上掉下来的碎渣儿"（太15:27）。主称赞她说："妇人，你的信心是大的！照你所要的，给你成全了吧"（太15:28）。雅各抓住神不放，预表真信心的本质：不是完美的行为，而是坚持不懈的抓住基督。
+
+**新名字：从雅各到以色列，从亚当到基督**
+雅各这名字代表"抓夺者"和"欺骗者"，以色列这名字代表"神的王子"和"得胜者"。这改名预表所有在基督里的人。我们本来在亚当里，是罪人、是悖逆者、是与神为敌的（罗5:10）。但在基督里，我们成为新造的人（林后5:17）、成为神的儿女（约1:12）、成为君尊的祭司（彼前2:9）。我们的旧名是"罪人"，新名是"圣徒"；旧身份是"灭亡之子"，新身份是"神的后嗣"（罗8:17）。这改名不是我们自己挣来的，而是神的恩典赐给的。正如雅各不能自己改名，必须由神赐予，我们也不能自己称义，必须靠基督的宝血。
+
+**瘸腿的记号：带着十架的印记**
+雅各从此带着瘸腿的记号度过余生（31节）。这瘸腿是他与神摔跤的证据，是他得胜的印记。保罗说:"从今以后，人都不要搅扰我，因为我身上带着耶稣的印记"（加6:17）。他身上的鞭痕、伤疤，是为基督受苦的记号，也是他属基督的证据。雅各的瘸腿提醒他永远不要倚靠自己的力量，保罗的软弱提醒他"我的恩典够你用的"。所有跟随基督的人都会带着十字架的印记——或是外在的患难，或是内心的破碎——但这些印记正是我们属于基督的证据，也是将来得荣耀的保证（罗8:17-18）。`, christShadow_en: `**The Savior Wrestling with God Before Dawn**
+Jacob wrestled with God at the Jabbok ford until daybreak (v. 24). This foreshadows Christ's struggle in Gethsemane. That night, the Lord Jesus was also alone, facing the approaching cross. He prayed, "My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will" (Matthew 26:39). He was "in agony and prayed more earnestly; and his sweat became like great drops of blood falling down to the ground" (Luke 22:44). Jacob wrestled with God to receive blessing; Christ wrestled with the Father's will to obey unto death. After wrestling all night, Jacob received a new name and blessing; after agonizing all night, Christ walked to the cross to accomplish our redemption. Jacob's wrestling was for himself; Christ's wrestling was for us all.
+
+**The God Who Wounds Yet Blesses**
+The man touched Jacob's hip socket and Jacob was crippled (v. 25), yet afterward the man blessed him (v. 29). This is profound mystery: God wounded His servant in order to bless him. This typifies Christ's passion. Isaiah said: "Surely he has borne our griefs and carried our sorrows; yet we esteemed him stricken, smitten by God, and afflicted. But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed" (Isaiah 53:4-5). Christ was struck by God so that we might be blessed. Jacob's hip was touched once and he was crippled; Christ's entire body was nailed to the cross. Jacob received a new name through being wounded; we receive new life through Christ being wounded.
+
+**Refusing to Let Go Until Blessed**
+Jacob said, "I will not let you go unless you bless me" (v. 26). This tenacious faith typifies every true believer's attitude toward Christ. The Lord Jesus told a parable in Luke 18: a widow persistently came before an unjust judge seeking justice, and the judge finally granted it because of her persistence. The Lord said, "Will not God give justice to his elect, who cry to him day and night?" (Luke 18:7). The Canaanite woman was the same—though the Lord Jesus initially seemed to refuse her, she would not give up, saying, "Yes, Lord, yet even the dogs eat the crumbs that fall from their masters' table" (Matthew 15:27). The Lord commended her: "O woman, great is your faith! Be it done for you as you desire" (Matthew 15:28). Jacob's clinging to God typifies the essence of true faith: not perfect behavior, but persistent grasping of Christ.
+
+**The New Name: From Jacob to Israel, From Adam to Christ**
+The name Jacob represented "grasper" and "deceiver"; the name Israel represented "prince of God" and "overcomer." This renaming typifies all who are in Christ. We were originally in Adam: sinners, rebels, enemies of God (Romans 5:10). But in Christ, we become new creations (2 Corinthians 5:17), children of God (John 1:12), a royal priesthood (1 Peter 2:9). Our old name was "sinner," our new name is "saint"; our old identity was "child of wrath," our new identity is "heir of God" (Romans 8:17). This renaming is not earned by us but given by God's grace. Just as Jacob could not rename himself but needed God to bestow it, we cannot justify ourselves but must rely on Christ's blood.
+
+**The Mark of the Limp: Bearing the Brand of the Cross**
+Jacob bore the mark of his limp for the rest of his life (v. 31). This limp was evidence of his wrestling with God, the mark of his victory. Paul said: "From now on let no one cause me trouble, for I bear on my body the marks of Jesus" (Galatians 6:17). The scars and wounds on his body were marks of suffering for Christ, evidence that he belonged to Christ. Jacob's limp reminded him never to rely on his own strength; Paul's weakness reminded him "My grace is sufficient for you." All who follow Christ bear the mark of the cross—whether external tribulation or internal brokenness—but these marks are precisely evidence that we belong to Christ and assurance of future glory (Romans 8:17-18).`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 33,
@@ -3395,11 +3995,157 @@ readings.push({
   title: '兄弟重逢', titleEn: 'Jacob Meets Esau',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 33:1 / Genesis 33:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `我摩西在此记下雅各与以扫重逢的历史。这是恩典化解仇恨的见证，也是神保守他百姓的明证。
+
+雅各抬头，看见以扫来了，带着四百人。那一刻他心中必定充满恐惧——二十年前,他用欺骗的手段夺了哥哥的祝福,以扫曾说要杀他（27:41）。现在以扫带着四百人来了,像要报仇的阵势。但昨夜他已经与神摔跤,已经得了新名"以色列",已经领受了神的祝福。现在他必须凭信心前行。
+
+谦卑的安排。雅各把孩子们按母亲分配：两个使女和他们的孩子在前头,利亚和他的孩子在后头,拉结和约瑟在尽后头（2节）。最爱的放在最后,这既是保护,也显出他仍有人的软弱——虽然与神摔跤了,但还不是完全。他自己在众人前头过去,一连七次俯伏在地,才就近他哥哥（3节）。这七次下拜显出他极度的谦卑,也可能是当时外交礼仪的一部分。但更重要的是,他不再是当年那个骄傲、诡诈的雅各,而是愿意降卑自己的以色列。
+
+超越期待的恩典。但以扫的反应完全出乎意料。"以扫跑来迎接他,将他抱住,又搂着他的颈项,与他亲嘴,两个人就哭了"（4节）。没有报复,没有怒气,没有清算旧账,只有拥抱、亲吻和眼泪。这一幕是何等动人！二十年的仇恨、二十年的分离、二十年的恐惧,在这拥抱中融化了。这是神的作为。神不仅保护雅各不受伤害,更柔软了以扫的心,使仇恨化为了亲情。
+
+家人的介绍。以扫看见妇人孩子,问这些是谁。雅各回答:"这些孩子是神施恩给你的仆人的"（5节）。注意他的用词:"神施恩给你的仆人"。他把妻子儿女都归于神的恩典,而不是夸耀自己的成就。使女和孩子们前来下拜,利亚和他的孩子也下拜,约瑟和拉结最后下拜（6-7节）。这场面既是礼仪,也是见证——整个家族都向以扫表示尊敬和和平的心意。
+
+礼物的坚持。以扫问那些群畜是什么意思,雅各说是"要在我主面前蒙恩的"（8节）。以扫推辞:"兄弟阿,我的已经够了,你的仍归你罢！"（9节）但雅各坚持。他说:"我见了你的面,如同见了神的面,并且你容纳了我"（10节）。这话极有深意。昨夜他在毘努伊勒见了神的面,今天他见以扫的面,也如同见神的面——因为他在以扫的接纳中,看见了神的恩典。他说:"求你收下我带来给你的礼物;因为神恩待我,使我充足"（11节）。这不是贿赂,而是感恩的表达,是分享神恩典的行动。雅各再三地求,以扫才收下了。
+
+分道扬镳。以扫提议:"我们可以起身前往,我在你前头走"（12节）。这是和好的提议,是愿意一起前行的邀请。但雅各婉拒了。他说孩子们年幼娇嫩,牛羊也在乳养,需要慢慢前行（13-14节）。以扫又提议留几个人在雅各这里,雅各也婉拒了,说:"只要在我主眼前蒙恩就是了"（15节）。于是以扫回往西珥去,雅各却往疏割去（16-17节）。
+
+这分离不是决裂,而是各走各的路。以扫往西珥,那是他的地界（创36:8）;雅各往迦南,那是神应许给他的地。他们和好了,但不能同行——因为他们的呼召不同,他们的命定不同。这正如亚伯拉罕和罗得的分离（创13章）:不是因为仇恨,而是因为道路不同。
+
+雅各到了示剑。他"平平安安地到了迦南地的示剑城"（18节）。"平平安安"这词希伯来文是shalom,不仅是外在的安全,更是内心的平安。神应许带他平安回来（28:21）,现在应许实现了。他在示剑城东支搭帐棚,买了那块地,又在那里筑了一座坛,起名叫"伊利伊罗伊以色列",意思是"神,以色列神"（20节）。这名字有双重意义:一是"以色列的神",承认耶和华是他的神;二是"神使以色列得胜",感恩神使他与以扫和好。这坛是感恩的坛,是见证的坛,宣告神的信实和恩典。
+
+这一章让我们看见神如何超越我们的惧怕。雅各怕以扫会杀他,但神赐下的不仅是保护,更是和好。神不仅保守他不受伤害,更柔软了以扫的心。神作事总是超过我们所求所想（弗3:20）。我们当学习雅各的谦卑:虽然领受了神的应许,却不骄傲;虽然与神摔跤得胜,却仍俯伏在人面前。这不是虚伪,而是真智慧。最重要的是,雅各在整个过程中不断见证神的恩典——"神施恩给你的仆人"、"神恩待我,使我充足"、"神,以色列神"。一切都归于神。`, content_en: `I, Moses, here record the history of Jacob's reunion with Esau. This is a testimony to grace dissolving hatred and clear evidence of God preserving His people.
+
+Jacob lifted his eyes and saw Esau coming with four hundred men. In that moment his heart must have been filled with fear—twenty years earlier, he had deceitfully seized his brother's blessing, and Esau had vowed to kill him (27:41). Now Esau came with four hundred men, seemingly poised for revenge. But last night he had wrestled with God, received the new name "Israel," and obtained God's blessing. Now he must proceed in faith.
+
+Humble arrangements. Jacob distributed the children according to their mothers: the two female servants and their children in front, Leah and her children next, Rachel and Joseph last (v. 2). He placed those most beloved in the rear—this was both protection and evidence of his remaining human weakness. Though he had wrestled with God, he was not yet perfected. He himself passed on ahead of them, bowing to the ground seven times before reaching his brother (v. 3). These seven prostrations showed extreme humility and may have been part of diplomatic protocol of that era. But more importantly, he was no longer the proud, deceitful Jacob of old, but Israel who was willing to humble himself.
+
+Grace beyond expectation. But Esau's response was completely unexpected. "Esau ran to meet him and embraced him and fell on his neck and kissed him, and they wept" (v. 4). No revenge, no anger, no settling of old scores—only embrace, kiss, and tears. What a moving scene! Twenty years of hatred, twenty years of separation, twenty years of fear—all melted in this embrace. This was God's doing. God not only protected Jacob from harm but also softened Esau's heart, turning hatred into affection.
+
+Introduction of the family. Esau saw the women and children and asked who they were. Jacob answered, "The children whom God has graciously given your servant" (v. 5). Note his wording: "God has graciously given your servant." He attributed his wives and children to God's grace, not boasting of his own achievements. The female servants and their children came forward and bowed, then Leah and her children, finally Joseph and Rachel (vv. 6-7). This scene was both protocol and testimony—the entire family showed Esau respect and peaceful intentions.
+
+Insistence on the gift. Esau asked about the livestock, and Jacob said it was "to find favor in the sight of my lord" (v. 8). Esau declined: "I have enough, my brother; keep what you have for yourself" (v. 9). But Jacob insisted. He said, "For I have seen your face, which is like seeing the face of God, and you have accepted me" (v. 10). These words held deep meaning. Last night he had seen God's face at Peniel; today seeing Esau's face was like seeing God's face—for in Esau's acceptance, he saw God's grace. He said, "Please accept my blessing that is brought to you, because God has dealt graciously with me, and because I have enough" (v. 11). This was not bribery but expression of gratitude, an act of sharing God's grace. Jacob urged him repeatedly, and Esau finally accepted.
+
+Parting ways. Esau proposed, "Let us journey on our way, and I will go ahead of you" (v. 12). This was a proposal of reconciliation, an invitation to travel together. But Jacob politely declined. He explained that the children were frail and the nursing flocks required slow travel (vv. 13-14). Esau then offered to leave some men with Jacob; Jacob also declined, saying, "Let me find favor in the sight of my lord" (v. 15). So Esau returned to Seir while Jacob went to Succoth (vv. 16-17).
+
+This separation was not a break but each going his own way. Esau went to Seir, his territory (Genesis 36:8); Jacob went to Canaan, the land God promised him. They were reconciled but could not travel together—because their callings differed, their destinies differed. This parallels Abraham and Lot's separation (Genesis 13): not from hatred but from different paths.
+
+Jacob arrived at Shechem. He "came safely to the city of Shechem" (v. 18). "Safely" in Hebrew is shalom, meaning not only external security but inner peace. God had promised to bring him back safely (28:21); now the promise was fulfilled. He camped east of Shechem, purchased that land, erected an altar there, and named it "El-Elohe-Israel," meaning "God, the God of Israel" (v. 20). This name had dual significance: first, "the God of Israel," acknowledging the LORD as his God; second, "God made Israel victorious," giving thanks that God brought reconciliation with Esau. This altar was an altar of thanksgiving and testimony, proclaiming God's faithfulness and grace.
+
+This chapter shows us how God exceeds our fears. Jacob feared Esau would kill him, but God provided not merely protection but reconciliation. God not only preserved him from harm but also softened Esau's heart. God always does more than we ask or imagine (Ephesians 3:20). We should learn Jacob's humility: though receiving God's promises, he was not proud; though prevailing in wrestling with God, he still bowed before men. This was not hypocrisy but true wisdom. Most importantly, Jacob continuously testified to God's grace throughout—"God has graciously given your servant," "God has dealt graciously with me," "God, the God of Israel." All was attributed to God.`,
+  historyContext_zh: `这段历史发生在主前约1909年，地点在约旦河东岸至示剑一带。以扫此时已定居在西珥山（后来称以东），拥有四百人的武装力量，显示他已成为该地区有势力的族长。
+
+古近东的外交礼仪中，俯伏下拜是臣服和尊敬的表示。埃及的阿马纳书信（Amarna Letters, 约主前14世纪）中，迦南小王给埃及法老的信常说"在我主脚前俯伏七次又七次"。雅各的七次下拜（3节）符合当时的外交惯例，但也显出他真诚的谦卑。
+
+以扫和雅各的重逢与分离反映了当时游牧社会的族群关系。两个兄弟虽然和好，但由于牧场、水源等资源有限，大族群不能长期共处。他们的分离是务实的选择，也是神主权的安排——以扫的后裔成为以东人，定居西珥山；雅各的后裔成为以色列人，承受迦南地。
+
+示剑（Shechem）是迦南地重要的城市，位于两山之间的山谷，战略位置重要。雅各在那里买地、筑坛（18-20节），标志他正式回到应许之地。这块地后来成为约瑟的葬身之处（书24:32），也是以色列历史的重要地标。雅各给坛起名"伊利伊罗伊以色列"，是他第一次公开用"以色列"这名字，宣告他新的身份。`, historyContext_en: `This history occurred around 1909 BC, in the region from the east bank of the Jordan to Shechem. Esau had by this time settled in Mount Seir (later called Edom) and possessed an armed force of four hundred men, indicating he had become a powerful chieftain in that region.
+
+In ancient Near Eastern diplomatic protocol, bowing down was a gesture of submission and respect. In the Amarna Letters (circa 14th century BC), letters from Canaanite petty kings to Egyptian pharaohs often stated "at the feet of my lord I fall down seven times and seven times." Jacob's seven prostrations (v. 3) conformed to diplomatic convention of that era, but also showed his genuine humility.
+
+The reunion and separation of Esau and Jacob reflected tribal relationships in nomadic society of that time. Though the two brothers reconciled, limited resources such as pasture and water meant large clans could not coexist long-term. Their separation was a practical choice and also God's sovereign arrangement—Esau's descendants became the Edomites, settling in Mount Seir; Jacob's descendants became the Israelites, inheriting Canaan.
+
+Shechem was an important Canaanite city located in the valley between two mountains, holding strategic importance. Jacob's purchase of land and erection of an altar there (vv. 18-20) marked his formal return to the promised land. This land later became Joseph's burial place (Joshua 24:32), an important landmark in Israel's history. Jacob's naming of the altar "El-Elohe-Israel" was his first public use of the name "Israel," proclaiming his new identity.`,
+  structure_zh: `本章的结构展现恩典如何化解冲突，神如何成就和好：
+
+**一、预备与相见（1-4节）**
+1. 雅各的安排：妻子儿女按次序（1-2节）
+2. 雅各的谦卑：七次下拜（3节）
+3. 以扫的接纳：拥抱亲嘴（4节）
+
+**二、家人的介绍（5-7节）**
+归荣耀给神："神施恩给你的仆人的"（5节）
+三批下拜：使女、利亚、拉结的孩子们（6-7节）
+
+**三、礼物的交接（8-11节）**
+1. 以扫的推辞："我的已经够了"（8-9节）
+2. 雅各的坚持："如同见了神的面"（10节）
+3. 归因于神："神恩待我"（11节）
+
+**四、和平的分离（12-17节）**
+1. 以扫的邀请：一同前往（12节）
+2. 雅各的婉拒：慢慢前行（13-14节）
+3. 各走各路：西珥与疏割（15-17节）
+
+**五、安抵示剑（18-20节）**
+1. 平安到达："平平安安"（18节）
+2. 买地支搭帐棚（19节）
+3. 筑坛感恩："神,以色列神"（20节）
+
+整个结构从紧张到释然，从恐惧到和好，最后以感恩的坛作结。这是神恩典作为的完整叙事。`, structure_en: `The structure of this chapter demonstrates how grace resolves conflict and God accomplishes reconciliation:
+
+**I. Preparation and Meeting (vv. 1-4)**
+1. Jacob's arrangement: wives and children in order (vv. 1-2)
+2. Jacob's humility: seven prostrations (v. 3)
+3. Esau's acceptance: embrace and kiss (v. 4)
+
+**II. Introduction of Family (vv. 5-7)**
+Glory to God: "God has graciously given your servant" (v. 5)
+Three groups bowing: children of servants, Leah, Rachel (vv. 6-7)
+
+**III. Exchange of Gift (vv. 8-11)**
+1. Esau's decline: "I have enough" (vv. 8-9)
+2. Jacob's insistence: "like seeing the face of God" (v. 10)
+3. Attribution to God: "God has dealt graciously with me" (v. 11)
+
+**IV. Peaceful Separation (vv. 12-17)**
+1. Esau's invitation: journey together (v. 12)
+2. Jacob's polite refusal: traveling slowly (vv. 13-14)
+3. Separate ways: Seir and Succoth (vv. 15-17)
+
+**V. Safe Arrival at Shechem (vv. 18-20)**
+1. Safe arrival: "came safely" (v. 18)
+2. Purchase of land and camping (v. 19)
+3. Altar of thanksgiving: "God, the God of Israel" (v. 20)
+
+The entire structure moves from tension to relief, from fear to reconciliation, concluding with an altar of thanksgiving. This is the complete narrative of God's gracious work.`,
+  theology_zh: `**神的护理超越人的惧怕**
+雅各怕以扫会报复（32:11），甚至把家人分成两队以防不测（32:7-8）。但神赐下的远超过他的祈求——不仅保护，更是和好。以扫不仅没有报复，反而跑来拥抱亲嘴（4节）。这显出改革宗神学强调的"神的护理"（Divine Providence）：神不仅掌管大事，也掌管人心的转变（箴21:1）。神可以使仇敌与人和好（箴16:7）。我们常常低估神的恩典——我们求保护，神赐和好；我们求免于伤害，神赐下祝福。保罗说："神能照着运行在我们心里的大力，充充足足地成就一切，超过我们所求所想的"（弗3:20）。
+
+**恩典中的谦卑**
+雅各虽然昨夜与神摔跤得胜，得了新名"以色列"，但他见以扫时仍七次下拜，称他为"我主"，称自己为"仆人"（3,5节）。这不是虚伪，而是真智慧。得了神的应许不意味着在人面前骄傲；与神较力得胜不意味着与人较力。改革宗神学强调"福音产生的谦卑"（Gospel humility）：越是经历神的恩典，越是知道自己不配，也就越发谦卑。雅各在神面前是"以色列"（得胜者），在人面前却甘愿作"仆人"。这正是主耶稣的样式："他本有神的形像，不以自己与神同等为强夺的，反倒虚己，取了奴仆的形像"（腓2:6-7）。
+
+**和好但不同路**
+雅各和以扫和好了，但没有同行（12-17节）。这不是冷漠，而是智慧。他们的呼召不同——以扫往西珥，雅各往迦南。这显出一个重要的属灵原则：和好不等于联合，平安不等于混杂。在新约中，保罗也说："信与不信的不要同负一轭"（林后6:14）。我们当与人和睦，却不能在真理上妥协。雅各不随以扫去西珥，因为那不是神应许他的地方。真正的和平不是取消分别，而是在分别中互相尊重。改革宗强调"分别为圣"（sanctification）：基督徒在世上要与世人和睦相处，却不能效法这世界（罗12:2）。
+
+**见证神的恩典**
+雅各在本章三次提到神的恩典（5,10,11节），并筑坛称神为"以色列神"（20节）。他不夸自己的聪明、不夸自己的财富、不夸自己与神摔跤的经历，只夸神的恩典。这正是改革宗神学的核心："唯独荣耀神"（Soli Deo Gloria）。一切好处都是从神来的，一切祝福都该归于神。保罗说："使你与人不同的是谁呢？你有什么不是领受的呢？若是领受的，为何自夸，仿佛不是领受的呢？"（林前4:7）雅各深知：不是他的礼物感动了以扫，而是神软化了以扫的心；不是他的智慧保护了他，而是神的恩典保守了他。一切都是恩典。`, theology_en: `**God's Providence Exceeds Human Fear**
+Jacob feared Esau would take revenge (32:11), even dividing his family into two camps as a precaution (32:7-8). But God gave far more than he asked—not only protection but reconciliation. Esau not only refrained from revenge but ran to embrace and kiss him (v. 4). This demonstrates what Reformed theology emphasizes as "Divine Providence": God not only controls great events but also transforms human hearts (Proverbs 21:1). God can make even enemies be at peace with a person (Proverbs 16:7). We often underestimate God's grace—we ask for protection, God gives reconciliation; we ask to avoid harm, God gives blessing. Paul said: "Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us" (Ephesians 3:20).
+
+**Humility in Grace**
+Though Jacob prevailed in wrestling with God last night and received the new name "Israel," when meeting Esau he still bowed seven times, calling him "my lord" and himself "servant" (vv. 3,5). This was not hypocrisy but true wisdom. Receiving God's promises does not mean pride before men; prevailing with God does not mean striving with men. Reformed theology emphasizes "Gospel humility": the more we experience God's grace, the more we know our unworthiness, and therefore become more humble. Jacob before God was "Israel" (overcomer), but before men he willingly became "servant." This is the pattern of the Lord Jesus: "though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant" (Philippians 2:6-7).
+
+**Reconciled but Not Walking Together**
+Jacob and Esau reconciled but did not travel together (vv. 12-17). This was not coldness but wisdom. Their callings differed—Esau to Seir, Jacob to Canaan. This reveals an important spiritual principle: reconciliation does not equal union; peace does not equal mixture. In the New Testament, Paul also said: "Do not be unequally yoked with unbelievers" (2 Corinthians 6:14). We should be at peace with all, yet cannot compromise on truth. Jacob did not follow Esau to Seir, for that was not the land God promised him. True peace is not elimination of distinction but mutual respect within distinction. Reformed theology emphasizes "sanctification": Christians should live peacefully with the world, yet cannot be conformed to this world (Romans 12:2).
+
+**Testifying to God's Grace**
+Jacob mentioned God's grace three times in this chapter (vv. 5,10,11) and erected an altar calling God "the God of Israel" (v. 20). He did not boast of his cleverness, his wealth, or his wrestling experience with God—only of God's grace. This is the core of Reformed theology: "Soli Deo Gloria" (Glory to God alone). All good things come from God; all blessings should be attributed to God. Paul said: "What do you have that you did not receive? If then you received it, why do you boast as if you did not receive it?" (1 Corinthians 4:7). Jacob knew deeply: it was not his gifts that moved Esau but God who softened Esau's heart; not his wisdom that protected him but God's grace that preserved him. All was grace.`,
+  christShadow_zh: `**拥抱亲嘴的兄弟：浪子回头的预表**
+以扫跑来迎接雅各，拥抱他、亲嘴，两人一同哭泣（4节）。这一幕预表基督在路加福音15章讲的浪子的比喻。那父亲看见浪子回来，"相离还远，他父亲看见，就动了慈心，跑去抱着他的颈项，连连与他亲嘴"（路15:20）。以扫本该报复，却拥抱；本该追讨，却赦免。这正是福音的画面：我们本是罪人，本该受审判，但天父却在基督里拥抱我们、赦免我们。以扫对雅各的接纳，预表神在基督里对罪人的接纳。
+
+**"如同见了神的面"**
+雅各说："我见了你的面，如同见了神的面"（10节）。这话有双重预表意义。首先，以扫接纳雅各，使雅各在他脸上看见了神的恩慈。这预表我们在基督的面上看见神的荣光。保罗说："那吩咐光从黑暗里照出来的神，已经照在我们心里，叫我们得知神荣耀的光显在耶稣基督的面上"（林后4:6）。其次，雅各昨夜在毘努伊勒见了神的面（32:30），今天又在以扫的接纳中见了神的面。这预表基督的双重工作：在十字架上，基督面对面与神摔跤，承担了神的忿怒（"我的神，我的神，为什么离弃我？"太27:46）；在复活后，基督带来了神的悦纳和平安（"愿你们平安"约20:19）。我们借着基督，既经历神圣洁的面（审判的神），也经历神慈爱的面（赦免的神）。
+
+**礼物与祝福**
+雅各坚持要以扫收下礼物，说："求你收下我带来给你的祝福"（原文是"祝福"，和合本译作"礼物"，11节）。这礼物在希伯来文中与"祝福"（berakah）是同一个词。当年雅各用诡计夺了以扫的祝福（berakah，27:35-36），现在他要把祝福送回给以扫。这预表基督的工作。我们本该受咒诅，基督却为我们成了咒诅（加3:13），把祝福赐给我们。雅各送礼物是为了和好，基督舍命是为了救赎。雅各的礼物不能真正补偿以扫，基督的宝血却能完全洗净我们的罪（约壹1:7）。
+
+**筑坛："神，以色列神"**
+雅各在示剑筑坛，起名"伊利伊罗伊以色列"，意思是"神，以色列神"（20节）。这名字宣告两件事：第一，耶和华是以色列的神，以色列是神的子民；第二，是这位神使"以色列"（就是雅各）得胜。这坛预表新约的教会。保罗说："神的殿就是你们"（林前3:16）。每一个在基督里的人都是活石，被建造成为灵宫（彼前2:5）。我们筑坛不是用石头，而是用赞美、感恩和见证，宣告"神是我们的神，我们是他的子民"（启21:3）。雅各的坛见证神保守他平安回到应许之地，我们的生命要见证神在基督里保守我们到达天上的家乡。
+
+**和好却分离：属天与属地的分别**
+雅各和以扫和好但不同行（12-17节）。以扫回西珥（属地的国度），雅各往迦南（应许之地）。这预表信徒与世界的关系。我们当与世人和睦，"若是能行，总要尽力与众人和睦"（罗12:18），却不能与世界同负一轭。以扫代表属肉体的人，看重今生（来12:16）；雅各代表属灵的人，盼望神的国度。他们可以和平共处，却不能同走一条路。主耶稣说："你们不属世界"（约15:19），又说："我不求你叫他们离开世界，只求你保守他们脱离那恶者"（约17:15）。在世界中，却不属世界——这是雅各和以扫关系给我们的启示。`, christShadow_en: `**The Embracing, Kissing Brother: Foreshadowing the Prodigal Son**
+Esau ran to meet Jacob, embraced him, kissed him, and they wept together (v. 4). This scene foreshadows Christ's parable of the prodigal son in Luke 15. That father, seeing the prodigal return, "while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him" (Luke 15:20). Esau should have taken revenge but embraced; should have demanded recompense but forgave. This is the picture of the gospel: we are sinners who deserve judgment, yet the Father embraces and forgives us in Christ. Esau's acceptance of Jacob foreshadows God's acceptance of sinners in Christ.
+
+**"Like Seeing the Face of God"**
+Jacob said, "For I have seen your face, which is like seeing the face of God" (v. 10). These words have dual typological significance. First, Esau's acceptance of Jacob enabled Jacob to see God's mercy in his face. This foreshadows our seeing the glory of God in Christ's face. Paul said: "For God, who said, 'Let light shine out of darkness,' has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ" (2 Corinthians 4:6). Second, Jacob saw God's face at Peniel last night (32:30), and today saw God's face again in Esau's acceptance. This foreshadows Christ's dual work: on the cross, Christ wrestled face to face with God, bearing God's wrath ("My God, my God, why have you forsaken me?" Matthew 27:46); after resurrection, Christ brought God's acceptance and peace ("Peace be with you" John 20:19). Through Christ, we experience both God's holy face (the God of judgment) and God's loving face (the God of forgiveness).
+
+**Gift and Blessing**
+Jacob insisted Esau accept the gift, saying, "Please accept my blessing that is brought to you" (the Hebrew word is "blessing," v. 11). This gift in Hebrew shares the same word with "blessing" (berakah). Years ago Jacob deceitfully took Esau's blessing (berakah, 27:35-36); now he wanted to return blessing to Esau. This foreshadows Christ's work. We deserved the curse, but Christ became a curse for us (Galatians 3:13), giving us the blessing. Jacob gave gifts for reconciliation; Christ gave His life for redemption. Jacob's gifts could not truly compensate Esau; Christ's blood completely cleanses us from sin (1 John 1:7).
+
+**The Altar: "God, the God of Israel"**
+Jacob erected an altar at Shechem, naming it "El-Elohe-Israel," meaning "God, the God of Israel" (v. 20). This name proclaimed two things: first, the LORD is Israel's God, and Israel is God's people; second, this God made "Israel" (Jacob) victorious. This altar foreshadows the New Testament church. Paul said: "You are God's temple" (1 Corinthians 3:16). Everyone in Christ is a living stone, built into a spiritual house (1 Peter 2:5). We build altars not with stones but with praise, thanksgiving, and testimony, proclaiming "God is our God, and we are his people" (Revelation 21:3). Jacob's altar testified that God preserved him safely back to the promised land; our lives testify that God in Christ preserves us until we reach our heavenly home.
+
+**Reconciled Yet Separated: The Distinction Between Heavenly and Earthly**
+Jacob and Esau reconciled but did not travel together (vv. 12-17). Esau returned to Seir (earthly kingdom), Jacob went to Canaan (promised land). This foreshadows believers' relationship with the world. We should be at peace with all people, "If possible, so far as it depends on you, live peaceably with all" (Romans 12:18), yet cannot be yoked with the world. Esau represents the carnal person, valuing this life (Hebrews 12:16); Jacob represents the spiritual person, hoping for God's kingdom. They could coexist peacefully but could not walk the same path. The Lord Jesus said: "You are not of the world" (John 15:19), and "I do not ask that you take them out of the world, but that you keep them from the evil one" (John 17:15). In the world yet not of the world—this is the revelation from Jacob and Esau's relationship.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 34,
@@ -3407,11 +4153,167 @@ readings.push({
   title: '底拿', titleEn: 'The Outrage at Shechem',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 34:1 / Genesis 34:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `我摩西在此记下底拿被玷污和西缅、利未复仇的历史。这是一段黑暗的历史，显出罪如何玷污人、激怒人、毁坏人。但即使在这黑暗中，神的护理仍在掌权。
+
+底拿的遭遇。利亚的女儿底拿出去，要见那地的女子（1节原文在34章开头）。他只是想和当地的女子来往，这本身或许没有恶意，但却带来了灾祸。那地的主希未人哈抹的儿子示剑看见他，就拉住他，与他行淫，玷辱了他（1节）。这是暴力的罪行，是对底拿、对雅各家的羞辱。但随后示剑的心系恋底拿，喜爱这女子，甜言蜜语地安慰他（2-3节）。他对父亲说："求你为我聘这女子为妻"（4节）。
+
+雅各听见这事，却"闭口不言"（5节）。为什么？圣经没有说明。或许他在等儿子们回来，或许他不知道该如何处理。但他的沉默显出他的软弱。作为父亲，他该为女儿伸冤，该有行动，但他却闭口不言。这与他一生的性格一致——在面对困难时，他常常退缩、回避、依赖计谋而非信心。
+
+儿子们的愤怒。雅各的儿子们从田野回来，听见这事，"人人忿恨，十分恼怒"（6节）。他们的愤怒是对的——示剑在以色列家作了丑事，与雅各的女儿行淫，这本是不该做的事。但他们接下来的行动却走向了极端。
+
+诡诈的提议。哈抹来和雅各商议，提议两家结亲，示剑甚至说愿意付任何聘金（7-12节）。但雅各的儿子们"用诡诈的话回答示剑和他父亲哈抹"（13节）。他们说："我们不能把我们的妹子给没有受割礼的人为妻，因为那是我们的羞辱"（14节）。他们提出条件：若示剑城所有的男丁都受割礼，就把女儿给他们，与他们同住，成为一样的人民（15-17节）。
+
+这提议看似属灵——强调割礼，强调圣洁的区别。但他们心中的动机不是真心要与示剑人立约，而是设计报复。他们把圣洁的记号（割礼）当作报复的工具，这是对神圣物的亵渎。神设立割礼是立约的记号，不是杀人的陷阱。
+
+示剑人受割礼。哈抹和示剑听了，欢喜接受（18-19节）。他们到本城门口对城中的人说，劝他们都受割礼。他们的理由不是敬拜以色列的神，而是利益："他们的群畜、货财，和一切的牲口岂不都归我们么？"（23节）这显出他们的动机也不纯。示剑城的男丁就都受了割礼（24节）。
+
+残酷的报复。到第三天，众人正在疼痛的时候，底拿的哥哥西缅和利未各拿刀剑，趁着众人想不到的时候来到城中，把一切男丁都杀了（25节）。他们又用刀杀了哈抹和示剑，把底拿带出来（26节）。其他的儿子们也来了，掳掠那城，夺了他们的羊群、牛群和驴，并城里田间所有的，又把他们的孩子、妇女、货财都掳掠去了（27-29节）。这不仅是杀人，更是屠城、掳掠。
+
+这行动的罪恶是多重的：第一，他们用诡诈欺骗人，亵渎了割礼的神圣；第二，他们的报复远远超过了公义的尺度——示剑一人犯罪，他们却杀了全城的男丁；第三，他们掳掠妇女孩子、夺取财物，显出他们不仅是为妹妹伸冤，也是为了掠夺。
+
+雅各的责备。雅各对西缅和利未说："你们连累我，使我在这地的居民中，就是在迦南人和比利洗人中，有了臭名。我的人丁既然稀少，他们必聚集来击杀我，我和全家的人都必灭绝"（30节）。雅各的责备只关注实际的后果——会被报复、会灭绝。他没有责备他们的罪恶本身，没有提到他们的诡诈和残忍，只担心自己的安危。这显出雅各的属灵光景：他关心的是自己的平安，不是神的荣耀。
+
+儿子们的回答只有一句："他岂可待我们的妹子如同妓女么？"（31节）这话有理，但不能成为屠城的理由。他们的愤怒是对的，但他们的行动是错的。
+
+这一章让我们看见罪的可怕连锁反应。示剑的一个罪行（玷污底拿），引发雅各家的愤怒，进而导致诡诈和屠城，最后使雅各全家陷入危险。罪从来不是孤立的，它会蔓延、会恶化、会毁坏。更让人痛心的是，雅各的儿子们在"伸张正义"的名义下，犯了更大的罪。他们把神圣的割礼当作杀人的工具，这是对神的亵渎。
+
+雅各后来在临终祝福中没有忘记这件事。他说："西缅和利未是弟兄，他们的刀剑是残忍的器械……因为他们趁怒杀害人命，任意砍断牛腿大筋。他们的怒气暴烈可咒，他们的忿恨残忍可诅"（创49:5-7）。神也没有忘记。西缅支派后来在以色列中极其微小，利未支派虽然后来因在金牛犊事件中站在神一边而被拣选为祭司支派（出32:26-29），但他们没有得地业，分散在以色列各支派中（创49:7）。
+
+罪的工价乃是死（罗6:23）。这一章是整本圣经中最黑暗的篇章之一，但它提醒我们：没有神的恩典，人能做出何等可怕的事。`, content_en: `I, Moses, here record the history of Dinah's defilement and the revenge of Simeon and Levi. This is a dark chapter of history, revealing how sin defiles, enrages, and destroys people. Yet even in this darkness, God's providence remained sovereign.
+
+Dinah's ordeal. Dinah, the daughter of Leah, went out to see the women of the land (v. 1, this is the beginning of chapter 34). She simply wanted to visit the local women, which perhaps had no ill intent, but it led to disaster. Shechem, son of Hamor the Hivite, the prince of the land, saw her, seized her, and violated her (v. 1). This was a crime of violence, an outrage against Dinah and Jacob's household. Yet afterward Shechem's soul was drawn to Dinah, he loved the young woman and spoke tenderly to her (vv. 2-3). He said to his father, "Get me this girl for my wife" (v. 4).
+
+Jacob heard of it but "held his peace" (v. 5). Why? Scripture does not explain. Perhaps he was waiting for his sons to return, or perhaps he did not know how to handle it. But his silence revealed his weakness. As a father, he should have sought justice for his daughter, should have acted, but he held his peace. This was consistent with his lifelong character—when facing difficulties, he often withdrew, avoided, and relied on scheming rather than faith.
+
+The sons' anger. Jacob's sons came from the field and heard of it; they were "indignant and very angry" (v. 6). Their anger was justified—Shechem had committed an outrage in Israel by violating Jacob's daughter, for such a thing must not be done. But their subsequent actions went to extremes.
+
+The deceitful proposal. Hamor came to confer with Jacob, proposing intermarriage, with Shechem even willing to pay any bride price (vv. 7-12). But Jacob's sons "answered Shechem and his father Hamor deceitfully" (v. 13). They said, "We cannot do this thing, to give our sister to one who is uncircumcised, for that would be a disgrace to us" (v. 14). They set conditions: if all the males in Shechem were circumcised, they would give their daughters to them, live with them, and become one people (vv. 15-17).
+
+This proposal seemed spiritual—emphasizing circumcision, emphasizing the distinction of holiness. But their motive was not genuine covenant-making with the Shechemites but plotting revenge. They used the holy sign (circumcision) as a tool for vengeance, which was desecration of the sacred. God instituted circumcision as a covenant sign, not as a trap for murder.
+
+The Shechemites' circumcision. Hamor and Shechem heard and gladly accepted (vv. 18-19). They went to the city gate and persuaded the people to be circumcised. Their reason was not worshiping Israel's God but profit: "Will not their livestock, their property and all their beasts be ours?" (v. 23). This revealed their impure motives as well. All the males of Shechem were circumcised (v. 24).
+
+Brutal revenge. On the third day, when the men were still in pain, Dinah's brothers Simeon and Levi took their swords, came against the city while it felt secure, and killed all the males (v. 25). They also killed Hamor and Shechem with the sword and took Dinah out (v. 26). The other sons came and plundered the city, seizing their flocks, herds, donkeys, and everything in the city and field, and carried away all their wealth, children, and women (vv. 27-29). This was not merely killing but massacre and plunder.
+
+The evil of this action was manifold: first, they used deceit and deception, desecrating the sanctity of circumcision; second, their revenge far exceeded the measure of justice—Shechem alone sinned, yet they killed all the males of the city; third, they plundered women, children, and goods, showing they sought not only justice for their sister but also plunder.
+
+Jacob's rebuke. Jacob said to Simeon and Levi, "You have brought trouble on me by making me stink to the inhabitants of the land, the Canaanites and the Perizzites. My numbers are few, and if they gather themselves against me and attack me, I shall be destroyed, both I and my household" (v. 30). Jacob's rebuke focused only on practical consequences—retaliation and extinction. He did not rebuke their sin itself, did not mention their deceit and cruelty, but only worried about his own safety. This revealed Jacob's spiritual condition: he cared about his own peace, not God's glory.
+
+The sons' response was one sentence: "Should he treat our sister like a prostitute?" (v. 31). This was reasonable, but could not justify massacring a city. Their anger was justified, but their action was wrong.
+
+This chapter shows us the terrible chain reaction of sin. One sin by Shechem (defiling Dinah) provoked anger in Jacob's household, which led to deceit and massacre, ultimately endangering Jacob's entire family. Sin is never isolated; it spreads, worsens, and destroys. Even more heartbreaking, Jacob's sons committed greater sin in the name of "justice." They used the sacred sign of circumcision as a tool for murder, which was blasphemy against God.
+
+Jacob did not forget this incident in his deathbed blessing. He said: "Simeon and Levi are brothers; weapons of violence are their swords...for in their anger they killed men, and in their willfulness they hamstrung oxen. Cursed be their anger, for it is fierce, and their wrath, for it is cruel" (Genesis 49:5-7). God also did not forget. The tribe of Simeon later became very small in Israel; the tribe of Levi, though later chosen as the priestly tribe for standing with God during the golden calf incident (Exodus 32:26-29), received no inheritance and was scattered among the tribes of Israel (Genesis 49:7).
+
+The wages of sin is death (Romans 6:23). This chapter is one of the darkest in all of Scripture, but it reminds us: without God's grace, what terrible things people can do.`,
+  historyContext_zh: `这段历史发生在主前约1908年，地点在示剑城。示剑是迦南地重要的城邦，位于以法莲山地，地理位置重要，控制着南北通道。雅各刚刚在那里买地、筑坛（33:18-20），本想在此安居，却发生了这场悲剧。
+
+古近东社会中，女子出去"见那地的女子"（34:1）带有社交的意味。但在族群界限分明的社会中，这种跨族群的社交常常带来危险。底拿的悲剧提醒我们，雅各一家住在迦南人中间，必然面对文化和道德的冲突。
+
+强暴妇女在古代世界是严重的罪行。但示剑事后想娶底拿为妻，表明他不是单纯的暴徒，而是真的爱上了底拿。哈抹和示剑提出联姻的建议（8-12节），在当时的文化背景下是合理的补救方式。但雅各的儿子们拒绝了和平解决，选择了血腥报复。
+
+割礼在亚伯拉罕之约中是立约的记号（创17:9-14），专属于以色列民族。西缅和利未要求示剑人受割礼（14-17节），表面上是要求对方加入约民，实际上是设圈套。示剑人为了利益而受割礼（23节），也显出他们不理解割礼的属灵意义。
+
+雅各后来咒诅西缅和利未的怒气（创49:5-7），预言他们要分散在以色列中。历史证明这预言应验：西缅支派后来极其微小，几乎消失；利未支派虽成为祭司，却没有地业，散居各城（民35:1-8）。这提醒我们：神的审判虽然迟延，却不会落空。`, historyContext_en: `This history occurred around 1908 BC, at the city of Shechem. Shechem was an important Canaanite city-state located in the hill country of Ephraim, holding strategic importance and controlling the north-south passage. Jacob had just purchased land and erected an altar there (33:18-20), intending to settle, when this tragedy occurred.
+
+In ancient Near Eastern society, a woman going out to "see the women of the land" (34:1) had social connotations. But in societies with clear tribal boundaries, such cross-tribal socializing often brought danger. Dinah's tragedy reminds us that Jacob's family, living among the Canaanites, inevitably faced cultural and moral conflicts.
+
+Rape of women was a serious crime in the ancient world. But Shechem's desire to marry Dinah afterward indicated he was not merely a brute but genuinely loved Dinah. Hamor and Shechem's proposal of intermarriage (vv. 8-12) was a reasonable remedy within that cultural context. But Jacob's sons rejected peaceful resolution and chose bloody revenge.
+
+Circumcision in the Abrahamic covenant was the sign of the covenant (Genesis 17:9-14), unique to the Israelite people. Simeon and Levi's demand that the Shechemites be circumcised (vv. 14-17) appeared to require the other party to join the covenant people, but was actually setting a trap. The Shechemites' circumcision for profit (v. 23) also revealed they did not understand circumcision's spiritual significance.
+
+Jacob later cursed the anger of Simeon and Levi (Genesis 49:5-7), prophesying they would be scattered in Israel. History proved this prophecy: the tribe of Simeon later became extremely small, nearly disappearing; the tribe of Levi, though becoming priests, received no land inheritance and were scattered in cities (Numbers 35:1-8). This reminds us: God's judgment, though delayed, will not fail.`,
+  structure_zh: `本章的结构展现罪如何从一个恶行蔓延为全城的悲剧：
+
+**一、底拿被玷污（1-4节）**
+1. 底拿出去见当地女子（1节上）
+2. 示剑玷污底拿（1节下）
+3. 示剑的爱慕与求婚（2-4节）
+
+**二、两家的对话（5-24节）**
+1. 雅各的沉默与儿子们的愤怒（5-7节）
+2. 哈抹的提议：联姻共处（8-12节）
+3. 雅各儿子们的诡诈条件：割礼（13-17节）
+4. 示剑人的接受与受割礼（18-24节）
+
+**三、血腥的报复（25-29节）**
+1. 西缅和利未杀尽男丁（25-26节）
+2. 众子掳掠全城（27-29节）
+
+**四、雅各的责备与儿子们的回应（30-31节）**
+1. 雅各的担忧：实际后果（30节）
+2. 儿子们的辩护：妹妹的尊严（31节）
+
+这结构显出罪的进展：从一个罪行（示剑的暴力），到诡诈的回应（假装立约），最后到更大的罪行（屠城和掠夺）。每一步都让情况恶化，最后无人得益，全家陷入危险。`, structure_en: `The structure of this chapter demonstrates how sin spreads from one evil act into citywide tragedy:
+
+**I. Dinah's Defilement (vv. 1-4)**
+1. Dinah goes out to see local women (v. 1a)
+2. Shechem violates Dinah (v. 1b)
+3. Shechem's love and marriage proposal (vv. 2-4)
+
+**II. Dialogue Between the Families (vv. 5-24)**
+1. Jacob's silence and sons' anger (vv. 5-7)
+2. Hamor's proposal: intermarriage and coexistence (vv. 8-12)
+3. Jacob's sons' deceitful condition: circumcision (vv. 13-17)
+4. Shechemites' acceptance and circumcision (vv. 18-24)
+
+**III. Bloody Revenge (vv. 25-29)**
+1. Simeon and Levi kill all males (vv. 25-26)
+2. Other sons plunder the city (vv. 27-29)
+
+**IV. Jacob's Rebuke and Sons' Response (vv. 30-31)**
+1. Jacob's worry: practical consequences (v. 30)
+2. Sons' defense: sister's dignity (v. 31)
+
+This structure reveals sin's progression: from one crime (Shechem's violence), to deceitful response (pretending to make covenant), finally to greater crime (massacre and plunder). Each step worsened the situation; in the end no one benefited, and the whole family fell into danger.`,
+  theology_zh: `**罪的连锁反应与全然败坏**
+这一章是人全然败坏（Total Depravity）的生动例证。改革宗神学相信人因亚当的堕落，本性完全败坏，没有任何一部分未受罪的玷污（韦斯敏斯德信条6.2-4）。这一章中，没有一个无辜者：示剑犯了强暴罪，哈抹和示剑人贪图利益，西缅和利未用诡诈和残杀，雅各只关心自己的安危而不顾神的荣耀。罪的连锁反应让所有人都陷入其中。保罗说："没有义人，连一个也没有"（罗3:10）。这不是说人坏到极致，而是说人的每一部分都被罪玷污了——理性、情感、意志都被扭曲。唯有神的恩典能救我们脱离这全然的败坏。
+
+**滥用圣物的严重性**
+西缅和利未把神圣的割礼当作杀人的工具，这是对神的亵渎。割礼是神与亚伯拉罕立约的记号（创17:10-11），代表分别为圣归给神。但他们用它作诡诈和屠杀的手段。这显出一个严重的罪：以宗教的名义犯罪，以神圣的事物作恶的工具。这在历史上屡见不鲜——十字军东征以"圣战"之名杀人，宗教裁判所以"护教"之名迫害异端。保罗警告："神的名在外邦人中，因你们受了亵渎"（罗2:24）。我们必须警惕：当我们以"正义"、"圣洁"、"维护真理"之名行恶时，我们的罪比不信者更大。
+
+**怒气与报复的危险**
+西缅和利未的愤怒是对的——妹妹被玷污，这是该愤怒的事。但他们的怒气失控了，变成了残忍的报复。雅各临终时咒诅他们："他们的怒气暴烈可咒，他们的忿恨残忍可诅"（创49:7）。圣经说："生气却不要犯罪；不可含怒到日落"（弗4:26）。怒气本身不是罪，但若不加以约束，就会变成罪的工具。改革宗神学强调"情感的成圣"（sanctification of affections）：我们的情感——包括愤怒、喜乐、悲伤——都需要被神的话语和圣灵约束和引导。义怒和私仇的界限在哪里？在于是否以神的荣耀为中心。西缅和利未的怒气是为了自己家族的名誉，不是为了神的荣耀，所以他们的怒气变成了罪。
+
+**神的护理在黑暗中**
+这一章极其黑暗，但第35章开头神的话语临到："你起来，上伯特利去"（35:1）。即使在人最败坏、最黑暗的时刻，神的护理仍在掌权。神没有废弃雅各，没有因这悲剧而废弃他的约。这正是改革宗强调的"圣徒的坚忍"（Perseverance of the Saints）：不是圣徒坚持不犯罪（这一章证明他们会犯大罪），而是神坚持保守他们到底。神要将雅各一家从示剑这污秽之地带到伯特利，重新洁净他们、坚固他们。这是恩典——不是因为他们配得，而是因为神信实。`, theology_en: `**Sin's Chain Reaction and Total Depravity**
+This chapter is a vivid illustration of Total Depravity. Reformed theology believes that through Adam's fall, human nature is completely corrupted, with no part untainted by sin (Westminster Confession 6.2-4). In this chapter, there is no innocent party: Shechem committed rape, Hamor and the Shechemites coveted profit, Simeon and Levi used deceit and slaughter, Jacob cared only for his own safety and not God's glory. Sin's chain reaction trapped everyone. Paul said: "None is righteous, no, not one" (Romans 3:10). This does not mean people are as bad as possible, but that every part of a person is tainted by sin—reason, emotion, will are all twisted. Only God's grace can deliver us from this total corruption.
+
+**The Seriousness of Abusing Sacred Things**
+Simeon and Levi used the sacred sign of circumcision as a tool for murder, which was blasphemy against God. Circumcision was the sign of God's covenant with Abraham (Genesis 17:10-11), representing being set apart holy to God. But they used it as a means for deceit and massacre. This reveals a serious sin: committing sin in religion's name, using sacred things as tools for evil. This has been common throughout history—the Crusades killed in the name of "holy war," the Inquisition persecuted heretics in the name of "defending the faith." Paul warned: "The name of God is blasphemed among the Gentiles because of you" (Romans 2:24). We must be vigilant: when we do evil in the name of "justice," "holiness," or "defending truth," our sin is greater than unbelievers.
+
+**The Danger of Anger and Revenge**
+Simeon and Levi's anger was justified—their sister was violated, which warranted anger. But their anger spiraled out of control, becoming cruel revenge. Jacob cursed them on his deathbed: "Cursed be their anger, for it is fierce, and their wrath, for it is cruel" (Genesis 49:7). Scripture says: "Be angry and do not sin; do not let the sun go down on your anger" (Ephesians 4:26). Anger itself is not sin, but if unrestrained, it becomes sin's tool. Reformed theology emphasizes "sanctification of affections": our emotions—including anger, joy, sorrow—all need to be restrained and guided by God's Word and Spirit. Where is the line between righteous anger and personal vendetta? Whether it centers on God's glory. Simeon and Levi's anger was for their family's honor, not God's glory, so their anger became sin.
+
+**God's Providence in Darkness**
+This chapter is extremely dark, yet at the beginning of chapter 35 God's word came: "Arise, go up to Bethel" (35:1). Even in humanity's most corrupt and dark moments, God's providence remained sovereign. God did not abandon Jacob, did not nullify His covenant because of this tragedy. This exemplifies Reformed emphasis on "Perseverance of the Saints": not that saints persist without sinning (this chapter proves they commit great sins), but that God persists in preserving them to the end. God would bring Jacob's family from defiled Shechem to Bethel, to cleanse and strengthen them anew. This is grace—not because they deserved it, but because God is faithful.`,
+  christShadow_zh: `**被玷污的女儿与被玷污的新妇**
+底拿被示剑玷污（1节），这是对雅各家的羞辱和伤害。这预表以色列民如何被世界玷污、被罪恶玷污。先知何西阿用淫乱的妻子比喻以色列对神的不忠（何1-3章），以西结用被玷污的妇人比喻耶路撒冷（结16章）。但神没有因此弃绝他的百姓。反而，基督来要洁净他的教会。保罗说："基督爱教会，为教会舍己，要用水藉着道把教会洗净，成为圣洁，可以献给自己，作个荣耀的教会，毫无玷污、皱纹等类的病，乃是圣洁没有瑕疵的"（弗5:25-27）。底拿被玷污无法挽回，但基督的宝血能洗净一切的罪（约壹1:7）。
+
+**滥用圣约记号**
+西缅和利未用割礼作为杀人的陷阱（13-25节）。割礼本是神圣的约的记号，却被用作诡诈和屠杀的工具。这预表后来宗教领袖如何滥用神的律法和圣殿。法利赛人以守安息日之名拒绝医治（可3:1-6），以洁净礼仪之名废弃孝敬父母（可7:9-13）。主耶稣严厉责备他们："你们这假冒为善的文士和法利赛人有祸了！因为你们好像粉饰的坟墓，外面好看，里面却装满了死人的骨头和一切的污秽"（太23:27）。基督来不是废掉律法，而是成全律法（太5:17），他不用圣物作恶，而用圣洁救人。
+
+**虚假的割礼与真割礼**
+示剑人受割礼不是因为信神，而是因为贪图利益（23节）。这是虚假的割礼——有外在的记号，却没有内心的实际。保罗说："外面作犹太人的，不是真犹太人；外面肉身的割礼，也不是真割礼。惟有里面作的，才是真犹太人；真割礼也是心里的，在乎灵，不在乎仪文"（罗2:28-29）。示剑人的割礼预表所有虚假的宗教形式——受洗却不悔改、领圣餐却不认罪、上教会却不爱主。基督带来的是心灵的割礼，是圣灵的内住，是生命的更新（西2:11）。
+
+**报复与饶恕**
+西缅和利未为妹妹报仇，却犯了更大的罪（25-29节）。他们用暴力回应暴力，用恶报恶。但基督来是要打破这报复的循环。主耶稣说："你们听见有话说：以眼还眼，以牙还牙。只是我告诉你们，不要与恶人作对。有人打你的右脸，连左脸也转过来由他打"（太5:38-39）。这不是懦弱，而是更高的义。因为最终的审判和报应在神手中（罗12:19）。基督在十字架上为那些钉他的人祷告："父啊，赦免他们！因为他们所做的，他们不晓得"（路23:34）。底拿的故事显出人的报复何等残酷，基督的十字架却显出神的饶恕何等浩大。
+
+**神的保守在黑暗中**
+虽然这一章极其黑暗，但神没有撇弃雅各一家。反而在下一章神呼召他："你起来，上伯特利去"（35:1）。这预表神在基督里对罪人的恩典。我们虽然犯罪、堕落、污秽，但神没有撇弃我们。"我们纵然失信，他仍是可信的，因为他不能背乎自己"（提后2:13）。基督来不是召义人，乃是召罪人（太9:13）。他来不是因为我们好，而是因为他信实。示剑的悲剧让我们看见人的黑暗，伯特利的呼召让我们看见神的恩典。`, christShadow_en: `**The Defiled Daughter and the Defiled Bride**
+Dinah was defiled by Shechem (v. 1), bringing shame and harm to Jacob's household. This foreshadows how Israel would be defiled by the world, defiled by sin. The prophet Hosea used an adulterous wife to symbolize Israel's unfaithfulness to God (Hosea 1-3), and Ezekiel used a defiled woman to symbolize Jerusalem (Ezekiel 16). Yet God did not therefore abandon His people. Rather, Christ came to cleanse His church. Paul said: "Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, so that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish" (Ephesians 5:25-27). Dinah's defilement could not be undone, but Christ's blood can cleanse all sin (1 John 1:7).
+
+**Abuse of the Covenant Sign**
+Simeon and Levi used circumcision as a trap for murder (vv. 13-25). Circumcision, the sacred covenant sign, was used as a tool for deceit and massacre. This foreshadows how religious leaders later abused God's law and temple. Pharisees refused healing in the name of Sabbath-keeping (Mark 3:1-6), and nullified honoring parents in the name of cleansing rituals (Mark 7:9-13). The Lord Jesus sternly rebuked them: "Woe to you, scribes and Pharisees, hypocrites! For you are like whitewashed tombs, which outwardly appear beautiful, but within are full of dead people's bones and all uncleanness" (Matthew 23:27). Christ came not to abolish the law but to fulfill it (Matthew 5:17); He did not use sacred things for evil but used holiness to save people.
+
+**False Circumcision and True Circumcision**
+The Shechemites were circumcised not because of faith in God but for profit (v. 23). This was false circumcision—having the outward sign without inner reality. Paul said: "For no one is a Jew who is merely one outwardly, nor is circumcision outward and physical. But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter" (Romans 2:28-29). The Shechemites' circumcision foreshadows all false religious forms—baptized yet unrepentant, partaking communion yet unconfessed, attending church yet not loving the Lord. Christ brings circumcision of the heart, the indwelling of the Spirit, renewal of life (Colossians 2:11).
+
+**Revenge and Forgiveness**
+Simeon and Levi avenged their sister yet committed greater sin (vv. 25-29). They responded to violence with violence, repaying evil with evil. But Christ came to break this cycle of revenge. The Lord Jesus said: "You have heard that it was said, 'An eye for an eye and a tooth for a tooth.' But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also" (Matthew 5:38-39). This is not weakness but higher righteousness. For ultimate judgment and retribution are in God's hands (Romans 12:19). On the cross Christ prayed for those who nailed Him: "Father, forgive them, for they know not what they do" (Luke 23:34). Dinah's story reveals how cruel human revenge is; Christ's cross reveals how vast God's forgiveness is.
+
+**God's Preservation in Darkness**
+Though this chapter is extremely dark, God did not forsake Jacob's family. Rather in the next chapter God called him: "Arise, go up to Bethel" (35:1). This foreshadows God's grace to sinners in Christ. Though we sin, fall, and defile, God does not forsake us. "If we are faithless, he remains faithful—for he cannot deny himself" (2 Timothy 2:13). Christ came not to call the righteous but sinners (Matthew 9:13). He came not because we are good but because He is faithful. Shechem's tragedy shows us human darkness; Bethel's call shows us God's grace.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 35,
@@ -3419,11 +4321,187 @@ readings.push({
   title: '回到伯特利', titleEn: 'Return to Bethel',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 35:1 / Genesis 35:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `我摩西在此记下雅各回到伯特利的历史。这是洁净与更新的一章，也是应许实现的一章。在示剑的悲剧之后，神呼召他的百姓回到起初的地方。
+
+神的呼召。"神对雅各说：起来！上伯特利去，住在那里；要在那里筑一座坛给神，就是你逃避你哥哥以扫的时候向你显现的那位"（1节）。这呼召在示剑事件之后显得格外重要。雅各家刚刚经历了底拿被玷污、儿子们屠城的悲剧，现在处于危险之中（34:30）。神没有责备他们，而是呼召他们：回到伯特利去。伯特利是雅各当年梦见天梯的地方（28:10-22），是他与神立约的地方，是神应许与他同在的地方。现在神说：回到那里去，重新开始。
+
+除掉外邦神像。雅各对家中的人和一切与他同在的人说："你们要除掉你们中间的外邦神，也要自洁，更换衣裳"（2节）。这话显示雅各家中竟然有外邦神像！或许是拉结从拉班那里偷来的神像（31:19），或许是从示剑掳来的战利品，或许是家中仆人带来的。但现在，在回到伯特利之前，必须除掉这些偶像。神是圣洁的神，不能容忍偶像。要朝见他，必须先洁净自己。
+
+他们就把外邦人的神像和耳朵上的环子交给雅各（3节）。为什么连环子也要交出来？或许那些环子也与偶像崇拜有关，或许它们是战利品、是不义之财。总之，一切与罪有关的、与偶像有关的，都要除掉。雅各都藏在示剑那里的橡树底下（3节）。这不是暂时的收藏，而是永久的埋葬。他们要与过去的罪彻底决裂。
+
+神的保护。"他们便起行前往。神使那周围城邑的人都甚惊惧，就不追赶雅各的众子了"（4节）。这是何等的恩典！按理说，示剑城被屠，周围的迦南人必定会联合起来报复。但神使他们惊惧，不敢追赶。神的保护不是因为雅各家配得，而是因为神信实于他的应许。他应许与雅各同在（28:15），现在他实现这应许，保护他的百姓平安到达伯特利。
+
+筑坛敬拜。雅各和一切与他同在的人到了迦南地的路斯，就是伯特利（5-6节）。他在那里筑了一座坛，给那地方起名叫伊勒伯特利，就是"伯特利之神"的意思（6节）。这名字的重点不在"伯特利"这地方，而在"神"。他筑坛不是为了纪念那地方，而是为了敬拜那位在伯特利向他显现的神。当年他逃离以扫时，神在伯特利向他显现；现在他回来了，要还他当年所许的愿（28:20-22）。
+
+底波拉之死。利百加的奶母底波拉死了，就葬在伯特利下边橡树底下，那棵树名叫亚伦巴古，就是"哀哭的橡树"（7节）。这是一个插曲，却提醒我们：在回归的路上，有告别，有失去。底波拉是利百加的奶母，或许一直跟随雅各家。他的去世标志着一个时代的结束。但即使在死亡中，神的恩典仍在——他在伯特利的橡树下安息，在神显现的地方安息。
+
+神再次显现。"雅各从巴旦亚兰回来，神又向他显现，赐福与他"（9节）。这是雅各第三次在伯特利遇见神。第一次是当年逃离以扫时的梦（28章），第二次是在哈兰神在梦中呼召他回来（31:13），第三次是现在，他回到伯特利，神又向他显现。神说："你的名原是雅各，从今以后不要再叫雅各，要叫以色列"（10节）。这是重申他在毘努伊勒得的新名（32:28）。为什么要重申？因为在示剑的悲剧中，雅各又显出了"雅各"的软弱——沉默、畏惧、只顾自己。神要再次提醒他：你不再是雅各，你是以色列；不要再活在旧我里，要活出新生命。
+
+神又重申亚伯拉罕之约。"我是全能的神；你要生养众多，将来有一族和多国的民从你而生，又有君王从你而出。我所赐给亚伯拉罕和以撒的地，我要赐给你与你的后裔"（11-12节）。这是对创世记17章神向亚伯拉罕应许的重申，也是对创世记26章神向以撒应许的重申。现在这应许传给了雅各。神的约是不改变的，神的应许是信实的。即使在雅各家最黑暗的时刻（示剑事件），神的约仍然坚立。
+
+雅各再次立柱浇油。"雅各便在那里立了一根石柱，在柱子上奠酒，浇油"（14节）。这正如他当年所做的（28:18）。立柱、奠酒、浇油，都是敬拜和奉献的行动。他给那地方起名叫伯特利（15节），重申这里是"神的殿"。
+
+拉结之死。他们从伯特利起行，离以法他还有一段路程，拉结临产甚是艰难（16节）。这是雅各最爱的妻子，是他服侍拉班十四年才得到的妻子。现在他难产，生命垂危。收生婆对他说："不要怕，你又要得一个儿子了"（17节）。拉结的心愿就是生儿子——他曾哭喊"给我孩子，不然我就死了"（30:1）。现在他又得了一个儿子，但代价是他自己的性命。他将近于死，灵魂要走的时候，给儿子起名叫便俄尼，意思是"我的悲伤之子"（18节）。但雅各却给他起名叫便雅悯，意思是"右手之子"或"力量之子"。雅各不愿用悲伤的名字记念这孩子，而用祝福的名字。
+
+拉结死了，葬在以法他的路旁，以法他就是伯利恒（19节）。雅各在他的坟上立了一统碑（20节）。这碑"到今日还在"——我写这段历史的时候，拉结的墓碑仍然在那里，提醒以色列人：我们的祖母拉结葬在伯利恒的路上。多少世纪之后，另一位母亲的儿子要生在伯利恒，他是便雅悯的后裔犹大支派的狮子，他要带来真正的力量和拯救（太2:1）。
+
+流便的罪。以色列起行前往，在以得台那边支搭帐棚。以色列住在那地的时候，流便去与他父亲的妾辟拉同寝，以色列也听见了（21节）。这是长子流便的羞耻。与父亲的妾同寝在古代文化中是夺权的象征（撒下16:21-22），也是对父亲极大的羞辱。雅各听见了，但圣经没有记载他的反应。直到临终祝福时，雅各才说："流便哪，你是我的长子，是我力量强壮的时候生的，本当大有尊荣，权力超众。但你放纵情欲，滚沸如水，必不得居首位；因为你上了你父亲的床，污秽了我的榻"（创49:3-4）。流便因此失去了长子的名分和祝福。
+
+十二支派的名单。"雅各共有十二个儿子"（22节下）。圣经在此列出十二个儿子的名字（23-26节），按母亲分类：利亚生了六个，拉结生了两个，拉结的使女辟拉生了两个，利亚的使女悉帕生了两个。这十二个儿子后来成为以色列十二支派的祖先。神应许亚伯拉罕的后裔要如海边的沙、天上的星那样多（15:5；22:17），现在开始实现——从一人到十二人，从十二人到十二支派，从十二支派到以色列国。
+
+以撒之死。雅各来到他父亲以撒那里，到了基列亚巴的幔利，就是希伯仑（27节）。这是亚伯拉罕和以撒寄居的地方，也是神多次向亚伯拉罕显现的地方（创13:18；18:1）。以撒共活了一百八十岁，"年纪老迈，日子满足，气绝而死，归到他列祖那里"（28-29节）。这描述显出以撒的一生蒙福——活到老迈，日子满足，平安地离世。他两个儿子以扫、雅各一起把他埋葬了。这一幕让人动容：二十年前他们分离时是仇敌，现在他们一起埋葬父亲。神使仇敌和好，使兄弟重聚。
+
+这一章是回归与更新。雅各回到伯特利，除去偶像，重新敬拜神。神再次向他显现，赐福他，重申应许。虽然有死亡的悲伤（底波拉、拉结、以撒），虽然有罪恶的玷污（流便），但神的应许坚立不变。以色列的十二个儿子都已出生，神的计划正在展开。`, content_en: `I, Moses, here record the history of Jacob's return to Bethel. This is a chapter of cleansing and renewal, and also of promise fulfilled. After the tragedy at Shechem, God called His people back to the place of beginning.
+
+God's call. "God said to Jacob, 'Arise, go up to Bethel and dwell there. Make an altar there to the God who appeared to you when you fled from your brother Esau'" (v. 1). This call was particularly significant after the Shechem incident. Jacob's family had just experienced the tragedy of Dinah's defilement and his sons' massacre, and now they were in danger (34:30). God did not rebuke them but called them: return to Bethel. Bethel was where Jacob had dreamed of the ladder to heaven (28:10-22), where he made covenant with God, where God promised to be with him. Now God said: Go back there and start anew.
+
+Removing foreign gods. Jacob said to his household and all who were with him, "Put away the foreign gods that are among you and purify yourselves and change your garments" (v. 2). This reveals there were foreign gods in Jacob's household! Perhaps the household gods Rachel stole from Laban (31:19), perhaps spoils from Shechem, perhaps brought by household servants. But now, before returning to Bethel, these idols must be removed. God is holy and cannot tolerate idols. To meet Him, they must first cleanse themselves.
+
+So they gave to Jacob all the foreign gods and the rings in their ears (v. 3). Why even the rings? Perhaps those rings were also associated with idol worship, or perhaps they were spoils, ill-gotten gains. In any case, everything associated with sin, with idols, must be removed. Jacob hid them under the terebinth near Shechem (v. 3). This was not temporary storage but permanent burial. They would make a complete break with past sin.
+
+God's protection. "And as they journeyed, a terror from God fell upon the cities that were around them, so that they did not pursue the sons of Jacob" (v. 4). What grace! Logically, with Shechem massacred, the surrounding Canaanites would surely unite for revenge. But God struck them with terror so they dared not pursue. God's protection was not because Jacob's family deserved it but because God was faithful to His promise. He had promised to be with Jacob (28:15); now He fulfilled that promise, protecting His people to arrive safely at Bethel.
+
+Building an altar to worship. Jacob and all the people with him came to Luz (that is, Bethel) in the land of Canaan (vv. 5-6). He built an altar there and called the place El-bethel, meaning "the God of Bethel" (v. 6). The focus of this name was not "Bethel" the place but "God." He built the altar not to commemorate the place but to worship the God who appeared to him at Bethel. When he fled Esau years ago, God appeared to him at Bethel; now he returned to fulfill the vow he made then (28:20-22).
+
+Deborah's death. Deborah, Rebekah's nurse, died and was buried under the oak below Bethel, which was named Allon-bacuth, meaning "oak of weeping" (v. 7). This was an interlude yet reminds us: on the journey of return, there are farewells, there are losses. Deborah was Rebekah's nurse, perhaps following Jacob's family all along. Her death marked the end of an era. But even in death, God's grace remained—she rested under the oak at Bethel, resting in the place where God appeared.
+
+God appeared again. "God appeared to Jacob again, when he came from Paddan-aram, and blessed him" (v. 9). This was Jacob's third encounter with God at Bethel. The first was his dream when fleeing Esau (chapter 28), the second was God's call in Haran to return (31:13), the third was now, having returned to Bethel, God appeared again. God said, "Your name is Jacob; no longer shall your name be called Jacob, but Israel shall be your name" (v. 10). This reiterated the new name he received at Peniel (32:28). Why reiterate? Because in the Shechem tragedy, Jacob again showed "Jacob's" weakness—silence, fear, self-concern. God wanted to remind him again: You are no longer Jacob but Israel; do not live in the old self but live out the new life.
+
+God reiterated the Abrahamic covenant. "I am God Almighty: be fruitful and multiply. A nation and a company of nations shall come from you, and kings shall come from your own body. The land that I gave to Abraham and Isaac I will give to you, and I will give the land to your offspring after you" (vv. 11-12). This reiterated God's promise to Abraham in Genesis 17 and to Isaac in Genesis 26. Now this promise was passed to Jacob. God's covenant is unchanging, God's promises are faithful. Even in Jacob's family's darkest moment (the Shechem incident), God's covenant stood firm.
+
+Jacob set up a pillar again and poured oil. "And Jacob set up a pillar in the place where he had spoken with him, a pillar of stone. He poured out a drink offering on it and poured oil on it" (v. 14). This was just as he had done years ago (28:18). Setting up the pillar, the drink offering, pouring oil—all were acts of worship and dedication. He called the place Bethel (v. 15), reaffirming this was "the house of God."
+
+Rachel's death. They journeyed from Bethel, and when they were still some distance from Ephrath, Rachel went into labor and had hard labor (v. 16). This was Jacob's most beloved wife, the wife he had served Laban fourteen years to obtain. Now she was in difficult childbirth, her life in danger. The midwife said, "Do not fear, for you have another son" (v. 17). Rachel's heart's desire was to bear sons—she had cried "Give me children, or I shall die" (30:1). Now she had another son, but the cost was her own life. As her soul was departing (for she was dying), she called his name Ben-oni, meaning "son of my sorrow" (v. 18). But Jacob called him Benjamin, meaning "son of the right hand" or "son of strength." Jacob would not commemorate this child with a sorrowful name but with a blessed name.
+
+Rachel died and was buried on the way to Ephrath (that is, Bethlehem) (v. 19). Jacob set up a pillar over her tomb (v. 20). This pillar was "there to this day"—when I wrote this history, Rachel's tombstone was still there, reminding Israelites: our grandmother Rachel is buried on the road to Bethlehem. Centuries later, another mother's son would be born in Bethlehem, the Lion of the tribe of Judah, descendant of Benjamin, who would bring true strength and salvation (Matthew 2:1).
+
+Reuben's sin. Israel journeyed on and pitched his tent beyond the tower of Eder. While Israel lived in that land, Reuben went and lay with Bilhah his father's concubine. And Israel heard of it (v. 21). This was the shame of Reuben the firstborn. Lying with his father's concubine in ancient culture symbolized seizing power (2 Samuel 16:21-22) and was a great insult to his father. Jacob heard of it, but Scripture does not record his reaction. Not until the deathbed blessing did Jacob say: "Reuben, you are my firstborn, my might, and the firstfruits of my strength, preeminent in dignity and preeminent in power. Unstable as water, you shall not have preeminence, because you went up to your father's bed; then you defiled it" (Genesis 49:3-4). Reuben thus lost the birthright and blessing.
+
+The list of twelve tribes. "The sons of Jacob were twelve" (v. 22b). Scripture here lists the names of the twelve sons (vv. 23-26), categorized by mother: Leah bore six, Rachel bore two, Rachel's servant Bilhah bore two, Leah's servant Zilpah bore two. These twelve sons later became the ancestors of Israel's twelve tribes. God promised Abraham's descendants would be as numerous as the sand of the sea and stars of heaven (15:5; 22:17); now it began to be fulfilled—from one man to twelve men, from twelve men to twelve tribes, from twelve tribes to the nation of Israel.
+
+Isaac's death. Jacob came to his father Isaac at Mamre, or Kiriath-arba (that is, Hebron) (v. 27). This was where Abraham and Isaac had sojourned, where God appeared to Abraham multiple times (Genesis 13:18; 18:1). Isaac lived 180 years and "breathed his last, and he died and was gathered to his people, old and full of days" (vv. 28-29). This description shows Isaac's blessed life—he lived to old age, full of days, died in peace. His two sons Esau and Jacob buried him together. This scene is moving: twenty years earlier when they parted they were enemies; now they buried their father together. God reconciled enemies, reunited brothers.
+
+This chapter is about return and renewal. Jacob returned to Bethel, removed idols, worshiped God anew. God appeared to him again, blessed him, reiterated promises. Though there was sorrow of death (Deborah, Rachel, Isaac), though there was defilement of sin (Reuben), God's promises stood unchanged. Israel's twelve sons were all born; God's plan was unfolding.`,
+  historyContext_zh: `这段历史发生在主前约1908-1886年间。雅各回到伯特利是在示剑事件之后不久（约主前1908年），拉结去世大约在同时期，以撒去世时雅各约120岁（约主前1886年）。
+
+伯特利（Bethel，原名路斯Luz）是迦南地重要的圣地。这里是雅各当年梦见天梯的地方（28章），后来成为以色列北国重要的敬拜中心（虽然后来被耶罗波安设立金牛犊玷污，王上12:28-29）。考古发掘显示伯特利在主前2000-1000年间一直有人居住，是繁荣的城市。
+
+"除去外邦神像"（2节）在古代是重大的宗教改革行动。偶像在古近东无处不在，连立约的百姓家中也有。这显示人心何等容易偏离独一的真神。后来约书亚也在示剑呼召百姓"除掉你们列祖在大河那边和在埃及所事奉的神，去事奉耶和华"（书24:14）。
+
+拉结葬在"以法他的路旁，以法他就是伯利恒"（19节）。伯利恒后来成为大卫的家乡（撒上16:1），更在千年之后成为弥赛亚降生的地方（弥5:2；太2:1）。拉结之墓在犹太传统中一直受到尊敬，直到今日仍有朝圣者前往。
+
+以撒活了180岁（28节），比亚伯拉罕少175岁（25:7），但仍是漫长的一生。他的一生相对平静，没有亚伯拉罕的大起大落，也没有雅各的颠沛流离，却在安静中持守信仰，传承了神的约。"年纪老迈，日子满足"是对蒙福之人的最高评价。`, historyContext_en: `This history occurred between approximately 1908-1886 BC. Jacob's return to Bethel was shortly after the Shechem incident (around 1908 BC), Rachel's death was around the same period, and Isaac's death occurred when Jacob was about 120 years old (around 1886 BC).
+
+Bethel (originally named Luz) was an important sacred site in Canaan. This was where Jacob dreamed of the ladder to heaven (chapter 28), and later became an important worship center in the northern kingdom of Israel (though later defiled by Jeroboam's golden calves, 1 Kings 12:28-29). Archaeological excavations show Bethel was continuously inhabited from 2000-1000 BC, a prosperous city.
+
+"Put away the foreign gods" (v. 2) was a major religious reform action in ancient times. Idols were ubiquitous in the ancient Near East, even in the households of covenant people. This reveals how easily human hearts stray from the one true God. Later Joshua also called the people at Shechem to "put away the gods that your fathers served beyond the River and in Egypt, and serve the LORD" (Joshua 24:14).
+
+Rachel was buried "on the way to Ephrath (that is, Bethlehem)" (v. 19). Bethlehem later became David's hometown (1 Samuel 16:1), and a millennium later became the birthplace of the Messiah (Micah 5:2; Matthew 2:1). Rachel's tomb has been revered in Jewish tradition; even today pilgrims visit.
+
+Isaac lived 180 years (v. 28), less than Abraham's 175 years (25:7), but still a long life. His life was relatively peaceful, without Abraham's dramatic ups and downs or Jacob's wanderings, yet in quietness he held fast to faith and passed on God's covenant. "Old and full of days" is the highest commendation for a blessed person.`,
+  structure_zh: `本章以神的呼召开始，以以撒的安葬结束，展现从洁净到更新、从应许到实现的完整过程：
+
+**一、神的呼召与洁净（1-4节）**
+1. 神的命令：上伯特利筑坛（1节）
+2. 雅各的吩咐：除偶像、自洁、更衣（2节）
+3. 百姓的顺服：交出神像和环子（3节）
+4. 神的保护：周围城邑惊惧（4节）
+
+**二、回到伯特利：敬拜与显现（5-15节）**
+1. 到达伯特利，筑坛敬拜（5-7节）
+2. 底波拉之死（8节）
+3. 神再次显现：重申新名与应许（9-13节）
+4. 雅各立柱浇油，再次命名（14-15节）
+
+**三、旅程中的悲欢（16-22节）**
+1. 拉结之死：便雅悯的出生（16-20节）
+2. 流便的罪（21节）
+3. 十二儿子的名单（22-26节）
+
+**四、回到希伯仑：以撒之死（27-29节）**
+1. 雅各回到父亲以撒那里（27节）
+2. 以撒寿终（28节）
+3. 以扫、雅各同葬父亲（29节）
+
+整个结构显出回归的旅程：从示剑的污秽回到伯特利的圣洁，从危险回到平安，从离散回到团聚。每一段都有神的同在和引导。`, structure_en: `This chapter begins with God's call and ends with Isaac's burial, demonstrating the complete process from cleansing to renewal, from promise to fulfillment:
+
+**I. God's Call and Cleansing (vv. 1-4)**
+1. God's command: Go up to Bethel and build an altar (v. 1)
+2. Jacob's instruction: Remove idols, purify, change garments (v. 2)
+3. People's obedience: Give up gods and rings (v. 3)
+4. God's protection: Terror upon surrounding cities (v. 4)
+
+**II. Return to Bethel: Worship and Appearance (vv. 5-15)**
+1. Arrival at Bethel, building altar to worship (vv. 5-7)
+2. Deborah's death (v. 8)
+3. God appears again: Reiteration of new name and promises (vv. 9-13)
+4. Jacob sets up pillar, pours oil, names again (vv. 14-15)
+
+**III. Joy and Sorrow on the Journey (vv. 16-22)**
+1. Rachel's death: Benjamin's birth (vv. 16-20)
+2. Reuben's sin (v. 21)
+3. List of twelve sons (vv. 22-26)
+
+**IV. Return to Hebron: Isaac's Death (vv. 27-29)**
+1. Jacob returns to his father Isaac (v. 27)
+2. Isaac's death at full age (v. 28)
+3. Esau and Jacob bury their father together (v. 29)
+
+The entire structure shows the journey of return: from Shechem's defilement to Bethel's holiness, from danger to peace, from dispersion to reunion. Every section shows God's presence and guidance.`,
+  theology_zh: `**悔改：回到起初**
+神呼召雅各"上伯特利去"（1节），这不仅是地理上的回归，更是属灵上的悔改。伯特利是雅各当年与神立约的地方，是他属灵旅程的起点。现在在示剑的罪恶和危险之后，神呼召他：回到起初。这正是圣经中悔改的模式。主耶稣对以弗所教会说："然而有一件事我要责备你，就是你把起初的爱心离弃了。所以，应当回想你是从哪里坠落的，并要悔改，行起初所行的事"（启2:4-5）。悔改不是自怜自责，而是回到起初与神相遇的地方，回到神的应许和呼召那里。改革宗强调"持续的悔改"（continual repentance）：基督徒一生都在回到"伯特利"——回到十字架的恩典，回到起初的信心。
+
+**除去偶像：唯独敬拜神**
+雅各要求全家除去外邦神像（2节）。偶像不仅是木石的雕像，更是心中一切取代神的事物。马丁·路德说："人心是制造偶像的工厂。"加尔文说："我们的心若不单单归向神，就必定归向偶像。"除去偶像是敬拜神的前提，也是悔改的证据。保罗说："你们是怎样离弃偶像归向神，要服事那又真又活的神"（帖前1:9）。改革宗神学强调"唯独神当受敬拜"（Soli Deo Gloria）：神是忌邪的神（出20:5），不能容忍任何偶像分享他的荣耀。一切偶像都必须像雅各埋在橡树下那样，彻底除去、永不挖出。
+
+**神的信实超越人的失败**
+雅各家刚刚经历了示剑的惨剧，显出他们的罪恶和软弱。但神没有废弃他们，反而呼召他们回到伯特利，再次向他们显现，重申他的应许（9-13节）。这彰显改革宗神学的核心真理："圣徒的坚忍"（Perseverance of the Saints）。这坚忍不是圣徒自己的坚持，而是神的保守。我们会失败、会跌倒、会犯罪，但神的约不会废弃。保罗说："我深信那在你们心里动了善工的，必成全这工，直到耶稣基督的日子"（腓1:6）。神开始的，神必完成；神拣选的，神必保守到底。
+
+**应许的传承：从亚伯拉罕到以色列**
+神对雅各重申亚伯拉罕之约（11-12节）。这约从亚伯拉罕传给以撒，从以撒传给雅各，后来要传给雅各的十二个儿子，成为以色列十二支派。这显出"恩典之约的延续性"：神的应许不仅给个人，更是给"你和你的后裔"（创17:7）。改革宗强调约的群体性：神不仅拣选个人，也拣选家庭、民族、教会。神对亚伯拉罕说的"地上的万族都要因你得福"（创12:3），最终在基督里实现——基督是亚伯拉罕的后裔（加3:16），教会是亚伯拉罕属灵的子孙（加3:29）。从创世记35章的十二儿子，到启示录7章的十二支派，再到启示录21章新耶路撒冷的十二根基，都见证神约的信实。`, theology_en: `**Repentance: Return to the Beginning**
+God called Jacob to "go up to Bethel" (v. 1), which was not merely geographical return but spiritual repentance. Bethel was where Jacob made covenant with God years ago, the starting point of his spiritual journey. Now after Shechem's sin and danger, God called him: return to the beginning. This is the biblical pattern of repentance. The Lord Jesus said to the church in Ephesus: "But I have this against you, that you have abandoned the love you had at first. Remember therefore from where you have fallen; repent, and do the works you did at first" (Revelation 2:4-5). Repentance is not self-pity or self-blame but returning to where we first met God, returning to God's promises and calling. Reformed theology emphasizes "continual repentance": Christians throughout life keep returning to "Bethel"—returning to the grace of the cross, returning to initial faith.
+
+**Removing Idols: Worship God Alone**
+Jacob required his household to put away foreign gods (v. 2). Idols are not only wooden and stone carvings but anything in the heart that replaces God. Martin Luther said: "The human heart is an idol factory." Calvin said: "If our hearts do not turn solely to God, they will inevitably turn to idols." Removing idols is the prerequisite for worshiping God and evidence of repentance. Paul said: "How you turned to God from idols to serve the living and true God" (1 Thessalonians 1:9). Reformed theology emphasizes "God alone deserves worship" (Soli Deo Gloria): God is a jealous God (Exodus 20:5), cannot tolerate any idol sharing His glory. All idols must be removed completely and permanently, like Jacob burying them under the oak.
+
+**God's Faithfulness Exceeds Human Failure**
+Jacob's family had just experienced the Shechem tragedy, revealing their sin and weakness. Yet God did not abandon them but called them back to Bethel, appeared to them again, reiterated His promises (vv. 9-13). This manifests the core Reformed truth: "Perseverance of the Saints." This perseverance is not the saints' own persistence but God's preservation. We may fail, fall, sin, but God's covenant will not be nullified. Paul said: "I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ" (Philippians 1:6). What God begins, God completes; whom God chooses, God preserves to the end.
+
+**Transmission of Promise: From Abraham to Israel**
+God reiterated the Abrahamic covenant to Jacob (vv. 11-12). This covenant passed from Abraham to Isaac, from Isaac to Jacob, later to Jacob's twelve sons, becoming Israel's twelve tribes. This shows "the continuity of the covenant of grace": God's promise is not only to individuals but to "you and your offspring" (Genesis 17:7). Reformed theology emphasizes the corporate nature of the covenant: God chooses not only individuals but families, nations, the church. God's words to Abraham "in you all the families of the earth shall be blessed" (Genesis 12:3) ultimately found fulfillment in Christ—Christ is Abraham's offspring (Galatians 3:16), the church is Abraham's spiritual descendants (Galatians 3:29). From the twelve sons in Genesis 35, to the twelve tribes in Revelation 7, to the twelve foundations of New Jerusalem in Revelation 21, all testify to God's covenant faithfulness.`,
+  christShadow_zh: `**回到伯特利：回到十字架**
+神呼召雅各回到伯特利，回到他当年与神相遇的地方（1节）。这预表所有信徒都要不断回到"各各他"——回到十字架，回到恩典的起点。我们会软弱、会偏离、会被世界玷污，但神总是呼召我们：回到十字架。希伯来书说："我们既有这许多的见证人，如同云彩围着我们，就当放下各样的重担，脱去容易缠累我们的罪，存心忍耐，奔那摆在我们前头的路程，仰望为我们信心创始成终的耶稣"（来12:1-2）。伯特利是雅各看见天梯的地方，各各他是神的独生子成为天梯的地方——"我实实在在地告诉你们，你们将要看见天开了，神的使者上去下来在人子身上"（约1:51）。
+
+**除去偶像：唯独基督**
+雅各要求家人除去外邦神像（2-3节），埋在橡树下。这预表基督徒要除去心中一切的偶像，单单以基督为宝贵。保罗说："只是我先前以为与我有益的，我现在因基督都当作有损的。不但如此，我也将万事当作有损的，因我以认识我主基督耶稣为至宝"（腓3:7-8）。雅各埋偶像在橡树下，基督徒要把旧人与基督同钉十字架（加2:20）。"偶像"可以是金钱、名誉、情欲、骄傲，一切取代基督在心中首位的，都是偶像。唯独基督配得我们全心的敬拜和爱慕。
+
+**拉结之死与便雅悯的诞生：死里复活**
+拉结生便雅悯时去世（16-18节）。他付上生命的代价生下儿子，这预表基督的工作。他为我们死，使我们得生。主耶稣说："一粒麦子不落在地里死了，仍旧是一粒，若是死了，就结出许多子粒来"（约12:24）。拉结的死带来了便雅悯的生，基督的死带来了千千万万属灵儿女的生。拉结给儿子起名"便俄尼"（悲伤之子），雅各却改名"便雅悯"（力量之子）。这预表基督的十字架：在人看是羞辱和悲伤，在神却是能力和荣耀（林前1:18）。更奇妙的是，拉结葬在伯利恒的路上（19节），而千年之后，另一位母亲要在伯利恒生下真正的"力量之子"——基督（太2:1）。
+
+**神再次显现：圣灵不断更新**
+神在雅各回到伯特利后再次向他显现，重申他的新名和应许（9-13节）。这预表圣灵在信徒生命中不断的工作。我们不是一次得救就完全了，而是需要不断被更新、被提醒。保罗说："我们众人既然敞着脸得以看见主的荣光，好像从镜子里返照，就变成主的形状，荣上加荣，如同从主的灵变成的"（林后3:18）。神一次次向雅各显现（伯特利、毘努伊勒、再次伯特利），正如圣灵一次次在我们心中工作，使我们"荣上加荣"，越来越像基督。
+
+**十二儿子：教会的根基**
+雅各的十二个儿子（22-26节）成为以色列十二支派的祖先。这预表基督的十二使徒，也预表新约的教会。主耶稣拣选十二使徒（太10:1-4），他们成为教会的根基（弗2:20）。启示录描述新耶路撒冷有十二个门，门上有以色列十二支派的名字；又有十二根基，根基上有羔羊十二使徒的名字（启21:12-14）。从旧约的十二支派到新约的十二使徒，都见证神救赎计划的延续性。雅各的十二个儿子虽然有软弱、有罪恶（流便的罪，西缅利未的残暴），但神仍使用他们成就他的计划。同样，基督的门徒也有软弱（彼得三次不认主，犹大卖主），但神的救赎计划不因人的软弱而改变。
+
+**以撒之死：在主里安息**
+以撒"年纪老迈，日子满足，气绝而死，归到他列祖那里"（28节）。这描述显出他在信心中安然离世。这预表所有在基督里的人的盼望。保罗说："我正在两难之间，情愿离世与基督同在，因为这是好得无比的"（腓1:23）。死亡对信徒不是终结，而是归家，是"归到列祖那里"，是与基督同在。以撒活了180年，但他真正的安息不在地上的年岁，而在神的应许里。同样，我们的盼望不在今生的长寿，而在永生的应许（约3:16）。以撒死时，以扫和雅各一起埋葬他（29节），显出在死亡面前，人间的仇恨和分歧都要过去。在基督里，我们将来也要与所有圣徒一同复活，一同在父的国里坐席（太8:11）。`, christShadow_en: `**Return to Bethel: Return to the Cross**
+God called Jacob back to Bethel, back to where he first met God (v. 1). This typifies all believers continually returning to "Golgotha"—returning to the cross, returning to the starting point of grace. We may be weak, stray, be defiled by the world, but God always calls us: return to the cross. Hebrews says: "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith" (Hebrews 12:1-2). Bethel was where Jacob saw the ladder to heaven; Golgotha is where God's only Son became the ladder to heaven—"Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending on the Son of Man" (John 1:51).
+
+**Removing Idols: Christ Alone**
+Jacob required his family to put away foreign gods (vv. 2-3), burying them under the oak. This typifies Christians removing all idols from the heart, treasuring Christ alone. Paul said: "But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord" (Philippians 3:7-8). Jacob buried idols under the oak; Christians must crucify the old self with Christ (Galatians 2:20). "Idols" can be money, reputation, lust, pride—anything that replaces Christ's primacy in the heart is an idol. Christ alone deserves our wholehearted worship and love.
+
+**Rachel's Death and Benjamin's Birth: Life Through Death**
+Rachel died giving birth to Benjamin (vv. 16-18). She paid with her life to bring forth a son, typifying Christ's work. He died for us that we might live. The Lord Jesus said: "Unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit" (John 12:24). Rachel's death brought forth Benjamin's life; Christ's death brought forth countless spiritual children. Rachel named her son "Ben-oni" (son of my sorrow), but Jacob renamed him "Benjamin" (son of strength). This typifies Christ's cross: in human eyes it is shame and sorrow, but in God's it is power and glory (1 Corinthians 1:18). More wonderfully, Rachel was buried on the road to Bethlehem (v. 19), and a millennium later, another mother would give birth in Bethlehem to the true "son of strength"—Christ (Matthew 2:1).
+
+**God Appears Again: The Spirit's Continual Renewal**
+After Jacob returned to Bethel, God appeared to him again, reiterating his new name and promises (vv. 9-13). This typifies the Spirit's continual work in believers' lives. We are not perfected at once upon salvation but need continual renewal and reminding. Paul said: "And we all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another. For this comes from the Lord who is the Spirit" (2 Corinthians 3:18). God appeared to Jacob repeatedly (Bethel, Peniel, Bethel again), just as the Spirit works repeatedly in our hearts, making us "from one degree of glory to another," increasingly like Christ.
+
+**Twelve Sons: The Church's Foundation**
+Jacob's twelve sons (vv. 22-26) became ancestors of Israel's twelve tribes. This typifies Christ's twelve apostles and also typifies the New Testament church. The Lord Jesus chose twelve apostles (Matthew 10:1-4); they became the foundation of the church (Ephesians 2:20). Revelation describes the New Jerusalem having twelve gates with the names of Israel's twelve tribes, and twelve foundations with the names of the Lamb's twelve apostles (Revelation 21:12-14). From the Old Testament's twelve tribes to the New Testament's twelve apostles, all testify to the continuity of God's redemptive plan. Though Jacob's twelve sons had weaknesses and sins (Reuben's sin, Simeon and Levi's cruelty), God still used them to accomplish His plan. Similarly, Christ's disciples had weaknesses (Peter denied the Lord three times, Judas betrayed Him), yet God's redemptive plan is not altered by human weakness.
+
+**Isaac's Death: Rest in the Lord**
+Isaac was "old and full of days, and he breathed his last and died and was gathered to his people" (v. 28). This description shows he departed peacefully in faith. This typifies the hope of all who are in Christ. Paul said: "I am hard pressed between the two. My desire is to depart and be with Christ, for that is far better" (Philippians 1:23). For believers, death is not the end but homecoming, "gathered to his people," being with Christ. Isaac lived 180 years, but his true rest was not in earthly years but in God's promise. Likewise, our hope is not in this life's longevity but in the promise of eternal life (John 3:16). When Isaac died, Esau and Jacob buried him together (v. 29), showing that before death, human hatreds and divisions must pass. In Christ, we will also rise together with all saints, feasting together in the Father's kingdom (Matthew 8:11).`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 36,
@@ -3431,11 +4509,107 @@ readings.push({
   title: '以扫的后代', titleEn: 'Esau\'s Descendants',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 36:1 / Genesis 36:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `我，摩西，在这里记下以扫的后代。你们或许会问，为何在约瑟的故事开始之前，我要用整整一章来记载以扫的家谱？这绝非无意义的重复，而是神圣约历史中不可或缺的一环。
+
+当我写下"以扫就是以东"这句话时，心中涌起复杂的情感。这个曾经轻看长子名分的人，如今已在西珥山建立了强大的国度。他的后裔成为了以东诸王，在雅各的子孙还在埃及为奴时，以扫的后代已经拥有了君王。这正应验了以撒对他的祝福："你必倚靠刀剑度日，又必服事你的兄弟。"
+
+以扫娶了迦南的女子为妻——亚大、阿荷利巴玛、巴实抹。这些婚姻曾使以撒和利百加心里愁烦，但神的主权超越人的软弱。以扫带着妻子、儿女和一切所得的，离开了他兄弟雅各，往别处去了。不是因为仇恨，而是因为他们的财物太多，寄居的地方容不下他们。这让我想起亚伯拉罕和罗得的分离——神的百姓与世界的分离，总是必然的。
+
+我详细记载了以扫的儿子们：以利法、流珥、耶乌施、雅兰、可拉。以利法的儿子们成为了以东地的族长：提幔、俄玛、洗玻、迦坦、基纳斯。这些名字对你们来说或许陌生，但每一个都代表着一个家族，一段历史。亚玛力也在其中——这个日后成为以色列世仇的民族，竟然出自以扫的长子以利法。
+
+何珥人的后代也被记录在册。西珥的儿子们：罗坍、朔巴、祭便、亚拿、底顺、以察、底珊。这些何珥人原本是西珥山的居民，后来与以扫的后代融合。那个在旷野为父亲放驴，发现温泉的亚拿，看似微不足道的细节，却被神永久记念。
+
+然后我记下了在以东地作王的君王们，在以色列人未有君王治理以前。比珥的儿子比拉、谢拉的儿子约巴、提幔地的户珊、比达的儿子哈达——这些王一个接着一个，他们的国度兴起又衰落。但请注意，他们不是父死子继的王朝，而是不同家族的人相继为王。这显示了以东早期的政治不稳定。
+
+最后，我列出了以扫子孙中的族长名字：亭纳族长、亚勒瓦族长、耶帖族长、阿荷利巴玛族长、以拉族长、比嫩族长、基纳斯族长、提幔族长、米比萨族长、玛基叠族长、以兰族长。这些是以东族长的名字，照他们的宗族、住处、名字。
+
+弟兄们，不要轻看这一章。它向我们启示了几个重要真理：第一，神信守祂的应许。祂应许以扫也必成为大国，果然如此。第二，神的拣选是主权的。以扫的后代先有君王，但永约却是与雅各立的。第三，世界的荣华转眼即逝。以东的诸王今在何处？但雅各的神，以色列的圣者，直到永远。
+
+当你们读这些名字时,记住:历史在神的手中。每一个名字、每一个家族,都在述说神的信实与公义。以扫选择了眼前的红豆汤,得了地上的国度;雅各持守属天的应许,要得那存到永远的基业。`, content_en: `I, Moses, record here the descendants of Esau. You may ask why, before Joseph's story begins, I devote an entire chapter to Esau's genealogy. This is not meaningless repetition, but an indispensable part of the covenant history.
+
+When I write "Esau (that is, Edom)," complex emotions surge in my heart. This man who once despised his birthright has now established a mighty kingdom in Mount Seir. His descendants became the kings of Edom while Jacob's children were still enslaved in Egypt. This fulfilled Isaac's blessing: "You shall live by your sword and serve your brother."
+
+Esau took wives from the Canaanites—Adah, Oholibamah, and Basemath. These marriages grieved Isaac and Rebekah, yet God's sovereignty transcends human weakness. Esau took his wives, children, and all his possessions and moved away from his brother Jacob. Not out of hatred, but because their possessions were too great for them to dwell together. This reminds me of Abraham and Lot's separation—the separation of God's people from the world is always inevitable.
+
+I recorded in detail Esau's sons: Eliphaz, Reuel, Jeush, Jalam, and Korah. Eliphaz's sons became chiefs of Edom: Teman, Omar, Zepho, Gatam, and Kenaz. These names may be unfamiliar to you, but each represents a family, a history. Amalek is among them—this nation that would become Israel's sworn enemy came from Esau's firstborn Eliphaz.
+
+The descendants of the Horites are also recorded. Seir's sons: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan. These Horites were originally inhabitants of Mount Seir, later merging with Esau's descendants. Anah, who found hot springs in the wilderness while pasturing his father's donkeys—a seemingly trivial detail, yet remembered by God forever.
+
+Then I recorded the kings who reigned in Edom before any Israelite king reigned. Bela son of Beor, Jobab son of Zerah, Husham of the land of Teman, Hadad son of Bedad—these kings rose and fell one after another. But note: they were not hereditary dynasties but different families ruling successively. This shows Edom's early political instability.
+
+Finally, I list the chiefs from Esau's descendants: Timna, Alvah, Jetheth, Oholibamah, Elah, Pinon, Kenaz, Teman, Mibzar, Magdiel, and Iram. These are the chiefs of Edom according to their clans, dwelling places, and names.
+
+Brothers, do not despise this chapter. It reveals several important truths: First, God keeps His promises. He promised Esau would become a great nation, and so it was. Second, God's election is sovereign. Esau's descendants had kings first, but the eternal covenant was with Jacob. Third, worldly glory is fleeting. Where are Edom's kings now? But Jacob's God, the Holy One of Israel, endures forever.
+
+When you read these names, remember: history is in God's hands. Every name, every family, speaks of God's faithfulness and justice. Esau chose the red stew and gained an earthly kingdom; Jacob held fast to the heavenly promise and will receive an eternal inheritance.`,
+  historyContext_zh: `这一章记载于以色列人出埃及后在旷野漂流期间。当我在西奈山领受律法，整理祖宗的历史时，以东人已经在西珥山建立了稳固的国度。他们的诸王统治着从亚拉巴到红海的广大地区。
+
+以扫在雅各返回迦南后不久就迁往西珥山。那时正值迦南地大饥荒前夕，两兄弟和平分离。以扫的后代迅速繁衍，在何珥人的土地上建立了部落联盟，最终形成了王国。
+
+当我写下这些记录时，以色列人刚刚经历了出埃及的神迹，正站在应许之地的边界。以东人拒绝让我们经过他们的境地，我们只得绕道而行。这些曾经的亲族，如今成了陌路人。但神没有允许我们与他们争战，因为西珥山是耶和华赐给以扫为业的。
+
+历史的讽刺在于：以扫的后代先有君王，而雅各的子孙还在埃及为奴。但这正显明神的道路高过人的道路。属地的祝福来得快，属天的应许需要等候。四百年的埃及为奴，正是为了陶造一个圣洁的国度。`, historyContext_en: `This chapter was recorded during Israel's wilderness wanderings after the Exodus. When I received the Law at Mount Sinai and compiled our patriarchal history, the Edomites had already established a stable kingdom in Mount Seir. Their kings ruled the vast region from the Arabah to the Red Sea.
+
+Esau moved to Mount Seir shortly after Jacob returned to Canaan, just before the great famine. The two brothers separated peacefully. Esau's descendants multiplied rapidly, establishing tribal confederations on Horite lands that eventually formed a kingdom.
+
+When I recorded this, Israel had just experienced the Exodus miracles and stood at the border of the Promised Land. The Edomites refused us passage through their territory; we had to detour. These former kinsmen had become strangers. Yet God forbade us from warring with them, for Mount Seir was the LORD's gift to Esau as his inheritance.
+
+History's irony: Esau's descendants had kings first while Jacob's children remained enslaved in Egypt. But this reveals God's ways are higher than man's ways. Earthly blessings come quickly; heavenly promises require waiting. Four hundred years of Egyptian bondage were needed to forge a holy nation.`,
+  structure_zh: `本章结构严谨，分为四个部分：
+
+第一部分(1-8节)：以扫家族的基本信息。妻子、儿女、迁往西珥的经过。这是历史叙事的框架，解释了以东人的起源。
+
+第二部分(9-14节)：以扫儿子们的后代。详细列出以利法和流珥的子孙，这些人后来成为以东的族长。注意亚玛力的特别提及——以利法的妾辟玛所生，这个民族日后成为以色列的死敌。
+
+第三部分(20-30节)：何珥人的家谱。西珥的儿子们和他们的后代。这说明以东国度并非单一民族，而是以扫后代与原住民的融合。那位发现温泉的亚拿被特别记载，显示神关注每个人的独特经历。
+
+第四部分(31-43节)：以东的君王和族长。这是按时间顺序和地理分布的记录。"在以色列人未有君王治理以前"这句话意味深长，暗示了日后以色列也将有王，但那是神按祂的时间所定的。
+
+整章的编排显示了神对历史的掌管。从家庭到部落，从部落到王国，每一步都在神的护理之下。以扫的后代虽然不是应许的承受者，但仍在救赎历史中占有一席之地。`, structure_en: `This chapter has a rigorous structure divided into four sections:
+
+Part One (vv. 1-8): Basic information about Esau's family. Wives, children, and the move to Seir. This is the narrative framework explaining Edom's origins.
+
+Part Two (vv. 9-14): Descendants of Esau's sons. Detailed listing of Eliphaz and Reuel's offspring, who became Edomite chiefs. Note the special mention of Amalek—born to Eliphaz's concubine Timna, this nation would become Israel's mortal enemy.
+
+Part Three (vv. 20-30): Genealogy of the Horites. Seir's sons and their descendants. This shows the Edomite kingdom was not a single ethnicity but a merger of Esau's descendants with indigenous inhabitants. Anah, who discovered hot springs, is specially recorded, showing God's attention to each person's unique experience.
+
+Part Four (vv. 31-43): Kings and chiefs of Edom. This is a chronological and geographical record. "Before any Israelite king reigned" is profoundly significant, implying Israel would later have kings, but in God's appointed time.
+
+The chapter's arrangement demonstrates God's governance of history. From family to tribe, from tribe to kingdom, each step unfolds under divine providence. Though Esau's descendants were not heirs of the promise, they still occupy a place in redemption history.`,
+  theology_zh: `本章的神学意义常被忽视，但它揭示了几个重要真理：
+
+**神的主权与公义**：神应许以扫也必成为大国(创25:23)，祂信守诺言。以东的强盛不是偶然，而是神护理的结果。这显示神的祝福不局限于拣选的族类，祂以公义待万民。
+
+**拣选的奥秘**：虽然以扫的后代先有君王，但永约却是与雅各立的。这显明神的拣选不在乎人的行为，乃在乎召人的主。以扫得到地上的国，雅各却要得天上的国。属世的成功不代表属灵的蒙福。
+
+**审判的伏笔**：这章为日后以东的审判埋下伏笔。先知俄巴底亚、以赛亚、耶利米都宣告了以东的结局。他们的罪不在于强盛，而在于在弟兄遭难时幸灾乐祸。家谱的记录成为审判的证据——你们本是弟兄，却成了仇敌。
+
+**基督论的反思**：以扫是世界的代表，雅各是教会的预表。两者都从应许而出，但结局迥异。以扫选择眼前的世界，雅各持守属天的盼望。这正是希伯来书12:16-17警告"贪恋世俗如以扫"的背景。基督来，要将真雅各从假弟兄中分别出来。`, theology_en: `This chapter's theological significance is often overlooked, yet it reveals several important truths:
+
+**God's Sovereignty and Justice**: God promised Esau would also become a great nation (Gen 25:23), and He kept His word. Edom's strength was not accidental but a result of divine providence. This shows God's blessing is not limited to the chosen line; He deals justly with all nations.
+
+**The Mystery of Election**: Though Esau's descendants had kings first, the eternal covenant was with Jacob. This reveals God's election depends not on human works but on Him who calls. Esau gained an earthly kingdom; Jacob would inherit a heavenly one. Worldly success does not equal spiritual blessing.
+
+**Foreshadowing Judgment**: This chapter lays groundwork for Edom's later judgment. Prophets Obadiah, Isaiah, and Jeremiah all proclaimed Edom's fate. Their sin was not strength but gloating over their brother's misfortune. The genealogical record becomes evidence for judgment—you were brothers, yet became enemies.
+
+**Christological Reflection**: Esau represents the world; Jacob prefigures the church. Both came from the promise, yet their ends differ. Esau chose the present world; Jacob held fast to heavenly hope. This is the background for Hebrews 12:16-17 warning against being "godless like Esau." Christ came to separate true Jacobs from false brothers.`,
+  christShadow_zh: `在这满是名字的家谱中，如何看见基督的影子？
+
+**两个国度的对比**：以扫的国度和雅各的国度代表着两个国度的原型——地上的国和天上的国。以扫追求眼前的满足，建立了强大的地上国度；雅各持守属天的应许，他的后代要成为神的国度。基督来，正是要建立那永不震动的国(来12:28)。凡属地的，都要过去；唯有在基督里的，存到永远。
+
+**拣选的恩典**：保罗在罗马书9:13引用"雅各是我所爱的，以扫是我所恶的"，解释神主权的拣选。这不是说神偏心，而是说救恩完全是恩典。以扫和雅各都不配，但神拣选了雅各。照样，没有人配得基督，但神却在基督里拣选了我们。这家谱提醒我们：得救不是出于自己，乃是神的恩赐。
+
+**审判与救赎**：以东日后成为以色列的仇敌，最终被审判灭绝。这预表了一切拒绝基督的势力的结局。但奇妙的是，以东人希律王统治时，基督降生；当基督在十字架上时，以东地的岩石也一同震动。基督的救恩甚至为以扫的后代留下恩典的门——路加福音记载，有治好的麻风病人是撒玛利亚人(可能有以东血统)，他回来归荣耀与神。
+
+**家谱的意义**：基督的家谱中包含了外邦人路得，甚至还有亚玛力人的后代扫罗王的故事。这显明基督来不只是为雅各，也是为万族。虽然以扫的后代不在弥赛亚的直系家谱中，但基督的救恩为一切信祂的人敞开——无论是犹太人还是以东人。`, christShadow_en: `How do we see Christ's shadow in this chapter full of names?
+
+**Contrast of Two Kingdoms**: Esau's kingdom and Jacob's kingdom represent archetypes of two kingdoms—earthly and heavenly. Esau pursued immediate satisfaction and built a mighty earthly kingdom; Jacob held fast to the heavenly promise, his descendants becoming God's kingdom. Christ came to establish that unshakable kingdom (Heb 12:28). All earthly things pass away; only what is in Christ endures forever.
+
+**Grace of Election**: Paul quotes in Romans 9:13, "Jacob I loved, but Esau I hated," explaining God's sovereign election. This doesn't mean God is partial, but that salvation is entirely by grace. Neither Esau nor Jacob deserved it, yet God chose Jacob. Likewise, no one deserves Christ, yet God chose us in Christ. This genealogy reminds us: salvation is not of ourselves but God's gift.
+
+**Judgment and Redemption**: Edom later became Israel's enemy and was ultimately judged and destroyed. This prefigures the fate of all powers that reject Christ. Yet remarkably, when Herod the Edomite reigned, Christ was born; when Christ was on the cross, the rocks of Edom also quaked. Christ's salvation even left a door of grace for Esau's descendants—Luke records a healed leper who was a Samaritan (possibly with Edomite blood) who returned to glorify God.
+
+**Significance of Genealogy**: Christ's genealogy includes the Gentile Ruth and even the story of King Saul, an Amalekite descendant. This shows Christ came not only for Jacob but for all nations. Though Esau's descendants are not in the Messiah's direct lineage, Christ's salvation is open to all who believe—whether Jew or Edomite.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 37,
@@ -3443,11 +4617,175 @@ readings.push({
   title: '约瑟的梦', titleEn: 'Joseph\'s Dreams',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 37:1 / Genesis 37:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `我，摩西，现在要记下约瑟的故事——这是我在创世记中用最多笔墨记载的一个人物。他的故事充满了苦难与高升，背叛与宽恕，看似偶然却是神精心安排的护理。
+
+雅各住在迦南地，就是他父亲以撒寄居的地方。约瑟十七岁时，与他的哥哥们一同牧羊。他是个少年人，与他父亲的妾辟拉、悉帕的儿子们常在一起。约瑟将他哥哥们的恶行报给他们的父亲。这开始就埋下了冲突的种子——约瑟的正直与哥哥们的嫉妒。
+
+以色列偏爱约瑟，胜过爱他的众子，因为约瑟是他年老生的。他给约瑟做了一件彩衣。那不是普通的衣服，而是有长袖的外袍，象征着尊贵的地位。这是做父亲的偏心，也是神主权拣选的记号。约瑟的哥哥们见父亲爱约瑟过于爱他们众弟兄，就恨约瑟，不与他说和睦的话。
+
+然后约瑟做了两个梦。第一个梦：我们在田里捆禾稼，我的捆起来站着，你们的捆来围着我的捆下拜。哥哥们听了更加恼怒："难道你真要作我们的王吗？你真要管辖我们吗？"他们因为这梦和这话，越发恨他。
+
+约瑟又做了第二个梦，讲给他的哥哥们听说："看哪，我又做了一梦，梦见太阳、月亮与十一个星，向我下拜。"这次连父亲都责备他说："你做的这是什么梦！难道我和你母亲、你弟兄，果然要来俯伏在地，向你下拜吗？"但他父亲却把这话存在心里。
+
+弟兄们，这两个梦不是约瑟的幻想，而是神的启示。第一个梦关乎地上的权柄——在埃及的荣耀；第二个梦关乎家族的关系——父母兄弟都要向他下拜。这是神预先告诉约瑟他的命定，也是对整个以色列家族的计划。
+
+约瑟的哥哥们往示剑去放他们父亲的羊。以色列对约瑟说："你哥哥们不是在示剑放羊吗？你来,我要打发你往他们那里去。"约瑟回答："我在这里。"以撒说："请你去看看你哥哥们平安不平安,群羊平安不平安,就回来报信给我。"于是打发他出希伯仑谷去。
+
+约瑟到了示剑，在田野走迷了路。有人遇见他，问他说："你找什么？"他说："我找我的哥哥们，请告诉我他们在何处放羊。"那人说："他们已经走了，我听见他们说要往多坍去。"约瑟就去追赶他的哥哥们，在多坍找到了他们。这个看似偶然的相遇，却是神护理的手在引导。
+
+他们远远地看见他，趁他还没有走到跟前，就同谋要害死他。彼此说："你看，那做梦的来了。来吧，我们将他杀了，丢在一个坑里，就说有恶兽把他吃了。我们且看他的梦将来怎么样。"嫉妒已经变成了谋杀的意图。
+
+流便听见了，要救他脱离他们的手，说："我们不可害他的性命。"又说："不可流他的血，可以把他丢在这野地的坑里，不可下手害他。"流便的意思是要救他脱离他们的手，把他归还他的父亲。作为长子，流便试图挽回这可怕的计划。
+
+约瑟到了哥哥们那里，他们就剥了他的外衣，就是他穿的那件彩衣，把他丢在坑里。那坑是空的，里头没有水。他们坐下吃饭，举目观看，见有一伙米甸的以实玛利人从基列来，用骆驼驮着香料、乳香、没药，要带下埃及去。多么冷酷的画面——弟兄在坑里哀求，他们却安然吃饭。
+
+犹大对众弟兄说："我们杀我们的兄弟，藏了他的血，有什么益处呢？我们不如将他卖给以实玛利人，不可下手害他，因为他是我们的兄弟，我们的骨肉。"众弟兄就听从了他。犹大提出了一个"更好"的计划——不是救约瑟，而是卖约瑟。从杀害到贩卖，罪恶换了一种形式，本质却未改变。
+
+有些米甸的商人从那里经过，哥哥们就把约瑟从坑里拉上来，讲定二十舍客勒银子，把约瑟卖给以实玛利人。他们就把约瑟带到埃及去了。二十舍客勒银子——这是一个奴隶的价格，也预表了日后另一个被卖的义人的价格（三十舍客勒）。
+
+流便回到坑边，见约瑟不在坑里，就撕裂衣服，回到弟兄那里说："童子没有了！我往哪里去才好呢？"他们宰了一只公山羊，把约瑟的外衣染了血，打发人送到他们的父亲那里，说："我们捡了这个，请认一认，是你儿子的外衣不是？"
+
+雅各认得，说："这是我儿子的外衣，有恶兽把他吃了。约瑟被撕碎了，撕碎了！"雅各便撕裂衣服，腰间围上麻布，为他儿子悲哀了多日。他的儿女都起来安慰他，他却不肯受安慰，说："我必悲哀着下阴间,到我儿子那里。"约瑟的父亲就为他哀哭。
+
+何等讽刺！当年雅各用山羊羔的皮欺骗父亲，如今他的儿子们用山羊的血欺骗他。罪的后果在家族中蔓延，欺骗生出欺骗。但神的计划却在人的罪恶中推进——约瑟必须到埃及去，因为那里有神为他预备的使命。
+
+米甸人带约瑟到埃及,把他卖给法老的内臣，护卫长波提乏。这一节看似简单，却是约瑟命运的转折点。从宠儿到奴隶，从迦南到埃及，从自由到捆绑。但神与他同在——这是下一章的主题，也是整个约瑟故事的关键。`, content_en: `I, Moses, now record Joseph's story—the person I devote the most attention to in Genesis. His story is filled with suffering and exaltation, betrayal and forgiveness, seemingly accidental yet part of God's careful providence.
+
+Jacob lived in Canaan, where his father Isaac had sojourned. Joseph, seventeen years old, was shepherding the flock with his brothers, working with the sons of Bilhah and Zilpah, his father's wives. Joseph brought a bad report about them to their father. This planted the seeds of conflict—Joseph's integrity versus his brothers' jealousy.
+
+Israel loved Joseph more than all his children, because he was the son of his old age. He made him a coat of many colors—not an ordinary garment, but a long-sleeved robe symbolizing honored status. This was paternal favoritism and a sign of God's sovereign election. When his brothers saw that their father loved Joseph more than all his brothers, they hated him and could not speak peacefully to him.
+
+Then Joseph had two dreams. The first: we were binding sheaves in the field, and my sheaf arose and stood upright, and your sheaves gathered around and bowed to my sheaf. His brothers were furious: "Are you indeed to reign over us? Or are you indeed to rule over us?" They hated him even more for his dreams and his words.
+
+Joseph had a second dream and told his brothers: "Behold, I have dreamed another dream. Behold, the sun, the moon, and eleven stars were bowing down to me." Even his father rebuked him: "What is this dream that you have dreamed? Shall I and your mother and your brothers indeed come to bow ourselves to the ground before you?" But his father kept the saying in mind.
+
+Brothers, these two dreams were not Joseph's fantasies but God's revelation. The first dream concerned earthly authority—glory in Egypt; the second concerned family relations—father, mother, and brothers would bow to him. This was God telling Joseph his destiny and His plan for the entire house of Israel.
+
+Joseph's brothers went to pasture their father's flock near Shechem. Israel said to Joseph, "Are not your brothers pasturing the flock at Shechem? Come, I will send you to them." Joseph answered, "Here I am." He said, "Go now, see if it is well with your brothers and with the flock, and bring me word." So he sent him from the Valley of Hebron.
+
+Joseph came to Shechem and was wandering in the fields. A man found him and asked, "What are you seeking?" He said, "I am seeking my brothers. Tell me, please, where they are pasturing." The man said, "They have gone away, for I heard them say, 'Let us go to Dothan.'" Joseph went after his brothers and found them at Dothan. This seemingly chance encounter was guided by God's providential hand.
+
+They saw him from afar, and before he came near to them they conspired against him to kill him. They said to one another, "Here comes this dreamer. Come now, let us kill him and throw him into one of the pits. Then we will say that a fierce animal has devoured him, and we will see what will become of his dreams." Jealousy had become murderous intent.
+
+When Reuben heard it, he rescued him out of their hands, saying, "Let us not take his life." Reuben said, "Shed no blood; throw him into this pit here in the wilderness, but do not lay a hand on him"—that he might rescue him and restore him to his father. As the firstborn, Reuben tried to avert this terrible plan.
+
+When Joseph came to his brothers, they stripped him of his robe, the robe of many colors, and they threw him into a pit. The pit was empty; there was no water in it. They sat down to eat. Looking up, they saw a caravan of Ishmaelite Midianites coming from Gilead, with their camels bearing gum, balm, and myrrh, on their way down to Egypt. What a cruel scene—a brother pleading from the pit while they ate calmly.
+
+Judah said to his brothers, "What profit is it if we kill our brother and conceal his blood? Come, let us sell him to the Ishmaelites, and let not our hand be upon him, for he is our brother, our own flesh." His brothers listened to him. Judah proposed a "better" plan—not to save Joseph but to sell him. From murder to trafficking, sin changed form but not essence.
+
+Midianite traders passed by, and the brothers drew Joseph up out of the pit and sold him to the Ishmaelites for twenty shekels of silver. They took Joseph to Egypt. Twenty shekels—a slave's price, prefiguring another righteous man's price (thirty shekels).
+
+When Reuben returned to the pit and saw that Joseph was not there, he tore his clothes and said to his brothers, "The boy is gone, and I, where shall I go?" They took Joseph's robe, slaughtered a goat, and dipped the robe in blood. They sent it to their father, saying, "This we have found; please identify whether it is your son's robe or not."
+
+Jacob identified it and said, "It is my son's robe. A fierce animal has devoured him. Joseph is without doubt torn to pieces." Jacob tore his garments, put sackcloth on his loins, and mourned for his son many days. All his sons and daughters rose up to comfort him, but he refused to be comforted and said, "No, I shall go down to Sheol to my son, mourning." His father wept for him.
+
+What irony! Jacob once deceived his father with goatskin; now his sons deceived him with goat's blood. Sin's consequences spread through the family; deceit begets deceit. Yet God's plan advanced through human sin—Joseph had to go to Egypt, for God had prepared a mission for him there.
+
+The Midianites sold Joseph in Egypt to Potiphar, an officer of Pharaoh and captain of the guard. This verse seems simple yet marks Joseph's turning point. From favored son to slave, from Canaan to Egypt, from freedom to bondage. But God was with him—this is the next chapter's theme and the key to Joseph's entire story.`,
+  historyContext_zh: `这一章的历史背景极其重要。约瑟被卖到埃及大约发生在公元前1900年左右,正值埃及中王国时期末期。那时埃及相对稳定繁荣,与迦南地有频繁的商业往来。
+
+示剑和多坍都是重要的商路节点。从基列来的米甸商队运载香料、乳香、没药到埃及,这是当时的主要贸易路线。这些香料在埃及用于制作木乃伊和宗教仪式,价值很高。约瑟就这样被商队带走,成为货物的一部分。
+
+二十舍客勒银子是当时一个奴隶的标准价格。根据后来摩西律法的规定,这也是一个成年男性奴隶的赎价。这个价格既显示了约瑟被贬低到何等地步,也暗示了他未来的救赎意义。
+
+雅各住在希伯仑谷,那里是亚伯拉罕、以撒埋葬之地。从希伯仑到示剑大约80公里,再到多坍又是20多公里。约瑟作为十七岁的少年,独自走了这么远的路去寻找哥哥们,显示了他对父亲的顺服和对兄弟的关心。
+
+这个故事发生在雅各从巴旦亚兰回来大约十年后,拉结去世约两年。约瑟的母亲已逝,便雅悯还年幼,雅各把对拉结的爱转移到约瑟身上,这加深了其他儿子们的嫉妒。
+
+当我在旷野记录这些事时,距离约瑟被卖已过去近四百年。但这个故事对以色列民族的形成至关重要——正是因为约瑟在埃及,雅各全家才得以在饥荒中存活;也正是在埃及,以色列从一个家族成长为一个民族。`, historyContext_en: `This chapter's historical background is crucial. Joseph's sale to Egypt occurred around 1900 BC, during the late Middle Kingdom period of Egypt. Egypt was relatively stable and prosperous then, with frequent commercial exchanges with Canaan.
+
+Shechem and Dothan were important trade route nodes. Midianite caravans from Gilead carrying spices, balm, and myrrh to Egypt followed major trade routes. These spices were valuable in Egypt for mummification and religious ceremonies. Joseph was thus taken by the caravan, becoming part of the cargo.
+
+Twenty shekels of silver was the standard price for a slave then. According to later Mosaic law, this was also the redemption price for an adult male slave. This price shows how low Joseph was brought and hints at his future redemptive significance.
+
+Jacob lived in the Valley of Hebron, where Abraham and Isaac were buried. From Hebron to Shechem was about 80 kilometers, and from Shechem to Dothan another 20-plus kilometers. Joseph, a seventeen-year-old youth, walked this distance alone to find his brothers, showing his obedience to his father and concern for his brothers.
+
+This story occurred about ten years after Jacob returned from Paddan-aram, about two years after Rachel's death. Joseph's mother was dead, Benjamin was still young, and Jacob transferred his love for Rachel to Joseph, deepening the other sons' jealousy.
+
+When I recorded these events in the wilderness, nearly four hundred years had passed since Joseph's sale. But this story was crucial for Israel's formation—because of Joseph in Egypt, Jacob's entire household survived the famine; and in Egypt, Israel grew from a family to a nation.`,
+  structure_zh: `本章结构清晰,可分为五个场景:
+
+**场景一:家中的冲突(1-11节)**：约瑟的特殊地位、彩衣、告状、两个梦。这是矛盾的铺垫,显示了家庭内部的紧张关系。注意两个梦的递进关系——从兄弟到全家,从地上权柄到天上启示。
+
+**场景二:被差遣(12-17节)**：父亲打发约瑟去看望哥哥们。这段看似平淡,却充满象征意义。约瑟说"我在这里",这是顺服的宣告;他在田野迷路又被陌生人指引,这是神护理的记号。从示剑到多坍,每一步都走向神的计划。
+
+**场景三:被卖(18-28节)**：谋害、被剥衣、丢坑、被卖。这是全章的高潮。流便试图搭救、犹大建议贩卖、二十舍客勒银子、米甸商人——每个细节都被我精确记录,因为这是救赎历史的关键时刻。
+
+**场景四:欺骗父亲(29-35节)**：撕裂的彩衣、山羊的血、父亲的悲哀。这是罪的后果的展现。雅各曾用欺骗得祝福,如今被欺骗尝苦果。他拒绝受安慰,要悲哀着下阴间——这是何等深的痛苦。
+
+**场景五:约瑟在埃及(36节)**：一节经文,却是整个故事的转折。米甸人把约瑟卖给波提乏。从这里开始,神的护理将以令人惊叹的方式展开。
+
+整章的编排显示了神的主权:人的罪恶(嫉妒、谋害、贩卖、欺骗)不能拦阻神的计划,反而成为神计划实现的工具。约瑟必须到埃及去,不是因为哥哥们的恶,而是因为神的美意。`, structure_en: `This chapter has a clear structure divided into five scenes:
+
+**Scene One: Conflict at Home (vv. 1-11)**: Joseph's special status, the colorful robe, the bad report, and two dreams. This sets up the conflict, showing family tensions. Note the progression of the two dreams—from brothers to the whole family, from earthly authority to heavenly revelation.
+
+**Scene Two: Being Sent (vv. 12-17)**: Father sends Joseph to check on his brothers. This seemingly plain passage is full of symbolism. Joseph says "Here I am"—a declaration of obedience; he gets lost in the field and is guided by a stranger—a sign of divine providence. From Shechem to Dothan, every step moves toward God's plan.
+
+**Scene Three: Being Sold (vv. 18-28)**: Conspiracy, stripping, pit, sale. This is the chapter's climax. Reuben's attempted rescue, Judah's suggestion to sell, twenty shekels of silver, Midianite merchants—every detail is precisely recorded because this is a crucial moment in redemptive history.
+
+**Scene Four: Deceiving Father (vv. 29-35)**: Torn robe, goat's blood, father's grief. This displays sin's consequences. Jacob once gained blessing through deception; now he tastes the bitter fruit of being deceived. He refuses comfort, wanting to go down to Sheol mourning—what deep pain.
+
+**Scene Five: Joseph in Egypt (v. 36)**: One verse, yet the turning point of the entire story. The Midianites sold Joseph to Potiphar. From here, God's providence will unfold in amazing ways.
+
+The chapter's arrangement demonstrates God's sovereignty: human sin (jealousy, conspiracy, trafficking, deception) cannot thwart God's plan but becomes the instrument for its fulfillment. Joseph had to go to Egypt, not because of his brothers' evil but because of God's good purpose.`,
+  theology_zh: `本章的神学深度令人震撼,它处理了几个核心问题:
+
+**神的主权与人的责任**：约瑟的哥哥们犯了可怕的罪——嫉妒、谋害、贩卖、欺骗。他们要为自己的行为负责(创50:15-21显示他们心中的恐惧)。但同时,神使用他们的罪恶成就祂的计划。约瑟后来说:"从前你们的意思是要害我,但神的意思原是好的"(创50:20)。这是圣经中最清楚的预定与自由意志并存的例子之一。
+
+**拣选的记号**：彩衣不只是父爱的表达,也是拣选的记号。约瑟被拣选承受应许,不是因为他的德行(虽然他正直),而是因为神的主权。哥哥们恨他,正如世界恨基督;他们剥去他的彩衣,正如兵丁剥去基督的衣服。拣选带来逼迫,但也带来荣耀。
+
+**启示与信心**：两个梦是神给约瑟的启示,让他在苦难中持守盼望。当他在坑里,在奴隶市场上,在监狱中,这两个梦是他唯一的支撑。神的应许不因环境改变而落空。这教导我们:神的话语是我们在黑暗中的光,在绝望中的盼望。
+
+**苦难的意义**：约瑟被卖不是悲剧的结局,而是救赎计划的开始。神允许义人受苦,不是因为神不爱他,而是因为神要通过他成就更大的救赎。十字架的逻辑在这里已经显现——通过受苦达到荣耀,通过死亡带来生命。
+
+**罪的传递**：雅各曾用欺骗夺取祝福,如今被儿子们欺骗。利亚的儿子们嫉妒拉结的儿子,正如利亚曾嫉妒拉结。罪在家族中代代相传,唯有神的恩典能打破这个循环。`, theology_en: `This chapter's theological depth is stunning, addressing several core issues:
+
+**God's Sovereignty and Human Responsibility**: Joseph's brothers committed terrible sins—jealousy, conspiracy, trafficking, deception. They were accountable for their actions (Gen 50:15-21 shows their fear). Yet God used their evil to accomplish His plan. Joseph later said, "You meant evil against me, but God meant it for good" (Gen 50:20). This is one of Scripture's clearest examples of predestination and free will coexisting.
+
+**The Sign of Election**: The colorful robe was not just an expression of paternal love but a sign of election. Joseph was chosen to inherit the promise, not because of his virtue (though he was upright) but because of God's sovereignty. His brothers hated him as the world hated Christ; they stripped his robe as soldiers stripped Christ's garments. Election brings persecution but also glory.
+
+**Revelation and Faith**: The two dreams were God's revelation to Joseph, enabling him to hold onto hope in suffering. In the pit, at the slave market, in prison, these two dreams were his only support. God's promise does not fail due to changing circumstances. This teaches us: God's Word is our light in darkness, our hope in despair.
+
+**The Meaning of Suffering**: Joseph's sale was not a tragic ending but the beginning of a redemptive plan. God allows the righteous to suffer, not because He doesn't love them but because He will accomplish greater redemption through them. The logic of the cross already appears here—through suffering to glory, through death to life.
+
+**The Transmission of Sin**: Jacob once used deception to seize blessing; now he is deceived by his sons. Leah's sons envied Rachel's son, just as Leah once envied Rachel. Sin passes through families generation after generation; only God's grace can break this cycle.`,
+  christShadow_zh: `约瑟是旧约中最清楚预表基督的人物之一:
+
+**被父所爱**：雅各爱约瑟胜过众子,父神爱基督"这是我的爱子,我所喜悦的"(太3:17)。彩衣象征荣耀,基督本有神的形象,却取了奴仆的形象。
+
+**被弟兄恨恶**：约瑟的哥哥们恨他,不与他说和睦的话;基督"来到自己的地方,自己的人倒不接待他"(约1:11)。犹太人喊着"除掉他,除掉他"(约19:15),正如约瑟的哥哥们说"来吧,我们将他杀了"。
+
+**被剥去荣耀**：哥哥们剥去约瑟的彩衣;兵丁剥去基督的衣服,拈阄分了(约19:23-24)。从荣耀到羞辱,这是降卑的道路。
+
+**被丢在坑里**：约瑟被丢在空坑里;基督被放在财主的新坟墓里,从未有人葬过(约19:41)。坑和坟墓都象征死亡和绝望。
+
+**被廉价出卖**：约瑟被卖二十舍客勒银子;基督被犹大以三十块钱卖了(太26:15)。奴隶的价格,这是何等的侮辱！
+
+**被误会与冤屈**：雅各以为约瑟被野兽撕碎;世人以为基督只是个罪犯,死在十字架上。真相被谎言掩盖,义者被当作恶者。
+
+**神的计划**：约瑟被卖到埃及是为了保全多人的性命(创45:7);基督被钉十字架是为了拯救世人(约3:16)。表面的悲剧是神救赎计划的核心。
+
+**高升与拯救**：约瑟从奴隶升为宰相,拯救了埃及和雅各全家;基督从死里复活,升为至高,成为万民的救主。受苦的义者必得荣耀,被拒的石头成为房角的头块石头。
+
+最深刻的预表在于"神的意思原是好的"这个真理。约瑟的受苦不是失败,而是胜利;基督的十字架不是终点,而是通往荣耀的道路。神能使用最黑暗的罪恶成就最光明的救赎。`, christShadow_en: `Joseph is one of the clearest Old Testament types of Christ:
+
+**Beloved by the Father**: Jacob loved Joseph more than all his sons; the Father loves Christ: "This is my beloved Son, with whom I am well pleased" (Matt 3:17). The colorful robe symbolizes glory; Christ had the form of God but took the form of a servant.
+
+**Hated by Brothers**: Joseph's brothers hated him and could not speak peacefully to him; Christ "came to his own, and his own people did not receive him" (John 1:11). The Jews shouted "Away with him, away with him" (John 19:15), just as Joseph's brothers said "Come, let us kill him."
+
+**Stripped of Glory**: Brothers stripped Joseph of his robe; soldiers stripped Christ of his garments and cast lots (John 19:23-24). From glory to shame, this is the path of humiliation.
+
+**Thrown into the Pit**: Joseph was thrown into an empty pit; Christ was laid in a rich man's new tomb where no one had ever been laid (John 19:41). Pit and tomb both symbolize death and despair.
+
+**Sold Cheaply**: Joseph was sold for twenty shekels; Christ was sold by Judas for thirty pieces of silver (Matt 26:15). A slave's price—what an insult!
+
+**Misunderstood and Wronged**: Jacob thought Joseph was torn by wild beasts; the world thought Christ was just a criminal who died on a cross. Truth was covered by lies; the righteous was treated as evil.
+
+**God's Plan**: Joseph was sold to Egypt to preserve many lives (Gen 45:7); Christ was crucified to save the world (John 3:16). The apparent tragedy is the core of God's redemptive plan.
+
+**Exaltation and Salvation**: Joseph rose from slave to prime minister, saving Egypt and Jacob's household; Christ rose from the dead, was exalted to the highest place, and became Savior of all. The suffering righteous one receives glory; the rejected stone becomes the cornerstone.
+
+The deepest typology lies in the truth "God meant it for good." Joseph's suffering was not defeat but victory; Christ's cross was not the end but the path to glory. God can use the darkest evil to accomplish the brightest redemption.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 38,
@@ -3455,11 +4793,175 @@ readings.push({
   title: '犹大与他玛', titleEn: 'Judah and Tamar',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 38:1 / Genesis 38:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `我，摩西，现在要记下一段看似不合时宜的插曲——犹大与他玛的故事。你们或许会问，为何在约瑟的故事正进入高潮时，我突然转向犹大？这不是打断，而是必要的补充。这一章揭示了弥赛亚家谱中最不光彩却最显神恩的一环。
+
+那时，犹大离开他的弟兄，下到亚杜兰去，住在亚杜兰人希拉的家里。"离开弟兄"这个词意味深长——他无法面对卖约瑟所带来的家庭破裂，选择了逃避。犹大在那里看见一个迦南人名叫书亚的女儿，就娶她为妻。这是属灵下坡路的开始——离开弟兄，娶迦南女子。
+
+他与她同房，她就怀孕，生了儿子，犹大给他起名叫珥。她又怀孕，生了儿子，母亲给他起名叫俄南。她复又生了儿子，给他起名叫示拉。她生示拉的时候，犹大正在基悉。三个儿子，但前两个的结局极其悲惨。
+
+犹大为长子珥娶妻，名叫他玛。但珥在耶和华眼中看为恶，耶和华就叫他死了。我没有详细记载珥的罪行，但"在耶和华眼中看为恶"这句话已经足够沉重。犹大对俄南说："你当与你哥哥的妻子同房，向她尽你为弟的本分，为你哥哥生子立后。"这是后来成为律法的"弟续兄孕"习俗。
+
+俄南知道生子不归自己，所以同房的时候，便遗在地，免得给他哥哥留后。俄南所作的在耶和华眼中看为恶，耶和华也叫他死了。这不是性行为本身的罪，而是自私的罪——他享受权利却拒绝责任，贪图将来可能得到的产业。
+
+犹大心里说："恐怕示拉也死，像他两个哥哥一样。"就对他儿妇他玛说："你去，在你父亲家里守寡，等我儿子示拉长大。"他玛就去，住在她父亲家里。这是犹大对他玛的欺骗和拒绝——他害怕示拉也死，却把责任推给时间。
+
+过了许久，犹大的妻子书亚的女儿死了。犹大得了安慰，就和他朋友亚杜兰人希拉上亭拿去，到他剪羊毛的人那里。有人告诉他玛说："你的公公上亭拿剪羊毛去了。"他玛见示拉已经长大，还没有娶她为妻，就脱了她作寡妇的衣裳，用帕子蒙着脸，又遮住身体，坐在亭拿路上的伊拿印城门口。
+
+他玛做了一个大胆的决定——装扮成妓女。这不是道德的行为，却是绝望中对公义的追求。她知道犹大背弃了承诺，她在律法上有权利生子立后，而犹大拒绝了这个权利。
+
+犹大看见她，以为是妓女，因为她蒙着脸。犹大就转到她那里去，说："来吧，让我与你同寝。"他原不知道她是他的儿妇。他玛说："你要与我同寝，把什么给我呢？"犹大说："我从羊群里取一只山羊羔，打发人送来给你。"他玛说："在未送以先，你愿意给我一个当头吗？"
+
+这是何等讽刺的对话。犹大曾用二十舍客勒银子卖了弟弟，如今用一只山羊羔的承诺换取片刻的肉欲。他玛却比犹大更有智慧——她要的不是钱财，而是证据。
+
+他说："我给你什么当头呢？"他玛说："你的印、你的带子和你手里的杖。"犹大就给了她，与她同寝，她就从犹大怀了孕。这三样东西是犹大身份的象征——印是权柄的记号，带子是随身佩戴的，杖是族长的标志。他玛要的是无可辩驳的证据。
+
+他玛起来走了，除去帕子，仍旧穿上作寡妇的衣裳。犹大托他朋友亚杜兰人送一只山羊羔去，要从那女人手里取回当头来，却找不着她。问那地方的人说："伊拿印路旁的妓女在哪里？"他们说："这里从来没有妓女。"犹大说："我把这山羊羔送去了，你竟找不着她。任凭她拿去吧，免得我们被羞辱。"
+
+犹大关心的是自己的名声，害怕"被羞辱"。但更大的羞辱还在后面。
+
+约过了三个月，有人告诉犹大说："你的儿妇他玛作了妓女，且因行淫有了身孕。"犹大说："拉出她来，把她烧了！"何等的伪善和双重标准！他自己才去过妓女，却要烧死所谓的淫妇。这就是人的罪性——对自己宽容，对别人严厉。
+
+他玛被拉出来的时候，便打发人去见她公公，说："这些东西是谁的，我就是从谁怀的孕。请你认一认这印和带子并杖都是谁的？"这是全章的高潮时刻。他玛没有公开羞辱犹大，而是给他悔改的机会。
+
+犹大承认说："她比我更有义，因为我没有将她给我的儿子示拉。"从此犹大不再与她同寝了。这是真实的悔改。犹大承认自己的罪，承认他玛追求公义的权利。这个认罪改变了一切——犹大从此成长为一个承担责任的领袖，正如我们后来在创世记44章看到的。
+
+到她将要生产的时候，发现腹中是一对双生子。生产的时候，一个孩子伸出一只手来，收生婆拿红线拴在他手上，说："这是先出来的。"但他把手一收回去，他的兄弟就先出生了。收生婆说："你为什么抢着来呢？"因此给他起名叫法勒斯。后来他兄弟出来，手上有红线，就给他起名叫谢拉。
+
+这两个孩子的出生也充满象征。法勒斯"抢着来"，他的名字意思是"突破"。他日后成为大卫王的祖先，也是弥赛亚的先祖。从这样不堪的背景中，神拣选了祂的受膏者的家系。
+
+弟兄们，这一章向我们启示什么？第一，神的恩典高过人的罪。犹大的罪、他玛的诡计，都本该被咒诅，但神却使用它们成就救赎计划。第二，神看重公义过于仪文。他玛虽然用了不道德的手段，但她的动机是追求律法赋予她的权利。第三，悔改带来转机。犹大的认罪成为他生命的转折点，从此他成为承担责任的领袖。
+
+当马太记录基督的家谱时，他特别提到"犹大从他玛生法勒斯"(太1:3)。这不是羞耻的遮掩，而是恩典的彰显——基督来，不是召义人，乃是召罪人。弥赛亚的家谱中有妓女喇合、外邦人路得，也有这段不堪的往事。这正显明：救恩是给一切相信的人，无论你的过去多么不堪。`, content_en: `I, Moses, now record what seems an untimely interlude—the story of Judah and Tamar. You may ask why, as Joseph's story reaches its climax, I suddenly turn to Judah. This is not an interruption but a necessary supplement. This chapter reveals the most inglorious yet most grace-revealing link in the Messiah's genealogy.
+
+At that time, Judah left his brothers and went down to Adullam, staying with Hirah the Adullamite. "Left his brothers"—a phrase loaded with meaning. Unable to face the family breakdown caused by selling Joseph, he chose escape. There Judah saw the daughter of a Canaanite named Shua and married her. This was the beginning of spiritual decline—leaving his brothers, marrying a Canaanite.
+
+He went in to her, and she conceived and bore a son, whom Judah named Er. She conceived again and bore a son, whom she named Onan. Yet again she bore a son and named him Shelah. She was in Chezib when she bore Shelah. Three sons, but the first two met tragic ends.
+
+Judah took a wife for Er his firstborn, named Tamar. But Er was wicked in the sight of the LORD, and the LORD put him to death. I did not record Er's specific sins, but "wicked in the sight of the LORD" is heavy enough. Judah said to Onan, "Go in to your brother's wife and perform the duty of a brother-in-law to her, and raise up offspring for your brother." This was the "levirate marriage" custom that later became law.
+
+Onan knew the offspring would not be his, so whenever he went in to his brother's wife, he would waste the seed on the ground, lest he should give offspring to his brother. What he did was wicked in the sight of the LORD, and He put him to death also. This was not sin of the sexual act itself but of selfishness—he enjoyed the privilege but refused the responsibility, coveting the possible future inheritance.
+
+Judah thought, "Lest Shelah also die like his brothers." So he said to his daughter-in-law Tamar, "Remain a widow in your father's house till Shelah my son grows up." Tamar went and remained in her father's house. This was Judah's deception and rejection of Tamar—he feared Shelah would die too but blamed time.
+
+After a long time, Shua's daughter, Judah's wife, died. When Judah was comforted, he went up to Timnah to his sheepshearers, he and his friend Hirah the Adullamite. When Tamar was told, "Your father-in-law is going up to Timnah to shear his sheep," she saw that Shelah was grown up and she had not been given to him. So she took off her widow's garments, covered herself with a veil, wrapped herself up, and sat at the entrance to Enaim on the road to Timnah.
+
+Tamar made a bold decision—to disguise herself as a prostitute. This was not a moral act but a desperate pursuit of justice. She knew Judah had broken his promise; she had a legal right to bear offspring, and Judah had denied this right.
+
+When Judah saw her, he thought she was a prostitute, for she had covered her face. Judah turned to her and said, "Come, let me come in to you." He did not know she was his daughter-in-law. She said, "What will you give me, that you may come in to me?" He answered, "I will send you a young goat from the flock." She said, "If you give me a pledge, until you send it?"
+
+What an ironic conversation. Judah once sold his brother for twenty shekels; now he bargained for momentary lust with a promise of a goat. But Tamar was wiser than Judah—she wanted not money but evidence.
+
+He said, "What pledge shall I give you?" She replied, "Your signet and your cord and your staff that is in your hand." So he gave them to her and went in to her, and she conceived by him. These three items symbolized Judah's identity—the signet was a mark of authority, the cord was worn personally, the staff was a patriarch's symbol. Tamar wanted irrefutable evidence.
+
+Tamar arose and went away, took off her veil, and put on her widow's garments again. When Judah sent the young goat by his friend the Adullamite to take back the pledge from the woman, he could not find her. He asked the men of the place, "Where is the cult prostitute at Enaim by the roadside?" They said, "No cult prostitute has been here." Judah said, "Let her keep the things, lest we be laughed at. I sent this goat, and you did not find her."
+
+Judah cared about his reputation, fearing "being laughed at." But greater shame awaited.
+
+About three months later, Judah was told, "Tamar your daughter-in-law has been immoral. Moreover, she is pregnant by immorality." Judah said, "Bring her out, and let her be burned." What hypocrisy and double standards! He himself had just visited a prostitute yet wanted to burn the supposed adulteress. This is human sin nature—lenient with ourselves, harsh with others.
+
+As she was being brought out, she sent word to her father-in-law, "By the man to whom these belong, I am pregnant." And she said, "Please identify whose these are, the signet and the cord and the staff." This was the chapter's climax. Tamar did not publicly shame Judah but gave him a chance to repent.
+
+Judah identified them and said, "She is more righteous than I, since I did not give her to my son Shelah." And he did not know her again. This was genuine repentance. Judah acknowledged his sin and Tamar's rightful pursuit of justice. This confession changed everything—from then on, Judah grew into a responsible leader, as we later see in Genesis 44.
+
+When the time of her labor came, there were twins in her womb. And when she was in labor, one put out a hand, and the midwife took and tied a scarlet thread on his hand, saying, "This one came out first." But he drew back his hand, and his brother came out first. She said, "What a breach you have made!" Therefore his name was called Perez. Afterward his brother came out with the scarlet thread on his hand, and his name was called Zerah.
+
+The birth of these two children is also full of symbolism. Perez "broke through"—his name means "breach." He later became David's ancestor and the Messiah's forefather. From such an unseemly background, God chose the lineage of His Anointed One.
+
+Brothers, what does this chapter reveal to us? First, God's grace surpasses human sin. Judah's sin and Tamar's deceit should have been cursed, yet God used them to accomplish His redemptive plan. Second, God values justice over formality. Though Tamar used immoral means, her motive was pursuing her legal right. Third, repentance brings transformation. Judah's confession became his life's turning point; from then on, he became a responsible leader.
+
+When Matthew recorded Christ's genealogy, he specifically mentioned "Judah the father of Perez by Tamar" (Matt 1:3). This is not shameful concealment but grace's manifestation—Christ came not to call the righteous but sinners. The Messiah's genealogy includes the prostitute Rahab, the foreigner Ruth, and this unseemly episode. This demonstrates: salvation is for all who believe, no matter how unseemly your past.`,
+  historyContext_zh: `这一章发生在约瑟被卖后不久，时间跨度约二十二年（从犹大娶妻到他玛生子）。这解释了为何在约瑟故事中间插入这段叙事——这两件事是同时发生的。
+
+"弟续兄孕"的习俗在古代近东很普遍，后来被摩西律法正式确立（申25:5-10）。这个习俗的目的是保证家族延续和财产继承，也是对寡妇的保护。他玛有权要求这个权利，犹大拒绝给予是违背习俗的。
+
+亭拿是犹大支派的城邑，剪羊毛是重要的经济活动，也是庆祝的时节。路旁坐着的女子常被理解为宗教妓女（与迦南宗教有关），这解释了为何他玛蒙脸可以不被识破。
+
+印章是古代身份证明，通常刻有拥有者的名字或家族徽记，挂在带子上戴在脖子上。杖上也常有雕刻的家族标记。这三样东西综合起来是确凿的身份证据。
+
+"拉出来烧死"不是当时的一般刑罚，而是特别严厉的处置，通常用于祭司的女儿行淫（利21:9）。犹大可能是因为他玛是族长的儿妇，所以要求更严厉的刑罚。这显示了他的伪善——对自己的罪轻描淡写，对别人的罪严厉到底。
+
+法勒斯这个名字后来具有救赎历史的重大意义。路得记4:12提到"愿你的家像他玛从犹大所生法勒斯的家一般"，这是对波阿斯和路得的祝福。大卫王正是法勒斯的后代（得4:18-22），因此基督也是从这个家系出来的。
+
+当我在旷野记录这段历史时，距离这些事已经过去大约四百年。但这段不光彩的往事必须被记录，因为它显示了神的恩典如何在人的失败中工作。这不是为罪辩护，而是彰显救赎的大能。`, historyContext_en: `This chapter occurred shortly after Joseph's sale, spanning about twenty-two years (from Judah's marriage to Tamar's childbirth). This explains why this narrative is inserted in Joseph's story—these events happened simultaneously.
+
+The levirate marriage custom was common in the ancient Near East, later formally established by Mosaic law (Deut 25:5-10). This custom's purpose was ensuring family continuity and property inheritance, also providing widow protection. Tamar had a right to demand this; Judah's refusal violated custom.
+
+Timnah was a city of the tribe of Judah; sheepshearing was an important economic activity and festive season. Women sitting by the roadside were often understood as cult prostitutes (related to Canaanite religion), explaining why Tamar could go unrecognized while veiled.
+
+Seals were ancient identification, usually engraved with the owner's name or family crest, hung on a cord worn around the neck. Staffs also often had carved family marks. These three items together were conclusive identity evidence.
+
+"Bring her out and burn her" was not ordinary punishment then but especially severe, usually applied to a priest's daughter committing adultery (Lev 21:9). Judah likely demanded harsher punishment because Tamar was the patriarch's daughter-in-law. This showed his hypocrisy—downplaying his own sin while being severe with others'.
+
+Perez's name later acquired great redemptive-historical significance. Ruth 4:12 mentions "May your house be like the house of Perez, whom Tamar bore to Judah"—a blessing for Boaz and Ruth. King David was Perez's descendant (Ruth 4:18-22), thus Christ also came from this lineage.
+
+When I recorded this history in the wilderness, about four hundred years had passed since these events. But this inglorious episode had to be recorded because it shows how God's grace works in human failure. This is not defending sin but manifesting redemption's power.`,
+  structure_zh: `本章结构紧凑，可分为四幕：
+
+**第一幕：家族的建立与失败(1-11节)**：犹大下到亚杜兰、娶迦南女子、三个儿子的诞生、珥和俄南的死亡。这是背景铺垫，显示犹大家族的问题——属灵妥协、儿子的恶行、对儿妇的不公。每个事件都简洁有力，没有多余的描述。
+
+**第二幕：他玛的计谋(12-23节)**：犹大妻子之死、剪羊毛的旅程、他玛的装扮、犹大的交易、当头的交付。这是情节的发展，充满戏剧性张力。对话记录详细，显示两人的智慧较量——犹大的粗心大意与他玛的精心策划。
+
+**第三幕：真相的揭露(24-26节)**：告密、判刑、证据的呈现、犹大的认罪。这是全章的高潮，只用三节经文，却是最关键的转折。犹大从审判者变成被审判者，从傲慢变成悔改。"她比我更有义"这六个字，是整章的神学核心。
+
+**第四幕：双生子的诞生(27-30节)**：临产、红线、法勒斯的突破、谢拉的出生。这是结局，但也是新的开始。法勒斯的"抢着来"呼应了他祖先雅各"抓住以扫的脚跟"，显示神的拣选超越人的计划。
+
+整章的编排显示了深刻的神学意图：罪的暴露不是为了定罪，而是为了引向悔改；人的失败不是救赎历史的终结，而是恩典介入的机会。最不堪的事件，成为最荣耀的家系的起源。`, structure_en: `This chapter has a tight structure divided into four acts:
+
+**Act One: Family Establishment and Failure (vv. 1-11)**: Judah goes down to Adullam, marries a Canaanite, three sons are born, Er and Onan die. This is background, showing Judah's family problems—spiritual compromise, sons' wickedness, injustice to daughter-in-law. Each event is concise and powerful, no excess description.
+
+**Act Two: Tamar's Scheme (vv. 12-23)**: Judah's wife dies, journey to sheepshearing, Tamar's disguise, Judah's transaction, pledge handed over. This is plot development, full of dramatic tension. Dialogue recorded in detail, showing the battle of wits—Judah's carelessness versus Tamar's careful planning.
+
+**Act Three: Truth Revealed (vv. 24-26)**: Accusation, sentencing, evidence presented, Judah's confession. This is the chapter's climax, only three verses but the most crucial turning point. Judah changes from judge to judged, from arrogance to repentance. "She is more righteous than I"—six words, the theological core of the entire chapter.
+
+**Act Four: Twins Born (vv. 27-30)**: Labor, scarlet thread, Perez's breach, Zerah's birth. This is the conclusion but also a new beginning. Perez's "breaking through" echoes his ancestor Jacob "grasping Esau's heel," showing God's election transcends human plans.
+
+The chapter's arrangement shows profound theological intent: exposing sin is not for condemnation but to lead to repentance; human failure is not redemptive history's end but an opportunity for grace to intervene. The most unseemly event becomes the origin of the most glorious lineage.`,
+  theology_zh: `本章处理了几个深刻的神学问题：
+
+**恩典与罪恶**：这是全章的核心主题。犹大的罪（娶迦南女子、与儿妇行淫、双重标准），他玛的诡计（装妓女、欺骗），都是罪。但神使用这些罪成就祂的救赎计划。这不是说罪是好的，而是说神的恩典高过人的罪。罗马书5:20说："罪在哪里显多，恩典就更显多了。"本章就是这个真理的活画。
+
+**公义与律法**：他玛的行为从形式上看是不道德的，但从实质上看是追求公义。她有权按习俗生子立后，犹大拒绝给予这个权利。她用了不正当的手段，却是为了正当的目的。这提醒我们：神看内心过于外表，看动机过于行为。但这不是说目的可以证明手段——而是说神能从人的失败中带出公义。
+
+**悔改与转机**：犹大的认罪"她比我更有义"是本章的转折点。他没有试图掩盖，没有找借口，而是直接承认自己的失败。真正的悔改带来真正的改变——从此犹大成长为一个承担责任的领袖，在创世记44章为便雅悯舍命的那位，就是这个悔改后的犹大。
+
+**拣选的奥秘**：神拣选法勒斯成为弥赛亚的先祖，这个拣选超越人的道德判断。不是因为他的出身高贵（恰恰相反），而是因为神的主权。这显示基督的家谱不是义人的名单，而是蒙恩罪人的记录。路得、喇合、他玛，都在这个家谱中，因为救恩是给一切信的人。
+
+**羞耻与荣耀**：这段最不光彩的故事，被放在基督家谱的显著位置（太1:3）。这不是遮掩，而是宣告——基督来，不是为义人，乃是为罪人。祂进入我们的羞耻，好叫我们得着祂的荣耀。十字架是最羞耻的刑罚,却成为最荣耀的拯救。`, theology_en: `This chapter addresses several profound theological issues:
+
+**Grace and Sin**: This is the chapter's core theme. Judah's sins (marrying a Canaanite, sleeping with daughter-in-law, double standards) and Tamar's deceit (disguising as prostitute, deception) are all sin. Yet God used these sins to accomplish His redemptive plan. This doesn't mean sin is good but that God's grace surpasses human sin. Romans 5:20 says, "Where sin increased, grace abounded all the more." This chapter is a living picture of this truth.
+
+**Justice and Law**: Tamar's actions were formally immoral but substantially pursued justice. She had a right by custom to bear offspring; Judah denied this right. She used improper means for proper ends. This reminds us: God looks at the heart more than appearance, at motives more than actions. But this doesn't mean ends justify means—rather, God can bring justice from human failure.
+
+**Repentance and Transformation**: Judah's confession "She is more righteous than I" is the chapter's turning point. He didn't try to cover up or make excuses but directly acknowledged his failure. True repentance brings true change—from then on, Judah grew into a responsible leader; the one willing to die for Benjamin in Genesis 44 is this repentant Judah.
+
+**Mystery of Election**: God chose Perez as the Messiah's ancestor, a choice transcending human moral judgment. Not because of his noble birth (quite the opposite) but because of God's sovereignty. This shows Christ's genealogy is not a list of righteous people but a record of sinners who received grace. Ruth, Rahab, Tamar—all in this genealogy because salvation is for all who believe.
+
+**Shame and Glory**: This most inglorious story is placed prominently in Christ's genealogy (Matt 1:3). This is not concealment but proclamation—Christ came not for the righteous but for sinners. He entered our shame so we might receive His glory. The cross is the most shameful punishment yet became the most glorious salvation.`,
+  christShadow_zh: `这一章如何指向基督？
+
+**羞耻的家谱**：马太福音1:3特意提到"犹大从他玛氏生法勒斯和谢拉"。马太本可以跳过这个细节，直接说"犹大生法勒斯"，但他没有。他要我们知道，基督的家谱不是完美无瑕的，而是充满罪人和丑闻的。这正是福音的核心——基督来到罪人中间，担当我们的羞耻。
+
+**代替的主题**：他玛本该由示拉娶，但犹大拒绝了。于是犹大自己成了那个给她生子的人。这预表了基督的代替——我们本该死，但基督替我们死了；我们本该承受咒诅，但基督替我们承受了。犹大无意中成了自己儿子的替代，这暗示了代替性救赎的原理。
+
+**认罪与称义**：犹大说"她比我更有义"，这是旧约中罕见的自我认罪。他承认自己不义，承认他玛相对的义。但请注意，他玛也不是真正无罪的义人——她只是"比我更有义"。这指向一个真理：人间没有绝对的义，唯有基督是那真正的义者。我们被称义，不是因为我们义，而是因为基督的义归给了我们。
+
+**法勒斯的突破**：法勒斯的名字意思是"突破"。他本该排在第二，却突破了出来，成为长子。这预表基督的复活——死亡本该困住祂，但祂突破死亡的捆绑，成为从死里复活的首生者（西1:18）。法勒斯成为大卫和基督的先祖，这个"突破"成为整个救赎历史的预表。
+
+**红线的记号**：那条拴在第一个伸出手的孩子手上的红线，使我想起喇合窗口的朱红线绳（书2:18）。红色是血的颜色，是救赎的记号。虽然谢拉没有成为弥赛亚的直系先祖，但这红线提醒我们：救赎是通过血而来的。基督的血是那真正的红线,拯救一切信靠祂的人。
+
+**恩典的拣选**：在这样不堪的背景中，神拣选了弥赛亚的家系。这显明救恩完全是恩典，与人的功德无关。我们没有一个人配得救恩，就像法勒斯的出身配不上王族的尊荣。但神的拣选就是如此——祂召那不配的，使他们成为尊贵。`, christShadow_en: `How does this chapter point to Christ?
+
+**Shameful Genealogy**: Matthew 1:3 specifically mentions "Judah the father of Perez and Zerah by Tamar." Matthew could have skipped this detail and simply said "Judah the father of Perez," but he didn't. He wants us to know Christ's genealogy is not spotless but full of sinners and scandals. This is the gospel's core—Christ came among sinners, bearing our shame.
+
+**Theme of Substitution**: Tamar should have married Shelah, but Judah refused. So Judah himself became the one who gave her offspring. This prefigures Christ's substitution—we should have died, but Christ died for us; we should have borne the curse, but Christ bore it for us. Judah unintentionally became his son's substitute, hinting at substitutionary redemption.
+
+**Confession and Justification**: Judah said "She is more righteous than I"—rare self-confession in the Old Testament. He acknowledged his unrighteousness and Tamar's relative righteousness. But note: Tamar was not truly sinless and righteous—she was only "more righteous than I." This points to a truth: there is no absolute righteousness among humans; only Christ is truly righteous. We are justified not because we are righteous but because Christ's righteousness is imputed to us.
+
+**Perez's Breach**: Perez's name means "breach." He should have been second but broke through first, becoming the firstborn. This prefigures Christ's resurrection—death should have held Him, but He broke death's bonds, becoming the firstborn from the dead (Col 1:18). Perez became David's and Christ's ancestor; this "breach" prefigures all redemptive history.
+
+**The Red Thread Mark**: The scarlet thread tied on the first hand that came out reminds me of Rahab's scarlet cord in the window (Josh 2:18). Red is blood's color, redemption's sign. Though Zerah didn't become the Messiah's direct ancestor, this red thread reminds us: redemption comes through blood. Christ's blood is the true red thread, saving all who trust Him.
+
+**Grace's Election**: In such unseemly circumstances, God chose the Messiah's lineage. This reveals salvation is entirely grace, unrelated to human merit. None of us deserves salvation, just as Perez's birth didn't deserve royal honor. But God's election is thus—He calls the unworthy and makes them honorable.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 39,
@@ -3467,11 +4969,213 @@ readings.push({
   title: '在波提乏家', titleEn: 'Joseph in Potiphar\'s House',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 39:1 / Genesis 39:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `我，摩西，现在回到约瑟的故事。上一章我们看见人的失败和神的恩典，现在我们要看见神如何与祂的仆人同在，即使在最黑暗的环境中。
+
+约瑟被带下埃及去，有一个埃及人，是法老的内臣，护卫长波提乏，从那些带下他来的以实玛利人手下买了他去。约瑟从自由人沦为奴隶，从宠儿变成货物。但下一句话改变了一切：耶和华与约瑟同在，他就百事顺利。他住在他主人埃及人的家中。
+
+"耶和华与他同在"——这五个字是约瑟故事的关键。不是因为约瑟有特别的能力，不是因为他的环境有利，而是因为神与他同在。这个同在使一切都不同了。
+
+他主人见耶和华与他同在，又见耶和华使他手里所办的尽都顺利。约瑟就在主人眼前蒙恩，伺候他主人，并且主人派他管理家务，把一切所有的都交在他手里。自从主人派约瑟管理家务和他一切所有的，耶和华就因约瑟的缘故，赐福与那埃及人的家。凡家里和田间一切所有的，都蒙耶和华赐福。
+
+注意这里的逻辑：不是因为顺利所以神同在，而是因为神同在所以顺利。波提乏是外邦人，但他能看见"耶和华与约瑟同在"。真正属神的人，他的生命有一种力量，是不信的人也能感受到的。约瑟不仅自己蒙福，还使主人的家蒙福。这正是亚伯拉罕之约的应许——"地上的万族都要因你得福"(创12:3)。
+
+波提乏将一切所有的都交在约瑟的手中，除了自己所吃的饭，别的事一概不知。这是何等的信任！约瑟从最低的奴隶地位，升到了管家的位置。约瑟原来秀雅俊美。这个描述看似多余，实际是为下一段试探铺垫。
+
+这事以后，约瑟主人的妻以目送情给约瑟，说："你与我同寝吧。"试探来了。不是粗俗的试探，而是光明正大的邀请；不是陌生人的引诱，而是主母的命令。这是最难拒绝的试探——权势、机会、私密、美色，全都具备。
+
+约瑟不从，对他主人的妻说："看哪，一切家务我主人都不知道，他把所有的都交在我手里。在这家里没有比我大的，并且他没有留下一样不交给我，只留下了你，因为你是他的妻子。我怎能作这大恶，得罪神呢？"
+
+这是何等清醒的回应！约瑟给出了三个理由：第一，主人的信任——"他把所有的都交在我手里"。背叛信任是可耻的。第二，关系的界限——"只留下了你，因为你是他的妻子"。有些界限是不能跨越的。第三，也是最重要的——"我怎能作这大恶，得罪神呢？"约瑟首先想到的不是社会后果，不是个人得失，而是神。罪的本质是得罪神，不仅仅是伤害人。
+
+后来她天天和约瑟说，约瑟却不听从她，不与她同寝，也不和她在一处。这不是一次的试探，而是"天天"的纠缠。约瑟不仅拒绝犯罪，还"不和她在一处"——远离试探的环境。这是智慧的逃避。雅各说"要逃避淫行"(雅4:7)，有时候逃跑不是懦弱，而是勇敢。
+
+有一天，约瑟进屋里去办事，家中人没有一个在那屋里。妇人就拉住他的衣裳说："你与我同寝吧。"约瑟把衣裳丢在妇人手里，跑到外边去了。这是圣经中最戏剧性的一幕。她拉住他的衣裳——物理的接触，直接的威胁。约瑟的回应是：丢下衣裳，逃跑。宁可失去外衣，不可失去清白；宁可被误会，不可得罪神。
+
+妇人看见约瑟把衣裳丢在她手里跑出去了，就叫了家里的人来，对他们说："你们看，他带了一个希伯来人进入我们家里，要戏弄我们。他到我这里来，要与我同寝，我就大声喊叫。他听见我放声喊叫，就把衣裳丢在我这里跑出去了。"
+
+从受害者变成控告者，从真相变成谎言。这个谎言编得很巧妙：首先煽动民族情绪——"他带了一个希伯来人"（这是波提乏的错）；然后颠倒黑白——"要戏弄我们""要与我同寝"（实际是她引诱约瑟）；最后用衣裳作证据。物证在手，死无对证。
+
+妇人把约瑟的衣裳放在自己那里，等着他主人回家，就对他如此如此说："你所带到我们这里的那希伯来仆人进来要戏弄我，我放声喊起来，他就把衣裳丢在我这里跑出去了。"
+
+她对丈夫说的话更加恶毒，不断强调"你所带来的""希伯来人"，暗示这都是波提乏的错。她把自己塑造成无辜的受害者，把约瑟塑造成恶人。
+
+约瑟的主人听见他妻子对他所说的话说："你的仆人如此如此待我"，他就生气，把约瑟下在监里，就是王的囚犯被囚的地方。于是约瑟在那里坐监。
+
+波提乏生气了。但请注意，他没有按照通奸罪处死约瑟（这是埃及法律），只是把他下在监里。或许波提乏心里也有疑问？他了解约瑟的品格，或许不完全相信妻子的话。但社会压力、妻子的坚持，使他不得不做出惩罚。
+
+约瑟再次失去一切——工作、自由、名声。从宠儿到奴隶，现在又从管家到囚犯。两次都因为衣服：彩衣使他被卖，外衣使他被囚。两次都是因为别人的罪，不是自己的罪。这是何等的不公！
+
+但故事没有在这里结束。但耶和华与约瑟同在，向他施恩，使他在司狱的眼前蒙恩。司狱就把监里所有的囚犯都交在约瑟手下，他们在那里所办的事，都是经他的手。凡在约瑟手下的事，司狱一概不察，因为耶和华与约瑟同在，耶和华使他所作的尽都顺利。
+
+又是这句话："耶和华与约瑟同在。"在波提乏家是这样，在监狱里还是这样。环境改变了，但神的同在没有改变。约瑟又一次从最低的地位升到了管理的位置。从奴隶到管家，从囚犯到狱务官，神的同在使约瑟在任何环境中都能兴旺。
+
+弟兄们，这一章教导我们什么？第一，敬虔不保证顺境。约瑟是义人，却遭遇苦难。第二，神的同在比环境的顺利更重要。约瑟在监狱里仍蒙福，因为神与他同在。第三，圣洁的代价有时是苦难。约瑟拒绝犯罪，反而被囚。但神看见，神记念。第四，神能在任何环境中工作。从奴隶到管家,从囚犯到狱官，神的旨意不受人的拦阻。
+
+约瑟的故事告诉我们：环境不能决定我们的价值，遭遇不能改变神的同在。无论在高处还是低处，在自由中还是监牢里，只要神与我们同在，我们就有指望，就能见证神的荣耀。`, content_en: `I, Moses, now return to Joseph's story. Last chapter we saw human failure and God's grace; now we see how God was with His servant even in the darkest circumstances.
+
+Joseph was brought down to Egypt, and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him from the Ishmaelites. Joseph fell from freeman to slave, from favored son to merchandise. But the next sentence changed everything: The LORD was with Joseph, and he became a successful man, and he was in the house of his Egyptian master.
+
+"The LORD was with him"—these five words are key to Joseph's story. Not because Joseph had special abilities, not because his circumstances were favorable, but because God was with him. This presence made all the difference.
+
+His master saw that the LORD was with him and that the LORD caused all that he did to succeed in his hands. So Joseph found favor in his sight and attended him, and he made him overseer of his house and put him in charge of all that he had. From the time that he made him overseer in his house and over all that he had, the LORD blessed the Egyptian's house for Joseph's sake. The blessing of the LORD was on all that he had, in house and field.
+
+Note the logic: not that God was with him because things went well, but things went well because God was with him. Potiphar was a foreigner, yet he could see "the LORD was with Joseph." A truly godly person has a power in their life that even unbelievers can sense. Joseph not only was blessed himself but brought blessing to his master's house. This fulfills the Abrahamic covenant promise—"in you all the families of the earth shall be blessed" (Gen 12:3).
+
+Potiphar left all that he had in Joseph's charge, and because of him he had no concern about anything but the food he ate. Now Joseph was handsome in form and appearance. This description seems superfluous but sets up the next temptation.
+
+After this, his master's wife cast her eyes on Joseph and said, "Lie with me." Temptation came. Not crude temptation but an open invitation; not a stranger's seduction but the mistress's command. This was the hardest temptation to refuse—power, opportunity, privacy, beauty, all present.
+
+But he refused and said to his master's wife, "Behold, because of me my master has no concern about anything in the house, and he has put everything that he has in my charge. He is not greater in this house than I am, nor has he kept back anything from me except you, because you are his wife. How then can I do this great wickedness and sin against God?"
+
+What a clear-headed response! Joseph gave three reasons: First, the master's trust—"he has put everything in my charge." Betraying trust is shameful. Second, relationship boundaries—"except you, because you are his wife." Some boundaries cannot be crossed. Third, and most important—"How can I do this great wickedness and sin against God?" Joseph's first thought was not social consequences, not personal loss, but God. Sin's essence is offending God, not merely hurting people.
+
+Although she spoke to Joseph day after day, he would not listen to her, to lie beside her or to be with her. This was not a one-time temptation but "day after day" harassment. Joseph not only refused to sin but "would not be with her"—avoiding the environment of temptation. This is wise escape. James says "flee from sexual immorality" (Jas 4:7); sometimes fleeing is not cowardice but courage.
+
+One day, when he went into the house to do his work and none of the men of the house was there in the house, she caught him by his garment, saying, "Lie with me." But he left his garment in her hand and fled and got out of the house. This is Scripture's most dramatic scene. She grabbed his garment—physical contact, direct threat. Joseph's response: leave the garment, run. Better to lose the cloak than lose integrity; better to be misunderstood than offend God.
+
+As soon as she saw that he had left his garment in her hand and had fled out of the house, she called to the men of her household and said, "See, he has brought among us a Hebrew to laugh at us. He came in to me to lie with me, and I cried out with a loud voice. And as soon as he heard that I lifted up my voice and cried out, he left his garment beside me and fled and got out of the house."
+
+From victim to accuser, from truth to lies. This lie was cleverly crafted: first inciting ethnic sentiment—"he has brought among us a Hebrew" (this is Potiphar's fault); then inverting truth—"to laugh at us" "he came in to lie with me" (actually she seduced Joseph); finally using the garment as evidence. Physical evidence in hand, no way to prove otherwise.
+
+She laid up his garment by her until his master came home, and she told him the same story: "The Hebrew servant, whom you have brought among us, came in to me to laugh at me. But as soon as I lifted up my voice and cried, he left his garment beside me and fled out of the house."
+
+Her words to her husband were even more vicious, constantly emphasizing "whom you brought" "the Hebrew," implying this was all Potiphar's fault. She portrayed herself as an innocent victim and Joseph as a villain.
+
+As soon as his master heard the words that his wife spoke to him, "This is the way your servant treated me," his anger was kindled. And Joseph's master took him and put him into the prison, the place where the king's prisoners were confined, and he was there in prison.
+
+Potiphar was angry. But note: he did not execute Joseph for adultery (as Egyptian law allowed), only imprisoned him. Perhaps Potiphar had doubts? He knew Joseph's character; perhaps he didn't fully believe his wife. But social pressure, his wife's insistence, forced him to punish.
+
+Joseph lost everything again—job, freedom, reputation. From favored son to slave, now from steward to prisoner. Both times because of clothing: the colorful robe got him sold, the cloak got him imprisoned. Both times because of others' sins, not his own. What injustice!
+
+But the story doesn't end here. But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison. And the keeper of the prison put Joseph in charge of all the prisoners who were in the prison. Whatever was done there, he was the one who did it. The keeper of the prison paid no attention to anything that was in Joseph's charge, because the LORD was with him. And whatever he did, the LORD made it succeed.
+
+Again this phrase: "The LORD was with Joseph." In Potiphar's house, and still in prison. Circumstances changed, but God's presence didn't. Joseph once again rose from the lowest position to management. From slave to steward, from prisoner to prison administrator—God's presence enabled Joseph to prosper in any circumstance.
+
+Brothers, what does this chapter teach us? First, godliness doesn't guarantee smooth circumstances. Joseph was righteous yet suffered. Second, God's presence is more important than favorable circumstances. Joseph was blessed in prison because God was with him. Third, holiness sometimes costs suffering. Joseph refused sin and was imprisoned. But God sees, God remembers. Fourth, God can work in any circumstance. From slave to steward, from prisoner to prison officer—God's will is not hindered by people.
+
+Joseph's story tells us: circumstances don't determine our value; experiences don't change God's presence. Whether in high places or low, in freedom or prison, as long as God is with us, we have hope and can witness God's glory.`,
+  historyContext_zh: `这一章发生在约瑟大约十七到二十岁之间，地点是埃及。波提乏是法老的"内臣"（希伯来文 saris，可能是宦官，但也可能只是高级官员的称谓）和"护卫长"（负责王宫安全和处决的长官）。
+
+约瑟被卖到埃及正值埃及中王国末期到第二中间期的过渡时期。这是埃及历史上相对混乱的时期，但商业和奴隶贸易仍然活跃。从迦南到埃及的奴隶贸易路线已经存在了几个世纪。
+
+埃及社会等级森严，但也有社会流动性。有记录显示，一些奴隶因为能力出众，被提拔到管理阶层，甚至成为高官。约瑟的经历在埃及历史中并非完全不可能。埃及人重视能力和效率，如果一个奴隶能为主人带来利益，他可以获得很大的信任和权力。
+
+"司狱"（监狱长）是埃及官僚体系中的一个职位。约瑟被关押的地方是"王的囚犯被囚的地方"，这不是普通的监狱，而是关押政治犯和高级囚犯的地方。这为下一章酒政和膳长的出现做了铺垫。
+
+关于波提乏妻子的引诱，这在古代近东文学中有相似的主题。埃及的《两兄弟的故事》（Tale of Two Brothers，约公元前1185年）就有类似情节：嫂子引诱小叔子，被拒后诬告他。这说明这类事件在古代社会并不罕见。
+
+埃及法律对通奸罪的处罚很严厉，可以处死刑。波提乏只是把约瑟下监，可能说明他对妻子的指控有所怀疑。但作为高级官员，他需要顾及面子和家庭声誉，不能公开质疑妻子。
+
+当我在旷野记录这段历史时，约瑟的监狱经历对以色列民有特别的意义——他们刚刚从埃及的奴役中被拯救出来。约瑟在埃及从奴隶到囚犯，最终到宰相的经历，预表了以色列民族的整个历程。`, historyContext_en: `This chapter occurred when Joseph was about seventeen to twenty years old, in Egypt. Potiphar was Pharaoh's "officer" (Hebrew saris, possibly a eunuch but also just a term for high officials) and "captain of the guard" (officer responsible for palace security and executions).
+
+Joseph's sale to Egypt coincided with Egypt's transition from the late Middle Kingdom to the Second Intermediate Period. This was a relatively chaotic time in Egyptian history, but commerce and slave trade remained active. Slave trade routes from Canaan to Egypt had existed for centuries.
+
+Egyptian society was hierarchical but had social mobility. Records show some slaves were promoted to management, even becoming high officials, due to exceptional abilities. Joseph's experience was not entirely impossible in Egyptian history. Egyptians valued ability and efficiency; if a slave brought profit to his master, he could gain great trust and power.
+
+The "keeper of the prison" was a position in Egypt's bureaucratic system. Joseph was imprisoned in "the place where the king's prisoners were confined," not an ordinary jail but where political prisoners and high-level inmates were held. This sets up the next chapter with the cupbearer and baker.
+
+Regarding Potiphar's wife's seduction, this theme exists in ancient Near Eastern literature. Egypt's "Tale of Two Brothers" (circa 1185 BC) has a similar plot: sister-in-law seduces brother-in-law, falsely accuses him when refused. This indicates such incidents were not rare in ancient society.
+
+Egyptian law's punishment for adultery was severe, possibly execution. Potiphar merely imprisoned Joseph, possibly indicating doubts about his wife's accusation. But as a high official, he needed to consider face and family reputation, unable to publicly question his wife.
+
+When I recorded this history in the wilderness, Joseph's prison experience held special meaning for Israel—they had just been delivered from Egyptian slavery. Joseph's journey in Egypt from slave to prisoner to prime minister prefigured the entire Israelite national experience.`,
+  structure_zh: `本章结构清晰，呈现三个阶段的循环模式：
+
+**第一阶段：在波提乏家的兴旺(1-6节)**：
+- 耶和华与约瑟同在(2节)
+- 百事顺利，主人看见(3节)
+- 蒙恩升职，管理全家(4-6节)
+
+**第二阶段：试探与陷害(7-20节)：**
+这是全章的核心，可细分为四个场景：
+- 引诱(7-10节)：天天的试探，约瑟的拒绝
+- 攻击(11-12节)：抓住衣裳，约瑟逃跑
+- 诬告(13-18节)：对仆人和主人两次撒谎
+- 下监(19-20节)：从管家到囚犯
+
+**第三阶段：在监狱中的兴旺(21-23节)：**
+- 耶和华与约瑟同在(21节)
+- 在司狱眼前蒙恩(21节)
+- 被委以重任，管理囚犯(22-23节)
+
+注意第一和第三阶段的平行结构——用词几乎完全相同。这不是巧合，而是刻意的文学设计，要强调一个真理：**无论环境如何改变，神的同在和约瑟的蒙福是不变的**。
+
+全章出现了四次"耶和华与约瑟同在"(2、3、21、23节)，像四个支柱支撑着整个叙事。这不是简单的重复，而是神学强调——约瑟故事的主角不是约瑟，而是耶和华。
+
+衣服是这一章的重要象征，出现了八次。彩衣使约瑟被卖，这里的外衣使约瑟被囚。衣服代表身份和荣誉，约瑟两次失去衣服，但他从未失去真正的身份——神的仆人。`, structure_en: `This chapter has a clear structure presenting a three-stage cyclical pattern:
+
+**Stage One: Prosperity in Potiphar's House (vv. 1-6)**:
+- The LORD was with Joseph (v. 2)
+- Everything prospered, master saw (v. 3)
+- Found favor, promoted, managed entire household (vv. 4-6)
+
+**Stage Two: Temptation and Framing (vv. 7-20)**:
+This is the chapter's core, subdivided into four scenes:
+- Seduction (vv. 7-10): Daily temptation, Joseph's refusal
+- Attack (vv. 11-12): Grabbed garment, Joseph fled
+- False accusation (vv. 13-18): Two lies to servants and master
+- Imprisonment (vv. 19-20): From steward to prisoner
+
+**Stage Three: Prosperity in Prison (vv. 21-23)**:
+- The LORD was with Joseph (v. 21)
+- Found favor in keeper's sight (v. 21)
+- Entrusted with responsibility, managed prisoners (vv. 22-23)
+
+Note the parallel structure of stages one and three—nearly identical wording. This is not coincidence but deliberate literary design to emphasize a truth: **no matter how circumstances change, God's presence and Joseph's blessing are constant**.
+
+The phrase "the LORD was with Joseph" appears four times (vv. 2, 3, 21, 23), like four pillars supporting the entire narrative. This is not simple repetition but theological emphasis—the protagonist of Joseph's story is not Joseph but the LORD.
+
+Garments are an important symbol in this chapter, appearing eight times. The colorful robe got Joseph sold; here the cloak got him imprisoned. Garments represent identity and honor; Joseph lost garments twice but never lost his true identity—God's servant.`,
+  theology_zh: `本章处理了几个深刻的神学主题：
+
+**神的同在**：这是全章的核心。"耶和华与约瑟同在"不是一句空话，而是有实际果效的。这个同在体现在三个方面：第一，使事情顺利——不是没有苦难，而是在苦难中仍有恩典。第二，使人蒙恩——约瑟在外邦人眼前蒙恩，显出神的荣耀。第三，使人有力量——约瑟能拒绝试探，能承受冤屈，都因为神与他同在。这教导我们：基督徒生活的核心不是成功或失败，而是神的同在。
+
+**试探与得胜**：约瑟面对的试探是多方面的：美色的试探、权势的试探、孤独的试探（家中无人）、持续的试探（天天纠缠）。但约瑟得胜了，因为他：第一，有清醒的认识——知道这是"大恶"，是"得罪神"。第二，有坚定的立场——"不从""不听从""不和她在一处"。第三，有果断的行动——"逃跑"。这教导我们：胜过试探需要认识、立场和行动，三者缺一不可。哥林多前书10:13应许"神必为你们开一条出路"，约瑟的"出路"就是逃跑。
+
+**苦难与主权**：约瑟遭受不公义的苦难——两次都是因为别人的罪。但这苦难不是神失控，而是神计划的一部分。约瑟必须下监，因为在监狱里他要遇见法老的酒政和膳长，这成为他被高升的契机。苦难不是偶然的，而是神护理的手段。这不是说神制造苦难，而是说神使用苦难成就祂的美意。罗马书8:28说"万事都互相效力,叫爱神的人得益处"——约瑟的经历就是这节经文的活画。
+
+**圣洁的代价**：约瑟坚守圣洁，代价是被囚。这让我们思考：做对的事是否总有好结果？短期看来，不是。约瑟拒绝犯罪反而受罚。但长期看来，他的清白在神面前被记念。彼得前书3:17说"神的旨意若是叫你们因行善受苦，总强如因行恶受苦"。约瑟失去了自由，却保守了良心；失去了地位，却保守了与神的关系。这才是最重要的。
+
+**见证的力量**：波提乏和司狱都能看见"耶和华与约瑟同在"。基督徒的生命应该有这样的见证力——让不信的人也能看见神的真实。这不是靠口才，不是靠神迹，而是靠生命的素质。约瑟不需要传道，他的生命本身就是信息。马太福音5:16说"你们的光也当这样照在人前,叫他们看见你们的好行为,便将荣耀归给你们在天上的父"——约瑟就是这样的光。`, theology_en: `This chapter addresses several profound theological themes:
+
+**God's Presence**: This is the chapter's core. "The LORD was with Joseph" is not empty words but has practical effect. This presence manifests in three ways: First, making things prosper—not without suffering but with grace in suffering. Second, enabling favor—Joseph found favor in foreigners' eyes, displaying God's glory. Third, giving strength—Joseph could refuse temptation and endure injustice because God was with him. This teaches us: the Christian life's core is not success or failure but God's presence.
+
+**Temptation and Victory**: Joseph faced multifaceted temptation: sexual temptation, power temptation, loneliness temptation (no one home), persistent temptation (daily harassment). But Joseph prevailed because he: First, had clear understanding—knew this was "great wickedness," "sin against God." Second, had firm stance—"refused" "would not listen" "would not be with her." Third, had decisive action—"fled." This teaches us: overcoming temptation requires understanding, stance, and action—all three essential. 1 Corinthians 10:13 promises "God will provide a way out"; Joseph's "way out" was fleeing.
+
+**Suffering and Sovereignty**: Joseph suffered unjust hardship—both times because of others' sins. But this suffering was not God losing control but part of God's plan. Joseph had to be imprisoned because in prison he would meet Pharaoh's cupbearer and baker, becoming the catalyst for his exaltation. Suffering is not accidental but a means of God's providence. This doesn't mean God manufactures suffering but that God uses suffering to accomplish His good purpose. Romans 8:28 says "all things work together for good for those who love God"—Joseph's experience is a living picture of this verse.
+
+**Cost of Holiness**: Joseph maintained holiness; the cost was imprisonment. This makes us reflect: does doing right always have good results? Short-term, no. Joseph refused sin yet was punished. But long-term, his integrity was remembered before God. 1 Peter 3:17 says "it is better to suffer for doing good, if that should be God's will, than for doing evil." Joseph lost freedom but kept his conscience; lost position but kept his relationship with God. This is what matters most.
+
+**Witness Power**: Both Potiphar and the prison keeper could see "the LORD was with Joseph." Christian lives should have this witness power—letting unbelievers see God's reality. This is not by eloquence, not by miracles, but by life quality. Joseph didn't need to preach; his life itself was the message. Matthew 5:16 says "let your light shine before others, so that they may see your good works and give glory to your Father in heaven"—Joseph was such a light.`,
+  christShadow_zh: `约瑟预表基督，在本章尤其明显：
+
+**完全的顺服**：约瑟作为奴隶，完全顺服主人，管理全家。基督"取了奴仆的形象"(腓2:7)，完全顺服父神，"所交托我的事,到了成就的时候"(约17:4)。约瑟使主人的家蒙福，基督使万有因祂蒙福。
+
+**胜过试探**：约瑟拒绝波提乏妻子的引诱，基督在旷野胜过魔鬼的试探。两者都面对多次的试探，都坚决拒绝，都以神的旨意为优先。约瑟说"我怎能得罪神"，基督说"人活着不是单靠食物,乃是靠神口里所出的一切话"(太4:4)。
+
+**被诬告与受苦**：约瑟因坚守圣洁被诬告、被囚，基督因宣讲真理被诬告、被钉十字架。两者都是无辜的义人,却为了别人的罪受苦。约瑟失去外衣被囚，基督被剥去衣服钉十字架(约19:23-24)。衣服再次成为羞辱的记号,但也是得胜的记号——约瑟宁可失去衣服也不失去圣洁,基督宁可失去一切也要成全救赎。
+
+**下降与升高**：约瑟从宠儿到奴隶到囚犯,是不断下降的过程。基督从天上到地上,从荣耀到羞辱,到死在十字架上,也是下降的过程。但这下降是通往高升的道路。约瑟从监狱到宫殿，基督从十字架到宝座。腓立比书2:8-9说："他自己卑微，存心顺服，以至于死，且死在十字架上。所以神将他升为至高，又赐给他那超乎万名之上的名。"
+
+**在苦难中的同在**：四次"耶和华与约瑟同在"，宣告了神不离弃祂的仆人。基督在十字架上也经历了神同在的奥秘——表面的被弃绝("我的神，我的神，为什么离弃我"太27:46)，实际却是神救赎计划的核心时刻。约瑟在监狱中仍有神的同在，基督在阴间也仍是神的爱子。
+
+**为多人带来祝福**：约瑟使波提乏的家和监狱都蒙福，基督来"叫万有因他得蒙救赎"(西1:20)。一个义人的存在，能为整个群体带来祝福。亚伯拉罕为所多玛代求时说，十个义人就能保全全城(创18:32)。基督这一个义人，成了万人的祝福。
+
+**被弃的义者终得荣耀**：约瑟被哥哥们弃绝，被主母陷害,被主人下监,但最终成为埃及的宰相,拯救了全家。基督被犹太人弃绝,被门徒出卖,被钉十字架,但第三天复活,升天得荣耀,成为万王之王。以赛亚书53:3说"他被藐视，被人厌弃"，但53:12说"所以我要使他与位大的同分"。约瑟的经历是基督十字架道路的预表——通过羞辱达到荣耀，通过受苦带来救赎。`, christShadow_en: `Joseph typifies Christ, especially clear in this chapter:
+
+**Complete Obedience**: Joseph as a slave completely obeyed his master, managing the entire household. Christ "took the form of a servant" (Phil 2:7), completely obeyed the Father, "I glorified you on earth, having accomplished the work that you gave me to do" (John 17:4). Joseph blessed his master's house; Christ blesses all things through Him.
+
+**Overcoming Temptation**: Joseph refused Potiphar's wife's seduction; Christ overcame the devil's temptation in the wilderness. Both faced repeated temptations, firmly refused, prioritized God's will. Joseph said "How can I sin against God"; Christ said "Man shall not live by bread alone, but by every word that comes from the mouth of God" (Matt 4:4).
+
+**False Accusation and Suffering**: Joseph was falsely accused and imprisoned for maintaining holiness; Christ was falsely accused and crucified for preaching truth. Both were innocent righteous men yet suffered for others' sins. Joseph lost his cloak and was imprisoned; Christ was stripped and crucified (John 19:23-24). Clothing again became a mark of humiliation but also victory—Joseph chose to lose his garment rather than holiness; Christ chose to lose everything to accomplish redemption.
+
+**Descent and Exaltation**: Joseph from favored son to slave to prisoner was a continuous descent. Christ from heaven to earth, from glory to humiliation, to death on a cross was also descent. But this descent is the path to exaltation. Joseph from prison to palace, Christ from cross to throne. Philippians 2:8-9: "He humbled himself by becoming obedient to the point of death, even death on a cross. Therefore God has highly exalted him and bestowed on him the name that is above every name."
+
+**Presence in Suffering**: Four times "the LORD was with Joseph" proclaims God doesn't abandon His servant. Christ on the cross also experienced the mystery of God's presence—apparent abandonment ("My God, my God, why have you forsaken me" Matt 27:46) yet actually the core moment of God's redemptive plan. Joseph had God's presence in prison; Christ even in Hades remained God's beloved Son.
+
+**Bringing Blessing to Many**: Joseph blessed both Potiphar's house and the prison; Christ came "that through him God might reconcile all things to himself" (Col 1:20). One righteous person's existence can bring blessing to an entire community. Abraham pleading for Sodom said ten righteous could save the city (Gen 18:32). Christ, this one righteous man, became blessing for all.
+
+**The Rejected Righteous One Finally Glorified**: Joseph was rejected by brothers, framed by mistress, imprisoned by master, yet ultimately became Egypt's prime minister, saving his entire family. Christ was rejected by Jews, betrayed by disciples, crucified, yet rose on the third day, ascended to glory, becoming King of kings. Isaiah 53:3 says "he was despised and rejected by men," but 53:12 says "therefore I will divide him a portion with the many." Joseph's experience typifies Christ's path of the cross—through humiliation to glory, through suffering to redemption.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 40,
@@ -3479,11 +5183,251 @@ readings.push({
   title: '狱中解梦', titleEn: 'The Cupbearer and the Baker',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 40:1 / Genesis 40:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `我，摩西，继续记载约瑟在监狱中的经历。在这一章，我们看见神如何通过两个梦为约瑟打开通往宫殿的门。
+
+这事以后，埃及王的酒政和膳长得罪了他们的主埃及王。法老就恼怒酒政和膳长这二臣，把他们下在护卫长府内的监里，就是约瑟被囚的地方。护卫长把他们交给约瑟，约瑟便伺候他们。他们有些日子在监里。
+
+注意这些"偶然"的巧合：酒政和膳长恰好得罪法老，恰好被关在约瑟的监狱，恰好被交给约瑟照管。这不是偶然，而是神精心的安排。约瑟需要认识这两个人，因为其中一个将成为他回到法老面前的桥梁。
+
+这两个人是法老的高级官员——酒政负责王的酒水，膳长负责王的膳食。这些职位虽然听起来像仆人，实际上是极其重要的位置。他们每天接触法老的饮食，必须是绝对可信任的人。他们被下监，说明发生了严重的事——或许是阴谋，或许是失职，或许只是得罪了法老。
+
+被囚在监之埃及王的酒政和膳长，二人同夜各做一梦，各梦都有讲解。到了早晨，约瑟进到他们那里，见他们有愁闷的样子。他便问法老的二臣，就是与他同囚在他主人府里的，说："你们今日为什么面带愁容呢？"
+
+约瑟关心他们。虽然自己也在监狱中，虽然自己也有苦楚，但约瑟仍然关注别人的需要。这是真正敬虔的记号——不是只关心自己的遭遇，而是能看见别人的痛苦。约瑟在最低的环境中，仍有服事人的心。
+
+他们对他说："我们各人做了一梦，没有人能解。"约瑟说："解梦不是出于神吗？请你们将梦告诉我。"这句话是全章的关键。约瑟首先归荣耀给神——"解梦不是出于神吗？"他没有说"我能解"，而是说"神能解"。约瑟明白：任何恩赐都是从神来的，任何能力都要归荣耀给神。同时，他有信心——虽然神能解梦，但神会通过他来解梦。
+
+酒政便将他的梦告诉约瑟说："我梦见在我面前有一棵葡萄树，树上有三根枝子，好像发了芽，开了花，上头的葡萄都成熟了。法老的杯在我手中，我就拿葡萄挤在法老的杯里，将杯递在他手中。"
+
+约瑟对他说："你所做的梦是这样解：三根枝子就是三天。三天之内，法老必提你出监，叫你官复原职，你仍要递杯在法老的手中，和先前作他的酒政一样。"
+
+注意约瑟解梦的方式——直接、清楚、不模棱两可。他不是用占卜的技巧，不是用模糊的语言，而是神给他明确的启示。三根枝子就是三天，这是象征的解读，但不是人为的解读，而是神的启示。
+
+但记得我，提我到法老面前，救我出这监牢。我实在是从希伯来人之地被拐来的，我在这里也没有做过什么，叫他们把我下在监里。
+
+约瑟恳求酒政记得他。这不是罪，这是智慧。约瑟知道神使用途径，他不是消极等待，而是主动寻求帮助。他简短地陈述了自己的冤屈——"被拐来的""没有做过什么"——这是真实的申诉，不是抱怨。约瑟在信靠神的同时，也使用神所赐的智慧。
+
+膳长见梦解得好，就对约瑟说："我在梦中见我头上顶着三筐白饼，极上的筐子里有为法老烤的各样食物，有飞鸟来吃我头上筐子里的食物。"
+
+约瑟说："你的梦是这样解：三个筐子就是三天。三天之内，法老必斩断你的头，把你挂在木头上，必有飞鸟来吃你身上的肉。"
+
+这是何等可怕的消息。但约瑟没有隐瞒，没有讨好，没有说谎。他忠实地传达神的启示，即使这个启示是坏消息。真先知的记号就是忠于神的话，无论结果如何。后来耶利米也是如此，传达神审判的信息，即使会被人恨恶。
+
+到了第三天，是法老的生日，他为众臣仆设摆筵席，把酒政和膳长提出监来。使酒政官复原职，他仍递杯在法老手中；但把膳长挂起来，正如约瑟向他们所解的话。
+
+神的话应验了。三天后，完全按照约瑟所说的发生。酒政恢复职位，膳长被处死。这证明了约瑟的解梦不是猜测，而是神的启示。法老的生日庆典成为审判和恩典的时刻——对酒政是恩典，对膳长是审判。
+
+酒政却不记念约瑟，竟忘了他。
+
+这是全章最令人心碎的一节。酒政被释放了，恢复了荣耀的地位，却"忘了"约瑟。这个"忘记"不是记忆力的问题，而是选择性的遗忘。他或许觉得提及约瑟会让法老想起监狱的不快，或许觉得帮助一个希伯来囚犯对自己没有好处，或许只是忙于重新适应宫廷生活。无论什么原因，他忘了那个帮助过他、给他盼望的人。
+
+但这个遗忘也在神的计划中。如果酒政立刻报告约瑟，约瑟会被释放，但不一定成为宰相。神要约瑟再等两年（创41:1），在那个恰当的时刻被提出监狱——当法老做梦，当埃及需要一个能解梦、能治理的人。
+
+弟兄们，这一章教导我们什么？
+
+第一，**神掌管一切细节**。酒政和膳长被囚、做梦、被交给约瑟照管，这一切看似偶然，实际都在神的安排中。我们的生命中没有巧合，只有神的护理。
+
+第二，**要在逆境中服事人**。约瑟虽然自己在监狱中，仍然关心别人，服事别人。基督徒的生命不是以自我为中心，而是以神和他人为中心。我们在最黑暗的时候，仍要作光；在最软弱的时候，仍要坚固别人。
+
+第三，**恩赐要归荣耀给神**。约瑟说"解梦不是出于神吗"，这是何等美好的见证。我们有什么不是从神领受的呢？一切的才能、智慧、机会，都是神的恩赐。使用恩赐的同时，要归荣耀给神。
+
+第四，**忠实传达神的话**。约瑟为酒政解梦是好消息，为膳长解梦是坏消息，但他都忠实地传达。真理不因人而异，神的话不能妥协。即使会得罪人，即使会失去帮助，也要忠于神的启示。
+
+第五，**人会忘记，神不会忘记**。酒政忘了约瑟，但神没有忘记。人的帮助可能落空，人的承诺可能失信，但神的应许永不落空。约瑟还要在监狱里等两年，但这两年不是被遗忘的时间，而是神预备的时间。
+
+第六，**等候神的时间**。约瑟有机会请酒政帮助，但酒政忘了。这可能让约瑟失望，但神的时间是最好的。太早的释放不会带来最大的荣耀，只有在神的时间里，约瑟才能成为埃及的拯救者。
+
+这一章结束在一个令人失望的音符上——"竟忘了他"。但这不是故事的结局。两年后，当法老做梦，当没有人能解，酒政才想起约瑟。那个时刻，约瑟不只是被释放，而是被高升。神的延迟不是神的拒绝，而是神为了更大的祝福而预备。`, content_en: `I, Moses, continue recording Joseph's prison experience. In this chapter, we see how God opened the door to the palace for Joseph through two dreams.
+
+After this, the cupbearer of the king of Egypt and his baker committed an offense against their lord the king of Egypt. And Pharaoh was angry with his two officers, the chief cupbearer and the chief baker, and he put them in custody in the house of the captain of the guard, in the prison where Joseph was confined. The captain of the guard appointed Joseph to be with them, and he attended them. They continued for some time in custody.
+
+Notice these "accidental" coincidences: the cupbearer and baker happened to offend Pharaoh, happened to be imprisoned where Joseph was, happened to be assigned to Joseph's care. This was not chance but God's careful arrangement. Joseph needed to know these two men because one would become his bridge back to Pharaoh.
+
+These two men were Pharaoh's high officials—the cupbearer responsible for the king's wine, the baker for his food. Though these positions sound like servants, they were extremely important. They handled Pharaoh's food and drink daily and had to be absolutely trustworthy. Their imprisonment indicates something serious happened—perhaps conspiracy, perhaps negligence, perhaps simply offending Pharaoh.
+
+And one night they both dreamed—the cupbearer and the baker of the king of Egypt, who were confined in the prison—each his own dream, and each dream with its own interpretation. When Joseph came to them in the morning, he saw that they were troubled. So he asked Pharaoh's officers who were with him in custody in his master's house, "Why are your faces downcast today?"
+
+Joseph cared for them. Though himself in prison, though he had his own suffering, Joseph still noticed others' needs. This is a mark of true godliness—not only caring about one's own plight but seeing others' pain. Joseph in the lowest circumstances still had a heart to serve.
+
+They said to him, "We have had dreams, and there is no one to interpret them." And Joseph said to them, "Do not interpretations belong to God? Please tell them to me." This statement is key to the whole chapter. Joseph first gave glory to God—"Do not interpretations belong to God?" He didn't say "I can interpret" but "God can interpret." Joseph understood: every gift comes from God, every ability should glorify God. Yet he had faith—though God interprets dreams, God would interpret through him.
+
+So the chief cupbearer told his dream to Joseph and said to him, "In my dream there was a vine before me, and on the vine there were three branches. As soon as it budded, its blossoms shot forth, and the clusters ripened into grapes. Pharaoh's cup was in my hand, and I took the grapes and pressed them into Pharaoh's cup and placed the cup in Pharaoh's hand."
+
+Then Joseph said to him, "This is its interpretation: the three branches are three days. In three days Pharaoh will lift up your head and restore you to your office, and you shall place Pharaoh's cup in his hand as formerly, when you were his cupbearer."
+
+Note Joseph's interpretation method—direct, clear, unambiguous. He didn't use divination techniques or vague language but received clear revelation from God. Three branches are three days—symbolic interpretation but not man-made interpretation; rather, God's revelation.
+
+Only remember me, when it is well with you, and please do me the kindness to mention me to Pharaoh, and so get me out of this house. For I was indeed stolen out of the land of the Hebrews, and here also I have done nothing that they should put me into the pit."
+
+Joseph asked the cupbearer to remember him. This wasn't sin but wisdom. Joseph knew God uses means; he wasn't passively waiting but actively seeking help. He briefly stated his injustice—"stolen" "done nothing"—genuine appeal, not complaint. Joseph trusted God while using God-given wisdom.
+
+When the chief baker saw that the interpretation was favorable, he said to Joseph, "I also had a dream: there were three cake baskets on my head, and in the uppermost basket there were all sorts of baked food for Pharaoh, but the birds were eating it out of the basket on my head."
+
+And Joseph answered and said, "This is its interpretation: the three baskets are three days. In three days Pharaoh will lift up your head—from you!—and hang you on a tree. And the birds will eat the flesh from you."
+
+What terrible news. But Joseph didn't hide it, didn't flatter, didn't lie. He faithfully conveyed God's revelation, even though it was bad news. A true prophet's mark is faithfulness to God's word, regardless of consequences. Later Jeremiah was the same, conveying God's judgment even when hated for it.
+
+On the third day, which was Pharaoh's birthday, he made a feast for all his servants and lifted up the head of the chief cupbearer and the head of the chief baker among his servants. He restored the chief cupbearer to his position, and he placed the cup in Pharaoh's hand. But he hanged the chief baker, as Joseph had interpreted to them.
+
+God's word was fulfilled. After three days, it happened exactly as Joseph said. The cupbearer was restored, the baker executed. This proved Joseph's interpretation was not guesswork but God's revelation. Pharaoh's birthday celebration became a moment of judgment and grace—grace for the cupbearer, judgment for the baker.
+
+Yet the chief cupbearer did not remember Joseph, but forgot him.
+
+This is the most heartbreaking verse of the chapter. The cupbearer was released, restored to a glorious position, yet "forgot" Joseph. This "forgetting" wasn't a memory problem but selective amnesia. Perhaps he felt mentioning Joseph would remind Pharaoh of unpleasant prison matters, perhaps helping a Hebrew prisoner offered no personal benefit, perhaps he was just busy readjusting to court life. Whatever the reason, he forgot the one who helped him, who gave him hope.
+
+But this forgetting was also in God's plan. If the cupbearer immediately reported Joseph, Joseph would be released but not necessarily become prime minister. God wanted Joseph to wait two more years (Gen 41:1), to be brought out of prison at the right moment—when Pharaoh dreamed, when Egypt needed someone who could interpret and govern.
+
+Brothers, what does this chapter teach us?
+
+First, **God controls every detail**. The cupbearer and baker being imprisoned, dreaming, assigned to Joseph—all seemed accidental but were actually in God's arrangement. There are no coincidences in our lives, only God's providence.
+
+Second, **serve people in adversity**. Though Joseph himself was in prison, he still cared for others, served others. Christian life is not self-centered but God- and others-centered. In our darkest times, we must still be light; in our weakest times, we must still strengthen others.
+
+Third, **give glory to God for gifts**. Joseph said "Do not interpretations belong to God"—what beautiful testimony. What do we have that we didn't receive from God? All talents, wisdom, opportunities are God's gifts. When using gifts, give glory to God.
+
+Fourth, **faithfully convey God's word**. Joseph's interpretation for the cupbearer was good news, for the baker bad news, but he faithfully conveyed both. Truth doesn't change based on persons; God's word cannot be compromised. Even if it offends, even if it loses help, be faithful to God's revelation.
+
+Fifth, **people forget, God doesn't**. The cupbearer forgot Joseph, but God didn't. Human help may fail, human promises may break, but God's promises never fail. Joseph would wait two more years in prison, but those years weren't forgotten time but God's preparation time.
+
+Sixth, **wait for God's timing**. Joseph had opportunity to ask the cupbearer's help, but the cupbearer forgot. This might have disappointed Joseph, but God's timing is best. Release too early wouldn't bring greatest glory; only in God's time could Joseph become Egypt's savior.
+
+This chapter ends on a disappointing note—"forgot him." But this isn't the story's end. Two years later, when Pharaoh dreamed and no one could interpret, the cupbearer remembered Joseph. At that moment, Joseph wasn't just released but exalted. God's delay is not God's denial but God's preparation for greater blessing.`,
+  historyContext_zh: `这一章发生在约瑟大约二十到二十二岁之间，地点是王宫监狱。酒政和膳长的职位在古埃及宫廷中极其重要。
+
+酒政（chief cupbearer）不只是倒酒的仆人，而是法老的心腹。他们需要试酒以防投毒，因此必须是绝对可信任的人。酒政常常成为法老的亲信顾问，能接近王、向王进言。他们的地位相当于现代的内阁成员。
+
+膳长（chief baker）同样是高级官员，负责王室膳食的准备和安全。埃及王室的饮食极其讲究，不仅是享受，也是权力和神圣地位的象征。这些官员得罪法老，可能是因为失职（食物中毒？）或涉嫌阴谋。
+
+法老的生日庆典在古埃及是重要的国家活动。这一天法老会举行大赦或审判，提拔或处决官员。"提起头来"这个短语很有意思——对酒政是恢复职位，对膳长是砍头处死。同一个短语，两种截然不同的结果。
+
+挂在木头上（impalement）是古埃及对叛国罪的刑罚，尸体被挂起示众，任由鸟兽啃食。这是极其羞辱的死法，表明膳长的罪行在法老看来非常严重。
+
+约瑟说自己"从希伯来人之地被拐来"，这是准确的描述。虽然是他的哥哥们卖的他，但对于埃及人来说，他确实是被非法贩卖的。约瑟没有详细解释家族内部的复杂关系，只是简要说明自己是无辜的。
+
+两年的等待（从40章到41章）对约瑟来说是漫长的。从十七岁被卖到三十岁成为宰相（创41:46），约瑟在埃及度过了十三年。其中至少两年在监狱里度过，等待酒政记起他。这两年是神预备的时间，也是约瑟学习等候的功课。
+
+当我在旷野记录这段历史时，我想到以色列人也在等候——等候进入应许之地。等候是信心的考验。神的应许不会落空，但神的时间需要耐心。约瑟的经历教导我们：等候不是浪费时间，而是预备时间。`, historyContext_en: `This chapter occurred when Joseph was about twenty to twenty-two years old, in the palace prison. The positions of cupbearer and baker were extremely important in ancient Egyptian courts.
+
+The chief cupbearer was not merely a wine servant but Pharaoh's confidant. They had to taste wine to prevent poisoning, thus requiring absolute trustworthiness. Cupbearers often became Pharaoh's trusted advisors, able to approach the king and speak to him. Their position was equivalent to modern cabinet members.
+
+The chief baker was similarly a high official, responsible for preparing and ensuring royal food safety. Egyptian royal cuisine was extremely elaborate, not just enjoyment but a symbol of power and divine status. These officials offending Pharaoh might have been due to negligence (food poisoning?) or suspected conspiracy.
+
+Pharaoh's birthday celebration was an important state event in ancient Egypt. On this day, Pharaoh would grant amnesty or pass judgment, promote or execute officials. "Lift up your head" is an interesting phrase—for the cupbearer it meant restoration, for the baker beheading. Same phrase, two drastically different results.
+
+Hanging on a tree (impalement) was ancient Egypt's punishment for treason, the corpse displayed publicly to be eaten by birds and beasts. This was an extremely shameful death, indicating the baker's crime was very serious in Pharaoh's view.
+
+Joseph said he was "stolen out of the land of the Hebrews"—an accurate description. Though his brothers sold him, to Egyptians he was indeed illegally trafficked. Joseph didn't explain the complex family dynamics in detail, only briefly stated his innocence.
+
+The two-year wait (from chapter 40 to 41) was long for Joseph. From seventeen when sold to thirty when he became prime minister (Gen 41:46), Joseph spent thirteen years in Egypt. At least two of those years were in prison, waiting for the cupbearer to remember him. These two years were God's preparation time and Joseph's lesson in waiting.
+
+When I recorded this history in the wilderness, I thought of Israel also waiting—waiting to enter the Promised Land. Waiting is faith's test. God's promises don't fail, but God's timing requires patience. Joseph's experience teaches us: waiting is not wasted time but preparation time.`,
+  structure_zh: `本章结构简洁，可分为四个场景：
+
+**场景一：新囚犯(1-4节)**：酒政和膳长下监、被交给约瑟照管。这是背景铺垫，解释了为何约瑟会遇见这两个重要人物。"护卫长把他们交给约瑟"这个细节至关重要——如果不是约瑟照管他们，就不会有后面的故事。
+
+**场景二：做梦与请求(5-15节)**：
+- 两人同夜做梦，约瑟察觉他们的忧愁(5-7节)
+- "解梦不是出于神吗"——约瑟的信心宣告(8节)
+- 酒政的梦和解梦——好消息(9-13节)
+- 约瑟的请求——"记得我"(14-15节)
+
+**场景三：第二个梦(16-19节)**：膳长的梦和解梦——坏消息。注意膳长"见梦解得好"才讲出自己的梦，这显示人性的软弱——我们总希望听到好消息。但约瑟忠实传达神的话，无论好坏。
+
+**场景四：应验与遗忘(20-23节)**：
+- 第三天法老的生日(20节)
+- 酒政恢复，膳长被挂(21-22节)
+- 正如约瑟所解的话(22节末)
+- 但酒政忘了约瑟(23节)
+
+全章的张力在于盼望与失望的对比。约瑟解梦成功，给了读者期待——他要被释放了！但最后一节粉碎了这个期待——"竟忘了他"。这是文学上的悬念技巧，但更是神学上的教导：神的时间不是我们的时间。
+
+注意"三天"这个时间反复出现（12、13、18、19、20节）。三天后应验，显示神的话是准确的、可信的。这个"三天"也让我们想起基督的复活——第三天，神的应许成就，死亡被得胜吞灭。
+
+"提起头来"这个短语的双重意义（13节和19节）是精妙的文字游戏。同样的动作，截然不同的结果。生命与死亡，升高与羞辱，都在神的手中。`, structure_en: `This chapter has a concise structure divided into four scenes:
+
+**Scene One: New Prisoners (vv. 1-4)**: Cupbearer and baker imprisoned, assigned to Joseph's care. This is background, explaining why Joseph met these two important figures. "The captain of the guard appointed Joseph to be with them"—this detail is crucial; without Joseph caring for them, there would be no later story.
+
+**Scene Two: Dreams and Request (vv. 5-15)**:
+- Both dreamed the same night, Joseph noticed their distress (vv. 5-7)
+- "Do not interpretations belong to God"—Joseph's declaration of faith (v. 8)
+- Cupbearer's dream and interpretation—good news (vv. 9-13)
+- Joseph's request—"remember me" (vv. 14-15)
+
+**Scene Three: The Second Dream (vv. 16-19)**: Baker's dream and interpretation—bad news. Note the baker told his dream only "when he saw that the interpretation was favorable," showing human weakness—we always hope for good news. But Joseph faithfully conveyed God's word, good or bad.
+
+**Scene Four: Fulfillment and Forgetting (vv. 20-23)**:
+- Third day, Pharaoh's birthday (v. 20)
+- Cupbearer restored, baker hanged (vv. 21-22)
+- As Joseph had interpreted (end of v. 22)
+- But cupbearer forgot Joseph (v. 23)
+
+The chapter's tension lies in the contrast between hope and disappointment. Joseph successfully interpreted, raising reader expectations—he'll be released! But the final verse crushes that expectation—"forgot him." This is a literary suspense technique but more importantly a theological teaching: God's timing is not our timing.
+
+Notice "three days" repeatedly appears (vv. 12, 13, 18, 19, 20). Fulfillment after three days shows God's word is accurate and trustworthy. This "three days" also reminds us of Christ's resurrection—on the third day, God's promise was fulfilled, death was swallowed up in victory.
+
+The double meaning of "lift up your head" (vv. 13 and 19) is clever wordplay. Same action, drastically different results. Life and death, exaltation and shame—all in God's hands.`,
+  theology_zh: `本章处理了几个重要的神学主题：
+
+**神的主权与护理**：这一章充满了"偶然"——酒政和膳长恰好得罪法老，恰好下在约瑟的监狱，恰好同一晚做梦，恰好约瑟能解梦。但圣经中没有偶然，只有神的护理。罗马书8:28说"万事都互相效力，叫爱神的人得益处"。约瑟遇见酒政，不是运气，而是神为了将来的拯救而预备的。神在历史的细节中工作，没有一件事是无意义的。
+
+**恩赐归荣耀给神**：约瑟说"解梦不是出于神吗"，这显示他对恩赐的正确态度。哥林多前书4:7说："使你与人不同的是谁呢？你有什么不是领受的呢？"所有的才能都是神的恩赐，使用恩赐的目的是荣耀神，不是高举自己。约瑟有解梦的恩赐，但他不归功于自己的聪明，而归荣耀给神。这是真正谦卑的记号。
+
+**忠实传达神的话**：约瑟为膳长解梦时，知道这是坏消息，但他仍然忠实传达。这是先知的职责——不是说人想听的话，而是说神要说的话。耶利米书23:28说："得梦的先知可以述说那梦；得我话的人可以诚实讲说我的话。"真理不能打折扣，神的话不能妥协。即使会得罪人，即使会失去帮助，也要忠于神的启示。这对今天的传道人是重要的提醒——讲台不是讨好人的地方，而是传讲神话语的地方。
+
+**人的失信与神的信实**：酒政忘了约瑟，这是人性的软弱。但这个失信也显出神的信实。诗篇146:3说："你们不要倚靠君王，不要倚靠世人，他一点不能帮助。"人会忘记，会背约，会失信，但神永不改变。约瑟不能依靠酒政的记念，只能依靠神的应许。这个教训对我们今天仍然有效——不要把终极的盼望放在人身上，要放在神身上。
+
+**等候神的时间**：约瑟在监狱里多等了两年，这两年似乎是被遗忘的时间，实际是神预备的时间。诗篇27:14说："要等候耶和华！当壮胆，坚固你的心。我再说，要等候耶和华！"等候不是消极的忍受，而是积极的信靠。神的延迟不是拒绝，而是为了更好的祝福。约瑟如果在这个时候被释放，他只是一个被冤枉的囚犯；但两年后当法老做梦时被释放，他成为埃及的拯救者。神知道最好的时间。
+
+**审判与恩典**：酒政得恩典，膳长受审判，两者在同一天发生。这显示神的主权——谁得恩典，谁受审判，都在神的手中。罗马书9:15-16说："我要怜悯谁，就怜悯谁；要恩待谁，就恩待谁。据此看来，这不在乎那定意的，也不在乎那奔跑的，只在乎发怜悯的神。"我们不知道为何一个得赦免，一个被处死，但我们知道神是公义的，神的判断是对的。
+
+**见证的机会**：约瑟在监狱里仍然作神的见证——关心人、服事人、传讲神的话。彼得前书3:15说："有人问你们心中盼望的缘由，就要常作准备，以温柔、敬畏的心回答各人。"约瑟没有传道的机会，但他用生命见证神。他说"解梦不是出于神吗"，这就是最好的福音预工——让人知道有一位真神，祂掌管一切，祂启示真理。`, theology_en: `This chapter addresses several important theological themes:
+
+**God's Sovereignty and Providence**: This chapter is full of "coincidences"—the cupbearer and baker happened to offend Pharaoh, happened to be imprisoned where Joseph was, happened to dream the same night, happened that Joseph could interpret. But there are no coincidences in Scripture, only God's providence. Romans 8:28 says "all things work together for good for those who love God." Joseph meeting the cupbearer wasn't luck but God's preparation for future salvation. God works in history's details; nothing is meaningless.
+
+**Give Glory to God for Gifts**: Joseph said "Do not interpretations belong to God," showing his correct attitude toward gifts. 1 Corinthians 4:7 says, "What do you have that you did not receive?" All talents are God's gifts; the purpose of using gifts is to glorify God, not exalt ourselves. Joseph had the gift of interpretation but didn't credit his cleverness; he gave glory to God. This is a mark of true humility.
+
+**Faithfully Convey God's Word**: When Joseph interpreted for the baker, he knew it was bad news but still faithfully conveyed it. This is the prophet's duty—not saying what people want to hear but what God wants said. Jeremiah 23:28 says, "Let the prophet who has a dream tell the dream, but let him who has my word speak my word faithfully." Truth cannot be discounted; God's word cannot be compromised. Even if it offends, even if it loses help, be faithful to God's revelation. This is an important reminder for today's preachers—the pulpit is not a place to please people but to proclaim God's word.
+
+**Human Faithlessness and God's Faithfulness**: The cupbearer forgot Joseph—human weakness. But this faithlessness reveals God's faithfulness. Psalm 146:3 says, "Put not your trust in princes, in a son of man, in whom there is no salvation." People forget, break promises, are unfaithful, but God never changes. Joseph couldn't rely on the cupbearer's memory, only on God's promise. This lesson is still valid today—don't place ultimate hope in people but in God.
+
+**Waiting for God's Timing**: Joseph waited two more years in prison; these years seemed forgotten but were actually God's preparation time. Psalm 27:14 says, "Wait for the LORD; be strong, and let your heart take courage; wait for the LORD!" Waiting is not passive endurance but active trust. God's delay is not refusal but for better blessing. If Joseph had been released at this time, he would just be a wrongly accused prisoner; but released two years later when Pharaoh dreamed, he became Egypt's savior. God knows the best time.
+
+**Judgment and Grace**: The cupbearer received grace, the baker judgment, both on the same day. This shows God's sovereignty—who receives grace, who receives judgment, all in God's hands. Romans 9:15-16 says, "I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion. So then it depends not on human will or exertion, but on God, who has mercy." We don't know why one was pardoned and one executed, but we know God is just; God's judgment is right.
+
+**Opportunity to Witness**: Joseph still witnessed for God in prison—caring for people, serving people, proclaiming God's word. 1 Peter 3:15 says, "Always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you." Joseph had no preaching opportunities, but he witnessed God with his life. He said "Do not interpretations belong to God"—this was the best gospel preparation, letting people know there is a true God who controls all and reveals truth.`,
+  christShadow_zh: `约瑟在监狱中的经历，处处指向基督：
+
+**与囚犯同在**：约瑟在监狱里服事酒政和膳长，基督"来到罪人中间"(可2:17)。约瑟被算在犯罪的人中，基督"被列在罪犯之中"(赛53:12)。两者都是无辜的义人，却与罪人为伍。约瑟在监狱里仍能给人盼望，基督在十字架上对强盗说"今日你要同我在乐园里了"(路23:43)。
+
+**第三天的应验**：约瑟预言"三天之内"应验，基督预言"第三天"复活应验。"三天"在圣经中常常是神拯救行动的时间——约拿在鱼腹中三日三夜，以色列人在旷野走三天路程，基督第三天从死里复活。约瑟的预言在第三天应验，显示他是真先知；基督的复活在第三天发生，显示祂是神的儿子。
+
+**生与死的判决者**：约瑟为两个人解梦，一个得生，一个受死。基督在十字架上两旁也是两个犯人，一个悔改得救，一个拒绝灭亡(路23:39-43)。约瑟的话决定了他们的命运——不是约瑟自己的话，而是神通过他说的话。基督的话也决定人的永恒命运——"信他的人不被定罪；不信的人罪已经定了"(约3:18)。
+
+**被遗忘的义者**：酒政忘了约瑟，世人也忘了基督。约瑟帮助酒政，酒政却忘恩负义；基督拯救世人，世人却忘记祂的恩典。约瑟在监狱里多等两年，基督在天上等候父预定的日子。但被遗忘的义者终必得荣耀——约瑟成为宰相，基督再来作王。
+
+**升高之前的降卑**：约瑟在被高升前，经历了最深的降卑——从奴隶到囚犯，从被冤枉到被遗忘。基督在升天前，经历了最深的羞辱——从天上到马槽，从荣耀到十字架。腓立比书2:8-9说："他自己卑微，存心顺服，以至于死，且死在十字架上。所以神将他升为至高。"约瑟的经历预表了这个原则——通过受苦达到荣耀，通过降卑达到升高。
+
+**恩赐归荣耀给神**：约瑟说"解梦不是出于神吗"，基督说"我凭着自己不能作什么"(约5:30)。两者都把荣耀归给父神。约瑟不夸耀自己的恩赐，基督"不以自己与神同等为强夺的"(腓2:6)。真正的谦卑不是否认恩赐，而是把荣耀归给神。
+
+**拯救的中保**：约瑟成为酒政回到法老面前的途径，基督是人回到神面前的唯一道路。约瑟说"记得我，提我到法老面前"，基督为我们在父右边代求(罗8:34)。约瑟最终成为埃及和雅各全家的拯救者，基督成为万人的救主。两者都是通过受苦而成为拯救者，通过降卑而成为高升者。
+
+最深刻的预表是"被遗忘"这个主题。酒政忘了约瑟，但神没有忘记。诗篇22篇描述弥赛亚的受苦："我的神，我的神，为什么离弃我？"(诗22:1)。基督在十字架上似乎被神遗忘，实际却是神救赎计划的核心时刻。约瑟在监狱里被人遗忘，却是神预备他成为宰相的时刻。被遗忘不是被离弃，而是被预备；沉默不是拒绝，而是为了更大的拯救。`, christShadow_en: `Joseph's experience in prison points everywhere to Christ:
+
+**With the Prisoners**: Joseph served the cupbearer and baker in prison; Christ "came among sinners" (Mark 2:17). Joseph was counted among criminals; Christ was "numbered with the transgressors" (Isa 53:12). Both were innocent righteous men yet among sinners. Joseph could give hope in prison; Christ on the cross told the thief "today you will be with me in paradise" (Luke 23:43).
+
+**Third-Day Fulfillment**: Joseph's prophecy "in three days" was fulfilled; Christ's prophecy "on the third day" resurrection was fulfilled. "Three days" in Scripture often marks God's salvific action—Jonah in the fish three days and nights, Israel's three-day journey in wilderness, Christ's resurrection on the third day. Joseph's prophecy fulfilled on the third day shows he was a true prophet; Christ's resurrection on the third day shows He is the Son of God.
+
+**Judge of Life and Death**: Joseph interpreted for two men, one lived, one died. Christ on the cross had two criminals beside Him, one repented and was saved, one rejected and perished (Luke 23:39-43). Joseph's words determined their fates—not Joseph's own words but God's words through him. Christ's words also determine eternal destiny—"Whoever believes in him is not condemned, but whoever does not believe is condemned already" (John 3:18).
+
+**The Forgotten Righteous One**: The cupbearer forgot Joseph; the world also forgot Christ. Joseph helped the cupbearer, yet he was ungrateful; Christ saved the world, yet it forgot His grace. Joseph waited two more years in prison; Christ in heaven waits for the Father's appointed time. But the forgotten righteous one will ultimately be glorified—Joseph became prime minister, Christ will return as King.
+
+**Humiliation Before Exaltation**: Before being exalted, Joseph experienced deepest humiliation—from slave to prisoner, from wrongly accused to forgotten. Before ascension, Christ experienced deepest shame—from heaven to manger, from glory to cross. Philippians 2:8-9 says, "He humbled himself by becoming obedient to the point of death, even death on a cross. Therefore God has highly exalted him." Joseph's experience typifies this principle—through suffering to glory, through humiliation to exaltation.
+
+**Give Glory to God for Gifts**: Joseph said "Do not interpretations belong to God"; Christ said "I can do nothing on my own" (John 5:30). Both gave glory to the Father. Joseph didn't boast of his gift; Christ "did not count equality with God a thing to be grasped" (Phil 2:6). True humility is not denying gifts but giving glory to God.
+
+**Mediator of Salvation**: Joseph became the cupbearer's way back to Pharaoh; Christ is the only way back to God. Joseph said "remember me, mention me to Pharaoh"; Christ intercedes for us at the Father's right hand (Rom 8:34). Joseph ultimately became savior of Egypt and Jacob's household; Christ became Savior of all. Both became saviors through suffering, exalted through humiliation.
+
+The deepest typology is the theme of "being forgotten." The cupbearer forgot Joseph, but God didn't. Psalm 22 describes the Messiah's suffering: "My God, my God, why have you forsaken me?" (Ps 22:1). Christ on the cross seemed forgotten by God, yet it was the core moment of God's redemptive plan. Joseph forgotten in prison was the moment God prepared him to become prime minister. Being forgotten is not abandonment but preparation; silence is not refusal but for greater salvation.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 41,
@@ -3491,11 +5435,173 @@ readings.push({
   title: '法老的梦', titleEn: 'Pharaoh\'s Dreams',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 41:1 / Genesis 41:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `过了两年，法老做梦。在梦中他站在河边，看见七只母牛从河里上来，又美好又肥壮；又有七只母牛从河里上来，又丑陋又干瘦，站在河边。这丑陋干瘦的牛吃尽了那又美好又肥壮的七只牛。法老就醒了。他又睡着，第二回做梦，梦见一棵麦子长了七个穗子，又肥大又佳美；随后又长了七个穗子，又细弱又被东风吹焦了。这细弱的穗子吞了那七个又肥大又饱满的穗子。
+
+我，摩西，在写下这段叙事的时候，深知这不是偶然的梦境。神借着梦向外邦君王说话，正如他曾向亚比米勒和拉班说话一样。虽然法老不认识真神，但真神却管理着埃及的命运，因为全地都在他的主权之下。
+
+法老心里不安，召了埃及所有的术士和博士来，却没有人能解梦。这是神的智慧——世人的聪明在神的启示面前全然无用。正如所罗门后来所说："敬畏耶和华是智慧的开端。"此时，酒政想起了约瑟，在神的时间里，这个在监牢中被遗忘两年的希伯来人，终于要被召到法老面前。
+
+当法老对约瑟说"我听见人说，你听了梦就能解"时，约瑟的回答显出了真信仰的核心：这不在乎我，神必将平安的话回答法老。他没有居功，没有夸耀，而是将一切荣耀归于神。这正是敬虔智慧人的标志——认识自己的有限，承认神的全能。
+
+约瑟解释说，七只好母牛和七个好穗子，都是七个丰年；七只坏母牛和七个坏穗子，都是七个荒年。神已经定准这事，而且必速速成就。神两次让法老做梦，是要显明这事的确定。约瑟不仅解梦，还向法老献策：当派一个有聪明有智慧的人，在丰年收集粮食，为荒年预备。
+
+法老和他的臣仆都看出，约瑟身上有神的灵。这是何等的见证！一个希伯来奴隶囚犯，在埃及最高权力面前，显出了神的同在。法老说："像这样的人，有神的灵在他里头，我们岂能找得着呢？"于是法老就把他的打印的戒指摘下来，戴在约瑟的手上；给他穿上细麻衣，把金链戴在他的颈项上；又叫约瑟坐他的副车，人在他前头喊叫说："跪下！"这样，法老派他治理埃及全地。
+
+那时约瑟年三十岁。从十七岁被卖到埃及，到三十岁升为宰相，经过了十三年的苦难。这十三年是神的预备：在波提乏家学习管理，在监狱中学习忍耐，在被遗忘中学习等候。神从不浪费苦难，他使用一切环境塑造他的仆人。
+
+在七个丰年之内，地的出产极丰极盛。约瑟聚敛埃及地所有的粮食，积蓄五谷甚多，如同海边的沙，无法计算。在荒年未到以前，安城的祭司波提非拉的女儿亚西纳给约瑟生了两个儿子。约瑟给长子起名叫玛拿西，意思说："神使我忘了一切的困苦和我父的全家。"他给次子起名叫以法莲，意思说："神使我在受苦的地方昌盛。"
+
+这两个名字显出约瑟的心路历程。他没有否认过去的苦难，但他承认神使用苦难带来祝福。他没有遗忘家族，但他在神的恩典中找到了医治。这不是冷漠，而是信心——相信神掌管一切，包括那些曾经伤害他的事。
+
+七个丰年一过，七个荒年就来了。各地都有饥荒，唯独埃及全地有粮食。当埃及人因饥荒呼求法老时，法老对众埃及人说："你们往约瑟那里去，凡他所说的，你们都要做。"这句话何等像后来在迦拿婚宴上马利亚的话："他告诉你们什么，你们就做什么。"
+
+当时饥荒遍满天下，约瑟开了各处的仓，粜粮给埃及人。各地的人也都往埃及去，到约瑟那里籴粮，因为天下的饥荒甚大。这正是神的预备——不仅为埃及，也为万国万民，更是为雅各全家的保存。神借着约瑟拯救的计划，正在一步步展开。
+
+约瑟的升高不是为了他自己的荣耀，而是为了神救赎计划的推进。他被高举，是为了在饥荒中保存生命，特别是保存那应许的后裔。这正预示着那位真正的救主——基督耶稣，他降卑受苦，被升为至高，为要拯救神的百姓脱离罪和死的饥荒。`, content_en: `Two years passed, and Pharaoh had a dream. In his dream, he stood by the Nile and saw seven cows, healthy and fat, come up out of the river; then seven other cows, ugly and thin, came up out of the river and stood beside them. And the ugly, thin cows ate up the seven healthy, fat cows. Pharaoh woke up. He fell asleep again and had a second dream: seven ears of grain, healthy and good, were growing on a single stalk. After them, seven other ears of grain sprouted—thin and scorched by the east wind. The thin ears swallowed up the seven healthy, full ears.
+
+I, Moses, as I write this account, know well that this was no ordinary dream. God spoke to this foreign king through dreams, just as He had spoken to Abimelech and Laban. Though Pharaoh did not know the true God, the true God governed Egypt's destiny, for all the earth is under His sovereignty.
+
+Pharaoh was troubled and summoned all the magicians and wise men of Egypt, yet none could interpret the dreams. This was God's wisdom—human cleverness is utterly useless before divine revelation. As Solomon would later say, "The fear of the LORD is the beginning of wisdom." At this moment, the cupbearer remembered Joseph, and in God's timing, this Hebrew man forgotten in prison for two years was finally to be summoned before Pharaoh.
+
+When Pharaoh said to Joseph, "I have heard it said of you that when you hear a dream you can interpret it," Joseph's response revealed the heart of true faith: It is not in me; God will give Pharaoh a favorable answer. He took no credit, made no boast, but gave all glory to God. This is the mark of a godly wise man—knowing his own limitations and acknowledging God's omnipotence.
+
+Joseph explained that the seven good cows and seven good ears were seven years of plenty; the seven bad cows and seven bad ears were seven years of famine. God had decreed this matter, and it would surely come to pass quickly. God gave Pharaoh the dream twice to show the certainty of the event. Joseph not only interpreted the dream but also counseled Pharaoh: appoint a discerning and wise man to collect grain during the years of plenty, preparing for the years of famine.
+
+Pharaoh and all his officials saw that the Spirit of God was in Joseph. What a testimony! A Hebrew slave and prisoner displayed God's presence before Egypt's highest authority. Pharaoh said, "Can we find anyone like this man, one in whom is the spirit of God?" Then Pharaoh took his signet ring from his finger and put it on Joseph's finger. He dressed him in robes of fine linen and put a gold chain around his neck. He had him ride in a chariot as his second-in-command, and people shouted before him, "Make way!" Thus Pharaoh put him in charge of all Egypt.
+
+Joseph was thirty years old at the time. From being sold into Egypt at seventeen to becoming prime minister at thirty, he had endured thirteen years of suffering. These thirteen years were God's preparation: learning management in Potiphar's house, learning patience in prison, learning to wait in being forgotten. God never wastes suffering; He uses every circumstance to shape His servants.
+
+During the seven years of abundance, the land produced plentifully. Joseph stored up huge quantities of grain throughout Egypt, like the sand of the sea, beyond measure. Before the years of famine came, Asenath daughter of Potiphera, priest of On, bore Joseph two sons. Joseph named his firstborn Manasseh, saying, "God has made me forget all my trouble and all my father's household." The second son he named Ephraim, saying, "God has made me fruitful in the land of my suffering."
+
+These two names revealed Joseph's spiritual journey. He did not deny past suffering, but acknowledged that God used suffering to bring blessing. He had not forgotten his family, but found healing in God's grace. This was not coldness but faith—believing that God governs all things, including those that once hurt him.
+
+When the seven years of abundance ended, the seven years of famine began. There was famine in every land, but in all Egypt there was food. When the Egyptians cried to Pharaoh for food, Pharaoh told all Egypt, "Go to Joseph and do what he tells you." How similar this sounds to Mary's words at the wedding in Cana: "Do whatever he tells you."
+
+The famine was severe throughout the world, so Joseph opened all the storehouses and sold grain to the Egyptians. And people from all countries came to Egypt to buy grain from Joseph, because the famine was severe everywhere. This was God's provision—not only for Egypt but for all nations, and especially for the preservation of Jacob's entire household. God's plan of salvation through Joseph was unfolding step by step.
+
+Joseph's exaltation was not for his own glory but for the advancement of God's redemptive plan. He was elevated to preserve life during famine, especially to preserve the promised seed. This foreshadows the true Savior—Christ Jesus, who was humbled and suffered, then exalted to the highest place, to save God's people from the famine of sin and death.`,
+  historyContext_zh: `创世记第41章标志着约瑟生命的重大转折。从第37章约瑟被卖到埃及，已经过去了至少十三年。在这十三年中，约瑟经历了作奴仆、作囚犯的苦难，也经历了神同在的恩典。
+
+埃及的历史背景对理解这一章至关重要。古埃及文明高度发达，拥有复杂的行政体系和宗教传统。尼罗河的年度泛滥决定了埃及的农业丰收，因此埃及人极其重视梦兆。法老被视为神明的化身，他的梦被认为具有神圣意义。正因如此，当埃及的术士和博士都无法解梦时，这成为了极大的危机。
+
+约瑟被立为埃及的宰相，这在古代近东是罕见的。一个外族奴隶囚犯被提升到如此高位，完全违背常规。这显明了神奇妙的作为——他能够改变人心，使法老认出约瑟身上神的灵。约瑟所获得的权柄象征物——打印的戒指、细麻衣、金链、副车——都表明他获得了仅次于法老的权力。
+
+七年丰收和七年饥荒的周期，不仅影响埃及，也影响整个古代近东地区，包括迦南地。这场饥荒将成为雅各全家下埃及的直接原因，从而开启了以色列民族历史的新篇章——四百年的埃及寄居，这正应验了神在创世记15章对亚伯拉罕的预言。`, historyContext_en: `Genesis 41 marks a major turning point in Joseph's life. Since chapter 37 when Joseph was sold into Egypt, at least thirteen years have passed. During these years, Joseph experienced the suffering of slavery and imprisonment, and also experienced the grace of God's presence.
+
+The Egyptian historical context is crucial for understanding this chapter. Ancient Egyptian civilization was highly advanced, with a complex administrative system and religious traditions. The annual flooding of the Nile determined Egypt's agricultural harvest, so Egyptians placed great importance on dream omens. Pharaoh was seen as the embodiment of deity, and his dreams were considered to have divine significance. Therefore, when Egypt's magicians and wise men could not interpret the dreams, it became a great crisis.
+
+Joseph's appointment as prime minister of Egypt was rare in the ancient Near East. For a foreign slave and prisoner to be elevated to such a high position was completely against convention. This revealed God's marvelous work—He can change hearts, causing Pharaoh to recognize God's spirit in Joseph. The symbols of authority Joseph received—the signet ring, fine linen robes, gold chain, and second chariot—all indicated he had obtained power second only to Pharaoh.
+
+The cycle of seven years of abundance and seven years of famine affected not only Egypt but the entire ancient Near East region, including Canaan. This famine would become the direct reason for Jacob's entire household to go down to Egypt, thus opening a new chapter in Israelite history—four hundred years of sojourn in Egypt, fulfilling God's prophecy to Abraham in Genesis 15.`,
+  structure_zh: `本章可分为五个部分：
+
+**一、法老的梦（1-8节）**
+两个平行的梦：七只牛和七个穗子。梦的重复表示事情的确定和急迫。埃及术士和博士的无能，为约瑟的登场作铺垫。
+
+**二、约瑟被召（9-16节）**
+酒政想起约瑟，法老立即召他。约瑟剃头换衣，是从囚犯到朝臣的转变。他的回答"这不在乎我，神必将平安的话回答法老"，奠定了整个对话的基调——一切荣耀归于神。
+
+**三、解梦与献策（17-37节）**
+约瑟不仅解梦，还提出具体的应对方案。这显出他不仅有属灵的洞察力，也有实际的管理智慧。他的建议完全是为埃及的益处着想，没有任何个人议程。
+
+**四、约瑟被高举（38-46节）**
+法老认出约瑟身上神的灵，将他立为宰相。约瑟获得权柄的象征物，得到埃及名字和妻子，完全融入埃及社会，却没有失去对真神的信仰。年龄标记（三十岁）提醒读者神预备仆人需要时间。
+
+**五、丰年与荒年（47-57节）**
+约瑟忠心执行计划，积蓄粮食。两个儿子的诞生和命名，显出约瑟的内心世界。饥荒的来临，为接下来兄弟相遇作铺垫。全章以"各地的人都往埃及去"结束，预示下一章的发展。`, structure_en: `This chapter can be divided into five sections:
+
+**I. Pharaoh's Dreams (verses 1-8)**
+Two parallel dreams: seven cows and seven ears of grain. The repetition of the dream indicates the certainty and urgency of the matter. The inability of Egypt's magicians and wise men sets the stage for Joseph's entrance.
+
+**II. Joseph Summoned (verses 9-16)**
+The cupbearer remembers Joseph, and Pharaoh immediately summons him. Joseph shaving and changing clothes represents the transition from prisoner to courtier. His response "It is not in me; God will give Pharaoh a favorable answer" sets the tone for the entire conversation—all glory to God.
+
+**III. Interpretation and Counsel (verses 17-37)**
+Joseph not only interprets the dream but also proposes a specific response plan. This shows he has not only spiritual insight but also practical administrative wisdom. His advice is entirely for Egypt's benefit, with no personal agenda.
+
+**IV. Joseph Exalted (verses 38-46)**
+Pharaoh recognizes God's spirit in Joseph and appoints him as prime minister. Joseph receives symbols of authority, is given an Egyptian name and wife, fully integrated into Egyptian society, yet does not lose his faith in the true God. The age marker (thirty years) reminds readers that God's preparation of His servants takes time.
+
+**V. Years of Plenty and Famine (verses 47-57)**
+Joseph faithfully executes the plan, storing up grain. The birth and naming of his two sons reveal Joseph's inner world. The coming of famine sets the stage for the upcoming encounter with his brothers. The chapter ends with "people from all countries came to Egypt," foreshadowing the next chapter's development.`,
+  theology_zh: `**神的主权与护理**
+本章最核心的神学主题是神的主权。神通过梦向外邦君王启示未来，显明他不仅是以色列的神，更是全地的主宰。七年丰收和七年饥荒都在他的掌管之中。神使用自然界的规律（尼罗河泛滥周期）来实现他的计划，这显明他是创造主，也是历史的主。
+
+约瑟在监狱中被遗忘两年，不是神的疏忽，而是神完美时间表的一部分。神让约瑟在三十岁——一个象征成熟的年龄——进入服事，正如后来大卫和耶稣也在三十岁开始公开服事。神的延迟不是否定，而是更好的预备。
+
+**苦难的意义**
+约瑟十三年的苦难不是无意义的。在波提乏家中，他学习管理一个大家族；在监狱中，他学习谦卑和等候；在被遗忘中，他学习单单依靠神。当他终于站在法老面前时，他已经预备好了。他能够管理埃及，因为他先学会了管理自己；他能够为国家筹划，因为他先学会了在小事上忠心。
+
+两个儿子的名字——玛拿西（使忘记）和以法莲（使昌盛）——显出苦难的两个果效：神使我们忘记苦毒，在受苦之地使我们昌盛。这不是否认痛苦，而是在信心中看到神使用痛苦带来的祝福。
+
+**智慧的真正源头**
+约瑟在法老面前的见证至关重要："这不在乎我，神必将平安的话回答法老。"他没有抓住这个自我宣传的机会，而是将荣耀归于神。这是真智慧——认识自己的有限，承认神的全知。
+
+法老和他的臣仆都看出"神的灵在约瑟里头"。这是旧约中少有的对外邦人见证圣灵的记载。约瑟身上显出的不仅是才干，更是品格——诚实、谦卑、智慧、忠心。这些品格是圣灵工作的果子，使一个敬畏神的人在不敬虔的环境中仍然发光。
+
+**救赎计划的推进**
+约瑟的高升不是故事的终点，而是神更大计划的一部分。神要借着饥荒，将雅各全家带到埃及，在那里他们要成为大国。四百年后的出埃及，六百年后的大卫王国，一千五百年后的基督降生，都与这个时刻相连。约瑟在埃及的高位，是为了保存应许的后裔，继续那从亚伯拉罕开始的救赎谱系。`, theology_en: `**God's Sovereignty and Providence**
+The central theological theme of this chapter is God's sovereignty. God reveals the future to a foreign king through dreams, showing that He is not only the God of Israel but the Lord of all the earth. Both seven years of plenty and seven years of famine are under His control. God uses natural laws (the Nile flood cycle) to accomplish His plan, demonstrating that He is both Creator and Lord of history.
+
+Joseph's two years of being forgotten in prison was not God's oversight but part of His perfect timing. God brought Joseph into service at thirty—an age symbolizing maturity—just as David and Jesus would later begin public ministry at thirty. God's delays are not denials but better preparation.
+
+**The Meaning of Suffering**
+Joseph's thirteen years of suffering were not meaningless. In Potiphar's house, he learned to manage a large household; in prison, he learned humility and waiting; in being forgotten, he learned to depend on God alone. When he finally stood before Pharaoh, he was ready. He could govern Egypt because he had first learned to govern himself; he could plan for a nation because he had first learned faithfulness in small things.
+
+The names of his two sons—Manasseh (making forget) and Ephraim (making fruitful)—show two effects of suffering: God makes us forget bitterness and makes us fruitful in the land of affliction. This is not denying pain but seeing in faith the blessing God brings through pain.
+
+**The True Source of Wisdom**
+Joseph's testimony before Pharaoh is crucial: "It is not in me; God will give Pharaoh a favorable answer." He did not seize this opportunity for self-promotion but gave glory to God. This is true wisdom—knowing one's limitations and acknowledging God's omniscience.
+
+Pharaoh and all his officials saw that "the spirit of God is in him." This is one of the rare Old Testament instances of witnessing the Holy Spirit to Gentiles. What Joseph displayed was not only talent but character—honesty, humility, wisdom, faithfulness. These character traits are the fruit of the Spirit's work, enabling a God-fearing person to shine even in an ungodly environment.
+
+**Advancement of the Redemptive Plan**
+Joseph's exaltation is not the end of the story but part of God's greater plan. Through famine, God would bring Jacob's entire household to Egypt, where they would become a great nation. The Exodus four hundred years later, David's kingdom six hundred years later, and Christ's birth fifteen hundred years later are all connected to this moment. Joseph's high position in Egypt was to preserve the promised seed, continuing the redemptive lineage that began with Abraham.`,
+  christShadow_zh: `约瑟是旧约中最完整预表基督的人物之一。在本章中，这预表达到高峰：
+
+**从受苦到荣耀**
+约瑟从监狱到宫殿的转变，预表基督从十字架到宝座的升高。正如约瑟被高举是为了拯救生命，基督被升为至高是为了拯救罪人。腓立比书2章描述的正是这个模式：先降卑，后升高。
+
+**三十岁开始服事**
+约瑟、大卫和耶稣都在三十岁进入公开服事。这不是巧合，而是神设计的模式。三十岁代表成熟，也代表祭司开始供职的年龄（民数记4:3）。耶稣是真正的大祭司，也是真正的君王。
+
+**生命的粮**
+约瑟积蓄粮食，在饥荒时分给各国各族。法老说："你们往约瑟那里去，凡他所说的，你们都要做。"这预表基督是生命的粮，凡到他那里来的，必得饱足。约翰福音6章，耶稣说："我就是生命的粮，到我这里来的，必定不饿；信我的，永远不渴。"
+
+世人都在灵性的饥荒中，唯有基督能够满足。父神对世人说的，正如法老对埃及人说的："你们去找他，听他的话。"使徒行传4:12："除他以外，别无拯救；因为在天下人间，没有赐下别的名，我们可以靠着得救。"
+
+**外邦人的承认**
+法老说："像这样的人，有神的灵在他里头，我们岂能找得着呢？"这个外邦君王承认了神在约瑟身上的工作。同样，在基督受难时，罗马百夫长说："这真是神的儿子！"神的荣耀要透过他的受膏者显明给万国万民。
+
+**新郎与新妇**
+约瑟娶了外邦女子为妻，预表基督与教会的联合。教会原本是外邦人，与应许无分无关，如今却因基督的救赎，成为他的新妇。以弗所书5章将婚姻比作基督与教会的关系，这是"极大的奥秘"。
+
+**保存余民**
+约瑟在埃及的高位，最终目的是保存雅各的后裔。基督在父右边的高位，是为保守属他的人到底。他为我们预备了地方，他为我们代求，他保守我们不失落。罗马书8:34："谁能定他们的罪呢？有基督耶稣已经死了，而且从死里复活，现今在神的右边，也替我们祈求。"
+
+约瑟的故事让我们看见：神可以使用最黑暗的环境，成就最荣耀的救赎。正如约瑟对兄弟们后来所说（创世记50:20）："从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景。"这正是十字架的奥秘——人的罪恶成就了神的救赎，撒但的得胜成就了他的失败，基督的死亡成就了我们的生命。`, christShadow_en: `Joseph is one of the most complete Old Testament types of Christ. In this chapter, this typology reaches its climax:
+
+**From Suffering to Glory**
+Joseph's transition from prison to palace prefigures Christ's exaltation from cross to throne. Just as Joseph was exalted to save lives, Christ was exalted to the highest place to save sinners. Philippians 2 describes exactly this pattern: first humiliation, then exaltation.
+
+**Beginning Ministry at Thirty**
+Joseph, David, and Jesus all entered public ministry at thirty. This is not coincidence but God's designed pattern. Thirty represents maturity and also the age when priests begin service (Numbers 4:3). Jesus is the true High Priest and true King.
+
+**The Bread of Life**
+Joseph stored up grain and distributed it to all nations during famine. Pharaoh said, "Go to Joseph and do what he tells you." This prefigures Christ as the bread of life; all who come to Him will be satisfied. In John 6, Jesus said, "I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty."
+
+All people are in spiritual famine; only Christ can satisfy. What God the Father says to the world is just what Pharaoh said to the Egyptians: "Go to him, listen to his words." Acts 4:12: "Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved."
+
+**Gentile Recognition**
+Pharaoh said, "Can we find anyone like this man, one in whom is the spirit of God?" This foreign king acknowledged God's work in Joseph. Similarly, at Christ's crucifixion, the Roman centurion said, "Surely this was the Son of God!" God's glory is to be revealed to all nations through His anointed one.
+
+**Bridegroom and Bride**
+Joseph married a Gentile woman, prefiguring Christ's union with the Church. The Church was originally Gentile, having no part in the promises, but now through Christ's redemption has become His bride. Ephesians 5 compares marriage to the relationship between Christ and the Church, calling it "a profound mystery."
+
+**Preserving the Remnant**
+Joseph's high position in Egypt ultimately aimed to preserve Jacob's descendants. Christ's position at the Father's right hand is to keep His people secure to the end. He has prepared a place for us, He intercedes for us, He keeps us from falling. Romans 8:34: "Who then is the one who condemns? No one. Christ Jesus who died—more than that, who was raised to life—is at the right hand of God and is also interceding for us."
+
+Joseph's story shows us: God can use the darkest circumstances to accomplish the most glorious salvation. As Joseph later told his brothers (Genesis 50:20): "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives." This is the mystery of the cross—human sin accomplished God's redemption, Satan's victory accomplished his defeat, Christ's death accomplished our life.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 42,
@@ -3503,11 +5609,229 @@ readings.push({
   title: '兄弟来到', titleEn: 'Joseph\'s Brothers in Egypt',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 42:1 / Genesis 42:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `雅各见埃及有粮，就对儿子们说："你们为什么彼此观望呢？我听见埃及有粮，你们可以下去，从那里为我们籴些来，使我们可以存活，不至于死。"于是，约瑟的十个哥哥都下埃及籴粮去了。但约瑟的兄弟便雅悯，雅各没有打发他和哥哥们同去，因为雅各说："恐怕他遭害。"
+
+我，摩西，在记载这段历史时，深深感受到神护理的奇妙。二十多年前，这十个兄弟将约瑟卖到埃及；如今，饥荒迫使他们来到埃及籴粮。他们不知道，那位掌管埃及粮仓的宰相，正是他们曾经出卖的兄弟。神的计划在暗中推进，人的脚步被他引导，却浑然不觉。
+
+约瑟认得他的哥哥们，他们却不认得他。这并不奇怪——二十多年过去了，当年十七岁的少年已成为四十岁的埃及宰相，穿着埃及的服装，说着埃及的语言，有埃及的名字。约瑟想起从前所做的那两个梦，就向他们说些严厉的话，对他们说："你们是奸细，来窥探这地的虚实。"
+
+为什么约瑟要如此对待他们？不是出于报复，而是要试验他们的心。二十多年过去了，这些兄弟们是否改变了？他们对父亲的态度如何？对便雅悯的态度如何？他们是否仍然如当年那样冷酷无情？约瑟需要知道答案。
+
+他们回答："我主啊，不是的。仆人们是籴粮来的。我们都是一个人的儿子，是诚实人。仆人们并不是奸细。"约瑟对他们说："不然，你们必是窥探这地的虚实来的。"他们又说："仆人们本是弟兄十二人，是迦南地一个人的儿子。顶小的现今在我们的父亲那里，有一个没有了。"
+
+"有一个没有了"——这句话何等刺痛约瑟的心！他站在他们面前，活生生的人，他们却说"没有了"。这话暴露了他们的罪疚：他们不敢说"死了"，因为他们知道自己做了什么；他们说"没有了"，是在逃避责任。约瑟听了这话，心中必是百感交集。
+
+约瑟坚持说他们是奸细，除非他们把小兄弟带来证明。他把他们都下在监里三天。三天的监禁，让他们尝到了约瑟当年被囚的滋味。这不是报复，而是让他们反思，让神的话在他们心中动工。
+
+到第三天，约瑟对他们说："我是敬畏神的，你们照我的话行，就可以存活。你们如果是诚实人，可以留你们中间的一个人囚在监里，但你们可以带着粮食回去，救你们家里的饥荒。把你们的小兄弟带到我这里来，如此，你们的话便有证据，你们也不至于死。"
+
+"我是敬畏神的"——这话从一个埃及宰相口中说出，何等不寻常！约瑟没有忘记他是谁，也没有忘记他所侍奉的是谁。即使在试验兄弟们的时候，他仍然公义行事，因为他知道神在鉴察。
+
+他们彼此说："我们在兄弟身上实在有罪。他哀求我们的时候，我们见他心里的愁苦，却不肯听，所以这场苦难临到我们身上。"吕便回应说："我岂不是对你们说过，不可伤害那孩子吗？只是你们不肯听，所以流他血的罪向我们追讨。"
+
+这是多么重要的一刻！二十多年来，他们将这罪埋在心底。如今在埃及的困境中，良心的控告终于爆发。他们不知道约瑟听得懂他们的话（因为约瑟是通过翻译与他们说话的）。约瑟听见他们的忏悔，转身退去，哭了一场。这眼泪是为兄弟们的悔改而流，也是为自己多年的冤屈而流，更是为神奇妙的作为而流。
+
+约瑟挑选西缅在他们眼前捆绑起来。为什么是西缅？可能因为西缅是吕便之后最年长的，也可能因为西缅在当年卖约瑟的事上特别积极（创世记34章显示西缅性格暴烈）。无论如何，留下西缅，是给其他兄弟动力，一定要带便雅悯来。
+
+约瑟吩咐人把粮食装满他们的器具，把各人的银子归还在各人的口袋里,又给他们路上用的食物。这显出约瑟的仁慈——他完全可以扣留他们的银子，但他没有。他甚至暗中加倍赐福给他们。
+
+在路上，他们中间有一个人在住宿的地方打开口袋要喂驴，看见自己的银子在口袋里，就对弟兄们说："我的银子归还了，看哪，仍在我口袋里！"他们就提心吊胆，战战兢兢地彼此说："这是神向我们做什么呢？"
+
+"这是神向我们做什么呢？"这个问题暴露了他们内心深处的罪疚感。二十多年来，他们以为可以逃避那个罪，但如今他们知道，神在追讨。他们害怕不是因为银子归还，而是因为良心的控告。神使用这些环境，让他们面对自己的罪。
+
+他们回到迦南地，将所遭遇的事都告诉了父亲雅各。倒粮食的时候，不料，各人的银包都在粮食里。他们和父亲看见银包就都害怕。他们的父亲雅各对他们说："你们使我丧失我的儿子：约瑟没有了，西缅也没有了，你们又要将便雅悯带去。这些事都归到我身上了。"
+
+雅各的话充满苦毒："你们使我丧失我的儿子。"他把责任都归给儿子们。其实雅各不知道，约瑟并"没有"，反而在埃及掌权。但雅各的偏心——偏爱拉结所生的两个儿子——确实是家庭问题的根源之一。
+
+吕便对他父亲说："我若不带他回来交给你，你可以杀我的两个儿子。只管把他交在我手里，我必带他回来交给你。"吕便的话虽然出于好意，却显出他的愚昧。用自己两个儿子的性命担保便雅悯的安全，这对雅各来说有什么意义？雅各失去孙子也不能弥补失去儿子。
+
+雅各说："我的儿子不可与你们一同下去。他哥哥死了，只剩下他，他若在你们所行的路上遭害，那便是你们使我白发苍苍、悲悲惨惨地下阴间去了。"雅各拒绝了。他不愿冒险失去拉结留给他的最后一个儿子。
+
+这一章在僵局中结束。西缅被囚在埃及，便雅悯被锁在迦南，粮食吃完了怎么办？人的尽头，正是神工作的开始。神要在他们的绝境中显明他的道路。`, content_en: `When Jacob saw that there was grain in Egypt, he said to his sons, "Why do you just keep looking at each other? I have heard that there is grain in Egypt. Go down there and buy some for us, so that we may live and not die." Then ten of Joseph's brothers went down to buy grain from Egypt. But Jacob did not send Benjamin, Joseph's brother, with the others, because he was afraid that harm might come to him.
+
+I, Moses, as I record this history, am deeply moved by the marvel of God's providence. More than twenty years ago, these ten brothers sold Joseph into Egypt; now, famine compels them to come to Egypt to buy grain. They did not know that the prime minister controlling Egypt's granaries was the very brother they had betrayed. God's plan was advancing in secret; men's steps were guided by Him, yet they were completely unaware.
+
+Joseph recognized his brothers, but they did not recognize him. This is not surprising—more than twenty years had passed. The seventeen-year-old boy had become a forty-year-old Egyptian prime minister, wearing Egyptian clothing, speaking Egyptian language, bearing an Egyptian name. Joseph remembered the dreams he had dreamed and spoke harshly to them, saying, "You are spies! You have come to see where our land is unprotected."
+
+Why did Joseph treat them this way? Not out of revenge, but to test their hearts. Had these brothers changed over the past twenty years? What was their attitude toward their father? Toward Benjamin? Were they still as cold-hearted as they had been? Joseph needed to know the answers.
+
+They replied, "No, my lord. Your servants have come to buy food. We are all the sons of one man. Your servants are honest men, not spies." Joseph said to them, "No! You have come to see where our land is unprotected." They answered, "Your servants were twelve brothers, the sons of one man, who lives in the land of Canaan. The youngest is now with our father, and one is no more."
+
+"One is no more"—how these words must have pierced Joseph's heart! He stood before them, a living person, yet they said "is no more." These words exposed their guilt: they dared not say "is dead" because they knew what they had done; they said "is no more" to evade responsibility. Joseph, hearing these words, must have felt a flood of emotions.
+
+Joseph insisted they were spies unless they brought their youngest brother to prove it. He put them all in custody for three days. Three days of imprisonment let them taste what Joseph had experienced in prison. This was not revenge but a chance for reflection, for God's word to work in their hearts.
+
+On the third day, Joseph said to them, "I am a God-fearing man. Do this and you will live: If you are honest men, let one of your brothers stay here in prison, while the rest of you go and take grain back for your starving households. But you must bring your youngest brother to me, so that your words may be verified and you may not die."
+
+"I am a God-fearing man"—how unusual for these words to come from an Egyptian prime minister! Joseph had not forgotten who he was or whom he served. Even while testing his brothers, he acted justly, because he knew God was watching.
+
+They said to one another, "Surely we are being punished because of our brother. We saw how distressed he was when he pleaded with us for his life, but we would not listen; that's why this distress has come on us." Reuben replied, "Didn't I tell you not to sin against the boy? But you wouldn't listen! Now we must give an accounting for his blood."
+
+What an important moment! For more than twenty years, they had buried this sin in their hearts. Now in their predicament in Egypt, the accusation of conscience finally erupted. They did not know Joseph understood them (because Joseph spoke to them through an interpreter). Joseph heard their confession, turned away, and wept. These tears were for his brothers' repentance, for his own years of injustice, and even more for God's marvelous work.
+
+Joseph had Simeon taken from them and bound before their eyes. Why Simeon? Perhaps because Simeon was the next oldest after Reuben, or perhaps because Simeon was particularly aggressive in selling Joseph (Genesis 34 shows Simeon's violent character). In any case, keeping Simeon gave the other brothers motivation to definitely bring Benjamin.
+
+Joseph gave orders to fill their bags with grain, to put each man's silver back in his sack, and to give them provisions for their journey. This showed Joseph's mercy—he could have kept their silver, but he did not. He even secretly doubled his blessing to them.
+
+On the way, when one of them opened his sack to get feed for his donkey at the place where they stopped for the night, he saw his silver in the mouth of his sack. He said to his brothers, "My silver has been returned. Here it is in my sack." Their hearts sank and they turned to each other trembling and said, "What is this that God has done to us?"
+
+"What is this that God has done to us?" This question exposed the deep guilt in their hearts. For more than twenty years, they thought they could escape that sin, but now they knew God was holding them accountable. They feared not because the silver was returned, but because of the accusation of conscience. God used these circumstances to make them face their sin.
+
+When they came to their father Jacob in the land of Canaan, they told him all that had happened to them. As they were emptying their sacks, there in each man's sack was his pouch of silver! When they and their father saw the money pouches, they were frightened. Their father Jacob said to them, "You have deprived me of my children. Joseph is no more and Simeon is no more, and now you want to take Benjamin. Everything is against me!"
+
+Jacob's words were full of bitterness: "You have deprived me of my children." He placed all the blame on his sons. Jacob did not know that Joseph was not "no more" but was actually in power in Egypt. But Jacob's favoritism—favoring the two sons born to Rachel—was indeed one of the root causes of family problems.
+
+Then Reuben said to his father, "You may put both of my sons to death if I do not bring him back to you. Entrust him to my care, and I will bring him back." Though Reuben's words were well-intentioned, they showed his foolishness. Guaranteeing Benjamin's safety with the lives of his own two sons—what meaning would this have for Jacob? Losing grandsons could not compensate for losing a son.
+
+Jacob said, "My son will not go down there with you; his brother is dead and he is the only one left. If harm comes to him on the journey you are taking, you will bring my gray head down to the grave in sorrow." Jacob refused. He was unwilling to risk losing the last son Rachel had left him.
+
+The chapter ends in deadlock. Simeon imprisoned in Egypt, Benjamin locked in Canaan, what will happen when the grain runs out? Man's extremity is God's opportunity. God will reveal His way in their desperation.`,
+  historyContext_zh: `创世记第42章发生在第41章之后不久，七个丰年已过，荒年已经开始。饥荒不仅影响埃及，也影响周边地区，包括迦南地。这是古代近东历史中记载的一次大饥荒，可能与尼罗河流域气候变化有关。
+
+雅各家族仍然居住在迦南，可能在希伯仑一带。雅各此时已是一百三十岁左右（创世记47:9他下埃及时说自己一百三十岁）。约瑟被卖已经过去二十二年（约瑟三十岁成为宰相，加上七个丰年，加上荒年已开始，至少三十七八岁）。
+
+古代近东的粮食贸易在饥荒时期极为重要。埃及因尼罗河灌溉系统和约瑟的明智管理，成为唯一有余粮的地方。各地的人都来埃及籴粮，形成了大规模的人口流动。约瑟作为埃及宰相，掌管粮食分配，必定亲自监督外国人购粮的过程，这就解释了为什么他会亲自接待来自迦南的这十个人。
+
+"奸细"的指控在古代不是随意的。埃及作为富庶之地，常常面临周边游牧民族的侵扰。喜克索斯人（Hyksos）后来确实入侵并统治了埃及一段时间。因此，埃及政府对来自亚洲的人群保持警惕是可以理解的。约瑟用这个指控，既合理又能够试验兄弟们。
+
+把银子放回口袋这一做法，在古代也有其意义。接受礼物或归还银子，可能被视为建立某种契约关系。兄弟们的恐惧，除了良心的控告，也可能担心被指控为盗贼。`, historyContext_en: `Genesis 42 occurs shortly after chapter 41, when the seven years of plenty have passed and the years of famine have begun. The famine affected not only Egypt but also surrounding regions, including Canaan. This was a great famine recorded in ancient Near Eastern history, possibly related to climate changes in the Nile River basin.
+
+Jacob's family still lived in Canaan, probably around Hebron. Jacob was about one hundred thirty years old at this time (in Genesis 47:9 he said he was one hundred thirty when he went down to Egypt). Twenty-two years had passed since Joseph was sold (Joseph became prime minister at thirty, plus seven years of plenty, plus the famine had begun, making him at least thirty-seven or thirty-eight).
+
+Grain trade in the ancient Near East was extremely important during times of famine. Egypt, due to the Nile irrigation system and Joseph's wise management, became the only place with surplus grain. People from all lands came to Egypt to buy grain, forming a large-scale population movement. Joseph, as Egypt's prime minister in charge of grain distribution, must have personally supervised the process of foreigners purchasing grain, which explains why he would personally receive these ten men from Canaan.
+
+The accusation of being "spies" was not arbitrary in ancient times. Egypt, as a prosperous land, often faced harassment from surrounding nomadic peoples. The Hyksos later actually invaded and ruled Egypt for a period. Therefore, the Egyptian government's vigilance toward people from Asia was understandable. Joseph used this accusation both reasonably and to test his brothers.
+
+The practice of putting silver back in sacks also had significance in ancient times. Accepting gifts or returning silver might be seen as establishing some kind of contractual relationship. The brothers' fear, besides the accusation of conscience, might also involve concern about being accused as thieves.`,
+  structure_zh: `本章可分为四个部分：
+
+**一、下埃及籴粮（1-5节）**
+饥荒迫使雅各打发儿子们下埃及。他留下便雅悯，显出他偏心和过度保护。"你们为什么彼此观望"显示兄弟们的犹豫不决，可能因为要去埃及——那个约瑟被卖到的地方——让他们内心不安。
+
+**二、与约瑟相遇（6-24节）**
+本段是全章的核心。约瑟认出兄弟们，却装作不认识，这不是欺骗，而是智慧的试验。他用"奸细"的指控，将他们放在困境中，正如二十年前他们将他放在困境中。三天的监禁让他们反思。第三天约瑟提出条件，引发了兄弟们彼此的对话——这是二十多年来第一次提到卖约瑟的事。他们的忏悔显示良心仍然活着，罪疚一直在心中。约瑟哭泣的场景极其感人，显出他的真情。选择西缅留下，给故事增加紧张感。
+
+**三、归还银子（25-28节）**
+约瑟暗中赐福的行动，却给兄弟们带来更大的恐惧。发现银子的时刻，他们的反应"这是神向我们做什么呢"显示他们将这一切解读为神的审判。这个问题后来在第50章得到答案：神的意思原是好的。
+
+**四、回报父亲（29-38节）**
+向雅各报告的场景显出家庭的紧张关系。雅各的苦毒话语暴露了问题的根源——偏心和缺乏信任。吕便的提议虽然诚恳却不智。雅各的拒绝导致僵局，为下一章作铺垫。`, structure_en: `This chapter can be divided into four sections:
+
+**I. Going Down to Egypt for Grain (verses 1-5)**
+Famine compels Jacob to send his sons down to Egypt. He keeps Benjamin, showing his favoritism and overprotection. "Why do you just keep looking at each other" shows the brothers' hesitation, possibly because going to Egypt—the place where Joseph was sold—made them uneasy.
+
+**II. Encounter with Joseph (verses 6-24)**
+This section is the core of the chapter. Joseph recognizes his brothers but pretends not to know them; this is not deception but wise testing. He uses the accusation of "spies" to put them in a difficult position, just as they put him in a difficult position twenty years ago. Three days of imprisonment gives them time to reflect. On the third day Joseph proposes conditions, triggering dialogue among the brothers—the first mention of selling Joseph in more than twenty years. Their confession shows conscience is still alive, guilt has always been in their hearts. Joseph's weeping scene is extremely touching, showing his true feelings. Choosing to keep Simeon adds tension to the story.
+
+**III. Returning the Silver (verses 25-28)**
+Joseph's secret blessing brings even greater fear to the brothers. At the moment of discovering the silver, their reaction "What is this that God has done to us" shows they interpret everything as God's judgment. This question finds its answer later in chapter 50: God intended it for good.
+
+**IV. Reporting to the Father (verses 29-38)**
+The scene of reporting to Jacob reveals family tensions. Jacob's bitter words expose the root of the problem—favoritism and lack of trust. Reuben's proposal, though sincere, is unwise. Jacob's refusal leads to deadlock, setting the stage for the next chapter.`,
+  theology_zh: `**良心的功用**
+本章最突出的神学主题是良心的作用。二十多年过去了,兄弟们以为可以将那个罪埋葬。但在埃及的困境中，良心的控告突然爆发："我们在兄弟身上实在有罪...所以这场苦难临到我们身上。"
+
+罗马书2:15说，律法的功用刻在人心里，他们的良心同作见证。即使在没有神明文律法的情况下，人的良心仍然知道是非。但良心可能被罪玷污、被习惯麻木。神使用环境——困境、苦难、意外——来唤醒良心，让人面对自己的罪。
+
+这十个兄弟的经历显示：罪不能被时间掩盖。我们可以逃避人的审判，但逃不过神的审判，也逃不过自己良心的控告。希伯来书4:13："并且被造的没有一样在他面前不显然的；原来万物在那与我们有关系的主眼前，都是赤露敞开的。"
+
+**神的护理与主权**
+表面上看，兄弟们是因饥荒不得不来埃及；实际上，是神在引导他们。神使用自然环境（饥荒）、政治环境（埃及有粮）、家庭环境（雅各催促）将他们带到约瑟面前。他们的脚步看似自主，实则被神引领。
+
+箴言16:9："人心筹算自己的道路，唯耶和华指引他的脚步。"兄弟们计划去籴粮，却不知道要与失散的兄弟相见。雅各决定留下便雅悯，却不知道这正是神计划的一部分，要通过下一次旅程带来最终的和解。
+
+约瑟暗中归还银子的行动，显示神的赐福常常超过我们所求所想。兄弟们只求买粮食,却得到双倍的祝福。虽然他们因恐惧不能立即领受，但神的恩典已经临到他们。
+
+**悔改的开始**
+兄弟们的忏悔是真实的，但还不完全。他们承认"在兄弟身上有罪"，却还没有向父亲承认；他们知道"流他血的罪向我们追讨"，却还没有寻求赦免。这是悔改的开始，不是结束。
+
+真正的悔改需要过程。神不是一下子暴露所有的罪，而是一步步引导。在第42章，兄弟们开始承认罪；在第44章，他们显出真正的改变；在第45章，他们得到完全的赦免。这个过程显示神的智慧和恩慈——他知道我们能够承受多少，按照我们的程度引导我们。
+
+**苦难中的成长**
+三天的监禁对兄弟们是必要的。在困境中，人才会真正反思。安逸的时候，我们容易忘记神，忘记自己的罪。苦难有如利刃，剖开我们的假面，让我们看见真实的自己。
+
+诗篇119:71："我受苦是与我有益，为要使我学习你的律例。"兄弟们在监里三天，学到了约瑟当年在坑里和监里的感受。这不是报复，而是教育——让他们设身处地，产生真正的同理心。
+
+雅各的苦难也在继续。他以为失去了约瑟，现在又失去西缅，还可能失去便雅悯。但神要通过这些苦难，预备他去接受更大的祝福——全家团圆，下埃及得保全。有时候神让我们经历黑暗，是为了让我们更珍惜光明；让我们经历失丧,是为了让我们更欢喜寻回。`, theology_en: `**The Function of Conscience**
+The most prominent theological theme of this chapter is the role of conscience. More than twenty years had passed; the brothers thought they could bury that sin. But in their predicament in Egypt, the accusation of conscience suddenly erupted: "Surely we are being punished because of our brother...that's why this distress has come on us."
+
+Romans 2:15 says that the work of the law is written on hearts, and their consciences bear witness. Even without God's explicit law, human conscience still knows right from wrong. But conscience can be defiled by sin and numbed by habit. God uses circumstances—predicaments, suffering, accidents—to awaken conscience, making people face their sin.
+
+The experience of these ten brothers shows: sin cannot be covered by time. We can escape human judgment but cannot escape God's judgment or the accusation of our own conscience. Hebrews 4:13: "Nothing in all creation is hidden from God's sight. Everything is uncovered and laid bare before the eyes of him to whom we must give account."
+
+**God's Providence and Sovereignty**
+On the surface, the brothers came to Egypt because of famine; in reality, God was guiding them. God used natural circumstances (famine), political circumstances (Egypt had grain), family circumstances (Jacob's urging) to bring them before Joseph. Their steps seemed autonomous but were actually guided by God.
+
+Proverbs 16:9: "In their hearts humans plan their course, but the LORD establishes their steps." The brothers planned to buy grain but did not know they would meet their lost brother. Jacob decided to keep Benjamin but did not know this was part of God's plan, to bring ultimate reconciliation through the next journey.
+
+Joseph's secret act of returning the silver shows God's blessing often exceeds what we ask or imagine. The brothers only sought to buy grain but received double blessing. Though they could not immediately receive it because of fear, God's grace had already come to them.
+
+**The Beginning of Repentance**
+The brothers' confession is genuine but not yet complete. They admit "we are guilty concerning our brother" but have not yet confessed to their father; they know "we must give an accounting for his blood" but have not yet sought forgiveness. This is the beginning of repentance, not the end.
+
+True repentance requires a process. God does not expose all sin at once but guides step by step. In chapter 42, the brothers begin to acknowledge sin; in chapter 44, they show real change; in chapter 45, they receive complete forgiveness. This process shows God's wisdom and mercy—He knows how much we can bear and guides us according to our capacity.
+
+**Growth Through Suffering**
+Three days of imprisonment was necessary for the brothers. In predicament, people truly reflect. In comfort, we easily forget God and our sin. Suffering is like a sharp blade, cutting through our façade to let us see our true selves.
+
+Psalm 119:71: "It was good for me to be afflicted so that I might learn your decrees." In prison for three days, the brothers learned what Joseph felt in the pit and prison. This was not revenge but education—making them empathize, producing genuine compassion.
+
+Jacob's suffering also continues. He thought he had lost Joseph, now has lost Simeon, and might lose Benjamin. But God will use these sufferings to prepare him to receive greater blessing—family reunion, preservation by going down to Egypt. Sometimes God lets us experience darkness to make us cherish light more; lets us experience loss to make us rejoice more at finding.`,
+  christShadow_zh: `**被拒绝又被高举的救主**
+约瑟被兄弟出卖，如今却成为他们的拯救者。他们来埃及籴粮，不知不觉来到曾经拒绝的人面前。这完美预表了基督：被以色列人拒绝的弥赛亚，如今却是唯一的救主。
+
+使徒行传3:14-15："你们弃绝了那圣洁公义者，反求著释放一个凶手给你们...你们杀了那生命的主，神却叫他从死里复活。"正如兄弟们说"约瑟没有了"，犹太人也以为钉死了耶稣就完了。但神叫他从死里复活，升他为至高，使他成为唯一的拯救者。
+
+"你们往约瑟那里去"预表"你们到基督这里来"。约翰福音6:35："我就是生命的粮，到我这里来的，必定不饿。"世人都在属灵的饥荒中，唯有基督能满足。法老说的话，正是天父对世人说的话："去找他，听他的话。"
+
+**认不出来的救主**
+兄弟们认不出约瑟，正如以马忤斯路上的门徒认不出复活的基督（路加福音24章）。约瑟穿着埃及的服装，说着埃及的语言；基督在荣耀中，与在十字架上的形象大不相同。但无论是约瑟还是基督，主动权都在他们手中——他们认得我们,在等候我们认出他们。
+
+约翰福音20章，马利亚在坟墓旁哭泣，看见耶稣却认不出来，以为是园丁。直到耶稣叫她的名字，她才认出来。同样，约瑟的兄弟们需要一个过程，才能认出这位拯救者。
+
+**试验与炼净**
+约瑟试验兄弟们，不是为了报复，而是为了看他们是否真正悔改。基督也试验我们，不是因为他不知道我们的心，而是要我们自己看见自己的心。雅各书1:2-4："你们落在百般试炼中，都要以为大喜乐；因为知道你们的信心经过试验，就生忍耐。"
+
+三天的监禁让兄弟们反思，正如基督在坟墓里三天，成为我们反思的时刻。兄弟们的忏悔"我们在兄弟身上实在有罪"，正如我们在圣灵光照下认罪："我实在是个罪人。"
+
+**暗中的恩典**
+约瑟暗中归还银子，加倍祝福兄弟们。他们还不配得，还在罪疚中,但恩典已经临到。这正是福音的本质——"当我们还作罪人的时候，基督就为我们死"（罗马书5:8）。我们不是因为配得才蒙恩，而是在不配中白白领受。
+
+兄弟们因恐惧无法立即领受这恩典，正如许多人因罪疚感无法相信神会赦免他们。但神的恩典不因我们的感觉而改变——银子在他们口袋里,无论他们是否明白，是否接受。同样，基督的救恩已经成就，等候我们凭信心支取。
+
+**必须带来小兄弟**
+约瑟要求他们带便雅悯来，否则不能再见他的面。这预表什么？在救赎历史中，便雅悯代表那"余民"，就是最后要得救的以色列全家。罗马书11:26："于是以色列全家都要得救。"
+
+基督在荣耀中等候，直到父神所拣选的人全都归来。约翰福音6:39："差我来者的意思就是：他所赐给我的，叫我一个也不失落，在末日却叫他复活。"约瑟等候便雅悯，基督等候他的羊群完全聚集。
+
+这一章让我们看见：我们所逃避的神，正是我们唯一的拯救者；我们以为"没有了"的救主，其实掌管一切，等候我们回转。`, christShadow_en: `**The Rejected and Exalted Savior**
+Joseph was betrayed by his brothers, yet now he is their savior. They came to Egypt to buy grain, unknowingly coming before the one they had rejected. This perfectly prefigures Christ: the Messiah rejected by Israel is now the only Savior.
+
+Acts 3:14-15: "You disowned the Holy and Righteous One and asked that a murderer be released to you...You killed the author of life, but God raised him from the dead." Just as the brothers said "Joseph is no more," the Jews thought crucifying Jesus ended it. But God raised Him from the dead, exalted Him to the highest place, making Him the only Savior.
+
+"Go to Joseph" prefigures "Come to Christ." John 6:35: "I am the bread of life. Whoever comes to me will never go hungry." All people are in spiritual famine; only Christ can satisfy. What Pharaoh said is what the Father says to the world: "Go to him, listen to his words."
+
+**The Unrecognized Savior**
+The brothers did not recognize Joseph, just as the disciples on the road to Emmaus did not recognize the risen Christ (Luke 24). Joseph wore Egyptian clothing and spoke Egyptian language; Christ in glory looked very different from His appearance on the cross. But whether Joseph or Christ, the initiative was in their hands—they recognized us, waiting for us to recognize them.
+
+In John 20, Mary wept by the tomb, saw Jesus but did not recognize Him, thinking He was the gardener. Not until Jesus called her name did she recognize Him. Similarly, Joseph's brothers needed a process to recognize this savior.
+
+**Testing and Purification**
+Joseph tested his brothers not for revenge but to see if they had truly repented. Christ also tests us, not because He doesn't know our hearts but to let us see our own hearts. James 1:2-4: "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance."
+
+Three days of imprisonment gave the brothers time to reflect, just as Christ's three days in the tomb became our moment of reflection. The brothers' confession "Surely we are being punished because of our brother" is like our confession under the Spirit's illumination: "I am truly a sinner."
+
+**Secret Grace**
+Joseph secretly returned the silver, doubly blessing his brothers. They did not yet deserve it, were still in guilt, but grace had already come. This is the essence of the gospel—"While we were still sinners, Christ died for us" (Romans 5:8). We are not blessed because we deserve it but freely receive it while undeserving.
+
+The brothers could not immediately receive this grace because of fear, just as many cannot believe God will forgive them because of guilt. But God's grace does not change based on our feelings—the silver was in their sacks whether they understood or accepted it. Similarly, Christ's salvation is already accomplished, waiting for us to claim it by faith.
+
+**Must Bring the Younger Brother**
+Joseph required them to bring Benjamin, or they could not see his face again. What does this prefigure? In redemptive history, Benjamin represents that "remnant," all Israel who will finally be saved. Romans 11:26: "And in this way all Israel will be saved."
+
+Christ waits in glory until all whom the Father has chosen return. John 6:39: "And this is the will of him who sent me, that I shall lose none of all those he has given me, but raise them up at the last day." Joseph waited for Benjamin; Christ waits for His flock to be completely gathered.
+
+This chapter shows us: the God we flee from is our only Savior; the Savior we thought was "no more" actually controls everything, waiting for us to return.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 43,
@@ -3515,11 +5839,255 @@ readings.push({
   title: '再下埃及', titleEn: 'The Second Journey',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 43:1 / Genesis 43:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `那地的饥荒甚大。他们从埃及带来的粮食吃尽了，他们的父亲就对他们说:"你们再去给我籴些粮来。"犹大对他说："那人谆谆地告诫我们说：'你们的兄弟若不与你们同来，你们就不得见我的面。'你若打发我们的兄弟与我们同去，我们就下去给你籴粮；你若不打发他去，我们就不下去，因为那人对我们说：'你们的兄弟若不与你们同来，你们就不得见我的面。'"
+
+我，摩西，记载这段对话时，看到一个家庭在饥荒压力下的挣扎。雅各不愿让便雅悯去，但粮食用尽，别无选择。这正是神的作为——他使用环境逼迫人做出信心的选择。有时候神关闭所有其他的门，只留下一扇，那扇门就是信心的道路。
+
+以色列说："你们为什么这样害我，告诉那人你们还有兄弟呢？"他们回答说："那人详细问到我们和我们的亲属，说：'你们的父亲还在吗？你们还有兄弟吗？'我们就按着他所问的告诉他，焉能知道他要说：'必须把你们的兄弟带下来呢'？"
+
+雅各责怪儿子们多嘴，儿子们解释是约瑟盘问。其实双方都有道理，但更深层的是，这一切都在神的掌管之中。正如约瑟后来说的（创世记50:20），人的意思虽然不同，神的意思却是要成就今日的光景。
+
+犹大对他父亲以色列说："你打发童子与我同去，我们就起身下去，好叫我们和你，并我们的妇人孩子，都得存活，不至于死。我为他作保，你可以从我手中追讨。我若不带他回来交在你面前，我情愿永远担罪。我们若没有耽搁，如今第二次都回来了。"
+
+这里有一个重大的转变——不再是吕便提议，而是犹大。吕便在上一章提出用自己两个儿子的命担保，那是愚昧的话。犹大的提议不同："我为他作保，你可以从我手中追讨...我情愿永远担罪。"犹大愿意用自己的生命和永远的责任作担保。这是真正的改变——从自私到舍己，从推卸责任到承担责任。
+
+他们的父亲以色列说："若必须如此，你们就当这样行：可以将这地土产中最好的乳香、蜂蜜、香料、没药、榧子、杏仁都取一点，收在器具里，带下去送给那人作礼物。又要手里加倍地带银子，并将归还在你们口袋内的银子仍带在手里，那或者是错了。也带着你们的兄弟，起身去见那人。但愿全能的神使你们在那人面前蒙怜悯，释放你们的那弟兄和便雅悯回来。我若丧了儿子，就丧了吧！"
+
+雅各终于让步了。他的话显出信心的挣扎："若必须如此...我若丧了儿子，就丧了吧。"这不是豁达，而是无奈中的顺服。但最重要的是，他称呼神为"全能的神"（El Shaddai）——这是亚伯拉罕、以撒认识的神，是赐福的神，是能做万事的神。在人的尽头，雅各终于转向全能的神。
+
+于是，他们拿着那礼物，又手里加倍地带银子，并且带着便雅悯，起身下到埃及，站在约瑟面前。约瑟见便雅悯和他们同来，就对家宰说："将这些人领到屋里，要宰杀牲畜，预备筵席，因为晌午这些人同我吃饭。"
+
+约瑟终于见到便雅悯——他的同母兄弟，拉结唯一留下的另一个儿子。二十多年了，约瑟离开时便雅悯还是孩童，如今已是成人。约瑟没有立即相认，而是预备筵席。这个筵席有深意——他要试验这些兄弟们对便雅悯的态度，看他们是否还会如当年对待他一样对待便雅悯。
+
+家宰就遵着约瑟的命去行，领他们进约瑟的屋里。他们因为被领到约瑟的屋里，就害怕，说："领我们到这里来，必是因为头次归还在我们口袋里的银子，找我们的错缝，下手害我们，强取我们为奴仆，抢夺我们的驴。"
+
+兄弟们的恐惧显出他们良心的不安。他们以为要被定罪，其实是要被赐福。这正像罪人在神面前的光景——因为罪疚感而恐惧神的恩典，误解神的心意。其实神预备的不是刑罚，而是筵席；不是奴役，而是自由；不是定罪，而是赦免。
+
+他们就挨近约瑟的家宰，在屋门口和他说话，说："我主啊，我们头次下来实在是要籴粮。后来到了住宿的地方，我们打开口袋，不料，各人的银子，分量足数，仍在各人的口袋内，现在我们手里又带来了。另外又带下银子来籴粮。不知道先前谁把银子放在我们的口袋里。"
+
+他们的解释是诚实的——承认发现了银子，主动带回来，又带了新的银子。这显示他们品格的改变。二十多年前，他们可以把兄弟卖掉换银子；现在，他们不愿意占别人一点便宜，宁可主动归还。这就是真实悔改的果子。
+
+家宰说："你们可以放心，不要害怕，是你们的神和你们父亲的神赐给你们财宝在你们的口袋里。你们的银子，我早已收了。"他就把西缅带出来交给他们。
+
+"你们的神和你们父亲的神"——这话从埃及人口中说出，何等奇妙！神的作为已经见证给外邦人。家宰把一切归功于神，这可能是受了约瑟的影响。西缅被释放，是约瑟恩慈的记号，也让兄弟们稍得安慰。
+
+家宰领他们进约瑟的屋里，给他们水洗脚，又给他们草料喂驴。他们预备那礼物，等候约瑟晌午来，因为他们听见要在那里吃饭。
+
+洗脚、喂驴、预备礼物——一切都是尊贵客人的待遇。兄弟们的恐惧渐渐被好奇取代，但他们仍然不明白这一切意味着什么。
+
+约瑟来到家里，他们就把手中的礼物拿进屋去给他，又俯伏在地向他下拜。约瑟问他们好，又问："你们的父亲，就是你们所说的那老人家平安吗？他还在吗？"他们回答说："你仆人我们的父亲平安，他还在。"于是他们低头下拜。
+
+第二个梦应验了——众星向他下拜。但约瑟关心的不是自己的荣耀，而是父亲的平安。这显出他的孝心，二十多年的分离和高位没有改变他对父亲的爱。
+
+约瑟举目看见他同母的兄弟便雅悯，就说："你们向我所说那顶小的兄弟就是这位吗？"又说："小儿啊，愿神赐恩给你！"约瑟爱弟之情发动，就急忙寻找可哭之地，进入自己的屋里，哭了一场。他洗了脸出来，勉强隐忍，吩咐人摆饭。
+
+约瑟见到便雅悯时的情绪几乎崩溃。便雅悯是他唯一的同母兄弟，承载着对母亲拉结的记忆，也是他在这世上最亲的血亲。"愿神赐恩给你"——这个祝福饱含深情。约瑟"急忙寻找可哭之地"，显出他强烈的情感和不得不隐忍的痛苦。
+
+他们就为约瑟单摆了一席，为那些人又摆了一席，为和约瑟同吃饭的埃及人另摆了一席，因为埃及人不可和希伯来人一同吃饭，那原是埃及人所厌恶的。约瑟使众弟兄在他面前排列坐席，都按着长幼的次序，众弟兄就彼此诧异。
+
+三席分开显出当时的文化隔阂。但更令人惊奇的是，约瑟让他们按长幼次序坐！十一个兄弟，约瑟怎么知道他们的年龄次序？这必定让兄弟们困惑不已——这个埃及宰相怎么对他们如此了解？
+
+约瑟把他面前的食物分出来送给他们，但便雅悯所得的比别人多五倍。他们就饮酒，和约瑟一同宴乐。
+
+便雅悯得到五倍的食物，这是特别的恩宠，也是一个试验——其他兄弟们会嫉妒吗？会像当年嫉妒约瑟穿彩衣一样嫉妒便雅悯吗？还是他们已经改变了？这个试验在下一章有答案。
+
+"他们就饮酒，和约瑟一同宴乐"——这是何等美好的场景！虽然相认还未发生，但和好的气氛已经开始。神在预备一切，为最终的团圆铺路。`, content_en: `The famine was still severe in the land. So when they had eaten all the grain they had brought from Egypt, their father said to them, "Go back and buy us a little more food." But Judah said to him, "The man warned us solemnly, 'You will not see my face again unless your brother is with you.' If you will send our brother along with us, we will go down and buy food for you. But if you will not send him, we will not go down, because the man said to us, 'You will not see my face again unless your brother is with you.'"
+
+I, Moses, as I record this conversation, see a family struggling under the pressure of famine. Jacob was unwilling to let Benjamin go, but the grain was used up, leaving no choice. This is God's work—He uses circumstances to force people to make choices of faith. Sometimes God closes all other doors, leaving only one, and that door is the way of faith.
+
+Israel said, "Why did you bring this trouble on me by telling the man you had another brother?" They replied, "The man questioned us closely about ourselves and our family. 'Is your father still living?' he asked us. 'Do you have another brother?' We simply answered his questions. How were we to know he would say, 'Bring your brother down here'?"
+
+Jacob blamed his sons for talking too much; the sons explained that Joseph had interrogated them. Both sides had a point, but more deeply, all of this was under God's control. As Joseph would later say (Genesis 50:20), though men's intentions differed, God's intention was to accomplish what is now being done.
+
+Then Judah said to Israel his father, "Send the boy along with me and we will go at once, so that we and you and our children may live and not die. I myself will guarantee his safety; you can hold me personally responsible for him. If I do not bring him back to you and set him here before you, I will bear the blame before you all my life. As it is, if we had not delayed, we could have gone and returned twice."
+
+Here is a major transformation—no longer Reuben proposing, but Judah. In the previous chapter, Reuben proposed guaranteeing with his own two sons' lives, which was foolish. Judah's proposal was different: "I myself will guarantee his safety; you can hold me personally responsible for him...I will bear the blame before you all my life." Judah was willing to guarantee with his own life and eternal responsibility. This is real change—from selfishness to self-sacrifice, from shirking responsibility to assuming responsibility.
+
+Then their father Israel said to them, "If it must be, then do this: Put some of the best products of the land in your bags and take them down to the man as a gift—a little balm and a little honey, some spices and myrrh, some pistachio nuts and almonds. Take double the amount of silver with you, for you must return the silver that was put back into the mouths of your sacks. Perhaps it was a mistake. Take your brother also and go back to the man at once. And may God Almighty grant you mercy before the man so that he will let your other brother and Benjamin come back with you. As for me, if I am bereaved, I am bereaved."
+
+Jacob finally gave in. His words show the struggle of faith: "If it must be...if I am bereaved, I am bereaved." This is not magnanimity but submission in helplessness. But most importantly, he called on God as "God Almighty" (El Shaddai)—this is the God Abraham and Isaac knew, the God of blessing, the God who can do all things. At man's extremity, Jacob finally turned to God Almighty.
+
+So the men took the gifts and double the amount of silver, and Benjamin also. They hurried down to Egypt and presented themselves to Joseph. When Joseph saw Benjamin with them, he said to the steward of his house, "Take these men to my house, slaughter an animal and prepare a meal; they are to eat with me at noon."
+
+Joseph finally saw Benjamin—his full brother, the other son Rachel had left. More than twenty years had passed. When Joseph left, Benjamin was still a child; now he was an adult. Joseph did not immediately reveal himself but prepared a feast. This feast had deep meaning—he wanted to test these brothers' attitude toward Benjamin, to see if they would treat Benjamin as they had treated him.
+
+The steward did as Joseph told him and took the men to Joseph's house. Now the men were frightened when they were taken to his house. They thought, "We were brought here because of the silver that was put back into our sacks the first time. He wants to attack us and overpower us and seize us as slaves and take our donkeys."
+
+The brothers' fear showed their uneasy conscience. They thought they would be condemned, but actually they were to be blessed. This is just like sinners before God—fearing God's grace because of guilt, misunderstanding God's heart. Actually God prepared not punishment but a feast; not slavery but freedom; not condemnation but forgiveness.
+
+So they went up to Joseph's steward and spoke to him at the entrance to the house. "We beg your pardon, our lord," they said, "we came down here the first time to buy food. But at the place where we stopped for the night we opened our sacks and each of us found his silver—the exact weight—in the mouth of his sack. So we have brought it back with us. We have also brought additional silver with us to buy food. We don't know who put our silver in our sacks."
+
+Their explanation was honest—admitting they found the silver, voluntarily bringing it back, and bringing new silver. This shows the change in their character. More than twenty years ago, they could sell their brother for silver; now, they would not take even a small advantage from others, preferring to voluntarily return it. This is the fruit of true repentance.
+
+"It's all right," he said. "Don't be afraid. Your God, the God of your father, has given you treasure in your sacks; I received your silver." Then he brought Simeon out to them.
+
+"Your God, the God of your father"—how wonderful for these words to come from an Egyptian's mouth! God's work had borne witness to the Gentiles. The steward attributed everything to God, possibly influenced by Joseph. Simeon's release was a sign of Joseph's mercy and gave the brothers some comfort.
+
+The steward took the men into Joseph's house, gave them water to wash their feet and provided fodder for their donkeys. They prepared their gifts for Joseph's arrival at noon, because they had heard that they were to eat there.
+
+Washing feet, feeding donkeys, preparing gifts—all the treatment of honored guests. The brothers' fear was gradually replaced by curiosity, but they still did not understand what all this meant.
+
+When Joseph came home, they presented to him the gifts they had brought into the house, and they bowed down before him to the ground. He asked them how they were, and then he said, "How is your aged father you told me about? Is he still living?" They replied, "Your servant our father is still alive and well." And they bowed down, prostrating themselves before him.
+
+The second dream was fulfilled—the stars bowed down to him. But Joseph cared not about his own glory but about his father's well-being. This showed his filial piety; more than twenty years of separation and high position had not changed his love for his father.
+
+As he looked about and saw his brother Benjamin, his own mother's son, he asked, "Is this your youngest brother, the one you told me about?" And he said, "God be gracious to you, my son." Deeply moved at the sight of his brother, Joseph hurried out and looked for a place to weep. He went into his private room and wept there. After he had washed his face, he came out and, controlling himself, said, "Serve the food."
+
+Joseph's emotions nearly collapsed when he saw Benjamin. Benjamin was his only full brother, carrying memories of his mother Rachel and also his closest blood relative in this world. "God be gracious to you"—this blessing was full of deep affection. Joseph "looked for a place to weep," showing his intense emotion and the pain of having to restrain himself.
+
+They served him by himself, the brothers by themselves, and the Egyptians who ate with him by themselves, because Egyptians could not eat with Hebrews, for that is detestable to Egyptians. The men had been seated before him in the order of their ages, from the firstborn to the youngest; and they looked at each other in astonishment.
+
+The three separate tables showed the cultural divide of the time. But even more astonishing was that Joseph had them sit in order of age! Eleven brothers—how did Joseph know their age order? This must have puzzled the brothers greatly—how did this Egyptian prime minister know so much about them?
+
+When portions were served to them from Joseph's table, Benjamin's portion was five times as much as anyone else's. So they feasted and drank freely with him.
+
+Benjamin received five times the food, a special favor and also a test—would the other brothers be jealous? Would they envy Benjamin as they once envied Joseph wearing the robe of many colors? Or had they changed? This test has its answer in the next chapter.
+
+"So they feasted and drank freely with him"—what a beautiful scene! Though the revelation had not yet happened, the atmosphere of reconciliation had begun. God was preparing everything, paving the way for the final reunion.`,
+  historyContext_zh: `本章继续第42章的叙事，时间又过去了一段日子，直到粮食用尽。雅各家族面临生死抉择——再不去埃及籴粮就要饿死，但去埃及必须带便雅悯。
+
+犹大在此章中的突出地位值得注意。创世记37章中，正是犹大提议卖约瑟换银子的。但在此章，犹大成为最有担当的兄弟，愿意为便雅悯作保，承担永远的责任。这个转变可能与创世记38章的经历有关——犹大经历了儿子的死、与他玛的羞耻事件，这些苦难可能使他成熟、谦卑。
+
+犹大的担保在古代近东文化中是极其严肃的誓言。他说"我情愿永远担罪"，这不是随口说说，而是在神和父亲面前立约。这为犹大后来在第44章的慷慨陈辞埋下伏笔。
+
+雅各称呼神为"全能的神"（El Shaddai，创世记43:14），这个称呼在创世记中意义重大。神曾以这个名字向亚伯拉罕显现（创世记17:1），应许他作多国的父；也以这个名字向雅各显现（创世记35:11），应许他的后裔成为大国。雅各在绝境中呼求这个名字，是在提醒自己和儿子们，神是有能力的，神的应许是可信的。
+
+埃及人不与希伯来人同席吃饭（创世记43:32），这在历史上有据可查。古埃及人视外族为不洁，特别是牧羊的（创世记46:34）。这种文化隔阂使约瑟的处境更加复杂——他既是希伯来人，又是埃及宰相；既认同自己的民族，又融入埃及社会。`, historyContext_en: `This chapter continues the narrative of chapter 42, with time passing until the grain ran out. Jacob's family faced a life-or-death choice—if they did not go to Egypt to buy grain, they would starve, but going to Egypt required bringing Benjamin.
+
+Judah's prominence in this chapter is noteworthy. In Genesis 37, it was Judah who proposed selling Joseph for silver. But in this chapter, Judah became the most responsible brother, willing to guarantee for Benjamin and bear eternal responsibility. This transformation may be related to the experience in Genesis 38—Judah experienced the death of his sons and the shameful incident with Tamar; these sufferings may have matured and humbled him.
+
+Judah's guarantee was an extremely solemn vow in ancient Near Eastern culture. When he said "I will bear the blame before you all my life," this was not casual talk but making a covenant before God and his father. This foreshadows Judah's impassioned speech in chapter 44.
+
+Jacob called on God as "God Almighty" (El Shaddai, Genesis 43:14); this title is significant in Genesis. God appeared to Abraham by this name (Genesis 17:1), promising to make him father of many nations; also appeared to Jacob by this name (Genesis 35:11), promising his descendants would become a great nation. Jacob calling on this name in extremity was reminding himself and his sons that God is able, God's promises are trustworthy.
+
+Egyptians not eating with Hebrews (Genesis 43:32) is historically documented. Ancient Egyptians viewed foreigners as unclean, especially shepherds (Genesis 46:34). This cultural divide made Joseph's situation more complex—he was both Hebrew and Egyptian prime minister; both identified with his people and integrated into Egyptian society.`,
+  structure_zh: `本章可分为四个部分：
+
+**一、再下埃及的决定（1-15节）**
+饥荒迫使雅各家族再次面对抉择。犹大的担保是转折点——他愿意承担永远的责任。雅各的让步显出信心的挣扎，他呼求"全能的神"，在无奈中顺服。礼物、双倍银子、便雅悯，一切预备就绪。
+
+**二、被领进约瑟家（16-25节）**
+约瑟见到便雅悯，立即吩咐预备筵席。兄弟们因被领到约瑟家而恐惧，以为要被定罪。他们向家宰解释银子的事，显出诚实的品格。家宰的回答"你们的神...赐给你们财宝"显出神作为的见证。西缅被释放，洗脚喂驴，一切都是尊贵客人的待遇。
+
+**三、约瑟与兄弟们相见（26-30节）**
+兄弟们向约瑟下拜，第二个梦应验。约瑟关心父亲的平安，显出孝心。见到便雅悯时几乎情绪崩溃，急忙寻找可哭之地。这段刻画了约瑟内心的挣扎——想相认却还不能相认。
+
+**四、筵席（31-34节）**
+三席分开显出文化隔阂。兄弟们按长幼次序坐席，让他们困惑不已。便雅悯得五倍食物，是恩宠也是试验。"他们就饮酒，和约瑟一同宴乐"，和好的气氛已经形成。`, structure_en: `This chapter can be divided into four sections:
+
+**I. Decision to Go Down to Egypt Again (verses 1-15)**
+Famine forces Jacob's family to face the choice again. Judah's guarantee is the turning point—he is willing to bear eternal responsibility. Jacob's yielding shows the struggle of faith; he calls on "God Almighty," submitting in helplessness. Gifts, double silver, Benjamin—all preparations are ready.
+
+**II. Being Led into Joseph's House (verses 16-25)**
+Joseph sees Benjamin and immediately orders a feast prepared. The brothers fear being led to Joseph's house, thinking they will be condemned. They explain about the silver to the steward, showing honest character. The steward's response "Your God...has given you treasure" shows testimony to God's work. Simeon released, feet washed, donkeys fed—all treatment of honored guests.
+
+**III. Joseph Meets His Brothers (verses 26-30)**
+The brothers bow down to Joseph; the second dream is fulfilled. Joseph cares about his father's well-being, showing filial piety. Nearly emotionally collapses upon seeing Benjamin, hurries to find a place to weep. This passage portrays Joseph's inner struggle—wanting to reveal himself but not yet able to.
+
+**IV. The Feast (verses 31-34)**
+Three separate tables show cultural divide. Brothers seated in order of age, greatly puzzling them. Benjamin receives five times the food, favor and also a test. "So they feasted and drank freely with him"—the atmosphere of reconciliation has formed.`,
+  theology_zh: `**信心的挣扎与顺服**
+雅各的话"若必须如此...我若丧了儿子，就丧了吧"，显出信心挣扎中的顺服。这不是豁达，而是在走投无路时将结果交托给神。真正的信心不是没有挣扎，而是在挣扎中仍然顺服；不是没有恐惧，而是在恐惧中仍然前行。
+
+雅各呼求"全能的神"（El Shaddai），这是在提醒自己：那位向亚伯拉罕、向他应许的神，仍然掌权。希伯来书11:1说："信就是所望之事的实底，是未见之事的确据。"雅各看不见结果，但他知道神是信实的。
+
+**犹大的转变——从罪人到担保者**
+犹大的改变是本章的亮点。从第37章提议卖约瑟的人，到第43章愿意承担永远责任的人，这是彻底的转变。这个转变可能经历了漫长的过程——第38章的羞辱、第42章的良心控告,最终在第43章显出悔改的果子。
+
+"我为他作保，你可以从我手中追讨...我情愿永远担罪。"这话预表了基督。犹大愿意为便雅悯承担责任，基督为我们承担罪责。犹大后来在第44章愿意代替便雅悯作奴仆，基督为我们死在十字架上。犹大是基督的先祖，也在某种意义上预表基督的舍己。
+
+**误解神的恩典**
+兄弟们被领进约瑟家时恐惧，以为要被定罪，其实是要被款待。银子归还在口袋里,他们以为是陷阱，其实是祝福。这正像罪人对神的误解——以为神要定罪，其实神要赦免；以为要受刑罚，其实要得筵席。
+
+路加福音15章浪子的比喻中，小儿子预备了认罪的话，准备作雇工。但父亲没有让他说完，就吩咐人拿袍子、戒指、鞋子给他穿，摆设筵席庆祝。神的恩典总是超过我们所想所求。
+
+**筵席的神学意义**
+约瑟为兄弟们预备筵席，这是和好的记号。旧约中筵席常常与立约、和好相关。亚伯拉罕与亚比米勒立约时摆设筵席（创世记21:8），以撒与亚比米勒立约也有筵席（创世记26:30）。
+
+更深一层，这筵席预表末世的羔羊婚宴。启示录19:9："凡被请赴羔羊之婚筵的有福了！"约瑟邀请兄弟们，虽然他们曾经出卖他；基督邀请我们，虽然我们曾经背叛他。这是何等的恩典！
+
+便雅悯得五倍食物，不是引起嫉妒，而是显出恩宠。在基督的国度里，神的恩典不是平均分配，而是按他的主权赏赐。但这不应该引起嫉妒，而应该引起感恩——因为我们得到的都是不配得的恩典。`, theology_en: `**Struggle and Submission of Faith**
+Jacob's words "If it must be...if I am bereaved, I am bereaved" show submission in the struggle of faith. This is not magnanimity but entrusting the outcome to God when there is no way out. True faith is not without struggle but still submitting in the struggle; not without fear but still moving forward in fear.
+
+Jacob called on "God Almighty" (El Shaddai), reminding himself: the God who promised Abraham and him still reigns. Hebrews 11:1 says: "Now faith is confidence in what we hope for and assurance about what we do not see." Jacob could not see the outcome, but he knew God is faithful.
+
+**Judah's Transformation—From Sinner to Guarantor**
+Judah's change is the highlight of this chapter. From the one who proposed selling Joseph in chapter 37 to the one willing to bear eternal responsibility in chapter 43, this is complete transformation. This transformation may have undergone a long process—the humiliation of chapter 38, the accusation of conscience in chapter 42, finally showing the fruit of repentance in chapter 43.
+
+"I myself will guarantee his safety; you can hold me personally responsible for him...I will bear the blame before you all my life." These words prefigure Christ. Judah was willing to bear responsibility for Benjamin; Christ bore sin for us. Judah would later in chapter 44 be willing to become a slave in Benjamin's place; Christ died on the cross for us. Judah is Christ's ancestor and in some sense prefigures Christ's self-sacrifice.
+
+**Misunderstanding God's Grace**
+When the brothers were led into Joseph's house, they feared, thinking they would be condemned, but actually were to be hosted. The silver returned in sacks, they thought was a trap, but actually was a blessing. This is like sinners' misunderstanding of God—thinking God will condemn, but actually God will forgive; thinking they will be punished, but actually will receive a feast.
+
+In Luke 15, the parable of the prodigal son, the younger son prepared a confession, ready to be a hired servant. But the father did not let him finish, ordering robes, rings, shoes to be put on him, and a feast to celebrate. God's grace always exceeds what we think or ask.
+
+**Theological Significance of the Feast**
+Joseph prepared a feast for his brothers, a sign of reconciliation. In the Old Testament, feasts were often associated with covenant-making and reconciliation. Abraham made a covenant with Abimelech with a feast (Genesis 21:8), Isaac made a covenant with Abimelech also with a feast (Genesis 26:30).
+
+More deeply, this feast prefigures the eschatological wedding feast of the Lamb. Revelation 19:9: "Blessed are those who are invited to the wedding supper of the Lamb!" Joseph invited his brothers though they had betrayed him; Christ invites us though we have betrayed Him. What grace!
+
+Benjamin received five times the food, not to cause jealousy but to show favor. In Christ's kingdom, God's grace is not distributed equally but bestowed according to His sovereignty. But this should not cause jealousy but gratitude—because what we receive is all undeserved grace.`,
+  christShadow_zh: `**犹大预表基督——担保者与代求者**
+犹大说："我为他作保，你可以从我手中追讨...我情愿永远担罪。"这是圣经中最清晰预表基督代赎的画面之一。
+
+希伯来书7:22说耶稣"作了更美之约的中保"。中保（guarantee, surety）就是担保者。我们欠了罪债无法偿还，基督为我们作保，承担我们的罪责。他对父神说："我为他们作保,你可以从我手中追讨。"
+
+犹大愿意永远担罪，基督实际承担了我们的罪。以赛亚书53:6："耶和华使我们众人的罪孽都归在他身上。"彼得前书2:24:"他被挂在木头上，亲身担当了我们的罪。"
+
+犹大的担保仍然有限——他只能说"我情愿"，不能真正代替。但基督的担保是完全的——他不仅愿意，而且能够；不仅承诺，而且成就。
+
+**筵席预表天国婚宴**
+约瑟为曾经出卖他的兄弟们预备筵席，这预表基督为曾经背叛他的罪人预备救恩的筵席。
+
+路加福音14:16-24，耶稣讲天国筵席的比喻：主人预备了大筵席，请了许多客人。那些被请的人都推辞，主人就吩咐仆人到街上、路边，把贫穷的、残废的、瞎眼的、瘸腿的都带来。"我的筵席必定坐满了人。"
+
+约瑟的兄弟们来吃筵席时充满恐惧，以为要被定罪。罪人来到神面前也是如此——带着罪疚感，不配得的感觉。但神说："不要害怕...我为你们预备了筵席。"这是恩典，不是交换；是礼物，不是工价。
+
+**便雅悯得五倍祝福**
+便雅悯所得的比别人多五倍，这显出约瑟特别的恩宠。在救恩中，所有信徒都蒙恩，但神的恩赐有不同。
+
+罗马书12:6："按我们所得的恩赐，各有不同。"哥林多前书12章讲到圣灵的恩赐多种多样——有人得智慧的言语，有人得知识的言语，有人得信心，有人得医病的恩赐。
+
+重要的不是比较谁得的多，而是都在筵席上有份。兄弟们不再因约瑟（曾经）多得父亲的爱而嫉妒，现在也不因便雅悯多得食物而嫉妒。这显出他们的改变——从嫉妒到喜悦，从争竞到合一。这正是属灵成熟的标志。
+
+**认不出的救主——等候时机**
+约瑟见到便雅悯时"爱弟之情发动，急忙寻找可哭之地"。他多么想立即相认，但他知道时机未到。他要先确认兄弟们真正悔改了。
+
+基督也是如此。约翰福音7:6，当兄弟们催耶稣上去过节时，耶稣说："我的时候还没有到。"神的时间表是完美的——不早不晚，正合适。
+
+约瑟的眼泪显出他爱的真实。虽然他试验兄弟们，但这试验不是冷酷的报复，而是爱的智慧。正如神管教我们，不是因为不爱，而是因为爱（希伯来书12:6）。
+
+本章让我们看见：神为我们预备的是筵席,不是刑罚；是恩典，不是定罪。但神也试验我们，看我们是否真心悔改，是否真正改变。这试验不是为了拒绝我们,而是为了完全接纳我们,使和好更加稳固。`, christShadow_en: `**Judah Prefigures Christ—Guarantor and Intercessor**
+Judah said: "I myself will guarantee his safety; you can hold me personally responsible for him...I will bear the blame before you all my life." This is one of the clearest Old Testament pictures prefiguring Christ's substitutionary atonement.
+
+Hebrews 7:22 says Jesus "has become the guarantor of a better covenant." A guarantor (surety) is one who assumes responsibility. We owed a sin debt we could not pay; Christ guaranteed for us, bearing our guilt. He said to the Father: "I guarantee for them; you can hold me personally responsible."
+
+Judah was willing to bear blame forever; Christ actually bore our sin. Isaiah 53:6: "The LORD has laid on him the iniquity of us all." 1 Peter 2:24: "He himself bore our sins in his body on the cross."
+
+Judah's guarantee was still limited—he could only say "I am willing" but could not truly substitute. But Christ's guarantee is complete—He not only was willing but able; not only promised but accomplished.
+
+**Feast Prefigures the Heavenly Wedding Banquet**
+Joseph prepared a feast for the brothers who had once betrayed him, prefiguring Christ preparing a feast of salvation for sinners who had betrayed Him.
+
+In Luke 14:16-24, Jesus told the parable of the great banquet: the master prepared a great feast and invited many guests. Those invited all made excuses, so the master ordered servants to go into the streets and lanes, bringing in the poor, crippled, blind, and lame. "My house will be full."
+
+Joseph's brothers came to the feast full of fear, thinking they would be condemned. Sinners coming before God are the same—carrying guilt, feeling unworthy. But God says: "Don't be afraid...I have prepared a feast for you." This is grace, not exchange; a gift, not wages.
+
+**Benjamin Receives Fivefold Blessing**
+Benjamin received five times more than others, showing Joseph's special favor. In salvation, all believers are blessed, but God's gifts differ.
+
+Romans 12:6: "We have different gifts, according to the grace given to each of us." 1 Corinthians 12 speaks of the Spirit's various gifts—some receive words of wisdom, some words of knowledge, some faith, some gifts of healing.
+
+What matters is not comparing who receives more but that all have a share at the feast. The brothers no longer were jealous because Joseph (once) received more of their father's love; now they are not jealous because Benjamin receives more food. This shows their change—from envy to joy, from competition to unity. This is the mark of spiritual maturity.
+
+**The Unrecognized Savior—Awaiting the Right Time**
+When Joseph saw Benjamin, he was "deeply moved...and looked for a place to weep." How he wanted to reveal himself immediately, but he knew the time was not yet right. He wanted to first confirm the brothers had truly repented.
+
+Christ is the same. In John 7:6, when His brothers urged Jesus to go to the feast, Jesus said, "My time is not yet here." God's timing is perfect—not too early, not too late, just right.
+
+Joseph's tears show his love is genuine. Though he tested his brothers, this test was not cold revenge but the wisdom of love. Just as God disciplines us not because He doesn't love but because He does (Hebrews 12:6).
+
+This chapter shows us: what God has prepared for us is a feast, not punishment; grace, not condemnation. But God also tests us to see if we truly repent, if we really change. This test is not to reject us but to fully accept us, making reconciliation more secure.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 44,
@@ -3527,11 +6095,265 @@ readings.push({
   title: '银杯', titleEn: 'The Silver Cup',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 44:1 / Genesis 44:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `约瑟吩咐家宰说："把粮食装满这些人的口袋，尽着他们的驴所能驮的，又把各人的银子放在各人的口袋里。并将我的银杯，就是那银占卜杯，和那少年人籴粮的银子，一同装在他的口袋里。"家宰就照约瑟所说的话行了。
+
+我，摩西，在记载这段历史时，深知这是最后的试验。约瑟要看这些兄弟们是否真正改变了。二十多年前，他们因嫉妒卖了他；如今，当便雅悯陷入困境时，他们会弃他而去，像当年抛弃约瑟一样吗？还是他们会为便雅悯舍命？这个试验将揭示他们内心真实的光景。
+
+天一亮，人们和他们的驴都打发走了。他们出城走了不远，约瑟对家宰说："起来，追那些人去。追上了就对他们说：'你们为什么以恶报善呢？这不是我主人饮酒的杯吗？岂不是他占卜用的吗？你们这样行是作恶了。'"
+
+家宰追上他们，将这些话对他们说了。他们回答说："我主为什么说这样的话呢？你仆人断不能做这样的事。你看，我们从前在口袋里所发现的银子，尚且从迦南地带来还你。我们怎能从你主人家里偷窃金银呢？在你仆人中，无论在谁那里搜出来，就叫他死，我们也作我主的奴仆。"
+
+兄弟们的回答显出他们的自信和清白的良心。他们甚至说"无论在谁那里搜出来，就叫他死"。这话太绝对了，正如彼得对耶稣说"我就是必须和你同死，也总不能不认你"（马太福音26:35）。人常常高估自己的义，不知道神的试验会临到哪里。
+
+家宰说："现在就照你们的话行吧！在谁那里搜出来，谁就作我的奴仆，其余的都没有罪。"于是他们各人急忙把口袋卸在地下，各人打开口袋。家宰就搜查，从年长的起，到年幼的为止。那杯竟在便雅悯的口袋里搜出来。
+
+"那杯竟在便雅悯的口袋里"——何等的震惊！他们撕裂衣服，各人把驮子抬在驴上，回城去了。撕裂衣服是极度悲伤的表达。他们可以自己继续回迦南——家宰说"其余的都没有罪"——但他们没有。他们全都回去了。这就是改变的证据！二十多年前，他们可以把约瑟扔在坑里，继续去吃饭；如今，他们不能抛下便雅悯独自离开。
+
+犹大和他弟兄们来到约瑟的屋中，约瑟还在那里，他们就在他面前俯伏于地。约瑟对他们说："你们做的是什么事呢？你们岂不知像我这样的人必能占卜吗？"
+
+约瑟提到占卜，这不是说他真的占卜（那是神所禁止的），而是用当时埃及人的观念说话。他要维持埃及宰相的身份，直到相认的时刻。
+
+犹大说："我们对我主说什么呢？还有什么话可说呢？我们怎能自己表白呢？神已经查出仆人的罪孽了。我们与那在他手中搜出杯来的都是我主的奴仆。"
+
+这是何等重要的认罪！犹大没有为便雅悯辩护说"这一定是误会"，也没有说"让他一人承担"。他说："神已经查出仆人的罪孽了。"他知道，这不仅仅是关于银杯的事，而是神在追讨他们更深的罪——二十多年前卖约瑟的罪。
+
+犹大说"我们都是我主的奴仆"——全体都愿意承担。这与二十年前形成鲜明对比。那时吕便说"不可流他的血"，犹大说"不如卖给以实玛利人"，他们各有自己的小算盘。如今他们是一个整体，要同生共死。
+
+约瑟说："我断不能这样行。在谁的手中搜出杯来，谁就作我的奴仆。至于你们，可以平平安安地上你父亲那里去。"
+
+这是最后的试验——让便雅悯留下，其他人可以走。这正是二十年前的重演：当年约瑟被留下，哥哥们回去了；如今便雅悯要被留下，哥哥们可以回去。他们会怎么选择？
+
+犹大挨近他说——请注意，"挨近"这个动词表示勇敢地走近权威人物，带着恳求和决心。犹大说："我主啊，求你容仆人说一句话给我主听，不要向仆人发烈怒，因为你如同法老一样。"
+
+接下来是创世记中最长的一段演说之一，也是最感人的演说之一。犹大叙述了整个事情的经过：我主曾问仆人们说"你们有父亲有兄弟没有"，我们对我主说"我们有父亲，已经年老，还有他老年所生的一个小孩子。他的哥哥死了，他母亲的儿子只剩下他一人，他父亲疼爱他。"
+
+"他的哥哥死了"——犹大说这话时，心里是什么滋味？他知道自己参与了那个"哥哥"的"死"。如今神让他重新经历这一切，不是要定他的罪，而是要医治他。
+
+犹大继续说："你对仆人说'把他带到我这里来，叫我亲眼看看他。'我们对我主说'童子不能离开他父亲，若是离开，他父亲必死。'你对仆人说'你们的小兄弟若不与你们一同下来，你们就不得再见我的面。'"
+
+犹大详细叙述了父亲的话："你们知道我的妻子给我生了两个儿子。一个离开我出去了，我说他必是被撕碎了，直到如今我也没有见他。现在你们又要把这个带去离开我，倘若他遭害，那便是你们使我白发苍苍、悲悲惨惨地下阴间去了。"
+
+犹大完全理解父亲的心——失去约瑟的痛苦，偏爱便雅悯的原因。他没有责怪父亲偏心，而是同情父亲的伤痛。这是成熟的标志——不再像年轻时因父亲偏爱约瑟而嫉妒愤怒，而是理解父亲的软弱和伤痛。
+
+犹大说："故此，仆人曾向我父亲作保，说：'我若不带他回来交给父亲，我便在父亲面前永远担罪。'现在求你容仆人住下，替这童子作我主的奴仆，叫童子和他哥哥们一同上去。若童子不和我同去，我怎能上去见我父亲呢？恐怕我看见灾祸临到我父亲身上。"
+
+这是整个故事的高潮！犹大愿意代替便雅悯作奴仆。他说"现在求你容仆人住下，替这童子作我主的奴仆"——这是完全的舍己。二十年前，犹大提议卖约瑟换银子；如今，犹大愿意牺牲自己的自由，换便雅悯的释放。
+
+犹大最后的话揭示他最深的动机："若童子不和我同去，我怎能上去见我父亲呢？恐怕我看见灾祸临到我父亲身上。"不是为了自己的荣誉，不是为了履行诺言，而是为了父亲——不愿看见父亲伤心。
+
+这演说是如此感人，以至于约瑟再也忍不住了。下一章他将揭开身份。但在揭开之前，他已经得到了他想要的答案：这些兄弟已经彻底改变了。从嫉妒到舍己，从自私到爱人，从分裂到合一，从逃避责任到承担责任——这就是真实悔改带来的改变。`, content_en: `Now Joseph gave these instructions to the steward of his house: "Fill the men's sacks with as much food as they can carry, and put each man's silver in the mouth of his sack. Then put my cup, the silver cup, in the mouth of the youngest one's sack, along with the silver for his grain." And he did as Joseph said.
+
+I, Moses, as I record this history, know well that this was the final test. Joseph wanted to see if these brothers had truly changed. More than twenty years ago, they sold him out of jealousy; now, when Benjamin was in trouble, would they abandon him as they had abandoned Joseph? Or would they sacrifice themselves for Benjamin? This test would reveal the true state of their hearts.
+
+As morning dawned, the men were sent on their way with their donkeys. They had not gone far from the city when Joseph said to his steward, "Go after those men at once, and when you catch up with them, say to them, 'Why have you repaid good with evil? Isn't this the cup my master drinks from and also uses for divination? This is a wicked thing you have done.'"
+
+When he caught up with them, he repeated these words to them. But they said to him, "Why does my lord say such things? Far be it from your servants to do anything like that! We even brought back to you from the land of Canaan the silver we found inside the mouths of our sacks. So why would we steal silver or gold from your master's house? If any of your servants is found to have it, he will die; and the rest of us will become my lord's slaves."
+
+The brothers' answer showed their confidence and clear conscience. They even said "If any of your servants is found to have it, he will die." These words were too absolute, just like Peter saying to Jesus "Even if I have to die with you, I will never disown you" (Matthew 26:35). People often overestimate their own righteousness, not knowing where God's test will come.
+
+"Very well, then," he said, "let it be as you say. Whoever is found to have it will become my slave; the rest of you will be free from blame." Each of them quickly lowered his sack to the ground and opened it. Then the steward proceeded to search, beginning with the oldest and ending with the youngest. And the cup was found in Benjamin's sack.
+
+"The cup was found in Benjamin's sack"—what a shock! At this, they tore their clothes. Then they all loaded their donkeys and returned to the city. Tearing clothes was an expression of extreme sorrow. They could have continued on to Canaan themselves—the steward said "the rest of you will be free from blame"—but they did not. They all returned. This is evidence of change! More than twenty years ago, they could throw Joseph in a pit and continue to eat; now, they could not abandon Benjamin and leave alone.
+
+Judah and his brothers came back to Joseph's house, and Joseph was still there. They threw themselves to the ground before him. Joseph said to them, "What is this you have done? Don't you know that a man like me can find things out by divination?"
+
+Joseph mentioned divination, not that he really practiced it (which God forbade), but speaking in terms Egyptians of that time understood. He wanted to maintain his identity as Egyptian prime minister until the moment of revelation.
+
+Judah said, "What can we say to my lord? What can we say? How can we prove our innocence? God has uncovered your servants' guilt. We are now my lord's slaves—we ourselves and the one who was found to have the cup."
+
+What an important confession! Judah did not defend Benjamin by saying "This must be a mistake," nor did he say "Let him bear it alone." He said: "God has uncovered your servants' guilt." He knew this was not just about the cup but God holding them accountable for a deeper sin—the sin of selling Joseph more than twenty years ago.
+
+Judah said "We are now my lord's slaves"—all willing to bear the burden together. This stands in sharp contrast to twenty years earlier. Then Reuben said "Don't shed his blood," Judah said "Let's sell him to the Ishmaelites," each with their own calculations. Now they are one body, ready to live or die together.
+
+But Joseph said, "Far be it from me to do such a thing! Only the man who was found to have the cup will become my slave. The rest of you, go back to your father in peace."
+
+This was the final test—keep Benjamin, let the others go. This was a replay of twenty years ago: then Joseph was left behind, the brothers went back; now Benjamin would be left behind, the brothers could go back. What would they choose?
+
+Then Judah went up to him—note that "went up" indicates courageously approaching an authority figure, with both pleading and determination. Judah said, "Pardon your servant, my lord, let me speak a word to my lord. Do not be angry with your servant, though you are equal to Pharaoh himself."
+
+What follows is one of the longest speeches in Genesis and also one of the most moving. Judah recounted the entire affair: "My lord asked his servants, 'Do you have a father or a brother?' And we answered, 'We have an aged father, and there is a young son born to him in his old age. His brother is dead, and he is the only one of his mother's sons left, and his father loves him.'"
+
+"His brother is dead"—what did Judah feel saying these words? He knew he participated in that "brother's" "death." Now God made him relive it all, not to condemn him but to heal him.
+
+Judah continued: "Then you said to your servants, 'Bring him down to me so I can see him for myself.' And we said to my lord, 'The boy cannot leave his father; if he leaves him, his father will die.' But you told your servants, 'Unless your youngest brother comes down with you, you will not see my face again.'"
+
+Judah detailed his father's words: "You know that my wife bore me two sons. One of them went away from me, and I said, 'He has surely been torn to pieces.' And I have not seen him since. If you take this one from me too and harm comes to him, you will bring my gray head down to the grave in misery."
+
+Judah fully understood his father's heart—the pain of losing Joseph, the reason for favoring Benjamin. He did not blame his father for favoritism but sympathized with his father's pain. This is a mark of maturity—no longer jealous and angry over his father favoring Joseph as in youth, but understanding his father's weakness and pain.
+
+Judah said: "So now, I have pledged to my father for the boy, saying, 'If I do not bring him back to you, I will bear the blame before you, my father, all my life.' Now then, please let your servant remain here as my lord's slave in place of the boy, and let the boy return with his brothers. How can I go back to my father if the boy is not with me? No! Do not let me see the misery that would come on my father."
+
+This is the climax of the whole story! Judah was willing to become a slave in Benjamin's place. He said "please let your servant remain here as my lord's slave in place of the boy"—this is complete self-sacrifice. Twenty years ago, Judah proposed selling Joseph for silver; now, Judah was willing to sacrifice his own freedom to buy Benjamin's release.
+
+Judah's final words reveal his deepest motivation: "How can I go back to my father if the boy is not with me? No! Do not let me see the misery that would come on my father." Not for his own honor, not to fulfill his promise, but for his father—unwilling to see his father grieve.
+
+This speech was so moving that Joseph could no longer restrain himself. In the next chapter he would reveal his identity. But before revealing, he had already received the answer he wanted: these brothers had completely changed. From jealousy to self-sacrifice, from selfishness to love, from division to unity, from avoiding responsibility to bearing responsibility—this is the change true repentance brings.`,
+  historyContext_zh: `本章是约瑟故事的高潮，也是创世记中文学技巧最高的篇章之一。银杯的试验是精心设计的——它不仅测试兄弟们对便雅悯的态度，也让他们重新经历二十年前的场景，给他们机会做出不同的选择。
+
+占卜杯在古埃及文化中确实存在。埃及人相信可以通过观察液体在杯中的形态、或投入杯中物体的漂浮情况来占卜。约瑟提到这个，不是说他真的占卜（利未记19:26禁止占卜），而是维持埃及宰相的身份。
+
+犹大的演说是古代近东文学中的杰作。这种在君王面前恳求的演说，在古代有固定的修辞模式："求你容仆人说一句话...不要向仆人发烈怒"是标准的开场白；详细叙述事情经过，诉诸君王的同情心；最后提出请求。犹大完美地使用了这个模式，并加入了真挚的情感。
+
+这个故事在犹太传统中被视为悔改和转变的典范。犹大从提议卖约瑟的人，变成愿意代替便雅悯作奴仆的人，这是彻底的改变。犹太拉比说："真正的悔改是在同样的试探中做出不同的选择。"犹大正是这样做的。`, historyContext_en: `This chapter is the climax of the Joseph story and one of the chapters with the highest literary artistry in Genesis. The cup test was carefully designed—it not only tested the brothers' attitude toward Benjamin but also made them relive the scene from twenty years ago, giving them a chance to make a different choice.
+
+Divination cups did exist in ancient Egyptian culture. Egyptians believed they could divine by observing the shape of liquid in a cup or the floating of objects dropped into it. Joseph mentioning this does not mean he really practiced divination (Leviticus 19:26 forbids divination) but was maintaining his identity as Egyptian prime minister.
+
+Judah's speech is a masterpiece of ancient Near Eastern literature. This type of plea before a king had fixed rhetorical patterns in ancient times: "Let your servant speak a word...do not be angry with your servant" is the standard opening; detailed narration of the affair, appealing to the king's sympathy; finally making the request. Judah perfectly used this pattern and added genuine emotion.
+
+This story is seen in Jewish tradition as an exemplar of repentance and transformation. Judah, from the one who proposed selling Joseph to the one willing to become a slave in Benjamin's place, this is complete change. Jewish rabbis say: "True repentance is making a different choice in the same temptation." Judah did exactly that.`,
+  structure_zh: `本章可分为四个部分：
+
+**一、设置陷阱（1-6节）**
+约瑟吩咐家宰将银杯放在便雅悯口袋里，然后追赶他们。这是精心设计的最后试验——让便雅悯陷入困境，看兄弟们如何反应。
+
+**二、搜查与发现（7-13节）**
+兄弟们自信地回答，甚至说"在谁那里搜出来，就叫他死"。但银杯在便雅悯口袋里被发现。他们撕裂衣服，全体回城——没有人独自离开。这是改变的第一个证据。
+
+**三、认罪（14-17节）**
+犹大代表全体说："神已经查出仆人的罪孽了。"他没有辩解，而是承认这是神的审判。他们全体愿意作奴仆。但约瑟说只留便雅悯，其他人可以走。这是最后的试验。
+
+**四、犹大的恳求（18-34节）**
+本章的核心。犹大详细叙述了整个经过，表达了对父亲的同情和理解。最后他提出代替便雅悯作奴仆："现在求你容仆人住下，替这童子作我主的奴仆。"这是完全的舍己，显出彻底的改变。`, structure_en: `This chapter can be divided into four sections:
+
+**I. Setting the Trap (verses 1-6)**
+Joseph instructs the steward to put the cup in Benjamin's sack, then pursue them. This is the carefully designed final test—putting Benjamin in trouble to see how the brothers react.
+
+**II. Search and Discovery (verses 7-13)**
+The brothers confidently answer, even saying "If any of your servants is found to have it, he will die." But the cup is found in Benjamin's sack. They tear their clothes, all return to the city—no one leaves alone. This is the first evidence of change.
+
+**III. Confession (verses 14-17)**
+Judah, representing all, says: "God has uncovered your servants' guilt." He does not make excuses but acknowledges this is God's judgment. They are all willing to become slaves. But Joseph says only keep Benjamin, the others can go. This is the final test.
+
+**IV. Judah's Plea (verses 18-34)**
+The core of the chapter. Judah detailed the entire affair, expressed sympathy and understanding for his father. Finally he proposes to become a slave in Benjamin's place: "Please let your servant remain here as my lord's slave in place of the boy." This is complete self-sacrifice, showing thorough change.`,
+  theology_zh: `**真实悔改的果子**
+本章最核心的神学主题是真实悔改的表现。二十年前，兄弟们因嫉妒出卖约瑟；如今面对同样的试探（便雅悯得恩宠，又陷入困境），他们做出了完全不同的选择。
+
+真正的悔改不仅是口头承认罪，更是在同样的试探中活出不同的选择。雅各书2:18说："你将你没有行为的信心指给我看，我便藉着我的行为，将我的信心指给你看。"兄弟们用行动证明了他们的改变。
+
+马太福音3:8，施洗约翰说："你们要结出果子来，与悔改的心相称。"什么是"与悔改相称的果子"？就是生命的改变，从自私到舍己，从嫉妒到爱护，从分裂到合一。
+
+**犹大的代求——中保的预表**
+犹大的演说和献上自己代替便雅悯，是圣经中最清晰预表基督中保职分的画面之一。
+
+"现在求你容仆人住下，替这童子作我主的奴仆"——这正是基督为我们所做的。我们犯了罪，当受刑罚；基督站在神面前说："让我代替他们承担。"
+
+犹大的动机是爱父亲："恐怕我看见灾祸临到我父亲身上。"基督的动机也是爱父神：为了父的荣耀，为了完成父的旨意，他甘愿舍命。同时，基督也爱我们这些罪人，甘愿代替我们死。
+
+但犹大的代求仍然有限——他只能说"求你容",不能强求；他只能代替一人，不能代替众人；他只能代替暂时的奴役，不能代替永远的刑罚。唯有基督的代赎是完全的、彻底的、永远的。
+
+**神查出罪孽**
+犹大说："神已经查出仆人的罪孽了。"这话深刻认识到神的主权和公义。他们知道，银杯的事不是偶然，而是神的作为，要暴露他们更深的罪。
+
+诗篇90:8："你将我们的罪孽摆在你面前，将我们的隐恶摆在你面光之中。"人可以向人隐藏罪，但不能向神隐藏。神有他的时间和方式，要让人面对自己的罪。
+
+神查出罪孽，不是为了定罪，而是为了救赎。他让兄弟们经历这个过程，是为了带来真实的悔改和完全的赦免。罗马书8:1："如今，那些在基督耶稣里的就不定罪了。"神暴露我们的罪，是为了让我们逃到基督里得赦免。
+
+**从个人到群体**
+二十年前，兄弟们各有各的打算——吕便想救约瑟又不敢公开反对众兄弟，犹大提议卖约瑟换钱，西缅可能最激进。他们是分裂的个体，各人自扫门前雪。
+
+如今，他们是一个整体。犹大说"我们都是我主的奴仆"，不是"让便雅悯自己承担"。他们一起回城，一起跪在约瑟面前，一起承担责任。这是真正的弟兄之爱——"你们若有彼此相爱的心，众人因此就认出你们是我的门徒了"（约翰福音13:35）。
+
+以弗所书4:2-3："凡事谦虚、温柔、忍耐，用爱心互相宽容，用和平彼此联络，竭力保守圣灵所赐合而为一的心。"真实的悔改不仅改变个人，也改变关系，建立真正的合一。`, theology_en: `**The Fruit of True Repentance**
+The central theological theme of this chapter is the manifestation of true repentance. Twenty years ago, the brothers betrayed Joseph out of jealousy; now facing the same temptation (Benjamin favored and in trouble), they made a completely different choice.
+
+True repentance is not just verbal confession of sin but living out different choices in the same temptation. James 2:18 says: "Show me your faith without deeds, and I will show you my faith by my deeds." The brothers proved their change through actions.
+
+In Matthew 3:8, John the Baptist said: "Produce fruit in keeping with repentance." What is "fruit in keeping with repentance"? It is life change, from selfishness to self-sacrifice, from jealousy to care, from division to unity.
+
+**Judah's Intercession—Type of the Mediator**
+Judah's speech and offering himself in Benjamin's place is one of the clearest Old Testament pictures prefiguring Christ's mediatorial office.
+
+"Please let your servant remain here as my lord's slave in place of the boy"—this is exactly what Christ did for us. We sinned and deserved punishment; Christ stood before God saying: "Let me bear it in their place."
+
+Judah's motivation was love for his father: "Do not let me see the misery that would come on my father." Christ's motivation was also love for God the Father: for the Father's glory, to complete the Father's will, He was willing to lay down His life. At the same time, Christ also loved us sinners, willing to die in our place.
+
+But Judah's intercession was still limited—he could only say "please allow," not demand; he could only substitute for one person, not for all; he could only substitute for temporary slavery, not eternal punishment. Only Christ's substitution is complete, thorough, and eternal.
+
+**God Uncovered Guilt**
+Judah said: "God has uncovered your servants' guilt." These words profoundly recognize God's sovereignty and justice. They knew the cup incident was not accidental but God's work to expose their deeper sin.
+
+Psalm 90:8: "You have set our iniquities before you, our secret sins in the light of your presence." People can hide sin from people but not from God. God has His time and way to make people face their sin.
+
+God uncovered guilt not to condemn but to redeem. He let the brothers go through this process to bring genuine repentance and complete forgiveness. Romans 8:1: "Therefore, there is now no condemnation for those who are in Christ Jesus." God exposes our sin so we can flee to Christ for forgiveness.
+
+**From Individual to Community**
+Twenty years ago, the brothers each had their own calculations—Reuben wanted to save Joseph but dared not openly oppose the other brothers, Judah proposed selling Joseph for money, Simeon was probably most radical. They were divided individuals, each sweeping snow from their own doorstep.
+
+Now, they are one body. Judah said "We are now my lord's slaves," not "Let Benjamin bear it himself." They returned to the city together, knelt before Joseph together, bore responsibility together. This is true brotherly love—"By this everyone will know that you are my disciples, if you love one another" (John 13:35).
+
+Ephesians 4:2-3: "Be completely humble and gentle; be patient, bearing with one another in love. Make every effort to keep the unity of the Spirit through the bond of peace." True repentance not only changes individuals but also changes relationships, building true unity.`,
+  christShadow_zh: `**犹大预表基督——完美的替代者**
+本章是整个约瑟故事中最清晰预表基督的一章。犹大愿意代替便雅悯作奴仆，完美预示了基督的替代性救赎。
+
+以赛亚书53:6："耶和华使我们众人的罪孽都归在他身上。"基督站在神面前说："他们该受的刑罚，让我来承担。他们该下的地狱，让我去受。他们该担的罪债，让我来偿还。"
+
+犹大说"求你容仆人住下，替这童子作我主的奴仆"，基督实际住下，替我们受死。犹大只是提议，基督实际成就。犹大只能代替一人，基督代替众人。犹大只能代替暂时的奴役，基督代替永远的刑罚。
+
+希伯来书9:12："并且不用山羊和牛犊的血，乃用自己的血，只一次进入圣所，成了永远赎罪的事。"基督的替代是完全的、充分的、永远的。
+
+**犹大为父亲的缘故**
+犹大最深的动机是不愿看见父亲伤心："恐怕我看见灾祸临到我父亲身上。"这也预表基督。
+
+基督的救赎不仅是为了我们，更是为了父神的荣耀。约翰福音17:4，耶稣说："我在地上已经荣耀你，你所托付我的事，我已成全了。"罪使神的荣耀受损，基督的救赎恢复了神的荣耀。
+
+腓立比书2:8-11："他就自己卑微，存心顺服，以至于死，且死在十字架上。所以神将他升为至高...叫一切口无不称耶稣基督为主，使荣耀归与父神。"基督的舍己，最终目的是父神的荣耀。
+
+**认罪——"神已经查出"**
+犹大说"神已经查出仆人的罪孽"，这是真实的认罪。不是说"我们被冤枉了"，不是说"这一定是误会"，而是承认：神在审判我们。
+
+诗篇51篇是大卫犯罪后的认罪诗。第3-4节："因为我知道我的过犯，我的罪常在我面前。我向你犯罪，惟独得罪了你，在你眼前行了这恶。"真实的认罪是在神面前承认罪，不是在人面前辩解。
+
+约翰一书1:9:"我们若认自己的罪，神是信实的，是公义的，必要赦免我们的罪，洗净我们一切的不义。"认罪是通往赦免的道路。兄弟们诚实地承认"神已经查出"，这为下一章的完全赦免铺路。
+
+**合一的见证**
+兄弟们全体回城，全体愿意作奴仆，没有人独自离开。这与二十年前形成鲜明对比。那时他们可以把约瑟扔在坑里，继续去吃饭喝酒；如今他们不能抛下便雅悯。
+
+这预表教会的合一。加拉太书6:2："你们各人的重担要互相担当，如此，就完全了基督的律法。"基督的律法就是爱的律法。真正的教会不是各人自扫门前雪，而是彼此担当，同生共死。
+
+哥林多前书12:26："若一个肢体受苦，所有的肢体就一同受苦；若一个肢体得荣耀，所有的肢体就一同快乐。"便雅悯的困境成为所有兄弟的困境。没有人说"这不关我的事"，而是说"我们都是我主的奴仆"。
+
+**约瑟的沉默——神的忍耐**
+在犹大长篇陈辞的时候，约瑟只是听。他听着自己被称为"死了"，听着父亲二十年的伤痛，听着兄弟们的悔改。他没有打断，没有立即相认，而是让这个过程完成。
+
+这预表神的忍耐。彼得后书3:9："主所应许的尚未成就，有人以为他是耽延，其实不是耽延，乃是宽容你们，不愿有一人沉沦，乃愿人人都悔改。"神沉默不是冷漠，而是给人悔改的时间和空间。
+
+约瑟在下一章要揭示身份，带来完全的赦免和团圆。但在那之前，他让兄弟们经历完整的悔改过程。同样，神让我们经历认罪、悔改、回转的过程，不是要羞辱我们，而是要完全医治我们，使我们真正得自由。`, christShadow_en: `**Judah Prefigures Christ—The Perfect Substitute**
+This chapter is the clearest prefiguration of Christ in the entire Joseph story. Judah's willingness to become a slave in Benjamin's place perfectly foreshadows Christ's substitutionary redemption.
+
+Isaiah 53:6: "The LORD has laid on him the iniquity of us all." Christ stood before God saying: "The punishment they deserve, let me bear it. The hell they should go to, let me suffer it. The sin debt they owe, let me pay it."
+
+Judah said "Please let your servant remain here as my lord's slave in place of the boy," Christ actually remained and died for us. Judah only proposed; Christ actually accomplished. Judah could only substitute for one person; Christ substituted for many. Judah could only substitute for temporary slavery; Christ substituted for eternal punishment.
+
+Hebrews 9:12: "He did not enter by means of the blood of goats and calves; but he entered the Most Holy Place once for all by his own blood, thus obtaining eternal redemption." Christ's substitution is complete, sufficient, and eternal.
+
+**Judah for the Father's Sake**
+Judah's deepest motivation was unwillingness to see his father grieve: "Do not let me see the misery that would come on my father." This also prefigures Christ.
+
+Christ's redemption was not only for us but even more for the Father's glory. In John 17:4, Jesus said: "I have brought you glory on earth by finishing the work you gave me to do." Sin damaged God's glory; Christ's redemption restored God's glory.
+
+Philippians 2:8-11: "And being found in appearance as a man, he humbled himself by becoming obedient to death—even death on a cross! Therefore God exalted him to the highest place...every tongue acknowledge that Jesus Christ is Lord, to the glory of God the Father." Christ's self-sacrifice ultimately aimed at the Father's glory.
+
+**Confession—"God Has Uncovered"**
+Judah said "God has uncovered your servants' guilt," this is genuine confession. Not saying "We were wronged," not saying "This must be a mistake," but acknowledging: God is judging us.
+
+Psalm 51 is David's confession psalm after sin. Verses 3-4: "For I know my transgressions, and my sin is always before me. Against you, you only, have I sinned and done what is evil in your sight." True confession is acknowledging sin before God, not making excuses before people.
+
+1 John 1:9: "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness." Confession is the path to forgiveness. The brothers honestly acknowledged "God has uncovered," paving the way for complete forgiveness in the next chapter.
+
+**Witness of Unity**
+The brothers all returned to the city, all willing to become slaves, no one left alone. This stands in sharp contrast to twenty years earlier. Then they could throw Joseph in a pit and continue eating and drinking; now they could not abandon Benjamin.
+
+This prefigures the unity of the church. Galatians 6:2: "Carry each other's burdens, and in this way you will fulfill the law of Christ." Christ's law is the law of love. The true church is not each sweeping their own doorstep but bearing one another's burdens, living and dying together.
+
+1 Corinthians 12:26: "If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it." Benjamin's predicament became all the brothers' predicament. No one said "This isn't my business," but said "We are now my lord's slaves."
+
+**Joseph's Silence—God's Patience**
+During Judah's long speech, Joseph only listened. He heard himself called "dead," heard his father's twenty years of pain, heard his brothers' repentance. He did not interrupt, did not immediately reveal himself, but let this process complete.
+
+This prefigures God's patience. 2 Peter 3:9: "The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance." God's silence is not indifference but giving people time and space to repent.
+
+Joseph will reveal his identity in the next chapter, bringing complete forgiveness and reunion. But before that, he let his brothers go through the complete repentance process. Similarly, God lets us go through the process of confession, repentance, and turning, not to humiliate us but to completely heal us, making us truly free.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 45,
@@ -3539,11 +6361,285 @@ readings.push({
   title: '相认', titleEn: 'Joseph Reveals Himself',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 45:1 / Genesis 45:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `约瑟在左右站着的人面前情不自禁，吩咐一声说："人都要离开我出去！"约瑟和弟兄相认的时候，并没有一人站在他跟前。他就放声大哭，埃及人和法老家中的人都听见了。
+
+我，摩西，在记载这个时刻时，心潮澎湃。二十二年的分离，二十二年的误解和伤痛，在这一刻要结束了。约瑟终于可以卸下埃及宰相的伪装，在兄弟面前显出真实的自己。
+
+约瑟对他弟兄们说："我是约瑟！我的父亲还在吗？"他弟兄不能回答，因为在他面前都惊惶。约瑟又对他弟兄们说："请你们近前来。"他们就近前来。他说："我是你们的兄弟约瑟，就是你们所卖到埃及的。"
+
+"我是约瑟"——何等简单的四个字，却震撼人心！那位高高在上的埃及宰相，竟然是他们卖掉的弟弟！那个穿着彩衣的少年，那个会做梦的约瑟，那个在坑里哀求他们的约瑟，如今掌管着埃及的粮仓，掌管着他们的生死。
+
+兄弟们"不能回答，因为在他面前都惊惶"。这不仅是震惊，更是恐惧——他们现在终于明白，这几次的试验都是什么意思。他会报复吗？他会将他们处死吗？他们都在他的权下，毫无抵抗之力。
+
+约瑟看出他们的恐惧，就说"请你们近前来"。这是何等温柔的邀请！不是"退下去"，不是"拿下他们"，而是"请你们近前来"。他要消除他们的恐惧，他要他们知道，他不是要报复，而是要相认。
+
+"现在，不要因为把我卖到这里自忧自恨，这是神差我在你们以先来，为要保全生命。现在这地的饥荒已经二年了，还在五年不能耕种，不能收成。神差我在你们以先来，为要给你们存留余种在世上，又要大施拯救，保全你们的生命。这样看来，差我到这里来的不是你们，乃是神。他又使我如法老的父，作他全家的主，并埃及全地的宰相。"
+
+这是何等深邃的神学洞见！约瑟三次说"神差我"——不是"你们卖我"，而是"神差我"。他看到神主权的手在整个事件中掌管。兄弟们的恶意，波提乏妻子的诱惑，酒政的忘记，法老的梦，一切都在神的计划中，为要"保全生命""存留余种""大施拯救"。
+
+创世记50:20总结了这个神学："从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景。"这不是说兄弟们没有罪——他们确实犯了罪；但神能够使用人的罪成就他的美意。这是神主权的奥秘，是圣经中最深刻的神学主题之一。
+
+约瑟催促说："你们要赶紧上到我父亲那里，对他说：'你儿子约瑟这样说：神使我作全埃及的主，请你下到我这里来，不要耽延。你和你的儿子、孙子，连牛群羊群，并一切所有的，都可以住在歌珊地，与我相近。我要在那里奉养你，因为还有五年的饥荒，免得你和你的眷属，并一切所有的，都败落了。'况且你们的眼和我兄弟便雅悯的眼都看见是我亲口对你们说话。你们也要将我在埃及一切的荣耀和你们所看见的事都告诉我父亲，又要赶紧地将我父亲搬到我这里来。"
+
+约瑟心里最挂念的还是父亲。"请你下到我这里来，不要耽延"——何等迫切的心情！二十二年了，他多么想见父亲！"我要在那里奉养你"——这是儿子的孝心，虽然他已是埃及宰相，但他仍然记得自己是雅各的儿子。
+
+于是约瑟伏在他兄弟便雅悯的颈项上哭，便雅悯也在他的颈项上哭。他又与众弟兄亲嘴，抱着他们哭，随后他弟兄就和他说话。
+
+约瑟先拥抱便雅悯——他的同母兄弟，拉结唯一留下的另一个儿子。两人相拥而哭，这是血浓于水的亲情，是二十年分离后的重逢。然后约瑟与每一个哥哥亲嘴拥抱。"随后他弟兄就和他说话"——他们终于能说话了，恐惧已经消除，误会已经化解，隔阂已经打破。
+
+这风声传到法老的宫里，说："约瑟的弟兄们来了。"法老和他的臣仆都很喜欢。法老对约瑟说："你吩咐你的弟兄们说：'你们要这样行：把驮子抬在牲口上，起身往迦南地去。将你们的父亲和你们的眷属都搬到我这里来，我要把埃及地的美物赐给你们，你们也要吃这地肥美的出产。现在我吩咐你们要这样行：从埃及地带着车辆去，把你们的孩子和妻子，并你们的父亲都搬来。你们眼中不要爱惜你们的家具，因为埃及全地的美物都是你们的。'"
+
+法老慷慨地邀请约瑟全家来埃及，甚至提供车辆。这显出约瑟在埃及的地位和声望。神使用约瑟祝福埃及，现在埃及回报祝福给约瑟的家族。这也应验了神对亚伯拉罕的应许：你也要叫别人得福（创世记12:2）。
+
+以色列的儿子们就如此行。约瑟照着法老的吩咐给他们车辆和路上用的食物。又给他们各人一套衣服，惟独给便雅悯三百银子，五套衣服。送给他父亲公驴十匹，驮着埃及的美物；母驴十匹，驮着粮食与饼和菜，为他父亲路上用。
+
+约瑟给便雅悯格外的礼物——三百银子和五套衣服。这会引起其他兄弟的嫉妒吗？不会了。他们已经改变了。他们知道约瑟爱便雅悯，也知道这爱是合理的——便雅悯是他的同母兄弟。二十年前，他们因父亲偏爱约瑟而嫉妒；如今，他们不再嫉妒。这是成熟的标志。
+
+于是约瑟打发他弟兄们回去，又对他们说："你们不要在路上相争。"这句话意味深长。约瑟知道人性，知道他们可能在路上争论谁的责任更大，谁更对不起约瑟。他要他们知道：过去的事已经过去了，不要再彼此责备，而要一起展望未来。
+
+他们从埃及上去，来到迦南地他们的父亲雅各那里，告诉他说："约瑟还在，并且作埃及全地的宰相。"雅各心里冰凉，因为不信他们。他们便将约瑟对他们说的一切话都告诉了他。他们父亲雅各又看见约瑟打发来接他的车辆，心就苏醒了。
+
+"雅各心里冰凉"——这是可以理解的。二十二年了，他一直以为约瑟死了。现在儿子们说约瑟还活着？这太难以置信了！多少次虚假的希望破灭，让他不敢再相信。
+
+但当他看见车辆——这是实物证据，不是空话——他的心就苏醒了。"苏醒"这个词在希伯来文里有"重新活过来"的意思。雅各说："罢了！罢了！我的儿子约瑟还在，趁我未死以先，我要去见他一面。"
+
+"罢了！罢了！"——这是突然醒悟、难以置信又欣喜若狂的呼喊。雅各二十年的伤痛，在这一刻得到医治。那个失去的儿子找回来了，那个以为死了的儿子原来活着，而且作了埃及的宰相！
+
+"趁我未死以先，我要去见他一面"——雅各唯一的心愿就是在死前见约瑟一面。他不在乎约瑟的地位和荣华，他只想见到他的儿子。这是父亲的心。
+
+这一章以雅各决定下埃及结束，为下一阶段的叙事——雅各全家下埃及——铺路。神的计划在一步步展开：约瑟在埃及为至高，为要保全雅各全家；雅各全家下埃及，在那里要成为大国；四百年后出埃及，进入应许之地。这一切都在神的掌管之中，为要成就他对亚伯拉罕的应许。`, content_en: `Then Joseph could no longer control himself before all his attendants, and he cried out, "Have everyone leave my presence!" So there was no one with Joseph when he made himself known to his brothers. And he wept so loudly that the Egyptians heard him, and Pharaoh's household heard about it.
+
+I, Moses, as I record this moment, am deeply moved. Twenty-two years of separation, twenty-two years of misunderstanding and pain, were about to end at this moment. Joseph could finally remove the disguise of Egyptian prime minister and show his true self before his brothers.
+
+Joseph said to his brothers, "I am Joseph! Is my father still living?" But his brothers were not able to answer him, because they were terrified at his presence. Then Joseph said to his brothers, "Come close to me." When they had done so, he said, "I am your brother Joseph, the one you sold into Egypt."
+
+"I am Joseph"—what simple four words, yet how shocking! That lofty Egyptian prime minister was actually the brother they had sold! That boy in the robe of many colors, that Joseph who dreamed dreams, that Joseph who pleaded with them from the pit, now controlled Egypt's granaries, controlled their life and death.
+
+The brothers "were not able to answer him, because they were terrified." This was not just shock but fear—they now finally understood what all those tests meant. Would he take revenge? Would he put them to death? They were all under his power, with no ability to resist.
+
+Joseph saw their fear and said "Come close to me." What a tender invitation! Not "Get away," not "Seize them," but "Come close to me." He wanted to dispel their fear, to let them know he did not want revenge but reunion.
+
+"And now, do not be distressed and do not be angry with yourselves for selling me here, because it was to save lives that God sent me ahead of you. For two years now there has been famine in the land, and for the next five years there will be no plowing and reaping. But God sent me ahead of you to preserve for you a remnant on earth and to save your lives by a great deliverance. So then, it was not you who sent me here, but God. He made me father to Pharaoh, lord of his entire household and ruler of all Egypt."
+
+What profound theological insight! Joseph said three times "God sent me"—not "you sold me" but "God sent me." He saw God's sovereign hand controlling the entire event. The brothers' malice, Potiphar's wife's temptation, the cupbearer's forgetfulness, Pharaoh's dreams—all were in God's plan to "save lives," "preserve a remnant," and bring "great deliverance."
+
+Genesis 50:20 summarizes this theology: "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives." This does not mean the brothers were without sin—they indeed sinned; but God can use human sin to accomplish His good purpose. This is the mystery of God's sovereignty, one of the most profound theological themes in Scripture.
+
+Joseph urged them: "Now hurry back to my father and say to him, 'This is what your son Joseph says: God has made me lord of all Egypt. Come down to me; don't delay. You shall live in the region of Goshen and be near me—you, your children and grandchildren, your flocks and herds, and all you have. I will provide for you there, because five years of famine are still to come. Otherwise you and your household and all who belong to you will become destitute.' You can see for yourselves, and so can my brother Benjamin, that it is really I who am speaking to you. Tell my father about all the honor accorded me in Egypt and about everything you have seen. And bring my father down here quickly."
+
+Joseph's heart was most concerned about his father. "Come down to me; don't delay"—what urgent feelings! Twenty-two years—how he wanted to see his father! "I will provide for you there"—this is a son's filial piety. Though he was Egypt's prime minister, he still remembered he was Jacob's son.
+
+Then he threw his arms around his brother Benjamin and wept, and Benjamin embraced him, weeping. And he kissed all his brothers and wept over them. Afterward his brothers talked with him.
+
+Joseph first embraced Benjamin—his full brother, the other son Rachel had left. The two embraced and wept; this was blood-thicker-than-water affection, reunion after twenty years of separation. Then Joseph kissed and embraced each brother. "Afterward his brothers talked with him"—they could finally speak, fear was dispelled, misunderstanding was resolved, barriers were broken.
+
+When the news reached Pharaoh's palace that Joseph's brothers had come, Pharaoh and all his officials were pleased. Pharaoh said to Joseph, "Tell your brothers, 'Do this: Load your animals and return to the land of Canaan, and bring your father and your families back to me. I will give you the best of the land of Egypt and you can enjoy the fat of the land.' You are also directed to tell them, 'Do this: Take some carts from Egypt for your children and your wives, and get your father and come. Never mind about your belongings, because the best of all Egypt will be yours.'"
+
+Pharaoh generously invited Joseph's entire family to Egypt, even providing carts. This showed Joseph's position and reputation in Egypt. God used Joseph to bless Egypt; now Egypt blessed Joseph's family in return. This also fulfilled God's promise to Abraham: you will be a blessing (Genesis 12:2).
+
+So the sons of Israel did this. Joseph gave them carts, as Pharaoh had commanded, and he also gave them provisions for their journey. To each of them he gave new clothing, but to Benjamin he gave three hundred shekels of silver and five sets of clothes. And this is what he sent to his father: ten donkeys loaded with the best things of Egypt, and ten female donkeys loaded with grain and bread and other provisions for his journey.
+
+Joseph gave Benjamin extra gifts—three hundred shekels of silver and five sets of clothes. Would this cause jealousy among the other brothers? No longer. They had changed. They knew Joseph loved Benjamin and knew this love was reasonable—Benjamin was his full brother. Twenty years ago, they were jealous because their father favored Joseph; now, they were no longer jealous. This is a mark of maturity.
+
+So he sent his brothers away, and as they were leaving he said to them, "Don't quarrel on the way!" This statement is meaningful. Joseph knew human nature, knew they might argue on the way about who bore more responsibility, who wronged Joseph more. He wanted them to know: what's past is past, don't blame each other, but look forward together.
+
+They went up out of Egypt and came to their father Jacob in the land of Canaan. They told him, "Joseph is still alive! In fact, he is ruler of all Egypt." Jacob was stunned; he did not believe them. But when they told him everything Joseph had said to them, and when he saw the carts Joseph had sent to carry him back, the spirit of their father Jacob revived.
+
+"Jacob was stunned"—this is understandable. Twenty-two years—he had always thought Joseph was dead. Now his sons said Joseph was alive? This was too hard to believe! How many false hopes had been shattered, making him afraid to believe again.
+
+But when he saw the carts—physical evidence, not empty words—his spirit revived. "Revived" in Hebrew means "came back to life." Jacob said, "I'm convinced! My son Joseph is still alive. I will go and see him before I die."
+
+"I'm convinced! I'm convinced!"—this is a cry of sudden awakening, incredulity, and overwhelming joy. Jacob's twenty years of pain were healed at this moment. The lost son was found, the son thought dead was alive, and had become Egypt's prime minister!
+
+"I will go and see him before I die"—Jacob's only wish was to see Joseph once before death. He did not care about Joseph's position and glory; he only wanted to see his son. This is a father's heart.
+
+This chapter ends with Jacob's decision to go down to Egypt, paving the way for the next stage of narrative—Jacob's entire household going down to Egypt. God's plan was unfolding step by step: Joseph in Egypt as supreme, to preserve Jacob's entire household; Jacob's entire household going down to Egypt, to become a great nation there; Exodus four hundred years later, entering the promised land. All of this was under God's control, to fulfill His promise to Abraham.`,
+  historyContext_zh: `本章是约瑟故事的高潮和转折点。相认的场景极其感人，也标志着雅各全家将要迁往埃及，开启以色列民族历史的新篇章。
+
+约瑟三次强调"神差我"而非"你们卖我"，这显出他对神主权的深刻认识。这种神学思想在古代近东文化中并不常见——通常人们会强调人的行为和责任。但约瑟看到了更深的层面：人的罪恶行为在神主权的掌管下，可以成就神的美意。这是圣经神学的独特之处。
+
+歌珊地（Goshen）在埃及东北部，靠近尼罗河三角洲，是肥沃的牧场。法老将这块地赐给雅各家族，既是对约瑟的尊重，也因为埃及人视牧羊为可憎（创世记46:34），宁可让希伯来人住在边境地区。这个安排后来证明是神的保护——让以色列人保持独立的身份，不被埃及文化同化。
+
+"你们不要在路上相争"——约瑟深知人性。兄弟们可能会在路上争论谁的罪更重，谁该负更多责任。约瑟制止这种无益的争论，要他们展望未来，不要沉溺在过去的罪疚中。这是智慧的劝勉，也是恩典的彰显——既然神已经使用罪成就美意，既然约瑟已经完全赦免，那么就不要再彼此控告了。
+
+雅各从"心里冰凉"到"心就苏醒"，这个转变具有象征意义。希伯来文"苏醒"（revive）有"重新活过来"的意思。路加福音15章浪子比喻中，父亲说："因为我这个儿子是死而复活，失而又得的。"约瑟对雅各来说，正是死而复活，失而又得。`, historyContext_en: `This chapter is the climax and turning point of the Joseph story. The recognition scene is extremely moving and marks that Jacob's entire household will move to Egypt, opening a new chapter in Israelite history.
+
+Joseph three times emphasized "God sent me" rather than "you sold me," showing his profound understanding of God's sovereignty. This theological thinking was not common in ancient Near Eastern culture—usually people emphasized human actions and responsibility. But Joseph saw a deeper level: human sinful actions, under God's sovereign control, could accomplish God's good purpose. This is a unique aspect of biblical theology.
+
+Goshen was in northeastern Egypt, near the Nile Delta, a fertile pasture land. Pharaoh giving this land to Jacob's family was both respect for Joseph and because Egyptians considered shepherding detestable (Genesis 46:34), preferring Hebrews to live in border regions. This arrangement later proved to be God's protection—keeping Israelites' independent identity, not assimilated by Egyptian culture.
+
+"Don't quarrel on the way"—Joseph knew human nature well. The brothers might argue on the way about who sinned more, who should bear more responsibility. Joseph stopped this unprofitable argument, wanting them to look forward, not wallow in past guilt. This is wise counsel and also manifestation of grace—since God has used sin to accomplish good purpose, since Joseph has completely forgiven, then don't accuse each other anymore.
+
+Jacob's transformation from "stunned" to "spirit revived" has symbolic significance. Hebrew "revived" means "came back to life." In Luke 15's prodigal son parable, the father said: "For this son of mine was dead and is alive again; he was lost and is found." Joseph, for Jacob, was exactly dead and alive again, lost and found.`,
+  structure_zh: `本章可分为五个部分：
+
+**一、相认（1-4节）**
+约瑟情不自禁，命所有埃及人退出。他放声大哭，宣告"我是约瑟"。兄弟们惊惶，不能回答。约瑟温柔地说"请你们近前来"，消除他们的恐惧。
+
+**二、神学解释（5-8节）**
+约瑟三次说"神差我"，将整个事件解释为神的主权作为。他不责备兄弟们，而是让他们看到神更大的计划——保全生命、存留余种、大施拯救。
+
+**三、催促接父亲（9-15节）**
+约瑟迫切要见父亲，催促兄弟们赶快回去接父亲来埃及。他应许奉养父亲，预备歌珊地给他们居住。然后约瑟与兄弟们相拥而哭，障碍完全消除。
+
+**四、法老的慷慨（16-24节）**
+法老和臣仆听闻约瑟兄弟来，都很喜欢。法老慷慨提供车辆和物资，邀请约瑟全家来埃及。约瑟给便雅悯格外的礼物，又劝兄弟们"不要在路上相争"。
+
+**五、雅各的复苏（25-28节）**
+兄弟们告诉雅各约瑟还活着，雅各起初不信，"心里冰凉"。但看见车辆后，他的心就"苏醒"了。他说："我的儿子约瑟还在，趁我未死以先，我要去见他一面。"`, structure_en: `This chapter can be divided into five sections:
+
+**I. Recognition (verses 1-4)**
+Joseph could no longer control himself, ordering all Egyptians to leave. He wept aloud, declaring "I am Joseph." The brothers were terrified, unable to answer. Joseph gently said "Come close to me," dispelling their fear.
+
+**II. Theological Explanation (verses 5-8)**
+Joseph three times said "God sent me," interpreting the entire event as God's sovereign work. He did not blame his brothers but let them see God's greater plan—to save lives, preserve a remnant, bring great deliverance.
+
+**III. Urging to Bring Father (verses 9-15)**
+Joseph urgently wanted to see his father, urging his brothers to quickly return and bring their father to Egypt. He promised to provide for his father, prepared Goshen for them to live. Then Joseph embraced and wept with his brothers; barriers completely removed.
+
+**IV. Pharaoh's Generosity (verses 16-24)**
+Pharaoh and officials heard Joseph's brothers came and were pleased. Pharaoh generously provided carts and supplies, inviting Joseph's entire family to Egypt. Joseph gave Benjamin extra gifts and advised his brothers "Don't quarrel on the way."
+
+**V. Jacob's Revival (verses 25-28)**
+The brothers told Jacob Joseph was alive; Jacob at first did not believe, "stunned." But seeing the carts, his spirit "revived." He said: "My son Joseph is still alive. I will go and see him before I die."`,
+  theology_zh: `**神的主权与人的责任**
+本章最核心的神学是神的主权。约瑟说："这是神差我在你们以先来...差我到这里来的不是你们，乃是神。"这不是说兄弟们没有罪——他们确实犯了罪，卖了约瑟，造成了巨大的伤害。但神能够使用甚至人的罪恶，成就他的美意。
+
+这是圣经中最深奥的神学之一。使徒行传2:23，彼得说："他既按着神的定旨先见被交与人，你们就藉着无法之人的手，把他钉在十字架上杀了。"钉死耶稣是人类最大的罪恶，但也是神救赎计划的核心。人的罪责和神的主权同时存在，互不矛盾。
+
+人需要为自己的罪负责——兄弟们需要悔改，需要面对自己的罪；但神能够使用这罪成就更大的善——保全许多人的性命。这不是说罪是好的，而是说神的智慧和能力超过我们所想。罗马书8:28："我们晓得万事都互相效力，叫爱神的人得益处。"
+
+**完全的赦免**
+约瑟对兄弟们说："不要因为把我卖到这里自忧自恨。"这是完全的赦免——不仅赦免，还安慰他们，让他们不要活在罪疚中。
+
+真正的赦免不是忘记（约瑟没有忘记被卖的事），而是不再追究，不再让对方活在罪疚中。真正的赦免释放双方——被赦免的人得释放，赦免的人也得释放。
+
+以弗所书4:32："并要以恩慈相待，存怜悯的心，彼此饶恕，正如神在基督里饶恕了你们一样。"约瑟的赦免预表神在基督里对我们的赦免——不是因为我们配得，不是因为我们的罪不严重，而是因为恩典，因为神要用我们的罪成就更大的善。
+
+**"死而复活"的主题**
+雅各说约瑟"还在"，雅各的心"苏醒"（revived，复活）。这个主题贯穿整个约瑟故事：约瑟被扔在坑里（象征死亡），被拉上来（象征复活）；约瑟在监狱里（死亡），被提升为宰相（复活）；在雅各眼中约瑟死了，如今发现他活着（复活）。
+
+这预表基督的死而复活，也预表所有信徒的属灵经历。以弗所书2:1,5："你们死在过犯罪恶之中...当我们死在过犯中的时候，便叫我们与基督一同活过来。"
+
+路加福音15:24，浪子的父亲说："因为我这个儿子是死而复活，失而又得的。"每一个罪人的回转，都是死而复活，失而又得。约瑟的故事让我们看到，神能够使"死"的变成"活"的，使"失"的变成"得"的。
+
+**合一的恢复**
+约瑟与兄弟们相拥而哭，"随后他弟兄就和他说话"。二十年的隔阂打破了，家庭恢复了合一。这合一建立在三个基础上：兄弟们真实的悔改，约瑟完全的赦免，以及对神主权的共同认识。
+
+约翰福音17:21-23，耶稣为门徒祷告："使他们都合而为一...叫世人可以信你差了我来。"教会的合一是建立在同样的基础上：真实悔改（承认自己的罪）、恩典（接受神的赦免）、以及对神主权的敬拜（将一切荣耀归给神）。
+
+约瑟说"你们不要在路上相争"，这是智慧的劝告。合一不是彼此控告，而是共同敬拜；不是计较谁的罪更重，而是感恩神的救赎；不是沉溺过去，而是展望未来。`, theology_en: `**God's Sovereignty and Human Responsibility**
+The core theology of this chapter is God's sovereignty. Joseph said: "God sent me ahead of you...So then, it was not you who sent me here, but God." This does not mean the brothers were without sin—they indeed sinned, sold Joseph, caused great harm. But God can use even human evil to accomplish His good purpose.
+
+This is one of the most profound theologies in Scripture. In Acts 2:23, Peter said: "This man was handed over to you by God's deliberate plan and foreknowledge; and you, with the help of wicked men, put him to death by nailing him to the cross." Crucifying Jesus was humanity's greatest sin but also the core of God's redemptive plan. Human guilt and God's sovereignty coexist without contradiction.
+
+People must be responsible for their sin—the brothers needed to repent, face their sin; but God can use this sin to accomplish greater good—saving many lives. This does not mean sin is good, but that God's wisdom and power exceed our imagination. Romans 8:28: "And we know that in all things God works for the good of those who love him."
+
+**Complete Forgiveness**
+Joseph said to his brothers: "Do not be distressed and do not be angry with yourselves." This is complete forgiveness—not only forgiving but comforting them, not letting them live in guilt.
+
+True forgiveness is not forgetting (Joseph did not forget being sold) but no longer holding it against them, no longer making them live in guilt. True forgiveness releases both parties—the forgiven is freed, the forgiver is also freed.
+
+Ephesians 4:32: "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you." Joseph's forgiveness prefigures God's forgiveness of us in Christ—not because we deserve it, not because our sin is not serious, but because of grace, because God wants to use our sin to accomplish greater good.
+
+**"Dead and Alive" Theme**
+Jacob said Joseph "is still alive"; Jacob's spirit "revived" (came back to life). This theme runs through the entire Joseph story: Joseph thrown in pit (symbolizing death), pulled up (symbolizing resurrection); Joseph in prison (death), elevated to prime minister (resurrection); in Jacob's eyes Joseph was dead, now discovered alive (resurrection).
+
+This prefigures Christ's death and resurrection and also all believers' spiritual experience. Ephesians 2:1,5: "You were dead in your transgressions and sins...made us alive with Christ even when we were dead in transgressions."
+
+In Luke 15:24, the prodigal's father said: "For this son of mine was dead and is alive again; he was lost and is found." Every sinner's turning is dead and alive again, lost and found. Joseph's story shows us God can make the "dead" become "alive," make the "lost" become "found."
+
+**Restoration of Unity**
+Joseph embraced and wept with his brothers, "Afterward his brothers talked with him." Twenty years of barriers were broken; the family restored unity. This unity was built on three foundations: the brothers' genuine repentance, Joseph's complete forgiveness, and shared recognition of God's sovereignty.
+
+In John 17:21-23, Jesus prayed for His disciples: "that all of them may be one...so that the world may believe that you have sent me." Church unity is built on the same foundation: genuine repentance (acknowledging one's sin), grace (receiving God's forgiveness), and worship of God's sovereignty (giving all glory to God).
+
+Joseph said "Don't quarrel on the way"—wise counsel. Unity is not accusing each other but worshiping together; not calculating whose sin is greater but being grateful for God's redemption; not wallowing in the past but looking forward to the future.`,
+  christShadow_zh: `**"我是约瑟"——"我是耶稣"**
+"我是约瑟"是本章最震撼的宣告。那位被拒绝、被出卖、被以为死了的约瑟，如今活着，而且掌权。这完美预表基督的显现。
+
+启示录1:18，复活的基督说："我是首先的，我是末后的，又是那存活的。我曾死过，现在又活了，直活到永永远远。"使徒行传1:3："他受害之后，用许多的凭据将自己活活地显给使徒看。"
+
+基督再来时，犹太人要认出他。撒迦利亚书12:10："他们必仰望我，就是他们所扎的；必为我悲哀，如丧独生子。"正如约瑟的兄弟们认出他时惊惶，犹太民族认出弥赛亚时也要哀痛——但那哀痛要转为喜乐，因为他们要听到："不要惧怕，我是你们的兄弟耶稣。"
+
+**"请你们近前来"——恩典的邀请**
+约瑟看见兄弟们惊惶，就说"请你们近前来"。基督也是如此呼召罪人："凡劳苦担重担的人，可以到我这里来"（马太福音11:28）。
+
+兄弟们害怕约瑟会报复，罪人也害怕神的审判。但约瑟说"请近前来"，基督也说"到我这里来"。希伯来书4:16："所以我们只管坦然无惧地来到施恩的宝座前，为要得怜恤，蒙恩惠，作随时的帮助。"
+
+约瑟不是要定他们的罪，而是要与他们和好。基督来也不是要定世人的罪，"乃是要叫世人因他得救"（约翰福音3:17）。神在基督里向世人发出邀请："与神和好吧！"（哥林多后书5:20）
+
+**"神差我"——十字架的神学**
+约瑟说："差我到这里来的不是你们，乃是神。"这正是十字架的神学——人钉死耶稣，但这是神的计划。
+
+使徒行传4:27-28："希律和本丢彼拉多、外邦人和以色列民果然在这城里聚集，要攻打你所膏的圣仆耶稣，成就你手和你意旨所预定必有的事。"神没有犯罪，人犯了罪；但神使用人的罪成就救赎。
+
+创世记50:20是对这个神学最清晰的表达："从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命。"约瑟被卖是为保全肉身的生命，基督被钉是为保全灵魂的生命。兄弟们卖约瑟换了二十舍客勒银子，犹大卖耶稣换了三十块银钱——但神使用这背叛成就救赎。
+
+**"保全生命"——基督是生命**
+约瑟被差来是为"保全生命""存留余种""大施拯救"。基督来也是为此。
+
+约翰福音10:10："我来了，是要叫羊得生命，并且得的更丰盛。"约瑟保全雅各家族的肉身生命，使他们不至饿死；基督保全属神子民的属灵生命，使他们不至灭亡，反得永生。
+
+约瑟存留余种，使亚伯拉罕的后裔得以延续；基督存留余民，使神拣选的人都得救。罗马书9:27："以赛亚指着以色列人喊着说：'以色列人虽多如海沙，得救的不过是剩下的余数。'"
+
+**约瑟的眼泪——基督的怜悯**
+约瑟三次流泪：见到便雅悯时（43:30），听到兄弟们认罪时（42:24），相认时（45:2）。这眼泪不是软弱，而是爱。
+
+路加福音19:41："耶稣快到耶路撒冷，看见城，就为它哀哭。"约翰福音11:35："耶稣哭了。"基督为耶路撒冷哭，为拉撒路哭，为失丧的灵魂哭。约瑟的眼泪预表基督的怜悯——他不是冷酷的审判者，而是充满怜悯的救主。
+
+希伯来书4:15："因我们的大祭司并非不能体恤我们的软弱，他也曾凡事受过试探，与我们一样，只是他没有犯罪。"约瑟经历过被出卖的痛苦，所以能体恤兄弟们的软弱；基督经历过人间的一切试探和苦难，所以能体恤我们的软弱。
+
+**雅各的复活——罪人的重生**
+雅各听见约瑟还活着，心就"苏醒"（revived，复活）。这预表罪人听见福音时的属灵复活。
+
+以弗所书2:5:"当我们死在过犯中的时候，便叫我们与基督一同活过来。"罪人原本在罪中死了，听见福音，心灵就苏醒过来。
+
+雅各说："我的儿子约瑟还在，趁我未死以先，我要去见他一面。"这是每个得救之人的心声：我的救主活着！我要去见他！约伯记19:25-26："我知道我的救赎主活着，末了必站立在地上。我这皮肉灭绝之后，我必在肉体之外得见神。"
+
+这一章让我们看见：被拒绝的救主如今掌权，被以为死了的如今活着。他不是要定我们的罪，而是要救我们；他说"到我这里来"，不是要报复，而是要赦免。这就是福音——死而复活的基督，向罪人发出恩典的邀请。`, christShadow_en: `**"I Am Joseph"—"I Am Jesus"**
+"I am Joseph" is the most shocking declaration of this chapter. That rejected, betrayed, thought-dead Joseph is now alive and in power. This perfectly prefigures Christ's appearing.
+
+Revelation 1:18, the risen Christ said: "I am the First and the Last. I am the Living One; I was dead, and now look, I am alive for ever and ever!" Acts 1:3: "After his suffering, he presented himself to them and gave many convincing proofs that he was alive."
+
+When Christ returns, the Jews will recognize Him. Zechariah 12:10: "They will look on me, the one they have pierced, and they will mourn for him as one mourns for an only child." Just as Joseph's brothers were terrified recognizing him, the Jewish nation will mourn recognizing the Messiah—but that mourning will turn to joy, for they will hear: "Do not be afraid, I am your brother Jesus."
+
+**"Come Close to Me"—Invitation of Grace**
+Joseph saw his brothers terrified and said "Come close to me." Christ likewise calls sinners: "Come to me, all you who are weary and burdened" (Matthew 11:28).
+
+The brothers feared Joseph would take revenge; sinners also fear God's judgment. But Joseph said "Come close," Christ also said "Come to me." Hebrews 4:16: "Let us then approach God's throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need."
+
+Joseph did not want to condemn them but reconcile with them. Christ also came not to condemn the world "but to save the world" (John 3:17). God in Christ extends an invitation to the world: "Be reconciled to God!" (2 Corinthians 5:20)
+
+**"God Sent Me"—Theology of the Cross**
+Joseph said: "It was not you who sent me here, but God." This is the theology of the cross—men crucified Jesus, but this was God's plan.
+
+Acts 4:27-28: "Indeed Herod and Pontius Pilate met together with the Gentiles and the people of Israel in this city to conspire against your holy servant Jesus, whom you anointed. They did what your power and will had decided beforehand should happen." God did not sin; people sinned; but God used human sin to accomplish redemption.
+
+Genesis 50:20 is the clearest expression of this theology: "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives." Joseph was sold to preserve physical life; Christ was crucified to preserve spiritual life. The brothers sold Joseph for twenty shekels of silver; Judas sold Jesus for thirty pieces of silver—but God used this betrayal to accomplish redemption.
+
+**"To Save Lives"—Christ Is Life**
+Joseph was sent "to save lives," "preserve a remnant," bring "great deliverance." Christ came for this also.
+
+John 10:10: "I have come that they may have life, and have it to the full." Joseph preserved Jacob's household's physical life so they would not starve; Christ preserves God's people's spiritual life so they will not perish but have eternal life.
+
+Joseph preserved a remnant so Abraham's descendants could continue; Christ preserves a remnant so God's chosen people will all be saved. Romans 9:27: "Isaiah cries out concerning Israel: 'Though the number of the Israelites be like the sand by the sea, only the remnant will be saved.'"
+
+**Joseph's Tears—Christ's Compassion**
+Joseph wept three times: seeing Benjamin (43:30), hearing his brothers' confession (42:24), at recognition (45:2). These tears are not weakness but love.
+
+Luke 19:41: "As he approached Jerusalem and saw the city, he wept over it." John 11:35: "Jesus wept." Christ wept for Jerusalem, for Lazarus, for lost souls. Joseph's tears prefigure Christ's compassion—He is not a cold judge but a merciful Savior.
+
+Hebrews 4:15: "For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are—yet he did not sin." Joseph experienced the pain of betrayal, so could empathize with his brothers' weakness; Christ experienced all human temptations and sufferings, so can empathize with our weakness.
+
+**Jacob's Revival—Sinner's Rebirth**
+Jacob heard Joseph was alive and his spirit "revived" (came back to life). This prefigures the sinner's spiritual resurrection hearing the gospel.
+
+Ephesians 2:5: "Made us alive with Christ even when we were dead in transgressions." Sinners were originally dead in sin; hearing the gospel, the spirit revives.
+
+Jacob said: "My son Joseph is still alive. I will go and see him before I die." This is every saved person's heart cry: My Savior lives! I will go see Him! Job 19:25-26: "I know that my redeemer lives, and that in the end he will stand on the earth. And after my skin has been destroyed, yet in my flesh I will see God."
+
+This chapter shows us: the rejected Savior now reigns, the thought-dead is now alive. He does not want to condemn us but save us; He says "Come to me," not for revenge but for forgiveness. This is the gospel—the risen Christ extends an invitation of grace to sinners.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 46,
@@ -3551,11 +6647,63 @@ readings.push({
   title: '下到埃及', titleEn: 'Jacob Goes to Egypt',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 46:1 / Genesis 46:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `弟兄姐妹，我是摩西。创世记第四十六章，雅各终于踏上了下埃及的路。这是一个老人一生中最后一次重大的迁徙——带着全家七十人，离开应许之地，前往异邦。
+
+一、别是巴的献祭与神的应许（46:1-7）
+
+"以色列带着一切所有的，起身来到别是巴，就献祭给他父亲以撒的神"（创46:1）。请注意雅各的选择——他没有直奔埃及，而是先到**别是巴**献祭。别是巴是他祖父亚伯拉罕和父亲以撒都住过的地方，是与神立约的圣地。在人生重大转折的时刻，雅各做的第一件事是**寻求神**。
+
+这对雅各来说不容易。他记得祖父亚伯拉罕下埃及时发生的事（创12章），记得神曾对父亲以撒说"你不要下埃及去"（创26:2）。离开应许之地到埃及去，这合神的旨意吗？
+
+"夜间，神在异象中对以色列说：雅各！雅各！他说：我在这里。神说：我是神，就是你父亲的神。你下埃及去不要害怕，因为我必使你在那里成为大族。我要和你同下埃及去，也必定带你上来。约瑟必给你合眼"（创46:2-4）。
+
+**"不要害怕"**——这是神对他子民最常说的话。**"我要和你同下"**——不是你独自去，是神与你同去。**"也必定带你上来"**——你不会永远留在埃及，我会带你的后裔回来。这三句话覆盖了过去的恐惧、现在的同行和未来的归回。
+
+二、雅各全家的名单（46:8-27）
+
+"来到埃及的以色列人名字记在下面"（创46:8）。接下来是一份详细的家谱，列出了雅各所有的儿孙——利亚所生的三十三人，悉帕所生的十六人，拉结所生的十四人，辟拉所生的七人。"凡从雅各而生来到埃及的，共有六十六人。还有约瑟在埃及所生的两个儿子。雅各家来到埃及的共有七十人"（创46:26-27）。
+
+为什么要如此详细地记录名字？因为**每一个名字在神面前都是宝贵的**。这七十个人将在埃及繁衍成一个大族，最终成为以色列民族。每一个名字都是神应许的一部分——"你的后裔必像地上的尘沙那样多"。
+
+三、父子重逢（46:28-34）
+
+"雅各打发犹大先去见约瑟，请派人引路往歌珊去"（创46:28）。注意是**犹大**被差遣为先锋——这个曾经建议把约瑟卖掉的人（创37:26-27），如今成了家庭中受信任的领袖。人是可以被恩典改变的。
+
+"约瑟套车往歌珊去，迎接他父亲以色列，及至见了面，就伏在父亲的颈项上哭了许久"（创46:29）。二十多年的分离，一个父亲以为儿子已死，一个儿子在异邦遭受了多少苦难——这一刻的拥抱胜过千言万语。
+
+"以色列对约瑟说：我既得见你的面，知道你还在，我死也甘心"（创46:30）。一个老人一生的盼望，在这一刻得到了满足。
+
+约瑟嘱咐家人见法老时要说自己是牧羊的。"因为凡牧羊的都被埃及人所厌恶"（创46:34）。这看似不利，但约瑟的智慧在于：正因为埃及人厌恶牧羊人，法老才会把他们安置在歌珊地——一个偏远但肥沃的地方，与埃及社会保持距离。这样以色列人就不会被埃及文化同化，能够保持信仰的纯正。**有时候被世人厌恶，恰恰是神保守你的方式。**`, content_en: `Brothers and sisters, I am Moses. In Genesis chapter forty-six, Jacob finally set out for Egypt. This was the last great migration of an old man's life—taking his entire family of seventy, leaving the promised land for a foreign country.
+
+I. Sacrifice at Beersheba and God's Promise (46:1-7)
+
+"So Israel took his journey with all that he had and came to Beersheba, and offered sacrifices to the God of his father Isaac" (Gen 46:1 ESV). Notice Jacob's choice—he did not rush straight to Egypt but first went to **Beersheba** to offer sacrifices. Beersheba was where both his grandfather Abraham and father Isaac had dwelt, a holy place of covenant. At the pivotal moment of his life, Jacob's first act was to **seek God**.
+
+This was not easy for Jacob. He remembered what happened when Abraham went to Egypt (Gen 12), and how God had told Isaac, "Do not go down to Egypt" (Gen 26:2 ESV). Was leaving the promised land for Egypt in accordance with God's will?
+
+"God spoke to Israel in visions of the night and said, 'Jacob, Jacob.' And he said, 'Here I am.' He said, 'I am God, the God of your father. Do not be afraid to go down to Egypt, for there I will make you into a great nation. I myself will go down with you to Egypt, and I will also bring you up again, and Joseph's hand shall close your eyes'" (Gen 46:2-4 ESV).
+
+**"Do not be afraid"**—the most frequent word God speaks to His people. **"I myself will go down with you"**—you are not going alone; God goes with you. **"I will also bring you up again"**—you will not remain in Egypt forever; I will bring your descendants back. These three statements cover past fear, present companionship, and future return.
+
+II. The List of Jacob's Family (46:8-27)
+
+"Now these are the names of the descendants of Israel, who came into Egypt" (Gen 46:8 ESV). A detailed genealogy follows, listing all of Jacob's sons and grandsons—thirty-three through Leah, sixteen through Zilpah, fourteen through Rachel, seven through Bilhah. "All the persons belonging to Jacob who came into Egypt, who were his own descendants, not including Jacob's sons' wives, were sixty-six persons in all. And the sons of Joseph, who were born to him in Egypt, were two. All the persons of the house of Jacob who came into Egypt were seventy" (Gen 46:26-27 ESV).
+
+Why record names so meticulously? Because **every name is precious before God**. These seventy would multiply in Egypt into a great nation, ultimately becoming the people of Israel. Every name was part of God's promise—"your offspring shall be like the dust of the earth."
+
+III. Father and Son Reunited (46:28-34)
+
+"He had sent Judah ahead of him to Joseph to show the way before him in Goshen" (Gen 46:28 ESV). Notice that **Judah** was sent as the advance party—the very man who once suggested selling Joseph (Gen 37:26-27) had now become the trusted leader of the family. People can be transformed by grace.
+
+"Then Joseph prepared his chariot and went up to meet Israel his father in Goshen. He presented himself to him and fell on his neck and wept on his neck a good while" (Gen 46:29 ESV). Over twenty years of separation; a father who believed his son was dead; a son who had endured so much suffering in a foreign land—this embrace spoke more than a thousand words.
+
+"Israel said to Joseph, 'Now let me die, since I have seen your face and know that you are still alive'" (Gen 46:30 ESV). An old man's lifelong hope was fulfilled in this moment.
+
+Joseph instructed his family to tell Pharaoh they were shepherds. "For every shepherd is an abomination to the Egyptians" (Gen 46:34 ESV). This seemed disadvantageous, but Joseph's wisdom lay precisely here: because Egyptians despised shepherds, Pharaoh would settle them in Goshen—a remote but fertile region, at a distance from Egyptian society. This way Israel would not be assimilated into Egyptian culture and could maintain the purity of their faith. **Sometimes being despised by the world is exactly how God preserves you.**`,
+  historyContext_zh: `创世记46章记载了以色列民族从迦南到埃及的大迁徙，约发生在公元前1876年（根据出埃及记12:40的430年寄居计算）。**别是巴**位于迦南最南端，是前往埃及的最后一站。**歌珊地**（希伯来文גֹּשֶׁן）位于尼罗河三角洲东部，是适合畜牧的肥沃区域，与埃及主要人口中心有一定距离。"七十人"这个数字在圣经中有象征意义——代表完整和充足（参申32:8，七十个邦国）。司提反在使徒行传7:14引用七十五人，可能依据七十士译本包含了更多孙辈。`, historyContext_en: `Genesis 46 records the great migration of the Israelite family from Canaan to Egypt, occurring around 1876 BC (calculated from the 430-year sojourn in Exodus 12:40). **Beersheba**, at the southern edge of Canaan, was the last stop before Egypt. **Goshen** (Hebrew גֹּשֶׁן) was located in the eastern Nile Delta, a fertile region suitable for herding, somewhat removed from Egypt's main population centers. The number "seventy" carries symbolic significance in Scripture—representing completeness and sufficiency (cf. Deut 32:8, seventy nations). Stephen's reference to seventy-five in Acts 7:14 likely follows the Septuagint, which included additional grandsons.`,
+  structure_zh: `全章分为三个部分：**（一）神在别是巴向雅各显现**（46:1-7）——献祭、异象、应许"不要害怕"；**（二）雅各全家名单**（46:8-27）——按四位母亲分组，共七十人；**（三）在歌珊地的重逢**（46:28-34）——犹大先行、约瑟迎接、父子相拥、安排住所。叙事从**神的话语**（应许）开始，经过**名字的记录**（约的延续），以**人的重逢**（恩典的可见果实）结束。`, structure_en: `The chapter divides into three parts: **(1) God appears to Jacob at Beersheba** (46:1-7)—sacrifice, vision, the promise "Do not be afraid"; **(2) The list of Jacob's family** (46:8-27)—grouped by four mothers, seventy in total; **(3) Reunion in Goshen** (46:28-34)—Judah sent ahead, Joseph's welcome, father and son embrace, arranging settlement. The narrative begins with **God's word** (promise), proceeds through **the recording of names** (covenant continuity), and concludes with **human reunion** (the visible fruit of grace).`,
+  theology_zh: `本章的核心神学主题是**神在迁徙中的同在**。雅各离开应许之地前往埃及，看似偏离了神的计划，但神亲口说"我要和你同下埃及去"。这教导我们：**神的同在不受地理限制**。无论你在迦南还是埃及，在顺境还是逆境，神都与你同在。韦敏斯德小要理问答第一问说人的首要目的是"荣耀神并永远以他为乐"——这个目的在任何地方都可以实现。此外，"我必使你在那里成为大族"表明**神有时带领他的子民走一条出人意料的路**来成就他的应许。`, theology_en: `The central theological theme is **God's presence during displacement**. Jacob left the promised land for Egypt, seemingly deviating from God's plan, yet God Himself said, "I myself will go down with you to Egypt." This teaches us: **God's presence is not limited by geography.** Whether in Canaan or Egypt, in prosperity or adversity, God is with you. The Westminster Shorter Catechism Q1 states that man's chief end is "to glorify God and to enjoy him forever"—a purpose achievable anywhere. Furthermore, "I will make you into a great nation there" shows that **God sometimes leads His people on unexpected paths to fulfill His promises**.`,
+  christShadow_zh: `本章的基督预表体现在几个层面：**第一**，约瑟迎接父亲的画面预表了基督迎接他的子民进入天家——约瑟先去预备了地方（歌珊），正如主耶稣说"我去原是为你们预备地方去"（约14:2）。**第二**，七十人下埃及，日后将成为大族出埃及——这个"下降后上升"的模式，预表了基督的降卑与升高（腓2:6-11）。**第三**，犹大被差遣为先锋引路，预表犹大支派将引领以色列，直到那位终极的引路者——犹大的狮子基督——来到。`, christShadow_en: `Christological typology appears on several levels: **First**, Joseph welcoming his father pictures Christ receiving His people into the heavenly home—Joseph went ahead to prepare a place (Goshen), just as Jesus said, "I go to prepare a place for you" (John 14:2 ESV). **Second**, seventy people descended to Egypt and would later become a great nation that ascended out of Egypt—this pattern of descent followed by ascent prefigures Christ's humiliation and exaltation (Phil 2:6-11). **Third**, Judah was sent ahead as a pathfinder, foreshadowing how the tribe of Judah would lead Israel until the ultimate Pathfinder—the Lion of Judah, Christ—arrives.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 47,
@@ -3563,11 +6711,59 @@ readings.push({
   title: '在歌珊地', titleEn: 'In the Land of Goshen',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 47:1 / Genesis 47:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `弟兄姐妹，我是摩西。创世记第四十七章，以色列人在埃及安家落户，约瑟治理饥荒的智慧也在这里完全展现。这一章的中心是两个对话：一个老人和最强大的君王之间的相遇，以及一个弥留之际的父亲对儿子的嘱托。
+
+一、雅各觐见法老（47:1-12）
+
+约瑟选了五位兄弟去见法老。法老问他们是做什么的，他们说是牧羊人，请求住在歌珊地。法老准了。然后，"约瑟领他父亲雅各进去，把他介绍给法老，雅各就给法老祝福"（创47:7）。
+
+注意这个细节——**雅各给法老祝福，不是法老给雅各祝福**。在世人眼中，法老是最有权势的人，雅各不过是一个外来的老牧羊人。但在神的国度秩序中，**大的服事小的**——掌管天地约定的人，地位高于统治埃及的法老。希伯来书后来说："那无可争议的是，尊大的给那卑小的祝福"（来7:7）。
+
+法老问雅各多大年纪。"雅各对法老说：我寄居在世的年日是一百三十岁，我平生的年日又少又苦，不及我列祖在世寄居的年日"（创47:9）。这是一个饱经风霜的老人的真实告白。他的一生：逃亡、被骗、失去最爱的妻子拉结、痛失爱子约瑟（他以为）二十年。"又少又苦"——这不是怨言，这是实情。然而正是这个经历了"又少又苦"的人，身上带着神永恒的应许。
+
+二、约瑟的饥荒管理（47:13-26）
+
+饥荒极其严重。约瑟的政策有三个阶段：第一阶段，埃及人和迦南人用钱买粮，钱用尽了。第二阶段，用牲畜换粮。第三阶段，"除了我们的身体和土地之外，我们在我主眼前已经没有什么了……法老的仆人，连我们的土地也买了罢"（创47:18-19）——人民卖了自己和土地。法老由此获得了全埃及的土地和劳动力，只有祭司的地没有买。
+
+这段政策有人批评，有人辩护。但从叙事的角度看，重点不在于政策对错，而在于：**神使约瑟所在之处的人都得活命**。约瑟对人民说："看哪，我今日买了你们和你们的地归法老……那地的出产，你们要拿五分之一给法老"（创47:23）。二十分之一——这在古代算是很轻的税率。人民回答："你救了我们的性命"（创47:25）。拯救者让被拯救的人甘愿服事——这个模式我们在哪里见过？
+
+三、雅各的临终嘱托（47:27-31）
+
+"以色列人住在埃及的歌珊地，他们在那里置了产业，并且生育甚多"（创47:27）。这应验了神对亚伯拉罕说的"我必使你的后裔如天上的星那样多"的应许——在埃及！神的应许不是只在顺境中成就，也在异乡成就。
+
+雅各活了一百四十七岁，临死前把约瑟叫来，说："我若在你眼前蒙恩，请你把手放在我大腿底下，用慈爱和诚实待我，不要将我葬在埃及。我与我祖我父同睡的时候，你要将我带出埃及，葬在他们所葬的地方"（创47:29-30）。
+
+这个请求意味深长。雅各不想长眠在埃及——那个赐粮食和生命的地方——他要葬在**迦南**，那应许之地。"把手放在我大腿底下"是最郑重的誓约形式（同见创24:2），亚伯拉罕曾这样要求仆人。雅各在弥留之际，信仰之眼仍然看向应许之地。**信心最后的动作，是抓住神的应许不放手。**
+
+"约瑟说：我必照你的话行。雅各说：你要向我起誓。约瑟就向他起了誓。以色列在床头上敬拜神"（创47:31）。这老人在弥留之际，得了儿子的誓言，在床头向神敬拜。他的灵魂安息了。`, content_en: `Brothers and sisters, I am Moses. In Genesis chapter forty-seven, Israel settled in Egypt, and Joseph's wisdom in managing the famine was fully displayed. The heart of this chapter is two conversations: an encounter between an old man and the world's most powerful king, and a dying father's charge to his son.
+
+I. Jacob Meets Pharaoh (47:1-12)
+
+Joseph selected five brothers to present to Pharaoh. Pharaoh asked what they did; they said they were shepherds and asked to settle in Goshen. Pharaoh agreed. Then, "Joseph brought in Jacob his father and stood him before Pharaoh, and Jacob blessed Pharaoh" (Gen 47:7 ESV).
+
+Notice this detail—**Jacob blessed Pharaoh, not Pharaoh blessing Jacob**. In human eyes, Pharaoh was the most powerful person alive, and Jacob merely an aging foreign shepherd. But in God's kingdom order, **the greater serves the lesser**—the one who carries God's covenant stands higher than the ruler of Egypt. Hebrews later says: "It is beyond dispute that the inferior is blessed by the superior" (Heb 7:7 ESV).
+
+Pharaoh asked Jacob his age. "Jacob said to Pharaoh, 'The days of the years of my sojourning are 130 years. Few and evil have been the days of the years of my life, and they have not attained to the days of the years of the life of my fathers in the days of their sojourning'" (Gen 47:9 ESV). This was the honest confession of a man weathered by life. His years included flight, deception, losing his beloved Rachel, and the twenty-year grief of believing Joseph dead. "Few and evil"—not a complaint, but the truth. Yet this man who experienced "few and evil" days carried upon him God's eternal promise.
+
+II. Joseph's Famine Administration (47:13-26)
+
+The famine was severe. Joseph's policy unfolded in three phases: First, Egyptians and Canaanites bought food with money until the money was gone. Second, they exchanged livestock for food. Third: "There is nothing left in the sight of my lord but our bodies and our land... Buy us and our land for food" (Gen 47:18-19 ESV)—the people sold themselves and their land. Pharaoh thus obtained all Egypt's land and labor; only the priests' land was exempt.
+
+This policy has been both criticized and defended. But from the narrative's perspective, the point is not policy ethics but this: **God caused all people to survive through Joseph**. Joseph told the people: "Behold, I have this day bought you and your land for Pharaoh... and you shall give a fifth to Pharaoh" (Gen 47:23 ESV). One-fifth—by ancient standards, a relatively light tax. The people replied: "You have saved our lives" (Gen 47:25 ESV). The deliverer moved the delivered to willing service—where have we seen this pattern before?
+
+III. Jacob's Deathbed Request (47:27-31)
+
+"Thus Israel settled in the land of Egypt, in the land of Goshen. And they gained possessions in it, and were fruitful and multiplied greatly" (Gen 47:27 ESV). This fulfilled God's promise to Abraham that his offspring would be as the stars—and it happened in Egypt! God's promises are fulfilled not only in favorable circumstances but also in foreign lands.
+
+Jacob lived to be 147. Near death, he called Joseph and said: "If I have found favor in your sight, put your hand under my thigh and promise to deal kindly and truly with me. Do not bury me in Egypt, but let me lie with my fathers. Carry me out of Egypt and bury me in their burying place" (Gen 47:29-30 ESV).
+
+This request was profound. Jacob did not want to rest in Egypt—the land of grain and life—but in **Canaan**, the promised land. Placing the hand under the thigh was the most solemn form of oath (cf. Gen 24:2); Abraham had required it of his servant. Even at death's door, Jacob's eyes of faith were fixed on the promised land. **Faith's final act is to hold fast to God's promise.**
+
+"Joseph answered, 'I will do as you have said.' And he said, 'Swear to me'; and he swore to him. Then Israel bowed himself upon the head of his bed" (Gen 47:31 ESV). This old man, at death's door, received his son's oath, and worshipped God from his bed. His soul found rest.`,
+  historyContext_zh: `创世记47章描述的约瑟土地改革是古代埃及史上的重大政治事件。历史学家在古埃及文献中发现了关于法老大规模土地兼并的记载，与本章描述吻合。**歌珊地**让以色列人保持了相对的独立性。"雅各一百四十七岁"——他是族长中寿命第三长的（亚伯拉罕175，以撒180，雅各147）。"把手放在大腿底下"起誓的习俗见于创24:2，是古代近东最具约束力的誓约形式，可能与后代传承的象征有关。`, historyContext_en: `The land reform Joseph implemented in Genesis 47 was a major political event in ancient Egyptian history. Historians have found references in Egyptian texts to large-scale royal land consolidation matching this chapter's description. **Goshen** preserved Israel's relative independence. "Jacob at 147 years"—he was the third-longest-lived patriarch (Abraham 175, Isaac 180, Jacob 147). The custom of swearing "with hand under thigh" (Gen 24:2) was the most binding oath form in the ancient Near East, likely symbolically connected to descendants and legacy.`,
+  structure_zh: `本章分为三段：**（一）雅各觐见法老，安置于歌珊**（47:1-12）——重点是"雅各给法老祝福"；**（二）约瑟的饥荒管理政策**（47:13-26）——土地改革的三阶段；**（三）雅各临终嘱托——不要葬在埃及**（47:27-31）。章节的张力在于：以色列在埃及极其兴旺（"生育甚多"），但雅各临死的心却朝向迦南。**繁荣之中仍然怀抱应许**，这是信心的特质。`, structure_en: `The chapter divides into three sections: **(1) Jacob meets Pharaoh and is settled in Goshen** (47:1-12)—the key moment is "Jacob blessed Pharaoh"; **(2) Joseph's famine management policy** (47:13-26)—the three phases of land reform; **(3) Jacob's deathbed charge: do not bury me in Egypt** (47:27-31). The chapter's tension lies in this: Israel flourished greatly in Egypt ("multiplied greatly"), yet Jacob's dying heart turned toward Canaan. **Holding fast to the promise amid prosperity**—this is faith's character.`,
+  theology_zh: `本章的神学要点有两个：**第一，寄居神学**——雅各对法老说"寄居在世"，这个"寄居"（希伯来文מְגוּרִים, megurim）贯穿族长历史。他们在迦南是寄居的，在埃及是寄居的，整个地上的生命都是寄居的。希伯来书说他们"承认自己在地上是客旅、是寄居者"（来11:13）。**第二，信心的朝向**——雅各弥留之际最后的吩咐是"葬在迦南"。信心不只是活的时候的信仰，更是**死的时候的方向**。你死的时候，你的心看向哪里？雅各的心看向应许之地；信徒的心应当看向天上的家乡（来11:16）。`, theology_en: `Two theological points are central: **First, the theology of sojourning**—Jacob told Pharaoh he was "sojourning," and this word (Hebrew מְגוּרִים, megurim) runs throughout patriarchal history. They sojourned in Canaan; they sojourned in Egypt; all of earthly life is sojourning. Hebrews says they "acknowledged that they were strangers and exiles on the earth" (Heb 11:13 ESV). **Second, the direction of faith**—Jacob's final request at death's door was to be buried in Canaan. Faith is not only belief during life; it is also the **direction at death**. When you die, where is your heart looking? Jacob's heart looked toward the promised land; the believer's heart should look toward the heavenly homeland (Heb 11:16).`,
+  christShadow_zh: `本章有两处基督预表：**第一**，雅各给法老祝福，以小的给大的祝福，这与麦基洗德给亚伯拉罕祝福的模式相同（来7:6-7），都预表了基督这位天上的大祭司，以他的名祝福万民。**第二**，约瑟拯救了埃及人的性命，被人称为"你救了我们的性命"——这正是基督救赎的写照。约瑟要求的代价是五分之一，而基督的拯救是全然的恩典，没有代价。更伟大的约瑟来了，他不收我们的土地和牲畜，只求我们把自己的心交给他。`, christShadow_en: `Two Christological types appear: **First**, Jacob blessing Pharaoh—the lesser blessing the greater—follows the same pattern as Melchizedek blessing Abraham (Heb 7:6-7), both prefiguring Christ the heavenly High Priest who blesses all nations in His name. **Second**, Joseph saved the Egyptians' lives and was called "You have saved our lives"—this is a portrait of Christ's redemption. Joseph required one-fifth as payment; Christ's salvation is entirely by grace, without cost. The greater Joseph has come—He does not take our land or livestock; He only asks that we give Him our hearts.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 48,
@@ -3575,11 +6771,63 @@ readings.push({
   title: '祝福以法莲', titleEn: 'Blessing Ephraim and Manasseh',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 48:1 / Genesis 48:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `弟兄姐妹，我是摩西。创世记第四十八章，是一个父亲临终前最后的属灵行动——雅各把约瑟的两个儿子收为己子，并用**交叉的双手**给他们祝福。在这个简单的动作里，隐藏着神国度的颠覆性逻辑。
+
+一、雅各收以法莲和玛拿西为己子（48:1-7）
+
+约瑟听说父亲病重，就带着两个儿子以法莲和玛拿西去见他。以法莲和玛拿西生在埃及，母亲是埃及祭司的女儿，从人的眼光看，他们是半个埃及人。
+
+雅各把他们收为己子，说："我未到你这里来在埃及地所生的以法莲和玛拿西，这两个儿子都是我的，正如流便和西缅是我的一样"（创48:5）。这是一个重大的宣告——两个在埃及出生的孩子，被算作以色列的儿子，将来各自拥有自己的一份地业。这就是为什么以色列后来有**十二支派加两个**（算利未支派不分地，以法莲和玛拿西各一份）的原因。约瑟的双份产业，正是长子的权分——实际上，雅各把以扫出卖、雅各骗取的长子双份，传给了约瑟。
+
+雅各在祝福前，回忆了神当年对他的应许："全能的神在迦南地路斯向我显现，赐福给我"（创48:3）。他还提到了拉结——"我从巴旦来，在迦南地，离以法他还有一段路，拉结死了，使我甚是忧伤；我就把她葬在以法他的路旁，以法他就是伯利恒"（创48:7）。一个老人弥留之际，拉结仍然在他心上。
+
+二、交叉的双手（48:8-20）
+
+以色列的眼睛因年老昏花，不能看见。约瑟把两个儿子带近父亲：**玛拿西（长子）在右边对以色列的左手**，**以法莲（次子）在左边对以色列的右手**。按照惯例，右手放在长子头上，左手放在次子头上。
+
+但是——"以色列伸出右手来，按在以法莲的头上〈以法莲乃是次子〉，又剪搭过左手来，按在玛拿西的头上"（创48:14）。雅各**故意交叉了双手**！
+
+约瑟不高兴了，要去把父亲的右手从以法莲头上挪过来。"父亲不肯，说：我知道，我儿，我知道了。他也必成为一族，也必昌大；只是他的弟弟将来必大过他，他弟弟的后裔将来必成多国"（创48:19）。
+
+**"我知道，我儿，我知道了。"** 这五个字震撼人心。眼睛昏花的老人，灵眼却是清明的。他不是搞错了，他是**故意**的。这是圣灵所默示的祝福，不是人的安排可以更改的。
+
+以法莲后来确实成为北国以色列最强大的支派，"以法莲"甚至成为北国以色列的别称。玛拿西的后裔也昌大，但始终不及以法莲。神的拣选，再一次翻转了人的长幼秩序。
+
+三、雅各的最后祝福（48:21-22）
+
+"以色列对约瑟说：我死了以后，神必与你们同在，领你们归回你们列祖之地"（创48:21）。这是雅各临终的信仰宣告——不是"如果神愿意"，而是"神**必**与你们同在"。信心说话是确定的。雅各一生跌跌撞撞，但在死的时候，他的信仰是坚定的。
+
+"我从前用我的弓和刀，从亚摩利人手里夺了一块地"——这是指以剑和弓得来的地，作为约瑟的额外产业。`, content_en: `Brothers and sisters, I am Moses. Genesis chapter forty-eight records a dying father's final spiritual act—Jacob claiming Joseph's two sons as his own and blessing them with **crossed hands**. In this simple gesture lies the subversive logic of God's kingdom.
+
+I. Jacob Claims Ephraim and Manasseh as His Own Sons (48:1-7)
+
+Joseph heard his father was ill and brought his two sons Ephraim and Manasseh to see him. Ephraim and Manasseh were born in Egypt; their mother was the daughter of an Egyptian priest. From a human perspective, they were half Egyptian.
+
+Jacob claimed them as his own sons: "And now your two sons, who were born to you in the land of Egypt before I came to you in Egypt, are mine; Ephraim and Manasseh shall be mine, as Reuben and Simeon are" (Gen 48:5 ESV). This was a momentous declaration—two children born in Egypt were counted as sons of Israel, each to receive his own inheritance. This is why Israel later had **twelve tribes plus two** (with Levi receiving no land allotment, but Ephraim and Manasseh each receiving a portion). Joseph's double portion was the birthright—in effect, Jacob passed on to Joseph the double portion that Esau had despised and Jacob had once stolen.
+
+Before blessing them, Jacob recalled God's promise to him: "God Almighty appeared to me at Luz in the land of Canaan and blessed me" (Gen 48:3 ESV). He also mentioned Rachel: "As for me, when I came from Paddan, to my sorrow Rachel died in the land of Canaan on the way, when there was still some distance to go to Ephrath, and I buried her there on the way to Ephrath (that is, Bethlehem)" (Gen 48:7 ESV). Even at death's door, Rachel was still on this old man's heart.
+
+II. The Crossed Hands (48:8-20)
+
+Israel's eyes were dim with age. Joseph brought the two sons near: **Manasseh (the firstborn) toward Israel's left hand** and **Ephraim (the younger) toward Israel's right hand**. By convention, the right hand should rest on the firstborn's head.
+
+But—"Israel stretched out his right hand and laid it on the head of Ephraim, who was the younger, and his left hand on the head of Manasseh, **crossing his hands**" (Gen 48:14 ESV). Jacob **deliberately crossed his hands!**
+
+Joseph was displeased and tried to move his father's right hand from Ephraim's head. "But his father refused and said, 'I know, my son, I know. He also shall become a people, and he also shall be great. Nevertheless, his younger brother shall be greater than he, and his offspring shall become a multitude of nations'" (Gen 48:19 ESV).
+
+**"I know, my son, I know."** These words are electrifying. The old man with dim physical eyes had clear spiritual sight. He had not made a mistake—this was **intentional**. This was a Spirit-inspired blessing that no human rearrangement could alter.
+
+Ephraim did indeed become the most powerful tribe in the northern kingdom of Israel; "Ephraim" became a byname for the entire northern kingdom. Manasseh's descendants also flourished but never surpassed Ephraim. God's election once again overturned the human order of firstborn and younger.
+
+III. Jacob's Final Words (48:21-22)
+
+"Then Israel said to Joseph, 'Behold, I am about to die, but God will be with you and will bring you again to the land of your fathers'" (Gen 48:21 ESV). This was Jacob's dying declaration of faith—not "if God is willing," but "God **will** be with you." Faith speaks with certainty. Jacob's life had been full of stumbles, but at death his faith was firm.
+
+"I have given to you rather than to your brothers one mountain slope that I took from the hand of the Amorites with my sword and with my bow"—land taken by sword and bow, given to Joseph as an additional inheritance.`,
+  historyContext_zh: `创世记48章的场景是雅各临终前的最后行动。**玛拿西和以法莲**成为以色列两个重要的支派，在出埃及后各自分得迦南地的产业（约书亚记16-17章）。以法莲支派的领地在约旦河西岸中部，包含了示剑这个重要城市；玛拿西支派的领地在约旦河两岸都有。**"多国的群"**（创48:19）可能预指约瑟后裔在以色列历史中的分量——约书亚是以法莲人，撒母耳是玛拿西人，北国以色列的大多数君王来自这两支派。`, historyContext_en: `Genesis 48 records Jacob's final actions before death. **Manasseh and Ephraim** became two important tribes of Israel, each receiving their own inheritance in Canaan after the Exodus (Joshua 16-17). Ephraim's territory occupied the central Jordan River west bank, including the important city of Shechem; Manasseh's territory spanned both sides of the Jordan. The phrase **"a multitude of nations"** (Gen 48:19 ESV) may foreshadow the prominence of Joseph's descendants in Israel's history—Joshua was from Ephraim, Samuel from Manasseh, and most kings of the northern kingdom came from these two tribes.`,
+  structure_zh: `全章分为三段：**（一）雅各病重，约瑟带两子来，雅各收为己子**（48:1-7）——神学关键词：收养、传承；**（二）交叉双手的祝福**（48:8-20）——次子得长子的右手祝福，历史再现"大的服事小的"主题；**（三）最后的信仰宣言和赠地**（48:21-22）——"神必与你们同在"。全章的叙事高潮是那双**刻意交叉的手**——一位将死的老人，凭着信心，违背了世俗的长幼秩序。`, structure_en: `The chapter divides into three sections: **(1) Jacob's illness; Joseph brings two sons; Jacob claims them as his own** (48:1-7)—key theological words: adoption, inheritance; **(2) The blessing with crossed hands** (48:8-20)—the younger receives the right-hand blessing of the firstborn, replaying the theme of "the older shall serve the younger"; **(3) Final declaration of faith and land gift** (48:21-22)—"God will be with you." The narrative climax is those **deliberately crossed hands**—a dying old man, by faith, defying the secular order of firstborn and younger.`,
+  theology_zh: `本章的中心神学主题是**拣选的主权**。雅各交叉双手，将长子的祝福给了次子，这不是偶然，而是圣灵的引导。这呼应了创世记的核心主题：**神拣选的标准不是长幼，不是功德，而是他自己主权的旨意**。以实玛利和以撒、以扫和雅各、玛拿西和以法莲——每一次，神都选择了人所不期待的那一个。韦敏斯德信条第三章："神拣选的旨意不基于被拣选者预见的信心或善行，乃纯粹出于神的主权恩典和慈爱。"收养的主题也是神学的：雅各收以法莲和玛拿西为己子，预表信徒在基督里被神**收养为儿女**（罗8:15, 加4:5）。`, theology_en: `The central theological theme is **the sovereignty of election**. Jacob crossing his hands to give the firstborn's blessing to the younger was not accidental but Spirit-directed. This echoes Genesis's core theme: **God's election is not determined by birth order or merit, but by His own sovereign will**. Ishmael and Isaac, Esau and Jacob, Manasseh and Ephraim—each time, God chose the one humanity did not expect. The Westminster Confession (ch. 3) states election is not based on "foreseen faith or good works" but purely on "God's sovereign grace and love." The theme of adoption is also theological: Jacob claiming Ephraim and Manasseh as his own foreshadows believers being **adopted as children of God** in Christ (Rom 8:15, Gal 4:5 ESV).`,
+  christShadow_zh: `本章的基督预表极其清晰：**交叉的双手**预表了基督十字架。右手得祝福的以法莲（次子）和左手得祝福的玛拿西（长子），以这种"交叉"的方式得到了不同的祝福——这与十字架上两侧的悔改罪犯和不悔改罪犯的结局何等相似！更深层地，**约瑟的两个儿子**都得到了祝福，就如同十字架不只成就了一个群体的拯救，而是成就了完整的救赎计划。雅各临终的手，以"十字"的形状施祝福——这是摩西时代之前，神就在创世记中预埋的符号，指向那将要来的十字架。`, christShadow_en: `The Christological typology is vivid: **the crossed hands** foreshadow the cross of Christ. Ephraim (the younger) receiving the right-hand blessing and Manasseh (the elder) receiving the left-hand blessing through this "crossing"—how similar to the two criminals crucified on either side of Christ, one repentant and one not! More deeply, **both of Joseph's sons** received blessings, just as the cross accomplished not a partial but a complete plan of redemption. Jacob's dying hands, forming the shape of a cross in their blessing—this was a sign embedded in Genesis before the time of Moses, pointing forward to the cross that was to come.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 49,
@@ -3587,11 +6835,63 @@ readings.push({
   title: '雅各的遗言', titleEn: 'Jacob\'s Last Words',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 49:1 / Genesis 49:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `弟兄姐妹，我是摩西。创世记第四十九章是整卷创世记最庄严的时刻之一——一个父亲在临终前，将儿子们一一叫到身边，对每个人说出神所启示的话语。这不只是父亲的临别遗言，这是**先知性的祝福**，跨越数百年，预言了十二支派各自的命运。
+
+一、各支派的预言（49:1-28）
+
+雅各叫来所有儿子，说："你们都来聚集，我要将日后必遇你们的事告诉你们"（创49:1）。让我们聚焦其中几个最关键的段落：
+
+**流便**（49:3-4）——长子，却失去了长子的优先权。"你虽有长子的尊分……你不要在众弟兄中居首，因为你污秽了你父亲的床"（创49:3-4）。流便曾与父亲的妾辟拿同寝（创35:22），这个罪最终剥夺了他长子的地位。长子的头衔是荣耀，但不带来责任的地位迟早会失去。
+
+**西缅和利未**（49:5-7）——因屠杀示剑人，被分散在以色列中。"愿我的心不与他们同谋……他们的怒气，因为太过，当受诅咒"（创49:6-7）。然而神把咒诅变成了祝福——利未后来成为没有地业的祭司支派，分散在各城，这个"分散"成了他们侍奉全会众的方式。
+
+**犹大**（49:8-12）——这是这段预言的高峰！"犹大啊，你弟兄们必赞美你……你父亲的儿子们必向你跪拜……**圭必不离犹大，杖必不离他两脚之间，直等细罗（就是赐平安者）来到，万民都必归顺**"（创49:8-10）。
+
+弟兄姐妹，这句"圭必不离犹大"是整个旧约中最明确的弥赛亚预言之一！"细罗"（希伯来文שִׁילֹה, Shiloh）学者有不同解释，但最普遍的理解是"那赐平安者"或"那位权柄归属之人"，指向大卫的子孙——基督耶稣。犹大是什么样的人？他曾建议把约瑟卖掉，曾与儿媳他玛私通。然而神在他身上放了弥赛亚的应许——不是因为他配得，而是因为**神的主权拣选**。
+
+"他把驴拴在葡萄树上……他用葡萄酒洗衣服，用葡萄汁洗袍子"（创49:11）——这段充满丰收意象的描述，预告了弥赛亚时代的丰盛。约翰福音2章，主耶稣第一个神迹就是把水变成了葡萄酒。
+
+**以法莲和玛拿西**（即约瑟）（49:22-26）——"约瑟是多结果子的树枝，是泉旁多结果子的树枝，他的枝条探出墙外"（创49:22）。约瑟一生历经苦难却始终结果——这是信心在逆境中的写照。"全能者要将天上所降的福……赐给你"（创49:25）。约瑟的祝福是族长中最丰盛的。
+
+**便雅悯**（49:27）——"便雅悯是个撕掠的狼"——这是一个战斗性支派的预告，扫罗王和使徒保罗都来自便雅悯。
+
+二、雅各的安葬遗嘱（49:29-33）
+
+"以色列嘱咐他们说，我将要归到我列祖那里，你们要将我葬在赫人以弗仑田间的洞里，就是在迦南地麦比拉田间的那洞"（创49:29-30）。然后雅各列出了已经葬在那里的人：亚伯拉罕和撒拉、以撒和利百加、利亚——注意，不是拉结！拉结葬在伯利恒路旁（创35:19）。利亚"不被爱"的一生，却和丈夫同葬在族长的墓地。
+
+"雅各嘱咐众子已毕，就把脚收在床上，气绝而死，归到他列祖那里了"（创49:33）。"气绝而死"——原文直译是"他收了脚，断了气"，简洁而庄严。一个充满跌宕的人生，在应许与信心中落幕。
+
+弟兄姐妹，当你读这章，看见十二个各不相同的儿子——有失败的、有犯罪的、有忠心的——神在每一个人身上都有他的旨意。神的救赎计划不依赖完美的人，而依赖**完美的神**。`, content_en: `Brothers and sisters, I am Moses. Genesis chapter forty-nine is one of the most solemn moments in the entire book—a dying father calling his sons one by one to his bedside, speaking God-revealed words over each one. These were not merely a father's parting words; they were **prophetic blessings** spanning centuries, foretelling the destiny of each of the twelve tribes.
+
+I. The Prophecies for Each Tribe (49:1-28)
+
+Jacob called all his sons: "Gather yourselves together, that I may tell you what shall happen to you in days to come" (Gen 49:1 ESV). Let us focus on several key passages:
+
+**Reuben** (49:3-4)—the firstborn who lost his preeminence. "You are my firstborn, my might... you shall not have preeminence, because you went up to your father's bed" (Gen 49:3-4 ESV). Reuben had slept with his father's concubine Bilhah (Gen 35:22), and this sin ultimately cost him his firstborn status. The firstborn title carries honor, but a position without responsibility will eventually be lost.
+
+**Simeon and Levi** (49:5-7)—for massacring the Shechemites, they were scattered throughout Israel. "Let my soul come not into their council... their anger, for it was fierce, and their wrath, for it was cruel—cursed be their anger" (Gen 49:6-7 ESV). Yet God turned the curse into blessing—Levi became the priestly tribe with no land inheritance, scattered throughout the cities, and their "scattering" became the means of serving the entire congregation.
+
+**Judah** (49:8-12)—the pinnacle of this prophecy! "Judah, your brothers shall praise you... your father's sons shall bow down before you... **The scepter shall not depart from Judah, nor the ruler's staff from between his feet, until tribute comes to him; and to him shall be the obedience of the peoples**" (Gen 49:8-10 ESV).
+
+Brothers and sisters, "the scepter shall not depart from Judah" is one of the clearest messianic prophecies in the entire Old Testament! "Shiloh" (Hebrew שִׁילֹה) is variously interpreted, but the most common understanding is "the one to whom it belongs" or "the peace-giver," pointing to the descendant of David—Jesus Christ. What kind of man was Judah? He once suggested selling Joseph, and he lay with his daughter-in-law Tamar. Yet God placed the Messianic promise upon him—not because he deserved it, but because of **God's sovereign election**.
+
+"Binding his foal to the vine... He washes his garments in wine and his vesture in the blood of grapes" (Gen 49:11 ESV)—this passage filled with harvest imagery foreshadows the abundance of the Messianic age. In John 2, the Lord Jesus' very first miracle was turning water into wine.
+
+**Ephraim and Manasseh (i.e., Joseph)** (49:22-26)—"Joseph is a fruitful bough, a fruitful bough by a spring; his branches run over the wall" (Gen 49:22 ESV). Joseph's life was marked by suffering yet continual fruitfulness—a portrait of faith bearing fruit in adversity. "The blessings of heaven above... may they come upon the head of Joseph" (Gen 49:25-26 ESV). Joseph received the richest blessing among the patriarchal descendants.
+
+**Benjamin** (49:27)—"Benjamin is a ravenous wolf"—a prophetic word about a fierce, warrior-like tribe. Both King Saul and the Apostle Paul came from Benjamin.
+
+II. Jacob's Burial Instructions (49:29-33)
+
+"Then he commanded them and said to them, 'I am to be gathered to my people; bury me with my fathers in the cave that is in the field of Ephron the Hittite, in the cave that is in the field at Machpelah, to the east of Mamre, in the land of Canaan'" (Gen 49:29-30 ESV). He listed those already buried there: Abraham and Sarah, Isaac and Rebekah, and Leah—notice, not Rachel! Rachel was buried by the road to Bethlehem (Gen 35:19). The "unloved" Leah, in death, shared the patriarchal burial place with her husband.
+
+"When Jacob finished commanding his sons, he drew up his feet into the bed and breathed his last and was gathered to his people" (Gen 49:33 ESV). Simple and solemn. A life full of turns and struggles closed in promise and faith.
+
+Brothers and sisters, as you read this chapter and see twelve sons—each different, some failed, some sinned, some faithful—God had His purpose in every one. God's redemptive plan does not depend on perfect people, but on a **perfect God**.`,
+  historyContext_zh: `创世记49章是圣经中最古老的诗歌文学之一，具有典型的古希伯来诗歌特征。雅各的临终祝福在古代近东传统中具有法律约束力——这些预言不仅是期待，更是宣告性的话语，影响后代命运。**十二支派预言的实现**贯穿整个旧约：犹大支派产生了大卫王和最终的弥赛亚；利未支派成为祭司；流便支派在历史上从未产生重要的领袖（申33章摩西的祝福中连流便都几乎被省略）；西缅支派后来被并入犹大支派（书19:9）。`, historyContext_en: `Genesis 49 is among the oldest poetic literature in Scripture, exhibiting characteristics of ancient Hebrew poetry. Jacob's deathbed blessing carried legal force in ancient Near Eastern tradition—these prophecies were not merely hopes but declaratory words affecting descendants' destinies. **The fulfillment of the twelve-tribe prophecies** runs throughout the Old Testament: the tribe of Judah produced King David and ultimately the Messiah; Levi became the priestly tribe; Reuben never produced a significant leader (in Moses' blessings in Deut 33, Reuben is nearly omitted); Simeon was later absorbed into the tribe of Judah (Josh 19:9).`,
+  structure_zh: `本章可分为三大部分：**（一）对十二个儿子的预言**（49:1-27），按照出生顺序和母亲分组，每段预言长度不等——利亚所生的前四子（流便、西缅、利未、犹大）占了最大篇幅，**犹大的预言**最为突出；**（二）对所有儿子的总结**（49:28）——"这些都是以色列的十二个支派"；**（三）安葬遗嘱与雅各的死**（49:29-33）——回到麦比拉洞，归入列祖。全章形成了一个历史性的闭合：族长时代在此正式结束，先知性的未来在此正式开启。`, structure_en: `The chapter divides into three major sections: **(1) Prophecies for all twelve sons** (49:1-27), ordered by birth sequence and mother—the first four sons of Leah (Reuben, Simeon, Levi, Judah) receive the most space, and **Judah's prophecy** is the most prominent; **(2) Summary for all sons** (49:28)—"All these are the twelve tribes of Israel"; **(3) Burial instructions and Jacob's death** (49:29-33)—return to Machpelah, gathered to his fathers. The chapter forms a historical closure: the patriarchal era formally ends here; the prophetic future formally begins.`,
+  theology_zh: `本章核心神学是**预定与末世**。雅各所宣告的不是人的期望，而是神预先所定的命运——"我要将日后必遇你们的事告诉你们"（创49:1）。韦敏斯德信条第三章论神的预旨："神从永远，按照他至圣至智的旨意，自由不变地预定了将来所要发生的一切。"犹大的预言——"圭必不离犹大……直等细罗来到"——是救赎历史的终极锚点，贯穿整个旧约，直到新约的实现。人类历史不是随机的，而是在神预定的轨道上运行，朝向那一位"万民都必归顺"的弥赛亚。`, theology_en: `The central theology is **predestination and eschatology**. Jacob did not declare human hopes but divinely foreordained destinies—"I will tell you what shall happen to you in days to come" (Gen 49:1 ESV). The Westminster Confession (ch. 3) states: "God from all eternity did... freely and unchangeably ordain whatsoever comes to pass." The prophecy for Judah—"the scepter shall not depart from Judah...until tribute comes to him"—is the ultimate anchor of redemptive history, threading through the entire Old Testament until its fulfillment in the New. Human history is not random; it runs on tracks foreordained by God, moving toward the Messiah to whom "the obedience of the peoples" belongs.`,
+  christShadow_zh: `犹大的预言（创49:10）是整个旧约中对基督最清晰的预言之一。"圭必不离犹大"——王权通过犹大传递，经过大卫王朝，直到"细罗（赐平安者）来到"，就是主耶稣基督。保罗说："因为犹大支派出来了我们的主"（来7:14）。"狮子"的意象在启示录5:5中直接应用于基督："犹大支派中的狮子，大卫的根，他已经得胜"。"将他的驴拴在葡萄树上"——约翰12:15记载主耶稣进耶路撒冷骑着驴驹，正是这句话的成就。"用葡萄酒洗衣服"——主的血使信徒洗白衣袍（启7:14）。每一句预言，都在基督身上完全实现了。`, christShadow_en: `Judah's prophecy (Gen 49:10) is one of the clearest messianic predictions in the Old Testament. "The scepter shall not depart from Judah"—royal authority passed through Judah, through the Davidic dynasty, until "Shiloh (the peace-giver) comes," that is, the Lord Jesus Christ. Paul wrote: "For it is evident that our Lord was descended from Judah" (Heb 7:14 ESV). The image of the **Lion** is applied directly to Christ in Revelation 5:5: "the Lion of the tribe of Judah, the Root of David, has conquered." "Binding his foal to the vine"—John 12:15 records the Lord Jesus entering Jerusalem on a donkey's colt, fulfilling this very word. "Washing his garments in wine"—the Lord's blood washes believers' robes white (Rev 7:14 ESV). Every detail of the prophecy was completely fulfilled in Christ.`,
 });
 readings.push({
   book: '创世记', bookEn: 'Genesis', chapter: 50,
@@ -3599,11 +6899,95 @@ readings.push({
   title: '约瑟之死', titleEn: 'The Death of Joseph',
   author: '摩西', authorEn: 'Moses',
   scripture: '创世记 50:1 / Genesis 50:1',
-  content_zh: '', content_en: '',
-  historyContext_zh: '', historyContext_en: '',
-  structure_zh: '', structure_en: '',
-  theology_zh: '', theology_en: '',
-  christShadow_zh: '', christShadow_en: '',
+  content_zh: `弟兄姐妹，我是摩西。我们来到了创世记的最后一章——第五十章。一部始于"起初，神创造天地"的书，将要以一口棺材和一句信仰的宣告落幕。但这个结尾不是悲剧，而是**盼望的宣告**。
+
+一、安葬雅各（50:1-14）
+
+"约瑟伏在父亲的脸上哭泣，与他亲嘴"（创50:1）。这个大哭的约瑟，我们在他与兄弟相认时也见过他哭。约瑟是一个敢于流泪的男人——他的眼泪是真实情感的见证，也是神恩典的回应。
+
+约瑟吩咐医生将父亲的尸身用香料裹好。埃及人哀哭了七十天——按照埃及的习俗，这是最高规格的哀悼，通常只为法老举行。连外邦人都因雅各的缘故哀恸，这是何等的荣耀。
+
+约瑟向法老请求，带父亲回迦南安葬。法老准了。于是一支庞大的队伍出发了——约瑟的所有兄弟、埃及的达官贵人、众多的车辆马兵——陪同一位老牧人的遗体回到了应许之地。在约旦河外，他们哀哭了七天。迦南人看见，说："这是埃及人一场大哀哭"，于是那地方起名叫"亚伯麦西"（就是埃及人哀哭的意思）。
+
+他们把雅各葬在麦比拉洞，履行了对老人的誓言。**信实的儿子完成了对父亲最后的诺言。**
+
+二、兄弟们的恐惧与约瑟的宽恕（50:15-21）
+
+这是本章最震撼人心的段落。雅各死后，约瑟的兄弟们害怕了——"或者约瑟怀恨我们，要报复我们从前待他一切的恶"（创50:15）。他们托人传话，说父亲临死前吩咐约瑟饶恕他们。
+
+"约瑟听了这话，就哭了"（创50:17）。兄弟们当面来跪拜他，说："我们是你的仆人"。
+
+约瑟的回答是整本创世记的神学总结，也是圣经中最令人心碎又最令人振奋的话语之一：
+
+**"从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景"（创50:20）。**
+
+弟兄姐妹，你们听到了吗？**"你们的意思"和"神的意思"**——同一件事，两种意思，截然不同的结局。兄弟们出卖约瑟，出于嫉妒和恶意。但神允许这件事发生，是为了保全许多人的性命。这不是说恶是好的，而是说**神有能力把恶变成益处**。
+
+这个神学深度，在世上任何其他宗教和哲学中都找不到第二个。人行了最深的恶，神却从中成就了最大的善。这就是**十字架的逻辑**——人以最大的恶意把神的儿子钉死，神却借此成就了人类的救赎。
+
+约瑟宽恕了兄弟们，"他们面前如此安慰他们，亲切地与他们说话"（创50:21）。
+
+三、约瑟的死与信仰的遗嘱（50:22-26）
+
+"约瑟和他父亲一家仍住在埃及，活了一百一十岁"（创50:22）。约瑟看见了以法莲三代的子孙，何其蒙福。
+
+然后到了约瑟生命的最后一刻，他做了一件事——不是回顾自己的成就，不是嘱咐儿孙保持富贵，而是说：
+
+**"我快要死了，但神必定看顾你们，将你们从这地领出去，到他起誓所应许给亚伯拉罕、以撒、雅各之地"（创50:24）。**
+
+然后——"约瑟叫以色列的子孙起誓，说：神必看顾你们，你们要把我的骸骨从这里搬上去"（创50:25）。
+
+"于是约瑟死了，正年一百一十岁"（创50:26）。他的身体用香料裹好，放在埃及的棺材里。
+
+创世记就这样结束了——**一口棺材**。看似是悲剧的结局，其实是信心的宣告。这口棺材在埃及放了几百年，每一天都在提醒以色列人：你们不属于这里，神有应许，我们还要回去。最终，出埃及的时候，摩西把约瑟的骸骨带出了埃及（出13:19），四十年后葬在示剑（书24:32）。
+
+弟兄姐妹，创世记从"起初，神创造天地"开始，到约瑟的棺材结束。起初是生命，末尾是死亡——但在死亡之中有应许，在棺材之中有盼望。这正是整个圣经的核心：**从堕落到救赎，从死亡到复活，从旷野到应许之地**。那一位从死里复活的基督，是比约瑟更伟大的拯救者——他的棺材是**空的**。`, content_en: `Brothers and sisters, I am Moses. We have come to the final chapter of Genesis—chapter fifty. A book that began with "In the beginning, God created the heavens and the earth" is about to close with a coffin and a declaration of faith. But this ending is not tragedy; it is a **proclamation of hope**.
+
+I. Burying Jacob (50:1-14)
+
+"Then Joseph fell on his father's face and wept over him and kissed him" (Gen 50:1 ESV). This weeping Joseph—we saw him weep when he revealed himself to his brothers. Joseph was a man who wept openly; his tears testified to genuine emotion and were a response to God's grace.
+
+Joseph commanded the physicians to embalm his father. The Egyptians mourned for seventy days—by Egyptian custom, the highest standard of mourning, usually reserved for Pharaoh. Even the pagans mourned deeply because of Jacob; what an honor.
+
+Joseph asked Pharaoh's permission to return his father to Canaan for burial. Pharaoh agreed. So a great procession departed—all Joseph's brothers, Egypt's officials, chariots and horsemen—accompanying an old shepherd's body back to the promised land. Across the Jordan, they mourned for seven days. When the Canaanites saw it, they said, "This is a grievous mourning by the Egyptians," and that place was called Abel-mizraim (mourning of Egypt).
+
+They buried Jacob in the cave of Machpelah, fulfilling their oath to the old man. **A faithful son completed his final promise to his father.**
+
+II. The Brothers' Fear and Joseph's Forgiveness (50:15-21)
+
+This is the most powerful passage in the chapter. After Jacob died, Joseph's brothers were afraid—"What if Joseph bears a grudge against us and pays us back for all the wrong that we did to him?" (Gen 50:15 ESV). They sent a message claiming Jacob had instructed Joseph to forgive them.
+
+"When Joseph heard their words, he wept" (Gen 50:17 ESV). The brothers came and fell before him: "Behold, we are your servants."
+
+Joseph's answer is the theological summary of all of Genesis, and one of Scripture's most heartbreaking and exhilarating declarations:
+
+**"As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today" (Gen 50:20 ESV).**
+
+Brothers and sisters, did you hear? **"You meant evil" and "God meant it for good"**—the same event, two different intentions, completely different outcomes. The brothers sold Joseph out of jealousy and malice. But God allowed it to preserve many lives. This does not say evil is good; it says **God has the power to work good out of evil**.
+
+This theological depth cannot be found in any other religion or philosophy in the world. Out of the deepest human evil, God accomplished the greatest good. This is **the logic of the cross**—humans nailed the Son of God to a cross in the greatest act of malice, yet God used it to accomplish human redemption.
+
+Joseph forgave his brothers, "reassuring them and speaking kindly to them" (Gen 50:21 ESV).
+
+III. Joseph's Death and the Legacy of Faith (50:22-26)
+
+"So Joseph remained in Egypt, he and his father's house. Joseph lived 110 years" (Gen 50:22 ESV). Joseph saw Ephraim's children of the third generation—how richly blessed.
+
+Then in Joseph's final moments, he did one thing—not reviewing his own accomplishments, not charging his descendants to maintain wealth, but saying:
+
+**"I am about to die, but God will visit you and bring you up out of this land to the land that he swore to Abraham, to Isaac, and to Jacob" (Gen 50:24 ESV).**
+
+Then—"Joseph made the sons of Israel swear, saying, 'God will surely visit you, and you shall carry up my bones from here'" (Gen 50:25 ESV).
+
+"So Joseph died, being 110 years old" (Gen 50:26 ESV). He was embalmed and placed in a coffin in Egypt.
+
+Genesis ends this way—**a coffin**. It seems a tragic conclusion, yet it is a declaration of faith. That coffin sat in Egypt for hundreds of years, every day reminding Israel: you do not belong here; God has made a promise; we will return. At the Exodus, Moses carried Joseph's bones out of Egypt (Exod 13:19), and forty years later they were buried at Shechem (Josh 24:32).
+
+Brothers and sisters, Genesis begins with "In the beginning, God created the heavens and the earth" and ends with Joseph's coffin. It begins with life and ends with death—but within that death is a promise, within that coffin is hope. This is the Scripture's core: **from fall to redemption, from death to resurrection, from wilderness to the promised land**. Christ, risen from the dead, is a greater deliverer than Joseph—and His tomb is **empty**.`,
+  historyContext_zh: `创世记50章记载了族长时代的正式终结。约瑟活了一百一十岁，这在古代埃及传统中被认为是完美、圆满的一生（埃及文献中常用110岁描述理想的寿命）。安葬雅各的队伍从歌珊到麦比拉洞，路程约350公里，穿越西奈半岛北部。约瑟的骸骨在埃及安放了数百年，直到出埃及时被摩西带出（出13:19），最终葬在示剑（书24:32）——以色列历史的重要地点。`, historyContext_en: `Genesis 50 records the formal end of the patriarchal era. Joseph lived 110 years—in ancient Egyptian tradition, 110 was considered the perfect, ideal lifespan (Egyptian texts frequently use 110 years to describe an ideal life). The burial procession from Goshen to Machpelah covered approximately 350 kilometers through northern Sinai. Joseph's bones remained in Egypt for hundreds of years until Moses carried them out at the Exodus (Exod 13:19), eventually buried at Shechem (Josh 24:32)—a pivotal location in Israel's history.`,
+  structure_zh: `全章分为三大段：**（一）安葬雅各**（50:1-14）——埃及七十天哀哭，回迦南安葬，完成誓言；**（二）约瑟宽恕兄弟**（50:15-21）——"你们的意思是要害我，但神的意思原是好的"，整卷创世记的神学总结；**（三）约瑟的晚年与死亡**（50:22-26）——临终宣告神必看顾，嘱咐带走骸骨，以棺材结束。叙事结构呈现了一个完整的圆弧：从生命（创1章的创造）到死亡（创50章的棺材），但棺材里有一个未兑现的应许，指向创世记之后的故事。`, structure_en: `The chapter divides into three sections: **(1) Burying Jacob** (50:1-14)—seventy days of Egyptian mourning, return to Canaan for burial, oath fulfilled; **(2) Joseph forgives his brothers** (50:15-21)—"You meant evil against me, but God meant it for good"—the theological summary of all Genesis; **(3) Joseph's later years and death** (50:22-26)—deathbed declaration that God will visit them, charge to carry his bones, ending with a coffin. The narrative arc is complete: from life (creation in Gen 1) to death (the coffin in Gen 50), but within the coffin is an unfulfilled promise pointing to the story beyond Genesis.`,
+  theology_zh: `本章最重要的神学是**神的护理将恶变为善**（创50:20）。这是韦敏斯德信条第五章护理论的具体例证："神以至大的权能和智慧，保护管理他的一切受造物……他也藉着悖逆者成就自己的旨意"。神不是恶的创始者，但他主权地使用人的恶意成就他的救赎计划。此外，**约瑟对骸骨归回的嘱托**体现了信心的末世观——身体的复活和归回应许之地，是旧约信仰的核心（来11:22）。信仰不只是关于今生，更是关于神最终必然实现的应许。`, theology_en: `The most important theology in this chapter is **God's providence transforming evil into good** (Gen 50:20). This is a concrete example of the Westminster Confession (ch. 5) on providence: "God, the great Creator...does uphold, direct, dispose, and govern all creatures...and even uses the wicked to accomplish His own purposes." God is not the author of evil, but He sovereignly uses human malice to accomplish His redemptive plan. Furthermore, **Joseph's charge regarding his bones** reflects an eschatological faith—bodily resurrection and return to the promised land are core to Old Testament faith (Heb 11:22). Faith is not merely about this life; it is about God's promises that must ultimately be fulfilled.`,
+  christShadow_zh: `约瑟是整卷创世记中最完整的基督预表：**被兄弟嫉妒、出卖、受苦、被冤屈、被囚、被高举、宽恕仇敌、拯救全家族**。创50:20——"你们的意思是要害我，但神的意思原是好的"——正是十字架神学的完美预示。人以恶意钉死基督，神却借此成就了救赎。约瑟的棺材在埃及等待了几百年，最终被带回应许之地——这预表了基督的身体在坟墓中只停留了三天，然后复活，日后还要带领他的子民进入永恒的应许之地。**比约瑟更伟大的一位来了，他从死里复活，他的坟墓是空的，他所应许的是永恒的生命。**`, christShadow_en: `Joseph is the most complete Christological type in all of Genesis: **envied and betrayed by his brothers, suffering and wrongly imprisoned, exalted, forgiving his enemies, saving his entire family**. Genesis 50:20—"You meant evil against me, but God meant it for good"—is the perfect foreshadowing of the theology of the cross. Humans crucified Christ with malice; God used it to accomplish redemption. Joseph's coffin waited in Egypt for hundreds of years before being carried back to the promised land—foreshadowing how Christ's body remained in the tomb for only three days before rising, and will one day lead His people into the eternal promised land. **One greater than Joseph has come; He rose from the dead; His tomb is empty; what He promises is eternal life.**`,
 });
 
 // ===== 诗篇伴读 (周日) =====
