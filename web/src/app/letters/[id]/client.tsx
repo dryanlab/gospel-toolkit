@@ -20,7 +20,13 @@ function renderMarkdown(md: string) {
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
 
-    if (line.startsWith('## ')) {
+    if (line.startsWith('### ')) {
+      elements.push(
+        <h3 key={key++} className="font-serif-cn text-lg font-bold text-[var(--color-text)] mt-8 mb-3">
+          {line.slice(4)}
+        </h3>
+      );
+    } else if (line.startsWith('## ')) {
       elements.push(
         <h2 key={key++} className="font-serif-cn text-xl font-bold text-[var(--color-text)] mt-8 mb-3">
           {line.slice(3)}
@@ -91,6 +97,8 @@ export default function LetterClient({ id }: { id: string }) {
   }
 
   const catLabel = categoryLabels[letter.category];
+  const FEMALE_AUTHORS = new Set(['路得', '马利亚', '以斯帖', '哈拿', '拉结', '撒拉']);
+  const ttsGender = FEMALE_AUTHORS.has(letter.author) ? 'female' as const : undefined;
 
   // Find prev/next from D1 data (falls back to static)
   const idx = allLetters.findIndex(l => l.id === id);
@@ -151,8 +159,8 @@ export default function LetterClient({ id }: { id: string }) {
         <div className="flex items-center justify-between mb-2">
           <span className="text-sm font-bold text-[var(--color-text)]">📖 {letter.scripture}</span>
           <div className="flex gap-1">
-            <SpeakButton text={letter.scriptureText_zh} lang="zh" />
-            <SpeakButton text={letter.scriptureText_en} lang="en" />
+            <SpeakButton text={letter.scriptureText_zh} lang="zh" gender={ttsGender} />
+            <SpeakButton text={letter.scriptureText_en} lang="en" gender={ttsGender} />
           </div>
         </div>
         <p className="text-[15px] text-[var(--color-text)] leading-relaxed mb-2">
@@ -170,7 +178,7 @@ export default function LetterClient({ id }: { id: string }) {
           <div className="mb-8">
             <div className="flex items-center justify-between mb-4">
               <h2 className="font-bold text-[var(--color-text)]">中文</h2>
-              <SpeakButton text={zhText} lang="zh" />
+              <SpeakButton text={zhText} lang="zh" gender={ttsGender} />
             </div>
             <div>{renderMarkdown(letter.content_zh)}</div>
           </div>
@@ -179,7 +187,7 @@ export default function LetterClient({ id }: { id: string }) {
           <div className="mb-8 pt-8 border-t border-[var(--color-border)]">
             <div className="flex items-center justify-between mb-4">
               <h2 className="font-bold text-[var(--color-text)]">English</h2>
-              <SpeakButton text={enText} lang="en" />
+              <SpeakButton text={enText} lang="en" gender={ttsGender} />
             </div>
             <div>{renderMarkdown(letter.content_en)}</div>
           </div>

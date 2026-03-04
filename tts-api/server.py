@@ -5,6 +5,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import edge_tts
 
 VOICES = {'zh': 'zh-CN-YunjianNeural', 'en': 'en-US-AndrewNeural'}
+VOICES_FEMALE = {'zh': 'zh-CN-XiaoxiaoNeural', 'en': 'en-US-JennyNeural'}
 
 # Characters that edge-tts mispronounces — replace before synthesis
 ZH_REPLACEMENTS = {
@@ -60,7 +61,11 @@ class Handler(BaseHTTPRequestHandler):
             for pattern, replacement in ZH_REGEX_FIXES:
                 text = pattern.sub(replacement, text)
 
-        voice = VOICES.get(lang, VOICES['zh'])
+        gender = body.get('gender', 'male')
+        if gender == 'female':
+            voice = VOICES_FEMALE.get(lang, VOICES_FEMALE['zh'])
+        else:
+            voice = VOICES.get(lang, VOICES['zh'])
         try:
             audio = asyncio.run(self._synthesize(text, voice, lang))
             self.send_response(200)

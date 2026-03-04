@@ -1654,8 +1654,8 @@ May the God who had mercy on me likewise have mercy on you. May He create in you
     date: '2026-03-21',
     category: 'testimony',
     scripture: '路得记 1:16-17',
-    scriptureText_zh: '路得说："不要催我回去不跟随你。你往哪里去，我也往那里去；你在哪里住宿，我也在那里住宿；你的国就是我的国，你的神就是我的神。"',
-    scriptureText_en: `But Ruth said, "Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God."`,
+    scriptureText_zh: '路得说：不要催我回去不跟随你。你往哪里去，我也往那里去；你在哪里住宿，我也在那里住宿；你的国就是我的国，你的神就是我的神。',
+    scriptureText_en: `But Ruth said, Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God.`,
     summary_zh: `一个摩押外邦女子，因信离开故土跟随婆婆的神，经历恩典的拾穗、救赎者的遮盖，最终被纳入基督的家谱——证明神的恩典超越一切界限。`,
     summary_en: `A Moabite woman who by faith left her homeland to follow her mother-in-law's God, experienced grace in the gleaning fields and the covering of a kinsman-redeemer, and was ultimately grafted into the genealogy of Christ—proof that God's grace transcends every boundary.`,
     tags: ['testimony', 'redemption', 'faith', 'grace'],
@@ -1718,7 +1718,7 @@ May the God who had mercy on me likewise have mercy on you. May He create in you
 
 我"恰巧"到了波阿斯的田里——但在神的护理中，没有"恰巧"这回事。波阿斯是以利米勒的亲族，是一个大财主。他看见我，问起我的来历，然后对我说了这些话：
 
-> "自从你丈夫死后，凡你向婆婆所行的，并你离开父母和本地，到素不认识的民中，这些事人全都告诉我了。愿耶和华照你所行的赏赐你。你来投靠耶和华以色列神的翅膀下，愿你满得他的赏赐。"（路得记 2:11-12）
+> "自从你丈夫死后，凡你向婆婆所行的，并你离开父母和本地，到素不认识的民中，这些事人全都告诉我了。愿耶和华照你所行的赏赐你。你来投靠耶和华─以色列神的翅膀下，愿你满得他的赏赐。"（路得记 2:11-12）
 
 我俯伏在地，叩拜他，说：
 
@@ -1752,7 +1752,7 @@ May the God who had mercy on me likewise have mercy on you. May He create in you
 
 那位至近的亲属起初愿意赎买以利米勒的地，但当听说还要娶摩押女子路得、为死人留后的时候，他退缩了：
 
-> "恐怕于我的产业有碍，你可以赎我所当赎的，我不能赎了。"（路得记 4:6）
+> "这样我就不能赎了，恐怕于我的产业有碍。你可以赎我所当赎的，我不能赎了。"（路得记 4:6）
 
 他脱了鞋交给波阿斯，这是以色列人从前作证的规矩。于是波阿斯在众长老面前宣告：
 
@@ -1770,9 +1770,9 @@ May the God who had mercy on me likewise have mercy on you. May He create in you
 
 后来，耶和华使我怀孕，我生了一个儿子。邻舍的妇人们给他起名叫俄备得，意思是"服事者"。她们对拿俄米说：
 
-> "耶和华是应当称颂的！因为今日没有撇下你，使你无至近的亲属。愿这孩子在以色列中得名声！他必提起你的精神，奉养你的老，因为是爱慕你的那儿妇所生的，有这儿妇比有七个儿子还好！"（路得记 4:14-15）
+> "耶和华是应当称颂的！因为今日没有撇下你，使你无至近的亲属。愿这孩子在以色列中得名声。他必提起你的精神，奉养你的老，因为是爱慕你的那儿妇所生的。有这儿妇比有七个儿子还好！"（路得记 4:14-15）
 
-看哪，那位曾说"叫我玛拉"的拿俄米，如今把孩子抱在怀中，成了他的养母。苦变成了甜，空虚变成了丰盛，哀哭变成了喜乐。这不是因为我们做了什么配得的事，而是因为耶和华的慈爱永远长存。
+看哪，那位曾说"叫我玛拉"的拿俄米，如今把孩子抱在怀中，成了他的养母（路得记 4:16）。苦变成了甜，空虚变成了丰盛，哀哭变成了喜乐。这不是因为我们做了什么配得的事，而是因为耶和华的慈爱永远长存。
 
 而这个孩子——俄备得——他生了耶西，耶西生了大卫王。弟兄姐妹，你们想一想：一个摩押女子的后裔，竟成了以色列最伟大的君王的祖母。而大卫的子孙中，那位万王之王、万主之主，道成肉身的基督耶稣降生了。
 
@@ -1925,7 +1925,7 @@ Then the LORD enabled me to conceive, and I bore a son. The women of the neighbo
 
 > "Blessed be the LORD, who has not left you this day without a redeemer, and may his name be renowned in Israel! He shall be to you a restorer of life and a nourisher of your old age, for your daughter-in-law who loves you, who is more to you than seven sons, has given birth to him." (Ruth 4:14–15)
 
-Behold—she who had said "Call me Mara" now held the child in her arms and became his nurse. Bitterness turned to sweetness, emptiness to fullness, mourning to joy. Not because we had done anything worthy, but because the steadfast love of the LORD endures forever.
+Behold—she who had said "Call me Mara" now held the child in her arms and became his nurse (Ruth 4:16). Bitterness turned to sweetness, emptiness to fullness, mourning to joy. Not because we had done anything worthy, but because the steadfast love of the LORD endures forever.
 
 And this child—Obed—fathered Jesse, and Jesse fathered King David. Brothers and sisters, consider this: the descendant of a Moabite woman became the grandmother of Israel's greatest king. And from David's line, the King of kings and Lord of lords, Christ Jesus, was born in the flesh.
 

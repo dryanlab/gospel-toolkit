@@ -119,7 +119,7 @@ function splitText(text: string): string[] {
   return chunks.length > 0 ? chunks : [text];
 }
 
-export default function SpeakButton({ text, lang, className }: { text: string; lang: 'zh' | 'en'; className?: string }) {
+export default function SpeakButton({ text, lang, gender, className }: { text: string; lang: 'zh' | 'en'; gender?: 'male' | 'female'; className?: string }) {
   const [state, setState] = useState<'idle' | 'loading' | 'playing' | 'paused'>('idle');
   const cancelledRef = useRef(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
@@ -191,7 +191,7 @@ export default function SpeakButton({ text, lang, className }: { text: string; l
         const res = await fetch(ttsUrl, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ text: chunk, lang }),
+          body: JSON.stringify({ text: chunk, lang, ...(gender ? { gender } : {}) }),
         });
         if (!res.ok) return null;
         return await res.blob();
