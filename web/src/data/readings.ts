@@ -19731,4 +19731,3381 @@ The cloud and fire pillars prefigure Christ's and the Spirit's guidance. Christ 
 
 Exodus ends with "all the house of Israel throughout all their journeys"—a redeemed people walking the wilderness under God's glorious guidance. This is the church on earth: a people ransomed by Christ's blood, led by the Holy Spirit, journeying through this world's wilderness toward that eternal promised land.`,
   },
+
+  // === 利未记 (Leviticus) ===
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 1,
+    publishDate: '2026-08-04',
+    title: '燔祭条例', titleEn: 'The Burnt Offering',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 1 / Leviticus 1',
+    content_zh: `我是摩西，神的仆人，利未记的记录者。
+
+耶和华从会幕中呼叫我，对我说话。那声音从至圣所深处传出，穿透帐幕厚重的帷幔，落在我耳中，充满了威严与慈爱。祂向我颁布了关于燔祭的律例，这是以色列献祭制度中最根本、最庄严的一种。
+
+"你要晓谕以色列人说，你们中间若有人献供物给耶和华，要从牛群羊群中献你们的供物。"（利未记1:2）
+
+燔祭，希伯来文称为"עֹלָה"（olah），意为"上升者"，因为这祭物要被完全焚烧，烟火上腾，象征献祭者将自己全然献给耶和华。这不是部分的交付，而是彻底的奉献。当我带领以色列人从埃及出来，穿越旷野，神对我们的要求始终是全然归向祂。燔祭正是这全然归依的象征。
+
+献祭者要将牲畜带到会幕门口，按手在牲畜的头上。这按手的动作意义深远——它代表着认同与转移。献祭者承认自己的罪，将罪的后果转移到这无辜的牲畜身上。那牲畜就在耶和华面前成为蒙悦纳的，为他赎罪。多少次，我看见以色列人颤抖着双手按在牛羊的头上，眼中带着泪水，知道那本该落在自己身上的审判，正在以这种方式被转移。
+
+牲畜必须是没有残疾的。这不是神的挑剔，而是属灵真理的彰显——献给无限圣洁之神的，必须是最好的。公牛、公羊、公山羊、斑鸠或雏鸽，按照各人的财力，神为穷人也开了路，但无论贵贱，那牲畜必须是完全的，是无瑕疵的。
+
+祭司亚伦的儿子们要将血洒在坛的四围。我看着那鲜红的血从坛沿流下，心中充满了沉重与敬畏。血是生命的代价，是赎价的象征。没有流血，就没有赦免。神在创世之初就已定下这原则——罪的代价是死，赦免需要替代者的生命。
+
+整个牺牲要被切开，按部位摆列，祭司们要把各块并着头和脂油，都排在坛上的火上，燃烧成馨香的火祭献给耶和华。那"馨香"二字让我每次读到都动容——那不是神需要食物的气味，而是顺服与敬拜升到宝座前的属灵香气。神喜悦的，是献祭者甘心归服的那颗心。
+
+旷野四十年，我见证了无数次燔祭的烟火冲天。会幕前日夜燃烧着祭火，这火绝不能熄灭。那永燃的火是以色列与耶和华立约关系的记号，是神同在的标志，也是神永恒圣洁的象征。
+
+神的子民啊，燔祭的条例告诉我们：接近圣洁的神，必须经由祭祀的途径。没有任何人可以凭自己的义来到神面前。我们需要替代，需要赎价，需要中保。以色列人每一次献燔祭，都是在预演那最终的、完全的献祭——那将要来的，是完全无瑕疵的真羔羊。`,
+    content_en: `I am Moses, the servant of God, the recorder of Leviticus.
+
+The LORD called to me from the tent of meeting, speaking from the depths of the Most Holy Place. That voice pierced through the heavy curtain of the tabernacle and fell upon my ears, filled with majesty and love. He proclaimed to me the ordinances of the burnt offering — the most fundamental and solemn of all the sacrificial rites of Israel.
+
+"Speak to the people of Israel and say to them, When any one of you brings an offering to the LORD, you shall bring your offering of livestock from the herd or from the flock." (Leviticus 1:2)
+
+The burnt offering, called "עֹלָה" (olah) in Hebrew, means "that which ascends." The entire sacrifice was consumed by fire, with the smoke rising upward — a symbol of the worshiper presenting himself wholly to the LORD. This was not a partial surrender, but a complete consecration. Throughout our forty years in the wilderness, God's call to Israel was always the same: total devotion to Him. The burnt offering was the embodiment of this total surrender.
+
+The worshiper would bring the animal to the entrance of the tent of meeting and lay his hand upon the animal's head. This act of laying on of hands was profoundly significant — it represented identification and transference. The worshiper acknowledged his sin and transferred the consequences of that sin to the innocent animal. The animal would then be accepted before the LORD on his behalf, making atonement for him. How many times did I witness Israelites with trembling hands pressing down upon the heads of cattle and sheep, tears in their eyes, understanding that the judgment which ought to have fallen upon themselves was being transferred in this manner.
+
+The animal had to be without blemish. This was not God's fastidiousness, but the manifestation of spiritual truth — what is offered to an infinitely holy God must be the very best. Whether bull, ram, male goat, turtledove, or pigeon — God had made provision even for the poor — but regardless of one's means, the animal had to be perfect and without defect.
+
+The sons of Aaron the priest would throw the blood against the sides of the altar. I watched that crimson blood flow down the altar's sides, my heart heavy with awe and solemnity. Blood is the price of life, the symbol of ransom. Without the shedding of blood, there is no forgiveness. God established this principle at the very beginning of creation — the wages of sin is death, and forgiveness requires the life of a substitute.
+
+The entire sacrifice was to be cut in pieces, and the priests would arrange the pieces, with the head and the fat, on the fire that was on the altar — a burnt offering, a food offering with a pleasing aroma to the LORD. Those words "pleasing aroma" move me every time I read them — it is not that God needed food, but that the spiritual fragrance of willing submission and worship ascended before His throne. What God delights in is the heart of the worshiper that willingly yields to Him.
+
+Through forty years in the wilderness, I witnessed countless burnt offerings rising to the sky. The sacrificial fire burned before the tabernacle day and night, never to be extinguished. That ever-burning fire was the sign of Israel's covenant relationship with the LORD — the mark of His presence, the symbol of His eternal holiness.
+
+O people of God, the ordinance of the burnt offering tells us this: to draw near to the holy God, one must come by way of sacrifice. No person can stand before God on the basis of their own righteousness. We need a substitute, a ransom, a mediator. Every time an Israelite offered a burnt offering, they were rehearsing that final, complete sacrifice — the coming One, the true Lamb, perfectly without blemish.`,
+    historyContext_zh: `利未记在历史背景上，是以色列民族刚刚经历出埃及、在西奈旷野安营时神所颁布的律法。出埃及记末尾（40章）会幕建造完成，神的荣光充满会幕，以至于摩西都不能进入。利未记便从这里开始——神从会幕中说话，建立以罪人接近圣洁神所需的完整礼仪体系。
+
+燔祭并非以色列独有的制度，在古近东各文化中都有火祭的传统（参创8:20挪亚的燔祭，创22以撒献祭）。然而耶和华赋予了燔祭全新的神学意义：它不是贿赂神灵或引起神注意的手段，而是罪人因替代之死而得蒙悦纳的恩典途径。
+
+会幕的建造约在公元前1446年（保守年代学）或公元前1290年（修正年代学）。以色列人此时聚集在西奈山脚，数目约为两百万之众。在那个时代，献祭制度是所有中东文明的核心宗教行为，神通过利未记将这一普遍宗教本能引导到了真正的敬拜中。`,
+    historyContext_en: `Leviticus is set historically at the time when the Israelites, having just experienced the Exodus from Egypt, were encamped in the wilderness of Sinai and God was proclaiming His law to them. At the close of Exodus (chapter 40), the construction of the tabernacle was complete, and the glory of God filled the tabernacle so powerfully that Moses could not enter. Leviticus begins precisely here — God speaking from within the tabernacle, establishing the complete liturgical system by which sinners could approach a holy God.
+
+The burnt offering was not unique to Israel; fire offerings were common throughout the ancient Near East (cf. Gen 8:20, Noah's burnt offering; Gen 22, the sacrifice of Isaac). However, the LORD infused the burnt offering with entirely new theological meaning: it was not a means of bribing the deity or attracting divine attention, but a gracious provision whereby a sinner could be accepted before God through a substitutionary death.
+
+The construction of the tabernacle occurred approximately 1446 BC (conservative chronology) or 1290 BC (revised chronology). At this time, the Israelites were gathered at the foot of Mount Sinai, numbering approximately two million people. In that era, the sacrificial system was the central religious act of all Middle Eastern civilizations, and through Leviticus, God channeled this universal religious instinct toward true worship.`,
+    structure_zh: `利未记第1章按照献祭牲畜的种类分为三段：
+
+**第一段（1:3-9）：从牛群中献燔祭**
+- 牲畜条件：无残疾的公牛
+- 地点：会幕门口，坛前
+- 程序：献祭者按手→宰杀→祭司洒血→切开→祭司焚烧
+
+**第二段（1:10-13）：从羊群中献燔祭**
+- 牲畜：无残疾的公羊或公山羊
+- 程序与牛燔祭相同，强调坛北边宰杀
+
+**第三段（1:14-17）：献鸟为燔祭**
+- 牲畜：斑鸠或雏鸽（为贫穷者设立）
+- 程序稍有不同：祭司亲自捻断头，不用切开
+
+全章以"馨香的火祭献给耶和华"作为重复性结语，强调献祭的目的是神的喜悦，而非人的满足。`,
+    structure_en: `Leviticus chapter 1 is divided into three sections according to the type of animal offered:
+
+**Section 1 (1:3-9): Burnt Offering from the Herd**
+- Animal requirement: A bull without blemish
+- Location: The entrance of the tent of meeting, before the altar
+- Procedure: Worshiper lays hand → slaughters → priest throws blood → cuts in pieces → priest burns
+
+**Section 2 (1:10-13): Burnt Offering from the Flock**
+- Animal: A male sheep or male goat without blemish
+- Same procedure as the bull, with emphasis on slaughtering on the north side of the altar
+
+**Section 3 (1:14-17): Burnt Offering of Birds**
+- Animal: Turtledove or pigeon (provision for the poor)
+- Slightly different procedure: the priest wrings the head off; no need to cut it in pieces
+
+The chapter repeatedly concludes with "a food offering with a pleasing aroma to the LORD," emphasizing that the purpose of sacrifice is God's delight, not human satisfaction.`,
+    theology_zh: `燔祭在改革宗神学中承载着丰富的教义内涵：
+
+**1. 替代性赎罪（Substitutionary Atonement）**
+按手礼（סְמִיכָה）是燔祭的神学核心。献祭者的罪债转移到牲畜身上，牲畜代替献祭者承受神的审判。这是整本圣经替代赎罪教义最早且最清晰的预表之一。
+
+**2. 全然归依（Total Consecration）**
+与赎罪祭不同，燔祭是完全焚烧的——没有任何部分留给献祭者或祭司食用（除了皮，参利7:8）。这象征着将自己全然献给神，呼应保罗在罗马书12:1的劝勉："将身体献上，当作活祭"。
+
+**3. 神的圣洁与人的罪**
+燔祭制度预设了人无法直接接近神的前提。罪造成了人与神之间的鸿沟，需要借助中保和祭物。这是改革宗神学"全然败坏"教义的礼仪表达。
+
+**4. 恩典的主动性**
+值得注意的是，整个燔祭制度是神主动赐下的，而非人发明的。神开启了接近祂的途径，这本身就是恩典的彰显。`,
+    theology_en: `The burnt offering carries rich doctrinal content within Reformed theology:
+
+**1. Substitutionary Atonement**
+The laying on of hands (סְמִיכָה) is the theological heart of the burnt offering. The worshiper's debt of sin is transferred to the animal, which bears God's judgment in the worshiper's place. This is one of the earliest and clearest foreshadowings of the doctrine of substitutionary atonement in all of Scripture.
+
+**2. Total Consecration**
+Unlike the sin offering, the burnt offering was completely consumed by fire — no portion was retained for the worshiper or the priests (except the hide, cf. Lev 7:8). This symbolized the complete surrender of oneself to God, echoing Paul's exhortation in Romans 12:1: "Present your bodies as a living sacrifice."
+
+**3. God's Holiness and Human Sin**
+The burnt offering system presupposes that humanity cannot directly approach God. Sin has created a chasm between humanity and God, requiring a mediator and a sacrificial offering. This is the liturgical expression of the Reformed doctrine of Total Depravity.
+
+**4. The Initiative of Grace**
+Notably, the entire burnt offering system was divinely ordained — not humanly invented. God opened the way to approach Him, which itself is a manifestation of grace.`,
+    christShadow_zh: `燔祭是基督救赎工作最直接的预影，在新约中得到了明确的应验：
+
+**完全无瑕的祭物**
+燔祭要求"无残疾的"牲畜，预表基督的完全无罪。彼得说："你们得赎，乃是凭着基督的宝血，如同无瑕疵、无玷污的羔羊之血"（彼前1:19）。基督是那真正无瑕疵的燔祭。
+
+**完全的自献**
+燔祭被完全焚烧，象征完全的奉献。以弗所书5:2说："基督爱我们，为我们舍己，当作馨香的供物和祭物献与神。"这里明确用了"馨香的供物"这一燔祭语言，将基督的献身与燔祭直接联系起来。
+
+**按手与认同**
+献祭者按手在牲畜头上，预表神将我们的罪归算到基督身上。"耶和华使我们众人的罪孽都归在他身上"（赛53:6）。基督在十字架上成为我们的替代者。
+
+**永不熄灭的祭火**
+坛上的火永不熄灭（利6:13），预表基督在各各他的献祭是一次性、永远有效的（来10:14）。那以色列人每日更新的祭火，终于在基督身上找到了永恒的成全。
+
+**由贫到富的恩典**
+神为穷人设立了鸽子燔祭的途径，预表基督的赎恩向所有人开放，不分贫富。"祂本来富足，却为你们成了贫穷，叫你们因他的贫穷，可以成为富足"（林后8:9）。`,
+    christShadow_en: `The burnt offering is the most direct foreshadowing of Christ's redemptive work, finding clear fulfillment in the New Testament:
+
+**The Perfectly Unblemished Sacrifice**
+The burnt offering required an animal "without blemish," prefiguring Christ's complete sinlessness. Peter writes: "You were ransomed... with the precious blood of Christ, like that of a lamb without blemish or spot" (1 Pet 1:18-19). Christ is the true unblemished burnt offering.
+
+**Complete Self-Offering**
+The burnt offering was completely consumed, symbolizing total consecration. Ephesians 5:2 states: "Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God." This text explicitly employs the language of the burnt offering — "fragrant offering" — directly connecting Christ's self-giving to the burnt offering.
+
+**The Laying on of Hands and Imputation**
+The worshiper's hand laid upon the animal's head prefigures God imputing our sins to Christ. "The LORD has laid on him the iniquity of us all" (Isa 53:6). Christ became our substitute on the cross.
+
+**The Never-Extinguished Fire**
+The fire on the altar was never to go out (Lev 6:13), prefiguring that Christ's sacrifice at Calvary was once-for-all and eternally effective (Heb 10:14). That daily-renewed sacrificial fire of Israel found its eternal fulfillment in Christ.
+
+**Grace from Poverty to Riches**
+God provided the dove offering as a provision for the poor, prefiguring that Christ's redemptive grace is open to all, regardless of wealth or poverty. "Though he was rich, yet for your sake he became poor, so that you by his poverty might become rich" (2 Cor 8:9).`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 2,
+    publishDate: '2026-08-05',
+    title: '素祭条例', titleEn: 'The Grain Offering',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 2 / Leviticus 2',
+    content_zh: `我是摩西。耶和华接着向我颁布了素祭的律例，这是利未记献祭体系中第二种重要的祭物。
+
+素祭，希伯来文称为"מִנְחָה"（minchah），原意为"礼物"或"献呈"，是以无酵细面、橄榄油和乳香为主要原料的谷物祭。与燔祭的牲血不同，素祭是无血的——它是感恩与顺服的表达，也是劳动果实献给创造主的颂赞。
+
+"人若献素祭给耶和华，要用细面为供物，加上油，又加上乳香，带到亚伦子孙作祭司的那里。"（利未记2:1-2）
+
+当我观察以色列营地中的素祭献上，总会想到那些用双手揉制细面的妇人，那些清晨采收橄榄压榨清油的农夫，那些跋山涉水从远方带来乳香的商人。素祭将人类文明最基本的劳作——农耕、压榨、贸易——都纳入了对神的崇拜之中。神不仅是会幕中被人仰望的圣洁者，祂也是麦田间、橄榄园里、市集上临在的主。
+
+素祭有四种形式：生细面、在炉中烤的、在铁鏊上烤的，以及油煎的。这四种形式涵盖了当时以色列人日常饮食的各种烹饪方式，说明敬拜渗透生活的每一个角落，没有任何日常经验是在神的敬拜之外的。
+
+然而，素祭的规定中有两条明确的禁令：绝不可加酵，绝不可加蜜。
+
+酵在圣经中始终是罪的象征。耶稣警戒门徒"要防备法利赛人和撒都该人的酵"（太16:6），保罗论及罪的污染说"一点面酵能使全团发起来"（林前5:6）。献给神的素祭不可含有发酵的成分，因为神的祭坛是圣洁的，不容纳任何罪的混入。
+
+蜜的禁止则来自另一方面的考量。蜜虽是美好的，但蜜会在高温中发酵变质，而且在迦南宗教中，蜜被广泛用于异教祭祀。神要以色列的献祭与外邦的仪式保持明确的分别。
+
+素祭中必须加盐。"你各样的供物都要用盐腌，在素祭上不可缺了你神立约的盐"（利2:13）。盐是防腐剂，象征永不朽坏的立约关系。神与以色列的约是坚定不移、永远有效的，每一次素祭加盐，都是对这立约关系的重申与纪念。
+
+祭司要从素祭中取出一把，连同全部乳香，焚烧在坛上。那一把细面和乳香的烟气，就代表了整个供物升到耶和华面前，这叫"纪念的份"。剩下的，归给亚伦和他的子孙——祭司阶层的日常供应由此而来。神在安排祭司专职服事的同时，也为他们的生活作了具体的供应。
+
+我每次听见素祭的规定，都感受到一种平静的美。燔祭是庄严肃穆的赎罪宣告，素祭则是温柔安静的感恩与顺服。两者相辅相成，共同构成以色列人在会幕前完整的灵魂状态：一方面深知自己是罪人需要赎罪，另一方面也以感恩之心将劳作的果实献上。
+
+旷野中，以色列人并没有麦田可以收割，但神的吗哪每日从天而降。我相信，当以色列人用收集来的吗哪磨成细面，捧到会幕门口献给耶和华时，那是最真实的素祭——用神自己所赐的，献还给神，在感恩与信靠中完成了最深刻的敬拜循环。`,
+    content_en: `I am Moses. The LORD then proclaimed to me the ordinances of the grain offering — the second major type of offering in the sacrificial system of Leviticus.
+
+The grain offering, called "מִנְחָה" (minchah) in Hebrew, originally meaning "gift" or "tribute," was a cereal offering made primarily of fine flour, olive oil, and frankincense. Unlike the blood of the burnt offering, the grain offering was bloodless — an expression of thanksgiving and submission, a song of praise offered to the Creator from the fruits of human labor.
+
+"When anyone brings a grain offering as an offering to the LORD, his offering shall be of fine flour. He shall pour oil on it and put frankincense on it and bring it to Aaron's sons the priests." (Leviticus 2:1-2)
+
+As I observed the grain offerings being brought in the Israelite camp, I would think of the women who kneaded the fine flour with their hands, the farmers who harvested olives in the early morning and pressed clear oil, the merchants who traveled mountains and valleys from distant lands bearing frankincense. The grain offering incorporated humanity's most fundamental labor — farming, pressing, trading — into the worship of God. God was not only the Holy One revered within the tabernacle; He was also the LORD present among the wheat fields, the olive groves, and the marketplace.
+
+The grain offering came in four forms: raw fine flour, baked in an oven, cooked on a griddle, or fried in a pan. These four forms encompassed the various cooking methods of everyday Israelite diet, declaring that worship permeated every corner of life — no ordinary experience existed outside the worship of God.
+
+Yet within the regulations of the grain offering were two explicit prohibitions: no leaven was to be added, and no honey.
+
+Leaven in Scripture is consistently a symbol of sin. Jesus warned His disciples to "beware of the leaven of the Pharisees and Sadducees" (Matt 16:6), and Paul, speaking of the contamination of sin, wrote that "a little leaven leavens the whole lump" (1 Cor 5:6). The grain offering presented before God could contain no fermented ingredient, for God's altar is holy and will not accommodate any admixture of sin.
+
+The prohibition of honey stemmed from a different consideration. Though honey is pleasant, it ferments and spoils under high heat; furthermore, in Canaanite religion, honey was widely used in pagan sacrifices. God required that Israel's offerings maintain a clear distinction from the rituals of the surrounding nations.
+
+Salt, however, was required in the grain offering. "You shall season all your grain offerings with salt. You shall not let the salt of the covenant with your God be missing from your grain offering" (Lev 2:13). Salt is a preservative, symbolizing the covenant relationship that will never decay. God's covenant with Israel was steadfast and eternally binding — every time salt was added to the grain offering, it was a reaffirmation and memorial of that covenant relationship.
+
+The priest would take a handful from the grain offering, together with all the frankincense, and burn it on the altar. That smoke from the handful of fine flour and frankincense represented the entire offering ascending before the LORD — this was called "the memorial portion." The remainder belonged to Aaron and his sons — the daily provision for the priestly class came through this arrangement. As God appointed the priests to full-time service, He also made specific provision for their daily sustenance.
+
+Every time I heard the regulations of the grain offering, I sensed a quiet beauty. The burnt offering was the solemn and majestic declaration of atonement; the grain offering was the gentle and quiet expression of thanksgiving and submission. The two complemented one another, together forming the complete spiritual posture of Israel before the tabernacle: on the one hand, the deep awareness of being sinners who needed atonement; on the other, the grateful heart that presented the fruits of labor as an offering.
+
+In the wilderness, the Israelites had no wheat fields to harvest, yet God's manna descended from heaven daily. I believe that when the Israelites ground the manna they had gathered into fine flour and brought it to the entrance of the tabernacle to offer before the LORD, that was the most genuine grain offering of all — giving back to God what God Himself had given, completing in gratitude and trust the most profound cycle of worship.`,
+    historyContext_zh: `素祭在古近东文化中极为普遍。在美索不达米亚、埃及和迦南，谷物祭是供养神明的主要方式，反映了古人认为神需要人类供养的观念。
+
+耶和华的素祭制度虽然借用了这一普遍形式，但彻底改变了其神学意义。以色列的素祭不是"供养"神的食物，而是感恩的献呈和立约忠诚的表达——因为以色列的神不需要人的供养（诗50:12-13），祂是万物的创造者和供应者。
+
+在出埃及的时代背景下，以色列人长达四百年在埃及为奴，已经深受埃及宗教影响。埃及神庙中每日进行复杂的供食礼仪，相信神像需要饮食供养。利未记的素祭制度在形式上与此相似，但神学内容全然不同。这是神圣洁的隔离命令在宗教实践层面的体现。`,
+    historyContext_en: `Grain offerings were extremely common throughout ancient Near Eastern cultures. In Mesopotamia, Egypt, and Canaan, cereal offerings were the primary means of "feeding" the gods, reflecting the ancient belief that deities needed human provision.
+
+While the LORD's grain offering system borrowed this widespread form, it radically transformed its theological meaning. Israel's grain offering was not "food" for God's sustenance, but a presentation of thanksgiving and an expression of covenant faithfulness — for the God of Israel had no need of human provision (Ps 50:12-13); He is the Creator and Provider of all things.
+
+Against the backdrop of the Exodus, the Israelites had spent four hundred years enslaved in Egypt and were deeply influenced by Egyptian religion. In Egyptian temples, elaborate daily feeding rituals were performed, based on the belief that divine images required food and drink offerings. Leviticus's grain offering system was formally similar to these practices, but its theological content was entirely different. This represents the practical expression of God's command for holy separation in the realm of religious practice.`,
+    structure_zh: `利未记第2章结构清晰，按形式分段：
+
+**第一段（2:1-3）：生细面的素祭**
+- 原料：细面、油、乳香（不混合，分开献上）
+- 纪念的份：祭司从中取一把焚烧
+- 余下的：归给亚伦和他子孙
+
+**第二段（2:4-10）：烤制素祭**
+- 在炉中烤的无酵饼（加油调成的）
+- 在铁鏊上烤的细面饼
+- 在锅里炸的素祭
+- 共同原则：都要无酵，用油
+
+**第三段（2:11-13）：基本禁律与盐约**
+- 禁止加酵和加蜜（普遍原则）
+- 必须加盐（立约的盐）
+- 初熟之物可以献蜜，但不可烧在坛上
+
+**第四段（2:14-16）：初熟之物的素祭**
+- 要献新的大麦穗子
+- 用火烤过，磨破，加油加乳香`,
+    structure_en: `Leviticus chapter 2 has a clear structure, organized by form of preparation:
+
+**Section 1 (2:1-3): Raw Fine Flour**
+- Ingredients: Fine flour, oil, frankincense (not mixed, offered separately)
+- Memorial portion: The priest takes a handful and burns it
+- Remainder: Belongs to Aaron and his sons
+
+**Section 2 (2:4-10): Baked Grain Offerings**
+- Unleavened loaves baked in an oven (mixed with oil)
+- Thin cakes cooked on a griddle
+- Grain offering fried in a pan
+- Common principle: All to be without leaven, made with oil
+
+**Section 3 (2:11-13): Basic Prohibitions and the Salt of the Covenant**
+- Prohibition of leaven and honey (universal principle)
+- Salt required (the salt of the covenant)
+- Firstfruits may include honey, but must not be burned on the altar
+
+**Section 4 (2:14-16): Grain Offering of Firstfruits**
+- New ears of grain, roasted with fire
+- Crushed, with oil and frankincense added`,
+    theology_zh: `素祭在改革宗神学中有以下重要意义：
+
+**1. 创造的好礼与感恩的回应**
+素祭用地里出产的细面、橄榄油，体现了对神作为创造主和供养者的承认。神赐下创造的一切好礼（雅1:17），人将其中最好的奉还，表达了感恩与依赖。这是神学家所说的"归还论"——我们一切所有的都源于神，我们的奉献不过是将神所赐的归还给祂。
+
+**2. 圣洁的分别**
+无酵、无蜜、有盐，这三条规定共同描绘了敬拜所要求的圣洁性质：无罪（无酵）、无腐化（无蜜）、不朽坏（有盐）。进入神的面前需要与罪的一切形式相分别。
+
+**3. 恩典与行为的关系**
+素祭往往与燔祭同献（民15:1-12），说明在赎罪的基础上，感恩与顺服的行为具有真实意义。改革宗神学强调，称义唯独靠信心，但真实的信心必然结出感恩顺服的生命——素祭与燔祭的关系正是这一真理的礼仪表达。
+
+**4. 普遍性与包容性**
+谷物是最普遍的农产品，素祭使最贫穷的人也能参与献祭体系，表达了神救恩面向全人类的普遍性。`,
+    theology_en: `The grain offering carries several important meanings within Reformed theology:
+
+**1. The Good Gifts of Creation and the Response of Thanksgiving**
+The grain offering used fine flour and olive oil — produce from the earth — embodying acknowledgment of God as Creator and Provider. God gives every good gift through creation (Jas 1:17), and humanity offers back the very best, expressing gratitude and dependence. This reflects what theologians call the "return principle" — everything we have originates from God; our offerings are simply returning to Him what He has given.
+
+**2. Holy Separation**
+No leaven, no honey, yet salt — these three regulations together describe the holy character required in worship: sinless (no leaven), uncorrupted (no honey), imperishable (salt). Drawing near to God requires separation from every form of sin.
+
+**3. The Relationship Between Grace and Works**
+The grain offering was frequently offered together with the burnt offering (Num 15:1-12), indicating that on the foundation of atonement, acts of thanksgiving and obedience have genuine meaning. Reformed theology emphasizes that justification is by faith alone, but genuine faith will inevitably produce a life of grateful obedience — the relationship between the grain offering and the burnt offering is precisely the liturgical expression of this truth.
+
+**4. Universality and Inclusivity**
+Grain was the most universally available agricultural product; the grain offering enabled even the poorest person to participate in the sacrificial system, expressing the universal scope of God's saving grace toward all humanity.`,
+    christShadow_zh: `素祭在多个层面预表基督：
+
+**细面——基督完全的人性**
+细面是精磨而成的，没有粗糙的颗粒，均匀细腻。教父们常以细面比喻基督完全、均衡的人性——没有一处过分突出，没有一处有所缺陷。祂是完全的人，却又完全无罪。
+
+**油——圣灵的膏抹**
+素祭中的油象征圣灵。基督受洗时，圣灵如鸽子降在祂身上。"神怎样以圣灵和能力膏抹拿撒勒人耶稣"（徒10:38），是素祭中油的应验。
+
+**乳香——芬芳的代祷**
+乳香的香气上腾，象征基督在父面前永远的代祷。"他永远活着，为他们祈求"（来7:25）。那上升的乳香烟，是基督代祷职分最美的预表。
+
+**无酵——绝对的圣洁**
+耶稣是那"无酵的细面"，是"圣洁、无邪恶、无玷污、远离罪人的大祭司"（来7:26）。祂的整个生命中没有任何罪的发酵。
+
+**盐——永约的保证**
+基督的赎罪之工建立了新约，是神与子民之间永不朽坏的立约关系。"这杯是用我血所立的新约"（路22:20）——新约的盐，永远腌透了神与祂子民的关系。
+
+**初熟之物——复活的第一位**
+素祭的初熟大麦穗子，预表基督作为"睡了之人初熟的果子"（林前15:20）。祂的复活是新创造收割的开始。`,
+    christShadow_en: `The grain offering prefigures Christ on several levels:
+
+**Fine Flour — Christ's Perfect Humanity**
+Fine flour was finely milled, without coarse grains, smooth and uniform. The church fathers frequently compared fine flour to Christ's perfect, balanced humanity — nothing excessive, nothing deficient in any respect. He was fully human, yet completely without sin.
+
+**Oil — The Anointing of the Spirit**
+The oil in the grain offering symbolizes the Holy Spirit. At Christ's baptism, the Holy Spirit descended upon Him like a dove. "How God anointed Jesus of Nazareth with the Holy Spirit and with power" (Acts 10:38) is the fulfillment of the oil in the grain offering.
+
+**Frankincense — The Fragrant Intercession**
+The rising fragrance of frankincense symbolizes Christ's eternal intercession before the Father. "He always lives to make intercession for them" (Heb 7:25). That ascending column of frankincense smoke is the most beautiful prefiguration of Christ's intercessory office.
+
+**Unleavened — Absolute Holiness**
+Jesus is that "unleavened fine flour," the "high priest who is holy, innocent, unstained, separated from sinners" (Heb 7:26). There was no leaven of sin anywhere in His entire life.
+
+**Salt — The Guarantee of the Eternal Covenant**
+Christ's atoning work established the new covenant — the imperishable covenant relationship between God and His people. "This cup that is poured out for you is the new covenant in my blood" (Luke 22:20) — the salt of the new covenant, permanently preserving God's relationship with His people.
+
+**Firstfruits — The First of the Resurrection**
+The new grain roasted with fire in the grain offering of firstfruits prefigures Christ as "the firstfruits of those who have fallen asleep" (1 Cor 15:20). His resurrection is the beginning of the harvest of the new creation.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 3,
+    publishDate: '2026-08-06',
+    title: '平安祭条例', titleEn: 'The Peace Offering',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 3 / Leviticus 3',
+    content_zh: `我是摩西。当耶和华向我颁布平安祭的律例时，那是献祭体系中我个人最能体会喜乐的一种祭祀。
+
+平安祭，希伯来文称为"זֶבַח שְׁלָמִים"（zevach shelamim），"shalom"的族词，意为"完全、和睦、平安"。这不是为了赎罪而献的祭（赎罪祭的功能），也不是全然焚烧的献身（燔祭的功能），而是一种在神面前举行的圣洁宴席——神、祭司和献祭者三方共享祭物，象征着与神的和好与团契。
+
+"人若献平安祭给耶和华，所献的若是出于牛群，无论是公的是母的，要在耶和华面前献没有残疾的。"（利未记3:1）
+
+平安祭有三种：感谢祭（因神的恩惠而献，利7:12-15）、还愿祭（还偿向神所许的愿，利7:16）和甘心祭（自愿出于甘心，利7:16）。这三种形式涵盖了以色列人与神关系中三种最常见的感情表达：对所收之恩典的感谢，对所许之诺言的守信，以及自发出于甘心的爱慕。
+
+献平安祭的程序与燔祭相似：献祭者按手在牲畜头上，在会幕门口宰杀，祭司将血洒在坛的四围。然而关键的不同在于如何处置祭物：
+
+脂油——所有脂油都要焚烧献给耶和华。肾脏周围的脂油、肝上的脂油、两个肾脏并其上的脂油，都要在坛上焚烧。这些内脏脂油在古代被视为牲畜生命力的精华，将它们焚烧在坛上，代表将最精华、最有价值的部分完全归给神。
+
+胸——胸要归给亚伦和他的子孙。这是摇祭，要在耶和华面前摇一摇。
+
+右腿——右腿要归给献祭的祭司。
+
+肉——剩下的肉可以由献祭者和他的家人在特定时间内食用。
+
+这种三方分享的安排是平安祭最独特之处：神得到脂油（最佳部分的象征），祭司得到胸和腿（服事的当然报偿），献祭者和他的家人得到剩余的肉（在神面前欢宴的权利）。这是在至圣者面前摆设的宴席，是和好关系的可见证明。
+
+"所献的若是小羊，要在耶和华面前献……若献的是公山羊……"（利3:6-12）。无论是牛、羊还是山羊，平安祭都可以接受，神的恩典向着不同财力的人都开放。
+
+我常在心中默想平安祭的图景：一家人将牛或羊带到会幕前，按手、宰杀、祭司行礼如仪，脂油在坛上升腾，然后一家人就在会幕庭院中，在耶和华的面前，欢欢乐乐地吃那圣洁的肉。孩子们也在场，老人也在，寄居的人也可以受邀（利7:19-21有净洁的规定）。那是以色列民族生命中最美的画面之一——神的子民在神的家门前，以祂的恩赐为食，活在感恩与欢乐的团契中。
+
+然而有一条严格的禁令：平安祭的肉不可留到第三天（感谢祭须当日吃完，还愿祭和甘心祭第二天还可以吃，利7:15-18）。这禁令防止了肉的腐烂，也阻止了对圣洁之物的轻慢——神的恩赐是当下的、新鲜的，需要及时接受，不可拖延积压。恩典是活水，不是死水。
+
+平安祭告诉我：救赎的终极目的不只是脱离审判，而是进入团契。神的心意不只是赦免我们的罪，祂更要与我们一同坐席，在祂的面前享受祂所赐的一切美善。`,
+    content_en: `I am Moses. When the LORD proclaimed to me the ordinances of the peace offering, it was the sacrifice in the entire sacrificial system that I personally could most experience with joy.
+
+The peace offering, called "זֶבַח שְׁלָמִים" (zevach shelamim) in Hebrew — a cognate of "shalom," meaning "wholeness, harmony, peace" — was not offered for atonement (that was the function of the sin offering) nor was it a complete burning in consecration (that was the function of the burnt offering). Rather, it was a holy feast held in the presence of God: a three-way sharing among God, the priests, and the worshiper, symbolizing reconciliation and fellowship with God.
+
+"If his offering is a sacrifice of peace offerings, if he offers an animal from the herd, male or female, he shall offer it without blemish before the LORD." (Leviticus 3:1)
+
+The peace offering came in three forms: the thanksgiving offering (offered in response to God's mercies, Lev 7:12-15), the vow offering (fulfilling a vow made to God, Lev 7:16), and the freewill offering (offered spontaneously from a willing heart, Lev 7:16). These three forms encompassed the three most common emotional expressions in Israel's relationship with God: gratitude for received grace, faithfulness to a promised vow, and the spontaneous affection of a loving heart.
+
+The procedure for the peace offering was similar to that of the burnt offering: the worshiper laid a hand on the animal's head, slaughtered it at the entrance of the tent of meeting, and the priest threw the blood against the sides of the altar. Yet the critical difference lay in how the sacrificial animal was disposed of:
+
+The fat — all the fat was to be burned as an offering to the LORD. The fat covering the entrails, the two kidneys with the fat on them near the loins, and the long lobe of the liver — all were burned on the altar. These internal fats were considered in ancient times to be the essence of the animal's vitality. Burning them on the altar represented dedicating the most essential, most valuable portion entirely to God.
+
+The breast — the breast was given to Aaron and his sons. This was the wave offering, waved before the LORD.
+
+The right thigh — the right thigh belonged to the officiating priest.
+
+The meat — the remaining meat could be eaten by the worshiper and his family within a specified time.
+
+This three-way sharing arrangement is the most distinctive feature of the peace offering: God receives the fat (symbolizing the best portion), the priests receive the breast and thigh (just compensation for their service), and the worshiper and his family receive the remaining meat (the privilege of feasting before God). This was a banquet spread before the Most Holy One — visible proof of a reconciled relationship.
+
+"If his offering is a sacrifice of peace offerings with an animal from the flock, male or female, he shall offer it without blemish... If his offering to the LORD is a goat..." (Lev 3:6-12). Whether cattle, sheep, or goat, the peace offering was accepted, and God's grace was open to people of differing means.
+
+I often meditated on the picture of the peace offering: a family bringing their cattle or sheep before the tabernacle, laying on hands, slaughtering the animal, the priest performing the ritual, the fat ascending from the altar, and then the family sitting within the court of the tabernacle — before the LORD — joyfully eating the holy meat. Children were present, the elderly were there, even sojourners could be invited (Lev 7:19-21 contains regulations for those who were clean). That was one of the most beautiful images in the life of the Israelite people — God's people at the gate of God's house, eating of His gifts, living in grateful and joyful fellowship.
+
+Yet one strict prohibition applied: the meat of the peace offering could not be kept until the third day (the thanksgiving offering had to be eaten the same day; the vow offering and freewill offering could be eaten the following day, Lev 7:15-18). This prohibition prevented the meat from rotting and also guarded against treating holy things with contempt — God's gifts are present and fresh, needing to be received promptly and not delayed or stockpiled. Grace is living water, not stagnant water.
+
+The peace offering tells me this: the ultimate purpose of redemption is not merely deliverance from judgment, but entry into fellowship. God's intent is not only to forgive our sins; He also desires to sit at table with us, to enjoy in His presence all the good things He has given.`,
+    historyContext_zh: `平安祭的"共享宴席"结构在古近东礼仪中有其文化背景。在古代中东，与神灵共享祭肉是众多宗教的惯例——美索不达米亚、迦南和埃及的神庙祭祀都有类似安排。
+
+然而以色列平安祭的神学意义与异教祭祀根本不同：在异教中，神灵依赖人类供养，宴席是为了安抚或取悦神灵；而在以色列，平安祭预设了神已经与以色列和好（通过燔祭和赎罪祭），宴席是对已有之和平关系的庆祝，而非建立关系的手段。
+
+在古代社会，共享宴席具有极强的立约意义。当两个部落的首领一同吃喝，这是立约的象征（参创31:44-46拉班与雅各立约后的宴席）。平安祭将这一普遍的文化惯例纳入以色列的神圣礼仪，宣告神愿意与祂的子民"同桌吃饭"。`,
+    historyContext_en: `The "shared feast" structure of the peace offering has its cultural background in ancient Near Eastern ritual. Sharing sacrificial meat with the deity was common practice in many ancient Middle Eastern religions — temples in Mesopotamia, Canaan, and Egypt had similar arrangements.
+
+Yet the theological meaning of Israel's peace offering was fundamentally different from pagan sacrifice: in paganism, the gods depended on human provision, and the feast was intended to appease or please the deity; in Israel, the peace offering presupposed that God had already been reconciled with Israel (through the burnt and sin offerings), and the feast was a celebration of an already-existing relationship of peace — not a means of establishing that relationship.
+
+In ancient society, sharing a feast carried profound covenant significance. When the leaders of two tribes ate and drank together, it was a symbol of covenant-making (cf. Gen 31:44-46, the feast following the covenant between Laban and Jacob). The peace offering incorporated this universal cultural convention into Israel's sacred liturgy, declaring that God was willing to "dine at the same table" with His people.`,
+    structure_zh: `利未记第3章按照献祭动物的种类分为三段：
+
+**第一段（3:1-5）：从牛群中献平安祭**
+- 可以是公或母（与燔祭只能献公畜不同）
+- 要献无残疾的
+- 程序：按手→在会幕门口宰杀→洒血→焚烧脂油
+
+**第二段（3:6-11）：献小羊为平安祭**
+- 公或母均可
+- 详细规定哪些脂油要焚烧（含脂尾，利3:9）
+
+**第三段（3:12-16）：献山羊为平安祭**
+- 公或母均可
+- 脂油规定与羊基本相同
+
+**总结原则（3:17）**
+- 永远的定例：脂油和血都不可吃
+- 这条禁令适用于以色列所有居住地`,
+    structure_en: `Leviticus chapter 3 is divided into three sections according to the type of animal offered:
+
+**Section 1 (3:1-5): Peace Offering from the Herd**
+- May be male or female (unlike the burnt offering, which required a male)
+- Must be without blemish
+- Procedure: Lay hand → slaughter at the entrance of the tabernacle → throw blood → burn fat
+
+**Section 2 (3:6-11): Peace Offering of a Lamb**
+- Male or female acceptable
+- Detailed regulations on which fat portions to burn (including the fat tail, Lev 3:9)
+
+**Section 3 (3:12-16): Peace Offering of a Goat**
+- Male or female acceptable
+- Fat regulations essentially the same as for the sheep
+
+**Summary Principle (3:17)**
+- A perpetual statute: neither fat nor blood shall be eaten
+- This prohibition applies in all Israelite dwelling places`,
+    theology_zh: `平安祭在改革宗神学中蕴含深刻的团契论意义：
+
+**1. 和睦已成——救恩的本质**
+平安祭是在赎罪之后献上的，预设了和好关系的存在。这在神学上揭示了救恩的逻辑顺序（ordo salutis）：首先是罪的赦免（赎罪），然后才是与神的团契（平安）。改革宗神学强调称义（罪得赦免）是成圣（与神的团契生活）的基础。
+
+**2. 神的可接近性**
+平安祭宣告了一个奇妙的真理：被罪所隔离的罪人，通过祭祀的途径，可以真实地进入神的同在，在神面前欢乐宴饮。这预示了新约中"我们坦然无惧地来到施恩的宝座前"（来4:16）的应许。
+
+**3. 感恩是救赎生命的特征**
+三种平安祭中，感谢祭是最迫切的（须当日吃完）。改革宗神学传统（特别是韦敏斯德要理问答）强调，感恩是救赎生命的核心特征，是真实信仰的自然流露，而非获取神恩典的手段。
+
+**4. 群体性与庆典性**
+平安祭是家庭性、群体性的活动，邀请家人、仆人、利未人和穷人同享（申12:12）。救恩不是个人孤立的经历，而是群体性的欢庆——教会是在神面前共享圣洁宴席的群体。`,
+    theology_en: `The peace offering carries profound communal and fellowship significance within Reformed theology:
+
+**1. Peace Has Been Made — The Nature of Salvation**
+The peace offering was presented after atonement, presupposing the existence of a reconciled relationship. This theologically reveals the logical order of salvation (ordo salutis): first comes the forgiveness of sins (atonement), then fellowship with God (peace). Reformed theology emphasizes that justification (forgiveness of sin) is the foundation of sanctification (a life of fellowship with God).
+
+**2. The Accessibility of God**
+The peace offering declares a remarkable truth: sinners, separated from God by sin, can through the way of sacrifice genuinely enter into God's presence and feast joyfully before Him. This foreshadows the New Testament promise: "Let us then with confidence draw near to the throne of grace" (Heb 4:16).
+
+**3. Gratitude as the Mark of a Redeemed Life**
+Among the three types of peace offerings, the thanksgiving offering was the most urgent (it had to be eaten the same day). Reformed theological tradition (especially the Westminster Catechism) emphasizes that gratitude is the central characteristic of a redeemed life — the natural expression of genuine faith, not a means of obtaining God's grace.
+
+**4. Communal and Celebratory Nature**
+The peace offering was a family and communal activity, inviting family members, servants, Levites, and the poor to share (Deut 12:12). Salvation is not an isolated individual experience but a communal celebration — the church is the community that shares in the holy feast before God.`,
+    christShadow_zh: `平安祭在基督身上得到了最丰富的应验：
+
+**基督是我们的平安**
+"因他使我们和睦，将两下合而为一，拆毁了中间隔断的墙……为要将两下藉着自己造成一个新人，如此便成就了和睦"（弗2:14-15）。基督自己就是那和睦，祂不只是平安的中保，祂本身就是平安祭的实质。
+
+**圣餐——平安祭的应验**
+主耶稣设立圣餐时说："这是我的身体……这是我立约的血"（太26:26-28）。圣餐正是新约版本的平安祭：在主的桌前，神的子民共享祂所赐的身体和血，庆祝与神已得的和好，活在感恩的团契中。路加福音24章，复活的主在以马忤斯与门徒擘饼——那是平安祭最美的新约图画。
+
+**三方共享的新约实现**
+旧约平安祭中，神得脂油，祭司得胸腿，百姓得肉。在新约中：神得到荣耀（基督的献身荣耀了父，约17:4），大祭司基督在父右边代祷（永活为我们代求），信徒则在祂里面承受一切属灵的福气（弗1:3）。
+
+**必须当日吃净——信心的即时性**
+感谢祭的肉须当日吃完，预表基督的救恩需要即时、完全地接受，不可拖延。"今日如果你们听见他的声音，就不可硬着心"（来3:7-8）。恩典是今日的邀请，不是明日的考量。`,
+    christShadow_en: `The peace offering finds its richest fulfillment in Christ:
+
+**Christ Is Our Peace**
+"For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility... that he might create in himself one new man in place of the two, so making peace" (Eph 2:14-15). Christ Himself is that peace — He is not merely the mediator of peace; He is Himself the substance of the peace offering.
+
+**The Lord's Supper — The Fulfillment of the Peace Offering**
+When the Lord Jesus instituted the Lord's Supper, He said: "This is my body... this is my blood of the covenant" (Matt 26:26-28). The Lord's Supper is the New Testament version of the peace offering: at the Lord's table, God's people share the body and blood He has given, celebrating the reconciliation already achieved with God, living in a community of thanksgiving. In Luke 24, the risen Lord breaks bread with the disciples at Emmaus — that is the most beautiful New Testament picture of the peace offering.
+
+**The Three-Way Sharing Fulfilled in the New Covenant**
+In the Old Testament peace offering, God received the fat, the priests received the breast and thigh, and the people received the meat. In the New Testament: God receives glory (Christ's self-offering glorified the Father, John 17:4), the great High Priest Christ intercedes at the Father's right hand (ever living to intercede for us), and believers receive every spiritual blessing in Him (Eph 1:3).
+
+**Must Be Eaten the Same Day — The Immediacy of Faith**
+The meat of the thanksgiving offering had to be eaten the same day, prefiguring that Christ's salvation must be received immediately and completely — not delayed. "Today, if you hear his voice, do not harden your hearts" (Heb 3:7-8). Grace is today's invitation, not tomorrow's deliberation.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 4,
+    publishDate: '2026-08-07',
+    title: '赎罪祭条例', titleEn: 'The Sin Offering',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 4 / Leviticus 4',
+    content_zh: `我是摩西。当耶和华向我颁布赎罪祭的律例时，我深知这是整个利未记献祭体系中最严肃、最精细的一种祭制。赎罪祭不是自愿的奉献，而是由罪行触发的必要补救——它直接面对人类无可回避的真实：我们是罪人，我们误犯，我们亏缺，我们需要赎罪。
+
+"耶和华晓谕摩西说，你告诉以色列人说，若有人在耶和华所吩咐不可行的事上误犯了一件……"（利未记4:1-2）
+
+"误犯"——这个词至关重要。利未记第4章的赎罪祭专门处理的是"בִּשְׁגָגָה"（bishgagah），即无意间的过失、无知中的罪，区别于高傲犯罪（蓄意悖逆，民15:30-31中明言这种罪当被剪除，没有赎罪祭的途径）。
+
+这一区分让我深思。它不是说无意之罪不需要赎罪，相反，它揭示了一个严肃的真理：神的律法是客观有效的，不因人的意图而改变。无论知不知道，违背了神的命令就是罪，就造成了与神之间的破裂，就需要被修复。人的无知不能为罪辩护，但神的怜悯为无知之罪开了赎回的路。
+
+赎罪祭的条例按照四个群体分别规定，这四个群体对应着责任的不同层次：
+
+**受膏的祭司（4:3-12）**：若是受膏的祭司犯罪，他要献一只无残疾的公牛犊。祭司的地位越高，罪的影响越深——"受膏的祭司犯罪，使百姓陷在罪里"。这是一句沉重的话。属灵领袖的罪不是私事，它有感染全体会众的力量。祭司要把血带进帐幕，蘸血弹在幔子前七次，将一些血抹在香坛的四角，将其余的血倒在燔祭坛的脚那里。那七次的弹血仪式，是在神最圣洁的居所面前，对罪的最庄严的认罪与清洁。牛的全身——脂油献在坛上，其余的运到营外洁净之处的灰堆上用火烧掉。祭司的赎罪祭不可留在营内，罪的污秽必须被完全带出圣营之外。
+
+**全会众（4:13-21）**：若是会众误犯了罪，长老们要代表全体按手在公牛头上。这是群体性的承担与认罪——整个以色列作为立约群体，共同承担对神命令的责任。没有人能说"那是别人的罪，与我无关"。
+
+**官长（4:22-26）**：若是官长犯罪，他要献一只无残疾的公山羊。请注意官长的赎罪祭（山羊）比祭司的（公牛）等级稍低，但仪式同样严肃。神对权柄的要求是：你拥有的权力越大，你对罪的责任就越不能推卸。
+
+**平民百姓（4:27-35）**：普通人若无意犯罪，要献一只无残疾的母山羊或母羊羔。同样按手、宰杀、洒血，脂油在坛上焚烧，"祭司要为他的罪赎罪，他必蒙赦免"。这句简单的话包含了无比宝贵的应许——赎罪，赦免。
+
+每次读到这个章节，我都被神为每一个人——祭司、会众、官长、平民——所开设的赦免之路所感动。没有人被排除在外，没有人因为地位高就可以逃避，也没有人因为地位低就被抛弃。神的赦免向着所有悔改、带着赎罪祭来到祂面前的人开放。
+
+旷野中，我们每个人都是带着赎罪祭走向会幕的——那些按手在牲畜头上的颤抖双手，那些流下来的鲜血，那些在坛上燃烧的脂油，无不诉说着同一件事：罪的代价是死，唯有替代才能带来赦免。`,
+    content_en: `I am Moses. When the LORD proclaimed to me the ordinances of the sin offering, I knew deeply that this was the most solemn and detailed of all the sacrificial regulations in Leviticus. The sin offering was not a voluntary act of devotion, but a necessary remedy triggered by transgression — it confronted directly the unavoidable reality of human existence: we are sinners, we err, we fall short, we need atonement.
+
+"The LORD spoke to Moses, saying, 'Speak to the people of Israel, saying, If anyone sins unintentionally in any of the LORD's commandments about things not to be done...'" (Leviticus 4:1-2)
+
+"Unintentionally" — this word is crucial. The sin offering of Leviticus chapter 4 specifically addresses "בִּשְׁגָגָה" (bishgagah), meaning inadvertent transgressions, sins committed in ignorance, as distinct from high-handed sin (deliberate rebellion, which Numbers 15:30-31 explicitly states shall be cut off — no sin offering was available for such sin).
+
+This distinction gave me much to contemplate. It does not mean that unintentional sin requires no atonement; on the contrary, it reveals a sobering truth: God's law is objectively binding and does not change according to human intent. Whether one knew or not, violation of God's command is sin — it creates a breach in one's relationship with God that requires repair. Human ignorance cannot excuse sin, but God's mercy has opened a way of redemption for sins of ignorance.
+
+The regulations of the sin offering are specified separately for four groups, corresponding to different levels of responsibility:
+
+**The Anointed Priest (4:3-12)**: If the anointed priest sins, he must bring a bull without blemish. The higher the priest's position, the deeper the impact of his sin — "if the anointed priest sins, thus bringing guilt on the people." This is a weighty statement. The sin of a spiritual leader is not a private matter; it has the power to infect the entire congregation. The priest was to bring the blood into the tabernacle, sprinkle it seven times before the veil, put some on the horns of the altar of fragrant incense, and pour the rest at the base of the altar of burnt offering. That seven-fold sprinkling of blood before God's most holy dwelling was the most solemn act of confession and cleansing of sin. The bull's fat was offered on the altar; the rest was carried outside the camp to the ash heap and burned. The priest's sin offering could not remain within the camp — the defilement of sin had to be completely removed from the holy camp.
+
+**The Whole Congregation (4:13-21)**: If the congregation sins inadvertently, the elders are to lay their hands on the bull's head on behalf of the whole community. This was a communal bearing and confession of sin — all Israel, as a covenant community, shared responsibility for obedience to God's commands. No one could say, "That is someone else's sin; it has nothing to do with me."
+
+**A Leader (4:22-26)**: If a leader sins, he must bring a male goat without blemish. Note that the leader's sin offering (a goat) was of slightly lower grade than the priest's (a bull), but the ritual was equally solemn. God's requirement of authority is this: the greater the power you hold, the less you can deflect responsibility for sin.
+
+**An Ordinary Person (4:27-35)**: If a common person sins inadvertently, they must bring a female goat or female lamb without blemish. The same procedure: laying on hands, slaughter, sprinkling of blood, burning the fat on the altar — "and the priest shall make atonement for him, and he shall be forgiven." These simple words contain an immeasurably precious promise: atonement, forgiveness.
+
+Every time I read this chapter, I am moved by the way God has opened a path of forgiveness for every person — priest, congregation, leader, commoner. No one is excluded; no one in high position can escape; no one in low position is abandoned. God's forgiveness is open to all who repent and come before Him with a sin offering.
+
+In the wilderness, every one of us walked toward the tabernacle bearing a sin offering — those trembling hands laid upon the heads of the animals, that flowing blood, that fat burning on the altar: all of it told the same story. The wages of sin is death, and only substitution can bring forgiveness.`,
+    historyContext_zh: `赎罪祭制度（חַטָּאת, chattat）在古代宗教体系中有其独特性。虽然古近东文化都有"净洁"（purification）的宗教概念，但以色列赎罪祭的神学深度远超其周边文化。
+
+在古代美索不达米亚，罪（annu）通常被理解为触怒神灵的冒犯行为，通过祭祀仪式可以"洗涤"。然而这些仪式更侧重于仪式性的净洁，而非道德性的赦免。以色列的赎罪祭则同时具有仪式净洁和道德赦免两个层面——"他必蒙赦免"（利4:20）的应许，是以色列赎罪祭制度中独一无二的。
+
+在历史背景上，利未记第4章颁布于以色列在西奈旷野安营期间。以色列刚刚经历了金牛犊事件（出32章），那是高傲犯罪的悲剧，导致三千人被杀。上帝随后设立的赎罪祭制度，在金牛犊事件的阴影下显得格外有意义——神为无意之罪设立了赦免之路，但同时也清楚地划定了高傲犯罪的边界。`,
+    historyContext_en: `The sin offering system (חַטָּאת, chattat) has its distinctive character within the ancient religious world. While ancient Near Eastern cultures all had religious concepts of "purification," the theological depth of Israel's sin offering far surpassed its surrounding cultures.
+
+In ancient Mesopotamia, sin (annu) was generally understood as an offense that angered the gods, which could be "washed away" through sacrificial ritual. However, these rituals focused more on ritual cleansing than on moral forgiveness. Israel's sin offering operated on both levels simultaneously — ritual purification and moral forgiveness. The promise "he shall be forgiven" (Lev 4:20) is unique to Israel's sin offering system.
+
+Historically, Leviticus chapter 4 was proclaimed during Israel's encampment at Sinai. Israel had just experienced the golden calf incident (Exod 32), a tragedy of high-handed sin that resulted in the deaths of three thousand people. The sin offering system established afterward takes on particular significance in the shadow of the golden calf — God opened a way of forgiveness for unintentional sins while simultaneously drawing a clear boundary around high-handed rebellion.`,
+    structure_zh: `利未记第4章按照犯罪者的身份分为四段：
+
+**第一段（4:1-2）：总纲**
+- 关于"误犯"（bishgagah）的定义
+- 罪的范围：耶和华所吩咐不可行的事
+
+**第二段（4:3-12）：受膏祭司的赎罪祭**
+- 祭物：公牛犊（最高等级）
+- 特殊仪式：将血带进帐幕，弹血七次在幔子前
+- 血要抹在香坛角上
+- 牛的其余部分运到营外烧掉
+
+**第三段（4:13-21）：全会众的赎罪祭**
+- 祭物：公牛犊
+- 长老代表按手
+- 仪式与祭司赎罪祭相同
+
+**第四段（4:22-26）：官长的赎罪祭**
+- 祭物：公山羊
+- 血只抹在燔祭坛的角上（不进帐幕）
+- 其余脂油仍在坛上焚烧
+
+**第五段（4:27-35）：平民的赎罪祭**
+- 祭物：母山羊（4:27-31）或母羊羔（4:32-35）
+- 程序与官长赎罪祭相同
+- 结语："祭司要为他赎罪，他必蒙赦免"`,
+    structure_en: `Leviticus chapter 4 is divided into sections based on the identity of the transgressor:
+
+**Section 1 (4:1-2): Introduction**
+- Definition of "unintentional" (bishgagah)
+- Scope of sin: things the LORD commanded not to be done
+
+**Section 2 (4:3-12): Sin Offering for the Anointed Priest**
+- Sacrifice: Bull calf (highest grade)
+- Special ritual: Blood brought into the tabernacle, sprinkled seven times before the veil
+- Blood applied to the horns of the incense altar
+- Remainder of the bull carried outside the camp and burned
+
+**Section 3 (4:13-21): Sin Offering for the Whole Congregation**
+- Sacrifice: Bull calf
+- Elders lay on hands as representatives
+- Ritual identical to the priestly sin offering
+
+**Section 4 (4:22-26): Sin Offering for a Leader**
+- Sacrifice: Male goat
+- Blood applied only to the horns of the burnt offering altar (not brought into the tabernacle)
+- Remaining fat still burned on the altar
+
+**Section 5 (4:27-35): Sin Offering for an Ordinary Person**
+- Sacrifice: Female goat (4:27-31) or female lamb (4:32-35)
+- Procedure same as the leader's sin offering
+- Conclusion: "The priest shall make atonement for him, and he shall be forgiven"`,
+    theology_zh: `赎罪祭在改革宗神学中涉及几个核心教义：
+
+**1. 罪的客观性**
+赎罪祭基于"误犯"也需要赎罪的原则，揭示了罪的客观性：罪不只是主观感受，而是对神客观律法的客观违背。改革宗神学拒绝将罪仅仅理解为"感觉不好"或"社会伤害"，坚持罪首先是对神的冒犯。
+
+**2. 罪的感染性与群体责任**
+祭司的罪"使百姓陷在罪里"（利4:3），会众需要共同担责（4:13-21）。这预示了改革宗神学的"原罪论"——亚当的罪通过代表性原则（federal headship）传给全人类（罗5:12-19）。群体性的罪责需要群体性的赎罪。
+
+**3. 代祷与中保的必要性**
+赎罪祭必须经过祭司进行。个人不能直接为自己献赎罪祭，必须有中保的参与。这是整个旧约礼仪体系对中保必要性的反复宣告，指向独一中保基督（提前2:5）。
+
+**4. 赦免的确定性**
+"他必蒙赦免"（利4:20, 26, 31, 35）——这不是"也许"或"可能"，而是确定的应许。凡按照神所规定的途径来的，必然蒙赦免。改革宗神学中的"圣徒蒙保守"（perseverance of the saints）在此有礼仪上的基础：神的赦免是可靠的、有保证的。`,
+    theology_en: `The sin offering touches on several core doctrines within Reformed theology:
+
+**1. The Objectivity of Sin**
+Based on the principle that even unintentional sin requires atonement, the sin offering reveals the objective nature of sin: sin is not merely a subjective feeling, but an objective violation of God's objective law. Reformed theology rejects the reduction of sin to "feeling bad" or "causing social harm," maintaining that sin is first and foremost an offense against God.
+
+**2. The Contagion of Sin and Corporate Responsibility**
+The priest's sin "brings guilt on the people" (Lev 4:3), and the congregation must bear corporate responsibility (4:13-21). This foreshadows the Reformed doctrine of original sin — Adam's sin is transmitted to all humanity through the principle of federal headship (Rom 5:12-19). Corporate guilt requires corporate atonement.
+
+**3. The Necessity of Intercession and Mediation**
+The sin offering had to be administered through a priest. An individual could not offer a sin offering for himself; the participation of a mediator was required. This is the sacrificial system's repeated declaration of the necessity of mediation throughout the Old Testament, pointing to the one mediator, Christ (1 Tim 2:5).
+
+**4. The Certainty of Forgiveness**
+"He shall be forgiven" (Lev 4:20, 26, 31, 35) — not "perhaps" or "possibly," but a certain promise. All who come through the God-appointed way shall certainly be forgiven. The Reformed doctrine of the perseverance of the saints has its liturgical foundation here: God's forgiveness is reliable and guaranteed.`,
+    christShadow_zh: `赎罪祭是新约基督论中引用最密集的旧约背景之一：
+
+**基督是我们的赎罪祭**
+"神使那无罪的，替我们成为罪，好叫我们在他里面成为神的义"（林后5:21）。这是对赎罪祭按手礼（罪的转移）的最直接神学解释。基督成为了我们的赎罪祭——祂是那完全无瑕疵的祭物，祂承担了我们的罪债。
+
+**营外——基督被钉十字架之地**
+祭司的赎罪祭必须运到营外焚烧（利4:12），代表罪的污秽被带离圣洁之地。希伯来书明确应用这一预表："所以耶稣也在城门外受苦，为要用自己的血叫百姓成圣"（来13:12）。各各他山在城门外，应验了"营外"的预表。
+
+**七次弹血——完全洁净**
+祭司的赎罪祭要在幔子前弹血七次，七代表完全。基督的血"洁净我们的心，除去我们的死行，使我们事奉那永生神"（来9:14）。那七次弹血是基督宝血完全洁净能力的预表。
+
+**高傲之罪无赎罪祭——唯独基督例外**
+民数记15:30说高傲犯罪者要被剪除，没有赎罪祭。然而基督在十字架上为那些高傲犯罪、蓄意悖逆的人祈求："父啊，赦免他们"（路23:34）。基督的代求突破了旧约赎罪体系的限制，祂是真正大祭司，能为那些似乎没有赦免盼望的人代求。
+
+**四个群体——基督赎罪的普世性**
+四个群体（祭司、会众、官长、平民）代表了社会的全部阶层。基督"为众人死"（林后5:15），祂的赎罪不分阶层，向着所有信祂的人有效。`,
+    christShadow_en: `The sin offering is one of the most densely cited Old Testament backgrounds in New Testament Christology:
+
+**Christ Is Our Sin Offering**
+"For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God" (2 Cor 5:21). This is the most direct theological interpretation of the laying-on-of-hands ritual of the sin offering — the transfer of sin. Christ became our sin offering: He was that perfectly unblemished sacrifice; He bore our debt of sin.
+
+**Outside the Camp — Where Christ Was Crucified**
+The priestly sin offering had to be carried outside the camp and burned (Lev 4:12), representing the defilement of sin being removed from the holy place. Hebrews explicitly applies this typology: "So Jesus also suffered outside the gate in order to sanctify the people through his own blood" (Heb 13:12). Golgotha was outside the city gate — the fulfillment of the "outside the camp" typology.
+
+**Seven-fold Sprinkling of Blood — Complete Cleansing**
+The priestly sin offering required sprinkling blood seven times before the veil; seven represents completeness. Christ's blood "purifies our conscience from dead works to serve the living God" (Heb 9:14). That seven-fold sprinkling prefigures the complete cleansing power of Christ's precious blood.
+
+**No Sin Offering for High-Handed Sin — Except Through Christ**
+Numbers 15:30 states that those who sin with a high hand shall be cut off — no sin offering was available. Yet Christ on the cross interceded for those who sinned deliberately and rebelliously: "Father, forgive them" (Luke 23:34). Christ's intercession broke through the limitations of the Old Testament atonement system; He is the true great High Priest, able to intercede for those who seem to have no hope of forgiveness.
+
+**Four Groups — The Universal Scope of Christ's Atonement**
+The four groups (priests, congregation, leaders, ordinary people) represent all social strata. Christ "died for all" (2 Cor 5:15); His atonement crosses all class boundaries and is effective for all who believe in Him.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 5,
+    publishDate: '2026-08-10',
+    title: '赎愆祭条例', titleEn: 'The Guilt Offering',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 5 / Leviticus 5',
+    content_zh: `我是摩西。当耶和华向我颁布赎愆祭的律例时，那是整个利未记献祭体系中最具体、最贴近日常生活的一种规定——它处理的是那些我们在日常行为中触犯神的命令、或在人际关系中亏欠他人之事的赎回。
+
+赎愆祭，希伯来文称为"אָשָׁם"（asham），意为"赔偿、偿还"。与赎罪祭（chattat）侧重于罪的赦免不同，赎愆祭更侧重于对所造成之损害的补偿——不仅要赦免，还要弥补。
+
+利未记第5章列举了几种具体触发赎愆祭的情形：
+
+**第一种：听见发誓的声音而不陈说（5:1）**
+以色列人若听见有人公开发誓要找证人，自己知道实情却保持沉默，不肯出来见证——这是消极的罪，是不作为的罪。神的律法不只要求我们不做坏事，也要求我们在应当行善时必须行善。那个知情而沉默的人，承担了同谋的罪责。
+
+我想到多少人用沉默来逃避责任。在法庭上，在市场上，在家庭中——那些知道真相却选择不开口的人，以为沉默保护了自己，却不知道在神面前，沉默同样是罪。
+
+**第二种：接触不洁之物（5:2-3）**
+若人误触了不洁的死兽、死牲畜，或人的污秽——即便不知道，事后知道了就有了罪责。这条规定再次强调了罪的客观性：不洁是客观的，不因主观意识而减轻。发现了就要认罪，就要献赎愆祭。
+
+**第三种：轻率发誓（5:4）**
+若人因口轻率发誓，要行恶或行善，无论发誓要做何事，事后才发现这誓言是轻率的——这也是罪。神对祂子民的言语有极高的要求。"你们的话，是就说是，不是就说不是"（太5:37）。轻率的誓言贬低了发誓行为的神圣性，也暴露了人心的轻浮。
+
+**认罪与赎罪（5:5-6）**
+对于以上三种罪，当事人必须"认他所犯的罪"（5:5）。认罪是赎愆祭的必要前提——不是形式主义的念出罪名，而是真实地在神面前承认自己的过犯。然后他要"把所犯的罪带给耶和华，作赎愆祭"，可以是羊群中的母羊或山羊（5:6）。
+
+**为贫穷者设立的通道（5:7-13）**
+令我感动的是，神为不能负担牲畜祭物的穷人设立了两条替代路径：斑鸠或雏鸽（5:7-10），甚至是一捧细面（5:11-13）。那捧细面没有油，没有乳香，是最简朴的供物——但它在神面前同样蒙悦纳，同样带来赦免。这是神恩典的民主性：救恩不是富人的专利，也不是穷人买不起的奢侈品。
+
+一捧面粉，一个破碎悔改的心，同样能在神面前换取赦免。当我宣布这条律例的时候，我看见营地里那些贫穷的人眼中闪着光——那是盼望的光。
+
+**对圣物的亏欠（5:14-16）**
+第二部分转向对神圣物的亏欠。若人在耶和华的圣物上（如十分之一、初熟之物、奉献物等）"误犯了罪"，必须带公羊为赎愆祭，还要"加上五分之一"（120%）归还给祭司。
+
+这额外的20%是对所亏欠之物的赔偿金。亏欠神的，不只要归还本金，还要加上利息。这彰显了神是公义的债主，不会对罪的后果轻描淡写。
+
+**对神命令的亏欠（5:17-19）**
+最后，若人做了耶和华所吩咐不可做的事，即便不知道是罪，也有了罪责。当他知道之后，同样需要献公羊为赎愆祭。这进一步强调了客观道德律的有效性——罪不因无知而自动消失。
+
+旷野里，我每次向百姓宣讲这些律例，都感受到一种沉重而又温柔的双重情感。沉重，是因为神的圣洁是真实的，祂对罪的追究是彻底的，没有任何方面的亏欠可以被漠视。温柔，是因为神为各种处境、各种过犯、各种人设立了赎回的道路——无论是听见誓言而沉默的，还是误触不洁之物的，还是因贫穷只能带来一捧面粉的，神都为他们预备了赦免的门。
+
+神的公义与神的怜悯在赎愆祭中奇妙地交汇：罪必须得到补偿（公义），但补偿的途径是神自己为我们预备的（怜悯）。`,
+    content_en: `I am Moses. When the LORD proclaimed to me the ordinances of the guilt offering, it was the most concrete and most practically applicable section of Leviticus — addressing those occasions when we transgress God's commands in the course of daily behavior, or when we have caused damage in our relationships with others and owe restitution.
+
+The guilt offering, called "אָשָׁם" (asham) in Hebrew, means "reparation, restitution." Unlike the sin offering (chattat), which focuses on the forgiveness of sin, the guilt offering focuses more on compensation for the harm caused — not merely forgiveness, but also restoration.
+
+Leviticus chapter 5 lists several specific situations that trigger the guilt offering:
+
+**The First Case: Failing to Speak When Under Oath (5:1)**
+If an Israelite heard a public call for witnesses and, knowing the facts, remained silent and refused to come forward to testify — this was a sin of passivity, a sin of omission. God's law does not only forbid doing evil; it also requires us to do good when we should. The one who knew and remained silent bore the guilt of complicity.
+
+I think of how many people use silence to escape responsibility. In the courtroom, in the marketplace, in the home — those who know the truth and choose not to speak suppose that silence protects them, not knowing that before God, silence is equally sin.
+
+**The Second Case: Touching an Unclean Thing (5:2-3)**
+If someone inadvertently touched an unclean dead animal, unclean livestock, or human uncleanness — even without knowing it, once they realized it, they incurred guilt. This regulation once again emphasizes the objective nature of sin: uncleanliness is objective and is not lessened by lack of conscious awareness. Once discovered, one must confess and bring a guilt offering.
+
+**The Third Case: Rash Oaths (5:4)**
+If someone swore a rash oath to do something good or evil — whatever the content — and later realized the oath was rash, this too was sin. God holds His people to a very high standard of speech. "Let what you say be simply 'Yes' or 'No'" (Matt 5:37). A rash oath diminishes the sacredness of the act of swearing and exposes the frivolity of the human heart.
+
+**Confession and Atonement (5:5-6)**
+For all three of these cases, the person "shall confess the sin he has committed" (5:5). Confession is the necessary prerequisite for the guilt offering — not a formalistic recitation of the offense, but a genuine acknowledgment of transgression before God. Then he was to "bring to the LORD as his compensation for the sin that he has committed, a female from the flock, a lamb or a goat, for a sin offering" (5:6).
+
+**The Way Provided for the Poor (5:7-13)**
+What moves me deeply is that God established two alternative paths for those too poor to afford an animal sacrifice: two turtledoves or two pigeons (5:7-10), or even a handful of fine flour (5:11-13). That handful of flour had no oil, no frankincense — the most plain and simple of offerings — yet it was equally accepted before God and equally brought forgiveness. This is the democracy of God's grace: salvation is not the exclusive property of the rich, nor is it a luxury the poor cannot afford.
+
+A handful of flour and a broken, repentant heart can equally purchase forgiveness before God. When I proclaimed this ordinance, I saw light flash in the eyes of the poor people throughout the camp — the light of hope.
+
+**Restitution for Holy Things (5:14-16)**
+The second part turns to obligations owed regarding holy things. If someone "sins unintentionally" regarding the LORD's holy things (such as tithes, firstfruits, dedicated offerings), they must bring a ram as a guilt offering and also "add a fifth to it" (120%) in restitution to the priest.
+
+That additional 20% was the compensation for what was owed. What is owed to God is not simply returned at face value — there is interest as well. This reveals God as a just creditor who does not minimize the consequences of sin.
+
+**Restitution for God's Commands (5:17-19)**
+Finally, if someone did what the LORD commanded should not be done, even without knowing it was sin, guilt was still incurred. When they realized it, they equally needed to bring a ram as a guilt offering. This further emphasizes the validity of the objective moral law — sin does not automatically disappear due to ignorance.
+
+In the wilderness, every time I proclaimed these ordinances to the people, I felt a dual emotion — heavy and yet tender. Heavy, because God's holiness is real, His accountability for sin is thorough, and no area of debt can be ignored. Tender, because God established a path of redemption for every situation, every transgression, every kind of person — whether those who stayed silent when they heard an oath, or those who accidentally touched something unclean, or those too poor to bring anything but a handful of flour, God prepared a gate of forgiveness for them all.
+
+God's justice and God's mercy meet wondrously in the guilt offering: sin must be compensated (justice), but the means of compensation is prepared by God Himself for us (mercy).`,
+    historyContext_zh: `赎愆祭（asham）在古代近东文化中的对应物相对罕见。大多数古代宗教的祭祀体系关注的是神灵的安抚，而非人际损害的赔偿。以色列赎愆祭的独特之处在于，它将垂直关系（与神的关系）和水平关系（与人的关系）联系在了一起——对神圣物的亏欠和对他人的亏欠，都通过同一个赎愆祭体系来处理。
+
+这在古代法律体系中也有其对应。汉谟拉比法典（约公元前1754年）包含了大量关于财产损害赔偿的规定，有些也涉及"加倍赔偿"的原则。以色列的赎愆祭"五分之一"（20%）附加赔偿，在古代近东法律背景下是温和的——其他法律体系往往要求双倍（100%）甚至更高的赔偿。
+
+神的律法体现了公义与怜悯的平衡：罪必须得到补偿（公义），但赔偿率是可承受的，且神为穷人开设了特殊通道（怜悯）。`,
+    historyContext_en: `Counterparts to the guilt offering (asham) in ancient Near Eastern cultures were relatively rare. Most ancient religious sacrificial systems focused on appeasing deities rather than on compensating for interpersonal damage. The distinctive feature of Israel's guilt offering is that it linked the vertical relationship (relationship with God) and the horizontal relationship (relationship with others) — deficits regarding God's holy things and deficits toward other people were both handled through the same guilt offering system.
+
+This also had its counterpart in ancient legal systems. The Code of Hammurabi (c. 1754 BC) included extensive regulations regarding compensation for property damage, some also involving the principle of "double restitution." The guilt offering's "one-fifth" (20%) additional restitution was moderate by ancient Near Eastern legal standards — other legal systems often required double (100%) or even greater compensation.
+
+God's law embodies the balance of justice and mercy: sin must be compensated (justice), but the restitution rate is bearable, and God has opened a special pathway for the poor (mercy).`,
+    structure_zh: `利未记第5章可分为两大部分：
+
+**第一部分（5:1-13）：需要认罪赎罪的具体罪行**
+
+小段一（5:1）：听见誓约声音而不陈说
+小段二（5:2-3）：误触不洁之物
+小段三（5:4）：轻率发誓
+小段四（5:5-6）：认罪的要求与标准祭物（母羊/山羊）
+小段五（5:7-10）：贫穷者的替代途径一（斑鸠或雏鸽）
+小段六（5:11-13）：贫穷者的替代途径二（细面）
+
+**第二部分（5:14-19）：赎愆祭的具体应用**
+
+小段七（5:14-16）：对圣物的误犯（加五分之一赔偿）
+小段八（5:17-19）：对神命令的误犯（不知情之罪的处理）
+
+全章的逻辑是从具体到一般：先列举具体情形（1-13节），再阐述赎愆祭的一般原则（14-19节）。`,
+    structure_en: `Leviticus chapter 5 can be divided into two major sections:
+
+**Part One (5:1-13): Specific Transgressions Requiring Confession and Atonement**
+
+Sub-section 1 (5:1): Failing to speak upon hearing a public oath
+Sub-section 2 (5:2-3): Inadvertently touching an unclean thing
+Sub-section 3 (5:4): Swearing a rash oath
+Sub-section 4 (5:5-6): The requirement of confession and the standard sacrifice (female lamb or goat)
+Sub-section 5 (5:7-10): Alternative provision for the poor (turtledoves or pigeons)
+Sub-section 6 (5:11-13): Second alternative for the poor (fine flour)
+
+**Part Two (5:14-19): Specific Applications of the Guilt Offering**
+
+Sub-section 7 (5:14-16): Inadvertent sin regarding holy things (restitution plus one-fifth)
+Sub-section 8 (5:17-19): Inadvertent sin against God's commands (handling sin committed in ignorance)
+
+The chapter's logic moves from specific to general: first listing specific situations (vv. 1-13), then articulating the general principles of the guilt offering (vv. 14-19).`,
+    theology_zh: `赎愆祭在改革宗神学中涉及几个重要的伦理与救恩论主题：
+
+**1. 罪的全面性——作为与不作为**
+利未记第5章明确将不作为之罪（沉默的证人，5:1）纳入需要赎罪的范畴。改革宗神学的《韦敏斯德小要理问答》第14问阐明："罪是不合乎或违背神的律法的任何缺乏、不顺从或越轨行为"。"缺乏"与"不顺从"不只指主动犯罪，也包括应当行善而不行的消极之罪。
+
+**2. 悔改的真实性——认罪是前提**
+"他要认他所犯的罪"（5:5）——赎愆祭不能绕过认罪直接献祭。这揭示了改革宗神学中悔改的两个层面：知性的承认（认识到所犯之罪）和意志的回转（带着祭物寻求赦免）。没有真实认罪的仪式是空洞的，神所要的是破碎痛悔的心（诗51:17）。
+
+**3. 神的公义需要赔偿**
+"加上五分之一"的赔偿要求彰显了神的公义属性——罪造成了真实的损害，损害需要真实的补偿。这在系统神学中对应"满足论"（satisfaction theory）的赎罪观：基督的赎罪不只是神主观地"决定宽恕"，而是客观地满足了神公义的要求。
+
+**4. 恩典的等级性与普及性**
+从公牛到山羊到鸽子到细面粉，赎愆祭制度体现了神恩典的等级性与普及性——人人都有可负担的途径进入赦免，神的赦免面向所有悔改的人，不论贫富。`,
+    theology_en: `The guilt offering touches on several important ethical and soteriological themes within Reformed theology:
+
+**1. The Comprehensiveness of Sin — Acts and Omissions**
+Leviticus chapter 5 explicitly includes sins of omission (the silent witness, 5:1) within the scope of what requires atonement. The Westminster Shorter Catechism, Q&A 14, defines sin as "any lack of conformity unto, or transgression of, the law of God." "Lack of conformity" and "transgression" encompass not only active wrongdoing but also the passive sin of failing to do good when one should.
+
+**2. The Genuineness of Repentance — Confession as Prerequisite**
+"He shall confess the sin he has committed" (5:5) — the guilt offering could not bypass confession and proceed directly to sacrifice. This reveals two dimensions of repentance in Reformed theology: intellectual acknowledgment (recognizing the sin committed) and volitional turning (seeking forgiveness through the prescribed offering). Ritual without genuine confession is hollow; what God desires is a broken and contrite heart (Ps 51:17).
+
+**3. God's Justice Requires Compensation**
+The requirement to "add a fifth to it" displays God's attribute of justice — sin causes real damage, and real damage requires real compensation. In systematic theology, this corresponds to the "satisfaction theory" of atonement: Christ's atonement was not merely God subjectively "deciding to forgive," but the objective satisfaction of God's just requirements.
+
+**4. The Gradation and Universality of Grace**
+From bull to goat to dove to fine flour, the guilt offering system embodies both the gradation and the universality of God's grace — everyone has an affordable pathway to forgiveness. God's forgiveness is open to all who repent, regardless of wealth or poverty.`,
+    christShadow_zh: `赎愆祭对基督的预表在以赛亚书中得到了最明确的揭示：
+
+**"他的灵魂献为赎罪祭"——以赛亚书53章**
+以赛亚书53:10的"赎罪祭"（原文正是asham，赎愆祭！）是整本圣经中赎愆祭与基督最直接的联系："耶和华却定意将他压伤，使他受痛苦；耶和华以他的灵魂为赎愆祭（asham）。"基督不只是赎罪祭（chattat），更是赎愆祭（asham）——祂不只带走了我们的罪，更偿还了我们对神所有的亏欠，加上了属灵的"五分之一"，使神的公义得到完全的满足。
+
+**不作为的罪——基督积极的顺服**
+赎愆祭覆盖了不作为之罪（沉默的证人）。基督不只是被动地承受惩罚（消极顺服），更是积极地完成了神律法的全部要求（积极顺服）。改革宗神学强调基督的"积极顺服"（active obedience）——祂完全遵行了律法所要求的一切正面命令，将这完全的义归算给我们。
+
+**为贫穷者设立的一捧面粉——信心的充分性**
+神为贫穷人设立了一捧细面作为赎愆祭，预表在基督里，唯独信心就足够了——无论人的社会地位、财富积累或道德成就如何，"凡靠着他来到神面前的人，他都能拯救到底"（来7:25）。一捧面粉般微小的信心，靠着基督的功劳，同样得以进入神的赦免。
+
+**五分之一的偿还——基督赐给我们的富足**
+基督的赎罪不只是偿还了我们对神的亏欠，更将神的义加给我们——我们在基督里不只是"还清了债"，更是成为了"神的义"（林后5:21）。那额外的五分之一，在基督里变成了倾倒在我们身上的无尽恩典。
+
+**一次献上，永远有效**
+旧约的赎愆祭需要一次又一次地献上——每次发现罪就需要新的祭物。但基督"只一次将自己献上，就把这事成全了"（来7:27）。祂的赎愆祭是终极的、一次性的、永远有效的。`,
+    christShadow_en: `The typological connection between the guilt offering and Christ finds its most explicit revelation in Isaiah:
+
+**"His Soul as a Guilt Offering" — Isaiah 53**
+The word for "guilt offering" in Isaiah 53:10 is precisely asham: "Yet it was the will of the LORD to crush him; he has put him to grief; when his soul makes an offering for guilt (asham)..." This is the most direct connection in all of Scripture between the guilt offering and Christ. Christ was not only a sin offering (chattat) but also a guilt offering (asham) — He not only took away our sins but repaid all our debts to God, adding the spiritual "one-fifth," so that God's justice was completely satisfied.
+
+**Sins of Omission — Christ's Active Obedience**
+The guilt offering covered sins of omission (the silent witness). Christ not only passively bore punishment (passive obedience) but also actively fulfilled all of God's law's positive requirements (active obedience). Reformed theology emphasizes Christ's "active obedience" — He completely fulfilled every positive command of the law, imputing that perfect righteousness to us.
+
+**The Handful of Flour for the Poor — The Sufficiency of Faith**
+God's provision of a handful of fine flour as a guilt offering for the poor prefigures that in Christ, faith alone is sufficient — regardless of social standing, accumulated wealth, or moral achievement. "He is able to save to the uttermost those who draw near to God through him" (Heb 7:25). A faith as small as a handful of flour, through Christ's merit, is equally granted entry into God's forgiveness.
+
+**The One-Fifth Restitution — The Riches Christ Gives Us**
+Christ's atonement does not only repay our debt to God; it also imputes God's righteousness to us — in Christ we do not merely have our "debt cleared," we become "the righteousness of God" (2 Cor 5:21). That additional one-fifth becomes, in Christ, the inexhaustible grace poured out upon us.
+
+**Offered Once, Effective Forever**
+The Old Testament guilt offering had to be repeated again and again — each newly discovered sin required a new sacrifice. But Christ "did this once for all when he offered up himself" (Heb 7:27). His guilt offering is ultimate, once-for-all, and eternally effective.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 6,
+    publishDate: '2026-08-11',
+    title: '燔祭与素祭的补充条例', titleEn: 'Additional Laws for Burnt and Grain Offerings',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 6 / Leviticus 6',
+    content_zh: `我摩西站在会幕门口，心中充满敬畏。耶和华再次对我说话，将燔祭和素祭的补充条例传给我，这些话不单是给百姓的，乃是专门吩咐亚伦和他儿子们——那些蒙召事奉在圣所中的祭司们。
+
+神的吩咐何其细微，何其郑重！燔祭要整夜在坛上燃烧，直到早晨。祭司要穿上细麻布衣服，用细麻布裤子遮盖身体，将坛上所烧的灰收去，放在坛旁。然后要脱去这套衣服，另穿别的衣服，将灰拿到营外洁净之处。坛上的火要常常烧着，不可熄灭。
+
+我每次领受这些命令，内心都会颤抖。这不只是关于仪式的安排，乃是关于神的圣洁本性的启示。火不可熄灭——这是神自己定的规矩。那在荆棘中不烧着的火，那在旷野中引导以色列的云柱和火柱，如今要在祭坛上持续燃烧，象征着神永恒的临在与不变的圣洁。
+
+素祭的条例同样严格。亚伦和他儿子们要在会幕前、在坛旁，用无酵饼同食。任何参与素祭的男丁都可以吃，但必须在圣处吃，在会幕院子里吃。凡摸这祭物的都要成为圣洁。若有铜锅所煮的，就要擦净，用水洗涮。
+
+但有一件事我格外留心，那就是关于祭司本身的素祭。凡祭司所献的素祭要整个烧掉，不可吃。这其中有深意——祭司既是代表百姓的中保，又是事奉神的仆人，他们的祭物要完全归给神，没有留下什么给自己。这是全然奉献的图画。
+
+神对我说这些话的时候，我感受到一种沉重与荣耀并存的重担。作为百姓的领袖，我深知若非神亲自设立这祭祀制度，人绝无办法靠近那圣洁的神。亚当之后，罪进入了世界，人与神之间隔着一道无法逾越的鸿沟。但神，出于祂的怜悯，设立了这一套献祭系统，让有罪的人可以借着流血的祭物来到神面前。
+
+每一道命令背后都有神的智慧。火要常烧——因为人的罪是不断的，对赦免的需要是持续的，神对悔改者的怜悯也是不竭的。素祭的规矩——因为供养祭司的神之恩典，本身也要归荣耀给神。祭司的圣洁——因为事奉圣洁之神的人，自己也必须被分别为圣。
+
+我想到四十年的旷野，想到西奈山上我在神面前俯伏的那些日日夜夜。神的圣洁令我战兢，但神的怜悯却把我扶持。这祭祀系统是神对破碎人类的恩慈桥梁，每一处细节都在诉说：神是圣洁的，罪是真实的，赦免是可能的，但赦免必须有代价。
+
+我将这些话传给亚伦和他的儿子们，看着他们认真聆听。我心中知道，他们所承担的职分是何等沉重，若轻率对待，必惹神的忿怒；若认真遵守，就能作百姓与神之间的桥梁，这是何等荣耀的呼召！
+
+弟兄姐妹们，愿你们读这些文字时，不只看到古老的仪式规条，而是看到背后那位永不改变的圣洁之神，和祂对罪人不竭的怜悯。祭坛上的火今日虽已不再燃烧，但那场最终的祭祀——骷髅地上的十字架——已经成全了一切。`,
+    content_en: `I, Moses, stood at the entrance of the Tent of Meeting, my heart filled with awe. The LORD spoke to me again, giving me further instructions concerning the burnt offering and grain offering—instructions directed not merely to all the people, but specifically to Aaron and his sons, those called to serve in the holy place.
+
+How precise, how solemn were God's commands! The burnt offering was to remain on the altar hearth throughout the night until morning. The priest was to put on his linen garment and linen undergarments, then take up the ashes from the burnt offering on the altar and place them beside the altar. He was to change his garments before carrying the ashes outside the camp to a ceremonially clean place. The fire on the altar was to be kept burning; it must not go out.
+
+Each time I received these commands, my heart trembled. This was not merely about ritual arrangement—it was a revelation of God's holy nature. The fire must not go out—this was God's own decree. The fire that did not consume the burning bush, the pillar of cloud and fire that led Israel through the wilderness—now this same divine fire was to burn continuously on the altar, symbolizing God's eternal presence and unchanging holiness.
+
+The regulations for the grain offering were equally strict. Aaron and his sons were to eat it without yeast in the courtyard of the Tent of Meeting. Every male among the descendants of Aaron could eat it, but it must be eaten in a holy place, in the courtyard of the tabernacle. Whatever touched these offerings became holy. If it was cooked in a bronze pot, the pot was to be scoured and rinsed with water.
+
+But one thing I noted especially: the grain offering presented by a priest himself was to be burned completely—none of it was to be eaten. There was deep meaning here. The priest stood as both mediator for the people and servant of God; his own offering must be given wholly to God, with nothing held back for himself. This was a picture of total consecration.
+
+As God spoke these words to me, I felt a burden that was both heavy and glorious. As the leader of the people, I knew well that apart from God's own establishment of this sacrificial system, there was no way for humanity to approach the Holy One. After Adam, sin entered the world, and a chasm too vast to cross separated mankind from God. But God, out of His mercy, established this system of sacrifice, so that sinful people might come before Him through the blood of offerings.
+
+Behind every command lay divine wisdom. The fire must burn continuously—because human sin is unceasing, the need for forgiveness is constant, and God's compassion for the repentant is inexhaustible. The grain offering regulations—because even the grace that sustains the priesthood must return glory to God. The holiness of the priests—because those who serve the Holy God must themselves be set apart.
+
+I thought of forty years in the wilderness, of those days and nights prostrate before God on Mount Sinai. God's holiness made me tremble, but God's mercy sustained me. This sacrificial system was God's gracious bridge to broken humanity—every detail declaring: God is holy, sin is real, forgiveness is possible, but forgiveness must have a cost.
+
+I delivered these words to Aaron and his sons, watching them listen attentively. I knew in my heart what a weighty calling they bore—handle it carelessly and the wrath of God would fall; observe it faithfully and they would serve as the bridge between the people and God. What a glorious calling!
+
+Brothers and sisters, as you read these words, may you see not only ancient ritual regulations, but the unchanging holy God who stands behind them, and His inexhaustible mercy toward sinners. Though the fire on the altar no longer burns today, that final sacrifice—on the cross at Golgotha—has fulfilled everything.`,
+    historyContext_zh: `利未记第6章在历史背景上属于西奈旷野时期（约主前1446年），以色列民刚刚脱离埃及奴役，在西奈山下建立会幕。这是神与以色列立约的核心时刻。
+
+本章是对利未记第1-5章献祭条例的补充与细化，前五章主要面向普通百姓讲述如何献祭，第6章起则主要针对祭司（亚伦和他的儿子们）讲述祭司执行祭祀的具体规程。
+
+"坛上的火要常常烧着"这一命令在古代近东世界具有重要意义。周边民族（如巴比伦人、埃及人）的祭坛火并无持续燃烧的要求，以色列的"常燃之火"因此成为独特的神学宣告：耶和华的同在是持续的、不间断的。
+
+考古学发现表明，古代近东的祭司阶层通常享有祭物的很大部分作为收入。以色列祭司制度虽也允许祭司分享部分祭物，但同时设立了严格限制（如祭司本人的素祭要全部烧掉），这体现了以色列宗教体系中"神的主权高于一切"的神学原则。`,
+    historyContext_en: `Leviticus 6 belongs historically to the Sinai wilderness period (approximately 1446 BC), when Israel had just been delivered from Egyptian slavery and the tabernacle had been established at the foot of Mount Sinai. This was the pivotal moment of God's covenant with Israel.
+
+This chapter supplements and elaborates on the sacrificial regulations of Leviticus 1-5. While the first five chapters primarily addressed the general population regarding how to bring offerings, chapter 6 onward focuses specifically on the priests—Aaron and his sons—detailing the procedural requirements for executing the sacrifices.
+
+The command that "the fire on the altar shall be kept burning" held significant meaning in the ancient Near Eastern context. Surrounding nations (such as the Babylonians and Egyptians) had no requirement for continuously burning altar fires, making Israel's "perpetual fire" a distinctive theological declaration: the presence of the LORD is continuous and uninterrupted.
+
+Archaeological findings indicate that priestly classes in the ancient Near East typically received a substantial portion of sacrificial offerings as income. While the Israelite priestly system also permitted priests to share in certain offerings, it simultaneously established strict limitations (such as requiring a priest's own grain offering to be burned completely)—reflecting the theological principle central to Israel's religious system: God's sovereignty supersedes all.`,
+    structure_zh: `利未记第6章可分为以下几个部分：
+
+**一、燔祭的补充条例（6:8-13）**
+- 祭司清灰的程序（换衣、取灰、放在坛旁）
+- 坛火的规定：要常常烧着，不可熄灭
+
+**二、素祭的补充条例（6:14-18）**
+- 素祭的献法：在坛前献给耶和华
+- 祭司分享素祭的规定：在圣处吃，无酵饼
+- 接触祭物者成为圣洁的规定
+
+**三、祭司就职时的素祭（6:19-23）**
+- 亚伦和儿子们受膏之日所献的素祭
+- 此素祭要全部烧掉，不可吃
+
+**四、赎罪祭的补充条例（6:24-30）**
+- 赎罪祭要在圣所宰杀
+- 祭司分享赎罪祭的规定
+- 血溅在衣服上的处理
+- 为以色列会众所献赎罪祭的特别规定（全部烧掉）`,
+    structure_en: `Leviticus 6 may be divided into the following sections:
+
+**I. Supplementary Laws for the Burnt Offering (6:8-13)**
+- The procedure for removing ashes (changing garments, removing ashes, placing them beside the altar)
+- Regulation for the altar fire: must be kept burning continuously, never allowed to go out
+
+**II. Supplementary Laws for the Grain Offering (6:14-18)**
+- How to present the grain offering before the LORD at the altar
+- Regulations for priestly sharing: eaten in a holy place, without yeast
+- Regulations concerning holiness conferred on those who touch the offering
+
+**III. The Grain Offering at the Priests' Ordination (6:19-23)**
+- The grain offering presented by Aaron and his sons on the day of their anointing
+- This offering must be burned completely—none may be eaten
+
+**IV. Supplementary Laws for the Sin Offering (6:24-30)**
+- The sin offering must be slaughtered in the sanctuary
+- Regulations for the priestly portion of the sin offering
+- Instructions for handling blood-spattered garments
+- Special regulation for sin offerings made for the whole congregation of Israel (burned completely)`,
+    theology_zh: `利未记第6章蕴含了丰富的神学主题：
+
+**1. 神的圣洁（Holiness of God）**
+"坛上的火要常常烧着"直接反映了神不变的圣洁本性。火在圣经中常是神圣洁临在的象征（出3:2；出19:18）。持续燃烧的祭坛之火宣告：神圣洁的要求是持续的，对罪的审判是真实的。
+
+**2. 罪的严重性（Gravity of Sin）**
+祭祀程序的繁琐和严格，深刻地教导百姓：罪不是小事，靠近圣洁之神是危险的事，需要严格遵循神所设立的规程。
+
+**3. 祭司的代表性（Representative Role of Priests）**
+祭司不是自己赚工资的职员，而是代表百姓站在神面前的中保。他们的全套圣礼服、换衣的程序、不同场合的不同要求，都强调了这一代表性角色的神圣。
+
+**4. 全然奉献（Total Consecration）**
+祭司本人的素祭要全部烧掉，这是改革宗神学所强调的"全然奉献"原则的预示：事奉神的人不能以事奉谋私利，要将一切归给神。
+
+**5. 恩典的可能性（Possibility of Grace）**
+在所有严格的规定背后，有一个最根本的神学信息：神愿意让有罪的人靠近祂。这不是理所当然的，这是恩典——神主动向人弯腰，设立了这条亲近祂的道路。`,
+    theology_en: `Leviticus 6 is rich in theological themes:
+
+**1. The Holiness of God**
+"The fire on the altar shall be kept burning" directly reflects God's unchanging holy nature. Fire in Scripture frequently symbolizes God's holy presence (Exod 3:2; Exod 19:18). The perpetually burning altar fire declares: God's holy demands are continuous, and His judgment against sin is real.
+
+**2. The Gravity of Sin**
+The elaborate and strict sacrificial procedures taught the people profoundly: sin is not trivial, approaching the Holy God is a dangerous matter requiring strict adherence to the procedures God Himself established.
+
+**3. The Representative Role of the Priests**
+Priests were not employees earning wages but mediators standing before God on behalf of the people. Their full liturgical vestments, the procedures for changing clothes, the varying requirements for different occasions—all emphasized the sacredness of this representative role.
+
+**4. Total Consecration**
+The grain offering brought by the priest himself had to be burned completely. This foreshadows the Reformed theological principle of "total consecration": those who serve God cannot use their service for personal gain but must give everything to God.
+
+**5. The Possibility of Grace**
+Behind all the strict regulations lies one fundamental theological message: God desires to allow sinful people to draw near to Him. This is not something to be taken for granted—it is grace. God stooped toward humanity, establishing this path of approach to Himself.`,
+    christShadow_zh: `利未记第6章中，基督的影子清晰可见：
+
+**1. 永不熄灭的火——基督永远的祭祀**
+坛上常燃的火预示了基督一次献上自己为祭，其效力永恒不变（来7:27；来9:12）。旧约的火需要人不断维持，基督的祭却是"一次献上，永远有效"，再不需要重复。
+
+**2. 祭司的换衣——基督的双重角色**
+祭司在圣所工作时穿圣衣，将灰拿到营外时换便衣——这预示了基督既是圣洁的大祭司在天上为我们代求，又是"为我们成了咒诅"（加3:13），担负人的污秽到"营外"（来13:12：耶稣在城门外受苦）。
+
+**3. 祭司的素祭全部烧掉——基督的完全奉献**
+祭司本人的素祭不可留下一点，要全部献给神。基督作为我们的大祭司，将自己完全献上，"将自己无瑕无疵献给神"（来9:14），没有任何保留。
+
+**4. 素祭的无酵——基督的无罪**
+素祭要用无酵饼，酵在圣经中象征罪恶与虚伪（林前5:8）。基督是那"无酵的"，"无罪的"（彼前2:22；来4:15），是唯一配作我们完全代表的那一位。
+
+**5. 赎罪祭的血——基督宝血的能力**
+血溅到衣服要洗涤，触摸祭物的器皿要洁净——这些繁琐的程序都在宣告血的神圣与罪的代价。基督的血"能洗净我们一切的罪"（约壹1:7），不只是仪式性的洁净，而是真实的罪孽涤除。`,
+    christShadow_en: `The shadow of Christ is clearly visible throughout Leviticus 6:
+
+**1. The Never-Extinguished Fire — Christ's Eternal Sacrifice**
+The perpetually burning fire on the altar foreshadows Christ's once-for-all self-offering, whose efficacy is eternally unchanging (Heb 7:27; Heb 9:12). The Old Testament fire required constant human maintenance, but Christ's sacrifice was "offered once, effective forever"—never needing repetition.
+
+**2. The Priest's Change of Garments — Christ's Dual Role**
+The priest wore sacred garments while working in the sanctuary but changed to ordinary clothes when carrying ashes outside the camp—foreshadowing Christ who is both the holy High Priest interceding for us in heaven and the one who "became a curse for us" (Gal 3:13), bearing human defilement "outside the camp" (Heb 13:12: Jesus suffered outside the city gate).
+
+**3. The Priest's Grain Offering Burned Completely — Christ's Total Self-Giving**
+The priest's own grain offering could not be kept back at all—it had to be entirely given to God. Christ, as our High Priest, offered Himself completely, presenting Himself "without blemish to God" (Heb 9:14), with absolutely nothing held back.
+
+**4. The Unleavened Grain Offering — Christ's Sinlessness**
+The grain offering was to be made without yeast. In Scripture, yeast symbolizes sin and hypocrisy (1 Cor 5:8). Christ is the "unleavened" one, "without sin" (1 Pet 2:22; Heb 4:15)—the only one qualified to be our perfect representative.
+
+**5. The Blood of the Sin Offering — The Power of Christ's Blood**
+Blood-spattered garments had to be washed; vessels that touched the offering had to be cleansed. These meticulous procedures all proclaimed the sacredness of blood and the cost of sin. The blood of Christ "cleanses us from all sin" (1 John 1:7)—not merely a ritual purification, but a genuine removal of iniquity.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 7,
+    publishDate: '2026-08-12',
+    title: '平安祭与赎愆祭的补充条例', titleEn: 'Additional Laws for Peace and Guilt Offerings',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 7 / Leviticus 7',
+    content_zh: `在会幕前，神继续将祂的心意传给我。第七章所记载的，是关于赎愆祭和平安祭的补充规定，这些规定如同一幅精细的图画，每一笔都描绘着神与人之间那奇妙的和好关系。
+
+赎愆祭的条例首先引起我的注意。献祭者要在宰燔祭之处宰赎愆祭，祭司要将血洒在坛的四围。要把脂油——就是肥尾巴、遮盖脏腑的脂油、两个腰子、腰子上的脂油——都献在坛上烧了，是献给耶和华为火祭。祭司要分得一份，就如赎罪祭一样，这是神恩慈对事奉者的供应。
+
+然后是平安祭。平安祭或是为感谢献的，或是为还愿献的，或是甘心献的，这三种动机都被神接纳。感恩的心、守约的心、自愿奉献的心——神都悦纳。然而神对祭物的要求各有不同：为感恩所献的平安祭，肉要当天吃完；为还愿或甘心所献的，可以留到第二天，但第三天就必须烧掉。
+
+这其中有深刻的属灵原则：感恩当即时表达，不可拖延！感恩之祭若存放到第三天，就成了腐烂的东西，在神眼中算为可憎的事。这让我想到以色列民在旷野收集吗哪的教训——留到隔天的会生虫。神赐给我们的恩典当天就要回应，不可积压、不可迟疑。
+
+关于脂油和血的禁令，神说得格外严厉。以色列全家不可吃任何脂油，也不可吃任何血。凡吃脂油的，必从民中剪除；凡吃血的，必从民中剪除。这两条禁令不是卫生规定，而是神学宣告：脂油是最好的部分，要归给神；血是生命所在，不可作食物，因为血是为赎罪而用的。
+
+我站在营地中，看着以色列民的帐篷星罗棋布。这些从埃及为奴之地出来的人，许多人心里还带着偶像的影子，还带着埃及人的习惯。神的这些规定，是要在日常生活的每一个层面——包括吃什么、怎么吃——都刻印上"你们是分别为圣归给我的"这一印记。
+
+神又将献祭的分例说得清清楚楚：祭司当得的份，是从平安祭中摇的胸和举的腿。亚伦和他的儿子们，以及他们的后裔，要永远得这一份为当得的份。这是神从以色列的火祭中，给亚伦和他子孙永远所得的份。
+
+"永远"——多么沉重的字！神为祂的仆人预备了永远的供应。事奉神的人，神必供养他们。这不是理所当然，而是神与祭司族系立的约，是神向服事者所作的承诺。
+
+我将这些话一条一条地传给以色列民，心中充满一种奇异的敬畏感。每一条规定背后都有神的心意，每一条禁令背后都有神的保护，每一个分例背后都有神的公义与慷慨。献祭制度不是束缚，而是恩典的框架——在这框架之内，一个有罪的人可以与圣洁的神相交，这本身就是旷世的奇迹。
+
+旷野中的风沙迷漫，帐篷的布幔随风飘动。我知道这些规定将世世代代传下去，直到那位真正的祭司来临，将所有的规定在自己身上完全成全。那时，这些繁复的条例将成为历史，但它们所预表的真实——基督——将永远长存。`,
+    content_en: `Before the Tent of Meeting, God continued to communicate His will to me. What is recorded in this seventh chapter—further regulations concerning the guilt offering and peace offering—is like a detailed painting, every brushstroke depicting the wonderful reconciled relationship between God and humanity.
+
+The regulations for the guilt offering first captured my attention. The guilt offering was to be slaughtered in the place where the burnt offering was slaughtered, and the priest was to sprinkle blood against the sides of the altar. The fat—the fat tail, the fat covering the entrails, the two kidneys with the fat on them—was to be burned on the altar as a food offering to the LORD. The priest was to receive a portion, just as with the sin offering; this was God's gracious provision for those who serve.
+
+Then came the peace offering. The peace offering might be brought as a thanksgiving, to fulfill a vow, or as a freewill offering—all three motivations were acceptable to God. A thankful heart, a covenant-keeping heart, a heart that gives freely—God receives them all. Yet God's requirements for the sacrificial meat varied: the meat of a thanksgiving peace offering had to be eaten the same day; that brought for a vow or as a freewill offering could be kept until the next day, but whatever remained by the third day had to be burned up.
+
+Here is a profound spiritual principle: gratitude must be expressed immediately—it cannot be deferred! A thanksgiving offering stored until the third day became putrefied, something detestable in God's sight. This reminds me of the lesson Israel learned gathering manna in the wilderness—what was kept overnight bred worms. The grace God gives us must be responded to today; it cannot be stockpiled or delayed.
+
+Regarding the prohibition on fat and blood, God spoke with particular severity. No one among the house of Israel was to eat any fat or any blood. Whoever ate fat was to be cut off from the people; whoever ate blood was to be cut off from the people. These two prohibitions were not hygiene regulations but theological declarations: the fat was the finest portion, belonging to God; blood was the seat of life, not to be consumed as food, for blood was designated for atonement.
+
+I stood in the camp, looking out over Israel's countless tents. These people who had come out of Egyptian slavery—many still carried the shadow of idols in their hearts, still practiced Egyptian habits. God's regulations were meant to imprint upon every dimension of daily life—including what to eat and how to eat—this seal: "You are set apart, consecrated to Me."
+
+God also made the priestly portions entirely clear: the priest's rightful share from the peace offering was the breast that was waved and the thigh that was contributed. Aaron and his sons and their descendants were to have this as their perpetual due. This was the LORD's appointed share given to Aaron and his sons from the fire offerings of Israel—a perpetual statute.
+
+"Perpetual"—what a weighty word! God had prepared perpetual provision for His servants. Those who serve God—God will supply them. This was not something to be taken for granted but was God's covenant with the priestly line, His promise to those who served.
+
+I delivered these regulations one by one to the Israelites, my heart filled with a strange reverence. Behind every regulation lay God's intention; behind every prohibition lay God's protection; behind every allocated portion lay God's justice and generosity. The sacrificial system was not a burden but the framework of grace—within this framework, a sinful person could have fellowship with the holy God. That itself was the greatest miracle of the ages.
+
+The desert wind swirled with sand, and the tent curtains swayed. I knew these regulations would be transmitted from generation to generation, until that true Priest would come and fulfill every regulation in Himself. Then these elaborate ordinances would become history—but the reality they foreshadowed—Christ Himself—would endure forever.`,
+    historyContext_zh: `利未记第7章继续第6章的祭司法典，完成了对五大献祭（燔祭、素祭、平安祭、赎罪祭、赎愆祭）的全面规范。
+
+**历史背景关键点：**
+
+**关于平安祭的三种类型：**感恩祭（todah）、还愿祭（neder）、甘心祭（nedabah）三种分类在以色列周边文化中独一无二。特别是感恩祭要当天吃完的规定，神学家认为这强调了感恩的即时性和团体性——感恩要呼朋引伴、当下分享。
+
+**关于脂油的禁令：**古代近东考古资料显示，脂油（特别是动物内脏脂油）被视为最优质的食物，许多文化中脂油是献给神明的专属食物。以色列的规定与此背景相符，但禁令比周边文化更严格，禁止所有以色列人吃任何脂油。
+
+**关于血的禁令：**血的神圣性在以色列之外的文化中也有体现（如某些文化禁止喝血），但以色列的血禁令有其独特的神学基础（利17:11："血里有生命"）。
+
+**摇祭和举祭（Waving and Heaving）：**这两种仪式动作的具体形式在学者间有争议，但一般认为摇祭是水平方向的来回移动，举祭是垂直方向的上下移动，均象征将祭物呈献给神然后收回作为祭司的份。`,
+    historyContext_en: `Leviticus 7 continues the priestly code of chapter 6, completing the comprehensive regulation of the five major offerings (burnt offering, grain offering, peace offering, sin offering, guilt offering).
+
+**Key Historical Background Points:**
+
+**The Three Types of Peace Offering:** The tripartite classification of thanksgiving (todah), vow offering (neder), and freewill offering (nedabah) is unique among Israel's neighboring cultures. Particularly, the regulation requiring the thanksgiving offering to be eaten the same day is understood by theologians to emphasize the immediacy and communal nature of gratitude—thanksgiving calls others to share together in the moment.
+
+**The Prohibition on Fat:** Ancient Near Eastern archaeological sources indicate that fat (especially organ fat) was considered premium food, and in many cultures fat was the food exclusively offered to deities. Israel's regulation aligns with this background, but the prohibition was stricter than in surrounding cultures—forbidding all Israelites from eating any fat whatsoever.
+
+**The Prohibition on Blood:** The sanctity of blood was recognized in cultures beyond Israel (some cultures prohibited drinking blood), but Israel's blood prohibition had its distinctive theological foundation (Lev 17:11: "the life of the flesh is in the blood").
+
+**Waving and Heaving Offerings:** The precise ritual motions for these two actions are debated among scholars, but generally the wave offering is understood as a horizontal back-and-forth motion and the heave offering as a vertical up-and-down motion, both symbolizing the presentation of the offering to God and its return as the priestly portion.`,
+    structure_zh: `利未记第7章结构如下：
+
+**一、赎愆祭的补充条例（7:1-10）**
+- 宰祭地点：与燔祭相同
+- 祭司所献的部分（内脏脂油等）
+- 祭司的分例：与赎罪祭相同
+- 素祭的分例规定
+
+**二、平安祭的补充条例（7:11-21）**
+- 平安祭的三种类型：感恩、还愿、甘心
+- 各类型祭肉的保存期限
+- 洁净者才可吃祭肉的规定
+- 不洁者吃祭肉的后果：剪除
+
+**三、脂油和血的禁令（7:22-27）**
+- 脂油禁令：不可吃任何脂油
+- 血的禁令：不可吃任何血
+- 违者被剪除的后果
+
+**四、祭司的分例（7:28-36）**
+- 摇祭的胸和举祭的腿
+- 这是亚伦及其子孙永远所得的份
+- 受膏之日起生效
+
+**五、结语（7:37-38）**
+- 总结五种献祭的条例
+- 在西奈旷野所颁布`,
+    structure_en: `The structure of Leviticus 7 is as follows:
+
+**I. Supplementary Laws for the Guilt Offering (7:1-10)**
+- Place of slaughter: same as the burnt offering
+- The portion presented by the priest (organ fat, etc.)
+- The priestly portion: same as the sin offering
+- Regulations for the grain offering portions
+
+**II. Supplementary Laws for the Peace Offering (7:11-21)**
+- Three types of peace offering: thanksgiving, vow, freewill
+- Storage periods for the meat of each type
+- Requirement that only the ceremonially clean may eat the sacrificial meat
+- Consequence of the unclean eating sacrificial meat: being cut off
+
+**III. Prohibition on Fat and Blood (7:22-27)**
+- Fat prohibition: no one may eat any fat
+- Blood prohibition: no one may eat any blood
+- Consequence of violation: being cut off from the people
+
+**IV. The Priestly Portions (7:28-36)**
+- The waved breast and the contributed thigh
+- Aaron and his sons' perpetual due
+- Effective from the day of anointing
+
+**V. Summary and Conclusion (7:37-38)**
+- Summary of regulations for all five offerings
+- Proclaimed in the Sinai wilderness`,
+    theology_zh: `利未记第7章的神学主题：
+
+**1. 感恩的即时性与团体性**
+感恩祭（todah）要当天吃完，这神学上宣告：感谢神的行动不可拖延。感恩不是内心的情感，而是要外显为具体行动（献祭），并且要在当日与群体分享。这与诗篇中呼召"要称谢耶和华"的信仰群体性不谋而合。
+
+**2. 生命的神圣性——血的禁令**
+"血里有生命"（利17:11）是整个献祭制度的神学基础。血不是普通食物，血是生命的象征，是赎罪的媒介。禁止吃血，是要以色列民时刻记住：生命是神的，死亡是罪的代价，赎罪需要流血。
+
+**3. 神的供应与人的回应**
+平安祭的三种类型（感恩、还愿、甘心）对应了人与神关系的三个向度：对已得恩典的感谢、对所立誓约的信守、不因任何外在原因的自愿奉献。改革宗神学强调，真正的信仰包含这三个维度。
+
+**4. 洁净与团契**
+不洁净的人不可吃平安祭的肉，违者被剪除。这强调了与神团契的代价：只有洁净的人才可参与圣餐。这预示了新约中"领圣餐要自我省察"（林前11:28）的原则。
+
+**5. 神对服事者的供应**
+神设立了祭司永恒的分例，确保事奉者的生活。这反映了保罗的原则："耕地的耕地是应当得粮食的"（林前9:10），也预示了教会供养传道人的责任。`,
+    theology_en: `Theological themes in Leviticus 7:
+
+**1. The Immediacy and Communal Nature of Thanksgiving**
+The thanksgiving offering (todah) had to be eaten the same day—a theological declaration that acts of thanking God cannot be deferred. Thanksgiving is not merely an internal emotion but must be externalized in concrete action (the offering) and shared with the community that same day. This resonates with the corporate calling to "give thanks to the LORD" found throughout the Psalms.
+
+**2. The Sanctity of Life — The Blood Prohibition**
+"The life of the flesh is in the blood" (Lev 17:11) is the theological foundation of the entire sacrificial system. Blood is not ordinary food; blood is the symbol of life and the medium of atonement. The prohibition on eating blood kept before Israel constantly: life belongs to God, death is the wage of sin, and atonement requires bloodshed.
+
+**3. God's Provision and Human Response**
+The three types of peace offering (thanksgiving, vow, freewill) correspond to three dimensions of the human-God relationship: gratitude for grace already received, faithfulness to covenantal commitments made, and voluntary offering for no external reason. Reformed theology emphasizes that genuine faith encompasses all three dimensions.
+
+**4. Cleanness and Fellowship**
+The unclean could not eat the peace offering meat; those who did were cut off. This underscores the prerequisite for fellowship with God: only the clean may participate in holy communion. This foreshadows the New Testament principle: "Let a person examine himself before eating" (1 Cor 11:28).
+
+**5. God's Provision for Those Who Serve**
+God established the perpetual priestly portions, ensuring the livelihood of those who served. This reflects Paul's principle: "The plowman should plow in hope" (1 Cor 9:10), and it foreshadows the church's responsibility to support its ministers.`,
+    christShadow_zh: `利未记第7章中基督的预表：
+
+**1. 感恩祭——基督是我们感恩的内容**
+感恩祭（todah）的希伯来词根与"赞美"（hodayah）相同。诗22篇是一首弥赛亚诗篇，其中提到会众中的"感恩祭"（诗22:25）。新约学者认为，耶稣在最后晚餐所立的圣餐，与感恩祭有直接的联系——"感谢祭"（eucharist）一词正是来源于此传统。基督就是我们最大的感恩理由。
+
+**2. 平安祭——基督是我们的和平**
+平安祭（shelamim）来自"shalom"（和平）。基督是"我们的和平，将两下合而为一"（弗2:14）。通过基督的祭祀，人与神之间的战争状态结束了，真正的平安成为可能。
+
+**3. 肉要当天吃完——基督的身体在逾越节即被吃净**
+感恩祭的肉要当天吃完，这与逾越节羊羔的规定相同（出12:10）。约翰福音中，耶稣明确将自己与逾越节羊羔和祭物联系起来（约6章；约19:36）。"吃祂的肉"就是今日相信祂——不可迟延。
+
+**4. 脂油归神——基督将最好的完全献给父**
+脂油是最好的部分，全部归给神。基督将最好的——祂的生命、祂的义、祂的圣洁——完全献给父，"藉着永远的灵，将自己无瑕无疵献给神"（来9:14）。
+
+**5. 血不可吃——基督的血有洁净的能力，不是喂养肉身的食物**
+禁止吃血，但新约让信徒"喝祂的血"（约6:53），这是属灵的层面：基督的血是属灵生命的源泉，而非肉体的食物。这个悖论揭示了新约的升华：旧约的外在禁令，在基督里成了属灵享用的邀请。`,
+    christShadow_en: `Foreshadowings of Christ in Leviticus 7:
+
+**1. The Thanksgiving Offering — Christ Is the Content of Our Thanksgiving**
+The Hebrew root of todah (thanksgiving offering) is the same as hodayah (praise). Psalm 22, a messianic psalm, mentions the "thanksgiving offering" in the congregation (Ps 22:25). New Testament scholars recognize a direct connection between the Last Supper Jesus instituted and the thanksgiving sacrifice—the word "Eucharist" derives from this very tradition. Christ is our greatest reason for thanksgiving.
+
+**2. The Peace Offering — Christ Is Our Peace**
+The peace offering (shelamim) derives from shalom (peace). Christ "is our peace, who has made us both one" (Eph 2:14). Through Christ's sacrifice, the state of war between humanity and God ended, and true peace became possible.
+
+**3. The Meat Eaten the Same Day — Christ's Body Consumed at Passover**
+The thanksgiving offering meat had to be eaten the same day—the same regulation as the Passover lamb (Exod 12:10). In John's Gospel, Jesus explicitly connects Himself with the Passover lamb and sacrificial offerings (John 6; John 19:36). "Eating His flesh" means believing in Him today—there must be no delay.
+
+**4. Fat Given to God — Christ Gave the Best Completely to the Father**
+The fat—the finest portion—belonged entirely to God. Christ gave the best—His life, His righteousness, His holiness—wholly to the Father, "offering himself without blemish to God through the eternal Spirit" (Heb 9:14).
+
+**5. Blood Not to Be Eaten — Christ's Blood Has Cleansing Power, Not Bodily Nourishment**
+While the prohibition forbade eating blood, the New Testament invites believers to "drink His blood" (John 6:53)—on a spiritual level. Christ's blood is the source of spiritual life, not physical food. This paradox reveals the elevation of the New Testament: the Old Testament's external prohibition becomes in Christ an invitation to spiritual participation.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 8,
+    publishDate: '2026-08-13',
+    title: '亚伦承接圣职', titleEn: 'The Consecration of Aaron',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 8 / Leviticus 8',
+    content_zh: `那是以色列历史上最庄严的一天。神吩咐我说："你将亚伦和他儿子们，并他们的衣服、膏油、赎罪祭的公牛、两只公绵羊，并一篮无酵饼，都聚集起来；又召会众聚集在会幕门口。"我照耶和华所吩咐的行了。
+
+会众聚集在会幕门口。在那广大的人群面前，我拿水洗了亚伦和他儿子们。看着哥哥亚伦站在我面前，我内心涌起复杂的情感。这个从小和我一起长大、在埃及为我传话的亚伦，如今要被分别为圣，承担以色列最高的祭司职分。
+
+我给亚伦穿上内衣，束上腰带，穿上外袍，又给他穿上以弗得，用以弗得巧工所织的带子，将以弗得系在他身上。给他戴上胸牌，将乌陵和土明放在胸牌里。把冠冕戴在他头上；又将金牌——圣冠——安在冠冕前面。
+
+每一件圣衣，都是神的命令，都有其意义。以弗得上的两块宝石刻着以色列十二支派的名字，祭司进圣所时，将这些名字背负在肩头上，代表全体百姓来到神面前。胸牌中的乌陵和土明，是神借以向百姓指示旨意的圣物。头上的金牌刻着"归耶和华为圣"——这是整个祭司职分的核心：完全为神而活，不属于自己。
+
+然后是膏抹的时刻。我拿膏油倒在亚伦头上，抹油在他身上，以圣别他。看着油从亚伦头上流下，流到他的胡须，流到他的衣服边上，我想起将来有一位被膏者——弥赛亚（受膏者）——要来完成更伟大的使命。
+
+接下来是复杂而庄严的献祭程序。赎罪祭的公牛、两只公绵羊，一一按序献上。当亚伦和他的儿子们将手按在祭物的头上时，我感受到那个动作中蕴含的深意：这是认同、是转移、是代替。祭物要承担献祭者本应承担的审判。
+
+献完赎罪祭、燔祭之后，是承接圣职的公绵羊。我宰了那只羊，把血抹在亚伦右耳垂上，他右手的大拇指上，右脚的大脚趾上，然后是他的儿子们。血涂抹在耳、手、脚——这象征着祭司要用耳朵听神的话，用手行神的事，用脚走在神的道路上。全人奉献，没有保留。
+
+然后我拿膏油和坛上的血，弹在亚伦和他衣服上，并他儿子们和他们衣服上。这膏油与血的混合，是祭司圣化仪式中最特别的一幕。膏油代表圣灵的恩赐，血代表赎罪的洗净——一个真正的祭司，既需要圣灵的能力，也需要血的洁净。
+
+最后，我将摇祭的饼放在亚伦和他儿子们手中，他们在神面前摇一摇，然后从他们手中取过来烧在坛上。这是他们第一次将祭物献给神，是试手，是开始，是委身的具体化。
+
+承接圣职的仪式要持续七天。我吩咐亚伦和他的儿子们：你们要在会幕门口昼夜守七天，遵守耶和华所吩咐的，免得你们死亡。这七天不是等待，而是沉浸，是分别，是在圣所的临在中被塑造、被改变。
+
+我心中深知，这一切礼仪都不是空洞的仪式。每一件圣衣、每一个动作、每一滴血、每一滴油，都在说同一件事：神是圣洁的，祂要求事奉者也是圣洁的，而人的圣洁只能来自神的洁净与装备。没有这一套神所设立的流程，没有人有资格站在会幕的祭坛前。
+
+愿读这段文字的人，都能看见一件事：你我若能在今日亲近神，也是因为有一位被膏者，按照比亚伦更完全的秩序，以自己的血作了永远的洁净，让我们得以坦然无惧地进入至圣所。`,
+    content_en: `It was the most solemn day in Israel's history. God commanded me: "Take Aaron and his sons with him, and the garments and the anointing oil and the bull of the sin offering and the two rams and the basket of unleavened bread. And assemble all the congregation at the entrance of the tent of meeting." I did as the LORD commanded me.
+
+The congregation gathered at the entrance of the Tent of Meeting. Before that vast assembly, I washed Aaron and his sons with water. Watching my brother Aaron stand before me, a complex of emotions surged within my heart. This Aaron who had grown up alongside me and had spoken for me before Pharaoh in Egypt—he was now to be set apart, to bear the highest priestly office in Israel.
+
+I clothed Aaron with the tunic and tied the sash around him, clothed him with the robe, put the ephod on him, and tied the skillfully woven band of the ephod around him. I placed the breastpiece on him and put the Urim and the Thummim in the breastpiece. I set the turban on his head, and on the turban, at its front, I attached the golden plate—the holy crown.
+
+Every garment was God's command, and each carried its meaning. On the ephod's two stones were engraved the names of Israel's twelve tribes; when the priest entered the holy place, he bore these names on his shoulders, representing all the people before God. The Urim and Thummim in the breastpiece were the sacred objects through which God revealed His will to the people. The golden plate engraved "Holy to the LORD"—this was the essence of the entire priestly calling: to live wholly for God, belonging no longer to oneself.
+
+Then came the moment of anointing. I poured the anointing oil on Aaron's head and anointed him, consecrating him. Watching the oil flow down from Aaron's head to his beard, down to the collar of his robes, I thought of the One who was yet to come—the Anointed One, the Messiah—who would come to fulfill a still greater mission.
+
+Then followed the elaborate and solemn sequence of sacrifices. The bull for the sin offering and the two rams were presented in order. When Aaron and his sons laid their hands on the heads of the animals, I felt the deep significance in that gesture: identification, transference, substitution. The sacrificial animal would bear the judgment that the offerer should rightfully bear.
+
+After the sin offering and burnt offering, came the ram of ordination. I slaughtered it, and took some of its blood and put it on the lobe of Aaron's right ear, on the thumb of his right hand, and on the big toe of his right foot—then did the same for his sons. Blood applied to ear, hand, and foot—symbolizing that the priest must use his ears to hear God's word, his hands to do God's work, his feet to walk in God's ways. A whole-person consecration, with nothing held back.
+
+Then I took the anointing oil and the blood that was on the altar and sprinkled it on Aaron and his garments, and also on his sons and their garments. This mixture of anointing oil and blood was the most distinctive moment of the priestly consecration ceremony. The oil represents the gift of the Spirit; the blood represents the cleansing of atonement. A true priest needs both the power of the Spirit and the purification of blood.
+
+Finally, I placed all these things in the hands of Aaron and his sons, and they waved them as a wave offering before the LORD. Then I took them from their hands and burned them on the altar. This was their first offering to God—an initiation, a beginning, a concretizing of commitment.
+
+The ordination ceremony was to last seven days. I commanded Aaron and his sons: "You shall remain at the entrance of the tent of meeting day and night for seven days, performing what the LORD has charged, so that you do not die." These seven days were not mere waiting but immersion—separation, being shaped and transformed in the presence of the holy place.
+
+I knew in my heart that none of this ritual was empty ceremony. Every sacred garment, every gesture, every drop of blood, every drop of oil proclaimed the same thing: God is holy; He requires those who serve Him to be holy; and human holiness can only come from God's cleansing and equipping. Without this God-ordained process, no one had the standing to take his place before the altar of the Tent of Meeting.
+
+May all who read these words see one thing clearly: if we today can draw near to God, it is because One Anointed One came, according to a more perfect order than Aaron's, and by His own blood made an eternal purification, that we might draw near with confidence and enter the Most Holy Place.`,
+    historyContext_zh: `利未记第8章记载了以色列祭司制度的正式建立，这一事件发生在会幕竣工（出40章）之后不久，约在以色列出埃及后第二年的正月初一日（出40:17）之后。
+
+**七日承接圣职的意义：**
+七天的期限在古代近东文化中普遍具有"完整"的象征意义。美索不达米亚神庙祭司的就职礼也常见七日仪式，但以色列的版本具有独特的神学内涵：七天是在会幕前守候，不是在神庙内的宴乐，而是在神面前的等候与分别为圣。
+
+**膏油的成分与意义：**
+出埃及记30:23-25记载了圣膏油的配方：没药500舍客勒、香肉桂250舍客勒、菖蒲250舍客勒、桂皮500舍客勒，加上橄榄油一欣。这种膏油是极其珍贵的，且被明确禁止用于普通人（出30:32-33），专属于会幕器具和亚伦及其子孙的圣化。
+
+**乌陵和土明：**
+乌陵（Urim）和土明（Thummim）的确切性质至今仍是学者讨论的谜题。一般认为是某种可以抽签的物品，用于确定神的意旨，但圣经并未详细说明其使用方法。值得注意的是，随着先知制度的发展，乌陵和土明逐渐被边缘化，最终在以斯拉记和尼希米记中只作为理论上的参考。`,
+    historyContext_en: `Leviticus 8 records the formal establishment of Israel's priestly system, occurring shortly after the completion of the tabernacle (Exodus 40), approximately after the first day of the first month of the second year following the Exodus (Exod 40:17).
+
+**The Significance of the Seven-Day Ordination:**
+The seven-day period carried universal symbolic significance in ancient Near Eastern cultures as representing "completeness." Mesopotamian temple priest installation rituals also commonly featured seven-day ceremonies, but Israel's version carried distinctive theological content: the seven days were spent keeping watch before the Tent of Meeting—not feasting in a temple, but waiting in God's presence and being consecrated.
+
+**The Composition and Significance of the Anointing Oil:**
+Exodus 30:23-25 records the formula for the holy anointing oil: 500 shekels of liquid myrrh, 250 shekels of fragrant cinnamon, 250 shekels of fragrant cane, 500 shekels of cassia, plus a hin of olive oil. This oil was extraordinarily precious and explicitly prohibited for use on any ordinary person (Exod 30:32-33), reserved exclusively for the consecration of the tabernacle furnishings and Aaron and his descendants.
+
+**Urim and Thummim:**
+The precise nature of the Urim and Thummim remains a scholarly mystery. They are generally understood to be objects used for casting lots to determine God's will, though Scripture does not explain their method of use in detail. Notably, as the prophetic institution developed, the Urim and Thummim were gradually marginalized and by the time of Ezra and Nehemiah appear only as theoretical references.`,
+    structure_zh: `利未记第8章的结构：
+
+**一、承接圣职的准备（8:1-5）**
+- 神的命令：聚集亚伦、儿子们、所需物品
+- 会众聚集在会幕门口
+- 摩西宣告这是耶和华的命令
+
+**二、洗濯与穿戴圣衣（8:6-9）**
+- 用水洗涤亚伦
+- 穿上内衣、腰带、外袍
+- 穿戴以弗得、腰带、胸牌
+- 放入乌陵和土明
+- 戴上冠冕和金牌
+
+**三、膏抹会幕与亚伦（8:10-13）**
+- 膏抹会幕及其中一切器具
+- 膏抹亚伦，分别他为圣
+- 给亚伦儿子们穿上服装
+
+**四、赎罪祭（8:14-17）**
+- 亚伦儿子们按手于公牛头上
+- 宰牛献为赎罪祭
+- 焚烧脂油；牛身烧于营外
+
+**五、燔祭（8:18-21）**
+- 公绵羊献为燔祭
+- 全羊烧在坛上
+
+**六、承接圣职的祭（8:22-29）**
+- 第二只公绵羊：承接圣职之祭
+- 血涂抹在亚伦和儿子们的右耳、右手拇指、右脚大趾
+- 血和油弹在亚伦和儿子们并衣服上
+- 摇祭
+
+**七、七日守候的命令（8:30-36）**
+- 在会幕门口守候七天
+- 违者死亡的警告`,
+    structure_en: `The structure of Leviticus 8:
+
+**I. Preparation for the Ordination (8:1-5)**
+- God's command: gather Aaron, his sons, and the required items
+- The congregation assembled at the entrance of the Tent of Meeting
+- Moses announced this was the LORD's command
+
+**II. Washing and Investiture with Sacred Garments (8:6-9)**
+- Washing Aaron with water
+- Putting on the tunic, sash, and robe
+- Putting on the ephod with its sash and the breastpiece
+- Placing the Urim and Thummim in the breastpiece
+- Setting on the turban and the golden plate
+
+**III. Anointing the Tabernacle and Aaron (8:10-13)**
+- Anointing the tabernacle and all its furnishings
+- Anointing Aaron, consecrating him
+- Clothing Aaron's sons in their garments
+
+**IV. The Sin Offering (8:14-17)**
+- Aaron's sons laid hands on the bull's head
+- The bull slaughtered and offered as a sin offering
+- Fat portions burned; the bull's body burned outside the camp
+
+**V. The Burnt Offering (8:18-21)**
+- The ram offered as a burnt offering
+- The entire ram burned on the altar
+
+**VI. The Ordination Ram (8:22-29)**
+- The second ram: the ram of ordination
+- Blood applied to Aaron's and his sons' right ear lobes, right thumbs, and right big toes
+- Blood and oil sprinkled on Aaron and his sons and their garments
+- The wave offering
+
+**VII. The Command to Keep Watch Seven Days (8:30-36)**
+- Keep watch at the entrance of the Tent of Meeting for seven days
+- Warning of death for any violation`,
+    theology_zh: `利未记第8章丰富的神学含义：
+
+**1. 呼召的优先性（Priority of Divine Call）**
+摩西主持了整个承接圣职的仪式，亚伦和他的儿子们是被动地接受。他们没有自己选择祭司职分，而是被神呼召、被神装备、被神分别为圣。改革宗神学的"恩典的优先性"在此有生动的图画：在我们任何的回应之前，神已经先行动了。
+
+**2. 称义与成圣的关系（Justification and Sanctification）**
+血（赎罪）和油（圣灵的膏抹）都用在祭司身上，这二者缺一不可。血代表客观的罪得赦免（称义），油代表主观的生命更新（成圣）。改革宗神学强调，这两者是不可分割的——被神接纳的人，也必然被神改变。
+
+**3. 代表性（Representation）**
+亚伦穿戴有以色列十二支派名字的圣衣，不是为自己，而是代表全体百姓。这是中保（Mediator）角色的具体化。真正的中保不只是自己认识神，而是代表他人站在神面前，将他人的需要带到神面前。
+
+**4. 全人奉献（Whole-Person Consecration）**
+血涂在耳朵（听神的话）、手（行神的事）、脚（走神的道），象征着事奉神不是部分时间、部分功能的事，而是全人——感官、行动、方向——都奉献给神。这与罗马书12:1"将身体献上"的全人奉献原则完全对应。
+
+**5. 圣洁的可传递性（Communicable Holiness）**
+膏油和血弹在亚伦和他儿子们并他们衣服上，圣洁是可以"传递"的——不是自然感染的那种，而是神主权性地将圣洁加给祂的仆人。这预示了新约中圣灵内住、使信徒成为"神的殿"的教义（林前6:19）。`,
+    theology_en: `Rich theological significance in Leviticus 8:
+
+**1. The Priority of Divine Call**
+Moses presided over the entire ordination ceremony; Aaron and his sons received everything passively. They did not choose the priestly office for themselves but were called by God, equipped by God, and set apart by God. The Reformed theological principle of "the priority of grace" finds a vivid illustration here: before any response on our part, God has already acted first.
+
+**2. The Relationship of Justification and Sanctification**
+Both blood (atonement) and oil (the anointing of the Spirit) were applied to the priests, and neither could be omitted. Blood represents the objective forgiveness of sin (justification); oil represents the subjective renewal of life (sanctification). Reformed theology insists these two are inseparable—those who are accepted by God are also necessarily transformed by God.
+
+**3. Representation**
+Aaron wore sacred garments bearing the names of Israel's twelve tribes—not for himself, but representing all the people. This is the concrete expression of the mediatorial role. A true mediator does not merely know God personally but stands before God on behalf of others, bringing their needs into God's presence.
+
+**4. Whole-Person Consecration**
+Blood applied to the ear (hearing God's word), the hand (doing God's work), and the foot (walking in God's ways) symbolizes that serving God is not a part-time, partial-capacity matter but a whole-person commitment—senses, actions, and direction—all consecrated to God. This corresponds perfectly to Romans 12:1's principle of presenting one's body as a living sacrifice.
+
+**5. Communicable Holiness**
+The anointing oil and blood were sprinkled on Aaron and his sons and their garments—holiness is "transferable," not in the sense of natural contagion, but in the sense that God sovereignly imparts holiness to His servants. This foreshadows the New Testament doctrine of the indwelling Spirit, making believers "the temple of God" (1 Cor 6:19).`,
+    christShadow_zh: `利未记第8章中基督的预表：
+
+**1. 膏抹——基督是受膏者**
+亚伦受膏，基督（弥赛亚/受膏者）按照麦基洗德的等次被神膏立（诗110:4；来5:6）。亚伦的膏抹是外在的油，基督的膏抹是圣灵无量地降在祂身上（约3:34）。亚伦是有限次的膏抹，基督的膏抹是永远的。
+
+**2. 七天守候——基督的受洗与旷野受试探**
+亚伦和儿子们在会幕前守候七天，被分别为圣。基督受洗后在旷野四十天，被分别、被试炼，然后出来开始公开事工。这种"分别期"的模式在两者中都可见，但基督的分别为圣是完全的、内在的，不需要外在仪式的重复。
+
+**3. 血涂耳手脚——基督的全人献祭**
+血涂亚伦耳手脚，预示了耶稣钉十字架时钉穿双手双脚（诗22:16；路24:39）的图景。基督不只是象征性地将手脚奉献给父，而是字面意义上以手脚被钉的方式完成了祂的奉献。
+
+**4. 亚伦的圣衣——基督的义袍**
+亚伦的圣衣极其华美，象征着配得进入神面前的荣耀。但圣衣是外在的，可以脱下来的。基督的"义袍"却是祂的本质，是祂无瑕无疵的义，这义被归算给信徒，使我们得以在神面前被接纳（赛61:10；启19:8）。
+
+**5. 一次成全多次预表**
+利未记8章所描述的繁复仪式，在基督身上得到了一次性的成全。基督不需要赎罪祭（祂本身无罪），不需要被膏的油（圣灵本来就住在祂里面），但祂为了使这些预表成就，"甘心代替我们成为赎罪祭"（林后5:21），在历史的十字架上完成了永恒的救赎。`,
+    christShadow_en: `Foreshadowings of Christ in Leviticus 8:
+
+**1. Anointing — Christ Is the Anointed One**
+Aaron was anointed; Christ (Messiah/Anointed One) was appointed by God as priest according to the order of Melchizedek (Ps 110:4; Heb 5:6). Aaron's anointing was outward oil; Christ's anointing was the Spirit descending on Him without measure (John 3:34). Aaron's anointing was a one-time ceremony; Christ's anointing is eternal.
+
+**2. Seven Days of Waiting — Christ's Baptism and Wilderness Testing**
+Aaron and his sons kept watch before the Tent of Meeting for seven days, being consecrated. After His baptism, Christ spent forty days in the wilderness, being set apart and tested, before coming out to begin His public ministry. This pattern of a "separation period" appears in both, but Christ's consecration was complete and internal, requiring no repetition of external ceremony.
+
+**3. Blood on Ear, Hand, and Foot — Christ's Whole-Person Sacrifice**
+Blood applied to Aaron's ear, hand, and foot foreshadows the image of Jesus at the crucifixion, with hands and feet pierced (Ps 22:16; Luke 24:39). Christ did not merely symbolically consecrate His hands and feet to the Father—He literally accomplished His offering by having them nailed.
+
+**4. Aaron's Sacred Garments — Christ's Robe of Righteousness**
+Aaron's magnificent sacred garments symbolized the glory fitting for one who enters God's presence. But the garments were external and removable. Christ's "robe of righteousness" is His very nature—His spotless, perfect righteousness—which is imputed to believers, enabling us to be accepted before God (Isa 61:10; Rev 19:8).
+
+**5. One Fulfillment of Many Foreshadowings**
+The elaborate rituals described in Leviticus 8 were fulfilled once for all in Christ. Christ did not need a sin offering (He Himself was sinless), nor did He need oil of anointing (the Spirit already dwelt within Him), but in order to fulfill these foreshadowings, He "for our sake was made to be sin" (2 Cor 5:21), accomplishing eternal redemption on the historical cross.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 9,
+    publishDate: '2026-08-14',
+    title: '亚伦首次献祭', titleEn: 'Aaron Begins His Ministry',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 9 / Leviticus 9',
+    content_zh: `七天过去了。七天的守候，七天的分别，七天在会幕前与神的相遇。到了第八天，一切都要正式开始了。
+
+我召了亚伦和他的儿子们，并以色列的长老来，对亚伦说："你要取一只无残疾的公牛犊献为赎罪祭，一只无残疾的公绵羊献为燔祭，都献给耶和华。"然后又对以色列民说他们要献的祭物。
+
+"因为今日耶和华要向你们显现。"
+
+这句话出口，我自己也感到一种庄严的战栗。这不是例行公事，不是宗教形式。神要亲自显现——荣光要降临——会幕的建立、七天的分别、所有的准备，都是为了这一刻。
+
+亚伦照我所吩咐的，引导全会众来到坛前。他的眼神是谦卑的，带着一丝紧张，但更多的是敬畏。他知道自己所站的位置，知道自己所要做的事。他走上前，宰了自己的赎罪祭公牛犊，他儿子们把血端来，他把手指蘸在血里，抹在坛角上，其余的血倒在坛脚那里。然后献脂油……
+
+一步一步，一件一件，亚伦按照神的命令，将一切都做完了。当他为以色列百姓献完赎罪祭、燔祭、平安祭之后，他举手向百姓祝福，然后就下坛来。
+
+然后，我和亚伦进了会幕。
+
+这是我一生中最难以描述的时刻之一。我们两人走进那帷幔之内，站在神的同在面前。那金色的柜，那石榴花和钟形花相间的帷幔，那燃着香的金香炉……每一样都是神亲自设计的，每一样都在呼召那位有资格进来的人：只有在血里洗净过的，只有被神装备的，才能站在这里。
+
+我们出来，向百姓祝福。就在那一刻——
+
+"耶和华的荣光向众民显现！有火从耶和华面前出来，在坛上烧尽燔祭和脂油；众民见了，就都呼喊，俯伏在地。"
+
+当那火降下来的时候，我站在会幕外，看着那团从天而来的火焰扑向祭坛，将坛上的祭物吞尽——我的心中充满了说不出的敬畏与喜悦。这是神的接纳！这是神亲口说"我收到你们的祭祀了，我与你们同在"！
+
+以色列的全会众——那些男女老少，那些带着在埃及留下的创伤的人们，那些曾经拜过金牛犊的人们，那些跌倒过、失败过、埋怨过的人们——此刻都俯伏在地。不是因为惧怕，或者说，不只是因为惧怕，而是因为那圣洁的荣光中有一种让人不得不跪下的力量。
+
+人在神的真实面前，只能俯伏。
+
+这一刻我明白了：献祭不只是人向神的事奉，也是神向人的启示。人带着祭物来，以为是在给神什么，但其实，是神先给了人一切——罪得赦免的方式、亲近祂的路径、蒙受祂同在的可能。人的献祭只是对神恩慈的回应。
+
+我想到西奈山上，神对我说"我是耶和华你的神，曾将你从埃及地为奴之家领出来"（出20:2）。这荣光的显现，这火从天降，都是同一位神的同一个宣告：我是那自有永有者，我在你们中间，我接纳了你们，我与你们同在。
+
+这一天，以色列的正式敬拜开始了。这一天，罪得赦免的途径被神正式启用。这一天，会幕成为真正的神与人相遇的地方，不是象征，而是现实。
+
+愿我们今日读这段历史的人，也能在心灵中看见那降在祭坛上的火——不是在西奈的会幕，而是在骷髅地的十字架上——那从天而来的神圣审判，在那里将罪的代价一次烧尽，叫相信的人得以在神面前蒙悦纳。`,
+    content_en: `Seven days had passed. Seven days of keeping watch, seven days of separation, seven days of encounter with God before the Tent of Meeting. On the eighth day, everything was formally to begin.
+
+I called Aaron and his sons and the elders of Israel, and said to Aaron: "Take for yourself a bull calf for a sin offering and a ram for a burnt offering, both without blemish, and offer them before the LORD." Then I told the people of Israel what offerings they were to bring.
+
+"For today the LORD will appear to you."
+
+When those words left my lips, I felt a solemn trembling even within myself. This was not routine religious business, not religious formality. God was going to appear in person—His glory was to descend—the building of the tabernacle, the seven days of separation, all the preparations, had all been for this moment.
+
+Aaron led the whole congregation before the altar just as I had commanded. His eyes were humble, carrying a trace of apprehension, but far more than that—reverence. He knew where he stood, knew what he was about to do. He stepped forward and slaughtered his own sin offering bull calf; his sons brought the blood, and he dipped his finger in the blood and applied it to the horns of the altar, then poured out the rest at the base of the altar. Then he offered the fat portions…
+
+Step by step, piece by piece, Aaron followed God's commands and completed everything. When he had finished offering the sin offering, the burnt offering, and the peace offering for the people of Israel, he lifted his hands toward the people and blessed them, then stepped down from the altar.
+
+Then I and Aaron went into the Tent of Meeting.
+
+This was one of the moments in my life most difficult to describe. We two walked within the veil, standing in the presence of God. The golden ark, the curtain with its pomegranates and bells, the golden altar of incense with its burning fragrance—every piece was personally designed by God, every piece calling out to the one who had the right to enter: only those washed in blood, only those equipped by God, could stand here.
+
+We came out and blessed the people. And at that very moment—
+
+"The glory of the LORD appeared to all the people. And fire came out from before the LORD and consumed the burnt offering and the pieces of fat on the altar, and when all the people saw it, they shouted and fell on their faces."
+
+When that fire came down, I stood outside the Tent of Meeting and watched that flame from heaven descend upon the altar, consuming the offerings upon it—my heart was filled with an indescribable awe and joy. This was God's acceptance! This was God Himself declaring: "I have received your worship. I am with you!"
+
+The entire congregation of Israel—those men and women and children, those people still carrying wounds from Egypt, those who had worshipped the golden calf, those who had fallen and failed and complained—all fell with their faces to the ground. Not from fear alone—or rather, not only from fear—but because within that holy glory was a power that left one no choice but to kneel.
+
+In the true presence of God, humanity can only fall prostrate.
+
+In that moment I understood: sacrifice is not only humanity's service to God—it is also God's revelation to humanity. People bring their offerings, thinking they are giving God something, but in reality, God has first given everything—the way of forgiveness, the path of approach, the possibility of His presence. Human sacrifice is only a response to God's grace.
+
+I thought of Mount Sinai, where God said to me: "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery" (Exod 20:2). This appearance of glory, this fire descending from heaven, was the same God making the same declaration: I AM WHO I AM; I am in your midst; I have accepted you; I am with you.
+
+On this day, Israel's formal worship began. On this day, the path of forgiveness was formally inaugurated by God. On this day, the tabernacle became the true place where God and humanity met—not symbolically, but in reality.
+
+May all who read this history today also see in their hearts that fire descending upon the altar—not at the tabernacle in Sinai, but at the cross on Golgotha—that divine judgment descending from heaven, there burning up the cost of sin once for all, so that all who believe might be accepted before God.`,
+    historyContext_zh: `利未记第9章记录了以色列正式敬拜制度的第一天——承接圣职七天之后的第八天。这一章是前八章所有准备工作的高潮。
+
+**"第八天"的神学意涵：**
+在希伯来象征体系中，七代表完整与完成，八代表新的开始。七天的分别之后，第八天象征一个新秩序的开始——以色列作为神的子民，按照神所设立的方式正式进入与神的约定关系。新约中，基督复活在"七日的第一日"（即某种意义上的"第八天"），也带有同样的"新开始"象征。
+
+**神的荣光显现（Theophany）：**
+这是圣经中神荣光显现（theophany）的重要时刻之一。类似的火从天降的记录还有：以利亚在迦密山的挑战（王上18:38）、所罗门圣殿奉献时（代下7:1-3）。这三次"火从天降"都发生在以色列崇拜历史的关键转折点，标志着神对正式崇拜的接纳与认可。
+
+**历史-批评解读的挑战：**
+现代批评学者常将利未记9章视为"祭司传统"（P传统）对早期以色列宗教的理想化回顾，认为以色列的祭司制度实际上是在被掳后期才完全形成的。然而，改革宗学者坚持摩西作者权，认为这章的内容是真实的历史记录，并有出埃及记30-40章的平行文本相互印证。`,
+    historyContext_en: `Leviticus 9 records the first day of Israel's formal worship system—the eighth day following the seven days of ordination. This chapter is the climax of all the preparatory work in the preceding eight chapters.
+
+**The Theological Significance of "The Eighth Day":**
+In Hebrew symbolic thought, seven represents completeness and fulfillment; eight represents a new beginning. After seven days of consecration, the eighth day symbolizes the start of a new order—Israel as God's people formally entering into covenant relationship with God according to His appointed way. In the New Testament, Christ's resurrection on "the first day of the week" (in a certain sense the "eighth day") carries the same symbolism of "new beginning."
+
+**The Theophany of God's Glory:**
+This is one of the significant theophanies (manifestations of God's glory) in Scripture. Similar accounts of fire descending from heaven include: Elijah's challenge on Mount Carmel (1 Kings 18:38) and the dedication of Solomon's temple (2 Chron 7:1-3). These three instances of "fire from heaven" all occur at critical turning points in Israel's worship history, marking God's acceptance and approval of formal worship.
+
+**Historical-Critical Interpretive Challenges:**
+Modern critical scholars often view Leviticus 9 as the "Priestly tradition's" (P source) idealized retrospective of early Israelite religion, arguing that Israel's priestly system was not fully developed until the late exilic period. Reformed scholars, however, maintain Mosaic authorship and regard this chapter as genuine historical record, corroborated by the parallel material in Exodus 30-40.`,
+    structure_zh: `利未记第9章的结构：
+
+**一、命令与准备（9:1-7）**
+- 摩西召集亚伦、儿子们和以色列长老
+- 指定亚伦的个人献祭（公牛犊赎罪祭、公绵羊燔祭）
+- 指定为以色列民所献的祭物（公山羊赎罪祭、公牛和绵羊燔祭、平安祭、素祭）
+- 宣告神将要显现
+- 吩咐会众聚集
+
+**二、亚伦为自己献祭（9:8-14）**
+- 献赎罪祭公牛犊
+- 献燔祭公绵羊
+
+**三、亚伦为以色列民献祭（9:15-21）**
+- 为民献赎罪祭（公山羊）
+- 为民献燔祭（公牛和绵羊）
+- 为民献素祭
+- 献平安祭（摇祭与举祭）
+
+**四、荣光显现（9:22-24）**
+- 亚伦举手向民祝福，下坛
+- 摩西和亚伦进会幕后出来，向民祝福
+- 耶和华的荣光向众民显现
+- 火从耶和华面前出来，吞尽燔祭和脂油
+- 众民呼喊，俯伏在地`,
+    structure_en: `The structure of Leviticus 9:
+
+**I. Commands and Preparations (9:1-7)**
+- Moses summoned Aaron, his sons, and the elders of Israel
+- Specified Aaron's personal offerings (bull calf sin offering, ram burnt offering)
+- Specified offerings for the Israelites (male goat sin offering, bull and sheep burnt offering, peace offering, grain offering)
+- Announced that God would appear
+- Commanded the congregation to assemble
+
+**II. Aaron's Offerings for Himself (9:8-14)**
+- Offered the sin offering bull calf
+- Offered the burnt offering ram
+
+**III. Aaron's Offerings for Israel (9:15-21)**
+- Sin offering for the people (male goat)
+- Burnt offering for the people (bull and sheep)
+- Grain offering for the people
+- Peace offering (wave and heave portions)
+
+**IV. The Appearance of God's Glory (9:22-24)**
+- Aaron lifted his hands toward the people and blessed them, then came down
+- Moses and Aaron went into the Tent of Meeting, then came out and blessed the people
+- The glory of the LORD appeared to all the people
+- Fire came out from before the LORD and consumed the burnt offering and fat
+- All the people shouted and fell on their faces`,
+    theology_zh: `利未记第9章的神学主题：
+
+**1. 神的主权与主动性（Divine Initiative）**
+"今日耶和华要向你们显现"——是神的主动，不是人的争取。荣光显现不是因为亚伦献祭的功劳，而是神主权性地决定在这一天、以这种方式向祂的子民彰显自己。改革宗神学的"神的主权"在此完美体现：凡神所应许的，必由神自己成就。
+
+**2. 中保的必要性（Necessity of Mediation）**
+亚伦必须先为自己献赎罪祭，然后才能为百姓献祭。这是第9章一个关键的神学结构：不纯洁的人不能作他人的中保。一个自己有罪的人如何能带着别人的罪来到神面前？亚伦需要先被洁净，才能行使中保职能。
+
+**3. 祝福的权柄（Authority to Bless）**
+亚伦两次向百姓举手祝福（v.22；v.23）——这不是文化习惯，而是被神授权的祝福。祭司有权将神的祝福传递给百姓（民6:24-26），这是中保职分的另一面：不只将百姓的需要带到神面前，也将神的恩典带给百姓。
+
+**4. 集体崇拜的意义（Communal Worship）**
+荣光显现时，众民一同俯伏。神的荣光不只是个人的属灵体验，而是群体的真实遇见。改革宗传统特别看重公共崇拜（Public Worship），认为神设立了会众聚集的敬拜，这是信徒在地上最接近天上敬拜的经历。
+
+**5. 顺服产生同在（Obedience Invites Presence）**
+"摩西和亚伦照摩西所吩咐的行了"（利8:36），然后神的荣光显现。这不是功德主义，而是表明：神在那些顺服祂命令、按祂所立之规去亲近祂的人当中显现。神的恩典通过顺服的管道流淌，而顺服本身也是恩典赐予的能力。`,
+    theology_en: `Theological themes in Leviticus 9:
+
+**1. Divine Sovereignty and Initiative**
+"Today the LORD will appear to you"—this was God's initiative, not human achievement. The appearance of glory was not the result of Aaron's sacrificial merit but God's sovereign decision to manifest Himself to His people on this day, in this way. The Reformed theological doctrine of divine sovereignty is perfectly illustrated here: what God promises, God Himself accomplishes.
+
+**2. The Necessity of Mediation**
+Aaron had to offer a sin offering for himself before he could offer for the people. This is a key theological structure in chapter 9: an impure person cannot serve as mediator for others. How could a sinful person bring another person's sin before God? Aaron needed to be cleansed first before he could exercise the mediatorial function.
+
+**3. The Authority to Bless**
+Aaron twice lifted his hands and blessed the people (v.22; v.23)—this was not mere cultural custom but divinely authorized blessing. The priests were empowered to pronounce God's blessing upon the people (Num 6:24-26)—the other dimension of the mediatorial role: not only bringing the people's needs before God, but also bringing God's grace to the people.
+
+**4. The Significance of Communal Worship**
+When the glory appeared, all the people fell on their faces together. God's glory is not merely an individual spiritual experience but a corporate, genuine encounter. The Reformed tradition places special emphasis on public worship, holding that God has instituted congregational assembly for worship as the closest experience believers have on earth to the worship of heaven.
+
+**5. Obedience Invites Presence**
+"Moses and Aaron did as Moses had commanded" (Lev 8:36), and then God's glory appeared. This is not meritorious works but demonstrates that God manifests Himself among those who obey His commands and approach Him according to His ordained way. God's grace flows through the channel of obedience, and obedience itself is a capacity granted by grace.`,
+    christShadow_zh: `利未记第9章中基督的预表：
+
+**1. 祭司先为自己献祭——基督无需为自己献祭**
+亚伦必须先献赎罪祭为自己赎罪，这是旧约大祭司体制的限制：他们自己也有罪性。希伯来书明确指出，基督"圣洁、无邪恶、无玷污、远离罪人"（来7:26），不需要为自己献祭，乃是"一次将自己献上"，永远有效（来7:27）。
+
+**2. 荣光显现——基督再来时的荣光**
+神的荣光在会幕降临，预示了更伟大的降临：道成肉身时，"荣光如父独生子的荣光"（约1:14）；基督再来时，"人子要有能力，有大荣耀，驾云降临"（太24:30）。每一次神荣光的显现都是那最终显现的预演。
+
+**3. 火从天降——圣灵在五旬节的降临**
+神的火降在祭坛上，五旬节圣灵降临时"有舌头如火焰显现出来，分开落在他们各人身上"（徒2:3）。旧约的"会幕"是神同在的地点，新约的信徒群体（教会）是神同在的地点——都以"火"来标志神的接纳与临在。
+
+**4. 祭司的祝福——基督在升天时的祝福**
+亚伦献完祭后向百姓举手祝福，然后荣光显现。路加福音的结尾有一幅完全平行的图画：耶稣升天时"举手为他们祝福"（路24:50），然后"他们大大的欢喜，回耶路撒冷去"——等候圣灵降临的荣光。亚伦祝福后神的荣光显现，耶稣祝福后圣灵的火降临，模式完全吻合。
+
+**5. 众民俯伏——终末的跪拜**
+所有以色列民在荣光前俯伏，预示了终末的场景："万膝都要向基督跪拜，万口都要承认耶稣基督为主"（腓2:10-11）。自愿俯伏或不自愿俯伏，最终所有的创造都要在神荣光面前弯下膝盖。`,
+    christShadow_en: `Foreshadowings of Christ in Leviticus 9:
+
+**1. The Priest First Offering for Himself — Christ Needed No Offering for Himself**
+Aaron had to offer a sin offering first for his own atonement—this was the limitation of the Old Testament high priestly system: they too possessed a sin nature. Hebrews clearly states that Christ is "holy, innocent, unstained, separated from sinners" (Heb 7:26), requiring no sacrifice for Himself, but instead offering Himself "once for all"—effective forever (Heb 7:27).
+
+**2. The Appearance of Glory — The Glory of Christ's Return**
+God's glory descending on the tabernacle foreshadows a still greater coming: at the Incarnation, "the glory as of the only Son from the Father" (John 1:14); at Christ's return, "the Son of Man coming on the clouds of heaven with power and great glory" (Matt 24:30). Every theophany is a rehearsal for that ultimate manifestation.
+
+**3. Fire from Heaven — The Descent of the Spirit at Pentecost**
+God's fire descended on the altar; at Pentecost "tongues as of fire appeared to them and rested on each one of them" (Acts 2:3). The Old Testament tabernacle was the location of God's presence; the New Testament community of believers (the church) is the location of God's presence—both marked by "fire" as the sign of God's acceptance and presence.
+
+**4. The Priestly Blessing — Christ's Blessing at His Ascension**
+After completing the sacrifices, Aaron lifted his hands and blessed the people, and then the glory appeared. Luke's Gospel ends with a perfectly parallel image: at His ascension Jesus "lifted up his hands and blessed them" (Luke 24:50), and "they returned to Jerusalem with great joy"—waiting for the glory of the Spirit's descent. After Aaron's blessing, God's glory appeared; after Jesus's blessing, the fire of the Spirit descended. The pattern is exact.
+
+**5. The People Falling on Their Faces — Eschatological Worship**
+All Israel fell on their faces before the glory, foreshadowing the final scene: "every knee shall bow to Christ, and every tongue confess that Jesus Christ is Lord" (Phil 2:10-11). Whether in voluntary worship or not, ultimately all creation will bow before God's glory.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 10,
+    publishDate: '2026-08-17',
+    title: '拿答亚比户献凡火', titleEn: 'The Death of Nadab and Abihu',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 10 / Leviticus 10',
+    content_zh: `弟兄姐妹，我是摩西。利未记第十章记载了会幕历史上最令人震惊的事件——亚伦的两个儿子拿答和亚比户在耶和华面前献上凡火，就有火从耶和华面前出来，把他们烧灭，他们就死在耶和华面前。
+
+这事发生在第九章亚伦首次献祭、耶和华的荣光降临之后——百姓刚刚俯伏敬拜，荣耀的喜悦还未退去。拿答和亚比户各拿自己的香炉，盛上火，加上香，在耶和华面前献上凡火，是耶和华没有吩咐他们的。
+
+"是耶和华没有吩咐他们的"——这句话是整个事件的关键。他们的罪不在于做了一件邪恶的事，而在于做了一件神没有命令的事。他们可能出于热心，可能出于好奇，可能是饮了酒（从后文的禁酒令推断），但无论动机如何，他们擅自改变了神所设定的敬拜方式。
+
+我对亚伦说："这就是耶和华所说：'我在亲近我的人中要显为圣；在众民面前，我要得荣耀。'"亚伦就默默不言。亚伦的沉默不是无感，而是在极大的悲伤中顺服神的公义审判。他失去了两个儿子，但他认识到神的圣洁不可妥协。
+
+我叫亚伦的叔父乌薛的儿子米沙利和以利撒反来，吩咐他们把两具尸体穿着内袍抬出营外。他们仍穿着内袍——意味着他们身上的衣服没有被火烧毁，是神精准的审判之火，不是普通的火。
+
+然后我对亚伦和他剩下的儿子以利亚撒、以他玛说："不可蓬头散发，也不可撕裂衣裳，免得你们死亡。"通常以色列人为死者哀悼会蓬头撕衣，但祭司在供职期间不可如此——因为膏油在他们头上，他们属于耶和华。这不是说他们不能悲伤，而是祭司的职分高于个人的情感。
+
+耶和华直接对亚伦说话——这在利未记中很罕见——吩咐他和他的儿子们进会幕的时候不可喝清酒浓酒，免得死亡。这暗示拿答和亚比户可能是在饮酒后献凡火。酒使人失去判断力，在圣洁的事奉中尤其危险。神要求事奉祂的人头脑清醒，能分辨圣的和俗的、洁净的和不洁净的。
+
+接下来发生了一件感人的事。我发现赎罪日的公山羊已经被烧了，就向以利亚撒和以他玛发怒。亚伦替儿子们解释："今天他们在耶和华面前献了赎罪祭和燔祭，我又遇见这样的灾。今天我若吃了赎罪祭，耶和华岂能看为美呢？"亚伦的意思是：在如此沉重的审判之日，他心中的悲伤使他无法在神面前坦然吃祭物。我听了这话，便以为美——有时候，属灵的敏感比字面的遵守更合神心意。
+
+弟兄姐妹，这一章教导我们一个严肃的功课：亲近神不是随意的事。神的恩典不是放纵的许可证。祂是至圣者，敬拜祂必须按祂所命令的方式——不多，不少，不改。这不是律法主义，这是对至圣者的敬畏。`,
+    content_en: `Brothers and sisters, I am Moses. Leviticus chapter 10 records the most shocking event in tabernacle history—Aaron's two sons Nadab and Abihu offered unauthorized fire before the LORD, and fire came out from before the LORD and consumed them, and they died before the LORD.
+
+This occurred immediately after chapter 9, when Aaron first offered sacrifices and the LORD's glory descended—the people had just fallen on their faces in worship, the joy of glory not yet faded. Nadab and Abihu each took his censer, put fire in it, laid incense on it, and offered unauthorized fire before the LORD, which he had not commanded them.
+
+"Which he had not commanded them"—this phrase is the key to the entire event. Their sin was not doing something evil but doing something God had not commanded. They may have acted from zeal, curiosity, or intoxication (as the subsequent prohibition on alcohol suggests), but regardless of motive, they presumed to alter God's ordained manner of worship.
+
+I said to Aaron, "This is what the LORD has said: 'Among those who are near me I will be sanctified, and before all the people I will be glorified.'" And Aaron held his peace. Aaron's silence was not indifference but submission to God's righteous judgment amid overwhelming grief. He lost two sons, yet he recognized that God's holiness cannot be compromised.
+
+I called Mishael and Elzaphan, sons of Uzziel Aaron's uncle, and told them to carry the bodies out of the camp, still wearing their tunics. They remained in their garments—meaning the fire had not burned their clothing. This was God's precise judicial fire, not ordinary flame.
+
+Then I told Aaron and his remaining sons Eleazar and Ithamar, "Do not let the hair of your heads hang loose, and do not tear your clothes, lest you die." Normally Israelites mourned the dead with disheveled hair and torn garments, but priests on duty could not—because the anointing oil was upon them; they belonged to the LORD. This did not prohibit grief but established that priestly duty transcended personal emotion.
+
+The LORD spoke directly to Aaron—rare in Leviticus—commanding him and his sons not to drink wine or strong drink when entering the tent of meeting, lest they die. This implies Nadab and Abihu may have offered unauthorized fire while intoxicated. Alcohol impairs judgment, especially dangerous in holy service. God requires those who serve Him to be clear-minded, able to distinguish between the holy and common, the clean and unclean.
+
+Then something touching occurred. I discovered the goat of the sin offering had been burned rather than eaten, and I was angry with Eleazar and Ithamar. Aaron explained on their behalf: "Behold, today they have offered their sin offering and their burnt offering before the LORD, and yet such things as these have happened to me! If I had eaten the sin offering today, would the LORD have approved?" Aaron meant that on such a heavy day of judgment, his grief made it impossible to eat the offering before God with clear conscience. When I heard this, I approved—sometimes spiritual sensitivity matters more than literal compliance.
+
+Brothers and sisters, this chapter teaches a solemn lesson: approaching God is not casual. God's grace is not license for presumption. He is the Holy One, and worship must follow His commands—no more, no less, no alteration. This is not legalism; this is reverence for the Most Holy.`,
+    historyContext_zh: `拿答和亚比户事件在以色列宗教史上具有里程碑意义。"凡火"（esh zarah，直译"陌生的火"）可能指未从燔祭坛取的火（利未记16:12规定香坛的火必须取自燔祭坛），也可能指在错误的时间或以错误的方式献香。古代近东神庙中祭司违规被处罚的记载并不罕见，但以色列的记载独特之处在于将其与神的圣洁属性直接联系。此事件成为后世以色列敬拜的严厉警戒——历代志下26章乌西雅王擅自烧香被大麻疯击打，正是这一传统的延续。`,
+    historyContext_en: `The Nadab and Abihu incident was a milestone in Israel's religious history. "Unauthorized fire" (esh zarah, literally "strange fire") may refer to fire not taken from the altar of burnt offering (Leviticus 16:12 specifies incense altar fire must come from the burnt offering altar), or to offering incense at the wrong time or in the wrong manner. Records of priests being punished for violations in ancient Near Eastern temples are not uncommon, but Israel's account is unique in directly linking it to God's holiness. This event became a severe warning for Israel's worship in subsequent generations—King Uzziah being struck with leprosy for burning incense in 2 Chronicles 26 continues this tradition.`,
+    structure_zh: `**拿答亚比户献凡火被击杀（1-3节）**——献上耶和华没有吩咐的火、从耶和华面前出来的火烧灭他们、摩西引用神的话。
+
+**处理善后（4-7节）**——米沙利以利撒反抬出尸体、祭司不可哀悼的禁令、不可出会幕门。
+
+**禁酒令与分辨圣俗（8-11节）**——耶和华直接对亚伦说话、进会幕不可饮酒、分辨圣俗洁不洁。
+
+**赎罪祭的争论（12-20节）**——摩西发怒、亚伦的解释、摩西认可。`,
+    structure_en: `**Nadab and Abihu Struck Down for Unauthorized Fire (vv. 1-3)**—Offering fire the LORD had not commanded, fire from the LORD consuming them, Moses quoting God's word.
+
+**Handling the Aftermath (vv. 4-7)**—Mishael and Elzaphan carrying out the bodies, prohibition on priestly mourning, not leaving the tent door.
+
+**Prohibition on Alcohol and Discerning Holy from Common (vv. 8-11)**—The LORD speaking directly to Aaron, no wine when entering the tent, distinguishing holy from common.
+
+**The Sin Offering Dispute (vv. 12-20)**—Moses's anger, Aaron's explanation, Moses's approval.`,
+    theology_zh: `**敬拜的规范性原则**
+拿答亚比户的核心罪行是做了"耶和华没有吩咐的"。改革宗敬拜的规范性原则（Regulative Principle）正是建立在这个事件上：在敬拜中，只有神所命令的才可以做。韦敏斯德信条第21章：可蒙悦纳的敬拜神的方式，乃是神自己所设立的，并且以祂自己所启示的旨意为限。人的热心和创意不能替代神的命令。
+
+**神的圣洁不可侵犯**
+"我在亲近我的人中要显为圣"——越是亲近神的人，越要谨慎。祭司比普通百姓更亲近神，因此受更严格的要求。雅各书3:1说："不要多人作师傅，因为晓得我们要受更重的判断。"神的恩典不是放纵的许可——反而是更大的责任。
+
+**悲伤中的顺服**
+亚伦失去两个儿子后"默默不言"——这是信心的典范。他没有指责神不公平，没有为儿子辩护。他在极大的痛苦中顺服了神的公义。约伯记1:21："赏赐的是耶和华，收取的也是耶和华；耶和华的名是应当称颂的。"`,
+    theology_en: `**The Regulative Principle of Worship**
+Nadab and Abihu's core sin was doing what "the LORD had not commanded." The Reformed Regulative Principle of Worship is built upon this very event: in worship, only what God commands may be done. Westminster Confession chapter 21: the acceptable way of worshiping God is instituted by Himself, and limited by His own revealed will. Human zeal and creativity cannot substitute for divine command.
+
+**God's Holiness Is Inviolable**
+"Among those who are near me I will be sanctified"—the closer one is to God, the more careful one must be. Priests were nearer to God than ordinary people, and thus held to stricter standards. James 3:1 says, "Not many of you should become teachers, for you know that we who teach will be judged with greater strictness." God's grace is not license for presumption—it brings greater responsibility.
+
+**Submission in Grief**
+After losing two sons, Aaron "held his peace"—a model of faith. He did not accuse God of injustice or defend his sons. In overwhelming pain he submitted to God's righteousness. Job 1:21: "The LORD gave, and the LORD has taken away; blessed be the name of the LORD."`,
+    christShadow_zh: `拿答亚比户的审判从反面预表了基督的工作。他们以错误的方式亲近神而死，但基督以完全正确的方式为我们开了一条又新又活的路（希伯来书10:20）。他们的凡火被拒绝，但基督的献祭被父完全悦纳——"基督爱我们，为我们舍了自己，当作馨香的供物和祭物献与神"（以弗所书5:2）。
+
+"我在亲近我的人中要显为圣"这句话在基督身上得到了最完美的实现。基督是最亲近父的那一位——祂是父怀里的独生子——祂在十字架上完全彰显了父的圣洁和公义。十字架既是审判（神的公义审判了罪），也是恩典（神的爱为罪人代死）。
+
+亚伦默默承受丧子之痛，预表了天父在各各他的"沉默"——当独生子在十字架上呼喊"我的神！我的神！为什么离弃我？"的时候，父没有回答。但这沉默不是冷漠，而是为了完成救赎计划的忍耐。亚伦失去了两个儿子是因为审判，天父"不爱惜自己的儿子"（罗马书8:32）是因为爱。`,
+    christShadow_en: `The judgment of Nadab and Abihu prefigures Christ's work by contrast. They died approaching God wrongly, but Christ opened for us a new and living way to approach God rightly (Hebrews 10:20). Their unauthorized fire was rejected, but Christ's offering was fully accepted by the Father—"Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God" (Ephesians 5:2).
+
+"Among those who are near me I will be sanctified" finds its most perfect fulfillment in Christ. Christ is the One nearest to the Father—the only Son in the Father's bosom—and on the cross He perfectly displayed the Father's holiness and justice. The cross was both judgment (God's justice judging sin) and grace (God's love dying for sinners).
+
+Aaron silently bearing the loss of his sons prefigures the Father's "silence" at Calvary—when the only Son cried on the cross, "My God, my God, why have you forsaken me?" the Father did not answer. But this silence was not indifference; it was the endurance necessary to complete the plan of redemption. Aaron lost two sons because of judgment; the Father "did not spare his own Son" (Romans 8:32) because of love.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 11,
+    publishDate: '2026-08-18',
+    title: '洁净与不洁净的食物', titleEn: 'Clean and Unclean Foods',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 11 / Leviticus 11',
+    content_zh: `我是摩西，耶和华的仆人。在旷野的岁月里，神将这些饮食条例亲口传给我和亚伦，要我们教导以色列全会众。这不是人的规条，乃是圣洁之神对祂圣洁子民的呼召。
+
+那日，耶和华在会幕中呼唤我，声音清晰而庄严。祂说："你们要分辨洁净与不洁净的走兽、飞鸟和一切爬物。"我心中颤抖——不是因恐惧，而是因深知：神所吩咐的每一条例，背后都有祂永恒的智慧。
+
+地上走兽的条例是这样的：凡蹄分两瓣、倒嚼的牲畜，你们都可以吃。这条规则听起来简单，却满含深意。骆驼倒嚼却不分蹄，为不洁净；蹄兔倒嚼却不分蹄，为不洁净；猪分蹄却不倒嚼，也为不洁净。百姓曾多次问我："为何猪不可吃？"我只能回答：这是耶和华的命令，祂的道高过我们的道，祂的意念高过我们的意念。
+
+水中之物也有分别。凡有翅有鳞的，可以吃；凡无翅无鳞的，当为可憎之物。在旷野行路，我们多次经过湖泊和溪流，百姓们偶尔会问那些无鳞之鱼是否可食。神的话语是明确的——那些爬行水底、无翅无鳞之物，是不洁净的。
+
+飞鸟之中，神也明确列出不可食用的种类：鹰、狗头雕、鱼鹰、鸢、各类游隼、各类乌鸦、鸵鸟、夜鹰、鱼鹰、各类鹰、猫头鹰、鸬鹚、雕鸮、角鸮、鹈鹕、秃鹫、鹳、各类鹭鸶、戴胜鸟、蝙蝠。这些多是食腐或食血之鸟——神借此教导我们远离死亡与污秽。
+
+昆虫之中，凡用四足爬行的都当为可憎之物；但有腿可在地上跳跃的，却可以吃——比如蝗虫、蚱蜢之类。在旷野，蝗虫有时是百姓仅有的食物来源，神的恩典体现在祂的条例之中。
+
+地上爬行的众物——鼬鼠、鼷鼠、各类蜥蜴、蜈蚣等，都是不洁净的。若有人触碰这些爬物的尸体，必不洁净到晚上。这些关于触碰不洁之物的条例，教导百姓要时刻意识到洁净与不洁净之间的界限。
+
+有一点我必须强调：这些条例不是神随意制定的卫生规则。它们的核心是：**"我是耶和华你们的神，所以你们要成为圣洁，因为我是圣洁的。"**（11:44）神的子民蒙召与其他民族不同。我们的饮食、我们的生活、我们的每一个选择，都当反映出我们所事奉之神的圣洁本性。
+
+在旷野漂流的四十年间，我常常思想这些条例。有时百姓抱怨："为何我们不能像埃及人那样随意吃喝？"我心中明白，但也深感痛苦。自由不是随心所欲——真正的自由是活在神的旨意之中。以色列被拣选为神的子民、祭司的国度，这是莫大的荣耀，也是庄严的责任。
+
+洁净与不洁净的分别，最终指向一个更深的真理：我们不仅需要外在饮食的洁净，更需要内心的洁净。凡触碰不洁之物的，要洗衣服、沐浴，到晚上才得洁净。这外在的洁净仪式，是内心更新的预表。神要的不只是外在的遵守，更是里面的圣洁——因为祂是圣洁的。
+
+"你们要成为圣洁，因为我耶和华你们的神是圣洁的。"这句话，是这章一切条例的根基，也是以色列蒙召的终极目的。`,
+    content_en: `I am Moses, servant of the LORD. In the wilderness years, God spoke these dietary laws directly to me and Aaron, that we might teach all the congregation of Israel. These are not human regulations — they are the call of a holy God to His holy people.
+
+On that day, the LORD called to me from the tent of meeting, His voice clear and majestic. He said, "You shall distinguish between the unclean and the clean, and between the living creature that may be eaten and the living creature that may not be eaten." My heart trembled — not with fear, but with the awareness that behind every ordinance of God lies His eternal wisdom.
+
+The law concerning land animals is this: whatever parts the hoof and is cloven-footed and chews the cud, among the animals, you may eat. Yet the camel chews the cud but does not part the hoof — it is unclean. The rock badger chews the cud but does not part the hoof — unclean. The pig parts the hoof but does not chew the cud — also unclean. The people often asked me: "Why may we not eat pork?" I could only answer: this is the LORD's command, and His ways are higher than our ways, His thoughts higher than our thoughts.
+
+Among water creatures, those with fins and scales may be eaten; those without fins and scales are detestable. In our wilderness wanderings, we often passed lakes and streams. God's word was clear — those creatures that swarm in the waters, without fins or scales, are unclean.
+
+Among birds, God explicitly listed those not to be eaten: eagle, bearded vulture, black vulture, kite, all falcons, all ravens, ostrich, nighthawk, sea gull, all hawks, little owl, cormorant, short-eared owl, barn owl, pelican, vulture, stork, all herons, hoopoe, and bat. Most of these feed on carrion or blood — through this, God teaches us to keep far from death and corruption.
+
+Among insects, all creatures that swarm on all fours are detestable; but those that have jointed legs above their feet for jumping — such as locusts and grasshoppers — may be eaten. In the wilderness, locusts were sometimes the people's only available food, and God's grace is embedded in His ordinances.
+
+The swarming things of the ground — weasels, mice, all lizards — are unclean. Whoever touches their carcass shall be unclean until evening. These laws about touching unclean things taught the people to always be conscious of the boundary between clean and unclean.
+
+I must emphasize: these are not arbitrary hygienic rules. Their heart is this: "I am the LORD your God. Consecrate yourselves therefore, and be holy, for I am holy." (11:44) God's people are called to be different from all other nations. Our food, our lives, our every choice should reflect the holy nature of the God we serve.
+
+Through forty years of wilderness wandering, I often meditated on these ordinances. Sometimes the people complained: "Why can't we eat freely like the Egyptians?" I understood their hearts, yet also felt the weight of their misunderstanding. Freedom is not doing whatever one desires — true freedom is living within the will of God. Israel was chosen as God's people, a kingdom of priests — this was a great honor, and a solemn responsibility.
+
+The distinction between clean and unclean ultimately points to a deeper truth: we need not only outward purity in food, but inward purity of heart. Whoever touches an unclean thing must wash his clothes, bathe in water, and remain unclean until evening. These outward purification rituals foreshadow an inward renewal. God desires not merely outward compliance, but inward holiness — for He is holy.
+
+"You shall be holy, for I the LORD your God am holy." This word is the foundation of all the ordinances in this chapter, and the ultimate purpose for which Israel was called.`,
+    historyContext_zh: `利未记11章的饮食条例颁布于以色列人出埃及后的旷野时期（约主前1446-1406年）。在古近东世界，饮食禁忌并非以色列独有——许多民族都有食物禁忌，但以色列的条例有其独特的神学根基：圣洁。
+
+从文化背景看，埃及人虽也有某些饮食限制，但他们的动机主要是宗教仪式性的，与崇拜神祇相关。迦南人的饮食则相对随意，且与多神崇拜的祭祀仪式相连。神给以色列的饮食律法，将他们从周围列国中分别出来，强化了他们"圣洁国度"的身份认同。
+
+关于这些条例的理性解读，历史上有多种观点：（1）卫生说：认为不洁食物容易带来疾病（如猪易携带旋毛虫）；（2）象征说：玛玛利·道格拉斯认为不洁食物是"反常"的，不符合其类别的典型特征；（3）圣洁说：最有说服力的解释认为，这些条例主要是神学性的——通过日常饮食的选择，不断提醒以色列人他们圣洁的身份。
+
+在新约时代，使徒彼得在约帕蒙异象（使徒行传10章），神宣告"神所洁净的，你不可当作俗物"，标志着旧约饮食律法在基督里得到应验和超越。耶稣也宣告"入口的不能污秽人"（马可福音7:15），将洁净的问题从外在饮食转向内心。`,
+    historyContext_en: `The dietary laws of Leviticus 11 were given during Israel's wilderness period following the Exodus from Egypt (approximately 1446-1406 BC). In the ancient Near East, food taboos were not unique to Israel — many nations had dietary restrictions, but Israel's ordinances had a distinctive theological foundation: holiness.
+
+From a cultural perspective, while Egyptians had certain dietary restrictions, their motivation was primarily ritual, connected to the worship of deities. Canaanite dietary practices were more permissive, often connected to the sacrificial rites of their polytheistic worship. God's dietary laws for Israel set them apart from surrounding nations, reinforcing their identity as a "holy nation."
+
+Historical interpretation of these laws has followed several approaches: (1) The hygienic explanation: unclean foods are prone to carry disease (e.g., pigs can harbor trichinosis); (2) The symbolic explanation: Mary Douglas argued that unclean animals are "anomalous" — they do not fit the typical characteristics of their category; (3) The holiness explanation: the most theologically compelling view holds that these laws are primarily theological — through daily dietary choices, Israel was constantly reminded of their holy identity before God.
+
+In the New Testament, Peter received a vision at Joppa (Acts 10) in which God declared, "What God has made clean, do not call common," marking the fulfillment and transcendence of the Old Testament dietary laws in Christ. Jesus also declared, "It is not what goes into the mouth that defiles a person" (Mark 7:15), shifting the question of cleanliness from outward food to the inner heart.`,
+    structure_zh: `利未记11章结构清晰，按生物类别分段论述：
+
+**一、陆地动物（1-8节）**
+标准：分蹄且倒嚼者为洁净；违反任一条件者不洁净。
+例证：骆驼、蹄兔（不洁）；猪（不洁）。
+
+**二、水中生物（9-12节）**
+标准：有翅有鳞者可食；无翅无鳞者为可憎之物。
+
+**三、飞鸟（13-19节）**
+以列举法列出二十种不可食之鸟，无正面标准。
+
+**四、有翅昆虫（20-23节）**
+标准：用四足爬行者不洁；有跳腿者（蝗虫类）可食。
+
+**五、其他接触规定（24-47节）**
+处理尸体后的洁净程序；爬行动物（24种）的不洁分类；神圣洁旨意的总结（44-45节）。
+
+**神学核心（44-45节）**
+"我是耶和华你们的神……你们要成为圣洁，因为我是圣洁的"——这是整章条例的神学根基，也是出埃及记19:6"祭司的国度、圣洁的国民"使命的具体落实。`,
+    structure_en: `Leviticus 11 is clearly structured by biological categories:
+
+**I. Land Animals (vv. 1-8)**
+Standard: Cloven-hoofed and cud-chewing = clean; failing either condition = unclean.
+Examples: camel, rock badger (unclean); pig (unclean).
+
+**II. Water Creatures (vv. 9-12)**
+Standard: fins and scales = may be eaten; without fins and scales = detestable.
+
+**III. Birds (vv. 13-19)**
+Twenty species of forbidden birds listed by name; no positive criterion given.
+
+**IV. Winged Insects (vv. 20-23)**
+Standard: walking on all fours = unclean; those with jointed leaping legs (locusts) = may be eaten.
+
+**V. Further Regulations on Contact (vv. 24-47)**
+Purification procedures after touching carcasses; classification of swarming creatures as unclean; theological summary (vv. 44-45).
+
+**Theological Core (vv. 44-45)**
+"I am the LORD your God… You shall be holy, for I am holy" — this is the theological foundation of the entire chapter, and the concrete outworking of Israel's calling as "a kingdom of priests and a holy nation" (Exodus 19:6).`,
+    theology_zh: `利未记11章的核心神学主题是**圣洁的生活方式**——神圣洁的本性要求祂的子民在生活的每个细节上都与神的圣洁相称。
+
+**1. 圣洁的呼召（44-45节）**
+"你们要成为圣洁，因为我是圣洁的"不是一个建议，而是神圣的命令。改革宗神学强调，圣洁既是神的属性，也是神对子民的要求。彼得前书1:15-16直接引用此节，表明圣洁的呼召贯穿旧约与新约。
+
+**2. 分别为圣的原则**
+饮食条例使以色列成为一个"被分别出来"的民族——从埃及的偶像崇拜中分别，从迦南的混合宗教中分别。改革宗神学中的"普通恩典"和"特殊恩典"框架，帮助我们理解：神虽然护理众生，但祂对教会（圣约群体）有特别的呼召和要求。
+
+**3. 全人生活的圣化**
+改革宗信仰强调生活的"整全性"（whole-life discipleship）——饮食、工作、休息、家庭，一切都属于神。韦敏斯德小要理问答第1问：人生的首要目的是荣耀神，并永远以祂为乐。饮食条例正是这一真理的日常操练。
+
+**4. 律法的功用**
+改革宗神学区分律法的三重用途：规范社会（第一用途）、定罪引人归基督（第二用途）、引导重生信徒的生活（第三用途）。饮食条例主要体现第三用途——不是靠守律法称义，而是作为蒙恩之民感恩回应神的方式。`,
+    theology_en: `The central theological theme of Leviticus 11 is **a holy way of life** — the holy nature of God requires that His people be conformed to His holiness in every detail of life.
+
+**1. The Call to Holiness (vv. 44-45)**
+"You shall be holy, for I am holy" is not a suggestion but a divine command. Reformed theology emphasizes that holiness is both a divine attribute and a divine requirement for God's people. Peter quotes this directly in 1 Peter 1:15-16, showing that the call to holiness runs through both Old and New Testaments.
+
+**2. The Principle of Separation**
+The dietary laws made Israel a people "set apart" — separated from Egyptian idolatry, separated from Canaanite religious syncretism. The Reformed framework of "common grace" and "special grace" helps us understand: though God providentially cares for all, He has a special calling and requirement for the Church (the covenant community).
+
+**3. The Sanctification of All of Life**
+Reformed faith emphasizes "whole-life discipleship" — food, work, rest, family, everything belongs to God. Westminster Shorter Catechism Q1: Man's chief end is to glorify God and enjoy Him forever. The dietary ordinances are a daily practice of this truth.
+
+**4. The Uses of the Law**
+Reformed theology distinguishes three uses of the law: to restrain civil evil (first use), to convict and drive sinners to Christ (second use), and to guide the lives of regenerate believers (third use). Dietary laws primarily reflect the third use — not justification by law-keeping, but as a grateful response of those who have received grace.`,
+    christShadow_zh: `利未记11章的洁净条例，以多种方式预表了基督和新约的实现：
+
+**1. 洁净来自神，非来自人**
+旧约中，洁净与不洁净是神宣告的，不是人的努力所能改变的。同样，在新约中，我们的罪污不能靠自我努力洗净——唯有基督宝血能洁净一切罪（约翰一书1:7）。
+
+**2. 基督废除了饮食律法的隔墙**
+使徒行传10章，神借异象对彼得说"神所洁净的，你不可当作俗物"，预示着福音要传给外邦人。保罗在以弗所书2:14-15说，基督"拆毁了中间隔断的墙……废掉了那条诫命，就是规条"，使犹太人与外邦人合而为一。饮食律法正是这"隔断之墙"的一部分。
+
+**3. 真正的洁净来自内心**
+耶稣在马可福音7:14-23宣告"入口的不能污秽人"，将洁净的问题从外在饮食转向内心——"因为从里面，就是从人心里，发出恶念……这些恶事都是从里面出来的，且能污秽人"。基督是唯一能洁净我们心灵的那位。
+
+**4. 基督是我们的圣洁**
+哥林多前书1:30说基督耶稣"成了我们的……圣洁"。旧约饮食律法呼召以色列活出圣洁，最终指向基督——祂不仅是我们圣洁的标准，更是圣洁的源头和成就者。信徒穿戴基督，就穿戴了真正的圣洁。`,
+    christShadow_en: `The purity laws of Leviticus 11 foreshadow Christ and their New Testament fulfillment in several ways:
+
+**1. Cleanliness Comes from God, Not from Human Effort**
+In the Old Testament, clean and unclean were declared by God — no human effort could change this status. Likewise in the New Testament, our sin-defilement cannot be cleansed by self-effort — only the blood of Christ cleanses us from all sin (1 John 1:7).
+
+**2. Christ Abolishes the Dietary Dividing Wall**
+In Acts 10, God told Peter through a vision, "What God has made clean, do not call common," foreshadowing the gospel's extension to the Gentiles. Paul writes in Ephesians 2:14-15 that Christ "has broken down in his flesh the dividing wall of hostility by abolishing the law of commandments expressed in ordinances," making Jews and Gentiles one. The dietary laws were part of this "dividing wall."
+
+**3. True Cleanliness Comes from the Heart**
+Jesus declared in Mark 7:14-23 that "it is not what goes into a person from outside that can defile him," shifting the cleanliness question from outward food to the inner heart — "For from within, out of the heart of man, come evil thoughts… all these evil things come from within, and they defile a person." Christ alone is the one who can cleanse our inner being.
+
+**4. Christ Is Our Holiness**
+1 Corinthians 1:30 says Christ Jesus "became to us… holiness." The Old Testament dietary laws called Israel to live out holiness, ultimately pointing to Christ — who is not only the standard of our holiness, but the source and accomplisher of holiness. When believers are clothed with Christ, they are clothed with true holiness.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 12,
+    publishDate: '2026-08-19',
+    title: '产妇洁净条例', titleEn: 'Purification After Childbirth',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 12 / Leviticus 12',
+    content_zh: `我是摩西。在会幕的帷幔之内，耶和华将这条例吩咐我，是关乎生命最神圣的时刻——新生命诞生之时。这章虽短，却承载着深重的神学分量。
+
+神说："女人若怀孕生男孩，她就不洁净七天，像她月经污秽的日子一样不洁净。第八天，要给孩子行割礼。此后她还要在家里，血得洁净，共等三十三天；在洁净的日子未满以先，不可摸圣物，也不可进入圣所。"若生女孩，不洁净的日子加倍——十四天，然后再等六十六天。
+
+我曾默想：为何生育——这世间最美好的事之一——竟也要有洁净的条例？生命的诞生，难道不应该是纯洁的吗？
+
+我在神面前静默良久，渐渐明白：这条例不是在说生育是罪，而是在指向一个更深的真理。女人怀孕生产，出血流血，是生命进入这堕落世界的方式。新生命虽然珍贵，却也是亚当之后代，生来带着原罪的印记。大卫在诗篇51:5叹息："我是在罪孽里生的，在我母亲怀胎的时候就有了罪。"这不是诽谤母亲，而是承认：自从伊甸园的堕落，人类生命的诞生本身就已带着需要救赎的记号。
+
+第八天行割礼，这与亚伯拉罕之约密切相关。割礼是立约的记号——将孩子纳入神的圣约群体。血流出来，象征着生命的归属：这孩子不属于自己，不属于父母，而属于立约的神。每一个以色列男婴的割礼，都是对亚伯拉罕之约的再一次宣告："我要作你的神，并你后裔的神。"
+
+洁净期满之后，产妇要将一只周岁的羊羔为燔祭，一只雏鸽或斑鸠为赎罪祭，带到会幕门口，献给祭司。若她的力量不够献羊羔，就可以带两只斑鸠或两只雏鸽，一只为燔祭，一只为赎罪祭。祭司要在耶和华面前为她赎罪，她就洁净了。
+
+这"力量不够"的条款，我每次读来都心中柔软。神知道百姓中有贫穷的人。祂没有让贫穷的母亲因无力献上昂贵的祭物而被排除在洁净之外。神的律法，从来不是冷漠的条文，而是充满怜悯的恩典。
+
+后来的数百年里，我常想，有一天会有一位母亲，在第四十天，抱着她的头生子来到圣殿，带着两只斑鸠或雏鸽——这是穷人的祭物。路加福音告诉我们，马利亚就是这样带着婴孩耶稣来到圣殿，献上穷人的祭（路加福音2:24）。那位要洁净全人类的那位，诞生在穷人家中，进入圣殿的方式，是祂母亲献上最卑微的祭物。神的道路，何等奇妙！
+
+这短短二十一节经文，教导以色列人：生命是神的礼物；但生命也需要救赎。每一个新生命的诞生，都是恩典与需要救赎的记号同时存在的时刻。产妇的洁净礼，是每一代以色列人在神面前承认：我们需要神的洁净，我们需要祭，我们需要恩典。`,
+    content_en: `I am Moses. Within the curtained sanctuary, the LORD spoke to me these ordinances concerning the most sacred moment in human life — the birth of new life. Though brief, this chapter carries profound theological weight.
+
+God said: "If a woman conceives and bears a male child, then she shall be unclean seven days, as at the time of her menstrual impurity. And on the eighth day the flesh of his foreskin shall be circumcised. Then she shall continue for thirty-three days in the blood of her purifying; she shall not touch anything holy, nor come into the sanctuary, until the days of her purifying are completed." If she bears a female child, the days are doubled — fourteen days of uncleanness, followed by sixty-six days of purification.
+
+I pondered deeply: why would childbirth — one of the most beautiful things in this world — also require purification laws? Should not the birth of life be pure in itself?
+
+I waited silently before God, and gradually came to understand: these laws are not declaring childbirth to be sinful. They point to a deeper truth. A woman who conceives and gives birth, in blood and pain, is the means by which life enters this fallen world. The new life, though precious, is a child of Adam — born with the mark of original sin. David cried in Psalm 51:5, "Behold, I was brought forth in iniquity, and in sin did my mother conceive me." This is not slander against his mother, but an acknowledgment that since the fall in Eden, human birth itself carries the mark of needing redemption.
+
+Circumcision on the eighth day is intimately connected to the Abrahamic covenant. Circumcision is the covenant sign — incorporating the child into God's covenant community. Blood is shed, symbolizing the belonging of life: this child does not belong to himself, nor to his parents, but to the God of the covenant. Every circumcision of an Israelite male child was a fresh proclamation of the Abrahamic covenant: "I will be your God and the God of your offspring."
+
+After the purification period, the mother was to bring a year-old lamb for a burnt offering, and a pigeon or turtledove for a sin offering, to the entrance of the tent of meeting, to give to the priest. But if she could not afford a lamb, she could bring two turtledoves or two young pigeons — one for a burnt offering and one for a sin offering. The priest would make atonement for her, and she would be clean.
+
+This provision for those who "cannot afford" — every time I read it, my heart softens. God knows there are poor people among the congregation. He did not exclude poor mothers from purification simply because they could not afford a costly sacrifice. God's law is never a cold set of rules — it is grace filled with compassion.
+
+In the centuries that followed, I often thought: there would come a day when a mother would carry her firstborn son to the temple on the fortieth day, bringing two turtledoves or young pigeons — the offering of the poor. Luke's Gospel tells us that Mary brought the infant Jesus to the temple in exactly this way, offering the sacrifice of the poor (Luke 2:24). The One who would purify all humanity was born into a poor family, and entered the temple through His mother's most humble offering. How wondrous are God's ways!
+
+These twenty-one brief verses teach Israel: life is God's gift; but life also needs redemption. Every birth is a moment when grace and the need for redemption coexist. The mother's purification rite was every generation of Israel's acknowledgment before God: we need God's cleansing, we need sacrifice, we need grace.`,
+    historyContext_zh: `利未记12章颁布于以色列旷野时期，是圣约民族生命礼仪规范的一部分。在古近东世界，围绕生育有丰富的礼仪传统。
+
+**文化背景：** 在美索不达米亚和埃及，生育被视为与生育女神相关的宗教事件。以色列的产后洁净条例将生育置于纯粹的一神论框架内——生命来自耶和华，也当归还给耶和华。七天/十四天加三十三天/六十六天的数字，学者们有不同解释，但其功能是明确的：为产妇从生育事件回归圣约群体的正常参与划定时间边界。
+
+**割礼传统：** 第八天行割礼在以色列独特，因为其他民族的割礼通常在青春期进行（作为成年礼）。以色列的婴儿割礼将圣约身份置于个人行为之前——人不是因为自己选择而进入圣约，而是被神的拣选所纳入。
+
+**新约应验：** 路加福音2:22-24详细记载了耶稣诞生后第四十天，约瑟和马利亚遵照这章条例，带着耶稣上圣殿，献上穷人的祭物（两只斑鸠）。这成为了"将基督带入圣殿"这一重要神学时刻。`,
+    historyContext_en: `Leviticus 12 was given during Israel's wilderness period, as part of the life-cycle ritual norms for the covenant people. The ancient Near East had rich ceremonial traditions surrounding childbirth.
+
+**Cultural Background:** In Mesopotamia and Egypt, childbirth was understood as a religious event connected to fertility goddesses. Israel's postpartum purification laws placed childbirth within a purely monotheistic framework — life comes from the LORD and is to be returned to the LORD. Scholars have proposed various explanations for the seven/fourteen plus thirty-three/sixty-six day periods, but their function is clear: they mark the time boundary for a mother's return to full participation in the covenant community after childbirth.
+
+**The Circumcision Tradition:** Circumcision on the eighth day was unique to Israel, as other peoples typically performed circumcision at puberty as an initiation rite. Israel's infant circumcision placed covenant identity before personal choice — one does not enter the covenant by personal decision, but is incorporated by God's election.
+
+**New Testament Fulfillment:** Luke 2:22-24 records in detail how, forty days after Jesus' birth, Joseph and Mary followed the requirements of this chapter, bringing Jesus to the temple and offering the sacrifice of the poor (two turtledoves). This became a pivotal theological moment of "bringing Christ into the temple."`,
+    structure_zh: `利未记12章结构精简，分为三段：
+
+**一、男孩出生后的条例（1-4节）**
+七天不洁净 + 第八天割礼 + 三十三天血的洁净期 = 共四十天
+
+**二、女孩出生后的条例（5节）**
+十四天不洁净 + 六十六天血的洁净期 = 共八十天
+（女孩的期限加倍，原因在神学上有多种解释，最合理的是象征性的：女孩日后自己也将成为母亲，生命延续的能力使洁净期相应延长）
+
+**三、洁净祭物与穷人条款（6-8节）**
+正常祭物：周岁羊羔（燔祭）+ 斑鸠或雏鸽（赎罪祭）
+贫穷替代：两只斑鸠或雏鸽
+
+**神学轴心：** 赎罪祭（sin offering）的出现表明，这不仅是一个医学/卫生条例，而是有神学意义的——新生命需要在神面前被赎回（与初生之物归给耶和华的原则相连，参出埃及记13:2）。`,
+    structure_en: `Leviticus 12 is concisely structured in three sections:
+
+**I. Regulations After the Birth of a Son (vv. 1-4)**
+Seven days of uncleanness + circumcision on the eighth day + thirty-three days of blood purification = forty days total
+
+**II. Regulations After the Birth of a Daughter (v. 5)**
+Fourteen days of uncleanness + sixty-six days of blood purification = eighty days total
+(The doubled period for daughters has been interpreted in various ways; the most convincing is symbolic: a daughter will herself one day become a mother, and the capacity for the continuation of life correspondingly lengthens the purification period)
+
+**III. Purification Offerings and the Provision for the Poor (vv. 6-8)**
+Standard offering: year-old lamb (burnt offering) + pigeon or turtledove (sin offering)
+Poor person's alternative: two turtledoves or two young pigeons
+
+**Theological Axis:** The appearance of the sin offering indicates this is not merely a medical/hygienic ordinance but has theological significance — new life needs to be redeemed before God (connected to the principle of firstborn consecration to the LORD, cf. Exodus 13:2).`,
+    theology_zh: `利未记12章揭示了改革宗神学中几个重要主题：
+
+**1. 原罪与人类境况**
+生育本身不是罪，但产后的洁净礼揭示了人类在堕落之后的存在处境。每一个新生命来到世上，都带着亚当的罪性（罗马书5:12）。赎罪祭的设立不是诽谤母亲，而是神学上对原罪的宣告：这孩子来到的世界，是一个需要救赎的世界。
+
+**2. 割礼与圣约神学**
+改革宗圣约神学将割礼视为洗礼的旧约对应（西2:11-12）。婴儿割礼的神学前提是：圣约的恩典先于个人回应。神先向亚伯拉罕立约，将恩典的记号施于婴孩，这是神的主权恩典的宣示。
+
+**3. 赎罪的需要**
+"赎罪祭"（sin offering）的出现，与单纯的仪式洁净有所不同。这指向一个深刻的真理：人类不仅需要外在的洁净，更需要在神面前的赎罪。没有赎罪，就没有真正的洁净。
+
+**4. 神对贫穷者的怜悯**
+穷人的替代祭物条款展现了神律法中的怜悯特质。改革宗神学强调神的全能与慈爱并行——祂的律法是圣洁的，同时也是充满恩典的。这与改革宗社会伦理中关怀穷人的传统相呼应。`,
+    theology_en: `Leviticus 12 illuminates several important themes in Reformed theology:
+
+**1. Original Sin and the Human Condition**
+Childbirth itself is not sinful, but the postpartum purification rite reveals humanity's condition after the fall. Every new life enters the world bearing Adam's sinful nature (Romans 5:12). The sin offering is not a slander against the mother, but a theological declaration about original sin: this child enters a world that needs redemption.
+
+**2. Circumcision and Covenant Theology**
+Reformed covenant theology views circumcision as the Old Testament counterpart to baptism (Colossians 2:11-12). The theological premise of infant circumcision is that covenant grace precedes personal response. God first made His covenant with Abraham, applying the sign of grace to the infant — a declaration of God's sovereign grace.
+
+**3. The Need for Atonement**
+The appearance of the "sin offering" is distinct from mere ritual cleansing. This points to a profound truth: humanity needs not only outward purification, but atonement before God. Without atonement, there is no true cleansing.
+
+**4. God's Compassion for the Poor**
+The provision for poor persons' substitute offerings reveals the character of mercy within God's law. Reformed theology emphasizes that God's omnipotence and love go hand in hand — His law is holy and simultaneously full of grace. This resonates with the Reformed tradition of caring for the poor in social ethics.`,
+    christShadow_zh: `利未记12章以惊人的方式预表了基督：
+
+**1. 马利亚的献祭——穷人的祭物**
+路加福音2:22-24记载，约瑟和马利亚为耶稣献上"一对斑鸠或两只雏鸽"——这正是穷人的祭物（利未记12:8）。这无声地宣告：神子降生在贫穷之中，祂的到来不是透过富有和权贵，而是透过卑微。这是道成肉身神学的感性表达。
+
+**2. 西面的认信**
+路加福音2:25-35记载，当约瑟和马利亚按律法带耶稣进圣殿时，义人西面接过婴孩，发出预言："主啊，如今可以照你的话，释放仆人安然去世，因为我亲眼看见你的救恩。"利未记12章的洁净礼，成了西面认出弥赛亚的历史时刻。
+
+**3. 基督使我们洁净**
+产妇需要赎罪祭才能洁净，预表我们每一个人都需要基督的祭。基督不仅符合律法（祂自己被行了割礼，被献在圣殿），更成全了律法（成为最终的赎罪祭）。新约的洁净不需要鸽子，只需要基督的宝血（希伯来书9:14）。
+
+**4. 新生命需要重生**
+旧约的产后洁净指向新约的"重生"概念——每一个属肉体的生命都需要圣灵的重生（约翰福音3:5-6）。"从肉身生的就是肉身，从灵生的就是灵"，基督带来的是圣灵的重生，这才是真正使人洁净的"新生"。`,
+    christShadow_en: `Leviticus 12 foreshadows Christ in remarkable ways:
+
+**1. Mary's Sacrifice — The Offering of the Poor**
+Luke 2:22-24 records that Joseph and Mary offered "a pair of turtledoves, or two young pigeons" for Jesus — precisely the sacrifice designated for the poor (Leviticus 12:8). This silently declares: the Son of God was born into poverty; His coming was not through wealth and power, but through humility. This is a vivid expression of the theology of incarnation.
+
+**2. Simeon's Recognition**
+Luke 2:25-35 records that when Joseph and Mary brought Jesus to the temple according to the law, the righteous Simeon took the infant in his arms and prophesied: "Lord, now you are letting your servant depart in peace, according to your word; for my eyes have seen your salvation." The purification rite of Leviticus 12 became the historical moment when Simeon recognized the Messiah.
+
+**3. Christ Makes Us Clean**
+Just as the mother required a sin offering for her purification, we each require Christ's sacrifice. Christ did not merely comply with the law (He Himself was circumcised and presented in the temple) but fulfilled the law (becoming the final sin offering). New Testament cleansing requires no doves — only the blood of Christ (Hebrews 9:14).
+
+**4. New Life Requires New Birth**
+The Old Testament postpartum purification points toward the New Testament concept of "new birth" — every natural life needs the Spirit's regeneration (John 3:5-6). "That which is born of the flesh is flesh, and that which is born of the Spirit is spirit." The new birth Christ brings through the Holy Spirit is the true "new life" that makes us truly clean.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 13,
+    publishDate: '2026-08-20',
+    title: '大麻疯的诊断', titleEn: 'Laws About Skin Diseases',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 13 / Leviticus 13',
+    content_zh: `我是摩西。在以色列人一切的条例中，没有比关于大麻疯的条例更令人心沉的了。我将耶和华所吩咐的一一记录在案，但每次读这章经文，我心中都有一种深重的悲哀——不是对条例本身，而是对人类境况的悲哀。
+
+"人若在皮肤上生了疙瘩，或生了癣，或生了火斑，在他皮肤上成了大麻疯的灾病，就要将他带到亚伦祭司或亚伦祭司诸子中一个祭司那里。"（13:2）
+
+祭司不是医生，但在以色列，祭司负责判断洁净与不洁净。这一事实本身就充满神学意义：在以色列，疾病不仅仅是身体问题，更是属灵和礼仪状态的问题。大麻疯（tsara'at，古希伯来语，实际上包括多种皮肤病）使人不能参与会幕的礼拜，使人从圣约群体中被隔离出去。这是一种活死人的状态。
+
+条例的细节令人震惊。祭司要仔细检视患处：毛发变白了吗？比皮肤下陷了吗？灾病是扩展还是静止？一次七天的隔离，再一次七天——只为了让祭司能够仔细判断。这不是冷漠的条文，而是严谨的关切：在作出影响一个人命运的判决之前，要给予充足的时间观察。
+
+若患处已经扩展到全身——浑身上下都发白了，这人反而宣告为洁净的。这听起来很奇怪，但神学家们的解释是：当疾病已经扩散到极致，没有更多活的组织可以被感染时，这种死状的完全白就不再是危险的状态。但更深的象征意义或许是：完全的腐败已经到达极点，没有什么"半途之祸"的虚假安全感。
+
+若有人被宣告为长大麻疯的，条例是这样的："那长大麻疯的病人，他的衣服要撕裂，也要蓬头散发，蒙着上嘴唇，喊叫说：'不洁净了！不洁净了！'他独居营外，日子未满，他就不洁净，要住在营外。"（13:45-46）
+
+撕裂衣服、蓬头散发——这是哀悼的记号，是以色列人为死人哀悼的方式。大麻疯病人被视为活着的死人，他的不洁净使他与神的会众隔绝。"不洁净了！不洁净了！"这声喊叫，是每个大麻疯病人必须发出的，以警告别人远离他，不要因触碰他而染上不洁净。
+
+我常常想象那些被喊叫着"不洁净"的人：他们的眼神，他们的孤独，他们对营地的遥远仰望。那里有他们的妻子、丈夫、父母、孩子——但他们不能靠近。他们在自己家人的世界的边缘，看着别人的正常生活，却无法参与其中。
+
+这不是神的残忍，而是圣洁的严肃性。不洁净不能进入神的圣洁之中——这是旧约的基本原则。但这个原则也是一种怜悯的警告：罪的本质就是将人从神的同在中隔离出去，就像大麻疯将人从会众中隔离出去一样。每一个大麻疯病人的悲剧，都是所有罪人命运的缩影。
+
+最后几节论及衣物和房屋上的霉菌（tsara'at），条例延伸到个人身体之外，涉及整个生活环境。这教导我们：不洁净的力量会蔓延，会渗透，会影响周围的一切。罪不只是个人问题——它有社群性的破坏力。
+
+整章约九十节经文，反复强调祭司的检视、判断、隔离和宣告。这繁复的程序，是对一个事实的严肃见证：在圣洁的神面前，没有任何不洁净可以被轻描淡写地忽略。`,
+    content_en: `I am Moses. Among all the ordinances given to Israel, none weigh more heavily on the heart than those concerning skin disease. I recorded every word the LORD commanded, yet every time I read this chapter, I feel a deep sorrow — not for the laws themselves, but for the human condition they reveal.
+
+"When a person has on the skin of his body a swelling or an eruption or a spot, and it turns into a case of leprous disease on the skin of his body, then he shall be brought to Aaron the priest or to one of his sons the priests." (13:2)
+
+The priest was not a physician, but in Israel, the priest was responsible for determining clean and unclean. This fact itself is deeply theological: in Israel, disease was not merely a physical matter, but a question of spiritual and ritual status. Skin disease (tsara'at in ancient Hebrew, encompassing various dermatological conditions) excluded a person from worship at the tabernacle, cutting them off from the covenant community. It was a state of living death.
+
+The detail of the ordinances is striking. The priest must carefully examine the affected area: has the hair turned white? Is the diseased spot deeper than the skin? Is it spreading or static? One seven-day quarantine, then another — simply to give the priest sufficient time to make a careful determination. This is not cold bureaucracy, but rigorous care: before rendering a verdict that determines a person's fate, adequate time for observation must be given.
+
+If the disease spreads to cover the entire body — the person turns completely white all over — they are then declared clean. This sounds strange, but theologians have explained: when the disease has reached its fullest extent, with no more living tissue left to infect, this state of complete whiteness is no longer a dangerous condition. But the deeper symbolic significance may be: complete corruption has reached its apex, and there is no false security of being "halfway" afflicted.
+
+If a person is pronounced to have a serious skin disease, the ordinance is this: "The leprous person who has the disease shall wear torn clothes and let the hair of his head hang loose, and he shall cover his upper lip and cry out, 'Unclean, unclean.' He shall remain unclean as long as he has the disease. He is unclean. He shall live alone. His dwelling shall be outside the camp." (13:45-46)
+
+Torn clothing, disheveled hair — these are signs of mourning, the way Israel mourned the dead. The diseased person was regarded as a living corpse; their uncleanness cut them off from the assembly of God. "Unclean! Unclean!" — this cry was required of every afflicted person, to warn others to keep their distance, lest they be defiled by contact.
+
+I often imagine those who had to cry out "unclean": their eyes, their loneliness, their distant gaze toward the camp. Their wives, husbands, parents, children were there — but they could not draw near. They stood at the edge of their family's world, watching others' ordinary lives, unable to participate.
+
+This is not God's cruelty, but the gravity of holiness. What is unclean cannot enter God's holiness — this is the fundamental principle of the Old Testament. But this principle is also a merciful warning: sin's very nature is to isolate a person from God's presence, just as skin disease isolated a person from the congregation. Every afflicted person's tragedy was a microcosm of every sinner's condition.
+
+The final sections address mold and mildew (tsara'at) on garments and houses, extending the ordinances beyond the individual body to the entire living environment. This teaches us: the power of uncleanness spreads, permeates, and affects everything around it. Sin is not merely a personal matter — it has communal destructive power.
+
+The entire chapter, approximately ninety verses, repeatedly emphasizes the priest's examination, judgment, quarantine, and declaration. This elaborate procedure is a solemn witness to one fact: before a holy God, no uncleanness can be casually overlooked.`,
+    historyContext_zh: `利未记13章的大麻疯条例（约主前15世纪）反映了古代以色列独特的医学-宗教结合模式。
+
+**"大麻疯"（tsara'at）的界定：** 现代学者指出，希伯来文"tsara'at"不等同于现代医学的"麻风病"（汉森氏病，Mycobacterium leprae）。它包括了各种皮肤病：牛皮癣、白癜风、疥疮、各种皮肤感染等。在没有现代微生物学的古代，将各类皮肤病归入同一礼仪类别是合理的做法。
+
+**祭司作为"检验者"：** 在古代近东，祭司常具有多重功能——宗教、法律、医学。利未记13章中祭司的诊断功能是独特的，因为它将医学判断与礼仪状态直接挂钩。
+
+**隔离的做法：** 七天隔离的做法在公共卫生上相当合理。现代流行病学证明，隔离仍是控制传染病的最有效手段之一。
+
+**历史上著名的大麻疯患者：** 米利暗（民数记12章）因批评摩西而被击打大麻疯；乌撒雅王（历代志下26章）因擅自进入圣殿献香而患大麻疯；乃缦（列王记下5章）是亚兰将军，被以利沙医治的麻风病人。这些叙事模式表明，在以色列人的神学理解中，大麻疯与神的审判有一定关联。`,
+    historyContext_en: `The skin disease ordinances of Leviticus 13 (approximately the 15th century BC) reflect ancient Israel's unique fusion of the medical and the religious.
+
+**Defining "tsara'at":** Modern scholars note that the Hebrew "tsara'at" is not equivalent to modern medical "leprosy" (Hansen's disease, Mycobacterium leprae). It encompassed various skin conditions: psoriasis, vitiligo, scabies, various skin infections. In an ancient world without modern microbiology, grouping various skin diseases into a single ritual category was a reasonable approach.
+
+**Priests as "Examiners":** In the ancient Near East, priests often fulfilled multiple roles — religious, legal, medical. The diagnostic function of priests in Leviticus 13 is distinctive because it directly connects medical judgment to ritual status.
+
+**The Practice of Quarantine:** The seven-day quarantine period is quite sound from a public health perspective. Modern epidemiology confirms that quarantine remains one of the most effective means of controlling infectious disease.
+
+**Famous Biblical Figures Afflicted:** Miriam (Numbers 12) was struck with skin disease for criticizing Moses; King Uzziah (2 Chronicles 26) was afflicted for unlawfully entering the temple to burn incense; Naaman (2 Kings 5) was an Aramean general healed by Elisha. These narrative patterns suggest that in Israel's theological understanding, skin disease was connected in certain cases with divine judgment.`,
+    structure_zh: `利未记13章篇幅最长（59节），可分为以下几个单元：
+
+**一、皮肤疙瘩或癣的判断（1-17节）**
+初诊标准：毛发变白、患处下陷 → 宣告不洁净
+隔离观察：七天 + 七天的程序
+全身变白的特例
+
+**二、旧疮复发的判断（18-23节）**
+对已愈合但复发病灶的处理程序
+
+**三、烧伤后的判断（24-28节）**
+火伤处出现疑似症状的判断标准
+
+**四、头部和胡须处的患处（29-37节）**
+针对头部和脸部特殊部位的条例
+
+**五、白斑的判断（38-39节）**
+区分危险的白色病变与无害的白斑
+
+**六、秃顶处的患处（40-44节）**
+关于秃顶者的特别条例
+
+**七、患病者的生活规定（45-46节）**
+撕衣、蓬发、喊"不洁净"、住营外
+
+**八、衣物和皮革上的霉菌（47-59节）**
+霉菌的观察、隔离、判断程序`,
+    structure_en: `Leviticus 13 is the longest chapter (59 verses) and may be divided into the following units:
+
+**I. Diagnosis of Swellings and Eruptions (vv. 1-17)**
+Initial diagnostic criteria: hair turned white, spot depressed below the skin → declared unclean
+Quarantine observation: seven days + seven days procedure
+Special case of entire body turning white
+
+**II. Judgment of Recurring Old Sores (vv. 18-23)**
+Procedures for dealing with lesions that appeared healed but recurred
+
+**III. Judgment After Burns (vv. 24-28)**
+Diagnostic criteria when burn sites develop suspicious symptoms
+
+**IV. Lesions on the Head and Chin (vv. 29-37)**
+Special ordinances for particular areas of the head and face
+
+**V. Judgment of White Spots (vv. 38-39)**
+Distinguishing dangerous white lesions from harmless white spots
+
+**VI. Lesions on Bald Areas (vv. 40-44)**
+Special ordinances for those with baldness
+
+**VII. Life Regulations for Afflicted Persons (vv. 45-46)**
+Torn clothing, disheveled hair, crying "unclean," living outside the camp
+
+**VIII. Mold on Garments and Leather (vv. 47-59)**
+Procedures for observing, quarantining, and judging mold`,
+    theology_zh: `利未记13章的神学核心是**不洁净与圣约群体的关系**，以及**圣洁的排他性**：
+
+**1. 不洁净作为罪的图像**
+大麻疯在旧约中成为罪的视觉化象征。正如大麻疯从内部腐烂皮肤，破坏整个肌体的完整性，罪也从内部腐蚀人的灵性，破坏人与神之间关系的完整性。改革宗神学中的"全然败坏"（Total Depravity）教义，找到了形象的旧约对照——大麻疯的扩散就是罪性蔓延的图像。
+
+**2. 隔离与排除**
+不洁净之人被排除在圣约群体之外，不能参与会幕崇拜。这揭示了一个深刻的真理：罪造成的后果是与神的隔绝（以赛亚书59:2："你们的罪孽使你们与神隔绝"）。旧约的礼仪隔离是这个灵性真理的外在展现。
+
+**3. 祭司的判断职能**
+祭司宣告洁净或不洁净，这是中保功能的早期形式。只有经过祭司的宣告，才能确定一个人的礼仪状态。这预表了基督作为大祭司，在神面前宣告信徒为义（称义的法庭概念，改革宗神学核心）。
+
+**4. 圣洁群体的纯洁性**
+以色列会众不能包容不洁净，这是圣洁的必然要求。改革宗教会论强调，教会是圣洁的群体，教会纪律（church discipline）是维护群体圣洁的必要手段——这与大麻疯病人被隔离的原则有神学上的连续性。`,
+    theology_en: `The theological core of Leviticus 13 is **the relationship between uncleanness and the covenant community**, and **the exclusiveness of holiness**:
+
+**1. Uncleanness as an Image of Sin**
+Skin disease became in the Old Testament a visual symbol of sin. Just as skin disease rots from within, destroying the integrity of the entire body, sin corrodes the spirit from within, destroying the integrity of the relationship between humanity and God. The Reformed doctrine of Total Depravity finds a vivid Old Testament counterpart — the spread of skin disease is an image of sin's pervasion.
+
+**2. Isolation and Exclusion**
+The unclean person was excluded from the covenant community, unable to participate in tabernacle worship. This reveals a profound truth: sin's consequence is separation from God (Isaiah 59:2: "your iniquities have made a separation between you and your God"). The Old Testament's ritual isolation is the outward manifestation of this spiritual reality.
+
+**3. The Priestly Function of Judgment**
+The priest's declaration of clean or unclean is an early form of mediatorial function. Only through the priest's pronouncement could a person's ritual status be determined. This foreshadows Christ as High Priest, declaring believers righteous before God (the forensic concept of justification, central to Reformed theology).
+
+**4. The Purity of the Holy Community**
+The congregation of Israel could not accommodate uncleanness — this is the necessary demand of holiness. Reformed ecclesiology emphasizes that the church is a holy community, and church discipline is a necessary means of maintaining communal holiness — this has theological continuity with the principle of isolating those with skin disease.`,
+    christShadow_zh: `利未记13章是整本圣经中对基督救赎最有力的预表之一：
+
+**1. 耶稣洁净大麻疯病人**
+福音书中，耶稣多次洁净大麻疯病人（马太福音8:1-4；路加福音17:11-19）。按律法，大麻疯病人不可触碰，但耶稣"伸手摸他"（马太福音8:3）。在旧约体系中，洁净者触碰不洁净者，会使洁净者染上不洁净；但当神的儿子触碰不洁净者，祂的洁净反而传给了对方。这是一个方向的彻底逆转。
+
+**2. 耶稣在营外受苦**
+希伯来书13:12说："耶稣……在城门外受苦，为要用自己的血洁净百姓。"大麻疯病人住在营外（13:46），耶稣也在城门外被钉死——祂承担了我们的"不洁净"，被社群排除在外，以祂的死换取我们的洁净。
+
+**3. 耶稣成为我们的不洁净**
+哥林多后书5:21："神使那无罪的，替我们成为罪。"耶稣就像大麻疯病人一样，被驱逐、被排斥、被喊叫"不洁净"（模拟上的）——祂在十字架上担当了我们应当承受的排斥与隔离，以便我们能被宣告为洁净，进入神的同在。
+
+**4. 祭司的宣告与称义**
+在利未记体系中，不是祭司治愈大麻疯，而是宣告已经洁净的人为洁净。同样，基督不是因为我们"变好了"才称我们为义，而是先宣告我们为义（因基督的缘故），然后我们在圣灵的更新中实际地成长为圣（称义先于成圣，改革宗神学的核心顺序）。`,
+    christShadow_en: `Leviticus 13 is one of the most powerful Old Testament foreshadowings of Christ's redemption:
+
+**1. Jesus Cleansing Those with Skin Disease**
+In the Gospels, Jesus cleansed those with skin disease multiple times (Matthew 8:1-4; Luke 17:11-19). According to the law, the diseased could not be touched, but Jesus "stretched out his hand and touched him" (Matthew 8:3). In the Old Testament system, when a clean person touched an unclean person, the clean became unclean; but when the Son of God touched the unclean, His cleanness was transferred to them instead. This is a complete reversal of direction.
+
+**2. Jesus Suffering Outside the Camp**
+Hebrews 13:12 says: "Jesus also suffered outside the gate in order to sanctify the people through his own blood." The diseased lived outside the camp (13:46); Jesus was crucified outside the city gate — He bore our "uncleanness," was excluded by the community, and through His death exchanged places with us, securing our cleansing.
+
+**3. Jesus Becoming Our Uncleanness**
+2 Corinthians 5:21: "For our sake he made him to be sin who knew no sin." Jesus, like those with skin disease, was driven out, rejected, and symbolically cried out as "unclean" — on the cross He bore the rejection and isolation we deserved, so that we might be declared clean and enter God's presence.
+
+**4. The Priest's Declaration and Justification**
+In the Levitical system, the priest did not heal the skin disease, but declared those already healed to be clean. Similarly, Christ does not declare us righteous because we "have become good," but first declares us righteous (on account of Christ), and then we actually grow in holiness through the Spirit's renewal (justification precedes sanctification — the central order in Reformed theology).`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 14,
+    publishDate: '2026-08-21',
+    title: '大麻疯的洁净仪式', titleEn: 'Cleansing From Skin Diseases',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 14 / Leviticus 14',
+    content_zh: `我是摩西。上一章写的是如何诊断和隔离大麻疯病人；这一章，神颁布了最令人惊奇的条例——被洁净的病人如何重新归回圣约群体。这是一个关于恢复、归回、和好的仪式，是旧约中最精彩的礼仪之一。
+
+洁净的仪式分为两个阶段，隔七天进行。
+
+**第一阶段：营外的仪式（1-9节）**
+
+当大麻疯病人被医治——注意，是被医治了之后，不是因为仪式本身治好他——他要去找祭司。祭司走出营外，到他那里去。这个细节意义深重：祭司主动走出洁净的营地，进入不洁净的领域，来检视这个被隔离的人。
+
+若确认已经痊愈，祭司要吩咐人取两只活的洁净鸟，并香柏木、朱红线和牛膝草。将一只鸟宰在瓦器中的活水（源自山泉的流水）上，然后将活鸟、香柏木、朱红线和牛膝草都蘸那被宰之鸟的血，把血弹在那长大麻疯将要洁净的人身上七次，宣告他洁净，把活鸟放到田野里。
+
+这个仪式充满象征：死鸟代表承担了病人的不洁净（代替的概念）；活鸟带血飞走，象征过去的不洁净被带走、消除；田野是自由的象征——不再被隔离，重获自由。七次弹血是圣洁与完整的数字。
+
+此后，那人要洗衣服、剃去全身的毛、用水洗澡，然后才能进营，但还要在营外住七天。
+
+**第二阶段：第八天的祭物（10-32节）**
+
+第八天，他要带来祭物到耶和华面前：两只没有残疾的公羊羔和一只没有残疾的一岁母羊羔，以及同献的素祭和一罗革油。祭司要在耶和华面前，为那人行波浪礼（即在神面前来回摇动祭物）。
+
+然后祭司取一只公羊羔为赎愆祭，与那罗革油一同献给耶和华。祭司要将公羊羔宰在圣所，就是北边耶和华面前宰赎罪祭与燔祭的地方。赎愆祭与赎罪祭一样，归祭司。这是至圣的。
+
+接下来，祭司要取一些赎愆祭牲的血，抹在那将要洁净的人右耳垂上，右手大拇指上，右脚大拇趾上。然后取一罗革油，倒在祭司自己的左手心里，右手指蘸油弹七次在耶和华面前，抹在那将要洁净的人右耳垂上，右手大拇指上，右脚大拇趾上，就在赎愆祭的血的上头。其余的油抹在他的头上。
+
+这个仪式与亚伦和他儿子承接圣职时的仪式（利未记8章）几乎相同——血抹在右耳、右手拇指、右脚拇趾。这个相似点意味深长：被洁净的大麻疯病人，经历的是一种重新就职的仪式——他从"活死人"重新成为能够在神面前事奉的圣约成员。
+
+对于贫穷者，神再次提供替代选项：可以带一只公羊羔、两只斑鸠或雏鸽，以及细面等。神的恩典不因贫穷而关上大门。
+
+**房屋的洁净（33-53节）**
+
+条例还延伸到房屋。若迦南地的房屋出现霉菌，同样需要祭司来检视、隔离、判断。若经过处理仍不能根除，就必须拆毁房屋，将石头、木头和灰泥都运到城外的不洁净之处。如果能治好，则用与病人洁净相似的仪式来洁净房屋。
+
+这最后的部分教导我们：圣洁不只是关于个人的状态，也关于我们居住的空间。不洁净会渗透到环境中，影响周围的一切。
+
+整个洁净仪式的神学核心是：洁净的初始不是靠人的努力，而是靠神的医治。仪式是对神已经成就之事的回应与宣告，不是产生洁净的原因。这是恩典先行于人的回应的旧约图像。`,
+    content_en: `I am Moses. The previous chapter described how to diagnose and isolate those with skin disease; in this chapter, God established the most remarkable ordinance — how a healed person could be readmitted to the covenant community. This is a rite of restoration, return, and reconciliation — one of the most elaborate ceremonies in the Old Testament.
+
+The purification rite unfolds in two stages, seven days apart.
+
+**Stage One: The Ceremony Outside the Camp (vv. 1-9)**
+
+When a diseased person was healed — note, after being healed, not because the ceremony itself healed them — they would go to the priest. The priest would go out of the camp to meet them. This detail is profoundly significant: the priest actively left the clean camp, entered the unclean domain, and came to examine this isolated person.
+
+If healing was confirmed, the priest commanded two living clean birds to be brought, along with cedarwood, scarlet yarn, and hyssop. One bird was killed over fresh water (spring water) in a clay vessel, then the living bird, cedarwood, scarlet yarn, and hyssop were all dipped in the blood of the slain bird, and the blood was sprinkled seven times on the person being cleansed, who was then declared clean. The living bird was then released into the open field.
+
+This ceremony is rich in symbolism: the dead bird represented the bearing of the person's uncleanness (the concept of substitution); the living bird flying away with blood symbolized the removal of past uncleanness; the open field symbolized freedom — no longer isolated, restored to liberty. The seven-fold sprinkling of blood is the number of holiness and completeness.
+
+After this, the person washed their clothes, shaved all their hair, bathed in water, and could then enter the camp — but still had to live outside their tent for seven days.
+
+**Stage Two: The Eighth Day Offerings (vv. 10-32)**
+
+On the eighth day, they brought offerings before the LORD: two male lambs without blemish, one ewe lamb a year old without blemish, along with grain offering and a log of oil. The priest presented them as a wave offering before the LORD.
+
+Then the priest took one male lamb as a guilt offering, along with the log of oil, and offered them before the LORD. The lamb was slaughtered in the holy place, the north side, where sin offerings and burnt offerings were slaughtered — the same place for guilt offerings, which like the sin offering belonged to the priest, being most holy.
+
+Next the priest took some of the blood of the guilt offering and put it on the lobe of the right ear of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot. Then the priest took some of the log of oil, poured it into his own left palm, and with his right finger sprinkled the oil seven times before the LORD, then anointed it over the blood on the right ear, right thumb, and right big toe, and put the rest of the oil on the person's head.
+
+This ceremony is nearly identical to the ordination ceremony for Aaron and his sons (Leviticus 8) — blood on the right ear, right thumb, right big toe. This parallel is deeply significant: the cleansed person was experiencing a kind of re-investiture — returning from being a "living corpse" to becoming a covenant member who could again serve before God.
+
+For the poor, God again provided alternatives: one male lamb, two turtledoves or young pigeons, fine flour. God's grace does not close its door to the poor.
+
+**Cleansing of Houses (vv. 33-53)**
+
+The ordinances also extended to houses. If mold appeared in houses in Canaan, the priest likewise examined, quarantined, and judged. If it could not be eliminated after treatment, the house had to be demolished, with its stones, wood, and plaster carried to an unclean place outside the city. If it could be cured, a ceremony similar to the person's cleansing purified the house.
+
+This final section teaches us: holiness is not merely about personal status, but also about the spaces we inhabit. Uncleanness permeates the environment and affects everything around it.
+
+The theological heart of the entire cleansing ceremony is this: the initiation of cleansing was not through human effort, but through God's healing. The ceremony was a response to and declaration of what God had already accomplished — not the cause of cleansing. This is an Old Testament image of grace preceding human response.`,
+    historyContext_zh: `利未记14章的洁净仪式（约主前15世纪）在古代近东文化中有其独特的礼仪语境，同时也展示了以色列宗教的独特神学维度。
+
+**仪式的文化背景：** 古代美索不达米亚和埃及都有各种驱邪和恢复仪式，通常涉及水、血、植物等元素的净化使用。以色列的洁净仪式与这些传统有形式上的相似，但神学基础完全不同——这里不是魔法，而是神明确设立的礼仪，指向神的属性（圣洁、赦免）。
+
+**香柏木、朱红线与牛膝草：** 这三种材料在以色列的洁净仪式中反复出现（另见民数记19章）。香柏木是以色列可用的最高贵的木料；朱红线（猩红色）象征生命与血；牛膝草是一种灌木，用于弹洒水和血。
+
+**逾越节与牛膝草的连接：** 以色列人在埃及用牛膝草将羔羊的血弹在门楣上（出埃及记12:22）。这种联系表明，大麻疯的洁净仪式与逾越节的拯救叙事处于同一象征系统内，都是用血得洁净、得救赎的图像。
+
+**在迦南的房屋霉菌条例（33-53节）：** 这部分的序言"你们到了我赐给你们为业的迦南地"，表明这部分条例是为进入迦南后而设，是神对未来的预备。`,
+    historyContext_en: `The cleansing rites of Leviticus 14 (approximately the 15th century BC) existed within a unique ritual context in the ancient Near East, while also demonstrating the distinctive theological dimensions of Israelite religion.
+
+**Cultural Background of the Rite:** Ancient Mesopotamia and Egypt both had various exorcism and restoration rituals, typically involving the purifying use of water, blood, and plant elements. Israel's cleansing rituals have formal similarities with these traditions, but their theological foundation is entirely different — this is not magic, but a ceremony explicitly established by God, pointing to divine attributes (holiness, forgiveness).
+
+**Cedarwood, Scarlet Yarn, and Hyssop:** These three materials recur in Israel's purification ceremonies (cf. Numbers 19). Cedarwood was the most noble wood available to Israel; scarlet yarn (crimson) symbolized life and blood; hyssop was a shrub used for sprinkling water and blood.
+
+**The Connection to Passover and Hyssop:** Israel used hyssop to apply the lamb's blood to doorposts in Egypt (Exodus 12:22). This connection suggests that the cleansing ceremony for skin disease operates within the same symbolic system as the Passover salvation narrative — both are images of cleansing and redemption through blood.
+
+**House Mold Ordinances After Entering Canaan (vv. 33-53):** The preamble of this section — "When you come into the land of Canaan, which I give you for a possession" — indicates these ordinances were designed for after entering Canaan, a divine preparation for the future.`,
+    structure_zh: `利未记14章结构清晰，分为三大部分：
+
+**一、被洁净之人的第一阶段仪式（1-9节）**
+营外检视与确认（1-3节）
+两鸟仪式：宰鸟/活水/蘸血/弹七次/放活鸟（4-7节）
+个人洁净：洗衣/剃毛/沐浴（8-9节）
+
+**二、第八天的祭物（10-32节）**
+标准祭物的详细程序（10-20节）
+血和油抹在耳垂、拇指、拇趾的仪式（14-18节）
+贫穷者的替代方案（21-32节）
+
+**三、房屋的洁净（33-57节）**
+房屋检视程序（33-48节）
+房屋洁净仪式（49-53节）
+全章总结（54-57节）
+
+**数字象征：** "七次"在本章反复出现，象征完全和圣洁；"第八天"象征新的开始，与割礼（第八天）、新创造的主题相呼应。`,
+    structure_en: `Leviticus 14 is clearly structured in three major sections:
+
+**I. First-Stage Ceremony for the One Being Cleansed (vv. 1-9)**
+Examination and confirmation outside the camp (vv. 1-3)
+Two-bird ceremony: slain bird / fresh water / dipping in blood / sprinkling seven times / releasing the living bird (vv. 4-7)
+Personal cleansing: washing clothes / shaving / bathing (vv. 8-9)
+
+**II. Eighth-Day Offerings (vv. 10-32)**
+Detailed procedures for standard offerings (vv. 10-20)
+Ceremony of blood and oil on the ear lobe, thumb, and big toe (vv. 14-18)
+Substitute provision for the poor (vv. 21-32)
+
+**III. Cleansing of Houses (vv. 33-57)**
+House examination procedures (vv. 33-48)
+House cleansing ceremony (vv. 49-53)
+Summary of the entire chapter (vv. 54-57)
+
+**Numerical Symbolism:** "Seven times" appears repeatedly in this chapter, symbolizing completeness and holiness; "the eighth day" symbolizes new beginning, corresponding to the themes of circumcision (eighth day) and new creation.`,
+    theology_zh: `利未记14章揭示了改革宗神学中的几个核心主题：
+
+**1. 代替的预表（替代神学的早期表达）**
+死鸟承担了不洁净，活鸟将其带走——这是代替赎罪的旧约雏形。一个无辜者承担了需要洁净者的污秽，使后者得以洁净。这是改革宗神学中基督替代受死（penal substitutionary atonement）的旧约预影。
+
+**2. 称义先于仪式**
+仪式不是使人洁净的原因，而是宣告神已经成就的洁净。祭司的宣告（"你洁净了"）是法庭式的宣告，不是道德转化的宣告——先有宣告，后有归回群体。这与改革宗称义论（justification by declaration）高度一致。
+
+**3. 血的中心性**
+血在本章贯穿始终——两鸟仪式的血、赎愆祭的血、抹在耳/手/脚上的血。改革宗神学强调，"若不流血，罪就不得赦免"（希伯来书9:22）。血是赎罪的唯一途径，这在本章得到充分的仪式展示。
+
+**4. 恢复与群体**
+洁净仪式的终点不是孤立的个人与神的和好，而是重新归入圣约群体。改革宗教会论强调，基督救恩的目的是将人纳入教会（圣约群体）。大麻疯病人被隔离是罪的后果；被洁净后归入群体，是救赎的目的。`,
+    theology_en: `Leviticus 14 illuminates several core themes in Reformed theology:
+
+**1. The Foreshadowing of Substitution (Early Expression of Substitutionary Theology)**
+The dead bird bore the uncleanness; the living bird carried it away — this is the Old Testament embryo of substitutionary atonement. An innocent creature bore the pollution of the one needing cleansing, making the latter clean. This is an Old Testament foreshadow of Christ's penal substitutionary atonement in Reformed theology.
+
+**2. Justification Precedes Ceremony**
+The ceremony was not the cause of cleansing, but a declaration of the cleansing God had already accomplished. The priest's declaration ("You are clean") is a forensic declaration, not a declaration of moral transformation — the declaration comes first, then readmission to the community. This aligns closely with the Reformed doctrine of justification by declaration.
+
+**3. The Centrality of Blood**
+Blood pervades this entire chapter — the blood of the two-bird ceremony, the blood of the guilt offering, the blood applied to ear, hand, and foot. Reformed theology emphasizes that "without the shedding of blood there is no forgiveness of sins" (Hebrews 9:22). Blood is the only pathway to atonement, fully demonstrated in the ceremonies of this chapter.
+
+**4. Restoration and Community**
+The endpoint of the purification ceremony is not an isolated individual's reconciliation with God, but readmission to the covenant community. Reformed ecclesiology emphasizes that the goal of Christ's salvation is to incorporate people into the church (the covenant community). The diseased person's isolation was the consequence of sin; readmission to community after cleansing is the purpose of redemption.`,
+    christShadow_zh: `利未记14章是旧约中对基督救赎最丰富的预表章节之一：
+
+**1. 两只鸟——替代与自由**
+两鸟仪式直接预表基督的死与复活：死鸟预表基督受死承担我们的罪；活鸟带血飞走，预表基督复活，将罪的刑罚带走，使我们得以"飞向"自由。奥利根（Origen）和其他早期教父都注意到了这个平行关系。
+
+**2. 血与油——宝血与圣灵**
+血抹在右耳、右手拇指、右脚拇趾上，象征整个人的圣化：耳（听道）、手（行道）、脚（走道）都需要被神的恩典所覆盖。油在旧约象征圣灵。基督的宝血（赦罪）和圣灵的膏抹（成圣）在这个仪式中都有预表。
+
+**3. 祭司走出营外**
+祭司主动走出营外来检视被隔离的病人——这是耶稣降卑道成肉身的预表。神子离开天上圣洁的"营地"，进入堕落的人类世界，寻找那些因罪被隔离的人（路加福音19:10："人子来，为要寻找，拯救失丧的人"）。
+
+**4. 完全的洁净**
+大麻疯病人一旦被洁净，就可以完全归回群体，不再被标记为不洁净。同样，因信称义的信徒在基督里得到完全的洁净——没有部分的赦免，没有保留的罪案。"如今那些在基督耶稣里的，就不定罪了"（罗马书8:1）。`,
+    christShadow_en: `Leviticus 14 is one of the richest chapters in the Old Testament for foreshadowing Christ's redemption:
+
+**1. Two Birds — Substitution and Freedom**
+The two-bird ceremony directly foreshadows Christ's death and resurrection: the dead bird foreshadows Christ's death, bearing our sin; the living bird flying away with blood foreshadows Christ's resurrection, carrying away sin's penalty and enabling us to "fly into" freedom. Origen and other early church fathers noted this parallel.
+
+**2. Blood and Oil — Precious Blood and the Holy Spirit**
+Blood applied to the right ear, right thumb, and right big toe symbolizes the sanctification of the entire person: the ear (hearing the word), the hand (doing the word), the foot (walking in the word) all need to be covered by God's grace. Oil in the Old Testament symbolizes the Holy Spirit. Both the blood of Christ (forgiveness) and the anointing of the Spirit (sanctification) are foreshadowed in this ceremony.
+
+**3. The Priest Going Outside the Camp**
+The priest actively went outside the camp to examine the isolated person — this foreshadows Jesus' humiliation in the incarnation. The Son of God left the holy "camp" of heaven, entered the fallen human world, and sought those isolated by sin (Luke 19:10: "the Son of Man came to seek and to save the lost").
+
+**4. Complete Cleansing**
+Once cleansed, the diseased person could fully return to the community, no longer marked as unclean. Likewise, those justified by faith in Christ receive complete cleansing — no partial forgiveness, no reserved charges. "There is therefore now no condemnation for those who are in Christ Jesus" (Romans 8:1).`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 15,
+    publishDate: '2026-08-24',
+    title: '漏症洁净条例', titleEn: 'Laws About Bodily Discharges',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 15 / Leviticus 15',
+    content_zh: `我是摩西。在神颁布的圣洁律法中，有些条例是最容易让现代人感到困惑的，而利未记15章无疑是其中之一。这一章处理的是各种身体排泄物所带来的礼仪不洁净——男性漏症、正常与非正常的生理情况。我必须说明，神颁布这些条例，不是因为身体是羞耻的，也不是因为性和生育是罪恶的，而是因为神要教导一个极其重要的真理：在神圣洁的同在面前，人类需要不断地洁净与更新。
+
+条例分为四个部分，按对称结构排列：
+
+**第一部分：男性不正常的漏症（2-15节）**
+男人若有漏症——身体上不正常的分泌物——这人就不洁净。他坐过的一切，睡过的一切，都成为不洁净的。凡触碰这些物件的人，要洗衣服，用水洗澡，到晚上才得洁净。若有人不小心触碰了这患漏症的人，同样需要洗涤。
+
+这种不洁净的传染性很强——甚至有漏症者所吐的唾液，若唾在洁净的人身上，那人也不洁净了。这种广泛的传染性，是神教导以色列人对礼仪不洁净保持高度警觉的方式。
+
+漏症结束后七天，要洁净自己，在第八天献两只雏鸽或斑鸠为赎罪祭和燔祭。赎罪祭的出现再次表明：这不仅是卫生问题，而是属灵问题——身体的状态与灵性的状态之间，有一种神设立的象征联系。
+
+**第二部分：男性正常的排泄（16-17节）**
+男人若有精液流出，要用水洗全身，到晚上才得洁净。衣物若沾了精液，也要洗，到晚上才得洁净。
+
+这里，神没有要求献祭——因为这是正常的生理现象，不涉及道德问题。但仍需洁净，表明即使是最正常的身体功能，在神圣洁的同在面前，也需要一种仪式性的更新。
+
+**第三部分：男女同房（18节）**
+男女同房，两人都要用水洗澡，到晚上才洁净。婚姻中的性关系被神肯定（"甚好"，创世记1:31），但仍有不洁净的问题——这是提醒以色列人，即使在神所祝福的婚姻中，人也仍然是有限的、需要更新的受造物。
+
+**第四部分：女性的月经和不正常的漏血（19-30节）**
+女人若有月经，就不洁净七天。一切触碰她或她所坐卧之物的人，要洗涤，到晚上才洁净。这与男性不正常漏症的处理方式相似，但针对的是女性正常的生理周期。
+
+若女人有不正常的出血（月经期以外的漏血），则不洁净的规定类似于男性漏症——不洁净直到出血停止后七天，第八天要献赎罪祭和燔祭。
+
+**第五部分：总结（31-33节）**
+"这样，你们要使以色列人与他们的污秽隔绝，免得他们污秽我在他们中间的帐幕，而死亡。"
+
+这个总结揭示了所有这些条例的根本目的：保护耶和华在以色列中间的会幕免受污秽。这不是关于身体健康的条例，而是关于神的同在与圣洁的条例。
+
+我常常思想：神圣洁的同在居住在会幕中，就在以色列营地的中心。这是一个多么奇妙、多么危险的事情！奇妙，因为圣洁的神选择与祂的子民同住；危险，因为圣洁的神不能容忍不洁净。所有这些关于洁净的条例，都是神对以色列人说：我要与你们同住，但你们必须认真对待我的圣洁。
+
+这不是神的苛刻，而是神的恩典——祂给出了如何在圣洁的神面前保持洁净的具体指引，而不是让以色列人在不知情中冒犯神的圣洁。`,
+    content_en: `I am Moses. Among the laws of holiness that God decreed, some are most likely to puzzle modern readers, and Leviticus 15 is undoubtedly among them. This chapter deals with the ritual uncleanness caused by various bodily discharges — male discharges, and normal and abnormal female conditions. I must clarify: God gave these ordinances not because the body is shameful, nor because sexuality and procreation are sinful, but because God wanted to teach a supremely important truth: before the holy presence of God, humanity continuously needs cleansing and renewal.
+
+The ordinances are arranged in four sections, in a symmetrical structure:
+
+**Section One: Abnormal Male Discharge (vv. 2-15)**
+If a man has a discharge — an abnormal bodily emission — he is unclean. Everything he sits on, everything he lies on, becomes unclean. Anyone who touches these objects must wash their clothes, bathe in water, and remains unclean until evening. Anyone who accidentally touches the man with the discharge likewise must wash.
+
+This uncleanness was highly contagious — even if the person with a discharge spat on a clean person, that person became unclean. This broad contagion was God's way of training Israel to maintain heightened vigilance regarding ritual uncleanness.
+
+After the discharge ended, the person was to cleanse himself for seven days, and on the eighth day bring two turtledoves or pigeons for a sin offering and burnt offering. The appearance of a sin offering indicates again that this is not merely a hygienic matter, but a spiritual one — there is a divinely established symbolic connection between bodily condition and spiritual condition.
+
+**Section Two: Normal Male Discharge (vv. 16-17)**
+If a man has an emission of semen, he shall bathe his whole body in water and be unclean until evening. Any garment or skin touched by the semen must be washed and remains unclean until evening.
+
+Here God required no sacrifice — because this is a normal physiological occurrence, involving no moral question. But cleansing was still required, indicating that even the most normal bodily functions, before God's holy presence, require a kind of ritual renewal.
+
+**Section Three: Sexual Intercourse (v. 18)**
+If a man lies with a woman and there is an emission of semen, both of them shall bathe themselves in water and be unclean until the evening. Sexual relations within marriage were affirmed by God ("very good," Genesis 1:31), yet uncleanness still arose — this reminded Israel that even within God-blessed marriage, humans are finite, created beings in need of renewal.
+
+**Section Four: Female Menstruation and Abnormal Discharge (vv. 19-30)**
+If a woman has a discharge, and the discharge in her body is blood, she shall be in her menstrual impurity for seven days. Anyone who touches her or what she sits or lies on must wash, remaining unclean until evening. This parallels the treatment of abnormal male discharge but addresses the normal female cycle.
+
+If a woman has an abnormal discharge of blood beyond her menstrual period, the regulations are similar to the male discharge — unclean until seven days after the discharge stops, then on the eighth day offering sin and burnt offerings.
+
+**Section Five: Summary (vv. 31-33)**
+"Thus you shall keep the people of Israel separate from their uncleanness, lest they die in their uncleanness by defiling my tabernacle that is in their midst."
+
+This summary reveals the fundamental purpose of all these ordinances: to protect the LORD's tabernacle in Israel's midst from defilement. These are not ordinances about physical health, but about the presence and holiness of God.
+
+I often reflected: the holy presence of God dwelt in the tabernacle, at the very center of Israel's camp. What a wondrous and dangerous thing! Wondrous, because the holy God chose to dwell with His people; dangerous, because the holy God cannot tolerate uncleanness. All these cleansing ordinances were God saying to Israel: I want to dwell among you, but you must take my holiness seriously.
+
+This is not God's harshness, but His grace — giving Israel specific guidance on how to maintain purity before a holy God, rather than allowing Israel to inadvertently offend His holiness.`,
+    historyContext_zh: `利未记15章的漏症条例（约主前15世纪）在古代近东有其独特的文化和医学背景。
+
+**医学背景：** 古代的"漏症"（zav，希伯来文）很可能对应了各种可通过体液传播的感染，包括淋病等性传播疾病。在没有抗生素的古代，这类疾病的预防只能依靠隔离和避免接触。利未记15章的公共卫生价值在今天看来仍然相当合理。
+
+**月经禁忌：** 对月经的仪式限制（禁止参与宗教活动、避免接触等）几乎见于所有古代文化，但动机各异。以色列的月经不洁净律法将其纳入圣洁/不洁净的神学框架，而非将月经本身视为邪恶的。
+
+**与其他古代律法的比较：** 汉谟拉比法典和赫梯法典也有关于性洁净的规定，但通常基于财产权和道德律的考量，而非以色列律法中的圣洁神学。
+
+**《米示拿》的发展：** 后来的拉比文学（《尼大祭》篇，Tractate Niddah）将这些条例详细发展为一套完整的家庭纯洁律法体系（Taharat HaMishpacha），成为传统犹太家庭生活的重要组成部分，延续至今。`,
+    historyContext_en: `The discharge ordinances of Leviticus 15 (approximately the 15th century BC) have their unique cultural and medical background in the ancient Near East.
+
+**Medical Background:** The ancient "discharge" (zav, Hebrew) likely corresponded to various infections transmissible through bodily fluids, including sexually transmitted diseases like gonorrhea. In the ancient world without antibiotics, prevention of such diseases could only rely on isolation and avoiding contact. The public health value of Leviticus 15 remains quite sound when viewed from a modern perspective.
+
+**Menstrual Taboos:** Ritual restrictions around menstruation (prohibiting participation in religious activities, avoiding contact, etc.) appear in virtually all ancient cultures, but with varying motivations. Israel's menstrual impurity laws placed this within the theological framework of holiness/uncleanness, rather than regarding menstruation itself as evil.
+
+**Comparison with Other Ancient Laws:** The Code of Hammurabi and the Hittite Laws also contain regulations concerning sexual purity, but typically based on considerations of property rights and moral law, rather than the holiness theology found in Israel's law.
+
+**Mishnaic Development:** Later rabbinic literature (Tractate Niddah) developed these ordinances into a comprehensive system of family purity laws (Taharat HaMishpacha), which became an important component of traditional Jewish family life, continuing to the present day.`,
+    structure_zh: `利未记15章呈现出精心设计的对称结构（交叉配列，chiasm）：
+
+**A. 男性不正常漏症（2-15节）**——严重，需献赎罪祭
+　　**B. 男性正常排泄（16-17节）**——较轻，仅需洗涤
+　　　　**C. 男女同房（18节）**——核心，双方洁净
+　　**B'. 女性正常月经（19-24节）**——较轻，七天不洁净
+**A'. 女性不正常漏血（25-30节）**——严重，需献赎罪祭
+
+**总结（31-33节）**
+
+这种对称结构表明：男女在神面前的礼仪要求是平等的（对称的条例），同时也区分了严重程度（不正常vs正常，赎罪祭vs仅洗涤）。
+
+**数字象征：**
+- "七天"：洁净期，完全性的数字
+- "第八天"：新开始，超越完全性
+- 两只鸟（雏鸽/斑鸠）：贫穷者也能献上的祭物`,
+    structure_en: `Leviticus 15 displays a carefully designed symmetrical structure (chiasm):
+
+**A. Abnormal male discharge (vv. 2-15)** — serious, requires sin offering
+　　**B. Normal male discharge (vv. 16-17)** — milder, washing only
+　　　　**C. Sexual intercourse (v. 18)** — central, both must cleanse
+　　**B'. Normal female menstruation (vv. 19-24)** — milder, seven days unclean
+**A'. Abnormal female discharge (vv. 25-30)** — serious, requires sin offering
+
+**Summary (vv. 31-33)**
+
+This symmetrical structure indicates that the ritual requirements for men and women before God are equal (parallel ordinances), while also distinguishing degrees of severity (abnormal vs. normal; sin offering vs. washing only).
+
+**Numerical Symbolism:**
+- "Seven days": the purification period, the number of completeness
+- "The eighth day": new beginning, transcending completeness
+- Two birds (turtledoves/pigeons): offerings that even the poor can present`,
+    theology_zh: `利未记15章揭示了改革宗神学的几个重要维度：
+
+**1. 受造身体的有限性**
+身体的各种排泄物导致礼仪不洁净，这不是说身体本身是邪恶的（这是诺斯替主义的错误），而是承认受造的身体是有限的、是堕落世界的一部分。改革宗神学强调"整个人"（全部的人性）都受到了堕落的影响，包括身体。同时，身体将在末世得到复活（非诺斯替主义的灵魂主义）。
+
+**2. 整全生命的圣化**
+最私密的身体功能也处于神的律法管辖之下。这与改革宗的"全生命主权"（Lordship of Christ over all of life）神学相符——没有任何生活领域是在基督主权之外的，包括性生活、婚姻生活、私人生活。
+
+**3. 神的同在是条例的基础**
+31节明确指出，这些条例的目的是保护耶和华的会幕不受污秽。改革宗神学中的"神的内在圣洁"（divine holiness）是一切礼仪律法的神学根基——神的圣洁不是武断的要求，而是神本性的必然表达。
+
+**4. 恩典在律法中**
+即使是严格的洁净律法，也包含着恩典的元素：提供可及的洁净方式（洗涤、等到晚上），对贫穷者的体贴（允许献廉价的祭物）。改革宗神学区分"救赎性律法"与"规范性律法"，利未记15章的洁净律法属于后者——不是靠此得救，而是已蒙救赎之人的圣洁生活规范。`,
+    theology_en: `Leviticus 15 illuminates several important dimensions of Reformed theology:
+
+**1. The Finitude of the Created Body**
+Various bodily discharges causing ritual uncleanness do not mean the body itself is evil (this is the Gnostic error), but acknowledge that the created body is finite, part of a fallen world. Reformed theology emphasizes that the "whole person" (all of human nature) was affected by the fall, including the body. Simultaneously, the body will be resurrected at the eschaton (a non-Gnostic, non-soul-only view).
+
+**2. The Sanctification of All of Life**
+The most intimate bodily functions are subject to God's law. This accords with Reformed theology's "Lordship of Christ over all of life" — no area of life is outside Christ's sovereignty, including sexual life, married life, and private life.
+
+**3. God's Presence as the Basis for the Ordinances**
+Verse 31 explicitly states that the purpose of these ordinances is to keep the LORD's tabernacle from defilement. The Reformed doctrine of divine holiness is the theological foundation for all ceremonial law — God's holiness is not an arbitrary demand, but the necessary expression of God's nature.
+
+**4. Grace Within the Law**
+Even strict purity laws contain elements of grace: accessible means of cleansing (washing, waiting until evening), consideration for the poor (allowing inexpensive offerings). Reformed theology distinguishes "redemptive law" from "normative law"; the purity laws of Leviticus 15 belong to the latter — not a means of salvation, but the holiness norm for those already redeemed.`,
+    christShadow_zh: `利未记15章以其礼仪体系指向基督的救赎：
+
+**1. 血漏女人——信心触摸基督**
+马可福音5:25-34记载了一个患血漏十二年的女人。按利未记15章，她不洁净已十二年，触碰她的人都不洁净。但她在人群中触摸了耶稣的衣裳——按律法，这使耶稣"不洁净"。然而，奇事发生了：她的血漏立即干了，而耶稣不仅没有染上不洁净，反而宣告"有能力从我身上出去了"。这正是基督颠覆旧约洁净体系的时刻——不是不洁净传给洁净者，而是洁净从基督传给不洁净者。
+
+**2. 无止尽的更新与完全的洁净**
+旧约的洁净是循环的、暂时的——今天洁净了，明天可能再次不洁净。基督带来的洁净是一次性、永远有效的：希伯来书10:14："因为他一次献祭，便叫那得以成圣的人永远完全。"信徒不必每天重复洁净仪式，因为基督宝血的洁净是永久的。
+
+**3. 神同在的新约实现**
+旧约所有洁净律法的目的是保护神在会幕中的同在（15:31）。基督来了，圣灵住在信徒里面（哥林多前书6:19），每个信徒都成为神的殿。这使洁净的呼召从外在仪式转向内在圣洁："所以，亲爱的弟兄，我们既有这等应许，就当洁净自己，除去身体、灵魂一切的污秽，敬畏神，得以成圣。"（哥林多后书7:1）
+
+**4. 基督是我们的洁净**
+约翰一书1:7："他儿子耶稣的血也洗净我们一切的罪。"信徒不需要按利未记15章的仪式洗涤，因为基督的血一次为我们成就了完全的洁净。`,
+    christShadow_en: `Leviticus 15 points to Christ's redemption through its ceremonial system:
+
+**1. The Woman with the Flow of Blood — Faith Touching Christ**
+Mark 5:25-34 records a woman who had a discharge of blood for twelve years. According to Leviticus 15, she had been unclean for twelve years; whoever touched her became unclean. Yet she touched the fringe of Jesus' garment in the crowd — according to the law, this would have made Jesus "unclean." But a miracle occurred: her flow of blood immediately dried up, and Jesus, far from becoming unclean, declared, "Power has gone out from me." This was the very moment Christ overturned the Old Testament purity system — not uncleanness passing from the unclean to the clean, but cleanness passing from Christ to the unclean.
+
+**2. Endless Renewal vs. Complete Cleansing**
+Old Testament cleansing was cyclical and temporary — clean today, potentially unclean again tomorrow. The cleansing Christ brings is once-for-all and permanently effective: Hebrews 10:14: "For by a single offering he has perfected for all time those who are being sanctified." Believers need not repeat purification rites daily, because the cleansing of Christ's precious blood is permanent.
+
+**3. The New Testament Fulfillment of God's Presence**
+The purpose of all Old Testament purity laws was to protect God's presence in the tabernacle (15:31). Christ came, and the Spirit now dwells within believers (1 Corinthians 6:19) — each believer becomes God's temple. This shifts the call to purity from outward ceremony to inward holiness: "Since we have these promises, beloved, let us cleanse ourselves from every defilement of body and spirit, bringing holiness to completion in the fear of God." (2 Corinthians 7:1)
+
+**4. Christ Is Our Cleansing**
+1 John 1:7: "The blood of Jesus his Son cleanses us from all sin." Believers do not need the washing rites of Leviticus 15, because the blood of Christ has accomplished our complete cleansing once and for all.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 16,
+    publishDate: '2026-08-25',
+    title: '赎罪日', titleEn: 'The Day of Atonement',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 16 / Leviticus 16',
+    content_zh: `弟兄姐妹，我是摩西。利未记第十六章记载了以色列宗教生活中最重大的日子——赎罪日（Yom Kippur）。这是一年中唯一一天，大祭司可以进入至圣所，进到施恩座前，为全以色列的罪献上赎罪的血。
+
+耶和华在亚伦的两个儿子献凡火死了之后，对我说："要告诉你哥哥亚伦，不可随时进圣所的幔子内，到柜上的施恩座前，免得他死亡，因为我要在施恩座上的云中显现。"
+
+这个开场就设定了基调——进入神的同在不是随意的事。拿答亚比户刚刚死了，他们的死是一个警告。至圣所是神的居所，人不能随时进去，只能在一年一度的赎罪日，按照神所定的仪式进入。
+
+亚伦进圣所之前，要先用水洗身，穿上细麻布圣内袍、细麻布裤子、束细麻布腰带、戴细麻布冠冕——不是华丽的大祭司礼服，而是素白的细麻布。大祭司在赎罪日放下荣耀的衣袍，穿上谦卑的白衣，这是何等深的象征。
+
+然后亚伦要取两只公山羊，在会幕门口为它们拈阄——一只归与耶和华，一只归与阿撒泻勒。归耶和华的公山羊要献为赎罪祭。亚伦要宰那为百姓赎罪的公山羊，把血带入幔子内，弹在施恩座上面和前面——这是一年中唯一一次有血进入至圣所。
+
+那归与阿撒泻勒的羊——替罪羊——亚伦要按双手在它头上，承认以色列人一切的罪孽过犯，把这些罪都归在羊的头上，然后由一个预备好的人把羊送到旷野去。"这羊要担当他们一切的罪孽，带到无人之地。"
+
+弟兄姐妹，想想这个画面：以色列全会众的罪——一年的罪——被转移到一只无辜的羊身上。按手是转移的仪式：罪从人的身上转移到祭牲身上。然后这只羊被送到旷野，永远不回来——象征罪被彻底移除。
+
+赎罪日有两只羊，揭示了赎罪的两个面向：第一只羊被杀，血弹在施恩座上——代表献上生命满足神的公义（propitiation，挽回祭）；第二只羊活着被送走，担当罪孽——代表罪被移除远离百姓（expiation，除罪）。两只羊合在一起，才构成完整的赎罪画面。
+
+亚伦还要为自己和本家先献一只公牛犊为赎罪祭。大祭司自己也是罪人，必须先为自己赎罪，然后才能为百姓赎罪。这显明了利未记祭司制度的局限性——祭司本身也需要被赎。
+
+亚伦进至圣所时，要把香的烟云遮掩施恩座，免得他死亡。即便在赎罪日，大祭司也不能直接面对神的荣光。香烟的遮盖提醒我们：罪人与圣洁的神之间仍有阻隔。
+
+耶和华说："这要作你们永远的定例——每年七月初十日，你们要刻苦己心。"赎罪日全民禁食、停止一切工作——不是靠行为赎罪，而是在悔改中等候神的赦免。这一天不是庆祝，而是严肃地面对罪的现实。
+
+第十六章是整卷利未记的中心，也是整本旧约赎罪神学的顶峰。没有流血，就没有赦罪（希伯来书9:22）。但这些祭牲的血年年要献——因为公牛和山羊的血断不能除罪（希伯来书10:4）。它们只是影子，指向那位真正的大祭司和真正的赎罪祭牲——我们的主耶稣基督。`,
+    content_en: `Brothers and sisters, I am Moses. Leviticus chapter 16 records the most significant day in Israel's religious life—the Day of Atonement (Yom Kippur). This was the only day each year when the high priest could enter the Most Holy Place, come before the mercy seat, and offer atoning blood for all Israel's sins.
+
+After Aaron's two sons died offering unauthorized fire, the LORD told me: "Tell Aaron your brother not to come at any time into the Holy Place inside the veil, before the mercy seat that is on the ark, so that he may not die. For I will appear in the cloud over the mercy seat."
+
+This opening sets the tone—entering God's presence is not casual. Nadab and Abihu had just died; their death was a warning. The Most Holy Place was God's dwelling; no one could enter at will, only on the annual Day of Atonement, following God's prescribed ritual.
+
+Before entering the Holy Place, Aaron was to wash his body with water and put on the holy linen coat, linen undergarments, linen sash, and linen turban—not the magnificent high priestly vestments but plain white linen. The high priest laying aside glorious robes to wear humble white garments on the Day of Atonement carried profound symbolism.
+
+Then Aaron was to take two male goats and cast lots over them at the entrance of the tent of meeting—one for the LORD and one for Azazel. The goat designated for the LORD would be offered as a sin offering. Aaron was to slaughter the people's sin offering goat and bring its blood inside the veil, sprinkling it on and before the mercy seat—the only time each year that blood entered the Most Holy Place.
+
+The goat for Azazel—the scapegoat—Aaron was to lay both hands on its head and confess over it all the iniquities and transgressions of Israel, putting them on the goat's head. Then a designated man would send the goat away into the wilderness. "The goat shall bear all their iniquities on itself to a remote area."
+
+Brothers and sisters, consider this picture: the sins of the entire congregation—a whole year's sins—transferred to an innocent goat. The laying on of hands was the ritual of transfer: sin moved from the people to the sacrifice. Then this goat was sent into the wilderness, never to return—symbolizing sin's complete removal.
+
+The Day of Atonement's two goats reveal two dimensions of atonement: the first goat was killed, its blood sprinkled on the mercy seat—representing life given to satisfy God's justice (propitiation); the second goat was sent away alive bearing iniquities—representing sin removed far from the people (expiation). Both goats together constitute the complete picture of atonement.
+
+Aaron also had to first offer a bull as a sin offering for himself and his household. The high priest himself was a sinner who had to atone for his own sins before atoning for the people's. This reveals the Levitical priesthood's limitation—the priest himself needed redemption.
+
+When entering the Most Holy Place, Aaron was to put incense on the fire before the LORD so that the cloud of incense covered the mercy seat, lest he die. Even on the Day of Atonement, the high priest could not directly face God's glory. The covering of incense smoke reminded that a barrier remained between sinners and the holy God.
+
+The LORD said: "And it shall be a statute to you forever that in the seventh month, on the tenth day of the month, you shall afflict yourselves." On the Day of Atonement the entire nation fasted and ceased all work—not atoning through works but waiting in repentance for God's forgiveness. This day was not celebration but solemn confrontation with the reality of sin.
+
+Chapter 16 is the center of Leviticus and the summit of Old Testament atonement theology. Without the shedding of blood there is no forgiveness of sins (Hebrews 9:22). But this sacrificial blood had to be offered year after year—because the blood of bulls and goats can never take away sins (Hebrews 10:4). They were only shadows, pointing to the true High Priest and true atoning sacrifice—our Lord Jesus Christ.`,
+    historyContext_zh: `赎罪日（Yom Kippur）至今仍是犹太历中最庄严的节日，在提斯利月（约公历九至十月）初十日。"阿撒泻勒"（Azazel）一词的含义有争议：可能指"完全移除"，也有学者认为指旷野中的恶魔（但利未记的神学不支持向恶魔献祭的解读）。替罪羊被送入旷野的仪式在古代近东的赫人净化仪式中也有类似做法，但以色列的替罪羊仪式独特地将其与约的赎罪联系起来。大祭司穿白色细麻布衣而非华丽礼服，象征在至圣者面前的谦卑——这一传统影响了后来犹太教在赎罪日穿白衣的习俗。`,
+    historyContext_en: `The Day of Atonement (Yom Kippur) remains the most solemn day in the Jewish calendar, observed on the tenth of Tishri (approximately September-October). The meaning of "Azazel" is debated: it may mean "complete removal," though some scholars suggest it refers to a wilderness demon (Leviticus's theology does not support a reading involving sacrificing to demons). The scapegoat ritual sent into the wilderness has parallels in Hittite purification ceremonies, but Israel's scapegoat ritual uniquely connects it to covenantal atonement. The high priest wearing white linen rather than magnificent vestments symbolized humility before the Holy One—a tradition that influenced later Jewish custom of wearing white on Yom Kippur.`,
+    structure_zh: `**进入至圣所的条件（1-5节）**——不可随时进入、洗身穿细麻布衣、预备祭牲。
+
+**为自己和本家赎罪（6,11-14节）**——公牛犊赎罪祭、香的烟云遮盖施恩座、血弹在施恩座上。
+
+**为百姓赎罪（7-10,15-19节）**——两只公山羊拈阄、赎罪祭羊的血弹在施恩座上、洁净圣所。
+
+**替罪羊仪式（20-22节）**——按手认罪转移、送入旷野、罪被移除。
+
+**赎罪日的条例（23-34节）**——亚伦洗身换衣、百姓刻苦己心、永远的定例。`,
+    structure_en: `**Conditions for Entering the Most Holy Place (vv. 1-5)**—Not entering at any time, washing and wearing linen garments, preparing the offerings.
+
+**Atonement for Himself and His Household (vv. 6, 11-14)**—Bull sin offering, cloud of incense covering the mercy seat, blood sprinkled on the mercy seat.
+
+**Atonement for the People (vv. 7-10, 15-19)**—Lots cast over two goats, sin offering goat's blood sprinkled on the mercy seat, cleansing the sanctuary.
+
+**The Scapegoat Ritual (vv. 20-22)**—Laying on of hands and confessing sins, sending into the wilderness, sin removed.
+
+**The Day of Atonement Regulations (vv. 23-34)**—Aaron washing and changing garments, the people afflicting themselves, a perpetual statute.`,
+    theology_zh: `**代替性赎罪（Substitutionary Atonement）**
+赎罪日最核心的神学是代替——无辜的祭牲代替有罪的百姓承受审判。按手礼是罪的转移仪式，以赛亚书53:6说："耶和华使我们众人的罪孽都归在他身上。"改革宗神学将此发展为"主动顺服"和"被动顺服"的教义：基督不仅代替我们受罚（被动顺服），更代替我们完全遵行了律法（主动顺服）。韦敏斯德信条第8章：基督甘心情愿承担了中保的职分。
+
+**挽回祭与除罪**
+两只羊分别代表赎罪的两个面向。归耶和华的羊被杀、血弹在施恩座上——这是挽回祭（propitiation），满足了神公义的要求。归阿撒泻勒的羊活着被送走——这是除罪（expiation），罪被移除。罗马书3:25说神设立基督"作挽回祭"，同时约翰一书1:9说祂"洗净我们一切的不义"。
+
+**大祭司的不完全**
+亚伦必须先为自己赎罪再为百姓赎罪——这显明旧约祭司制度的不完全。希伯来书7:27说基督"不像那些大祭司，每日必须先为自己的罪，后为百姓的罪献祭"。我们需要一位无罪的大祭司——只有基督符合这个条件。`,
+    theology_en: `**Substitutionary Atonement**
+The Day of Atonement's core theology is substitution—an innocent sacrifice bearing judgment in place of guilty people. The laying on of hands was the ritual of sin transfer. Isaiah 53:6 says, "The LORD has laid on him the iniquity of us all." Reformed theology develops this into the doctrines of "active obedience" and "passive obedience": Christ not only bore our punishment (passive obedience) but perfectly fulfilled the law on our behalf (active obedience). Westminster Confession chapter 8: Christ willingly undertook the office of Mediator.
+
+**Propitiation and Expiation**
+The two goats represent atonement's two dimensions. The LORD's goat was killed, its blood sprinkled on the mercy seat—this is propitiation, satisfying God's just requirements. Azazel's goat was sent away alive—this is expiation, sin removed. Romans 3:25 says God put forward Christ "as a propitiation," while 1 John 1:9 says He "cleanses us from all unrighteousness."
+
+**The High Priest's Imperfection**
+Aaron had to atone for himself before atoning for the people—revealing the Old Testament priesthood's imperfection. Hebrews 7:27 says Christ "has no need, like those high priests, to offer sacrifices daily, first for his own sins and then for those of the people." We need a sinless High Priest—only Christ meets this qualification.`,
+    christShadow_zh: `利未记第十六章是全部旧约中对基督赎罪工作最完整的预表。希伯来书9-10章详细解释了这个预表的应验。
+
+大祭司一年一次进入至圣所，预表基督一次进入天上的至圣所。"并且不用山羊和牛犊的血，乃用自己的血，只一次进入圣所，成了永远赎罪的事"（希伯来书9:12）。赎罪日年年重复，因为祭牲的血不能真正除罪；但基督一次献上自己，就完成了永远的赎罪。
+
+被杀的公山羊预表基督在十字架上为我们的罪流血——祂的血不是弹在地上的施恩座，而是带到天上的施恩座前。替罪羊预表基督担当我们的罪远远地移去——诗篇103:12："东离西有多远，他叫我们的过犯离我们也有多远。"两只羊合在一起就是基督——祂既是被杀的羔羊（挽回祭），又是担罪的替罪羊（除罪）。
+
+大祭司脱下华丽的衣袍穿上白衣，预表基督"虽然是与神同等，不以为强夺的，反倒虚己，取了奴仆的形像"（腓立比书2:6-7）。祂放下天上的荣耀，穿上人的卑微，为我们成就救赎。赎罪完成后大祭司重穿荣耀的衣袍，预表基督复活升天后重新得着荣耀（约翰福音17:5）。`,
+    christShadow_en: `Leviticus 16 is the most complete Old Testament type of Christ's atoning work. Hebrews 9-10 explains in detail how this type was fulfilled.
+
+The high priest entering the Most Holy Place once a year prefigures Christ entering the heavenly Most Holy Place once for all. "He entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption" (Hebrews 9:12). The Day of Atonement repeated annually because animal blood could not truly remove sin; but Christ offered Himself once and accomplished eternal atonement.
+
+The slain goat prefigures Christ shedding His blood for our sins on the cross—His blood was brought not to an earthly mercy seat but before the heavenly one. The scapegoat prefigures Christ bearing our sins and removing them far away—Psalm 103:12: "As far as the east is from the west, so far does he remove our transgressions from us." The two goats together are Christ—He is both the slain lamb (propitiation) and the sin-bearing scapegoat (expiation).
+
+The high priest removing magnificent vestments to wear white garments prefigures Christ who, "though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant" (Philippians 2:6-7). He laid aside heavenly glory, put on human lowliness, and accomplished redemption for us. After atonement was completed, the high priest put on glorious garments again, prefiguring Christ receiving glory again after resurrection and ascension (John 17:5).`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 17,
+    publishDate: '2026-08-26',
+    title: '血的禁令', titleEn: 'The Prohibition of Blood',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 17 / Leviticus 17',
+    content_zh: `那一天，耶和华对我说话，命令我将这些律例传给亚伦和他的儿子们，并以色列全会众。我站在会幕门口，心中充满敬畏——因为我即将传达的，是关乎生命本质的神圣命令。
+
+神吩咐：凡以色列家中的人宰杀牛，或绵羊，或山羊，无论是在营内宰，还是在营外宰，若没有带到会幕门口献给耶和华，那人就要被剪除，因为他流了血，他就要从民中被剪除（17:3-4）。这话乍听严苛，但我明白其背后的深意。
+
+在旷野中，百姓中间有一种危险的倾向——他们习惯了在埃及的偶像祭祀，那些随处可见的田野献祭，那些在"公山羊"面前倾流血液的可憎行为（17:7）。神知道人心的软弱，知道若不立下严格的界限，百姓很快就会重蹈埃及的拜偶像之路。因此，所有的宰杀必须在耶和华面前进行，必须经过祭司的手，必须纳入神所设立的崇拜秩序之中。
+
+但最关键的命令，是关于血的禁令。
+
+神对我说，对以色列全家，也对寄居在你们中间的外人，说："你们无论吃什么血，我必向那吃血的人变脸，把他从民中剪除。因为活物的生命是在血中，我把这血赐给你们，可以在坛上为你们的生命赎罪。血是因生命的缘故可以赎罪。"（17:10-11）
+
+我一遍又一遍地默想这句话——"活物的生命是在血中"。血不是污秽的东西，血是神赋予生命的奥秘载体。正因如此，血才拥有特殊的地位：它属于神，只有神才能指定血如何被使用。
+
+你们的祖先亚伯拉罕知道这个道理。当神在摩利亚山顶拦住他的手，让公羊替代以撒的时候，神已经在预演一个更伟大的替代。血的禁令背后，是一个大而可畏的神学事实：血可以赎罪，生命可以替代生命——但只能按照神所命定的方式。
+
+我也吩咐百姓，无论是以色列人还是寄居的外人，若在野地打猎得了可吃的走兽或雀鸟，必须倒出血来，用土遮盖（17:13-14）。这不只是卫生条例，这是对生命的尊重，是对生命赐予者的承认。每一只动物的血，都无声地指向那一位在历史终点将用自己的血完成终极赎罪的那一位。
+
+作为神的仆人，我深感这些律法的重量。旷野中的百姓，很容易把宗教变成习惯，把献祭变成形式，把神的命令变成可以讨价还价的规则。但耶和华是圣洁的神，祂不能容忍半心半意的顺服，也不能容忍对祂主权的轻视。
+
+血的神圣，是神圣洁性的一个缩影——祂将生命视为宝贵，祂将赎罪的途径视为神圣不可侵犯。没有任何人，没有任何仪式，可以绕过神所设立的那条通过血的赎回之路。`,
+    content_en: `That day, the LORD spoke to me and commanded me to declare these statutes to Aaron, his sons, and all the congregation of Israel. I stood at the entrance of the tent of meeting, my heart full of reverence — for I was about to convey a divine command that touched the very essence of life itself.
+
+God commanded: any man of the house of Israel who kills an ox or a lamb or a goat in the camp, or kills it outside the camp, and does not bring it to the entrance of the tent of meeting to offer it as an offering to the LORD — that man shall be cut off from among his people (17:3-4). The words sound severe, but I understood the deep wisdom behind them.
+
+In the wilderness, there was a dangerous tendency among the people — they had grown accustomed to Egypt's idol worship, those field sacrifices, those abominable practices of pouring blood before "goat demons" (17:7). God knew the weakness of the human heart. Without strict boundaries, the people would quickly retrace Egypt's path of idolatry. Therefore, all slaughter must occur before the LORD, must pass through the priests' hands, must be incorporated into the order of worship that God established.
+
+But the most critical command concerned blood.
+
+God said to me, speak to all the house of Israel and to the strangers who sojourn among them: "If any one of them eats any blood, I will set my face against that person who eats blood and will cut him off from among his people. For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life" (17:10-11).
+
+I meditated on these words again and again — "the life of the flesh is in the blood." Blood is not something unclean; blood is the mysterious vessel through which God grants life. For this reason, blood holds a special status: it belongs to God, and only God can designate how blood is to be used.
+
+Your ancestor Abraham understood this. When God stayed his hand on Mount Moriah and provided a ram to substitute for Isaac, God was rehearsing a greater substitution. Behind the prohibition of blood lies a fearsome theological reality: blood can atone for sin, life can substitute for life — but only in the way God has ordained.
+
+I also commanded the people — whether Israelite or sojourning stranger — that if they hunt game, beast or bird, they must pour out its blood and cover it with earth (17:13-14). This is not merely a sanitary regulation; it is reverence for life, an acknowledgment of the One who gives life. Every animal's blood silently points toward the One who, at history's culmination, would complete the ultimate atonement with His own blood.
+
+As God's servant, I felt the weight of these laws. The wilderness people easily turned religion into habit, sacrifice into form, God's commands into negotiable rules. But the LORD is a holy God — He cannot tolerate half-hearted obedience, nor contempt for His sovereignty.
+
+The sanctity of blood is a microcosm of God's holiness — He regards life as precious, He regards the path of atonement as inviolably sacred. No one, no ritual, can bypass that blood-soaked path of redemption that God has established.`,
+    historyContext_zh: `利未记17章发生在以色列旷野漂流期间，约公元前1446-1406年。百姓刚从埃及出来，带着深入骨髓的偶像崇拜习惯——埃及的宗教在田野、家中、市集随处可见，动物献祭常常与多神崇拜混为一体。旷野中"公山羊偶像"的提及（17:7）暗示百姓中确实存在向邪灵献祭的危险。神在此时立下严格的中央化献祭制度，目的是将以色列的崇拜与周边异教彻底区分开来。`,
+    historyContext_en: `Leviticus 17 takes place during Israel's wilderness wandering, approximately 1446–1406 BC. The people had just left Egypt, carrying deeply ingrained habits of idol worship — Egyptian religion permeated fields, homes, and markets, with animal sacrifice often entangled with polytheism. The mention of "goat demons" (17:7) suggests real danger of sacrificing to evil spirits among the people. God established a strict centralized sacrifice system at this moment to fundamentally distinguish Israel's worship from surrounding paganism.`,
+    structure_zh: `• 17:1-7：所有献祭必须在会幕门口进行，禁止在外私自宰杀
+• 17:8-9：此规定同样适用于寄居的外人
+• 17:10-12：严禁食血——"活物的生命是在血中"
+• 17:13-14：野地猎物的血必须倒出掩埋
+• 17:15-16：食用自死或被撕裂动物的洁净条例`,
+    structure_en: `• 17:1-7: All sacrifices must be made at the tent of meeting; private slaughter outside prohibited
+• 17:8-9: This regulation also applies to resident aliens
+• 17:10-12: Strict prohibition on consuming blood — "the life of the flesh is in the blood"
+• 17:13-14: Blood of hunted animals must be poured out and covered with earth
+• 17:15-16: Purification rules for eating animals that died naturally or were torn`,
+    theology_zh: `本章的核心神学是**血的神圣性与赎罪论**。血代表生命（nephesh，魂/生命），而生命属于神。神将血"赐给"以色列，使其在坛上为生命赎罪（17:11）——这是神单方面的恩典行为。献祭不是人试图贿赂神，而是神自己设立的赎罪途径。改革宗神学强调：这一切预表基督的代赎，祂"一次献上"自己的血（希伯来书9:12），成就了永远的救赎。`,
+    theology_en: `The core theology of this chapter is **the sanctity of blood and the doctrine of atonement**. Blood represents life (nephesh — soul/life), and life belongs to God. God "gave" blood to Israel so that it might make atonement on the altar for their lives (17:11) — this is God's unilateral act of grace. Sacrifice is not humanity attempting to bribe God, but the path of atonement God Himself established. Reformed theology emphasizes: all of this prefigures Christ's substitutionary atonement, who "once for all" offered His own blood (Hebrews 9:12), accomplishing eternal redemption.`,
+    christShadow_zh: `利未记17章是新约赎罪论的旧约根基。"活物的生命是在血中"（17:11）直接被希伯来书引用，指向基督："按着律法，凡物差不多都是用血洁净的，若不流血，罪就不得赦免了"（来9:22）。旷野中无数牛羊的血，是一幅幅不完全的图画，预告那位"神的羔羊"（约翰福音1:29）将用自己无瑕疵的血，完成一次性、永远有效的赎罪。血的禁令教导百姓：血是神圣的，不可轻视——因为有一天，神自己的儿子将要流血，那血将洗净世人的罪。`,
+    christShadow_en: `Leviticus 17 is the Old Testament foundation of New Testament atonement theology. "The life of the flesh is in the blood" (17:11) is directly echoed in Hebrews: "Under the law almost everything is purified with blood, and without the shedding of blood there is no forgiveness of sins" (Heb. 9:22). The blood of countless cattle and sheep in the wilderness were imperfect pictures, foretelling the "Lamb of God" (John 1:29) who would use His own spotless blood to accomplish a once-for-all, eternally effective atonement. The blood prohibition taught the people: blood is sacred, not to be treated lightly — for one day, God's own Son would shed His blood, and that blood would wash away the sins of the world.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 18,
+    publishDate: '2026-08-27',
+    title: '圣洁的婚姻与家庭', titleEn: 'Unlawful Sexual Relations',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 18 / Leviticus 18',
+    content_zh: `耶和华在这一章对我说的话，是我传讲起来最需要鼓起勇气的话语之一。不是因为这些话令人难堪，而是因为这些话直接触碰了人类最深层的欲望，和最容易堕落的领域。
+
+神开门见山："你们不可效法埃及地的风俗，你们从前在那里居住；也不可效法我领你们到的迦南地的风俗，不可照他们的恶规行事。你们要遵我的典章，守我的律例，按此而行；我是耶和华你们的神。"（18:3-4）
+
+这不是一份任意的禁令列表。神在说：你们的过去是埃及，你们的将来不是迦南——你们是我的子民，你们的生活方式应当照我的样式，因为我是神。
+
+什么是"迦南的风俗"？考古和历史文献告诉我们，迦南宗教充满了性仪式——庙妓、乱伦祭仪、同性崇拜行为，这些都与迦南神祇的崇拜纠缠在一起。在迦南人眼中，性是神圣的，但是是用来崇拜生育神巴力和亚舍拉的手段。他们把最强烈的人类欲望与宗教仪式混合，造成了一种腐蚀性的偶像崇拜文化。
+
+神在这章列出了一系列禁止的性关系：近亲乱伦（父、母、继母、姐妹、孙女、姑姑、姨、叔伯的妻子、媳妇、兄弟的妻子——18:6-16），与妻子的姊妹重婚（18:18），经期同房（18:19），与邻居的妻子通奸（18:20），将儿女献给摩洛（18:21），男性与男性同寝（18:22），与兽交（18:23）。
+
+这份清单读起来令人不安，但它的存在本身就是一个历史见证：这些事情在当时的文化中实际发生着。神不是在立足于真空中的道德哲学，而是在对抗一种真实的文化腐败。
+
+我们必须在两个维度上理解这些禁令。
+
+第一，这是神对创造秩序的捍卫。神创造了男人和女人，设立了婚姻关系，这是有目的的——家庭是社会的基本单位，是下一代生命和信仰传承的场所。近亲乱伦破坏了家庭的边界，使家庭关系充满权力的扭曲和信任的破坏。通奸破坏了盟约关系。人兽交是对"按神形象"受造的人类尊严的彻底颠覆。
+
+第二，这是神的圣洁对人类道德的要求。神说："你们不可因这一切的事玷污自己，因为我在你们面前所逐出的那些国民，在这一切的事上玷污了自己，连地也玷污了。"（18:24）迦南地本身因这些罪行而变得污秽，以至于要"吐出"其居民——这是一个令人震惊的图像，土地本身都对道德堕落感到恶心。
+
+神的命令背后，不仅是法律条文，更是一种对人类尊严的深切保护。祂所禁止的，是那些使人物化、使关系权力化、使人类创造力堕落为自我毁灭的行为。
+
+在旷野中，百姓刚刚经历了巴力毗珥事件（民数记25章）——他们与摩押女子行淫乱，敬拜她们的神，导致瘟疫。我亲眼看见那些死去的人，那两万四千人。性的混乱不仅毁坏个人，它能摧毁整个共同体的道德脊梁。
+
+这些律法是严肃的，但它们背后有一颗牧者的心：神不愿意祂的子民堕落成迦南那样；神愿意他们活出不同的样式，在这个黑暗的世代中成为光。`,
+    content_en: `What the LORD spoke to me in this chapter was among the words I needed the most courage to proclaim. Not because the words were embarrassing, but because they directly touched the deepest human desires and the areas most susceptible to moral failure.
+
+God spoke plainly: "You shall not do as they do in the land of Egypt, where you lived, and you shall not do as they do in the land of Canaan, to which I am bringing you. You shall not walk in their statutes. You shall follow my rules and keep my statutes and walk in them. I am the LORD your God." (18:3-4)
+
+This is not an arbitrary list of prohibitions. God was saying: your past is Egypt, your future is not Canaan — you are my people, your way of life should reflect my pattern, for I am God.
+
+What were "the customs of Canaan"? Archaeological and historical records tell us that Canaanite religion was filled with sexual rituals — temple prostitution, incestuous sacred rites, homosexual cultic practices — all entangled with the worship of Canaanite deities. In the Canaanite worldview, sex was sacred, but as a means of worshiping the fertility gods Baal and Asherah. They mixed humanity's most intense desires with religious ritual, creating a corrosive culture of idolatry.
+
+God lists in this chapter a series of prohibited sexual relations: incest with near relatives (father, mother, stepmother, sister, granddaughter, aunt, uncle's wife, daughter-in-law, brother's wife — 18:6-16), marrying a wife's sister (18:18), relations during menstruation (18:19), adultery with a neighbor's wife (18:20), sacrificing children to Molech (18:21), male homosexual intercourse (18:22), and bestiality (18:23).
+
+This list is disturbing to read, but its very existence is a historical witness: these things were actually happening in the culture of that time. God was not standing on abstract moral philosophy; He was confronting a real cultural corruption.
+
+We must understand these prohibitions on two dimensions.
+
+First, this is God's defense of the created order. God created man and woman, establishing the marriage relationship with purpose — family is the basic unit of society, the venue for the transmission of life and faith to the next generation. Incest destroys family boundaries, filling family relationships with the distortion of power and the destruction of trust. Adultery shatters covenant relationships. Bestiality is a complete inversion of human dignity as those created "in the image of God."
+
+Second, this is God's holiness making demands on human morality. God says: "Do not make yourselves unclean by any of these things, for by all these the nations I am driving out before you have become unclean, and the land became unclean, so that I punished its iniquity, and the land vomited out its inhabitants." (18:24-25) The land of Canaan itself became defiled by these sins, to the point of "vomiting out" its inhabitants — a shocking image: even the land was nauseated by moral depravity.
+
+Behind God's commands lies not merely legal text but a deep protection of human dignity. What He prohibits are behaviors that objectify people, that turn relationships into power plays, that corrupt human creativity into self-destruction.
+
+In the wilderness, the people had just experienced the incident at Baal Peor (Numbers 25) — they had committed sexual immorality with Moabite women and worshiped their gods, resulting in a plague. I witnessed those who died — twenty-four thousand people. Sexual disorder does not merely destroy individuals; it can demolish the moral backbone of an entire community.
+
+These laws are serious, but behind them beats a shepherd's heart: God did not want His people to sink into Canaanite degradation; God wanted them to live differently, to be light in this dark age.`,
+    historyContext_zh: `迦南文化（约公元前2000-1200年）是古代近东最腐败的文化之一。乌加里特文献（发现于现代叙利亚）揭示了迦南神话充满了神祇之间的乱伦、性暴力和死亡崇拜。考古发现的庙宇遗址中有男女"圣妓"的证据，将宗教与性行为直接挂钩。摩洛崇拜（献儿童）在腓尼基和迦南地区都有文献记录。神驱逐迦南人的原因，部分就在于这种文化的腐败已到了无可挽救的程度（见创世记15:16："亚摩利人的罪孽还没有满盈"）。`,
+    historyContext_en: `Canaanite culture (approximately 2000–1200 BC) was one of the most morally corrupt in the ancient Near East. Ugaritic texts (discovered in modern Syria) reveal that Canaanite mythology was filled with incest between deities, sexual violence, and death cults. Archaeological evidence from temple sites shows male and female "sacred prostitutes," directly linking religion with sexual acts. The Molech cult (child sacrifice) is documented in both Phoenician and Canaanite regions. Part of the reason God drove out the Canaanites was that their cultural corruption had reached an irredeemable extreme (cf. Genesis 15:16: "the iniquity of the Amorites is not yet complete").`,
+    structure_zh: `• 18:1-5：引言——效法神，不效法埃及和迦南
+• 18:6-18：禁止各种乱伦关系（近亲列表）
+• 18:19-23：禁止经期同房、通奸、献子给摩洛、同性行为、兽交
+• 18:24-30：警告——迦南地因此被污染，以色列必须保守圣洁`,
+    structure_en: `• 18:1-5: Introduction — imitate God, not Egypt or Canaan
+• 18:6-18: Prohibition of various incestuous relations (list of near relatives)
+• 18:19-23: Prohibition of intercourse during menstruation, adultery, child sacrifice to Molech, homosexual acts, bestiality
+• 18:24-30: Warning — the land of Canaan was defiled by these things; Israel must maintain holiness`,
+    theology_zh: `本章的神学核心是**创造秩序与神圣形象的保护**。改革宗神学认为，人类性关系的规范源于创造（创2:24），婚姻是一男一女的终身盟约。本章的禁令不是文化相对主义的产物，而是对神所设立的创造结构的守护。同时，这些禁令也服务于选民的圣洁使命——以色列必须在文化上与周边民族有所区别，这种区别本身就是对神的见证。禁止献子给摩洛（18:21）特别重要，因为它将生育崇拜与圣洁观直接对立起来。`,
+    theology_en: `The theological core of this chapter is **the protection of the created order and the divine image**. Reformed theology holds that the norms for human sexuality derive from creation (Genesis 2:24), with marriage as a lifelong covenant between one man and one woman. The prohibitions in this chapter are not products of cultural relativism but guardianship of the creational structure God established. These prohibitions also serve the covenant people's mission of holiness — Israel must be culturally distinct from surrounding nations, and this distinction is itself a witness to God. The prohibition of child sacrifice to Molech (18:21) is especially significant, as it directly opposes fertility cult worship with the concept of holiness.`,
+    christShadow_zh: `基督与本章的联系是深刻的，但需要细心辨认。首先，耶稣在马太福音19:4-6重申了婚姻的创造性基础，正面肯定了本章所守护的秩序。其次，保罗在哥林多前书6:18-20引用了性纯洁的命令，将其建立在更高的基础上——"你们的身子是基督的肢体"，"你们的身子是圣灵的殿"。基督的道成肉身和救赎工作，不是废除创造秩序，而是更新和恢复它。在基督里，受污染的人可以被洁净；曾经活在18章所禁止的行为中的人，可以借着悔改和信心，被神接纳。保罗在哥林多前书6:9-11正是这么说的："你们中间也有人从前是这样。但如今你们奉主耶稣基督的名，并藉着我们神的灵，已经洗净，成圣，称义了。"这是福音的大能。`,
+    christShadow_en: `The connection between Christ and this chapter is profound, but requires careful discernment. First, Jesus in Matthew 19:4-6 reaffirms the creational foundation of marriage, positively confirming the order this chapter protects. Second, Paul in 1 Corinthians 6:18-20 grounds the command for sexual purity on a higher foundation — "your bodies are members of Christ," "your body is a temple of the Holy Spirit." Christ's incarnation and redemptive work does not abolish the created order but renews and restores it. In Christ, the defiled can be cleansed; those who once lived in the behaviors prohibited in chapter 18 can, through repentance and faith, be accepted by God. Paul says exactly this in 1 Corinthians 6:9-11: "And such were some of you. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God." This is the power of the gospel.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 19,
+    publishDate: '2026-08-28',
+    title: '你们要圣洁', titleEn: 'You Shall Be Holy',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 19 / Leviticus 19',
+    content_zh: `在利未记所有的章节中，第十九章是最令我心跳加速的一章。当耶和华命令我召集以色列全会众，将这些话传给他们时，我知道这不是普通的律法宣读——这是神的心意最直接、最全面的流露。
+
+"你们要圣洁，因为我耶和华你们的神是圣洁的。"（19:2）
+
+这一句话，是整章的钥匙，也是整部利未记的精髓。圣洁不是一套规则，圣洁是神的本性；以色列的圣洁，不是靠自己努力赚来的道德水准，而是对那位圣洁之神的回应和效法。
+
+神随即展开了一份令人叹为观止的命令清单，而这份清单最令我惊奇的，是它的多样性与整合性。圣洁不只发生在会幕里，圣洁渗透生活的每一个角落：
+
+**家庭关系**：当孝敬父母（19:3），这是十诫的回响，家庭是圣洁的第一战场。
+
+**礼拜**：守安息日，不拜偶像（19:3-4），因为唯有神配得崇拜。
+
+**经济公义**：收割庄稼时要留下地角和落穗，留给穷人和寄居的外人（19:9-10）——这是圣洁向经济的延伸。
+
+**诚实**：不偷盗，不欺骗，不撒谎，不指着神的名起假誓（19:11-12）——语言是圣洁的领域。
+
+**保护弱者**：不欺压邻居，不抢夺，工人的工价不可押到第二天（19:13），不咒诅聋子，不将绊脚石放在瞎子面前（19:14）——对弱势群体的保护，是圣洁的社会维度。
+
+**司法公义**：审判时不可偏护穷人，也不可看人情偏护有权势的（19:15）——神的公义不偏颇，祂的子民的司法也不应偏颇。
+
+**邻舍之爱**：不往来散布谣言，不与邻居结仇（19:16-17）。然后是这章最令世界震惊的话："要爱人如己"（19:18）——主耶稣后来将这句话与"爱神"并列，称之为律法的精华（马太福音22:39-40）。
+
+**自然秩序**：牲畜不可叫两种动物配合，田地不可种两样种子，衣服不可穿两样搀杂的料子（19:19）——这些规定在表面上看似琐碎，但它们指向一个原则：分别是神创造秩序的一部分。神划定了界限，混乱边界本身就是对创造者权威的挑战。
+
+**历史性的圣洁**：进入迦南地后，种了果树要等三年才可食用（19:23-25）——这是对土地的尊重，也是对等候神时候的操练。
+
+**不效法外邦的丧俗**：不剃光头、不留胡须的边缘、不用刀划身（19:27-28）——这些习俗与异教的丧葬仪式相关，是对偶像崇拜文化的抵抗。
+
+**尊重老人**：当在白发老人面前站起来，也要尊重他，因为我是耶和华（19:32）。
+
+**善待外人**："寄居在你们中间的外人，你们要待他如本地人一样，并要爱他如己，因为你们在埃及地也做过寄居的人"（19:34）——以色列自己的痛苦历史，应当转化为对他者的怜悯。
+
+当我将这些话传讲完毕，我注意到一件令人深思的事：这份清单中，大约有十六次出现了"我是耶和华"或"我是耶和华你们的神"这句话。神的名字不是点缀，它是每条命令的根基与动力。你们要这样做——因为我是耶和华。
+
+这就是改革宗神学所说的"荣耀神的动机"：我们的顺服，不是为了赚取什么，而是因为我们的神是谁。圣洁不是自救的手段，圣洁是蒙救赎之人对救赎主的回应。`,
+    content_en: `Of all the chapters in Leviticus, the nineteenth is the one that makes my heart beat fastest. When the LORD commanded me to assemble the entire congregation of Israel and speak these words to them, I knew this was no ordinary recitation of law — this was the most direct and comprehensive outpouring of God's heart.
+
+"You shall be holy, for I the LORD your God am holy." (19:2)
+
+This one sentence is the key to the entire chapter and the essence of all of Leviticus. Holiness is not a set of rules; holiness is God's nature. Israel's holiness is not a moral standard earned through their own effort, but a response to and imitation of the holy God.
+
+God then unfolds a breathtaking list of commands, and what astonishes me most about this list is its diversity and integration. Holiness does not only happen in the tabernacle; holiness permeates every corner of life:
+
+**Family relationships**: Honor your father and mother (19:3) — an echo of the Ten Commandments; family is the first battlefield of holiness.
+
+**Worship**: Keep the Sabbath; do not turn to idols (19:3-4), for only God is worthy of worship.
+
+**Economic justice**: When harvesting, leave the corners of your field and fallen gleanings for the poor and the sojourning stranger (19:9-10) — holiness extending into economics.
+
+**Honesty**: Do not steal, deal falsely, or lie; do not swear falsely by God's name (19:11-12) — language is holiness's domain.
+
+**Protecting the vulnerable**: Do not oppress your neighbor or rob him; do not hold back a worker's wages until morning (19:13); do not curse the deaf or put a stumbling block before the blind (19:14) — protecting the vulnerable is holiness's social dimension.
+
+**Judicial justice**: In judgment, show no partiality to the poor or deference to the great (19:15) — God's justice is impartial; His people's justice should be too.
+
+**Love for neighbors**: Do not go around spreading slander; do not hate your brother in your heart (19:16-17). Then comes the sentence that would shock the world: "you shall love your neighbor as yourself" (19:18) — the Lord Jesus would later pair this with "love God," calling it the summation of the Law (Matthew 22:39-40).
+
+**Natural order**: Do not let your cattle breed with a different kind; do not sow two kinds of seeds in your field; do not wear a garment of two kinds of material (19:19) — these seem trivial on the surface, but they point to a principle: distinction is part of God's created order. God drew boundaries; blurring boundaries is itself a challenge to the Creator's authority.
+
+**Historical holiness**: After entering Canaan, fruit trees must wait three years before their fruit is eaten (19:23-25) — respect for the land and practice in waiting for God's timing.
+
+**Not imitating pagan mourning rites**: Do not shave heads, trim beard edges, or cut the body (19:27-28) — these customs relate to pagan funeral rites; they are resistance to idolatrous culture.
+
+**Honoring the elderly**: Rise before the gray head; honor the face of an old man, for I am the LORD (19:32).
+
+**Treating strangers well**: "The stranger who sojourns with you shall be to you as the native among you, and you shall love him as yourself, for you were strangers in the land of Egypt" (19:34) — Israel's own history of suffering should transform into compassion for others.
+
+When I finished proclaiming these words, I noticed something deeply significant: approximately sixteen times in this list, the phrase "I am the LORD" or "I am the LORD your God" appears. God's name is not mere decoration — it is the foundation and motivation for every command. Do this — because I am the LORD.
+
+This is what Reformed theology means by "the motive of glorifying God": our obedience is not to earn something, but because of who our God is. Holiness is not a means of self-salvation; holiness is the redeemed person's response to their Redeemer.`,
+    historyContext_zh: `利未记19章通常被学者称为"圣洁法典"（Holiness Code，H，利18-26章）的核心，也被称为"以色列的小十诫"，因为其内容广度几乎涵盖十诫的所有主题。历史背景：以色列即将进入迦南地，那是一片充满各种道德混乱的土地。神在这里建立了一个"反文化"的社会规范系统，使以色列的社会生活本身成为对神的见证。"爱邻如己"（19:18）是整个古代近东伦理中最激进的命令之一，远远超越了当时的道德哲学水平。`,
+    historyContext_en: `Leviticus 19 is commonly referred to by scholars as the heart of the "Holiness Code" (H, Leviticus 18–26), and is sometimes called "Israel's Little Ten Commandments," as its breadth nearly covers all the themes of the Decalogue. Historical context: Israel was about to enter Canaan, a land full of moral chaos. God established here a "counter-cultural" social norm system, making Israel's social life itself a witness to God. "Love your neighbor as yourself" (19:18) is one of the most radical commands in the entire ancient Near East, far surpassing the moral philosophy of that time.`,
+    structure_zh: `• 19:1-2：总纲——"你们要圣洁，因为我耶和华你们的神是圣洁的"
+• 19:3-8：神、家庭与崇拜（敬父母、守安息、不拜偶像、平安祭规定）
+• 19:9-18：社会伦理（济贫、诚实、公义、爱邻舍）
+• 19:19-29：混杂禁令与宗教纯洁（不混杂、占卜、丧俗、神妓）
+• 19:30-37：综合伦理（守安息、敬老、善待外人、公平度量）`,
+    structure_en: `• 19:1-2: Summary — "You shall be holy, for I the LORD your God am holy"
+• 19:3-8: God, family, and worship (honor parents, keep Sabbath, no idols, peace offering regulations)
+• 19:9-18: Social ethics (care for poor, honesty, justice, love for neighbor)
+• 19:19-29: Mixed prohibitions and religious purity (no mixing, divination, mourning customs, cult prostitution)
+• 19:30-37: Comprehensive ethics (keep Sabbath, honor elderly, welcome strangers, honest weights)`,
+    theology_zh: `本章展示了改革宗神学中"神律的三重用途"的极好范本：
+1. **政治用途**：约束罪的外在表现（公义的律法维持社会秩序）
+2. **福音用途**：揭示人的不完全（谁能完全遵守这一切？）
+3. **信徒的标准**：指引蒙恩之人如何荣耀神
+
+"爱邻如己"（19:18）是本章的神学高峰。保罗在罗马书13:9-10说，爱邻如己就是整个律法的总结。耶稣将其提升为第二条大诫命。这不是人文主义的博爱，而是以神的爱为根基的伦理——"因为我是耶和华"。`,
+    theology_en: `This chapter provides an excellent model for the Reformed theological "threefold use of the law":
+1. **Political use**: Restraining the outward expression of sin (just law maintains social order)
+2. **Evangelical use**: Revealing human inadequacy (who can fully obey all of this?)
+3. **Normative standard for believers**: Guiding the redeemed in how to glorify God
+
+"Love your neighbor as yourself" (19:18) is the theological summit of this chapter. Paul in Romans 13:9-10 says that loving your neighbor as yourself is the summary of the entire law. Jesus elevated it to the second great commandment. This is not humanistic philanthropy but ethics rooted in God's love — "for I am the LORD."`,
+    christShadow_zh: `利未记19章是新约最频繁引用的旧约章节之一。"爱邻如己"（19:18）在新约被引用至少八次。耶稣在登山宝训中回应了这章的多个主题，将外在律法的遵守深化为心志的转化。
+
+最令人动容的是：耶稣自己就是19章所描述的圣洁的完全成就——祂济助穷人，祂与外人同席，祂在审判中不偏颇，祂爱仇敌如同爱邻舍，祂用完全的生命实践了"爱神爱人"的双重命令。
+
+约翰福音13:34-35，主耶稣将这命令提升到一个新的高度："我赐给你们一条新命令，乃是叫你们彼此相爱；我怎样爱你们，你们也要怎样相爱。"不再仅仅是"如同爱自己"，而是"如同基督爱我们"。这是旧约圣洁法典在基督里得到的最终、最完全的诠释。`,
+    christShadow_en: `Leviticus 19 is one of the most frequently quoted Old Testament chapters in the New Testament. "Love your neighbor as yourself" (19:18) is cited at least eight times in the New Testament. Jesus in the Sermon on the Mount responded to multiple themes of this chapter, deepening external legal compliance into transformation of the heart.
+
+Most moving of all: Jesus Himself is the complete fulfillment of the holiness described in chapter 19 — He cared for the poor, He dined with outsiders, He showed no partiality in judgment, He loved enemies as neighbors, and He fulfilled the dual command to "love God and love people" with His perfect life.
+
+John 13:34-35: the Lord Jesus elevated this command to a new height: "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another." No longer merely "as you love yourself," but "as Christ has loved us." This is the ultimate, most complete interpretation of the Old Testament holiness code in Christ.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 20,
+    publishDate: '2026-08-31',
+    title: '违反圣洁法典的刑罚', titleEn: 'Penalties for Violations',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 20 / Leviticus 20',
+    content_zh: `有人问我：神爱人，为什么要制定这么严酷的刑罚？
+
+我在旷野中行走了四十年，见过太多人因着轻视神的命令而走向毁灭。每一条刑罚的背后，我都能看见一个破碎的家庭、一个腐败的群体、一个失去道德根基的社会。利未记二十章是十九章的镜像——十九章说"你们要圣洁"，二十章说"违背圣洁的代价是什么"。
+
+最震撼的刑罚，是针对将儿女献给摩洛的人（20:1-5）。这是死罪，而且处死的方式是"石头打死"——这意味着整个社区参与执行，整个社区对这罪行共同承担责任，共同切断这罪行在社区中的延续。
+
+摩洛崇拜之所以被列在所有罪行之首，是因为它侵犯了生命本身——将活生生的孩子投入火中，以换取假神的眷顾。没有什么比这更直接地撕毁神创造秩序的了。神说："当以色列人将儿女献给摩洛，玷污我的圣所，亵渎我的圣名"（20:3）。注意：玷污的不只是儿童，玷污的是神的圣名，是神在以色列中的同在。
+
+对于交鬼术（consulted mediums）和行巫术的人，神同样说要处死（20:6）。为什么？因为求问鬼神，是转向另一个"神"，是公然否认耶和华是唯一的主权者。这是属灵上的通奸。
+
+然后是一系列性伦理的刑罚（20:10-21），与十八章所列的禁令对应。通奸——死罪。与继母同寝——死罪。同性性行为——死罪。与岳母同寝——死罪。兽交——死罪。与姐妹同寝——被剪除。
+
+我必须直面这些话，不能回避，也不应软化。在我们这个时代，这些刑罚会引起强烈反应——无论是震惊还是愤慨。但我需要在这里说几件重要的事：
+
+**第一，这些是神政政体下的刑罚。** 以色列是一个神权国家，其中民事法律与宗教法律是合一的。这种政体在基督来临后已不再存在。改革宗神学区分了摩西律法中的"道德律"、"民事律"和"仪文律"：道德律（如十诫）永远有效；民事律针对以色列神权国家，已随着旧约政体的终结而终结；仪文律指向基督，在基督里得到成就。处死罪犯的具体刑法属于民事律，不是今日教会的执行标准。
+
+**第二，这些刑罚揭示了罪的严重性。** 死罪的设立，不是说神对人没有怜悯，而是说这些罪行对社区的破坏是如此之深，以至于如果不斩草除根，整个共同体都会被腐蚀。就像身体的坏疽，如果不截肢，生命本身就会终结。
+
+**第三，神在严刑之中仍然留有余地。** 注意20:22-26，神在陈列完所有刑罚之后，再次呼吁以色列遵守律法，进入那流奶与蜜之地，并再次提醒："我是分别你们与万民的耶和华，是叫你们作我的民的。"（20:26）
+
+刑罚不是神的终极语言，神的终极语言是：我要你们归属于我。所有刑罚，都服务于这个更大的目的——保护神子民的圣洁群体，保守这个将带来救主的民族，使弥赛亚的应许不被人类的罪败坏。
+
+我是摩西，我将这些话传讲，是以极大的沉重感传讲的。但我也是那位与神面对面说话的人，我知道这些严厉话语背后，有一颗为百姓哭泣的心——正如神对以色列说："我曾对你们说：你们要承受他们的地，就是流奶与蜜之地，我要将这地赐给你们为业。我是耶和华你们的神，我将你们和万民分别出来。"（20:24）
+
+刑罚是严肃的，但其背后是爱——一种不允许所爱之人走向毁灭的、严肃的圣洁之爱。`,
+    content_en: `People ask me: if God loves people, why set such severe penalties?
+
+I have walked the wilderness for forty years and seen too many people walk toward destruction by despising God's commands. Behind every penalty, I see a shattered family, a corrupted community, a society that has lost its moral foundation. Leviticus 20 is the mirror of chapter 19 — chapter 19 says "you shall be holy," chapter 20 says "what is the cost of violating holiness?"
+
+The most shocking penalty is for those who give their children to Molech (20:1-5). This is a capital offense, executed by stoning — meaning the entire community participates in the execution, the entire community bears shared responsibility for the crime, and the entire community severs this sin's continuation within it.
+
+Molech worship heads the list because it violates life itself — casting living children into fire to gain the favor of false gods. Nothing tears apart God's created order more directly. God says: "When an Israelite gives one of his children to Molech, he profanes my sanctuary and defiles my holy name" (20:3). Notice: what is defiled is not only the child, but God's holy name, God's presence among Israel.
+
+For those who consult mediums or necromancers, God equally commands death (20:6). Why? Because seeking spirits is turning to another "god," openly denying that the LORD alone is sovereign. This is spiritual adultery.
+
+Then comes a series of sexual ethics penalties (20:10-21), corresponding to the prohibitions in chapter 18. Adultery — death. Lying with a stepmother — death. Male homosexual intercourse — death. Lying with a mother-in-law — death. Bestiality — death. Lying with a sister — to be cut off.
+
+I must confront these words directly — neither avoiding them nor softening them. In our time, these penalties provoke strong reactions, whether shock or outrage. But I need to say several important things here:
+
+**First, these are penalties within a theocratic polity.** Israel was a theocratic nation in which civil law and religious law were unified. This polity no longer exists after Christ's coming. Reformed theology distinguishes between "moral law," "civil law," and "ceremonial law" in the Mosaic law: moral law (such as the Ten Commandments) remains perpetually valid; civil law applied to Israel's theocratic state and ended with the conclusion of the Old Testament polity; ceremonial law pointed to Christ and was fulfilled in Him. Specific criminal penalties belong to civil law and are not the enforcement standard for today's church.
+
+**Second, these penalties reveal the seriousness of sin.** Capital punishment was established not to say God has no mercy for people, but that these sins cause such deep destruction to the community that unless cut off at the root, the entire community would be corrupted — like gangrene in a body: without amputation, life itself ends.
+
+**Third, God still leaves room for grace even amid severe penalties.** Notice 20:22-26: after listing all the penalties, God again calls Israel to keep the law and enter the land flowing with milk and honey, and again reminds them: "I am the LORD your God, who has separated you from the peoples...I am the LORD your God, who has separated you from the peoples, that you should be mine." (20:26)
+
+Penalties are not God's ultimate language. God's ultimate language is: I want you to belong to Me. All penalties serve this greater purpose — protecting the holiness of God's people, preserving the nation that would bring the Savior, ensuring that the promise of the Messiah would not be corrupted by human sin.
+
+I am Moses, and I proclaimed these words with great heaviness. But I am also the one who spoke with God face to face, and I know that behind these severe words is a heart that weeps for the people — just as God said to Israel: "But I have said to you, 'You shall inherit their land, and I will give it to you to possess, a land flowing with milk and honey.' I am the LORD your God, who has separated you from the peoples." (20:24)
+
+The penalties are serious, but behind them is love — a solemn, holy love that refuses to allow the beloved to walk toward destruction.`,
+    historyContext_zh: `利未记20章中提到的罪行，在古代近东文献中都有对应记录。摩洛崇拜在腓尼基（现代黎巴嫩和以色列北部沿海地区）是有据可查的习俗，考古学家在迦太基发现了"托斐特"（儿童骨灰葬址）。咒术和交鬼在整个美索不达米亚地区是普遍现象，《汉谟拉比法典》也有类似的惩处条文。以色列的刑法体系与当时的文化并非完全隔绝，但其神学基础——神圣的圣洁而非单纯的社会秩序——使它独树一帜。`,
+    historyContext_en: `The crimes mentioned in Leviticus 20 all have corresponding documentation in ancient Near Eastern texts. Molech worship was a documented practice in Phoenicia (modern Lebanon and northern coastal Israel), and archaeologists have discovered "topheth" sites (child ash burial grounds) in Carthage. Witchcraft and consulting the dead were widespread throughout Mesopotamia, and similar punitive codes appear in the Code of Hammurabi. Israel's penal system was not completely isolated from the culture of its time, but its theological foundation — divine holiness rather than merely social order — made it unique.`,
+    structure_zh: `• 20:1-5：献儿女给摩洛——死罪
+• 20:6：求问鬼神——被剪除
+• 20:7-8：总括呼召——"你们要圣洁"
+• 20:9：咒骂父母——死罪
+• 20:10-21：性伦理违犯的各种刑罚
+• 20:22-26：结语——守律法进入应许地，圣洁分别是以色列的使命`,
+    structure_en: `• 20:1-5: Sacrificing children to Molech — capital offense
+• 20:6: Consulting mediums and necromancers — cut off
+• 20:7-8: Summary call — "consecrate yourselves and be holy"
+• 20:9: Cursing father or mother — capital offense
+• 20:10-21: Various penalties for sexual ethics violations
+• 20:22-26: Conclusion — keep the law, enter the promised land; holy separation is Israel's mission`,
+    theology_zh: `本章的核心神学问题是**圣洁与审判的关系**。改革宗神学确认：神是公义的审判者，罪必有后果。但同时，旧约的民事刑法并不直接适用于今日，因为神权政体已在基督里完成其历史使命。更深的神学主题是：这些严酷的刑罚预示着最终审判——不信者将面对比肉体死亡更可怕的永远灭亡，而信者在基督里已经"死"——基督为我们承担了所有的刑罚。加拉太书3:13："基督既为我们受了咒诅，就赎出我们脱离律法的咒诅。"`,
+    theology_en: `The central theological question of this chapter is **the relationship between holiness and judgment**. Reformed theology affirms: God is a righteous judge, and sin must have consequences. But simultaneously, the Old Testament's civil penal law does not directly apply today, because the theocratic polity completed its historical mission in Christ. The deeper theological theme: these severe penalties prefigure the final judgment — unbelievers will face eternal destruction far worse than physical death, while believers have already "died" in Christ — Christ bore all the penalties for us. Galatians 3:13: "Christ redeemed us from the curse of the law by becoming a curse for us."`,
+    christShadow_zh: `利未记20章中的死刑，在基督里找到了其最深刻的意义。每一条"他必死"，都预示着十字架——不是罪人自己的死，而是基督替代性的死。
+
+保罗在罗马书8:1宣告："如今，那些在基督耶稣里的人就不定罪了。"这"不定罪"是因为所有的罪——包括20章所列的一切——都已经在基督的十字架上被审判、被刑罚、被洁净。
+
+而最令我心动的是约翰福音8章：文士和法利赛人把一个行淫被拿的女人带到耶稣面前，说："摩西在律法上吩咐我们把这样的女人用石头打死。"他们引用的，正是利未记20:10。耶稣的回答彻底颠覆了他们的预期："你们中间谁是没有罪的，谁就可以先拿石头打她。"然后对那女人说："我也不定你的罪。去吧，从此不要再犯罪了。"
+
+这不是废除律法，而是律法在恩典中的成就——定罪的权柄归于唯一无罪的那一位，而祂选择了饶恕。`,
+    christShadow_en: `The death penalties in Leviticus 20 find their deepest meaning in Christ. Every "he shall surely die" foreshadows the cross — not the sinner's own death, but Christ's substitutionary death.
+
+Paul declares in Romans 8:1: "There is therefore now no condemnation for those who are in Christ Jesus." This "no condemnation" is because all sins — including everything listed in chapter 20 — have been judged, penalized, and cleansed on Christ's cross.
+
+And most moving to me is John 8: the scribes and Pharisees brought a woman caught in adultery to Jesus, saying, "Moses commanded us to stone such women. Now what do you say?" They were quoting Leviticus 20:10. Jesus's response completely upended their expectations: "Let him who is without sin among you be the first to throw a stone at her." Then to the woman: "Neither do I condemn you; go, and from now on sin no more."
+
+This is not the abolition of the law, but the fulfillment of the law in grace — the authority to condemn belongs to the only One who is without sin, and He chose forgiveness.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 21,
+    publishDate: '2026-09-01',
+    title: '祭司的圣洁条例', titleEn: 'Holiness of the Priests',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 21 / Leviticus 21',
+    content_zh: `在我所传达的诸多律法中，利未记二十一章是让我作为神的中间人感受最深的一章。它不是写给全体以色列人的，它是专门写给亚伦和他的儿子们——那些被神分别出来，站在神与人之间的祭司们。
+
+神对我说："你告诉祭司亚伦的子孙说……"（21:1）。这个开头本身就在宣告：祭司受到更严格的约束，因为他们站的位置更特殊。
+
+神首先谈到祭司与死亡的关系。按照洁净律法，接触死尸会使人礼仪上不洁净。普通以色列人有各种方式可以洁净，但祭司有额外的限制：他们不可为任何死人沾染自己，除非是最近的亲属——母亲、父亲、儿子、女儿、兄弟，以及未嫁的姐妹（21:1-3）。
+
+为什么要这样规定？因为祭司的职分，是每天在圣所里事奉神——他要点灯、献香、献祭。若随时沾染死尸的不洁，就会频繁中断这神圣的事奉。这是实际的，但更深处有一个神学意义：生命属于神，死亡是罪进入世界的结果，圣所是生命与圣洁的象征，祭司必须在这两个领域之间维持分隔。
+
+然后神说到祭司不可为死人"剃头"、"剪去胡须的周围"、"用刀划身"（21:5）——这些是异教丧葬习俗，是对神界定生死意义的权柄的否认。
+
+对于结婚，神规定：普通祭司不可娶妓女、被污辱的女人，或被丈夫休掉的女人（21:7）。原因在于祭司的婚姻本身也代表着以色列——他是社区的属灵领袖，他的家庭生活是属灵健康的缩影。
+
+然后来到最严格的部分——大祭司的规定（21:10-15）。大祭司只能娶本族的处女（21:13-14），他甚至不可为自己的父母居丧（21:11）。这一规定在人性上看起来残酷——他不能为死去的父亲守丧？但这是有深意的：大祭司是以色列与神之间最直接的中介，他的生命完全归属于这个职分。有一次一年，他要进入至圣所——那是整个地球上最接近神同在之处的地方。他的圣洁程度，必须与他所代表的那位神的圣洁相称。
+
+接下来，神谈到了有身体残疾的祭司。这是本章中最令现代读者不安的部分（21:16-23）：眼瞎的、瘸腿的、塌鼻子的、有多余肢体的、断脚的、驼背的、矮小的……这些人不能献祭，不能走近坛前。
+
+我第一次读到这段话时，也感到困惑。神不是同样爱这些肢体有缺陷的人吗？祂不是接纳所有人吗？
+
+但神紧接着说了一句关键的话："他虽不可入幔子、近前到坛，却可以吃他神食物中的至圣之物，也可以吃圣物。"（21:23）他们依然是祭司，依然有份于祭司的供给，依然属于圣洁的群体——他们只是不能执行献祭的仪式功能。
+
+这里有一个深刻的仪文律原则：献祭的祭司，代表了向神献上完全、无暇的那一位。旧约的献祭体系是一个预表系统，每一个细节都在指向某个更大的实体。有残疾的祭司站在坛前，会破坏这个图像的完整性——不是因为他作为人的价值减少了，而是因为他所代表的那个"影"的形状不再完整。
+
+这个逻辑，在新约中得到了完全的翻转和成就：耶稣基督，我们的大祭司，在肉身上是完全无瑕疵的；但祂接受了所有残破者——瞎子、瘸子、麻疯病人——进入祂的国度。旧约的完美形象，预表了那位真正完全的大祭司；而那位完全的大祭司，来是为了接纳一切不完全的人。`,
+    content_en: `Among all the laws I have conveyed, Leviticus 21 is the chapter where I feel most deeply my role as God's intermediary. It is not written for all Israel — it is written specifically for Aaron and his sons, those priests set apart by God to stand between God and humanity.
+
+God said to me: "Speak to the priests, the sons of Aaron, and say to them..." (21:1). This opening itself declares: priests are held to stricter constraints because their position is more distinctive.
+
+God first addresses the priests' relationship to death. According to purity law, contact with a corpse renders a person ceremonially unclean. Ordinary Israelites had various means of purification, but priests faced additional restrictions: they could not defile themselves for any dead person, except for the closest relatives — mother, father, son, daughter, brother, and unmarried sister (21:1-3).
+
+Why this regulation? Because the priestly function is to serve God in the sanctuary daily — lighting lamps, burning incense, offering sacrifices. If constantly contaminated by corpse impurity, this sacred service would be frequently interrupted. This is practical, but there is a deeper theological significance: life belongs to God; death is the consequence of sin entering the world; the sanctuary is a symbol of life and holiness; priests must maintain separation between these two domains.
+
+God then says priests must not shave their heads, clip the edges of their beards, or make cuts on their bodies (21:5) — these are pagan mourning customs, denying God's authority to define the meaning of life and death.
+
+Regarding marriage, God decrees: ordinary priests may not marry a prostitute, a woman who has been defiled, or a woman divorced from her husband (21:7). The reason is that a priest's marriage itself represents Israel — he is the community's spiritual leader, and his family life is a microcosm of spiritual health.
+
+Then comes the strictest section — regulations for the high priest (21:10-15). The high priest can only marry a virgin from his own people (21:13-14); he may not even mourn for his own parents (21:11). This looks cruel from a human perspective — he cannot mourn a dead father? But there is deep meaning: the high priest is the most direct mediator between Israel and God, and his life belongs entirely to this function. Once a year, he enters the Most Holy Place — the place on all the earth closest to God's presence. The degree of his holiness must correspond to the holiness of the God he represents.
+
+God then addresses priests with physical disabilities. This is the section modern readers find most disturbing (21:16-23): the blind, the lame, one with a disfigured face, a limb too long, a broken foot, a hunchback, a dwarf... these men cannot offer sacrifice or approach the altar.
+
+When I first encountered this passage, I too was puzzled. Does God not equally love those with physical limitations? Does He not accept all people?
+
+But God immediately follows with a key statement: "he may eat the bread of his God, both of the most holy and of the holy things, but he shall not go through the veil or approach the altar, because he has a blemish, that he may not profane my sanctuaries." (21:23) They remain priests, still partaking of priestly provisions, still belonging to the holy community — they simply cannot perform the functional ritual of sacrifice.
+
+Here lies a profound ceremonial law principle: the sacrificing priest represents the One who offers what is complete and unblemished to God. The Old Testament sacrificial system is a typological system; every detail points toward something greater. A priest with a disability standing at the altar would disrupt the completeness of this image — not because his value as a human being is diminished, but because the shape of the "shadow" he represents would no longer be complete.
+
+This logic is completely reversed and fulfilled in the New Testament: Jesus Christ, our high priest, is physically without any blemish; yet He receives all who are broken — the blind, the lame, the lepers — into His kingdom. The Old Testament image of perfection prefigures the truly perfect High Priest; and that perfect High Priest came to receive all who are imperfect.`,
+    historyContext_zh: `以色列的祭司制度在古代近东是独特的。埃及祭司按神庙和神祇分别组织，承担的是维持神庙神祇"日常运作"的仪式职能，且有不少性仪式组成部分。美索不达米亚祭司（如巴比伦的"Kalú"）则专门处理丧葬和求问占卜。以色列的祭司制度——集中在会幕/圣殿，专注于赎罪和感恩献祭，以神的圣洁为中心——在整个古代近东中是独一无二的。身体完整性条件（21章）也有一定的古代类似规定，但以色列的神学基础完全不同：它是仪文预表，而非迷信。`,
+    historyContext_en: `Israel's priestly system was unique in the ancient Near East. Egyptian priests were organized by temple and deity, performing ritual functions to maintain the deity's "daily operations," with sexual ritual components in some cases. Mesopotamian priests (such as Babylon's "Kalû") specialized in funerary rites and divination. Israel's priestly system — centralized in the tabernacle/temple, focused on atonement and thanksgiving sacrifices, centered on God's holiness — was unique throughout the ancient Near East. The physical wholeness requirements (chapter 21) have some ancient parallels, but Israel's theological foundation was entirely different: it is typological symbolism, not superstition.`,
+    structure_zh: `• 21:1-9：普通祭司的圣洁规定（不沾死亡、丧葬习俗、婚配）
+• 21:10-15：大祭司的更严规定（不居丧、只娶处女、不剃头）
+• 21:16-23：有身体残缺的祭司——可享祭司供给，但不可执行献祭仪式`,
+    structure_en: `• 21:1-9: Holiness regulations for ordinary priests (avoiding death defilement, mourning customs, marriage)
+• 21:10-15: Stricter regulations for the high priest (no mourning, marry only a virgin, no shaving)
+• 21:16-23: Priests with physical disabilities — may share priestly provisions but may not perform sacrificial rites`,
+    theology_zh: `本章展示了**职分神学**中的一个关键原则：更大的权柄带来更大的责任，更近的接近神带来更严的要求。这不是神待人不公平，而是神的圣洁对那些代表祂、靠近祂的人有更高的要求。改革宗神学在此看到"恩典中的责任"：祭司的一切特权（接近神、享用圣物）都伴随着对应的圣洁要求。同样的原则在新约中对教会领袖依然有效："作监督的，必须无可指责……"（提前3:2）。`,
+    theology_en: `This chapter illustrates a key principle in **theology of office**: greater authority brings greater responsibility; closer access to God brings stricter requirements. This is not God being unfair to people, but God's holiness making higher demands on those who represent Him and draw near to Him. Reformed theology sees here "responsibility within grace": all priestly privileges (access to God, sharing in holy things) are accompanied by corresponding holiness requirements. The same principle applies in the New Testament to church leaders: "an overseer must be above reproach..." (1 Timothy 3:2).`,
+    christShadow_zh: `利未记21章是新约希伯来书祭司论的直接来源。希伯来书5:1-3描述旧约祭司的软弱——他们自己也有罪，需要为自己献祭。但希伯来书7:26-28描述基督："因为那给我们的大祭司，本是圣洁、无邪恶、无玷污、远离罪人、高过诸天的……"
+
+旧约大祭司的一切"完整性要求"——无残疾、无玷污——都完全成就在耶稣基督身上。祂是无瑕疵的大祭司，祂以自己的身体作为无缺陷的祭物。
+
+更令人惊叹的是：这位完全无瑕的大祭司，被人鞭打、被荆棘扎、被钉十字架，祂的身体被"破碎"了——但正是这破碎，完成了那个旧约大祭司所象征、所预指的完全赎罪。`,
+    christShadow_en: `Leviticus 21 is a direct source for the priestly theology of the New Testament book of Hebrews. Hebrews 5:1-3 describes the weakness of Old Testament priests — they themselves have sin and must offer sacrifices for themselves. But Hebrews 7:26-28 describes Christ: "For it was indeed fitting that we should have such a high priest, holy, innocent, unstained, separated from sinners, and exalted above the heavens..."
+
+All the "wholeness requirements" for the Old Testament high priest — no disability, no defilement — are completely fulfilled in Jesus Christ. He is the unblemished High Priest who offered His own body as the perfect sacrifice.
+
+Most astonishing: this perfectly unblemished High Priest was flogged, pierced with thorns, crucified — His body was "broken." Yet it was precisely this breaking that accomplished the complete atonement that the Old Testament high priest symbolized and prefigured.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 22,
+    publishDate: '2026-09-02',
+    title: '祭物的圣洁条例', titleEn: 'Acceptable and Unacceptable Sacrifices',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 22 / Leviticus 22',
+    content_zh: `作为摩西，我的一生都在居间——站在神与人之间，传达神的旨意，也为百姓的软弱代求。当神将利未记二十二章的命令交托给我时，我感受到了一种微妙而深刻的张力：神要求的是最好的，而我们人类总想献上方便的、够用的、将就的。
+
+二十二章分为两个主要部分：祭司与圣物（22:1-16），以及献给神的祭物（22:17-33）。
+
+**关于祭司与圣物**
+
+神告诉我，亚伦和他的儿子们必须远离以色列人所分别为圣的圣物，免得亵渎神的圣名（22:2）。什么情况下祭司不可吃圣物？当他有麻疯病、有漏症（22:4），或接触了死尸、精液而不洁净（22:4-5），或吃了爬物而不洁净（22:5），或摸了不洁的人（22:5），在洁净之前都不可吃。
+
+这是出乎意料的严格——即便是祭司，也会因生活中不可避免的不洁净状态而暂时被排除在圣物之外。这提醒我：在圣洁的神面前，没有人可以凭着职位或身份享有豁免权。圣洁的要求不因人的地位而降低。
+
+但神同时也规定了谁可以吃圣物。祭司的家属——儿女、家生的奴仆、用钱买来的奴仆——都可以吃（22:11）。这显示了恩典：圣洁的好处可以延伸到祭司家庭的范围内。然而，若女儿嫁给外人，就不可吃（22:12）；若她守寡或被休，没有儿女，回到父家如同幼年一样，可以吃（22:13）。
+
+这些规定的细节，揭示了神的细心：祂考虑到了边缘情况，考虑到了弱势者（回娘家的女儿），也维护了圣洁的界限。
+
+**关于祭物的完整性**
+
+然后来到这章最核心的部分（22:17-30）：献给神的祭物，必须"没有残疾的"（22:21）。
+
+为什么？神给出了一个简洁而深刻的理由："这样神才悦纳你们。"（22:20）
+
+具体的规定：公牛、绵羊、山羊，必须是没有残疾的（22:21）。以下这些有残疾的不可献：瞎的、折伤的、残缺的、有疮的、有癣的、有疥的（22:22）。甚至，阉牛不可在以色列人的地上向耶和华献（22:24）——虽然外邦人可能带来，也不被接受（22:25）。
+
+还有一条令人印象深刻的规定：牛羊初生后七天之内不可献（22:27）。为什么？幼小的动物需要在其母身边被哺育——这里透露出神对生命本身的温柔关怀。而且，牛羊不可一日之内宰杀母畜和幼崔（22:28）——这是神对自然界生命关系的尊重。
+
+为什么神要求无残疾的祭物？这不是神的挑剔，而是祭物的符号意义决定的。献祭是一个戏剧性的行动：它代表着献祭者将最完全、最贵重的东西呈给神。如果人把有残疾的、生病的、年老的、市场上卖不出去的动物献给神，他实际上在说："神，我把不需要的剩余品给你。"这是对神的轻慢，是对神价值的贬低。
+
+先知玛拉基后来会以愤怒的语言谴责这种做法："你们将瞎眼的献为祭物，这不为恶吗？将瘸腿的、有病的献上，这不为恶吗？……你们奉给省长，他岂喜悦你，岂能看你的情面吗？"（玛拉基书1:8）
+
+对神最高的尊荣，体现在我们献上最好的。
+
+我想到这些规定的另一个维度：以色列人将最好的公牛、最美的羔羊带到坛前，那些动物无声无息地走上去，被宰杀，血流在地上——百姓目睹了什么是代价，什么是牺牲，什么是"我用我最好的来偿还我的债"。
+
+但是当然，他们后来会慢慢明白：那最好的牛羊，依然不够。赎罪的债太大了，没有任何牛羊可以真正偿还。他们需要一个更大的、更完全的、真正无瑕疵的祭物。
+
+这就是为什么神在二十二章的结尾说："我是耶和华，乃是叫你们成为圣洁、使你们成为圣洁的那位，是领你们出埃及地作你们神的耶和华。我是耶和华。"（22:32-33）
+
+祂是出埃及的神，祂是将来完成最终救赎的神。祂要求无残疾的祭物，是因为祂最终将献上一个无残疾的祭物——祂自己的儿子。`,
+    content_en: `As Moses, my entire life has been spent as intermediary — standing between God and humanity, conveying God's will, and interceding for the people's weakness. When God entrusted Leviticus 22 to me, I felt a subtle but profound tension: God requires the best, but we humans always want to offer what is convenient, what is sufficient, what is "good enough."
+
+Chapter 22 divides into two main sections: priests and holy things (22:1-16), and offerings presented to God (22:17-33).
+
+**Regarding Priests and Holy Things**
+
+God told me that Aaron and his sons must keep away from the holy things that the people of Israel consecrate to the LORD, so that they do not profane God's holy name (22:2). In what circumstances may a priest not eat holy things? When he has leprosy or a discharge (22:4), or has become unclean through contact with a corpse or semen (22:4-5), or by eating something that swarms (22:5), or by touching an unclean person (22:5) — he may not eat until he is clean.
+
+This is unexpectedly strict — even priests can be temporarily excluded from holy things due to unavoidable states of impurity in daily life. This reminds me: before the holy God, no one can claim exemption through position or identity. The requirement of holiness is not reduced by one's status.
+
+But God simultaneously regulates who may eat holy things. The priest's household — sons and daughters, slaves born in the house, slaves bought with money — may all eat (22:11). This displays grace: the benefits of holiness can extend to the boundaries of the priestly family. However, if a daughter marries a layman, she may not eat (22:12); if she is widowed or divorced, with no children, returning to her father's house as in her youth, she may eat (22:13).
+
+These detailed regulations reveal God's care: He considers edge cases, considers the vulnerable (daughters returning home), and maintains boundaries of holiness.
+
+**Regarding the Integrity of Offerings**
+
+Then comes the chapter's most central section (22:17-30): offerings brought to God must be "without blemish" (22:21).
+
+Why? God gives a concise yet profound reason: "that you may be accepted" (22:20).
+
+Specific regulations: bulls, sheep, and goats must have no blemish (22:21). The following blemishes disqualify: blindness, injury, mutilation, having a discharge, an itch, or scabs (22:22). Even a castrated animal cannot be offered to the LORD in Israel (22:24) — even if brought by foreigners, it will not be accepted (22:25).
+
+There is also a particularly memorable regulation: a newborn ox or sheep may not be offered for seven days (22:27). Why? Young animals need to be nursed by their mothers — here shines God's tender care for life itself. Furthermore, an ox or sheep and its young may not both be slaughtered on the same day (22:28) — this is God's respect for the relational bonds of natural life.
+
+Why does God require blemish-free offerings? This is not God being finicky; it is determined by the symbolic meaning of the sacrifice. Sacrifice is a dramatic action: it represents the worshiper presenting what is most complete and most valuable to God. If someone brings a disabled, sick, aged, unsellable animal to God, they are effectively saying: "God, here are my unwanted leftovers." This is contempt for God, a devaluation of God's worth.
+
+The prophet Malachi would later condemn this practice with angry words: "When you offer blind animals in sacrifice, is that not evil? And when you offer those that are lame or sick, is that not evil? Present that to your governor; will he accept you or show you favor?" (Malachi 1:8)
+
+The highest honor we show God is expressed in offering our best.
+
+I think about another dimension of these regulations: when Israelites brought their finest bulls, their most beautiful lambs to the altar, those animals walked up silently and were slaughtered, blood flowing to the ground — the people witnessed what cost means, what sacrifice means, what "I pay my debt with my best" looks like.
+
+But of course, they would gradually understand: even the finest cattle and sheep were not enough. The debt of atonement was too great; no livestock could truly pay it. They needed a greater, more complete, truly unblemished sacrifice.
+
+This is why God says at the end of chapter 22: "I am the LORD who sanctifies you, who brought you out of the land of Egypt to be your God: I am the LORD." (22:32-33)
+
+He is the God of the Exodus; He is the God who will accomplish the final redemption. He requires unblemished offerings because He will ultimately offer an unblemished sacrifice — His own Son.`,
+    historyContext_zh: `古代近东的献祭体系中，"最好的"动物的概念是普遍存在的。在乌加里特文献、埃及寺庙记录和美索不达米亚文献中，都有规定祭物必须是完整、健康的动物。然而，以色列的独特性在于其神学理由——不是为了给神提供"食物"（异教思想），而是因为祭物象征了那位即将来临的完全之一。玛拉基书（约公元前5世纪）显示，在第二圣殿时期，以色列确实开始习惯性地献上残疾和病态的动物，这导致了神的严厉谴责。`,
+    historyContext_en: `The concept of offering "the best" animals was widespread in ancient Near Eastern sacrificial systems. Ugaritic texts, Egyptian temple records, and Mesopotamian documents all require sacrificial animals to be complete and healthy. However, Israel's uniqueness lies in its theological rationale — not to provide "food" for God (a pagan concept), but because the sacrifice symbolizes the coming perfect One. The book of Malachi (approximately 5th century BC) shows that in the Second Temple period, Israel did indeed begin habitually offering disabled and sick animals, which provoked God's severe rebuke.`,
+    structure_zh: `• 22:1-9：祭司在不洁净状态下不可吃圣物
+• 22:10-16：谁可以、谁不可以吃圣物（祭司家属的规定）
+• 22:17-25：献给神的祭物必须无残疾（牛羊山羊的具体规定）
+• 22:26-30：幼畜和母子同宰的禁令；感谢祭的规定
+• 22:31-33：结语——遵守诫命，我是圣化你们的耶和华`,
+    structure_en: `• 22:1-9: Priests in a state of impurity may not eat holy things
+• 22:10-16: Who may and may not eat holy things (regulations for priestly household)
+• 22:17-25: Offerings to God must be without blemish (specific regulations for cattle, sheep, goats)
+• 22:26-30: Prohibition on slaughtering young animals and mother together; thanksgiving offering regulations
+• 22:31-33: Conclusion — keep my commandments; I am the LORD who sanctifies you`,
+    theology_zh: `本章的核心神学是**敬拜的真诚性**。改革宗神学强调，对神的敬拜必须是发自内心的，用最好的来献给最配得的。约翰卫斯理有一句名言："将最好的献给神"，虽然这句话是后来说的，但它完全捕捉到了利未记22章的精神。更深的神学：无残疾的祭物是**基督完全性的预表**。圣经一贯地用"无瑕疵"（amōmos）描述基督的牺牲（彼前1:19；来9:14），而这个形容词正是七十士译本翻译利未记"无残疾"时用的同一个词。`,
+    theology_en: `The core theology of this chapter is **the sincerity of worship**. Reformed theology emphasizes that worship of God must come from the heart, offering what is best to the One most worthy. John Wesley's famous phrase, "Do all to the glory of God," while stated later, perfectly captures the spirit of Leviticus 22. The deeper theology: the unblemished sacrifice is a **type of Christ's perfection**. Scripture consistently uses "without blemish" (amōmos) to describe Christ's sacrifice (1 Peter 1:19; Hebrews 9:14), and this adjective is the same word the Septuagint uses to translate "without blemish" in Leviticus.`,
+    christShadow_zh: `利未记22章是整个旧约献祭体系最清晰的基督论指向之一。
+
+"没有残疾"（22:21）——彼得前书1:19说基督是"无瑕疵、无玷污的羔羊"，用的正是同样的图像。希伯来书9:14说"基督……借着永远的灵，将自己无瑕疵地献给神"。约翰福音1:29：施洗约翰高呼"看哪，神的羔羊，除去世人罪孽的！"
+
+旷野中那些被仔细检查、确认无残疾然后带上祭坛的公牛和羔羊，每一只都是一幅暂时的、不完全的图画——指向那一只真正的、完全的、将"一次献上永远有效"的羔羊。
+
+而令人惊叹的是：耶稣在被钉十字架之前，经历了极致的痛苦和羞辱——祂被打得面目全非（以赛亚书52:14），按外表来看，祂似乎是"有残疾的"，不配站在旧约的坛前。但正是在这破碎的外形之中，隐藏着完全无瑕的灵魂和神性，成就了完全的赎罪。
+
+这是福音最深的悖论：那"被打伤的"，成为了无瑕疵的祭；那在人眼中破碎的，在神眼中是完全圣洁的。`,
+    christShadow_en: `Leviticus 22 is one of the clearest Christological pointers in the entire Old Testament sacrificial system.
+
+"Without blemish" (22:21) — 1 Peter 1:19 says Christ is "a lamb without blemish or spot," using precisely the same image. Hebrews 9:14 says "Christ...through the eternal Spirit offered himself without blemish to God." John 1:29: John the Baptist cried, "Behold, the Lamb of God, who takes away the sin of the world!"
+
+Those bulls and lambs carefully examined in the wilderness, confirmed as blemish-free, then led to the altar — each one was a temporary, incomplete picture, pointing to that one true, complete Lamb who would be offered "once for all, forever effective."
+
+And here is the astonishing thing: before His crucifixion, Jesus underwent extreme suffering and humiliation — His appearance was marred beyond human semblance (Isaiah 52:14); by outward appearance, He seemed "disabled," unfit to stand before the Old Testament altar. But it was precisely within this broken form that a perfectly unblemished soul and divinity was hidden, accomplishing complete atonement.
+
+This is the gospel's deepest paradox: the One "who was wounded" became the unblemished sacrifice; the One who appeared broken in human eyes was completely holy in God's eyes.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 23,
+    publishDate: '2026-09-03',
+    title: '耶和华的节期', titleEn: 'The Appointed Feasts of the LORD',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 23 / Leviticus 23',
+    content_zh: `我摩西奉耶和华的命，将这些圣会的条例传给以色列众子。当耶和华在西奈山上向我启示这些节期的时候，我深知这不只是人间的礼仪，乃是永恒上帝进入时间、与祂子民相会的神圣时刻。
+
+耶和华首先重申安息日的圣洁："六日要做工，但第七日是圣安息日，当有圣会，你们什么工都不可做。"安息日是一切节期的根基，是创造与救赎的记念。每当我们放下劳作，就在宣告：我们的生命不靠自己的功劳，乃靠那创造天地、又救我们出埃及的耶和华。
+
+正月十四日傍晚是逾越节，次日起七日是无酵节。逾越节的羔羊血涂在门楣上，那使死亡越过的夜晚，是我民族最深的记忆。我年老了，那夜的恐惧与感恩仍清晰如昨——被拣选不是因为我们的义，乃是因为那无辜羔羊的血遮盖了我们。无酵节提醒我们：蒙恩得救之后，要除去一切旧酵，过诚实与真正的无酵生活。
+
+初熟节在无酵节期间，将收成的初熟之物摇在耶和华面前。这是信心的操练——在全部庄稼尚未收割之前，先献上初熟，承认一切收成都属于耶和华。初熟节预表那位从死里复活的基督，祂是睡了之人初熟的果子，为我们开了通往永生的路。
+
+初熟节后数五十天，是五旬节，又称七七节。在西奈山下，以色列人在出埃及五十天后领受了律法；在五旬节，圣灵如火焰降在门徒身上，律法被写在人的心板上。这两个五旬节遥遥相对，都是神与人立约的时刻：一是刻在石板上的字句，一是刻在心上的灵。
+
+七月一日是吹角节，民众要听角声之声，有圣会，有安息。角声划破了宁静，是警醒也是召集——召集子民在神的面前聚集，预备赎罪日的来临。吹角节让我想到末日的号角，那将召集万国、宣告审判与救恩的声音。
+
+七月十日是赎罪日，是一年中最庄严的一天。众民要刻苦己心，大祭司要携带赎罪祭牲的血进入至圣所，为自己和全会众赎罪。我深知那两只山羊的意义：一只被杀，象征公义的满足；一只被放入旷野，象征罪孽的除去。但这一切不过是影儿——我心中有一个盼望，那完全的赎罪必由另一位来完成，一位不带血统瑕疵的大祭司，一位祂自己既是祭司又是祭物的那一位。
+
+七月十五日起七天是住棚节，要住在棚里，要欢乐、要感恩。这是收藏节，一年的劳苦终得丰收。住棚节提醒我们：先祖在旷野四十年住帐篷的岁月，神的恩典没有一天间断。我们现在的生命如同住棚，有一天这棚要拆去，我们要住在那不是人手所造、永恒在天上的帐幕。
+
+这七个节期，七这个数字本身就宣告了完全与神圣。它们不是孤立的礼仪，而是神救赎计划的时间表——从逾越节的赎罪，到住棚节的欢呼，诉说着一个完整的救恩故事。每一个节期都指向那位要来的，祂将要成就一切节期所预表的实体。`,
+    content_en: `I, Moses, by the command of the LORD, transmitted to the children of Israel these ordinances for the holy convocations. When the LORD revealed these appointed feasts to me on Mount Sinai, I understood deeply that these were not merely human ceremonies, but sacred moments when the eternal God entered into time to meet with His people.
+
+The LORD first reaffirmed the holiness of the Sabbath: "Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation. You shall do no work." The Sabbath is the foundation of all feasts, a memorial of creation and redemption. Every time we rest from labor, we declare: our lives do not depend on our own efforts, but on the LORD who created heaven and earth and brought us out of Egypt.
+
+The fourteenth day of the first month at twilight is the Passover, followed by seven days of Unleavened Bread. The blood of the Passover lamb spread on the doorposts—that night when death passed over—remains the deepest memory of my people. In my old age, the fear and gratitude of that night remain vivid: we were chosen not because of our righteousness, but because the blood of that innocent lamb covered us. The Feast of Unleavened Bread reminds us that after being saved by grace, we must remove all old leaven and live lives of sincerity and truth.
+
+The Feast of Firstfruits, during the days of Unleavened Bread, involved waving the first of the harvest before the LORD. This is an exercise of faith—before the entire harvest is gathered, we first offer the firstfruits, acknowledging that all increase belongs to the LORD. The Feast of Firstfruits foreshadows Christ risen from the dead, who is the firstfruits of those who have fallen asleep, opening for us the path to eternal life.
+
+Fifty days after the Feast of Firstfruits is Pentecost, also called the Feast of Weeks. At the foot of Mount Sinai, Israel received the Law fifty days after the Exodus; at Pentecost, the Spirit descended upon the disciples like flames of fire, writing the Law on tablets of human hearts. These two Pentecosts correspond to each other across time, both marking covenant moments between God and humanity: one the letter inscribed on stone, the other the Spirit inscribed on hearts.
+
+The first day of the seventh month is the Feast of Trumpets—the people hear the blast of trumpets, hold a holy convocation, and rest. The trumpet blast breaks the silence, both a call to wakefulness and a summons—gathering the people into God's presence to prepare for the Day of Atonement. The Feast of Trumpets calls to mind the final trumpet, that voice which will summon all nations and proclaim judgment and salvation.
+
+The tenth day of the seventh month is the Day of Atonement, the most solemn day of the year. The people must afflict themselves, and the high priest carries the blood of the sin offering into the Most Holy Place to make atonement for himself and the entire congregation. I understand deeply the meaning of those two goats: one is slain, symbolizing the satisfaction of justice; the other is sent into the wilderness, symbolizing the removal of sins. But all this is merely shadow—in my heart there is a hope that complete atonement must come through another, a perfect High Priest without genealogical blemish, one who is both priest and offering.
+
+From the fifteenth day of the seventh month for seven days is the Feast of Tabernacles—dwell in booths, rejoice, give thanks. This is the harvest festival, the year's labor finally yielding abundance. The Feast of Tabernacles reminds us that during the forty years our ancestors lived in tents in the wilderness, God's grace never ceased for a single day. Our present lives are like dwelling in booths; one day these booths will be taken down, and we will dwell in that tabernacle not made with human hands, eternal in the heavens.
+
+These seven feasts—the number seven itself proclaims completeness and holiness. They are not isolated ceremonies but a timetable of God's redemptive plan—from the atonement of Passover to the rejoicing of Tabernacles, telling a complete story of salvation. Each feast points toward the One who was to come, who would fulfill all that these feasts foreshadowed.`,
+    historyContext_zh: `利未记23章中的七个节期，是以色列民每年必守的神圣日历，深深植根于出埃及的历史记忆与迦南农业的时间节律。逾越节（正月十四日）和无酵节（正月十五至二十一日）纪念出埃及事件；初熟节标志大麦收割的开始；五旬节（七七节）在初熟节后五十天，正值小麦收获完毕；吹角节（七月一日）开启秋季节期；赎罪日（七月十日）是一年中最隆重的赎罪仪式；住棚节（七月十五至二十一日）是秋收感恩节，也纪念旷野漂流。
+
+这七个节期构成了以色列全年的宗教时间框架。在古近东诸民族中，节期通常与农业丰收和神明崇拜联结，但以色列的节期独特之处在于：它们以历史救赎事件为根基，将农业感恩升华为救恩记念。巴比伦流亡后，犹太人在会堂中更加系统地研读节期律法，这些节期成为离散犹太人保持民族和信仰认同的核心要素。`,
+    historyContext_en: `The seven feasts in Leviticus 23 constitute Israel's sacred annual calendar, deeply rooted in the historical memory of the Exodus and the agricultural rhythms of Canaan. Passover (14th of first month) and Unleavened Bread (15th-21st of first month) commemorate the Exodus; Firstfruits marks the beginning of barley harvest; Pentecost (Feast of Weeks), fifty days after Firstfruits, coincides with the completion of wheat harvest; Trumpets (1st of seventh month) opens the autumn festivals; the Day of Atonement (10th of seventh month) is the most solemn annual atonement ceremony; Tabernacles (15th-21st of seventh month) is the autumn harvest thanksgiving and also commemorates the wilderness wandering.
+
+These seven feasts formed Israel's annual religious framework. Among ancient Near Eastern peoples, festivals were typically connected to agricultural abundance and deity worship, but Israel's feasts were unique: they were grounded in historical redemptive events, elevating agricultural thanksgiving into commemoration of salvation. After the Babylonian exile, Jews in synagogues studied the feast laws more systematically, and these feasts became the core elements by which diaspora Jews maintained their ethnic and religious identity.`,
+    structure_zh: `利未记23章结构清晰，以"耶和华的节期，就是你们当宣告为圣会的，是我的节期"开篇（第1-2节），先列出安息日（第3节），再按时间顺序逐一介绍七个年度节期：逾越节与无酵节（4-14节）、五旬节（15-22节）、吹角节（23-25节）、赎罪日（26-32节）、住棚节（33-44节）。每个节期都包含时间、行为规定和献祭要求。章末以"摩西将耶和华的节期宣告给以色列人"作结（第44节），呼应开头。`,
+    structure_en: `Leviticus 23 has a clear structure, opening with "These are the appointed feasts of the LORD, the holy convocations, which you shall proclaim at the time appointed for them" (vv. 1-2), then listing the Sabbath (v. 3), followed by seven annual feasts in chronological order: Passover and Unleavened Bread (vv. 4-14), Pentecost (vv. 15-22), Trumpets (vv. 23-25), Day of Atonement (vv. 26-32), and Tabernacles (vv. 33-44). Each feast includes regulations concerning timing, required behavior, and sacrificial requirements. The chapter closes with "Thus Moses declared to the people of Israel the appointed feasts of the LORD" (v. 44), echoing the opening.`,
+    theology_zh: `改革宗神学视利未记23章的节期为神救赎启示的渐进展开。加尔文在《利未记注释》中指出，这些节期不仅是外在仪式，更是神与以色列立约关系的可见符号。海德堡要理问答问1的"我唯一的安慰"，正是在这些节期所预表的基督身上得到满足：逾越节指向基督的赎罪之死，初熟节指向祂的复活，五旬节指向圣灵的降临，赎罪日指向祂的中保职分，住棚节指向末世的荣耀与安息。韦敏斯德信条第7章论神的约，将旧约礼仪律法理解为恩典之约在旧约时期的施行方式，"以预表和预言预示基督"。这些节期在基督里既得成全，其外在形式已告完结，其内在实体却在基督里永远存留。`,
+    theology_en: `Reformed theology views the feasts of Leviticus 23 as the progressive unfolding of God's redemptive revelation. Calvin, in his Commentary on Leviticus, notes that these feasts are not merely external ceremonies but visible signs of the covenant relationship between God and Israel. The "only comfort" of Heidelberg Catechism Question 1 finds its fulfillment in Christ, foreshadowed by these feasts: Passover points to Christ's atoning death, Firstfruits to His resurrection, Pentecost to the descent of the Spirit, the Day of Atonement to His mediatorial work, and Tabernacles to eschatological glory and rest. The Westminster Confession of Faith Chapter 7, on God's covenant, understands the Old Testament ceremonial law as the administration of the covenant of grace in the Old Testament era, "foreshadowing Christ through types and prophecies." These feasts, fulfilled in Christ, have ceased in their external form, but their internal substance remains forever in Christ.`,
+    christShadow_zh: `保罗在哥林多前书5:7明言"我们逾越节的羔羊基督已经被杀献祭了"，直接将逾越节与基督受难相连。初熟节在哥林多前书15:20-23中得到解释："基督已经从死里复活，成为睡了之人初熟的果子。"五旬节在使徒行传2章得到成全，圣灵在五旬节降临，印证了耶利米书31:31-34的新约应许。赎罪日是希伯来书8-10章集中诠释的节期：基督作大祭司，以自己的血一次永远进入圣所，成就了永远的救赎。歌罗西书2:16-17说这些节期"都是将来之事的影儿，那形体却是基督"。住棚节在启示录21-22章中有其终末成全：神要与人同住，亲自擦去他们一切的眼泪。`,
+    christShadow_en: `Paul explicitly states in 1 Corinthians 5:7, "Christ, our Passover lamb, has been sacrificed," directly connecting Passover to Christ's passion. Firstfruits is explained in 1 Corinthians 15:20-23: "But in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep." Pentecost finds its fulfillment in Acts 2, when the Spirit descended at Pentecost, confirming the new covenant promise of Jeremiah 31:31-34. The Day of Atonement is the feast most extensively interpreted in Hebrews 8-10: Christ as High Priest entered the holy place once for all with His own blood, accomplishing eternal redemption. Colossians 2:16-17 states these feasts "are a shadow of the things to come, but the substance belongs to Christ." Tabernacles finds its eschatological fulfillment in Revelation 21-22: God will dwell with humanity, personally wiping away every tear.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 24,
+    publishDate: '2026-09-04',
+    title: '灯台与陈设饼', titleEn: 'The Lampstand and the Bread',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 24 / Leviticus 24',
+    content_zh: `我摩西蒙耶和华吩咐，将两件事情颁布给以色列众子：会幕灯台的供油之法，以及陈设饼的条例。这两样都关乎会幕内的日常事务，一灯一饼，却承载着深重的神学意义。在这章的后半，发生了一件令全营震惊的事——一个亵渎神名的人被带到我面前，神将审判的旨意启示给我。
+
+耶和华吩咐我："你要命令以色列人，将捣成的纯橄榄油拿来，为灯台点灯，使灯常常燃着。"亚伦要在会幕中、法柜的幔幕外，从晚到早，在耶和华面前收拾那灯，作你们世世代代永远的定例。灯台上有七个灯盏，整夜不熄，象征神圣洁的临在从不间断。橄榄油必须是"捣成的纯油"——这不是随意取来的油，而是经过细心捶打、提炼出的精华，象征那奉献给神的事物必须是最好的，是经过生命的磨砺才能发出真光的。
+
+亚伦的职责是"收拾"那灯——他不是灯光的来源，乃是灯光的守护者。这让我思想：我们这些服事神的人，不过是灯台的管理者，那真光不是从我们自己来的，乃是来自神自己。我们能做的，是确保那光不被遮蔽，不被杂质污染，让它清洁地照耀下去。
+
+关于陈设饼，耶和华吩咐要取细面，烤十二个饼，每饼两握，安放在会幕内耶和华面前的精金桌上，分两行，每行六个，在每行上面放纯乳香，每安息日要摆在耶和华面前，这是以色列人永远的约。这饼是亚伦和他儿子们的，他们要在圣处吃。十二个饼对应以色列十二支派，象征神以色列的全体在祂面前得蒙纪念。那饼要每安息日更换，旧饼给祭司，新饼摆上——这是一个恒常的供奉，象征立约关系的持续与更新。
+
+然而，这章的下半令我心沉重。有一个以色列妇人所生的儿子——他的父亲是埃及人——与一个以色列人争斗，在营中亵渎了耶和华的名，并且咒诅了。人们把他带到我面前。耶和华的名是何等圣洁！以色列人所以在万民中被分别出来，正是因为他们带着耶和华的名。那名不能被用来咒诅，不能被玷污，不能被轻忽。
+
+我将那人囚禁，等候耶和华的旨意。耶和华吩咐我说，要将那咒诅神名的人带到营外，凡听见的人要按手在他头上，全会众要用石头打死他。这惩罚何等严厉！但我明白其中的道理：那亵渎神名的人，实际上是在公开宣告神的名不值得尊崇，是在教导全会众轻看那使以色列成为以色列的根基——与耶和华的立约关系。若这根基动摇，整个会众都将崩溃。按手于其头，是全会众参与审判，表明他们与那亵渎之罪划清界限。
+
+耶和华还补充：无论是寄居的还是本地人，亵渎耶和华名的，都必被处死。以命偿命，以眼还眼，以牙还牙——这些法则彰显了公平，在神的社群中没有人可以凌驾于律法之上，也没有人因血统而可以逃避审判。摩西吩咐了，以色列人就遵行了。`,
+    content_en: `I, Moses, by the LORD's command, proclaimed to the children of Israel two matters: the regulation for supplying oil to the lampstand of the tabernacle, and the ordinance of the showbread. Both concern the daily affairs of the tabernacle—one lamp, one bread—yet they carry profound theological significance. In the latter half of this chapter, an event that shook the entire camp occurred: a man who had blasphemed the LORD's name was brought before me, and God revealed to me the verdict of judgment.
+
+The LORD commanded me: "Command the people of Israel to bring you pure oil from beaten olives for the lamp, that a light may be kept burning regularly." Aaron was to arrange the lamps in the tent of meeting, outside the veil of the testimony, from evening to morning before the LORD. The lampstand had seven lamps, burning through the night without ceasing, symbolizing God's holy presence uninterrupted. The olive oil must be "pure oil from beaten olives"—not carelessly obtained oil, but essence extracted through careful beating and refining, symbolizing that what is offered to God must be the best, that true light can only come through the grinding of life.
+
+Aaron's duty was to "arrange" the lamps—he was not the source of the light, but its guardian. This leads me to reflect: we who serve God are merely stewards of the lampstand; the true light does not come from us but from God Himself. What we can do is ensure that the light is not covered, not polluted by impurities, so that it shines on purely.
+
+Regarding the showbread, the LORD commanded taking fine flour and baking twelve loaves, placing them in two rows, six in a row, on the table of pure gold before the LORD in the tabernacle, with pure frankincense on each row. Every Sabbath this bread was to be set before the LORD as a covenant forever. The bread was for Aaron and his sons to eat in the holy place. The twelve loaves correspond to Israel's twelve tribes, symbolizing all of Israel being continually remembered before God. The bread was replaced every Sabbath—the old bread given to the priests, fresh bread placed before the LORD—a constant offering symbolizing the covenant relationship's continuity and renewal.
+
+However, the latter half of this chapter weighs heavily on me. A man was brought before me—the son of an Israelite woman, whose father was Egyptian—who had gotten into a fight with an Israelite man and blasphemed the Name of the LORD and cursed. How holy is the name of the LORD! The very reason Israel was separated from all peoples was that they bore the name of the LORD. That Name cannot be used for cursing, cannot be defiled, cannot be treated lightly.
+
+I held the man in custody until the will of the LORD was made clear to me. The LORD commanded that the one who cursed the name should be brought outside the camp, and all who heard him were to lay their hands on his head, and the whole congregation was to stone him. What a severe punishment! But I understand the reason: the one who blasphemed God's name was publicly declaring that God's name is not worthy of reverence, was teaching the whole congregation to despise the foundation that made Israel Israel—the covenant relationship with the LORD. If this foundation were shaken, the entire congregation would collapse. The laying of hands on his head involved the whole congregation in the judgment, declaring their separation from that blasphemous sin.
+
+The LORD further stated: whether a sojourner or a native, whoever blasphemes the name of the LORD shall be put to death. Life for life, eye for eye, tooth for tooth—these principles manifest equity; in God's community no one can stand above the law, and no one can escape judgment by virtue of bloodline. Moses commanded, and the children of Israel obeyed.`,
+    historyContext_zh: `利未记24章前半（灯台与陈设饼）是对出埃及记25-27章相关规定的实施性重申，是会幕建成后的日常管理规程。七支灯台（Menorah）是以色列最具代表性的宗教符号，其橄榄油须是捣成的精油，这在古代中东是奢侈品。十二个陈设饼每安息日更换，旧饼归祭司所食，这是祭司供养制度的一部分。
+
+后半部分的亵渎案例（第10-23节）是一个叙事插曲，据拉比传统，那被杀者的名字叫示罗密（Shelomith）之子。这是利未记中罕见的叙事段落，其他几处叙事（拿答、亚比户之死，10章）都是重大神圣审判的记录。古代以色列对神名的重视在第三诫中已有表述，这个案例正是第三诫的司法执行示例。以眼还眼（lex talionis）原则在近东法典中普遍存在（汉谟拉比法典中亦有），但以色列律法的独特之处在于其适用于本地人和寄居者一视同仁，体现了法律面前平等的原则。`,
+    historyContext_en: `The first half of Leviticus 24 (the lampstand and showbread) is an implementation reiteration of related regulations from Exodus 25-27, representing the daily management procedures after the tabernacle's construction. The seven-branched menorah is Israel's most iconic religious symbol; its olive oil had to be pressed pure oil, a luxury item in the ancient Near East. The twelve loaves of showbread were replaced every Sabbath, with the old bread consumed by the priests as part of the priestly provision system.
+
+The blasphemy case in the second half (vv. 10-23) is a narrative interlude; according to rabbinic tradition, the one killed was the son of Shelomith. This is one of the rare narrative passages in Leviticus; other narratives (the death of Nadab and Abihu, chapter 10) are all records of significant divine judgments. Israel's high regard for the divine name was already expressed in the Third Commandment; this case serves as a judicial enforcement example of that commandment. The lex talionis principle of "eye for eye" was common in ancient Near Eastern law codes (also found in the Code of Hammurabi), but the distinctive feature of Israelite law was its equal application to both natives and sojourners, embodying the principle of equality before the law.`,
+    structure_zh: `利未记24章由两个主要部分组成：一是会幕礼仪规定（1-9节），包括灯台的供油（1-4节）和陈设饼的摆放（5-9节）；二是一个叙事性审判案例（10-23节），讲述亵渎神名者被处决的事件，并附有"以眼还眼"的司法原则宣告。两部分看似不相关，实则共同主题是"圣洁"：灯台和陈设饼在神面前维持会幕的圣洁秩序，惩处亵渎者则在社群中维护神名的圣洁。`,
+    structure_en: `Leviticus 24 consists of two main sections: tabernacle ritual regulations (vv. 1-9), including oil for the lampstand (vv. 1-4) and the arrangement of showbread (vv. 5-9); and a narrative judgment case (vv. 10-23), recounting the execution of the blasphemer and appending the proclamation of the "eye for eye" judicial principle. The two sections may seem unrelated, but their common theme is "holiness": the lampstand and showbread maintain the holy order of the tabernacle before God, while the punishment of the blasphemer protects the holiness of God's name within the community.`,
+    theology_zh: `改革宗神学从利未记24章提炼出两个核心主题：神圣临在的维护与神名圣洁的捍卫。灯台与陈设饼象征神不间断的临在和对以色列十二支派的持续纪念，体现了神在立约关系中的信实。光与饼这两个意象在新约中得到升华：约翰福音8:12基督自称"世界的光"，约翰福音6:35自称"生命的粮"，将旧约的象征性实体在祂身上得到了本体性的成全。亵渎神名的死刑案例体现了改革宗神学对"神的荣耀"的核心关切——神的名代表祂的本性、属性与立约身份，轻视神名即是轻视神本身。加尔文强调，第三诫不仅禁止咒骂神，也包括一切不敬虔地使用神名的行为。`,
+    theology_en: `Reformed theology draws two core themes from Leviticus 24: the maintenance of divine presence and the defense of the holiness of God's name. The lampstand and showbread symbolize God's uninterrupted presence and His continual remembrance of Israel's twelve tribes, embodying God's faithfulness in the covenant relationship. The imagery of light and bread is elevated in the New Testament: in John 8:12, Christ declares Himself "the light of the world," and in John 6:35, "the bread of life," bringing the symbolic entities of the Old Testament to their ontological fulfillment in Him. The death penalty case for blaspheming God's name embodies Reformed theology's central concern for "the glory of God"—God's name represents His nature, attributes, and covenant identity; to despise God's name is to despise God Himself. Calvin emphasizes that the Third Commandment prohibits not only cursing God, but all irreverent use of God's name.`,
+    christShadow_zh: `灯台预表基督是世界的光（约翰福音8:12），是那真光，照亮一切生在世上的人（约翰福音1:9）。亚伦照管灯台，今日教会照管福音的光，但光的本源是基督。陈设饼预表基督是生命的粮（约翰福音6:35），那从天降下的粮，人若吃了就永远不饿。十二个饼对应十二支派，新约中十二个使徒接续了以色列的宗教身份，成为教会的根基。亵渎神名者的处死，在救赎论上预表基督在十字架上承担了我们亵渎神的罪——祂为我们被咒诅，使我们得祝福（加拉太书3:13）。那位本当受死的亵渎者，因基督的代死而得以活命；我们这些罪当致死的人，因祂的代赎而得永生。`,
+    christShadow_en: `The lampstand foreshadows Christ as the light of the world (John 8:12), the true light that gives light to everyone (John 1:9). As Aaron tended the lampstand, today's church tends the light of the gospel—but the source of the light is Christ. The showbread foreshadows Christ as the bread of life (John 6:35), the bread that came down from heaven, so that whoever eats of it will never be hungry. The twelve loaves corresponding to the twelve tribes find their continuation in the twelve apostles of the New Testament, who inherit Israel's religious identity and become the foundation of the church. The execution of the blasphemer prefigures, in redemptive terms, Christ bearing on the cross our sin of blaspheming God—He became a curse for us so that we might receive the blessing (Galatians 3:13). The blasphemer who deserved to die finds life through Christ's substitutionary death; we who deserved death for our sins receive eternal life through His atonement.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 25,
+    publishDate: '2026-09-07',
+    title: '安息年与禧年', titleEn: 'The Sabbath Year and Jubilee',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 25 / Leviticus 25',
+    content_zh: `耶和华在西奈山上对我说话，将安息年与禧年的条例启示给我。当我听到这些律法时，我的心被深深震动——这不仅是土地管理的经济法规，乃是神对人类贪婪本性的根本医治，是神对祂拥有一切主权的庄严宣告。
+
+六年之内，可以耕种田地，修剪葡萄园，但第七年地要守圣安息，就是耶和华的安息，不可耕种田地，不可修剪葡萄园。第七年地里自长的庄稼不可收割，没有修剪的葡萄树不可摘取葡萄。这一年要给地守圣安息。地上的安息所产的，要给你和你的仆人、婢女、雇工人，并寄居的外人吃，也要给你的牲畜和你地上的走兽吃，这地上所长的，都可以作食物。
+
+当我宣告这条例时，我能看见众人眼中的不安——他们在想，第七年不耕种，我们吃什么？耶和华早已预备了答案："我必在第六年将我的福赐给你们，地便生出三年的土产。你们种地，到第八年，仍可吃那旧的出产，等到第九年有出产的时候，你们还吃那旧的。"神的应许是足够的，祂供应的恩典总在我们的需要之前。
+
+七七四十九年后，第五十年是禧年。你们要在这年中宣告圣的自由给国内的居民，这年要作为你们的禧年，各人要归自己的产业，各归本家。在禧年那年，各人要归自己的产业。禧年要以吹角为信号——在七月十日赎罪日，要吹角遍地。
+
+禧年的条例包括：地业归还本家，奴仆得以释放。若有人因贫穷卖了产业，他的亲属可以赎回；若无人赎回，到禧年，产业自然归还本主。若以色列人因贫穷卖身给同族为奴，到禧年就当得释放，与儿女一同离去，归回本家，归回祖业。
+
+这里有一个神圣的宣告，是整个禧年律法的根基："地不可永卖，因为地是我的，你们在我面前是客旅，是寄居的。"何等震撼的话！地是神的，不是人的。以色列人所谓"拥有"土地，不过是在神手下管业，是管家，不是主人。同样，人也不能永远归属于另一个人——"因为以色列人都是我的仆人，是我从埃及地领出来的，他们不可卖为奴仆。"神是以色列人真正的主人，任何人间的奴役都是暂时的、有限的。
+
+这两条原则——神拥有土地，神拥有人——是禧年律法的神学根基，也是对人类社会根本贪婪的抵制。人倾向于积累财富、积累权势、把其他人变成自己的附属，但神的秩序要求定期的重设，好让贫富悬殊不至于永久固化，让人的尊严得到保护。
+
+我心中知道，以色列历史上这些律法从未被完全遵守，百年的贪婪与不义将被带到巴比伦流亡的审判中。但我仍将这律法传下去，因为它所指向的那个实体——真正的禧年，完全的释放——将有一天在神所膏立的那一位身上成就。`,
+    content_en: `The LORD spoke to me on Mount Sinai and revealed to me the ordinances of the Sabbath year and the Jubilee. When I heard these laws, my heart was deeply moved—these were not merely economic regulations for land management, but a fundamental remedy for humanity's greedy nature, a solemn declaration of God's sovereign ownership over all things.
+
+For six years you may sow your field and prune your vineyard, but in the seventh year the land must observe a sabbath of solemn rest, a sabbath to the LORD. You shall not sow your field or prune your vineyard. You shall not reap what grows of itself in your harvest, nor gather the grapes of your unpruned vine. The land's produce during the sabbath year is for you, your male and female servants, your hired worker, and the sojourner who dwells with you—and for your livestock and the wild animals in your land, as food.
+
+When I proclaimed this ordinance, I could see unease in the people's eyes—they were thinking: if we don't farm in the seventh year, what will we eat? The LORD had already prepared the answer: "I will command my blessing on you in the sixth year, so that it will produce a crop sufficient for three years. When you sow in the eighth year, you will be eating some of the old crop; you shall eat the old until the ninth year, when its crop arrives." God's promise is sufficient; His supplying grace always precedes our need.
+
+After seven periods of seven years—forty-nine years—the fiftieth year is the Jubilee. You shall consecrate the fiftieth year, and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you, when each of you shall return to his property and each of you shall return to his clan. The Jubilee was signaled by the blowing of the trumpet—on the tenth day of the seventh month, the Day of Atonement, the trumpet was blown throughout all the land.
+
+The Jubilee ordinances included: land returned to its ancestral families, and slaves freed. If someone sold their property due to poverty, a relative could redeem it; if no one redeemed it, at the Jubilee the land would automatically return to its original owner. If an Israelite sold themselves into slavery to a fellow Israelite due to poverty, at the Jubilee they were to be released with their children, returning to their family and ancestral heritage.
+
+Here is a divine declaration that serves as the foundation of the entire Jubilee law: "The land shall not be sold in perpetuity, for the land is mine. For you are strangers and sojourners with me." What astonishing words! The land belongs to God, not to people. Israel's so-called "ownership" of land was merely stewardship under God's hand—stewards, not masters. Similarly, one person cannot permanently belong to another: "For it is to me that the people of Israel are servants. They are my servants whom I brought out of the land of Egypt: I am the LORD your God." God is the true master of Israelites; any human bondage is temporary and limited.
+
+These two principles—God owns the land, God owns the people—form the theological foundation of the Jubilee law, and serve as resistance to the fundamental greed of human society. People tend to accumulate wealth, accumulate power, and make others their appendages, but God's order requires periodic reset, so that the gap between rich and poor does not become permanently entrenched, and human dignity is protected.
+
+In my heart I know that these laws have never been fully observed throughout Israel's history, and centuries of greed and injustice will be brought to judgment in the Babylonian exile. But I still pass on this law, because the reality it points toward—the true Jubilee, complete liberation—will one day be fulfilled in the One whom God will anoint.`,
+    historyContext_zh: `利未记25章的安息年（Shemitah）和禧年（Yovel）是古代以色列独有的土地与社会重置制度，在古近东其他民族中没有完整对应的制度。安息年每七年一次，与安息日的七日循环相呼应；禧年是七七之后的第五十年，是"安息的安息"。
+
+历史上，安息年和禧年在以色列历史中从未完整实施过。历代志下36:21明确指出，巴比伦流亡之所以长达七十年，正是为了弥补以色列人未守的安息年——"这是因流亡而安息，直到地亨受了安息，充满了安息年的时日。"禧年的吹角节与赎罪日同日，显示释放是建立在赎罪基础上的。"Jubilee"这个词的词源有争议，可能来自希伯来语yovel（公羊角），指那宣告禧年的羊角声。路加福音4:18-19中耶稣在拿撒勒会堂宣读以赛亚书61章，正是引用禧年语言宣告祂的使命。`,
+    historyContext_en: `The Sabbath year (Shemitah) and Jubilee (Yovel) of Leviticus 25 represent an ancient Israel-specific system of land and social reset with no complete parallel among other ancient Near Eastern peoples. The Sabbath year occurred every seven years, echoing the seven-day Sabbath cycle; the Jubilee was the fiftieth year after seven times seven years—a "sabbath of sabbaths."
+
+Historically, the Sabbath year and Jubilee were never fully implemented throughout Israel's history. 2 Chronicles 36:21 explicitly states that the Babylonian exile lasted seventy years precisely to make up for the Sabbath years Israel had failed to observe—"to fulfill the word of the LORD by the mouth of Jeremiah, until the land had enjoyed its Sabbaths. All the days that it lay desolate it kept Sabbath, to fulfill seventy years." The Jubilee trumpet sounded on the Day of Atonement, showing that liberation is grounded in atonement. The etymology of "Jubilee" is disputed; it may derive from the Hebrew yovel (ram's horn), referring to the sound of the ram's horn proclaiming the Jubilee. In Luke 4:18-19, Jesus read from Isaiah 61 in the Nazareth synagogue, using Jubilee language to declare His mission.`,
+    structure_zh: `利未记25章结构完整，以"耶和华在西奈山上晓谕摩西说"开篇，分三大部分：安息年条例（1-7节）、禧年条例（8-55节，篇幅最长）、二者的神学根基（23节）。禧年条例内又细分：禧年的宣告与总体原则（8-22节）、土地买卖与赎回（23-34节）、贫穷者与债务奴役（35-55节）。55节"因为以色列人都是我的仆人"为全章作神学收结。`,
+    structure_en: `Leviticus 25 has a complete structure, opening with "The LORD spoke to Moses on Mount Sinai," divided into three main sections: the Sabbath year ordinances (vv. 1-7), the Jubilee ordinances (vv. 8-55, the longest section), and the theological foundation of both (v. 23). The Jubilee ordinances are further subdivided: the proclamation and general principles of Jubilee (vv. 8-22), the buying and redemption of land (vv. 23-34), and the poor and debt slavery (vv. 35-55). Verse 55, "For it is to me that the people of Israel are servants," provides the theological conclusion for the entire chapter.`,
+    theology_zh: `改革宗神学从利未记25章提炼出神的绝对主权和人的管家地位这两个核心教义。加尔文在注释这章时强调，安息年和禧年根本上是关于谁是真正的地主的宣告——神是唯一的地主，以色列人是租户和管家。这直接挑战了人类对财产的绝对私有权观念，指向一种"圣约经济学"：财产权是有限制的、有责任的、指向社群公义的。
+
+韦敏斯德大要理问答第142问谈到第八诫的本分，包括"公正对待贫穷和有需要之人"，禧年律法提供了制度性保障。清教徒神学家也从禧年律法中看到末世论意义：真正的禧年是基督再来时，一切被奴役的受造物将得到完全的释放（罗马书8:19-22）。`,
+    theology_en: `Reformed theology draws from Leviticus 25 two core doctrines: God's absolute sovereignty and humanity's stewardship status. Calvin, commenting on this chapter, emphasizes that the Sabbath year and Jubilee are fundamentally declarations about who the true landlord is—God is the sole landlord; Israelites are tenants and stewards. This directly challenges the notion of absolute private property rights, pointing toward a "covenantal economics" where property rights are limited, responsible, and oriented toward communal justice.
+
+Westminster Larger Catechism Question 142 on the duties of the Eighth Commandment includes "giving and lending freely, according to our abilities, and the necessities of others"—the Jubilee law provided institutional safeguards for this. Puritan theologians also saw eschatological significance in the Jubilee law: the true Jubilee is when Christ returns, and all creation enslaved to corruption will receive complete liberation (Romans 8:19-22).`,
+    christShadow_zh: `路加福音4:16-21是理解禧年与基督关系的最直接文本。耶稣在拿撒勒会堂展开以赛亚书61章诵读，宣告"主的灵在我身上，因为祂用膏膏我，叫我传福音给贫穷的人，差遣我报告被掳的得释放，瞎眼的得看见，叫那受压制的得自由，报告神悦纳人的禧年"。然后合上书卷说："今天这经应验在你们耳中了。"基督宣告祂自己是禧年的成就者。
+
+保罗在哥林多后书6:2引用以赛亚书49:8说"在悦纳的时候，我应允了你；在拯救的日子，我帮助了你。看哪，现在正是悦纳的时候！现在正是拯救的日子！"将禧年的"悦纳之年"指向基督的救恩时代。罗马书8:20-21论受造物的叹息和盼望，指向宇宙性禧年：受造之物必从败坏的辖制中得释放，入于神儿女自由的荣耀。`,
+    christShadow_en: `Luke 4:16-21 is the most direct text for understanding the relationship between Jubilee and Christ. Jesus unrolled the scroll of Isaiah 61 in the Nazareth synagogue and read: "The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed, to proclaim the year of the Lord's favor." Then rolling up the scroll, He said: "Today this Scripture has been fulfilled in your hearing." Christ declared Himself the fulfiller of Jubilee.
+
+Paul in 2 Corinthians 6:2 quotes Isaiah 49:8: "In a favorable time I listened to you, and in a day of salvation I have helped you. Behold, now is the favorable time; behold, now is the day of salvation!"—applying the Jubilee's "year of favor" to the era of Christ's salvation. Romans 8:20-21, speaking of creation's groaning and hope, points toward a cosmic Jubilee: creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 26,
+    publishDate: '2026-09-08',
+    title: '祝福与咒诅', titleEn: 'Blessings and Curses',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 26 / Leviticus 26',
+    content_zh: `当耶和华将这章的话语向我启示时，我感到自己承受着一个极重的担子——我要将祝福与咒诅都宣告给我的百姓，而我心里知道他们将会选择哪条路。先知的悲哀不在于不知道，而在于知道却无力阻止，唯有忠心地传递神的话语。
+
+这章以两个禁令开始："你们不可制造什么虚无的神像，不可立柱像和石像，跪拜它，因为我是耶和华你们的神。你们要守我的安息日，敬重我的圣所，我是耶和华。"禁止偶像崇拜与遵守安息日，是立约关系的两块基石：一是排除竞争的效忠对象，一是维持与立约之主定期相会的时间。这两条若守住了，其他的一切都有了根基；若这两条破坏了，后面的一切咒诅就要接踵而来。
+
+顺服的祝福是丰盛而具体的：应时的雨水，地土的丰收，果树的茂盛，饱食而居，国内平安，卧下无人惊吓，恶兽从地上消除，刀剑不过境，追杀仇敌，五个人追一百、一百人追一万，神面对面与他们同住，神与他们同行，神作他们的神，他们作神的子民。
+
+那最后的应许是最重要的："我要在你们中间行走，我要作你们的神，你们要作我的民。"这是立约的本质：神与人的同在，是一切祝福的根源和总结。一切物质的丰盛都是这个更深关系的外在表现——神在我们中间，这才是真正的祝福。
+
+然而，不顺服的后果是严峻的，而且是渐进的。第一轮咒诅：疾病、败于仇敌、播种徒劳、粮食被夺。"你们若不听从我，不遵行我这一切诫命"，这是第一个"若"字。然后第二轮，若还不悔改，审判加七倍：天如铁，地如铜，劳力白费，土地不出产。第三轮，若还顽梗，加上瘟疫、野兽、人丁稀少、道路荒凉。第四轮，刀剑追讨、瘟疫蔓延、粮食断绝。第五轮，就是最终的审判：城邑荒凉，圣所荒废，以色列人被掳到仇敌之地，地要享受她所当得的安息年，神的面向他们变脸。
+
+"神的面向他们变脸"——我写下这话时，眼泪几乎夺眶而出。这不是一个冷酷的法官宣判，而是一位父亲在儿女一再拒绝后，终于让他们尝到离开祂面的滋味。神脸的隐藏是最深的刑罚，因为正如神脸的照耀是最大的祝福（民数记6:24-26），神脸的背转就是一切咒诅的极致。
+
+但这章并未以绝望结束。在最深的咒诅之后，耶和华说："然而，即便如此，他们在仇敌之地，我却不厌弃他们，也不嫌恶他们以至灭绝他们，也不违背我与他们所立的约；因为我是耶和华他们的神。我却要为他们记念我与雅各所立的约，并我与以撒所立的约，和我与亚伯拉罕所立的约，也要记念那地。"
+
+这是整个旧约中最令人动容的应许之一。神的盟约是不会被人的悖逆所废弃的。哪怕以色列被掳在外，流离失所，神仍记念祂与先祖所立的约。这不是因为以色列的悔改，而是因为神自己的信实。"我是耶和华他们的神"——这句话既是审判的根据，也是救恩的根据。`,
+    content_en: `When the LORD revealed to me the words of this chapter, I felt a crushing burden—I was to proclaim both blessings and curses to my people, and in my heart I knew which path they would choose. The prophet's sorrow lies not in ignorance, but in knowing yet being powerless to prevent it, having only to faithfully transmit God's Word.
+
+This chapter opens with two prohibitions: "You shall not make idols for yourselves or erect an image or pillar, and you shall not set up a figured stone in your land to bow down to it, for I am the LORD your God. You shall keep my Sabbaths and reverence my sanctuary: I am the LORD." Prohibiting idolatry and keeping the Sabbath are the two cornerstones of the covenant relationship: one excludes competing loyalties, the other maintains regular meetings with the covenant Lord. If these two are kept, everything else has its foundation; if these two are violated, all the curses that follow will come in succession.
+
+The blessings of obedience are abundant and specific: rain in its season, produce of the land, fruit of the trees, eating bread to fullness, dwelling in safety, lying down with none to make you afraid, ridding the land of evil beasts, the sword not passing through the land, pursuing enemies, five chasing a hundred and a hundred chasing ten thousand, God dwelling face to face with them, God walking among them, being their God, and their being His people.
+
+That final promise is most important: "I will walk among you and will be your God, and you shall be my people." This is the essence of the covenant: God's dwelling with humanity, the source and summary of all blessings. All material abundance is the outward expression of this deeper relationship—God's presence among us is the true blessing.
+
+However, the consequences of disobedience are severe and progressive. The first round of curses: disease, defeat by enemies, planting in vain, food seized. "But if you will not listen to me and will not do all these commandments"—this is the first "if." Then the second round, if still no repentance, judgment multiplied sevenfold: sky like iron, earth like bronze, labor in vain, ground yielding no produce. The third round, if still stubborn: plague, wild beasts, population reduced, roads desolate. The fourth round: the sword pursuing, pestilence spreading, food cut off. The fifth round, the ultimate judgment: cities laid waste, sanctuaries made desolate, Israel carried captive to enemy lands, the land enjoying its sabbaths, God's face turned against them.
+
+"God's face turned against them"—as I wrote these words, tears nearly fell. This is not a cold judge pronouncing sentence, but a Father who, after His children repeatedly refused Him, finally lets them taste what it means to be away from His presence. The hiding of God's face is the deepest punishment, for just as the shining of God's face is the greatest blessing (Numbers 6:24-26), God's turning away is the extreme of all curses.
+
+But this chapter does not end in despair. After the deepest curses, the LORD says: "Yet for all that, when they are in the land of their enemies, I will not spurn them, neither will I abhor them so as to destroy them utterly and break my covenant with them, for I am the LORD their God. But I will for their sake remember the covenant with their forefathers, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God: I am the LORD."
+
+This is one of the most moving promises in the entire Old Testament. God's covenant cannot be annulled by human rebellion. Even when Israel is carried captive and scattered, God still remembers His covenant with the patriarchs. This is not because of Israel's repentance, but because of God's own faithfulness. "I am the LORD their God"—this phrase is both the ground of judgment and the ground of salvation.`,
+    historyContext_zh: `利未记26章在结构上是整个利未记立约条款的高潮，也是申命记28章更详尽咒诅条款的前驱。古代近东的立约文书（如赫梯苏泽兰条约）通常包括祝福与咒诅两部分，条约遵守者得祝福，违反者受咒诅，以色列与神所立的约采用了这种文体形式，但其神学内容远超任何人间条约。
+
+利未记26章的咒诅在以色列历史中得到了惊人的印证：北国以色列于公元前722年被亚述攻陷，南国犹大于公元前586年被巴比伦攻陷，圣殿被焚，百姓被掳。以西结书和耶利米书大量引用利未记26章的意象描述这些审判。但"在仇敌之地我不厌弃他们"的应许也在以斯拉记-尼希米记中得到初步成全，在新约的教会中得到更大的成全。`,
+    historyContext_en: `Leviticus 26 structurally serves as the climax of the entire covenant terms of Leviticus and as the precursor to the more detailed curse provisions of Deuteronomy 28. Ancient Near Eastern covenant documents (such as Hittite suzerainty treaties) typically included both blessings and curses—covenant keepers received blessings, violators received curses. Israel's covenant with God adopted this literary form, though its theological content far surpasses any human treaty.
+
+The curses of Leviticus 26 found astonishing fulfillment in Israel's history: the Northern Kingdom of Israel fell to Assyria in 722 BC, the Southern Kingdom of Judah fell to Babylon in 586 BC, the Temple was burned, and the people were carried captive. Ezekiel and Jeremiah extensively draw on the imagery of Leviticus 26 to describe these judgments. But the promise "when they are in the land of their enemies, I will not spurn them" found initial fulfillment in Ezra-Nehemiah and greater fulfillment in the New Testament church.`,
+    structure_zh: `利未记26章结构对称而清晰：开篇律法要求（1-2节），顺服之祝福（3-13节），不顺服之咒诅（14-39节，以五轮"若还不听"的渐进审判为骨架），悔改的应许（40-46节）。全章以"这些是耶和华在西奈山与以色列人所立的律例、典章和法度"结束，将整个利未记的律法带到一个庄严的立约总结。`,
+    structure_en: `Leviticus 26 has a symmetrical and clear structure: opening legal requirements (vv. 1-2), blessings for obedience (vv. 3-13), curses for disobedience (vv. 14-39, structured around five rounds of progressive judgment each beginning with "if you still will not listen"), and the promise of restoration upon repentance (vv. 40-46). The chapter closes with "These are the statutes and rules and laws that the LORD made between himself and the people of Israel on Mount Sinai through Moses," bringing the entire legal corpus of Leviticus to a solemn covenantal conclusion.`,
+    theology_zh: `改革宗神学从利未记26章看到恩典之约的双重结构：律法与福音。韦敏斯德信条第7章区分行为之约与恩典之约：行为之约以完全顺服换取生命，恩典之约以信心接受基督的义。利未记26章的祝福与咒诅表面上是行为之约的条款，但在26:40-45的悔改应许中，可以看到恩典之约的根基——神记念祂与先祖所立的约，不是因为以色列人悔改，而是因为神自己的信实与怜悯。
+
+加尔文强调，旧约的咒诅是教育性的：让人看到人力无法满足神的义，从而寻求基督的代赎。路德说律法是"让人病倒使人寻医"，利未记26章正是这样的律法功用——让人看清自己的软弱，承认离了神的恩典我们必然走向审判，从而在福音中寻得真正的安息。`,
+    theology_en: `Reformed theology sees in Leviticus 26 the dual structure of the covenant of grace: law and gospel. Westminster Confession Chapter 7 distinguishes the covenant of works from the covenant of grace: the covenant of works exchanges perfect obedience for life; the covenant of grace receives Christ's righteousness through faith. The blessings and curses of Leviticus 26 appear on the surface to be the terms of a covenant of works, but in the promise of restoration in 26:40-45, we see the foundation of the covenant of grace—God remembers His covenant with the patriarchs not because of Israel's repentance, but because of God's own faithfulness and mercy.
+
+Calvin emphasizes that the Old Testament curses are pedagogical: they show that human effort cannot satisfy God's righteousness, driving people to seek Christ's atonement. Luther said the law is meant "to make man sick so he seeks the physician"—Leviticus 26 is precisely this use of the law: showing people their weakness, acknowledging that apart from God's grace we inevitably head toward judgment, and thereby finding true rest in the gospel.`,
+    christShadow_zh: `利未记26章的咒诅最终在基督身上得到了代替性的承担。加拉太书3:13说："基督既为我们受了咒诅，就赎出我们脱离律法的咒诅；因为经上记着：'凡挂在木头上都是被咒诅的。'"十字架上的基督承担了律法所宣告的一切咒诅，使信祂的人得以经历律法所应许的一切祝福。
+
+26:12"我要在你们中间行走，我要作你们的神"在新约中多次被引用。哥林多后书6:16保罗引用这话论教会为神的殿，启示录21:3天上的声音宣告"看哪，神的帐幕在人间，祂要与人同住"——这是终末性的立约成全，神真正而完全地与祂的子民同住。利未记26章所描绘的咒诅，在历史上以巴比伦流亡为高峰；所应许的祝福，在基督里和祂的国度里得到超越性的成全。`,
+    christShadow_en: `The curses of Leviticus 26 find their substitutionary fulfillment in Christ. Galatians 3:13 states: "Christ redeemed us from the curse of the law by becoming a curse for us—for it is written, 'Cursed is everyone who is hanged on a tree.'" Christ on the cross bore all the curses declared by the law, so that those who believe in Him may experience all the blessings the law promises.
+
+26:12—"I will walk among you and will be your God, and you shall be my people"—is quoted multiple times in the New Testament. In 2 Corinthians 6:16, Paul quotes this to speak of the church as God's temple; in Revelation 21:3, a voice from heaven proclaims: "Behold, the dwelling place of God is with man. He will dwell with them"—this is the eschatological fulfillment of the covenant, God truly and completely dwelling with His people. The curses depicted in Leviticus 26 find their historical climax in the Babylonian exile; the promised blessings find their transcendent fulfillment in Christ and His kingdom.`,
+  },
+  {
+    book: '利未记', bookEn: 'Leviticus', chapter: 27,
+    publishDate: '2026-09-09',
+    title: '许愿与十一奉献', titleEn: 'Vows and Tithes',
+    author: '摩西', authorEn: 'Moses',
+    scripture: '利未记 27 / Leviticus 27',
+    content_zh: `利未记以这章作为结束，颁布许愿与十一奉献的条例，将整卷书的律法带到一个温柔而庄严的终点——如何将自己和所有所有物献给那圣洁的神。在一切有关祭祀、洁净、节期、年份的条例之后，这章问的是最个人的问题：你将如何回应神为你所做的一切？
+
+许愿（vow）是人主动向神立下承诺的行为，可以许愿将人、牲畜、房屋或田地归给耶和华。但神知道人心软弱，所以设立了赎回制度：若许愿之后因故无法履行，可以按照祭司的估价，加上五分之一赎回。这个加五分之一的原则贯穿整章——神不禁止改变心意，但改变心意是有代价的，这代价提醒我们：对神的承诺不是轻率可以反悔的，有始有终，言出必行，是立约者当有的品格。
+
+关于人的奉献，祭司要按年龄和性别估价：二十岁至六十岁的男性估为五十舍客勒银子，女性三十舍客勒；五岁至二十岁男性二十舍客勒，女性十舍客勒；一个月至五岁男孩五舍客勒，女孩三舍客勒；六十岁以上男性十五舍客勒，女性十舍客勒。若许愿者太穷，付不起估价，祭司要按他的力量估定。神的律法永远留有怜悯的余地——没有一个人因为太穷而无法向神作出回应。
+
+洁净牲畜（可用于献祭的）若被许愿，就当归给耶和华，不可赎回；若已经换了，那头和换来的都要圣洁。不洁净牲畜若被许愿，要带到祭司面前，祭司估价，加五分之一可赎。房屋和田地的条例也类似，涉及估价和赎回。
+
+然后是一个重要的原则："所有的头生的都归耶和华，无论是牛是羊，都不可许愿奉献，因为这些原是耶和华的。"什么是"原是耶和华的"？头生的原本就属神，无法再"许愿"献给神，因为许愿意味着转让所有权，而那所有权从来就不属于你。这是一个深刻的提醒：我们无法将本就属于神的东西当作礼物献给祂，真正的奉献是承认我们的一切原本就是祂的。
+
+最后是"当毁灭之物"（cherem）的条例：凡是被献为永别的，就是从人、牲畜和产业中献为永别的，都不可出售，也不可赎回，凡被永别的都是至圣的，要归给耶和华。这是最彻底的奉献，是不可逆转的——一旦被列为"当毁灭的"，就不属于人间的流通领域了。
+
+章末颁布十一奉献条例："地上所有的，无论是地上的种子，是树上的果子，十分之一是耶和华的，是归给耶和华为圣的。"牛羊群中，凡从杖下经过的，每第十头要归给耶和华为圣。不可拣好拣坏，也不可换，若是换了，那头和换来的都要圣洁，不可赎回。
+
+十一奉献不是"多献"，而是承认一切所有的都属于神，那十分之一是象征意义上的"回归"——将属于神的还给神，借此承认另外的十分之九也是神的恩赐，不过暂存在我手中。每年从杖下经过的每第十头，不是刻意挑选最好的，而是依序计数，凡第十头，无论好坏，都归给神——这去除了人的操控，将奉献还原为最纯粹的回应。
+
+利未记就这样结束了："这些是耶和华在西奈山为以色列人所吩咐摩西的诫命。"从第一章的燔祭，到这最后一章的许愿与十一奉献，利未记给我们画出了一幅立约子民如何与圣洁神同住的完整图景：祭祀是进入祂面前的途径，洁净是维持祂面前的资格，节期是与祂相会的时刻，许愿与奉献是在立约关系中对祂一切恩典的回应。没有基督，这一切都是虚空；有了基督，这一切都有了永恒的实体。`,
+    content_en: `Leviticus closes with this chapter, establishing regulations for vows and tithes, bringing the entire book's laws to a tender yet solemn conclusion—how to dedicate oneself and all one possesses to the holy God. After all the ordinances concerning sacrifices, purity, feasts, and years, this chapter asks the most personal question: how will you respond to all that God has done for you?
+
+A vow is an act whereby a person voluntarily makes a promise to God—one may vow to dedicate people, animals, houses, or fields to the LORD. But God knows the weakness of the human heart, so He established a redemption system: if after making a vow one cannot fulfill it for some reason, one may redeem it at the priest's valuation plus one-fifth. This "add one-fifth" principle runs throughout the chapter—God does not forbid changing one's mind, but changing one's mind comes at a cost. This cost reminds us: promises to God cannot be lightly retracted; seeing things through, keeping one's word, is the character that belongs to a covenant person.
+
+Concerning the dedication of persons, the priest was to assign a monetary value according to age and gender: males aged twenty to sixty were valued at fifty shekels of silver, females thirty shekels; males aged five to twenty at twenty shekels, females ten shekels; male infants of one month to five years at five shekels, females three shekels; males sixty and older at fifteen shekels, females ten shekels. If the person making the vow was too poor to pay the valuation, the priest was to value them according to their means. God's law always leaves room for mercy—no one is too poor to make a response to God.
+
+Clean animals (those eligible for sacrifice), if vowed, were to be dedicated to the LORD and could not be redeemed; if already exchanged, both the original and the substitute would be holy. Unclean animals, if vowed, were to be brought before the priest for valuation, and could be redeemed by adding one-fifth. The regulations for houses and fields were similar, involving valuation and redemption.
+
+Then comes an important principle: "But a firstborn of animals, which as a firstborn belongs to the LORD, no man may dedicate; whether ox or sheep, it is the LORD's." What does "belongs to the LORD" mean? The firstborn originally belongs to God and cannot be "vowed" to God, because vowing implies a transfer of ownership, and that ownership never belonged to you. This is a profound reminder: we cannot offer to God as a gift what already belongs to Him; true dedication is acknowledging that everything we have originally belongs to Him.
+
+Next comes the regulation for "devoted things" (cherem): anything set apart as devoted, whether of persons, animals, or field, may not be sold or redeemed; every devoted thing is most holy to the LORD. This is the most complete form of dedication—irreversible. Once designated as "devoted," it no longer belongs to the sphere of human commerce.
+
+The chapter concludes with the tithe ordinance: "Every tithe of the land, whether of the seed of the land or of the fruit of the trees, is the LORD's; it is holy to the LORD." Every tenth animal that passes under the herdsman's staff is to be holy to the LORD. One may not choose between good or bad, and one may not make a substitute; if one does make a substitute, both it and the substitute shall be holy; it cannot be redeemed.
+
+The tithe is not "extra giving" but rather an acknowledgment that everything belongs to God; that tenth is symbolically a "returning"—returning to God what is His, thereby acknowledging that the remaining nine-tenths are also God's grace, only temporarily held in our hands. Every tenth animal passing under the staff each year is not deliberately chosen as the best, but counted in sequence—the tenth one, whether good or bad, belongs to God. This removes human manipulation, returning the offering to the purest form of response.
+
+Leviticus thus ends: "These are the commandments that the LORD commanded Moses for the people of Israel on Mount Sinai." From the burnt offerings of the first chapter to the vows and tithes of this final chapter, Leviticus paints for us a complete picture of how a covenant people dwells with a holy God: sacrifice is the pathway to enter His presence, purity is the qualification to remain in His presence, feasts are the moments of meeting with Him, and vows and offerings are the responses to all His grace within the covenant relationship. Without Christ, all this is empty; with Christ, all this finds its eternal substance.`,
+    historyContext_zh: `利未记27章在犹太传统中被称为"附录"，因其内容（许愿赎回与十一奉献）与前面各章的主线律法有所不同，但这并不降低其神学重要性。许愿在古代以色列是严肃的宗教行为，民数记30章和申命记23:21-23都重申了许愿的约束力。赎回许愿的制度（加五分之一）与禧年的土地赎回制度相呼应，都体现了以色列立约经济学中"赎回"的核心概念。
+
+十一奉献在以色列历史上有三种传统（利未记十一、申命记十一、玛拉基书十一），拉比传统区分了"利未人的十一"、"节期的十一"和"贫穷的十一"。"当毁灭之物"（cherem）是圣战律法的核心术语，在约书亚记的迦南征服叙事中多次出现（如艾城的cherem，书7章）。利未记以这章结束，在文学结构上为全书画上了句号，申命记则以更长篇幅的规条和摩西的颂歌遗训作为五经的终结。`,
+    historyContext_en: `Leviticus 27 is regarded in Jewish tradition as an "appendix," as its content (vow redemption and tithes) differs somewhat from the main legal threads of the preceding chapters—though this does not diminish its theological importance. Vowing was a serious religious act in ancient Israel; Numbers 30 and Deuteronomy 23:21-23 both reiterate the binding nature of vows. The system for redeeming vows (adding one-fifth) echoes the Jubilee land redemption system, both reflecting the core concept of "redemption" in Israel's covenantal economics.
+
+Tithing in Israel's history has three traditions (Leviticus, Deuteronomy, Malachi), and rabbinic tradition distinguishes the "tithe for the Levites," the "festival tithe," and the "poor's tithe." The "devoted thing" (cherem) is a core term in holy war law, appearing repeatedly in Joshua's conquest narratives (e.g., the cherem of Ai, Joshua 7). Leviticus concludes with this chapter, placing a literary period at the end of the entire book; Deuteronomy brings the Pentateuch to its close with more extensive regulations and Moses's farewell songs.`,
+    structure_zh: `利未记27章可分为四大部分：人和牲畜的许愿估价与赎回（1-13节）、房屋和田地的许愿与赎回（14-25节）、不可许愿的原是耶和华之物及当毁灭之物（26-29节）、十一奉献条例（30-34节）。全章以"这些是耶和华在西奈山为以色列人所吩咐摩西的诫命"结束，是整个利未记的终结语。`,
+    structure_en: `Leviticus 27 can be divided into four main sections: vow valuations and redemption of persons and animals (vv. 1-13); vows and redemption of houses and fields (vv. 14-25); things belonging to the LORD that cannot be vowed and devoted things (vv. 26-29); and the tithe ordinance (vv. 30-34). The entire chapter concludes with "These are the commandments that the LORD commanded Moses for the people of Israel on Mount Sinai"—the concluding words of the entire book of Leviticus.`,
+    theology_zh: `改革宗神学从利未记27章看到奉献神学的两个维度：许愿（自愿性的特别承诺）和十一奉献（常规的感恩回应）。加尔文在《基督教要义》中论十一奉献时指出，旧约的十分之一是礼仪律法的具体实施，新约的奉献原则是"各人要随本心所酌定的，不要作难，不要勉强，因为捐得乐意的人是神所喜爱的"（哥林多后书9:7），但这不是说新约不要求奉献，而是奉献的动机从律法的强制转向福音的感恩。
+
+"加五分之一赎回"的原则在神学上具有教育意义：人的承诺软弱易变，但这软弱是有代价的，这提醒我们以色列人的问题——他们在西奈山许下诺言，却一再违背，最终在历史中付出了流亡的代价。奉献的根本神学是：一切属于神（诗篇24:1），我们所能做的不过是归还和感谢，真正的奉献是将自己完全归给祂（罗马书12:1）。`,
+    theology_en: `Reformed theology sees in Leviticus 27 two dimensions of a theology of giving: vows (voluntary special commitments) and tithes (regular responses of thanksgiving). Calvin, in the Institutes, notes that the Old Testament tithe is a specific implementation of ceremonial law; the New Testament principle of giving is "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver" (2 Corinthians 9:7). This does not mean the New Testament does not require giving, but that the motivation for giving shifts from the compulsion of the law to the gratitude of the gospel.
+
+The "add one-fifth for redemption" principle has pedagogical theological significance: human commitments are weak and changeable, but this weakness comes at a cost—reminding us of Israel's problem. They made promises at Mount Sinai but repeatedly broke them, ultimately paying the cost of exile in history. The fundamental theology of giving is: everything belongs to God (Psalm 24:1); what we can do is merely to return and give thanks. True giving is presenting oneself completely to God (Romans 12:1).`,
+    christShadow_zh: `许愿条例中的"加五分之一赎回"在基督论上有其对应：我们无法以自身的代价赎回对神的亏欠，但基督以祂宝贵的血为我们作了完全的赎价（彼得前书1:18-19）。"头生的原是耶和华的，不可许愿"预表基督——祂是"从死里复活、首先出生的"（哥罗西书1:18），是神的"独生爱子"，这位头生者的奉献不是人许愿给神，而是神将祂赐给世人（约翰福音3:16）。
+
+"当毁灭之物"在新约中有一个惊人的对应：基督被"以罪为供物"（罗马书8:3），被视为咒诅（加拉太书3:13），成为那"当毁灭的"承担者，使我们不致被毁灭。十一奉献在哥林多后书9章中得到超越性的升华："各人要照自己心里所酌定的捐输，不要作难，不要勉强，因为乐意捐的人，是神所喜爱的。神能将各样的恩惠多多地加给你们，使你们凡事常常充足，能多行各样善事"——奉献的根基不是律法，而是基督之爱的激励，在祂无限的施给之前，我们的十一奉献不过是微小的回应与感谢。`,
+    christShadow_en: `The "redeem with one-fifth added" regulation of the vow ordinance has its Christological counterpart: we cannot redeem our debt to God at our own cost, but Christ redeemed us completely with His precious blood (1 Peter 1:18-19). "The firstborn belongs to the LORD and cannot be vowed" foreshadows Christ—He is "the firstborn from the dead" (Colossians 1:18), God's "only begotten and beloved Son." This firstborn's dedication was not a human vow to God, but God giving Him to the world (John 3:16).
+
+The "devoted thing" has a striking New Testament correspondence: Christ was made "to be sin" (Romans 8:3), became a curse (Galatians 3:13), bearing the burden of the "devoted to destruction" so that we would not be destroyed. The tithe finds its transcendent elevation in 2 Corinthians 9: "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver. And God is able to make all grace abound to you, so that having all sufficiency in all things at all times, you may abound in every good work." The foundation of giving is not the law but the motivation of Christ's love; in the face of His unlimited giving, our tithes are merely a small response and thanksgiving.`,
+  },
 ];
