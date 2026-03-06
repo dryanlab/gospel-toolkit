@@ -7,6 +7,7 @@ export function isPreview(): boolean {
 // For initial SSR/hydration: always return true to avoid mismatch
 // Components should use useIsPublished() hook for date-gated rendering
 export function isPublished(dateStr: string): boolean {
+  if (!dateStr) return false;
   if (typeof window === 'undefined') return false;
   if (isPreview()) return true;
   // Compare in EST (UTC-5) to avoid timezone issues
