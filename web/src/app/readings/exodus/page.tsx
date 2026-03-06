@@ -1,6 +1,9 @@
-import ReadingClient from '@/components/ReadingClient';
+import { Suspense } from 'react';
+import { readings } from '@/data/readings';
+import ReadingClient, { type BookConfig } from '@/components/ReadingClient';
+import type { Metadata } from 'next';
 
-const exodusConfig = {
+const exodusConfig: BookConfig = {
   bookId: 'exodus',
   bookZh: '出埃及记',
   bookEn: 'Exodus',
@@ -16,12 +19,14 @@ const exodusConfig = {
 };
 
 export default function ExodusReadingsPage() {
-  return <ReadingClient config={exodusConfig} />;
+  const chapters = readings.filter(r => r.book === "出埃及记");
+  return (
+    <Suspense fallback={<div className="max-w-3xl mx-auto px-4 py-8 text-center">加载中...</div>}>
+      <ReadingClient config={exodusConfig} chapters={chapters} />
+    </Suspense>
+  );
 }
 
-export function generateStaticParams() {
-  return [];
-}
 
 export const metadata = {
   title: '出埃及记伴读 | Exodus Companion Reading',

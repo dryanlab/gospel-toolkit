@@ -1,5 +1,5 @@
 import ReadingClient from '@/components/ReadingClient'
-import { readingsData } from '@/data/readings'
+import { readings } from '@/data/readings'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
@@ -23,6 +23,6 @@ const config = {
 }
 
 export default function DeuteronomyReadingPage() {
-  const chapters = readingsData.filter(r => r.book === '申命记')
+  const chapters = readings.filter(r => r.book === '申命记')
   return <ReadingClient config={config} chapters={chapters} />
 }

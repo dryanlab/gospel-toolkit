@@ -1,6 +1,9 @@
-import ReadingClient from '@/components/ReadingClient';
+import { Suspense } from 'react';
+import { readings } from '@/data/readings';
+import ReadingClient, { type BookConfig } from '@/components/ReadingClient';
+import type { Metadata } from 'next';
 
-const leviticusConfig = {
+const leviticusConfig: BookConfig = {
   bookId: 'leviticus',
   bookZh: '利未记',
   bookEn: 'Leviticus',
@@ -16,12 +19,14 @@ const leviticusConfig = {
 };
 
 export default function LeviticusReadingsPage() {
-  return <ReadingClient config={leviticusConfig} />;
+  const chapters = readings.filter(r => r.book === "利未记");
+  return (
+    <Suspense fallback={<div className="max-w-3xl mx-auto px-4 py-8 text-center">加载中...</div>}>
+      <ReadingClient config={leviticusConfig} chapters={chapters} />
+    </Suspense>
+  );
 }
 
-export function generateStaticParams() {
-  return [];
-}
 
 export const metadata = {
   title: '利未记伴读 | Leviticus Companion Reading',

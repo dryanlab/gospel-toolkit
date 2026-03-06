@@ -1,6 +1,9 @@
-import ReadingClient from '@/components/ReadingClient';
+import { Suspense } from 'react';
+import { readings } from '@/data/readings';
+import ReadingClient, { type BookConfig } from '@/components/ReadingClient';
+import type { Metadata } from 'next';
 
-const johnConfig = {
+const johnConfig: BookConfig = {
   bookId: 'john',
   bookZh: '约翰福音',
   bookEn: 'John',
@@ -16,12 +19,14 @@ const johnConfig = {
 };
 
 export default function JohnReadingsPage() {
-  return <ReadingClient config={johnConfig} />;
+  const chapters = readings.filter(r => r.book === "约翰福音");
+  return (
+    <Suspense fallback={<div className="max-w-3xl mx-auto px-4 py-8 text-center">加载中...</div>}>
+      <ReadingClient config={johnConfig} chapters={chapters} />
+    </Suspense>
+  );
 }
 
-export function generateStaticParams() {
-  return [];
-}
 
 export const metadata = {
   title: '约翰福音伴读 | Gospel of John Companion Reading',
