@@ -241,7 +241,13 @@ export default function ReadingsPage() {
           structure_zh: '', structure_en: '', theology_zh: '', theology_en: '',
           christShadow_zh: '', christShadow_en: '',
         }));
-        setReadings(mapped);
+        // Merge: API data overrides static, but keep static entries not in API
+        const apiKeys = new Set(mapped.map((r: any) => `${r.bookEn}-${r.chapter}`));
+        const merged = [
+          ...mapped,
+          ...staticReadings.filter(r => !apiKeys.has(`${r.bookEn}-${r.chapter}`)),
+        ];
+        setReadings(merged);
       }
     });
   }, []);
