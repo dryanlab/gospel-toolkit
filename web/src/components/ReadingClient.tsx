@@ -7,7 +7,7 @@ import type { ReadingChapter } from '@/data/readings';
 import SpeakButton from '@/components/SpeakButton';
 import LikeButton from '@/components/LikeButton';
 import ShareBar from '@/components/ShareBar';
-import { isPublished, useHydrated } from '@/lib/preview';
+import { isPublished, isPreview, useHydrated } from '@/lib/preview';
 import { fetchReading, fetchReadingsList } from '@/lib/api';
 
 // --- Book config ---
@@ -246,6 +246,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
   }
 
   // --- Book overview ---
+  const isPreviewMode = isPreview();
   const published = chapters.filter(c => isPublished(c.publishDate)).length;
   return (
     <div className="max-w-3xl mx-auto px-4 py-8">
@@ -299,7 +300,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
                 <p className="text-xs text-[var(--color-text-secondary)] italic">{bookEn} {ch.chapter} · {ch.titleEn}</p>
               </div>
             </button>
-          ) : (
+          ) : isPreviewMode ? (
             <div key={ch.chapter} className="flex items-center gap-4 p-4 rounded-xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] opacity-50">
               <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[var(--color-bg)] flex items-center justify-center">
                 <span className="text-[var(--color-text-secondary)] text-sm">🔒</span>
@@ -309,10 +310,10 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
                 <p className="text-xs text-[var(--color-text-secondary)] italic">{ch.publishDate} 发布 · Coming {ch.publishDate}</p>
               </div>
             </div>
-          );
+          ) : null;
         })}
 
-        {!isTopicBased && Array.from({ length: 3 }, (_, i) => chapters.length + i + 1).filter(n => n <= totalChapters).map(n => (
+        {isPreviewMode && !isTopicBased && Array.from({ length: 3 }, (_, i) => chapters.length + i + 1).filter(n => n <= totalChapters).map(n => (
           <div key={n} className="flex items-center gap-4 p-4 rounded-xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] opacity-50">
             <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[var(--color-bg)] flex items-center justify-center">
               <span className="text-[var(--color-text-secondary)] text-sm">🔒</span>
