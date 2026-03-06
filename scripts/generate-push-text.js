@@ -23,9 +23,25 @@ function generateReading() {
     if (!pd || pd[1] !== today) continue;
     
     const ch = b.match(/chapter:\s*(\d+)/)?.[1];
+    const book = b.match(/book:\s*'([^']+)'/)?.[1] || '创世记';
+    const bookEn = b.match(/bookEn:\s*'([^']+)'/)?.[1] || 'Genesis';
     const title = b.match(/title:\s*'([^']+)'/)?.[1];
     const titleEn = b.match(/titleEn:\s*'([^']+)'/)?.[1];
     const scripture = b.match(/scripture:\s*'([^']+)'/)?.[1];
+    
+    // Map book to URL path
+    const bookPathMap = {
+      '创世记': 'genesis', '出埃及记': 'exodus', '利未记': 'leviticus',
+      '民数记': 'numbers', '申命记': 'deuteronomy',
+      '约翰福音': 'john', '使徒行传': 'acts', '罗马书': 'romans',
+      '诗篇': 'psalms', '箴言': 'proverbs',
+    };
+    const bookPath = bookPathMap[book] || book.toLowerCase();
+    
+    // Detect psalm/proverb for different emoji and formatting
+    const isPsalm = book === '诗篇';
+    const isProverb = book === '箴言';
+    const isSundayReading = isPsalm || isProverb;
     
     // Teaser: first 2 meaningful sentences
     const cm = b.match(/content_zh:\s*`([\s\S]{0,800})/);
@@ -70,16 +86,30 @@ function generateReading() {
       '安息日的平安，愿全家在主里得安息。',
     ];
     
-    let msg = `📖 <b>圣徒伴读 · Daily Reading</b>\n\n`;
-    msg += `📕 <b>创世记 第${ch}章 · ${title}</b>\n`;
-    msg += `<i>Genesis ${ch} · ${titleEn}</i>\n\n`;
-    if (teaser) msg += `💡 ${teaser}\n\n`;
-    if (keyVerse) msg += `📜 <i>${keyVerse}</i>\n\n`;
-    msg += `✨ ${greetings[dow]}\n\n`;
-    msg += `🔗 <a href="https://rockoftruth.net/readings/genesis?ch=${ch}">阅读全文 Read more →</a>\n\n`;
+    let msg = '';
+    if (isSundayReading) {
+      const emoji = isPsalm ? '🎵' : '📜';
+      const header = isPsalm ? '主日诗篇 · Sunday Psalm' : '主日箴言 · Sunday Proverb';
+      const chLabel = isPsalm ? `诗篇 第${ch}篇` : `箴言 第${ch}章`;
+      const chLabelEn = isPsalm ? `Psalm ${ch}` : `Proverbs ${ch}`;
+      msg = `${emoji} <b>${header}</b>\n\n`;
+      msg += `📕 <b>${chLabel} · ${title}</b>\n`;
+      msg += `<i>${chLabelEn} · ${titleEn}</i>\n\n`;
+      if (teaser) msg += `💡 ${teaser}\n\n`;
+      if (keyVerse) msg += `📜 <i>${keyVerse}</i>\n\n`;
+      msg += `✨ 主日平安！愿今天的灵修预备你的心。\n\n`;
+    } else {
+      msg = `📖 <b>圣徒伴读 · Daily Reading</b>\n\n`;
+      msg += `📕 <b>${book} 第${ch}章 · ${title}</b>\n`;
+      msg += `<i>${bookEn} ${ch} · ${titleEn}</i>\n\n`;
+      if (teaser) msg += `💡 ${teaser}\n\n`;
+      if (keyVerse) msg += `📜 <i>${keyVerse}</i>\n\n`;
+      msg += `✨ ${greetings[dow]}\n\n`;
+    }
+    msg += `🔗 <a href="https://rockoftruth.net/readings/${bookPath}?ch=${ch}">阅读全文 Read more →</a>\n\n`;
     msg += `—— 真理磐石 Rock of Truth`;
     
-    const url = `https://rockoftruth.net/readings/genesis?ch=${ch}`;
+    const url = `https://rockoftruth.net/readings/${bookPath}?ch=${ch}`;
     console.log(JSON.stringify({text: msg, url}));
     return;
   }
@@ -173,7 +203,7 @@ function generateAltar() {
   let msg = `🕯️ <b>家庭祭坛 · Family Altar</b>\n\n`;
   msg += `📅 ${today}\n\n`;
   msg += `🎯 本期主题：<b>${theme.zh}</b> · <i>${theme.en}</i>\n`;
-  msg += `📆 第 ${dayInTheme}/15 天\n\n`;
+  msg += `📆 第${dayInTheme}天（共15天）\n\n`;
   msg += `${greetings[dow]}\n\n`;
   msg += `📖 经文 · 💭 默想 · ❓ 讨论 · 🙏 祷告 · 🎵 诗歌 · 📗 要理问答\n\n`;
   msg += `🔗 <a href="https://rockoftruth.net/family-altar">开始今日灵修 →</a>\n\n`;

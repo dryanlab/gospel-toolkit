@@ -135,19 +135,31 @@ const NT_CATEGORIES = [
   },
 ];
 
-// 已有内容或即将推出的书卷
-const ACTIVE_BOOKS = new Set(['genesis', 'psalms', 'proverbs', 'john', 'exodus', 'acts', 'leviticus', 'romans']);
-const COMING_SOON = new Set(['exodus', 'leviticus']);
-
 type BookDef = { id: string; name: string; nameEn: string; icon: string; total: number };
 
+// 书卷状态: 'active'=正在发表(有已发布章节), 'coming'=即将推出(有内容但未发布), 'empty'=无内容
+function getBookStatus(book: BookDef, readings: ReadingChapter[]): { status: 'active' | 'coming' | 'empty'; published: number; totalWritten: number; firstDate: string | null } {
+  const bookReadings = readings.filter(r => r.bookEn.toLowerCase() === book.id);
+  const totalWritten = bookReadings.length;
+  if (totalWritten === 0) return { status: 'empty', published: 0, totalWritten: 0, firstDate: null };
+  const published = bookReadings.filter(r => isPublished(r.publishDate)).length;
+  const dates = bookReadings.map(r => r.publishDate).filter(Boolean).sort();
+  if (published > 0) return { status: 'active', published, totalWritten, firstDate: dates[0] || null };
+  return { status: 'coming', published: 0, totalWritten, firstDate: dates[0] || null };
+}
+
+function formatDate(dateStr: string | null): string {
+  if (!dateStr) return '';
+  const d = new Date(dateStr + 'T12:00:00');
+  return `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`;
+}
+
 function BookCard({ book, readings }: { book: BookDef; readings: ReadingChapter[] }) {
-  const isActive = ACTIVE_BOOKS.has(book.id);
-  const isComingSoon = COMING_SOON.has(book.id);
-  const published = readings.filter(r => r.bookEn.toLowerCase() === book.id && isPublished(r.publishDate)).length;
+  const { status, published, totalWritten, firstDate } = getBookStatus(book, readings);
   const pct = book.total > 0 ? Math.round((published / book.total) * 100) : 0;
 
-  if (isActive) {
+  // 状态1: 正在发表 — 可点击，显示进度条
+  if (status === 'active') {
     return (
       <Link
         href={`/readings/${book.id}`}
@@ -159,7 +171,7 @@ function BookCard({ book, readings }: { book: BookDef; readings: ReadingChapter[
           <p className="text-xs text-[var(--color-text-secondary)] italic">{book.nameEn}</p>
           <div className="mt-1 flex items-center gap-2">
             <div className="flex-1 h-1.5 bg-[var(--color-bg)] rounded-full overflow-hidden">
-              <div className="h-full bg-[var(--color-accent)] rounded-full" style={{ width: `${Math.max(pct, 2)}%` }} />
+              <div className="h-full bg-[var(--color-accent)] rounded-full transition-all" style={{ width: `${Math.max(pct, 2)}%` }} />
             </div>
             <span className="text-xs text-[var(--color-accent)] font-bold whitespace-nowrap">{published}/{book.total}</span>
           </div>
@@ -168,15 +180,29 @@ function BookCard({ book, readings }: { book: BookDef; readings: ReadingChapter[
     );
   }
 
+  // 状态2: 即将推出 — 灰色不可点，显示预计开始日期
+  if (status === 'coming') {
+    return (
+      <div className="flex items-center gap-3 p-3 rounded-xl border border-dashed border-[var(--color-accent)]/40 bg-[var(--color-bg-secondary)] opacity-70">
+        <span className="text-2xl grayscale opacity-60">{book.icon}</span>
+        <div className="flex-1 min-w-0">
+          <h4 className="font-serif-cn font-bold text-sm text-[var(--color-text-secondary)]">{book.name}</h4>
+          <p className="text-xs text-[var(--color-text-secondary)] italic">{book.nameEn}</p>
+          <p className="text-xs text-[var(--color-accent)] mt-0.5">
+            🔜 即将推出 · {firstDate ? formatDate(firstDate) + '起' : 'Coming Soon'}
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  // 状态3: 无内容 — 灰色不可点
   return (
-    <div className={`flex items-center gap-3 p-3 rounded-xl border ${isComingSoon ? 'border-dashed border-[var(--color-accent)]/40' : 'border-[var(--color-border)]'} bg-[var(--color-bg-secondary)] ${isComingSoon ? 'opacity-70' : 'opacity-40'}`}>
+    <div className="flex items-center gap-3 p-3 rounded-xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] opacity-40">
       <span className="text-2xl grayscale">{book.icon}</span>
       <div className="flex-1 min-w-0">
         <h4 className="font-serif-cn font-bold text-sm text-[var(--color-text-secondary)]">{book.name}</h4>
         <p className="text-xs text-[var(--color-text-secondary)] italic">{book.nameEn}</p>
-        {isComingSoon && (
-          <p className="text-xs text-[var(--color-accent)] mt-0.5">🔜 即将推出 Coming Soon</p>
-        )}
       </div>
     </div>
   );
