@@ -59,8 +59,33 @@ function renderMd(md: string) {
     let html = line;
     html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
     html = html.replace(/\*(.+?)\*/g, '<em class="text-[var(--color-accent)]">$1</em>');
-    if (line.startsWith('- ')) {
-      return <li key={i} className="text-[15px] text-[var(--color-text)] leading-[1.8] ml-4 list-disc" dangerouslySetInnerHTML={{ __html: html.slice(2) }} />;
+    const trimmed = line.trim();
+    // Headings
+    if (trimmed.startsWith('### ')) {
+      return <h3 key={i} className="font-serif-cn text-base font-bold text-[var(--color-text)] mt-6 mb-3" dangerouslySetInnerHTML={{ __html: html.replace(/^###\s+/, '') }} />;
+    }
+    if (trimmed.startsWith('## ')) {
+      return <h2 key={i} className="font-serif-cn text-lg font-bold text-[var(--color-text)] mt-8 mb-4" dangerouslySetInnerHTML={{ __html: html.replace(/^##\s+/, '') }} />;
+    }
+    if (trimmed.startsWith('# ')) {
+      return <h1 key={i} className="font-serif-cn text-xl font-bold text-[var(--color-text)] mt-8 mb-4" dangerouslySetInnerHTML={{ __html: html.replace(/^#\s+/, '') }} />;
+    }
+    // Blockquote
+    if (trimmed.startsWith('> ')) {
+      return <blockquote key={i} className="border-l-4 border-[var(--color-accent)] bg-[var(--color-bg-secondary)] pl-4 pr-3 py-2 my-3 text-[15px] text-[var(--color-text)] italic leading-[1.8] rounded-r-lg" dangerouslySetInnerHTML={{ __html: html.replace(/^>\s+/, '') }} />;
+    }
+    // Ordered list
+    const olMatch = trimmed.match(/^(\d+)\.\s+(.*)$/);
+    if (olMatch) {
+      return <li key={i} className="text-[15px] text-[var(--color-text)] leading-[1.8] ml-4 list-decimal" dangerouslySetInnerHTML={{ __html: html.replace(/^\d+\.\s+/, '') }} />;
+    }
+    // Unordered list
+    if (trimmed.startsWith('- ')) {
+      return <li key={i} className="text-[15px] text-[var(--color-text)] leading-[1.8] ml-4 list-disc" dangerouslySetInnerHTML={{ __html: html.replace(/^-\s+/, '') }} />;
+    }
+    // Horizontal rule
+    if (trimmed === '---' || trimmed === '***') {
+      return <hr key={i} className="my-6 border-[var(--color-border)]" />;
     }
     return <p key={i} className="text-[15px] text-[var(--color-text)] leading-[1.8] mb-4" dangerouslySetInnerHTML={{ __html: html }} />;
   });
@@ -189,6 +214,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
           </Link>
         </div>
 
+        {/* Chinese content + Chinese key points */}
         <div className="mb-8">
           <div className="flex items-center justify-end mb-4">
             <SpeakButton text={zhText} lang="zh" />
@@ -196,38 +222,59 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
           <div>{renderMd(ch.content_zh)}</div>
         </div>
 
-        {/* 导读要点 — placed between Chinese and English content for better discoverability */}
         <div className="space-y-4 pt-8 border-t border-[var(--color-border)]">
-          <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)]">🔍 导读要点 Key Points</h2>
-          <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
-            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">📍 历史背景 Historical Context</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed mb-2" dangerouslySetInnerHTML={{ __html: inlineMd(ch.historyContext_zh) }}></p>
-            <p className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.historyContext_en) }}></p>
+          <div className="flex items-center justify-between">
+            <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)]">🔍 导读要点</h2>
+            <SpeakButton text={`导读要点。历史背景：${ch.historyContext_zh}。经文结构：${ch.structure_zh}。神学意涵：${ch.theology_zh}。基督的影子：${ch.christShadow_zh}`} lang="zh" />
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
-            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">🔍 经文结构 Structure</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed mb-2" dangerouslySetInnerHTML={{ __html: inlineMd(ch.structure_zh) }}></p>
-            <p className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.structure_en) }}></p>
+            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">📍 历史背景</h3>
+            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.historyContext_zh) }}></p>
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
-            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">⛪ 神学意涵 Theological Significance</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed mb-2" dangerouslySetInnerHTML={{ __html: inlineMd(ch.theology_zh) }}></p>
-            <p className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.theology_en) }}></p>
+            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">🔍 经文结构</h3>
+            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.structure_zh) }}></p>
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
-            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">✝️ 基督的影子 Shadow of Christ</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed mb-2" dangerouslySetInnerHTML={{ __html: inlineMd(ch.christShadow_zh) }}></p>
-            <p className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.christShadow_en) }}></p>
+            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">⛪ 神学意涵</h3>
+            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.theology_zh) }}></p>
+          </div>
+          <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
+            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">✝️ 基督的影子</h3>
+            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.christShadow_zh) }}></p>
           </div>
         </div>
 
-        {/* English content — after key points */}
+        {/* English content + English key points */}
         <div className="mb-8 pt-8 border-t border-[var(--color-border)]">
           <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">📖 English Reading</h2>
           <div className="flex items-center justify-end mb-4">
             <SpeakButton text={enText} lang="en" />
           </div>
           <div>{renderMd(ch.content_en)}</div>
+        </div>
+
+        <div className="space-y-4 pt-8 border-t border-[var(--color-border)]">
+          <div className="flex items-center justify-between">
+            <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)]">🔍 Key Points</h2>
+            <SpeakButton text={`Key Points. Historical Context: ${ch.historyContext_en}. Structure: ${ch.structure_en}. Theological Significance: ${ch.theology_en}. Shadow of Christ: ${ch.christShadow_en}`} lang="en" />
+          </div>
+          <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
+            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">📍 Historical Context</h3>
+            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.historyContext_en) }}></p>
+          </div>
+          <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
+            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">🔍 Structure</h3>
+            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.structure_en) }}></p>
+          </div>
+          <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
+            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">⛪ Theological Significance</h3>
+            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.theology_en) }}></p>
+          </div>
+          <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
+            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">✝️ Shadow of Christ</h3>
+            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.christShadow_en) }}></p>
+          </div>
         </div>
 
         <div className="mt-8 flex items-center justify-center gap-4 flex-wrap">

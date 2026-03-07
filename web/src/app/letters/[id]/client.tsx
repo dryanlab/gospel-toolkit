@@ -46,6 +46,8 @@ function renderMarkdown(md: string) {
       elements.push(
         <blockquote key={key++} className="border-l-4 border-[var(--color-accent)]/40 bg-[var(--color-accent)]/5 pl-4 pr-3 py-3 my-4 rounded-r-lg text-[15px] text-[var(--color-text-secondary)] italic leading-[1.8]" dangerouslySetInnerHTML={{ __html: html }} />
       );
+    } else if (line.trim() === '---' || line.trim() === '***') {
+      elements.push(<hr key={key++} className="my-8 border-[var(--color-border)]" />);
     } else if (line.trim() === '') {
       // skip empty lines (spacing handled by margins)
     } else {
