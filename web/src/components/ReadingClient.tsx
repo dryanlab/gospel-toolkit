@@ -72,7 +72,7 @@ function renderMd(md: string) {
     }
     // Blockquote
     if (trimmed.startsWith('> ')) {
-      return <blockquote key={i} className="border-l-4 border-[var(--color-accent)] bg-[var(--color-bg-secondary)] pl-4 pr-3 py-2 my-3 text-[15px] text-[var(--color-text)] italic leading-[1.8] rounded-r-lg" dangerouslySetInnerHTML={{ __html: html.replace(/^>\s+/, '') }} />;
+      return <blockquote key={i} className="border-l-4 border-[var(--color-accent)] bg-[var(--color-bg-secondary)] pl-4 pr-3 py-2 my-3 text-[15px] text-[var(--color-text)] italic font-bold leading-[1.8] rounded-r-lg" dangerouslySetInnerHTML={{ __html: html.replace(/^>\s+/, '') }} />;
     }
     // Ordered list
     const olMatch = trimmed.match(/^(\d+)\.\s+(.*)$/);
