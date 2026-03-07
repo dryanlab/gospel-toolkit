@@ -139,6 +139,30 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
   if (ch && isChPublished) {
     const zhText = ch.content_zh.replace(/[#*]/g, '');
     const enText = ch.content_en.replace(/[#*]/g, '');
+
+    // Compute prev/next once for reuse at top and bottom
+    const sortedPublished = chapters.filter(c => isPublished(c.publishDate)).sort((a,b) => a.chapter - b.chapter);
+    const currentIdx = sortedPublished.findIndex(c => c.chapter === ch.chapter);
+    const prev = currentIdx > 0 ? sortedPublished[currentIdx - 1] : null;
+    const next = currentIdx < sortedPublished.length - 1 ? sortedPublished[currentIdx + 1] : null;
+
+    const NavButtons = () => (
+      <div className="flex justify-between gap-4">
+        {prev ? (
+          <button onClick={() => setSelected(prev.chapter)} className="flex-1 p-4 rounded-xl border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all text-left">
+            <p className="text-xs text-[var(--color-text-secondary)]">← 上一{unitZh}</p>
+            <p className="text-sm font-bold text-[var(--color-text)] mt-1">第{prev.chapter}{unitZh} · {prev.title}</p>
+          </button>
+        ) : <div className="flex-1" />}
+        {next ? (
+          <button onClick={() => setSelected(next.chapter)} className="flex-1 p-4 rounded-xl border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all text-right">
+            <p className="text-xs text-[var(--color-text-secondary)]">下一{unitZh} →</p>
+            <p className="text-sm font-bold text-[var(--color-text)] mt-1">第{next.chapter}{unitZh} · {next.title}</p>
+          </button>
+        ) : <div className="flex-1" />}
+      </div>
+    );
+
     return (
       <div className="max-w-3xl mx-auto px-4 py-8">
         <button onClick={() => setSelected(null)} className="text-sm text-[var(--color-accent)] hover:underline mb-6 inline-block">
@@ -151,6 +175,11 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
           </h1>
           <p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{bookEn} {ch.chapter} · {ch.titleEn}</p>
           <p className="text-sm text-[var(--color-text-secondary)] mt-2">✍️ {ch.author}伴读 · Read with {ch.authorEn}</p>
+        </div>
+
+        {/* Top navigation */}
+        <div className="mb-6">
+          <NavButtons />
         </div>
 
         <div className="rounded-xl border-l-4 border-[var(--color-accent)] bg-[var(--color-bg-secondary)] p-4 mb-8">
@@ -167,13 +196,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
           <div>{renderMd(ch.content_zh)}</div>
         </div>
 
-        <div className="mb-8 pt-8 border-t border-[var(--color-border)]">
-          <div className="flex items-center justify-end mb-4">
-            <SpeakButton text={enText} lang="en" />
-          </div>
-          <div>{renderMd(ch.content_en)}</div>
-        </div>
-
+        {/* 导读要点 — placed between Chinese and English content for better discoverability */}
         <div className="space-y-4 pt-8 border-t border-[var(--color-border)]">
           <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)]">🔍 导读要点 Key Points</h2>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
@@ -198,6 +221,15 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
           </div>
         </div>
 
+        {/* English content — after key points */}
+        <div className="mb-8 pt-8 border-t border-[var(--color-border)]">
+          <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">📖 English Reading</h2>
+          <div className="flex items-center justify-end mb-4">
+            <SpeakButton text={enText} lang="en" />
+          </div>
+          <div>{renderMd(ch.content_en)}</div>
+        </div>
+
         <div className="mt-8 flex items-center justify-center gap-4 flex-wrap">
           {chRead ? (
             <div className="inline-flex items-center gap-2 text-green-600 dark:text-green-400 font-bold">
@@ -219,27 +251,9 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
             scripture={ch.scripture} emoji="📖" cardStyle="reading" author={ch.author} />
         </div>
 
-        <div className="flex justify-between gap-4 mt-8">
-          {(() => {
-            const sortedPublished = chapters.filter(c => isPublished(c.publishDate)).sort((a,b) => a.chapter - b.chapter);
-            const currentIdx = sortedPublished.findIndex(c => c.chapter === ch.chapter);
-            const prev = currentIdx > 0 ? sortedPublished[currentIdx - 1] : null;
-            const next = currentIdx < sortedPublished.length - 1 ? sortedPublished[currentIdx + 1] : null;
-            return (<>
-              {prev ? (
-                <button onClick={() => setSelected(prev.chapter)} className="flex-1 p-4 rounded-xl border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all text-left">
-                  <p className="text-xs text-[var(--color-text-secondary)]">← 上一{unitZh}</p>
-                  <p className="text-sm font-bold text-[var(--color-text)] mt-1">第{prev.chapter}{unitZh} · {prev.title}</p>
-                </button>
-              ) : <div className="flex-1" />}
-              {next ? (
-                <button onClick={() => setSelected(next.chapter)} className="flex-1 p-4 rounded-xl border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-all text-right">
-                  <p className="text-xs text-[var(--color-text-secondary)]">下一{unitZh} →</p>
-                  <p className="text-sm font-bold text-[var(--color-text)] mt-1">第{next.chapter}{unitZh} · {next.title}</p>
-                </button>
-              ) : <div className="flex-1" />}
-            </>);
-          })()}
+        {/* Bottom navigation */}
+        <div className="mt-8">
+          <NavButtons />
         </div>
       </div>
     );
