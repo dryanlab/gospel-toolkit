@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import DailyCatechism from '@/components/DailyCatechism';
 import SubscribeBar from '@/components/SubscribeBar';
+import TodayUpdate from '@/components/TodayUpdate';
 
 const modules = [
   {
@@ -55,7 +56,7 @@ const modules = [
     href: '/worship',
     title: '敬拜诗歌',
     subtitle: 'Worship',
-    desc: '418首中英文敬拜诗歌，在歌声中亲近神',
+    desc: '427首中英文敬拜诗歌，在歌声中亲近神',
     color: 'from-rose-600 to-pink-700',
     icon: '🎵',
   },
@@ -88,6 +89,21 @@ export default function HomePage() {
           You will know the truth, and the truth will set you free. — John 8:32
         </p>
       </div>
+
+      {/* Bible Quick Access */}
+      <Link href="/bible" className="block group mb-4">
+        <div className="rounded-2xl bg-gradient-to-r from-amber-600 via-orange-500 to-amber-500 dark:from-amber-700 dark:via-orange-600 dark:to-amber-600 px-6 min-h-[88px] py-4 flex items-center gap-4 transition-all hover:shadow-lg hover:-translate-y-0.5 shadow-md">
+          <span className="text-4xl shrink-0">📖</span>
+          <div className="flex-1 min-w-0">
+            <h3 className="font-serif-cn text-xl font-bold text-white">圣经 / Holy Bible</h3>
+            <p className="text-white/80 text-sm">和合本 · King James Version — 66卷 1189章</p>
+          </div>
+          <span className="text-white/90 text-2xl shrink-0 group-hover:translate-x-1 transition-transform">→</span>
+        </div>
+      </Link>
+
+      {/* Today's Update */}
+      <TodayUpdate />
 
       {/* Featured CTAs */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">

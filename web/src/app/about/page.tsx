@@ -81,7 +81,7 @@ export default function AboutPage() {
 
             <div>
               <h3 className="font-bold text-base">11. 🎵 敬拜诗歌</h3>
-              <p className="mt-1">精选<strong>418首</strong>中英文敬拜诗歌，涵盖赞美诗歌、敬拜诗歌、福音诗歌、经典圣诗等类别。内嵌<strong>YouTube播放器</strong>，支持顺序播放、随机播放、单曲循环等多种模式，也支持搜索和分类浏览。可以在灵修、家庭敬拜或个人安静时间中使用。</p>
+              <p className="mt-1">精选<strong>427首</strong>中英文敬拜诗歌，涵盖赞美诗歌、敬拜诗歌、福音诗歌、经典圣诗等类别。内嵌<strong>YouTube播放器</strong>，支持顺序播放、随机播放、单曲循环等多种模式，也支持搜索和分类浏览。可以在灵修、家庭敬拜或个人安静时间中使用。</p>
             </div>
 
             <div>

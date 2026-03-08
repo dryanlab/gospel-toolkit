@@ -1978,8 +1978,8 @@ Your sister, Ruth of Moab
     date: '2026-04-04',
     category: 'testimony',
     scripture: '列王纪上 19:1-18 / 1 Kings 19:1-18',
-    scriptureText_zh: '耶和华说："你出来站在山上，在我面前。"那时耶和华从那里经过，在他面前有烈风大作，崩山碎石，耶和华却不在风中；风后地震，耶和华却不在其中；地震后有火，耶和华也不在火中；火后有微小的声音。',
-    scriptureText_en: 'And he said, "Go out and stand on the mount before the LORD." And behold, the LORD passed by, and a great and strong wind tore the mountains and broke in pieces the rocks before the LORD, but the LORD was not in the wind. And after the wind an earthquake, but the LORD was not in the earthquake. And after the earthquake a fire, but the LORD was not in the fire. And after the fire the sound of a low whisper.',
+    scriptureText_zh: '耶和华说："你出来站在山上，在我面前。"（列王纪上 19:11-12）那时耶和华从那里经过，在他面前有烈风大作，崩山碎石，耶和华却不在风中；风后地震，耶和华却不在其中；地震后有火，耶和华也不在火中；火后有微小的声音。',
+    scriptureText_en: 'And he said, "Go out and stand on the mount before the LORD." And behold, the LORD passed by, and a great and strong wind tore the mountains and broke in pieces the rocks before the LORD, but the LORD was not in the wind. And after the wind an earthquake, but the LORD was not in the earthquake. And after the earthquake a fire, but the LORD was not in the fire. And after the fire the sound of a low whisper. (1 Kings 19:11-12)',
     summary_zh: '以利亚在迦密山大胜之后陷入极度绝望，逃到何烈山的洞中。神没有在烈风、地震、火中，却在微小的声音中向他说话——最刚强的先知也会软弱，但神的恩典在人的软弱上显得完全。',
     summary_en: 'After his great victory on Mount Carmel, Elijah fell into deep despair and fled to a cave on Horeb. God was not in the wind, earthquake, or fire, but in the still small voice—even the strongest prophet can be weak, but God\'s grace is made perfect in weakness.',
     tags: ['信心', '试炼', '复兴', '顺服'],
@@ -1993,11 +1993,11 @@ Your sister, Ruth of Moab
 
 但事实是：耶洗别差人送来一句话。
 
-> 耶洗别就差遣人去见以利亚，告诉他说："明日约在这时候，我若不使你的性命像那些人的性命一样，愿神明重重地降罚与我。"
+> 耶洗别就差遣人去见以利亚，告诉他说："明日约在这时候，我若不使你的性命像那些人的性命一样，愿神明重重地降罚与我。"（列王纪上 19:2）
 
 一句话。一个女人的一句威胁。就在二十四小时前，我曾独自站在迦密山上，面对整个国家的偶像势力毫无惧色。但现在，耶洗别一句话就让我丢盔弃甲、拔腿就跑。
 
-> 以利亚见这光景就起来逃命，到了犹大的别是巴，将仆人留在那里，自己在旷野走了一日的路程，来到一棵罗腾树下，就坐在那里求死，说："耶和华啊，罢了！求你取我的性命，因为我不胜于我的列祖。"
+> 以利亚见这光景就起来逃命，到了犹大的别是巴，将仆人留在那里，自己在旷野走了一日的路程，来到一棵罗腾树下，就坐在那里求死，说："耶和华啊，罢了！求你取我的性命，因为我不胜于我的列祖。"（列王纪上 19:3-4）
 
 "罢了！求你取我的性命。"——弟兄姐妹，你能想象吗？昨天还在呼求天火的先知，今天在罗腾树下求死。这不是虚构的故事——圣经毫不掩饰地记录了神最忠心的仆人最软弱的时刻。
 
@@ -2007,7 +2007,7 @@ Your sister, Ruth of Moab
 
 我在罗腾树下睡着了。然后，奇妙的事发生了。
 
-> 有一个天使拍他，说："起来吃吧！"他观看，见头旁有一瓶水与炭火烧的饼，他就吃了喝了，仍然躺下。耶和华的使者第二次来拍他，说："起来吃吧！因为你当走的路甚远。"
+> 有一个天使拍他，说："起来吃吧！"他观看，见头旁有一瓶水与炭火烧的饼，他就吃了喝了，仍然躺下。耶和华的使者第二次来拍他，说："起来吃吧！因为你当走的路甚远。"（列王纪上 19:5-7）
 
 神没有责备我。没有说"你怎么这么没信心"，没有讲一篇关于信心的道。他差天使来——做什么？**烤饼、倒水。**
 
@@ -2015,11 +2015,11 @@ Your sister, Ruth of Moab
 
 天使来了两次。第一次我吃了又躺下——神没有催促我，让我继续睡。第二次天使说："你当走的路甚远"——神知道前面还有漫长的路要走，他预备了足够的力量。
 
-> 他就起来吃了喝了，仗着这饮食的力，走了四十昼夜，到了神的山，就是何烈山。
+> 他就起来吃了喝了，仗着这饮食的力，走了四十昼夜，到了神的山，就是何烈山。（列王纪上 19:8）
 
 四十昼四十夜——靠着一顿天使的饭。这是何等的供应！正如保罗后来所说：
 
-> 我们有这宝贝放在瓦器里，要显明这莫大的能力是出于神，不是出于我们。
+> 我们有这宝贝放在瓦器里，要显明这莫大的能力是出于神，不是出于我们。（哥林多后书 4:7）
 
 我就是那个瓦器。碎裂的、疲惫的、想要放弃的瓦器。但神的能力在瓦器里运行。
 后来我才明白：神不会浪费我们的软弱。在迦密山上，我见证了神的大能；在罗腾树下，我经历了神的温柔。两样我都需要。若没有罗腾树下的经历，我会以为事奉神全凭刚强；若没有何烈山的功课，我不会知道神在安静中同样做工。
@@ -2028,13 +2028,13 @@ Your sister, Ruth of Moab
 
 我到了何烈山——就是摩西当年见到荆棘火焰的地方，就是神颁布十诫的地方。我进了一个洞，缩在里面。
 
-> 耶和华的话临到他说："以利亚啊，你在这里做什么？"
+> 耶和华的话临到他说："以利亚啊，你在这里做什么？"（列王纪上 19:9）
 
 这个问题直击我的内心。"你在这里做什么？"——你不应该在这里。你是先知，你应该在以色列，应该站在百姓面前。但你却躲在洞里。
 
 我怎么回答的？
 
-> 他说："我为耶和华万军之神大发热心；因为以色列人背弃了你的约，毁坏了你的坛，用刀杀了你的先知，只剩下我一个人，他们还要寻索我的命。"
+> 他说："我为耶和华万军之神大发热心；因为以色列人背弃了你的约，毁坏了你的坛，用刀杀了你的先知，只剩下我一个人，他们还要寻索我的命。"（列王纪上 19:10）
 
 我说"我为耶和华万军之神大发热心"——注意，这是事实。我的热心不假。但热心不等于信心。热心可以让你站在迦密山上面对四百五十个假先知；但热心耗尽之后，你需要的是信心——相信即使在看不见果效的时候，神依然掌权。
 
@@ -2044,7 +2044,7 @@ Your sister, Ruth of Moab
 
 然后，神给了我一生中最重要的功课。
 
-> 耶和华说："你出来站在山上，在我面前。"那时耶和华从那里经过，在他面前有烈风大作，崩山碎石，耶和华却不在风中；风后地震，耶和华却不在其中；地震后有火，耶和华也不在火中；火后有微小的声音。
+> 耶和华说："你出来站在山上，在我面前。"那时耶和华从那里经过，在他面前有烈风大作，崩山碎石，耶和华却不在风中；风后地震，耶和华却不在其中；地震后有火，耶和华也不在火中；火后有微小的声音。（列王纪上 19:11-12）
 
 在迦密山上，我见过神的火从天降下。我习惯了在烈风、地震、火焰中寻找神——因为那是我经历过的。但在何烈山，神要教导我一件新事：**他不总是在风暴中。**
 
@@ -2054,7 +2054,7 @@ Your sister, Ruth of Moab
 
 "微小的声音"——希伯来原文是"寂静中细微的声音"。不是雷霆万钧的宣告，而是安安静静的、几乎听不见的低语。
 
-> 以利亚听见，就用外衣蒙上脸，出来站在洞口。
+> 以利亚听见，就用外衣蒙上脸，出来站在洞口。（列王纪上 19:13）
 
 我听见了。在一切的喧嚣平息之后，在所有戏剧性的显现结束之后，神在最安静的时刻临到我。我用外衣蒙住脸——因为我知道，这就是神。
 
@@ -2063,29 +2063,31 @@ Your sister, Ruth of Moab
 
 诗篇说：
 
-> 我的心哪，你为何忧闷？为何在我里面烦躁？应当仰望神，因他笑脸帮助我；我还要称赞他。
+> 我的心哪，你为何忧闷？为何在我里面烦躁？应当仰望神，因他笑脸帮助我；我还要称赞他。（诗篇 42:5）
 
 ### 五、我留下了七千人（王上19:15-18）
 
 神再次问我同样的问题，我给出了同样的回答——"只剩下我一个人。"但这一次，神直接纠正了我：
 
-> 耶和华对他说："你回去，从旷野往大马士革去。到了那里，就要膏哈薛作亚兰王，又膏宁示的孙子耶户作以色列王，并膏亚伯·米何拉人沙法的儿子以利沙作先知接续你。"
+> 耶和华对他说："你回去，从旷野往大马士革去。到了那里，就要膏哈薛作亚兰王，又膏宁示的孙子耶户作以色列王，并膏亚伯·米何拉人沙法的儿子以利沙作先知接续你。"（列王纪上 19:15-16）
 
 神给了我三个具体的使命。他没有让我继续沉溺在自怜中——他给我工作做。当你陷在绝望中时，最好的药方往往不是更多的思考，而是起来行动。
 
 然后神说了一句彻底粉碎我自怜的话：
 
-> 但我在以色列人中为自己留下七千人，是未曾向巴力屈膝的，未曾与巴力亲嘴的。
+> 但我在以色列人中为自己留下七千人，是未曾向巴力屈膝的，未曾与巴力亲嘴的。（列王纪上 19:18）
 
 **七千人。** 我以为只剩我一个人，神说他保守了七千人。保罗后来在罗马书中引用这段历史：
 
-> 神的回话是怎么说的呢？他说："我为自己留下七千人，是未曾向巴力屈膝的。"
+> 神的回话是怎么说的呢？他说："我为自己留下七千人，是未曾向巴力屈膝的。"（罗马书 11:4）
 
 你不是一个人。你永远不是一个人。当你觉得全世界只有你还在坚持信仰的时候，神在你看不见的地方保守着千万忠心的百姓。教会不是靠你一个人撑着的——教会是基督的身体，他永远不会让自己的教会灭亡。
 
 
 神还做了一件事：他为我预备了以利沙。当我把外衣搭在以利沙身上时，我不再是孤身一人的先知。以利沙跟随我、服侍我，后来承接了我的使命，而且行了比我更多的神迹。这也是神的智慧——事奉不是一个人的独角戏，乃是代代相传的接力赛。
-亲爱的弟兄姐妹，如果你正在属灵的低谷中，请听神对以利亚说的话：先吃饭，先休息，然后在微小的声音中寻找我。你不需要做超人——他的恩典够你用的，因为他的能力是在人的软弱上显得完全。`,
+亲爱的弟兄姐妹，如果你正在属灵的低谷中，请听神对以利亚说的话：先吃饭，先休息，然后在微小的声音中寻找我。你不需要做超人——他的恩典够你用的，因为他的能力是在人的软弱上显得完全。
+
+主的仆人，提斯比人以利亚`,
     content_en: `Dear brothers and sisters, I am Elijah, the Tishbite, a prophet of the LORD.
 
 You may have heard my story on Mount Carmel—facing four hundred and fifty prophets of Baal alone, fire falling from heaven, the people falling on their faces crying "The LORD, he is God!" What a glorious day that was. But today I want to tell you not about the victory on Carmel, but about the collapse that followed.
@@ -2096,11 +2098,11 @@ The fire on Carmel had barely gone out, the people's shouts still echoed in my e
 
 But the reality was: Jezebel sent me a single message.
 
-> Then Jezebel sent a messenger to Elijah, saying, "So may the gods do to me and more also, if I do not make your life as the life of one of them by this time tomorrow."
+> Then Jezebel sent a messenger to Elijah, saying, "So may the gods do to me and more also, if I do not make your life as the life of one of them by this time tomorrow." (1 Kings 19:2)
 
 One sentence. A single woman's threat. Just twenty-four hours earlier, I had stood alone on Mount Carmel, facing the entire nation's idolatrous power without fear. But now, one sentence from Jezebel made me throw down my armor and run.
 
-> Then he was afraid, and he arose and ran for his life and came to Beersheba, which belongs to Judah, and left his servant there. But he himself went a day's journey into the wilderness and came and sat down under a broom tree. And he asked that he might die, saying, "It is enough; now, O LORD, take away my life, for I am no better than my fathers."
+> Then he was afraid, and he arose and ran for his life and came to Beersheba, which belongs to Judah, and left his servant there. But he himself went a day's journey into the wilderness and came and sat down under a broom tree. And he asked that he might die, saying, "It is enough; now, O LORD, take away my life, for I am no better than my fathers." (1 Kings 19:3-4)
 
 "It is enough! Take away my life."—Brothers and sisters, can you imagine? The prophet who called down heavenly fire yesterday is begging to die under a broom tree today. This is not fiction—Scripture records without concealment the weakest moment of God's most faithful servant.
 
@@ -2110,7 +2112,7 @@ Why? Because spiritual peaks are often followed by the deepest valleys. Physical
 
 I fell asleep under the broom tree. Then something wonderful happened.
 
-> And he lay down and slept under a broom tree. And behold, an angel touched him and said to him, "Arise and eat." And he looked, and behold, there was at his head a cake baked on hot stones and a jar of water. And he ate and drank and lay down again. And the angel of the LORD came again a second time and touched him and said, "Arise and eat, for the journey is too great for you."
+> And he lay down and slept under a broom tree. And behold, an angel touched him and said to him, "Arise and eat." And he looked, and behold, there was at his head a cake baked on hot stones and a jar of water. And he ate and drank and lay down again. And the angel of the LORD came again a second time and touched him and said, "Arise and eat, for the journey is too great for you." (1 Kings 19:5-7)
 
 God did not rebuke me. He didn't say "How can you have so little faith?" He didn't preach a sermon on faith. He sent an angel—to do what? **Bake bread and pour water.**
 
@@ -2118,11 +2120,11 @@ Brothers and sisters, this deeply moves me. God knew that what I needed at that 
 
 The angel came twice. The first time I ate and lay down again—God did not hurry me; he let me keep sleeping. The second time the angel said, "The journey is too great for you"—God knew there was still a long road ahead, and he prepared sufficient strength.
 
-> And he arose and ate and drank, and went in the strength of that food forty days and forty nights to Horeb, the mount of God.
+> And he arose and ate and drank, and went in the strength of that food forty days and forty nights to Horeb, the mount of God. (1 Kings 19:8)
 
 Forty days and forty nights—sustained by one meal from an angel. What provision! As Paul later wrote:
 
-> But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us.
+> But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us. (2 Corinthians 4:7)
 
 I was that jar of clay. Broken, exhausted, ready to give up. But God's power was at work in the jar of clay.
 
@@ -2132,13 +2134,13 @@ I understood later: God does not waste our weakness. On Mount Carmel, I witnesse
 
 I arrived at Horeb—the very place where Moses had seen the burning bush, where God had given the Ten Commandments. I went into a cave and huddled there.
 
-> And the word of the LORD came to him: "What are you doing here, Elijah?"
+> And the word of the LORD came to him: "What are you doing here, Elijah?" (1 Kings 19:9)
 
 This question struck my heart. "What are you doing here?"—You shouldn't be here. You are a prophet; you should be in Israel, standing before the people. But instead you're hiding in a cave.
 
 How did I answer?
 
-> He said, "I have been very jealous for the LORD, the God of hosts. For the people of Israel have forsaken your covenant, thrown down your altars, and killed your prophets with the sword, and I, even I only, am left, and they seek my life, to take it away."
+> He said, "I have been very jealous for the LORD, the God of hosts. For the people of Israel have forsaken your covenant, thrown down your altars, and killed your prophets with the sword, and I, even I only, am left, and they seek my life, to take it away." (1 Kings 19:10)
 
 I said "I have been very jealous for the LORD, the God of hosts"—note, this was true. My zeal was genuine. But zeal is not the same as faith. Zeal can make you stand on Mount Carmel facing four hundred and fifty false prophets; but when zeal is spent, what you need is faith—believing that even when you cannot see results, God still reigns.
 
@@ -2148,7 +2150,7 @@ I said "I have been very jealous for the LORD, the God of hosts"—note, this wa
 
 Then God gave me the most important lesson of my life.
 
-> And he said, "Go out and stand on the mount before the LORD." And behold, the LORD passed by, and a great and strong wind tore the mountains and broke in pieces the rocks before the LORD, but the LORD was not in the wind. And after the wind an earthquake, but the LORD was not in the earthquake. And after the earthquake a fire, but the LORD was not in the fire. And after the fire the sound of a low whisper.
+> And he said, "Go out and stand on the mount before the LORD." And behold, the LORD passed by, and a great and strong wind tore the mountains and broke in pieces the rocks before the LORD, but the LORD was not in the wind. And after the wind an earthquake, but the LORD was not in the earthquake. And after the earthquake a fire, but the LORD was not in the fire. And after the fire the sound of a low whisper. (1 Kings 19:11-12)
 
 On Mount Carmel, I had seen God's fire fall from heaven. I was accustomed to seeking God in wind, earthquake, and fire—because that was my experience. But on Horeb, God was teaching me something new: **he is not always in the storm.**
 
@@ -2158,7 +2160,7 @@ Then—**the sound of a low whisper.**
 
 "The sound of a low whisper"—in the Hebrew, "a still, small voice." Not a thunderous proclamation, but a quiet, barely audible murmur.
 
-> When Elijah heard it, he wrapped his face in his cloak and went out and stood at the entrance of the cave.
+> When Elijah heard it, he wrapped his face in his cloak and went out and stood at the entrance of the cave. (1 Kings 19:13)
 
 I heard it. After all the noise had subsided, after all the dramatic manifestations had ended, God came to me in the quietest moment. I covered my face with my cloak—because I knew: this was God.
 
@@ -2168,29 +2170,31 @@ On Mount Carmel I called for heavenly fire, but on Horeb I waited for a whisper.
 
 The psalmist said:
 
-> Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation and my God.
+> Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation and my God. (Psalm 42:5)
 
 ### V. I Have Left Seven Thousand (1 Kings 19:15-18)
 
 God asked me the same question again, and I gave the same answer—"I, even I only, am left." But this time, God directly corrected me:
 
-> And the LORD said to him, "Go, return on your way to the wilderness of Damascus. And when you arrive, you shall anoint Hazael to be king over Syria. And you shall anoint Jehu the son of Nimshi to be king over Israel, and Elisha the son of Shaphat of Abel-meholah you shall anoint to be prophet in your place."
+> And the LORD said to him, "Go, return on your way to the wilderness of Damascus. And when you arrive, you shall anoint Hazael to be king over Syria. And you shall anoint Jehu the son of Nimshi to be king over Israel, and Elisha the son of Shaphat of Abel-meholah you shall anoint to be prophet in your place." (1 Kings 19:15-16)
 
 God gave me three specific missions. He did not let me continue wallowing in self-pity—he gave me work to do. When you are mired in despair, the best medicine is often not more reflection but getting up and acting.
 
 Then God said a sentence that utterly shattered my self-pity:
 
-> "Yet I will leave seven thousand in Israel, all the knees that have not bowed to Baal, and every mouth that has not kissed him."
+> "Yet I will leave seven thousand in Israel, all the knees that have not bowed to Baal, and every mouth that has not kissed him." (1 Kings 19:18)
 
 **Seven thousand.** I thought I was the only one left; God said he had preserved seven thousand. Paul later quoted this passage in Romans:
 
-> But what is God's reply to him? "I have kept for myself seven thousand men who have not bowed the knee to Baal."
+> But what is God's reply to him? "I have kept for myself seven thousand men who have not bowed the knee to Baal." (Romans 11:4)
 
 You are not alone. You are never alone. When you feel you are the only one left holding onto the faith, God is preserving thousands of faithful people where you cannot see. The church does not rest on your shoulders alone—the church is the body of Christ, and he will never let his church perish.
 
 God did one more thing: he prepared Elisha for me. When I cast my cloak upon Elisha, I was no longer a solitary prophet. Elisha followed me, served me, and later inherited my mission, performing even more miracles than I had. This too is God's wisdom—ministry is not a one-man show but a relay race passed from generation to generation.
 
-Dear brothers and sisters, if you are in a spiritual valley, hear what God said to Elijah: eat first, rest first, then seek me in the still small voice. You don't need to be a superhero—his grace is sufficient for you, for his power is made perfect in weakness.`,
+Dear brothers and sisters, if you are in a spiritual valley, hear what God said to Elijah: eat first, rest first, then seek me in the still small voice. You don't need to be a superhero—his grace is sufficient for you, for his power is made perfect in weakness.
+
+Your servant, Elijah the Tishbite`,
   },
   {
     id: 'mary-magnificat',
@@ -2204,8 +2208,8 @@ Dear brothers and sisters, if you are in a spiritual valley, hear what God said 
     date: '2026-04-11',
     category: 'testimony',
     scripture: '路加福音 1:46-55 / Luke 1:46-55',
-    scriptureText_zh: '马利亚说：我心尊主为大；我灵以神我的救主为乐；因为他顾念他使女的卑微；从今以后，万代要称我有福。',
-    scriptureText_en: 'And Mary said, "My soul magnifies the Lord, and my spirit rejoices in God my Savior, for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed."',
+    scriptureText_zh: '马利亚说：我心尊主为大；我灵以神我的救主为乐；因为他顾念他使女的卑微；从今以后，万代要称我有福。（路加福音 1:46-49）',
+    scriptureText_en: 'And Mary said, "My soul magnifies the Lord, and my spirit rejoices in God my Savior, for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed." (Luke 1:46-49)',
     summary_zh: '一个拿撒勒的平凡少女，被神拣选成为弥赛亚的母亲。马利亚的尊主颂不是一首安静的摇篮曲，而是一首翻转世界的革命之歌——神叫有权柄的失位，叫卑贱的升高。',
     summary_en: 'An ordinary girl from Nazareth, chosen by God to be the mother of the Messiah. Mary\'s Magnificat is not a quiet lullaby but a revolutionary song that turns the world upside down—God brings down the mighty and exalts the humble.',
     tags: ['颂赞', '谦卑', '恩典', '盼望'],
@@ -2217,35 +2221,35 @@ Dear brothers and sisters, if you are in a spiritual valley, hear what God said 
 
 ### 一、蒙大恩的女子（路1:26-33）
 
-> 到了第六个月，天使加百列奉神的差遣往加利利的一座城去（这城名叫拿撒勒），到一个童女那里，是已经许配大卫家的一个人，名叫约瑟。童女的名字叫马利亚。
+> 到了第六个月，天使加百列奉神的差遣往加利利的一座城去（这城名叫拿撒勒），到一个童女那里，是已经许配大卫家的一个人，名叫约瑟。童女的名字叫马利亚。（路加福音 1:26-27）
 
-> 天使进去，对她说："蒙大恩的女子，我问你安，主和你同在了！"
+> 天使进去，对她说："蒙大恩的女子，我问你安，主和你同在了！"（路加福音 1:28）
 
 我至今还记得那一刻的惊惶。天使出现在我面前——不是在圣殿，不是在祭坛前，而是在我家里，在拿撒勒一个平凡的房间里。"蒙大恩的女子"——这是什么意思？我一个卑微的少女，怎会蒙神的大恩？
 
-> 马利亚因这话就很惊慌，又反复思想这样问安是什么意思。
+> 马利亚因这话就很惊慌，又反复思想这样问安是什么意思。（路加福音 1:29）
 
 "反复思想"——路加用了这个词来形容我的反应。我不是那种不假思索就接受一切的人。我会想，会问，会在心里反复掂量。后来当牧羊人来讲述天使报信的事，当西面在圣殿中说出预言，路加都记载我"把这一切的事存在心里，反复思想。"这是我一生的习惯——在神的话语面前安静思想。
 
 然后天使告诉我那不可思议的消息：
 
-> 你要怀孕生子，可以给他起名叫耶稣。他要为大，称为至高者的儿子；主神要把他祖大卫的位给他。他要作雅各家的王，直到永远；他的国也没有穷尽。
+> 你要怀孕生子，可以给他起名叫耶稣。他要为大，称为至高者的儿子；主神要把他祖大卫的位给他。他要作雅各家的王，直到永远；他的国也没有穷尽。（路加福音 1:31-33）
 
 ### 二、我是主的使女（路1:34-38）
 
 我问了一个非常实际的问题：
 
-> 马利亚对天使说："我没有出嫁，怎么有这事呢？"
+> 马利亚对天使说："我没有出嫁，怎么有这事呢？"（路加福音 1:34）
 
 这不是不信——这是诚实的疑问。我是一个未出嫁的童女，怎么可能怀孕？天使没有责备我的提问，反而耐心解释了圣灵的超然工作。最后，天使说了一句改变一切的话：
 
-> 因为，出于神的话，没有一句不带能力的。
+> 因为，出于神的话，没有一句不带能力的。（路加福音 1:37）
 
 "没有一句不带能力的"——弟兄姐妹，请把这句话刻在你的心上。神的话不是空洞的许诺，每一句都带着成就的能力。神说"要有光"，就有了光；神说我要怀孕生子，就必照他的话成就。
 
 然后我说了那句一生中最重要的话：
 
-> 马利亚说："我是主的使女，情愿照你的话成就在我身上。"
+> 马利亚说："我是主的使女，情愿照你的话成就在我身上。"（路加福音 1:38）
 
 "我是主的使女，情愿照你的话成就在我身上。"——这句话看似简单，却需要何等的信心和勇气。我知道这意味着什么：未婚怀孕在当时是死罪，可以被石头打死。约瑟会怎么想？家人会怎么看？邻居会怎么议论？我的名誉、我的婚约、我的人生计划，全部都将被打破。
 
@@ -2257,11 +2261,11 @@ Dear brothers and sisters, if you are in a spiritual valley, hear what God said 
 
 当我去探访亲戚伊利莎白时，伊利莎白被圣灵充满，大声喊着说：
 
-> 这相信的女子是有福的！因为主对她所说的话都要应验。
+> 这相信的女子是有福的！因为主对她所说的话都要应验。（路加福音 1:45）
 
 然后，从我心里涌出了一首颂歌——不是我预先准备的，乃是圣灵在我里面做工，话语自然地流淌出来：
 
-> 我心尊主为大；我灵以神我的救主为乐；因为他顾念他使女的卑微；从今以后，万代要称我有福。那有权能的，为我成就了大事；他的名为圣。
+> 我心尊主为大；我灵以神我的救主为乐；因为他顾念他使女的卑微；从今以后，万代要称我有福。那有权能的，为我成就了大事；他的名为圣。（路加福音 1:49）
 
 弟兄姐妹，请注意我歌中的第一个词："我心尊主为大"——不是尊自己为大，不是尊弥赛亚的母亲为大，乃是尊**主**为大。我称神为"我的救主"——我自己也需要救主。我不是无罪的完人，我是蒙恩的罪人。神不是因为我配得才拣选我，乃是因为他的恩典。
 
@@ -2269,7 +2273,7 @@ Dear brothers and sisters, if you are in a spiritual valley, hear what God said 
 
 接下来的颂歌震撼了我自己：
 
-> 他用膀臂施展大能；那狂傲的人正心里妄想就被他赶散了。他叫有权柄的失位，叫卑贱的升高；叫饥饿的得饱美食，叫富足的空手回去。
+> 他用膀臂施展大能；那狂傲的人正心里妄想就被他赶散了。他叫有权柄的失位，叫卑贱的升高；叫饥饿的得饱美食，叫富足的空手回去。（路加福音 1:51-53）
 
 这不是一首安静温柔的摇篮曲——这是一首翻转世界秩序的革命之歌！神的国度与世界的国度完全相反：狂傲的被赶散，有权柄的失位，卑贱的升高，饥饿的饱足，富足的空手。弥赛亚的来临不是维持现状，乃是彻底翻转。
 
@@ -2304,11 +2308,13 @@ Dear brothers and sisters, if you are in a spiritual valley, hear what God said 
 
 我后来也在耶路撒冷的教会中，与使徒们和其他弟兄姐妹一起祷告等候圣灵的降临。五旬节那天，圣灵浇灌在我们身上——那位天使所预言的圣灵，如今临到了所有信他的人，不再只是临到一个人。我的儿子所应许的保惠师来了。教会诞生了。
 
-从拿撒勒的小屋到耶路撒冷的上层楼房，从天使报信到圣灵降临——我见证了整个救恩历史最关键的篇章。但我要告诉你：这一切的中心不是我，而是那位从我腹中降生、在十字架上受死、从死里复活、升上高天的主耶稣基督。我只是器皿，他才是内容；我只是使女，他才是君王。
+从拿撒勒的小屋到耶路撒冷的上层楼房，从天使报信到圣灵降临——我见证了整个救恩历史最关键的篇章。但我要告诉你：这一切的中心不是我，而是那位从我腹中降生、在十字架上受死、从死里复活、升上高天的主耶稣基督。我只是瓦器，他才是其中的宝贝；我只是使女，他才是君王。
 
 你可能觉得自己太卑微、太普通、太不配被神使用。但请记住：神拣选了拿撒勒的一个普通少女来改变世界的历史。他不需要你完美，他需要你说"情愿"。不是你的能力，是他的恩典；不是你的配得，是他的拣选。
 
-> 那有权能的，为我成就了大事；他的名为圣。`,
+> 那有权能的，为我成就了大事；他的名为圣。（路加福音 1:49）
+
+主的使女，拿撒勒的马利亚`,
     content_en: `Dear brothers and sisters, I am Mary, a young woman from Nazareth.
 
 You may know my name—the mother of the Messiah, the virgin who conceived. But before the angel's visit, I was nothing more than an ordinary girl in a small Galilean village, betrothed to a carpenter named Joseph, waiting for the day of my wedding. Nazareth was an unremarkable place—even Nathanael once said, "Can anything good come out of Nazareth?"
@@ -2317,35 +2323,35 @@ Yet it was in this overlooked corner that God did something that turned history 
 
 ### I. Favored One (Luke 1:26-33)
 
-> In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth, to a virgin betrothed to a man whose name was Joseph, of the house of David. And the virgin's name was Mary.
+> In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth, to a virgin betrothed to a man whose name was Joseph, of the house of David. And the virgin's name was Mary. (Luke 1:26-27)
 
-> And he came to her and said, "Greetings, O favored one, the Lord is with you!"
+> And he came to her and said, "Greetings, O favored one, the Lord is with you!" (Luke 1:28)
 
 I still remember the terror of that moment. An angel appeared before me—not in the temple, not before an altar, but in my home, in an ordinary room in Nazareth. "O favored one"—what could this mean? How could I, a lowly girl, find favor with God?
 
-> But she was greatly troubled at the saying, and tried to discern what sort of greeting this might be.
+> But she was greatly troubled at the saying, and tried to discern what sort of greeting this might be. (Luke 1:29)
 
 "Tried to discern"—Luke chose this word to describe my reaction. I was not someone who accepted everything without thinking. I pondered, I questioned, I weighed things in my heart. Later, when the shepherds came to tell of the angels' message, when Simeon spoke his prophecy in the temple, Luke recorded that I "treasured up all these things, pondering them in her heart." This was the habit of my life—quiet reflection before God's word.
 
 Then the angel told me the unimaginable news:
 
-> You will conceive in your womb and bear a son, and you shall call his name Jesus. He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever, and of his kingdom there will be no end.
+> You will conceive in your womb and bear a son, and you shall call his name Jesus. He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever, and of his kingdom there will be no end. (Luke 1:31-33)
 
 ### II. I Am the Servant of the Lord (Luke 1:34-38)
 
 I asked a very practical question:
 
-> And Mary said to the angel, "How will this be, since I am a virgin?"
+> And Mary said to the angel, "How will this be, since I am a virgin?" (Luke 1:34)
 
 This was not unbelief—it was an honest question. I was an unmarried virgin; how could I conceive? The angel did not rebuke my question but patiently explained the supernatural work of the Holy Spirit. Finally, the angel said a sentence that changes everything:
 
-> For nothing will be impossible with God.
+> For nothing will be impossible with God. (Luke 1:37)
 
 "Nothing will be impossible with God"—brothers and sisters, engrave this on your hearts. God's words are not empty promises; each one carries the power of fulfillment. God said "Let there be light," and there was light; God said I would conceive and bear a son, and it would be accomplished according to his word.
 
 Then I spoke the most important words of my life:
 
-> And Mary said, "Behold, I am the servant of the Lord; let it be to me according to your word."
+> And Mary said, "Behold, I am the servant of the Lord; let it be to me according to your word." (Luke 1:38)
 
 "I am the servant of the Lord; let it be to me according to your word."—These words seem simple, yet they required extraordinary faith and courage. I knew what this meant: pregnancy outside of marriage was punishable by death—stoning. What would Joseph think? How would my family react? What would the neighbors say? My reputation, my betrothal, my life plans—all would be shattered.
 
@@ -2357,11 +2363,11 @@ Faith is not the absence of questions; faith is obedience amid questions. Faith 
 
 When I visited my relative Elizabeth, she was filled with the Holy Spirit and exclaimed:
 
-> Blessed is she who believed that there would be a fulfillment of what was spoken to her from the Lord.
+> Blessed is she who believed that there would be a fulfillment of what was spoken to her from the Lord. (Luke 1:45)
 
 Then a song welled up from within me—not one I had prepared, but one the Spirit stirred within me, words flowing naturally:
 
-> My soul magnifies the Lord, and my spirit rejoices in God my Savior, for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed; for he who is mighty has done great things for me, and holy is his name.
+> My soul magnifies the Lord, and my spirit rejoices in God my Savior, for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed; for he who is mighty has done great things for me, and holy is his name. (Luke 1:49)
 
 Brothers and sisters, notice the first phrase of my song: "My soul magnifies the Lord"—not magnifying myself, not magnifying the mother of the Messiah, but magnifying **the Lord**. I called God "my Savior"—I too needed a Savior. I was not a sinless person; I was a sinner saved by grace. God did not choose me because I was worthy, but because of his grace.
 
@@ -2369,7 +2375,7 @@ Brothers and sisters, notice the first phrase of my song: "My soul magnifies the
 
 The rest of the song astonished even me:
 
-> He has shown strength with his arm; he has scattered the proud in the thoughts of their hearts; he has brought down the mighty from their thrones and exalted those of humble estate; he has filled the hungry with good things, and the rich he has sent away empty.
+> He has shown strength with his arm; he has scattered the proud in the thoughts of their hearts; he has brought down the mighty from their thrones and exalted those of humble estate; he has filled the hungry with good things, and the rich he has sent away empty. (Luke 1:51-53)
 
 This is not a quiet, gentle lullaby—this is a revolutionary song that overturns the world's order! God's kingdom is the complete opposite of the world's: the proud are scattered, the mighty are brought down, the lowly are exalted, the hungry are filled, the rich go away empty. The Messiah's coming does not maintain the status quo; it completely overturns it.
 
@@ -2401,11 +2407,13 @@ That morning, when Mary Magdalene and the other women came running to tell us ab
 
 I was also among the believers in the Jerusalem church, praying with the apostles and other brothers and sisters, waiting for the coming of the Holy Spirit. On the day of Pentecost, the Spirit was poured out upon us—the same Spirit the angel had spoken of, now coming upon all who believed, no longer upon just one person. The Comforter my son had promised had come. The church was born.
 
-From a small house in Nazareth to the upper room in Jerusalem, from the angel's announcement to the Spirit's descent—I witnessed the most pivotal chapters of salvation history. But let me tell you: the center of all this is not me, but the Lord Jesus Christ—the one who was born from my womb, who died on the cross, who rose from the dead, who ascended to heaven. I was only the vessel; he is the content. I was only the servant; he is the King.
+From a small house in Nazareth to the upper room in Jerusalem, from the angel's announcement to the Spirit's descent—I witnessed the most pivotal chapters of salvation history. But let me tell you: the center of all this is not me, but the Lord Jesus Christ—the one who was born from my womb, who died on the cross, who rose from the dead, who ascended to heaven. I was only the jar of clay; he is the treasure within. I was only the servant; he is the King.
 
 Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be used by God. But remember: God chose an ordinary girl from Nazareth to change the course of world history. He doesn't need you to be perfect; he needs you to say "let it be." It is not your ability but his grace; not your worthiness but his choosing.
 
-> For he who is mighty has done great things for me, and holy is his name.`,
+> For he who is mighty has done great things for me, and holy is his name. (Luke 1:49)
+
+The Lord's servant, Mary of Nazareth`,
   },
   {
     id: 'thomas-doubt',
@@ -2419,8 +2427,8 @@ Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be u
     date: '2026-04-18',
     category: 'testimony',
     scripture: '约翰福音 20:24-29 / John 20:24-29',
-    scriptureText_zh: '多马说："我的主！我的神！"耶稣对他说："你因看见了我才信；那没有看见就信的有福了。"',
-    scriptureText_en: 'Thomas answered him, "My Lord and my God!" Jesus said to him, "Have you believed because you have seen me? Blessed are those who have not seen and yet have believed."',
+    scriptureText_zh: '多马说："我的主！我的神！"耶稣对他说："你因看见了我才信；那没有看见就信的有福了。"（约翰福音 20:29）（约翰福音 20:28）',
+    scriptureText_en: 'Thomas answered him, "My Lord and my God!" Jesus said to him, "Have you believed because you have seen me? Blessed are those who have not seen and yet have believed." (John 20:29) (John 20:28)',
     summary_zh: '我不是"怀疑的多马"——我是那个需要亲眼看见才能相信的人。但当复活的主站在我面前，我说出了整本圣经中最伟大的信仰告白："我的主！我的神！"疑惑不是信心的对立面，不信才是。',
     summary_en: 'I am not "Doubting Thomas"—I am the one who needed to see to believe. But when the risen Lord stood before me, I made the greatest confession of faith in all of Scripture: "My Lord and my God!" Doubt is not the opposite of faith; unbelief is.',
     tags: ['信心', '疑惑', '确据', '复活'],
@@ -2436,7 +2444,7 @@ Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be u
 
 就在那时，我对其他门徒说了一句话：
 
-> 多马，又称为低土马，就对那同作门徒的说："我们也去和他同死吧。"
+> 多马，又称为低土马，就对那同作门徒的说："我们也去和他同死吧。"（约翰福音 11:16）
 
 这是我——"怀疑的多马"——说的话。"我们也去和他同死吧。"这不是一个胆怯者的话，这是一个愿意为主赴死之人的宣告。弟兄姐妹，在我怀疑之前，请先看见我的忠诚。我或许不善言辞，或许不像彼得那样热情外露，但当主要走向死亡的时候，我说的是"我们也去"——不是"让我们劝他别去"。
 
@@ -2447,7 +2455,7 @@ Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be u
 
 最后的晚餐上，主耶稣说他要去为我们预备地方，说"我往哪里去，你们知道；那条路，你们也知道。"其他门徒都沉默着，也许他们不好意思说自己不明白。但我不能假装明白不明白的事。
 
-> 多马对他说："主啊，我们不知道你往哪里去，怎么知道那条路呢？"
+> 多马对他说："主啊，我们不知道你往哪里去，怎么知道那条路呢？"（约翰福音 14:5）
 
 这是一个诚实的问题——诚实到让其他门徒暗自庆幸有人替他们问了。而正是因为我的提问，主耶稣说出了那句照亮整个人类历史的话："我就是道路、真理、生命；若不藉着我，没有人能到父那里去。"（约14:6）
 
@@ -2465,7 +2473,7 @@ Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be u
 
 当他们告诉我"我们已经看见主了"时，我说了那句让我名留千古的话：
 
-> 多马却说："我非看见他手上的钉痕，用指头探入那钉痕，又用手探入他的肋旁，我总不信。"
+> 多马却说："我非看见他手上的钉痕，用指头探入那钉痕，又用手探入他的肋旁，我总不信。"（约翰福音 20:25）
 
 "我总不信。"——听起来很刚硬，对吗？但请理解我当时的处境。我刚刚经历了有生以来最大的创伤——我亲眼看着我的主、我的朋友、我的盼望被钉死在十字架上。我不能再承受第二次希望的破灭。如果他没有真的复活，而我却相信了，那种再次跌入深渊的痛苦会比第一次更致命。
 
@@ -2480,7 +2488,7 @@ Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be u
 
 八天。整整八天。主让我等了八天。他没有在第二天就来找我，没有在第三天、第五天。他让我在怀疑中等待了整整八天。这八天是漫长的煎熬——其他门徒都在喜乐中，而我独自在黑暗中挣扎。但我现在明白了：那八天是必要的。神有时让我们等待，不是因为他不在乎，乃是因为他要在等待中做更深的工作。
 
-> 耶稣来，站在当中说："愿你们平安！"就对多马说："伸过你的指头来，摸我的手；伸出你的手来，探入我的肋旁。不要疑惑，总要信！"
+> 耶稣来，站在当中说："愿你们平安！"就对多马说："伸过你的指头来，摸我的手；伸出你的手来，探入我的肋旁。不要疑惑，总要信！"（约翰福音 20:26-27）
 
 弟兄姐妹，你知道这意味着什么吗？主耶稣知道。他知道我说的每一个字——"钉痕""指头""肋旁"——他全部知道。他虽然不在那个房间里，但他听见了我的每一句话、每一声叹息、每一滴眼泪。
 
@@ -2488,7 +2496,7 @@ Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be u
 
 那一刻，我不需要摸了。我什么都不需要了。看见他站在我面前——那钉过的手、那刺过的肋旁、那温柔又威严的目光——一切的怀疑在瞬间瓦解。从我嘴里涌出了整本圣经中最伟大的信仰告白：
 
-> 多马说："我的主！我的神！"
+> 多马说："我的主！我的神！"（约翰福音 20:28）
 
 "我的主！我的神！"——这不是一句泛泛的认信。这是个人的、亲密的、终极的宣告。"**我的**主！**我的**神！"不是"他们的主"，不是"以色列的神"，而是"**我的**"。在整本福音书中，没有任何门徒说出过如此直接、如此完全的对基督神性的认信。彼得说过"你是基督，是永生神的儿子"，但我说的是——"你就是神。"
 
@@ -2503,7 +2511,7 @@ Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be u
 
 主耶稣对我说了最后一句话：
 
-> 耶稣对他说："你因看见了我才信；那没有看见就信的有福了。"
+> 耶稣对他说："你因看见了我才信；那没有看见就信的有福了。"（约翰福音 20:29）
 
 这句话不是责备——这是祝福。主没有说"你信得太晚了"或"你的信心不如别人"。他是在说：多马，你是有福的，因为你信了；但还有更大的福分，属于那些没有亲眼看见就信的人。
 
@@ -2516,7 +2524,9 @@ Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be u
 
 亲爱的弟兄姐妹，你若正在怀疑中挣扎，不要害怕，也不要假装。把你的疑问诚实地带到主面前。他不怕你的怀疑——他要亲自来到你的怀疑之中，伸出那钉痕的手，对你说："不要疑惑，总要信。"
 
-疑惑不是信心的对立面，不信才是。疑惑是走向更深信心的必经之路。愿你像我一样，在怀疑的尽头遇见复活的主，然后从心底呼喊："我的主！我的神！"`,
+疑惑不是信心的对立面，不信才是。疑惑是走向更深信心的必经之路。愿你像我一样，在怀疑的尽头遇见复活的主，然后从心底呼喊："我的主！我的神！"
+
+你的弟兄，多马`,
     content_en: `Dear brothers and sisters, I am Thomas, also called Didymus, which means "the Twin."
 
 You probably know my nickname—"Doubting Thomas." For two thousand years, when people mention me, the first thought is "the disciple who didn't believe." But today I want to tell you the full story—not just the doubting side, but how doubt was swallowed up by grace.
@@ -2529,7 +2539,7 @@ When the Lord Jesus decided to return to Judea to visit Lazarus, who had died, t
 
 At that moment, I said to the other disciples:
 
-> Thomas, called the Twin, said to his fellow disciples, "Let us also go, that we may die with him."
+> Thomas, called the Twin, said to his fellow disciples, "Let us also go, that we may die with him." (John 11:16)
 
 This was said by me—"Doubting Thomas." "Let us also go, that we may die with him." These are not the words of a coward; they are the declaration of one willing to die for his Lord. Brothers and sisters, before you see my doubt, first see my loyalty. I may not have been eloquent, may not have been as outwardly passionate as Peter, but when the Lord was heading toward death, I said "Let us also go"—not "Let us persuade him not to."
 
@@ -2539,7 +2549,7 @@ When I said "Let us also go, that we may die with him," I meant it. I was not on
 
 At the Last Supper, the Lord Jesus said he was going to prepare a place for us, saying "You know the way to where I am going." The other disciples sat in silence—perhaps too embarrassed to admit they didn't understand. But I could not pretend to understand what I didn't.
 
-> Thomas said to him, "Lord, we do not know where you are going. How can we know the way?"
+> Thomas said to him, "Lord, we do not know where you are going. How can we know the way?" (John 14:5)
 
 This was an honest question—so honest that the other disciples were secretly grateful someone had asked on their behalf. And it was precisely because of my question that the Lord Jesus spoke those words that illuminate all human history: "I am the way, and the truth, and the life. No one comes to the Father except through me." (John 14:6)
 
@@ -2557,7 +2567,7 @@ Why was I absent? Scripture does not say. Perhaps I was too grief-stricken and n
 
 When they told me "We have seen the Lord," I said the words that would define me for all of history:
 
-> Thomas said to them, "Unless I see in his hands the mark of the nails, and place my finger into the mark of the nails, and place my hand into his side, I will never believe."
+> Thomas said to them, "Unless I see in his hands the mark of the nails, and place my finger into the mark of the nails, and place my hand into his side, I will never believe." (John 20:25)
 
 "I will never believe."—Sounds stubborn, doesn't it? But please understand my situation. I had just experienced the greatest trauma of my life—I watched my Lord, my friend, my hope nailed to a cross and killed. I could not bear a second shattering of hope. If he had not truly risen, yet I believed, the pain of falling into that abyss again would be more fatal than the first time.
 
@@ -2571,7 +2581,7 @@ Eight days passed. We were in that room again, and this time I was there too. Th
 
 Eight days. A full eight days. The Lord made me wait eight days. He did not come to find me the next day, not the third day, not the fifth. He let me wait in doubt for a full eight days. Those eight days were agonizing—the other disciples were all rejoicing while I struggled alone in darkness. But I understand now: those eight days were necessary. God sometimes makes us wait not because he doesn't care, but because he is doing deeper work in the waiting.
 
-> Jesus came and stood among them and said, "Peace be with you." Then he said to Thomas, "Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe."
+> Jesus came and stood among them and said, "Peace be with you." Then he said to Thomas, "Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe." (John 20:26-27)
 
 Brothers and sisters, do you know what this means? The Lord Jesus knew. He knew every word I had said—"the mark of the nails," "my finger," "his side"—he knew it all. Though he was not in that room, he had heard every word, every sigh, every tear.
 
@@ -2579,7 +2589,7 @@ He did not bypass my doubt. He did not say "Thomas, you are not worthy to see me
 
 In that moment, I didn't need to touch. I didn't need anything anymore. Seeing him standing before me—those pierced hands, that wounded side, that gaze both gentle and majestic—all doubt collapsed in an instant. From my mouth burst forth the greatest confession of faith in all of Scripture:
 
-> Thomas answered him, "My Lord and my God!"
+> Thomas answered him, "My Lord and my God!" (John 20:28)
 
 "My Lord and my God!"—This was not a vague acknowledgment. It was personal, intimate, ultimate. "**My** Lord! **My** God!" Not "their Lord," not "the God of Israel," but "**mine**." In all the Gospels, no disciple ever made such a direct, such a complete confession of Christ's deity. Peter had said "You are the Christ, the Son of the living God," but what I said was—"You are God."
 
@@ -2593,7 +2603,7 @@ At the end of doubt, what you encounter is not an answer but a person—the rise
 
 The Lord Jesus spoke his final words to me:
 
-> Jesus said to him, "Have you believed because you have seen me? Blessed are those who have not seen and yet have believed."
+> Jesus said to him, "Have you believed because you have seen me? Blessed are those who have not seen and yet have believed." (John 20:29)
 
 This is not a rebuke—it is a blessing. The Lord did not say "You believed too late" or "Your faith is inferior to the others'." He was saying: Thomas, you are blessed because you believed; but there is an even greater blessing, belonging to those who have not seen with their eyes and yet have believed.
 
@@ -2605,7 +2615,9 @@ The apostle Paul later wrote: "But we have this treasure in jars of clay, to sho
 
 Dear brothers and sisters, if you are struggling with doubt, do not be afraid, and do not pretend. Bring your questions honestly before the Lord. He is not afraid of your doubt—he will come into the midst of your doubt himself, extend those nail-scarred hands, and say to you: "Do not disbelieve, but believe."
 
-Doubt is not the opposite of faith; unbelief is. Doubt is a necessary passage on the way to deeper faith. May you, like me, encounter the risen Lord at the end of your doubt, and then cry out from the depths of your heart: "My Lord and my God!"`,
+Doubt is not the opposite of faith; unbelief is. Doubt is a necessary passage on the way to deeper faith. May you, like me, encounter the risen Lord at the end of your doubt, and then cry out from the depths of your heart: "My Lord and my God!"
+
+Your brother, Thomas`,
   },
   {
     id: 'john-patmos',
@@ -2728,7 +2740,9 @@ Doubt is not the opposite of faith; unbelief is. Doubt is a necessary passage on
 
 约翰
 拔摩海岛
-主后95年`,
+主后95年
+
+你的弟兄，在拔摩海岛上的约翰`,
     content_en: `Dear reader, grace and peace to you from Him who is and who was and who is to come!
 
 I am John, the disciple whom Jesus loved. At this moment, I sit on a cold rock on the Isle of Patmos, writing this letter with trembling hands. The sea wind howls, waves crash against the cliffs, sending up a low roar. This is a place of exile in the Roman Empire, a prison for political criminals and heretics. I was banished here, not for committing a crime, but "on account of the word of God and the testimony of Jesus" (Rev 1:9).
@@ -2833,7 +2847,9 @@ May the Lord's grace be with you!
 
 John
 Isle of Patmos
-AD 95`,
+AD 95
+
+Your brother, John on the island of Patmos`,
   },
   {
     id: 'hannah-prayer',
@@ -2848,7 +2864,7 @@ AD 95`,
     category: 'testimony',
     scripture: '撒母耳记上 1:1-2:11 / 1 Samuel 1:1-2:11',
     scriptureText_zh: '哈拿心里愁苦，就痛痛哭泣，祈祷耶和华。许愿说："万军之耶和华啊，你若垂顾婢女的苦情，眷念不忘婢女，赐我一个儿子，我必使他终身归与耶和华。"',
-    scriptureText_en: 'She was deeply distressed and prayed to the LORD and wept bitterly. And she vowed a vow and said, "O LORD of hosts, if you will indeed look on the affliction of your servant and remember me and not forget your servant, but will give to your servant a son, then I will give him to the LORD all the days of his life."',
+    scriptureText_en: 'She was deeply distressed and prayed to the LORD and wept bitterly. And she vowed a vow and said, "O LORD of hosts, if you will indeed look on the affliction of your servant and remember me and not forget your servant, but will give to your servant a son, then I will give him to the LORD all the days of his life." (1 Samuel 1:10-11)',
     summary_zh: '在示罗的圣殿里，一个不能生育的妇人含泪祷告，连祭司都以为她喝醉了。哈拿的祷告教会我们：神垂听那些从心灵深处发出的呼求，他的时间表永远不会错。',
     summary_en: 'In the temple at Shiloh, a barren woman prayed through tears so fervently that the priest thought she was drunk. Hannah\'s prayer teaches us that God hears the cries from the depths of the soul, and His timing is never wrong.',
     tags: ['祷告', '信心', '奉献', '恩典'],
@@ -2858,9 +2874,9 @@ AD 95`,
 
 ### 一、年年如此的苦难（撒上1:1-8）
 
-> 他有两个妻：一名哈拿，一名毗尼拿。毗尼拿有儿女，哈拿没有儿女。
+> 他有两个妻：一名哈拿，一名毗尼拿。毗尼拿有儿女，哈拿没有儿女。（撒母耳记上 1:2）
 
-> 毗尼拿见耶和华不使哈拿生育，就作她的对头，大大激动她，要使她生气。每年上到耶和华殿的时候，以利加拿都以双份给哈拿；毗尼拿仍是激动她，以致她哭泣不吃饭。
+> 毗尼拿见耶和华不使哈拿生育，就作她的对头，大大激动她，要使她生气。每年上到耶和华殿的时候，以利加拿都以双份给哈拿；毗尼拿仍是激动她，以致她哭泣不吃饭。（撒母耳记上 1:6-7）
 
 "年年如此"——经文特别提到，每年上示罗献祭的时候，毗尼拿都激动我。不是一次两次，是年复一年。你能想象吗？每年最应该欢喜感恩的时刻——朝见耶和华的日子——对我来说却是最痛苦的日子。因为在那里，所有家庭都带着儿女欢欢喜喜地献祭，而我只有眼泪。
 
@@ -2868,7 +2884,7 @@ AD 95`,
 
 我的丈夫以利加拿爱我。他给我双份的祭肉，他温柔地安慰我：
 
-> 她丈夫以利加拿对她说："哈拿啊，你为何哭泣，不吃饭，心里愁闷呢？有我不比十个儿子还好吗？"
+> 她丈夫以利加拿对她说："哈拿啊，你为何哭泣，不吃饭，心里愁闷呢？有我不比十个儿子还好吗？"（撒母耳记上 1:8）
 
 以利加拿的爱是真实的，但他不能完全理解我的痛苦。"有我不比十个儿子还好吗？"——丈夫啊，你的爱我感受到了，但我心中的渴望不是你能满足的。有些痛苦，人的安慰触及不到，只有神能触及。
 
@@ -2879,7 +2895,7 @@ AD 95`,
 
 那一年在示罗，我实在忍不住了。吃喝完了，我站起来，走到耶和华殿的门前。
 
-> 哈拿心里愁苦，就痛痛哭泣，祈祷耶和华，许愿说："万军之耶和华啊，你若垂顾婢女的苦情，眷念不忘婢女，赐我一个儿子，我必使他终身归与耶和华，不用剃头刀剃他的头。"
+> 哈拿心里愁苦，就痛痛哭泣，祈祷耶和华，许愿说："万军之耶和华啊，你若垂顾婢女的苦情，眷念不忘婢女，赐我一个儿子，我必使他终身归与耶和华，不用剃头刀剃他的头。"（撒母耳记上 1:10-11）
 
 "痛痛哭泣"——不是轻轻地落泪，是痛到无法抑制的大哭。"祈祷耶和华"——不是对丈夫抱怨，不是对毗尼拿回击，而是转向唯一能改变一切的那位。
 
@@ -2887,33 +2903,33 @@ AD 95`,
 
 这不是交易——这是信心的最高表达。我知道一切好的恩赐都从神来，最好的回应就是把它献回给神。
 
-> 哈拿在耶和华面前不住地祈祷，以利定睛看她的嘴。原来哈拿心中默祷，只动嘴唇，不出声音，因此以利以为她喝醉了。
+> 哈拿在耶和华面前不住地祈祷，以利定睛看她的嘴。原来哈拿心中默祷，只动嘴唇，不出声音，因此以利以为她喝醉了。（撒母耳记上 1:12-13）
 
 祭司以利以为我喝醉了！在圣殿里，一个妇人嘴唇不停地动却没有声音——他从没见过这样的祷告。但这正是真正的祷告的样子：不是表演给人看的，不是大声喊叫让旁人侧目的，乃是从心灵最深处向神发出的、安静却炽热的呐喊。
 
-> 哈拿回答说："主啊，不是这样。我是心里愁苦的妇人，清酒浓酒都没有喝，但在耶和华面前倾心吐意。"
+> 哈拿回答说："主啊，不是这样。我是心里愁苦的妇人，清酒浓酒都没有喝，但在耶和华面前倾心吐意。"（撒母耳记上 1:15）
 
 "倾心吐意"——这四个字是我一生祷告的总结。不是念诵华丽的祈祷文，不是背诵标准的祷词，而是把心里所有的苦楚、渴望、疑问、伤痛，全部倒在神的面前。大卫后来在诗篇中也说过类似的话："你们众民当时时倚靠他，在他面前倾心吐意；神是我们的避难所。"（诗62:8）
 
 以利明白了，对我说：
 
-> "你可以平平安安地回去。愿以色列的神允准你向他所求的！"
+> "你可以平平安安地回去。愿以色列的神允准你向他所求的！"（撒母耳记上 1:17）
 
 然后经文记载了一个奇妙的转变：
 
-> 于是妇人走去吃饭，面上再不带愁容了。
+> 于是妇人走去吃饭，面上再不带愁容了。（撒母耳记上 1:18）
 
 还没有得到孩子，还没有怀孕，但我"面上再不带愁容了"。为什么？因为祷告改变的不只是环境——祷告首先改变的是祷告者自己。我把重担交给了耶和华，我的心就得了释放。信心不是确定神一定会按我的方式回应，信心是确定无论他怎样回应，他都是信实的、良善的。
 
 ### 三、这是我从耶和华那里求来的（撒上1:19-28）
 
-> 耶和华顾念哈拿，哈拿就怀孕。日期满足，生了一个儿子，给他起名叫撒母耳，说："这是我从耶和华那里求来的。"
+> 耶和华顾念哈拿，哈拿就怀孕。日期满足，生了一个儿子，给他起名叫撒母耳，说："这是我从耶和华那里求来的。"（撒母耳记上 1:20）
 
 "撒母耳"——意思是"从神求来的"。每次叫这个名字，都是在提醒自己：这孩子不是我的，是从神那里求来的，也要归还给神。
 
 等撒母耳断了奶，我就带他上示罗去了。带着他，连同三只公牛、一伊法细面、一皮袋酒——这是我能献上的最好的。
 
-> 我祈求为要得这孩子；耶和华已将我所求的赐给我了。所以，我将这孩子归与耶和华，使他终身归与耶和华。
+> 我祈求为要得这孩子；耶和华已将我所求的赐给我了。所以，我将这孩子归与耶和华，使他终身归与耶和华。（撒母耳记上 1:27-28）
 
 你能想象那一刻的心情吗？把你最珍贵的、你哭泣多年才得到的、你的独生子，留在示罗的圣殿，交给年迈的祭司以利——然后转身离开，回到拉玛的家中，面对空荡荡的房间。
 
@@ -2926,13 +2942,13 @@ AD 95`,
 
 交出撒母耳之后，我没有哭泣——我歌唱了。
 
-> 我的心因耶和华快乐；我的角因耶和华高举。我的口向仇敌张开；我因耶和华的救恩欢欣。
+> 我的心因耶和华快乐；我的角因耶和华高举。我的口向仇敌张开；我因耶和华的救恩欢欣。（撒母耳记上 2:1）
 
-> 只有耶和华为圣；除他以外没有可比的，也没有磐石像我们的神。
+> 只有耶和华为圣；除他以外没有可比的，也没有磐石像我们的神。（撒母耳记上 2:2）
 
-> 勇士的弓都已折断；跌倒的人以力量束腰。素来饱足的，反作佣人求食；饥饿的，再不饥饿。不生育的，生了七个儿子；多有儿女的，反倒衰微。
+> 勇士的弓都已折断；跌倒的人以力量束腰。素来饱足的，反作佣人求食；饥饿的，再不饥饿。不生育的，生了七个儿子；多有儿女的，反倒衰微。（撒母耳记上 2:4-5）
 
-> 他从灰尘里抬举贫寒人，从粪堆中提拔穷乏人，使他们与王子同坐，得着荣耀的座位。
+> 他从灰尘里抬举贫寒人，从粪堆中提拔穷乏人，使他们与王子同坐，得着荣耀的座位。（撒母耳记上 2:8）
 
 "不生育的，生了七个儿子"——这是我的见证。那个年年哭泣、被人讥笑的不能生育的女人，如今歌唱：神翻转了一切！后来耶和华果然又赐给我三个儿子、两个女儿。
 
@@ -2942,16 +2958,18 @@ AD 95`,
 
 而我的儿子撒母耳，那个从耶和华求来又归还给耶和华的孩子，后来成了以色列最伟大的先知之一——他膏立了扫罗，又膏立了大卫。从大卫的后裔中，弥赛亚降生了。一个不能生育之妇人的祷告，最终成了救恩历史中不可或缺的一环。
 
-亲爱的弟兄姐妹，你是否正在经历"年年如此"的苦难？是否有人在刺激你、嘲笑你？是否在等待中几乎要绝望？请听我的故事：神的时间不是我们的时间，但他的时间永远是最好的。把你的苦情倾倒在他面前——他不会轻看你的眼泪。他是那位"从灰尘里抬举贫寒人，从粪堆中提拔穷乏人"的神。他昔日如此待我，今日也必如此待你。`,
+亲爱的弟兄姐妹，你是否正在经历"年年如此"的苦难？是否有人在刺激你、嘲笑你？是否在等待中几乎要绝望？请听我的故事：神的时间不是我们的时间，但他的时间永远是最好的。把你的苦情倾倒在他面前——他不会轻看你的眼泪。他是那位"从灰尘里抬举贫寒人，从粪堆中提拔穷乏人"的神。他昔日如此待我，今日也必如此待你。
+
+你的姐妹，哈拿`,
     content_en: `Dear brothers and sisters, I am Hannah, wife of Elkanah, mother of Samuel.
 
 Before I became Samuel's mother, I was a barren woman. In Israel, what did it mean to be barren? It meant shame, it meant being talked about, it meant you could not hold your head up before others. More painful still, my husband had another wife—Peninnah—who had sons and daughters, while my arms held nothing.
 
 ### I. Year After Year (1 Samuel 1:1-8)
 
-> He had two wives. The name of the one was Hannah, and the name of the other, Peninnah. And Peninnah had children, but Hannah had no children.
+> He had two wives. The name of the one was Hannah, and the name of the other, Peninnah. And Peninnah had children, but Hannah had no children. (1 Samuel 1:2)
 
-> And her rival used to provoke her grievously to irritate her, because the LORD had closed her womb. So it went on year after year. As often as she went up to the house of the LORD, she used to provoke her. Therefore Hannah wept and would not eat.
+> And her rival used to provoke her grievously to irritate her, because the LORD had closed her womb. So it went on year after year. As often as she went up to the house of the LORD, she used to provoke her. Therefore Hannah wept and would not eat. (1 Samuel 1:6-7)
 
 "Year after year"—Scripture specifically notes that every year at the time of the pilgrimage, Peninnah would provoke me. Not once or twice, but year after year. Can you imagine? Every year, the moment that should have been most joyful—the day of appearing before the LORD—was for me the most painful day. Because there, every family came happily with their children to offer sacrifice, while I had only tears.
 
@@ -2961,7 +2979,7 @@ Those years of waiting taught me something: faith is not a one-time decision but
 
 My husband Elkanah loved me. He gave me a double portion of the sacrifice; he tenderly comforted me:
 
-> Elkanah, her husband, said to her, "Hannah, why do you weep? And why do you not eat? And why is your heart sad? Am I not more to you than ten sons?"
+> Elkanah, her husband, said to her, "Hannah, why do you weep? And why do you not eat? And why is your heart sad? Am I not more to you than ten sons?" (1 Samuel 1:8)
 
 Elkanah's love was real, but he could not fully understand my pain. "Am I not more to you than ten sons?"—My husband, I feel your love, but the longing in my heart is not something you can fulfill. Some pain is beyond the reach of human comfort; only God can touch it.
 
@@ -2969,7 +2987,7 @@ Elkanah's love was real, but he could not fully understand my pain. "Am I not mo
 
 That year at Shiloh, I could endure no more. After they had eaten and drunk, I got up and went to the door of the tent of the LORD.
 
-> She was deeply distressed and prayed to the LORD and wept bitterly. And she vowed a vow and said, "O LORD of hosts, if you will indeed look on the affliction of your servant and remember me and not forget your servant, but will give to your servant a son, then I will give him to the LORD all the days of his life, and no razor shall touch his head."
+> She was deeply distressed and prayed to the LORD and wept bitterly (1 Samuel 1:10-11). And she vowed a vow and said, "O LORD of hosts, if you will indeed look on the affliction of your servant and remember me and not forget your servant, but will give to your servant a son, then I will give him to the LORD all the days of his life, and no razor shall touch his head."
 
 "Wept bitterly"—not gentle weeping, but sobbing so overwhelming it could not be suppressed. "Prayed to the LORD"—not complaining to her husband, not retaliating against Peninnah, but turning to the One who alone could change everything.
 
@@ -2977,21 +2995,21 @@ Notice the content of my prayer: I was not simply asking for a child—I was ask
 
 This was not a transaction—it was faith at its highest expression. I knew that every good gift comes from God, and the best response was to offer it back to him.
 
-> As she continued praying before the LORD, Eli observed her mouth. Hannah was speaking in her heart; only her lips moved, and her voice was not heard. Therefore Eli took her to be a drunken woman.
+> As she continued praying before the LORD, Eli observed her mouth. Hannah was speaking in her heart; only her lips moved, and her voice was not heard. Therefore Eli took her to be a drunken woman. (1 Samuel 1:12-13)
 
 Eli the priest thought I was drunk! In the sanctuary, a woman whose lips moved constantly yet made no sound—he had never seen such prayer. But this is exactly what true prayer looks like: not performed for others to see, not shouted loudly to attract attention, but a quiet yet fervent cry from the deepest part of the soul toward God.
 
-> But Hannah answered, "No, my lord, I am a woman troubled in spirit. I have drunk neither wine nor strong drink, but I have been pouring out my soul before the LORD."
+> But Hannah answered, "No, my lord, I am a woman troubled in spirit. I have drunk neither wine nor strong drink, but I have been pouring out my soul before the LORD." (1 Samuel 1:15)
 
 "Pouring out my soul"—these four words summarize the prayer of my whole life. Not reciting elegant prayers, not repeating standard formulas, but taking all the bitterness, longing, questioning, and pain in my heart and pouring it all out before God. David later wrote in the Psalms: "Trust in him at all times, O people; pour out your heart before him; God is a refuge for us." (Psalm 62:8)
 
 Eli understood and said to me:
 
-> "Go in peace, and the God of Israel grant your petition that you have made to him."
+> "Go in peace, and the God of Israel grant your petition that you have made to him." (1 Samuel 1:17)
 
 Then Scripture records a wonderful transformation:
 
-> Then the woman went her way and ate, and her face was no longer sad.
+> Then the woman went her way and ate, and her face was no longer sad. (1 Samuel 1:18)
 
 She had not yet received a child, not yet conceived—yet "her face was no longer sad." Why? Because prayer changes not only circumstances—prayer first changes the one praying. I had laid my burden before the LORD, and my heart found release. Faith is not certainty that God will respond exactly as I wish; faith is certainty that however he responds, he is faithful and good.
 
@@ -2999,13 +3017,13 @@ Sometimes I reflect: if God had given me Samuel earlier, would I have wholeheart
 
 ### III. This Child I Have Asked From the LORD (1 Samuel 1:19-28)
 
-> And the LORD remembered her. And in due time Hannah conceived and bore a son, and she called his name Samuel, for she said, "I have asked for him from the LORD."
+> And the LORD remembered her. And in due time Hannah conceived and bore a son, and she called his name Samuel, for she said, "I have asked for him from the LORD." (1 Samuel 1:20)
 
 "Samuel"—meaning "asked of God." Every time his name was called, it was a reminder: this child is not mine; he was asked from God and must be returned to God.
 
 When Samuel was weaned, I took him up to Shiloh—along with three bulls, an ephah of flour, and a skin of wine. This was the best I could offer.
 
-> "For this child I prayed, and the LORD has granted me my petition that I made to him. Therefore I have lent him to the LORD. As long as he lives, he is lent to the LORD."
+> "For this child I prayed, and the LORD has granted me my petition that I made to him. Therefore I have lent him to the LORD. As long as he lives, he is lent to the LORD." (1 Samuel 1:27-28)
 
 Can you imagine the emotion of that moment? Taking your most precious one—the child you wept years to receive, your only son—leaving him at the sanctuary in Shiloh, entrusting him to the aging priest Eli, then turning and walking away, returning to the empty rooms of your home in Ramah.
 
@@ -3015,13 +3033,13 @@ But I had no regrets. Because I knew: he was safer in the LORD's house than at m
 
 After giving Samuel to God, I did not weep—I sang.
 
-> My heart exults in the LORD; my horn is exalted in the LORD. My mouth derides my enemies, because I rejoice in your salvation.
+> My heart exults in the LORD; my horn is exalted in the LORD. My mouth derides my enemies, because I rejoice in your salvation. (1 Samuel 2:1)
 
-> There is none holy like the LORD: for there is none besides you; there is no rock like our God.
+> There is none holy like the LORD: for there is none besides you; there is no rock like our God. (1 Samuel 2:2)
 
-> The bows of the mighty are broken, but the feeble bind on strength. Those who were full have hired themselves out for bread, but those who were hungry have ceased to hunger. The barren has borne seven, but she who has many children is forlorn.
+> The bows of the mighty are broken, but the feeble bind on strength. Those who were full have hired themselves out for bread, but those who were hungry have ceased to hunger. The barren has borne seven, but she who has many children is forlorn. (1 Samuel 2:4-5)
 
-> He raises up the poor from the dust; he lifts the needy from the ash heap to make them sit with princes and inherit a seat of honor.
+> He raises up the poor from the dust; he lifts the needy from the ash heap to make them sit with princes and inherit a seat of honor. (1 Samuel 2:8)
 
 "The barren has borne seven"—this is my testimony. The woman who had wept year after year, who had been mocked and shamed, now sings: God has overturned everything! Later the LORD did indeed give me three more sons and two daughters.
 
@@ -3031,7 +3049,9 @@ The final verse of my song is especially significant: "The LORD will judge the e
 
 And my son Samuel—the child asked from God and returned to God—became one of Israel's greatest prophets. He anointed Saul, and then anointed David. From David's line, the Messiah was born. A barren woman's prayer became an indispensable thread in the tapestry of salvation history.
 
-Dear brothers and sisters, are you experiencing "year after year" suffering? Is someone provoking you, mocking you? Are you nearly at the end of hope in the waiting? Hear my story: God's timing is not our timing, but his timing is always best. Pour out your bitterness before him—he will not despise your tears. He is the God who "raises up the poor from the dust and lifts the needy from the ash heap." As he dealt with me in the past, so he will deal with you today.`,
+Dear brothers and sisters, are you experiencing "year after year" suffering? Is someone provoking you, mocking you? Are you nearly at the end of hope in the waiting? Hear my story: God's timing is not our timing, but his timing is always best. Pour out your bitterness before him—he will not despise your tears. He is the God who "raises up the poor from the dust and lifts the needy from the ash heap." As he dealt with me in the past, so he will deal with you today.
+
+Your sister, Hannah`,
   },
   {
     id: 'joseph-egypt',
@@ -3045,8 +3065,8 @@ Dear brothers and sisters, are you experiencing "year after year" suffering? Is 
     date: '2026-05-09',
     category: 'testimony',
     scripture: '创世记 50:15-21 / Genesis 50:15-21',
-    scriptureText_zh: '约瑟对他们说："不要害怕，我岂能代替神呢？从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景。"',
-    scriptureText_en: 'But Joseph said to them, "Do not fear, for am I in the place of God? As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today."',
+    scriptureText_zh: '约瑟对他们说："不要害怕，我岂能代替神呢？从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景。"（创世记 50:19-20）',
+    scriptureText_en: 'But Joseph said to them, "Do not fear, for am I in the place of God? As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today." (Genesis 50:19-20)',
     summary_zh: '被亲兄弟出卖、被主母诬陷、被同伴遗忘——十三年的苦难没有白费。约瑟的故事告诉我们：你们的意思是要害我，但神的意思原是好的。在神护理的手中，没有一滴眼泪是徒然的。',
     summary_en: 'Sold by his own brothers, falsely accused by his master\'s wife, forgotten by his fellow prisoner—thirteen years of suffering were not in vain. Joseph\'s story tells us: you meant evil against me, but God meant it for good. In God\'s providential hand, not a single tear is shed in vain.',
     tags: ['忍耐', '护理', '饶恕', '信实'],
@@ -3062,7 +3082,7 @@ Dear brothers and sisters, are you experiencing "year after year" suffering? Is 
 
 那天父亲派我去看望在示剑牧羊的哥哥们。我不知道，我走向的是一个精心设计的陷阱。他们远远看见我，就彼此商量要害死我。流便劝住了他们——不要流他的血，把他丢在坑里——他原想回头来救我。
 
-> 有些米甸的商人从那里经过，哥哥们就把约瑟从坑里拉上来，讲定二十舍客勒银子，把约瑟卖给以实玛利人。他们就把约瑟带到埃及去了。
+> 有些米甸的商人从那里经过，哥哥们就把约瑟从坑里拉上来，讲定二十舍客勒银子，把约瑟卖给以实玛利人。他们就把约瑟带到埃及去了。（创世记 37:28）
 
 二十舍客勒银子。这就是我在哥哥们眼中的价值——一个奴隶的价格。他们把我那件彩衣染上山羊血，拿回去给父亲看，让他以为我被野兽撕碎了。
 
@@ -3072,7 +3092,7 @@ Dear brothers and sisters, are you experiencing "year after year" suffering? Is 
 
 到了埃及，我被卖给法老的护卫长波提乏。但圣经记载了一句改变一切的话：
 
-> 约瑟住在他主人埃及人的家中，耶和华与他同在，他就百事顺利。
+> 约瑟住在他主人埃及人的家中，耶和华与他同在，他就百事顺利。（创世记 39:2）
 
 "耶和华与他同在"——在奴隶市场上、在异国他乡、在失去一切的处境中，神没有离开我。我不知道他为什么允许这一切发生，但我知道他没有抛弃我。信心有时候不是明白"为什么"，而是在不明白的时候仍然相信"神同在"。
 
@@ -3085,11 +3105,11 @@ Dear brothers and sisters, are you experiencing "year after year" suffering? Is 
 
 结果呢？她诬告我，波提乏把我下了监。
 
-> 把约瑟下在监里，就是王的囚犯被囚的地方。于是约瑟在那里坐监。
+> 把约瑟下在监里，就是王的囚犯被囚的地方。于是约瑟在那里坐监。（创世记 39:20）
 
 从奴隶变成管家，再从管家变成囚犯。人生似乎在不断下坠。但那句话又出现了：
 
-> 但耶和华与约瑟同在，向他施恩，使他在司狱的眼前蒙恩。
+> 但耶和华与约瑟同在，向他施恩，使他在司狱的眼前蒙恩。（创世记 39:21）
 
 即使在监狱里，"耶和华与约瑟同在"。弟兄姐妹，这就是我一生学到的最重要的功课：神的同在不取决于你所在的环境。你可以在王宫里远离神，也可以在监狱里与神同在。环境不能定义你与神的关系——你的信心才能。
 
@@ -3097,7 +3117,7 @@ Dear brothers and sisters, are you experiencing "year after year" suffering? Is 
 
 在监里，我为法老的酒政和膳长解了梦。酒政的梦应验了——他官复原职。我求他在法老面前提说我、救我出去。
 
-> 酒政却不记念约瑟，竟忘了他。
+> 酒政却不记念约瑟，竟忘了他。（创世记 40:23）
 
 "竟忘了他。"——这三个字，又是两年。我在监里又多等了两年。加上之前在波提乏家的年日，从被卖到被提拔，整整十三年。
 
@@ -3111,11 +3131,11 @@ Dear brothers and sisters, are you experiencing "year after year" suffering? Is 
 
 我给长子起名叫玛拿西：
 
-> 约瑟给长子起名叫玛拿西，因为他说："神使我忘了一切的困苦和我父的全家。"
+> 约瑟给长子起名叫玛拿西，因为他说："神使我忘了一切的困苦和我父的全家。"（创世记 41:51）
 
 我给次子起名叫以法莲：
 
-> 他给次子起名叫以法莲，因为他说："神使我在受苦的地方昌盛。"
+> 他给次子起名叫以法莲，因为他说："神使我在受苦的地方昌盛。"（创世记 41:52）
 
 两个儿子的名字，就是我整个生命的见证。"忘了一切的困苦"——不是说我失忆了，而是说神的恩典如此浩大，以至于苦难的记忆不再能辖制我。"在受苦的地方昌盛"——不是在苦难结束之后才昌盛，而是在受苦的**地方**、在受苦的**过程中**就已经昌盛了。
 
@@ -3125,17 +3145,17 @@ Dear brothers and sisters, are you experiencing "year after year" suffering? Is 
 
 饥荒来了，我的哥哥们来埃及买粮。他们不认识我——我已经不是当年那个十七岁的少年了。经过一番试验之后，我向他们表明了身份：
 
-> 我是你们的兄弟约瑟，就是你们所卖到埃及的。现在，不要因为把我卖到这里自忧自恨。这是神差我在你们以先来，为要保全生命。
+> 我是你们的兄弟约瑟，就是你们所卖到埃及的。现在，不要因为把我卖到这里自忧自恨。这是神差我在你们以先来，为要保全生命。（创世记 45:4-5）
 
-> 这样看来，差我到这里来的不是你们，乃是神。
+> 这样看来，差我到这里来的不是你们，乃是神。（创世记 45:8）
 
 "差我到这里来的不是你们，乃是神。"——这不是自我安慰的话。这是信心的宣告。我花了十三年才看见这幅完整的图画：那口枯井、那条商路、那间监牢——每一步都是神在下棋。人以为在害我，神却在用他们的恶来成就他的善。
 
 父亲雅各去世后，哥哥们害怕我报复。他们派人来求我饶恕。我对他们说了那句照亮整个旧约历史的话：
 
-> 不要害怕，我岂能代替神呢？从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景。现在你们不要害怕，我必养活你们和你们的妇人孩子。
+> 不要害怕，我岂能代替神呢？从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景。（创世记 50:19-20）现在你们不要害怕，我必养活你们和你们的妇人孩子。
 
-> 于是约瑟用亲爱的话安慰他们。
+> 于是约瑟用亲爱的话安慰他们。（创世记 50:21）
 
 
 "用亲爱的话安慰他们"——这几个字常常被人忽略，但对我来说，这是整个故事中最困难的部分。饶恕不是一瞬间的决定——饶恕是一个漫长的过程。在那十三年的等待中，我有无数次机会让苦毒在心里生根。但每一次，当我想起父亲教导我的神——亚伯拉罕的神、以撒的神、雅各的神——我就知道：我不能让仇恨吞噬我。仇恨会毁掉的不是我的哥哥们，而是我自己。
@@ -3148,7 +3168,9 @@ Dear brothers and sisters, are you experiencing "year after year" suffering? Is 
 
 亲爱的弟兄姐妹，你是否正在"枯井"里——被人出卖、被人诬陷、被人遗忘？你是否正在经历你人生中的"十三年等待"——看不见出路，看不见盼望？请记住约瑟的故事：差你到这里来的不是那些伤害你的人，乃是神。他的意思原是好的。你今日的苦难，在他的手中，会成就将来的荣耀。
 
-不要害怕。耶和华与你同在。`,
+不要害怕。耶和华与你同在。
+
+你的弟兄，约瑟`,
     content_en: `Dear brothers and sisters, I am Joseph, eleventh son of Jacob, firstborn of Rachel.
 
 You know my story—the coat of many colors, the empty pit, the road that led down to Egypt. But today I want to tell you not just an inspiring tale of a slave who became a prime minister—I want to tell you that behind it all was an unseen hand, weaving a tapestry far beyond anything I could have imagined.
@@ -3161,7 +3183,7 @@ I admit that in my youth I lacked wisdom. I told my brothers two dreams—sheave
 
 That day, my father sent me to check on my brothers pasturing sheep near Shechem. I did not know I was walking into a carefully laid trap. They saw me from a distance and conspired to kill me. Reuben intervened—don't shed his blood, throw him into a pit—he intended to return and rescue me.
 
-> Then Midianite traders passed by. And they drew Joseph up and lifted him out of the pit, and sold him to the Ishmaelites for twenty shekels of silver. They took Joseph to Egypt.
+> Then Midianite traders passed by. And they drew Joseph up and lifted him out of the pit, and sold him to the Ishmaelites for twenty shekels of silver. They took Joseph to Egypt. (Genesis 37:28)
 
 Twenty shekels of silver. That was my value in my brothers' eyes—the price of a slave. They dipped my coat in goat's blood and brought it back to show my father, letting him believe I had been torn apart by wild animals.
 
@@ -3171,7 +3193,7 @@ Brothers and sisters, being wounded by strangers is painful, but being betrayed 
 
 In Egypt, I was sold to Potiphar, an officer of Pharaoh's guard. But Scripture records a sentence that changes everything:
 
-> The LORD was with Joseph, and he became a successful man.
+> The LORD was with Joseph, and he became a successful man. (Genesis 39:2)
 
 "The LORD was with Joseph"—in the slave market, in a foreign land, in a situation where everything had been taken away, God had not abandoned me. I did not know why he was permitting all of this, but I knew he had not forsaken me. Sometimes faith is not understanding "why" but believing "God is with me" even when you don't understand.
 
@@ -3179,11 +3201,11 @@ I served faithfully in Potiphar's household, and Potiphar trusted me, entrusting
 
 The result? She falsely accused me, and Potiphar had me thrown into prison.
 
-> And Joseph's master took him and put him into the prison, the place where the king's prisoners were confined, and he was there in prison.
+> And Joseph's master took him and put him into the prison, the place where the king's prisoners were confined, and he was there in prison. (Genesis 39:20)
 
 From slave to manager, then from manager to prisoner. Life seemed to keep descending. But that sentence appeared again:
 
-> But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison.
+> But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison. (Genesis 39:21)
 
 Even in prison, "the LORD was with Joseph." Brothers and sisters, this is the most important lesson of my whole life: God's presence does not depend on your circumstances. You can be far from God in a palace, and you can be with God in a prison. Circumstances cannot define your relationship with God—your faith can.
 
@@ -3193,7 +3215,7 @@ During those years in Potiphar's house, I had resolved: no matter what the circu
 
 In prison, I interpreted dreams for Pharaoh's chief cupbearer and chief baker. The cupbearer's dream was fulfilled—he was restored to his position. I begged him to mention me to Pharaoh and get me out.
 
-> Yet the chief cupbearer did not remember Joseph, but forgot him.
+> Yet the chief cupbearer did not remember Joseph, but forgot him. (Genesis 40:23)
 
 "But forgot him."—Three words, then two more years. I waited another two years in prison. Counting the years in Potiphar's house, from being sold to being exalted—a full thirteen years.
 
@@ -3207,11 +3229,11 @@ When Pharaoh's dreams could not be interpreted, the chief cupbearer finally reme
 
 I named my firstborn Manasseh:
 
-> Joseph called the name of the firstborn Manasseh. "For," he said, "God has made me forget all my hardship and all my father's house."
+> Joseph called the name of the firstborn Manasseh. "For," he said, "God has made me forget all my hardship and all my father's house." (Genesis 41:51)
 
 I named my second son Ephraim:
 
-> The name of the second he called Ephraim, "For God has made me fruitful in the land of my affliction."
+> The name of the second he called Ephraim, "For God has made me fruitful in the land of my affliction." (Genesis 41:52)
 
 Two sons' names—they are the testimony of my entire life. "Made me forget all my hardship"—not that I had amnesia, but that God's grace was so great that the memory of suffering could no longer hold power over me. "Fruitful in the land of my affliction"—not fruitful after the suffering ended, but fruitful in the very **place** of affliction, during the very **process** of suffering.
 
@@ -3221,17 +3243,17 @@ This is how God works: he doesn't necessarily remove you from difficulty, but he
 
 The famine came, and my brothers came to Egypt to buy grain. They did not recognize me—I was no longer the seventeen-year-old boy I had been. After a series of tests, I revealed my identity to them:
 
-> "I am your brother, Joseph, whom you sold into Egypt. And now do not be distressed or angry with yourselves because you sold me here, for God sent me before you to preserve life."
+> "I am your brother, Joseph, whom you sold into Egypt. And now do not be distressed or angry with yourselves because you sold me here, for God sent me before you to preserve life." (Genesis 45:4-5)
 
-> "So it was not you who sent me here, but God."
+> "So it was not you who sent me here, but God." (Genesis 45:8)
 
 "It was not you who sent me here, but God."—These are not words of self-comfort. They are a declaration of faith. It took me thirteen years to see this complete picture: the empty pit, the slave road, the prison cell—every step was God making his move. People thought they were harming me; God was using their evil to accomplish his good.
 
 When my father Jacob died, my brothers feared I would take revenge. They sent a message begging my forgiveness. I said to them words that illuminate the entire Old Testament:
 
-> "Do not fear, for am I in the place of God? As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today. So do not fear; I will provide for you and your little ones."
+> "Do not fear, for am I in the place of God? As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today. So do not fear; I will provide for you and your little ones." (Genesis 50:19-21)
 
-> And he comforted them and spoke kindly to them.
+> And he comforted them and spoke kindly to them. (Genesis 50:21)
 
 "You meant evil against me, but God meant it for good."—Brothers and sisters, this is the most profound sentence in all of Scripture about the providence of God. People have their purposes, God has his purposes. Human purposes can be evil—jealousy, betrayal, slander, being forgotten—but God's purposes are always good. He can weave all of human evil into the tapestry of his gracious will, "to bring it about that many people should be kept alive."
 
@@ -3243,7 +3265,9 @@ Forgiveness is not saying "what you did doesn't matter"—what they did mattered
 
 Dear brothers and sisters, are you in an "empty pit"—betrayed, slandered, forgotten? Are you in your own "thirteen-year wait"—unable to see a way out, unable to see hope? Hear Joseph's story: the one who sent you here is not those who hurt you, but God. His purposes are always good. Your present suffering, in his hands, will accomplish future glory.
 
-Do not be afraid. The LORD is with you.`,
+Do not be afraid. The LORD is with you.
+
+Your brother, Joseph`,
   },
 
   {
@@ -3258,8 +3282,8 @@ Do not be afraid. The LORD is with you.`,
     date: '2026-04-25',
     category: 'fellowship' as const,
     scripture: '使徒行传 4:32-37 / Acts 4:32-37',
-    scriptureText_zh: '那许多信的人都是一心一意的，没有一人说他的东西有一样是自己的，都是大家公用。',
-    scriptureText_en: 'Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common.',
+    scriptureText_zh: '那许多信的人都是一心一意的，没有一人说他的东西有一样是自己的，都是大家公用。（使徒行传 4:32）',
+    scriptureText_en: 'Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common. (Acts 4:32) (Acts 4:32)',
     summary_zh: '团契不是完美之人的聚会，乃是蒙恩之人在基督里的合一。',
     summary_en: 'Fellowship is not a gathering of perfect people, but the unity of those who have received grace in Christ.',
     tags: ['团契', '接纳', '饶恕', '建造'],
@@ -3267,13 +3291,13 @@ Do not be afraid. The LORD is with you.`,
 
 ### 一、团契从舍己开始（徒4:32-37）
 
-> 那许多信的人都是一心一意的，没有一人说他的东西有一样是自己的，都是大家公用。
+> 那许多信的人都是一心一意的，没有一人说他的东西有一样是自己的，都是大家公用。（使徒行传 4:32）
 
 这是五旬节之后，圣灵降临，教会诞生的光景。弟兄姐妹们不是被律法逼迫去分享，乃是被圣灵的爱充满，甘心乐意地放下自己。
 
 我当时有一块田地。那田地是我在塞浦路斯的产业，是祖辈留给我的。说实话，卖掉它并不容易。但当我看见弟兄姐妹们的需要，当我想到主耶稣为我舍弃了天上的荣耀，我还有什么不能舍弃的呢？
 
-> 他有田地，也卖了，把价银拿来，放在使徒脚前。
+> 他有田地，也卖了，把价银拿来，放在使徒脚前。（使徒行传 4:37）
 
 我把银子放在使徒脚前——不是为了得人的称赞，乃是因为我深知：这一切原本就是神的。我不过是把神的东西归还给神的家。
 
@@ -3281,21 +3305,21 @@ Do not be afraid. The LORD is with you.`,
 
 团契不是坐在一起喝茶聊天。团契的根基是舍己——效法基督，他本有神的形像，却虚己取了奴仆的形像。保罗后来写道：
 
-> 凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。各人不要单顾自己的事，也要顾别人的事。
+> 凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。各人不要单顾自己的事，也要顾别人的事。（腓立比书 2:3-4）
 
 ### 二、团契是接纳被拒绝的人（徒9:26-27）
 
 教会历史上有一个人，所有门徒都怕他——扫罗。他曾经逼迫教会，看守司提反殉道时众人的衣裳，挨家挨户拉信徒下监。当他说自己归信了，谁敢相信？
 
-> 扫罗到了耶路撒冷，想与门徒结交，他们却都怕他，不信他是门徒。
+> 扫罗到了耶路撒冷，想与门徒结交，他们却都怕他，不信他是门徒。（使徒行传 9:26）
 
 弟兄姐妹们的恐惧是可以理解的。扫罗的名字曾经是教会的噩梦。但我听了他的见证，看见他眼中的光，那是从主而来的光。于是我做了一个决定：
 
-> 惟有巴拿巴接待他，领去见使徒，把他在路上怎么看见主，主怎么向他说话，他在大马士革怎么奉耶稣的名放胆传道，都述说出来。
+> 惟有巴拿巴接待他，领去见使徒，把他在路上怎么看见主，主怎么向他说话，他在大马士革怎么奉耶稣的名放胆传道，都述说出来。（使徒行传 9:27）
 
 我为什么接纳扫罗？因为我想起主耶稣的话——他来不是召义人，乃是召罪人。如果神已经接纳了扫罗，我们凭什么拒绝他？保罗后来写道：
 
-> 所以，你们要彼此接纳，如同基督接纳你们一样，使荣耀归与神。
+> 所以，你们要彼此接纳，如同基督接纳你们一样，使荣耀归与神。（罗马书 15:7）
 
 真正的团契，不是只接纳"和我们一样"的人。真正的团契是效法基督的接纳——他在我们还作罪人的时候就为我们死了。那个曾经逼迫教会的扫罗，后来成了使徒保罗，写了新约十三卷书信。如果当初没有人愿意接纳他，教会的历史会怎样？
 
@@ -3303,19 +3327,19 @@ Do not be afraid. The LORD is with you.`,
 
 后来，福音传到了安提阿，外邦人也开始信主。耶路撒冷教会听到这个消息，就差遣我去察看。
 
-> 他到了那里，看见神所赐的恩就欢喜，劝勉众人，立定心志，恒久靠主。
+> 他到了那里，看见神所赐的恩就欢喜，劝勉众人，立定心志，恒久靠主。（使徒行传 11:23）
 
 路加记载了我到安提阿时的反应："看见神所赐的恩就欢喜。"这句话看似简单，却蕴含着团契的核心。我没有去审查他们的信仰是否合格，没有去考核他们的行为是否达标——我首先看见的是"神所赐的恩"，而我的反应是"欢喜"。
 
 许多时候，我们在团契中更容易看见别人的不足：这个人神学不够深，那个人生命还不够成熟，这个教会的做法和我们不一样。但团契的眼光应当首先看见恩典——神在他们身上的作为。
 
-> 这巴拿巴原是个好人，被圣灵充满，大有信心。于是有许多人归服了主。
+> 这巴拿巴原是个好人，被圣灵充满，大有信心。于是有许多人归服了主。（使徒行传 11:24）
 
 路加说我"原是个好人"——这不是自夸。这"好"不是道德上的完美，乃是圣灵的果子。一个被圣灵充满的人，自然会结出仁爱、喜乐、和平的果子，自然会成为团契的祝福。
 
 在安提阿，我做了另一件重要的事：
 
-> 他又往大数去找扫罗，找着了，就带他到安提阿去。他们足有一年的工夫和教会一同聚集，教训了许多人。门徒称为"基督徒"是从安提阿起首。
+> 他又往大数去找扫罗，找着了，就带他到安提阿去。他们足有一年的工夫和教会一同聚集，教训了许多人。门徒称为"基督徒"是从安提阿起首。（使徒行传 11:25-26）
 
 我去大数找扫罗——这不是偶然的决定。我看见安提阿教会需要好的教导，而我知道扫罗有这个恩赐。团契不是一个人独自承担所有服事，乃是看见别人的恩赐，把他们带到需要他们的地方。
 
@@ -3327,7 +3351,7 @@ Do not be afraid. The LORD is with you.`,
 
 我必须诚实地说，团契并不总是美好的。我和保罗之间发生过一次严重的分歧。
 
-> 巴拿巴有意要带称呼马可的约翰同去；但保罗因为马可从前在旁非利亚离开他们，不和他们同去做工，就以为不可带他去。于是二人起了争论，甚至彼此分开。巴拿巴带着马可，坐船往塞浦路斯去。
+> 巴拿巴有意要带称呼马可的约翰同去；但保罗因为马可从前在旁非利亚离开他们，不和他们同去做工，就以为不可带他去。于是二人起了争论，甚至彼此分开。巴拿巴带着马可，坐船往塞浦路斯去。（使徒行传 15:37-39）
 
 马可是我的表弟。第一次宣教旅程时，他中途离开了我们。保罗认为他不可靠，不愿再带他。但我看见的是一个年轻人——他跌倒了，但他需要第二次机会。
 
@@ -3335,11 +3359,11 @@ Do not be afraid. The LORD is with you.`,
 
 但故事没有到此结束。多年以后，保罗在监狱里写信给歌罗西教会：
 
-> 与我一同坐监的亚里达古问你们安。巴拿巴的表弟马可也问你们安。说到这马可，你们已经受了吩咐；他若到了你们那里，你们就接待他。
+> 与我一同坐监的亚里达古问你们安。巴拿巴的表弟马可也问你们安。说到这马可，你们已经受了吩咐；他若到了你们那里，你们就接待他。（歌罗西书 4:10）
 
 保罗接纳了马可！在生命的尽头，他甚至写信给提摩太说：
 
-> 你来的时候，要把马可带来，因为他在传道的事上于我有益处。
+> 你来的时候，要把马可带来，因为他在传道的事上于我有益处。（提摩太后书 4:11）
 
 那个曾经被保罗拒绝的马可，后来写了马可福音——四福音书中最早的一卷。如果当初没有人给他第二次机会，教会就会失去一卷福音书。
 
@@ -3347,28 +3371,30 @@ Do not be afraid. The LORD is with you.`,
 
 ### 五、团契的根基是基督（来10:24-25）
 
-> 又要彼此相顾，激发爱心，勉励行善。你们不可停止聚会，好像那些停止惯了的人，倒要彼此劝勉，既知道那日子临近，就更当如此。
+> 又要彼此相顾，激发爱心，勉励行善。你们不可停止聚会，好像那些停止惯了的人，倒要彼此劝勉，既知道那日子临近，就更当如此。（希伯来书 10:24-25）
 
 团契不是可有可无的。希伯来书的作者严肃地警告：不可停止聚会。为什么？因为基督徒的生命不是独自行走的。我们是基督身体上的肢体，彼此相连，彼此需要。
 
-> 若一个肢体受苦，所有的肢体就一同受苦；若一个肢体得荣耀，所有的肢体就一同快乐。
+> 若一个肢体受苦，所有的肢体就一同受苦；若一个肢体得荣耀，所有的肢体就一同快乐。（哥林多前书 12:26）
 
-> 我们若在光明中行，如同神在光明中，就彼此相交，他儿子耶稣的血也洗净我们一切的罪。
+> 我们若在光明中行，如同神在光明中，就彼此相交，他儿子耶稣的血也洗净我们一切的罪。（约翰一书 1:7）
 
 团契的根基不是人与人之间的感情，乃是基督的血所立的新约。我们能够彼此相交，是因为我们都与基督相交；我们能够彼此接纳，是因为基督先接纳了我们。
 
-亲爱的弟兄姐妹，我一生学到的功课就是：团契不是完美之人的聚会，乃是蒙恩之人在基督里的合一。它需要舍己，需要接纳，需要在恩典中看见别人，需要在冲突中选择饶恕。愿你珍惜神赐给你的团契——那是天上团契的预尝，是永恒中我们将与基督并众圣徒永远同在的荣耀盼望。`,
+亲爱的弟兄姐妹，我一生学到的功课就是：团契不是完美之人的聚会，乃是蒙恩之人在基督里的合一。它需要舍己，需要接纳，需要在恩典中看见别人，需要在冲突中选择饶恕。愿你珍惜神赐给你的团契——那是天上团契的预尝，是永恒中我们将与基督并众圣徒永远同在的荣耀盼望。
+
+你的弟兄，巴拿巴——劝慰子`,
     content_en: `Dear brothers and sisters, I am Barnabas—the name the apostles gave me, meaning "Son of Encouragement." My original name was Joseph, a Levite born on the island of Cyprus. Today I want to share with you a theme—the true meaning of fellowship.
 
 ### I. Fellowship Begins with Self-Sacrifice (Acts 4:32-37)
 
-> Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common.
+> Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common. (Acts 4:32)
 
 This was the scene after Pentecost, when the Holy Spirit descended and the church was born. The brothers and sisters were not forced by law to share; they were filled with the Spirit's love, willingly laying down their own possessions.
 
 I had a field at that time—my property in Cyprus, an inheritance from my ancestors. To be honest, selling it was not easy. But when I saw the needs of the brothers and sisters, when I thought of how the Lord Jesus gave up the glory of heaven for me, what could I not give up?
 
-> He had a field, and he sold it and brought the money and laid it at the apostles' feet.
+> He had a field, and he sold it and brought the money and laid it at the apostles' feet. (Acts 4:37)
 
 I laid the money at the apostles' feet—not for human praise, but because I knew deeply: all of it originally belonged to God. I was merely returning God's things to God's household.
 
@@ -3376,21 +3402,21 @@ This is the first lesson of fellowship: experiencing abundance through giving. T
 
 Fellowship is not sitting together drinking tea and chatting. The foundation of fellowship is self-sacrifice—imitating Christ, who, though he was in the form of God, emptied himself, taking the form of a servant. Paul later wrote:
 
-> Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others.
+> Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others. (Philippians 2:3-4)
 
 ### II. Fellowship Means Accepting the Rejected (Acts 9:26-27)
 
 There was a man in church history whom all the disciples feared—Saul. He had persecuted the church, guarding the garments of those who stoned Stephen, dragging believers from house to house into prison. When he claimed to have been converted, who dared believe him?
 
-> And when he had come to Jerusalem, he attempted to join the disciples. And they were all afraid of him, for they did not believe that he was a disciple.
+> And when he had come to Jerusalem, he attempted to join the disciples. And they were all afraid of him, for they did not believe that he was a disciple. (Acts 9:26)
 
 The brothers' and sisters' fear was understandable. Saul's name had been the church's nightmare. But I heard his testimony and saw the light in his eyes—light that came from the Lord. So I made a decision:
 
-> But Barnabas took him and brought him to the apostles and declared to them how on the road he had seen the Lord, who spoke to him, and how at Damascus he had preached boldly in the name of Jesus.
+> But Barnabas took him and brought him to the apostles and declared to them how on the road he had seen the Lord, who spoke to him, and how at Damascus he had preached boldly in the name of Jesus. (Acts 9:27)
 
 Why did I accept Saul? Because I remembered the Lord Jesus' words—he came not to call the righteous, but sinners. If God had already accepted Saul, what right did we have to reject him? Paul later wrote:
 
-> Therefore welcome one another as Christ has welcomed you, for the glory of God.
+> Therefore welcome one another as Christ has welcomed you, for the glory of God. (Romans 15:7)
 
 True fellowship does not only accept those who are "like us." True fellowship imitates Christ's acceptance—he died for us while we were still sinners. That former persecutor of the church became the Apostle Paul, who wrote thirteen epistles of the New Testament. If no one had been willing to accept him, what would church history have looked like?
 
@@ -3398,19 +3424,19 @@ True fellowship does not only accept those who are "like us." True fellowship im
 
 Later, the gospel spread to Antioch, and Gentiles began to believe in the Lord. When the Jerusalem church heard this news, they sent me to investigate.
 
-> When he came and saw the grace of God, he was glad, and he exhorted them all to remain faithful to the Lord with steadfast purpose.
+> When he came and saw the grace of God, he was glad, and he exhorted them all to remain faithful to the Lord with steadfast purpose. (Acts 11:23)
 
 Luke recorded my reaction upon arriving in Antioch: "He saw the grace of God and was glad." This sentence seems simple, yet it contains the core of fellowship. I did not go to examine whether their faith was qualified, did not go to evaluate whether their conduct met standards—what I first saw was "the grace of God," and my response was "gladness."
 
 So often in fellowship we more readily see others' shortcomings: this person's theology isn't deep enough, that person's life isn't mature enough, this church does things differently from us. But the eyes of fellowship should first see grace—God's work in their lives.
 
-> For he was a good man, full of the Holy Spirit and of faith. And a great many people were added to the Lord.
+> For he was a good man, full of the Holy Spirit and of faith. And a great many people were added to the Lord. (Acts 11:24)
 
 Luke said I was "a good man"—this is not boasting. This "good" is not moral perfection but the fruit of the Spirit. A person filled with the Holy Spirit naturally bears fruit of love, joy, and peace, naturally becoming a blessing to fellowship.
 
 In Antioch, I did another important thing:
 
-> So Barnabas went to Tarsus to look for Saul, and when he had found him, he brought him to Antioch. For a whole year they met with the church and taught a great many people. And in Antioch the disciples were first called Christians.
+> So Barnabas went to Tarsus to look for Saul, and when he had found him, he brought him to Antioch. For a whole year they met with the church and taught a great many people. And in Antioch the disciples were first called Christians. (Acts 11:25-26)
 
 I went to Tarsus to find Saul—this was no random decision. I saw that the Antioch church needed good teaching, and I knew Saul had that gift. Fellowship is not one person bearing all the ministry alone, but seeing others' gifts and bringing them where they are needed.
 
@@ -3422,7 +3448,7 @@ I too was once weak. Paul recorded in Galatians something that shames me—in An
 
 I must speak honestly: fellowship is not always beautiful. Paul and I had a serious disagreement.
 
-> Barnabas wanted to take with them John called Mark. But Paul thought best not to take with them one who had withdrawn from them in Pamphylia and had not gone with them to the work. And there arose a sharp disagreement, so that they separated from each other. Barnabas took Mark with him and sailed away to Cyprus.
+> Barnabas wanted to take with them John called Mark. But Paul thought best not to take with them one who had withdrawn from them in Pamphylia and had not gone with them to the work. And there arose a sharp disagreement, so that they separated from each other. Barnabas took Mark with him and sailed away to Cyprus. (Acts 15:37-39)
 
 Mark was my cousin. During the first missionary journey, he left us midway. Paul considered him unreliable and refused to take him again. But what I saw was a young man—he had fallen, but he needed a second chance.
 
@@ -3430,11 +3456,11 @@ Paul and I "had a sharp disagreement, so that they separated." This is Scripture
 
 But the story does not end there. Years later, Paul wrote from prison to the Colossian church:
 
-> Aristarchus my fellow prisoner greets you, and Mark the cousin of Barnabas (concerning whom you have received instructions—if he comes to you, welcome him).
+> Aristarchus my fellow prisoner greets you, and Mark the cousin of Barnabas (concerning whom you have received instructions—if he comes to you, welcome him). (Colossians 4:10)
 
 Paul accepted Mark! At the end of his life, he even wrote to Timothy:
 
-> Get Mark and bring him with you, for he is very useful to me for ministry.
+> Get Mark and bring him with you, for he is very useful to me for ministry. (2 Timothy 4:11)
 
 The Mark whom Paul once rejected later wrote the Gospel of Mark—the earliest of the four Gospels. If no one had given him a second chance, the church would have lost an entire Gospel.
 
@@ -3442,16 +3468,18 @@ The true meaning of fellowship includes forgiveness and restoration. We are not 
 
 ### V. The Foundation of Fellowship Is Christ (Heb. 10:24-25)
 
-> And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near.
+> And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near. (Hebrews 10:24-25)
 
 Fellowship is not optional. The author of Hebrews solemnly warns: do not neglect meeting together. Why? Because the Christian life is not a solitary journey. We are members of Christ's body, connected to one another, needing one another.
 
-> If one member suffers, all suffer together; if one member is honored, all rejoice together.
+> If one member suffers, all suffer together; if one member is honored, all rejoice together. (1 Corinthians 12:26)
 
-> But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin.
+> But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin. (1 John 1:7)
 
 The foundation of fellowship is not human affection, but the new covenant established by Christ's blood. We can have fellowship with one another because we all have fellowship with Christ; we can accept one another because Christ first accepted us.
 
-Dear brothers and sisters, the lesson I learned in my lifetime is this: fellowship is not a gathering of perfect people, but the unity of redeemed sinners in Christ. It requires self-sacrifice, acceptance, seeing others through the lens of grace, and choosing forgiveness amid conflict. May you treasure the fellowship God has given you—it is a foretaste of heavenly fellowship, the glorious hope that we will be with Christ and all the saints forever.`,
+Dear brothers and sisters, the lesson I learned in my lifetime is this: fellowship is not a gathering of perfect people, but the unity of redeemed sinners in Christ. It requires self-sacrifice, acceptance, seeing others through the lens of grace, and choosing forgiveness amid conflict. May you treasure the fellowship God has given you—it is a foretaste of heavenly fellowship, the glorious hope that we will be with Christ and all the saints forever.
+
+Your brother, Barnabas—the Son of Encouragement`,
   },
 ];

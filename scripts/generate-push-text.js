@@ -16,7 +16,12 @@ function getDow() {
 function generateReading() {
   const src = fs.readFileSync(`${PROJECT}/web/src/data/readings.ts`, 'utf8');
   const today = getToday();
-  const blocks = src.split('readings.push({').slice(1);
+  // Support both `readings.push({` and `[{ ... }, { ... }]` array formats
+  let blocks = src.split('readings.push({').slice(1);
+  if (blocks.length === 0) {
+    // Array format: split on `  {` (object start in array)
+    blocks = src.split(/\n\s*\{(?=\s*\n?\s*book:)/).slice(1);
+  }
   
   for (const b of blocks) {
     const pd = b.match(/publishDate:\s*'([^']+)'/);
