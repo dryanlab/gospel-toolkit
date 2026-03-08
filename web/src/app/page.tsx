@@ -95,6 +95,7 @@ export default function HomePage() {
         <div className="rounded-2xl bg-gradient-to-r from-amber-600 via-orange-500 to-amber-500 dark:from-amber-700 dark:via-orange-600 dark:to-amber-600 px-6 min-h-[88px] py-4 flex items-center gap-4 transition-all hover:shadow-lg hover:-translate-y-0.5 shadow-md">
           <span className="text-4xl shrink-0">📖</span>
           <div className="flex-1 min-w-0">
+            <p className="text-white/70 text-xs">The Word of God</p>
             <h3 className="font-serif-cn text-xl font-bold text-white">圣经 / Holy Bible</h3>
             <p className="text-white/80 text-sm">和合本 · King James Version — 66卷 1189章</p>
           </div>

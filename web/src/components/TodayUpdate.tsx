@@ -34,10 +34,11 @@ function getEstDayOfWeek(): number {
 function formatDateZh(dateStr: string): string {
   const days = ['日', '一', '二', '三', '四', '五', '六'];
   const d = new Date(dateStr + 'T12:00:00');
+  const year = d.getFullYear();
   const month = d.getMonth() + 1;
   const day = d.getDate();
   const dow = d.getDay();
-  return `${month}月${day}日 周${days[dow]}`;
+  return `主后${year}年${month}月${day}日 礼拜${days[dow]}`;
 }
 
 export default function TodayUpdate() {
@@ -139,9 +140,10 @@ export default function TodayUpdate() {
   return (
     <Link href={content.href} className="block group mb-6">
       <div className="rounded-2xl bg-gradient-to-r from-emerald-700 via-teal-600 to-emerald-600 dark:from-emerald-800 dark:via-teal-700 dark:to-emerald-700 px-6 min-h-[88px] py-4 flex items-center gap-4 transition-all hover:shadow-lg hover:-translate-y-0.5 shadow-md">
-        <span className="text-4xl shrink-0">{content.icon}</span>
+        <span className="text-4xl shrink-0">🔔</span>
         <div className="flex-1 min-w-0">
-          <h3 className="font-serif-cn text-xl font-bold text-white">🔔 今日更新 · {content.type === 'reading' ? '圣徒伴读' : '圣徒来信'}</h3>
+          <p className="text-white/70 text-xs">{dateZh}</p>
+          <h3 className="font-serif-cn text-xl font-bold text-white">今日更新 · {content.type === 'reading' ? '圣徒伴读' : '圣徒来信'}</h3>
           <p className="text-white/80 text-sm">{content.title}{content.author ? ` — ✍️ ${content.author}` : ''}</p>
         </div>
         <span className="text-white/90 text-2xl shrink-0 group-hover:translate-x-1 transition-transform">→</span>
