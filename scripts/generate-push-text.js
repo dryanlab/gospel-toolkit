@@ -121,6 +121,17 @@ function generateReading() {
 function generateLetter(id) {
   const src = fs.readFileSync(`${PROJECT}/web/src/data/letters.ts`, 'utf8');
   
+  // Auto-detect today's letter if no id provided
+  if (!id) {
+    const today = getToday();
+    const dateRe = /id:\s*'([^']+)'[\s\S]*?date:\s*'([^']+)'/g;
+    let m;
+    while ((m = dateRe.exec(src)) !== null) {
+      if (m[2] === today) { id = m[1]; break; }
+    }
+    if (!id) { console.error('No letter for today:', today); process.exit(1); }
+  }
+  
   // Find letter by id
   const re = new RegExp(`id:\\s*'${id}'`);
   const idx = src.search(re);

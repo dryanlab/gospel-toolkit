@@ -1658,7 +1658,7 @@ May the God who had mercy on me likewise have mercy on you. May He create in you
     scriptureText_en: `But Ruth said, Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God.`,
     summary_zh: `一个摩押外邦女子，因信离开故土跟随婆婆的神，经历恩典的拾穗、救赎者的遮盖，最终被纳入基督的家谱——证明神的恩典超越一切界限。`,
     summary_en: `A Moabite woman who by faith left her homeland to follow her mother-in-law's God, experienced grace in the gleaning fields and the covering of a kinsman-redeemer, and was ultimately grafted into the genealogy of Christ—proof that God's grace transcends every boundary.`,
-    tags: ['testimony', 'redemption', 'faith', 'grace'],
+    tags: ['见证', '救赎', '信心', '恩典'],
     content_zh: `
 ## 你的国就是我的国
 
@@ -1977,330 +1977,220 @@ Your sister, Ruth of Moab
     title_en: 'In the Cave at Horeb',
     date: '2026-04-04',
     category: 'testimony',
-    scripture: '',
-    scriptureText_zh: '',
-    scriptureText_en: '',
-    summary_zh: '',
-    summary_en: '',
-    tags: [],
-    content_zh: `## 我是扫罗——最虔诚的逼迫者
+    scripture: '列王纪上 19:1-18 / 1 Kings 19:1-18',
+    scriptureText_zh: '耶和华说："你出来站在山上，在我面前。"那时耶和华从那里经过，在他面前有烈风大作，崩山碎石，耶和华却不在风中；风后地震，耶和华却不在其中；地震后有火，耶和华也不在火中；火后有微小的声音。',
+    scriptureText_en: 'And he said, "Go out and stand on the mount before the LORD." And behold, the LORD passed by, and a great and strong wind tore the mountains and broke in pieces the rocks before the LORD, but the LORD was not in the wind. And after the wind an earthquake, but the LORD was not in the earthquake. And after the earthquake a fire, but the LORD was not in the fire. And after the fire the sound of a low whisper.',
+    summary_zh: '以利亚在迦密山大胜之后陷入极度绝望，逃到何烈山的洞中。神没有在烈风、地震、火中，却在微小的声音中向他说话——最刚强的先知也会软弱，但神的恩典在人的软弱上显得完全。',
+    summary_en: 'After his great victory on Mount Carmel, Elijah fell into deep despair and fled to a cave on Horeb. God was not in the wind, earthquake, or fire, but in the still small voice—even the strongest prophet can be weak, but God\'s grace is made perfect in weakness.',
+    tags: ['信心', '试炼', '复兴', '顺服'],
+    content_zh: `亲爱的弟兄姐妹，我是以利亚，提斯比人，耶和华的先知。
 
-我叫扫罗，便雅悯支派的人，法利赛人中的法利赛人。
+你们可能听过我在迦密山上的故事——独自面对四百五十个巴力先知，从天上降下火来，百姓俯伏呼喊"耶和华是神！"那是何等辉煌的一天。但今天我要告诉你的，不是迦密山的得胜，而是迦密山之后的溃败。
 
-你们若问我从前是什么人，我可以把我的履历摆在你们面前："我第八天受割礼；我是以色列族、便雅悯支派的人，是希伯来人所生的希伯来人。就律法说，我是法利赛人；就热心说，我是逼迫教会的；就律法上的义说，我是无可指摘的。"（腓立比书 3:5-6）
+### 一、从山顶到谷底（王上19:1-4）
 
-你们听清楚了吗？**无可指摘。** 不是我自夸。在迦玛列门下受教的那些年，我背下了整本妥拉，安息日从不违反一条诫命，十一奉献精确到薄荷、茴香、芹菜。法利赛人中间，没有人比我更认真。
+迦密山的火刚刚熄灭，百姓的呼喊还在耳边回荡，我以为一切都会改变——以色列会回转，亚哈王会悔改，巴力崇拜会被彻底扫除。
 
-但光认真还不够。我要**为神大发热心。**
+但事实是：耶洗别差人送来一句话。
 
-当我第一次听说有一群人在传讲一个被钉十字架的拿撒勒人是弥赛亚的时候，我的血都沸腾了。**弥赛亚被挂在木头上？** 妥拉明明写着："被挂的人是在神面前受咒诅的"（申命记 21:23）。这些人不是在传福音——他们是在亵渎神！
+> 耶洗别就差遣人去见以利亚，告诉他说："明日约在这时候，我若不使你的性命像那些人的性命一样，愿神明重重地降罚与我。"
 
-所以当公会决定要清除这个异端的时候，我第一个站出来。
+一句话。一个女人的一句威胁。就在二十四小时前，我曾独自站在迦密山上，面对整个国家的偶像势力毫无惧色。但现在，耶洗别一句话就让我丢盔弃甲、拔腿就跑。
 
-司提反被石头打死的那天，我就在那里。我没有亲手丢石头——我替那些丢石头的人看守衣裳。我看着他跪下来，看着石头一块一块砸在他身上。他满脸是血，但他的脸——
+> 以利亚见这光景就起来逃命，到了犹大的别是巴，将仆人留在那里，自己在旷野走了一日的路程，来到一棵罗腾树下，就坐在那里求死，说："耶和华啊，罢了！求你取我的性命，因为我不胜于我的列祖。"
 
-弟兄姐妹，我不愿意承认这一点，但那天我看到了一张我永远忘不掉的脸。**他的脸好像天使的脸。** 他在死的时候说："主阿，不要将这罪归于他们！"（使徒行传 7:60）
+"罢了！求你取我的性命。"——弟兄姐妹，你能想象吗？昨天还在呼求天火的先知，今天在罗腾树下求死。这不是虚构的故事——圣经毫不掩饰地记录了神最忠心的仆人最软弱的时刻。
 
-被石头打死的人在为打他的人祷告。
+为什么？因为属灵的高峰之后往往是最深的低谷。身体的疲惫、情感的耗竭、期望的落空——这一切汇聚在一起，把我压垮了。我说"我不胜于我的列祖"——我以为自己应该比前人做得更好，可事实证明我同样脆弱。
 
-我当时把这念头压下去了。我告诉自己：这是魔鬼的迷惑。越是看起来像天使的，越危险。
+### 二、神先顾念身体（王上19:5-8）
 
-所以我更加疯狂地逼迫。
+我在罗腾树下睡着了。然后，奇妙的事发生了。
 
-我挨家挨户搜查。男人女人，我一概拉到监里。我威胁他们，要他们否认那个名字。有些人否认了——我看到他们眼中的羞耻和痛苦。有些人不肯——我看到他们眼中的平安，一种我用尽全力也无法拥有的平安。
+> 有一个天使拍他，说："起来吃吧！"他观看，见头旁有一瓶水与炭火烧的饼，他就吃了喝了，仍然躺下。耶和华的使者第二次来拍他，说："起来吃吧！因为你当走的路甚远。"
 
-**我恨那种平安。** 因为我心里没有。
+神没有责备我。没有说"你怎么这么没信心"，没有讲一篇关于信心的道。他差天使来——做什么？**烤饼、倒水。**
 
-我以为我有。我以为遵行律法、大发热心就是平安。但每次看到那些被我抓起来的人，他们在锁链中唱诗赞美的时候，我心里就有一个声音说：**他们有的东西，你没有。**
+弟兄姐妹，这让我深深感动。神知道我那一刻需要的不是神学教导，而是食物和休息。他创造了我们的身体，他知道肉体的极限。很多时候我们的属灵低潮不是因为不属灵，而是因为太累了、太饿了、太孤单了。
 
-我把那声音压得更深。
+天使来了两次。第一次我吃了又躺下——神没有催促我，让我继续睡。第二次天使说："你当走的路甚远"——神知道前面还有漫长的路要走，他预备了足够的力量。
 
-## 去大马色的路上
+> 他就起来吃了喝了，仗着这饮食的力，走了四十昼夜，到了神的山，就是何烈山。
 
-耶路撒冷还不够。我听说大马色也有信这道的人，就去大祭司那里要了文书，要把那里的人也捆绑回来。
+四十昼四十夜——靠着一顿天使的饭。这是何等的供应！正如保罗后来所说：
 
-那是一段很长的路，大约六天的行程。一路上我都在想着到了之后怎么审讯、怎么定罪。我的心里充满了义怒——至少我以为那是义怒。
+> 我们有这宝贝放在瓦器里，要显明这莫大的能力是出于神，不是出于我们。
 
-**然后那道光来了。**
+我就是那个瓦器。碎裂的、疲惫的、想要放弃的瓦器。但神的能力在瓦器里运行。
+后来我才明白：神不会浪费我们的软弱。在迦密山上，我见证了神的大能；在罗腾树下，我经历了神的温柔。两样我都需要。若没有罗腾树下的经历，我会以为事奉神全凭刚强；若没有何烈山的功课，我不会知道神在安静中同样做工。
 
-弟兄姐妹，我无法用语言描述那道光。中午的日头已经够亮了，但那道光比日头还亮。不是从某个方向照来的——是**四面照着我**。好像整个天空都裂开了，所有的光都倾倒下来。
+### 三、你在这里做什么？（王上19:9-10）
 
-我仆倒在地。
+我到了何烈山——就是摩西当年见到荆棘火焰的地方，就是神颁布十诫的地方。我进了一个洞，缩在里面。
 
-然后我听到了那个声音：
+> 耶和华的话临到他说："以利亚啊，你在这里做什么？"
 
-**"扫罗，扫罗，你为什么逼迫我？"**
+这个问题直击我的内心。"你在这里做什么？"——你不应该在这里。你是先知，你应该在以色列，应该站在百姓面前。但你却躲在洞里。
 
-祂叫了我的名字。叫了两遍。
+我怎么回答的？
 
-我趴在地上，浑身发抖。我问："主阿，你是谁？"
+> 他说："我为耶和华万军之神大发热心；因为以色列人背弃了你的约，毁坏了你的坛，用刀杀了你的先知，只剩下我一个人，他们还要寻索我的命。"
 
-我其实已经知道了。在那道光照到我的一瞬间，我所有的确信都碎了——我的律法知识、我的法利赛人身份、我的热心、我的义——全部碎成了渣。**因为如果这道光是从天上来的，如果这个声音是神的声音，那么我逼迫的不是异端，而是——**
+我说"我为耶和华万军之神大发热心"——注意，这是事实。我的热心不假。但热心不等于信心。热心可以让你站在迦密山上面对四百五十个假先知；但热心耗尽之后，你需要的是信心——相信即使在看不见果效的时候，神依然掌权。
 
-**"我就是你所逼迫的耶稣。"**
+"只剩下我一个人。"——这是绝望的呐喊。我觉得自己是最后一个忠心的人，整个世界都与我为敌，连神似乎也没有回应。在极度孤独中，人的视角会严重扭曲——你只看见黑暗，看不见神暗中保守的千万忠心之人。
 
-那个被钉十字架的拿撒勒人。那个我认定是被神咒诅的人。那个我拼了命要从地上抹去祂名字的人。
+### 四、不在风中，不在地震中，不在火中（王上19:11-13）
 
-**祂就是主。**
+然后，神给了我一生中最重要的功课。
 
-弟兄姐妹，你们能想象那一刻我的感受吗？那不是恍然大悟，那是**天塌地陷**。我这一生所做的一切——我的虔诚、我的热心、我引以为傲的一切——不仅毫无价值，而且**方向完全相反**。我以为自己在事奉神，其实我在**逼迫神**。
+> 耶和华说："你出来站在山上，在我面前。"那时耶和华从那里经过，在他面前有烈风大作，崩山碎石，耶和华却不在风中；风后地震，耶和华却不在其中；地震后有火，耶和华也不在火中；火后有微小的声音。
 
-我是全世界最虔诚的罪人。
+在迦密山上，我见过神的火从天降下。我习惯了在烈风、地震、火焰中寻找神——因为那是我经历过的。但在何烈山，神要教导我一件新事：**他不总是在风暴中。**
 
-## 三天的黑暗
+烈风来了——神不在其中。地震来了——神不在其中。火来了——神也不在其中。
 
-那道光之后，我的眼睛瞎了。
+然后——**微小的声音。**
 
-同行的人领着我进了大马色城。三天三夜，我什么也看不见，也不吃也不喝。
+"微小的声音"——希伯来原文是"寂静中细微的声音"。不是雷霆万钧的宣告，而是安安静静的、几乎听不见的低语。
 
-你们知道那三天我在想什么吗？
+> 以利亚听见，就用外衣蒙上脸，出来站在洞口。
 
-我想起了司提反的脸。我想起了我亲手抓进监牢的那些人。我想起了有些人因为我的逼迫而死。他们的名字，每一个，都在我脑海里。
+我听见了。在一切的喧嚣平息之后，在所有戏剧性的显现结束之后，神在最安静的时刻临到我。我用外衣蒙住脸——因为我知道，这就是神。
 
-**我逼迫的是耶稣。每一个信徒，都是祂身体的一部分。我打他们，就是打祂。我捆绑他们，就是捆绑祂。**
+弟兄姐妹，这是何等重要的教导。我们常常期待神以轰轰烈烈的方式作工，期待神迹、异象、超自然的经历。但神往往在安静中说话——在你读经的时候，在你独自祷告的时候，在你安静等候的时候。
+我在迦密山上呼求的是天火，但在何烈山上等候的是微声。这两者之间的转变，是我一生最大的属灵功课。少年人追求轰轰烈烈，成熟的信徒学会在安静中聆听。不是说神不再行大事——他当然行——而是说神最深的工作，往往在最安静的时刻。
 
-三天的黑暗里，我终于明白了一件事：**律法能让人知罪，但律法不能救人。** 我一辈子都在守律法，但律法只是让我看到自己有多绝望。"所以凡有血气的，没有一个因行律法能在神面前称义，因为律法本是叫人知罪。"（罗马书 3:20）
+诗篇说：
 
-我也明白了另一件事：**祂没有击杀我。**
+> 我的心哪，你为何忧闷？为何在我里面烦躁？应当仰望神，因他笑脸帮助我；我还要称赞他。
 
-那道光完全可以把我烧成灰。以我所做的一切，我配得灭亡一千次。但祂没有。**祂问我"你为什么逼迫我"——这不是审判的宣告，这是父亲对浪子的追问。**
+### 五、我留下了七千人（王上19:15-18）
 
-## 亚拿尼亚来了
+神再次问我同样的问题，我给出了同样的回答——"只剩下我一个人。"但这一次，神直接纠正了我：
 
-第三天，一个叫亚拿尼亚的门徒来了。
+> 耶和华对他说："你回去，从旷野往大马士革去。到了那里，就要膏哈薛作亚兰王，又膏宁示的孙子耶户作以色列王，并膏亚伯·米何拉人沙法的儿子以利沙作先知接续你。"
 
-后来我才知道，主在异象中对他说：去直街，找一个叫扫罗的大数人。亚拿尼亚说："主阿，我听见许多人说，这人怎样在耶路撒冷多多苦害你的圣徒。"（使徒行传 9:13）
+神给了我三个具体的使命。他没有让我继续沉溺在自怜中——他给我工作做。当你陷在绝望中时，最好的药方往往不是更多的思考，而是起来行动。
 
-弟兄姐妹，你们想想——如果有人让你去找一个专门抓基督徒的人，给他按手祷告，你去不去？
+然后神说了一句彻底粉碎我自怜的话：
 
-**亚拿尼亚去了。**
+> 但我在以色列人中为自己留下七千人，是未曾向巴力屈膝的，未曾与巴力亲嘴的。
 
-他进来，把手按在我身上，说了一句让我泪流满面的话：
+**七千人。** 我以为只剩我一个人，神说他保守了七千人。保罗后来在罗马书中引用这段历史：
 
-**"兄弟扫罗。"**
+> 神的回话是怎么说的呢？他说："我为自己留下七千人，是未曾向巴力屈膝的。"
 
-兄弟。他叫我**兄弟**。
+你不是一个人。你永远不是一个人。当你觉得全世界只有你还在坚持信仰的时候，神在你看不见的地方保守着千万忠心的百姓。教会不是靠你一个人撑着的——教会是基督的身体，他永远不会让自己的教会灭亡。
 
-这个我来大马色要抓的人，叫我兄弟。
 
-"在你来的路上向你显现的主，就是耶稣，打发我来，叫你能看见，又被圣灵充满。"（使徒行传 9:17）
+神还做了一件事：他为我预备了以利沙。当我把外衣搭在以利沙身上时，我不再是孤身一人的先知。以利沙跟随我、服侍我，后来承接了我的使命，而且行了比我更多的神迹。这也是神的智慧——事奉不是一个人的独角戏，乃是代代相传的接力赛。
+亲爱的弟兄姐妹，如果你正在属灵的低谷中，请听神对以利亚说的话：先吃饭，先休息，然后在微小的声音中寻找我。你不需要做超人——他的恩典够你用的，因为他的能力是在人的软弱上显得完全。`,
+    content_en: `Dear brothers and sisters, I am Elijah, the Tishbite, a prophet of the LORD.
 
-就在那一刻，好像有鳞片从我眼睛上掉下来。我又能看见了。但我看到的不再是从前的世界——我看到了一个全新的世界。**瞎眼的时候以为自己看得见，看见了才知道自己从前是瞎的。**
+You may have heard my story on Mount Carmel—facing four hundred and fifty prophets of Baal alone, fire falling from heaven, the people falling on their faces crying "The LORD, he is God!" What a glorious day that was. But today I want to tell you not about the victory on Carmel, but about the collapse that followed.
 
-我起来，受了洗。
+### I. From the Mountaintop to the Valley (1 Kings 19:1-4)
 
-## 恩典中的恩典
+The fire on Carmel had barely gone out, the people's shouts still echoed in my ears, and I thought everything would change—Israel would turn back, King Ahab would repent, Baal worship would be swept away completely.
 
-弟兄姐妹，如果说整本圣经中有一个人最没有资格被神使用，那就是我。
+But the reality was: Jezebel sent me a single message.
 
-我不是像彼得那样因为害怕而不认主——彼得至少还爱主。**我是主动地、系统地、狂热地逼迫基督的教会。** 我手上沾着圣徒的血。
+> Then Jezebel sent a messenger to Elijah, saying, "So may the gods do to me and more also, if I do not make your life as the life of one of them by this time tomorrow."
 
-但祂拣选了我。
+One sentence. A single woman's threat. Just twenty-four hours earlier, I had stood alone on Mount Carmel, facing the entire nation's idolatrous power without fear. But now, one sentence from Jezebel made me throw down my armor and run.
 
-不是因为我有什么好。不是因为我的学问——虽然我确实在迦玛列门下受过最好的训练。不是因为我的热心——那份热心差点让我成为永远的仇敌。
+> Then he was afraid, and he arose and ran for his life and came to Beersheba, which belongs to Judah, and left his servant there. But he himself went a day's journey into the wilderness and came and sat down under a broom tree. And he asked that he might die, saying, "It is enough; now, O LORD, take away my life, for I am no better than my fathers."
 
-**祂拣选我，恰恰是要在我这"罪人中的罪魁"身上，显明他一切的忍耐。**
+"It is enough! Take away my life."—Brothers and sisters, can you imagine? The prophet who called down heavenly fire yesterday is begging to die under a broom tree today. This is not fiction—Scripture records without concealment the weakest moment of God's most faithful servant.
 
-"基督耶稣降世，为要拯救罪人。这话是可信的，是十分可佩服的。在罪人中我是个罪魁。然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明他一切的忍耐，给后来信他得永生的人作榜样。"（提摩太前书 1:15-16）
+Why? Because spiritual peaks are often followed by the deepest valleys. Physical exhaustion, emotional depletion, shattered expectations—all converged to crush me. I said "I am no better than my fathers"—I thought I should have done better than those before me, but the truth proved I was equally fragile.
 
-你们听到了吗？**给后来的人作榜样。** 如果连扫罗都能被赦免，连逼迫教会的人都能成为使徒——**那么没有人是恩典够不到的。**
+### II. God First Cares for the Body (1 Kings 19:5-8)
 
-## 我从前以为有益的
+I fell asleep under the broom tree. Then something wonderful happened.
 
-腓立比书里我写过这么一段话。现在让我再说一遍：
+> And he lay down and slept under a broom tree. And behold, an angel touched him and said to him, "Arise and eat." And he looked, and behold, there was at his head a cake baked on hot stones and a jar of water. And he ate and drank and lay down again. And the angel of the LORD came again a second time and touched him and said, "Arise and eat, for the journey is too great for you."
 
-"只是我先前以为与我有益的，我现在因基督都当作有损的。不但如此，我也将万事当作有损的，因我以认识我主基督耶稣为至宝。我为他已经丢弃万事，看作粪土，为要得着基督。"（腓立比书 3:7-8）
+God did not rebuke me. He didn't say "How can you have so little faith?" He didn't preach a sermon on faith. He sent an angel—to do what? **Bake bread and pour water.**
 
-**粪土。**
+Brothers and sisters, this deeply moves me. God knew that what I needed at that moment was not theological instruction but food and rest. He created our bodies; he knows our physical limits. So often our spiritual lows are not because we are unspiritual, but because we are too tired, too hungry, too alone.
 
-我的法利赛人身份——粪土。我在迦玛列门下的学历——粪土。我无可指摘的律法记录——粪土。不是因为这些东西本身是坏的，而是因为**当你用这些东西来代替基督的时候，它们就变成了拦阻你认识神的障碍。**
+The angel came twice. The first time I ate and lay down again—God did not hurry me; he let me keep sleeping. The second time the angel said, "The journey is too great for you"—God knew there was still a long road ahead, and he prepared sufficient strength.
 
-我从前以为自己站在光明里，其实我站在黑暗中。那道光把我打倒，让我瞎了眼——但讽刺的是，**瞎了眼之后我才真正"看见"了。**
+> And he arose and ate and drank, and went in the strength of that food forty days and forty nights to Horeb, the mount of God.
 
-## 致每一个"虔诚的逼迫者"
+Forty days and forty nights—sustained by one meal from an angel. What provision! As Paul later wrote:
 
-弟兄姐妹，如果你读到这里——
+> But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us.
 
-也许你不像我那样逼迫教会。但也许你和我有一个共同的问题：**你以为自己的义可以救自己。**
+I was that jar of clay. Broken, exhausted, ready to give up. But God's power was at work in the jar of clay.
 
-也许你是一个很好的人。你守规矩，做善事，从不害人。你的履历拿出来，"无可指摘"。但你心里有没有那种平安？那种被锁链中的人唱出来的平安？
+I understood later: God does not waste our weakness. On Mount Carmel, I witnessed God's power; under the broom tree, I experienced God's tenderness. I needed both. Without the broom tree, I would have thought serving God was all about strength; without Horeb, I would never have known that God works equally in the quiet.
 
-如果没有——也许你和大马色路上的扫罗一样，需要被那道光击倒一次。
+### III. What Are You Doing Here? (1 Kings 19:9-10)
 
-不要怕。**那道光不是来毁灭你的。那道光是来拯救你的。**
+I arrived at Horeb—the very place where Moses had seen the burning bush, where God had given the Ten Commandments. I went into a cave and huddled there.
 
-它会让你暂时看不见。它会把你所有的确信打碎。它会让你在黑暗中待上一阵子。但当鳞片从你眼睛上掉下来的时候，你会看到一个全新的世界——一个不需要你靠自己的义站立的世界，一个**被恩典托住的世界。**
+> And the word of the LORD came to him: "What are you doing here, Elijah?"
 
-"你为什么逼迫我？"——也许今天，这个问题不是问你在逼迫谁，而是在问：**你在抗拒什么？**
+This question struck my heart. "What are you doing here?"—You shouldn't be here. You are a prophet; you should be in Israel, standing before the people. But instead you're hiding in a cave.
 
-你在抗拒承认自己不行吗？你在抗拒放下你的骄傲吗？你在抗拒那个比你所有的确信都更大的爱吗？
+How did I answer?
 
-放下吧。像我一样，仆倒在那道光面前。
+> He said, "I have been very jealous for the LORD, the God of hosts. For the people of Israel have forsaken your covenant, thrown down your altars, and killed your prophets with the sword, and I, even I only, am left, and they seek my life, to take it away."
 
-然后你会听到祂叫你的名字。
+I said "I have been very jealous for the LORD, the God of hosts"—note, this was true. My zeal was genuine. But zeal is not the same as faith. Zeal can make you stand on Mount Carmel facing four hundred and fifty false prophets; but when zeal is spent, what you need is faith—believing that even when you cannot see results, God still reigns.
 
-*"然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明他一切的忍耐，给后来信他得永生的人作榜样。"（提摩太前书 1:16）*
+"I, even I only, am left."—This was a cry of despair. I felt I was the last faithful person, the whole world was against me, and even God seemed unresponsive. In extreme loneliness, one's perspective becomes severely distorted—you see only darkness and cannot see the thousands of faithful people God is secretly preserving.
 
-*愿那在大马色路上光照我的主，也光照你的心——你的弟兄，保罗*`,
-    content_en: `## I Am Saul — The Most Devout Persecutor
+### IV. Not in the Wind, Not in the Earthquake, Not in the Fire (1 Kings 19:11-13)
 
-My name is Saul, of the tribe of Benjamin, a Pharisee among Pharisees.
+Then God gave me the most important lesson of my life.
 
-If you ask me who I was before, I can lay my credentials before you: "Circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless." (Philippians 3:5-6)
+> And he said, "Go out and stand on the mount before the LORD." And behold, the LORD passed by, and a great and strong wind tore the mountains and broke in pieces the rocks before the LORD, but the LORD was not in the wind. And after the wind an earthquake, but the LORD was not in the earthquake. And after the earthquake a fire, but the LORD was not in the fire. And after the fire the sound of a low whisper.
 
-Did you hear that? **Blameless.** I am not boasting. In those years studying under Gamaliel, I memorized the entire Torah, never broke a single commandment on the Sabbath, tithed down to the mint, dill, and cumin. Among the Pharisees, no one was more serious than I was.
+On Mount Carmel, I had seen God's fire fall from heaven. I was accustomed to seeking God in wind, earthquake, and fire—because that was my experience. But on Horeb, God was teaching me something new: **he is not always in the storm.**
 
-But being serious was not enough. I wanted to **burn with zeal for God.**
+The wind came—God was not in it. The earthquake came—God was not in it. The fire came—God was not in it either.
 
-When I first heard that a group of people were proclaiming a crucified Nazarene as the Messiah, my blood boiled. **The Messiah hung on a tree?** The Torah clearly states: "a hanged man is cursed by God" (Deuteronomy 21:23). These people were not preaching good news — they were blaspheming God!
+Then—**the sound of a low whisper.**
 
-So when the Sanhedrin decided to stamp out this heresy, I was the first to volunteer.
+"The sound of a low whisper"—in the Hebrew, "a still, small voice." Not a thunderous proclamation, but a quiet, barely audible murmur.
 
-The day Stephen was stoned to death, I was there. I did not throw the stones myself — I guarded the garments of those who did. I watched him kneel. I watched the stones strike him one by one. His face was covered in blood, but his face —
+> When Elijah heard it, he wrapped his face in his cloak and went out and stood at the entrance of the cave.
 
-Brothers and sisters, I do not like to admit this, but that day I saw a face I have never been able to forget. **His face was like the face of an angel.** As he was dying, he said, "Lord, do not hold this sin against them!" (Acts 7:60)
+I heard it. After all the noise had subsided, after all the dramatic manifestations had ended, God came to me in the quietest moment. I covered my face with my cloak—because I knew: this was God.
 
-A man being stoned to death was praying for the men killing him.
+Brothers and sisters, what a crucial teaching this is. We often expect God to work in spectacular ways, expecting miracles, visions, supernatural experiences. But God often speaks in the quiet—when you're reading Scripture, when you're praying alone, when you're waiting in stillness.
 
-I pushed that thought down. I told myself: this is the devil's deception. The more something looks like an angel, the more dangerous it is.
+On Mount Carmel I called for heavenly fire, but on Horeb I waited for a whisper. The transition between these two was the greatest spiritual lesson of my life. The young pursue the spectacular; the mature learn to listen in the silence. Not that God no longer does great things—of course he does—but God's deepest work often happens in the quietest moments.
 
-So I persecuted even more furiously.
+The psalmist said:
 
-I went house to house. Men and women alike, I dragged them off to prison. I threatened them, demanding they deny that name. Some did deny it — I saw the shame and agony in their eyes. Some refused — I saw in their eyes a peace, a peace that I could never possess no matter how hard I tried.
+> Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation and my God.
 
-**I hated that peace.** Because I did not have it.
+### V. I Have Left Seven Thousand (1 Kings 19:15-18)
 
-I thought I did. I thought keeping the law and burning with zeal was peace. But every time I saw those I had arrested singing hymns of praise in chains, a voice inside me whispered: **They have something you do not.**
+God asked me the same question again, and I gave the same answer—"I, even I only, am left." But this time, God directly corrected me:
 
-I pushed that voice down deeper.
+> And the LORD said to him, "Go, return on your way to the wilderness of Damascus. And when you arrive, you shall anoint Hazael to be king over Syria. And you shall anoint Jehu the son of Nimshi to be king over Israel, and Elisha the son of Shaphat of Abel-meholah you shall anoint to be prophet in your place."
 
-## On the Road to Damascus
+God gave me three specific missions. He did not let me continue wallowing in self-pity—he gave me work to do. When you are mired in despair, the best medicine is often not more reflection but getting up and acting.
 
-Jerusalem was not enough. I heard that there were followers of the Way in Damascus too, so I went to the high priest for letters of authority to bring them back in chains.
+Then God said a sentence that utterly shattered my self-pity:
 
-It was a long journey, about six days. The whole way I was planning how I would interrogate them, how I would convict them. My heart was full of righteous anger — or so I thought.
+> "Yet I will leave seven thousand in Israel, all the knees that have not bowed to Baal, and every mouth that has not kissed him."
 
-**Then the light came.**
+**Seven thousand.** I thought I was the only one left; God said he had preserved seven thousand. Paul later quoted this passage in Romans:
 
-Brothers and sisters, I cannot describe that light with words. The noonday sun was already blazing, but that light was brighter than the sun. It did not come from one direction — it **shone all around me**. As if the entire sky had torn open and all its light poured down.
+> But what is God's reply to him? "I have kept for myself seven thousand men who have not bowed the knee to Baal."
 
-I fell to the ground.
+You are not alone. You are never alone. When you feel you are the only one left holding onto the faith, God is preserving thousands of faithful people where you cannot see. The church does not rest on your shoulders alone—the church is the body of Christ, and he will never let his church perish.
 
-Then I heard the voice:
+God did one more thing: he prepared Elisha for me. When I cast my cloak upon Elisha, I was no longer a solitary prophet. Elisha followed me, served me, and later inherited my mission, performing even more miracles than I had. This too is God's wisdom—ministry is not a one-man show but a relay race passed from generation to generation.
 
-**"Saul, Saul, why are you persecuting me?"**
-
-He called my name. Twice.
-
-I lay on the ground, trembling. I asked, "Who are you, Lord?"
-
-I already knew. The instant that light struck me, all my certainties shattered — my knowledge of the law, my Pharisee credentials, my zeal, my righteousness — all of it crumbled to dust. **Because if this light was from heaven, if this voice was the voice of God, then I had not been persecuting heretics. I had been —**
-
-**"I am Jesus, whom you are persecuting."**
-
-The crucified Nazarene. The one I had declared cursed by God. The one whose name I had fought with all my strength to wipe from the earth.
-
-**He is Lord.**
-
-Brothers and sisters, can you imagine what I felt in that moment? It was not an epiphany. It was the **ground giving way beneath me**. Everything I had ever done — my devotion, my zeal, everything I took pride in — was not merely worthless. It was aimed in **exactly the wrong direction**. I thought I was serving God. In truth, I was **persecuting God.**
-
-I was the most devout sinner in the world.
-
-## Three Days of Darkness
-
-After the light, my eyes were blind.
-
-My companions led me by the hand into Damascus. For three days and three nights I could see nothing. I neither ate nor drank.
-
-Do you know what I was thinking during those three days?
-
-I thought of Stephen's face. I thought of every person I had dragged to prison with my own hands. I thought of those who had died because of my persecution. Their names — every one — echoed in my mind.
-
-**I had been persecuting Jesus. Every believer was part of His body. When I struck them, I struck Him. When I bound them, I bound Him.**
-
-In three days of darkness, I finally understood one thing: **the law can reveal sin, but the law cannot save.** I had spent my whole life keeping the law, and all it had done was show me how hopeless I truly was. "For by works of the law no human being will be justified in his sight" (Romans 3:20).
-
-I also understood something else: **He did not strike me dead.**
-
-That light could have reduced me to ash. After all I had done, I deserved destruction a thousand times over. But He did not. **He asked me "Why are you persecuting me?" — that was not a sentence of judgment. It was a father's question to a prodigal son.**
-
-## Ananias Came
-
-On the third day, a disciple named Ananias came.
-
-I later learned that the Lord had told him in a vision: Go to the street called Straight, and find a man from Tarsus named Saul. Ananias said, "Lord, I have heard from many about this man, how much evil he has done to your saints at Jerusalem" (Acts 9:13).
-
-Brothers and sisters, think about it — if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
-
-**Ananias went.**
-
-He came in, placed his hands on me, and said a sentence that brought me to tears:
-
-**"Brother Saul."**
-
-Brother. He called me **brother.**
-
-This man — the very man I had come to Damascus to arrest — called me brother.
-
-"The Lord Jesus who appeared to you on the road by which you came has sent me so that you may regain your sight and be filled with the Holy Spirit" (Acts 9:17).
-
-In that moment, something like scales fell from my eyes. I could see again. But what I saw was no longer the world I had known — I saw an entirely new world. **When I was blind, I thought I could see. Only when I could see did I realize I had been blind all along.**
-
-I rose and was baptized.
-
-## Grace Upon Grace
-
-Brothers and sisters, if there is one person in all of Scripture least qualified to be used by God, it is I.
-
-I am not like Peter, who denied the Lord out of fear — Peter at least loved the Lord. **I actively, systematically, and zealously persecuted the church of Christ.** My hands were stained with the blood of saints.
-
-Yet He chose me.
-
-Not because of any good in me. Not because of my learning — though I was indeed trained under the finest teacher, Gamaliel. Not because of my zeal — that very zeal nearly made me an eternal enemy.
-
-**He chose me precisely to display all His patience in me, the foremost of sinners.**
-
-"The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life" (1 Timothy 1:15-16).
-
-Did you hear that? **As an example to those who would come after.** If even Saul could be forgiven, if even a persecutor of the church could become an apostle — **then no one is beyond the reach of grace.**
-
-## What I Once Counted as Gain
-
-In my letter to the Philippians, I wrote these words. Let me say them again now:
-
-"But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ" (Philippians 3:7-8).
-
-**Rubbish.**
-
-My Pharisee credentials — rubbish. My education under Gamaliel — rubbish. My blameless record under the law — rubbish. Not because these things were bad in themselves, but because **when you use them as substitutes for Christ, they become the very barriers that keep you from knowing God.**
-
-I once thought I stood in the light. In truth, I stood in darkness. That light knocked me down and blinded me — but the irony is, **only after I was blinded did I truly "see."**
-
-## To Every "Devout Persecutor"
-
-Brothers and sisters, if you are reading this —
-
-Perhaps you do not persecute the church as I did. But perhaps you and I share a common problem: **you believe your own righteousness can save you.**
-
-Perhaps you are a very good person. You follow the rules, do good deeds, never harm anyone. Your record, laid out for inspection, is "blameless." But do you have that peace in your heart? The peace that was sung by people in chains?
-
-If not — perhaps, like Saul on the road to Damascus, you need to be struck down by that light.
-
-Do not be afraid. **That light does not come to destroy you. It comes to save you.**
-
-It will blind you for a time. It will shatter all your certainties. It will leave you sitting in darkness for a while. But when the scales fall from your eyes, you will see a brand new world — a world where you no longer need to stand on your own righteousness, a world **upheld entirely by grace.**
-
-"Why are you persecuting me?" — perhaps today, the question is not about who you are persecuting, but about this: **What are you resisting?**
-
-Are you resisting the admission that you cannot do it on your own? Are you resisting laying down your pride? Are you resisting a love greater than all your certainties?
-
-Let go. Like me, fall down before that light.
-
-And then you will hear Him call your name.
-
-*"But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life." (1 Timothy 1:16)*
-
-*May the Lord who shone His light on me on the Damascus road also shine His light into your heart — your brother, Paul*`,
+Dear brothers and sisters, if you are in a spiritual valley, hear what God said to Elijah: eat first, rest first, then seek me in the still small voice. You don't need to be a superhero—his grace is sufficient for you, for his power is made perfect in weakness.`,
   },
   {
     id: 'mary-magnificat',
@@ -2313,330 +2203,209 @@ And then you will hear Him call your name.
     title_en: 'My Soul Magnifies the Lord',
     date: '2026-04-11',
     category: 'testimony',
-    scripture: '',
-    scriptureText_zh: '',
-    scriptureText_en: '',
-    summary_zh: '',
-    summary_en: '',
-    tags: [],
-    content_zh: `## 我是扫罗——最虔诚的逼迫者
+    scripture: '路加福音 1:46-55 / Luke 1:46-55',
+    scriptureText_zh: '马利亚说：我心尊主为大；我灵以神我的救主为乐；因为他顾念他使女的卑微；从今以后，万代要称我有福。',
+    scriptureText_en: 'And Mary said, "My soul magnifies the Lord, and my spirit rejoices in God my Savior, for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed."',
+    summary_zh: '一个拿撒勒的平凡少女，被神拣选成为弥赛亚的母亲。马利亚的尊主颂不是一首安静的摇篮曲，而是一首翻转世界的革命之歌——神叫有权柄的失位，叫卑贱的升高。',
+    summary_en: 'An ordinary girl from Nazareth, chosen by God to be the mother of the Messiah. Mary\'s Magnificat is not a quiet lullaby but a revolutionary song that turns the world upside down—God brings down the mighty and exalts the humble.',
+    tags: ['颂赞', '谦卑', '恩典', '盼望'],
+    content_zh: `亲爱的弟兄姐妹，我是马利亚，拿撒勒的一个女子。
 
-我叫扫罗，便雅悯支派的人，法利赛人中的法利赛人。
+你们可能知道我的名字——弥赛亚的母亲、童女怀孕的那位。但在天使来访之前，我不过是加利利一个小村庄里一个普通的少女，已经许配给木匠约瑟，正在等待出嫁的日子。拿撒勒是一个不起眼的地方，连拿但业都说过："拿撒勒还能出什么好的吗？"
 
-你们若问我从前是什么人，我可以把我的履历摆在你们面前："我第八天受割礼；我是以色列族、便雅悯支派的人，是希伯来人所生的希伯来人。就律法说，我是法利赛人；就热心说，我是逼迫教会的；就律法上的义说，我是无可指摘的。"（腓立比书 3:5-6）
+然而，就是在这样一个被人轻看的角落，神做了一件翻转历史的大事。
 
-你们听清楚了吗？**无可指摘。** 不是我自夸。在迦玛列门下受教的那些年，我背下了整本妥拉，安息日从不违反一条诫命，十一奉献精确到薄荷、茴香、芹菜。法利赛人中间，没有人比我更认真。
+### 一、蒙大恩的女子（路1:26-33）
 
-但光认真还不够。我要**为神大发热心。**
+> 到了第六个月，天使加百列奉神的差遣往加利利的一座城去（这城名叫拿撒勒），到一个童女那里，是已经许配大卫家的一个人，名叫约瑟。童女的名字叫马利亚。
 
-当我第一次听说有一群人在传讲一个被钉十字架的拿撒勒人是弥赛亚的时候，我的血都沸腾了。**弥赛亚被挂在木头上？** 妥拉明明写着："被挂的人是在神面前受咒诅的"（申命记 21:23）。这些人不是在传福音——他们是在亵渎神！
+> 天使进去，对她说："蒙大恩的女子，我问你安，主和你同在了！"
 
-所以当公会决定要清除这个异端的时候，我第一个站出来。
+我至今还记得那一刻的惊惶。天使出现在我面前——不是在圣殿，不是在祭坛前，而是在我家里，在拿撒勒一个平凡的房间里。"蒙大恩的女子"——这是什么意思？我一个卑微的少女，怎会蒙神的大恩？
 
-司提反被石头打死的那天，我就在那里。我没有亲手丢石头——我替那些丢石头的人看守衣裳。我看着他跪下来，看着石头一块一块砸在他身上。他满脸是血，但他的脸——
+> 马利亚因这话就很惊慌，又反复思想这样问安是什么意思。
 
-弟兄姐妹，我不愿意承认这一点，但那天我看到了一张我永远忘不掉的脸。**他的脸好像天使的脸。** 他在死的时候说："主阿，不要将这罪归于他们！"（使徒行传 7:60）
+"反复思想"——路加用了这个词来形容我的反应。我不是那种不假思索就接受一切的人。我会想，会问，会在心里反复掂量。后来当牧羊人来讲述天使报信的事，当西面在圣殿中说出预言，路加都记载我"把这一切的事存在心里，反复思想。"这是我一生的习惯——在神的话语面前安静思想。
 
-被石头打死的人在为打他的人祷告。
+然后天使告诉我那不可思议的消息：
 
-我当时把这念头压下去了。我告诉自己：这是魔鬼的迷惑。越是看起来像天使的，越危险。
+> 你要怀孕生子，可以给他起名叫耶稣。他要为大，称为至高者的儿子；主神要把他祖大卫的位给他。他要作雅各家的王，直到永远；他的国也没有穷尽。
 
-所以我更加疯狂地逼迫。
+### 二、我是主的使女（路1:34-38）
 
-我挨家挨户搜查。男人女人，我一概拉到监里。我威胁他们，要他们否认那个名字。有些人否认了——我看到他们眼中的羞耻和痛苦。有些人不肯——我看到他们眼中的平安，一种我用尽全力也无法拥有的平安。
+我问了一个非常实际的问题：
 
-**我恨那种平安。** 因为我心里没有。
+> 马利亚对天使说："我没有出嫁，怎么有这事呢？"
 
-我以为我有。我以为遵行律法、大发热心就是平安。但每次看到那些被我抓起来的人，他们在锁链中唱诗赞美的时候，我心里就有一个声音说：**他们有的东西，你没有。**
+这不是不信——这是诚实的疑问。我是一个未出嫁的童女，怎么可能怀孕？天使没有责备我的提问，反而耐心解释了圣灵的超然工作。最后，天使说了一句改变一切的话：
 
-我把那声音压得更深。
+> 因为，出于神的话，没有一句不带能力的。
 
-## 去大马色的路上
+"没有一句不带能力的"——弟兄姐妹，请把这句话刻在你的心上。神的话不是空洞的许诺，每一句都带着成就的能力。神说"要有光"，就有了光；神说我要怀孕生子，就必照他的话成就。
 
-耶路撒冷还不够。我听说大马色也有信这道的人，就去大祭司那里要了文书，要把那里的人也捆绑回来。
+然后我说了那句一生中最重要的话：
 
-那是一段很长的路，大约六天的行程。一路上我都在想着到了之后怎么审讯、怎么定罪。我的心里充满了义怒——至少我以为那是义怒。
+> 马利亚说："我是主的使女，情愿照你的话成就在我身上。"
 
-**然后那道光来了。**
+"我是主的使女，情愿照你的话成就在我身上。"——这句话看似简单，却需要何等的信心和勇气。我知道这意味着什么：未婚怀孕在当时是死罪，可以被石头打死。约瑟会怎么想？家人会怎么看？邻居会怎么议论？我的名誉、我的婚约、我的人生计划，全部都将被打破。
 
-弟兄姐妹，我无法用语言描述那道光。中午的日头已经够亮了，但那道光比日头还亮。不是从某个方向照来的——是**四面照着我**。好像整个天空都裂开了，所有的光都倾倒下来。
+但我说了"情愿"。不是因为我不害怕——我很害怕。不是因为我看见了全景——我只看见眼前的一步。乃是因为我相信：出于神的话，没有一句不带能力的。既然这是出于神，那我的顺服就不会落空。
 
-我仆倒在地。
+信心不是没有疑问，信心是在疑问中仍然顺服。信心不是看见了才走，信心是没看见就走——因为你信任那位指引道路的神。
 
-然后我听到了那个声音：
+### 三、我心尊主为大（路1:46-55）
 
-**"扫罗，扫罗，你为什么逼迫我？"**
+当我去探访亲戚伊利莎白时，伊利莎白被圣灵充满，大声喊着说：
 
-祂叫了我的名字。叫了两遍。
+> 这相信的女子是有福的！因为主对她所说的话都要应验。
 
-我趴在地上，浑身发抖。我问："主阿，你是谁？"
+然后，从我心里涌出了一首颂歌——不是我预先准备的，乃是圣灵在我里面做工，话语自然地流淌出来：
 
-我其实已经知道了。在那道光照到我的一瞬间，我所有的确信都碎了——我的律法知识、我的法利赛人身份、我的热心、我的义——全部碎成了渣。**因为如果这道光是从天上来的，如果这个声音是神的声音，那么我逼迫的不是异端，而是——**
+> 我心尊主为大；我灵以神我的救主为乐；因为他顾念他使女的卑微；从今以后，万代要称我有福。那有权能的，为我成就了大事；他的名为圣。
 
-**"我就是你所逼迫的耶稣。"**
+弟兄姐妹，请注意我歌中的第一个词："我心尊主为大"——不是尊自己为大，不是尊弥赛亚的母亲为大，乃是尊**主**为大。我称神为"我的救主"——我自己也需要救主。我不是无罪的完人，我是蒙恩的罪人。神不是因为我配得才拣选我，乃是因为他的恩典。
 
-那个被钉十字架的拿撒勒人。那个我认定是被神咒诅的人。那个我拼了命要从地上抹去祂名字的人。
+"他顾念他使女的卑微"——"卑微"，这就是我的身份。不是女王，不是祭司的女儿，而是一个卑微的使女。但神的眼目不像人的眼目——人看外貌，神看内心；人重高位，神顾卑微。
 
-**祂就是主。**
+接下来的颂歌震撼了我自己：
 
-弟兄姐妹，你们能想象那一刻我的感受吗？那不是恍然大悟，那是**天塌地陷**。我这一生所做的一切——我的虔诚、我的热心、我引以为傲的一切——不仅毫无价值，而且**方向完全相反**。我以为自己在事奉神，其实我在**逼迫神**。
+> 他用膀臂施展大能；那狂傲的人正心里妄想就被他赶散了。他叫有权柄的失位，叫卑贱的升高；叫饥饿的得饱美食，叫富足的空手回去。
 
-我是全世界最虔诚的罪人。
+这不是一首安静温柔的摇篮曲——这是一首翻转世界秩序的革命之歌！神的国度与世界的国度完全相反：狂傲的被赶散，有权柄的失位，卑贱的升高，饥饿的饱足，富足的空手。弥赛亚的来临不是维持现状，乃是彻底翻转。
 
-## 三天的黑暗
+我的儿子耶稣后来的教导印证了这一切：虚心的人有福了，哀恸的人有福了，温柔的人有福了。他选择生在马槽而非王宫，长在拿撒勒而非耶路撒冷，做木匠的儿子而非祭司的儿子。他与罪人同席，触摸麻风病人，为门徒洗脚。他活出了尊主颂所宣告的一切。
 
-那道光之后，我的眼睛瞎了。
+### 四、一把剑要刺透你的心（路2:34-35）
 
-同行的人领着我进了大马色城。三天三夜，我什么也看不见，也不吃也不喝。
+当我和约瑟带着婴孩耶稣到圣殿行洁净礼时，老西面抱起孩子颂赞神，然后转向我说了一句让我心寒的预言："你自己的心也要被刀刺透。"
 
-你们知道那三天我在想什么吗？
+当时我不明白这句话的意思。后来我渐渐明白了。
 
-我想起了司提反的脸。我想起了我亲手抓进监牢的那些人。我想起了有些人因为我的逼迫而死。他们的名字，每一个，都在我脑海里。
+当十二岁的耶稣在圣殿里留下，我和约瑟焦急地找了三天——那是第一次刺痛。当耶稣开始传道，家乡的人要把他推下悬崖——那是又一次刺痛。当我看见他被宗教领袖敌视、追杀、设计陷害——刀刃一寸一寸地深入。
 
-**我逼迫的是耶稣。每一个信徒，都是祂身体的一部分。我打他们，就是打祂。我捆绑他们，就是捆绑祂。**
+最后，我站在各各他的十字架下。
 
-三天的黑暗里，我终于明白了一件事：**律法能让人知罪，但律法不能救人。** 我一辈子都在守律法，但律法只是让我看到自己有多绝望。"所以凡有血气的，没有一个因行律法能在神面前称义，因为律法本是叫人知罪。"（罗马书 3:20）
+我的儿子——我用母乳喂养的婴孩，我看着他学走路的孩子，我的长子——赤裸地挂在木头上，鲜血从手脚的钉痕流下，他在极度的痛苦中喊着："以利！以利！拉马撒巴各大尼？"（我的神！我的神！为什么离弃我？）
 
-我也明白了另一件事：**祂没有击杀我。**
+那一刻，刀真的刺透了我的心。
 
-那道光完全可以把我烧成灰。以我所做的一切，我配得灭亡一千次。但祂没有。**祂问我"你为什么逼迫我"——这不是审判的宣告，这是父亲对浪子的追问。**
+但我没有离开。我站在那里。在所有门徒都四散逃跑的时候——连彼得都三次不认主——我站在十字架下。不是因为我比他们更勇敢，乃是因为我是他的母亲，而母亲不会离开受苦的孩子。
 
-## 亚拿尼亚来了
+然而在十字架上，他还在关心我。他对约翰说："看你的母亲！"又对我说："看你的儿子！"在最深的痛苦中，他仍然在爱。
 
-第三天，一个叫亚拿尼亚的门徒来了。
+### 五、相信的女子是有福的
 
-后来我才知道，主在异象中对他说：去直街，找一个叫扫罗的大数人。亚拿尼亚说："主阿，我听见许多人说，这人怎样在耶路撒冷多多苦害你的圣徒。"（使徒行传 9:13）
+三天后，他从死里复活了。
 
-弟兄姐妹，你们想想——如果有人让你去找一个专门抓基督徒的人，给他按手祷告，你去不去？
+那个清晨，当抹大拉的马利亚和其他妇女跑来告诉我们空坟墓的消息时，我的心里有一种奇特的平安——不是因为我预先知道复活会发生，而是因为我一生都在经历这位信实的神。天使说的话从不落空：出于神的话，没有一句不带能力的。
 
-**亚拿尼亚去了。**
+弟兄姐妹，我的一生不是一帆风顺的童话——它充满了惊惶、误解、刀刺般的痛苦，和十字架下的哭泣。但贯穿这一切的，是那句从起初就支撑我的信念："我是主的使女，情愿照你的话成就在我身上。"
 
-他进来，把手按在我身上，说了一句让我泪流满面的话：
 
-**"兄弟扫罗。"**
+我后来也在耶路撒冷的教会中，与使徒们和其他弟兄姐妹一起祷告等候圣灵的降临。五旬节那天，圣灵浇灌在我们身上——那位天使所预言的圣灵，如今临到了所有信他的人，不再只是临到一个人。我的儿子所应许的保惠师来了。教会诞生了。
 
-兄弟。他叫我**兄弟**。
+从拿撒勒的小屋到耶路撒冷的上层楼房，从天使报信到圣灵降临——我见证了整个救恩历史最关键的篇章。但我要告诉你：这一切的中心不是我，而是那位从我腹中降生、在十字架上受死、从死里复活、升上高天的主耶稣基督。我只是器皿，他才是内容；我只是使女，他才是君王。
 
-这个我来大马色要抓的人，叫我兄弟。
+你可能觉得自己太卑微、太普通、太不配被神使用。但请记住：神拣选了拿撒勒的一个普通少女来改变世界的历史。他不需要你完美，他需要你说"情愿"。不是你的能力，是他的恩典；不是你的配得，是他的拣选。
 
-"在你来的路上向你显现的主，就是耶稣，打发我来，叫你能看见，又被圣灵充满。"（使徒行传 9:17）
+> 那有权能的，为我成就了大事；他的名为圣。`,
+    content_en: `Dear brothers and sisters, I am Mary, a young woman from Nazareth.
 
-就在那一刻，好像有鳞片从我眼睛上掉下来。我又能看见了。但我看到的不再是从前的世界——我看到了一个全新的世界。**瞎眼的时候以为自己看得见，看见了才知道自己从前是瞎的。**
+You may know my name—the mother of the Messiah, the virgin who conceived. But before the angel's visit, I was nothing more than an ordinary girl in a small Galilean village, betrothed to a carpenter named Joseph, waiting for the day of my wedding. Nazareth was an unremarkable place—even Nathanael once said, "Can anything good come out of Nazareth?"
 
-我起来，受了洗。
+Yet it was in this overlooked corner that God did something that turned history upside down.
 
-## 恩典中的恩典
+### I. Favored One (Luke 1:26-33)
 
-弟兄姐妹，如果说整本圣经中有一个人最没有资格被神使用，那就是我。
+> In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth, to a virgin betrothed to a man whose name was Joseph, of the house of David. And the virgin's name was Mary.
 
-我不是像彼得那样因为害怕而不认主——彼得至少还爱主。**我是主动地、系统地、狂热地逼迫基督的教会。** 我手上沾着圣徒的血。
+> And he came to her and said, "Greetings, O favored one, the Lord is with you!"
 
-但祂拣选了我。
+I still remember the terror of that moment. An angel appeared before me—not in the temple, not before an altar, but in my home, in an ordinary room in Nazareth. "O favored one"—what could this mean? How could I, a lowly girl, find favor with God?
 
-不是因为我有什么好。不是因为我的学问——虽然我确实在迦玛列门下受过最好的训练。不是因为我的热心——那份热心差点让我成为永远的仇敌。
+> But she was greatly troubled at the saying, and tried to discern what sort of greeting this might be.
 
-**祂拣选我，恰恰是要在我这"罪人中的罪魁"身上，显明他一切的忍耐。**
+"Tried to discern"—Luke chose this word to describe my reaction. I was not someone who accepted everything without thinking. I pondered, I questioned, I weighed things in my heart. Later, when the shepherds came to tell of the angels' message, when Simeon spoke his prophecy in the temple, Luke recorded that I "treasured up all these things, pondering them in her heart." This was the habit of my life—quiet reflection before God's word.
 
-"基督耶稣降世，为要拯救罪人。这话是可信的，是十分可佩服的。在罪人中我是个罪魁。然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明他一切的忍耐，给后来信他得永生的人作榜样。"（提摩太前书 1:15-16）
+Then the angel told me the unimaginable news:
 
-你们听到了吗？**给后来的人作榜样。** 如果连扫罗都能被赦免，连逼迫教会的人都能成为使徒——**那么没有人是恩典够不到的。**
+> You will conceive in your womb and bear a son, and you shall call his name Jesus. He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever, and of his kingdom there will be no end.
 
-## 我从前以为有益的
+### II. I Am the Servant of the Lord (Luke 1:34-38)
 
-腓立比书里我写过这么一段话。现在让我再说一遍：
+I asked a very practical question:
 
-"只是我先前以为与我有益的，我现在因基督都当作有损的。不但如此，我也将万事当作有损的，因我以认识我主基督耶稣为至宝。我为他已经丢弃万事，看作粪土，为要得着基督。"（腓立比书 3:7-8）
+> And Mary said to the angel, "How will this be, since I am a virgin?"
 
-**粪土。**
+This was not unbelief—it was an honest question. I was an unmarried virgin; how could I conceive? The angel did not rebuke my question but patiently explained the supernatural work of the Holy Spirit. Finally, the angel said a sentence that changes everything:
 
-我的法利赛人身份——粪土。我在迦玛列门下的学历——粪土。我无可指摘的律法记录——粪土。不是因为这些东西本身是坏的，而是因为**当你用这些东西来代替基督的时候，它们就变成了拦阻你认识神的障碍。**
+> For nothing will be impossible with God.
 
-我从前以为自己站在光明里，其实我站在黑暗中。那道光把我打倒，让我瞎了眼——但讽刺的是，**瞎了眼之后我才真正"看见"了。**
+"Nothing will be impossible with God"—brothers and sisters, engrave this on your hearts. God's words are not empty promises; each one carries the power of fulfillment. God said "Let there be light," and there was light; God said I would conceive and bear a son, and it would be accomplished according to his word.
 
-## 致每一个"虔诚的逼迫者"
+Then I spoke the most important words of my life:
 
-弟兄姐妹，如果你读到这里——
+> And Mary said, "Behold, I am the servant of the Lord; let it be to me according to your word."
 
-也许你不像我那样逼迫教会。但也许你和我有一个共同的问题：**你以为自己的义可以救自己。**
+"I am the servant of the Lord; let it be to me according to your word."—These words seem simple, yet they required extraordinary faith and courage. I knew what this meant: pregnancy outside of marriage was punishable by death—stoning. What would Joseph think? How would my family react? What would the neighbors say? My reputation, my betrothal, my life plans—all would be shattered.
 
-也许你是一个很好的人。你守规矩，做善事，从不害人。你的履历拿出来，"无可指摘"。但你心里有没有那种平安？那种被锁链中的人唱出来的平安？
+But I said "let it be." Not because I wasn't afraid—I was terrified. Not because I could see the whole picture—I could only see the next step. But because I believed: nothing is impossible with God. Since this was from God, my obedience would not be in vain.
 
-如果没有——也许你和大马色路上的扫罗一样，需要被那道光击倒一次。
+Faith is not the absence of questions; faith is obedience amid questions. Faith is not walking after seeing; faith is walking without seeing—because you trust the One who guides the way.
 
-不要怕。**那道光不是来毁灭你的。那道光是来拯救你的。**
+### III. My Soul Magnifies the Lord (Luke 1:46-55)
 
-它会让你暂时看不见。它会把你所有的确信打碎。它会让你在黑暗中待上一阵子。但当鳞片从你眼睛上掉下来的时候，你会看到一个全新的世界——一个不需要你靠自己的义站立的世界，一个**被恩典托住的世界。**
+When I visited my relative Elizabeth, she was filled with the Holy Spirit and exclaimed:
 
-"你为什么逼迫我？"——也许今天，这个问题不是问你在逼迫谁，而是在问：**你在抗拒什么？**
+> Blessed is she who believed that there would be a fulfillment of what was spoken to her from the Lord.
 
-你在抗拒承认自己不行吗？你在抗拒放下你的骄傲吗？你在抗拒那个比你所有的确信都更大的爱吗？
+Then a song welled up from within me—not one I had prepared, but one the Spirit stirred within me, words flowing naturally:
 
-放下吧。像我一样，仆倒在那道光面前。
+> My soul magnifies the Lord, and my spirit rejoices in God my Savior, for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed; for he who is mighty has done great things for me, and holy is his name.
 
-然后你会听到祂叫你的名字。
+Brothers and sisters, notice the first phrase of my song: "My soul magnifies the Lord"—not magnifying myself, not magnifying the mother of the Messiah, but magnifying **the Lord**. I called God "my Savior"—I too needed a Savior. I was not a sinless person; I was a sinner saved by grace. God did not choose me because I was worthy, but because of his grace.
 
-*"然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明他一切的忍耐，给后来信他得永生的人作榜样。"（提摩太前书 1:16）*
+"He has looked on the humble estate of his servant"—"humble estate," that was my identity. Not a queen, not a priest's daughter, but a lowly servant. Yet God's eyes are not like human eyes—people look at outward appearances, but God looks at the heart; people value high positions, but God regards the lowly.
 
-*愿那在大马色路上光照我的主，也光照你的心——你的弟兄，保罗*`,
-    content_en: `## I Am Saul — The Most Devout Persecutor
+The rest of the song astonished even me:
 
-My name is Saul, of the tribe of Benjamin, a Pharisee among Pharisees.
+> He has shown strength with his arm; he has scattered the proud in the thoughts of their hearts; he has brought down the mighty from their thrones and exalted those of humble estate; he has filled the hungry with good things, and the rich he has sent away empty.
 
-If you ask me who I was before, I can lay my credentials before you: "Circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless." (Philippians 3:5-6)
+This is not a quiet, gentle lullaby—this is a revolutionary song that overturns the world's order! God's kingdom is the complete opposite of the world's: the proud are scattered, the mighty are brought down, the lowly are exalted, the hungry are filled, the rich go away empty. The Messiah's coming does not maintain the status quo; it completely overturns it.
 
-Did you hear that? **Blameless.** I am not boasting. In those years studying under Gamaliel, I memorized the entire Torah, never broke a single commandment on the Sabbath, tithed down to the mint, dill, and cumin. Among the Pharisees, no one was more serious than I was.
+My son Jesus later confirmed all of this in his teaching: Blessed are the poor in spirit, blessed are those who mourn, blessed are the meek. He chose to be born in a manger rather than a palace, to grow up in Nazareth rather than Jerusalem, to be a carpenter's son rather than a priest's son. He ate with sinners, touched lepers, washed his disciples' feet. He lived out everything the Magnificat proclaimed.
 
-But being serious was not enough. I wanted to **burn with zeal for God.**
+### IV. A Sword Will Pierce Through Your Own Soul (Luke 2:34-35)
 
-When I first heard that a group of people were proclaiming a crucified Nazarene as the Messiah, my blood boiled. **The Messiah hung on a tree?** The Torah clearly states: "a hanged man is cursed by God" (Deuteronomy 21:23). These people were not preaching good news — they were blaspheming God!
+When Joseph and I brought the infant Jesus to the temple for the purification rite, old Simeon took the child, praised God, then turned to me and spoke a chilling prophecy: "A sword will pierce through your own soul also."
 
-So when the Sanhedrin decided to stamp out this heresy, I was the first to volunteer.
+At the time I did not understand what these words meant. Later I came to understand, gradually.
 
-The day Stephen was stoned to death, I was there. I did not throw the stones myself — I guarded the garments of those who did. I watched him kneel. I watched the stones strike him one by one. His face was covered in blood, but his face —
+When twelve-year-old Jesus stayed behind in the temple and Joseph and I anxiously searched for three days—that was the first piercing. When Jesus began his ministry and his hometown tried to throw him off a cliff—another piercing. When I watched the religious leaders oppose him, hunt him, scheme against him—the blade went deeper, inch by inch.
 
-Brothers and sisters, I do not like to admit this, but that day I saw a face I have never been able to forget. **His face was like the face of an angel.** As he was dying, he said, "Lord, do not hold this sin against them!" (Acts 7:60)
+Finally, I stood at the foot of the cross on Golgotha.
 
-A man being stoned to death was praying for the men killing him.
+My son—the baby I had nursed, the child I had watched take his first steps, my firstborn—hung naked on a wooden cross, blood flowing from the nail wounds in his hands and feet, crying out in agony: "Eli, Eli, lema sabachthani?" (My God, my God, why have you forsaken me?)
 
-I pushed that thought down. I told myself: this is the devil's deception. The more something looks like an angel, the more dangerous it is.
+In that moment, the sword truly pierced my soul.
 
-So I persecuted even more furiously.
+But I did not leave. I stood there. When all the disciples had scattered and fled—even Peter denied him three times—I stood at the foot of the cross. Not because I was braver than them, but because I was his mother, and a mother does not leave her suffering child.
 
-I went house to house. Men and women alike, I dragged them off to prison. I threatened them, demanding they deny that name. Some did deny it — I saw the shame and agony in their eyes. Some refused — I saw in their eyes a peace, a peace that I could never possess no matter how hard I tried.
+Yet even on the cross, he was caring for me. He said to John, "Behold, your mother!" And to me, "Behold, your son!" In the deepest agony, he was still loving.
 
-**I hated that peace.** Because I did not have it.
+### V. Blessed Is She Who Believed
 
-I thought I did. I thought keeping the law and burning with zeal was peace. But every time I saw those I had arrested singing hymns of praise in chains, a voice inside me whispered: **They have something you do not.**
+Three days later, he rose from the dead.
 
-I pushed that voice down deeper.
+That morning, when Mary Magdalene and the other women came running to tell us about the empty tomb, there was a strange peace in my heart—not because I had foreknown the resurrection would happen, but because my whole life had been an experience of this faithful God. The angel's words never failed: nothing is impossible with God.
 
-## On the Road to Damascus
+I was also among the believers in the Jerusalem church, praying with the apostles and other brothers and sisters, waiting for the coming of the Holy Spirit. On the day of Pentecost, the Spirit was poured out upon us—the same Spirit the angel had spoken of, now coming upon all who believed, no longer upon just one person. The Comforter my son had promised had come. The church was born.
 
-Jerusalem was not enough. I heard that there were followers of the Way in Damascus too, so I went to the high priest for letters of authority to bring them back in chains.
+From a small house in Nazareth to the upper room in Jerusalem, from the angel's announcement to the Spirit's descent—I witnessed the most pivotal chapters of salvation history. But let me tell you: the center of all this is not me, but the Lord Jesus Christ—the one who was born from my womb, who died on the cross, who rose from the dead, who ascended to heaven. I was only the vessel; he is the content. I was only the servant; he is the King.
 
-It was a long journey, about six days. The whole way I was planning how I would interrogate them, how I would convict them. My heart was full of righteous anger — or so I thought.
+Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be used by God. But remember: God chose an ordinary girl from Nazareth to change the course of world history. He doesn't need you to be perfect; he needs you to say "let it be." It is not your ability but his grace; not your worthiness but his choosing.
 
-**Then the light came.**
-
-Brothers and sisters, I cannot describe that light with words. The noonday sun was already blazing, but that light was brighter than the sun. It did not come from one direction — it **shone all around me**. As if the entire sky had torn open and all its light poured down.
-
-I fell to the ground.
-
-Then I heard the voice:
-
-**"Saul, Saul, why are you persecuting me?"**
-
-He called my name. Twice.
-
-I lay on the ground, trembling. I asked, "Who are you, Lord?"
-
-I already knew. The instant that light struck me, all my certainties shattered — my knowledge of the law, my Pharisee credentials, my zeal, my righteousness — all of it crumbled to dust. **Because if this light was from heaven, if this voice was the voice of God, then I had not been persecuting heretics. I had been —**
-
-**"I am Jesus, whom you are persecuting."**
-
-The crucified Nazarene. The one I had declared cursed by God. The one whose name I had fought with all my strength to wipe from the earth.
-
-**He is Lord.**
-
-Brothers and sisters, can you imagine what I felt in that moment? It was not an epiphany. It was the **ground giving way beneath me**. Everything I had ever done — my devotion, my zeal, everything I took pride in — was not merely worthless. It was aimed in **exactly the wrong direction**. I thought I was serving God. In truth, I was **persecuting God.**
-
-I was the most devout sinner in the world.
-
-## Three Days of Darkness
-
-After the light, my eyes were blind.
-
-My companions led me by the hand into Damascus. For three days and three nights I could see nothing. I neither ate nor drank.
-
-Do you know what I was thinking during those three days?
-
-I thought of Stephen's face. I thought of every person I had dragged to prison with my own hands. I thought of those who had died because of my persecution. Their names — every one — echoed in my mind.
-
-**I had been persecuting Jesus. Every believer was part of His body. When I struck them, I struck Him. When I bound them, I bound Him.**
-
-In three days of darkness, I finally understood one thing: **the law can reveal sin, but the law cannot save.** I had spent my whole life keeping the law, and all it had done was show me how hopeless I truly was. "For by works of the law no human being will be justified in his sight" (Romans 3:20).
-
-I also understood something else: **He did not strike me dead.**
-
-That light could have reduced me to ash. After all I had done, I deserved destruction a thousand times over. But He did not. **He asked me "Why are you persecuting me?" — that was not a sentence of judgment. It was a father's question to a prodigal son.**
-
-## Ananias Came
-
-On the third day, a disciple named Ananias came.
-
-I later learned that the Lord had told him in a vision: Go to the street called Straight, and find a man from Tarsus named Saul. Ananias said, "Lord, I have heard from many about this man, how much evil he has done to your saints at Jerusalem" (Acts 9:13).
-
-Brothers and sisters, think about it — if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
-
-**Ananias went.**
-
-He came in, placed his hands on me, and said a sentence that brought me to tears:
-
-**"Brother Saul."**
-
-Brother. He called me **brother.**
-
-This man — the very man I had come to Damascus to arrest — called me brother.
-
-"The Lord Jesus who appeared to you on the road by which you came has sent me so that you may regain your sight and be filled with the Holy Spirit" (Acts 9:17).
-
-In that moment, something like scales fell from my eyes. I could see again. But what I saw was no longer the world I had known — I saw an entirely new world. **When I was blind, I thought I could see. Only when I could see did I realize I had been blind all along.**
-
-I rose and was baptized.
-
-## Grace Upon Grace
-
-Brothers and sisters, if there is one person in all of Scripture least qualified to be used by God, it is I.
-
-I am not like Peter, who denied the Lord out of fear — Peter at least loved the Lord. **I actively, systematically, and zealously persecuted the church of Christ.** My hands were stained with the blood of saints.
-
-Yet He chose me.
-
-Not because of any good in me. Not because of my learning — though I was indeed trained under the finest teacher, Gamaliel. Not because of my zeal — that very zeal nearly made me an eternal enemy.
-
-**He chose me precisely to display all His patience in me, the foremost of sinners.**
-
-"The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life" (1 Timothy 1:15-16).
-
-Did you hear that? **As an example to those who would come after.** If even Saul could be forgiven, if even a persecutor of the church could become an apostle — **then no one is beyond the reach of grace.**
-
-## What I Once Counted as Gain
-
-In my letter to the Philippians, I wrote these words. Let me say them again now:
-
-"But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ" (Philippians 3:7-8).
-
-**Rubbish.**
-
-My Pharisee credentials — rubbish. My education under Gamaliel — rubbish. My blameless record under the law — rubbish. Not because these things were bad in themselves, but because **when you use them as substitutes for Christ, they become the very barriers that keep you from knowing God.**
-
-I once thought I stood in the light. In truth, I stood in darkness. That light knocked me down and blinded me — but the irony is, **only after I was blinded did I truly "see."**
-
-## To Every "Devout Persecutor"
-
-Brothers and sisters, if you are reading this —
-
-Perhaps you do not persecute the church as I did. But perhaps you and I share a common problem: **you believe your own righteousness can save you.**
-
-Perhaps you are a very good person. You follow the rules, do good deeds, never harm anyone. Your record, laid out for inspection, is "blameless." But do you have that peace in your heart? The peace that was sung by people in chains?
-
-If not — perhaps, like Saul on the road to Damascus, you need to be struck down by that light.
-
-Do not be afraid. **That light does not come to destroy you. It comes to save you.**
-
-It will blind you for a time. It will shatter all your certainties. It will leave you sitting in darkness for a while. But when the scales fall from your eyes, you will see a brand new world — a world where you no longer need to stand on your own righteousness, a world **upheld entirely by grace.**
-
-"Why are you persecuting me?" — perhaps today, the question is not about who you are persecuting, but about this: **What are you resisting?**
-
-Are you resisting the admission that you cannot do it on your own? Are you resisting laying down your pride? Are you resisting a love greater than all your certainties?
-
-Let go. Like me, fall down before that light.
-
-And then you will hear Him call your name.
-
-*"But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life." (1 Timothy 1:16)*
-
-*May the Lord who shone His light on me on the Damascus road also shine His light into your heart — your brother, Paul*`,
+> For he who is mighty has done great things for me, and holy is his name.`,
   },
   {
     id: 'thomas-doubt',
@@ -2649,330 +2418,194 @@ And then you will hear Him call your name.
     title_en: 'My Lord and My God!',
     date: '2026-04-18',
     category: 'testimony',
-    scripture: '',
-    scriptureText_zh: '',
-    scriptureText_en: '',
-    summary_zh: '',
-    summary_en: '',
-    tags: [],
-    content_zh: `## 我是扫罗——最虔诚的逼迫者
+    scripture: '约翰福音 20:24-29 / John 20:24-29',
+    scriptureText_zh: '多马说："我的主！我的神！"耶稣对他说："你因看见了我才信；那没有看见就信的有福了。"',
+    scriptureText_en: 'Thomas answered him, "My Lord and my God!" Jesus said to him, "Have you believed because you have seen me? Blessed are those who have not seen and yet have believed."',
+    summary_zh: '我不是"怀疑的多马"——我是那个需要亲眼看见才能相信的人。但当复活的主站在我面前，我说出了整本圣经中最伟大的信仰告白："我的主！我的神！"疑惑不是信心的对立面，不信才是。',
+    summary_en: 'I am not "Doubting Thomas"—I am the one who needed to see to believe. But when the risen Lord stood before me, I made the greatest confession of faith in all of Scripture: "My Lord and my God!" Doubt is not the opposite of faith; unbelief is.',
+    tags: ['信心', '疑惑', '确据', '复活'],
+    content_zh: `亲爱的弟兄姐妹，我是多马，又名低土马，意思是"双生子"。
 
-我叫扫罗，便雅悯支派的人，法利赛人中的法利赛人。
+你们大概知道我的绰号——"怀疑的多马"。两千年来，人们提起我，第一反应就是"那个不信的门徒"。但今天我要告诉你全部的故事——不只是怀疑的那一面，还有怀疑如何被恩典吞没的那一面。
 
-你们若问我从前是什么人，我可以把我的履历摆在你们面前："我第八天受割礼；我是以色列族、便雅悯支派的人，是希伯来人所生的希伯来人。就律法说，我是法利赛人；就热心说，我是逼迫教会的；就律法上的义说，我是无可指摘的。"（腓立比书 3:5-6）
+### 一、我们也去和他同死吧（约11:16）
 
-你们听清楚了吗？**无可指摘。** 不是我自夸。在迦玛列门下受教的那些年，我背下了整本妥拉，安息日从不违反一条诫命，十一奉献精确到薄荷、茴香、芹菜。法利赛人中间，没有人比我更认真。
+在讲那个著名的怀疑之前，让我先告诉你另一件事。
 
-但光认真还不够。我要**为神大发热心。**
+当主耶稣决定回犹大去看望已经死了的拉撒路时，门徒们都劝他别去——因为犹太人刚刚想要拿石头打死他。那是极其危险的行程。
 
-当我第一次听说有一群人在传讲一个被钉十字架的拿撒勒人是弥赛亚的时候，我的血都沸腾了。**弥赛亚被挂在木头上？** 妥拉明明写着："被挂的人是在神面前受咒诅的"（申命记 21:23）。这些人不是在传福音——他们是在亵渎神！
+就在那时，我对其他门徒说了一句话：
 
-所以当公会决定要清除这个异端的时候，我第一个站出来。
+> 多马，又称为低土马，就对那同作门徒的说："我们也去和他同死吧。"
 
-司提反被石头打死的那天，我就在那里。我没有亲手丢石头——我替那些丢石头的人看守衣裳。我看着他跪下来，看着石头一块一块砸在他身上。他满脸是血，但他的脸——
+这是我——"怀疑的多马"——说的话。"我们也去和他同死吧。"这不是一个胆怯者的话，这是一个愿意为主赴死之人的宣告。弟兄姐妹，在我怀疑之前，请先看见我的忠诚。我或许不善言辞，或许不像彼得那样热情外露，但当主要走向死亡的时候，我说的是"我们也去"——不是"让我们劝他别去"。
 
-弟兄姐妹，我不愿意承认这一点，但那天我看到了一张我永远忘不掉的脸。**他的脸好像天使的脸。** 他在死的时候说："主阿，不要将这罪归于他们！"（使徒行传 7:60）
 
-被石头打死的人在为打他的人祷告。
+我说"我们也去和他同死吧"的时候，我是认真的。我不是那种说漂亮话的人。我的性格就是这样——要么不说，说了就要做到。后来在客西马尼园，当兵丁来抓耶稣的时候，我和其他人一样逃跑了——这是我一生的耻辱。但那并不能抹去我当初说这话时的真心。人的软弱不能否定人的真诚。
 
-我当时把这念头压下去了。我告诉自己：这是魔鬼的迷惑。越是看起来像天使的，越危险。
+### 二、我们不知道你往哪里去（约14:5）
 
-所以我更加疯狂地逼迫。
+最后的晚餐上，主耶稣说他要去为我们预备地方，说"我往哪里去，你们知道；那条路，你们也知道。"其他门徒都沉默着，也许他们不好意思说自己不明白。但我不能假装明白不明白的事。
 
-我挨家挨户搜查。男人女人，我一概拉到监里。我威胁他们，要他们否认那个名字。有些人否认了——我看到他们眼中的羞耻和痛苦。有些人不肯——我看到他们眼中的平安，一种我用尽全力也无法拥有的平安。
+> 多马对他说："主啊，我们不知道你往哪里去，怎么知道那条路呢？"
 
-**我恨那种平安。** 因为我心里没有。
+这是一个诚实的问题——诚实到让其他门徒暗自庆幸有人替他们问了。而正是因为我的提问，主耶稣说出了那句照亮整个人类历史的话："我就是道路、真理、生命；若不藉着我，没有人能到父那里去。"（约14:6）
 
-我以为我有。我以为遵行律法、大发热心就是平安。但每次看到那些被我抓起来的人，他们在锁链中唱诗赞美的时候，我心里就有一个声音说：**他们有的东西，你没有。**
+弟兄姐妹，如果多马没有问那个"愚蠢"的问题，我们就不会有这句宝贵的经文。诚实的疑问不是信心的敌人——虚假的确定才是。你若心里有疑问，就当诚实地问。神不怕你的问题，他怕你假装没有问题。
 
-我把那声音压得更深。
+### 三、我总不信（约20:24-25）
 
-## 去大马色的路上
+然后是那一天。主耶稣被钉十字架，死了，埋葬了。我的世界崩塌了。
 
-耶路撒冷还不够。我听说大马色也有信这道的人，就去大祭司那里要了文书，要把那里的人也捆绑回来。
+那个安息日之后的第一天晚上，门徒们聚在一个房间里，门都关着。主耶稣来了，站在他们当中，对他们说"愿你们平安"，还把手和肋旁指给他们看。门徒都看见了主，就喜乐了。
 
-那是一段很长的路，大约六天的行程。一路上我都在想着到了之后怎么审讯、怎么定罪。我的心里充满了义怒——至少我以为那是义怒。
+但我没有在。
 
-**然后那道光来了。**
+为什么我不在？圣经没有说。也许我太悲伤了，需要独处。也许我在外面行走，试图理清思绪。也许——我无法面对其他门徒，因为我们所有人都在客西马尼园弃主而逃，这份羞耻让我难以面对同伴。
 
-弟兄姐妹，我无法用语言描述那道光。中午的日头已经够亮了，但那道光比日头还亮。不是从某个方向照来的——是**四面照着我**。好像整个天空都裂开了，所有的光都倾倒下来。
+当他们告诉我"我们已经看见主了"时，我说了那句让我名留千古的话：
 
-我仆倒在地。
+> 多马却说："我非看见他手上的钉痕，用指头探入那钉痕，又用手探入他的肋旁，我总不信。"
 
-然后我听到了那个声音：
+"我总不信。"——听起来很刚硬，对吗？但请理解我当时的处境。我刚刚经历了有生以来最大的创伤——我亲眼看着我的主、我的朋友、我的盼望被钉死在十字架上。我不能再承受第二次希望的破灭。如果他没有真的复活，而我却相信了，那种再次跌入深渊的痛苦会比第一次更致命。
 
-**"扫罗，扫罗，你为什么逼迫我？"**
+我不是不想信——我是不敢信。因为代价太大了。
 
-祂叫了我的名字。叫了两遍。
+而且，请注意：我要求的并非无理。我要求的和其他门徒已经得到的完全一样——亲眼看见复活的主。他们不是因为别人告诉他们才信的，他们是亲眼看见主把手和肋旁指给他们看才信的。我不过是要求同等的待遇。
 
-我趴在地上，浑身发抖。我问："主阿，你是谁？"
+### 四、我的主！我的神！（约20:26-28）
 
-我其实已经知道了。在那道光照到我的一瞬间，我所有的确信都碎了——我的律法知识、我的法利赛人身份、我的热心、我的义——全部碎成了渣。**因为如果这道光是从天上来的，如果这个声音是神的声音，那么我逼迫的不是异端，而是——**
+过了八天。我们又在那个房间里，这一次我也在。门都关了。
 
-**"我就是你所逼迫的耶稣。"**
 
-那个被钉十字架的拿撒勒人。那个我认定是被神咒诅的人。那个我拼了命要从地上抹去祂名字的人。
+八天。整整八天。主让我等了八天。他没有在第二天就来找我，没有在第三天、第五天。他让我在怀疑中等待了整整八天。这八天是漫长的煎熬——其他门徒都在喜乐中，而我独自在黑暗中挣扎。但我现在明白了：那八天是必要的。神有时让我们等待，不是因为他不在乎，乃是因为他要在等待中做更深的工作。
 
-**祂就是主。**
+> 耶稣来，站在当中说："愿你们平安！"就对多马说："伸过你的指头来，摸我的手；伸出你的手来，探入我的肋旁。不要疑惑，总要信！"
 
-弟兄姐妹，你们能想象那一刻我的感受吗？那不是恍然大悟，那是**天塌地陷**。我这一生所做的一切——我的虔诚、我的热心、我引以为傲的一切——不仅毫无价值，而且**方向完全相反**。我以为自己在事奉神，其实我在**逼迫神**。
+弟兄姐妹，你知道这意味着什么吗？主耶稣知道。他知道我说的每一个字——"钉痕""指头""肋旁"——他全部知道。他虽然不在那个房间里，但他听见了我的每一句话、每一声叹息、每一滴眼泪。
 
-我是全世界最虔诚的罪人。
+他没有绕过我的怀疑。他没有说"多马，你不配见到我，因为你不信。"他直接回应了我的需要——伸出手来，让我摸他的钉痕。他来到我的怀疑之中，用他伤痕累累的双手接住了我。
 
-## 三天的黑暗
+那一刻，我不需要摸了。我什么都不需要了。看见他站在我面前——那钉过的手、那刺过的肋旁、那温柔又威严的目光——一切的怀疑在瞬间瓦解。从我嘴里涌出了整本圣经中最伟大的信仰告白：
 
-那道光之后，我的眼睛瞎了。
+> 多马说："我的主！我的神！"
 
-同行的人领着我进了大马色城。三天三夜，我什么也看不见，也不吃也不喝。
+"我的主！我的神！"——这不是一句泛泛的认信。这是个人的、亲密的、终极的宣告。"**我的**主！**我的**神！"不是"他们的主"，不是"以色列的神"，而是"**我的**"。在整本福音书中，没有任何门徒说出过如此直接、如此完全的对基督神性的认信。彼得说过"你是基督，是永生神的儿子"，但我说的是——"你就是神。"
 
-你们知道那三天我在想什么吗？
 
-我想起了司提反的脸。我想起了我亲手抓进监牢的那些人。我想起了有些人因为我的逼迫而死。他们的名字，每一个，都在我脑海里。
+有人问：多马，你到底摸了没有？圣经没有记载。我只能说：当主站在我面前的那一刻，摸与不摸已经完全不重要了。就像一个迷路的孩子找到了父亲——你不需要检查他的身份证，你一看见他就知道：是他。复活的基督有一种无法抗拒的真实——他的同在本身就是最强的证据。
 
-**我逼迫的是耶稣。每一个信徒，都是祂身体的一部分。我打他们，就是打祂。我捆绑他们，就是捆绑祂。**
+我后来常常想：主为什么没有责备我？他本可以说"小信的人哪"，就像他对彼得说的那样。但他没有。他只是伸出手来，温柔地满足了我的需要。这让我明白了一件事：主对待每个门徒的方式都不一样。他知道彼得需要责备来警醒，他也知道我需要温柔来医治。他认识我们每一个人，比我们认识自己更深。
 
-三天的黑暗里，我终于明白了一件事：**律法能让人知罪，但律法不能救人。** 我一辈子都在守律法，但律法只是让我看到自己有多绝望。"所以凡有血气的，没有一个因行律法能在神面前称义，因为律法本是叫人知罪。"（罗马书 3:20）
+怀疑到了尽头，遇见的不是答案，而是一个人——复活的基督。信心的对象不是一套教义、一组证据，而是一位活着的主。
 
-我也明白了另一件事：**祂没有击杀我。**
+### 五、没有看见就信的有福了（约20:29）
 
-那道光完全可以把我烧成灰。以我所做的一切，我配得灭亡一千次。但祂没有。**祂问我"你为什么逼迫我"——这不是审判的宣告，这是父亲对浪子的追问。**
+主耶稣对我说了最后一句话：
 
-## 亚拿尼亚来了
+> 耶稣对他说："你因看见了我才信；那没有看见就信的有福了。"
 
-第三天，一个叫亚拿尼亚的门徒来了。
+这句话不是责备——这是祝福。主没有说"你信得太晚了"或"你的信心不如别人"。他是在说：多马，你是有福的，因为你信了；但还有更大的福分，属于那些没有亲眼看见就信的人。
 
-后来我才知道，主在异象中对他说：去直街，找一个叫扫罗的大数人。亚拿尼亚说："主阿，我听见许多人说，这人怎样在耶路撒冷多多苦害你的圣徒。"（使徒行传 9:13）
+弟兄姐妹，那就是你。你没有把手探入主的肋旁，你没有亲眼看见复活的基督站在你面前——但你信了。这信心比我的更蒙福，因为这信心完全倚靠圣灵的内在见证和神话语的能力，而非外在的感官经验。
 
-弟兄姐妹，你们想想——如果有人让你去找一个专门抓基督徒的人，给他按手祷告，你去不去？
+后来我去了印度传道，在那遥远的地方建立教会，直到为主殉道。那个曾经说"我总不信"的人，最终为信仰献出了生命。这不是我的刚强——这是恩典的能力。那双带着钉痕的手，从我怀疑的深渊中把我拉了上来，又差遣我到地极去为他作见证。
 
-**亚拿尼亚去了。**
 
-他进来，把手按在我身上，说了一句让我泪流满面的话：
+使徒保罗后来写道："我们有这宝贝放在瓦器里，要显明这莫大的能力是出于神，不是出于我们。"我就是那个瓦器——一个裂缝遍布的瓦器——但神的荣光正是从裂缝中照射出来。
 
-**"兄弟扫罗。"**
+亲爱的弟兄姐妹，你若正在怀疑中挣扎，不要害怕，也不要假装。把你的疑问诚实地带到主面前。他不怕你的怀疑——他要亲自来到你的怀疑之中，伸出那钉痕的手，对你说："不要疑惑，总要信。"
 
-兄弟。他叫我**兄弟**。
+疑惑不是信心的对立面，不信才是。疑惑是走向更深信心的必经之路。愿你像我一样，在怀疑的尽头遇见复活的主，然后从心底呼喊："我的主！我的神！"`,
+    content_en: `Dear brothers and sisters, I am Thomas, also called Didymus, which means "the Twin."
 
-这个我来大马色要抓的人，叫我兄弟。
+You probably know my nickname—"Doubting Thomas." For two thousand years, when people mention me, the first thought is "the disciple who didn't believe." But today I want to tell you the full story—not just the doubting side, but how doubt was swallowed up by grace.
 
-"在你来的路上向你显现的主，就是耶稣，打发我来，叫你能看见，又被圣灵充满。"（使徒行传 9:17）
+### I. Let Us Also Go, That We May Die with Him (John 11:16)
 
-就在那一刻，好像有鳞片从我眼睛上掉下来。我又能看见了。但我看到的不再是从前的世界——我看到了一个全新的世界。**瞎眼的时候以为自己看得见，看见了才知道自己从前是瞎的。**
+Before telling you about that famous doubt, let me tell you about something else first.
 
-我起来，受了洗。
+When the Lord Jesus decided to return to Judea to visit Lazarus, who had died, the disciples all urged him not to go—because the Jews had just tried to stone him. It was an extremely dangerous journey.
 
-## 恩典中的恩典
+At that moment, I said to the other disciples:
 
-弟兄姐妹，如果说整本圣经中有一个人最没有资格被神使用，那就是我。
+> Thomas, called the Twin, said to his fellow disciples, "Let us also go, that we may die with him."
 
-我不是像彼得那样因为害怕而不认主——彼得至少还爱主。**我是主动地、系统地、狂热地逼迫基督的教会。** 我手上沾着圣徒的血。
+This was said by me—"Doubting Thomas." "Let us also go, that we may die with him." These are not the words of a coward; they are the declaration of one willing to die for his Lord. Brothers and sisters, before you see my doubt, first see my loyalty. I may not have been eloquent, may not have been as outwardly passionate as Peter, but when the Lord was heading toward death, I said "Let us also go"—not "Let us persuade him not to."
 
-但祂拣选了我。
+When I said "Let us also go, that we may die with him," I meant it. I was not one for pretty words. My character was this: either don't speak, or speak and follow through. Later in Gethsemane, when the soldiers came to arrest Jesus, I ran like everyone else—that is the shame of my life. But that does not erase the sincerity of my heart when I first spoke those words. Human weakness does not negate human sincerity.
 
-不是因为我有什么好。不是因为我的学问——虽然我确实在迦玛列门下受过最好的训练。不是因为我的热心——那份热心差点让我成为永远的仇敌。
+### II. We Do Not Know Where You Are Going (John 14:5)
 
-**祂拣选我，恰恰是要在我这"罪人中的罪魁"身上，显明他一切的忍耐。**
+At the Last Supper, the Lord Jesus said he was going to prepare a place for us, saying "You know the way to where I am going." The other disciples sat in silence—perhaps too embarrassed to admit they didn't understand. But I could not pretend to understand what I didn't.
 
-"基督耶稣降世，为要拯救罪人。这话是可信的，是十分可佩服的。在罪人中我是个罪魁。然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明他一切的忍耐，给后来信他得永生的人作榜样。"（提摩太前书 1:15-16）
+> Thomas said to him, "Lord, we do not know where you are going. How can we know the way?"
 
-你们听到了吗？**给后来的人作榜样。** 如果连扫罗都能被赦免，连逼迫教会的人都能成为使徒——**那么没有人是恩典够不到的。**
+This was an honest question—so honest that the other disciples were secretly grateful someone had asked on their behalf. And it was precisely because of my question that the Lord Jesus spoke those words that illuminate all human history: "I am the way, and the truth, and the life. No one comes to the Father except through me." (John 14:6)
 
-## 我从前以为有益的
+Brothers and sisters, if Thomas had not asked that "foolish" question, we would not have this precious verse. Honest questioning is not the enemy of faith—false certainty is. If you have questions in your heart, ask honestly. God is not afraid of your questions; he is afraid of you pretending you have none.
 
-腓立比书里我写过这么一段话。现在让我再说一遍：
+### III. Unless I See, I Will Never Believe (John 20:24-25)
 
-"只是我先前以为与我有益的，我现在因基督都当作有损的。不但如此，我也将万事当作有损的，因我以认识我主基督耶稣为至宝。我为他已经丢弃万事，看作粪土，为要得着基督。"（腓立比书 3:7-8）
+Then came that day. The Lord Jesus was crucified, died, and was buried. My world collapsed.
 
-**粪土。**
+On the evening of the first day after the Sabbath, the disciples gathered in a room with the doors locked. The Lord Jesus came, stood among them, said "Peace be with you," and showed them his hands and side. The disciples all saw the Lord and were filled with joy.
 
-我的法利赛人身份——粪土。我在迦玛列门下的学历——粪土。我无可指摘的律法记录——粪土。不是因为这些东西本身是坏的，而是因为**当你用这些东西来代替基督的时候，它们就变成了拦阻你认识神的障碍。**
+But I was not there.
 
-我从前以为自己站在光明里，其实我站在黑暗中。那道光把我打倒，让我瞎了眼——但讽刺的是，**瞎了眼之后我才真正"看见"了。**
+Why was I absent? Scripture does not say. Perhaps I was too grief-stricken and needed to be alone. Perhaps I was walking outside, trying to sort through my thoughts. Perhaps I could not face the other disciples, because all of us had abandoned the Lord in Gethsemane, and the shame made it hard to face my companions.
 
-## 致每一个"虔诚的逼迫者"
+When they told me "We have seen the Lord," I said the words that would define me for all of history:
 
-弟兄姐妹，如果你读到这里——
+> Thomas said to them, "Unless I see in his hands the mark of the nails, and place my finger into the mark of the nails, and place my hand into his side, I will never believe."
 
-也许你不像我那样逼迫教会。但也许你和我有一个共同的问题：**你以为自己的义可以救自己。**
+"I will never believe."—Sounds stubborn, doesn't it? But please understand my situation. I had just experienced the greatest trauma of my life—I watched my Lord, my friend, my hope nailed to a cross and killed. I could not bear a second shattering of hope. If he had not truly risen, yet I believed, the pain of falling into that abyss again would be more fatal than the first time.
 
-也许你是一个很好的人。你守规矩，做善事，从不害人。你的履历拿出来，"无可指摘"。但你心里有没有那种平安？那种被锁链中的人唱出来的平安？
+I did not refuse to believe—I was afraid to believe. Because the cost was too high.
 
-如果没有——也许你和大马色路上的扫罗一样，需要被那道光击倒一次。
+And notice: my demand was not unreasonable. What I asked for was exactly what the other disciples had already received—to see the risen Lord with their own eyes. They did not believe because someone told them; they believed because they saw the Lord show them his hands and side. I was merely asking for equal treatment.
 
-不要怕。**那道光不是来毁灭你的。那道光是来拯救你的。**
+### IV. My Lord and My God! (John 20:26-28)
 
-它会让你暂时看不见。它会把你所有的确信打碎。它会让你在黑暗中待上一阵子。但当鳞片从你眼睛上掉下来的时候，你会看到一个全新的世界——一个不需要你靠自己的义站立的世界，一个**被恩典托住的世界。**
+Eight days passed. We were in that room again, and this time I was there too. The doors were shut.
 
-"你为什么逼迫我？"——也许今天，这个问题不是问你在逼迫谁，而是在问：**你在抗拒什么？**
+Eight days. A full eight days. The Lord made me wait eight days. He did not come to find me the next day, not the third day, not the fifth. He let me wait in doubt for a full eight days. Those eight days were agonizing—the other disciples were all rejoicing while I struggled alone in darkness. But I understand now: those eight days were necessary. God sometimes makes us wait not because he doesn't care, but because he is doing deeper work in the waiting.
 
-你在抗拒承认自己不行吗？你在抗拒放下你的骄傲吗？你在抗拒那个比你所有的确信都更大的爱吗？
+> Jesus came and stood among them and said, "Peace be with you." Then he said to Thomas, "Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe."
 
-放下吧。像我一样，仆倒在那道光面前。
+Brothers and sisters, do you know what this means? The Lord Jesus knew. He knew every word I had said—"the mark of the nails," "my finger," "his side"—he knew it all. Though he was not in that room, he had heard every word, every sigh, every tear.
 
-然后你会听到祂叫你的名字。
+He did not bypass my doubt. He did not say "Thomas, you are not worthy to see me because you didn't believe." He directly met my need—extending his hands, letting me touch his nail marks. He came into the midst of my doubt and caught me with his scarred hands.
 
-*"然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明他一切的忍耐，给后来信他得永生的人作榜样。"（提摩太前书 1:16）*
+In that moment, I didn't need to touch. I didn't need anything anymore. Seeing him standing before me—those pierced hands, that wounded side, that gaze both gentle and majestic—all doubt collapsed in an instant. From my mouth burst forth the greatest confession of faith in all of Scripture:
 
-*愿那在大马色路上光照我的主，也光照你的心——你的弟兄，保罗*`,
-    content_en: `## I Am Saul — The Most Devout Persecutor
+> Thomas answered him, "My Lord and my God!"
 
-My name is Saul, of the tribe of Benjamin, a Pharisee among Pharisees.
+"My Lord and my God!"—This was not a vague acknowledgment. It was personal, intimate, ultimate. "**My** Lord! **My** God!" Not "their Lord," not "the God of Israel," but "**mine**." In all the Gospels, no disciple ever made such a direct, such a complete confession of Christ's deity. Peter had said "You are the Christ, the Son of the living God," but what I said was—"You are God."
 
-If you ask me who I was before, I can lay my credentials before you: "Circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless." (Philippians 3:5-6)
+Did I actually touch his wounds? Scripture does not record it. I can only say: the moment the Lord stood before me, whether I touched or not was utterly irrelevant. Like a lost child finding his father—you don't need to check his ID; the moment you see him, you know: it's him. The risen Christ has an irresistible reality—his presence itself is the strongest evidence.
 
-Did you hear that? **Blameless.** I am not boasting. In those years studying under Gamaliel, I memorized the entire Torah, never broke a single commandment on the Sabbath, tithed down to the mint, dill, and cumin. Among the Pharisees, no one was more serious than I was.
+I have often thought since: why didn't the Lord rebuke me? He could have said "O you of little faith," as he said to Peter. But he didn't. He simply extended his hands and tenderly met my need. This taught me something: the Lord treats each disciple differently. He knew Peter needed rebuke for alertness; he also knew I needed tenderness for healing. He knows each one of us more deeply than we know ourselves.
 
-But being serious was not enough. I wanted to **burn with zeal for God.**
+At the end of doubt, what you encounter is not an answer but a person—the risen Christ. The object of faith is not a set of doctrines, not a collection of evidence, but a living Lord.
 
-When I first heard that a group of people were proclaiming a crucified Nazarene as the Messiah, my blood boiled. **The Messiah hung on a tree?** The Torah clearly states: "a hanged man is cursed by God" (Deuteronomy 21:23). These people were not preaching good news — they were blaspheming God!
+### V. Blessed Are Those Who Have Not Seen and Yet Have Believed (John 20:29)
 
-So when the Sanhedrin decided to stamp out this heresy, I was the first to volunteer.
+The Lord Jesus spoke his final words to me:
 
-The day Stephen was stoned to death, I was there. I did not throw the stones myself — I guarded the garments of those who did. I watched him kneel. I watched the stones strike him one by one. His face was covered in blood, but his face —
+> Jesus said to him, "Have you believed because you have seen me? Blessed are those who have not seen and yet have believed."
 
-Brothers and sisters, I do not like to admit this, but that day I saw a face I have never been able to forget. **His face was like the face of an angel.** As he was dying, he said, "Lord, do not hold this sin against them!" (Acts 7:60)
+This is not a rebuke—it is a blessing. The Lord did not say "You believed too late" or "Your faith is inferior to the others'." He was saying: Thomas, you are blessed because you believed; but there is an even greater blessing, belonging to those who have not seen with their eyes and yet have believed.
 
-A man being stoned to death was praying for the men killing him.
+Brothers and sisters, that is you. You have not placed your hand into the Lord's side. You have not seen the risen Christ standing before you with your own eyes—yet you believed. This faith is more blessed than mine, because it relies entirely on the inward witness of the Holy Spirit and the power of God's word, not on outward sensory experience.
 
-I pushed that thought down. I told myself: this is the devil's deception. The more something looks like an angel, the more dangerous it is.
+Later I went to India to preach the gospel, establishing churches in that distant land, until I was martyred for the Lord. The one who once said "I will never believe" ultimately gave his life for the faith. This was not my strength—it was the power of grace. Those nail-scarred hands pulled me up from the abyss of doubt and sent me to the ends of the earth to bear witness for him.
 
-So I persecuted even more furiously.
+The apostle Paul later wrote: "But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us." I was that jar of clay—cracked through and through—but God's glory shone out precisely through the cracks.
 
-I went house to house. Men and women alike, I dragged them off to prison. I threatened them, demanding they deny that name. Some did deny it — I saw the shame and agony in their eyes. Some refused — I saw in their eyes a peace, a peace that I could never possess no matter how hard I tried.
+Dear brothers and sisters, if you are struggling with doubt, do not be afraid, and do not pretend. Bring your questions honestly before the Lord. He is not afraid of your doubt—he will come into the midst of your doubt himself, extend those nail-scarred hands, and say to you: "Do not disbelieve, but believe."
 
-**I hated that peace.** Because I did not have it.
-
-I thought I did. I thought keeping the law and burning with zeal was peace. But every time I saw those I had arrested singing hymns of praise in chains, a voice inside me whispered: **They have something you do not.**
-
-I pushed that voice down deeper.
-
-## On the Road to Damascus
-
-Jerusalem was not enough. I heard that there were followers of the Way in Damascus too, so I went to the high priest for letters of authority to bring them back in chains.
-
-It was a long journey, about six days. The whole way I was planning how I would interrogate them, how I would convict them. My heart was full of righteous anger — or so I thought.
-
-**Then the light came.**
-
-Brothers and sisters, I cannot describe that light with words. The noonday sun was already blazing, but that light was brighter than the sun. It did not come from one direction — it **shone all around me**. As if the entire sky had torn open and all its light poured down.
-
-I fell to the ground.
-
-Then I heard the voice:
-
-**"Saul, Saul, why are you persecuting me?"**
-
-He called my name. Twice.
-
-I lay on the ground, trembling. I asked, "Who are you, Lord?"
-
-I already knew. The instant that light struck me, all my certainties shattered — my knowledge of the law, my Pharisee credentials, my zeal, my righteousness — all of it crumbled to dust. **Because if this light was from heaven, if this voice was the voice of God, then I had not been persecuting heretics. I had been —**
-
-**"I am Jesus, whom you are persecuting."**
-
-The crucified Nazarene. The one I had declared cursed by God. The one whose name I had fought with all my strength to wipe from the earth.
-
-**He is Lord.**
-
-Brothers and sisters, can you imagine what I felt in that moment? It was not an epiphany. It was the **ground giving way beneath me**. Everything I had ever done — my devotion, my zeal, everything I took pride in — was not merely worthless. It was aimed in **exactly the wrong direction**. I thought I was serving God. In truth, I was **persecuting God.**
-
-I was the most devout sinner in the world.
-
-## Three Days of Darkness
-
-After the light, my eyes were blind.
-
-My companions led me by the hand into Damascus. For three days and three nights I could see nothing. I neither ate nor drank.
-
-Do you know what I was thinking during those three days?
-
-I thought of Stephen's face. I thought of every person I had dragged to prison with my own hands. I thought of those who had died because of my persecution. Their names — every one — echoed in my mind.
-
-**I had been persecuting Jesus. Every believer was part of His body. When I struck them, I struck Him. When I bound them, I bound Him.**
-
-In three days of darkness, I finally understood one thing: **the law can reveal sin, but the law cannot save.** I had spent my whole life keeping the law, and all it had done was show me how hopeless I truly was. "For by works of the law no human being will be justified in his sight" (Romans 3:20).
-
-I also understood something else: **He did not strike me dead.**
-
-That light could have reduced me to ash. After all I had done, I deserved destruction a thousand times over. But He did not. **He asked me "Why are you persecuting me?" — that was not a sentence of judgment. It was a father's question to a prodigal son.**
-
-## Ananias Came
-
-On the third day, a disciple named Ananias came.
-
-I later learned that the Lord had told him in a vision: Go to the street called Straight, and find a man from Tarsus named Saul. Ananias said, "Lord, I have heard from many about this man, how much evil he has done to your saints at Jerusalem" (Acts 9:13).
-
-Brothers and sisters, think about it — if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
-
-**Ananias went.**
-
-He came in, placed his hands on me, and said a sentence that brought me to tears:
-
-**"Brother Saul."**
-
-Brother. He called me **brother.**
-
-This man — the very man I had come to Damascus to arrest — called me brother.
-
-"The Lord Jesus who appeared to you on the road by which you came has sent me so that you may regain your sight and be filled with the Holy Spirit" (Acts 9:17).
-
-In that moment, something like scales fell from my eyes. I could see again. But what I saw was no longer the world I had known — I saw an entirely new world. **When I was blind, I thought I could see. Only when I could see did I realize I had been blind all along.**
-
-I rose and was baptized.
-
-## Grace Upon Grace
-
-Brothers and sisters, if there is one person in all of Scripture least qualified to be used by God, it is I.
-
-I am not like Peter, who denied the Lord out of fear — Peter at least loved the Lord. **I actively, systematically, and zealously persecuted the church of Christ.** My hands were stained with the blood of saints.
-
-Yet He chose me.
-
-Not because of any good in me. Not because of my learning — though I was indeed trained under the finest teacher, Gamaliel. Not because of my zeal — that very zeal nearly made me an eternal enemy.
-
-**He chose me precisely to display all His patience in me, the foremost of sinners.**
-
-"The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life" (1 Timothy 1:15-16).
-
-Did you hear that? **As an example to those who would come after.** If even Saul could be forgiven, if even a persecutor of the church could become an apostle — **then no one is beyond the reach of grace.**
-
-## What I Once Counted as Gain
-
-In my letter to the Philippians, I wrote these words. Let me say them again now:
-
-"But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ" (Philippians 3:7-8).
-
-**Rubbish.**
-
-My Pharisee credentials — rubbish. My education under Gamaliel — rubbish. My blameless record under the law — rubbish. Not because these things were bad in themselves, but because **when you use them as substitutes for Christ, they become the very barriers that keep you from knowing God.**
-
-I once thought I stood in the light. In truth, I stood in darkness. That light knocked me down and blinded me — but the irony is, **only after I was blinded did I truly "see."**
-
-## To Every "Devout Persecutor"
-
-Brothers and sisters, if you are reading this —
-
-Perhaps you do not persecute the church as I did. But perhaps you and I share a common problem: **you believe your own righteousness can save you.**
-
-Perhaps you are a very good person. You follow the rules, do good deeds, never harm anyone. Your record, laid out for inspection, is "blameless." But do you have that peace in your heart? The peace that was sung by people in chains?
-
-If not — perhaps, like Saul on the road to Damascus, you need to be struck down by that light.
-
-Do not be afraid. **That light does not come to destroy you. It comes to save you.**
-
-It will blind you for a time. It will shatter all your certainties. It will leave you sitting in darkness for a while. But when the scales fall from your eyes, you will see a brand new world — a world where you no longer need to stand on your own righteousness, a world **upheld entirely by grace.**
-
-"Why are you persecuting me?" — perhaps today, the question is not about who you are persecuting, but about this: **What are you resisting?**
-
-Are you resisting the admission that you cannot do it on your own? Are you resisting laying down your pride? Are you resisting a love greater than all your certainties?
-
-Let go. Like me, fall down before that light.
-
-And then you will hear Him call your name.
-
-*"But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life." (1 Timothy 1:16)*
-
-*May the Lord who shone His light on me on the Damascus road also shine His light into your heart — your brother, Paul*`,
+Doubt is not the opposite of faith; unbelief is. Doubt is a necessary passage on the way to deeper faith. May you, like me, encounter the risen Lord at the end of your doubt, and then cry out from the depths of your heart: "My Lord and my God!"`,
   },
   {
     id: 'john-patmos',
@@ -2990,7 +2623,7 @@ And then you will hear Him call your name.
     scriptureText_en: 'Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God.',
     summary_zh: '年迈的使徒约翰从拔摩海岛写给亲爱读者的最后书信，回忆与主同行的岁月，见证道成肉身的荣耀与爱。',
     summary_en: 'A final letter from the aged Apostle John on Patmos to beloved readers, recalling years walking with the Lord, bearing witness to the glory and love of the incarnate Word.',
-    tags: ['testimony', 'love', 'light', 'incarnation'],
+    tags: ['见证', '爱', '光', '道成肉身'],
     content_zh: `亲爱的读者，愿恩惠、平安从那昔在、今在、以后永在的神归与你！
 
 我是约翰，主耶稣所爱的那门徒。此刻，我正坐在拔摩海岛一块冰冷的岩石上，用颤抖的手写下这封信。海风呼啸，波浪拍打着礁石，发出低沉的轰鸣。这里是罗马帝国的流放之地，是囚禁政治犯和异端分子的监狱。我被流放到这里，不是因为犯了罪，乃是"为神的道、并为给耶稣作的见证"（启1:9）。
@@ -3043,13 +2676,13 @@ And then you will hear Him call your name.
 
 如今，他们几乎都走了。
 
-彼得在罗马倒钉十字架殉道。保罗在罗马被斩首。雅各被石头打死。多马在印度传道时被刺死。安德烈在希腊被钉十字架。腓力在弗吕家被倒钉十字架。巴多罗买在亚美尼亚被剥皮而死。马太在埃塞俄比亚被刀杀。奋锐党的西门在波斯被钉十字架。
+彼得在罗马倒钉十字架殉道。保罗在罗马被斩首。主的兄弟雅各被石头打死。多马在印度传道时被刺死。安德烈在希腊被钉十字架。腓力在弗吕家被倒钉十字架。巴多罗买在亚美尼亚被剥皮而死。马太在埃塞俄比亚被刀杀。奋锐党的西门在波斯被钉十字架。
 
 他们一个个离去，去见主的面。
 
 我是最后一个了。我是唯一一个没有殉道的使徒，但我并非因为逃避。主曾对彼得说关于我的话："我若要他等到我来的时候，与你何干？"（约21:22）主留我在世上，是要我完成他的托付。
 
-我在以弗所牧养教会多年。我教导真理，斥责假教师，安慰受苦的圣徒。我写了约翰福音，写了三封书信，为要让人知道："太初有道，道与神同在，道就是神。"（约1:1）也为要让人知道："神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不至灭亡,反得永生。"（约3:16）
+我在以弗所牧养教会多年。我教导真理，斥责假教师，安慰受苦的圣徒。我写了约翰福音，写了三封书信，为要让人知道："太初有道，道与神同在，道就是神。"（约1:1）也为要让人知道："神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不至灭亡，反得永生。"（约3:16）
 
 ### 五、拔摩海岛的异象
 
@@ -3073,7 +2706,7 @@ And then you will hear Him call your name.
 
 **第一，要持守真道。** 这世界有许多假教师、假先知，他们歪曲福音，传讲"别的福音"（加1:6）。但你要记住：救恩唯独借着信靠基督，不是靠行为、不是靠遗传、不是靠神秘经验。"你们得救是本乎恩，也因着信；这并不是出于自己，乃是神所赐的"（弗2:8）。
 
-**第二，要彼此相爱。** 主给我们的新命令是什么？"我赐给你们一条新命令，乃是叫你们彼此相爱；我怎样爱你们，你们也要怎样相爱。你们若有彼此相爱的心，众人因此就认出你们是我的门徒了。"（约13:34-35）不要恨你的弟兄，不要论断，不要分裂。要用爱心互相宽容,用和平彼此联络（弗4:2-3）。
+**第二，要彼此相爱。** 主给我们的新命令是什么？"我赐给你们一条新命令，乃是叫你们彼此相爱；我怎样爱你们，你们也要怎样相爱。你们若有彼此相爱的心，众人因此就认出你们是我的门徒了。"（约13:34-35）不要恨你的弟兄，不要论断，不要分裂。要用爱心互相宽容，用和平彼此联络（弗4:2-3）。
 
 **第三，不要爱世界。** "不要爱世界和世界上的事。人若爱世界，爱父的心就不在他里面了。因为凡世界上的事，就像肉体的情欲、眼目的情欲，并今生的骄傲，都不是从父来的，乃是从世界来的。这世界和其上的情欲都要过去，惟独遵行神旨意的，是永远常存。"（约一2:15-17）
 
@@ -3087,7 +2720,7 @@ And then you will hear Him call your name.
 
 我曾亲眼看见主，亲手摸过他，亲耳听见他的话。这不是虚构的神话，乃是历史的事实。主真的道成肉身，真的死在十字架上，真的第三天复活了！凡信他的，就有永生。
 
-我将要去见他的面了。但你还活着。你要选择——跟随这位复活的主,还是继续在世界的黑暗中行走？
+我将要去见他的面了。但你还活着。你要选择——跟随这位复活的主，还是继续在世界的黑暗中行走？
 
 > "我是世界的光。跟从我的，就不在黑暗里走，必要得着生命的光。"（约翰福音8:12）
 
@@ -3148,7 +2781,7 @@ But persecution followed. Stephen was stoned to death, becoming the first martyr
 
 Now, they are nearly all gone.
 
-Peter was crucified upside down in Rome. Paul was beheaded in Rome. James was stoned to death. Thomas was speared to death while preaching in India. Andrew was crucified in Greece. Philip was crucified upside down in Phrygia. Bartholomew was flayed alive in Armenia. Matthew was killed by the sword in Ethiopia. Simon the Zealot was crucified in Persia.
+Peter was crucified upside down in Rome. Paul was beheaded in Rome. James the brother of the Lord was stoned to death. Thomas was speared to death while preaching in India. Andrew was crucified in Greece. Philip was crucified upside down in Phrygia. Bartholomew was flayed alive in Armenia. Matthew was killed by the sword in Ethiopia. Simon the Zealot was crucified in Persia.
 
 One by one they departed, to see the Lord's face.
 
@@ -3213,330 +2846,192 @@ AD 95`,
     title_en: 'That Year in Shiloh',
     date: '2026-05-02',
     category: 'testimony',
-    scripture: '',
-    scriptureText_zh: '',
-    scriptureText_en: '',
-    summary_zh: '',
-    summary_en: '',
-    tags: [],
-    content_zh: `## 我是扫罗——最虔诚的逼迫者
+    scripture: '撒母耳记上 1:1-2:11 / 1 Samuel 1:1-2:11',
+    scriptureText_zh: '哈拿心里愁苦，就痛痛哭泣，祈祷耶和华。许愿说："万军之耶和华啊，你若垂顾婢女的苦情，眷念不忘婢女，赐我一个儿子，我必使他终身归与耶和华。"',
+    scriptureText_en: 'She was deeply distressed and prayed to the LORD and wept bitterly. And she vowed a vow and said, "O LORD of hosts, if you will indeed look on the affliction of your servant and remember me and not forget your servant, but will give to your servant a son, then I will give him to the LORD all the days of his life."',
+    summary_zh: '在示罗的圣殿里，一个不能生育的妇人含泪祷告，连祭司都以为她喝醉了。哈拿的祷告教会我们：神垂听那些从心灵深处发出的呼求，他的时间表永远不会错。',
+    summary_en: 'In the temple at Shiloh, a barren woman prayed through tears so fervently that the priest thought she was drunk. Hannah\'s prayer teaches us that God hears the cries from the depths of the soul, and His timing is never wrong.',
+    tags: ['祷告', '信心', '奉献', '恩典'],
+    content_zh: `亲爱的弟兄姐妹，我是哈拿，以利加拿的妻子，撒母耳的母亲。
 
-我叫扫罗，便雅悯支派的人，法利赛人中的法利赛人。
+在我成为撒母耳的母亲之前，我是一个不能生育的女人。在以色列，不能生育意味着什么？意味着羞耻，意味着被人议论，意味着你在众人面前抬不起头来。更痛苦的是，我的丈夫还有另一个妻子毗尼拿，她有儿有女，而我的怀里空空如也。
 
-你们若问我从前是什么人，我可以把我的履历摆在你们面前："我第八天受割礼；我是以色列族、便雅悯支派的人，是希伯来人所生的希伯来人。就律法说，我是法利赛人；就热心说，我是逼迫教会的；就律法上的义说，我是无可指摘的。"（腓立比书 3:5-6）
+### 一、年年如此的苦难（撒上1:1-8）
 
-你们听清楚了吗？**无可指摘。** 不是我自夸。在迦玛列门下受教的那些年，我背下了整本妥拉，安息日从不违反一条诫命，十一奉献精确到薄荷、茴香、芹菜。法利赛人中间，没有人比我更认真。
+> 他有两个妻：一名哈拿，一名毗尼拿。毗尼拿有儿女，哈拿没有儿女。
 
-但光认真还不够。我要**为神大发热心。**
+> 毗尼拿见耶和华不使哈拿生育，就作她的对头，大大激动她，要使她生气。每年上到耶和华殿的时候，以利加拿都以双份给哈拿；毗尼拿仍是激动她，以致她哭泣不吃饭。
 
-当我第一次听说有一群人在传讲一个被钉十字架的拿撒勒人是弥赛亚的时候，我的血都沸腾了。**弥赛亚被挂在木头上？** 妥拉明明写着："被挂的人是在神面前受咒诅的"（申命记 21:23）。这些人不是在传福音——他们是在亵渎神！
+"年年如此"——经文特别提到，每年上示罗献祭的时候，毗尼拿都激动我。不是一次两次，是年复一年。你能想象吗？每年最应该欢喜感恩的时刻——朝见耶和华的日子——对我来说却是最痛苦的日子。因为在那里，所有家庭都带着儿女欢欢喜喜地献祭，而我只有眼泪。
 
-所以当公会决定要清除这个异端的时候，我第一个站出来。
+毗尼拿的讥讽像一把刀，但更痛的是心中那个无法回答的问题：为什么？为什么耶和华不使我生育？难道我做错了什么？难道神不爱我？
 
-司提反被石头打死的那天，我就在那里。我没有亲手丢石头——我替那些丢石头的人看守衣裳。我看着他跪下来，看着石头一块一块砸在他身上。他满脸是血，但他的脸——
+我的丈夫以利加拿爱我。他给我双份的祭肉，他温柔地安慰我：
 
-弟兄姐妹，我不愿意承认这一点，但那天我看到了一张我永远忘不掉的脸。**他的脸好像天使的脸。** 他在死的时候说："主阿，不要将这罪归于他们！"（使徒行传 7:60）
+> 她丈夫以利加拿对她说："哈拿啊，你为何哭泣，不吃饭，心里愁闷呢？有我不比十个儿子还好吗？"
 
-被石头打死的人在为打他的人祷告。
+以利加拿的爱是真实的，但他不能完全理解我的痛苦。"有我不比十个儿子还好吗？"——丈夫啊，你的爱我感受到了，但我心中的渴望不是你能满足的。有些痛苦，人的安慰触及不到，只有神能触及。
 
-我当时把这念头压下去了。我告诉自己：这是魔鬼的迷惑。越是看起来像天使的，越危险。
 
-所以我更加疯狂地逼迫。
+年复一年的等待教会了我一件事：信心不是一次性的决定，而是每天的选择。每一个没有孩子的早晨醒来，我都要重新选择：继续信靠耶和华，还是放弃盼望？有些日子我选择得很好，有些日子我哭到无法呼吸。但即使在最黑暗的日子里，我从未转向别神——因为我知道，除了耶和华，没有人能回应我心灵深处的呐喊。
 
-我挨家挨户搜查。男人女人，我一概拉到监里。我威胁他们，要他们否认那个名字。有些人否认了——我看到他们眼中的羞耻和痛苦。有些人不肯——我看到他们眼中的平安，一种我用尽全力也无法拥有的平安。
+### 二、在耶和华面前倾心吐意（撒上1:9-18）
 
-**我恨那种平安。** 因为我心里没有。
+那一年在示罗，我实在忍不住了。吃喝完了，我站起来，走到耶和华殿的门前。
 
-我以为我有。我以为遵行律法、大发热心就是平安。但每次看到那些被我抓起来的人，他们在锁链中唱诗赞美的时候，我心里就有一个声音说：**他们有的东西，你没有。**
+> 哈拿心里愁苦，就痛痛哭泣，祈祷耶和华，许愿说："万军之耶和华啊，你若垂顾婢女的苦情，眷念不忘婢女，赐我一个儿子，我必使他终身归与耶和华，不用剃头刀剃他的头。"
 
-我把那声音压得更深。
+"痛痛哭泣"——不是轻轻地落泪，是痛到无法抑制的大哭。"祈祷耶和华"——不是对丈夫抱怨，不是对毗尼拿回击，而是转向唯一能改变一切的那位。
 
-## 去大马色的路上
+注意我祷告的内容：我不只是求一个孩子——我求一个孩子，**然后把他归还给神**。"我必使他终身归与耶和华。"这是何等不可思议的祷告！一个不能生育的女人，在最渴望孩子的时候，许愿说：如果你给我，我就把他还给你。
 
-耶路撒冷还不够。我听说大马色也有信这道的人，就去大祭司那里要了文书，要把那里的人也捆绑回来。
+这不是交易——这是信心的最高表达。我知道一切好的恩赐都从神来，最好的回应就是把它献回给神。
 
-那是一段很长的路，大约六天的行程。一路上我都在想着到了之后怎么审讯、怎么定罪。我的心里充满了义怒——至少我以为那是义怒。
+> 哈拿在耶和华面前不住地祈祷，以利定睛看她的嘴。原来哈拿心中默祷，只动嘴唇，不出声音，因此以利以为她喝醉了。
 
-**然后那道光来了。**
+祭司以利以为我喝醉了！在圣殿里，一个妇人嘴唇不停地动却没有声音——他从没见过这样的祷告。但这正是真正的祷告的样子：不是表演给人看的，不是大声喊叫让旁人侧目的，乃是从心灵最深处向神发出的、安静却炽热的呐喊。
 
-弟兄姐妹，我无法用语言描述那道光。中午的日头已经够亮了，但那道光比日头还亮。不是从某个方向照来的——是**四面照着我**。好像整个天空都裂开了，所有的光都倾倒下来。
+> 哈拿回答说："主啊，不是这样。我是心里愁苦的妇人，清酒浓酒都没有喝，但在耶和华面前倾心吐意。"
 
-我仆倒在地。
+"倾心吐意"——这四个字是我一生祷告的总结。不是念诵华丽的祈祷文，不是背诵标准的祷词，而是把心里所有的苦楚、渴望、疑问、伤痛，全部倒在神的面前。大卫后来在诗篇中也说过类似的话："你们众民当时时倚靠他，在他面前倾心吐意；神是我们的避难所。"（诗62:8）
 
-然后我听到了那个声音：
+以利明白了，对我说：
 
-**"扫罗，扫罗，你为什么逼迫我？"**
+> "你可以平平安安地回去。愿以色列的神允准你向他所求的！"
 
-祂叫了我的名字。叫了两遍。
+然后经文记载了一个奇妙的转变：
 
-我趴在地上，浑身发抖。我问："主阿，你是谁？"
+> 于是妇人走去吃饭，面上再不带愁容了。
 
-我其实已经知道了。在那道光照到我的一瞬间，我所有的确信都碎了——我的律法知识、我的法利赛人身份、我的热心、我的义——全部碎成了渣。**因为如果这道光是从天上来的，如果这个声音是神的声音，那么我逼迫的不是异端，而是——**
+还没有得到孩子，还没有怀孕，但我"面上再不带愁容了"。为什么？因为祷告改变的不只是环境——祷告首先改变的是祷告者自己。我把重担交给了耶和华，我的心就得了释放。信心不是确定神一定会按我的方式回应，信心是确定无论他怎样回应，他都是信实的、良善的。
 
-**"我就是你所逼迫的耶稣。"**
+### 三、这是我从耶和华那里求来的（撒上1:19-28）
 
-那个被钉十字架的拿撒勒人。那个我认定是被神咒诅的人。那个我拼了命要从地上抹去祂名字的人。
+> 耶和华顾念哈拿，哈拿就怀孕。日期满足，生了一个儿子，给他起名叫撒母耳，说："这是我从耶和华那里求来的。"
 
-**祂就是主。**
+"撒母耳"——意思是"从神求来的"。每次叫这个名字，都是在提醒自己：这孩子不是我的，是从神那里求来的，也要归还给神。
 
-弟兄姐妹，你们能想象那一刻我的感受吗？那不是恍然大悟，那是**天塌地陷**。我这一生所做的一切——我的虔诚、我的热心、我引以为傲的一切——不仅毫无价值，而且**方向完全相反**。我以为自己在事奉神，其实我在**逼迫神**。
+等撒母耳断了奶，我就带他上示罗去了。带着他，连同三只公牛、一伊法细面、一皮袋酒——这是我能献上的最好的。
 
-我是全世界最虔诚的罪人。
+> 我祈求为要得这孩子；耶和华已将我所求的赐给我了。所以，我将这孩子归与耶和华，使他终身归与耶和华。
 
-## 三天的黑暗
+你能想象那一刻的心情吗？把你最珍贵的、你哭泣多年才得到的、你的独生子，留在示罗的圣殿，交给年迈的祭司以利——然后转身离开，回到拉玛的家中，面对空荡荡的房间。
 
-那道光之后，我的眼睛瞎了。
 
-同行的人领着我进了大马色城。三天三夜，我什么也看不见，也不吃也不喝。
+有时我想：如果神早一点赐给我撒母耳，我会这样全心全意地把他献给神吗？也许不会。那些年的等待、那些年的眼泪，把我心中的骄傲和自私一点一点地磨去，让我真正明白：孩子是耶和华的产业，不是我的所有物。苦难成了恩典的预备——神在我还不知道的时候，就已经在预备我的心，使我能够做出那个在人看来不可能的决定。
 
-你们知道那三天我在想什么吗？
+但我没有后悔。因为我知道：他在耶和华的殿中，比在我身边更安全；他在神的手中，比在我怀里更蒙福。母爱的最高表达不是紧紧抓住，而是甘心放手——把孩子交给那位比母亲更爱他的神。
 
-我想起了司提反的脸。我想起了我亲手抓进监牢的那些人。我想起了有些人因为我的逼迫而死。他们的名字，每一个，都在我脑海里。
+### 四、哈拿的颂歌（撒上2:1-10）
 
-**我逼迫的是耶稣。每一个信徒，都是祂身体的一部分。我打他们，就是打祂。我捆绑他们，就是捆绑祂。**
+交出撒母耳之后，我没有哭泣——我歌唱了。
 
-三天的黑暗里，我终于明白了一件事：**律法能让人知罪，但律法不能救人。** 我一辈子都在守律法，但律法只是让我看到自己有多绝望。"所以凡有血气的，没有一个因行律法能在神面前称义，因为律法本是叫人知罪。"（罗马书 3:20）
+> 我的心因耶和华快乐；我的角因耶和华高举。我的口向仇敌张开；我因耶和华的救恩欢欣。
 
-我也明白了另一件事：**祂没有击杀我。**
+> 只有耶和华为圣；除他以外没有可比的，也没有磐石像我们的神。
 
-那道光完全可以把我烧成灰。以我所做的一切，我配得灭亡一千次。但祂没有。**祂问我"你为什么逼迫我"——这不是审判的宣告，这是父亲对浪子的追问。**
+> 勇士的弓都已折断；跌倒的人以力量束腰。素来饱足的，反作佣人求食；饥饿的，再不饥饿。不生育的，生了七个儿子；多有儿女的，反倒衰微。
 
-## 亚拿尼亚来了
+> 他从灰尘里抬举贫寒人，从粪堆中提拔穷乏人，使他们与王子同坐，得着荣耀的座位。
 
-第三天，一个叫亚拿尼亚的门徒来了。
+"不生育的，生了七个儿子"——这是我的见证。那个年年哭泣、被人讥笑的不能生育的女人，如今歌唱：神翻转了一切！后来耶和华果然又赐给我三个儿子、两个女儿。
 
-后来我才知道，主在异象中对他说：去直街，找一个叫扫罗的大数人。亚拿尼亚说："主阿，我听见许多人说，这人怎样在耶路撒冷多多苦害你的圣徒。"（使徒行传 9:13）
+我的颂歌与马利亚的尊主颂何其相似——神叫有权柄的失位，叫卑贱的升高；叫饥饿的得饱美食，叫富足的空手回去。这不是巧合。神从古至今做的都是同一件事：翻转世界的秩序，在人以为绝望的地方彰显他的荣耀。
 
-弟兄姐妹，你们想想——如果有人让你去找一个专门抓基督徒的人，给他按手祷告，你去不去？
+我颂歌的最后一句尤为重要："他将力量赐与所立的王，高举受膏者的角。"在撒母耳出生的时代，以色列还没有王。但圣灵在我里面，让我预言了将来的事——受膏者，弥赛亚。这首颂歌超越了我个人的经历，指向了那位终极的拯救者。
 
-**亚拿尼亚去了。**
+而我的儿子撒母耳，那个从耶和华求来又归还给耶和华的孩子，后来成了以色列最伟大的先知之一——他膏立了扫罗，又膏立了大卫。从大卫的后裔中，弥赛亚降生了。一个不能生育之妇人的祷告，最终成了救恩历史中不可或缺的一环。
 
-他进来，把手按在我身上，说了一句让我泪流满面的话：
+亲爱的弟兄姐妹，你是否正在经历"年年如此"的苦难？是否有人在刺激你、嘲笑你？是否在等待中几乎要绝望？请听我的故事：神的时间不是我们的时间，但他的时间永远是最好的。把你的苦情倾倒在他面前——他不会轻看你的眼泪。他是那位"从灰尘里抬举贫寒人，从粪堆中提拔穷乏人"的神。他昔日如此待我，今日也必如此待你。`,
+    content_en: `Dear brothers and sisters, I am Hannah, wife of Elkanah, mother of Samuel.
 
-**"兄弟扫罗。"**
+Before I became Samuel's mother, I was a barren woman. In Israel, what did it mean to be barren? It meant shame, it meant being talked about, it meant you could not hold your head up before others. More painful still, my husband had another wife—Peninnah—who had sons and daughters, while my arms held nothing.
 
-兄弟。他叫我**兄弟**。
+### I. Year After Year (1 Samuel 1:1-8)
 
-这个我来大马色要抓的人，叫我兄弟。
+> He had two wives. The name of the one was Hannah, and the name of the other, Peninnah. And Peninnah had children, but Hannah had no children.
 
-"在你来的路上向你显现的主，就是耶稣，打发我来，叫你能看见，又被圣灵充满。"（使徒行传 9:17）
+> And her rival used to provoke her grievously to irritate her, because the LORD had closed her womb. So it went on year after year. As often as she went up to the house of the LORD, she used to provoke her. Therefore Hannah wept and would not eat.
 
-就在那一刻，好像有鳞片从我眼睛上掉下来。我又能看见了。但我看到的不再是从前的世界——我看到了一个全新的世界。**瞎眼的时候以为自己看得见，看见了才知道自己从前是瞎的。**
+"Year after year"—Scripture specifically notes that every year at the time of the pilgrimage, Peninnah would provoke me. Not once or twice, but year after year. Can you imagine? Every year, the moment that should have been most joyful—the day of appearing before the LORD—was for me the most painful day. Because there, every family came happily with their children to offer sacrifice, while I had only tears.
 
-我起来，受了洗。
+Peninnah's taunts were like a knife, but more painful was the unanswerable question in my heart: why? Why had the LORD closed my womb? Had I done something wrong? Did God not love me?
 
-## 恩典中的恩典
+Those years of waiting taught me something: faith is not a one-time decision but a daily choice. Every barren morning I woke to, I had to choose again: to keep trusting the LORD, or to abandon hope? Some days I chose well; other days I wept until I could not breathe. But even in the darkest days, I never turned to other gods—because I knew that besides the LORD, no one could answer the cry from the depths of my soul.
 
-弟兄姐妹，如果说整本圣经中有一个人最没有资格被神使用，那就是我。
+My husband Elkanah loved me. He gave me a double portion of the sacrifice; he tenderly comforted me:
 
-我不是像彼得那样因为害怕而不认主——彼得至少还爱主。**我是主动地、系统地、狂热地逼迫基督的教会。** 我手上沾着圣徒的血。
+> Elkanah, her husband, said to her, "Hannah, why do you weep? And why do you not eat? And why is your heart sad? Am I not more to you than ten sons?"
 
-但祂拣选了我。
+Elkanah's love was real, but he could not fully understand my pain. "Am I not more to you than ten sons?"—My husband, I feel your love, but the longing in my heart is not something you can fulfill. Some pain is beyond the reach of human comfort; only God can touch it.
 
-不是因为我有什么好。不是因为我的学问——虽然我确实在迦玛列门下受过最好的训练。不是因为我的热心——那份热心差点让我成为永远的仇敌。
+### II. Pouring Out My Soul Before the LORD (1 Samuel 1:9-18)
 
-**祂拣选我，恰恰是要在我这"罪人中的罪魁"身上，显明他一切的忍耐。**
+That year at Shiloh, I could endure no more. After they had eaten and drunk, I got up and went to the door of the tent of the LORD.
 
-"基督耶稣降世，为要拯救罪人。这话是可信的，是十分可佩服的。在罪人中我是个罪魁。然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明他一切的忍耐，给后来信他得永生的人作榜样。"（提摩太前书 1:15-16）
+> She was deeply distressed and prayed to the LORD and wept bitterly. And she vowed a vow and said, "O LORD of hosts, if you will indeed look on the affliction of your servant and remember me and not forget your servant, but will give to your servant a son, then I will give him to the LORD all the days of his life, and no razor shall touch his head."
 
-你们听到了吗？**给后来的人作榜样。** 如果连扫罗都能被赦免，连逼迫教会的人都能成为使徒——**那么没有人是恩典够不到的。**
+"Wept bitterly"—not gentle weeping, but sobbing so overwhelming it could not be suppressed. "Prayed to the LORD"—not complaining to her husband, not retaliating against Peninnah, but turning to the One who alone could change everything.
 
-## 我从前以为有益的
+Notice the content of my prayer: I was not simply asking for a child—I was asking for a child and **giving him back to God**. "I will give him to the LORD all the days of his life." What an unimaginable prayer! A barren woman, at the very moment she most longed for a child, vowing: if you give him to me, I will return him to you.
 
-腓立比书里我写过这么一段话。现在让我再说一遍：
+This was not a transaction—it was faith at its highest expression. I knew that every good gift comes from God, and the best response was to offer it back to him.
 
-"只是我先前以为与我有益的，我现在因基督都当作有损的。不但如此，我也将万事当作有损的，因我以认识我主基督耶稣为至宝。我为他已经丢弃万事，看作粪土，为要得着基督。"（腓立比书 3:7-8）
+> As she continued praying before the LORD, Eli observed her mouth. Hannah was speaking in her heart; only her lips moved, and her voice was not heard. Therefore Eli took her to be a drunken woman.
 
-**粪土。**
+Eli the priest thought I was drunk! In the sanctuary, a woman whose lips moved constantly yet made no sound—he had never seen such prayer. But this is exactly what true prayer looks like: not performed for others to see, not shouted loudly to attract attention, but a quiet yet fervent cry from the deepest part of the soul toward God.
 
-我的法利赛人身份——粪土。我在迦玛列门下的学历——粪土。我无可指摘的律法记录——粪土。不是因为这些东西本身是坏的，而是因为**当你用这些东西来代替基督的时候，它们就变成了拦阻你认识神的障碍。**
+> But Hannah answered, "No, my lord, I am a woman troubled in spirit. I have drunk neither wine nor strong drink, but I have been pouring out my soul before the LORD."
 
-我从前以为自己站在光明里，其实我站在黑暗中。那道光把我打倒，让我瞎了眼——但讽刺的是，**瞎了眼之后我才真正"看见"了。**
+"Pouring out my soul"—these four words summarize the prayer of my whole life. Not reciting elegant prayers, not repeating standard formulas, but taking all the bitterness, longing, questioning, and pain in my heart and pouring it all out before God. David later wrote in the Psalms: "Trust in him at all times, O people; pour out your heart before him; God is a refuge for us." (Psalm 62:8)
 
-## 致每一个"虔诚的逼迫者"
+Eli understood and said to me:
 
-弟兄姐妹，如果你读到这里——
+> "Go in peace, and the God of Israel grant your petition that you have made to him."
 
-也许你不像我那样逼迫教会。但也许你和我有一个共同的问题：**你以为自己的义可以救自己。**
+Then Scripture records a wonderful transformation:
 
-也许你是一个很好的人。你守规矩，做善事，从不害人。你的履历拿出来，"无可指摘"。但你心里有没有那种平安？那种被锁链中的人唱出来的平安？
+> Then the woman went her way and ate, and her face was no longer sad.
 
-如果没有——也许你和大马色路上的扫罗一样，需要被那道光击倒一次。
+She had not yet received a child, not yet conceived—yet "her face was no longer sad." Why? Because prayer changes not only circumstances—prayer first changes the one praying. I had laid my burden before the LORD, and my heart found release. Faith is not certainty that God will respond exactly as I wish; faith is certainty that however he responds, he is faithful and good.
 
-不要怕。**那道光不是来毁灭你的。那道光是来拯救你的。**
+Sometimes I reflect: if God had given me Samuel earlier, would I have wholeheartedly dedicated him to God? Perhaps not. Those years of waiting, those years of tears, had gradually ground away the pride and selfishness in my heart, helping me truly understand that children are the heritage of the LORD, not my possessions. The suffering became the preparation for grace—God, without my knowing it, was already preparing my heart so that I could make that decision that seems humanly impossible.
 
-它会让你暂时看不见。它会把你所有的确信打碎。它会让你在黑暗中待上一阵子。但当鳞片从你眼睛上掉下来的时候，你会看到一个全新的世界——一个不需要你靠自己的义站立的世界，一个**被恩典托住的世界。**
+### III. This Child I Have Asked From the LORD (1 Samuel 1:19-28)
 
-"你为什么逼迫我？"——也许今天，这个问题不是问你在逼迫谁，而是在问：**你在抗拒什么？**
+> And the LORD remembered her. And in due time Hannah conceived and bore a son, and she called his name Samuel, for she said, "I have asked for him from the LORD."
 
-你在抗拒承认自己不行吗？你在抗拒放下你的骄傲吗？你在抗拒那个比你所有的确信都更大的爱吗？
+"Samuel"—meaning "asked of God." Every time his name was called, it was a reminder: this child is not mine; he was asked from God and must be returned to God.
 
-放下吧。像我一样，仆倒在那道光面前。
+When Samuel was weaned, I took him up to Shiloh—along with three bulls, an ephah of flour, and a skin of wine. This was the best I could offer.
 
-然后你会听到祂叫你的名字。
+> "For this child I prayed, and the LORD has granted me my petition that I made to him. Therefore I have lent him to the LORD. As long as he lives, he is lent to the LORD."
 
-*"然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明他一切的忍耐，给后来信他得永生的人作榜样。"（提摩太前书 1:16）*
+Can you imagine the emotion of that moment? Taking your most precious one—the child you wept years to receive, your only son—leaving him at the sanctuary in Shiloh, entrusting him to the aging priest Eli, then turning and walking away, returning to the empty rooms of your home in Ramah.
 
-*愿那在大马色路上光照我的主，也光照你的心——你的弟兄，保罗*`,
-    content_en: `## I Am Saul — The Most Devout Persecutor
+But I had no regrets. Because I knew: he was safer in the LORD's house than at my side; he was more blessed in God's hands than in my arms. The highest expression of a mother's love is not holding on tightly but willingly letting go—entrusting the child to the God who loves him more than his mother ever could.
 
-My name is Saul, of the tribe of Benjamin, a Pharisee among Pharisees.
+### IV. Hannah's Song (1 Samuel 2:1-10)
 
-If you ask me who I was before, I can lay my credentials before you: "Circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless." (Philippians 3:5-6)
+After giving Samuel to God, I did not weep—I sang.
 
-Did you hear that? **Blameless.** I am not boasting. In those years studying under Gamaliel, I memorized the entire Torah, never broke a single commandment on the Sabbath, tithed down to the mint, dill, and cumin. Among the Pharisees, no one was more serious than I was.
+> My heart exults in the LORD; my horn is exalted in the LORD. My mouth derides my enemies, because I rejoice in your salvation.
 
-But being serious was not enough. I wanted to **burn with zeal for God.**
+> There is none holy like the LORD: for there is none besides you; there is no rock like our God.
 
-When I first heard that a group of people were proclaiming a crucified Nazarene as the Messiah, my blood boiled. **The Messiah hung on a tree?** The Torah clearly states: "a hanged man is cursed by God" (Deuteronomy 21:23). These people were not preaching good news — they were blaspheming God!
+> The bows of the mighty are broken, but the feeble bind on strength. Those who were full have hired themselves out for bread, but those who were hungry have ceased to hunger. The barren has borne seven, but she who has many children is forlorn.
 
-So when the Sanhedrin decided to stamp out this heresy, I was the first to volunteer.
+> He raises up the poor from the dust; he lifts the needy from the ash heap to make them sit with princes and inherit a seat of honor.
 
-The day Stephen was stoned to death, I was there. I did not throw the stones myself — I guarded the garments of those who did. I watched him kneel. I watched the stones strike him one by one. His face was covered in blood, but his face —
+"The barren has borne seven"—this is my testimony. The woman who had wept year after year, who had been mocked and shamed, now sings: God has overturned everything! Later the LORD did indeed give me three more sons and two daughters.
 
-Brothers and sisters, I do not like to admit this, but that day I saw a face I have never been able to forget. **His face was like the face of an angel.** As he was dying, he said, "Lord, do not hold this sin against them!" (Acts 7:60)
+My song is so similar to Mary's Magnificat—God brings down the mighty from their thrones and exalts those of humble estate; he fills the hungry with good things, and the rich he sends away empty. This is no coincidence. What God has always done, from ancient times until now, is the same: overturning the world's order, manifesting his glory in the very places humans think are hopeless.
 
-A man being stoned to death was praying for the men killing him.
+The final verse of my song is especially significant: "The LORD will judge the ends of the earth; he will give strength to his king and exalt the horn of his anointed." In the age when Samuel was born, Israel had no king yet. But the Holy Spirit within me prophesied of things to come—the anointed one, the Messiah. This song reaches beyond my personal story to point toward the ultimate Deliverer.
 
-I pushed that thought down. I told myself: this is the devil's deception. The more something looks like an angel, the more dangerous it is.
+And my son Samuel—the child asked from God and returned to God—became one of Israel's greatest prophets. He anointed Saul, and then anointed David. From David's line, the Messiah was born. A barren woman's prayer became an indispensable thread in the tapestry of salvation history.
 
-So I persecuted even more furiously.
-
-I went house to house. Men and women alike, I dragged them off to prison. I threatened them, demanding they deny that name. Some did deny it — I saw the shame and agony in their eyes. Some refused — I saw in their eyes a peace, a peace that I could never possess no matter how hard I tried.
-
-**I hated that peace.** Because I did not have it.
-
-I thought I did. I thought keeping the law and burning with zeal was peace. But every time I saw those I had arrested singing hymns of praise in chains, a voice inside me whispered: **They have something you do not.**
-
-I pushed that voice down deeper.
-
-## On the Road to Damascus
-
-Jerusalem was not enough. I heard that there were followers of the Way in Damascus too, so I went to the high priest for letters of authority to bring them back in chains.
-
-It was a long journey, about six days. The whole way I was planning how I would interrogate them, how I would convict them. My heart was full of righteous anger — or so I thought.
-
-**Then the light came.**
-
-Brothers and sisters, I cannot describe that light with words. The noonday sun was already blazing, but that light was brighter than the sun. It did not come from one direction — it **shone all around me**. As if the entire sky had torn open and all its light poured down.
-
-I fell to the ground.
-
-Then I heard the voice:
-
-**"Saul, Saul, why are you persecuting me?"**
-
-He called my name. Twice.
-
-I lay on the ground, trembling. I asked, "Who are you, Lord?"
-
-I already knew. The instant that light struck me, all my certainties shattered — my knowledge of the law, my Pharisee credentials, my zeal, my righteousness — all of it crumbled to dust. **Because if this light was from heaven, if this voice was the voice of God, then I had not been persecuting heretics. I had been —**
-
-**"I am Jesus, whom you are persecuting."**
-
-The crucified Nazarene. The one I had declared cursed by God. The one whose name I had fought with all my strength to wipe from the earth.
-
-**He is Lord.**
-
-Brothers and sisters, can you imagine what I felt in that moment? It was not an epiphany. It was the **ground giving way beneath me**. Everything I had ever done — my devotion, my zeal, everything I took pride in — was not merely worthless. It was aimed in **exactly the wrong direction**. I thought I was serving God. In truth, I was **persecuting God.**
-
-I was the most devout sinner in the world.
-
-## Three Days of Darkness
-
-After the light, my eyes were blind.
-
-My companions led me by the hand into Damascus. For three days and three nights I could see nothing. I neither ate nor drank.
-
-Do you know what I was thinking during those three days?
-
-I thought of Stephen's face. I thought of every person I had dragged to prison with my own hands. I thought of those who had died because of my persecution. Their names — every one — echoed in my mind.
-
-**I had been persecuting Jesus. Every believer was part of His body. When I struck them, I struck Him. When I bound them, I bound Him.**
-
-In three days of darkness, I finally understood one thing: **the law can reveal sin, but the law cannot save.** I had spent my whole life keeping the law, and all it had done was show me how hopeless I truly was. "For by works of the law no human being will be justified in his sight" (Romans 3:20).
-
-I also understood something else: **He did not strike me dead.**
-
-That light could have reduced me to ash. After all I had done, I deserved destruction a thousand times over. But He did not. **He asked me "Why are you persecuting me?" — that was not a sentence of judgment. It was a father's question to a prodigal son.**
-
-## Ananias Came
-
-On the third day, a disciple named Ananias came.
-
-I later learned that the Lord had told him in a vision: Go to the street called Straight, and find a man from Tarsus named Saul. Ananias said, "Lord, I have heard from many about this man, how much evil he has done to your saints at Jerusalem" (Acts 9:13).
-
-Brothers and sisters, think about it — if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
-
-**Ananias went.**
-
-He came in, placed his hands on me, and said a sentence that brought me to tears:
-
-**"Brother Saul."**
-
-Brother. He called me **brother.**
-
-This man — the very man I had come to Damascus to arrest — called me brother.
-
-"The Lord Jesus who appeared to you on the road by which you came has sent me so that you may regain your sight and be filled with the Holy Spirit" (Acts 9:17).
-
-In that moment, something like scales fell from my eyes. I could see again. But what I saw was no longer the world I had known — I saw an entirely new world. **When I was blind, I thought I could see. Only when I could see did I realize I had been blind all along.**
-
-I rose and was baptized.
-
-## Grace Upon Grace
-
-Brothers and sisters, if there is one person in all of Scripture least qualified to be used by God, it is I.
-
-I am not like Peter, who denied the Lord out of fear — Peter at least loved the Lord. **I actively, systematically, and zealously persecuted the church of Christ.** My hands were stained with the blood of saints.
-
-Yet He chose me.
-
-Not because of any good in me. Not because of my learning — though I was indeed trained under the finest teacher, Gamaliel. Not because of my zeal — that very zeal nearly made me an eternal enemy.
-
-**He chose me precisely to display all His patience in me, the foremost of sinners.**
-
-"The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life" (1 Timothy 1:15-16).
-
-Did you hear that? **As an example to those who would come after.** If even Saul could be forgiven, if even a persecutor of the church could become an apostle — **then no one is beyond the reach of grace.**
-
-## What I Once Counted as Gain
-
-In my letter to the Philippians, I wrote these words. Let me say them again now:
-
-"But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ" (Philippians 3:7-8).
-
-**Rubbish.**
-
-My Pharisee credentials — rubbish. My education under Gamaliel — rubbish. My blameless record under the law — rubbish. Not because these things were bad in themselves, but because **when you use them as substitutes for Christ, they become the very barriers that keep you from knowing God.**
-
-I once thought I stood in the light. In truth, I stood in darkness. That light knocked me down and blinded me — but the irony is, **only after I was blinded did I truly "see."**
-
-## To Every "Devout Persecutor"
-
-Brothers and sisters, if you are reading this —
-
-Perhaps you do not persecute the church as I did. But perhaps you and I share a common problem: **you believe your own righteousness can save you.**
-
-Perhaps you are a very good person. You follow the rules, do good deeds, never harm anyone. Your record, laid out for inspection, is "blameless." But do you have that peace in your heart? The peace that was sung by people in chains?
-
-If not — perhaps, like Saul on the road to Damascus, you need to be struck down by that light.
-
-Do not be afraid. **That light does not come to destroy you. It comes to save you.**
-
-It will blind you for a time. It will shatter all your certainties. It will leave you sitting in darkness for a while. But when the scales fall from your eyes, you will see a brand new world — a world where you no longer need to stand on your own righteousness, a world **upheld entirely by grace.**
-
-"Why are you persecuting me?" — perhaps today, the question is not about who you are persecuting, but about this: **What are you resisting?**
-
-Are you resisting the admission that you cannot do it on your own? Are you resisting laying down your pride? Are you resisting a love greater than all your certainties?
-
-Let go. Like me, fall down before that light.
-
-And then you will hear Him call your name.
-
-*"But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life." (1 Timothy 1:16)*
-
-*May the Lord who shone His light on me on the Damascus road also shine His light into your heart — your brother, Paul*`,
+Dear brothers and sisters, are you experiencing "year after year" suffering? Is someone provoking you, mocking you? Are you nearly at the end of hope in the waiting? Hear my story: God's timing is not our timing, but his timing is always best. Pour out your bitterness before him—he will not despise your tears. He is the God who "raises up the poor from the dust and lifts the needy from the ash heap." As he dealt with me in the past, so he will deal with you today.`,
   },
   {
     id: 'joseph-egypt',
@@ -3549,329 +3044,414 @@ And then you will hear Him call your name.
     title_en: 'From the Pit to the Palace',
     date: '2026-05-09',
     category: 'testimony',
-    scripture: '',
-    scriptureText_zh: '',
-    scriptureText_en: '',
-    summary_zh: '',
-    summary_en: '',
-    tags: [],
-    content_zh: `## 我是扫罗——最虔诚的逼迫者
+    scripture: '创世记 50:15-21 / Genesis 50:15-21',
+    scriptureText_zh: '约瑟对他们说："不要害怕，我岂能代替神呢？从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景。"',
+    scriptureText_en: 'But Joseph said to them, "Do not fear, for am I in the place of God? As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today."',
+    summary_zh: '被亲兄弟出卖、被主母诬陷、被同伴遗忘——十三年的苦难没有白费。约瑟的故事告诉我们：你们的意思是要害我，但神的意思原是好的。在神护理的手中，没有一滴眼泪是徒然的。',
+    summary_en: 'Sold by his own brothers, falsely accused by his master\'s wife, forgotten by his fellow prisoner—thirteen years of suffering were not in vain. Joseph\'s story tells us: you meant evil against me, but God meant it for good. In God\'s providential hand, not a single tear is shed in vain.',
+    tags: ['忍耐', '护理', '饶恕', '信实'],
+    content_zh: `亲爱的弟兄姐妹，我是约瑟，雅各的第十一个儿子，拉结的长子。
 
-我叫扫罗，便雅悯支派的人，法利赛人中的法利赛人。
+你们知道我的故事——那件彩衣、那口枯井、那条通往埃及的商路。但今天我不只是要讲一个从奴隶到宰相的励志故事——我要告诉你，在这一切的背后，有一只看不见的手，在编织一幅远超我所能想象的图画。
 
-你们若问我从前是什么人，我可以把我的履历摆在你们面前："我第八天受割礼；我是以色列族、便雅悯支派的人，是希伯来人所生的希伯来人。就律法说，我是法利赛人；就热心说，我是逼迫教会的；就律法上的义说，我是无可指摘的。"（腓立比书 3:5-6）
+### 一、被亲兄弟出卖（创37:28）
 
-你们听清楚了吗？**无可指摘。** 不是我自夸。在迦玛列门下受教的那些年，我背下了整本妥拉，安息日从不违反一条诫命，十一奉献精确到薄荷、茴香、芹菜。法利赛人中间，没有人比我更认真。
+我十七岁那年，父亲给了我一件彩衣。那件衣服是父亲对我特别之爱的表达——我是他爱妻拉结晚年才得的儿子。但这件衣服也成了我苦难的开端，因为它让哥哥们的嫉妒到了无法忍受的地步。
 
-但光认真还不够。我要**为神大发热心。**
+我承认，年少的我不够智慧。我把两个梦告诉了他们——禾捆向我的禾捆下拜，日月星辰向我下拜——这等于火上浇油。但即使我不说那些梦，他们的恨意也早已根深蒂固。
 
-当我第一次听说有一群人在传讲一个被钉十字架的拿撒勒人是弥赛亚的时候，我的血都沸腾了。**弥赛亚被挂在木头上？** 妥拉明明写着："被挂的人是在神面前受咒诅的"（申命记 21:23）。这些人不是在传福音——他们是在亵渎神！
+那天父亲派我去看望在示剑牧羊的哥哥们。我不知道，我走向的是一个精心设计的陷阱。他们远远看见我，就彼此商量要害死我。流便劝住了他们——不要流他的血，把他丢在坑里——他原想回头来救我。
 
-所以当公会决定要清除这个异端的时候，我第一个站出来。
+> 有些米甸的商人从那里经过，哥哥们就把约瑟从坑里拉上来，讲定二十舍客勒银子，把约瑟卖给以实玛利人。他们就把约瑟带到埃及去了。
 
-司提反被石头打死的那天，我就在那里。我没有亲手丢石头——我替那些丢石头的人看守衣裳。我看着他跪下来，看着石头一块一块砸在他身上。他满脸是血，但他的脸——
+二十舍客勒银子。这就是我在哥哥们眼中的价值——一个奴隶的价格。他们把我那件彩衣染上山羊血，拿回去给父亲看，让他以为我被野兽撕碎了。
 
-弟兄姐妹，我不愿意承认这一点，但那天我看到了一张我永远忘不掉的脸。**他的脸好像天使的脸。** 他在死的时候说："主阿，不要将这罪归于他们！"（使徒行传 7:60）
+弟兄姐妹，被陌生人伤害是痛苦的，但被自己的亲兄弟出卖——那种痛苦是骨头里的。在去埃及的路上，我回望迦南的方向，心想：我还能回家吗？父亲此刻在做什么？他是不是在为我哭泣？我做错了什么，要遭受这样的对待？
 
-被石头打死的人在为打他的人祷告。
+### 二、耶和华与约瑟同在（创39:1-21）
 
-我当时把这念头压下去了。我告诉自己：这是魔鬼的迷惑。越是看起来像天使的，越危险。
+到了埃及，我被卖给法老的护卫长波提乏。但圣经记载了一句改变一切的话：
 
-所以我更加疯狂地逼迫。
+> 约瑟住在他主人埃及人的家中，耶和华与他同在，他就百事顺利。
 
-我挨家挨户搜查。男人女人，我一概拉到监里。我威胁他们，要他们否认那个名字。有些人否认了——我看到他们眼中的羞耻和痛苦。有些人不肯——我看到他们眼中的平安，一种我用尽全力也无法拥有的平安。
+"耶和华与他同在"——在奴隶市场上、在异国他乡、在失去一切的处境中，神没有离开我。我不知道他为什么允许这一切发生，但我知道他没有抛弃我。信心有时候不是明白"为什么"，而是在不明白的时候仍然相信"神同在"。
 
-**我恨那种平安。** 因为我心里没有。
 
-我以为我有。我以为遵行律法、大发热心就是平安。但每次看到那些被我抓起来的人，他们在锁链中唱诗赞美的时候，我心里就有一个声音说：**他们有的东西，你没有。**
+我在波提乏家做奴隶的那些日子里，每天做着最卑微的工作，但我决定无论环境如何，都要忠心地做好眼前的事。这不是什么高尚的哲学——这是一个实际的选择：你可以在苦难中自暴自弃，也可以在苦难中尽心尽力。我选择了后者，因为我相信：即使人看不见我的忠心，神看得见。
 
-我把那声音压得更深。
+波提乏看见"耶和华与约瑟同在"，看见"耶和华使他手里所办的尽都顺利"——一个异教徒能看见耶和华在他仆人身上的作为，这本身就是见证。你的信仰不需要用嘴宣扬，你的生命会替你说话。
 
-## 去大马色的路上
+我在波提乏家中尽心做事，波提乏信任我，把家中一切交给我管理。但试探来了——波提乏的妻子天天引诱我。我拒绝了，说了那句出名的话："我怎能作这大恶，得罪神呢？"我宁可得罪人，不愿得罪神。
 
-耶路撒冷还不够。我听说大马色也有信这道的人，就去大祭司那里要了文书，要把那里的人也捆绑回来。
+结果呢？她诬告我，波提乏把我下了监。
 
-那是一段很长的路，大约六天的行程。一路上我都在想着到了之后怎么审讯、怎么定罪。我的心里充满了义怒——至少我以为那是义怒。
+> 把约瑟下在监里，就是王的囚犯被囚的地方。于是约瑟在那里坐监。
 
-**然后那道光来了。**
+从奴隶变成管家，再从管家变成囚犯。人生似乎在不断下坠。但那句话又出现了：
 
-弟兄姐妹，我无法用语言描述那道光。中午的日头已经够亮了，但那道光比日头还亮。不是从某个方向照来的——是**四面照着我**。好像整个天空都裂开了，所有的光都倾倒下来。
+> 但耶和华与约瑟同在，向他施恩，使他在司狱的眼前蒙恩。
 
-我仆倒在地。
+即使在监狱里，"耶和华与约瑟同在"。弟兄姐妹，这就是我一生学到的最重要的功课：神的同在不取决于你所在的环境。你可以在王宫里远离神，也可以在监狱里与神同在。环境不能定义你与神的关系——你的信心才能。
 
-然后我听到了那个声音：
+### 三、酒政却忘了他（创40:23）
 
-**"扫罗，扫罗，你为什么逼迫我？"**
+在监里，我为法老的酒政和膳长解了梦。酒政的梦应验了——他官复原职。我求他在法老面前提说我、救我出去。
 
-祂叫了我的名字。叫了两遍。
+> 酒政却不记念约瑟，竟忘了他。
 
-我趴在地上，浑身发抖。我问："主阿，你是谁？"
+"竟忘了他。"——这三个字，又是两年。我在监里又多等了两年。加上之前在波提乏家的年日，从被卖到被提拔，整整十三年。
 
-我其实已经知道了。在那道光照到我的一瞬间，我所有的确信都碎了——我的律法知识、我的法利赛人身份、我的热心、我的义——全部碎成了渣。**因为如果这道光是从天上来的，如果这个声音是神的声音，那么我逼迫的不是异端，而是——**
+十三年。你知道十三年有多长吗？足够让一个少年变成中年，足够让盼望变成绝望，足够让信心一点一点地被消磨。每一天醒来，我都要重新做一个选择：继续信靠耶和华，还是苦毒、怨恨、放弃？
 
-**"我就是你所逼迫的耶稣。"**
+我选择了信靠。不是因为我比别人更坚强——乃是因为在每一个黑暗的夜晚，我都能感受到那只看不见的手仍然托着我。那位在迦南旷野中与我祖父雅各摔跤的神，此刻也在埃及的监牢中与我同在。
 
-那个被钉十字架的拿撒勒人。那个我认定是被神咒诅的人。那个我拼了命要从地上抹去祂名字的人。
+### 四、神使我忘了一切的困苦（创41:51-52）
 
-**祂就是主。**
+当法老的梦无人能解时，酒政终于想起了我。我被带到法老面前，为他解了七年丰收、七年饥荒的梦。法老立我为全埃及的宰相——一人之下，万人之上。
 
-弟兄姐妹，你们能想象那一刻我的感受吗？那不是恍然大悟，那是**天塌地陷**。我这一生所做的一切——我的虔诚、我的热心、我引以为傲的一切——不仅毫无价值，而且**方向完全相反**。我以为自己在事奉神，其实我在**逼迫神**。
+我给长子起名叫玛拿西：
 
-我是全世界最虔诚的罪人。
+> 约瑟给长子起名叫玛拿西，因为他说："神使我忘了一切的困苦和我父的全家。"
 
-## 三天的黑暗
+我给次子起名叫以法莲：
 
-那道光之后，我的眼睛瞎了。
+> 他给次子起名叫以法莲，因为他说："神使我在受苦的地方昌盛。"
 
-同行的人领着我进了大马色城。三天三夜，我什么也看不见，也不吃也不喝。
+两个儿子的名字，就是我整个生命的见证。"忘了一切的困苦"——不是说我失忆了，而是说神的恩典如此浩大，以至于苦难的记忆不再能辖制我。"在受苦的地方昌盛"——不是在苦难结束之后才昌盛，而是在受苦的**地方**、在受苦的**过程中**就已经昌盛了。
 
-你们知道那三天我在想什么吗？
+这就是神做事的方式：他不一定把你从困境中挪走，但他在困境中使你昌盛。约瑟在监狱里就开始管理——管理能力不是到了王宫才突然获得的，而是在苦难中一点一点磨炼出来的。十三年的等待不是浪费——那是神的训练营。
 
-我想起了司提反的脸。我想起了我亲手抓进监牢的那些人。我想起了有些人因为我的逼迫而死。他们的名字，每一个，都在我脑海里。
+### 五、你们的意思是要害我，但神的意思原是好的（创45:4-8, 50:19-21）
 
-**我逼迫的是耶稣。每一个信徒，都是祂身体的一部分。我打他们，就是打祂。我捆绑他们，就是捆绑祂。**
+饥荒来了，我的哥哥们来埃及买粮。他们不认识我——我已经不是当年那个十七岁的少年了。经过一番试验之后，我向他们表明了身份：
 
-三天的黑暗里，我终于明白了一件事：**律法能让人知罪，但律法不能救人。** 我一辈子都在守律法，但律法只是让我看到自己有多绝望。"所以凡有血气的，没有一个因行律法能在神面前称义，因为律法本是叫人知罪。"（罗马书 3:20）
+> 我是你们的兄弟约瑟，就是你们所卖到埃及的。现在，不要因为把我卖到这里自忧自恨。这是神差我在你们以先来，为要保全生命。
 
-我也明白了另一件事：**祂没有击杀我。**
+> 这样看来，差我到这里来的不是你们，乃是神。
 
-那道光完全可以把我烧成灰。以我所做的一切，我配得灭亡一千次。但祂没有。**祂问我"你为什么逼迫我"——这不是审判的宣告，这是父亲对浪子的追问。**
+"差我到这里来的不是你们，乃是神。"——这不是自我安慰的话。这是信心的宣告。我花了十三年才看见这幅完整的图画：那口枯井、那条商路、那间监牢——每一步都是神在下棋。人以为在害我，神却在用他们的恶来成就他的善。
 
-## 亚拿尼亚来了
+父亲雅各去世后，哥哥们害怕我报复。他们派人来求我饶恕。我对他们说了那句照亮整个旧约历史的话：
 
-第三天，一个叫亚拿尼亚的门徒来了。
+> 不要害怕，我岂能代替神呢？从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景。现在你们不要害怕，我必养活你们和你们的妇人孩子。
 
-后来我才知道，主在异象中对他说：去直街，找一个叫扫罗的大数人。亚拿尼亚说："主阿，我听见许多人说，这人怎样在耶路撒冷多多苦害你的圣徒。"（使徒行传 9:13）
+> 于是约瑟用亲爱的话安慰他们。
 
-弟兄姐妹，你们想想——如果有人让你去找一个专门抓基督徒的人，给他按手祷告，你去不去？
 
-**亚拿尼亚去了。**
+"用亲爱的话安慰他们"——这几个字常常被人忽略，但对我来说，这是整个故事中最困难的部分。饶恕不是一瞬间的决定——饶恕是一个漫长的过程。在那十三年的等待中，我有无数次机会让苦毒在心里生根。但每一次，当我想起父亲教导我的神——亚伯拉罕的神、以撒的神、雅各的神——我就知道：我不能让仇恨吞噬我。仇恨会毁掉的不是我的哥哥们，而是我自己。
 
-他进来，把手按在我身上，说了一句让我泪流满面的话：
+饶恕不是说"你们做的事没关系"——他们做的事大有关系，那是恶。饶恕是说"我把审判的权柄交给神"——我岂能代替神呢？审判属于耶和华，不属于我。我的责任是爱，是用亲爱的话安慰，是养活他们和他们的妇人孩子。
 
-**"兄弟扫罗。"**
+"你们的意思是要害我，但神的意思原是好的。"——弟兄姐妹，这是圣经中关于神的护理最深刻的一句话。人有人的意思，神有神的意思。人的意思可以是恶的——嫉妒、出卖、陷害、遗忘——但神的意思永远是好的。他能够把人一切的恶，编织进他美善的旨意之中，"成就今日的光景"。
 
-兄弟。他叫我**兄弟**。
+后来使徒保罗写道："我们晓得万事都互相效力，叫爱神的人得益处，就是按他旨意被召的人。"（罗8:28）——这不就是我一生的写照吗？
 
-这个我来大马色要抓的人，叫我兄弟。
+亲爱的弟兄姐妹，你是否正在"枯井"里——被人出卖、被人诬陷、被人遗忘？你是否正在经历你人生中的"十三年等待"——看不见出路，看不见盼望？请记住约瑟的故事：差你到这里来的不是那些伤害你的人，乃是神。他的意思原是好的。你今日的苦难，在他的手中，会成就将来的荣耀。
 
-"在你来的路上向你显现的主，就是耶稣，打发我来，叫你能看见，又被圣灵充满。"（使徒行传 9:17）
+不要害怕。耶和华与你同在。`,
+    content_en: `Dear brothers and sisters, I am Joseph, eleventh son of Jacob, firstborn of Rachel.
 
-就在那一刻，好像有鳞片从我眼睛上掉下来。我又能看见了。但我看到的不再是从前的世界——我看到了一个全新的世界。**瞎眼的时候以为自己看得见，看见了才知道自己从前是瞎的。**
+You know my story—the coat of many colors, the empty pit, the road that led down to Egypt. But today I want to tell you not just an inspiring tale of a slave who became a prime minister—I want to tell you that behind it all was an unseen hand, weaving a tapestry far beyond anything I could have imagined.
 
-我起来，受了洗。
+### I. Sold by His Own Brothers (Genesis 37:28)
 
-## 恩典中的恩典
+The year I was seventeen, my father gave me a coat of many colors. That coat was the expression of my father's special love—I was the son his beloved Rachel had borne him in his old age. But that coat also became the beginning of my suffering, because it stirred my brothers' jealousy to an unbearable degree.
 
-弟兄姐妹，如果说整本圣经中有一个人最没有资格被神使用，那就是我。
+I admit that in my youth I lacked wisdom. I told my brothers two dreams—sheaves bowing down to my sheaf, the sun and moon and stars bowing down to me—which was like pouring oil on a fire. But even if I had kept silent about those dreams, their hatred was already deeply rooted.
 
-我不是像彼得那样因为害怕而不认主——彼得至少还爱主。**我是主动地、系统地、狂热地逼迫基督的教会。** 我手上沾着圣徒的血。
+That day, my father sent me to check on my brothers pasturing sheep near Shechem. I did not know I was walking into a carefully laid trap. They saw me from a distance and conspired to kill me. Reuben intervened—don't shed his blood, throw him into a pit—he intended to return and rescue me.
 
-但祂拣选了我。
+> Then Midianite traders passed by. And they drew Joseph up and lifted him out of the pit, and sold him to the Ishmaelites for twenty shekels of silver. They took Joseph to Egypt.
 
-不是因为我有什么好。不是因为我的学问——虽然我确实在迦玛列门下受过最好的训练。不是因为我的热心——那份热心差点让我成为永远的仇敌。
+Twenty shekels of silver. That was my value in my brothers' eyes—the price of a slave. They dipped my coat in goat's blood and brought it back to show my father, letting him believe I had been torn apart by wild animals.
 
-**祂拣选我，恰恰是要在我这"罪人中的罪魁"身上，显明他一切的忍耐。**
+Brothers and sisters, being wounded by strangers is painful, but being betrayed by your own blood brothers—that pain goes to the bone. On the road to Egypt, I looked back toward Canaan, wondering: will I ever go home? What is my father doing at this moment? Is he weeping for me? What have I done to deserve this treatment?
 
-"基督耶稣降世，为要拯救罪人。这话是可信的，是十分可佩服的。在罪人中我是个罪魁。然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明他一切的忍耐，给后来信他得永生的人作榜样。"（提摩太前书 1:15-16）
+### II. The LORD Was with Joseph (Genesis 39:1-21)
 
-你们听到了吗？**给后来的人作榜样。** 如果连扫罗都能被赦免，连逼迫教会的人都能成为使徒——**那么没有人是恩典够不到的。**
+In Egypt, I was sold to Potiphar, an officer of Pharaoh's guard. But Scripture records a sentence that changes everything:
 
-## 我从前以为有益的
+> The LORD was with Joseph, and he became a successful man.
 
-腓立比书里我写过这么一段话。现在让我再说一遍：
+"The LORD was with Joseph"—in the slave market, in a foreign land, in a situation where everything had been taken away, God had not abandoned me. I did not know why he was permitting all of this, but I knew he had not forsaken me. Sometimes faith is not understanding "why" but believing "God is with me" even when you don't understand.
 
-"只是我先前以为与我有益的，我现在因基督都当作有损的。不但如此，我也将万事当作有损的，因我以认识我主基督耶稣为至宝。我为他已经丢弃万事，看作粪土，为要得着基督。"（腓立比书 3:7-8）
+I served faithfully in Potiphar's household, and Potiphar trusted me, entrusting me with everything in his house. But temptation came—Potiphar's wife tried to seduce me day after day. I refused, saying those famous words: "How then can I do this great wickedness and sin against God?" I would rather offend a person than offend God.
 
-**粪土。**
+The result? She falsely accused me, and Potiphar had me thrown into prison.
 
-我的法利赛人身份——粪土。我在迦玛列门下的学历——粪土。我无可指摘的律法记录——粪土。不是因为这些东西本身是坏的，而是因为**当你用这些东西来代替基督的时候，它们就变成了拦阻你认识神的障碍。**
+> And Joseph's master took him and put him into the prison, the place where the king's prisoners were confined, and he was there in prison.
 
-我从前以为自己站在光明里，其实我站在黑暗中。那道光把我打倒，让我瞎了眼——但讽刺的是，**瞎了眼之后我才真正"看见"了。**
+From slave to manager, then from manager to prisoner. Life seemed to keep descending. But that sentence appeared again:
 
-## 致每一个"虔诚的逼迫者"
+> But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison.
 
-弟兄姐妹，如果你读到这里——
+Even in prison, "the LORD was with Joseph." Brothers and sisters, this is the most important lesson of my whole life: God's presence does not depend on your circumstances. You can be far from God in a palace, and you can be with God in a prison. Circumstances cannot define your relationship with God—your faith can.
 
-也许你不像我那样逼迫教会。但也许你和我有一个共同的问题：**你以为自己的义可以救自己。**
+During those years in Potiphar's house, I had resolved: no matter what the circumstances, I would do my work faithfully and well. This was not some high philosophy—it was a practical choice: you can give up in suffering, or you can do your best in suffering. I chose the latter, because I believed: even if no person can see my faithfulness, God can see it. The day Potiphar observed that "the LORD was with Joseph," an unbeliever witnessed the work of the LORD in his servant—that itself was a testimony. Your faith doesn't need to be proclaimed with words; your life will speak for you.
 
-也许你是一个很好的人。你守规矩，做善事，从不害人。你的履历拿出来，"无可指摘"。但你心里有没有那种平安？那种被锁链中的人唱出来的平安？
+### III. Yet the Chief Cupbearer Did Not Remember Joseph (Genesis 40:23)
 
-如果没有——也许你和大马色路上的扫罗一样，需要被那道光击倒一次。
+In prison, I interpreted dreams for Pharaoh's chief cupbearer and chief baker. The cupbearer's dream was fulfilled—he was restored to his position. I begged him to mention me to Pharaoh and get me out.
 
-不要怕。**那道光不是来毁灭你的。那道光是来拯救你的。**
+> Yet the chief cupbearer did not remember Joseph, but forgot him.
 
-它会让你暂时看不见。它会把你所有的确信打碎。它会让你在黑暗中待上一阵子。但当鳞片从你眼睛上掉下来的时候，你会看到一个全新的世界——一个不需要你靠自己的义站立的世界，一个**被恩典托住的世界。**
+"But forgot him."—Three words, then two more years. I waited another two years in prison. Counting the years in Potiphar's house, from being sold to being exalted—a full thirteen years.
 
-"你为什么逼迫我？"——也许今天，这个问题不是问你在逼迫谁，而是在问：**你在抗拒什么？**
+Thirteen years. Do you know how long thirteen years is? Long enough for a youth to become middle-aged, long enough for hope to become despair, long enough for faith to be worn away bit by bit. Every day I woke up, I had to make a choice: keep trusting the LORD, or be filled with bitterness, resentment, and give up.
 
-你在抗拒承认自己不行吗？你在抗拒放下你的骄傲吗？你在抗拒那个比你所有的确信都更大的爱吗？
+I chose to trust. Not because I was stronger than others—but because in every dark night, I could feel that unseen hand still holding me. The God who had wrestled with my grandfather Jacob in the wilderness at Peniel was with me now in an Egyptian prison cell.
 
-放下吧。像我一样，仆倒在那道光面前。
+### IV. God Made Me Forget All My Hardship (Genesis 41:51-52)
 
-然后你会听到祂叫你的名字。
+When Pharaoh's dreams could not be interpreted, the chief cupbearer finally remembered me. I was brought before Pharaoh and interpreted his dreams of seven years of plenty and seven years of famine. Pharaoh made me prime minister of all Egypt—second only to himself.
 
-*"然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明他一切的忍耐，给后来信他得永生的人作榜样。"（提摩太前书 1:16）*
+I named my firstborn Manasseh:
 
-*愿那在大马色路上光照我的主，也光照你的心——你的弟兄，保罗*`,
-    content_en: `## I Am Saul — The Most Devout Persecutor
+> Joseph called the name of the firstborn Manasseh. "For," he said, "God has made me forget all my hardship and all my father's house."
 
-My name is Saul, of the tribe of Benjamin, a Pharisee among Pharisees.
+I named my second son Ephraim:
 
-If you ask me who I was before, I can lay my credentials before you: "Circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless." (Philippians 3:5-6)
+> The name of the second he called Ephraim, "For God has made me fruitful in the land of my affliction."
 
-Did you hear that? **Blameless.** I am not boasting. In those years studying under Gamaliel, I memorized the entire Torah, never broke a single commandment on the Sabbath, tithed down to the mint, dill, and cumin. Among the Pharisees, no one was more serious than I was.
+Two sons' names—they are the testimony of my entire life. "Made me forget all my hardship"—not that I had amnesia, but that God's grace was so great that the memory of suffering could no longer hold power over me. "Fruitful in the land of my affliction"—not fruitful after the suffering ended, but fruitful in the very **place** of affliction, during the very **process** of suffering.
 
-But being serious was not enough. I wanted to **burn with zeal for God.**
+This is how God works: he doesn't necessarily remove you from difficulty, but he makes you fruitful within it. I was managing things in prison before I ever managed things in a palace—administrative ability was not suddenly granted when I reached the royal court; it was forged through suffering one day at a time. Thirteen years of waiting was not wasted—it was God's training camp.
 
-When I first heard that a group of people were proclaiming a crucified Nazarene as the Messiah, my blood boiled. **The Messiah hung on a tree?** The Torah clearly states: "a hanged man is cursed by God" (Deuteronomy 21:23). These people were not preaching good news — they were blaspheming God!
+### V. You Meant Evil, but God Meant It for Good (Genesis 45:4-8, 50:19-21)
 
-So when the Sanhedrin decided to stamp out this heresy, I was the first to volunteer.
+The famine came, and my brothers came to Egypt to buy grain. They did not recognize me—I was no longer the seventeen-year-old boy I had been. After a series of tests, I revealed my identity to them:
 
-The day Stephen was stoned to death, I was there. I did not throw the stones myself — I guarded the garments of those who did. I watched him kneel. I watched the stones strike him one by one. His face was covered in blood, but his face —
+> "I am your brother, Joseph, whom you sold into Egypt. And now do not be distressed or angry with yourselves because you sold me here, for God sent me before you to preserve life."
 
-Brothers and sisters, I do not like to admit this, but that day I saw a face I have never been able to forget. **His face was like the face of an angel.** As he was dying, he said, "Lord, do not hold this sin against them!" (Acts 7:60)
+> "So it was not you who sent me here, but God."
 
-A man being stoned to death was praying for the men killing him.
+"It was not you who sent me here, but God."—These are not words of self-comfort. They are a declaration of faith. It took me thirteen years to see this complete picture: the empty pit, the slave road, the prison cell—every step was God making his move. People thought they were harming me; God was using their evil to accomplish his good.
 
-I pushed that thought down. I told myself: this is the devil's deception. The more something looks like an angel, the more dangerous it is.
+When my father Jacob died, my brothers feared I would take revenge. They sent a message begging my forgiveness. I said to them words that illuminate the entire Old Testament:
 
-So I persecuted even more furiously.
+> "Do not fear, for am I in the place of God? As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today. So do not fear; I will provide for you and your little ones."
 
-I went house to house. Men and women alike, I dragged them off to prison. I threatened them, demanding they deny that name. Some did deny it — I saw the shame and agony in their eyes. Some refused — I saw in their eyes a peace, a peace that I could never possess no matter how hard I tried.
+> And he comforted them and spoke kindly to them.
 
-**I hated that peace.** Because I did not have it.
+"You meant evil against me, but God meant it for good."—Brothers and sisters, this is the most profound sentence in all of Scripture about the providence of God. People have their purposes, God has his purposes. Human purposes can be evil—jealousy, betrayal, slander, being forgotten—but God's purposes are always good. He can weave all of human evil into the tapestry of his gracious will, "to bring it about that many people should be kept alive."
 
-I thought I did. I thought keeping the law and burning with zeal was peace. But every time I saw those I had arrested singing hymns of praise in chains, a voice inside me whispered: **They have something you do not.**
+The apostle Paul later wrote: "And we know that for those who love God all things work together for good, for those who are called according to his purpose." (Romans 8:28)—Is that not the portrait of my life?
 
-I pushed that voice down deeper.
+"He spoke kindly to them"—these words are often overlooked, but for me they were the hardest part of the whole story. Forgiveness is not a momentary decision—it is a long process. Through those thirteen years of waiting, I had countless opportunities to let bitterness take root in my heart. But every time, when I remembered the God my father had taught me about—the God of Abraham, of Isaac, of Jacob—I knew: I cannot let hatred consume me. Hatred would not destroy my brothers; it would destroy me.
 
-## On the Road to Damascus
+Forgiveness is not saying "what you did doesn't matter"—what they did mattered greatly; it was evil. Forgiveness is saying "I transfer the right of judgment to God"—am I in the place of God? Judgment belongs to the LORD, not to me. My responsibility is love: to speak kindly, to provide for them and their wives and little ones.
 
-Jerusalem was not enough. I heard that there were followers of the Way in Damascus too, so I went to the high priest for letters of authority to bring them back in chains.
+Dear brothers and sisters, are you in an "empty pit"—betrayed, slandered, forgotten? Are you in your own "thirteen-year wait"—unable to see a way out, unable to see hope? Hear Joseph's story: the one who sent you here is not those who hurt you, but God. His purposes are always good. Your present suffering, in his hands, will accomplish future glory.
 
-It was a long journey, about six days. The whole way I was planning how I would interrogate them, how I would convict them. My heart was full of righteous anger — or so I thought.
+Do not be afraid. The LORD is with you.`,
+  },
 
-**Then the light came.**
+  {
+    id: 'barnabas-fellowship',
+    author: '巴拿巴',
+    authorEn: 'Barnabas',
+    authorAvatar: '✈️',
+    authorBio: '原名约瑟，利未支派，生在塞浦路斯。使徒们称他为“巴拿巴”（翻出来就是劝慰子）。他接纳归信后被人疑惧的保罗，带领安提阿教会，为马可争取第二次机会。',
+    authorBioEn: 'Originally named Joseph, a Levite from Cyprus. The apostles called him Barnabas, meaning "Son of Encouragement." He accepted Paul after his conversion when others feared him, led the Antioch church, and fought for Mark\'s second chance.',
+    title_zh: '团契的真义',
+    title_en: 'The True Meaning of Fellowship',
+    date: '2026-04-25',
+    category: 'fellowship' as const,
+    scripture: '使徒行传 4:32-37 / Acts 4:32-37',
+    scriptureText_zh: '那许多信的人都是一心一意的，没有一人说他的东西有一样是自己的，都是大家公用。',
+    scriptureText_en: 'Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common.',
+    summary_zh: '团契不是完美之人的聚会，乃是蒙恩之人在基督里的合一。',
+    summary_en: 'Fellowship is not a gathering of perfect people, but the unity of those who have received grace in Christ.',
+    tags: ['团契', '接纳', '饶恕', '建造'],
+    content_zh: `亲爱的弟兄姐妹，我是巴拿巴，使徒们给我起的名字，意思是"劝慰子"。我原名约瑟，是利未支派的人，生在塞浦路斯岛。今天我要和你分享一个主题——真正的团契。
 
-Brothers and sisters, I cannot describe that light with words. The noonday sun was already blazing, but that light was brighter than the sun. It did not come from one direction — it **shone all around me**. As if the entire sky had torn open and all its light poured down.
+### 一、团契从舍己开始（徒4:32-37）
 
-I fell to the ground.
+> 那许多信的人都是一心一意的，没有一人说他的东西有一样是自己的，都是大家公用。
 
-Then I heard the voice:
+这是五旬节之后，圣灵降临，教会诞生的光景。弟兄姐妹们不是被律法逼迫去分享，乃是被圣灵的爱充满，甘心乐意地放下自己。
 
-**"Saul, Saul, why are you persecuting me?"**
+我当时有一块田地。那田地是我在塞浦路斯的产业，是祖辈留给我的。说实话，卖掉它并不容易。但当我看见弟兄姐妹们的需要，当我想到主耶稣为我舍弃了天上的荣耀，我还有什么不能舍弃的呢？
 
-He called my name. Twice.
+> 他有田地，也卖了，把价银拿来，放在使徒脚前。
 
-I lay on the ground, trembling. I asked, "Who are you, Lord?"
+我把银子放在使徒脚前——不是为了得人的称赞，乃是因为我深知：这一切原本就是神的。我不过是把神的东西归还给神的家。
 
-I already knew. The instant that light struck me, all my certainties shattered — my knowledge of the law, my Pharisee credentials, my zeal, my righteousness — all of it crumbled to dust. **Because if this light was from heaven, if this voice was the voice of God, then I had not been persecuting heretics. I had been —**
+这是团契的第一课：在给予中经历丰盛。主耶稣说："施比受更为有福"（徒20:35）。当我卖掉田地的那一刻，我失去了一块地；但我得到的，是与弟兄姐妹更深的生命连结，是参与神国度建造的喜乐。我从未后悔过。
 
-**"I am Jesus, whom you are persecuting."**
+团契不是坐在一起喝茶聊天。团契的根基是舍己——效法基督，他本有神的形像，却虚己取了奴仆的形像。保罗后来写道：
 
-The crucified Nazarene. The one I had declared cursed by God. The one whose name I had fought with all my strength to wipe from the earth.
+> 凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。各人不要单顾自己的事，也要顾别人的事。
 
-**He is Lord.**
+### 二、团契是接纳被拒绝的人（徒9:26-27）
 
-Brothers and sisters, can you imagine what I felt in that moment? It was not an epiphany. It was the **ground giving way beneath me**. Everything I had ever done — my devotion, my zeal, everything I took pride in — was not merely worthless. It was aimed in **exactly the wrong direction**. I thought I was serving God. In truth, I was **persecuting God.**
+教会历史上有一个人，所有门徒都怕他——扫罗。他曾经逼迫教会，看守司提反殉道时众人的衣裳，挨家挨户拉信徒下监。当他说自己归信了，谁敢相信？
 
-I was the most devout sinner in the world.
+> 扫罗到了耶路撒冷，想与门徒结交，他们却都怕他，不信他是门徒。
 
-## Three Days of Darkness
+弟兄姐妹们的恐惧是可以理解的。扫罗的名字曾经是教会的噩梦。但我听了他的见证，看见他眼中的光，那是从主而来的光。于是我做了一个决定：
 
-After the light, my eyes were blind.
+> 惟有巴拿巴接待他，领去见使徒，把他在路上怎么看见主，主怎么向他说话，他在大马士革怎么奉耶稣的名放胆传道，都述说出来。
 
-My companions led me by the hand into Damascus. For three days and three nights I could see nothing. I neither ate nor drank.
+我为什么接纳扫罗？因为我想起主耶稣的话——他来不是召义人，乃是召罪人。如果神已经接纳了扫罗，我们凭什么拒绝他？保罗后来写道：
 
-Do you know what I was thinking during those three days?
+> 所以，你们要彼此接纳，如同基督接纳你们一样，使荣耀归与神。
 
-I thought of Stephen's face. I thought of every person I had dragged to prison with my own hands. I thought of those who had died because of my persecution. Their names — every one — echoed in my mind.
+真正的团契，不是只接纳"和我们一样"的人。真正的团契是效法基督的接纳——他在我们还作罪人的时候就为我们死了。那个曾经逼迫教会的扫罗，后来成了使徒保罗，写了新约十三卷书信。如果当初没有人愿意接纳他，教会的历史会怎样？
 
-**I had been persecuting Jesus. Every believer was part of His body. When I struck them, I struck Him. When I bound them, I bound Him.**
+### 三、团契是看见恩典就欢喜（徒11:22-26）
 
-In three days of darkness, I finally understood one thing: **the law can reveal sin, but the law cannot save.** I had spent my whole life keeping the law, and all it had done was show me how hopeless I truly was. "For by works of the law no human being will be justified in his sight" (Romans 3:20).
+后来，福音传到了安提阿，外邦人也开始信主。耶路撒冷教会听到这个消息，就差遣我去察看。
 
-I also understood something else: **He did not strike me dead.**
+> 他到了那里，看见神所赐的恩就欢喜，劝勉众人，立定心志，恒久靠主。
 
-That light could have reduced me to ash. After all I had done, I deserved destruction a thousand times over. But He did not. **He asked me "Why are you persecuting me?" — that was not a sentence of judgment. It was a father's question to a prodigal son.**
+路加记载了我到安提阿时的反应："看见神所赐的恩就欢喜。"这句话看似简单，却蕴含着团契的核心。我没有去审查他们的信仰是否合格，没有去考核他们的行为是否达标——我首先看见的是"神所赐的恩"，而我的反应是"欢喜"。
 
-## Ananias Came
+许多时候，我们在团契中更容易看见别人的不足：这个人神学不够深，那个人生命还不够成熟，这个教会的做法和我们不一样。但团契的眼光应当首先看见恩典——神在他们身上的作为。
 
-On the third day, a disciple named Ananias came.
+> 这巴拿巴原是个好人，被圣灵充满，大有信心。于是有许多人归服了主。
 
-I later learned that the Lord had told him in a vision: Go to the street called Straight, and find a man from Tarsus named Saul. Ananias said, "Lord, I have heard from many about this man, how much evil he has done to your saints at Jerusalem" (Acts 9:13).
+路加说我"原是个好人"——这不是自夸。这"好"不是道德上的完美，乃是圣灵的果子。一个被圣灵充满的人，自然会结出仁爱、喜乐、和平的果子，自然会成为团契的祝福。
 
-Brothers and sisters, think about it — if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
+在安提阿，我做了另一件重要的事：
 
-**Ananias went.**
+> 他又往大数去找扫罗，找着了，就带他到安提阿去。他们足有一年的工夫和教会一同聚集，教训了许多人。门徒称为"基督徒"是从安提阿起首。
 
-He came in, placed his hands on me, and said a sentence that brought me to tears:
+我去大数找扫罗——这不是偶然的决定。我看见安提阿教会需要好的教导，而我知道扫罗有这个恩赐。团契不是一个人独自承担所有服事，乃是看见别人的恩赐，把他们带到需要他们的地方。
 
-**"Brother Saul."**
+圣灵在安提阿的工作让我看见：神的恩典不受地域、种族、文化的限制。当我们因着基督的缘故跨越这些界限彼此接纳时，世人就看见了一种超越人间的爱。"基督徒"这个名字不是我们自己起的，是安提阿城的人给我们起的——因为他们看见我们的生活像基督。这就是团契最强有力的见证。
 
-Brother. He called me **brother.**
+我自己也曾经软弱。保罗在加拉太书中记载了一件令我羞愧的事——在安提阿，当耶路撒冷来的人到了以后，连我也跟着彼得一起退缩，不敢和外邦弟兄同席吃饭。保罗当面责备了我们。这件事让我深深明白：即使是"劝慰子"，也需要弟兄的劝勉。团契不是单方面的给予，乃是彼此的建造。没有人在团契中只是施恩者，我们都同时是领受者。
 
-This man — the very man I had come to Damascus to arrest — called me brother.
+### 四、团契中的伤痛与饶恕（徒15:37-39）
 
-"The Lord Jesus who appeared to you on the road by which you came has sent me so that you may regain your sight and be filled with the Holy Spirit" (Acts 9:17).
+我必须诚实地说，团契并不总是美好的。我和保罗之间发生过一次严重的分歧。
 
-In that moment, something like scales fell from my eyes. I could see again. But what I saw was no longer the world I had known — I saw an entirely new world. **When I was blind, I thought I could see. Only when I could see did I realize I had been blind all along.**
+> 巴拿巴有意要带称呼马可的约翰同去；但保罗因为马可从前在旁非利亚离开他们，不和他们同去做工，就以为不可带他去。于是二人起了争论，甚至彼此分开。巴拿巴带着马可，坐船往塞浦路斯去。
 
-I rose and was baptized.
+马可是我的表弟。第一次宣教旅程时，他中途离开了我们。保罗认为他不可靠，不愿再带他。但我看见的是一个年轻人——他跌倒了，但他需要第二次机会。
 
-## Grace Upon Grace
+我和保罗为此"起了争论，甚至彼此分开"。这是圣经真实的记载，没有掩饰。团契中会有冲突，会有意见不合，会有彼此伤害。两个被圣灵充满的人也会激烈争执——因为我们都还在成圣的路上。
 
-Brothers and sisters, if there is one person in all of Scripture least qualified to be used by God, it is I.
+但故事没有到此结束。多年以后，保罗在监狱里写信给歌罗西教会：
 
-I am not like Peter, who denied the Lord out of fear — Peter at least loved the Lord. **I actively, systematically, and zealously persecuted the church of Christ.** My hands were stained with the blood of saints.
+> 与我一同坐监的亚里达古问你们安。巴拿巴的表弟马可也问你们安。说到这马可，你们已经受了吩咐；他若到了你们那里，你们就接待他。
 
-Yet He chose me.
+保罗接纳了马可！在生命的尽头，他甚至写信给提摩太说：
 
-Not because of any good in me. Not because of my learning — though I was indeed trained under the finest teacher, Gamaliel. Not because of my zeal — that very zeal nearly made me an eternal enemy.
+> 你来的时候，要把马可带来，因为他在传道的事上于我有益处。
 
-**He chose me precisely to display all His patience in me, the foremost of sinners.**
+那个曾经被保罗拒绝的马可，后来写了马可福音——四福音书中最早的一卷。如果当初没有人给他第二次机会，教会就会失去一卷福音书。
 
-"The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life" (1 Timothy 1:15-16).
+团契的真义包含饶恕和恢复。我们不是一群完美的人在一起假装圣洁，乃是一群蒙恩的罪人在基督里彼此饶恕、彼此建造。
 
-Did you hear that? **As an example to those who would come after.** If even Saul could be forgiven, if even a persecutor of the church could become an apostle — **then no one is beyond the reach of grace.**
+### 五、团契的根基是基督（来10:24-25）
 
-## What I Once Counted as Gain
+> 又要彼此相顾，激发爱心，勉励行善。你们不可停止聚会，好像那些停止惯了的人，倒要彼此劝勉，既知道那日子临近，就更当如此。
 
-In my letter to the Philippians, I wrote these words. Let me say them again now:
+团契不是可有可无的。希伯来书的作者严肃地警告：不可停止聚会。为什么？因为基督徒的生命不是独自行走的。我们是基督身体上的肢体，彼此相连，彼此需要。
 
-"But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ" (Philippians 3:7-8).
+> 若一个肢体受苦，所有的肢体就一同受苦；若一个肢体得荣耀，所有的肢体就一同快乐。
 
-**Rubbish.**
+> 我们若在光明中行，如同神在光明中，就彼此相交，他儿子耶稣的血也洗净我们一切的罪。
 
-My Pharisee credentials — rubbish. My education under Gamaliel — rubbish. My blameless record under the law — rubbish. Not because these things were bad in themselves, but because **when you use them as substitutes for Christ, they become the very barriers that keep you from knowing God.**
+团契的根基不是人与人之间的感情，乃是基督的血所立的新约。我们能够彼此相交，是因为我们都与基督相交；我们能够彼此接纳，是因为基督先接纳了我们。
 
-I once thought I stood in the light. In truth, I stood in darkness. That light knocked me down and blinded me — but the irony is, **only after I was blinded did I truly "see."**
+亲爱的弟兄姐妹，我一生学到的功课就是：团契不是完美之人的聚会，乃是蒙恩之人在基督里的合一。它需要舍己，需要接纳，需要在恩典中看见别人，需要在冲突中选择饶恕。愿你珍惜神赐给你的团契——那是天上团契的预尝，是永恒中我们将与基督并众圣徒永远同在的荣耀盼望。`,
+    content_en: `Dear brothers and sisters, I am Barnabas—the name the apostles gave me, meaning "Son of Encouragement." My original name was Joseph, a Levite born on the island of Cyprus. Today I want to share with you a theme—the true meaning of fellowship.
 
-## To Every "Devout Persecutor"
+### I. Fellowship Begins with Self-Sacrifice (Acts 4:32-37)
 
-Brothers and sisters, if you are reading this —
+> Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common.
 
-Perhaps you do not persecute the church as I did. But perhaps you and I share a common problem: **you believe your own righteousness can save you.**
+This was the scene after Pentecost, when the Holy Spirit descended and the church was born. The brothers and sisters were not forced by law to share; they were filled with the Spirit's love, willingly laying down their own possessions.
 
-Perhaps you are a very good person. You follow the rules, do good deeds, never harm anyone. Your record, laid out for inspection, is "blameless." But do you have that peace in your heart? The peace that was sung by people in chains?
+I had a field at that time—my property in Cyprus, an inheritance from my ancestors. To be honest, selling it was not easy. But when I saw the needs of the brothers and sisters, when I thought of how the Lord Jesus gave up the glory of heaven for me, what could I not give up?
 
-If not — perhaps, like Saul on the road to Damascus, you need to be struck down by that light.
+> He had a field, and he sold it and brought the money and laid it at the apostles' feet.
 
-Do not be afraid. **That light does not come to destroy you. It comes to save you.**
+I laid the money at the apostles' feet—not for human praise, but because I knew deeply: all of it originally belonged to God. I was merely returning God's things to God's household.
 
-It will blind you for a time. It will shatter all your certainties. It will leave you sitting in darkness for a while. But when the scales fall from your eyes, you will see a brand new world — a world where you no longer need to stand on your own righteousness, a world **upheld entirely by grace.**
+This is the first lesson of fellowship: experiencing abundance through giving. The Lord Jesus said, "It is more blessed to give than to receive" (Acts 20:35). The moment I sold that field, I lost a piece of land; but what I gained was a deeper life-connection with brothers and sisters, the joy of participating in God's kingdom-building. I have never regretted it.
 
-"Why are you persecuting me?" — perhaps today, the question is not about who you are persecuting, but about this: **What are you resisting?**
+Fellowship is not sitting together drinking tea and chatting. The foundation of fellowship is self-sacrifice—imitating Christ, who, though he was in the form of God, emptied himself, taking the form of a servant. Paul later wrote:
 
-Are you resisting the admission that you cannot do it on your own? Are you resisting laying down your pride? Are you resisting a love greater than all your certainties?
+> Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others.
 
-Let go. Like me, fall down before that light.
+### II. Fellowship Means Accepting the Rejected (Acts 9:26-27)
 
-And then you will hear Him call your name.
+There was a man in church history whom all the disciples feared—Saul. He had persecuted the church, guarding the garments of those who stoned Stephen, dragging believers from house to house into prison. When he claimed to have been converted, who dared believe him?
 
-*"But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life." (1 Timothy 1:16)*
+> And when he had come to Jerusalem, he attempted to join the disciples. And they were all afraid of him, for they did not believe that he was a disciple.
 
-*May the Lord who shone His light on me on the Damascus road also shine His light into your heart — your brother, Paul*`,
+The brothers' and sisters' fear was understandable. Saul's name had been the church's nightmare. But I heard his testimony and saw the light in his eyes—light that came from the Lord. So I made a decision:
+
+> But Barnabas took him and brought him to the apostles and declared to them how on the road he had seen the Lord, who spoke to him, and how at Damascus he had preached boldly in the name of Jesus.
+
+Why did I accept Saul? Because I remembered the Lord Jesus' words—he came not to call the righteous, but sinners. If God had already accepted Saul, what right did we have to reject him? Paul later wrote:
+
+> Therefore welcome one another as Christ has welcomed you, for the glory of God.
+
+True fellowship does not only accept those who are "like us." True fellowship imitates Christ's acceptance—he died for us while we were still sinners. That former persecutor of the church became the Apostle Paul, who wrote thirteen epistles of the New Testament. If no one had been willing to accept him, what would church history have looked like?
+
+### III. Fellowship Means Rejoicing at Grace (Acts 11:22-26)
+
+Later, the gospel spread to Antioch, and Gentiles began to believe in the Lord. When the Jerusalem church heard this news, they sent me to investigate.
+
+> When he came and saw the grace of God, he was glad, and he exhorted them all to remain faithful to the Lord with steadfast purpose.
+
+Luke recorded my reaction upon arriving in Antioch: "He saw the grace of God and was glad." This sentence seems simple, yet it contains the core of fellowship. I did not go to examine whether their faith was qualified, did not go to evaluate whether their conduct met standards—what I first saw was "the grace of God," and my response was "gladness."
+
+So often in fellowship we more readily see others' shortcomings: this person's theology isn't deep enough, that person's life isn't mature enough, this church does things differently from us. But the eyes of fellowship should first see grace—God's work in their lives.
+
+> For he was a good man, full of the Holy Spirit and of faith. And a great many people were added to the Lord.
+
+Luke said I was "a good man"—this is not boasting. This "good" is not moral perfection but the fruit of the Spirit. A person filled with the Holy Spirit naturally bears fruit of love, joy, and peace, naturally becoming a blessing to fellowship.
+
+In Antioch, I did another important thing:
+
+> So Barnabas went to Tarsus to look for Saul, and when he had found him, he brought him to Antioch. For a whole year they met with the church and taught a great many people. And in Antioch the disciples were first called Christians.
+
+I went to Tarsus to find Saul—this was no random decision. I saw that the Antioch church needed good teaching, and I knew Saul had that gift. Fellowship is not one person bearing all the ministry alone, but seeing others' gifts and bringing them where they are needed.
+
+The Holy Spirit's work in Antioch showed me that God's grace is not limited by geography, ethnicity, or culture. When we accept one another across these boundaries for Christ's sake, the world sees a love that transcends human nature. The name "Christian" was not something we chose for ourselves—the people of Antioch gave it to us, because they saw our lives resembling Christ. This is fellowship's most powerful testimony.
+
+I too was once weak. Paul recorded in Galatians something that shames me—in Antioch, when people came from Jerusalem, even I drew back with Peter, afraid to eat with Gentile brothers. Paul rebuked us to our faces. This experience taught me deeply: even the "Son of Encouragement" needs a brother's encouragement. Fellowship is not one-directional giving, but mutual edification. No one in fellowship is only the giver; we are all simultaneously receivers.
+
+### IV. Pain and Forgiveness in Fellowship (Acts 15:37-39)
+
+I must speak honestly: fellowship is not always beautiful. Paul and I had a serious disagreement.
+
+> Barnabas wanted to take with them John called Mark. But Paul thought best not to take with them one who had withdrawn from them in Pamphylia and had not gone with them to the work. And there arose a sharp disagreement, so that they separated from each other. Barnabas took Mark with him and sailed away to Cyprus.
+
+Mark was my cousin. During the first missionary journey, he left us midway. Paul considered him unreliable and refused to take him again. But what I saw was a young man—he had fallen, but he needed a second chance.
+
+Paul and I "had a sharp disagreement, so that they separated." This is Scripture's honest record, with no concealment. In fellowship there will be conflict, disagreement, mutual hurt. Two Spirit-filled people can still argue intensely—because we are all still on the path of sanctification.
+
+But the story does not end there. Years later, Paul wrote from prison to the Colossian church:
+
+> Aristarchus my fellow prisoner greets you, and Mark the cousin of Barnabas (concerning whom you have received instructions—if he comes to you, welcome him).
+
+Paul accepted Mark! At the end of his life, he even wrote to Timothy:
+
+> Get Mark and bring him with you, for he is very useful to me for ministry.
+
+The Mark whom Paul once rejected later wrote the Gospel of Mark—the earliest of the four Gospels. If no one had given him a second chance, the church would have lost an entire Gospel.
+
+The true meaning of fellowship includes forgiveness and restoration. We are not a group of perfect people pretending to be holy, but a group of redeemed sinners forgiving and building one another up in Christ.
+
+### V. The Foundation of Fellowship Is Christ (Heb. 10:24-25)
+
+> And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near.
+
+Fellowship is not optional. The author of Hebrews solemnly warns: do not neglect meeting together. Why? Because the Christian life is not a solitary journey. We are members of Christ's body, connected to one another, needing one another.
+
+> If one member suffers, all suffer together; if one member is honored, all rejoice together.
+
+> But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin.
+
+The foundation of fellowship is not human affection, but the new covenant established by Christ's blood. We can have fellowship with one another because we all have fellowship with Christ; we can accept one another because Christ first accepted us.
+
+Dear brothers and sisters, the lesson I learned in my lifetime is this: fellowship is not a gathering of perfect people, but the unity of redeemed sinners in Christ. It requires self-sacrifice, acceptance, seeing others through the lens of grace, and choosing forgiveness amid conflict. May you treasure the fellowship God has given you—it is a foretaste of heavenly fellowship, the glorious hope that we will be with Christ and all the saints forever.`,
   },
 ];

@@ -1,6 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&display=swap');
 @import "tailwindcss";
 
+/* Fallback for rare CJK characters missing from Noto Serif SC (e.g. 汊 U+6C4A, 匉 U+5309) */
+@font-face {
+  font-family: 'CJK Fallback';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Songti SC'), local('STSong'), local('SimSun'), local('Microsoft YaHei');
+}
+@font-face {
+  font-family: 'CJK Fallback';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Songti SC Bold'), local('STSong'), local('SimSun'), local('Microsoft YaHei Bold');
+}
+
 @custom-variant dark (&:where(.dark, .dark *));
 
 /* Critical: ensure sidebar hidden on mobile before Tailwind loads */
@@ -38,7 +52,7 @@
 body {
   background: var(--color-bg);
   color: var(--color-text);
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Serif SC', serif;
+  font-family: 'Noto Serif SC', 'CJK Fallback', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Songti SC', 'STSong', 'SimSun', serif;
 }
 
 /* 确保所有文本内容都能正确换行 */
@@ -63,7 +77,7 @@ h1, h2, h3, h4, h5, h6, p, span, li, td, th {
 }
 
 .font-serif-cn {
-  font-family: 'Noto Serif SC', serif;
+  font-family: 'Noto Serif SC', 'CJK Fallback', 'Songti SC', 'STSong', serif;
 }
 
 .flip-card {

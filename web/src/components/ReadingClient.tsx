@@ -222,7 +222,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
           <div>{renderMd(ch.content_zh)}</div>
         </div>
 
-        <div className="space-y-4 pt-8 border-t border-[var(--color-border)]">
+        <div className="space-y-4 mt-6 pt-8 border-t border-[var(--color-border)]">
           <div className="flex items-center justify-between">
             <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)]">🔍 导读要点</h2>
             <SpeakButton text={`导读要点。历史背景：${ch.historyContext_zh}。经文结构：${ch.structure_zh}。神学意涵：${ch.theology_zh}。基督的影子：${ch.christShadow_zh}`} lang="zh" />
@@ -246,7 +246,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
         </div>
 
         {/* English content + English key points */}
-        <div className="mb-8 pt-8 border-t border-[var(--color-border)]">
+        <div className="mb-8 mt-6 pt-8 border-t border-[var(--color-border)]">
           <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">📖 English Reading</h2>
           <div className="flex items-center justify-end mb-4">
             <SpeakButton text={enText} lang="en" />
@@ -254,7 +254,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
           <div>{renderMd(ch.content_en)}</div>
         </div>
 
-        <div className="space-y-4 pt-8 border-t border-[var(--color-border)]">
+        <div className="space-y-4 mt-6 pt-8 border-t border-[var(--color-border)]">
           <div className="flex items-center justify-between">
             <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)]">🔍 Key Points</h2>
             <SpeakButton text={`Key Points. Historical Context: ${ch.historyContext_en}. Structure: ${ch.structure_en}. Theological Significance: ${ch.theology_en}. Shadow of Christ: ${ch.christShadow_en}`} lang="en" />

@@ -13,3 +13,6 @@ DerivedData/
 # Local state
 api/.wrangler/
 podcast/
+
+static_tmp/
+web/out_old/

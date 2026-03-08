@@ -17,8 +17,12 @@ export default function LettersPage() {
   useEffect(() => {
     fetchLettersList().then(apiLetters => {
       if (apiLetters && apiLetters.length > 0) {
-        // Merge: API letters override static, parse tags
-        const merged = apiLetters;
+        // Merge: API letters override static, static fallback for missing
+        const apiIds = new Set(apiLetters.map((l: Letter) => l.id));
+        const merged = [
+          ...apiLetters,
+          ...staticLetters.filter(l => !apiIds.has(l.id)),
+        ];
         setLetters(merged as Letter[]);
       }
     });
