@@ -16,7 +16,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '创世记 1:1',
           ref_en: 'Genesis 1:1',
           text_zh: '起初，神创造天地。',
-          text_en: 'In the beginning, God created the heavens and the earth.',
+          text_en: 'In the beginning God created the heaven and the earth.',
         },
         reflection: {
           zh: '圣经的第一句话就宣告了一个伟大的真理：神是万有的源头。"起初"说明神在时间之前就已存在；"创造"表明祂拥有无限的能力；"天地"涵盖了一切受造之物。这位创造天地的神，也是我们的天父。',
@@ -36,7 +36,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '创世记 1:3-4',
           ref_en: 'Genesis 1:3-4',
           text_zh: '神说："要有光"，就有了光。神看光是好的，就把光暗分开了。',
-          text_en: 'And God said, "Let there be light," and there was light. And God saw that the light was good. And God separated the light from the darkness.',
+          text_en: 'And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness.',
         },
         reflection: {
           zh: '神用话语创造了光，彰显了祂话语的大能。祂只需说一句，光便存在。神也将光暗分开，表明祂是秩序的神。在我们生命中，神的话语同样能驱散黑暗，带来光明与盼望。',
@@ -56,7 +56,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '创世记 1:27',
           ref_en: 'Genesis 1:27',
           text_zh: '神就照着自己的形像造人，乃是照着他的形像造男造女。',
-          text_en: 'So God created man in his own image, in the image of God he created him; male and female he created them.',
+          text_en: 'So God created man in his own image, in the image of God created he him; male and female created he them.',
         },
         reflection: {
           zh: '人是按照神的形像被造的，这赋予了每一个人无比的尊严和价值。不论年龄、种族、地位，每个人都承载着神的形像。这也意味着我们被造是为了反映神的荣耀，与祂建立亲密的关系。',
@@ -76,7 +76,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '创世记 1:31',
           ref_en: 'Genesis 1:31',
           text_zh: '神看着一切所造的都甚好。有晚上，有早晨，是第六日。',
-          text_en: 'And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.',
+          text_en: 'And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.',
         },
         reflection: {
           zh: '神审视祂一切的创造，宣告"甚好"。这不仅是"好"，而是"甚好"——完美无瑕。神的创造反映了祂的智慧与美善。虽然罪进入了世界，但神对祂创造的心意始终是美好的，祂也在基督里使万物更新。',
@@ -96,7 +96,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '创世记 2:2-3',
           ref_en: 'Genesis 2:2-3',
           text_zh: '到第七日，神造物的工已经完毕，就在第七日歇了他一切的工，安息了。神赐福给第七日，定为圣日，因为在这日神歇了他一切创造的工，就安息了。',
-          text_en: 'And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done. So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.',
+          text_en: 'And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made. And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.',
         },
         reflection: {
           zh: '神并非因疲倦而安息，乃是因工作完毕而安息。祂设立安息日，为人类立下了工作与休息的节奏。安息不是懒惰，而是信靠——相信神掌管一切，我们不需要不停地忙碌。在基督里，我们找到了真正的安息。',
@@ -116,7 +116,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '诗篇 19:1',
           ref_en: 'Psalm 19:1',
           text_zh: '诸天述说神的荣耀，穹苍传扬他的手段。',
-          text_en: 'The heavens declare the glory of God, and the sky above proclaims his handiwork.',
+          text_en: 'The heavens declare the glory of God; and the firmament sheweth his handywork.',
         },
         reflection: {
           zh: '大自然是神荣耀的无声见证。日出日落、星辰运转、四季更替，无不在诉说创造主的伟大。这是一种不需要语言的启示，超越文化和国界，向所有人宣告：有一位伟大的神。',
@@ -136,7 +136,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '约伯记 38:4',
           ref_en: 'Job 38:4',
           text_zh: '我立大地根基的时候，你在哪里呢？你若有聪明，只管说吧！',
-          text_en: '"Where were you when I laid the foundation of the earth? Tell me, if you have understanding."',
+          text_en: 'Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.',
         },
         reflection: {
           zh: '当约伯在苦难中质疑神时，神以一连串的反问回应他。这不是冷漠的责备，而是温柔的提醒：神的智慧和能力远超人的理解。当我们面对无法理解的处境时，我们可以选择信靠那位立大地根基的神。',
@@ -156,7 +156,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '以赛亚书 40:12',
           ref_en: 'Isaiah 40:12',
           text_zh: '谁曾用手心量诸水，用手虎口量苍天，用升斗盛大地的尘土，用秤称山岭，用天平平冈陵呢？',
-          text_en: 'Who has measured the waters in the hollow of his hand and marked off the heavens with a span, enclosed the dust of the earth in a measure and weighed the mountains in scales and the hills in a balance?',
+          text_en: 'Who hath measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?',
         },
         reflection: {
           zh: '先知以赛亚用一系列壮丽的画面描绘神的伟大。浩瀚的海洋在神手中不过是手心的水，广阔的苍天不过是手虎口的宽度。这位无限伟大的神，却愿意亲近渺小的我们，这是何等的恩典。',
@@ -176,7 +176,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '诗篇 90:2',
           ref_en: 'Psalm 90:2',
           text_zh: '诸山未曾生出，地与世界你未曾造成，从亘古到永远，你是神！',
-          text_en: 'Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God.',
+          text_en: 'Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.',
         },
         reflection: {
           zh: '神是永恒的——祂没有开始，也没有终结。在山岳形成之前，在世界被造之前，神就已经存在。这意味着祂不受时间限制，祂的应许永不过期，祂的爱永不改变。我们短暂的人生，锚定在这位永恒的神里面。',
@@ -196,7 +196,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '约翰福音 4:24',
           ref_en: 'John 4:24',
           text_zh: '神是个灵，所以拜他的，必须用心灵和诚实拜他。',
-          text_en: 'God is spirit, and those who worship him must worship in spirit and truth.',
+          text_en: 'God is a Spirit: and they that worship him must worship him in spirit and in truth.',
         },
         reflection: {
           zh: '耶稣向撒玛利亚妇人启示了敬拜的真谛：神是灵，不受任何地点或形式的限制。真正的敬拜不在于外在的仪式，而在于内心的真诚与圣灵的引导。无论在哪里，我们都可以用心灵和诚实来敬拜这位灵的神。',
@@ -216,7 +216,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '诗篇 139:1-4',
           ref_en: 'Psalm 139:1-4',
           text_zh: '耶和华啊，你已经鉴察我，认识我。我坐下，我起来，你都晓得，你从远处知道我的意念。我行路，我躺卧，你都细察，你也深知我一切所行的。耶和华啊，我舌头上的话，你没有一句不知道的。',
-          text_en: 'O LORD, you have searched me and known me! You know when I sit down and when I rise up; you discern my thoughts from afar. You search out my path and my lying down and are acquainted with all my ways. Even before a word is on my tongue, behold, O LORD, you know it altogether.',
+          text_en: 'O LORD, thou hast searched me, and known me. Thou knowest my downsitting and mine uprising, thou understandest my thought afar off. Thou compassest my path and my lying down, and art acquainted with all my ways. For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether.',
         },
         reflection: {
           zh: '神对我们的认识是全面而深入的——祂知道我们的一举一动、每个意念、甚至尚未出口的话。这不是令人恐惧的监视，而是深情的关注。神完全认识我们，却依然爱我们，这就是无条件的爱。',
@@ -236,7 +236,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '诗篇 139:7-10',
           ref_en: 'Psalm 139:7-10',
           text_zh: '我往哪里去躲避你的灵？我往哪里逃躲避你的面？我若升到天上，你在那里；我若在阴间下榻，你也在那里。我若展开清晨的翅膀，飞到海极居住，就是在那里，你的手必引导我，你的右手也必扶持我。',
-          text_en: 'Where shall I go from your Spirit? Or where shall I flee from your presence? If I ascend to heaven, you are there! If I make my bed in Sheol, you are there! If I take the wings of the morning and dwell in the uttermost parts of the sea, even there your hand shall lead me, and your right hand shall hold me.',
+          text_en: 'Whither shall I go from thy spirit? or whither shall I flee from thy presence? If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there. If I take the wings of the morning, and dwell in the uttermost parts of the sea; Even there shall thy hand lead me, and thy right hand shall hold me.',
         },
         reflection: {
           zh: '神无处不在——无论天上、阴间、海极，都有祂的同在。这对信靠祂的人是极大的安慰：没有任何地方、任何处境能使我们与神隔绝。无论我们走到哪里，神的手必引导我们，祂的右手必扶持我们。',
@@ -256,7 +256,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '约翰一书 1:5',
           ref_en: '1 John 1:5',
           text_zh: '神就是光，在他毫无黑暗。这是我们从主所听见，又报给你们的信息。',
-          text_en: 'This is the message we have heard from him and proclaim to you, that God is light, and in him is no darkness at all.',
+          text_en: 'This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.',
         },
         reflection: {
           zh: '"神就是光"——这不仅描述神的一个属性，更是对祂本质的宣告。光代表圣洁、真理和公义。在神里面毫无黑暗，意味着祂完全纯洁，没有任何罪恶或虚假。当我们亲近这位光的神，我们的生命也被光照和洁净。',
@@ -276,7 +276,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '出埃及记 34:6-7',
           ref_en: 'Exodus 34:6-7',
           text_zh: '耶和华在他面前宣告说："耶和华，耶和华，是有怜悯、有恩典的神，不轻易发怒，并有丰盛的慈爱和诚实。为千万人存留慈爱，赦免罪孽、过犯和罪恶，万不以有罪的为无罪，必追讨他的罪，自父及子，直到三四代。"',
-          text_en: 'The LORD passed before him and proclaimed, "The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin, but who will by no means clear the guilty, visiting the iniquity of the fathers on the children and the children\'s children, to the third and the fourth generation."',
+          text_en: 'And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth, Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth generation.',
         },
         reflection: {
           zh: '这段经文被称为神的"自我介绍"，是旧约中对神属性最完整的宣告之一。神既有怜悯恩典，又公义信实。祂不轻易发怒，慈爱丰盛，但也不以有罪为无罪。这位神完美地平衡了爱与公义，最终在十字架上将两者完全彰显。',
@@ -296,7 +296,7 @@ export const themesB1: AltarTheme[] = [
           ref_zh: '罗马书 11:33',
           ref_en: 'Romans 11:33',
           text_zh: '深哉，神丰富的智慧和知识！他的判断何其难测！他的踪迹何其难寻！',
-          text_en: 'Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how inscrutable his ways!',
+          text_en: 'O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!',
         },
         reflection: {
           zh: '使徒保罗在论述了神伟大的救赎计划后，不禁发出这样的赞叹。神的智慧和知识是如此深邃丰富，人的理性无法完全测透。这不是让我们放弃认识神，而是在认识的过程中始终保持谦卑和敬畏，因为我们所敬拜的神永远超越我们的理解。',

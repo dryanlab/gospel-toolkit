@@ -16,7 +16,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '帖撒罗尼迦前书 5:18',
           ref_en: '1 Thessalonians 5:18',
           text_zh: '凡事谢恩，因为这是神在基督耶稣里向你们所定的旨意。',
-          text_en: 'Give thanks in all circumstances; for this is the will of God in Christ Jesus for you.',
+          text_en: 'In every thing give thanks: for this is the will of God in Christ Jesus concerning you.',
         },
         reflection: {
           zh: '保罗告诉我们，凡事谢恩不是一个建议，而是神的旨意。即便在困难中，感恩也是神对我们的心意，因为祂在基督耶稣里已经为我们成就了一切。',
@@ -36,7 +36,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '诗篇 100:4',
           ref_en: 'Psalm 100:4',
           text_zh: '当称谢进入他的门，当赞美进入他的院；当感谢他，称颂他的名。',
-          text_en: 'Enter his gates with thanksgiving, and his courts with praise! Give thanks to him; bless his name!',
+          text_en: 'Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.',
         },
         reflection: {
           zh: '诗人邀请我们以感谢和赞美来到神的面前。感恩是我们进入神同在的钥匙，当我们称谢祂的名，我们的心就被引向敬拜。',
@@ -56,7 +56,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '诗篇 107:1',
           ref_en: 'Psalm 107:1',
           text_zh: '你们要称谢耶和华，因他本为善，他的慈爱永远长存！',
-          text_en: 'Oh give thanks to the LORD, for he is good, for his steadfast love endures forever!',
+          text_en: 'O give thanks unto the LORD, for he is good: for his mercy endureth for ever.',
         },
         reflection: {
           zh: '感恩的根基在于神的本性——祂本为善，祂的慈爱永远长存。我们的感恩不是基于环境，而是基于神永不改变的良善和慈爱。',
@@ -76,7 +76,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '歌罗西书 3:15',
           ref_en: 'Colossians 3:15',
           text_zh: '又要叫基督的平安在你们心里做主，你们也为此蒙召，归为一体；且要存感谢的心。',
-          text_en: 'And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful.',
+          text_en: 'And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.',
         },
         reflection: {
           zh: '保罗将基督的平安与感恩联系在一起。当基督的平安做主，感恩自然流露；当我们存感谢的心，平安也更深地扎根在我们里面。',
@@ -96,7 +96,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '诗篇 136:1',
           ref_en: 'Psalm 136:1',
           text_zh: '你们要称谢耶和华，因他本为善，他的慈爱永远长存。',
-          text_en: 'Give thanks to the LORD, for he is good, for his steadfast love endures forever.',
+          text_en: 'O give thanks unto the LORD; for he is good: for his mercy endureth for ever.',
         },
         reflection: {
           zh: '诗篇136篇每一节都重复"他的慈爱永远长存"，提醒我们感恩不是一次性的，而是持续不断的回应。神的慈爱贯穿历史，也贯穿我们的一生。',
@@ -116,7 +116,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '歌罗西书 3:17',
           ref_en: 'Colossians 3:17',
           text_zh: '无论做什么，或说话、或行事，都要奉主耶稣的名，藉着他感谢父神。',
-          text_en: 'And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him.',
+          text_en: 'And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.',
         },
         reflection: {
           zh: '保罗教导我们，感恩不只是祷告时的事，而是贯穿一切言行的态度。无论说话或行事，都要藉着耶稣感谢父神，让感恩成为生活的底色。',
@@ -136,7 +136,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '诗篇 103:2',
           ref_en: 'Psalm 103:2',
           text_zh: '我的心哪，你要称颂耶和华，不可忘记他的一切恩惠。',
-          text_en: 'Bless the LORD, O my soul, and forget not all his benefits,',
+          text_en: 'Bless the LORD, O my soul, and forget not all his benefits:',
         },
         reflection: {
           zh: '大卫提醒自己的心不可忘记神的一切恩惠。人很容易遗忘恩典，所以我们需要刻意地数算、记念神的恩惠，让感恩成为一种操练。',
@@ -156,7 +156,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '腓立比书 4:6',
           ref_en: 'Philippians 4:6',
           text_zh: '应当一无挂虑，只要凡事藉着祷告、祈求和感谢，将你们所要的告诉神。',
-          text_en: 'Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.',
+          text_en: 'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.',
         },
         reflection: {
           zh: '保罗将感谢与祷告、祈求并列，教导我们在向神求告的同时要带着感恩。感恩是胜过忧虑的良药——当我们感谢神已经做的，就能信靠祂将要做的。',
@@ -176,7 +176,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '诗篇 95:2',
           ref_en: 'Psalm 95:2',
           text_zh: '我们要来感谢他，用诗歌向他欢呼。',
-          text_en: 'Let us come into his presence with thanksgiving; let us make a joyful noise to him with songs of praise!',
+          text_en: 'Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.',
         },
         reflection: {
           zh: '诗人呼召我们以感谢和诗歌来到神面前。感恩不只是安静的默想，也可以用欢呼和歌唱来表达。喜乐的敬拜源于感恩的心。',
@@ -196,7 +196,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '雅各书 1:17',
           ref_en: 'James 1:17',
           text_zh: '各样美善的恩赐和各样全备的赏赐都是从上头来的，从众光之父那里降下来的，在他并没有改变，也没有转动的影儿。',
-          text_en: 'Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change.',
+          text_en: 'Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.',
         },
         reflection: {
           zh: '雅各提醒我们，一切美善的恩赐都从天父而来。认识到每一个好处的源头是神，我们就不会将恩典视为理所当然，而是以感恩回应。',
@@ -216,7 +216,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '歌罗西书 2:7',
           ref_en: 'Colossians 2:7',
           text_zh: '在他里面生根建造，信心坚固，正如你们所领的教训，感谢的心也更增长了。',
-          text_en: 'Rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving.',
+          text_en: 'Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.',
         },
         reflection: {
           zh: '保罗指出，当我们在基督里生根建造、信心坚固时，感恩的心也会自然增长。感恩是属灵成熟的标志——我们越认识基督，就越充满感谢。',
@@ -236,7 +236,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '诗篇 69:30',
           ref_en: 'Psalm 69:30',
           text_zh: '我要以诗歌赞美神的名，以感谢称他为大。',
-          text_en: 'I will praise the name of God with a song; I will magnify him with thanksgiving.',
+          text_en: 'I will praise the name of God with a song, and will magnify him with thanksgiving.',
         },
         reflection: {
           zh: '大卫在苦难中选择以诗歌和感谢赞美神。即使处境艰难，感恩的赞美能使神的名被尊为大，也能转化我们的心境。',
@@ -256,7 +256,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '提摩太前书 4:4-5',
           ref_en: '1 Timothy 4:4-5',
           text_zh: '凡神所造的物都是好的，若感谢着领受，就没有一样可弃的，都因神的道和人的祈求成为圣洁了。',
-          text_en: 'For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving, for it is made holy by the word of God and prayer.',
+          text_en: 'For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: For it is sanctified by the word of God and prayer.',
         },
         reflection: {
           zh: '保罗教导我们，神所造的一切都是好的，关键在于我们是否以感恩的心领受。感恩的态度使日常生活中的一切——食物、工作、关系——都成为圣洁。',
@@ -276,7 +276,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '以弗所书 5:20',
           ref_en: 'Ephesians 5:20',
           text_zh: '凡事要奉我们主耶稣基督的名常常感谢父神。',
-          text_en: 'Giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ,',
+          text_en: 'Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;',
         },
         reflection: {
           zh: '保罗呼召我们"常常"和"凡事"感谢父神。这不是偶尔的感恩，而是持续不断的生活方式——奉耶稣基督的名，在一切事上感谢天父。',
@@ -296,7 +296,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '希伯来书 13:15',
           ref_en: 'Hebrews 13:15',
           text_zh: '我们应当靠着耶稣，常常以颂赞为祭献给神，这就是那承认主名之人嘴唇的果子。',
-          text_en: 'Through him then let us continually offer up a sacrifice of praise to God, that is, the fruit of lips that acknowledge his name.',
+          text_en: 'By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.',
         },
         reflection: {
           zh: '希伯来书将感恩的赞美比作献给神的祭。靠着耶稣，我们不再需要牲畜为祭，而是以嘴唇的果子——感恩与颂赞——来敬拜神。这是新约信徒最美的祭。',
@@ -325,7 +325,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '约翰福音 3:16',
           ref_en: 'John 3:16',
           text_zh: '神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不至灭亡，反得永生。',
-          text_en: 'For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.',
+          text_en: 'For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.',
         },
         reflection: {
           zh: '这是圣经中最著名的经文之一，揭示了神爱的深度——祂将独生子赐给我们。神的爱不是抽象的概念，而是以耶稣基督的生命为代价的具体行动。',
@@ -345,7 +345,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '罗马书 8:38-39',
           ref_en: 'Romans 8:38-39',
           text_zh: '因为我深信无论是死，是生，是天使，是掌权的，是有能的，是现在的事，是将来的事，是高处的，是低处的，是别的受造之物，都不能叫我们与神的爱隔绝；这爱是在我们的主基督耶稣里的。',
-          text_en: 'For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.',
+          text_en: 'For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.',
         },
         reflection: {
           zh: '保罗列举了一切可能的力量——死亡、生命、天使、掌权者——没有任何事物能使我们与神在基督里的爱隔绝。这是何等坚定不移的爱！',
@@ -365,7 +365,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '约翰一书 4:19',
           ref_en: '1 John 4:19',
           text_zh: '我们爱，因为神先爱我们。',
-          text_en: 'We love because he first loved us.',
+          text_en: 'We love him, because he first loved us.',
         },
         reflection: {
           zh: '约翰揭示了爱的源头——不是我们先爱神，而是神先爱我们。我们一切爱的能力都源于神主动的、先行的爱。',
@@ -385,7 +385,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '约翰一书 4:9-10',
           ref_en: '1 John 4:9-10',
           text_zh: '神差他独生子到世间来，使我们藉着他得生，神爱我们的心在此就显明了。不是我们爱神，乃是神爱我们，差他的儿子为我们的罪作了挽回祭，这就是爱了。',
-          text_en: 'In this the love of God was made manifest among us, that God sent his only Son into the world, so that we might live through him. In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.',
+          text_en: 'In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him. Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.',
         },
         reflection: {
           zh: '神的爱不是空洞的话语，而是藉着差遣独生子为我们的罪作挽回祭显明出来的。这就是爱的定义——不是我们爱神，而是神主动爱我们。',
@@ -405,7 +405,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '罗马书 5:8',
           ref_en: 'Romans 5:8',
           text_zh: '惟有基督在我们还作罪人的时候为我们死，神的爱就在此向我们显明了。',
-          text_en: 'But God shows his love for us in that while we were still sinners, Christ died for us.',
+          text_en: 'But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.',
         },
         reflection: {
           zh: '神的爱最惊人之处在于——祂不是等我们变好了才爱我们，而是在我们还作罪人的时候，基督就为我们死了。这是无条件的、主动的爱。',
@@ -425,7 +425,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '以弗所书 2:4-5',
           ref_en: 'Ephesians 2:4-5',
           text_zh: '然而神既有丰富的怜悯，因他爱我们的大爱，当我们死在过犯中的时候，便叫我们与基督一同活过来（你们得救是本乎恩）。',
-          text_en: 'But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved—',
+          text_en: 'But God, who is rich in mercy, for his great love wherewith he loved us, Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)',
         },
         reflection: {
           zh: '保罗描绘了我们属灵的真实光景——死在过犯中。然而神因着祂丰富的怜悯和大爱，叫我们与基督一同活过来。从死到生，全是恩典。',
@@ -445,7 +445,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '耶利米书 31:3',
           ref_en: 'Jeremiah 31:3',
           text_zh: '古时耶和华向以色列显现，说："我以永远的爱爱你，因此我以慈爱吸引你。"',
-          text_en: 'The LORD appeared to him from far away. I have loved you with an everlasting love; therefore I have continued my faithfulness to you.',
+          text_en: 'The LORD hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.',
         },
         reflection: {
           zh: '神对祂子民的爱是"永远的爱"——没有起点，没有终点。祂以慈爱吸引我们，不是强迫，而是温柔地引领。这份永远的爱是我们最深的安全感。',
@@ -465,7 +465,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '诗篇 103:11',
           ref_en: 'Psalm 103:11',
           text_zh: '天离地何等的高，他的慈爱向敬畏他的人也是何等的大。',
-          text_en: 'For as high as the heavens are above the earth, so great is his steadfast love toward those who fear him;',
+          text_en: 'For as the heaven is high above the earth, so great is his mercy toward them that fear him.',
         },
         reflection: {
           zh: '大卫用天与地之间无法丈量的距离来形容神慈爱的广大。神对敬畏祂之人的爱，超越一切衡量和想象。',
@@ -485,7 +485,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '西番雅书 3:17',
           ref_en: 'Zephaniah 3:17',
           text_zh: '耶和华你的神是施行拯救、大有能力的主，他在你中间必因你欢欣喜乐，默然爱你，且因你喜乐而欢呼。',
-          text_en: 'The LORD your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing.',
+          text_en: 'The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.',
         },
         reflection: {
           zh: '这节经文描绘了一幅令人惊叹的画面——全能的神因我们欢欣喜乐，默然爱我们，甚至因我们欢呼歌唱。神不是冷漠的旁观者，而是一位对祂儿女充满热情之爱的父。',
@@ -505,7 +505,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '哥林多前书 13:4-7',
           ref_en: '1 Corinthians 13:4-7',
           text_zh: '爱是恒久忍耐，又有恩慈；爱是不嫉妒，爱是不自夸，不张狂，不做害羞的事，不求自己的益处，不轻易发怒，不计算人的恶，不喜欢不义，只喜欢真理；凡事包容，凡事相信，凡事盼望，凡事忍耐。',
-          text_en: 'Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrongdoing, but rejoices with the truth. Love bears all things, believes all things, hopes all things, endures all things.',
+          text_en: 'Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; Rejoiceth not in iniquity, but rejoiceth in the truth; Beareth all things, believeth all things, hopeth all things, endureth all things.',
         },
         reflection: {
           zh: '这段经文是爱的完美画像，也是神之爱的写照。神对我们恒久忍耐、满有恩慈、凡事包容、凡事盼望。当我们读到这些描述，看见的正是神爱我们的方式。',
@@ -525,7 +525,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '约翰福音 15:13',
           ref_en: 'John 15:13',
           text_zh: '人为朋友舍命，人的爱心没有比这个大的。',
-          text_en: 'Greater love has no one than this, that someone lay down his life for his friends.',
+          text_en: 'Greater love hath no man than this, that a man lay down his life for his friends.',
         },
         reflection: {
           zh: '耶稣说最大的爱是为朋友舍命——而祂自己正是这样做了。十字架是爱的最高表达，耶稣为我们付出了最大的代价。',
@@ -545,7 +545,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '约翰一书 4:10',
           ref_en: '1 John 4:10',
           text_zh: '不是我们爱神，乃是神爱我们，差他的儿子为我们的罪作了挽回祭，这就是爱了。',
-          text_en: 'In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.',
+          text_en: 'Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.',
         },
         reflection: {
           zh: '约翰再次强调爱的本质：不在于我们对神的爱，而在于神对我们的爱。祂差遣儿子作挽回祭，主动解决了我们罪的问题。爱的主动权永远在神那里。',
@@ -565,7 +565,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '约翰一书 3:1',
           ref_en: '1 John 3:1',
           text_zh: '你看父赐给我们是何等的慈爱，使我们得称为神的儿女；我们也真是他的儿女。世人所以不认识我们，是因未曾认识他。',
-          text_en: 'See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him.',
+          text_en: 'Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.',
         },
         reflection: {
           zh: '约翰惊叹父神赐给我们的慈爱——使我们得称为神的儿女！这不只是一个称号，而是真实的身份。我们真是神的儿女，这是何等尊贵的爱。',
@@ -585,7 +585,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '以弗所书 3:17-19',
           ref_en: 'Ephesians 3:17-19',
           text_zh: '使基督因你们的信住在你们心里，叫你们的爱心有根有基，能以和众圣徒一同明白基督的爱是何等长阔高深；并知道这爱是过于人所能测度的，便叫神一切所充满的充满了你们。',
-          text_en: 'So that Christ may dwell in your hearts through faith—that you, being rooted and grounded in love, may have strength to comprehend with all the saints what is the breadth and length and height and depth, and to know the love of Christ that surpasses knowledge, that you may be filled with all the fullness of God.',
+          text_en: 'That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love, May be able to comprehend with all saints what is the breadth, and length, and depth, and height; And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.',
         },
         reflection: {
           zh: '保罗为信徒祷告，求他们能明白基督的爱是何等长阔高深——这爱过于人所能测度。当我们被这爱充满，就被神一切的丰盛所充满。',
@@ -605,7 +605,7 @@ export const themesA3: AltarTheme[] = [
           ref_zh: '约翰一书 4:8',
           ref_en: '1 John 4:8',
           text_zh: '没有爱心的，就不认识神，因为神就是爱。',
-          text_en: 'Anyone who does not love does not know God, because God is love.',
+          text_en: 'He that loveth not knoweth not God; for God is love.',
         },
         reflection: {
           zh: '约翰做出了圣经中最深刻的宣告之一——"神就是爱"。爱不只是神的属性之一，而是神的本质。认识神，就是认识爱；经历爱，就是经历神。',

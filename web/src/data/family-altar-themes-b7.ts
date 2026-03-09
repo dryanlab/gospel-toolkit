@@ -16,7 +16,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '创世记 1:2',
           ref_en: 'Genesis 1:2',
           text_zh: '地是空虚混沌，渊面黑暗；神的灵运行在水面上。',
-          text_en: 'The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.',
+          text_en: 'And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.',
         },
         reflection: {
           zh: '在创造之初，圣灵就参与了神的创造工作。在混沌与黑暗中，神的灵运行带来秩序与生命。今天，圣灵同样在我们生命中的混乱里运行，带来更新与盼望。',
@@ -36,7 +36,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '路加福音 4:18-19',
           ref_en: 'Luke 4:18-19',
           text_zh: '主的灵在我身上，因为他用膏膏我，叫我传福音给贫穷的人；差遣我报告：被掳的得释放，瞎眼的得看见，叫那受压制的得自由，报告神悦纳人的禧年。',
-          text_en: '"The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed, to proclaim the year of the Lord\'s favor."',
+          text_en: 'The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised, To preach the acceptable year of the Lord.',
         },
         reflection: {
           zh: '耶稣宣告圣灵膏抹祂来完成救赎使命。圣灵不仅赋予能力，更赋予使命。当我们被圣灵充满，我们也被差遣去服事那些贫穷、被掳、瞎眼和受压制的人。',
@@ -56,7 +56,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '约翰福音 3:5-6',
           ref_en: 'John 3:5-6',
           text_zh: '耶稣说："我实实在在地告诉你，人若不是从水和圣灵生的，就不能进神的国。从肉身生的就是肉身；从灵生的就是灵。"',
-          text_en: 'Jesus answered, "Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. That which is born of the flesh is flesh, and that which is born of the Spirit is spirit."',
+          text_en: 'Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.',
         },
         reflection: {
           zh: '圣灵使人重生，这是进入神国的唯一道路。肉身的生命有限且短暂，唯有从圣灵而生的新生命才能进入永恒。重生不是人的努力，而是圣灵的超然工作。',
@@ -76,7 +76,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '约翰福音 14:16-17',
           ref_en: 'John 14:16-17',
           text_zh: '我要求父，父就另外赐给你们一位保惠师，叫他永远与你们同在，就是真理的圣灵，乃世人不能接受的；因为不见他，也不认识他。你们却认识他，因他常与你们同在，也要在你们里面。',
-          text_en: '"And I will ask the Father, and he will give you another Helper, to be with you forever, even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him. You know him, for he dwells with you and will be in you."',
+          text_en: 'And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.',
         },
         reflection: {
           zh: '耶稣应许赐下圣灵作为保惠师——帮助者、安慰者、辩护者。圣灵不是暂时的访客，而是永远与我们同在的伙伴。祂住在我们里面，使我们永不孤单。',
@@ -96,7 +96,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '约翰福音 14:26',
           ref_en: 'John 14:26',
           text_zh: '但保惠师，就是父因我的名所要差来的圣灵，他要将一切的事指教你们，并且要叫你们想起我对你们所说的一切话。',
-          text_en: '"But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you."',
+          text_en: 'But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.',
         },
         reflection: {
           zh: '圣灵是我们的教师，祂引导我们明白真理，帮助我们记起主的话语。当我们读经祷告时，圣灵在我们心中光照、启示，使神的话语活泼有力地对我们说话。',
@@ -116,7 +116,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '约翰福音 15:26',
           ref_en: 'John 15:26',
           text_zh: '但我要从父那里差保惠师来，就是从父出来真理的圣灵；他来了，就要为我作见证。',
-          text_en: '"But when the Helper comes, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will bear witness about me."',
+          text_en: 'But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:',
         },
         reflection: {
           zh: '圣灵的核心工作之一是为耶稣作见证。圣灵不荣耀自己，而是将人引向基督。当我们被圣灵充满，我们也会自然地为主作见证，因为圣灵在我们心中激发对基督的爱与认识。',
@@ -136,7 +136,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '约翰福音 16:8',
           ref_en: 'John 16:8',
           text_zh: '他既来了，就要叫世人为罪、为义、为审判，自己责备自己。',
-          text_en: '"And when he comes, he will convict the world concerning sin and righteousness and judgment."',
+          text_en: 'And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:',
         },
         reflection: {
           zh: '圣灵使人知罪，这不是定罪，而是出于爱的光照。圣灵让我们看到自己的罪，也看到基督的义和审判的真实，从而引导我们悔改归向神。',
@@ -156,7 +156,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '约翰福音 16:13',
           ref_en: 'John 16:13',
           text_zh: '只等真理的圣灵来了，他要引导你们明白一切的真理；因为他不是凭自己说的，乃是把他所听见的都说出来，并要把将来的事告诉你们。',
-          text_en: '"When the Spirit of truth comes, he will guide you into all the truth, for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come."',
+          text_en: 'Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.',
         },
         reflection: {
           zh: '圣灵引导我们进入一切的真理。在这个充满各种声音和观点的世代，我们需要圣灵的引导来分辨真假，认识神的心意。圣灵不凭自己说话，而是传达父神的旨意。',
@@ -176,7 +176,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '使徒行传 2:2-4',
           ref_en: 'Acts 2:2-4',
           text_zh: '忽然，从天上有响声下来，好像一阵大风吹过，充满了他们所坐的屋子；又有舌头如火焰显现出来，分开落在他们各人头上。他们就都被圣灵充满，按着圣灵所赐的口才说起别国的话来。',
-          text_en: 'And suddenly there came from heaven a sound like a mighty rushing wind, and it filled the entire house where they were sitting. And divided tongues as of fire appeared to them and rested on each one of them. And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance.',
+          text_en: 'And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.',
         },
         reflection: {
           zh: '五旬节圣灵降临，教会由此诞生。圣灵如风不可阻挡，如火炼净人心。被圣灵充满的门徒得着能力，用各种语言传讲神的大作为。圣灵的能力今天仍然在工作。',
@@ -196,7 +196,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '加拉太书 5:22-23',
           ref_en: 'Galatians 5:22-23',
           text_zh: '圣灵所结的果子，就是仁爱、喜乐、和平、忍耐、恩慈、良善、信实、温柔、节制。这样的事没有律法禁止。',
-          text_en: 'But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.',
+          text_en: 'But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law.',
         },
         reflection: {
           zh: '圣灵在信徒生命中结出美好的果子。这九样品格不是靠人努力，而是圣灵在我们里面工作的自然结果。当我们顺服圣灵，这些果子就会在我们生命中逐渐成熟。',
@@ -216,7 +216,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '罗马书 8:14',
           ref_en: 'Romans 8:14',
           text_zh: '因为凡被神的灵引导的，都是神的儿子。',
-          text_en: 'For all who are led by the Spirit of God are sons of God.',
+          text_en: 'For as many as are led by the Spirit of God, they are the sons of God.',
         },
         reflection: {
           zh: '被圣灵引导是神儿女的标志。圣灵不仅赐我们重生的生命，更在日常生活中引导我们的脚步。跟随圣灵的引导，就是活出神儿女的身份和尊贵。',
@@ -236,7 +236,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '罗马书 8:26-27',
           ref_en: 'Romans 8:26-27',
           text_zh: '况且我们的软弱有圣灵帮助，我们本不晓得当怎样祷告，只是圣灵亲自用说不出来的叹息替我们祷告。鉴察人心的，晓得圣灵的意思，因为圣灵照着神的旨意替圣徒祈求。',
-          text_en: 'Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words. And he who searches hearts knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.',
+          text_en: 'Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered. And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.',
         },
         reflection: {
           zh: '我们常常不知道如何祷告，但圣灵帮助我们的软弱，为我们代求。这是何等大的安慰——即使在我们最无助的时刻，圣灵也在照着神的旨意为我们祈求。',
@@ -256,7 +256,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '哥林多前书 3:16',
           ref_en: '1 Corinthians 3:16',
           text_zh: '岂不知你们是神的殿，神的灵住在你们里头吗？',
-          text_en: 'Do you not know that you are God\'s temple and that God\'s Spirit dwells in you?',
+          text_en: 'Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?',
         },
         reflection: {
           zh: '信徒的身体是圣灵的殿。神不再住在人手所造的殿中，而是住在祂儿女的心里。这个真理提醒我们要以圣洁和敬畏的态度对待自己的身心灵，因为我们是至高神的居所。',
@@ -276,7 +276,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '以弗所书 1:13-14',
           ref_en: 'Ephesians 1:13-14',
           text_zh: '你们既听见真理的道，就是那叫你们得救的福音，也信了基督，既然信他，就受了所应许的圣灵为印记。这圣灵是我们得基业的凭据，直等到神之民被赎，使他的荣耀得着称赞。',
-          text_en: 'In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.',
+          text_en: 'In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise, Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.',
         },
         reflection: {
           zh: '圣灵是我们得救的印记和得基业的凭据。就像印章代表所有权和保护，圣灵的印记表明我们属于神，我们的救恩有永恒的保障。圣灵是天国产业的预付款，保证将来的完全救赎。',
@@ -296,7 +296,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '帖撒罗尼迦前书 5:19',
           ref_en: '1 Thessalonians 5:19',
           text_zh: '不要消灭圣灵的感动。',
-          text_en: 'Do not quench the Spirit.',
+          text_en: 'Quench not the Spirit.',
         },
         reflection: {
           zh: '圣灵如火焰在我们心中燃烧，我们可以选择顺服让火焰旺盛，也可以抗拒使之消灭。消灭圣灵的感动就是忽略、压制或拒绝圣灵在我们心中的工作。让我们敞开心来回应圣灵的每一个感动。',
@@ -325,7 +325,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 1:1-3',
           ref_en: 'Psalm 1:1-3',
           text_zh: '不从恶人的计谋，不站罪人的道路，不坐亵慢人的座位，惟喜爱耶和华的律法，昼夜思想，这人便为有福！他要像一棵树栽在溪水旁，按时候结果子，叶子也不枯干。凡他所做的尽都顺利。',
-          text_en: 'Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; but his delight is in the law of the Lord, and on his law he meditates day and night. He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers.',
+          text_en: 'Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. But his delight is in the law of the LORD; and in his law doth he meditate day and night. And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.',
         },
         reflection: {
           zh: '诗篇以"有福"开篇，为整本诗篇定下基调。真正的福气不在于外在环境，而在于与神话语的关系。昼夜思想神律法的人如同栽在溪水旁的树，根基稳固，生命丰盛。',
@@ -345,7 +345,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 23:1-3',
           ref_en: 'Psalm 23:1-3',
           text_zh: '耶和华是我的牧者，我必不至缺乏。他使我躺卧在青草地上，领我在可安歇的水边。他使我的灵魂苏醒，为自己的名引导我走义路。',
-          text_en: 'The Lord is my shepherd; I shall not want. He makes me lie down in green pastures. He leads me beside still waters. He restores my soul. He leads me in paths of righteousness for his name\'s sake.',
+          text_en: 'The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures: he leadeth me beside the still waters. He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.',
         },
         reflection: {
           zh: '这是最广为人知的诗篇。大卫以牧人与羊的关系来描绘神与我们的关系。好牧人供应一切所需，带来安息与恢复，引导我们走正路。在祂的看顾下，我们什么都不缺。',
@@ -365,7 +365,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 46:1-2',
           ref_en: 'Psalm 46:1-2',
           text_zh: '神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。所以，地虽改变，山虽摇动到海心，',
-          text_en: 'God is our refuge and strength, a very present help in trouble. Therefore we will not fear though the earth gives way, though the mountains be moved into the heart of the sea.',
+          text_en: 'God is our refuge and strength, a very present help in trouble. Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;',
         },
         reflection: {
           zh: '当世界动摇时，神是我们不动摇的避难所。这首诗篇教导我们：真正的安全不在于环境的稳定，而在于神的同在。即使天翻地覆，有神作我们的避难所和力量，我们就不必惧怕。',
@@ -385,7 +385,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 51:1-2',
           ref_en: 'Psalm 51:1-2',
           text_zh: '神啊，求你按你的慈爱怜恤我！按你丰盛的慈悲涂抹我的过犯！求你将我的罪孽洗除净尽，并洁除我的罪！',
-          text_en: 'Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions. Wash me thoroughly from my iniquity, and cleanse me from my sin!',
+          text_en: 'Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. Wash me throughly from mine iniquity, and cleanse me from my sin.',
         },
         reflection: {
           zh: '大卫犯罪后的悔改祷告是历史上最深刻的认罪之一。他不找借口，不推卸责任，而是直接呼求神的怜悯。真正的悔改是基于对神慈爱的认识——知道祂愿意赦免并洁净我们。',
@@ -405,7 +405,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 42:1-2',
           ref_en: 'Psalm 42:1-2',
           text_zh: '神啊，我的心切慕你，如鹿切慕溪水。我的心渴想神，就是永生神；我几时得朝见神呢？',
-          text_en: 'As a deer pants for flowing streams, so pants my soul for you, O God. My soul thirsts for God, for the living God. When shall I come and appear before God?',
+          text_en: 'As the hart panteth after the water brooks, so panteth my soul after thee, O God. My soul thirsteth for God, for the living God: when shall I come and appear before God?',
         },
         reflection: {
           zh: '诗人用干渴的鹿来描绘灵魂对神的渴慕。在灵里干旱的时期，我们最需要的不是更多活动或娱乐，而是对永生神的渴慕。这种渴慕本身就是神在我们心中工作的证据。',
@@ -425,7 +425,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 91:1-2',
           ref_en: 'Psalm 91:1-2',
           text_zh: '住在至高者隐密处的，必住在全能者的荫下。我要论到耶和华说：他是我的避难所，是我的山寨，是我的神，是我所倚靠的。',
-          text_en: 'He who dwells in the shelter of the Most High will abide in the shadow of the Almighty. I will say to the Lord, "My refuge and my fortress, my God, in whom I trust."',
+          text_en: 'He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.',
         },
         reflection: {
           zh: '住在至高者隐密处意味着与神保持亲密的关系。在神的荫下，我们得到全方位的保护。诗人不仅认识神的保护，更宣告信靠——"祂是我的避难所，我的山寨，我所倚靠的。"',
@@ -445,7 +445,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 103:1-3',
           ref_en: 'Psalm 103:1-3',
           text_zh: '我的心哪，你要称颂耶和华！凡在我里面的，也要称颂他的圣名！我的心哪，你要称颂耶和华！不可忘记他的一切恩惠！他赦免你的一切罪孽，医治你的一切疾病。',
-          text_en: 'Bless the Lord, O my soul, and all that is within me, bless his holy name! Bless the Lord, O my soul, and forget not all his benefits, who forgives all your iniquity, who heals all your diseases.',
+          text_en: 'Bless the LORD, O my soul: and all that is within me, bless his holy name. Bless the LORD, O my soul, and forget not all his benefits: Who forgiveth all thine iniquities; who healeth all thy diseases;',
         },
         reflection: {
           zh: '大卫提醒自己的灵魂要赞美神，不可忘记神的恩惠。感恩是对抗遗忘的武器。神赦免我们的罪、医治我们的疾病，这些恩典太多太大，我们不应视为理所当然。',
@@ -465,7 +465,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 139:1-4',
           ref_en: 'Psalm 139:1-4',
           text_zh: '耶和华啊，你已经鉴察我，认识我。我坐下，我起来，你都晓得；你从远处知道我的意念。我行路，我躺卧，你都细察；你也深知我一切所行的。耶和华啊，我舌头上的话，你没有一句不知道的。',
-          text_en: 'O Lord, you have searched me and known me! You know when I sit down and when I rise up; you discern my thoughts from afar. You search out my path and my lying down and are acquainted with all my ways. Even before a word is on my tongue, behold, O Lord, you know it altogether.',
+          text_en: 'O LORD, thou hast searched me, and known me. Thou knowest my downsitting and mine uprising, thou understandest my thought afar off. Thou compassest my path and my lying down, and art acquainted with all my ways. For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether.',
         },
         reflection: {
           zh: '神对我们的认识超乎想象的深入和全面。祂知道我们的一举一动、一思一念，甚至我们话未出口祂就已经知道。这种被完全认识不是可怕的，而是被完全接纳和深爱的确据。',
@@ -485,7 +485,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 137:1, 4',
           ref_en: 'Psalm 137:1, 4',
           text_zh: '我们曾在巴比伦的河边坐下，一追想锡安就哭了。我们怎能在外邦唱耶和华的歌呢？',
-          text_en: 'By the waters of Babylon, there we sat down and wept, when we remembered Zion. How shall we sing the Lord\'s song in a foreign land?',
+          text_en: 'By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.',
         },
         reflection: {
           zh: '被掳到巴比伦的以色列人经历了深深的失落和哀伤。在异乡追想家园，他们唱不出赞美的歌。这首诗篇诚实地表达了信仰中的痛苦——有时我们在困境中确实难以歌唱，但这并不意味着信心的失败。',
@@ -505,7 +505,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 119:105',
           ref_en: 'Psalm 119:105',
           text_zh: '你的话是我脚前的灯，是我路上的光。',
-          text_en: 'Your word is a lamp to my feet and a light to my path.',
+          text_en: 'Thy word is a lamp unto my feet, and a light unto my path.',
         },
         reflection: {
           zh: '神的话语如同灯光照亮我们前行的道路。注意这里说的是"脚前"的灯——不是照亮整条路，而是照亮下一步。信心的行走就是一步一步跟随神话语的光。',
@@ -525,7 +525,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 19:1-2',
           ref_en: 'Psalm 19:1-2',
           text_zh: '诸天述说神的荣耀；穹苍传扬他的手段。这日到那日发出言语；这夜到那夜传出知识。',
-          text_en: 'The heavens declare the glory of God, and the sky above proclaims his handiwork. Day to day pours out speech, and night to night reveals knowledge.',
+          text_en: 'The heavens declare the glory of God; and the firmament sheweth his handywork. Day unto day uttereth speech, and night unto night sheweth knowledge.',
         },
         reflection: {
           zh: '整个宇宙都在述说神的荣耀。创造本身就是一部无声却有力的见证。当我们仰望星空、欣赏日落，我们看到的不仅是自然现象，更是创造主的手笔和荣耀的彰显。',
@@ -545,7 +545,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 122:1',
           ref_en: 'Psalm 122:1',
           text_zh: '人对我说："我们往耶和华的殿去"，我就欢喜。',
-          text_en: 'I was glad when they said to me, "Let us go to the house of the Lord!"',
+          text_en: 'I was glad when they said unto me, Let us go into the house of the LORD.',
         },
         reflection: {
           zh: '去敬拜神不是义务，而是喜乐。诗人听到邀请去圣殿敬拜时充满了欢喜。当我们真正认识神的美善，敬拜就不再是负担，而成为我们最大的喜乐和渴望。',
@@ -565,7 +565,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 127:1',
           ref_en: 'Psalm 127:1',
           text_zh: '若不是耶和华建造房屋，建造的人就枉然劳力；若不是耶和华看守城池，看守的人就枉然警醒。',
-          text_en: 'Unless the Lord builds the house, those who build it labor in vain. Unless the Lord watches over the city, the watchman stays awake in vain.',
+          text_en: 'Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.',
         },
         reflection: {
           zh: '一切人的努力若没有神的同在和祝福，都是徒劳。这不是说我们不需要工作，而是提醒我们工作的根基必须是神。无论是建造家庭、事业还是教会，都需要先求神的参与。',
@@ -585,7 +585,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 130:1-2',
           ref_en: 'Psalm 130:1-2',
           text_zh: '耶和华啊，我从深处向你求告！主啊，求你听我的声音！愿你侧耳听我恳求的声音！',
-          text_en: 'Out of the depths I cry to you, O Lord! O Lord, hear my voice! Let your ears be attentive to the voice of my pleas for mercy!',
+          text_en: 'Out of the depths have I cried unto thee, O LORD. Lord, hear my voice: let thine ears be attentive to the voice of my supplications.',
         },
         reflection: {
           zh: '"深处"代表人生的最低谷——罪的深渊、苦难的深处、绝望的底层。但正是在深处，诗人向神呼求。最深的痛苦可以成为最深祷告的起点。神的耳朵总是侧向那些从深处呼求的人。',
@@ -605,7 +605,7 @@ export const themesB7: AltarTheme[] = [
           ref_zh: '诗篇 150:6',
           ref_en: 'Psalm 150:6',
           text_zh: '凡有气息的都要赞美耶和华！你们要赞美耶和华！',
-          text_en: 'Let everything that has breath praise the Lord! Praise the Lord!',
+          text_en: 'Let every thing that hath breath praise the LORD. Praise ye the LORD.',
         },
         reflection: {
           zh: '诗篇以赞美开始，也以赞美结束。最后这句是对一切有生命之物的呼召——只要你还有一口气息，就要赞美耶和华。赞美不需要等到一切完美，赞美就是我们存在的目的。',

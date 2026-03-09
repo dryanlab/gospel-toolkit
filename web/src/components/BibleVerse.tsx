@@ -155,6 +155,64 @@ function getEnLabel(verse: string): string {
   return normalizeToEnglish(verse) || verse;
 }
 
+// Local Bible data cache (loaded on demand)
+let cuvData: { id: string; chapters: string[][] }[] | null = null;
+let kjvData: { id: string; chapters: string[][] }[] | null = null;
+
+async function loadBibleData() {
+  if (!cuvData) {
+    try {
+      const res = await fetch('/data/cuv.json');
+      if (res.ok) cuvData = await res.json();
+    } catch { /* fallback to API */ }
+  }
+  if (!kjvData) {
+    try {
+      const res = await fetch('/data/kjv.json');
+      if (res.ok) kjvData = await res.json();
+    } catch { /* fallback to API */ }
+  }
+}
+
+function getLocalVerse(bookNum: number, chapter: number, verseStart: number, verseEnd: number): { zh: string; en: string } | null {
+  const bookIdx = bookNum - 1; // 0-indexed
+  let zhText = '';
+  let enText = '';
+
+  // CUV (和合本)
+  if (cuvData && bookIdx < cuvData.length) {
+    const chIdx = chapter - 1;
+    const chapters = cuvData[bookIdx].chapters;
+    if (chIdx < chapters.length) {
+      const verses = chapters[chIdx];
+      const parts: string[] = [];
+      for (let v = verseStart; v <= Math.min(verseEnd, verses.length); v++) {
+        if (verses[v - 1]) parts.push(verses[v - 1]);
+      }
+      zhText = parts.join('');
+    }
+  }
+
+  // KJV
+  if (kjvData && bookIdx < kjvData.length) {
+    const chIdx = chapter - 1;
+    const chapters = kjvData[bookIdx].chapters;
+    if (chIdx < chapters.length) {
+      const verses = chapters[chIdx];
+      const parts: string[] = [];
+      for (let v = verseStart; v <= Math.min(verseEnd, verses.length); v++) {
+        if (verses[v - 1]) parts.push(verses[v - 1].trim());
+      }
+      enText = parts.join(' ');
+    }
+  }
+
+  if (zhText || enText) {
+    return { zh: zhText || '(经文未找到)', en: enText || '(Verse not found)' };
+  }
+  return null;
+}
+
 async function fetchVerse(verse: string): Promise<{ zh: string; en: string } | null> {
   // Normalize key: if Chinese, convert to English for cache consistency
   const enVerse = isChineseRef(verse) ? normalizeToEnglish(verse) : verse;
@@ -166,16 +224,26 @@ async function fetchVerse(verse: string): Promise<{ zh: string; en: string } | n
 
   try {
     const { bookNum, chapter, verseStart, verseEnd } = parsed;
+
+    // Try local data first (CUV + KJV)
+    await loadBibleData();
+    const localResult = getLocalVerse(bookNum, chapter, verseStart, verseEnd);
+    if (localResult) {
+      verseCache[key] = localResult;
+      return localResult;
+    }
+
+    // Fallback to API if local data unavailable
     const verses = [];
     for (let v = verseStart; v <= verseEnd; v++) verses.push(v);
 
     const [zhResults, enResults] = await Promise.all([
       Promise.all(verses.map(v =>
-        fetch(`https://bolls.life/get-verse/CUNPS/${bookNum}/${chapter}/${v}/`)
+        fetch(`https://bolls.life/get-verse/CUV/${bookNum}/${chapter}/${v}/`)
           .then(r => r.ok ? r.json() : null).catch(() => null)
       )),
       Promise.all(verses.map(v =>
-        fetch(`https://bolls.life/get-verse/WEB/${bookNum}/${chapter}/${v}/`)
+        fetch(`https://bolls.life/get-verse/KJV/${bookNum}/${chapter}/${v}/`)
           .then(r => r.ok ? r.json() : null).catch(() => null)
       )),
     ]);
@@ -266,7 +334,7 @@ export default function BibleVerse({ verse: rawVerse }: Props) {
             <>
               <span className="block text-[var(--color-text)] font-serif-cn mb-2 leading-relaxed">{verseData.zh}</span>
               <span className="block text-[var(--color-text-secondary)] italic text-xs leading-relaxed">{verseData.en}</span>
-              <span className="block text-[var(--color-text-secondary)]/50 text-[10px] mt-2">— {zhLabel} {enLabel !== zhLabel ? enLabel : ''}（新标点和合本 / WEB）</span>
+              <span className="block text-[var(--color-text-secondary)]/50 text-[10px] mt-2">— {zhLabel} {enLabel !== zhLabel ? enLabel : ''}（和合本 / KJV）</span>
             </>
           ) : (
             <span className="text-[var(--color-text-secondary)] italic text-xs">📖 {zhLabel} {enLabel !== zhLabel ? enLabel : ''}</span>

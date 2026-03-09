@@ -226,6 +226,19 @@ export default function HomePage() {
 
       {/* Subscribe */}
       <SubscribeBar />
+
+      {/* Copyright */}
+      <div className="mt-8 pt-6 border-t border-[var(--color-border)] text-center">
+        <p className="text-xs text-[var(--color-text-secondary)]">
+          © 2026 真理磐石 Rock of Truth. All rights reserved.
+        </p>
+        <p className="text-xs text-[var(--color-text-secondary)] mt-1">
+          本站原创内容（伴读、来信、团契文章等）版权归真理磐石所有。
+        </p>
+        <p className="text-xs text-[var(--color-text-secondary)] mt-1">
+          圣经经文引自和合本（CUV）及KJV，均属公有领域。
+        </p>
+      </div>
     </div>
   );
 }

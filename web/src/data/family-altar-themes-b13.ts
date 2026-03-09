@@ -16,7 +16,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '创世记 3:15',
           ref_en: 'Genesis 3:15',
           text_zh: '我又要叫你和女人彼此为仇；你的后裔和女人的后裔也彼此为仇。女人的后裔要伤你的头；你要伤他的脚跟。',
-          text_en: 'I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.',
+          text_en: 'And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.',
         },
         reflection: {
           zh: '这是圣经中第一个关于救主的应许，被称为"原始福音"。在人类堕落的那一刻，神已经预备了拯救的计划。女人的后裔——耶稣基督——将彻底击败撒但的权势。道成肉身的计划从创世之初就已定下。',
@@ -36,7 +36,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '民数记 24:17',
           ref_en: 'Numbers 24:17',
           text_zh: '我看他却不在现时；我望他却不在近日。有星要出于雅各，有杖要兴于以色列，必打破摩押的四角，毁坏扰乱之子。',
-          text_en: 'I see him, but not now; I behold him, but not near: a star shall come out of Jacob, and a scepter shall rise out of Israel; it shall crush the forehead of Moab and break down all the sons of Sheth.',
+          text_en: 'I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.',
         },
         reflection: {
           zh: '外邦先知巴兰虽被雇来咒诅以色列，却在圣灵的感动下说出了弥赛亚的预言。那颗出于雅各的星，预指着伯利恒之星和君王耶稣的降临。神的计划不受任何人的阻挡，连仇敌也要为祂的旨意效力。',
@@ -56,7 +56,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '以赛亚书 7:14',
           ref_en: 'Isaiah 7:14',
           text_zh: '因此，主自己要给你们一个兆头，必有童女怀孕生子，给他起名叫以马内利。',
-          text_en: 'Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel.',
+          text_en: 'Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.',
         },
         reflection: {
           zh: '"以马内利"意为"神与我们同在"。这是圣诞最核心的信息：神不是远在天边，而是亲自来到我们中间。童女怀孕是超自然的神迹，显明耶稣既是完全的神，又是完全的人。道成肉身是神最深的俯就和最大的爱。',
@@ -76,7 +76,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '以赛亚书 9:6',
           ref_en: 'Isaiah 9:6',
           text_zh: '因有一婴孩为我们而生，有一子赐给我们，政权必担在他的肩头上。他名称为奇妙策士、全能的神、永在的父、和平的君。',
-          text_en: 'For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.',
+          text_en: 'For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.',
         },
         reflection: {
           zh: '这节经文揭示了道成肉身的奥秘：一个婴孩，却担当着全能神的名号。祂是奇妙策士，赐我们智慧；是全能的神，有无限权能；是永在的父，永远看顾我们；是和平的君，赐下真正的平安。马槽中的婴孩就是宇宙的君王。',
@@ -96,7 +96,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '弥迦书 5:2',
           ref_en: 'Micah 5:2',
           text_zh: '伯利恒以法他啊，你在犹大诸城中为小，将来必有一位从你那里出来，在以色列中为我作掌权的；他的根源从亘古、从太初就有。',
-          text_en: 'But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days.',
+          text_en: 'But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.',
         },
         reflection: {
           zh: '神选择了小小的伯利恒，而不是荣耀的耶路撒冷，作为弥赛亚的诞生地。这正是神做事的方式——祂拣选卑微的，使强壮的羞愧。然而这位从小城出来的，祂的根源却是从亘古太初就有的永恒之神。',
@@ -116,7 +116,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '路加福音 1:30-33',
           ref_en: 'Luke 1:30-33',
           text_zh: '天使对她说："马利亚，不要怕！你在神面前已经蒙恩了。你要怀孕生子，可以给他起名叫耶稣。他要为大，称为至高者的儿子；主神要把他祖大卫的位给他。他要作雅各家的王，直到永远；他的国也没有穷尽。"',
-          text_en: 'And the angel said to her, "Do not be afraid, Mary, for you have found favor with God. And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus. He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever, and of his kingdom there will be no end."',
+          text_en: 'And the angel said unto her, Fear not, Mary: for thou hast found favour with God. And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS. He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David: And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.',
         },
         reflection: {
           zh: '天使向马利亚宣告的信息，将旧约所有的弥赛亚应许汇聚在一起：大卫的后裔、至高者的儿子、永远的君王。"耶稣"这个名字的意思是"耶和华拯救"。神拣选了一个普通的少女来参与祂最伟大的计划，这也提醒我们：神的恩典总是出人意料。',
@@ -136,7 +136,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '路加福音 1:46-49',
           ref_en: 'Luke 1:46-49',
           text_zh: '马利亚说："我心尊主为大，我灵以神我的救主为乐；因为他顾念他使女的卑微。从今以后，万代要称我有福。那有权能的，为我成就了大事，他的名为圣。"',
-          text_en: 'And Mary said, "My soul magnifies the Lord, and my spirit rejoices in God my Savior, for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed. For he who is mighty has done great things for me, and holy is his name."',
+          text_en: 'And Mary said, My soul doth magnify the Lord, And my spirit hath rejoiced in God my Saviour. For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed. For he that is mighty hath done to me great things; and holy is his name.',
         },
         reflection: {
           zh: '马利亚的尊主颂是圣经中最美的赞美诗之一。她没有因被拣选而骄傲，而是深深地敬拜神。她认识到自己的卑微，也认识到神的伟大。真正的敬拜始于认识自己的渺小和神的无限恩典。圣诞的喜乐源于对神救恩的感恩。',
@@ -156,7 +156,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '马太福音 1:20-23',
           ref_en: 'Matthew 1:20-23',
           text_zh: '正思念这事的时候，有主的使者向他梦中显现，说："大卫的子孙约瑟，不要怕，只管娶过你的妻子马利亚来，因她所怀的孕是从圣灵来的。她将要生一个儿子，你要给他起名叫耶稣，因他要将自己的百姓从罪恶里救出来。"这一切的事成就，是要应验主藉先知所说的话，说："必有童女怀孕生子，人要称他的名为以马内利。"',
-          text_en: 'But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins." All this took place to fulfill what the Lord had spoken by the prophet: "Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel."',
+          text_en: 'But while he thought on these things, behold, the angel of the LORD appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost. And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins. Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying, Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.',
         },
         reflection: {
           zh: '约瑟面临艰难的抉择，但天使的话语给了他信心和方向。"耶稣"这个名字揭示了道成肉身的核心目的——将百姓从罪恶里救出来。马太特别指出这应验了以赛亚的预言，说明神的应许从不落空。约瑟的顺服也是圣诞故事中不可或缺的一部分。',
@@ -176,7 +176,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '路加福音 2:6-7',
           ref_en: 'Luke 2:6-7',
           text_zh: '他们在那里的时候，马利亚的产期到了，就生了头胎的儿子，用布包起来，放在马槽里，因为客店里没有地方。',
-          text_en: 'And while they were there, the time came for her to give birth. And she gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn.',
+          text_en: 'And so it was, that, while they were there, the days were accomplished that she should be delivered. And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.',
         },
         reflection: {
           zh: '宇宙的创造者降生在最卑微的环境中——没有宫殿，没有皇室的接待，只有一个马槽。"客店里没有地方"不仅是历史事实，也是属灵的写照：这个世界常常没有给耶稣留下位置。然而神的荣耀恰恰在卑微中彰显，这就是道成肉身的奇妙。',
@@ -196,7 +196,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '路加福音 2:10-11',
           ref_en: 'Luke 2:10-11',
           text_zh: '那天使对他们说："不要惧怕！我报给你们大喜的信息，是关乎万民的。因今天在大卫的城里，为你们生了救主，就是主基督。"',
-          text_en: 'And the angel said to them, "Fear not, for behold, I bring you good news of great joy that will be for all the people. For unto you is born this day in the city of David a Savior, who is Christ the Lord."',
+          text_en: 'And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people. For unto you is born this day in the city of David a Saviour, which is Christ the Lord.',
         },
         reflection: {
           zh: '天使把这"大喜的信息"首先报给了卑微的牧羊人，而不是宗教领袖或政治权贵。这福音是"关乎万民的"——不分贫富、不分种族、不分地位。救主、基督、主——三个称号概括了耶稣的身份：祂拯救我们、被神膏立、掌管一切。',
@@ -216,7 +216,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '路加福音 2:14',
           ref_en: 'Luke 2:14',
           text_zh: '在至高之处荣耀归与神！在地上平安归与他所喜悦的人！',
-          text_en: 'Glory to God in the highest, and on earth peace among those with whom he is pleased!',
+          text_en: 'Glory to God in the highest, and on earth peace, good will toward men.',
         },
         reflection: {
           zh: '天使军团的颂歌将天上与地上连在一起。耶稣的降生同时带来了两件事：神在至高处得荣耀，人在地上得平安。这平安不是世界给的暂时安逸，而是神与人之间关系的和好。因着道成肉身，天地之间的鸿沟被桥梁所填平。',
@@ -236,7 +236,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '马太福音 2:10-11',
           ref_en: 'Matthew 2:10-11',
           text_zh: '他们看见那星，就大大地欢喜；进了房子，看见小孩子和他母亲马利亚，就俯伏拜那小孩子，揭开宝盒，拿黄金、乳香、没药为礼物献给他。',
-          text_en: 'When they saw the star, they rejoiced exceedingly with great joy. And going into the house, they saw the child with Mary his mother, and they fell down and worshiped him. Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh.',
+          text_en: 'When they saw the star, they rejoiced with exceeding great joy. And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.',
         },
         reflection: {
           zh: '博士们不远千里来朝拜婴孩耶稣，献上最珍贵的礼物。黄金象征君王的身份，乳香象征祭司的职分，没药预表祂将来的受苦与死亡。真正的敬拜总是伴随着代价——付出时间、旅程和最好的礼物。圣诞的本质就是敬拜那位道成肉身的王。',
@@ -256,7 +256,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '约翰福音 1:14',
           ref_en: 'John 1:14',
           text_zh: '道成了肉身，住在我们中间，充充满满地有恩典有真理。我们也见过他的荣光，正是父独生子的荣光。',
-          text_en: 'And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.',
+          text_en: 'And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.',
         },
         reflection: {
           zh: '这是整本圣经对道成肉身最精炼的表达。"道"就是神自己，祂"成了肉身"——永恒进入时间，无限进入有限，荣耀进入卑微。"住在我们中间"原文有"支搭帐幕"之意，如同旧约神的帐幕在以色列人中间。祂充满恩典和真理，使我们得见神的荣光。',
@@ -276,7 +276,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '加拉太书 4:4-5',
           ref_en: 'Galatians 4:4-5',
           text_zh: '及至时候满足，神就差遣他的儿子，为女子所生，且生在律法以下，要把律法以下的人赎出来，叫我们得着儿子的名分。',
-          text_en: 'But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons.',
+          text_en: 'But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, To redeem them that were under the law, that we might receive the adoption of sons.',
         },
         reflection: {
           zh: '"时候满足"说明道成肉身不是偶然，而是神在历史中精确计划的时刻。神的儿子"为女子所生"——完全进入人类的处境；"生在律法以下"——完全承受律法的要求。目的是双重的：把我们从律法的咒诅中赎出来，并赐给我们儿子的名分。圣诞是一个领养的故事——我们被接纳进入神的家。',
@@ -296,7 +296,7 @@ export const themesB13: AltarTheme[] = [
           ref_zh: '腓立比书 2:9-11',
           ref_en: 'Philippians 2:9-11',
           text_zh: '所以神将他升为至高，又赐给他那超乎万名之上的名，叫一切在天上的、地上的和地底下的，因耶稣的名无不屈膝，无不口称耶稣基督为主，使荣耀归与父神。',
-          text_en: 'Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.',
+          text_en: 'Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.',
         },
         reflection: {
           zh: '道成肉身的故事不止于马槽和十字架，更通向荣耀的高升。那位甘愿降卑的基督，如今被神升为至高。有一天，万膝都要向祂跪拜，万口都要承认祂是主。圣诞提醒我们：马槽中的婴孩是宇宙的主宰，值得我们毕生的敬拜和跟随。',

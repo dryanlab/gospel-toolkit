@@ -14,7 +14,7 @@ export const themesB6 = [
           ref_zh: '马太福音 21:9',
           ref_en: 'Matthew 21:9',
           text_zh: '前行后随的众人喊着说："和散那归于大卫的子孙！奉主名来的，是应当称颂的！高高在上和散那！"',
-          text_en: 'And the crowds that went before him and that followed him were shouting, "Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!"'
+          text_en: 'And the multitudes that went before, and that followed, cried, saying, Hosanna to the son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest.'
         },
         reflection: {
           zh: '耶稣骑驴进入耶路撒冷，众人高呼和散那，铺上衣服和树枝迎接他。然而这些欢呼的人群，几天后却喊着"钉他十字架"。十架之路从荣耀的欢呼开始，却走向至深的苦难。我们是否也在顺境中热烈赞美，却在逆境中远离主？',
@@ -34,7 +34,7 @@ export const themesB6 = [
           ref_zh: '马太福音 21:12-13',
           ref_en: 'Matthew 21:12-13',
           text_zh: '耶稣进了神的殿，赶出殿里一切做买卖的人，推倒兑换银钱之人的桌子和卖鸽子之人的凳子，对他们说："经上记着说：\'我的殿必称为祷告的殿\'，你们倒使它成为贼窝了。"',
-          text_en: 'And Jesus entered the temple and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. He said to them, "It is written, \'My house shall be called a house of prayer,\' but you make it a den of robbers."'
+          text_en: 'And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves, And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.'
         },
         reflection: {
           zh: '耶稣洁净圣殿，因为神的殿本是祷告的殿，却被人变成了谋利的场所。耶稣的愤怒出于对父神圣洁的热心。我们的心就是神的殿，是否也被世俗的贪婪和杂念占据？十架之路要求我们先洁净自己的内心殿宇。',
@@ -54,7 +54,7 @@ export const themesB6 = [
           ref_zh: '马太福音 26:6-7,12-13',
           ref_en: 'Matthew 26:6-7,12-13',
           text_zh: '耶稣在伯大尼长大麻风的西门家里，有一个女人拿着一玉瓶极贵的香膏来，趁耶稣坐席的时候，浇在他的头上。……她将这香膏浇在我身上，是为我安葬做的。我实在告诉你们：普天之下，无论在什么地方传这福音，也要述说这女人所行的，作个纪念。',
-          text_en: 'Now when Jesus was at Bethany in the house of Simon the leper, a woman came up to him with an alabaster flask of very expensive ointment, and she poured it on his head as he reclined at table. ... In pouring this ointment on my body, she has done it to prepare me for burial. Truly, I say to you, wherever this gospel is proclaimed in the whole world, what she has done will also be told in memory of her.'
+          text_en: 'Now when Jesus was in Bethany, in the house of Simon the leper, There came unto him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat at meat.'
         },
         reflection: {
           zh: '这位女人将极贵重的香膏毫无保留地浇在耶稣头上，在众人看来是浪费，在耶稣看来却是最美的奉献。她凭着爱和信心，预先为主的安葬做了预备。真正的奉献不计较代价，也不在乎旁人的眼光，只因为主配得。',
@@ -74,7 +74,7 @@ export const themesB6 = [
           ref_zh: '路加福音 22:19-20',
           ref_en: 'Luke 22:19-20',
           text_zh: '又拿起饼来，祝谢了，就擘开，递给他们，说："这是我的身体，为你们舍的，你们也应当如此行，为的是记念我。"饭后也照样拿起杯来，说："这杯是用我血所立的新约，是为你们流出来的。"',
-          text_en: 'And he took bread, and when he had given thanks, he broke it and gave it to them, saying, "This is my body, which is given for you. Do this in remembrance of me." And likewise the cup after they had eaten, saying, "This cup that is poured out for you is the new covenant in my blood."'
+          text_en: 'And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me. Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.'
         },
         reflection: {
           zh: '最后的晚餐中，耶稣将饼和杯赐给门徒，预表他即将在十字架上为我们舍身流血。饼象征他破碎的身体，杯象征他所流的宝血，立了新的约。每次领受圣餐，我们都在记念主的死，直到他再来。这不只是仪式，更是与主生命的联合。',
@@ -94,7 +94,7 @@ export const themesB6 = [
           ref_zh: '约翰福音 13:34-35',
           ref_en: 'John 13:34-35',
           text_zh: '我赐给你们一条新命令，乃是叫你们彼此相爱；我怎样爱你们，你们也要怎样相爱。你们若有彼此相爱的心，众人因此就认出你们是我的门徒了。',
-          text_en: 'A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another. By this all people will know that you are my disciples, if you have love for one another.'
+          text_en: 'A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another. By this shall all men know that ye are my disciples, if ye have love one to another.'
         },
         reflection: {
           zh: '在走向十字架的前夜，耶稣给门徒留下的不是策略或计划，而是一条新命令：彼此相爱。这爱的标准不是世人的爱，而是"我怎样爱你们"——舍己牺牲的爱。这份爱就是基督徒最有力的见证，让世人认出我们属于基督。',
@@ -114,7 +114,7 @@ export const themesB6 = [
           ref_zh: '约翰福音 15:5',
           ref_en: 'John 15:5',
           text_zh: '我是葡萄树，你们是枝子；常在我里面的，我也常在他里面，这人就多结果子；因为离了我，你们就不能做什么。',
-          text_en: 'I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing.'
+          text_en: 'I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.'
         },
         reflection: {
           zh: '耶稣在即将受难前，用葡萄树和枝子的比喻教导门徒生命联合的真理。枝子离开树就枯萎死亡，我们离开基督也一无所能。结果子的秘诀不在于努力挣扎，而在于常常住在主里面，让他的生命汁液流通在我们里面。',
@@ -134,7 +134,7 @@ export const themesB6 = [
           ref_zh: '马太福音 26:39',
           ref_en: 'Matthew 26:39',
           text_zh: '他就稍往前走，俯伏在地，祷告说："我父啊，倘若可行，求你叫这杯离开我；然而，不要照我的意思，只要照你的意思。"',
-          text_en: 'And going a little farther he fell on his face and prayed, saying, "My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will."'
+          text_en: 'And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.'
         },
         reflection: {
           zh: '在客西马尼园中，耶稣面对即将承受全人类罪孽的十字架，极其伤痛，汗如血滴。他坦诚地向父神表达内心的挣扎，却最终说出"不要照我的意思，只要照你的意思"。这是完全顺服的祷告，也是十架之路最深的功课——降服自己的意志于神。',
@@ -154,7 +154,7 @@ export const themesB6 = [
           ref_zh: '马太福音 26:49-50',
           ref_en: 'Matthew 26:49-50',
           text_zh: '犹大随即到耶稣跟前，说："请拉比安"，就与他亲嘴。耶稣对他说："朋友，你来要做的事，就做吧！"于是那些人上前，下手拿住耶稣。',
-          text_en: 'And he came up to Jesus at once and said, "Greetings, Rabbi!" And he kissed him. Jesus said to him, "Friend, do what you came to do." Then they came up and laid hands on Jesus and seized him.'
+          text_en: 'And forthwith he came to Jesus, and said, Hail, master; and kissed him. And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.'
         },
         reflection: {
           zh: '犹大用亲嘴——最亲密的问候方式——来出卖耶稣。耶稣明知犹大的意图，却仍称他为"朋友"。这是何等的忍耐与怜悯。背叛的痛最深，因为来自最近的人。耶稣承受了被至亲之人出卖的痛苦，好让我们知道他完全理解我们被伤害的感受。',
@@ -174,7 +174,7 @@ export const themesB6 = [
           ref_zh: '路加福音 22:61-62',
           ref_en: 'Luke 22:61-62',
           text_zh: '主转过身来看彼得，彼得便想起主对他所说的话："今日鸡叫以先，你要三次不认我。"他就出去痛哭。',
-          text_en: 'And the Lord turned and looked at Peter. And Peter remembered the saying of the Lord, how he had said to him, "Before the rooster crows today, you will deny me three times." And he went out and wept bitterly.'
+          text_en: 'And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice. And Peter went out, and wept bitterly.'
         },
         reflection: {
           zh: '彼得曾信誓旦旦说就算死也不会否认主，却在压力下三次不认耶稣。当鸡叫时，主转过身来看他——那一眼不是定罪，而是充满爱与忧伤。彼得痛哭，因为他看见了自己的软弱。悔改的眼泪是恢复的起点，主的目光不是弃绝，而是挽回。',
@@ -194,7 +194,7 @@ export const themesB6 = [
           ref_zh: '约翰福音 18:37-38',
           ref_en: 'John 18:37-38',
           text_zh: '彼拉多就对他说："这样，你是王吗？"耶稣回答说："你说我是王，我为此而生，也为此来到世间，特为给真理作见证；凡属真理的人就听我的话。"彼拉多说："真理是什么呢？"',
-          text_en: 'Then Pilate said to him, "So you are a king?" Jesus answered, "You say that I am a king. For this purpose I was born and for this purpose I have come into the world—to bear witness to the truth. Everyone who is of the truth listens to my voice." Pilate said to him, "What is truth?"'
+          text_en: 'Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice. Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all.'
         },
         reflection: {
           zh: '耶稣在彼拉多面前宣告他来到世间是为真理作见证。彼拉多的"真理是什么"不是真诚的追问，而是玩世不恭的嘲讽。真理就站在他面前，他却看不见。今天许多人也如彼拉多，在各种声音中迷失，不再相信有绝对的真理，殊不知真理本身就是一个人——耶稣基督。',
@@ -214,7 +214,7 @@ export const themesB6 = [
           ref_zh: '路加福音 23:33-34',
           ref_en: 'Luke 23:33-34',
           text_zh: '到了一个地方，名叫髑髅地，就在那里把耶稣钉在十字架上，又钉了两个犯人：一个在左边，一个在右边。当下耶稣说："父啊，赦免他们！因为他们所做的，他们不晓得。"',
-          text_en: 'And when they came to the place that is called The Skull, there they crucified him, and the criminals, one on his right and one on his left. And Jesus said, "Father, forgive them, for they know not what they do."'
+          text_en: 'And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left. Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.'
         },
         reflection: {
           zh: '在十字架上承受极大痛苦时，耶稣的第一句话不是诅咒，不是申冤，而是为钉他的人祈求赦免。"他们所做的，他们不晓得"——耶稣看见的不是仇恨，而是人的无知与迷失。这超越人性的饶恕，正是十字架最核心的信息：神的爱胜过一切罪。',
@@ -234,7 +234,7 @@ export const themesB6 = [
           ref_zh: '约翰福音 19:30',
           ref_en: 'John 19:30',
           text_zh: '耶稣尝了那醋，就说："成了！"便低下头，将灵魂交付神了。',
-          text_en: 'When Jesus had received the sour wine, he said, "It is finished," and he bowed his head and gave up his spirit.'
+          text_en: 'When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.'
         },
         reflection: {
           zh: '"成了"——这一声宣告震动天地。这不是失败者的叹息，而是得胜者的凯歌。耶稣完成了父神交付的救赎大工，罪债全部偿清，救恩完全成就。我们不需要再做任何事来赢得神的接纳，因为耶稣已经说了"成了"。这是福音最美的一个字。',
@@ -254,7 +254,7 @@ export const themesB6 = [
           ref_zh: '马太福音 27:59-60',
           ref_en: 'Matthew 27:59-60',
           text_zh: '约瑟取了身体，用干净细麻布裹好，安放在自己的新坟墓里，就是他凿在磐石里的。他又把大石头滚到墓门口，就去了。',
-          text_en: 'And Joseph took the body and wrapped it in a clean linen shroud and laid it in his own new tomb, which he had cut in the rock. And he rolled a great stone to the entrance of the tomb and went away.'
+          text_en: 'And when Joseph had taken the body, he wrapped it in a clean linen cloth, And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.'
         },
         reflection: {
           zh: '亚利马太的约瑟冒着极大风险，公开向彼拉多要耶稣的身体。他将主安放在自己的新坟墓里，用细麻布裹好。在众门徒四散逃跑时，约瑟勇敢地站出来服事主。有时候，信仰的勇气不是在欢呼中显现，而是在最黑暗的时刻展现。',
@@ -274,7 +274,7 @@ export const themesB6 = [
           ref_zh: '马太福音 28:5-6',
           ref_en: 'Matthew 28:5-6',
           text_zh: '天使对妇女说："不要害怕！我知道你们是寻找那钉十字架的耶稣。他不在这里，照他所说的，已经复活了。你们来看安放主的地方。"',
-          text_en: 'But the angel said to the women, "Do not be afraid, for I know that you seek Jesus who was crucified. He is not here, for he has risen, as he said. Come, see the place where he lay."'
+          text_en: 'And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified. He is not here: for he is risen, as he said. Come, see the place where the Lord lay.'
         },
         reflection: {
           zh: '"他不在这里，已经复活了"——这是人类历史上最荣耀的宣告。空坟墓证明死亡无法拘禁生命的主。十架之路不是终结于死亡，而是终结于复活的荣耀。因为他活着，我们也要活着；因为他得胜，死亡不再是终点，而是通往永生的门。',
@@ -294,7 +294,7 @@ export const themesB6 = [
           ref_zh: '马太福音 28:18-20',
           ref_en: 'Matthew 28:18-20',
           text_zh: '耶稣进前来，对他们说："天上地下所有的权柄都赐给我了。所以，你们要去，使万民作我的门徒，奉父、子、圣灵的名给他们施洗。凡我所吩咐你们的，都教训他们遵守，我就常与你们同在，直到世界的末了。"',
-          text_en: 'And Jesus came and said to them, "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."'
+          text_en: 'And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth. Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.'
         },
         reflection: {
           zh: '十架之路的终点不是坟墓，也不只是复活，而是大使命。复活的主拥有天上地下一切权柄，差遣我们去使万民作他的门徒。这使命附带着最宝贵的应许："我就常与你们同在，直到世界的末了。"我们不是独自去传福音，而是与得胜的主同行。',
@@ -323,7 +323,7 @@ export const themesB6 = [
           ref_zh: '创世记 1:2',
           ref_en: 'Genesis 1:2',
           text_zh: '地是空虚混沌，渊面黑暗；神的灵运行在水面上。',
-          text_en: 'The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.'
+          text_en: 'And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.'
         },
         reflection: {
           zh: '在创造的起初，当一切还是空虚混沌、渊面黑暗时，神的灵已经运行在水面上。圣灵从起初就参与神的创造工作，将秩序带入混乱，将光明带入黑暗。今天，当我们的生命感到混乱无序时，同一位圣灵仍然运行在我们生命中，带来更新和秩序。',
@@ -343,7 +343,7 @@ export const themesB6 = [
           ref_zh: '路加福音 4:18-19',
           ref_en: 'Luke 4:18-19',
           text_zh: '"主的灵在我身上，因为他用膏膏我，叫我传福音给贫穷的人；差遣我报告：被掳的得释放，瞎眼的得看见，叫那受压制的得自由，报告神悦纳人的禧年。"',
-          text_en: '"The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed, to proclaim the year of the Lord\'s favor."'
+          text_en: 'The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised, To preach the acceptable year of the Lord.'
         },
         reflection: {
           zh: '耶稣在拿撒勒会堂宣读以赛亚的预言，宣告圣灵膏抹他去完成使命：传福音、释放被掳的、使瞎眼的看见、叫受压制的自由。圣灵的工作不是抽象的，而是带来实际的改变和自由。同一位圣灵今天也膏抹我们，赋予我们能力去服事有需要的人。',
@@ -363,7 +363,7 @@ export const themesB6 = [
           ref_zh: '约翰福音 3:5-6',
           ref_en: 'John 3:5-6',
           text_zh: '耶稣说："我实实在在地告诉你：人若不是从水和圣灵生的，就不能进神的国。从肉身生的就是肉身；从灵生的就是灵。"',
-          text_en: 'Jesus answered, "Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. That which is born of the flesh is flesh, and that which is born of the Spirit is spirit."'
+          text_en: 'Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.'
         },
         reflection: {
           zh: '耶稣告诉尼哥底母，进入神国不是靠宗教知识或道德努力，而是需要从圣灵重生。肉身的生命无法产生属灵的生命，就像肉体无法生出灵来。圣灵的重生是一个全新的开始，赐给我们新的生命、新的性情、新的方向。这是圣灵最根本的工作。',
@@ -383,7 +383,7 @@ export const themesB6 = [
           ref_zh: '约翰福音 14:16-17',
           ref_en: 'John 14:16-17',
           text_zh: '我要求父，父就另外赐给你们一位保惠师，叫他永远与你们同在，就是真理的圣灵，乃世人不能接受的，因为不见他，也不认识他；你们却认识他，因他常与你们同在，也要在你们里面。',
-          text_en: 'And I will ask the Father, and he will give you another Helper, to be with you forever, even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him. You know him, for he dwells with you and will be in you.'
+          text_en: 'And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.'
         },
         reflection: {
           zh: '耶稣应许门徒，他虽然离去，父却要赐下另一位保惠师——圣灵，永远与我们同在。圣灵不是暂时的访客，而是永远的同伴。他住在我们里面，不是远远地观望。世人不认识他，但属神的人认识他，因为我们经历他的同在。有了圣灵，我们永远不是孤儿。',
@@ -403,7 +403,7 @@ export const themesB6 = [
           ref_zh: '约翰福音 14:26',
           ref_en: 'John 14:26',
           text_zh: '但保惠师，就是父因我的名所要差来的圣灵，他要将一切的事指教你们，并且要叫你们想起我对你们所说的一切话。',
-          text_en: 'But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you.'
+          text_en: 'But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.'
         },
         reflection: {
           zh: '圣灵是我们最好的老师。他不是教导新的道理取代耶稣的话，而是将耶稣所说的一切指教我们、提醒我们。当我们读圣经时，是圣灵光照我们明白真理；当我们面临抉择时，是圣灵提醒我们主的教导。没有圣灵的指教，神的话对我们只是白纸黑字。',
@@ -423,7 +423,7 @@ export const themesB6 = [
           ref_zh: '约翰福音 15:26',
           ref_en: 'John 15:26',
           text_zh: '但我要从父那里差保惠师来，就是从父出来真理的圣灵，他来了，就要为我作见证。',
-          text_en: 'But when the Helper comes, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will bear witness about me.'
+          text_en: 'But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:'
         },
         reflection: {
           zh: '圣灵的核心工作之一是为耶稣作见证。圣灵不是高举自己，而是将人引向基督。当我们传福音时，不是靠口才和辩论，而是圣灵在人心中为耶稣作见证，使人认识基督。真正有效的见证，永远是圣灵的工作。',
@@ -443,7 +443,7 @@ export const themesB6 = [
           ref_zh: '约翰福音 16:8',
           ref_en: 'John 16:8',
           text_zh: '他既来了，就要叫世人为罪、为义、为审判，自己责备自己。',
-          text_en: 'And when he comes, he will convict the world concerning sin and righteousness and judgment.'
+          text_en: 'And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:'
         },
         reflection: {
           zh: '圣灵来到世间，要叫人为罪、为义、为审判自己责备自己。圣灵的责备不是定罪，而是光照——让人看见自己的罪，认识神的义，明白审判的真实。没有圣灵的光照，人不会真正意识到自己需要救恩。每一次真实的悔改，背后都是圣灵的工作。',
@@ -463,7 +463,7 @@ export const themesB6 = [
           ref_zh: '约翰福音 16:13',
           ref_en: 'John 16:13',
           text_zh: '只等真理的圣灵来了，他要引导你们明白一切的真理，因为他不是凭自己说的，乃是把他所听见的都说出来，并要把将来的事告诉你们。',
-          text_en: 'When the Spirit of truth comes, he will guide you into all the truth, for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come.'
+          text_en: 'Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.'
         },
         reflection: {
           zh: '圣灵被称为"真理的圣灵"，他的工作是引导我们进入一切真理。圣灵不凭自己说话，而是传达从父和子所领受的。在这个充满假信息和混乱教导的时代，我们多么需要圣灵的引导，使我们分辨真假，稳稳地行在真理中。',
@@ -483,7 +483,7 @@ export const themesB6 = [
           ref_zh: '使徒行传 2:2-4',
           ref_en: 'Acts 2:2-4',
           text_zh: '忽然，从天上有响声下来，好像一阵大风吹过，充满了他们所坐的屋子；又有舌头如火焰显现出来，分开落在他们各人头上。他们就都被圣灵充满，按着圣灵所赐的口才说起别国的话来。',
-          text_en: 'And suddenly there came from heaven a sound like a mighty rushing wind, and it filled the entire house where they were sitting. And divided tongues as of fire appeared to them and rested on each one of them. And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance.'
+          text_en: 'And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.'
         },
         reflection: {
           zh: '五旬节圣灵降临，如大风充满屋子，如火焰落在每人头上。门徒被圣灵充满后，从胆怯的渔夫变成了勇敢的见证人。圣灵的火不是毁灭，而是洁净和赋能。教会因圣灵的降临而诞生，使命因圣灵的能力而展开。我们也需要被圣灵的火点燃。',
@@ -503,7 +503,7 @@ export const themesB6 = [
           ref_zh: '加拉太书 5:22-23',
           ref_en: 'Galatians 5:22-23',
           text_zh: '圣灵所结的果子，就是仁爱、喜乐、和平、忍耐、恩慈、良善、信实、温柔、节制。这样的事，没有律法禁止。',
-          text_en: 'But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.'
+          text_en: 'But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law.'
         },
         reflection: {
           zh: '圣灵的果子不是靠人的努力生产的，而是圣灵在我们生命中自然结出的。注意这里用的是单数"果子"，说明这九种品格是一个整体，都是基督生命的流露。我们不需要苦苦修炼，只需要常住在基督里，让圣灵在我们里面工作，果子就会自然长出。',
@@ -523,7 +523,7 @@ export const themesB6 = [
           ref_zh: '罗马书 8:14',
           ref_en: 'Romans 8:14',
           text_zh: '因为凡被神的灵引导的，都是神的儿子。',
-          text_en: 'For all who are led by the Spirit of God are sons of God.'
+          text_en: 'For as many as are led by the Spirit of God, they are the sons of God.'
         },
         reflection: {
           zh: '被圣灵引导是神儿女的标志。圣灵不是偶尔来访的客人，而是持续引领我们方向的向导。被圣灵引导意味着在每一个决定上寻求他的带领，顺服他的感动。这不是被动的等待，而是主动的聆听和顺服。',
@@ -543,7 +543,7 @@ export const themesB6 = [
           ref_zh: '罗马书 8:26-27',
           ref_en: 'Romans 8:26-27',
           text_zh: '况且，我们的软弱有圣灵帮助，我们本不晓得当怎样祷告，只是圣灵亲自用说不出来的叹息替我们祷告。鉴察人心的，晓得圣灵的意思，因为圣灵照着神的旨意替圣徒祈求。',
-          text_en: 'Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words. And he who searches hearts knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.'
+          text_en: 'Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered. And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.'
         },
         reflection: {
           zh: '我们常常不知道该怎样祷告，但圣灵知道。他用说不出来的叹息替我们代求，照着神的旨意为我们祈求。这是何等安慰——即使我们词穷、困惑、软弱到无法开口，圣灵仍在为我们祷告。我们的祷告生活从来不是独自一人的挣扎。',
@@ -563,7 +563,7 @@ export const themesB6 = [
           ref_zh: '哥林多前书 3:16',
           ref_en: '1 Corinthians 3:16',
           text_zh: '岂不知你们是神的殿，神的灵住在你们里头吗？',
-          text_en: 'Do you not know that you are God\'s temple and that God\'s Spirit dwells in you?'
+          text_en: 'Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?'
         },
         reflection: {
           zh: '保罗提醒哥林多信徒一个惊人的真理：我们就是神的殿，圣灵住在我们里面。旧约时代神的荣耀住在圣殿中，如今神选择住在他百姓的心中。这赋予我们极大的尊严，也带来极大的责任——我们的身体、思想、行为都当圣洁，因为这是神居住的殿。',
@@ -583,7 +583,7 @@ export const themesB6 = [
           ref_zh: '以弗所书 1:13-14',
           ref_en: 'Ephesians 1:13-14',
           text_zh: '你们既听见真理的道，就是那叫你们得救的福音，也信了基督，既然信他，就受了所应许的圣灵为印记。这圣灵是我们得基业的凭据，直等到神之民被赎，使他的荣耀得着称赞。',
-          text_en: 'In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.'
+          text_en: 'In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise, Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.'
         },
         reflection: {
           zh: '圣灵是神赐给信徒的印记和凭据。印记代表所有权——我们属于神；凭据代表保证——我们必得着天上的基业。圣灵的内住不仅是现在的祝福，更是将来荣耀的预付款。无论环境如何，圣灵的印记确保我们的救恩是稳妥的。',
@@ -603,7 +603,7 @@ export const themesB6 = [
           ref_zh: '帖撒罗尼迦前书 5:19',
           ref_en: '1 Thessalonians 5:19',
           text_zh: '不要消灭圣灵的感动。',
-          text_en: 'Do not quench the Spirit.'
+          text_en: 'Quench not the Spirit.'
         },
         reflection: {
           zh: '保罗用简短而有力的命令提醒我们：不要消灭圣灵的感动。圣灵像火一样在我们里面燃烧，但我们可以用忽略、不顺服、罪和冷淡来扑灭他。每一次我们感受到圣灵的感动却不回应，那火就会变弱。让我们小心呵护心中圣灵的火焰，不要消灭他。',
@@ -632,7 +632,7 @@ export const themesB6 = [
           ref_zh: '诗篇 1:1-3',
           ref_en: 'Psalm 1:1-3',
           text_zh: '不从恶人的计谋，不站罪人的道路，不坐亵慢人的座位。惟喜爱耶和华的律法，昼夜思想，这人便为有福！他要像一棵树栽在溪水旁，按时候结果子，叶子也不枯干。凡他所做的尽都顺利。',
-          text_en: 'Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; but his delight is in the law of the LORD, and on his law he meditates day and night. He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers.'
+          text_en: 'Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. But his delight is in the law of the LORD; and in his law doth he meditate day and night. And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.'
         },
         reflection: {
           zh: '诗篇的开篇告诉我们，有福的人生有两个特征：远离罪恶的影响，亲近神的话语。喜爱并昼夜思想神律法的人，像栽在溪水旁的树——根基稳固、养分充足、按时结果。真正的繁荣不在于外在的成功，而在于生命扎根在神话语的活水中。',
@@ -652,7 +652,7 @@ export const themesB6 = [
           ref_zh: '诗篇 23:1-3',
           ref_en: 'Psalm 23:1-3',
           text_zh: '耶和华是我的牧者，我必不至缺乏。他使我躺卧在青草地上，领我在可安歇的水边。他使我的灵魂苏醒，为自己的名引导我走义路。',
-          text_en: 'The LORD is my shepherd; I shall not want. He makes me lie down in green pastures. He leads me beside still waters. He restores my soul. He leads me in paths of righteousness for his name\'s sake.'
+          text_en: 'The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures: he leadeth me beside the still waters. He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.'
         },
         reflection: {
           zh: '大卫以牧羊人的经验写下这首最温柔的诗篇。耶和华是我们的牧者，他供应一切所需（青草地），赐我们安息（可安歇的水边），苏醒疲惫的灵魂，引导我们走义路。在这忙碌焦虑的时代，我们多么需要停下来，让好牧人带领我们到安歇之处。',
@@ -672,7 +672,7 @@ export const themesB6 = [
           ref_zh: '诗篇 46:1-2',
           ref_en: 'Psalm 46:1-2',
           text_zh: '神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。所以地虽改变，山虽摇动到海心，',
-          text_en: 'God is our refuge and strength, a very present help in trouble. Therefore we will not fear though the earth gives way, though the mountains be moved into the heart of the sea.'
+          text_en: 'God is our refuge and strength, a very present help in trouble. Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;'
         },
         reflection: {
           zh: '当世界天翻地覆、山崩地裂时，诗人宣告：我们不害怕！因为神是我们的避难所和力量，是患难中随时的帮助。注意不是"偶尔的帮助"，而是"随时的帮助"——无论何时何地，神都在。这信心不是盲目乐观，而是建立在对全能神认识之上的确据。',
@@ -692,7 +692,7 @@ export const themesB6 = [
           ref_zh: '诗篇 51:1-2',
           ref_en: 'Psalm 51:1-2',
           text_zh: '神啊，求你按你的慈爱怜恤我，按你丰盛的慈悲涂抹我的过犯！求你将我的罪孽洗除净尽，并洁除我的罪！',
-          text_en: 'Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions. Wash me thoroughly from my iniquity, and cleanse me from my sin!'
+          text_en: 'Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. Wash me throughly from mine iniquity, and cleanse me from my sin.'
         },
         reflection: {
           zh: '诗篇51篇是大卫犯罪后最深切的悔改祷告。他不为自己找借口，不推卸责任，而是直接呼求神的怜悯。他所依靠的不是自己的好行为，而是神的慈爱和丰盛的慈悲。真正的悔改不是靠自我改善，而是将污秽的自己完全交在恩典的神手中。',
@@ -712,7 +712,7 @@ export const themesB6 = [
           ref_zh: '诗篇 42:1-2',
           ref_en: 'Psalm 42:1-2',
           text_zh: '神啊，我的心切慕你，如鹿切慕溪水。我的心渴想神，就是永生神；我几时得朝见神呢？',
-          text_en: 'As a deer pants for flowing streams, so pants my soul for you, O God. My soul thirsts for God, for the living God. When shall I come and appear before God?'
+          text_en: 'As the hart panteth after the water brooks, so panteth my soul after thee, O God. My soul thirsteth for God, for the living God: when shall I come and appear before God?'
         },
         reflection: {
           zh: '诗人用一幅生动的图画——干渴的鹿切慕溪水——来表达他对神深切的渴望。这不是宗教的义务感，而是生命深处的渴求，就像身体离不开水一样，灵魂离不开神。在你忙碌的生活中，是否仍保持着对神的渴慕？还是灵魂已经干渴而不自知？',
@@ -732,7 +732,7 @@ export const themesB6 = [
           ref_zh: '诗篇 91:1-2',
           ref_en: 'Psalm 91:1-2',
           text_zh: '住在至高者隐密处的，必住在全能者的荫下。我要论到耶和华说："他是我的避难所，是我的山寨，是我的神，是我所倚靠的。"',
-          text_en: 'He who dwells in the shelter of the Most High will abide in the shadow of the Almighty. I will say to the LORD, "My refuge and my fortress, my God, in whom I trust."'
+          text_en: 'He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.'
         },
         reflection: {
           zh: '"住在至高者隐密处"描绘了与神最亲密的关系——不是偶尔的造访，而是居住。当我们持续住在神的同在中，他就成为我们的荫庇、避难所和山寨。这种保护不是远距离的看顾，而是荫下的遮盖，近到可以感受到他的气息。',
@@ -752,7 +752,7 @@ export const themesB6 = [
           ref_zh: '诗篇 103:1-3',
           ref_en: 'Psalm 103:1-3',
           text_zh: '我的心哪，你要称颂耶和华！凡在我里面的，也要称颂他的圣名！我的心哪，你要称颂耶和华！不可忘记他的一切恩惠。他赦免你的一切罪孽，医治你的一切疾病。',
-          text_en: 'Bless the LORD, O my soul, and all that is within me, bless his holy name! Bless the LORD, O my soul, and forget not all his benefits—who forgives all your iniquity, who heals all your diseases.'
+          text_en: 'Bless the LORD, O my soul: and all that is within me, bless his holy name. Bless the LORD, O my soul, and forget not all his benefits: Who forgiveth all thine iniquities; who healeth all thy diseases;'
         },
         reflection: {
           zh: '大卫呼唤自己的灵魂来赞美神，提醒自己不可忘记神的恩惠。人是多么容易忘恩啊！神赦免了我们一切的罪，医治我们一切的疾病，但我们常常一转身就忘记。赞美不只是情绪的表达，更是意志的决定——刻意地数算恩典，刻意地称颂神。',
@@ -772,7 +772,7 @@ export const themesB6 = [
           ref_zh: '诗篇 139:1-4',
           ref_en: 'Psalm 139:1-4',
           text_zh: '耶和华啊，你已经鉴察我，认识我。我坐下，我起来，你都晓得，你从远处知道我的意念。我行路，我躺卧，你都细察，你也深知我一切所行的。耶和华啊，我舌头上的话，你没有一句不知道的。',
-          text_en: 'O LORD, you have searched me and known me! You know when I sit down and when I rise up; you discern my thoughts from afar. You search out my path and my lying down and are acquainted with all my ways. Even before a word is on my tongue, behold, O LORD, you know it altogether.'
+          text_en: 'O LORD, thou hast searched me, and known me. Thou knowest my downsitting and mine uprising, thou understandest my thought afar off. Thou compassest my path and my lying down, and art acquainted with all my ways. For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether.'
         },
         reflection: {
           zh: '神对我们的认识是完全的——我们的起坐、意念、行为，甚至舌头上还未说出的话，他都知道。这对骄傲的人是警告，对孤独的人却是安慰。世上没有人完全理解你，但神完全认识你，并且在完全认识你之后，仍然爱你。这才是真正的被爱。',
@@ -792,7 +792,7 @@ export const themesB6 = [
           ref_zh: '诗篇 137:1,4',
           ref_en: 'Psalm 137:1,4',
           text_zh: '我们曾在巴比伦的河边坐下，一追想锡安就哭了。……我们怎能在外邦唱耶和华的歌呢？',
-          text_en: 'By the waters of Babylon, there we sat down and wept, when we remembered Zion. ... How shall we sing the LORD\'s song in a foreign land?'
+          text_en: 'By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.'
         },
         reflection: {
           zh: '被掳到巴比伦的以色列人坐在河边哭泣，追想失去的锡安。在异乡的痛苦中，他们无法唱耶和华的歌。这是信仰最真实的一面——有时候我们的处境让我们唱不出赞美。但即使在巴比伦河边的哭泣，也是向神真实的表达。神不嫌弃我们的眼泪。',
@@ -812,7 +812,7 @@ export const themesB6 = [
           ref_zh: '诗篇 119:105',
           ref_en: 'Psalm 119:105',
           text_zh: '你的话是我脚前的灯，是我路上的光。',
-          text_en: 'Your word is a lamp to my feet and a light to my path.'
+          text_en: 'Thy word is a lamp unto my feet, and a light unto my path.'
         },
         reflection: {
           zh: '神的话语不是远处的探照灯，让我们看见遥远的未来，而是脚前的灯——照亮当下每一步。在人生的黑暗和迷茫中，我们不需要看见全部的路，只需要看见下一步。神的话语就是那盏灯，在每一个十字路口为我们照亮前方。',
@@ -832,7 +832,7 @@ export const themesB6 = [
           ref_zh: '诗篇 19:1-2',
           ref_en: 'Psalm 19:1-2',
           text_zh: '诸天述说神的荣耀，穹苍传扬他的手段。这日到那日发出言语，这夜到那夜传出知识。',
-          text_en: 'The heavens declare the glory of God, and the sky above proclaims his handiwork. Day to day pours out speech, and night to night reveals knowledge.'
+          text_en: 'The heavens declare the glory of God; and the firmament sheweth his handywork. Day unto day uttereth speech, and night unto night sheweth knowledge.'
         },
         reflection: {
           zh: '整个受造界都在述说神的荣耀——日月星辰、山川大地，无声却有力地宣告着造物主的伟大。每一个日出、每一个星夜，都是神向我们发出的信息。大自然是神的另一本书，日日夜夜不停地传讲他的智慧和能力。你是否有耳可听？',
@@ -852,7 +852,7 @@ export const themesB6 = [
           ref_zh: '诗篇 122:1',
           ref_en: 'Psalm 122:1',
           text_zh: '人对我说："我们往耶和华的殿去"，我就欢喜。',
-          text_en: 'I was glad when they said to me, "Let us go to the house of the LORD!"'
+          text_en: 'I was glad when they said unto me, Let us go into the house of the LORD.'
         },
         reflection: {
           zh: '朝圣者听到"我们往耶和华的殿去"就欢喜。去敬拜神不是负担，而是喜乐。今天许多基督徒视聚会为义务，觉得牺牲了周末休息。但诗人提醒我们，到神殿中敬拜是何等的特权和喜乐。当我们真正认识神，去到他面前就成为一周中最期待的事。',
@@ -872,7 +872,7 @@ export const themesB6 = [
           ref_zh: '诗篇 127:1',
           ref_en: 'Psalm 127:1',
           text_zh: '若不是耶和华建造房屋，建造的人就枉然劳力；若不是耶和华看守城池，看守的人就枉然警醒。',
-          text_en: 'Unless the LORD builds the house, those who build it labor in vain. Unless the LORD watches over the city, those who watch keep awake in vain.'
+          text_en: 'Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.'
         },
         reflection: {
           zh: '所罗门的智慧之言提醒我们：一切劳碌和努力，若不是出于神、依靠神，都是枉然。这不是叫我们懒惰，而是认识到一切都需要神的祝福才有意义。建造家庭、发展事业、教养孩子，都需要先邀请神来做主人和建造者。',
@@ -892,7 +892,7 @@ export const themesB6 = [
           ref_zh: '诗篇 130:1-2',
           ref_en: 'Psalm 130:1-2',
           text_zh: '耶和华啊，我从深处向你求告。主啊，求你听我的声音，愿你侧耳听我恳求的声音。',
-          text_en: 'Out of the depths I cry to you, O LORD! O Lord, hear my voice! Let your ears be attentive to the voice of my pleas for mercy!'
+          text_en: 'Out of the depths have I cried unto thee, O LORD. Lord, hear my voice: let thine ears be attentive to the voice of my supplications.'
         },
         reflection: {
           zh: '"从深处"——这是人生最低谷的呼求。诗人没有在深处绝望，而是在深处向神呼求。生命的深渊不是祷告的阻碍，反而常常是最真实祷告的起点。当你跌到最深处时，记住：神的耳朵侧向深处。你越低，他越近。',
@@ -912,7 +912,7 @@ export const themesB6 = [
           ref_zh: '诗篇 150:6',
           ref_en: 'Psalm 150:6',
           text_zh: '凡有气息的都要赞美耶和华！你们要赞美耶和华！',
-          text_en: 'Let everything that has breath praise the LORD! Praise the LORD!'
+          text_en: 'Let every thing that hath breath praise the LORD. Praise ye the LORD.'
         },
         reflection: {
           zh: '诗篇以赞美开始（诗1篇的"有福"），以赞美结束（诗150篇的"赞美耶和华"）。最后一节呼召"凡有气息的"都来赞美神。只要你还有一口气在，你就有赞美神的理由和责任。赞美不是等到一切都好才做的事，而是因为神配得，凡有气息的都当如此。',
@@ -941,7 +941,7 @@ export const themesB6 = [
           ref_zh: '马太福音 5:3',
           ref_en: 'Matthew 5:3',
           text_zh: '虚心的人有福了，因为天国是他们的。',
-          text_en: 'Blessed are the poor in spirit, for theirs is the kingdom of heaven.'
+          text_en: 'Blessed are the poor in spirit: for theirs is the kingdom of heaven.'
         },
         reflection: {
           zh: '登山宝训的第一个福，不是给强大的、成功的人，而是给"虚心的人"——灵里贫穷、知道自己一无所有的人。天国的门为那些自认富足的人关闭，却为承认自己贫穷需要神的人敞开。属灵生命的第一步，是承认自己的空虚。',
@@ -961,7 +961,7 @@ export const themesB6 = [
           ref_zh: '马太福音 5:4',
           ref_en: 'Matthew 5:4',
           text_zh: '哀恸的人有福了，因为他们必得安慰。',
-          text_en: 'Blessed are those who mourn, for they shall be comforted.'
+          text_en: 'Blessed are they that mourn: for they shall be comforted.'
         },
         reflection: {
           zh: '世界说快乐的人有福，耶稣却说哀恸的人有福。这里的哀恸不只是为失去而悲伤，更是为罪而忧伤——为自己的罪、为世界的破碎而深深悲痛。这样的哀恸不是绝望，因为必有安慰随之而来。那位安慰者——圣灵——会擦干一切真诚悔改的眼泪。',
@@ -981,7 +981,7 @@ export const themesB6 = [
           ref_zh: '马太福音 5:5',
           ref_en: 'Matthew 5:5',
           text_zh: '温柔的人有福了，因为他们必承受地土。',
-          text_en: 'Blessed are the meek, for they shall inherit the earth.'
+          text_en: 'Blessed are the meek: for they shall inherit the earth.'
         },
         reflection: {
           zh: '温柔不是软弱，而是有力量却选择谦卑。耶稣自己就是温柔的典范——拥有一切权柄，却骑驴进城、为门徒洗脚。世界说强者得胜、弱者被淘汰，但天国的法则相反：温柔的人必承受地土。不是靠争抢，而是靠谦卑等候神的赏赐。',
@@ -1001,7 +1001,7 @@ export const themesB6 = [
           ref_zh: '马太福音 5:6',
           ref_en: 'Matthew 5:6',
           text_zh: '饥渴慕义的人有福了，因为他们必得饱足。',
-          text_en: 'Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.'
+          text_en: 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled.'
         },
         reflection: {
           zh: '饥渴是最基本的生存需要，耶稣用这个比喻描述对公义的渴望。真正饥渴慕义的人，不是随便想想，而是像饥饿的人渴望食物一样迫切地追求神的义。神应许这样的人必得饱足——不是半饱，而是完全的满足。',
@@ -1021,7 +1021,7 @@ export const themesB6 = [
           ref_zh: '马太福音 5:7',
           ref_en: 'Matthew 5:7',
           text_zh: '怜恤人的人有福了，因为他们必蒙怜恤。',
-          text_en: 'Blessed are the merciful, for they shall receive mercy.'
+          text_en: 'Blessed are the merciful: for they shall obtain mercy.'
         },
         reflection: {
           zh: '怜恤是进入别人的痛苦中，给予同情和帮助。耶稣应许怜恤人的人也必蒙怜恤——这不是交易，而是属灵的法则。一个被神怜恤过的人，自然会去怜恤他人；一个懂得怜恤的心，也更能深深体会神的怜恤。怜恤的循环从领受神的恩典开始。',
@@ -1041,7 +1041,7 @@ export const themesB6 = [
           ref_zh: '马太福音 5:8',
           ref_en: 'Matthew 5:8',
           text_zh: '清心的人有福了，因为他们必得见神。',
-          text_en: 'Blessed are the pure in heart, for they shall see God.'
+          text_en: 'Blessed are the pure in heart: for they shall see God.'
         },
         reflection: {
           zh: '清心——内心纯净、没有分裂和虚伪。清心的人不是完美无罪的人，而是内心真诚、动机单纯、全心向着神的人。世界充满了分心和诱惑，使我们的心变得混浊。但耶稣应许清心的人必得见神——不只是将来在天上，也是此刻在日常中经历神的同在。',
@@ -1061,7 +1061,7 @@ export const themesB6 = [
           ref_zh: '马太福音 5:9',
           ref_en: 'Matthew 5:9',
           text_zh: '使人和睦的人有福了，因为他们必称为神的儿子。',
-          text_en: 'Blessed are the peacemakers, for they shall be called sons of God.'
+          text_en: 'Blessed are the peacemakers: for they shall be called the children of God.'
         },
         reflection: {
           zh: '使人和睦的人不只是爱好和平的人，而是主动去创造和平、修复关系的人。神自己就是最大的和平缔造者——藉着基督使我们与他和好。当我们去调解冲突、修复裂痕、带来合一时，我们就像天父一样，配称为"神的儿子"。和平不会自动发生，需要人去缔造。',
@@ -1081,7 +1081,7 @@ export const themesB6 = [
           ref_zh: '马太福音 5:10-12',
           ref_en: 'Matthew 5:10-12',
           text_zh: '为义受逼迫的人有福了，因为天国是他们的。人若因我辱骂你们，逼迫你们，捏造各样坏话毁谤你们，你们就有福了。应当欢喜快乐，因为你们在天上的赏赐是大的。在你们以前的先知，人也是这样逼迫他们。',
-          text_en: 'Blessed are those who are persecuted for righteousness\' sake, for theirs is the kingdom of heaven. Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you.'
+          text_en: 'Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven. Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.'
         },
         reflection: {
           zh: '八福的最后回到了第一福的应许——天国。为义受逼迫的人有福，因为逼迫证明你站在了对的一边。耶稣甚至说我们应当"欢喜快乐"，因为天上的赏赐是大的。受苦不是失败的标志，而是跟随基督的印记。历世历代的先知和圣徒都走过这条路。',
@@ -1101,7 +1101,7 @@ export const themesB6 = [
           ref_zh: '马太福音 5:13',
           ref_en: 'Matthew 5:13',
           text_zh: '你们是世上的盐。盐若失了味，怎能叫它再咸呢？以后无用，不过丢在外面，被人践踏了。',
-          text_en: 'You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people\'s feet.'
+          text_en: 'Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.'
         },
         reflection: {
           zh: '盐有调味和防腐的功能。耶稣说我们是世上的盐——我们的存在应该为这个世界带来味道和保鲜。但盐若失了味，就完全无用了。基督徒若活得与世人无异，就失去了存在的意义。我们要活出盐的本质——在败坏中保持圣洁，在乏味中带来生命的滋味。',
@@ -1121,7 +1121,7 @@ export const themesB6 = [
           ref_zh: '马太福音 5:14-16',
           ref_en: 'Matthew 5:14-16',
           text_zh: '你们是世上的光。城造在山上，是不能隐藏的。人点灯，不放在斗底下，是放在灯台上，就照亮一家的人。你们的光也当这样照在人前，叫他们看见你们的好行为，便将荣耀归给你们在天上的父。',
-          text_en: 'You are the light of the world. A city set on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house. In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.'
+          text_en: 'Ye are the light of the world. A city that is set on an hill cannot be hid. Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.'
         },
         reflection: {
           zh: '耶稣不是说"你们要成为光"，而是说"你们是光"。因为基督在我们里面，我们已经是光了。问题不是有没有光，而是是否把光隐藏起来。光的目的不是吸引人注目自己，而是照亮周围的人，使他们看见好行为，将荣耀归给天父。',
@@ -1141,7 +1141,7 @@ export const themesB6 = [
           ref_zh: '马太福音 6:25-27',
           ref_en: 'Matthew 6:25-27',
           text_zh: '所以我告诉你们：不要为生命忧虑吃什么，喝什么；为身体忧虑穿什么。生命不胜于饮食吗？身体不胜于衣裳吗？你们看那天上的飞鸟，也不种，也不收，也不积蓄在仓里，你们的天父尚且养活它。你们不比飞鸟贵重得多吗？你们哪一个能用思虑使寿数多加一刻呢？',
-          text_en: 'Therefore I tell you, do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will put on. Is not life more than food, and the body more than clothing? Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they? And which of you by being anxious can add a single hour to his span of life?'
+          text_en: 'Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment? Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they? Which of you by taking thought can add one cubit unto his stature?'
         },
         reflection: {
           zh: '耶稣用天上的飞鸟来教导我们不要忧虑。飞鸟不种不收，天父仍然养活它们。我们比飞鸟贵重得多，天父岂不更看顾我们吗？忧虑不能使寿数多加一刻，反而偷走了今天的喜乐和平安。信靠天父的供应，不是不负责任，而是将重担交给掌管一切的神。',
@@ -1161,7 +1161,7 @@ export const themesB6 = [
           ref_zh: '马太福音 6:33',
           ref_en: 'Matthew 6:33',
           text_zh: '你们要先求他的国和他的义，这些东西都要加给你们了。',
-          text_en: 'But seek first the kingdom of God and his righteousness, and all these things will be added to you.'
+          text_en: 'But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.'
         },
         reflection: {
           zh: '这是耶稣给我们的生活优先次序：先求神的国和神的义。不是不管其他事，而是把神放在第一位。当我们优先追求神的旨意和公义时，其他生活所需神都会加给我们。问题往往是我们颠倒了次序——先追求物质，再考虑神。把次序摆对了，一切就对了。',
@@ -1181,7 +1181,7 @@ export const themesB6 = [
           ref_zh: '马太福音 7:1-2',
           ref_en: 'Matthew 7:1-2',
           text_zh: '你们不要论断人，免得你们被论断。因为你们怎样论断人，也必怎样被论断；你们用什么量器量给人，也必用什么量器量给你们。',
-          text_en: 'Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you.'
+          text_en: 'Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.'
         },
         reflection: {
           zh: '耶稣警告我们不要论断人——不是说不要分辨是非，而是不要以自以为义的态度定别人的罪。我们用什么尺度量别人，神也要用什么尺度量我们。多少教会的纷争和关系的破裂都因论断而起？在指出别人眼中的刺之前，先处理自己眼中的梁木。',
@@ -1201,7 +1201,7 @@ export const themesB6 = [
           ref_zh: '马太福音 7:12',
           ref_en: 'Matthew 7:12',
           text_zh: '所以，无论何事，你们愿意人怎样待你们，你们也要怎样待人，因为这就是律法和先知的道理。',
-          text_en: 'So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets.'
+          text_en: 'Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.'
         },
         reflection: {
           zh: '这就是著名的"黄金法则"——你愿意人怎样待你，你也要怎样待人。耶稣说这一条总结了律法和先知的全部教导。这不是消极的"己所不欲，勿施于人"，而是积极的"你希望被如何对待，就主动如此对待别人"。如果每个人都这样做，世界会完全不同。',
@@ -1221,7 +1221,7 @@ export const themesB6 = [
           ref_zh: '马太福音 7:24-25',
           ref_en: 'Matthew 7:24-25',
           text_zh: '所以，凡听见我这话就去行的，好比一个聪明人，把房子盖在磐石上。雨淋，水冲，风吹，撞着那房子，房子总不倒塌，因为根基立在磐石上。',
-          text_en: 'Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock.'
+          text_en: 'Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.'
         },
         reflection: {
           zh: '登山宝训以这个比喻作为总结：听道并且行道的人如聪明人建在磐石上，暴风雨来了也不倒。关键不只是"听"，而是"听了就去行"。多少人听了无数篇讲道，却从未将所听的付诸实践？真正的信仰不是头脑的知识，而是生命的根基——建立在遵行主话语的磐石上。',

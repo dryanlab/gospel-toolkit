@@ -200,13 +200,13 @@ export const letters: Letter[] = [
 
 That night at the Passover supper, I said something I would regret for the rest of my life.
 
-"Lord, even though they all fall away, I will never fall away." (Matt 26:33)
+"Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended." (Matt 26:33)
 
 I meant it when I said it. I had followed Him for three years. I watched Him calm the storm. I watched Him call Lazarus out of the tomb. I saw His glory on the Mount of Transfiguration. I was the first to confess Him as the Christ, the Son of the living God (Matt 16:16). I thought I was stronger than the others. More faithful.
 
 Jesus looked at me and said, "Before the rooster crows twice, you will deny me three times."
 
-I insisted more vehemently, "If I must die with you, I will not deny you." (Mark 14:31)
+I insisted more vehemently, "But he spake the more vehemently, If I should die with thee, I will not deny thee in any wise. Likewise also said they all." (Mark 14:31)
 
 Brothers and sisters, when a man is most certain he will never fall, he is closest to falling.
 
@@ -220,7 +220,7 @@ I couldn't even do that.
 
 Three times He came back to find us sleeping. Three times. The man who said "I will die with you" couldn't stay awake for one hour of prayer.
 
-"Simon, are you asleep? Could you not watch one hour? Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak." (Mark 14:37-38)
+"And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest not thou watch one hour? Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak." (Mark 14:37-38)
 
 The spirit is willing, but the flesh is weak — the most accurate description of my entire life.
 
@@ -256,7 +256,7 @@ It was not an "I told you so" look. Not disappointment. Not anger.
 
 It was a deep, quiet, sorrowful love. As if to say: "Peter, I know. But I still love you. I already prayed for you."
 
-Because at supper He had told me: "Simon, Simon, behold, Satan demanded to have you, that he might sift you like wheat, but I have prayed for you that your faith may not fail. And when you have turned again, strengthen your brothers." (Luke 22:31-32)
+Because at supper He had told me: "And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat: But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren." (Luke 22:31-32)
 
 He did not say "if you turn back." He said "when you have turned again."
 
@@ -344,7 +344,7 @@ No matter how many times you have fallen, no matter how deep your denial — **H
 
 You need only answer one thing: **"Lord, you know that I love you."**
 
-*"And when you have turned again, strengthen your brothers." (Luke 22:32)*
+*"But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren." (Luke 22:32)*
 
 *May grace and peace be multiplied to you — your brother, Peter*`,
   },
@@ -600,7 +600,7 @@ You do not need to climb down first. You only need to hear His voice:
 
 Come down. Stop hiding.
 
-*"For the Son of Man came to seek and to save the lost." (Luke 19:10)*
+*"For the Son of man is come to seek and to save that which was lost." (Luke 19:10)*
 
 *May this Lord who seeks you make His home in your heart today — your friend, Zacchaeus*`,
   },
@@ -784,19 +784,19 @@ Come down. Stop hiding.
 
 My name is Saul, of the tribe of Benjamin, a Pharisee among Pharisees.
 
-If you ask me who I was before, I can lay my credentials before you: "Circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless." (Philippians 3:5-6)
+If you ask me who I was before, I can lay my credentials before you: "Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee; Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless." (Philippians 3:5-6)
 
 Did you hear that? **Blameless.** I am not boasting. In those years studying under Gamaliel, I memorized the entire Torah, never broke a single commandment on the Sabbath, tithed down to the mint, dill, and cumin. Among the Pharisees, no one was more serious than I was.
 
 But being serious was not enough. I wanted to **burn with zeal for God.**
 
-When I first heard that a group of people were proclaiming a crucified Nazarene as the Messiah, my blood boiled. **The Messiah hung on a tree?** The Torah clearly states: "a hanged man is cursed by God" (Deuteronomy 21:23). These people were not preaching good news — they were blaspheming God!
+When I first heard that a group of people were proclaiming a crucified Nazarene as the Messiah, my blood boiled. **The Messiah hung on a tree?** The Torah clearly states: "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the LORD thy God giveth thee for an inheritance." (Deuteronomy 21:23). These people were not preaching good news — they were blaspheming God!
 
 So when the Sanhedrin decided to stamp out this heresy, I was the first to volunteer.
 
 The day Stephen was stoned to death, I was there. I did not throw the stones myself — I guarded the garments of those who did. I watched him kneel. I watched the stones strike him one by one. His face was covered in blood, but his face —
 
-Brothers and sisters, I do not like to admit this, but that day I saw a face I have never been able to forget. **His face was like the face of an angel.** As he was dying, he said, "Lord, do not hold this sin against them!" (Acts 7:60)
+Brothers and sisters, I do not like to admit this, but that day I saw a face I have never been able to forget. **His face was like the face of an angel.** As he was dying, he said, "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep." (Acts 7:60)
 
 A man being stoned to death was praying for the men killing him.
 
@@ -856,7 +856,7 @@ I thought of Stephen's face. I thought of every person I had dragged to prison w
 
 **I had been persecuting Jesus. Every believer was part of His body. When I struck them, I struck Him. When I bound them, I bound Him.**
 
-In three days of darkness, I finally understood one thing: **the law can reveal sin, but the law cannot save.** I had spent my whole life keeping the law, and all it had done was show me how hopeless I truly was. "For by works of the law no human being will be justified in his sight" (Romans 3:20).
+In three days of darkness, I finally understood one thing: **the law can reveal sin, but the law cannot save.** I had spent my whole life keeping the law, and all it had done was show me how hopeless I truly was. "Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin." (Romans 3:20).
 
 I also understood something else: **He did not strike me dead.**
 
@@ -866,7 +866,7 @@ That light could have reduced me to ash. After all I had done, I deserved destru
 
 On the third day, a disciple named Ananias came.
 
-I later learned that the Lord had told him in a vision: Go to the street called Straight, and find a man from Tarsus named Saul. Ananias said, "Lord, I have heard from many about this man, how much evil he has done to your saints at Jerusalem" (Acts 9:13).
+I later learned that the Lord had told him in a vision: Go to the street called Straight, and find a man from Tarsus named Saul. Ananias said, "Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:" (Acts 9:13).
 
 Brothers and sisters, think about it — if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
 
@@ -880,7 +880,7 @@ Brother. He called me **brother.**
 
 This man — the very man I had come to Damascus to arrest — called me brother.
 
-"The Lord Jesus who appeared to you on the road by which you came has sent me so that you may regain your sight and be filled with the Holy Spirit" (Acts 9:17).
+"And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost." (Acts 9:17).
 
 In that moment, something like scales fell from my eyes. I could see again. But what I saw was no longer the world I had known — I saw an entirely new world. **When I was blind, I thought I could see. Only when I could see did I realize I had been blind all along.**
 
@@ -898,7 +898,7 @@ Not because of any good in me. Not because of my learning — though I was indee
 
 **He chose me precisely to display all His patience in me, the foremost of sinners.**
 
-"The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life" (1 Timothy 1:15-16).
+"This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief. Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting." (1 Timothy 1:15-16).
 
 Did you hear that? **As an example to those who would come after.** If even Saul could be forgiven, if even a persecutor of the church could become an apostle — **then no one is beyond the reach of grace.**
 
@@ -906,7 +906,7 @@ Did you hear that? **As an example to those who would come after.** If even Saul
 
 In my letter to the Philippians, I wrote these words. Let me say them again now:
 
-"But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ" (Philippians 3:7-8).
+"But what things were gain to me, those I counted loss for Christ. Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ," (Philippians 3:7-8).
 
 **Rubbish.**
 
@@ -936,7 +936,7 @@ Let go. Like me, fall down before that light.
 
 And then you will hear Him call your name.
 
-*"But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life." (1 Timothy 1:16)*
+*"Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting." (1 Timothy 1:16)*
 
 *May the Lord who shone His light on me on the Damascus road also shine His light into your heart — your brother, Paul*`,
   },
@@ -1178,7 +1178,7 @@ I said: "God will provide for himself the lamb for a burnt offering, my son."
 
 When I said those words, I did not know whether they would prove true. I simply compressed everything I had into that one sentence.
 
-> "When they came to the place of which God had told him, Abraham built the altar there and laid the wood in order and bound Isaac his son and laid him on the altar, on top of the wood. Then Abraham reached out his hand and took the knife to slaughter his son." (Genesis 22:9-10, ESV)
+> "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood. And Abraham stretched forth his hand, and took the knife to slay his son." (Genesis 22:9-10)
 
 **The knife did not fall.**
 
@@ -1214,7 +1214,7 @@ Isaac carried the wood up the mountain; that wood was later laid on another man'
 
 My hand raised the knife but was stopped; the Father's Son was nailed to the wood, and no one stopped it.
 
-"He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?" (Romans 8:32)
+"He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?" (Romans 8:32)
 
 That day, on Mount Moriah, I raised the knife — and only then did I see the heart of God: a Father willing, out of love, to give even His own Son without holding back.
 
@@ -1454,11 +1454,11 @@ It happened in the spring. At the time when kings go out to battle, I should hav
 
 One evening I rose from my bed and walked on the roof of the palace. It was then that I saw a woman bathing. She was very beautiful.
 
-Brothers and sisters, I will not describe in detail what happened next. You may read 2 Samuel chapter 11 for yourselves. I will say only this: I sent and inquired about the woman. And someone told me, "Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?" (2 Samuel 11:3)
+Brothers and sisters, I will not describe in detail what happened next. You may read 2 Samuel chapter 11 for yourselves. I will say only this: I sent and inquired about the woman. And someone told me, "And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?" (2 Samuel 11:3)
 
 **She was a married woman. And her husband was one of my most loyal warriors.**
 
-I knew what the law said. I had memorized the Torah since my youth. "You shall not covet your neighbor's wife" (Deuteronomy 5:21). I knew this commandment by heart. But in that moment, the voice of the law was drowned out by another voice — the voice of desire, the voice of power, the voice that said, "I am the king; who can stop me?"
+I knew what the law said. I had memorized the Torah since my youth. "Neither shalt thou desire thy neighbour’s wife, neither shalt thou covet thy neighbour’s house, his field, or his manservant, or his maidservant, his ox, or his ass, or any thing that is thy neighbour’s." (Deuteronomy 5:21). I knew this commandment by heart. But in that moment, the voice of the law was drowned out by another voice — the voice of desire, the voice of power, the voice that said, "I am the king; who can stop me?"
 
 I sent messengers and took her. I sinned against her.
 
@@ -1466,11 +1466,11 @@ I sent messengers and took her. I sinned against her.
 
 If things had stopped there, it would have been terrible enough. But sin never stays in one place. Sin has momentum — one sin begets another, until you are completely entangled in the web you yourself have woven.
 
-Bathsheba became pregnant. She sent word to me: "I am pregnant" (2 Samuel 11:5).
+Bathsheba became pregnant. She sent word to me: "And the woman conceived, and sent and told David, and said, I am with child." (2 Samuel 11:5).
 
 My first response was not repentance, but **concealment**.
 
-I called Uriah back from the front, hoping he would go home and lie with his wife, so that people would think the child was his. But Uriah — this man to whom I owed an immeasurable debt — had more honor than I did. He said, "The ark and Israel and Judah dwell in booths, and my lord Joab and the servants of my lord are camping in the open field. Shall I then go to my house, to eat and to drink and to lie with my wife? As you live, and as your soul lives, I will not do this thing" (2 Samuel 11:11).
+I called Uriah back from the front, hoping he would go home and lie with his wife, so that people would think the child was his. But Uriah — this man to whom I owed an immeasurable debt — had more honor than I did. He said, "And Uriah said unto David, The ark, and Israel, and Judah, abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; shall I then go into mine house, to eat and to drink, and to lie with my wife? as thou livest, and as thy soul liveth, I will not do this thing." (2 Samuel 11:11).
 
 Did you hear that? Uriah was concerned for the ark of God and the army of Israel, refusing to enjoy comfort. Meanwhile, I, the king, was hiding in my palace committing sin. His loyalty and integrity exposed my depravity and hypocrisy in that moment.
 
@@ -1478,7 +1478,7 @@ I tried twice to make him go home. He would not. I even got him drunk, and still
 
 I was desperate. No — I was not truly desperate. I could have stopped at that moment and confessed my sin before God. But I chose a darker path.
 
-I wrote a letter to Joab, the commander of the army, and sent it by Uriah's own hand. The letter said: "Set Uriah in the forefront of the hardest fighting, and then draw back from him, that he may be struck down and die" (2 Samuel 11:15).
+I wrote a letter to Joab, the commander of the army, and sent it by Uriah's own hand. The letter said: "And he wrote in the letter, saying, Set ye Uriah in the forefront of the hottest battle, and retire ye from him, that he may be smitten, and die." (2 Samuel 11:15).
 
 **I used a faithful man's own hand to deliver his death sentence.**
 
@@ -1488,7 +1488,7 @@ Uriah died. I took Bathsheba into the palace and made her my wife. To the outsid
 
 **But the eyes of the LORD never close.**
 
-Scripture records: "But the thing that David had done displeased the LORD" (2 Samuel 11:27).
+Scripture records: "And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bare him a son. But the thing that David had done displeased the LORD." (2 Samuel 11:27).
 
 ## The Year That Followed
 
@@ -1498,7 +1498,7 @@ But on the inside?
 
 I later wrote in Psalm 32:
 
-> "For when I kept silent, my bones wasted away through my groaning all day long. For day and night your hand was heavy upon me; my strength was dried up as by the heat of summer." (Psalm 32:3-4)
+> "When I kept silence, my bones waxed old through my roaring all the day long. For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah." (Psalm 32:3-4)
 
 **The hand of God was heavy upon me.** Not because God was punishing me — though punishment did come — but because the Holy Spirit within me would not let me rest. He would not allow me to live comfortably in my sin.
 
@@ -1514,13 +1514,13 @@ Then Nathan came.
 
 The prophet Nathan came to me, sent by the LORD. He did not accuse me directly. He told me a story — a rich man with many flocks and herds who took the only lamb of a poor man.
 
-I burned with anger and said to Nathan, "As the LORD lives, the man who has done this deserves to die! He shall restore the lamb fourfold" (2 Samuel 12:5-6).
+I burned with anger and said to Nathan, "And David’s anger was greatly kindled against the man; and he said to Nathan, As the LORD liveth, the man that hath done this thing shall surely die: And he shall restore the lamb fourfold, because he did this thing, and because he had no pity." (2 Samuel 12:5-6).
 
 **With my own mouth, I condemned myself.**
 
 Then Nathan looked me in the eyes and spoke the words that struck my soul like thunder:
 
-> "You are the man!" (2 Samuel 12:7)
+> "And Nathan said to David, Thou art the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;" (2 Samuel 12:7)
 
 Brothers and sisters, I do not know how to describe that moment to you. It was not merely a man accusing me. It was the living God, through the mouth of His servant, tearing off the mask I had worn for nearly a year. Those four words — "You are the man" — were like a sword, piercing through all my excuses, all my pretenses, all my self-deception.
 
@@ -1530,7 +1530,7 @@ Every word fell like burning coals upon my head. God had given me everything —
 
 In that moment, all pretense shattered. The king's dignity shattered. Self-justification shattered. The facade I had painstakingly maintained for nearly a year shattered.
 
-I said only one thing: "I have sinned against the LORD" (2 Samuel 12:13).
+I said only one thing: "And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away thy sin; thou shalt not die." (2 Samuel 12:13).
 
 Not "I made a mistake." Not "It's complicated." Not "It wasn't entirely my fault." Just six words: **I have sinned against the LORD.**
 
@@ -1538,7 +1538,7 @@ Nathan said to me, "The LORD also has put away your sin; you shall not die."
 
 Brothers and sisters, please note — this was not because my repentance was so good, so deep, or so sincere. It was entirely because of the grace of the LORD. It was He who chose to forgive. It was He who put away my sin. Repentance was a gift He gave me, and forgiveness even more so.
 
-**But the consequences of sin were not removed.** Nathan told me that the child born to me and Bathsheba would surely die. The sword would never depart from my house. These things all came to pass. God forgave my sin, but He did not remove its discipline. This too was from His love — "For the Lord disciplines the one he loves" (Hebrews 12:6).
+**But the consequences of sin were not removed.** Nathan told me that the child born to me and Bathsheba would surely die. The sword would never depart from my house. These things all came to pass. God forgave my sin, but He did not remove its discipline. This too was from His love — "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth." (Hebrews 12:6).
 
 ## The Day I Wrote Psalm 51
 
@@ -1550,21 +1550,21 @@ I did not use elegant language. I did not carefully design the structure and met
 
 The first words I wrote were:
 
-> "Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions!" (Psalm 51:1)
+> "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions." (Psalm 51:1)
 
 Notice: I did not say "have mercy on me according to my merits." I did not say "for the sake of my killing Goliath." I did not say "because I am a man after your heart." **The only ground on which I could cry out was God's own steadfast love and mercy.**
 
-> "Wash me thoroughly from my iniquity, and cleanse me from my sin!" (Psalm 51:2)
+> "Wash me throughly from mine iniquity, and cleanse me from my sin." (Psalm 51:2)
 
 "Wash me thoroughly" — I used a word for laundering clothes, like a woman scrubbing dirty garments at the river. My sin was not a light stain that could be wiped away with a quick touch. It was filth soaked into the very fibers, requiring thorough, repeated washing.
 
-> "For I know my transgressions, and my sin is ever before me." (Psalm 51:3)
+> "For I acknowledge my transgressions: and my sin is ever before me." (Psalm 51:3)
 
 For nearly a year I had tried not to look at my sin. I pretended it did not exist. But now the mask was shattered, and I fled no longer. My sin was right there — **ever before me** — every moment.
 
 Then I wrote perhaps the most puzzling yet most profound line of the entire psalm:
 
-> "Against you, you only, have I sinned and done what is evil in your sight, so that you may be justified in your words and blameless in your judgment." (Psalm 51:4)
+> "Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest." (Psalm 51:4)
 
 "Against you only" — some will ask: David, did you not also sin against Bathsheba? Against Uriah? Against all Israel?
 
@@ -1572,7 +1572,7 @@ Yes. I sinned against every one of them. But what I am saying here is a deeper t
 
 Moreover, when I said "so that you may be justified in your words" — I was not defending myself. I was saying: **God, however you judge me, you are right.** I fully accept your verdict. If you were to destroy me, you would be just.
 
-> "Behold, I was brought forth in iniquity, and in sin did my mother conceive me." (Psalm 51:5)
+> "Behold, I was shapen in iniquity; and in sin did my mother conceive me." (Psalm 51:5)
 
 This is not blaming my mother. This is my finally recognizing a profound truth: my problem was not just that one act of sin — **my problem is that my entire being is corrupt.** From my mother's womb I carried a sinful nature. My fall on the palace rooftop was not an accidental stumble but the inevitable expression of my fallen nature.
 
@@ -1580,19 +1580,19 @@ This is why self-effort will never be enough. Reform is not enough. Resolution i
 
 And so I wrote the heart of this psalm:
 
-> "Create in me a clean heart, O God, and renew a right spirit within me." (Psalm 51:10)
+> "Create in me a clean heart, O God; and renew a right spirit within me." (Psalm 51:10)
 
 "Create" — I used the same word from Genesis chapter 1. Only God can create something from nothing. What I need is an entirely new heart, not a patched-up old one. Only the One who said "Let there be light" and there was light can create light anew in my darkened heart.
 
-> "Cast me not away from your presence, and take not your Holy Spirit from me." (Psalm 51:11)
+> "Cast me not away from thy presence; and take not thy holy spirit from me." (Psalm 51:11)
 
 This was my deepest fear. Not losing my throne — what is a throne? Not death — death might even be relief. What I feared most was **losing God's presence.** I had seen what happened to Saul. The Spirit of the LORD departed from him, and he became a different man — consumed by fear and jealousy. I knelt and pleaded: God, do not leave me as you left Saul!
 
-> "Restore to me the joy of your salvation, and uphold me with a willing spirit." (Psalm 51:12)
+> "Restore unto me the joy of thy salvation; and uphold me with thy free spirit." (Psalm 51:12)
 
 "Restore" — meaning I once had it. Before my sin, I had the joy of salvation. In those youthful days of shepherding, I gazed at the stars and praised the Creator with a heart full of joy. On the day I danced before the ark, I had inexpressible gladness. But sin took it all away. For nearly a year my heart had been a desert. Now I pleaded with God to give that joy back to me.
 
-> "The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise." (Psalm 51:17)
+> "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise." (Psalm 51:17)
 
 This is the most important truth I grasped while writing this psalm, and the one I most want to share with you.
 
@@ -1622,7 +1622,7 @@ I, David, say to you: **Come. Bring your broken heart and come.**
 
 Do not waste nearly a year, as I did, in concealment and self-deception. The sooner you come before God to confess, the sooner you will find freedom.
 
-Do not think your sin is too great for God to forgive. I committed adultery and murder, and God forgave even me. Not because I am David — but because He is the LORD, "a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness" (Exodus 34:6).
+Do not think your sin is too great for God to forgive. I committed adultery and murder, and God forgave even me. Not because I am David — but because He is the LORD, "And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth," (Exodus 34:6).
 
 Do not think you can repair things by your own effort. What you need is to be re-created, not repaired. Only the Holy Spirit can create a clean heart within you and renew a right spirit within you.
 
@@ -1632,7 +1632,7 @@ Psalm 51 is not the most beautiful psalm I ever wrote. It does not have the sere
 
 Brothers and sisters, remember this verse:
 
-> "The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise." (Psalm 51:17)
+> "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise." (Psalm 51:17)
 
 Your broken heart is more precious in God's sight than ten thousand rams, than ten thousand rivers of oil. For a broken heart is a humble heart, a heart that no longer relies on itself, a heart that looks entirely to grace.
 
@@ -1819,7 +1819,7 @@ Dear brothers and sisters,
 
 I am Ruth, a woman of Moab. Perhaps you have heard my name, for by the grace of God it was inscribed in the genealogy of the Messiah Himself. But before that, I was nothing more than a foreign widow—one whom the law explicitly excluded from the assembly of the LORD.
 
-> "No Ammonite or Moabite may enter the assembly of the LORD. Even to the tenth generation, none of them may enter the assembly of the LORD forever." (Deuteronomy 23:3)
+> "An Ammonite or Moabite shall not enter into the congregation of the LORD; even to their tenth generation shall they not enter into the congregation of the LORD for ever:" (Deuteronomy 23:3)
 
 This was the law's verdict upon my people. Ten generations, forever—how absolute those words are. If someone had told me in my youth that one day the God of Israel would become my God and the people of Israel would become my people, I would have thought it a fool's dream. Yet this is precisely the wonder of grace—it is not earned by human merit, nor limited by human origin. Grace is the free gift of the Most High.
 
@@ -1831,7 +1831,7 @@ I married Mahlon. Those days were brief, yet it was through Naomi that I first h
 
 Yet sorrow followed upon sorrow. First Elimelech died, then Mahlon and Chilion. Three widows—in that era, virtually three people without hope. Naomi resolved to return to Bethlehem. She said to me and Orpah:
 
-> "Go, return each of you to her mother's house. May the LORD deal kindly with you, as you have dealt with the dead and with me." (Ruth 1:8)
+> "And Naomi said unto her two daughters in law, Go, return each to her mother’s house: the LORD deal kindly with you, as ye have dealt with the dead, and with me." (Ruth 1:8)
 
 Orpah kissed her and departed weeping. I do not blame her. From a human perspective, she made the most rational choice—returning to her own people, her own gods, and the possibility of remarriage. Naomi urged me to follow.
 
@@ -1845,13 +1845,13 @@ Yet one thing I knew more certainly than anything else: the God whom Naomi worsh
 
 And so I spoke those words that welled up from the deepest place in my soul:
 
-> "Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God. Where you die I will die, and there will I be buried. May the LORD do so to me and more also if anything but death parts me from you." (Ruth 1:16–17)
+> "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God: Where thou diest, will I die, and there will I be buried: the LORD do so to me, and more also, if ought but death part thee and me." (Ruth 1:16–17)
 
 This was not merely loyalty to my mother-in-law. This was a confession of faith. "Your God my God"—in that moment I surrendered myself entirely to the LORD. I did not know what the road ahead would hold, how the people of Bethlehem would regard me, or where tomorrow's bread would come from. But I knew this God was faithful.
 
 Brothers and sisters, faith has never been a step taken only after everything is certain. Faith is following when you cannot see. As your apostle later wrote:
 
-> "Now faith is the assurance of things hoped for, the conviction of things not seen." (Hebrews 11:1)
+> "Now faith is the substance of things hoped for, the evidence of things not seen." (Hebrews 11:1)
 
 I did not know those words then, but I lived them.
 
@@ -1859,23 +1859,23 @@ I did not know those words then, but I lived them.
 
 We arrived in Bethlehem at the beginning of the barley harvest. Naomi's heart was bitter. She told the women who recognized her:
 
-> "Do not call me Naomi; call me Mara, for the Almighty has dealt very bitterly with me. I went away full, and the LORD has brought me back empty." (Ruth 1:20–21)
+> "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me. I went out full, and the LORD hath brought me home again empty: why then call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?" (Ruth 1:20–21)
 
 Naomi means "pleasant"; Mara means "bitter." She felt the hand of God pressing heavily upon her. Brothers and sisters, have any of you known such a season—when God seems distant, when life turns from sweet to bitter? Let me tell you: Naomi did not yet know that God was secretly weaving the most marvelous story on her behalf. Suffering was not the end of the story; it was the prelude to grace.
 
 To survive, I went to glean in the fields. The law contained a gracious provision:
 
-> "When you reap your harvest in your field and forget a sheaf in the field, you shall not go back to get it. It shall be for the sojourner, the fatherless, and the widow." (Deuteronomy 24:19)
+> "When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the LORD thy God may bless thee in all the work of thine hands." (Deuteronomy 24:19)
 
 Behold—the same law that barred Moabites from the LORD's assembly also left room for grace toward sojourners and widows. Does this not reveal God's very heart? The law exposes sin and unworthiness; grace opens a way for sinners.
 
 I "happened" to come to the field of Boaz—but in God's providence, nothing "happens" by chance. Boaz was a relative of Elimelech, a man of great wealth. He saw me, inquired about me, and said:
 
-> "All that you have done for your mother-in-law since the death of your husband has been fully told to me, and how you left your father and mother and your native land and came to a people that you did not know before. The LORD repay you for what you have done, and a full reward be given you by the LORD, the God of Israel, under whose wings you have come to take refuge!" (Ruth 2:11–12)
+> "And Boaz answered and said unto her, It hath fully been shewed me, all that thou hast done unto thy mother in law since the death of thine husband: and how thou hast left thy father and thy mother, and the land of thy nativity, and art come unto a people which thou knewest not heretofore. The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust." (Ruth 2:11-12)
 
 I fell on my face, bowing to the ground, and said:
 
-> "Why have I found favor in your eyes, that you should take notice of me, since I am a foreigner?" (Ruth 2:10)
+> "Then she fell on her face, and bowed herself to the ground, and said unto him, Why have I found grace in thine eyes, that thou shouldest take knowledge of me, seeing I am a stranger?" (Ruth 2:10)
 
 Brothers and sisters, "though I am not one of your servants"—this was my true feeling. I was nothing: a Moabite widow, gleaning leftover grain in someone else's field. Yet Boaz did not despise me. He commanded his servants to deliberately pull stalks from the bundles and leave them for me. He invited me to sit with his workers, to dip my bread in vinegar. His kindness went far beyond what the law required.
 
@@ -1891,13 +1891,13 @@ He asked, "Who are you?"
 
 I answered:
 
-> "I am Ruth, your servant. Spread your wings over your servant, for you are a redeemer." (Ruth 3:9)
+> "And he said, Who art thou? And she answered, I am Ruth thine handmaid: spread therefore thy skirt over thine handmaid; for thou art a near kinsman." (Ruth 3:9)
 
 "Spread your wings over me"—these words carry far more weight than appears on the surface. Boaz had blessed me for taking refuge under the LORD's wings (כָּנָף, kanaph). Now I asked him to spread his wing (the same word, כָּנָף) over me. I was saying: You are God's answer to your own prayer. You blessed me to take refuge under God's wings; now I ask you to become those wings.
 
 How did Boaz respond?
 
-> "May you be blessed by the LORD, my daughter. You have made this last kindness greater than the first in that you have not gone after young men, whether poor or rich. And now, my daughter, do not fear. I will do for you all that you ask, for all my fellow townsmen know that you are a worthy woman." (Ruth 3:10–11)
+> "And he said, Blessed be thou of the LORD, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich. And now, my daughter, fear not; I will do to thee all that thou requirest: for all the city of my people doth know that thou art a virtuous woman." (Ruth 3:10–11)
 
 ### V. Redemption at the City Gate: Grace Fulfills the Law
 
@@ -1905,17 +1905,17 @@ But there was a complication. There was a nearer kinsman than Boaz who had the p
 
 The nearer kinsman was at first willing to redeem Elimelech's land, but when he heard that he must also marry Ruth the Moabitess to raise up offspring for the dead, he withdrew:
 
-> "I cannot redeem it for myself, lest I impair my own inheritance. Take my right of redemption yourself, for I cannot redeem it." (Ruth 4:6)
+> "And the kinsman said, I cannot redeem it for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem it." (Ruth 4:6)
 
 He drew off his sandal and gave it to Boaz—the custom of attestation in Israel. Then Boaz declared before all the elders:
 
-> "You are witnesses this day that I have bought from the hand of Naomi all that belonged to Elimelech and all that belonged to Chilion and to Mahlon. Also Ruth the Moabite, the widow of Mahlon, I have bought to be my wife, to perpetuate the name of the dead in his inheritance." (Ruth 4:9–10)
+> "And Boaz said unto the elders, and unto all the people, Ye are witnesses this day, that I have bought all that was Elimelech’s, and all that was Chilion’s and Mahlon’s, of the hand of Naomi. Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye are witnesses this day." (Ruth 4:9–10)
 
 Brothers and sisters, do you see it? The nearer kinsman who would not pay the price—is he not like the law itself? The law can identify the problem—the land needs redeeming, the widow needs caring for—but the law has no power to accomplish redemption. The law withdrew, saying, "I cannot redeem."
 
 But Boaz stepped forward. He willingly paid the price, bore the full cost, and took a Moabite woman as his wife. Brothers and sisters, is this not precisely what Christ has done? The law cannot save you; it can only reveal your sin. But Christ came—He is the true kinsman-redeemer (גֹּאֵל), and He redeemed you with His own blood.
 
-> "For he who sanctifies and those who are sanctified all have one source. That is why he is not ashamed to call them brothers." (Hebrews 2:11)
+> "For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren," (Hebrews 2:11)
 
 He who is not ashamed of foreign sinners—He is your Redeemer.
 
@@ -1923,7 +1923,7 @@ He who is not ashamed of foreign sinners—He is your Redeemer.
 
 Then the LORD enabled me to conceive, and I bore a son. The women of the neighborhood named him Obed, meaning "servant." They said to Naomi:
 
-> "Blessed be the LORD, who has not left you this day without a redeemer, and may his name be renowned in Israel! He shall be to you a restorer of life and a nourisher of your old age, for your daughter-in-law who loves you, who is more to you than seven sons, has given birth to him." (Ruth 4:14–15)
+> "And the women said unto Naomi, Blessed be the LORD, which hath not left thee this day without a kinsman, that his name may be famous in Israel. And he shall be unto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him." (Ruth 4:14-15)
 
 Behold—she who had said "Call me Mara" now held the child in her arms and became his nurse (Ruth 4:16). Bitterness turned to sweetness, emptiness to fullness, mourning to joy. Not because we had done anything worthy, but because the steadfast love of the LORD endures forever.
 
@@ -1933,7 +1933,7 @@ And this child—Obed—fathered Jesse, and Jesse fathered King David. Brothers 
 
 And in this genealogy, Matthew specifically recorded:
 
-> "And Salmon the father of Boaz by Rahab, and Boaz the father of Obed by Ruth." (Matthew 1:5)
+> "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;" (Matthew 1:5)
 
 My name is there. A Moabite woman's name, in the genealogy of the Messiah. Not because of any merit of mine, but grace—entirely grace.
 
@@ -1945,7 +1945,7 @@ Perhaps you feel, as I once did, like an "outsider"—unqualified, unholy, wrong
 
 Your apostle Paul later wrote:
 
-> "But now in Christ Jesus you who once were far off have been brought near by the blood of Christ." (Ephesians 2:13)
+> "But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ." (Ephesians 2:13)
 
 This is my story—from far off to near, from excluded to embraced, from a gleaning widow to the grandmother of a king.
 
@@ -1953,7 +1953,7 @@ But remember: grace is not cheap. I had to leave Moab. I had to lay down everyth
 
 You who follow Christ today face the same call. You are summoned to leave the old self and take up the cross. The road ahead may be unclear, but He who called you is faithful. Just as Boaz said to me on the threshing floor, "Do not fear," so your Lord says to you:
 
-> "Do not fear, only believe." (Mark 5:36)
+> "As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe." (Mark 5:36)
 
 Finally, I thank you for remembering my story today. I am but a small part of God's grand narrative of redemption. Yet through one Moabite woman's life, God declared an eternal truth to the world:
 
@@ -2098,11 +2098,11 @@ The fire on Carmel had barely gone out, the people's shouts still echoed in my e
 
 But the reality was: Jezebel sent me a single message.
 
-> Then Jezebel sent a messenger to Elijah, saying, "So may the gods do to me and more also, if I do not make your life as the life of one of them by this time tomorrow." (1 Kings 19:2)
+> Then Jezebel sent a messenger to Elijah, saying, "Then Jezebel sent a messenger unto Elijah, saying, So let the gods do to me, and more also, if I make not thy life as the life of one of them by to morrow about this time." (1 Kings 19:2)
 
 One sentence. A single woman's threat. Just twenty-four hours earlier, I had stood alone on Mount Carmel, facing the entire nation's idolatrous power without fear. But now, one sentence from Jezebel made me throw down my armor and run.
 
-> Then he was afraid, and he arose and ran for his life and came to Beersheba, which belongs to Judah, and left his servant there. But he himself went a day's journey into the wilderness and came and sat down under a broom tree. And he asked that he might die, saying, "It is enough; now, O LORD, take away my life, for I am no better than my fathers." (1 Kings 19:3-4)
+> Then he was afraid, and he arose and ran for his life and came to Beersheba, which belongs to Judah, and left his servant there. But he himself went a day's journey into the wilderness and came and sat down under a broom tree. And he asked that he might die, saying, "And when he saw that, he arose, and went for his life, and came to Beersheba, which belongeth to Judah, and left his servant there. But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die; and said, It is enough; now, O LORD, take away my life; for I am not better than my fathers." (1 Kings 19:3-4)
 
 "It is enough! Take away my life."—Brothers and sisters, can you imagine? The prophet who called down heavenly fire yesterday is begging to die under a broom tree today. This is not fiction—Scripture records without concealment the weakest moment of God's most faithful servant.
 
@@ -2112,7 +2112,7 @@ Why? Because spiritual peaks are often followed by the deepest valleys. Physical
 
 I fell asleep under the broom tree. Then something wonderful happened.
 
-> And he lay down and slept under a broom tree. And behold, an angel touched him and said to him, "Arise and eat." And he looked, and behold, there was at his head a cake baked on hot stones and a jar of water. And he ate and drank and lay down again. And the angel of the LORD came again a second time and touched him and said, "Arise and eat, for the journey is too great for you." (1 Kings 19:5-7)
+> And he lay down and slept under a broom tree. And behold, an angel touched him and said to him, "Arise and eat." And he looked, and behold, there was at his head a cake baked on hot stones and a jar of water. And he ate and drank and lay down again. And the angel of the LORD came again a second time and touched him and said, "And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise and eat. And he looked, and, behold, there was a cake baken on the coals, and a cruse of water at his head. And he did eat and drink, and laid him down again. And the angel of the LORD came again the second time, and touched him, and said, Arise and eat; because the journey is too great for thee." (1 Kings 19:5-7)
 
 God did not rebuke me. He didn't say "How can you have so little faith?" He didn't preach a sermon on faith. He sent an angel—to do what? **Bake bread and pour water.**
 
@@ -2134,13 +2134,13 @@ I understood later: God does not waste our weakness. On Mount Carmel, I witnesse
 
 I arrived at Horeb—the very place where Moses had seen the burning bush, where God had given the Ten Commandments. I went into a cave and huddled there.
 
-> And the word of the LORD came to him: "What are you doing here, Elijah?" (1 Kings 19:9)
+> And the word of the LORD came to him: "And he came thither unto a cave, and lodged there; and, behold, the word of the LORD came to him, and he said unto him, What doest thou here, Elijah?" (1 Kings 19:9)
 
 This question struck my heart. "What are you doing here?"—You shouldn't be here. You are a prophet; you should be in Israel, standing before the people. But instead you're hiding in a cave.
 
 How did I answer?
 
-> He said, "I have been very jealous for the LORD, the God of hosts. For the people of Israel have forsaken your covenant, thrown down your altars, and killed your prophets with the sword, and I, even I only, am left, and they seek my life, to take it away." (1 Kings 19:10)
+> He said, "And he said, I have been very jealous for the LORD God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away." (1 Kings 19:10)
 
 I said "I have been very jealous for the LORD, the God of hosts"—note, this was true. My zeal was genuine. But zeal is not the same as faith. Zeal can make you stand on Mount Carmel facing four hundred and fifty false prophets; but when zeal is spent, what you need is faith—believing that even when you cannot see results, God still reigns.
 
@@ -2176,17 +2176,17 @@ The psalmist said:
 
 God asked me the same question again, and I gave the same answer—"I, even I only, am left." But this time, God directly corrected me:
 
-> And the LORD said to him, "Go, return on your way to the wilderness of Damascus. And when you arrive, you shall anoint Hazael to be king over Syria. And you shall anoint Jehu the son of Nimshi to be king over Israel, and Elisha the son of Shaphat of Abel-meholah you shall anoint to be prophet in your place." (1 Kings 19:15-16)
+> And the LORD said to him, "And the LORD said unto him, Go, return on thy way to the wilderness of Damascus: and when thou comest, anoint Hazael to be king over Syria: And Jehu the son of Nimshi shalt thou anoint to be king over Israel: and Elisha the son of Shaphat of Abelmeholah shalt thou anoint to be prophet in thy room." (1 Kings 19:15-16)
 
 God gave me three specific missions. He did not let me continue wallowing in self-pity—he gave me work to do. When you are mired in despair, the best medicine is often not more reflection but getting up and acting.
 
 Then God said a sentence that utterly shattered my self-pity:
 
-> "Yet I will leave seven thousand in Israel, all the knees that have not bowed to Baal, and every mouth that has not kissed him." (1 Kings 19:18)
+> "Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him." (1 Kings 19:18)
 
 **Seven thousand.** I thought I was the only one left; God said he had preserved seven thousand. Paul later quoted this passage in Romans:
 
-> But what is God's reply to him? "I have kept for myself seven thousand men who have not bowed the knee to Baal." (Romans 11:4)
+> But what is God's reply to him? "But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal." (Romans 11:4)
 
 You are not alone. You are never alone. When you feel you are the only one left holding onto the faith, God is preserving thousands of faithful people where you cannot see. The church does not rest on your shoulders alone—the church is the body of Christ, and he will never let his church perish.
 
@@ -2209,7 +2209,7 @@ Your servant, Elijah the Tishbite`,
     category: 'testimony',
     scripture: '路加福音 1:46-55 / Luke 1:46-55',
     scriptureText_zh: '马利亚说：我心尊主为大；我灵以神我的救主为乐；因为他顾念他使女的卑微；从今以后，万代要称我有福。（路加福音 1:46-49）',
-    scriptureText_en: 'And Mary said, "My soul magnifies the Lord, and my spirit rejoices in God my Savior, for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed." (Luke 1:46-49)',
+    scriptureText_en: 'And Mary said, "And Mary said, My soul doth magnify the Lord, And my spirit hath rejoiced in God my Saviour. For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed. For he that is mighty hath done to me great things; and holy is his name." (Luke 1:46-49)',
     summary_zh: '一个拿撒勒的平凡少女，被神拣选成为弥赛亚的母亲。马利亚的尊主颂不是一首安静的摇篮曲，而是一首翻转世界的革命之歌——神叫有权柄的失位，叫卑贱的升高。',
     summary_en: 'An ordinary girl from Nazareth, chosen by God to be the mother of the Messiah. Mary\'s Magnificat is not a quiet lullaby but a revolutionary song that turns the world upside down—God brings down the mighty and exalts the humble.',
     tags: ['颂赞', '谦卑', '恩典', '盼望'],
@@ -2325,7 +2325,7 @@ Yet it was in this overlooked corner that God did something that turned history 
 
 > In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth, to a virgin betrothed to a man whose name was Joseph, of the house of David. And the virgin's name was Mary. (Luke 1:26-27)
 
-> And he came to her and said, "Greetings, O favored one, the Lord is with you!" (Luke 1:28)
+> And he came to her and said, "And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women." (Luke 1:28)
 
 I still remember the terror of that moment. An angel appeared before me—not in the temple, not before an altar, but in my home, in an ordinary room in Nazareth. "O favored one"—what could this mean? How could I, a lowly girl, find favor with God?
 
@@ -2341,7 +2341,7 @@ Then the angel told me the unimaginable news:
 
 I asked a very practical question:
 
-> And Mary said to the angel, "How will this be, since I am a virgin?" (Luke 1:34)
+> And Mary said to the angel, "Then said Mary unto the angel, How shall this be, seeing I know not a man?" (Luke 1:34)
 
 This was not unbelief—it was an honest question. I was an unmarried virgin; how could I conceive? The angel did not rebuke my question but patiently explained the supernatural work of the Holy Spirit. Finally, the angel said a sentence that changes everything:
 
@@ -2351,7 +2351,7 @@ This was not unbelief—it was an honest question. I was an unmarried virgin; ho
 
 Then I spoke the most important words of my life:
 
-> And Mary said, "Behold, I am the servant of the Lord; let it be to me according to your word." (Luke 1:38)
+> And Mary said, "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her." (Luke 1:38)
 
 "I am the servant of the Lord; let it be to me according to your word."—These words seem simple, yet they required extraordinary faith and courage. I knew what this meant: pregnancy outside of marriage was punishable by death—stoning. What would Joseph think? How would my family react? What would the neighbors say? My reputation, my betrothal, my life plans—all would be shattered.
 
@@ -2428,7 +2428,7 @@ The Lord's servant, Mary of Nazareth`,
     category: 'testimony',
     scripture: '约翰福音 20:24-29 / John 20:24-29',
     scriptureText_zh: '多马说："我的主！我的神！"耶稣对他说："你因看见了我才信；那没有看见就信的有福了。"（约翰福音 20:29）（约翰福音 20:28）',
-    scriptureText_en: 'Thomas answered him, "My Lord and my God!" Jesus said to him, "Have you believed because you have seen me? Blessed are those who have not seen and yet have believed." (John 20:29) (John 20:28)',
+    scriptureText_en: 'Thomas answered him, "My Lord and my God!" Jesus said to him, "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed." (John 20:29) (John 20:28)',
     summary_zh: '我不是"怀疑的多马"——我是那个需要亲眼看见才能相信的人。但当复活的主站在我面前，我说出了整本圣经中最伟大的信仰告白："我的主！我的神！"疑惑不是信心的对立面，不信才是。',
     summary_en: 'I am not "Doubting Thomas"—I am the one who needed to see to believe. But when the risen Lord stood before me, I made the greatest confession of faith in all of Scripture: "My Lord and my God!" Doubt is not the opposite of faith; unbelief is.',
     tags: ['信心', '疑惑', '确据', '复活'],
@@ -2539,7 +2539,7 @@ When the Lord Jesus decided to return to Judea to visit Lazarus, who had died, t
 
 At that moment, I said to the other disciples:
 
-> Thomas, called the Twin, said to his fellow disciples, "Let us also go, that we may die with him." (John 11:16)
+> Thomas, called the Twin, said to his fellow disciples, "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him." (John 11:16)
 
 This was said by me—"Doubting Thomas." "Let us also go, that we may die with him." These are not the words of a coward; they are the declaration of one willing to die for his Lord. Brothers and sisters, before you see my doubt, first see my loyalty. I may not have been eloquent, may not have been as outwardly passionate as Peter, but when the Lord was heading toward death, I said "Let us also go"—not "Let us persuade him not to."
 
@@ -2549,9 +2549,9 @@ When I said "Let us also go, that we may die with him," I meant it. I was not on
 
 At the Last Supper, the Lord Jesus said he was going to prepare a place for us, saying "You know the way to where I am going." The other disciples sat in silence—perhaps too embarrassed to admit they didn't understand. But I could not pretend to understand what I didn't.
 
-> Thomas said to him, "Lord, we do not know where you are going. How can we know the way?" (John 14:5)
+> Thomas said to him, "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?" (John 14:5)
 
-This was an honest question—so honest that the other disciples were secretly grateful someone had asked on their behalf. And it was precisely because of my question that the Lord Jesus spoke those words that illuminate all human history: "I am the way, and the truth, and the life. No one comes to the Father except through me." (John 14:6)
+This was an honest question—so honest that the other disciples were secretly grateful someone had asked on their behalf. And it was precisely because of my question that the Lord Jesus spoke those words that illuminate all human history: "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me." (John 14:6)
 
 Brothers and sisters, if Thomas had not asked that "foolish" question, we would not have this precious verse. Honest questioning is not the enemy of faith—false certainty is. If you have questions in your heart, ask honestly. God is not afraid of your questions; he is afraid of you pretending you have none.
 
@@ -2567,7 +2567,7 @@ Why was I absent? Scripture does not say. Perhaps I was too grief-stricken and n
 
 When they told me "We have seen the Lord," I said the words that would define me for all of history:
 
-> Thomas said to them, "Unless I see in his hands the mark of the nails, and place my finger into the mark of the nails, and place my hand into his side, I will never believe." (John 20:25)
+> Thomas said to them, "The other disciples therefore said unto him, We have seen the LORD. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe." (John 20:25)
 
 "I will never believe."—Sounds stubborn, doesn't it? But please understand my situation. I had just experienced the greatest trauma of my life—I watched my Lord, my friend, my hope nailed to a cross and killed. I could not bear a second shattering of hope. If he had not truly risen, yet I believed, the pain of falling into that abyss again would be more fatal than the first time.
 
@@ -2581,7 +2581,7 @@ Eight days passed. We were in that room again, and this time I was there too. Th
 
 Eight days. A full eight days. The Lord made me wait eight days. He did not come to find me the next day, not the third day, not the fifth. He let me wait in doubt for a full eight days. Those eight days were agonizing—the other disciples were all rejoicing while I struggled alone in darkness. But I understand now: those eight days were necessary. God sometimes makes us wait not because he doesn't care, but because he is doing deeper work in the waiting.
 
-> Jesus came and stood among them and said, "Peace be with you." Then he said to Thomas, "Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe." (John 20:26-27)
+> Jesus came and stood among them and said, "Peace be with you." Then he said to Thomas, "And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you. Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing." (John 20:26-27)
 
 Brothers and sisters, do you know what this means? The Lord Jesus knew. He knew every word I had said—"the mark of the nails," "my finger," "his side"—he knew it all. Though he was not in that room, he had heard every word, every sigh, every tear.
 
@@ -2589,7 +2589,7 @@ He did not bypass my doubt. He did not say "Thomas, you are not worthy to see me
 
 In that moment, I didn't need to touch. I didn't need anything anymore. Seeing him standing before me—those pierced hands, that wounded side, that gaze both gentle and majestic—all doubt collapsed in an instant. From my mouth burst forth the greatest confession of faith in all of Scripture:
 
-> Thomas answered him, "My Lord and my God!" (John 20:28)
+> Thomas answered him, "And Thomas answered and said unto him, My LORD and my God." (John 20:28)
 
 "My Lord and my God!"—This was not a vague acknowledgment. It was personal, intimate, ultimate. "**My** Lord! **My** God!" Not "their Lord," not "the God of Israel," but "**mine**." In all the Gospels, no disciple ever made such a direct, such a complete confession of Christ's deity. Peter had said "You are the Christ, the Son of the living God," but what I said was—"You are God."
 
@@ -2603,7 +2603,7 @@ At the end of doubt, what you encounter is not an answer but a person—the rise
 
 The Lord Jesus spoke his final words to me:
 
-> Jesus said to him, "Have you believed because you have seen me? Blessed are those who have not seen and yet have believed." (John 20:29)
+> Jesus said to him, "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed." (John 20:29)
 
 This is not a rebuke—it is a blessing. The Lord did not say "You believed too late" or "Your faith is inferior to the others'." He was saying: Thomas, you are blessed because you believed; but there is an even greater blessing, belonging to those who have not seen with their eyes and yet have believed.
 
@@ -2745,29 +2745,29 @@ Your brother, Thomas`,
 你的弟兄，在拔摩海岛上的约翰`,
     content_en: `Dear reader, grace and peace to you from Him who is and who was and who is to come!
 
-I am John, the disciple whom Jesus loved. At this moment, I sit on a cold rock on the Isle of Patmos, writing this letter with trembling hands. The sea wind howls, waves crash against the cliffs, sending up a low roar. This is a place of exile in the Roman Empire, a prison for political criminals and heretics. I was banished here, not for committing a crime, but "on account of the word of God and the testimony of Jesus" (Rev 1:9).
+I am John, the disciple whom Jesus loved. At this moment, I sit on a cold rock on the Isle of Patmos, writing this letter with trembling hands. The sea wind howls, waves crash against the cliffs, sending up a low roar. This is a place of exile in the Roman Empire, a prison for political criminals and heretics. I was banished here, not for committing a crime, but "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ." (Rev 1:9).
 
 ### I. Remembering the Lord's Presence
 
 I am an old man now. Years have etched deep wrinkles on my face, white hair covers my head like frost. My hands are no longer steady, my eyes are gradually dimming. But my memory remains clear—I will never forget that day that changed my life forever.
 
-It was by the Sea of Galilee. My brother James and I were mending nets, our father Zebedee nearby. Suddenly, a voice called out: "Follow me, and I will make you fishers of men" (Matt 4:19). I looked up and saw those eyes—deep as the sea, yet full of compassion. In that moment, I knew: This is the Lord I would follow all my life.
+It was by the Sea of Galilee. My brother James and I were mending nets, our father Zebedee nearby. Suddenly, a voice called out: "And he saith unto them, Follow me, and I will make you fishers of men." (Matt 4:19). I looked up and saw those eyes—deep as the sea, yet full of compassion. In that moment, I knew: This is the Lord I would follow all my life.
 
-From that day, I followed Him for three and a half years. I saw Him turn water into wine at the wedding in Cana, saw Him feed five thousand with five loaves and two fish, saw Him calm the wind and sea, saw Him raise the dead. I heard Him say with my own ears, "I am the way, and the truth, and the life. No one comes to the Father except through me" (John 14:6).
+From that day, I followed Him for three and a half years. I saw Him turn water into wine at the wedding in Cana, saw Him feed five thousand with five loaves and two fish, saw Him calm the wind and sea, saw Him raise the dead. I heard Him say with my own ears, "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me." (John 14:6).
 
-I will never forget that scene on the Mount of Transfiguration. Jesus took me, Peter, and James up a high mountain. His face shone like the sun, and his clothes became white as light. Moses and Elijah appeared, talking with Him. We fell on our faces in terror. Then a voice from the cloud said, "This is my beloved Son, with whom I am well pleased; listen to him" (Matt 17:5).
+I will never forget that scene on the Mount of Transfiguration. Jesus took me, Peter, and James up a high mountain. His face shone like the sun, and his clothes became white as light. Moses and Elijah appeared, talking with Him. We fell on our faces in terror. Then a voice from the cloud said, "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him." (Matt 17:5).
 
 In that moment, I understood: This carpenter from Nazareth was not merely a great teacher, not merely a miracle-working prophet—He is the Son of God, the Lord of all!
 
 ### II. The Cross and the Empty Tomb
 
-> "He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed." (1 Peter 2:24)
+> "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed." (1 Peter 2:24)
 
 But the most painful memory is that day on Golgotha.
 
 I stood at the foot of the cross, watching Jesus being nailed to the wood. His hands and feet were pierced by huge nails, blood flowing down the cross. His face was twisted in agony, his lips cracked from thirst. The crowd mocked and insulted Him. Soldiers cast lots for His clothing. Heaven and earth went dark.
 
-He saw me and His mother Mary standing nearby, and said to His mother, "Woman, behold, your son!" Then to me He said, "Behold, your mother!" (John 19:26-27). From that hour, I took Mary into my own home.
+He saw me and His mother Mary standing nearby, and said to His mother, "Woman, behold, your son!" Then to me He said, "When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son! Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home." (John 19:26-27). From that hour, I took Mary into my own home.
 
 Then He cried out with a loud voice, "It is finished!" and bowed His head and gave up His spirit (John 19:30). In that moment, my heart broke. I thought everything was over, I thought all hope was lost.
 
@@ -2777,13 +2777,13 @@ Mary Magdalene ran to me and Peter saying, "They have taken the Lord out of the 
 
 Then I went in, saw, and believed (John 20:8).
 
-That evening, the Lord appeared to us. He stood among the disciples and said, "Peace be with you!" We thought it was a spirit, but He said, "See my hands and my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have" (Luke 24:39). I reached out and touched the wound in His side—it was really Him! He had truly risen!
+That evening, the Lord appeared to us. He stood among the disciples and said, "Peace be with you!" We thought it was a spirit, but He said, "Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have." (Luke 24:39). I reached out and touched the wound in His side—it was really Him! He had truly risen!
 
 ### III. Pentecost and the Apostolic Mission
 
-> "But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth." (Acts 1:8)
+> "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth." (Acts 1:8)
 
-Forty days after His resurrection, the Lord ascended to heaven. He said to us, "Go therefore and make disciples of all nations" (Matt 28:19). We returned to Jerusalem and prayed constantly in the upper room.
+Forty days after His resurrection, the Lord ascended to heaven. He said to us, "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:" (Matt 28:19). We returned to Jerusalem and prayed constantly in the upper room.
 
 On the day of Pentecost, the Holy Spirit descended! A mighty wind blew through, tongues of fire rested on each of us. We were filled with the Holy Spirit and began speaking in other languages. Peter stood up and preached, and three thousand people repented and were baptized that day.
 
@@ -2799,13 +2799,13 @@ Peter was crucified upside down in Rome. Paul was beheaded in Rome. James the br
 
 One by one they departed, to see the Lord's face.
 
-I am the last one. I am the only apostle who did not die as a martyr, but not because I fled. The Lord once said to Peter concerning me, "If it is my will that he remain until I come, what is that to you?" (John 21:22). The Lord kept me in the world to complete His commission.
+I am the last one. I am the only apostle who did not die as a martyr, but not because I fled. The Lord once said to Peter concerning me, "Jesus saith unto him, If I will that he tarry till I come, what is that to thee? follow thou me." (John 21:22). The Lord kept me in the world to complete His commission.
 
-I shepherded the church in Ephesus for many years. I taught truth, rebuked false teachers, comforted suffering saints. I wrote the Gospel of John, wrote three epistles, that people might know: "In the beginning was the Word, and the Word was with God, and the Word was God" (John 1:1). And that they might know: "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life" (John 3:16).
+I shepherded the church in Ephesus for many years. I taught truth, rebuked false teachers, comforted suffering saints. I wrote the Gospel of John, wrote three epistles, that people might know: "In the beginning was the Word, and the Word was with God, and the Word was God." (John 1:1). And that they might know: "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." (John 3:16).
 
 ### V. The Vision on Patmos
 
-> "I, John, your brother and partner in the tribulation and the kingdom and the patient endurance that are in Jesus, was on the island called Patmos on account of the word of God and the testimony of Jesus." (Revelation 1:9)
+> "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ." (Revelation 1:9)
 
 But now, I am exiled to this desolate island. The Roman Emperor Domitian persecutes Christians madly, commanding all in the empire to worship his image and call him "Lord and God." I refused, so I was exiled here.
 
@@ -2817,21 +2817,21 @@ It was the Lord's Day. I was in the Spirit, and I heard behind me a loud voice l
 
 I saw seven golden lampstands, and in the midst of the lampstands one like a son of man, clothed with a long robe and with a golden sash around his chest. The hairs of his head were white, like white wool, like snow. His eyes were like a flame of fire, his feet were like burnished bronze, refined in a furnace, and his voice was like the roar of many waters. In his right hand he held seven stars, from his mouth came a sharp two-edged sword, and his face was like the sun shining in full strength (Rev 1:12-16).
 
-When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, "Fear not, I am the first and the last, and the living one. I died, and behold I am alive forevermore, and I have the keys of Death and Hades" (Rev 1:17-18).
+When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, "And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last: I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death." (Rev 1:17-18).
 
 ### VI. A Message for You
 
 Dear reader, I am about to see the Lord's face. My days are few. But before I depart, I want to leave these words for you:
 
-**First, hold fast to the truth.** This world has many false teachers and false prophets who distort the gospel and preach "a different gospel" (Gal 1:6). But remember: salvation is only through faith in Christ, not by works, not by tradition, not by mystical experiences. "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God" (Eph 2:8).
+**First, hold fast to the truth.** This world has many false teachers and false prophets who distort the gospel and preach "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:" (Gal 1:6). But remember: salvation is only through faith in Christ, not by works, not by tradition, not by mystical experiences. "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God" (Eph 2:8).
 
-**Second, love one another.** What is the new commandment the Lord gave us? "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another. By this all people will know that you are my disciples, if you have love for one another" (John 13:34-35). Do not hate your brother, do not judge, do not cause division. Bear with one another in love, eager to maintain the unity of the Spirit (Eph 4:2-3).
+**Second, love one another.** What is the new commandment the Lord gave us? "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another. By this shall all men know that ye are my disciples, if ye have love one to another." (John 13:34-35). Do not hate your brother, do not judge, do not cause division. Bear with one another in love, eager to maintain the unity of the Spirit (Eph 4:2-3).
 
-**Third, do not love the world.** "Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. For all that is in the world—the desires of the flesh and the desires of the eyes and pride of life—is not from the Father but is from the world. And the world is passing away along with its desires, but whoever does the will of God abides forever" (1 John 2:15-17).
+**Third, do not love the world.** "Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him. For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world. And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever." (1 John 2:15-17).
 
-**Fourth, persevere to the end.** In the vision I saw on Patmos, what promises does the Lord make to the one who conquers! "The one who conquers will not be hurt by the second death." "To the one who conquers I will grant to eat of the tree of life." "The one who conquers, I will grant him to sit with me on my throne" (Rev 2-3). Do not abandon your faith because of persecution, affliction, or poverty. "Be faithful unto death, and I will give you the crown of life" (Rev 2:10).
+**Fourth, persevere to the end.** In the vision I saw on Patmos, what promises does the Lord make to the one who conquers! "The one who conquers will not be hurt by the second death." "To the one who conquers I will grant to eat of the tree of life." "The one who conquers, I will grant him to sit with me on my throne" (Rev 2-3). Do not abandon your faith because of persecution, affliction, or poverty. "Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life." (Rev 2:10).
 
-**Fifth, look forward to the Lord's return.** What is the final vision I saw? "Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away...He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away" (Rev 21:1, 4). The Lord says, "Surely I am coming soon" (Rev 22:20). What is our response? "Amen. Come, Lord Jesus!"
+**Fifth, look forward to the Lord's return.** What is the final vision I saw? "Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away...He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away" (Rev 21:1, 4). The Lord says, "He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus." (Rev 22:20). What is our response? "Amen. Come, Lord Jesus!"
 
 ### Epilogue
 
@@ -2841,7 +2841,7 @@ I have seen the Lord with my own eyes, touched Him with my own hands, heard His 
 
 I am about to see His face. But you are still alive. You must choose—will you follow this risen Lord, or continue walking in the darkness of the world?
 
-> "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life." (John 8:12)
+> "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life." (John 8:12)
 
 May the Lord's grace be with you!
 
@@ -2864,7 +2864,7 @@ Your brother, John on the island of Patmos`,
     category: 'testimony',
     scripture: '撒母耳记上 1:1-2:11 / 1 Samuel 1:1-2:11',
     scriptureText_zh: '哈拿心里愁苦，就痛痛哭泣，祈祷耶和华。许愿说："万军之耶和华啊，你若垂顾婢女的苦情，眷念不忘婢女，赐我一个儿子，我必使他终身归与耶和华。"',
-    scriptureText_en: 'She was deeply distressed and prayed to the LORD and wept bitterly. And she vowed a vow and said, "O LORD of hosts, if you will indeed look on the affliction of your servant and remember me and not forget your servant, but will give to your servant a son, then I will give him to the LORD all the days of his life." (1 Samuel 1:10-11)',
+    scriptureText_en: 'She was deeply distressed and prayed to the LORD and wept bitterly. And she vowed a vow and said, "And she was in bitterness of soul, and prayed unto the LORD, and wept sore. And she vowed a vow, and said, O LORD of hosts, if thou wilt indeed look on the affliction of thine handmaid, and remember me, and not forget thine handmaid, but wilt give unto thine handmaid a man child, then I will give him unto the LORD all the days of his life, and there shall no razor come upon his head." (1 Samuel 1:10-11)',
     summary_zh: '在示罗的圣殿里，一个不能生育的妇人含泪祷告，连祭司都以为她喝醉了。哈拿的祷告教会我们：神垂听那些从心灵深处发出的呼求，他的时间表永远不会错。',
     summary_en: 'In the temple at Shiloh, a barren woman prayed through tears so fervently that the priest thought she was drunk. Hannah\'s prayer teaches us that God hears the cries from the depths of the soul, and His timing is never wrong.',
     tags: ['祷告', '信心', '奉献', '恩典'],
@@ -2979,7 +2979,7 @@ Those years of waiting taught me something: faith is not a one-time decision but
 
 My husband Elkanah loved me. He gave me a double portion of the sacrifice; he tenderly comforted me:
 
-> Elkanah, her husband, said to her, "Hannah, why do you weep? And why do you not eat? And why is your heart sad? Am I not more to you than ten sons?" (1 Samuel 1:8)
+> Elkanah, her husband, said to her, "Then said Elkanah her husband to her, Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieved? am not I better to thee than ten sons?" (1 Samuel 1:8)
 
 Elkanah's love was real, but he could not fully understand my pain. "Am I not more to you than ten sons?"—My husband, I feel your love, but the longing in my heart is not something you can fulfill. Some pain is beyond the reach of human comfort; only God can touch it.
 
@@ -2999,13 +2999,13 @@ This was not a transaction—it was faith at its highest expression. I knew that
 
 Eli the priest thought I was drunk! In the sanctuary, a woman whose lips moved constantly yet made no sound—he had never seen such prayer. But this is exactly what true prayer looks like: not performed for others to see, not shouted loudly to attract attention, but a quiet yet fervent cry from the deepest part of the soul toward God.
 
-> But Hannah answered, "No, my lord, I am a woman troubled in spirit. I have drunk neither wine nor strong drink, but I have been pouring out my soul before the LORD." (1 Samuel 1:15)
+> But Hannah answered, "And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but have poured out my soul before the LORD." (1 Samuel 1:15)
 
-"Pouring out my soul"—these four words summarize the prayer of my whole life. Not reciting elegant prayers, not repeating standard formulas, but taking all the bitterness, longing, questioning, and pain in my heart and pouring it all out before God. David later wrote in the Psalms: "Trust in him at all times, O people; pour out your heart before him; God is a refuge for us." (Psalm 62:8)
+"Pouring out my soul"—these four words summarize the prayer of my whole life. Not reciting elegant prayers, not repeating standard formulas, but taking all the bitterness, longing, questioning, and pain in my heart and pouring it all out before God. David later wrote in the Psalms: "Trust in him at all times; ye people, pour out your heart before him: God is a refuge for us. Selah." (Psalm 62:8)
 
 Eli understood and said to me:
 
-> "Go in peace, and the God of Israel grant your petition that you have made to him." (1 Samuel 1:17)
+> "Then Eli answered and said, Go in peace: and the God of Israel grant thee thy petition that thou hast asked of him." (1 Samuel 1:17)
 
 Then Scripture records a wonderful transformation:
 
@@ -3017,13 +3017,13 @@ Sometimes I reflect: if God had given me Samuel earlier, would I have wholeheart
 
 ### III. This Child I Have Asked From the LORD (1 Samuel 1:19-28)
 
-> And the LORD remembered her. And in due time Hannah conceived and bore a son, and she called his name Samuel, for she said, "I have asked for him from the LORD." (1 Samuel 1:20)
+> And the LORD remembered her. And in due time Hannah conceived and bore a son, and she called his name Samuel, for she said, "Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel, saying, Because I have asked him of the LORD." (1 Samuel 1:20)
 
 "Samuel"—meaning "asked of God." Every time his name was called, it was a reminder: this child is not mine; he was asked from God and must be returned to God.
 
 When Samuel was weaned, I took him up to Shiloh—along with three bulls, an ephah of flour, and a skin of wine. This was the best I could offer.
 
-> "For this child I prayed, and the LORD has granted me my petition that I made to him. Therefore I have lent him to the LORD. As long as he lives, he is lent to the LORD." (1 Samuel 1:27-28)
+> "For this child I prayed; and the LORD hath given me my petition which I asked of him: Therefore also I have lent him to the LORD; as long as he liveth he shall be lent to the LORD. And he worshipped the LORD there." (1 Samuel 1:27-28)
 
 Can you imagine the emotion of that moment? Taking your most precious one—the child you wept years to receive, your only son—leaving him at the sanctuary in Shiloh, entrusting him to the aging priest Eli, then turning and walking away, returning to the empty rooms of your home in Ramah.
 
@@ -3066,7 +3066,7 @@ Your sister, Hannah`,
     category: 'testimony',
     scripture: '创世记 50:15-21 / Genesis 50:15-21',
     scriptureText_zh: '约瑟对他们说："不要害怕，我岂能代替神呢？从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景。"（创世记 50:19-20）',
-    scriptureText_en: 'But Joseph said to them, "Do not fear, for am I in the place of God? As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today." (Genesis 50:19-20)',
+    scriptureText_en: 'But Joseph said to them, "And Joseph said unto them, Fear not: for am I in the place of God? But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive." (Genesis 50:19-20)',
     summary_zh: '被亲兄弟出卖、被主母诬陷、被同伴遗忘——十三年的苦难没有白费。约瑟的故事告诉我们：你们的意思是要害我，但神的意思原是好的。在神护理的手中，没有一滴眼泪是徒然的。',
     summary_en: 'Sold by his own brothers, falsely accused by his master\'s wife, forgotten by his fellow prisoner—thirteen years of suffering were not in vain. Joseph\'s story tells us: you meant evil against me, but God meant it for good. In God\'s providential hand, not a single tear is shed in vain.',
     tags: ['忍耐', '护理', '饶恕', '信实'],
@@ -3229,11 +3229,11 @@ When Pharaoh's dreams could not be interpreted, the chief cupbearer finally reme
 
 I named my firstborn Manasseh:
 
-> Joseph called the name of the firstborn Manasseh. "For," he said, "God has made me forget all my hardship and all my father's house." (Genesis 41:51)
+> Joseph called the name of the firstborn Manasseh. "For," he said, "And Joseph called the name of the firstborn Manasseh: For God, said he, hath made me forget all my toil, and all my father’s house." (Genesis 41:51)
 
 I named my second son Ephraim:
 
-> The name of the second he called Ephraim, "For God has made me fruitful in the land of my affliction." (Genesis 41:52)
+> The name of the second he called Ephraim, "And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction." (Genesis 41:52)
 
 Two sons' names—they are the testimony of my entire life. "Made me forget all my hardship"—not that I had amnesia, but that God's grace was so great that the memory of suffering could no longer hold power over me. "Fruitful in the land of my affliction"—not fruitful after the suffering ended, but fruitful in the very **place** of affliction, during the very **process** of suffering.
 
@@ -3243,21 +3243,21 @@ This is how God works: he doesn't necessarily remove you from difficulty, but he
 
 The famine came, and my brothers came to Egypt to buy grain. They did not recognize me—I was no longer the seventeen-year-old boy I had been. After a series of tests, I revealed my identity to them:
 
-> "I am your brother, Joseph, whom you sold into Egypt. And now do not be distressed or angry with yourselves because you sold me here, for God sent me before you to preserve life." (Genesis 45:4-5)
+> "And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom ye sold into Egypt. Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life." (Genesis 45:4-5)
 
-> "So it was not you who sent me here, but God." (Genesis 45:8)
+> "So now it was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt." (Genesis 45:8)
 
 "It was not you who sent me here, but God."—These are not words of self-comfort. They are a declaration of faith. It took me thirteen years to see this complete picture: the empty pit, the slave road, the prison cell—every step was God making his move. People thought they were harming me; God was using their evil to accomplish his good.
 
 When my father Jacob died, my brothers feared I would take revenge. They sent a message begging my forgiveness. I said to them words that illuminate the entire Old Testament:
 
-> "Do not fear, for am I in the place of God? As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today. So do not fear; I will provide for you and your little ones." (Genesis 50:19-21)
+> "And Joseph said unto them, Fear not: for am I in the place of God? But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive. Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them." (Genesis 50:19-21)
 
 > And he comforted them and spoke kindly to them. (Genesis 50:21)
 
 "You meant evil against me, but God meant it for good."—Brothers and sisters, this is the most profound sentence in all of Scripture about the providence of God. People have their purposes, God has his purposes. Human purposes can be evil—jealousy, betrayal, slander, being forgotten—but God's purposes are always good. He can weave all of human evil into the tapestry of his gracious will, "to bring it about that many people should be kept alive."
 
-The apostle Paul later wrote: "And we know that for those who love God all things work together for good, for those who are called according to his purpose." (Romans 8:28)—Is that not the portrait of my life?
+The apostle Paul later wrote: "And we know that all things work together for good to them that love God, to them who are the called according to his purpose." (Romans 8:28)—Is that not the portrait of my life?
 
 "He spoke kindly to them"—these words are often overlooked, but for me they were the hardest part of the whole story. Forgiveness is not a momentary decision—it is a long process. Through those thirteen years of waiting, I had countless opportunities to let bitterness take root in my heart. But every time, when I remembered the God my father had taught me about—the God of Abraham, of Isaac, of Jacob—I knew: I cannot let hatred consume me. Hatred would not destroy my brothers; it would destroy me.
 
@@ -3398,7 +3398,7 @@ I had a field at that time—my property in Cyprus, an inheritance from my ances
 
 I laid the money at the apostles' feet—not for human praise, but because I knew deeply: all of it originally belonged to God. I was merely returning God's things to God's household.
 
-This is the first lesson of fellowship: experiencing abundance through giving. The Lord Jesus said, "It is more blessed to give than to receive" (Acts 20:35). The moment I sold that field, I lost a piece of land; but what I gained was a deeper life-connection with brothers and sisters, the joy of participating in God's kingdom-building. I have never regretted it.
+This is the first lesson of fellowship: experiencing abundance through giving. The Lord Jesus said, "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive." (Acts 20:35). The moment I sold that field, I lost a piece of land; but what I gained was a deeper life-connection with brothers and sisters, the joy of participating in God's kingdom-building. I have never regretted it.
 
 Fellowship is not sitting together drinking tea and chatting. The foundation of fellowship is self-sacrifice—imitating Christ, who, though he was in the form of God, emptied himself, taking the form of a servant. Paul later wrote:
 

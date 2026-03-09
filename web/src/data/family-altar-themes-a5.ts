@@ -11,7 +11,7 @@ export const themesA5 = [
           ref_zh: '以赛亚书 6:3',
           ref_en: 'Isaiah 6:3',
           text_zh: '彼此呼喊说：「圣哉！圣哉！圣哉！万军之耶和华，他的荣光充满全地！」',
-          text_en: 'And one called to another and said: "Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory!"',
+          text_en: 'And one cried unto another, and said, Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory.',
         },
         reflection: {
           zh: '天使用三重"圣哉"来赞美神，表明神的圣洁是无可比拟、至高无上的。神的荣光充满全地，提醒我们所敬拜的是一位完全圣洁的神。当我们认识神的圣洁，就会像以赛亚一样，谦卑俯伏在祂面前。',
@@ -31,7 +31,7 @@ export const themesA5 = [
           ref_zh: '彼得前书 1:15-16',
           ref_en: '1 Peter 1:15-16',
           text_zh: '那召你们的既是圣洁，你们在一切所行的事上也要圣洁。因为经上记着说：「你们要圣洁，因为我是圣洁的。」',
-          text_en: 'But as he who called you is holy, you also be holy in all your conduct, since it is written, "You shall be holy, for I am holy."',
+          text_en: 'But as he which hath called you is holy, so be ye holy in all manner of conversation; Because it is written, Be ye holy; for I am holy.',
         },
         reflection: {
           zh: '神呼召我们追求圣洁，不是因为我们靠自己能做到，而是因为那位召我们的神本身就是圣洁的。"在一切所行的事上"意味着圣洁不只是主日的表现，而是贯穿生活每一个层面的生命样式。',
@@ -51,7 +51,7 @@ export const themesA5 = [
           ref_zh: '希伯来书 12:14',
           ref_en: 'Hebrews 12:14',
           text_zh: '你们要追求与众人和睦，并要追求圣洁；非圣洁没有人能见主。',
-          text_en: 'Strive for peace with everyone, and for the holiness without which no one will see the Lord.',
+          text_en: 'Follow peace with all men, and holiness, without which no man shall see the Lord:',
         },
         reflection: {
           zh: '这节经文将和睦与圣洁并列，表明真正的圣洁不是自我隔离，而是在与人的关系中活出来。同时，"非圣洁没有人能见主"提醒我们圣洁的严肃性——它不是可选项，而是见主的必要条件。',
@@ -71,7 +71,7 @@ export const themesA5 = [
           ref_zh: '帖撒罗尼迦前书 4:7',
           ref_en: '1 Thessalonians 4:7',
           text_zh: '神召我们，本不是要我们沾染污秽，乃是要我们成为圣洁。',
-          text_en: 'For God has not called us for impurity, but in holiness.',
+          text_en: 'For God hath not called us unto uncleanness, but unto holiness.',
         },
         reflection: {
           zh: '神对我们的呼召有明确的方向——不是沾染污秽，而是成为圣洁。这个呼召既是神的恩典，也是我们的责任。当我们面对试探时，要记得神呼召我们的目的是圣洁，这应成为我们抵挡罪恶的动力。',
@@ -91,7 +91,7 @@ export const themesA5 = [
           ref_zh: '罗马书 12:1',
           ref_en: 'Romans 12:1',
           text_zh: '所以弟兄们，我以神的慈悲劝你们，将身体献上，当作活祭，是圣洁的，是神所喜悦的；你们如此事奉，乃是理所当然的。',
-          text_en: 'I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.',
+          text_en: 'I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.',
         },
         reflection: {
           zh: '保罗劝勉我们把身体献上当作活祭。与旧约已死的祭物不同，我们是"活祭"，每天在生活中为神而活。这个献上是基于"神的慈悲"——因为神先爱了我们，我们才能以圣洁的生命回应祂的恩典。',
@@ -111,7 +111,7 @@ export const themesA5 = [
           ref_zh: '诗篇 51:10',
           ref_en: 'Psalm 51:10',
           text_zh: '神啊，求你为我造清洁的心，使我里面重新有正直的灵。',
-          text_en: 'Create in me a clean heart, O God, and renew a right spirit within me.',
+          text_en: 'Create in me a clean heart, O God; and renew a right spirit within me.',
         },
         reflection: {
           zh: '大卫在犯罪后深深悔改，他知道只有神能"造"清洁的心。"造"这个字与创世记中神创造天地的"造"是同一个字，意味着洁净的心需要神全新的创造，不是我们自己修补能做到的。',
@@ -131,7 +131,7 @@ export const themesA5 = [
           ref_zh: '哥林多后书 7:1',
           ref_en: '2 Corinthians 7:1',
           text_zh: '亲爱的弟兄啊，我们既有这等应许，就当洁净自己，除去身体、灵魂一切的污秽，敬畏神，得以成圣。',
-          text_en: 'Since we have these promises, beloved, let us cleanse ourselves from every defilement of body and spirit, bringing holiness to completion in the fear of God.',
+          text_en: 'Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.',
         },
         reflection: {
           zh: '成圣需要我们主动"洁净自己"，除去身体和灵魂的一切污秽。这不是靠律法的束缚，而是基于神的应许和恩典。敬畏神是洁净的动力，使我们在成圣的道路上不断前行。',
@@ -151,7 +151,7 @@ export const themesA5 = [
           ref_zh: '以弗所书 4:24',
           ref_en: 'Ephesians 4:24',
           text_zh: '并且穿上新人，这新人是照着神的形像造的，有真理的仁义和圣洁。',
-          text_en: 'And to put on the new self, created after the likeness of God in true righteousness and holiness.',
+          text_en: 'And that ye put on the new man, which after God is created in righteousness and true holiness.',
         },
         reflection: {
           zh: '"穿上新人"是一个持续的行动，表明基督徒的生命是不断更新的过程。这个新人是照着神的形像造的，具有真理的仁义和圣洁。我们每天都要选择脱去旧人，穿上这个新的身份。',
@@ -171,7 +171,7 @@ export const themesA5 = [
           ref_zh: '马太福音 5:8',
           ref_en: 'Matthew 5:8',
           text_zh: '清心的人有福了，因为他们必得见神。',
-          text_en: 'Blessed are the pure in heart, for they shall see God.',
+          text_en: 'Blessed are the pure in heart: for they shall see God.',
         },
         reflection: {
           zh: '耶稣说清心的人有福了，因为他们必得见神。"清心"不只是外在行为的洁净，更是内心动机和意念的纯净。只有内心清洁的人才能真正看见神、认识神、经历神的同在。',
@@ -191,7 +191,7 @@ export const themesA5 = [
           ref_zh: '约翰福音 17:17',
           ref_en: 'John 17:17',
           text_zh: '求你用真理使他们成圣；你的道就是真理。',
-          text_en: 'Sanctify them in the truth; your word is truth.',
+          text_en: 'Sanctify them through thy truth: thy word is truth.',
         },
         reflection: {
           zh: '这是耶稣为门徒的祷告，祂求父用真理使他们成圣。神的道就是真理，是使我们成圣的工具。当我们每天读经、默想神的话语，圣灵就借着真理在我们里面做洁净和更新的工作。',
@@ -211,7 +211,7 @@ export const themesA5 = [
           ref_zh: '提摩太后书 2:22',
           ref_en: '2 Timothy 2:22',
           text_zh: '你要逃避少年的私欲，同那清心祷告主的人追求公义、信德、仁爱、和平。',
-          text_en: 'So flee youthful passions and pursue righteousness, faith, love, and peace, along with those who call on the Lord from a pure heart.',
+          text_en: 'Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.',
         },
         reflection: {
           zh: '保罗给提摩太的劝勉包含两个动作：逃避和追求。面对私欲，正确的回应不是靠近试探，而是转身逃跑。同时，我们不是独自追求圣洁，而是"同那清心祷告主的人"一起追求。属灵的同伴至关重要。',
@@ -231,7 +231,7 @@ export const themesA5 = [
           ref_zh: '哥林多前书 6:19-20',
           ref_en: '1 Corinthians 6:19-20',
           text_zh: '岂不知你们的身子就是圣灵的殿吗？这圣灵是从神而来，住在你们里头的；并且你们不是自己的人，因为你们是重价买来的，所以要在你们的身子上荣耀神。',
-          text_en: 'Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body.',
+          text_en: 'What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s.',
         },
         reflection: {
           zh: '我们的身体是圣灵的殿，这是何等崇高的身份！既然圣灵住在我们里面，我们就有责任保守这殿的圣洁。我们不是自己的人，是基督用重价买来的，所以要在身体上荣耀神。',
@@ -251,7 +251,7 @@ export const themesA5 = [
           ref_zh: '以弗所书 5:8-9',
           ref_en: 'Ephesians 5:8-9',
           text_zh: '从前你们是暗昧的，但如今在主里面是光明的，行事为人就当像光明的子女。光明所结的果子就是一切良善、公义、诚实。',
-          text_en: 'For at one time you were darkness, but now you are light in the Lord. Walk as children of light (for the fruit of light is found in all that is good and right and true).',
+          text_en: 'For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light: (For the fruit of the Spirit is in all goodness and righteousness and truth;)',
         },
         reflection: {
           zh: '保罗说我们从前是暗昧的，但如今在主里面是光明的。我们的身份已经改变了！既然是光明的子女，行事为人就应该与这身份相称。光明所结的果子是良善、公义、诚实——这些是圣洁生命的自然流露。',
@@ -271,7 +271,7 @@ export const themesA5 = [
           ref_zh: '希伯来书 12:10-11',
           ref_en: 'Hebrews 12:10-11',
           text_zh: '生身的父都是暂随己意管教我们；惟有万灵的父管教我们，是要我们得益处，使我们在他的圣洁上有分。凡管教的事，当时不觉得快乐，反觉得愁苦；后来却为那经练过的人结出平安的果子，就是义。',
-          text_en: 'For they disciplined us for a short time as it seemed best to them, but he disciplines us for our good, that we may share his holiness. For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it.',
+          text_en: 'For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness. Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby.',
         },
         reflection: {
           zh: '神管教我们的目的是要我们在祂的圣洁上有分。管教当时虽然痛苦，却为经练过的人结出平安的果子。当我们经历困难和管教时，要记得这是天父爱我们的表现，为要塑造我们更像祂。',
@@ -291,7 +291,7 @@ export const themesA5 = [
           ref_zh: '彼得前书 2:9',
           ref_en: '1 Peter 2:9',
           text_zh: '惟有你们是被拣选的族类，是有君尊的祭司，是圣洁的国度，是属神的子民，要叫你们宣扬那召你们出黑暗、入奇妙光明者的美德。',
-          text_en: 'But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.',
+          text_en: 'But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:',
         },
         reflection: {
           zh: '我们是圣洁的国度、属神的子民，这是何等荣耀的身份！神拣选我们、使我们成为圣洁，不是让我们独享，而是要我们宣扬祂的美德。圣洁的生命是最有力的见证，让人看见神奇妙的光明。',
@@ -320,7 +320,7 @@ export const themesA5 = [
           ref_zh: '彼得前书 1:3',
           ref_en: '1 Peter 1:3',
           text_zh: '愿颂赞归与我们主耶稣基督的父神！他曾照自己的大怜悯，借耶稣基督从死里复活，重生了我们，叫我们有活泼的盼望。',
-          text_en: 'Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead.',
+          text_en: 'Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,',
         },
         reflection: {
           zh: '我们的盼望不是死的、虚幻的，而是"活泼的盼望"。这盼望的根基是耶稣基督从死里复活——因为祂活着，我们的盼望就是活的、有力的、不会落空的。这是神照祂的大怜悯赐给我们的礼物。',
@@ -340,7 +340,7 @@ export const themesA5 = [
           ref_zh: '罗马书 15:13',
           ref_en: 'Romans 15:13',
           text_zh: '但愿使人有盼望的神，因信将诸般的喜乐、平安充满你们的心，使你们借着圣灵的能力大有盼望！',
-          text_en: 'May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.',
+          text_en: 'Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.',
         },
         reflection: {
           zh: '神被称为"使人有盼望的神"，祂是盼望的源头。当我们因信靠祂而被喜乐和平安充满时，圣灵的能力就使我们"大有盼望"。盼望不是靠自己的乐观，而是借着圣灵的能力涌流出来的。',
@@ -360,7 +360,7 @@ export const themesA5 = [
           ref_zh: '耶利米书 29:11',
           ref_en: 'Jeremiah 29:11',
           text_zh: '耶和华说：我知道我向你们所怀的意念，是赐平安的意念，不是降灾祸的意念，要叫你们末后有指望。',
-          text_en: '"For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope."',
+          text_en: 'For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.',
         },
         reflection: {
           zh: '这是神对被掳巴比伦的百姓说的话，在最黑暗的时刻，神宣告祂的意念是赐平安的，要给他们末后的指望。无论我们现在处境多么困难，神对我们的计划始终是美善的，祂要赐给我们未来和盼望。',
@@ -380,7 +380,7 @@ export const themesA5 = [
           ref_zh: '罗马书 8:28',
           ref_en: 'Romans 8:28',
           text_zh: '我们晓得万事都互相效力，叫爱神的人得益处，就是按他旨意被召的人。',
-          text_en: 'And we know that for those who love God all things work together for good, for those who are called according to his purpose.',
+          text_en: 'And we know that all things work together for good to them that love God, to them who are the called according to his purpose.',
         },
         reflection: {
           zh: '"万事都互相效力"——不是说每件事本身都是好的，而是神能将一切事情（包括苦难和挫折）编织在一起，使爱祂的人最终得益处。这个应许给我们在困难中持守盼望的理由。',
@@ -400,7 +400,7 @@ export const themesA5 = [
           ref_zh: '诗篇 42:5',
           ref_en: 'Psalm 42:5',
           text_zh: '我的心哪，你为何忧闷？为何在我里面烦躁？应当仰望神，因他笑脸帮助我，我还要称赞他。',
-          text_en: 'Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation.',
+          text_en: 'Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.',
         },
         reflection: {
           zh: '诗人在极度忧闷中对自己的灵魂说话，他没有否认痛苦，却选择将盼望放在神身上。"应当仰望神"是一个信心的决定，不是等感觉好了才仰望，而是在忧闷中选择仰望。这就是盼望的力量。',
@@ -420,7 +420,7 @@ export const themesA5 = [
           ref_zh: '以赛亚书 40:31',
           ref_en: 'Isaiah 40:31',
           text_zh: '但那等候耶和华的，必从新得力。他们必如鹰展翅上腾，他们奔跑却不困倦，行走却不疲乏。',
-          text_en: 'But they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.',
+          text_en: 'But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.',
         },
         reflection: {
           zh: '等候耶和华不是消极地等待，而是积极地信靠和盼望。当我们在等候中不放弃对神的信心，神应许我们必从新得力。如鹰展翅上腾的画面，展现了等候神之人在盼望中得着超自然的力量。',
@@ -440,7 +440,7 @@ export const themesA5 = [
           ref_zh: '启示录 21:4',
           ref_en: 'Revelation 21:4',
           text_zh: '神要擦去他们一切的眼泪，不再有死亡，也不再有悲哀、哭号、疼痛，因为以前的事都过去了。',
-          text_en: 'He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.',
+          text_en: 'And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.',
         },
         reflection: {
           zh: '这是圣经中最美的应许之一。在新天新地里，神要亲自擦去我们一切的眼泪。死亡、悲哀、哭号、疼痛都将成为过去。这个终极的盼望让我们在今世的苦难中有力量坚持下去。',
@@ -460,7 +460,7 @@ export const themesA5 = [
           ref_zh: '希伯来书 6:19',
           ref_en: 'Hebrews 6:19',
           text_zh: '我们有这指望，如同灵魂的锚，又坚固、又牢靠，且通入幔内。',
-          text_en: 'We have this as a sure and steadfast anchor of the soul, a hope that enters into the inner place behind the curtain.',
+          text_en: 'Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;',
         },
         reflection: {
           zh: '盼望被比喻为灵魂的锚——又坚固、又牢靠。船在风浪中靠锚稳定，同样，我们的灵魂在人生的风浪中靠盼望稳固。这锚不是抛在海底，而是"通入幔内"，连接于至圣所中神的同在。',
@@ -480,7 +480,7 @@ export const themesA5 = [
           ref_zh: '哥林多前书 15:58',
           ref_en: '1 Corinthians 15:58',
           text_zh: '所以，我亲爱的弟兄们，你们务要坚固，不可摇动，常常竭力多做主工，因为知道你们的劳苦，在主里面不是徒然的。',
-          text_en: 'Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain.',
+          text_en: 'Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.',
         },
         reflection: {
           zh: '因为有复活的盼望，我们的劳苦在主里面不是徒然的。这个确据使我们能坚固不摇动，竭力多做主工。盼望不是让我们消极等待，而是积极行动的动力——因为我们知道，一切在主里的付出都有永恒的价值。',
@@ -500,7 +500,7 @@ export const themesA5 = [
           ref_zh: '罗马书 5:5',
           ref_en: 'Romans 5:5',
           text_zh: '盼望不至于羞耻，因为所赐给我们的圣灵将神的爱浇灌在我们心里。',
-          text_en: 'And hope does not put us to shame, because God\'s love has been poured into our hearts through the Holy Spirit who has been given to us.',
+          text_en: 'And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.',
         },
         reflection: {
           zh: '在世上，盼望常常落空让人失望羞耻。但保罗说，我们在基督里的盼望不至于羞耻，因为圣灵已将神的爱浇灌在我们心里。这爱是盼望的保证——神既然爱我们到这个地步，祂的应许必不落空。',
@@ -520,7 +520,7 @@ export const themesA5 = [
           ref_zh: '提多书 2:13',
           ref_en: 'Titus 2:13',
           text_zh: '等候所盼望的福，并等候至大的神和我们救主耶稣基督的荣耀显现。',
-          text_en: 'Waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ.',
+          text_en: 'Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;',
         },
         reflection: {
           zh: '我们所盼望的福是什么？就是耶稣基督荣耀的再来！这是"有福的盼望"——不是模糊的愿望，而是确定会实现的应许。基督必要再来，祂的荣耀必要显现。这个盼望使我们在等候中活出敬虔的生命。',
@@ -540,7 +540,7 @@ export const themesA5 = [
           ref_zh: '彼得后书 3:13',
           ref_en: '2 Peter 3:13',
           text_zh: '但我们照他的应许，盼望新天新地，有义居在其中。',
-          text_en: 'But according to his promise we are waiting for new heavens and a new earth in which righteousness dwells.',
+          text_en: 'Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.',
         },
         reflection: {
           zh: '我们盼望的不只是个人的得救，还有整个受造界的更新——新天新地。在那里，公义将永远居住，不再有罪恶和不公。这个宏大的盼望提醒我们，神的救赎计划远超我们的想象。',
@@ -560,7 +560,7 @@ export const themesA5 = [
           ref_zh: '腓立比书 3:20-21',
           ref_en: 'Philippians 3:20-21',
           text_zh: '我们却是天上的国民，并且等候救主，就是主耶稣基督从天上降临。他要按着那能叫万有归服自己的大能，将我们这卑贱的身体改变形状，和他自己荣耀的身体相似。',
-          text_en: 'But our citizenship is in heaven, and from it we await a Savior, the Lord Jesus Christ, who will transform our lowly body to be like his glorious body, by the power that enables him even to subject all things to himself.',
+          text_en: 'For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ: Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.',
         },
         reflection: {
           zh: '我们是天上的国民——这世界不是我们最终的家。我们等候基督再来，祂要将我们卑贱的身体改变，和祂荣耀的身体相似。这是何等的盼望！不论今生身体多么软弱，将来都要被完全改变。',
@@ -580,7 +580,7 @@ export const themesA5 = [
           ref_zh: '约翰一书 3:2',
           ref_en: '1 John 3:2',
           text_zh: '亲爱的弟兄啊，我们现在是神的儿女，将来如何，还未显明；但我们知道，主若显现，我们必要像他，因为必得见他的真体。',
-          text_en: 'Beloved, we are God\'s children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is.',
+          text_en: 'Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.',
         },
         reflection: {
           zh: '我们现在已经是神的儿女，但将来还有更荣耀的事等着我们——当主显现时，我们必要像祂。虽然将来如何还未完全显明，但有一件事是确定的：我们必得见祂的真体，并且变得像祂。这是基督徒最终极的盼望。',
@@ -600,7 +600,7 @@ export const themesA5 = [
           ref_zh: '启示录 22:20',
           ref_en: 'Revelation 22:20',
           text_zh: '证明这事的说：「是了，我必快来！」阿们！主耶稣啊，我愿你来！',
-          text_en: 'He who testifies to these things says, "Surely I am coming soon." Amen. Come, Lord Jesus!',
+          text_en: 'He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.',
         },
         reflection: {
           zh: '这是圣经最后的盼望宣告。主耶稣亲自应许"我必快来"，而教会以热切的回应说"主耶稣啊，我愿你来"。这不只是一句结束语，更是所有基督徒共同的呼声——我们渴望见主面，渴望祂的国度完全降临。',
@@ -629,7 +629,7 @@ export const themesA5 = [
           ref_zh: '申命记 6:6-7',
           ref_en: 'Deuteronomy 6:6-7',
           text_zh: '我今日所吩咐你的话都要记在心上，也要殷勤教训你的儿女，无论你坐在家里，行在路上，躺下，起来，都要谈论。',
-          text_en: 'And these words that I command you today shall be on your heart. You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise.',
+          text_en: 'And these words, which I command thee this day, shall be in thine heart: And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.',
         },
         reflection: {
           zh: '信仰的传承不只是在教会里，更是在家庭的日常生活中。坐下、行路、躺下、起来——涵盖了生活的每一刻。父母首先要将神的话记在自己心上，然后自然地在生活中传递给儿女。家庭就是最好的属灵教室。',
@@ -649,7 +649,7 @@ export const themesA5 = [
           ref_zh: '诗篇 127:3',
           ref_en: 'Psalm 127:3',
           text_zh: '儿女是耶和华所赐的产业，所怀的胎是他所给的赏赐。',
-          text_en: 'Behold, children are a heritage from the LORD, the fruit of the womb a reward.',
+          text_en: 'Lo, children are an heritage of the LORD: and the fruit of the womb is his reward.',
         },
         reflection: {
           zh: '儿女不是负担，而是耶和华所赐的产业和赏赐。当我们以这样的眼光看待孩子时，养育的态度就会不同——我们是神所托付的管家，要以感恩和敬畏的心来养育祂赐给我们的产业。',
@@ -669,7 +669,7 @@ export const themesA5 = [
           ref_zh: '箴言 22:6',
           ref_en: 'Proverbs 22:6',
           text_zh: '教养孩童，使他走当行的道，就是到老他也不偏离。',
-          text_en: 'Train up a child in the way he should go; even when he is old he will not depart from it.',
+          text_en: 'Train up a child in the way he should go: and when he is old, he will not depart from it.',
         },
         reflection: {
           zh: '"教养"意味着有目的地引导和训练，不是放任自流。"当行的道"指的是合神心意的道路。这节经文既是应许也是责任——父母在孩子年幼时殷勤教养，所种下的种子会影响他们一生。',
@@ -689,7 +689,7 @@ export const themesA5 = [
           ref_zh: '以弗所书 6:1-4',
           ref_en: 'Ephesians 6:1-4',
           text_zh: '你们作儿女的，要在主里听从父母，这是理所当然的。「要孝敬父母，使你在世长寿。」这是第一条带应许的诫命。你们作父亲的，不要惹儿女的气，只要照着主的教训和警戒养育他们。',
-          text_en: 'Children, obey your parents in the Lord, for this is right. "Honor your father and mother" (this is the first commandment with a promise), "that it may go well with you and that you may live long in the land." Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord.',
+          text_en: 'Children, obey your parents in the Lord: for this is right. Honour thy father and mother; which is the first commandment with promise; That it may be well with thee, and thou mayest live long on the earth. And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.',
         },
         reflection: {
           zh: '这段经文对家庭中的双方都有教导：儿女要在主里听从父母，父亲不要惹儿女的气。健康的家庭关系需要双向的努力——儿女的顺服和父母的温柔养育。"照着主的教训"提醒我们，养育的标准是主的话语。',
@@ -709,7 +709,7 @@ export const themesA5 = [
           ref_zh: '约书亚记 24:15',
           ref_en: 'Joshua 24:15',
           text_zh: '若是你们以事奉耶和华为不好，今日就可以选择所要事奉的……至于我和我家，我们必定事奉耶和华。',
-          text_en: '"And if it is evil in your eyes to serve the LORD, choose this day whom you will serve… But as for me and my house, we will serve the LORD."',
+          text_en: 'And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD.',
         },
         reflection: {
           zh: '约书亚在全以色列人面前宣告了他家庭的信仰立场：我和我家必定事奉耶和华。这是一个勇敢而坚定的决定，不受环境和众人的影响。每个家庭都需要这样的属灵领袖，带领全家选择事奉神。',
@@ -729,7 +729,7 @@ export const themesA5 = [
           ref_zh: '歌罗西书 3:13-14',
           ref_en: 'Colossians 3:13-14',
           text_zh: '倘若这人与那人有嫌隙，总要彼此包容，彼此饶恕；主怎样饶恕了你们，你们也要怎样饶恕人。在这一切之外，要存着爱心，爱心就是联络全德的。',
-          text_en: 'Bearing with one another and, if one has a complaint against another, forgiving each other; as the Lord has forgiven you, so you also must forgive. And above all these put on love, which binds everything together in perfect harmony.',
+          text_en: 'Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye. And above all these things put on charity, which is the bond of perfectness.',
         },
         reflection: {
           zh: '家庭中最需要的就是包容和饶恕。家人之间最容易产生嫌隙，因为彼此太熟悉了。但保罗提醒我们：主怎样饶恕了我们，我们也要怎样饶恕人。在一切之上，爱心是联络全德的纽带，使家庭和睦。',
@@ -749,7 +749,7 @@ export const themesA5 = [
           ref_zh: '箴言 17:6',
           ref_en: 'Proverbs 17:6',
           text_zh: '子孙为老人的冠冕，父亲是儿女的荣耀。',
-          text_en: 'Grandchildren are the crown of the aged, and the glory of children is their fathers.',
+          text_en: 'Children’s children are the crown of old men; and the glory of children are their fathers.',
         },
         reflection: {
           zh: '这节经文描绘了代际之间美丽的关系：子孙是老人的冠冕，父亲是儿女的荣耀。健康的家庭是多代人彼此尊荣的地方。老人以子孙为荣，儿女以父亲为骄傲。这需要每一代人都忠心地活出信仰。',
@@ -769,7 +769,7 @@ export const themesA5 = [
           ref_zh: '诗篇 128:3',
           ref_en: 'Psalm 128:3',
           text_zh: '你妻子在你的内室，好像多结果子的葡萄树；你儿女围绕你的桌子，好像橄榄栽子。',
-          text_en: 'Your wife will be like a fruitful vine within your house; your children will be like olive shoots around your table.',
+          text_en: 'Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.',
         },
         reflection: {
           zh: '这是一幅美丽的家庭画面：妻子如多结果子的葡萄树，儿女如橄榄栽子围绕餐桌。这幅图画描绘了敬畏耶和华之人的福分——一个充满生命力、丰盛和喜乐的家庭。围桌而坐的画面更是家庭团聚和亲密的象征。',
@@ -789,7 +789,7 @@ export const themesA5 = [
           ref_zh: '箴言 31:28',
           ref_en: 'Proverbs 31:28',
           text_zh: '她的儿女起来称她有福，她的丈夫也称赞她。',
-          text_en: 'Her children rise up and call her blessed; her husband also, and he praises her.',
+          text_en: 'Her children arise up, and call her blessed; her husband also, and he praiseth her.',
         },
         reflection: {
           zh: '才德的妇人得到儿女和丈夫的称赞——这是家庭中最美的回报。儿女称她有福，丈夫赞赏她的贡献。在家庭中，我们是否常常表达对家人的感恩和赞赏？特别是对默默付出的母亲和妻子？',
@@ -809,7 +809,7 @@ export const themesA5 = [
           ref_zh: '以弗所书 5:25',
           ref_en: 'Ephesians 5:25',
           text_zh: '你们作丈夫的，要爱你们的妻子，正如基督爱教会，为教会舍己。',
-          text_en: 'Husbands, love your wives, as Christ loved the church and gave himself up for her.',
+          text_en: 'Husbands, love your wives, even as Christ also loved the church, and gave himself for it;',
         },
         reflection: {
           zh: '丈夫爱妻子的标准是基督爱教会——这是舍己的爱，不是自私的爱。基督为教会舍命，丈夫也当为妻子牺牲自己的利益、时间和舒适。这样的爱不是靠人的力量，而是靠基督的恩典才能活出来。',
@@ -829,7 +829,7 @@ export const themesA5 = [
           ref_zh: '创世记 2:24',
           ref_en: 'Genesis 2:24',
           text_zh: '因此，人要离开父母，与妻子连合，二人成为一体。',
-          text_en: 'Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh.',
+          text_en: 'Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.',
         },
         reflection: {
           zh: '这是神设立婚姻的原初蓝图：离开、连合、成为一体。"离开"意味着建立新的家庭单元；"连合"表示紧密的委身；"成为一体"说明婚姻的合一是全人的——身体、情感和灵性的合一。这是神圣的盟约。',
@@ -849,7 +849,7 @@ export const themesA5 = [
           ref_zh: '出埃及记 20:12',
           ref_en: 'Exodus 20:12',
           text_zh: '当孝敬父母，使你的日子在耶和华你神所赐你的地上得以长久。',
-          text_en: '"Honor your father and your mother, that your days may be long in the land that the LORD your God is giving you."',
+          text_en: 'Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.',
         },
         reflection: {
           zh: '孝敬父母是十诫中第一条带应许的诫命。"孝敬"不只是小时候的顺服，更是一生的尊重和照顾。神将这条诫命放在人际关系诫命的首位，表明家庭中的孝道是一切人际关系的基础。',
@@ -869,7 +869,7 @@ export const themesA5 = [
           ref_zh: '玛拉基书 2:15',
           ref_en: 'Malachi 2:15',
           text_zh: '虽然神有灵的余力能造多人，他不是单造一人吗？为何只造一人呢？乃是他愿得虔诚的后裔。所以当谨守你们的心，谁也不可以诡诈待幼年所娶的妻。',
-          text_en: 'Did he not make them one, with a portion of the Spirit in their union? And what was the one God seeking? Godly offspring. So guard yourselves in your spirit, and let none of you be faithless to the wife of your youth.',
+          text_en: 'And did not he make one? Yet had he the residue of the spirit. And wherefore one? That he might seek a godly seed. Therefore take heed to your spirit, and let none deal treacherously against the wife of his youth.',
         },
         reflection: {
           zh: '神设立婚姻的一个重要目的是得到虔诚的后裔。忠诚的婚姻关系是培育敬虔下一代的土壤。当我们谨守自己的心，忠于配偶时，就为孩子提供了一个稳定、安全的成长环境，使他们能认识和爱神。',
@@ -889,7 +889,7 @@ export const themesA5 = [
           ref_zh: '加拉太书 6:10',
           ref_en: 'Galatians 6:10',
           text_zh: '所以，有了机会就当向众人行善，向信徒一家的人更当这样。',
-          text_en: 'So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith.',
+          text_en: 'As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.',
         },
         reflection: {
           zh: '保罗将教会称为"信徒一家的人"，我们不只有血缘的家庭，还有属灵的大家庭。我们要向众人行善，但对属灵的家人更当如此。教会就是神的家，弟兄姐妹就是我们的家人，我们要以家人的心来彼此关爱。',
@@ -909,7 +909,7 @@ export const themesA5 = [
           ref_zh: '提摩太后书 1:5',
           ref_en: '2 Timothy 1:5',
           text_zh: '想到你心里无伪之信，这信是先在你外祖母罗以和你母亲友尼基心里的，我深信也在你的心里。',
-          text_en: 'I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you as well.',
+          text_en: 'When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also.',
         },
         reflection: {
           zh: '提摩太的信仰可以追溯到他的外祖母罗以和母亲友尼基。信仰的传承是家庭最宝贵的产业——不是财富或名声，而是无伪之信。从祖母到母亲到儿子，三代人的信仰见证了家庭属灵传承的力量。',
@@ -938,7 +938,7 @@ export const themesA5 = [
           ref_zh: '马可福音 10:45',
           ref_en: 'Mark 10:45',
           text_zh: '因为人子来，并不是要受人的服事，乃是要服事人，并且要舍命作多人的赎价。',
-          text_en: 'For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.',
+          text_en: 'For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.',
         },
         reflection: {
           zh: '耶稣——万王之王，万主之主——来到世上不是要受人服事，而是要服事人。祂服事的最高表达就是舍命作赎价。这彻底颠覆了世界对权力和伟大的定义。真正的伟大在于服事，真正的领导在于牺牲。',
@@ -958,7 +958,7 @@ export const themesA5 = [
           ref_zh: '加拉太书 5:13',
           ref_en: 'Galatians 5:13',
           text_zh: '弟兄们，你们蒙召是要得自由，只是不可将你们的自由当作放纵情欲的机会，总要用爱心互相服事。',
-          text_en: 'For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another.',
+          text_en: 'For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.',
         },
         reflection: {
           zh: '基督释放了我们，使我们得自由。但这自由不是为了放纵自己，而是为了用爱心互相服事。真正的自由不是随心所欲，而是有能力去爱人、服事人。当我们用爱心服事彼此时，就活出了自由的真谛。',
@@ -978,7 +978,7 @@ export const themesA5 = [
           ref_zh: '彼得前书 4:10',
           ref_en: '1 Peter 4:10',
           text_zh: '各人要照所得的恩赐彼此服事，作神百般恩赐的好管家。',
-          text_en: 'As each has received a gift, use it to serve one another, as good stewards of God\'s varied grace.',
+          text_en: 'As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.',
         },
         reflection: {
           zh: '每个人都从神领受了恩赐，这些恩赐不是为了自己的荣耀，而是为了彼此服事。我们是神恩赐的管家，要善用神赐给我们的才干、资源和能力去祝福他人。当每个人都忠心使用恩赐时，整个身体就被建造起来。',
@@ -998,7 +998,7 @@ export const themesA5 = [
           ref_zh: '马太福音 25:40',
           ref_en: 'Matthew 25:40',
           text_zh: '王要回答说：「我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。」',
-          text_en: 'And the King will answer them, "Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me."',
+          text_en: 'And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.',
         },
         reflection: {
           zh: '耶稣将服事最小的弟兄等同于服事祂自己。这意味着每一次我们帮助有需要的人——无论多么微小——都是在服事基督。这赋予了日常服事极大的尊严和意义。我们不是在做无关紧要的小事，而是在服事我们的王。',
@@ -1018,7 +1018,7 @@ export const themesA5 = [
           ref_zh: '约翰福音 13:14-15',
           ref_en: 'John 13:14-15',
           text_zh: '我是你们的主，你们的夫子，尚且洗你们的脚，你们也当彼此洗脚。我给你们作了榜样，叫你们照着我向你们所做的去做。',
-          text_en: '"If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another\'s feet. For I have given you an example, that you also should do just as I have done to you."',
+          text_en: 'If I then, your Lord and Master, have washed your feet; ye also ought to wash one another’s feet. For I have given you an example, that ye should do as I have done to you.',
         },
         reflection: {
           zh: '主和夫子洗门徒的脚——这是最卑微的仆人才做的事。耶稣以行动教导我们：没有任何服事是低于我们身份的。祂给我们作了榜样，叫我们照着去做。彼此洗脚意味着愿意降卑自己去服事他人最实际的需要。',
@@ -1038,7 +1038,7 @@ export const themesA5 = [
           ref_zh: '歌罗西书 3:23-24',
           ref_en: 'Colossians 3:23-24',
           text_zh: '无论做什么，都要从心里做，像是给主做的，不是给人做的，因你们知道从主那里必得着基业为赏赐。你们所事奉的乃是主基督。',
-          text_en: 'Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ.',
+          text_en: 'And whatsoever ye do, do it heartily, as to the Lord, and not unto men; Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.',
         },
         reflection: {
           zh: '无论做什么——洗碗、工作、照顾孩子——都可以是对主的事奉。关键不在于做什么，而在于为谁做。"从心里做，像是给主做的"改变了一切平凡工作的意义。我们所事奉的乃是主基督，祂必赏赐我们。',
@@ -1058,7 +1058,7 @@ export const themesA5 = [
           ref_zh: '以弗所书 2:10',
           ref_en: 'Ephesians 2:10',
           text_zh: '我们原是他的工作，在基督耶稣里造成的，为要叫我们行善，就是神所预备叫我们行的。',
-          text_en: 'For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.',
+          text_en: 'For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.',
         },
         reflection: {
           zh: '我们是神的工作（杰作），被造是为了行善。更奇妙的是，这些善行是神预先预备好的。这意味着神为每个人都预备了独特的服事机会和使命。我们不需要自己制造机会，只需要行在神已经预备好的道路上。',
@@ -1078,7 +1078,7 @@ export const themesA5 = [
           ref_zh: '罗马书 12:11',
           ref_en: 'Romans 12:11',
           text_zh: '殷勤不可懒惰。要心里火热，常常服事主。',
-          text_en: 'Do not be slothful in zeal, be fervent in spirit, serve the Lord.',
+          text_en: 'Not slothful in business; fervent in spirit; serving the Lord;',
         },
         reflection: {
           zh: '服事主需要殷勤和火热。"殷勤不可懒惰"提醒我们服事不能三分钟热度；"心里火热"说明服事需要圣灵点燃的热情。当殷勤和火热结合在一起，我们的服事就不是出于勉强，而是出于对主的爱。',
@@ -1098,7 +1098,7 @@ export const themesA5 = [
           ref_zh: '腓立比书 2:3-4',
           ref_en: 'Philippians 2:3-4',
           text_zh: '凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。各人不要单顾自己的事，也要顾别人的事。',
-          text_en: 'Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others.',
+          text_en: 'Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. Look not every man on his own things, but every man also on the things of others.',
         },
         reflection: {
           zh: '服事的核心态度是谦卑——看别人比自己强，顾别人的事。这与世界的价值观完全相反，世界说要争先恐后、自我推销。但保罗说凡事不可结党或贪图虚浮的荣耀。真正的服事从谦卑开始，关注他人的需要。',
@@ -1118,7 +1118,7 @@ export const themesA5 = [
           ref_zh: '诗篇 100:2',
           ref_en: 'Psalm 100:2',
           text_zh: '你们当乐意事奉耶和华，当来向他歌唱。',
-          text_en: 'Serve the LORD with gladness! Come into his presence with singing!',
+          text_en: 'Serve the LORD with gladness: come before his presence with singing.',
         },
         reflection: {
           zh: '"乐意事奉"——服事神不应该是沉重的负担，而应该充满喜乐。当我们认识到所事奉的是荣耀的神，服事就成为特权而不是义务。带着歌唱来到神面前，表达的是一颗感恩、快乐的服事之心。',
@@ -1138,7 +1138,7 @@ export const themesA5 = [
           ref_zh: '路加福音 16:10',
           ref_en: 'Luke 16:10',
           text_zh: '人在最小的事上忠心，在大事上也忠心；在最小的事上不义，在大事上也不义。',
-          text_en: '"One who is faithful in a very little is also faithful in much, and one who is dishonest in a very little is also dishonest in much."',
+          text_en: 'He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much.',
         },
         reflection: {
           zh: '耶稣教导我们忠心从小事开始。不要轻看小的服事机会——打扫教会、问候新人、为人祷告。在最小的事上忠心，神就会托付更大的事。服事的态度比服事的规模更重要。',
@@ -1158,7 +1158,7 @@ export const themesA5 = [
           ref_zh: '加拉太书 6:2',
           ref_en: 'Galatians 6:2',
           text_zh: '你们各人的重担要互相担当，如此，就完全了基督的律法。',
-          text_en: 'Bear one another\'s burdens, and so fulfill the law of Christ.',
+          text_en: 'Bear ye one another’s burdens, and so fulfil the law of Christ.',
         },
         reflection: {
           zh: '互相担当重担是基督律法的核心。基督为我们担当了罪的重担，我们也当为彼此担当生活中的重担——无论是实际的困难还是心灵的忧伤。这就是爱的服事，也是完全基督律法的方式。',
@@ -1178,7 +1178,7 @@ export const themesA5 = [
           ref_zh: '马太福音 20:26-28',
           ref_en: 'Matthew 20:26-28',
           text_zh: '你们中间谁愿为大，就必作你们的用人；谁愿为首，就必作你们的仆人。正如人子来，不是要受人的服事，乃是要服事人，并且要舍命，作多人的赎价。',
-          text_en: '"But whoever would be great among you must be your servant, and whoever would be first among you must be your slave, even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many."',
+          text_en: 'But it shall not be so among you: but whosoever will be great among you, let him be your minister; And whosoever will be chief among you, let him be your servant: Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.',
         },
         reflection: {
           zh: '耶稣再次颠覆门徒对伟大的理解：谁愿为大就必作用人，谁愿为首就必作仆人。在神的国度里，地位越高，服事越多。领袖不是高高在上发号施令的人，而是弯下腰来服事众人的仆人。',
@@ -1198,7 +1198,7 @@ export const themesA5 = [
           ref_zh: '加拉太书 6:9-10',
           ref_en: 'Galatians 6:9-10',
           text_zh: '我们行善，不可丧志；若不灰心，到了时候就要收成。所以，有了机会就当向众人行善，向信徒一家的人更当这样。',
-          text_en: 'And let us not grow weary of doing good, for in due season we will reap, if we do not give up. So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith.',
+          text_en: 'And let us not be weary in well doing: for in due season we shall reap, if we faint not. As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.',
         },
         reflection: {
           zh: '服事的路上最大的敌人是灰心丧志。保罗鼓励我们不要放弃，因为到了时候就要收成。行善的果效可能不会立即显现，但神应许忠心的服事必有收获。所以，有了机会就当向众人行善。',
@@ -1218,7 +1218,7 @@ export const themesA5 = [
           ref_zh: '彼得前书 2:16',
           ref_en: '1 Peter 2:16',
           text_zh: '你们虽是自由的，却不可借着自由遮盖恶毒，总要作神的仆人。',
-          text_en: 'Live as people who are free, not using your freedom as a cover-up for evil, but living as servants of God.',
+          text_en: 'As free, and not using your liberty for a cloke of maliciousness, but as the servants of God.',
         },
         reflection: {
           zh: '基督徒的自由和服事并不矛盾。我们是自由的，但这自由不是用来遮盖恶毒，而是用来作神的仆人。真正的自由是有能力选择善，选择服事神和服事人。当我们甘心作神的仆人时，就活出了最高的自由。',

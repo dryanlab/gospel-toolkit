@@ -16,7 +16,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒1:4-5',
           ref_en: 'Acts 1:4-5',
           text_zh: '耶稣和他们聚集的时候，嘱咐他们说："不要离开耶路撒冷，要等候父所应许的，就是你们听见我说过的。约翰是用水施洗，但不多几日，你们要受圣灵的洗。"',
-          text_en: 'And while staying with them he ordered them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said, "you heard from me; for John baptized with water, but you will be baptized with the Holy Spirit not many days from now."',
+          text_en: 'And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he, ye have heard of me. For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.',
         },
         reflection: {
           zh: '耶稣升天前最后的嘱咐不是去做什么，而是等候。等候圣灵的能力是服事的前提。我们常常急于行动，却忘了先在神面前安静领受。',
@@ -36,7 +36,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒1:8',
           ref_en: 'Acts 1:8',
           text_zh: '但圣灵降临在你们身上，你们就必得着能力，并要在耶路撒冷、犹太全地和撒玛利亚，直到地极，作我的见证。',
-          text_en: 'But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth.',
+          text_en: 'But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.',
         },
         reflection: {
           zh: '见证的能力不是来自学问或口才，而是来自圣灵。福音的传播从身边开始，逐渐扩展到地极。每个信徒都是基督的见证人。',
@@ -56,7 +56,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒2:1-4',
           ref_en: 'Acts 2:1-4',
           text_zh: '五旬节到了，门徒都聚集在一处。忽然，从天上有响声下来，好像一阵大风吹过，充满了他们所坐的屋子；又有舌头如火焰显现出来，分开落在他们各人头上。他们就都被圣灵充满，按着圣灵所赐的口才说起别国的话来。',
-          text_en: 'When the day of Pentecost arrived, they were all together in one place. And suddenly there came from heaven a sound like a mighty rushing wind, and it filled the entire house where they were sitting. And divided tongues as of fire appeared to them and rested on each one of them. And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance.',
+          text_en: 'And when the day of Pentecost was fully come, they were all with one accord in one place. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.',
         },
         reflection: {
           zh: '五旬节是教会诞生的日子。圣灵如风如火降临，充满每一个信徒。这不是少数人的特权，而是每个跟随者的恩赐。合一的聚集带来圣灵大能的浇灌。',
@@ -76,7 +76,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒2:38-39',
           ref_en: 'Acts 2:38-39',
           text_zh: '彼得说："你们各人要悔改，奉耶稣基督的名受洗，叫你们的罪得赦，就必领受所赐的圣灵；因为这应许是给你们和你们的儿女，并一切在远方的人，就是主我们神所召来的。"',
-          text_en: 'And Peter said to them, "Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit. For the promise is for you and for your children and for all who are far off, everyone whom the Lord our God calls to himself."',
+          text_en: 'Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost. For the promise is unto you, and to your children, and to all that are afar off, even as many as the LORD our God shall call.',
         },
         reflection: {
           zh: '悔改与领受圣灵紧密相连。这应许不仅给当时的人，也给我们和我们的儿女。神的恩典跨越时代和地域，临到一切被祂呼召的人。',
@@ -96,7 +96,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒2:42',
           ref_en: 'Acts 2:42',
           text_zh: '都恒心遵守使徒的教训，彼此交接，擘饼，祈祷。',
-          text_en: 'And they devoted themselves to the apostles\' teaching and the fellowship, to the breaking of bread and the prayers.',
+          text_en: 'And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.',
         },
         reflection: {
           zh: '初代教会的四大支柱：教导、团契、擘饼、祷告。这不是偶尔为之，而是恒心持守。健康的教会生活需要这四样均衡发展。',
@@ -116,7 +116,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒2:44-47',
           ref_en: 'Acts 2:44-47',
           text_zh: '信的人都在一处，凡物公用，并且卖了田产、家业，照各人所需用的分给各人。他们天天同心合意恒切地在殿里，且在家中擘饼，存着欢喜、诚实的心用饭，赞美神，得众民的喜爱。主将得救的人天天加给他们。',
-          text_en: 'And all who believed were together and had all things in common. And they were selling their possessions and belongings and distributing the proceeds to all, as any had need. And day by day, attending the temple together and breaking bread in their homes, they received their food with glad and generous hearts, praising God and having favor with all the people. And the Lord added to their number day by day those who were being saved.',
+          text_en: 'And all that believed were together, and had all things common; And sold their possessions and goods, and parted them to all men, as every man had need. And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart, Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.',
         },
         reflection: {
           zh: '初代教会的美好见证：慷慨分享、同心敬拜、喜乐生活。这样的群体自然吸引人归向基督。教会增长不是靠策略，而是靠活出基督的爱。',
@@ -136,7 +136,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒3:6-8',
           ref_en: 'Acts 3:6-8',
           text_zh: '彼得说："金银我都没有，只把我所有的给你：我奉拿撒勒人耶稣基督的名，叫你起来行走！"于是拉着他的右手，扶他起来；他的脚和踝子骨立刻健壮了，就跳起来，站着，又行走，同他们进了殿，走着，跳着，赞美神。',
-          text_en: 'But Peter said, "I have no silver and gold, but what I do have I give to you. In the name of Jesus Christ of Nazareth, rise up and walk!" And he took him by the right hand and raised him up, and immediately his feet and ankles were made strong. And leaping up, he stood and began to walk, and entered the temple with them, walking and leaping and praising God.',
+          text_en: 'Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk. And he took him by the right hand, and lifted him up: and immediately his feet and ankle bones received strength. And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God.',
         },
         reflection: {
           zh: '彼得没有金银，却有比金银更宝贵的——耶稣基督的名。真正的帮助不一定是物质上的，而是将人引向基督的大能。我们所拥有的最大财富就是福音。',
@@ -156,7 +156,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒5:29',
           ref_en: 'Acts 5:29',
           text_zh: '彼得和众使徒回答说："顺从神，不顺从人，是应当的。"',
-          text_en: 'But Peter and the apostles answered, "We must obey God rather than men."',
+          text_en: 'Then Peter and the other apostles answered and said, We ought to obey God rather than men.',
         },
         reflection: {
           zh: '当人的命令与神的旨意冲突时，使徒选择顺从神。这需要极大的勇气，因为可能面对逼迫。但对神的忠心高于一切人间权柄。',
@@ -176,7 +176,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒7:59-60',
           ref_en: 'Acts 7:59-60',
           text_zh: '他们正用石头打的时候，司提反呼吁主说："求主耶稣接收我的灵魂！"又跪下大声喊着说："主啊，不要将这罪归于他们！"说了这话，就睡了。',
-          text_en: 'And as they were stoning Stephen, he called out, "Lord Jesus, receive my spirit." And falling to his knees he cried out with a loud voice, "Lord, do not hold this sin against them." And when he had said this, he fell asleep.',
+          text_en: 'And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit. And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.',
         },
         reflection: {
           zh: '司提反是第一位殉道者。在死亡面前，他效法基督为逼迫他的人祷告。这种饶恕的力量超越了死亡的恐惧，彰显了基督生命的真实。',
@@ -196,7 +196,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒8:30-35',
           ref_en: 'Acts 8:30-35',
           text_zh: '腓利就跑到太监那里，听见他念先知以赛亚的书，便问他说："你所念的，你明白吗？"他说："没有人指教我，怎能明白呢？"于是请腓利上车，与他同坐。他所念的那段经，说："他像羊被牵到宰杀之地，又像羊羔在剪毛的人手下无声，他也是这样不开口。他卑微的时候，人不按公义审判他。谁能述说他的世代？因为他的生命从地上夺去。"太监对腓利说："请问，先知说这话是指着谁？是指着自己呢？是指着别人呢？"腓利就开口从这经上起，对他传讲耶稣。',
-          text_en: 'So Philip ran to him and heard him reading Isaiah the prophet and asked, "Do you understand what you are reading?" And he said, "How can I, unless someone guides me?" And he invited Philip to come up and sit with him. Now the passage of the Scripture that he was reading was this: "Like a sheep he was led to the slaughter and like a lamb before its shearer is silent, so he opens not his mouth. In his humiliation justice was denied him. Who can describe his generation? For his life is taken away from the earth." And the eunuch said to Philip, "About whom, I ask you, does the prophet say this, about himself or about someone else?" Then Philip opened his mouth, and beginning with this Scripture he told him the good news about Jesus.',
+          text_en: 'And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest? And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him. The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth: In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth. And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man? Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus.',
         },
         reflection: {
           zh: '腓利顺服圣灵的引导，抓住机会向渴慕真理的人传讲耶稣。福音的传播常常始于一个简单的问题和一颗愿意聆听的心。',
@@ -216,7 +216,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒9:3-6',
           ref_en: 'Acts 9:3-6',
           text_zh: '扫罗行路，将到大马士革，忽然从天上发光，四面照着他；他就仆倒在地，听见有声音对他说："扫罗！扫罗！你为什么逼迫我？"他说："主啊，你是谁？"主说："我就是你所逼迫的耶稣。起来！进城去，你所当做的事，必有人告诉你。"',
-          text_en: 'Now as he went on his way, he approached Damascus, and suddenly a light from heaven shone around him. And falling to the ground, he heard a voice saying to him, "Saul, Saul, why are you persecuting me?" And he said, "Who are you, Lord?" And he said, "I am Jesus, whom you are persecuting. But rise and enter the city, and you will be told what you are to do."',
+          text_en: 'And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven: And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me? And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks. And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do.',
         },
         reflection: {
           zh: '逼迫教会的扫罗被主的光照耀，生命彻底翻转。没有人坏到神不能拯救，也没有人顽固到神不能改变。大马士革之路提醒我们，神的恩典无限。',
@@ -236,7 +236,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒10:34-35',
           ref_en: 'Acts 10:34-35',
           text_zh: '彼得就开口说："我真看出神是不偏待人的。原来各国中，那敬畏主、行义的人都为主所悦纳。"',
-          text_en: 'So Peter opened his mouth and said: "Truly I understand that God shows no partiality, but in every nation anyone who fears him and does what is right is acceptable to him."',
+          text_en: 'Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons: But in every nation he that feareth him, and worketh righteousness, is accepted with him.',
         },
         reflection: {
           zh: '神不偏待人——这是彼得在哥尼流家中领悟的重大真理。福音打破一切种族、文化和阶层的界限。我们不应该用人的标准来限定神的恩典。',
@@ -256,7 +256,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒13:2-3',
           ref_en: 'Acts 13:2-3',
           text_zh: '他们事奉主、禁食的时候，圣灵说："要为我分派巴拿巴和扫罗，去做我召他们所做的工。"于是禁食祷告，按手在他们头上，就打发他们去了。',
-          text_en: 'While they were worshiping the Lord and fasting, the Holy Spirit said, "Set apart for me Barnabas and Saul for the work to which I have called them." Then after fasting and praying they laid their hands on them and sent them off.',
+          text_en: 'As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them. And when they had fasted and prayed, and laid their hands on them, they sent them away.',
         },
         reflection: {
           zh: '宣教的差派始于敬拜和禁食。圣灵在教会同心寻求中启示祂的旨意。差传不是个人英雄主义，而是教会顺服圣灵的集体行动。',
@@ -276,7 +276,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒16:30-31',
           ref_en: 'Acts 16:30-31',
           text_zh: '又领他们出来，说："二位先生，我当怎样行才可以得救？"他们说："当信主耶稣，你和你一家都必得救。"',
-          text_en: 'Then he brought them out and said, "Sirs, what must I do to be saved?" And they said, "Believe in the Lord Jesus, and you will be saved, you and your household."',
+          text_en: 'And brought them out, and said, Sirs, what must I do to be saved? And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.',
         },
         reflection: {
           zh: '救恩的核心简单而有力：信主耶稣。这个应许不仅是个人的，也延伸到全家。禁卒一家信主的故事鼓励我们为全家的救恩祷告。',
@@ -296,7 +296,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '徒17:24-28',
           ref_en: 'Acts 17:24-28',
           text_zh: '创造宇宙和其中万物的神，既是天地的主，就不住人手所造的殿，也不用人手服侍，好像缺少什么；自己倒将生命、气息、万物赐给万人。他从一本造出万族的人，住在全地上，并且预先定准他们的年限和所住的疆界，要叫他们寻求神，或者可以揣摩而得；其实他离我们各人不远，我们生活、动作、存留都在乎他。',
-          text_en: 'The God who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man, nor is he served by human hands, as though he needed anything, since he himself gives to all mankind life and breath and everything. And he made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place, that they should seek God, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us, for "In him we live and move and have our being."',
+          text_en: 'God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands; Neither is worshipped with men’s hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things; And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us: For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.',
         },
         reflection: {
           zh: '保罗在雅典用智慧向外邦人传道。神不住在殿中，祂是赐生命气息的主。我们生活、动作、存留都在乎祂。认识这位神不需要走很远，因为祂离我们不远。',
@@ -325,7 +325,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴1:7',
           ref_en: 'Proverbs 1:7',
           text_zh: '敬畏耶和华是知识的开端；愚妄人藐视智慧和训诲。',
-          text_en: 'The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction.',
+          text_en: 'The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.',
         },
         reflection: {
           zh: '一切真正的智慧始于敬畏神。世界追求知识却不认识赐知识的主，这是最大的愚昧。敬畏不是恐惧，而是对神的尊崇和顺服。',
@@ -345,7 +345,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴3:5-6',
           ref_en: 'Proverbs 3:5-6',
           text_zh: '你要专心仰赖耶和华，不可倚靠自己的聪明，在你一切所行的事上都要认定他，他必指引你的路。',
-          text_en: 'Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.',
+          text_en: 'Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.',
         },
         reflection: {
           zh: '专心仰赖神意味着放下对自己判断力的过度自信。在每一件事上认定神——不只是大事，也包括日常小事。当我们这样做时，神应许引导我们的道路。',
@@ -365,7 +365,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴3:13-15',
           ref_en: 'Proverbs 3:13-15',
           text_zh: '得智慧、得聪明的，这人便为有福。因为得智慧胜过得银子，其利益强如精金，比珍珠宝贵，你一切所喜爱的都不足与比较。',
-          text_en: 'Blessed is the one who finds wisdom, and the one who gets understanding, for the gain from her is better than gain from silver and her profit better than gold. She is more precious than jewels, and nothing you desire can compare with her.',
+          text_en: 'Happy is the man that findeth wisdom, and the man that getteth understanding. For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold. She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.',
         },
         reflection: {
           zh: '智慧比金银珍珠更宝贵。世人追逐物质财富，却忽略了真正使人有福的智慧。神的智慧带来永恒的利益，远超世间一切所喜爱的。',
@@ -385,7 +385,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴4:23',
           ref_en: 'Proverbs 4:23',
           text_zh: '你要保守你心，胜过保守一切，因为一生的果效，是由心发出。',
-          text_en: 'Keep your heart with all vigilance, for from it flow the springs of life.',
+          text_en: 'Keep thy heart with all diligence; for out of it are the issues of life.',
         },
         reflection: {
           zh: '心是生命的源头。我们花大量精力保护外在的东西——财产、形象、健康——却常常忽略内心。心中所存的决定了生活的方向和品质。',
@@ -405,7 +405,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴6:6-8',
           ref_en: 'Proverbs 6:6-8',
           text_zh: '懒惰人哪，你去察看蚂蚁的动作，就可得智慧。蚂蚁没有元帅，没有官长，没有君王，尚且在夏天预备食物，在收割时聚敛粮食。',
-          text_en: 'Go to the ant, O sluggard; consider her ways, and be wise. Without having any chief, officer, or ruler, she prepares her bread in summer and gathers her food in harvest.',
+          text_en: 'Go to the ant, thou sluggard; consider her ways, and be wise: Which having no guide, overseer, or ruler, Provideth her meat in the summer, and gathereth her food in the harvest.',
         },
         reflection: {
           zh: '蚂蚁不需要别人监督就勤劳工作，为未来做准备。殷勤和自律是智慧的标志。我们不应该等到危机来临才开始行动，而要在平安时就做好预备。',
@@ -425,7 +425,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴18:21',
           ref_en: 'Proverbs 18:21',
           text_zh: '生死在舌头的权下，喜爱它的，必吃它所结的果子。',
-          text_en: 'Death and life are in the power of the tongue, and those who love it will eat its fruits.',
+          text_en: 'Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.',
         },
         reflection: {
           zh: '言语拥有巨大的力量——可以带来生命，也可以带来死亡。一句鼓励的话能改变人的一天，一句恶言也能摧毁一段关系。我们要为自己所说的每一句话负责。',
@@ -445,7 +445,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴15:1',
           ref_en: 'Proverbs 15:1',
           text_zh: '回答柔和，使怒消退；言语暴戾，触动怒气。',
-          text_en: 'A soft answer turns away wrath, but a harsh word stirs up anger.',
+          text_en: 'A soft answer turneth away wrath: but grievous words stir up anger.',
         },
         reflection: {
           zh: '在冲突中，柔和的回应能化解怒气，而暴戾的言语只会火上浇油。智慧不在于赢得争论，而在于化解矛盾、建立和平。',
@@ -465,7 +465,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴16:9',
           ref_en: 'Proverbs 16:9',
           text_zh: '人心筹算自己的道路，惟耶和华指引他的脚步。',
-          text_en: 'The heart of man plans his way, but the Lord establishes his steps.',
+          text_en: 'A man’s heart deviseth his way: but the LORD directeth his steps.',
         },
         reflection: {
           zh: '计划是好的，但最终掌管方向的是神。我们可以筹算，但要把结果交托给主。这不是叫我们不计划，而是在计划中保持对神的敞开和顺服。',
@@ -485,7 +485,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴22:1',
           ref_en: 'Proverbs 22:1',
           text_zh: '美名胜过大财；恩宠强如金银。',
-          text_en: 'A good name is to be chosen rather than great riches, and favor is better than silver or gold.',
+          text_en: 'A GOOD name is rather to be chosen than great riches, and loving favour rather than silver and gold.',
         },
         reflection: {
           zh: '在追求成功的时代，品格比财富更重要。美名是长年累月忠心正直的结果，不是一朝一夕能建立的，却可能因一时的过错而毁于一旦。',
@@ -505,7 +505,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴22:6',
           ref_en: 'Proverbs 22:6',
           text_zh: '教养孩童，使他走当行的道，就是到老他也不偏离。',
-          text_en: 'Train up a child in the way he should go; even when he is old he will not depart from it.',
+          text_en: 'Train up a child in the way he should go: and when he is old, he will not depart from it.',
         },
         reflection: {
           zh: '教养孩童是一项长期投资。在孩子年幼时建立的信仰根基，会影响他们一生。父母是孩子最重要的属灵导师，家庭是最早的教会。',
@@ -525,7 +525,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴27:17',
           ref_en: 'Proverbs 27:17',
           text_zh: '铁磨铁，磨出刃来；朋友相感，也是如此。',
-          text_en: 'Iron sharpens iron, and one man sharpens another.',
+          text_en: 'Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.',
         },
         reflection: {
           zh: '好的友谊像铁磨铁一样，虽然过程中有摩擦，但结果是彼此更加锋利。我们需要能够坦诚相待、互相激励成长的属灵伙伴。',
@@ -545,7 +545,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴28:13',
           ref_en: 'Proverbs 28:13',
           text_zh: '遮掩自己罪过的，必不亨通；承认离弃罪过的，必蒙怜恤。',
-          text_en: 'Whoever conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain mercy.',
+          text_en: 'He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.',
         },
         reflection: {
           zh: '隐藏罪不会让它消失，只会让它在暗处发酵。真正的自由来自坦诚的认罪和彻底的离弃。神的怜悯等候每一个愿意悔改的人。',
@@ -565,7 +565,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '雅1:5',
           ref_en: 'James 1:5',
           text_zh: '你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。',
-          text_en: 'If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.',
+          text_en: 'If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.',
         },
         reflection: {
           zh: '缺乏智慧不是羞耻，不求智慧才是。神乐意厚赐智慧，而且不会因我们的无知而斥责我们。只要凭信心求，祂就必赐下。',
@@ -585,7 +585,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '雅3:17',
           ref_en: 'James 3:17',
           text_zh: '惟独从上头来的智慧，先是清洁，后是和平、温良、柔顺，满有怜悯、多结善果，没有偏见，没有假冒。',
-          text_en: 'But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere.',
+          text_en: 'But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.',
         },
         reflection: {
           zh: '从神来的智慧有明确的特征：清洁、和平、温良、柔顺、满有怜悯。这与世俗的聪明截然不同。我们可以用这些标准来检验自己的决定是否出于神的智慧。',
@@ -605,7 +605,7 @@ export const themesB3: AltarTheme[] = [
           ref_zh: '箴31:30',
           ref_en: 'Proverbs 31:30',
           text_zh: '艳丽是虚假的，美容是虚浮的；惟敬畏耶和华的妇女必得称赞。',
-          text_en: 'Charm is deceitful, and beauty is vain, but a woman who fears the Lord is to be praised.',
+          text_en: 'Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised.',
         },
         reflection: {
           zh: '外表的美丽会随时间褪去，但敬畏神的生命会越来越荣美。这个原则不只适用于女性，也适用于每一个人。真正值得称赞的不是外在条件，而是内在的敬虔。',

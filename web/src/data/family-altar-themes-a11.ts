@@ -16,7 +16,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '撒母耳记上 15:22',
           ref_en: '1 Samuel 15:22',
           text_zh: '撒母耳说：耶和华喜悦燔祭和平安祭，岂如喜悦人听从他的话呢？听命胜于献祭；顺从胜于公羊的脂油。',
-          text_en: 'And Samuel said, "Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to listen than the fat of rams."',
+          text_en: 'And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.',
         },
         reflection: {
           zh: '撒母耳清楚地告诉扫罗，神最看重的不是外在的宗教仪式，而是内心真实的顺服。听命胜于献祭，提醒我们不要用忙碌的服事来代替对神话语的遵行。',
@@ -36,7 +36,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '约翰福音 14:15',
           ref_en: 'John 14:15',
           text_zh: '你们若爱我，就必遵守我的命令。',
-          text_en: '"If you love me, you will keep my commandments."',
+          text_en: 'If ye love me, keep my commandments.',
         },
         reflection: {
           zh: '耶稣将爱与顺服紧密地连结在一起。遵守主的命令不是出于被迫或恐惧，而是出于对主真实的爱。爱是顺服的动力，顺服是爱的表达。',
@@ -56,7 +56,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '雅各书 1:22',
           ref_en: 'James 1:22',
           text_zh: '只是你们要行道，不要单单听道，自己欺哄自己。',
-          text_en: 'But be doers of the word, and not hearers only, deceiving yourselves.',
+          text_en: 'But be ye doers of the word, and not hearers only, deceiving your own selves.',
         },
         reflection: {
           zh: '雅各警告我们，听道而不行道等于自欺。真正的顺服不是停留在知识层面，而是将所听到的神的话语付诸实践，在日常生活中活出来。',
@@ -76,7 +76,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '路加福音 11:28',
           ref_en: 'Luke 11:28',
           text_zh: '耶稣说：是，却还不如听神之道而遵守的人有福。',
-          text_en: 'But he said, "Blessed rather are those who hear the word of God and keep it!"',
+          text_en: 'But he said, Yea rather, blessed are they that hear the word of God, and keep it.',
         },
         reflection: {
           zh: '耶稣指出，真正的福分不在于外在的身份或关系，而在于听神的道并遵守。顺服神话语的人才是真正蒙福的人，这种福分超越一切世俗的羡慕。',
@@ -96,7 +96,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '诗篇 119:97',
           ref_en: 'Psalm 119:97',
           text_zh: '我何等爱慕你的律法，终日不住地思想。',
-          text_en: 'Oh how I love your law! It is my meditation all the day.',
+          text_en: 'O how love I thy law! it is my meditation all the day.',
         },
         reflection: {
           zh: '诗人对神律法的爱慕不是短暂的热情，而是终日不住地思想。真正的顺服源于对神话语的热爱，当我们爱慕神的律法时，遵行就成为喜乐而非重担。',
@@ -116,7 +116,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '马太福音 28:19-20',
           ref_en: 'Matthew 28:19-20',
           text_zh: '所以，你们要去，使万民作我的门徒，奉父、子、圣灵的名给他们施洗。凡我所吩咐你们的，都教训他们遵守，我就常与你们同在，直到世界的末了。',
-          text_en: '"Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."',
+          text_en: 'Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.',
         },
         reflection: {
           zh: '大使命不仅是传福音，更是教导人遵守主所吩咐的一切。顺服的生命是门徒训练的核心，而主应许与顺服祂命令的人同在，直到世界的末了。',
@@ -136,7 +136,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '腓立比书 2:8',
           ref_en: 'Philippians 2:8',
           text_zh: '既有人的样子，就自己卑微，存心顺服，以至于死，且死在十字架上。',
-          text_en: 'And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross.',
+          text_en: 'And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.',
         },
         reflection: {
           zh: '基督的顺服是最彻底的顺服——以至于死，且死在十字架上。祂的榜样告诉我们，真正的顺服需要谦卑和舍己，即使代价极大也不退缩。',
@@ -156,7 +156,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '希伯来书 11:8',
           ref_en: 'Hebrews 11:8',
           text_zh: '亚伯拉罕因着信，蒙召的时候就遵命出去，往将来要得为业的地方去；出去的时候，还不知往哪里去。',
-          text_en: 'By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going.',
+          text_en: 'By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.',
         },
         reflection: {
           zh: '亚伯拉罕的顺服是信心的顺服——他还不知往哪里去，就遵命出发了。顺服常常意味着在不确定中信靠神，凭信心而非凭眼见踏出每一步。',
@@ -176,7 +176,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '申命记 10:12-13',
           ref_en: 'Deuteronomy 10:12-13',
           text_zh: '以色列啊，现在耶和华你神向你所要的是什么呢？只要你敬畏耶和华你的神，遵行他的道，爱他，尽心尽性侍奉他，遵守他的诫命律例，就是我今日所吩咐你的，为要叫你得福。',
-          text_en: '"And now, Israel, what does the LORD your God require of you, but to fear the LORD your God, to walk in all his ways, to love him, to serve the LORD your God with all your heart and with all your soul, and to keep the commandments and statutes of the LORD, which I am commanding you today for your good?"',
+          text_en: 'And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul, To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good?',
         },
         reflection: {
           zh: '神向祂子民所要的并不复杂：敬畏、遵行、爱祂、侍奉祂、遵守诫命。而且这一切是"为要叫你得福"——神的命令不是为了辖制我们，而是为了我们的好处。',
@@ -196,7 +196,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '约翰福音 15:10',
           ref_en: 'John 15:10',
           text_zh: '你们若遵守我的命令，就常在我的爱里，正如我遵守了我父的命令，常在他的爱里。',
-          text_en: '"If you keep my commandments, you will abide in my love, just as I have kept my Father\'s commandments and abide in his love."',
+          text_en: 'If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.',
         },
         reflection: {
           zh: '耶稣揭示了顺服与爱的深层关系：遵守主的命令使我们常在祂的爱里。顺服不是失去自由，而是进入更深的爱的关系中，正如耶稣与天父的关系。',
@@ -216,7 +216,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '诗篇 119:105',
           ref_en: 'Psalm 119:105',
           text_zh: '你的话是我脚前的灯，是我路上的光。',
-          text_en: 'Your word is a lamp to my feet and a light to my path.',
+          text_en: 'Thy word is a lamp unto my feet, and a light unto my path.',
         },
         reflection: {
           zh: '神的话语如灯照亮我们脚前的路，指引我们每一步。顺服神的话语不是盲目的跟从，而是在光中行走，让神的真理照亮我们人生的方向。',
@@ -236,7 +236,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '马太福音 7:13-14',
           ref_en: 'Matthew 7:13-14',
           text_zh: '你们要进窄门。因为引到灭亡，那门是宽的，路是大的，进去的人也多；引到永生，那门是窄的，路是小的，找着的人也少。',
-          text_en: '"Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few."',
+          text_en: 'Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.',
         },
         reflection: {
           zh: '耶稣呼召我们走窄路、进窄门。顺服神的道路往往不是容易的路，但这条窄路引向永生。选择顺服就是选择走一条人少但通向生命的道路。',
@@ -256,7 +256,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '路加福音 9:23',
           ref_en: 'Luke 9:23',
           text_zh: '耶稣又对众人说：若有人要跟从我，就当舍己，天天背起他的十字架来跟从我。',
-          text_en: 'And he said to all, "If anyone would come after me, let him deny himself and take up his cross daily and follow me."',
+          text_en: 'And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.',
         },
         reflection: {
           zh: '跟从耶稣的代价是舍己和天天背十字架。顺服不是偶尔的决定，而是每天的选择——每天放下自己的意愿，背起十字架跟随主。',
@@ -276,7 +276,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '撒母耳记上 3:10',
           ref_en: '1 Samuel 3:10',
           text_zh: '耶和华又来站着，像前三次呼唤说：撒母耳啊！撒母耳啊！撒母耳回答说：请说，仆人敬听！',
-          text_en: 'And the LORD came and stood, calling as at other times, "Samuel! Samuel!" And Samuel said, "Speak, for your servant hears."',
+          text_en: 'And the LORD came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.',
         },
         reflection: {
           zh: '年幼的撒母耳以"请说，仆人敬听"回应神的呼召，展现了顺服的第一步：聆听。在行动之前，我们需要先安静下来，留心听神的声音，预备好顺服的心。',
@@ -296,7 +296,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '希伯来书 5:8',
           ref_en: 'Hebrews 5:8',
           text_zh: '他虽然为儿子，还是因所受的苦难学了顺从。',
-          text_en: 'Although he was a son, he learned obedience through what he suffered.',
+          text_en: 'Though he were a Son, yet learned he obedience by the things which he suffered;',
         },
         reflection: {
           zh: '连神的儿子耶稣都是藉着苦难学习顺从，何况我们呢？苦难不是神的惩罚，而是塑造我们顺服品格的学校。在受苦中学习顺从，是属灵生命成熟的标志。',
@@ -325,7 +325,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '马太福音 28:19-20',
           ref_en: 'Matthew 28:19-20',
           text_zh: '所以，你们要去，使万民作我的门徒，奉父、子、圣灵的名给他们施洗。凡我所吩咐你们的，都教训他们遵守，我就常与你们同在，直到世界的末了。',
-          text_en: '"Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."',
+          text_en: 'Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.',
         },
         reflection: {
           zh: '大使命是主耶稣升天前给每一个门徒的命令，不只是牧师和宣教士的责任。"使万民作门徒"是我们每个基督徒的使命，而主应许祂的同在是我们传福音最大的保障。',
@@ -345,7 +345,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '使徒行传 1:8',
           ref_en: 'Acts 1:8',
           text_zh: '但圣灵降临在你们身上，你们就必得着能力，并要在耶路撒冷、犹太全地和撒马利亚，直到地极，作我的见证。',
-          text_en: '"But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth."',
+          text_en: 'But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.',
         },
         reflection: {
           zh: '传福音的能力不是来自我们自己，而是来自圣灵。从耶路撒冷到地极，主为我们设定了由近及远的见证范围。我们需要先在身边作见证，然后逐步扩展到更远的地方。',
@@ -365,7 +365,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '罗马书 10:14-15',
           ref_en: 'Romans 10:14-15',
           text_zh: '然而，人未曾信他，怎能求他呢？未曾听见他，怎能信他呢？没有传道的，怎能听见呢？若没有奉差遣，怎能传道呢？如经上所记：报福音、传喜信的人，他们的脚踪何等佳美！',
-          text_en: 'How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? And how are they to preach unless they are sent? As it is written, "How beautiful are the feet of those who preach the good news!"',
+          text_en: 'How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!',
         },
         reflection: {
           zh: '保罗以一连串的反问揭示了传福音的迫切性：人若没有听见，就不能信。传福音的人是信与不信之间的桥梁，报福音之人的脚踪何等佳美！',
@@ -385,7 +385,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '罗马书 1:16',
           ref_en: 'Romans 1:16',
           text_zh: '我不以福音为耻；这福音本是神的大能，要救一切相信的，先是犹太人，后是希腊人。',
-          text_en: 'For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.',
+          text_en: 'For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.',
         },
         reflection: {
           zh: '保罗宣告他不以福音为耻，因为福音是神的大能。我们传福音时不必胆怯或羞愧，因为我们所传的不是人的道理，而是拯救灵魂的神的大能。',
@@ -405,7 +405,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '彼得前书 3:15',
           ref_en: '1 Peter 3:15',
           text_zh: '只要心里尊主基督为圣。有人问你们心中盼望的缘由，就要常作准备，以温柔、敬畏的心回答各人。',
-          text_en: 'But in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect.',
+          text_en: 'But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:',
         },
         reflection: {
           zh: '彼得提醒我们传福音需要两个预备：内心尊主为圣，并且随时准备好为信仰作见证。同时，传福音的态度也很重要——以温柔和敬畏的心回答，而非争辩和论断。',
@@ -425,7 +425,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '哥林多前书 3:9',
           ref_en: '1 Corinthians 3:9',
           text_zh: '因为我们是与神同工的；你们是神所耕种的田地，所建造的房屋。',
-          text_en: 'For we are God\'s fellow workers. You are God\'s field, God\'s building.',
+          text_en: 'For we are labourers together with God: ye are God’s husbandry, ye are God’s building.',
         },
         reflection: {
           zh: '传福音是与神同工的荣耀特权。我们不是独自劳力，而是与全能的神一起做工。神的子民是祂所耕种的田地、所建造的房屋，而我们有幸参与其中。',
@@ -445,7 +445,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '马太福音 5:14-16',
           ref_en: 'Matthew 5:14-16',
           text_zh: '你们是世上的光。城造在山上，是不能隐藏的。人点灯，不放在斗底下，是放在灯台上，就照亮一家的人。你们的光也当这样照在人前，叫他们看见你们的好行为，便将荣耀归给你们在天上的父。',
-          text_en: '"You are the light of the world. A city set on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house. In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven."',
+          text_en: 'Ye are the light of the world. A city that is set on an hill cannot be hid. Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.',
         },
         reflection: {
           zh: '耶稣说我们是世上的光，光是不能隐藏的。传福音不只是用口说，更是用生命发光。我们的好行为能让人看见神的荣耀，这本身就是最有力的见证。',
@@ -465,7 +465,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '哥林多前书 9:16',
           ref_en: '1 Corinthians 9:16',
           text_zh: '我传福音原没有可夸的，因为我是不得已的。若不传福音，我便有祸了。',
-          text_en: 'For if I preach the gospel, that gives me no ground for boasting. For necessity is laid upon me. Woe to me if I do not preach the gospel!',
+          text_en: 'For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!',
         },
         reflection: {
           zh: '保罗传福音不是为了自夸，而是出于一种神圣的"不得已"——他深知福音的宝贵和失丧灵魂的危险，传福音是他无法推卸的责任和燃烧的使命感。',
@@ -485,7 +485,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '哥林多后书 5:20',
           ref_en: '2 Corinthians 5:20',
           text_zh: '所以，我们作基督的使者，就好像神藉我们劝你们一般。我们替基督求你们与神和好。',
-          text_en: 'Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, be reconciled to God.',
+          text_en: 'Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ’s stead, be ye reconciled to God.',
         },
         reflection: {
           zh: '我们是基督的使者，代表天国向世人发出和好的邀请。传福音就是替基督恳求人们与神和好，这是何等荣耀又神圣的角色和使命！',
@@ -505,7 +505,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '诗篇 126:5-6',
           ref_en: 'Psalm 126:5-6',
           text_zh: '流泪撒种的，必欢呼收割！那带种流泪出去的，必要欢欢乐乐地带禾捆回来！',
-          text_en: 'Those who sow in tears shall reap with shouts of joy! He who goes out weeping, bearing the seed for sowing, shall come home with shouts of joy, bringing his sheaves with him.',
+          text_en: 'They that sow in tears shall reap in joy. He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.',
         },
         reflection: {
           zh: '传福音的过程中可能会有眼泪——被拒绝的泪、为灵魂忧伤的泪。但神应许流泪撒种的必欢呼收割，我们的付出和眼泪不会徒然，终必结出丰盛的果实。',
@@ -525,7 +525,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '哥林多前书 3:6-7',
           ref_en: '1 Corinthians 3:6-7',
           text_zh: '我栽种了，亚波罗浇灌了，惟有神叫他生长。可见栽种的算不得什么，浇灌的也算不得什么，只在那叫他生长的神。',
-          text_en: 'I planted, Apollos watered, but God gave the growth. So neither he who plants nor he who waters is anything, but only God who gives the growth.',
+          text_en: 'I have planted, Apollos watered; but God gave the increase. So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.',
         },
         reflection: {
           zh: '保罗提醒我们，传福音是团队合作，而最终使人生命成长的是神自己。我们不必因为没有立即看到果效而灰心，因为栽种和浇灌都是不可缺少的，但叫人生长的是神。',
@@ -545,7 +545,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '帖撒罗尼迦前书 2:4',
           ref_en: '1 Thessalonians 2:4',
           text_zh: '但神既然验中了我们，把福音托付我们，我们就照样讲，不是要讨人喜欢，乃是要讨那察验我们心的神喜欢。',
-          text_en: 'But just as we have been approved by God to be entrusted with the gospel, so we speak, not to please man, but to please God who tests our hearts.',
+          text_en: 'But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts.',
         },
         reflection: {
           zh: '保罗传福音的动机是讨神喜欢而非讨人喜欢。福音是神托付给我们的宝贵使命，我们传讲时当忠于真理，不因迎合人意而妥协福音的信息。',
@@ -565,7 +565,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '提摩太后书 4:2',
           ref_en: '2 Timothy 4:2',
           text_zh: '务要传道，无论得时不得时，总要专心；并用百般的忍耐，各样的教训，责备人、警戒人、劝勉人。',
-          text_en: 'Preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching.',
+          text_en: 'Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.',
         },
         reflection: {
           zh: '保罗嘱咐提摩太"无论得时不得时"都要传道。传福音不分时机，不看环境，总要专心预备。同时要用百般忍耐和各样教训，既有责备警戒，也有劝勉鼓励。',
@@ -585,7 +585,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '以弗所书 6:19',
           ref_en: 'Ephesians 6:19',
           text_zh: '也为我祈求，使我得着口才，能以放胆开口讲明福音的奥秘。',
-          text_en: 'And also for me, that words may be given to me in opening my mouth boldly to proclaim the mystery of the gospel.',
+          text_en: 'And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,',
         },
         reflection: {
           zh: '连使徒保罗都需要弟兄姐妹为他祷告，使他有口才和胆量传福音。传福音需要祷告的支持——既为自己祷告求胆量，也为同行的肢体代祷，彼此扶持。',
@@ -605,7 +605,7 @@ export const themesA11: AltarTheme[] = [
           ref_zh: '马太福音 9:37-38',
           ref_en: 'Matthew 9:37-38',
           text_zh: '于是对门徒说：要收的庄稼多，做工的人少。所以，你们当求庄稼的主打发工人出去收他的庄稼。',
-          text_en: 'Then he said to his disciples, "The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest."',
+          text_en: 'Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few; Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.',
         },
         reflection: {
           zh: '耶稣看到庄稼已熟，做工的人却少，心中充满怜悯。祂教导门徒首先要祷告——求庄稼的主差派工人。传福音始于祷告，也需要更多工人起来回应呼召。',

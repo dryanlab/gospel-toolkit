@@ -11,7 +11,7 @@ export const themesA1 = [
           ref_zh: '希伯来书 11:1',
           ref_en: 'Hebrews 11:1',
           text_zh: '信就是所望之事的实底，是未见之事的确据。',
-          text_en: 'Now faith is the assurance of things hoped for, the conviction of things not seen.',
+          text_en: 'Now faith is the substance of things hoped for, the evidence of things not seen.',
         },
         reflection: {
           zh: '希伯来书11:1为信心下了一个精确的定义：信心不是凭空想象，而是对所盼望之事的"实底"——一种坚实的根基。我们虽然看不见神的应许完全成就，但信心让我们确信它们必然实现。就像建房子的地基虽被泥土覆盖看不见，却支撑着整栋建筑。信心就是我们属灵生命的地基。',
@@ -31,7 +31,7 @@ export const themesA1 = [
           ref_zh: '希伯来书 11:6',
           ref_en: 'Hebrews 11:6',
           text_zh: '人非有信，就不能得神的喜悦；因为到神面前来的人，必须信有神，且信他赏赐那寻求他的人。',
-          text_en: 'And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.',
+          text_en: 'But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.',
         },
         reflection: {
           zh: '这节经文告诉我们两个关键真理：第一，没有信心就不可能讨神喜悦；第二，来到神面前需要两重相信——信神存在，并信祂赏赐寻求祂的人。神不是冷漠的旁观者，而是一位乐意回应信心之人的慈父。信心不只是头脑中承认神存在，更是心灵深处确信祂是赏赐者。',
@@ -51,7 +51,7 @@ export const themesA1 = [
           ref_zh: '罗马书 10:17',
           ref_en: 'Romans 10:17',
           text_zh: '可见信道是从听道来的，听道是从基督的话来的。',
-          text_en: 'So faith comes from hearing, and hearing through the word of Christ.',
+          text_en: 'So then faith cometh by hearing, and hearing by the word of God.',
         },
         reflection: {
           zh: '保罗在罗马书10:17揭示了信心的来源：信心不是我们自己制造的，而是从听神的话而来。当我们打开圣经、聆听讲道、家庭灵修一起读经时，神的话语就在我们心中产生信心。信心像一颗种子，需要神话语的浇灌才能生长。这就是为什么家庭祭坛如此重要——每一次一起读经，就是在培育全家的信心。',
@@ -71,7 +71,7 @@ export const themesA1 = [
           ref_zh: '马可福音 9:24',
           ref_en: 'Mark 9:24',
           text_zh: '孩子的父亲立时喊着说："我信！但我信不足，求主帮助。"',
-          text_en: 'Immediately the father of the child cried out and said, "I believe; help my unbelief!"',
+          text_en: 'And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief.',
         },
         reflection: {
           zh: '这位父亲的呼喊是何等真实！他没有假装自己有完美的信心，而是诚实地向耶稣承认自己信心的软弱。"我信！但我信不足"——这是许多基督徒最真实的心声。奇妙的是，耶稣并没有因为他信心不足而拒绝他，反而医治了他的儿子。神不要求我们有完美的信心，祂要的是诚实的信心。',
@@ -91,7 +91,7 @@ export const themesA1 = [
           ref_zh: '以弗所书 2:8-9',
           ref_en: 'Ephesians 2:8-9',
           text_zh: '你们得救是本乎恩，也因着信；这并不是出于自己，乃是神所赐的；也不是出于行为，免得有人自夸。',
-          text_en: 'For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.',
+          text_en: 'For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.',
         },
         reflection: {
           zh: '以弗所书2:8-9是福音的核心宣告：救恩是恩典加信心，而非人的功劳。保罗强调三个"不是"——不是出于自己、不是出于行为、免得自夸。连信心本身也是神的恩赐！这彻底打碎了人的骄傲，让我们只能俯伏感恩。我们得救不是因为我们够好，而是因为神够恩典。',
@@ -111,7 +111,7 @@ export const themesA1 = [
           ref_zh: '哈巴谷书 2:4',
           ref_en: 'Habakkuk 2:4',
           text_zh: '迦勒底人自高自大，心不正直；惟义人因信得生。',
-          text_en: 'Behold, his soul is puffed up; it is not upright within him, but the righteous shall live by his faith.',
+          text_en: 'Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.',
         },
         reflection: {
           zh: '哈巴谷书2:4将两种人生做了鲜明对比：骄傲自大之人的心不正直，而义人因信得生。"因信得生"这四个字后来被保罗在罗马书和加拉太书中反复引用，成为改教运动的核心经文。信心不只是得救的入门，更是每天生活的方式。义人不是靠一次性的信心，而是天天凭信心而活。',
@@ -131,7 +131,7 @@ export const themesA1 = [
           ref_zh: '加拉太书 2:20',
           ref_en: 'Galatians 2:20',
           text_zh: '我已经与基督同钉十字架，现在活着的不再是我，乃是基督在我里面活着；并且我如今在肉身活着，是因信神的儿子而活，他是爱我，为我舍己。',
-          text_en: 'I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.',
+          text_en: 'I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.',
         },
         reflection: {
           zh: '加拉太书2:20是保罗信心生活的最高宣言。与基督同钉十字架意味着旧我已死，新的生命是基督在我里面活。这不是消极的自我毁灭，而是一种更丰盛的生命——因信神的儿子而活。保罗特别强调"他是爱我，为我舍己"，这种个人化的信心让福音不再是一个遥远的教义，而是每个人亲密的经历。',
@@ -151,7 +151,7 @@ export const themesA1 = [
           ref_zh: '彼得前书 1:8-9',
           ref_en: '1 Peter 1:8-9',
           text_zh: '你们虽然没有见过他，却是爱他；如今虽不得看见，却因信他就有说不出来、满有荣光的大喜乐，并且得着你们信心的果效，就是灵魂的救恩。',
-          text_en: 'Though you have not seen him, you love him. Though you do not now see him, you believe in him and rejoice with joy that is inexpressible and filled with glory, obtaining the outcome of your faith, the salvation of your souls.',
+          text_en: 'Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory: Receiving the end of your faith, even the salvation of your souls.',
         },
         reflection: {
           zh: '彼得前书1:8-9描绘了信心带来的奇妙体验：虽然没有亲眼见过耶稣，却深深爱祂；虽然看不见，却因信就有"说不出来、满有荣光的大喜乐"。这种喜乐不是世界能给的，也不是环境能夺走的。信心的最终果效是灵魂的救恩——这是何等大的盼望！信心让我们在看不见中经历看得见的喜乐。',
@@ -171,7 +171,7 @@ export const themesA1 = [
           ref_zh: '希伯来书 12:2',
           ref_en: 'Hebrews 12:2',
           text_zh: '仰望为我们信心创始成终的耶稣。他因那摆在前面的喜乐，就轻看羞辱，忍受了十字架的苦难，便坐在神宝座的右边。',
-          text_en: 'looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God.',
+          text_en: 'Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.',
         },
         reflection: {
           zh: '希伯来书12:2将我们的目光从自己的信心转向信心的对象——耶稣。祂是信心的"创始成终"者，意思是祂开始我们的信心，也要完成它。耶稣自己就是信心的最高榜样：祂因前面的喜乐忍受了十字架。当我们的信心软弱时，不需要拼命鼓起信心，只需要仰望耶稣——祂会完成祂在我们里面开始的工。',
@@ -191,7 +191,7 @@ export const themesA1 = [
           ref_zh: '创世记 15:6',
           ref_en: 'Genesis 15:6',
           text_zh: '亚伯兰信耶和华，耶和华就以此为他的义。',
-          text_en: 'And he believed the LORD, and he counted it to him as righteousness.',
+          text_en: 'And he believed in the LORD; and he counted it to him for righteousness.',
         },
         reflection: {
           zh: '创世记15:6是圣经中"因信称义"的第一个范例。亚伯兰当时年迈无子，神却应许他的后裔要像天上的星那样多。在人看来完全不可能的事，亚伯兰选择相信神。神不是因为他做了什么伟大的事而称他为义，仅仅是因为他相信。这个简单却深刻的真理贯穿了整本圣经：信心，而非行为，是我们与神建立正确关系的关键。',
@@ -211,7 +211,7 @@ export const themesA1 = [
           ref_zh: '马太福音 17:20',
           ref_en: 'Matthew 17:20',
           text_zh: '耶稣说："是因你们的信心小。我实在告诉你们，你们若有信心像一粒芥菜种，就是对这座山说：『你从这边挪到那边』，它也必挪去，并且你们没有一件不能做的事了。"',
-          text_en: 'He said to them, "Because of your little faith. For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, \'Move from here to there,\' and it will move, and nothing will be impossible for you."',
+          text_en: 'And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.',
         },
         reflection: {
           zh: '耶稣在太17:20用芥菜种的比喻教导了一个令人惊讶的真理：信心的能力不在于大小，而在于对象。芥菜种是最小的种子之一，但即使这么小的信心，只要放在全能的神身上，就能移山。问题不是我们的信心太小，而是我们的神太大！一粒真实的信心连接于无限的神，就能成就不可能的事。',
@@ -231,7 +231,7 @@ export const themesA1 = [
           ref_zh: '以弗所书 6:16',
           ref_en: 'Ephesians 6:16',
           text_zh: '此外，又拿着信德的藤牌，可以灭尽那恶者一切的火箭。',
-          text_en: 'In all circumstances take up the shield of faith, with which you can extinguish all the flaming darts of the evil one.',
+          text_en: 'Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.',
         },
         reflection: {
           zh: '保罗在弗6:16用军事比喻形容信心：信德的藤牌。古罗马士兵的大盾牌可以覆盖全身，用水浸湿后能灭掉着火的箭矢。同样，信心是我们属灵争战中的防御武器，能灭尽撒但所有的火箭——怀疑、恐惧、试探、谎言。注意保罗说"一切的火箭"，没有例外。无论仇敌射来什么，信心的盾牌都够用。',
@@ -251,7 +251,7 @@ export const themesA1 = [
           ref_zh: '雅各书 2:17',
           ref_en: 'James 2:17',
           text_zh: '这样，信心若没有行为就是死的。',
-          text_en: 'So also faith by itself, if it does not have works, is dead.',
+          text_en: 'Even so faith, if it hath not works, is dead, being alone.',
         },
         reflection: {
           zh: '雅各书2:17给了我们一个重要的平衡：真正的信心必然会产生行为。雅各并不是与保罗矛盾，而是从另一个角度说明真理——保罗说我们因信称义而非靠行为，雅各说真正的信心会自然结出行为的果子。没有行为的信心就像没有呼吸的身体——是死的。信心和行为就像硬币的两面，不可分割。',
@@ -271,7 +271,7 @@ export const themesA1 = [
           ref_zh: '彼得前书 1:7',
           ref_en: '1 Peter 1:7',
           text_zh: '叫你们的信心既被试验，就比那被火试验仍然能坏的金子更显宝贵，可以在耶稣基督显现的时候，得着称赞、荣耀、尊贵。',
-          text_en: 'so that the tested genuineness of your faith — more precious than gold that perishes though it is tested by fire — may be found to result in praise and glory and honor at the revelation of Jesus Christ.',
+          text_en: 'That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:',
         },
         reflection: {
           zh: '彼得前书1:7把信心的试炼比作金子的冶炼。金子要经过火的熬炼才能除去杂质变得纯净，同样，信心经过试验才能显出真实和宝贵。彼得甚至说经过试验的信心比金子更宝贵——因为金子会朽坏，但经过试炼的信心有永恒的价值，在耶稣再来时要得着称赞、荣耀、尊贵。',
@@ -291,7 +291,7 @@ export const themesA1 = [
           ref_zh: '哥林多后书 5:7',
           ref_en: '2 Corinthians 5:7',
           text_zh: '因我们行事为人是凭着信心，不是凭着眼见。',
-          text_en: 'for we walk by faith, not by sight.',
+          text_en: '(For we walk by faith, not by sight:)',
         },
         reflection: {
           zh: '哥林多后书5:7是信心主题的完美总结：我们的整个人生是凭信心而行，不是凭眼见。这不是说我们闭上眼睛不看现实，而是说我们的最终依据不是看得见的环境，而是看不见的神和祂的应许。凭眼见行事是人的本能，凭信心行事是属灵的操练。每一天，我们都在选择：是相信环境告诉我们的，还是相信神的话语所宣告的？',
@@ -320,7 +320,7 @@ export const themesA1 = [
           ref_zh: '马太福音 6:9-10',
           ref_en: 'Matthew 6:9-10',
           text_zh: '所以，你们祷告要这样说：我们在天上的父，愿人都尊你的名为圣。愿你的国降临。愿你的旨意行在地上，如同行在天上。',
-          text_en: 'Pray then like this: "Our Father in heaven, hallowed be your name. Your kingdom come, your will be done, on earth as it is in heaven."',
+          text_en: 'After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven.',
         },
         reflection: {
           zh: '主祷文的开头教导我们祷告的优先次序：先是神的名、神的国、神的旨意，然后才是我们的需要。"我们在天上的父"确立了亲密的关系，"愿人都尊你的名为圣"提醒我们敬畏，"愿你的国降临"是对神掌权的渴望，"愿你的旨意行在地上如同行在天上"是对顺服的委身。祷告不是先满足自己，而是先对准神的心意。',
@@ -340,7 +340,7 @@ export const themesA1 = [
           ref_zh: '马太福音 6:11-13',
           ref_en: 'Matthew 6:11-13',
           text_zh: '我们日用的饮食，今日赐给我们。免我们的债，如同我们免了人的债。不叫我们遇见试探，救我们脱离凶恶。',
-          text_en: 'Give us this day our daily bread, and forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from evil.',
+          text_en: 'Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.',
         },
         reflection: {
           zh: '主祷文的后半部分涵盖了我们生活的三个核心需要：物质的供应（日用的饮食）、关系的修复（免我们的债如同我们免了人的债）、灵性的保护（不叫我们遇见试探，救我们脱离凶恶）。耶稣教导我们为"今日"的饮食祈求，不是明天，不是一年——这是对天父日日看顾的信靠。而饶恕人是被饶恕的条件，这提醒我们祷告必须伴随饶恕。',
@@ -360,7 +360,7 @@ export const themesA1 = [
           ref_zh: '帖撒罗尼迦前书 5:17',
           ref_en: '1 Thessalonians 5:17',
           text_zh: '不住地祷告。',
-          text_en: 'pray without ceasing,',
+          text_en: 'Pray without ceasing.',
         },
         reflection: {
           zh: '"不住地祷告"——这简短的三个字（原文只有一个词）是圣经中最短却最具挑战性的命令之一。它不是说我们每时每刻都跪着闭眼，而是保持一颗持续与神对话的心。就像呼吸是自然且不间断的，祷告也应该成为我们生命中最自然的节奏。无论是开车、做饭、工作，都可以在心中与神交谈。',
@@ -380,7 +380,7 @@ export const themesA1 = [
           ref_zh: '腓立比书 4:6-7',
           ref_en: 'Philippians 4:6-7',
           text_zh: '应当一无挂虑，凡事藉着祷告、祈求和感谢，将你们所要的告诉神。神所赐出人意外的平安，必在基督耶稣里保守你们的心怀意念。',
-          text_en: 'do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.',
+          text_en: 'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.',
         },
         reflection: {
           zh: '腓4:6-7给出了一个对抗焦虑的属灵处方：不要忧虑→凡事祷告→带着感谢→告诉神。结果是什么？神所赐出人意外的平安会保守我们的心怀意念。注意这里说"一无挂虑"和"凡事"祷告——没有任何事大到神不能处理，也没有任何事小到神不关心。关键是祷告时要带着感谢，因为感恩会改变我们看待处境的眼光。',
@@ -400,7 +400,7 @@ export const themesA1 = [
           ref_zh: '雅各书 5:16',
           ref_en: 'James 5:16',
           text_zh: '所以你们要彼此认罪，互相代求，使你们可以得医治。义人祈祷所发的力量是大有功效的。',
-          text_en: 'Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working.',
+          text_en: 'Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.',
         },
         reflection: {
           zh: '雅各书5:16揭示了祷告的两个关键元素：认罪与代求。彼此认罪需要谦卑和信任，互相代求需要爱和坚持。当我们愿意在家人面前敞开心扉承认软弱时，医治就开始了。雅各还告诉我们"义人祈祷所发的力量是大有功效的"——不是因为义人特别厉害，而是因为他们与神关系正确，祷告就有大能。',
@@ -420,7 +420,7 @@ export const themesA1 = [
           ref_zh: '耶利米书 33:3',
           ref_en: 'Jeremiah 33:3',
           text_zh: '你求告我，我就应允你，并将你所不知道、又大又难的事指示你。',
-          text_en: 'Call to me and I will answer you, and will tell you great and hidden things that you have not known.',
+          text_en: 'Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.',
         },
         reflection: {
           zh: '耶利米书33:3被称为"神的电话号码"——333。神在耶利米被囚禁时给了这个应许：你求告我，我就应允你。这不是一个有条件的可能，而是神确定的承诺。更令人惊叹的是，神还应许要指示我们"又大又难的事"——那些我们不知道的奥秘。祷告不只是得到我们想要的，更是发现神要向我们揭示的。',
@@ -440,7 +440,7 @@ export const themesA1 = [
           ref_zh: '约翰福音 15:7',
           ref_en: 'John 15:7',
           text_zh: '你们若常在我里面，我的话也常在你们里面；凡你们所愿意的，祈求就给你们成就。',
-          text_en: 'If you abide in me, and my words abide in you, ask whatever you wish, and it will be done for you.',
+          text_en: 'If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.',
         },
         reflection: {
           zh: '约翰福音15:7的应许看似无限——"凡你们所愿意的，祈求就给你们成就"——但前提条件是关键："常在我里面，我的话也常在你们里面"。当我们与基督保持亲密的连结，当祂的话语深深扎根在我们里面时，我们的愿望就会越来越与祂的旨意一致。住在基督里的人祈求的不是自私的欲望，而是与神心意相合的事。',
@@ -460,7 +460,7 @@ export const themesA1 = [
           ref_zh: '罗马书 8:26',
           ref_en: 'Romans 8:26',
           text_zh: '况且，我们的软弱有圣灵帮助；我们本不晓得当怎样祷告，只是圣灵亲自用说不出来的叹息替我们祷告。',
-          text_en: 'Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words.',
+          text_en: 'Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.',
         },
         reflection: {
           zh: '罗马书8:26是何等大的安慰！当我们不知道怎样祷告——不知道该说什么、不知道该求什么、甚至痛苦到说不出话——圣灵亲自替我们祷告。祂的代求用"说不出来的叹息"，超越了人类语言的局限。这意味着即使我们最笨拙、最破碎的祷告，经过圣灵的翻译，都能完美地到达天父面前。',
@@ -480,7 +480,7 @@ export const themesA1 = [
           ref_zh: '诗篇 145:18',
           ref_en: 'Psalm 145:18',
           text_zh: '凡求告耶和华的，就是诚心求告他的，耶和华便与他们相近。',
-          text_en: 'The LORD is near to all who call on him, to all who call on him in truth.',
+          text_en: 'The LORD is nigh unto all them that call upon him, to all that call upon him in truth.',
         },
         reflection: {
           zh: '诗篇145:18给了我们一个简单而宝贵的应许：当我们诚心求告神时，祂就与我们相近。神不是遥不可及的，祂等候着我们的呼求。但这里有一个条件——"诚心"。神看重的不是华丽的言辞或冗长的祷告，而是一颗真诚的心。当我们以真心呼求祂时，祂就靠近我们。祷告最重要的不是形式，而是真诚。',
@@ -500,7 +500,7 @@ export const themesA1 = [
           ref_zh: '马太福音 7:7-8',
           ref_en: 'Matthew 7:7-8',
           text_zh: '你们祈求，就给你们；寻找，就寻见；叩门，就给你们开门。因为凡祈求的，就得着；寻找的，就寻见；叩门的，就给他开门。',
-          text_en: 'Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened.',
+          text_en: 'Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.',
         },
         reflection: {
           zh: '耶稣在太7:7-8用了三个递进的动词：祈求、寻找、叩门——表达了祷告中不断增长的热切。祈求是开口，寻找是行动，叩门是坚持。而耶稣的应许同样三重确认：就给、就寻见、就开门。神不会对真诚的祈求充耳不闻。这里的"凡"字也很重要——不分男女老少，不分属灵程度，凡祈求的就得着。',
@@ -520,7 +520,7 @@ export const themesA1 = [
           ref_zh: '马太福音 6:6',
           ref_en: 'Matthew 6:6',
           text_zh: '你祷告的时候，要进你的内屋，关上门，祷告你在暗中的父，你父在暗中察看，必然报答你。',
-          text_en: 'But when you pray, go into your room and shut the door and pray to your Father who is in secret. And your Father who sees in secret will reward you.',
+          text_en: 'But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.',
         },
         reflection: {
           zh: '太6:6教导我们内室祷告的重要性。耶稣说"进你的内屋，关上门"——这是与神独处的时间，没有观众，没有表演，只有你和天父。在暗中的祷告是最真实的祷告，因为没有人看见，所以不会有虚伪。天父"在暗中察看"——祂看见你关起门来的泪水、挣扎、呼求，并且祂"必然报答"。内室是属灵能力的发源地。',
@@ -540,7 +540,7 @@ export const themesA1 = [
           ref_zh: '路加福音 18:1',
           ref_en: 'Luke 18:1',
           text_zh: '耶稣设一个比喻，是要人常常祷告，不可灰心。',
-          text_en: 'And he told them a parable to the effect that they ought always to pray and not lose heart.',
+          text_en: 'And he spake a parable unto them to this end, that men ought always to pray, and not to faint;',
         },
         reflection: {
           zh: '路加福音18:1引出了不义的官和寡妇的比喻。耶稣设这个比喻的目的很明确："要人常常祷告，不可灰心"。那个寡妇之所以最终得到伸冤，不是因为法官公义，而是因为她锲而不舍。如果一个不义的法官都会因坚持而回应，何况我们公义慈爱的天父呢？当祷告似乎没有回应时，不要灰心——继续祷告！',
@@ -560,7 +560,7 @@ export const themesA1 = [
           ref_zh: '马太福音 18:19-20',
           ref_en: 'Matthew 18:19-20',
           text_zh: '我又告诉你们：若是你们中间有两个人在地上同心合意地求什么事，我在天上的父必为他们成全。因为无论在哪里，有两三个人奉我的名聚会，那里就有我在他们中间。',
-          text_en: 'Again I say to you, if two of you agree on earth about anything they ask, it will be done for them by my Father in heaven. For where two or three are gathered in my name, there am I among them.',
+          text_en: 'Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven. For where two or three are gathered together in my name, there am I in the midst of them.',
         },
         reflection: {
           zh: '太18:19-20揭示了同心祷告的巨大能力。"同心合意"不只是嘴上一致，而是心灵的合一。当两三个人在基督里同心祈求时，天父必为他们成全。耶稣还应许"有两三个人奉我的名聚会，那里就有我在他们中间"——这正是家庭祭坛的应许！我们一家人在一起祷告时，耶稣就在我们中间。',
@@ -580,7 +580,7 @@ export const themesA1 = [
           ref_zh: '马太福音 5:44',
           ref_en: 'Matthew 5:44',
           text_zh: '只是我告诉你们：要爱你们的仇敌，为那逼迫你们的祷告。',
-          text_en: 'But I say to you, Love your enemies and pray for those who persecute you,',
+          text_en: 'But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;',
         },
         reflection: {
           zh: '太5:44是耶稣最具挑战性的教导之一：为仇敌和逼迫者祷告。人的本能是为朋友祷告、咒诅仇敌，但耶稣颠覆了这个逻辑。为仇敌祷告不仅改变他们，更先改变我们自己——因为你无法一边真诚地为一个人祷告，一边继续恨他。为仇敌祷告是释放饶恕、打破苦毒锁链最有效的方式。',
@@ -600,7 +600,7 @@ export const themesA1 = [
           ref_zh: '以弗所书 6:18',
           ref_en: 'Ephesians 6:18',
           text_zh: '靠着圣灵，随时多方祷告祈求，并要在此警醒不倦，为众圣徒祈求。',
-          text_en: 'praying at all times in the Spirit, with all prayer and supplication. To that end, keep alert with all perseverance, making supplication for all the saints,',
+          text_en: 'Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;',
         },
         reflection: {
           zh: '弗6:18是属灵军装的总结篇，强调四个"所有"：随时（所有时间）、多方（所有方式）、警醒不倦（所有毅力）、为众圣徒（所有信徒）。靠着圣灵祷告意味着让圣灵引导我们的祷告方向和内容。祷告不是属灵军装之外的附加品，而是贯穿所有军装的生命线。没有祷告，其他军装都无法发挥功效。',
@@ -629,7 +629,7 @@ export const themesA1 = [
           ref_zh: '帖撒罗尼迦前书 5:18',
           ref_en: '1 Thessalonians 5:18',
           text_zh: '凡事谢恩，因为这是神在基督耶稣里向你们所定的旨意。',
-          text_en: 'give thanks in all circumstances; for this is the will of God in Christ Jesus for you.',
+          text_en: 'In every thing give thanks: for this is the will of God in Christ Jesus concerning you.',
         },
         reflection: {
           zh: '"凡事谢恩"——不是凡好事谢恩，而是凡事。这意味着在困难、失望、疾病中也要感恩。保罗说这是"神的旨意"，意思是感恩不是可选的，而是神对我们生命的心意。注意是"凡事中"谢恩，不是"为凡事"谢恩——我们不必为苦难本身感恩，但在苦难中仍然可以感恩神的同在、恩典和主权。',
@@ -649,7 +649,7 @@ export const themesA1 = [
           ref_zh: '诗篇 100:4',
           ref_en: 'Psalm 100:4',
           text_zh: '当称谢进入他的门，当赞美进入他的院；当感谢他，称颂他的名。',
-          text_en: 'Enter his gates with thanksgiving, and his courts with praise! Give thanks to him; bless his name!',
+          text_en: 'Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.',
         },
         reflection: {
           zh: '诗篇100:4告诉我们进入神同在的方式：带着感谢和赞美。这幅图画来自以色列人进入圣殿敬拜——先进入门，再进入院。感谢是我们进入神同在的门票。当我们不知道怎么开始祷告或敬拜时，从感恩开始永远不会错。感恩打开的不只是天上的门，也打开我们自己封闭的心门。',
@@ -669,7 +669,7 @@ export const themesA1 = [
           ref_zh: '诗篇 107:1',
           ref_en: 'Psalm 107:1',
           text_zh: '你们要称谢耶和华，因他本为善，他的慈爱永远长存！',
-          text_en: 'Oh give thanks to the LORD, for he is good, for his steadfast love endures forever!',
+          text_en: 'O give thanks unto the LORD, for he is good: for his mercy endureth for ever.',
         },
         reflection: {
           zh: '诗篇107:1给出了感恩的根本原因：不是因为环境好，而是因为"他本为善"。神的良善不取决于我们的处境，祂的慈爱也不受时间限制——"永远长存"。即使在最黑暗的日子里，这个真理也不会改变：神本为善，祂的慈爱永远长存。感恩的根基不是我们的感觉，而是神永不改变的本性。',
@@ -689,7 +689,7 @@ export const themesA1 = [
           ref_zh: '歌罗西书 3:15',
           ref_en: 'Colossians 3:15',
           text_zh: '又要叫基督的平安在你们心里作主，你们也为此蒙召，归为一体；且要存感谢的心。',
-          text_en: 'And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful.',
+          text_en: 'And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.',
         },
         reflection: {
           zh: '歌罗西书3:15将平安、合一和感恩三者紧密联系在一起。当基督的平安在我们心里作主时，我们就能与弟兄姐妹合一，并自然地流露感恩。"存感谢的心"是一种持续的生命态度，不是偶尔的情感爆发。一颗感恩的心是平安和合一的土壤——不感恩的人容易苦毒、抱怨，破坏关系；感恩的人则带来和平与团结。',
@@ -709,7 +709,7 @@ export const themesA1 = [
           ref_zh: '诗篇 136:1',
           ref_en: 'Psalm 136:1',
           text_zh: '你们要称谢耶和华，因他本为善，他的慈爱永远长存。',
-          text_en: 'Give thanks to the LORD, for he is good, for his steadfast love endures forever.',
+          text_en: 'O give thanks unto the LORD; for he is good: for his mercy endureth for ever.',
         },
         reflection: {
           zh: '诗篇136篇是一首独特的诗——每一节都以"他的慈爱永远长存"作为回应。全篇26节，26次重复这句话。这种重复不是啰嗦，而是刻意的强调：无论神做了什么——创造天地、分开红海、击败仇敌、赐下食物——背后的动机都是同一个：祂的慈爱永远长存。重复感恩不是无聊，而是让真理深入骨髓。',
@@ -729,7 +729,7 @@ export const themesA1 = [
           ref_zh: '歌罗西书 3:17',
           ref_en: 'Colossians 3:17',
           text_zh: '无论做什么，或说话、或行事，都要奉主耶稣的名，藉着他感谢父神。',
-          text_en: 'And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him.',
+          text_en: 'And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.',
         },
         reflection: {
           zh: '歌罗西书3:17把感恩的范围扩展到了生活的每一个层面："无论做什么"——说话也好、行事也好——都要奉耶稣的名，并且藉着祂感谢父神。这意味着没有任何事情是"世俗的"到不值得感恩。吃饭、工作、学习、休息——一切都可以成为感恩的祭坛。当我们奉耶稣的名做每件事时，平凡的日常就变成了神圣的敬拜。',
@@ -749,7 +749,7 @@ export const themesA1 = [
           ref_zh: '诗篇 103:2',
           ref_en: 'Psalm 103:2',
           text_zh: '我的心哪，你要称颂耶和华！不可忘记他的一切恩惠。',
-          text_en: 'Bless the LORD, O my soul, and forget not all his benefits,',
+          text_en: 'Bless the LORD, O my soul, and forget not all his benefits:',
         },
         reflection: {
           zh: '大卫在诗篇103:2提醒自己的灵魂两件事：称颂耶和华，不可忘记祂的恩惠。人是健忘的动物——我们太容易忘记神曾经的恩典，而只关注当下的困难。"不可忘记"是一个主动的命令，意味着记住恩典需要刻意的努力。这就是为什么写感恩日记、家庭中分享恩典故事如此重要——它们帮助我们"不忘记"。',
@@ -769,7 +769,7 @@ export const themesA1 = [
           ref_zh: '腓立比书 4:6',
           ref_en: 'Philippians 4:6',
           text_zh: '应当一无挂虑，凡事藉着祷告、祈求和感谢，将你们所要的告诉神。',
-          text_en: 'do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.',
+          text_en: 'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.',
         },
         reflection: {
           zh: '腓4:6在感恩主题中有一个独特的角度：感谢是对抗焦虑的武器。保罗没有说"凡事藉着祷告、祈求，将你们所要的告诉神"就够了，他特别加上了"和感谢"。在祈求中加入感恩，就像在祷告中注入了信心——因为感谢意味着我们相信神已经在掌管，已经在做工。焦虑说"万一……"，感恩说"即便……，神仍然……"。',
@@ -789,7 +789,7 @@ export const themesA1 = [
           ref_zh: '诗篇 95:2',
           ref_en: 'Psalm 95:2',
           text_zh: '我们要来感谢他，用诗歌向他欢呼！',
-          text_en: 'Let us come into his presence with thanksgiving; let us make a joyful noise to him with songs of praise!',
+          text_en: 'Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.',
         },
         reflection: {
           zh: '诗篇95:2将感恩与欢乐的歌声联系在一起。感恩不只是安静的内心活动，也可以是大声的、喜乐的、充满音乐的表达。"用诗歌向他欢呼"——感恩带来喜乐，喜乐催生歌声。一个家庭如果常常一起唱诗感恩，氛围就会完全不同。试试在家庭祭坛中加入一首感恩的诗歌，让全家一起向神欢呼！',
@@ -809,7 +809,7 @@ export const themesA1 = [
           ref_zh: '雅各书 1:17',
           ref_en: 'James 1:17',
           text_zh: '各样美善的恩赐和各样全备的赏赐都是从上头来的，从众光之父那里降下来的，在他并没有改变，也没有转动的影儿。',
-          text_en: 'Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change.',
+          text_en: 'Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.',
         },
         reflection: {
           zh: '雅各书1:17追溯了一切美善事物的源头：众光之父。每一个好的恩赐——健康、家庭、食物、友谊、才能——都是从上头降下来的。这提醒我们不要把好事当作理所当然或归功于自己的努力，而要认出每一份美善都来自神。更宝贵的是，这位赐恩的神"没有改变，也没有转动的影儿"——祂的良善永远不变。',
@@ -829,7 +829,7 @@ export const themesA1 = [
           ref_zh: '歌罗西书 2:7',
           ref_en: 'Colossians 2:7',
           text_zh: '在他里面生根建造，信心坚固，正如你们所领的教训，感谢的心也更增长了。',
-          text_en: 'rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving.',
+          text_en: 'Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.',
         },
         reflection: {
           zh: '西2:7描绘了一幅属灵成长的画面：生根、建造、信心坚固——而这一切的结果是"感谢的心也更增长了"。保罗用"增长"（原文是"溢出"）来形容感恩，意味着感恩应该是越来越多、满溢出来的。一个在基督里扎根越深的人，感恩就越丰盛。如果我们的感恩在减少，可能是因为我们的根在变浅。',
@@ -849,7 +849,7 @@ export const themesA1 = [
           ref_zh: '诗篇 69:30',
           ref_en: 'Psalm 69:30',
           text_zh: '我要以诗歌赞美神的名，以感谢称他为大。',
-          text_en: 'I will praise the name of God with a song; I will magnify him with thanksgiving.',
+          text_en: 'I will praise the name of God with a song, and will magnify him with thanksgiving.',
         },
         reflection: {
           zh: '诗篇69篇的背景是大卫在极大的苦难中——他被水淹没、被人恨恶、被朋友出卖。然而在苦难的最深处，大卫宣告："我要以诗歌赞美神的名，以感谢称他为大。"这是苦难中的感恩——不是因为苦难结束了，而是在苦难中选择赞美。"称他为大"意味着把神放大，把问题缩小。感恩就是这样的属灵操练。',
@@ -869,7 +869,7 @@ export const themesA1 = [
           ref_zh: '提摩太前书 4:4-5',
           ref_en: '1 Timothy 4:4-5',
           text_zh: '凡神所造的物都是好的，若感谢着领受，就没有一样可弃的，都因神的道和人的祈求成为圣洁了。',
-          text_en: 'For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving, for it is made holy by the word of God and prayer.',
+          text_en: 'For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: For it is sanctified by the word of God and prayer.',
         },
         reflection: {
           zh: '提前4:4-5告诉我们一个奇妙的真理：感恩能使事物"成为圣洁"。神所造的物都是好的，当我们带着感谢的心领受时，一顿普通的饭菜就变成了圣餐般的经历，平凡的日子就充满了神圣的意义。感恩是一种"圣化"的力量——它不改变事物本身，却改变我们看待事物的方式。',
@@ -889,7 +889,7 @@ export const themesA1 = [
           ref_zh: '以弗所书 5:20',
           ref_en: 'Ephesians 5:20',
           text_zh: '凡事要奉我们主耶稣基督的名常常感谢父神。',
-          text_en: 'giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ,',
+          text_en: 'Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;',
         },
         reflection: {
           zh: '弗5:20有两个强调词："凡事"和"常常"。不是有些事感恩，而是凡事；不是偶尔感恩，而是常常。这是被圣灵充满的生命表现之一（见弗5:18-20的上下文）。一个被圣灵充满的人，自然流露的生命特征就是不停地感恩。感恩不是因为我们的意志力够强，而是因为圣灵在里面运行。',
@@ -909,7 +909,7 @@ export const themesA1 = [
           ref_zh: '希伯来书 13:15',
           ref_en: 'Hebrews 13:15',
           text_zh: '我们应当靠着耶稣，常常以颂赞为祭献给神，这就是那承认主名之人嘴唇的果子。',
-          text_en: 'Through him then let us continually offer up a sacrifice of praise to God, that is, the fruit of lips that acknowledge his name.',
+          text_en: 'By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.',
         },
         reflection: {
           zh: '来13:15把感恩和赞美称为"祭"——颂赞的祭。在旧约中，以色列人要献上牛羊作为祭物，但新约中我们的祭是嘴唇的果子——承认主名的赞美。"常常"意味着这不是偶尔的献祭，而是持续不断的生活方式。"靠着耶稣"提醒我们，我们能感恩和赞美，完全是因为耶稣为我们开了通往神面前的路。',
@@ -938,7 +938,7 @@ export const themesA1 = [
           ref_zh: '约翰福音 3:16',
           ref_en: 'John 3:16',
           text_zh: '神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不至灭亡，反得永生。',
-          text_en: 'For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.',
+          text_en: 'For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.',
         },
         reflection: {
           zh: '约翰福音3:16是全圣经最广为人知的经文，浓缩了整个福音的核心。"神爱世人"——爱的源头；"甚至将他的独生子赐给他们"——爱的代价；"叫一切信他的"——爱的条件；"不至灭亡，反得永生"——爱的结果。神的爱不是抽象的概念，而是具体的行动：祂把最宝贵的独生子赐给了我们。',
@@ -958,7 +958,7 @@ export const themesA1 = [
           ref_zh: '罗马书 8:38-39',
           ref_en: 'Romans 8:38-39',
           text_zh: '因为我深信无论是死，是生，是天使，是掌权的，是有能的，是现在的事，是将来的事，是高处的，是低处的，是别的受造之物，都不能叫我们与神的爱隔绝；这爱是在我们的主基督耶稣里的。',
-          text_en: 'For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.',
+          text_en: 'For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.',
         },
         reflection: {
           zh: '保罗在罗8:38-39列出了一份详尽的清单：死、生、天使、掌权的、有能的、现在的事、将来的事、高处的、低处的、别的受造之物——然后宣告：这些都不能叫我们与神的爱隔绝！这是一个全方位、无死角的保证。无论你经历什么，无论你在哪里，没有任何力量可以把你从神的爱中夺走。',
@@ -978,7 +978,7 @@ export const themesA1 = [
           ref_zh: '约翰一书 4:19',
           ref_en: '1 John 4:19',
           text_zh: '我们爱，因为神先爱我们。',
-          text_en: 'We love because he first loved us.',
+          text_en: 'We love him, because he first loved us.',
         },
         reflection: {
           zh: '约壹4:19揭示了一个深刻的因果关系：我们之所以能爱，是因为神先爱了我们。爱不是从我们开始的，而是从神开始的。我们不是爱的源头，而是爱的管道。一个没有先被神的爱充满的人，无法真正地爱别人。这就像水井——我们不能给出自己没有的东西。先领受神的爱，才能把爱传递出去。',
@@ -998,7 +998,7 @@ export const themesA1 = [
           ref_zh: '约翰一书 4:9-10',
           ref_en: '1 John 4:9-10',
           text_zh: '神差他独生子到世间来，使我们藉着他得生，神爱我们的心在此就显明了。不是我们爱神，乃是神爱我们，差他的儿子为我们的罪作了挽回祭，这就是爱了。',
-          text_en: 'In this the love of God was made manifest among us, that God sent his only Son into the world, so that we might live through him. In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.',
+          text_en: 'In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him. Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.',
         },
         reflection: {
           zh: '约壹4:9-10给爱下了最终极的定义：爱不是我们对神的爱，而是神对我们的爱。神差独生子来作"挽回祭"——承担了我们罪的代价，平息了神的义怒。这个词"挽回祭"显示了神的爱的深度：不是轻描淡写地说"没关系"，而是付上了血的代价来解决罪的问题。',
@@ -1018,7 +1018,7 @@ export const themesA1 = [
           ref_zh: '罗马书 5:8',
           ref_en: 'Romans 5:8',
           text_zh: '惟有基督在我们还作罪人的时候为我们死，神的爱就在此向我们显明了。',
-          text_en: 'but God shows his love for us in that while we were still sinners, Christ died for us.',
+          text_en: 'But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.',
         },
         reflection: {
           zh: '罗5:8强调了神的爱最令人震撼之处："在我们还作罪人的时候"。不是等我们变好了、配得了、够资格了，而是在我们最糟糕的状态下，基督就为我们死了。人间的爱通常是有条件的——你好我才爱你；但神的爱是无条件的——你在罪中我就爱你。',
@@ -1038,7 +1038,7 @@ export const themesA1 = [
           ref_zh: '以弗所书 2:4-5',
           ref_en: 'Ephesians 2:4-5',
           text_zh: '然而神既有丰富的怜悯，因他爱我们的大爱，当我们死在过犯中的时候，便叫我们与基督一同活过来（你们得救是本乎恩）。',
-          text_en: 'But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ — by grace you have been saved —',
+          text_en: 'But God, who is rich in mercy, for his great love wherewith he loved us, Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)',
         },
         reflection: {
           zh: '弗2:4-5以一个强有力的转折开始："然而神"。前面的经文描绘了人类的绝望境况——死在过犯中。但"然而神"改变了一切。神的怜悯是"丰富的"，祂的爱是"大爱"。当我们灵性已死、毫无能力自救的时候，神主动叫我们与基督一同活过来。',
@@ -1058,7 +1058,7 @@ export const themesA1 = [
           ref_zh: '耶利米书 31:3',
           ref_en: 'Jeremiah 31:3',
           text_zh: '古时耶和华向以色列显现，说："我以永远的爱爱你，因此我以慈爱吸引你。"',
-          text_en: 'the LORD appeared to him from far away. I have loved you with an everlasting love; therefore I have continued my steadfast love to you.',
+          text_en: 'The LORD hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.',
         },
         reflection: {
           zh: '耶31:3中神对以色列说的话也是对每一个信徒说的："我以永远的爱爱你"。这份爱不是一时的感动，而是"永远的"——没有开始，没有结束。"因此我以慈爱吸引你"——神的爱不是强迫的，而是吸引的。祂用慈爱温柔地拉近我们。',
@@ -1078,7 +1078,7 @@ export const themesA1 = [
           ref_zh: '诗篇 103:11',
           ref_en: 'Psalm 103:11',
           text_zh: '天离地何等的高，他的慈爱向敬畏他的人也是何等的大！',
-          text_en: 'For as high as the heavens are above the earth, so great is his steadfast love toward those who fear him;',
+          text_en: 'For as the heaven is high above the earth, so great is his mercy toward them that fear him.',
         },
         reflection: {
           zh: '诗篇103:11用了一个我们能想象的最大距离——天与地之间的距离——来比喻神的慈爱。当你仰望天空，想象那无穷无尽的高度，你就开始理解神的爱有多大。但即使天与地的距离也只是一个比喻，因为神的爱实际上是无限的。',
@@ -1098,7 +1098,7 @@ export const themesA1 = [
           ref_zh: '西番雅书 3:17',
           ref_en: 'Zephaniah 3:17',
           text_zh: '耶和华你的神是施行拯救、大有能力的主。他在你中间必因你欢欣喜乐，默然爱你，且因你喜乐而欢呼。',
-          text_en: 'The LORD your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing.',
+          text_en: 'The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.',
         },
         reflection: {
           zh: '番3:17是圣经中最温暖的经文之一，描绘了神对我们的爱的三种表达：因我们欢欣喜乐、默然爱我们、因我们喜乐而欢呼。想象一下——无限的神竟然会因为你而喜乐欢呼！就像父母看着熟睡的孩子时那种安静而深沉的爱。',
@@ -1118,7 +1118,7 @@ export const themesA1 = [
           ref_zh: '哥林多前书 13:4-7',
           ref_en: '1 Corinthians 13:4-7',
           text_zh: '爱是恒久忍耐，又有恩慈；爱是不嫉妒，爱是不自夸，不张狂，不做害羞的事，不求自己的益处，不轻易发怒，不计算人的恶，不喜欢不义，只喜欢真理；凡事包容，凡事相信，凡事盼望，凡事忍耐。',
-          text_en: 'Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrongdoing, but rejoices with the truth. Love bears all things, believes all things, hopes all things, endures all things.',
+          text_en: 'Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; Rejoiceth not in iniquity, but rejoiceth in the truth; Beareth all things, believeth all things, hopeth all things, endureth all things.',
         },
         reflection: {
           zh: '林前13:4-7常被称为"爱的颂歌"。这段经文用15个特征描绘了真正的爱。试着把"爱"替换成"神"——每一句都完美地描述了神。再试着把"爱"替换成你的名字——你会发现我们离真爱有多远。这就是为什么我们需要神的爱充满我们。',
@@ -1138,7 +1138,7 @@ export const themesA1 = [
           ref_zh: '约翰福音 15:13',
           ref_en: 'John 15:13',
           text_zh: '人为朋友舍命，人的爱心没有比这个大的。',
-          text_en: 'Greater love has no one than this, that someone lay down his life for his friends.',
+          text_en: 'Greater love hath no man than this, that a man lay down his life for his friends.',
         },
         reflection: {
           zh: '约15:13定义了爱的最高表达：为朋友舍命。在所有的爱的表达中，没有比这更大的了。耶稣说这话的时候，祂自己正走向十字架——祂不只是教导这个真理，祂亲自活出来。更奇妙的是，祂不只为朋友死，更为仇敌死。',
@@ -1158,7 +1158,7 @@ export const themesA1 = [
           ref_zh: '约翰一书 4:10',
           ref_en: '1 John 4:10',
           text_zh: '不是我们爱神，乃是神爱我们，差他的儿子为我们的罪作了挽回祭，这就是爱了。',
-          text_en: 'In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.',
+          text_en: 'Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.',
         },
         reflection: {
           zh: '约壹4:10再次强调爱的方向：不是从人到神，而是从神到人。"这就是爱了"——约翰给爱下了最终极的定义。爱的最高定义永远是十字架。当你不确定神是否爱你时，仰望十字架——那就是答案。',
@@ -1178,7 +1178,7 @@ export const themesA1 = [
           ref_zh: '约翰一书 3:1',
           ref_en: '1 John 3:1',
           text_zh: '你看父赐给我们是何等的慈爱，使我们得称为神的儿女；我们也真是他的儿女。世人所以不认识我们，是因未曾认识他。',
-          text_en: 'See what kind of love the Father has given us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him.',
+          text_en: 'Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.',
         },
         reflection: {
           zh: '约壹3:1以惊叹开始："你看父赐给我们是何等的慈爱！"约翰被神的爱震撼到不得不感叹。神的爱不只是拯救我们脱离审判，更是赐给我们一个新的身份——神的儿女。"我们也真是他的儿女"——这不是比喻，而是真实的身份。',
@@ -1198,7 +1198,7 @@ export const themesA1 = [
           ref_zh: '以弗所书 3:17-19',
           ref_en: 'Ephesians 3:17-19',
           text_zh: '使基督因你们的信，住在你们心里，叫你们的爱心有根有基，能以和众圣徒一同明白基督的爱是何等长阔高深；并知道这爱是过于人所能测度的，便叫神一切所充满的，充满了你们。',
-          text_en: 'so that Christ may dwell in your hearts through faith — that you, being rooted and grounded in love, may have strength to comprehend with all the saints what is the breadth and length and height and depth, and to know the love of Christ that surpasses knowledge, that you may be filled with all the fullness of God.',
+          text_en: 'That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love, May be able to comprehend with all saints what is the breadth, and length, and depth, and height; And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.',
         },
         reflection: {
           zh: '弗3:17-19是保罗最宏大的祷告之一。他求神让我们明白基督的爱的四个维度：长、阔、高、深。这爱向四面八方延伸，没有边界。然后保罗说了一句看似矛盾的话：要"知道这爱是过于人所能测度的"——我们要去认识一份认识不完的爱！',
@@ -1218,7 +1218,7 @@ export const themesA1 = [
           ref_zh: '约翰一书 4:8',
           ref_en: '1 John 4:8',
           text_zh: '没有爱心的，就不认识神，因为神就是爱。',
-          text_en: 'Anyone who does not love does not know God, because God is love.',
+          text_en: 'He that loveth not knoweth not God; for God is love.',
         },
         reflection: {
           zh: '约壹4:8是整个"神的爱"主题的完美总结，也是圣经中最简洁有力的神学宣告之一："神就是爱。"注意不是说"神有爱"或"神能爱"，而是"神就是爱"——爱是祂的本质、本性、本体。这意味着神所做的一切都是出于爱，祂不可能做出不爱的事。',

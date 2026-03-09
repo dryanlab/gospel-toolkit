@@ -16,7 +16,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太5:3',
           ref_en: 'Matthew 5:3',
           text_zh: '虚心的人有福了，因为天国是他们的。',
-          text_en: 'Blessed are the poor in spirit, for theirs is the kingdom of heaven.',
+          text_en: 'Blessed are the poor in spirit: for theirs is the kingdom of heaven.',
         },
         reflection: {
           zh: '虚心不是软弱，而是认识到自己在神面前的不足。当我们承认自己灵里贫乏时，才会真正渴慕神的同在。天国的门向谦卑的人敞开。',
@@ -36,7 +36,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太5:4',
           ref_en: 'Matthew 5:4',
           text_zh: '哀恸的人有福了，因为他们必得安慰。',
-          text_en: 'Blessed are those who mourn, for they shall be comforted.',
+          text_en: 'Blessed are they that mourn: for they shall be comforted.',
         },
         reflection: {
           zh: '哀恸不仅是为失去而悲伤，更是为罪恶和这个破碎世界而忧伤。神应许亲自安慰那些为义而哀恸的人，祂的安慰远超人间的一切慰藉。',
@@ -56,7 +56,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太5:5',
           ref_en: 'Matthew 5:5',
           text_zh: '温柔的人有福了，因为他们必承受地土。',
-          text_en: 'Blessed are the meek, for they shall inherit the earth.',
+          text_en: 'Blessed are the meek: for they shall inherit the earth.',
         },
         reflection: {
           zh: '温柔是受控制的力量，是在有能力反击时选择恩慈。耶稣本身就是温柔的典范——祂有天上地下所有的权柄，却为我们甘愿受苦。温柔的人最终将承受一切。',
@@ -76,7 +76,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太5:6',
           ref_en: 'Matthew 5:6',
           text_zh: '饥渴慕义的人有福了，因为他们必得饱足。',
-          text_en: 'Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.',
+          text_en: 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled.',
         },
         reflection: {
           zh: '饥渴慕义描述的是一种强烈的渴望，如同身体对食物和水的需要一样迫切。当我们以追求神的公义为人生最大的渴望时，神应许必使我们满足。',
@@ -96,7 +96,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太5:7',
           ref_en: 'Matthew 5:7',
           text_zh: '怜恤人的人有福了，因为他们必蒙怜恤。',
-          text_en: 'Blessed are the merciful, for they shall receive mercy.',
+          text_en: 'Blessed are the merciful: for they shall obtain mercy.',
         },
         reflection: {
           zh: '怜恤是看见别人的痛苦并采取行动帮助。神先向我们施了无限的怜悯，我们也当如此待人。施怜悯的人不是在积攒功德，而是在活出已经领受的恩典。',
@@ -116,7 +116,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太5:8',
           ref_en: 'Matthew 5:8',
           text_zh: '清心的人有福了，因为他们必得见神。',
-          text_en: 'Blessed are the pure in heart, for they shall see God.',
+          text_en: 'Blessed are the pure in heart: for they shall see God.',
         },
         reflection: {
           zh: '清心意味着内心没有分裂的忠诚——全心全意专注于神。只有当我们的心被洁净、被单一的热情所驱动时，才能真正看见神在我们生命中的作为。',
@@ -136,7 +136,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太5:9',
           ref_en: 'Matthew 5:9',
           text_zh: '使人和睦的人有福了，因为他们必称为神的儿子。',
-          text_en: 'Blessed are the peacemakers, for they shall be called sons of God.',
+          text_en: 'Blessed are the peacemakers: for they shall be called the children of God.',
         },
         reflection: {
           zh: '使人和睦不是回避冲突，而是积极地在关系中带来和好。神自己是最伟大的和平使者——祂差遣耶稣使我们与神和好。当我们效法祂促进和平时，就彰显了神儿女的身份。',
@@ -156,7 +156,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太5:10-12',
           ref_en: 'Matthew 5:10-12',
           text_zh: '为义受逼迫的人有福了，因为天国是他们的。人若因我辱骂你们，逼迫你们，捏造各样坏话毁谤你们，你们就有福了。应当欢喜快乐，因为你们在天上的赏赐是大的。',
-          text_en: 'Blessed are those who are persecuted for righteousness\' sake, for theirs is the kingdom of heaven. Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven.',
+          text_en: 'Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven. Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.',
         },
         reflection: {
           zh: '为义受苦不是咒诅而是祝福。历史上无数圣徒在逼迫中反而经历了更深的喜乐和更大的信心。因为我们的赏赐不在地上，而在天上。',
@@ -176,7 +176,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太5:13',
           ref_en: 'Matthew 5:13',
           text_zh: '你们是世上的盐。盐若失了味，怎能叫它再咸呢？以后无用，不过丢在外面，被人践踏了。',
-          text_en: 'You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people\'s feet.',
+          text_en: 'Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.',
         },
         reflection: {
           zh: '盐能防腐、调味、洁净。基督徒在世界中就当如盐一般——防止道德败坏，给生活带来美好的味道。但盐若失了味就毫无价值，我们的生命也必须保持属灵的活力。',
@@ -196,7 +196,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太5:14-16',
           ref_en: 'Matthew 5:14-16',
           text_zh: '你们是世上的光。城造在山上，是不能隐藏的。人点灯，不放在斗底下，是放在灯台上，就照亮一家的人。你们的光也当这样照在人前，叫他们看见你们的好行为，便将荣耀归给你们在天上的父。',
-          text_en: 'You are the light of the world. A city set on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house. In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.',
+          text_en: 'Ye are the light of the world. A city that is set on an hill cannot be hid. Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.',
         },
         reflection: {
           zh: '光的本性就是照耀。基督徒不应隐藏信仰，而要通过好行为让人看见神的荣耀。注意，目的不是让人赞美我们，而是将荣耀归给天父。',
@@ -216,7 +216,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太6:25-27',
           ref_en: 'Matthew 6:25-27',
           text_zh: '所以我告诉你们，不要为生命忧虑吃什么，喝什么，为身体忧虑穿什么。生命不胜于饮食吗？身体不胜于衣裳吗？你们看那天上的飞鸟，也不种，也不收，也不积蓄在仓里，你们的天父尚且养活它。你们不比飞鸟贵重得多吗？你们哪一个能用思虑使寿数多加一刻呢？',
-          text_en: 'Therefore I tell you, do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will put on. Is not life more than food, and the body more than clothing? Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they? And which of you by being anxious can add a single hour to his span of life?',
+          text_en: 'Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment? Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they? Which of you by taking thought can add one cubit unto his stature?',
         },
         reflection: {
           zh: '忧虑是对神供应能力的不信任。耶稣用飞鸟的比喻提醒我们：如果天父连飞鸟都养活，何况祂所爱的儿女呢？忧虑不能改变任何事，但信靠可以改变一切。',
@@ -236,7 +236,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太6:33',
           ref_en: 'Matthew 6:33',
           text_zh: '你们要先求他的国和他的义，这些东西都要加给你们了。',
-          text_en: 'But seek first the kingdom of God and his righteousness, and all these things will be added to you.',
+          text_en: 'But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.',
         },
         reflection: {
           zh: '这是耶稣给门徒的人生优先级排序：神的国和神的义必须放在首位。当我们把次序摆对时，神应许会照顾我们一切的需要。问题不在于我们需不需要这些东西，而在于什么排在第一位。',
@@ -256,7 +256,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太7:1-2',
           ref_en: 'Matthew 7:1-2',
           text_zh: '你们不要论断人，免得你们被论断。因为你们怎样论断人，也必怎样被论断；你们用什么量器量给人，也必用什么量器量给你们。',
-          text_en: 'Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you.',
+          text_en: 'Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.',
         },
         reflection: {
           zh: '论断不是指分辨是非，而是以自义的态度定罪他人。耶稣提醒我们：我们对待别人的方式，就是神对待我们的标准。与其论断别人的缺点，不如先检视自己的内心。',
@@ -276,7 +276,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太7:12',
           ref_en: 'Matthew 7:12',
           text_zh: '所以，无论何事，你们愿意人怎样待你们，你们也要怎样待人，因为这就是律法和先知的道理。',
-          text_en: 'So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets.',
+          text_en: 'Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.',
         },
         reflection: {
           zh: '这条"金律"概括了整本旧约律法的精髓。它不是被动的"不要伤害人"，而是主动的"积极善待人"。如果每个人都活出这条原则，世界将会何等不同。',
@@ -296,7 +296,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '太7:24-25',
           ref_en: 'Matthew 7:24-25',
           text_zh: '所以，凡听见我这话就去行的，好比一个聪明人，把房子盖在磐石上。雨淋，水冲，风吹，撞着那房子，房子总不倒塌，因为根基立在磐石上。',
-          text_en: 'Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock.',
+          text_en: 'Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.',
         },
         reflection: {
           zh: '登山宝训的结语提醒我们：听道必须行道。信仰不是理论知识，而是生命实践。那些将耶稣的话付诸行动的人，就像建在磐石上的房子，无论遭遇什么风浪都能站立得稳。',
@@ -325,7 +325,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约1:14',
           ref_en: 'John 1:14',
           text_zh: '道成了肉身，住在我们中间，充充满满地有恩典，有真理。我们也见过他的荣光，正是父独生子的荣光。',
-          text_en: 'And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.',
+          text_en: 'And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.',
         },
         reflection: {
           zh: '永恒的道成为有血有肉的人，住在我们中间。这是神最大的谦卑，也是最大的爱——祂不是远远地观望，而是亲自进入我们的世界，充满恩典和真理。',
@@ -345,7 +345,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约1:29',
           ref_en: 'John 1:29',
           text_zh: '次日，约翰看见耶稣来到他那里，就说："看哪，神的羔羊，除去世人罪孽的。"',
-          text_en: 'The next day he saw Jesus coming toward him, and said, "Behold, the Lamb of God, who takes away the sin of the world!"',
+          text_en: 'The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.',
         },
         reflection: {
           zh: '施洗约翰一语道出了耶稣来到世间的核心使命——作为神的羔羊，为全人类的罪献上自己。旧约中无数的羔羊献祭都指向这一位终极的羔羊。',
@@ -365,7 +365,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约3:3',
           ref_en: 'John 3:3',
           text_zh: '耶稣回答说："我实实在在地告诉你：人若不重生，就不能见神的国。"',
-          text_en: 'Jesus answered him, "Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God."',
+          text_en: 'Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.',
         },
         reflection: {
           zh: '重生不是道德改善或宗教行为，而是从圣灵而来的全新生命。尼哥底母虽然是宗教领袖，却仍然需要重生。没有人可以靠自己的努力进入神的国。',
@@ -385,7 +385,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约4:13-14',
           ref_en: 'John 4:13-14',
           text_zh: '耶稣回答说："凡喝这水的，还要再渴；人若喝我所赐的水，就永远不渴。我所赐的水要在他里头成为泉源，直涌到永生。"',
-          text_en: 'Jesus said to her, "Everyone who drinks of this water will be thirsty again, but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life."',
+          text_en: 'Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again: But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.',
         },
         reflection: {
           zh: '世界上一切的满足都是暂时的——喝了还要再渴。但耶稣所赐的活水能从心底涌出，带来永恒的满足。这活水就是圣灵的内住，源源不断地供应生命。',
@@ -405,7 +405,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约6:35',
           ref_en: 'John 6:35',
           text_zh: '耶稣说："我就是生命的粮，到我这里来的，必定不饿；信我的，永远不渴。"',
-          text_en: 'Jesus said to them, "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."',
+          text_en: 'And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.',
         },
         reflection: {
           zh: '耶稣宣告自己是生命的粮——不是暂时填饱肚子的食物，而是供应灵魂永恒需要的粮食。来到耶稣面前的人不再饥饿，信靠祂的人永远不渴。祂是我们生命的根本满足。',
@@ -425,7 +425,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约8:12',
           ref_en: 'John 8:12',
           text_zh: '耶稣又对众人说："我是世界的光。跟从我的，就不在黑暗里走，必要得着生命的光。"',
-          text_en: 'Again Jesus spoke to them, saying, "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life."',
+          text_en: 'Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.',
         },
         reflection: {
           zh: '在一个充满迷茫和黑暗的世界中，耶稣宣告自己是唯一的光源。跟从祂的人不会迷失在黑暗中，因为祂的光照亮前方的道路，也照亮我们内心的幽暗。',
@@ -445,7 +445,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约8:32',
           ref_en: 'John 8:32',
           text_zh: '你们必晓得真理，真理必叫你们得以自由。',
-          text_en: 'And you will know the truth, and the truth will set you free.',
+          text_en: 'And ye shall know the truth, and the truth shall make you free.',
         },
         reflection: {
           zh: '真正的自由不是随心所欲，而是被真理释放。世界提供虚假的自由，最终导致捆绑；但耶稣的真理打破罪的锁链，带来真正的自由——从罪的权势、恐惧和谎言中释放。',
@@ -465,7 +465,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约10:9',
           ref_en: 'John 10:9',
           text_zh: '我就是门，凡从我进来的，必然得救，并且出入得草吃。',
-          text_en: 'I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture.',
+          text_en: 'I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.',
         },
         reflection: {
           zh: '耶稣是唯一通往神的门。通过祂，我们得着救恩、自由和丰盛。这扇门向所有人敞开，但必须通过耶稣才能进入。祂既是进入安全之处的通道，也是通往丰盛生活的出口。',
@@ -485,7 +485,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约10:11',
           ref_en: 'John 10:11',
           text_zh: '我是好牧人，好牧人为羊舍命。',
-          text_en: 'I am the good shepherd. The good shepherd lays down his life for the sheep.',
+          text_en: 'I am the good shepherd: the good shepherd giveth his life for the sheep.',
         },
         reflection: {
           zh: '好牧人与雇工的区别在于：好牧人愿意为羊舍命。耶稣不只是管理者，祂是甘愿为我们付出一切的牧者。祂认识每一只羊，关心每一个需要，甚至愿意牺牲自己的生命。',
@@ -505,7 +505,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约11:25-26',
           ref_en: 'John 11:25-26',
           text_zh: '耶稣对她说："复活在我，生命也在我。信我的人，虽然死了，也必复活。凡活着信我的人必永远不死。你信这话吗？"',
-          text_en: 'Jesus said to her, "I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?"',
+          text_en: 'Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live: And whosoever liveth and believeth in me shall never die. Believest thou this?',
         },
         reflection: {
           zh: '在拉撒路的坟墓前，耶稣做出了最震撼的宣告：祂本身就是复活和生命。死亡不是终点，因为信祂的人虽然经历肉体的死亡，却必得着永远的生命。这是基督信仰最核心的盼望。',
@@ -525,7 +525,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约13:14-15',
           ref_en: 'John 13:14-15',
           text_zh: '我是你们的主，你们的夫子，尚且洗你们的脚，你们也当彼此洗脚。我给你们作了榜样，叫你们照着我向你们所作的去作。',
-          text_en: 'If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another\'s feet. For I have given you an example, that you also should do just as I have done to you.',
+          text_en: 'If I then, your Lord and Master, have washed your feet; ye also ought to wash one another’s feet. For I have given you an example, that ye should do as I have done to you.',
         },
         reflection: {
           zh: '万王之王跪下来洗门徒的脚——这是颠覆性的领导模式。耶稣用行动教导我们：真正的伟大不在于被人服侍，而在于服侍他人。祂给我们留下了谦卑服侍的榜样。',
@@ -545,7 +545,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约14:6',
           ref_en: 'John 14:6',
           text_zh: '耶稣说："我就是道路、真理、生命；若不藉着我，没有人能到父那里去。"',
-          text_en: 'Jesus said to him, "I am the way, and the truth, and the life. No one comes to the Father except through me."',
+          text_en: 'Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.',
         },
         reflection: {
           zh: '这是耶稣最明确的自我宣告之一：祂不仅指向道路，祂就是道路；祂不仅教导真理，祂就是真理；祂不仅赐下生命，祂就是生命。到天父那里去的唯一途径就是通过耶稣。',
@@ -565,7 +565,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约15:1,5',
           ref_en: 'John 15:1, 5',
           text_zh: '我是真葡萄树，我父是栽培的人。我是葡萄树，你们是枝子；常在我里面的，我也常在他里面，这人就多结果子；因为离了我，你们就不能作什么。',
-          text_en: 'I am the true vine, and my Father is the vinedresser. I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing.',
+          text_en: 'I am the true vine, and my Father is the husbandman.',
         },
         reflection: {
           zh: '枝子离了葡萄树就无法存活，更不能结果子。耶稣用这个比喻说明与祂保持亲密关系的重要性——常在祂里面，让祂的生命汁液流淌在我们里面，自然就会结出丰盛的果子。',
@@ -585,7 +585,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约14:27',
           ref_en: 'John 14:27',
           text_zh: '我留下平安给你们，我将我的平安赐给你们。我所赐的，不像世人所赐的；你们心里不要忧愁，也不要胆怯。',
-          text_en: 'Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid.',
+          text_en: 'Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.',
         },
         reflection: {
           zh: '耶稣的平安与世界给的平安完全不同。世界的平安取决于环境，但耶稣的平安超越环境——即使在风暴中也能安然。这平安是祂亲自留给门徒的遗产，也是给我们的礼物。',
@@ -605,7 +605,7 @@ export const themesB9: AltarTheme[] = [
           ref_zh: '约16:33',
           ref_en: 'John 16:33',
           text_zh: '我将这些事告诉你们，是要叫你们在我里面有平安。在世上你们有苦难，但你们可以放心，我已经胜了世界。',
-          text_en: 'I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.',
+          text_en: 'These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.',
         },
         reflection: {
           zh: '耶稣没有应许我们在世上不会有苦难，但祂应许了两件事：在祂里面有平安，以及祂已经胜了世界。苦难是暂时的现实，但得胜是永恒的事实。我们可以放心，因为结局已定。',

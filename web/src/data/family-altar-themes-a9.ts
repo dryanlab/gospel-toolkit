@@ -11,7 +11,7 @@ export const themesA9 = [
           ref_zh: '诗篇 51:1-2',
           ref_en: 'Psalm 51:1-2',
           text_zh: '神啊，求你按你的慈爱怜恤我，按你丰盛的慈悲涂抹我的过犯。求你将我的罪孽洗除净尽，并洁除我的罪。',
-          text_en: 'Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions. Wash me thoroughly from my iniquity, and cleanse me from my sin!'
+          text_en: 'Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. Wash me throughly from mine iniquity, and cleanse me from my sin.'
         },
         reflection: {
           zh: '大卫犯了大罪之后，没有逃避神，反而转向神的慈爱和怜悯。他知道只有神能涂抹过犯、洗净罪孽。真正的悔改不是靠自己的努力，而是仰望神丰盛的慈悲。',
@@ -31,7 +31,7 @@ export const themesA9 = [
           ref_zh: '诗篇 51:17',
           ref_en: 'Psalm 51:17',
           text_zh: '神所要的祭，就是忧伤的灵。神啊，忧伤痛悔的心，你必不轻看。',
-          text_en: 'The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.'
+          text_en: 'The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.'
         },
         reflection: {
           zh: '神不看重外在的宗教仪式，而看重内心真实的悔改。一颗忧伤痛悔的心比任何祭物都更蒙神悦纳。当我们在神面前真诚地破碎自己，祂必不轻看。',
@@ -51,7 +51,7 @@ export const themesA9 = [
           ref_zh: '约翰一书 1:9',
           ref_en: '1 John 1:9',
           text_zh: '我们若认自己的罪，神是信实的，是公义的，必要赦免我们的罪，洗净我们一切的不义。',
-          text_en: 'If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.'
+          text_en: 'If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.'
         },
         reflection: {
           zh: '认罪带来赦免，这是神信实和公义的应许。神的赦免不是因为我们配得，而是因为祂的信实。当我们坦诚认罪，祂不仅赦免，还洗净我们一切的不义，使我们完全洁净。',
@@ -71,7 +71,7 @@ export const themesA9 = [
           ref_zh: '约珥书 2:12-13',
           ref_en: 'Joel 2:12-13',
           text_zh: '耶和华说：虽然如此，你们应当禁食、哭泣、悲哀，一心归向我。你们要撕裂心肠，不撕裂衣服，归向耶和华你们的神；因为他有恩典，有怜悯，不轻易发怒，有丰盛的慈爱，并且后悔不降所说的灾。',
-          text_en: '"Yet even now," declares the LORD, "return to me with all your heart, with fasting, with weeping, and with mourning; and rend your hearts and not your garments." Return to the LORD your God, for he is gracious and merciful, slow to anger, and abounding in steadfast love; and he relents over disaster.'
+          text_en: 'Therefore also now, saith the LORD, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning: And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.'
         },
         reflection: {
           zh: '神呼召祂的百姓撕裂心肠而非衣服——要的是内心真实的悔改，不是外在的表现。我们可以放心归向祂，因为祂有恩典、有怜悯、不轻易发怒，并且有丰盛的慈爱。',
@@ -91,7 +91,7 @@ export const themesA9 = [
           ref_zh: '哥林多后书 7:10',
           ref_en: '2 Corinthians 7:10',
           text_zh: '因为依着神的意思忧愁，就生出没有后悔的懊悔来，以致得救；但世俗的忧愁是叫人死。',
-          text_en: 'For godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death.'
+          text_en: 'For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.'
         },
         reflection: {
           zh: '保罗区分了两种忧愁：依着神的意思忧愁带来真正的悔改和得救；世俗的忧愁却只带来死亡。真正的悔改不是因被抓住而懊恼，而是因得罪神而忧伤，并由此产生生命的改变。',
@@ -111,7 +111,7 @@ export const themesA9 = [
           ref_zh: '马太福音 4:17',
           ref_en: 'Matthew 4:17',
           text_zh: '从那时候，耶稣就传起道来，说："天国近了，你们应当悔改！"',
-          text_en: 'From that time Jesus began to preach, saying, "Repent, for the kingdom of heaven is at hand."'
+          text_en: 'From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.'
         },
         reflection: {
           zh: '悔改是耶稣传道的第一个信息。天国近了，意味着神的国度已经临到，我们需要转变心意、改变方向来回应。悔改不是一次性的行为，而是跟随基督的持续生活方式。',
@@ -131,7 +131,7 @@ export const themesA9 = [
           ref_zh: '马太福音 18:21-22',
           ref_en: 'Matthew 18:21-22',
           text_zh: '那时，彼得进前来，对耶稣说："主啊，我弟兄得罪我，我当饶恕他几次呢？到七次可以吗？"耶稣说："我对你说：不是到七次，乃是到七十个七次。"',
-          text_en: 'Then Peter came up and said to him, "Lord, how often will my brother sin against me, and I forgive him? As many as seven times?" Jesus said to him, "I do not say to you seven times, but seventy-seven times."'
+          text_en: 'Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times? Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.'
         },
         reflection: {
           zh: '彼得以为七次饶恕已经很慷慨了，耶稣却说七十个七次——意思是无限次。饶恕不是一个数学公式，而是一种生命态度。因为神无限次地饶恕了我们，我们也当无限次地饶恕弟兄。',
@@ -151,7 +151,7 @@ export const themesA9 = [
           ref_zh: '歌罗西书 3:13',
           ref_en: 'Colossians 3:13',
           text_zh: '倘若这人与那人有嫌隙，总要彼此包容，彼此饶恕；主怎样饶恕了你们，你们也要怎样饶恕人。',
-          text_en: 'Bearing with one another and, if one has a complaint against another, forgiving each other; as the Lord has forgiven you, so you also must forgive.'
+          text_en: 'Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.'
         },
         reflection: {
           zh: '保罗给出了饶恕的标准：主怎样饶恕了我们，我们就要怎样饶恕人。这不是出于自己的能力，而是因为我们先被饶恕了。彼此包容、彼此饶恕是基督徒群体生活的基本准则。',
@@ -171,7 +171,7 @@ export const themesA9 = [
           ref_zh: '路加福音 6:37',
           ref_en: 'Luke 6:37',
           text_zh: '你们不要论断人，就不被论断；你们不要定人的罪，就不被定罪；你们要饶恕人，就必蒙饶恕。',
-          text_en: 'Judge not, and you will not be judged; condemn not, and you will not be condemned; forgive, and you will be forgiven.'
+          text_en: 'Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven:'
         },
         reflection: {
           zh: '耶稣将论断、定罪与饶恕放在一起。不论断、不定罪、主动饶恕——这三者相互关联。当我们选择饶恕而不是论断定罪时，我们自己也必蒙饶恕。饶恕是打开恩典之门的钥匙。',
@@ -191,7 +191,7 @@ export const themesA9 = [
           ref_zh: '路加福音 15:20-24',
           ref_en: 'Luke 15:20-24',
           text_zh: '于是起来，往他父亲那里去。相离还远，他父亲看见，就动了慈心，跑去抱着他的颈项，连连与他亲嘴。儿子说："父亲，我得罪了天，又得罪了你，从今以后，我不配称为你的儿子。"父亲却吩咐仆人说："把那上好的袍子快拿出来给他穿，把戒指戴在他指头上，把鞋穿在他脚上，把那肥牛犊牵来宰了，我们可以吃喝快乐。因为我这个儿子是死而复活，失而又得的。"他们就快乐起来。',
-          text_en: 'And he arose and came to his father. But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him. And the son said to him, "Father, I have sinned against heaven and before you. I am no longer worthy to be called your son." But the father said to his servants, "Bring quickly the best robe, and put it on him, and put a ring on his hand, and shoes on his feet. And bring the fattened calf and kill it, and let us eat and celebrate. For this my son was dead, and is alive again; he was lost, and is found." And they began to celebrate.'
+          text_en: 'And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son. But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: And bring hither the fatted calf, and kill it; and let us eat, and be merry: For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.'
         },
         reflection: {
           zh: '浪子的父亲在儿子还远的时候就跑去迎接他。他没有等儿子道歉完毕，就已经拥抱亲吻了他，并恢复他儿子的身份。这就是我们天父的心——祂总是主动迎接悔改的人。',
@@ -211,7 +211,7 @@ export const themesA9 = [
           ref_zh: '马太福音 7:3-5',
           ref_en: 'Matthew 7:3-5',
           text_zh: '为什么看见你弟兄眼中有刺，却不想自己眼中有梁木呢？你自己眼中有梁木，怎能对你弟兄说"容我去掉你眼中的刺"呢？你这假冒为善的人！先去掉自己眼中的梁木，然后才能看得清楚，去掉你弟兄眼中的刺。',
-          text_en: 'Why do you see the speck that is in your brother\'s eye, but do not notice the log that is in your own eye? Or how can you say to your brother, "Let me take the speck out of your eye," when there is the log in your own eye? You hypocrite, first take the log out of your own eye, and then you will see clearly to take the speck out of your brother\'s eye.'
+          text_en: 'And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye? Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye? Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.'
         },
         reflection: {
           zh: '耶稣用梁木与刺的比喻提醒我们：在指出别人的问题之前，先要省察自己。真正的悔改从认识自己的罪开始，而不是聚焦于别人的过失。当我们先处理自己眼中的梁木，才能清楚地帮助别人。',
@@ -231,7 +231,7 @@ export const themesA9 = [
           ref_zh: '哥林多后书 1:3-4',
           ref_en: '2 Corinthians 1:3-4',
           text_zh: '愿颂赞归与我们的主耶稣基督的父神，就是发慈悲的父，赐各样安慰的神。我们在一切患难中，他就安慰我们，叫我们能用神所赐的安慰去安慰那遭各样患难的人。',
-          text_en: 'Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God.'
+          text_en: 'Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.'
         },
         reflection: {
           zh: '神是发慈悲的父，赐各样安慰的神。当我们经历悔改的痛苦和破碎时，神亲自安慰我们。而这安慰不是为了我们独享，而是要我们去安慰那些同样经历患难和悔改的人。',
@@ -251,7 +251,7 @@ export const themesA9 = [
           ref_zh: '以赛亚书 43:25',
           ref_en: 'Isaiah 43:25',
           text_zh: '惟有我为自己的缘故涂抹你的过犯，我也不记念你的罪恶。',
-          text_en: 'I, I am he who blots out your transgressions for my own sake, and I will not remember your sins.'
+          text_en: 'I, even I, am he that blotteth out thy transgressions for mine own sake, and will not remember thy sins.'
         },
         reflection: {
           zh: '神涂抹我们的过犯，不是因为我们配得，而是"为自己的缘故"——这完全是出于祂的恩典和荣耀。更奇妙的是，祂选择不再记念我们的罪恶。神的饶恕是如此彻底和完全。',
@@ -271,7 +271,7 @@ export const themesA9 = [
           ref_zh: '以弗所书 4:32',
           ref_en: 'Ephesians 4:32',
           text_zh: '并要以恩慈相待，存怜悯的心，彼此饶恕，正如神在基督里饶恕了你们一样。',
-          text_en: 'Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.'
+          text_en: 'And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.'
         },
         reflection: {
           zh: '饶恕的根基是"神在基督里饶恕了我们"。保罗呼召我们以恩慈和怜悯来对待彼此，像神饶恕我们一样去饶恕人。饶恕不是凭感觉，而是效法基督的选择。',
@@ -291,7 +291,7 @@ export const themesA9 = [
           ref_zh: '路加福音 6:36',
           ref_en: 'Luke 6:36',
           text_zh: '你们要慈悲，像你们的父慈悲一样。',
-          text_en: 'Be merciful, even as your Father is merciful.'
+          text_en: 'Be ye therefore merciful, as your Father also is merciful.'
         },
         reflection: {
           zh: '耶稣以天父的慈悲作为我们生活的标准。慈悲不仅仅是一种情感，更是行动——饶恕、怜悯、施恩给不配的人。当我们效法天父的慈悲时，我们就活出了神儿女的样式。',
@@ -320,7 +320,7 @@ export const themesA9 = [
           ref_zh: '耶利米哀歌 3:22-23',
           ref_en: 'Lamentations 3:22-23',
           text_zh: '我们不致消灭，是出于耶和华诸般的慈爱，是因他的怜悯不致断绝。每早晨这都是新的。你的诚实极其广大！',
-          text_en: 'The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.'
+          text_en: 'It is of the LORD’s mercies that we are not consumed, because his compassions fail not. They are new every morning: great is thy faithfulness.'
         },
         reflection: {
           zh: '即使在哀歌的绝望中，先知仍然宣告：耶和华的慈爱永不止息，祂的怜悯每早晨都是新的。无论我们经历多么黑暗的时刻，神的信实如同每天升起的太阳，从不缺席。',
@@ -340,7 +340,7 @@ export const themesA9 = [
           ref_zh: '申命记 7:9',
           ref_en: 'Deuteronomy 7:9',
           text_zh: '所以你要知道耶和华你的神，他是神，是信实的神，向爱他、守他诫命的人守约，施慈爱，直到千代。',
-          text_en: 'Know therefore that the LORD your God is God, the faithful God who keeps covenant and steadfast love with those who love him and keep his commandments, to a thousand generations.'
+          text_en: 'Know therefore that the LORD thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations;'
         },
         reflection: {
           zh: '摩西提醒以色列人：耶和华是信实的神，祂守约施慈爱直到千代。神的信实不是短暂的，而是跨越世代的。祂对祂子民的承诺从不改变，从不过期。',
@@ -360,7 +360,7 @@ export const themesA9 = [
           ref_zh: '诗篇 136:1-3',
           ref_en: 'Psalm 136:1-3',
           text_zh: '你们要称谢耶和华，因他本为善，他的慈爱永远长存。你们要称谢万神之神，因他的慈爱永远长存。你们要称谢万主之主，因他的慈爱永远长存。',
-          text_en: 'Give thanks to the LORD, for he is good, for his steadfast love endures forever. Give thanks to the God of gods, for his steadfast love endures forever. Give thanks to the Lord of lords, for his steadfast love endures forever.'
+          text_en: 'O give thanks unto the LORD; for he is good: for his mercy endureth for ever. O give thanks unto the God of gods: for his mercy endureth for ever. O give thanks to the Lord of lords: for his mercy endureth for ever.'
         },
         reflection: {
           zh: '诗篇136篇每一节都重复"他的慈爱永远长存"。这不是啰嗦，而是强调：神的慈爱是永恒不变的事实。无论环境如何改变，神的慈爱永远长存，这值得我们反复称谢。',
@@ -380,7 +380,7 @@ export const themesA9 = [
           ref_zh: '约书亚记 21:45',
           ref_en: 'Joshua 21:45',
           text_zh: '耶和华应许赐福给以色列家的话，一句也没有落空，都应验了。',
-          text_en: 'Not one word of all the good promises that the LORD had made to the house of Israel had failed; all came to pass.'
+          text_en: 'There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass.'
         },
         reflection: {
           zh: '经过四十年旷野漂流和征服迦南的争战，约书亚可以见证：神的应许一句也没有落空。神不是说了不算的神，祂每一个应许都会应验，虽然时间和方式可能超出我们的预期。',
@@ -400,7 +400,7 @@ export const themesA9 = [
           ref_zh: '提摩太后书 2:13',
           ref_en: '2 Timothy 2:13',
           text_zh: '我们纵然失信，他仍是可信的，因为他不能背乎自己。',
-          text_en: 'If we are faithless, he remains faithful—for he cannot deny himself.'
+          text_en: 'If we believe not, yet he abideth faithful: he cannot deny himself.'
         },
         reflection: {
           zh: '这是何等安慰的话——即使我们失信，神仍然可信。神的信实不取决于我们的表现，而是取决于祂自己的本性。祂不能背乎自己，因为信实就是祂的本质。',
@@ -420,7 +420,7 @@ export const themesA9 = [
           ref_zh: '哥林多前书 10:13',
           ref_en: '1 Corinthians 10:13',
           text_zh: '你们所遇见的试探，无非是人所能受的。神是信实的，必不叫你们受试探过于所能受的。在受试探的时候，总要给你们开一条出路，叫你们能忍受得住。',
-          text_en: 'No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape, that you may be able to endure it.'
+          text_en: 'There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.'
         },
         reflection: {
           zh: '神的信实体现在祂对试探的掌管中。祂不允许我们受试探过于所能承受的，并且总会为我们开一条出路。这意味着每一个试探中都有神的保护和供应。',
@@ -440,7 +440,7 @@ export const themesA9 = [
           ref_zh: '约翰一书 1:9',
           ref_en: '1 John 1:9',
           text_zh: '我们若认自己的罪，神是信实的，是公义的，必要赦免我们的罪，洗净我们一切的不义。',
-          text_en: 'If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.'
+          text_en: 'If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.'
         },
         reflection: {
           zh: '同一节经文在A9中强调了悔改的呼召，在这里则彰显了神的信实——祂赦免我们的罪不是因为祂心情好，而是因为祂是信实的、公义的。神的赦免建立在祂不改变的信实品格之上。',
@@ -460,7 +460,7 @@ export const themesA9 = [
           ref_zh: '马太福音 24:35',
           ref_en: 'Matthew 24:35',
           text_zh: '天地要废去，我的话却不能废去。',
-          text_en: 'Heaven and earth will pass away, but my words will not pass away.'
+          text_en: 'Heaven and earth shall pass away, but my words shall not pass away.'
         },
         reflection: {
           zh: '耶稣宣告祂的话语比天地更持久。天地会废去，但神的话永远不会。这意味着神每一个应许、每一句教导都有永恒的效力。在一个不断变化的世界中，神的话是我们唯一不变的根基。',
@@ -480,7 +480,7 @@ export const themesA9 = [
           ref_zh: '哥林多后书 1:20',
           ref_en: '2 Corinthians 1:20',
           text_zh: '神的应许，不论有多少，在基督都是是的。所以借着他也都是实在的，叫神因我们得荣耀。',
-          text_en: 'For all the promises of God find their Yes in him. That is why it is through him that we utter our Amen to God for his glory.'
+          text_en: 'For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.'
         },
         reflection: {
           zh: '神所有的应许在基督里都是"是的"——没有一个"也许"，没有一个"不"。基督是神一切应许的保证和成全。当我们在基督里说"阿们"时，就是在回应神信实的应许。',
@@ -500,7 +500,7 @@ export const themesA9 = [
           ref_zh: '希伯来书 10:23',
           ref_en: 'Hebrews 10:23',
           text_zh: '也要坚守我们所承认的指望，不至摇动，因为那应许我们的是信实的。',
-          text_en: 'Let us hold fast the confession of our hope without wavering, for he who promised is faithful.'
+          text_en: 'Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)'
         },
         reflection: {
           zh: '坚守指望的根基不是我们的意志力，而是"那应许我们的是信实的"。我们能不摇动，不是因为自己够坚强，而是因为神够信实。盼望的可靠性取决于应许者的信实。',
@@ -520,7 +520,7 @@ export const themesA9 = [
           ref_zh: '诗篇 36:5',
           ref_en: 'Psalm 36:5',
           text_zh: '耶和华啊，你的慈爱上及诸天，你的信实达到穹苍。',
-          text_en: 'Your steadfast love, O LORD, extends to the heavens, your faithfulness to the clouds.'
+          text_en: 'Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds.'
         },
         reflection: {
           zh: '大卫用诗意的语言描绘神信实的广大：上及诸天，达到穹苍。神的信实不是小气的、有限的，而是如天空般广阔无边。无论我们面对什么，都在神信实的覆盖之下。',
@@ -540,7 +540,7 @@ export const themesA9 = [
           ref_zh: '提多书 1:2',
           ref_en: 'Titus 1:2',
           text_zh: '盼望那无谎言的神在万古之先所应许的永生。',
-          text_en: 'In hope of eternal life, which God, who never lies, promised before the ages began.'
+          text_en: 'In hope of eternal life, which God, that cannot lie, promised before the world began;'
         },
         reflection: {
           zh: '保罗称神为"无谎言的神"。神在万古之先就应许了永生——这应许比时间本身还古老。一位从不说谎的神所给出的应许，是宇宙中最可靠的事实。',
@@ -560,7 +560,7 @@ export const themesA9 = [
           ref_zh: '希伯来书 3:2',
           ref_en: 'Hebrews 3:2',
           text_zh: '他为那设立他的尽忠，如同摩西在神的全家尽忠一样。',
-          text_en: 'He was faithful to him who appointed him, just as Moses also was faithful in all God\'s house.'
+          text_en: 'Who was faithful to him that appointed him, as also Moses was faithful in all his house.'
         },
         reflection: {
           zh: '希伯来书将耶稣与摩西相比，指出耶稣对设立祂的父神完全尽忠。耶稣的信实是我们信心的榜样和根基。祂在一切事上向父尽忠，也信实地完成了救赎的使命。',
@@ -580,7 +580,7 @@ export const themesA9 = [
           ref_zh: '以赛亚书 50:4',
           ref_en: 'Isaiah 50:4',
           text_zh: '主耶和华赐我受教者的舌头，使我知道怎样用言语扶助疲乏的人。主每早晨提醒，提醒我的耳朵，使我能听，像受教者一样。',
-          text_en: 'The Lord GOD has given me the tongue of those who are taught, that I may know how to sustain with a word him who is weary. Morning by morning he awakens; he awakens my ear to hear as those who are taught.'
+          text_en: 'The Lord GOD hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.'
         },
         reflection: {
           zh: '神每早晨信实地提醒、教导祂的仆人。祂赐下受教者的舌头和耳朵，使我们能扶助疲乏的人。神的信实体现在祂每天的同在和引导中——每一个清晨都有祂新鲜的话语。',
@@ -600,7 +600,7 @@ export const themesA9 = [
           ref_zh: '彼得前书 4:19',
           ref_en: '1 Peter 4:19',
           text_zh: '所以，那照神旨意受苦的人要一心为善，将自己灵魂交与那信实的造化之主。',
-          text_en: 'Therefore let those who suffer according to God\'s will entrust their souls to a faithful Creator while doing good.'
+          text_en: 'Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.'
         },
         reflection: {
           zh: '彼得鼓励受苦的信徒将灵魂交给"信实的造化之主"。即使在苦难中，神仍然是信实的创造主。祂创造了我们，也必看顾我们。我们可以放心地将一切——包括苦难——交在祂手中。',
@@ -629,7 +629,7 @@ export const themesA9 = [
           ref_zh: '撒母耳记上 15:22',
           ref_en: '1 Samuel 15:22',
           text_zh: '撒母耳说："耶和华喜悦燔祭和平安祭，岂如喜悦人听从他的话呢？听命胜于献祭；顺从胜于公羊的脂油。"',
-          text_en: 'And Samuel said, "Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to listen than the fat of rams."',
+          text_en: 'And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.',
         },
         reflection: {
           zh: '扫罗以为保留最好的牲畜来献祭就能讨神喜悦，但撒母耳宣告了永恒的原则：听命胜于献祭。神看重的不是外在的宗教行为，而是内心的顺服。再华丽的事奉若不出于顺服，在神眼中都不如简单的听命。',
@@ -649,7 +649,7 @@ export const themesA9 = [
           ref_zh: '约翰福音 14:15',
           ref_en: 'John 14:15',
           text_zh: '你们若爱我，就必遵守我的命令。',
-          text_en: 'If you love me, you will keep my commandments.',
+          text_en: 'If ye love me, keep my commandments.',
         },
         reflection: {
           zh: '耶稣将爱与顺服直接连结。真正的爱不是情感表达，而是行动的顺服。遵守主的命令不是负担，而是爱的自然流露。当我们真正爱耶稣，顺服不再是被迫的义务，而是心甘情愿的回应。',
@@ -669,7 +669,7 @@ export const themesA9 = [
           ref_zh: '雅各书 1:22',
           ref_en: 'James 1:22',
           text_zh: '只是你们要行道，不要单单听道，自己欺哄自己。',
-          text_en: 'But be doers of the word, and not hearers only, deceiving yourselves.',
+          text_en: 'But be ye doers of the word, and not hearers only, deceiving your own selves.',
         },
         reflection: {
           zh: '雅各警告：只听道不行道就是自欺。知识不转化为行动，就成了虚假的安全感。真正的顺服是将所听到的神的话付诸实践。每次听道后都应问："我要怎样行出来？"',
@@ -689,7 +689,7 @@ export const themesA9 = [
           ref_zh: '路加福音 11:28',
           ref_en: 'Luke 11:28',
           text_zh: '耶稣说："是，却还不如听神之道而遵守的人有福。"',
-          text_en: 'But he said, "Blessed rather are those who hear the word of God and keep it!"',
+          text_en: 'But he said, Yea rather, blessed are they that hear the word of God, and keep it.',
         },
         reflection: {
           zh: '有人称赞耶稣的母亲有福，耶稣却说更有福的是听神的道并遵守的人。真正的福气不在于与耶稣的肉身关系，而在于听从并遵行神的话。顺服神的道是通往真正祝福的道路。',
@@ -709,7 +709,7 @@ export const themesA9 = [
           ref_zh: '诗篇 119:97',
           ref_en: 'Psalm 119:97',
           text_zh: '我何等爱慕你的律法，终日不住地思想。',
-          text_en: 'Oh how I love your law! It is my meditation all the day.',
+          text_en: 'O how love I thy law! it is my meditation all the day.',
         },
         reflection: {
           zh: '诗人对神律法的态度不是被迫遵守，而是"何等爱慕"，终日思想。当我们真正认识到神话语的宝贵，顺服不再是苦差而是甜蜜的喜悦。爱慕神的律法是持久顺服的秘诀。',
@@ -729,7 +729,7 @@ export const themesA9 = [
           ref_zh: '马太福音 28:19-20',
           ref_en: 'Matthew 28:19-20',
           text_zh: '所以，你们要去，使万民作我的门徒，奉父、子、圣灵的名给他们施洗。凡我所吩咐你们的，都教训他们遵守，我就常与你们同在，直到世界的末了。',
-          text_en: 'Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.',
+          text_en: 'Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.',
         },
         reflection: {
           zh: '大使命不仅是传福音，更包含"教训他们遵守"——帮助人学习顺服基督的一切命令。门徒训练的核心是培养顺服的生命。耶稣应许与顺服祂使命的人同在，直到世界的末了。',
@@ -749,7 +749,7 @@ export const themesA9 = [
           ref_zh: '腓立比书 2:8',
           ref_en: 'Philippians 2:8',
           text_zh: '既有人的样子，就自己卑微，存心顺服，以至于死，且死在十字架上。',
-          text_en: 'And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross.',
+          text_en: 'And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.',
         },
         reflection: {
           zh: '基督的顺服是终极榜样——不是舒适环境中的顺服，而是"以至于死，且死在十字架上"。祂从天上降卑为人，又从人的尊严降到十字架的羞辱。这种彻底的顺服出于对父神旨意的完全信靠。',
@@ -769,7 +769,7 @@ export const themesA9 = [
           ref_zh: '希伯来书 11:8',
           ref_en: 'Hebrews 11:8',
           text_zh: '亚伯拉罕因着信，蒙召的时候，就遵命出去，往将来要得为业的地方去；出去的时候，还不知往哪里去。',
-          text_en: 'By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going.',
+          text_en: 'By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.',
         },
         reflection: {
           zh: '亚伯拉罕的顺服令人惊叹："出去的时候，还不知往哪里去。"信心的顺服不需要完整的路线图，只需要信任呼召者。有时神呼召我们踏出一步而看不到第二步，这正是信心顺服的考验。',
@@ -789,7 +789,7 @@ export const themesA9 = [
           ref_zh: '申命记 10:12-13',
           ref_en: 'Deuteronomy 10:12-13',
           text_zh: '以色列啊，现在耶和华你神向你所要的是什么呢？只要你敬畏耶和华你的神，遵行他的道，爱他，尽心尽性侍奉他，遵守他的诫命律例，就是我今日所吩咐你的，为要叫你得福。',
-          text_en: 'And now, Israel, what does the LORD your God require of you, but to fear the LORD your God, to walk in all his ways, to love him, to serve the LORD your God with all your heart and with all your soul, and to keep the commandments and statutes of the LORD, which I am commanding you today for your good?',
+          text_en: 'And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul, To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good?',
         },
         reflection: {
           zh: '神的要求很清楚：敬畏、遵行、爱、侍奉、遵守。而这一切的目的是"为要叫你得福"。神的命令不是为了限制我们，而是为了我们的好处。顺服的道路看似艰难，终点却是祝福。',
@@ -809,7 +809,7 @@ export const themesA9 = [
           ref_zh: '约翰福音 15:10',
           ref_en: 'John 15:10',
           text_zh: '你们若遵守我的命令，就常在我的爱里；正如我遵守了我父的命令，常在他的爱里。',
-          text_en: 'If you keep my commandments, you will abide in my love, just as I have kept my Father\'s commandments and abide in his love.',
+          text_en: 'If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.',
         },
         reflection: {
           zh: '顺服与住在基督的爱里紧密相连。遵守主的命令不是爱的条件，而是住在爱中的方式。就像耶稣遵守父的命令常在父的爱里，我们遵守耶稣的命令也能常在祂的爱里。顺服打开了经历神爱的通道。',
@@ -829,7 +829,7 @@ export const themesA9 = [
           ref_zh: '诗篇 119:105',
           ref_en: 'Psalm 119:105',
           text_zh: '你的话是我脚前的灯，是我路上的光。',
-          text_en: 'Your word is a lamp to my feet and a light to my path.',
+          text_en: 'Thy word is a lamp unto my feet, and a light unto my path.',
         },
         reflection: {
           zh: '神的话照亮前行的每一步。灯不是照亮远方，而是照亮脚前——一步一步引导。顺服神的话就像在黑暗中跟着灯光走，不需要看到终点，只要看到下一步就够了。',
@@ -849,7 +849,7 @@ export const themesA9 = [
           ref_zh: '马太福音 7:13-14',
           ref_en: 'Matthew 7:13-14',
           text_zh: '你们要进窄门。因为引到灭亡，那门是宽的，路是大的，进去的人也多；引到永生，那门是窄的，路是小的，找着的人也少。',
-          text_en: 'Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few.',
+          text_en: 'Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.',
         },
         reflection: {
           zh: '顺服的道路是窄路，不是多数人走的路。宽门大路看似轻松却通向灭亡；窄门小路看似艰难却通向永生。选择顺服就是选择窄路——可能孤独、可能艰辛，但终点是生命。',
@@ -869,7 +869,7 @@ export const themesA9 = [
           ref_zh: '路加福音 9:23',
           ref_en: 'Luke 9:23',
           text_zh: '耶稣又对众人说："若有人要跟从我，就当舍己，天天背起他的十字架来跟从我。"',
-          text_en: 'And he said to all, "If anyone would come after me, let him deny himself and take up his cross daily and follow me."',
+          text_en: 'And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.',
         },
         reflection: {
           zh: '顺服的代价是"舍己"和"天天背起十字架"。这不是一次性的决定，而是每天的选择。十字架代表死——向自我的意愿、骄傲和舒适死。但跟从耶稣的人知道，在舍己中找到了真正的自己。',
@@ -889,7 +889,7 @@ export const themesA9 = [
           ref_zh: '撒母耳记上 3:10',
           ref_en: '1 Samuel 3:10',
           text_zh: '耶和华又来站着，像前三次呼唤说："撒母耳啊！撒母耳啊！"撒母耳回答说："请说，仆人敬听。"',
-          text_en: 'And the LORD came and stood, calling as at other times, "Samuel! Samuel!" And Samuel said, "Speak, for your servant hears."',
+          text_en: 'And the LORD came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.',
         },
         reflection: {
           zh: '年幼的撒母耳说出了顺服最美的回应："请说，仆人敬听。"这简短的话包含了谦卑（称自己为仆人）、渴慕（请说）和预备（敬听）。顺服从聆听开始，聆听需要一颗预备好的心。',
@@ -909,7 +909,7 @@ export const themesA9 = [
           ref_zh: '希伯来书 5:8',
           ref_en: 'Hebrews 5:8',
           text_zh: '他虽然为儿子，还是因所受的苦难学了顺从。',
-          text_en: 'Although he was a son, he learned obedience through what he suffered.',
+          text_en: 'Though he were a Son, yet learned he obedience by the things which he suffered;',
         },
         reflection: {
           zh: '连神的儿子耶稣都"因所受的苦难学了顺从"。这不是说耶稣曾不顺服，而是祂的顺服在苦难中被完全彰显。我们也是如此：苦难是学习更深顺服的课堂。',
@@ -938,7 +938,7 @@ export const themesA9 = [
           ref_zh: '马太福音 28:19-20',
           ref_en: 'Matthew 28:19-20',
           text_zh: '所以，你们要去，使万民作我的门徒，奉父、子、圣灵的名给他们施洗。凡我所吩咐你们的，都教训他们遵守，我就常与你们同在，直到世界的末了。',
-          text_en: 'Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.',
+          text_en: 'Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.',
         },
         reflection: {
           zh: '大使命是主耶稣升天前给门徒的最后命令，也是教会最核心的使命。"去"、"使人作门徒"、"施洗"、"教训遵守"——这四个动作是传福音的完整过程。而"我就常与你们同在"是完成使命的力量源泉。',
@@ -958,7 +958,7 @@ export const themesA9 = [
           ref_zh: '使徒行传 1:8',
           ref_en: 'Acts 1:8',
           text_zh: '但圣灵降临在你们身上，你们就必得着能力，并要在耶路撒冷、犹太全地和撒玛利亚，直到地极，作我的见证。',
-          text_en: 'But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth.',
+          text_en: 'But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.',
         },
         reflection: {
           zh: '传福音的能力不来自口才或知识，而来自圣灵。耶稣给了从近到远的次序：耶路撒冷（身边）、犹太全地（本地）、撒玛利亚（跨文化）、地极（全世界）。福音从身边开始，延伸到地极。',
@@ -978,7 +978,7 @@ export const themesA9 = [
           ref_zh: '罗马书 10:14-15',
           ref_en: 'Romans 10:14-15',
           text_zh: '然而人未曾信他，怎能求他呢？未曾听见他，怎能信他呢？没有传道的，怎能听见呢？若没有奉差遣，怎能传道呢？如经上所记："报福音传喜信的人，他们的脚踪何等佳美！"',
-          text_en: 'How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? And how are they to preach unless they are sent? As it is written, "How beautiful are the feet of those who preach the good news!"',
+          text_en: 'How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!',
         },
         reflection: {
           zh: '保罗用一连串"怎能"揭示福音传播的链条：差遣→传道→听见→相信→呼求。每一个环节不可少。我们就是"被差遣去传道"的人。传福音之人的脚踪，在神眼中何等佳美！',
@@ -998,7 +998,7 @@ export const themesA9 = [
           ref_zh: '罗马书 1:16',
           ref_en: 'Romans 1:16',
           text_zh: '我不以福音为耻；这福音本是神的大能，要救一切相信的，先是犹太人，后是希腊人。',
-          text_en: 'For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.',
+          text_en: 'For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.',
         },
         reflection: {
           zh: '保罗在罗马帝国中心宣告"不以福音为耻"。福音在世人眼中可能是愚拙的，但它是"神的大能"。我们不需要为信息感到尴尬，因为福音本身带着拯救的能力。关键不是我们表达多完美，而是福音本身的大能。',
@@ -1018,7 +1018,7 @@ export const themesA9 = [
           ref_zh: '彼得前书 3:15',
           ref_en: '1 Peter 3:15',
           text_zh: '只要心里尊主基督为圣。有人问你们心中盼望的缘由，就要常作准备，以温柔、敬畏的心回答各人。',
-          text_en: 'But in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect.',
+          text_en: 'But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:',
         },
         reflection: {
           zh: '传福音不一定是主动出击，有时是被问到时随时预备好回答。当我们的生命活出盼望，人们会好奇地问"为什么"。这时以温柔和敬畏分享。传福音的前提是心里尊主为圣，活出让人好奇的生命。',
@@ -1038,7 +1038,7 @@ export const themesA9 = [
           ref_zh: '哥林多前书 3:9',
           ref_en: '1 Corinthians 3:9',
           text_zh: '因为我们是与神同工的；你们是神所耕种的田地，所建造的房屋。',
-          text_en: 'For we are God\'s fellow workers. You are God\'s field, God\'s building.',
+          text_en: 'For we are labourers together with God: ye are God’s husbandry, ye are God’s building.',
         },
         reflection: {
           zh: '何等荣耀的身份——"与神同工的"！传福音不是独自的工作，而是与全能神一起同工。我们撒种浇灌，但生长是神的工作。我们不必承担全部压力，只需忠心做自己的部分。',
@@ -1058,7 +1058,7 @@ export const themesA9 = [
           ref_zh: '马太福音 5:14-16',
           ref_en: 'Matthew 5:14-16',
           text_zh: '你们是世上的光。城造在山上，是不能隐藏的。人点灯，不放在斗底下，是放在灯台上，就照亮一家的人。你们的光也当这样照在人前，叫他们看见你们的好行为，便将荣耀归给你们在天上的父。',
-          text_en: 'You are the light of the world. A city set on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house. In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.',
+          text_en: 'Ye are the light of the world. A city that is set on an hill cannot be hid. Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.',
         },
         reflection: {
           zh: '传福音不只是用口说，更是用生命发光。耶稣说我们"是"世上的光——这是身份宣告。光的本质就是照亮黑暗，只要不把光藏起来。好行为是福音最好的名片，让人看见就将荣耀归给天父。',
@@ -1078,7 +1078,7 @@ export const themesA9 = [
           ref_zh: '哥林多前书 9:16',
           ref_en: '1 Corinthians 9:16',
           text_zh: '我传福音原没有可夸的，因为我是不得已的；若不传福音，我便有祸了。',
-          text_en: 'For if I preach the gospel, that gives me no ground for boasting. For necessity is laid upon me. Woe to me if I do not preach the gospel!',
+          text_en: 'For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!',
         },
         reflection: {
           zh: '保罗传福音的动力不是夸耀，而是内心的迫切——"我是不得已的"。当一个人真正经历了福音的大能，就不能不传。这不是外在义务，而是内心被福音点燃的火焰。"若不传福音，我便有祸了"——何等强烈的使命感！',
@@ -1098,7 +1098,7 @@ export const themesA9 = [
           ref_zh: '哥林多后书 5:20',
           ref_en: '2 Corinthians 5:20',
           text_zh: '所以，我们作基督的使者，就好像神借我们劝你们一般。我们替基督求你们与神和好。',
-          text_en: 'Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, be reconciled to God.',
+          text_en: 'Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ’s stead, be ye reconciled to God.',
         },
         reflection: {
           zh: '使者代表的不是自己，而是差他的人。我们作"基督的使者"，代表天国的王向世人发出和好的邀请。神竟然"借我们"来劝人——选择通过软弱器皿传递天国信息。这是何等大的信任和尊荣！',
@@ -1118,7 +1118,7 @@ export const themesA9 = [
           ref_zh: '诗篇 126:5-6',
           ref_en: 'Psalm 126:5-6',
           text_zh: '流泪撒种的，必欢呼收割。那带种流泪出去的，必要欢欢乐乐地带禾捆回来。',
-          text_en: 'Those who sow in tears shall reap with shouts of joy! He who goes out weeping, bearing the seed for sowing, shall come home with shouts of joy, bringing his sheaves with him.',
+          text_en: 'They that sow in tears shall reap in joy. He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.',
         },
         reflection: {
           zh: '传福音常伴随泪水——被拒绝的泪、为灵魂忧伤的泪、付代价的泪。但神应许：流泪撒种的，必欢呼收割。每一滴为福音流的泪，都在预备将来欢呼的丰收。',
@@ -1138,7 +1138,7 @@ export const themesA9 = [
           ref_zh: '哥林多前书 3:6-7',
           ref_en: '1 Corinthians 3:6-7',
           text_zh: '我栽种了，亚波罗浇灌了，惟有神叫他生长。可见栽种的算不得什么，浇灌的也算不得什么，只在那叫他生长的神。',
-          text_en: 'I planted, Apollos watered, but God gave the growth. So neither he who plants nor he who waters is anything, but only God who gives the growth.',
+          text_en: 'I have planted, Apollos watered; but God gave the increase. So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.',
         },
         reflection: {
           zh: '保罗提醒：有人栽种有人浇灌，但使生命成长的是神。我们不需要因看不到"结果"而灰心，我们的工作只是撒种和浇灌的一部分。最终的果效在神手中。',
@@ -1158,7 +1158,7 @@ export const themesA9 = [
           ref_zh: '帖撒罗尼迦前书 2:4',
           ref_en: '1 Thessalonians 2:4',
           text_zh: '但神既然验中了我们，把福音托付我们，我们就照样讲，不是要讨人喜欢，乃是要讨那察验我们心的神喜欢。',
-          text_en: 'But just as we have been approved by God to be entrusted with the gospel, so we speak, not to please man, but to please God who tests our hearts.',
+          text_en: 'But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts.',
         },
         reflection: {
           zh: '福音是神"托付"给我们的——既是使命也是信任。传福音时，动机不是讨人喜欢，而是讨神喜欢。这释放我们不需要修改福音来迎合人的喜好，只需忠心传讲神所托付的。',
@@ -1178,7 +1178,7 @@ export const themesA9 = [
           ref_zh: '提摩太后书 4:2',
           ref_en: '2 Timothy 4:2',
           text_zh: '务要传道，无论得时不得时，总要专心，并用百般的忍耐、各样的教训责备人，警戒人，劝勉人。',
-          text_en: 'Preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching.',
+          text_en: 'Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.',
         },
         reflection: {
           zh: '保罗嘱咐提摩太"无论得时不得时"都要传道。传福音不是等"完美时机"，而是随时预备。有时环境有利，有时不利，但使命不变。"百般的忍耐"提醒我们，传道需要坚持和耐心。',
@@ -1198,7 +1198,7 @@ export const themesA9 = [
           ref_zh: '以弗所书 6:19',
           ref_en: 'Ephesians 6:19',
           text_zh: '也为我祈求，使我得着口才，能以放胆开口讲明福音的奥秘。',
-          text_en: 'And also for me, that words may be given to me in opening my mouth boldly to proclaim the mystery of the gospel.',
+          text_en: 'And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,',
         },
         reflection: {
           zh: '连使徒保罗都需要代祷来"得着口才"和"放胆开口"。传福音需要祷告的支持。我们不仅要自己传，更要为传福音的人祷告。祷告是传福音背后最强大的力量。',
@@ -1218,7 +1218,7 @@ export const themesA9 = [
           ref_zh: '马太福音 9:37-38',
           ref_en: 'Matthew 9:37-38',
           text_zh: '于是对门徒说："要收的庄稼多，做工的人少。所以，你们当求庄稼的主打发工人出去收他的庄稼。"',
-          text_en: 'Then he said to his disciples, "The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest."',
+          text_en: 'Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few; Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.',
         },
         reflection: {
           zh: '耶稣看到群众就心生怜悯，因为庄稼多、工人少。祂的解决方案不是"你们赶快去"，而是"你们当求"——先祷告，求庄稼的主差派工人。传福音从祷告开始。当我们祷告时，可能被差派的正是我们自己。',

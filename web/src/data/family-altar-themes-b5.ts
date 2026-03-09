@@ -16,7 +16,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '创6:22',
           ref_en: 'Genesis 6:22',
           text_zh: '挪亚就这样行。凡神所吩咐的，他都照样行了。',
-          text_en: 'Noah did this; he did all that God commanded him.',
+          text_en: 'Thus did Noah; according to all that God commanded him, so did he.',
         },
         reflection: {
           zh: '挪亚身处一个败坏的世代，却选择完全顺服神的吩咐。建造方舟需要数十年的坚持，面对周围人的嘲笑和不解，挪亚仍然忠心到底。他的顺服不是一时冲动，而是持续不断的行动。',
@@ -36,7 +36,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '创12:1-4',
           ref_en: 'Genesis 12:1-4',
           text_zh: '耶和华对亚伯兰说："你要离开本地、本族、父家，往我所要指示你的地去。我必叫你成为大国。我必赐福给你，叫你的名为大；你也要叫别人得福。为你祝福的，我必赐福与他；那咒诅你的，我必咒诅他。地上的万族都要因你得福。"亚伯兰就照着耶和华的吩咐去了；罗得也和他同去。亚伯兰出哈兰的时候年七十五岁。',
-          text_en: 'Now the LORD said to Abram, "Go from your country and your kindred and your father\'s house to the land that I will show you. And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed." So Abram went, as the LORD had told him, and Lot went with him. Abram was seventy-five years old when he departed from Haran.',
+          text_en: 'Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee: And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing: And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed. So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran.',
         },
         reflection: {
           zh: '亚伯拉罕在七十五岁高龄时，离开了熟悉的家乡，前往一个未知的地方。他不知道目的地在哪里，却凭信心踏出了第一步。信心不是看见才相信，而是相信才看见。',
@@ -56,7 +56,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '创22:1-2,12',
           ref_en: 'Genesis 22:1-2,12',
           text_zh: '这些事以后，神要试验亚伯拉罕，就呼叫他说："亚伯拉罕！"他说："我在这里。"神说："你带着你的儿子，就是你独生的儿子，你所爱的以撒，往摩利亚地去，在我所要指示你的山上，把他献为燔祭。"天使说："你不可在这童子身上下手，一点不可害他！现在我知道你是敬畏神的了，因为你没有将你的儿子，就是你独生的儿子，留下不给我。"',
-          text_en: 'After these things God tested Abraham and said to him, "Abraham!" And he said, "Here I am." He said, "Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you." He said, "Do not lay your hand on the boy or do anything to him, for now I know that you fear God, seeing you have not withheld your son, your only son, from me."',
+          text_en: 'And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am. And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.',
         },
         reflection: {
           zh: '亚伯拉罕面对的是一个看似不可能的试验——献上等候了二十五年才得到的儿子。但他相信神的信实超过自己的理解。真正的敬畏神，是愿意把最宝贵的放在祭坛上。',
@@ -76,7 +76,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '创39:20-21',
           ref_en: 'Genesis 39:20-21',
           text_zh: '把约瑟下在监里，就是王的囚犯被囚的地方。于是约瑟在那里坐监。但耶和华与约瑟同在，向他施恩，使他在司狱的眼前蒙恩。',
-          text_en: 'And Joseph\'s master took him and put him into the prison, the place where the king\'s prisoners were confined, and he was there in prison. But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison.',
+          text_en: 'And Joseph’s master took him, and put him into the prison, a place where the king’s prisoners were bound: and he was there in the prison. But the LORD was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.',
         },
         reflection: {
           zh: '约瑟被冤枉入狱，处境看似绝望。但"耶和华与约瑟同在"这句话改变了一切。即便在最黑暗的环境中，神的同在仍然是真实的，祂的恩典足以翻转任何困境。',
@@ -96,7 +96,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '创50:19-20',
           ref_en: 'Genesis 50:19-20',
           text_zh: '约瑟对他们说："不要害怕，我岂能代替神呢？从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景。"',
-          text_en: 'But Joseph said to them, "Do not fear, for am I in the place of God? As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today."',
+          text_en: 'And Joseph said unto them, Fear not: for am I in the place of God? But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.',
         },
         reflection: {
           zh: '约瑟经历了被卖、被冤枉、被遗忘，但他最终看到了神在一切苦难背后的美好旨意。饶恕不是因为对方值得，而是因为我们看见了神更大的计划。',
@@ -116,7 +116,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '出2:3-6',
           ref_en: 'Exodus 2:3-6',
           text_zh: '后来不能再藏，就取了一个蒲草箱，抹上石漆和石油，将孩子放在里头，把箱子搁在河边的芦荻中。孩子的姐姐远远站着，要知道他究竟怎么样。法老的女儿来到河边洗澡，她的使女们在河边行走。她看见箱子在芦荻中，就打发一个婢女拿来。她打开箱子，看见那孩子。孩子哭了，她就可怜他，说："这是希伯来人的一个孩子。"',
-          text_en: 'When she could hide him no longer, she took for him a basket made of bulrushes and daubed it with bitumen and pitch. She put the child in it and placed it among the reeds by the river bank. And his sister stood at a distance to know what would be done to him. Now the daughter of Pharaoh came down to bathe at the river, while her young women walked beside the river. She saw the basket among the reeds and sent her servant woman, and she took it. When she opened it, she saw the child, and behold, the baby was crying. She took pity on him and said, "This is one of the Hebrews\' children."',
+          text_en: 'And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river’s brink. And his sister stood afar off, to wit what would be done to him. And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river’s side; and when she saw the ark among the flags, she sent her maid to fetch it. And when she had opened it, she saw the child: and, behold, the babe wept. And she had compassion on him, and said, This is one of the Hebrews’ children.',
         },
         reflection: {
           zh: '摩西的母亲约基别在绝望中做了一件凭信心的事——把孩子交托在神的手中。一个蒲草箱承载着一位母亲的信心和一个民族的盼望。神用最意想不到的方式保护了这个孩子。',
@@ -136,7 +136,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '出3:4-6',
           ref_en: 'Exodus 3:4-6',
           text_zh: '耶和华神见他过去要看，就从荆棘里呼叫说："摩西！摩西！"他说："我在这里。"神说："不要近前来。当把你脚上的鞋脱下来，因为你所站之地是圣地。"又说："我是你父亲的神，是亚伯拉罕的神，以撒的神，雅各的神。"摩西蒙上脸，因为怕看神。',
-          text_en: 'When the LORD saw that he turned aside to see, God called to him out of the bush, "Moses, Moses!" And he said, "Here I am." Then he said, "Do not come near; take your sandals off your feet, for the place on which you are standing is holy ground." And he said, "I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob." And Moses hid his face, for he was afraid to look at God.',
+          text_en: 'And when the LORD saw that he turned aside to see, God called unto him out of the midst of the bush, and said, Moses, Moses. And he said, Here am I. And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground. Moreover he said, I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God.',
         },
         reflection: {
           zh: '摩西在旷野牧羊四十年后，神从燃烧的荆棘中呼召他。神的呼召常常出现在我们最意想不到的时候和地方。一片普通的荒野因为神的同在而成为圣地。',
@@ -156,7 +156,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '出14:21-22',
           ref_en: 'Exodus 14:21-22',
           text_zh: '摩西向海伸杖，耶和华便用大东风，使海水一夜退去，水便分开，海就成了干地。以色列人下海中走干地，水在他们的左右作了墙垣。',
-          text_en: 'Then Moses stretched out his hand over the sea, and the LORD drove the sea back by a strong east wind all night and made the sea dry land, and the waters were divided. And the people of Israel went into the midst of the sea on dry ground, the waters being a wall to them on their right hand and on their left.',
+          text_en: 'And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided. And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left.',
         },
         reflection: {
           zh: '前有红海，后有追兵，以色列人陷入绝境。但神开辟了一条人无法想象的道路。当我们面对不可能的困境时，神能在绝处开路，在旷野开江河。',
@@ -176,7 +176,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '书1:9',
           ref_en: 'Joshua 1:9',
           text_zh: '我岂没有吩咐你吗？你当刚强壮胆！不要惧怕，也不要惊惶，因为你无论往哪里去，耶和华你的神必与你同在。',
-          text_en: 'Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the LORD your God is with you wherever you go.',
+          text_en: 'Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.',
         },
         reflection: {
           zh: '约书亚接替摩西的重任，面对的是强大的迦南人和未知的挑战。神三次对他说"刚强壮胆"，因为勇气不是来自自己的能力，而是来自神的同在。',
@@ -196,7 +196,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '士7:7',
           ref_en: 'Judges 7:7',
           text_zh: '耶和华对基甸说："我要用这舔水的三百人拯救你们，将米甸人交在你手中。其余的人都可以各归各处去。"',
-          text_en: 'And the LORD said to Gideon, "With the 300 men who lapped I will save you and give the Midianites into your hand, and let all the others go every man to his home."',
+          text_en: 'And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the other people go every man unto his place.',
         },
         reflection: {
           zh: '神将基甸的军队从三万二千人减到三百人，不是削弱以色列的力量，而是要彰显祂自己的大能。神不需要人多势众，祂要的是合用的器皿。少，在神的手中就是多。',
@@ -216,7 +216,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '得1:16-17',
           ref_en: 'Ruth 1:16-17',
           text_zh: '路得说："不要催我回去不跟随你。你往哪里去，我也往那里去；你在哪里住宿，我也在那里住宿；你的国就是我的国，你的神就是我的神。你在哪里死，我也在那里死，也葬在那里。除非死能使你我相离，不然，愿耶和华重重地降罚与我。"',
-          text_en: 'But Ruth said, "Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God. Where you die I will die, and there will I be buried. May the LORD do so to me and more also if anything but death parts me from you."',
+          text_en: 'And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God: Where thou diest, will I die, and there will I be buried: the LORD do so to me, and more also, if ought but death part thee and me.',
         },
         reflection: {
           zh: '路得是一个外邦女子，她放弃了回到自己家乡的安逸，选择跟随婆婆拿俄米和拿俄米的神。她的忠诚和委身不仅改变了自己的命运，也使她成为大卫王的曾祖母，进入弥赛亚的家谱。',
@@ -236,7 +236,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '撒上3:9-10',
           ref_en: '1 Samuel 3:9-10',
           text_zh: '因此以利对撒母耳说："你仍去睡吧；若再呼唤你，你就说：\u2018耶和华啊，请说，仆人敬听。\u2019"撒母耳就去，仍睡在原处。耶和华又来站着，像前三次呼唤说："撒母耳啊！撒母耳啊！"撒母耳回答说："请说，仆人敬听。"',
-          text_en: 'Therefore Eli said to Samuel, "Go, lie down, and if he calls you, you shall say, \'Speak, LORD, for your servant hears.\'" So Samuel went and lay down in his place. And the LORD came and stood, calling as at other times, "Samuel! Samuel!" And Samuel said, "Speak, for your servant hears."',
+          text_en: 'Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, LORD; for thy servant heareth. So Samuel went and lay down in his place. And the LORD came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.',
         },
         reflection: {
           zh: '少年撒母耳还不认识神的声音，但他有一颗愿意聆听的心。"请说，仆人敬听"是我们每天灵修时最美好的祷告。神今天仍然在说话，问题是我们是否在聆听。',
@@ -256,7 +256,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '撒上17:45-47',
           ref_en: '1 Samuel 17:45-47',
           text_zh: '大卫对非利士人说："你来攻击我，是靠着刀枪和铜戟；我来攻击你，是靠着万军之耶和华的名，就是你所怒骂带领以色列军队的神。今日耶和华必将你交在我手里。我必杀你，斩你的头……使普天下的人都知道以色列中有神；又使这众人知道耶和华使人得胜，不是用刀用枪，因为争战的胜败全在乎耶和华。"',
-          text_en: 'Then David said to the Philistine, "You come to me with a sword and with a spear and with a javelin, but I come to you in the name of the LORD of hosts, the God of the armies of Israel, whom you have defied. This day the LORD will deliver you into my hand, and I will strike you down and cut off your head … that all the earth may know that there is a God in Israel, and that all this assembly may know that the LORD saves not with sword and spear. For the battle is the LORD\'s, and he will give you into our hand."',
+          text_en: 'Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts, the God of the armies of Israel, whom thou hast defied. This day will the LORD deliver thee into mine hand; and I will smite thee, and take thine head from thee; and I will give the carcases of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel. And all this assembly shall know that the LORD saveth not with sword and spear: for the battle is the LORD’s, and he will give you into our hands.',
         },
         reflection: {
           zh: '少年大卫面对巨人歌利亚，没有依靠刀枪铠甲，而是凭着对神的信心。他知道争战的胜败不在乎武器的优劣，而在乎神。面对生命中的"巨人"，我们也需要这样的信心。',
@@ -276,7 +276,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '王上18:38-39',
           ref_en: '1 Kings 18:38-39',
           text_zh: '于是，耶和华降下火来，烧尽燔祭、木柴、石头、尘土，又烧干沟里的水。众民看见了，就俯伏在地，说："耶和华是神！耶和华是神！"',
-          text_en: 'Then the fire of the LORD fell and consumed the burnt offering and the wood and the stones and the dust, and licked up the water that was in the trench. And when all the people saw it, they fell on their faces and said, "The LORD, he is God; the LORD, he is God."',
+          text_en: 'Then the fire of the LORD fell, and consumed the burnt sacrifice, and the wood, and the stones, and the dust, and licked up the water that was in the trench. And when all the people saw it, they fell on their faces: and they said, The LORD, he is the God; the LORD, he is the God.',
         },
         reflection: {
           zh: '以利亚在迦密山上独自面对四百五十个巴力先知。他没有退缩，因为他知道自己所事奉的神是又真又活的。当神从天降火时，真假立判。在一个充满假神和偶像的时代，我们需要以利亚的勇气来为真理站立。',
@@ -296,7 +296,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '但6:22-23',
           ref_en: 'Daniel 6:22-23',
           text_zh: '我的神差遣使者封住狮子的口，叫狮子不伤我；因我在神面前无辜，我在王面前也没有行过亏损的事。"王就甚喜乐，吩咐人将但以理从坑里系上来。于是但以理从坑里被系上来，身上毫无伤损，因为信靠他的神。',
-          text_en: '"My God sent his angel and shut the lions\' mouths, and they have not harmed me, because I was found blameless before him; and also before you, O king, I have done no harm." Then the king was exceedingly glad, and commanded that Daniel be taken up out of the den. So Daniel was taken up out of the den, and no kind of harm was found on him, because he had trusted in his God.',
+          text_en: 'My God hath sent his angel, and hath shut the lions’ mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt. Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.',
         },
         reflection: {
           zh: '但以理宁可被扔进狮子坑，也不愿停止祷告。他的忠心不是在平顺时才有的，而是在生死关头仍然不妥协。神封住了狮子的口，保护了信靠祂的人。忠心到底的人，必经历神信实的保守。',
@@ -325,7 +325,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '太21:9',
           ref_en: 'Matthew 21:9',
           text_zh: '前行后随的众人喊着说："和散那归于大卫的子孙！奉主名来的是应当称颂的！高高在上和散那！"',
-          text_en: 'And the crowds that went before him and that followed him were shouting, "Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!"',
+          text_en: 'And the multitudes that went before, and that followed, cried, saying, Hosanna to the son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest.',
         },
         reflection: {
           zh: '耶稣骑驴进入耶路撒冷，众人欢呼迎接。然而几天后，同样的群众将高喊"钉他十字架"。人的热情转瞬即逝，但耶稣进城的脚步坚定不移，因为祂知道自己要成就的使命。',
@@ -345,7 +345,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '太21:12-13',
           ref_en: 'Matthew 21:12-13',
           text_zh: '耶稣进了神的殿，赶出殿里一切做买卖的人，推倒兑换银钱之人的桌子和卖鸽子之人的凳子，对他们说："经上记着说：\u2018我的殿必称为祷告的殿\u2019，你们倒使它成为贼窝了。"',
-          text_en: 'And Jesus entered the temple and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. He said to them, "It is written, \'My house shall be called a house of prayer,\' but you make it a den of robbers."',
+          text_en: 'And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves, And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.',
         },
         reflection: {
           zh: '耶稣洁净圣殿，显示了祂对敬拜纯洁的热心。神的殿应当是祷告的地方，而非交易的场所。同样，我们的心灵也是圣灵的殿，需要时常被主洁净。',
@@ -365,7 +365,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '太26:6-7,12-13',
           ref_en: 'Matthew 26:6-7,12-13',
           text_zh: '耶稣在伯大尼长大麻风的西门家里，有一个女人拿着一玉瓶极贵的香膏来，趁耶稣坐席的时候，浇在他的头上。她将这香膏浇在我身上，是为我安葬做的。我实在告诉你们：普天之下，无论在什么地方传这福音，也要述说这女人所行的，作个纪念。',
-          text_en: 'Now when Jesus was at Bethany in the house of Simon the leper, a woman came up to him with an alabaster flask of very expensive ointment, and she poured it on his head as he reclined at table. In pouring this ointment on my body, she has done it to prepare me for burial. Truly, I say to you, wherever this gospel is proclaimed in the whole world, what she has done will also be told in memory of her.',
+          text_en: 'Now when Jesus was in Bethany, in the house of Simon the leper, There came unto him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat at meat.',
         },
         reflection: {
           zh: '这位女人将最贵重的香膏倾倒在耶稣身上，不顾旁人的批评。她的行动是对耶稣全然的爱和奉献。耶稣看重的不是礼物的价值，而是背后那颗毫无保留的心。',
@@ -385,7 +385,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '路22:19-20',
           ref_en: 'Luke 22:19-20',
           text_zh: '又拿起饼来，祝谢了，就擘开，递给他们，说："这是我的身体，为你们舍的，你们也应当如此行，为的是记念我。"饭后也照样拿起杯来，说："这杯是用我血所立的新约，是为你们流出来的。"',
-          text_en: 'And he took bread, and when he had given thanks, he broke it and gave it to them, saying, "This is my body, which is given for you. Do this in remembrance of me." And likewise the cup after they had eaten, saying, "This cup that is poured out for you is the new covenant in my blood."',
+          text_en: 'And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me. Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.',
         },
         reflection: {
           zh: '最后的晚餐上，耶稣设立了圣餐，用饼和杯象征祂即将为我们破碎的身体和流出的宝血。每一次圣餐都是一次记念——记念那份无条件的爱和永恒的新约。',
@@ -405,7 +405,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '约13:34-35',
           ref_en: 'John 13:34-35',
           text_zh: '我赐给你们一条新命令，乃是叫你们彼此相爱；我怎样爱你们，你们也要怎样相爱。你们若有彼此相爱的心，众人因此就认出你们是我的门徒了。',
-          text_en: 'A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another. By this all people will know that you are my disciples, if you have love for one another.',
+          text_en: 'A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another. By this shall all men know that ye are my disciples, if ye have love one to another.',
         },
         reflection: {
           zh: '在被卖的那一夜，耶稣不是谈论复仇或自保，而是赐下爱的命令。基督徒最显著的标志不是教义或仪式，而是彼此相爱。这种爱不是出于人的本性，而是效法基督舍己之爱。',
@@ -425,7 +425,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '约15:5',
           ref_en: 'John 15:5',
           text_zh: '我是葡萄树，你们是枝子；常在我里面的，我也常在他里面，这人就多结果子；因为离了我，你们就不能做什么。',
-          text_en: 'I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing.',
+          text_en: 'I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.',
         },
         reflection: {
           zh: '枝子离了葡萄树就会枯干。耶稣在走向十字架前教导门徒最重要的功课：与祂保持连接。一切属灵的果子都源于我们与基督的关系，而非我们自己的努力。',
@@ -445,7 +445,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '太26:39',
           ref_en: 'Matthew 26:39',
           text_zh: '他就稍往前走，俯伏在地，祷告说："我父啊，倘若可行，求你叫这杯离开我；然而，不要照我的意思，只要照你的意思。"',
-          text_en: 'And going a little farther he fell on his face and prayed, saying, "My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will."',
+          text_en: 'And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.',
         },
         reflection: {
           zh: '在客西马尼园，耶稣经历了极大的痛苦挣扎。祂是完全的人，也感受恐惧和痛苦。但祂的祷告是"不要照我的意思，只要照你的意思"。这是最高层次的顺服——不是没有挣扎，而是在挣扎中仍然选择神的旨意。',
@@ -465,7 +465,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '太26:49-50',
           ref_en: 'Matthew 26:49-50',
           text_zh: '犹大随即到耶稣跟前，说："请拉比安"，就与他亲嘴。耶稣对他说："朋友，你来要做的事，就做吧。"于是那些人上前，下手拿住耶稣。',
-          text_en: 'And he came up to Jesus at once and said, "Greetings, Rabbi!" And he kissed him. Jesus said to him, "Friend, do what you came to do." Then they came up and laid hands on Jesus and seized him.',
+          text_en: 'And forthwith he came to Jesus, and said, Hail, master; and kissed him. And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.',
         },
         reflection: {
           zh: '犹大用亲嘴——一个亲密的动作——来出卖耶稣。背叛往往来自最亲近的人，伤害也最深。但耶稣仍然称犹大为"朋友"。即使面对最痛的背叛，耶稣也没有用仇恨回应。',
@@ -485,7 +485,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '路22:61-62',
           ref_en: 'Luke 22:61-62',
           text_zh: '主转过身来看彼得，彼得便想起主对他所说的话："今日鸡叫以先，你要三次不认我。"他就出去痛哭。',
-          text_en: 'And the Lord turned and looked at Peter. And Peter remembered the saying of the Lord, how he had said to him, "Before the rooster crows today, you will deny me three times." And he went out and wept bitterly.',
+          text_en: 'And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice. And Peter went out, and wept bitterly.',
         },
         reflection: {
           zh: '彼得曾信誓旦旦说即使丧命也不会否认主，却在压力下三次不认耶稣。当耶稣转身看他的那一刻，不是责备的眼神，而是充满怜悯和爱。彼得的痛哭是真实悔改的开始，而耶稣的目光是恩典的起点。',
@@ -505,7 +505,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '约18:37-38',
           ref_en: 'John 18:37-38',
           text_zh: '彼拉多就对他说："这样，你是王吗？"耶稣回答说："你说我是王。我为此而生，也为此来到世间，特为给真理作见证。凡属真理的人就听我的话。"彼拉多说："真理是什么呢？"',
-          text_en: 'Then Pilate said to him, "So you are a king?" Jesus answered, "You say that I am a king. For this purpose I was born and for this purpose I have come into the world — to bear witness to the truth. Everyone who is of the truth listens to my voice." Pilate said to him, "What is truth?"',
+          text_en: 'Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice. Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all.',
         },
         reflection: {
           zh: '彼拉多的问题"真理是什么"至今仍在回响。讽刺的是，真理就站在他面前，他却视而不见。耶稣就是真理的化身，祂来到世间就是为真理作见证。在一个相对主义盛行的时代，我们需要认定耶稣就是唯一的真理。',
@@ -525,7 +525,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '路23:33-34',
           ref_en: 'Luke 23:33-34',
           text_zh: '到了一个地方，名叫髑髅地，就在那里把耶稣钉在十字架上，又钉了两个犯人：一个在左边，一个在右边。当下耶稣说："父啊，赦免他们！因为他们所做的，他们不晓得。"',
-          text_en: 'And when they came to the place that is called The Skull, there they crucified him, and the criminals, one on his right and one on his left. And Jesus said, "Father, forgive them, for they know not what they do."',
+          text_en: 'And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left. Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.',
         },
         reflection: {
           zh: '在极度痛苦中，耶稣说出的第一句话不是咒诅，不是呼救，而是为钉祂的人祈求赦免。这是人类历史上最伟大的饶恕。十字架上的爱超越了一切仇恨和罪恶。',
@@ -545,7 +545,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '约19:30',
           ref_en: 'John 19:30',
           text_zh: '耶稣尝了那醋，就说："成了！"便低下头，将灵魂交付神了。',
-          text_en: 'When Jesus had received the sour wine, he said, "It is finished," and he bowed his head and gave up his spirit.',
+          text_en: 'When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.',
         },
         reflection: {
           zh: '"成了"——这不是失败者的叹息，而是得胜者的宣告。耶稣完成了父神交给祂的救赎大工。罪的刑罚已经付清，死亡的权势已经被打破。我们不需要再做什么来赚取救恩，因为耶稣已经说了"成了"。',
@@ -565,7 +565,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '太27:59-60',
           ref_en: 'Matthew 27:59-60',
           text_zh: '约瑟取了身体，用干净细麻布裹好，安放在自己的新坟墓里，就是他凿在磐石里的。他又把大石头滚到墓门口，就去了。',
-          text_en: 'And Joseph took the body and wrapped it in a clean linen shroud and laid it in his own new tomb, which he had cut in the rock. And he rolled a great stone to the entrance of the tomb and went away.',
+          text_en: 'And when Joseph had taken the body, he wrapped it in a clean linen cloth, And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.',
         },
         reflection: {
           zh: '亚利马太的约瑟冒着巨大的风险，公开表明自己是耶稣的门徒。他将自己的新坟墓献给了主。有时候，跟随耶稣需要在最黑暗的时刻站出来，付上代价。安静的忠心同样伟大。',
@@ -585,7 +585,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '太28:5-6',
           ref_en: 'Matthew 28:5-6',
           text_zh: '天使对妇女说："不要害怕！我知道你们是寻找那钉十字架的耶稣。他不在这里，照他所说的，已经复活了。你们来看安放主的地方。"',
-          text_en: 'But the angel said to the women, "Do not be afraid, for I know that you seek Jesus who was crucified. He is not here, for he has risen, as he said. Come, see the place where he lay."',
+          text_en: 'And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified. He is not here: for he is risen, as he said. Come, see the place where the Lord lay.',
         },
         reflection: {
           zh: '"他不在这里，已经复活了！"这是人类历史上最震撼的消息。空坟墓证明了耶稣胜过了死亡。十字架不是故事的结局，复活才是！因为祂活着，我们也有了永恒的盼望。',
@@ -605,7 +605,7 @@ export const themesB5: AltarTheme[] = [
           ref_zh: '太28:18-20',
           ref_en: 'Matthew 28:18-20',
           text_zh: '耶稣进前来，对他们说："天上地下所有的权柄都赐给我了。所以，你们要去，使万民作我的门徒，奉父、子、圣灵的名给他们施洗。凡我所吩咐你们的，都教训他们遵守，我就常与你们同在，直到世界的末了。"',
-          text_en: 'And Jesus came and said to them, "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."',
+          text_en: 'And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth. Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.',
         },
         reflection: {
           zh: '十架之路的终点不是死亡，而是大使命的起点。复活的主将天上地下所有的权柄赐给了我们，差遣我们去使万民作祂的门徒。祂应许与我们同在，直到世界的末了。这是我们信仰的使命和盼望。',

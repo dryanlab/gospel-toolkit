@@ -16,7 +16,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '马太福音 21:8-9',
           ref_en: 'Matthew 21:8-9',
           text_zh: '众人多半把衣服铺在路上，还有人砍下树枝来铺在路上。前行后随的众人喊着说："和散那归于大卫的子孙！奉主名来的是应当称颂的！高高在上和散那！"',
-          text_en: 'Most of the crowd spread their cloaks on the road, and others cut branches from the trees and spread them on the road. And the crowds that went before him and that followed him were shouting, "Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!"',
+          text_en: 'And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed them in the way. And the multitudes that went before, and that followed, cried, saying, Hosanna to the son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest.',
         },
         reflection: {
           zh: '棕枝主日，耶稣骑着驴驹进入耶路撒冷，众人夹道欢迎。然而同一群人，几天后却喊"钉他十字架"。人心是多么善变！但耶稣知道前面等待祂的是什么，依然选择走向十字架。祂的爱不受人心冷暖的影响。',
@@ -36,7 +36,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '约翰福音 13:4-5',
           ref_en: 'John 13:4-5',
           text_zh: '就离席站起来，脱了衣服，拿一条手巾束腰，随后把水倒在盆里，就洗门徒的脚，并用自己所束的手巾擦干。',
-          text_en: 'He rose from supper. He laid aside his outer garments, and taking a towel, tied it around his waist. Then he poured water into a basin and began to wash the disciples\' feet and to wipe them with the towel that was wrapped around him.',
+          text_en: 'He riseth from supper, and laid aside his garments; and took a towel, and girded himself. After that he poureth water into a bason, and began to wash the disciples’ feet, and to wipe them with the towel wherewith he was girded.',
         },
         reflection: {
           zh: '万王之王弯腰为门徒洗脚，这是何等惊人的画面！在那个时代，洗脚是最卑微的仆人才做的事。耶稣用行动教导门徒：真正的伟大不在于被人服事，而在于服事人。祂为我们树立了谦卑服事的终极榜样。',
@@ -56,7 +56,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '路加福音 22:19-20',
           ref_en: 'Luke 22:19-20',
           text_zh: '又拿起饼来，祝谢了，就擘开，递给他们，说："这是我的身体，为你们舍的，你们也应当如此行，为的是记念我。"饭后也照样拿起杯来，说："这杯是用我血所立的新约，是为你们流出来的。"',
-          text_en: 'And he took bread, and when he had given thanks, he broke it and gave it to them, saying, "This is my body, which is given for you. Do this in remembrance of me." And likewise the cup after they had eaten, saying, "This cup that is poured out for you is the new covenant in my blood."',
+          text_en: 'And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me. Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.',
         },
         reflection: {
           zh: '最后的晚餐是耶稣设立圣餐的时刻。饼代表祂为我们破碎的身体，杯代表祂为我们流出的血。每次领圣餐，我们都在记念主的死，宣告祂的爱，期盼祂的再来。这不只是仪式，更是与基督亲密相交的时刻。',
@@ -76,7 +76,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '马太福音 26:38-39',
           ref_en: 'Matthew 26:38-39',
           text_zh: '便对他们说："我心里甚是忧伤，几乎要死；你们在这里等候，和我一同警醒。"他就稍往前走，俯伏在地，祷告说："我父啊，倘若可行，求你叫这杯离开我。然而，不要照我的意思，只要照你的意思。"',
-          text_en: 'Then he said to them, "My soul is very sorrowful, even to death; remain here, and watch with me." And going a little farther he fell on his face and prayed, saying, "My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will."',
+          text_en: 'Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me. And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.',
         },
         reflection: {
           zh: '客西马尼园的祷告让我们看到耶稣完全的人性——祂真实地经历了恐惧和忧伤。"这杯"是指神对罪的忿怒，耶稣将要代替我们承担。然而祂的祷告以"不要照我的意思，只要照你的意思"结束。这是完全的顺服，是信心最高的表达。',
@@ -96,7 +96,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '马太福音 26:49-50',
           ref_en: 'Matthew 26:49-50',
           text_zh: '犹大随即到耶稣跟前，说："请拉比安"，就与他亲嘴。耶稣对他说："朋友，你来要做的事，就做吧。"',
-          text_en: 'And he came up to Jesus at once and said, "Greetings, Rabbi!" And he kissed him. Jesus said to him, "Friend, do what you came to do."',
+          text_en: 'And forthwith he came to Jesus, and said, Hail, master; and kissed him. And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.',
         },
         reflection: {
           zh: '犹大用亲嘴——这个表示亲密和爱的动作——来出卖耶稣。最亲近的人的背叛是最深的伤害。但耶稣仍然称犹大为"朋友"。即使在被出卖的时刻，耶稣依然给犹大悔改的机会。祂对罪人的爱，连背叛都无法夺去。',
@@ -116,7 +116,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '马太福音 27:22-24',
           ref_en: 'Matthew 27:22-24',
           text_zh: '彼拉多说："这样，那称为基督的耶稣，我怎么办他呢？"他们都说："把他钉十字架！"巡抚说："为什么呢？他做了什么恶事呢？"他们便极力地喊着说："把他钉十字架！"彼拉多见说也无济于事，反要生乱，就拿水在众人面前洗手，说："流这义人的血，罪不在我，你们承当吧。"',
-          text_en: 'Pilate said to them, "Then what shall I do with Jesus who is called Christ?" They all said, "Let him be crucified!" And he said, "Why? What evil has he done?" But they shouted all the more, "Let him be crucified!" So when Pilate saw that he was gaining nothing, but rather that a riot was beginning, he took water and washed his hands before the crowd, saying, "I am innocent of this man\'s blood; see to it yourselves."',
+          text_en: 'Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified. And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified. When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it.',
         },
         reflection: {
           zh: '彼拉多明知耶稣是无罪的，却因惧怕众人而妥协。洗手并不能洗去他的责任。在真理面前，沉默和回避就是同谋。我们每个人都面临类似的选择：是站在真理一边，还是向压力妥协？',
@@ -136,7 +136,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '以赛亚书 53:5',
           ref_en: 'Isaiah 53:5',
           text_zh: '哪知他为我们的过犯受害，为我们的罪孽压伤。因他受的刑罚，我们得平安；因他受的鞭伤，我们得医治。',
-          text_en: 'But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.',
+          text_en: 'But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.',
         },
         reflection: {
           zh: '以赛亚书53章是旧约中最清晰的十字架预言，写于耶稣降生前七百年。每一个"我们"和"他"的对比都令人震撼：我们的过犯——他受害；我们的罪孽——他压伤；我们得平安——因他受刑罚。十字架的本质就是替代：无罪的代替有罪的。',
@@ -156,7 +156,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '马可福音 15:33-34',
           ref_en: 'Mark 15:33-34',
           text_zh: '从午正到申初，遍地都黑暗了。申初的时候，耶稣大声喊着说："以罗伊！以罗伊！拉马撒巴各大尼？"翻出来就是："我的神！我的神！为什么离弃我？"',
-          text_en: 'And when the sixth hour had come, there was darkness over the whole land until the ninth hour. And at the ninth hour Jesus cried with a loud voice, "Eloi, Eloi, lema sabachthani?" which means, "My God, my God, why have you forsaken me?"',
+          text_en: 'And when the sixth hour was come, there was darkness over the whole land until the ninth hour. And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?',
         },
         reflection: {
           zh: '这是整本圣经中最沉重的一句话。圣父与圣子之间永恒的团契在这一刻断裂了——因为耶稣担当了我们的罪。遍地的黑暗是外在的记号，内在的黑暗更加深沉。耶稣经历了被神离弃的痛苦，好叫我们永远不再被神离弃。',
@@ -176,7 +176,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '路加福音 23:34',
           ref_en: 'Luke 23:34',
           text_zh: '当下耶稣说："父啊！赦免他们；因为他们所做的，他们不晓得。"',
-          text_en: 'And Jesus said, "Father, forgive them, for they know not what they do."',
+          text_en: 'Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.',
         },
         reflection: {
           zh: '在十字架上极度的痛苦中，耶稣开口说的第一句话不是咒诅，不是求救，而是为钉祂的人祷告。这就是十字架的爱——不是爱那些可爱的人，而是爱那些正在伤害你的人。这样的饶恕超越了人的能力，只有从神而来的爱才能做到。',
@@ -196,7 +196,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '路加福音 23:42-43',
           ref_en: 'Luke 23:42-43',
           text_zh: '就说："耶稣啊，你得国降临的时候，求你记念我！"耶稣对他说："我实在告诉你，今日你要同我在乐园里了。"',
-          text_en: 'And he said, "Jesus, remember me when you come into your kingdom." And he said to him, "Truly, I say to you, today you will be with me in paradise."',
+          text_en: 'And he said unto Jesus, Lord, remember me when thou comest into thy kingdom. And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.',
         },
         reflection: {
           zh: '十字架上的强盗是恩典最有力的见证。他没有受洗，没有行过善事，没有时间"改过自新"，只是在生命的最后一刻信靠了耶稣。耶稣的回应何等宝贵："今日你要同我在乐园里了。"救恩从来不是靠我们赚取的，而是白白赐给信靠之人的礼物。',
@@ -216,7 +216,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '约翰福音 19:28-30',
           ref_en: 'John 19:28-30',
           text_zh: '这事以后，耶稣知道各样的事已经成了，为要使经上的话应验，就说："我渴了。"……耶稣尝了那醋，就说："成了！"便低下头，将灵魂交付神了。',
-          text_en: 'After this, Jesus, knowing that all was now finished, said (to fulfill the Scripture), "I thirst." ... When Jesus had received the sour wine, he said, "It is finished," and he bowed his head and gave up his spirit.',
+          text_en: 'After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst. Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth. When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.',
         },
         reflection: {
           zh: '"成了！"这一个字（希腊文tetelestai）是整个救赎历史的高潮。它的意思是"完全偿清了"。耶稣不是说"我完了"，而是说"完成了"。罪债已清，救恩已成，再没有什么需要我们添加的。我们的得救不是靠信心加行为，而是单单靠基督在十字架上已经完成的工作。',
@@ -236,7 +236,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '马太福音 27:51-54',
           ref_en: 'Matthew 27:51-54',
           text_zh: '忽然，殿里的幔子从上到下裂为两半，地也震动，磐石也崩裂……百夫长和一同看守耶稣的人看见地震并所经历的事，就极其害怕，说："这真是神的儿子了！"',
-          text_en: 'And behold, the curtain of the temple was torn in two, from top to bottom. And the earth shook, and the rocks were split. ... When the centurion and those who were with him, keeping watch over Jesus, saw the earthquake and what took place, they were filled with awe and said, "Truly this was the Son of God!"',
+          text_en: 'And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent; And the graves were opened; and many bodies of the saints which slept arose, And came out of the graves after his resurrection, and went into the holy city, and appeared unto many. Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.',
         },
         reflection: {
           zh: '殿里的幔子从上到下裂开——注意是"从上到下"，这不是人手所为，而是神亲自撕裂的。这幔子原来隔开圣所和至圣所，象征人与神之间的阻隔。幔子裂开意味着通往神面前的路已经打开，每个信靠基督的人都可以坦然无惧地来到神面前。',
@@ -256,7 +256,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '约翰福音 19:38-40',
           ref_en: 'John 19:38-40',
           text_zh: '这些事以后，有亚利马太人约瑟，是耶稣的门徒，只因怕犹太人，就暗暗地作门徒。他来求彼拉多，要把耶稣的身体领去。彼拉多允准，他就把耶稣的身体领去了。又有尼哥底母……带着没药和沉香约有一百斤前来。',
-          text_en: 'After these things Joseph of Arimathea, who was a disciple of Jesus, but secretly for fear of the Jews, asked Pilate that he might take away the body of Jesus, and Pilate gave him permission. ... Nicodemus also, who earlier had come to Jesus by night, came bringing a mixture of myrrh and aloes, about seventy-five pounds in weight.',
+          text_en: 'And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took the body of Jesus. And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound weight. Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.',
         },
         reflection: {
           zh: '约瑟和尼哥底母是"暗暗的门徒"——一个因惧怕而秘密跟随，一个只敢夜里来找耶稣。但在耶稣最需要人站出来的时刻，当其他门徒都逃走时，反而是这两个胆小的人勇敢地站了出来。十字架改变了他们。有时候，信心在最黑暗的时刻反而最明亮。',
@@ -276,7 +276,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '彼得前书 2:24',
           ref_en: '1 Peter 2:24',
           text_zh: '他被挂在木头上，亲身担当了我们的罪，使我们既然在罪上死，就得以在义上活。因他受的鞭伤，你们便得了医治。',
-          text_en: 'He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed.',
+          text_en: 'Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.',
         },
         reflection: {
           zh: '彼得曾三次不认主，他比任何人都更深地体会十字架恩典的宝贵。"亲身担当"——耶稣不是远远地替我们安排救恩，而是亲自上了十字架。十字架的目的不只是赦免我们的罪，更是让我们"在义上活"——活出新生命。恩典不是让我们继续犯罪的许可证，而是改变生命的力量。',
@@ -296,7 +296,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '希伯来书 12:2',
           ref_en: 'Hebrews 12:2',
           text_zh: '仰望为我们信心创始成终的耶稣。他因那摆在前面的喜乐，就轻看羞辱，忍受了十字架的苦难，便坐在神宝座的右边。',
-          text_en: 'Looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God.',
+          text_en: 'Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.',
         },
         reflection: {
           zh: '耶稣忍受十字架不是因为祂喜欢受苦，而是因为"那摆在前面的喜乐"。这喜乐是什么？是我们！是你和我得赎回归神的喜乐。祂看见了十字架那一边的荣耀——千千万万被拯救的灵魂与祂永远同在。如今祂已坐在神宝座的右边，受难已过，荣耀永在。',
@@ -325,7 +325,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '马太福音 28:5-6',
           ref_en: 'Matthew 28:5-6',
           text_zh: '天使对妇女说："不要害怕！我知道你们是寻找那钉十字架的耶稣。他不在这里，照他所说的，已经复活了。你们来看安放主的地方。"',
-          text_en: 'But the angel said to the women, "Do not be afraid, for I know that you seek Jesus who was crucified. He is not here, for he has risen, as he said. Come, see the place where he lay."',
+          text_en: 'And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified. He is not here: for he is risen, as he said. Come, see the place where the Lord lay.',
         },
         reflection: {
           zh: '"他不在这里，已经复活了"——这是人类历史上最伟大的宣告。坟墓空了！死亡被打败了！如果耶稣没有复活，我们的信就是徒然的。但祂确实复活了，正如祂所预言的。复活不只是一个历史事件，更是我们信仰的根基和盼望的源头。',
@@ -345,7 +345,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '约翰福音 20:15-16',
           ref_en: 'John 20:15-16',
           text_zh: '耶稣问她说："妇人，为什么哭？你找谁？"马利亚以为是看园的，就对他说："先生，若是你把他移了去，请告诉我，你把他放在哪里，我便去取他。"耶稣说："马利亚。"马利亚就转过来，用希伯来话对他说："拉波尼！"',
-          text_en: 'Jesus said to her, "Woman, why are you weeping? Whom are you seeking?" Supposing him to be the gardener, she said to him, "Sir, if you have carried him away, tell me where you have laid him, and I will take him away." Jesus said to her, "Mary." She turned and said to him in Aramaic, "Rabboni!"',
+          text_en: 'Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away. Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.',
         },
         reflection: {
           zh: '复活的主第一个显现给抹大拉的马利亚——一个曾被七个鬼附的女人。耶稣只说了一个字："马利亚"，她就认出了祂。好牧人按名字呼唤祂的羊。耶稣复活后第一件事不是彰显权能，而是安慰一个哭泣的人。祂的温柔令人动容。',
@@ -365,7 +365,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '路加福音 24:30-32',
           ref_en: 'Luke 24:30-32',
           text_zh: '到了坐席的时候，耶稣拿起饼来，祝谢了，擘开，递给他们。他们的眼睛明亮了，这才认出他来。忽然耶稣不见了。他们彼此说："在路上他和我们说话、给我们讲解圣经的时候，我们的心岂不是火热的吗？"',
-          text_en: 'When he was at table with them, he took the bread and blessed and broke it and gave it to them. And their eyes were opened, and they recognized him. And he vanished from their sight. They said to each other, "Did not our hearts burn within us while he talked to us on the road, while he opened to us the Scriptures?"',
+          text_en: 'And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them. And their eyes were opened, and they knew him; and he vanished out of their sight. And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?',
         },
         reflection: {
           zh: '以马忤斯路上的两个门徒，心里愁闷灰心，复活的耶稣亲自走近他们，为他们讲解圣经。当祂擘饼时，他们的眼睛就明亮了。注意：是圣经使他们的心火热，是擘饼使他们认出主来。读经和圣餐——这两样至今仍是我们认识基督的主要途径。',
@@ -385,7 +385,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '约翰福音 20:27-28',
           ref_en: 'John 20:27-28',
           text_zh: '就对多马说："伸过你的指头来，摸我的手；伸出你的手来，探入我的肋旁。不要疑惑，总要信。"多马说："我的主！我的神！"',
-          text_en: 'Then he said to Thomas, "Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe." Thomas answered him, "My Lord and my God!"',
+          text_en: 'Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing. And Thomas answered and said unto him, My LORD and my God.',
         },
         reflection: {
           zh: '多马常被称为"怀疑的多马"，但耶稣没有责备他，而是满足了他的需要。耶稣理解我们的软弱和怀疑。注意多马看见复活主后的回应："我的主！我的神！"——这是福音书中最完整的信仰告白。有时候怀疑是通往更深信心的必经之路。',
@@ -405,7 +405,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '约翰福音 21:15-17',
           ref_en: 'John 21:15-17',
           text_zh: '耶稣对西门彼得说："约翰的儿子西门，你爱我比这些更深吗？"彼得说："主啊，是的，你知道我爱你。"耶稣对他说："你喂养我的小羊。"',
-          text_en: 'When they had finished breakfast, Jesus said to Simon Peter, "Simon, son of John, do you love me more than these?" He said to him, "Yes, Lord; you know that I love you." He said to him, "Feed my lambs."',
+          text_en: 'So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs. He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep. He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.',
         },
         reflection: {
           zh: '彼得三次不认主，复活的耶稣三次问他"你爱我吗"——不是为了羞辱他，而是为了恢复他。每一次回答都医治一次否认的伤口。耶稣不只饶恕彼得，还重新委派他"喂养我的羊"。复活的主不放弃失败的人，反而给他们新的使命。',
@@ -425,7 +425,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '哥林多前书 15:3-5',
           ref_en: '1 Corinthians 15:3-5',
           text_zh: '我当日所领受又传给你们的：第一，就是基督照圣经所说，为我们的罪死了，而且埋葬了；又照圣经所说，第三天复活了，并且显给矶法看，然后显给十二使徒看。',
-          text_en: 'For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures, and that he appeared to Cephas, then to the twelve.',
+          text_en: 'For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; And that he was buried, and that he rose again the third day according to the scriptures: And that he was seen of Cephas, then of the twelve:',
         },
         reflection: {
           zh: '保罗把福音浓缩为最核心的内容：基督死了、埋葬了、复活了、显现了。这不是神话传说，而是有众多目击证人的历史事件。"照圣经所说"出现两次，强调这一切都在神的计划之中。福音不复杂——它的核心就是基督的死与复活。',
@@ -445,7 +445,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '哥林多前书 15:20-22',
           ref_en: '1 Corinthians 15:20-22',
           text_zh: '但基督已经从死里复活，成为睡了之人初熟的果子。死既是因一人而来，死人复活也是因一人而来。在亚当里众人都死了；照样，在基督里众人也都要复活。',
-          text_en: 'But in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep. For as by a man came death, by a man has come also the resurrection of the dead. For as in Adam all die, so also in Christ shall all be made alive.',
+          text_en: 'But now is Christ risen from the dead, and become the firstfruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive.',
         },
         reflection: {
           zh: '基督的复活不是孤立事件，而是"初熟的果子"——预示着更大的丰收。祂的复活保证了所有信祂之人将来的复活。在亚当里，我们继承了死亡；在基督里，我们继承了生命。这就是福音的大能：死亡不是终点，而是通往永生的门。',
@@ -465,7 +465,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '罗马书 6:4-5',
           ref_en: 'Romans 6:4-5',
           text_zh: '所以，我们借着洗礼归入死，和他一同埋葬，原是叫我们一举一动有新生的样式，像基督借着父的荣耀从死里复活一样。我们若在他死的形状上与他联合，也要在他复活的形状上与他联合。',
-          text_en: 'We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life. For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his.',
+          text_en: 'Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:',
         },
         reflection: {
           zh: '复活不只是未来的盼望，更是现在的实际。我们与基督同死同复活，意味着旧的生命已经过去，新的生命已经开始。"一举一动有新生的样式"——复活的能力不只改变我们死后的去处，更改变我们现在的生活方式。',
@@ -485,7 +485,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '启示录 1:17-18',
           ref_en: 'Revelation 1:17-18',
           text_zh: '他用右手按着我说："不要惧怕！我是首先的，我是末后的，又是那存活的；我曾死过，现在又活了，直活到永永远远；并且拿着死亡和阴间的钥匙。"',
-          text_en: '"Fear not, I am the first and the last, and the living one. I died, and behold I am alive forevermore, and I have the keys of Death and Hades."',
+          text_en: 'And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last: I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.',
         },
         reflection: {
           zh: '复活的基督拿着死亡和阴间的钥匙——祂是死亡的主人，不是死亡的受害者。因此祂说"不要惧怕"。无论我们面对什么——疾病、失去、甚至死亡本身——掌管这一切的是那位爱我们、为我们死而复活的主。祂活着，直到永永远远。',
@@ -505,7 +505,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '哥林多前书 15:55-57',
           ref_en: '1 Corinthians 15:55-57',
           text_zh: '"死啊！你得胜的权势在哪里？死啊！你的毒钩在哪里？"死的毒钩就是罪，罪的权势就是律法。感谢神，使我们借着我们的主耶稣基督得胜。',
-          text_en: '"O death, where is your victory? O death, where is your sting?" The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ.',
+          text_en: 'O death, where is thy sting? O grave, where is thy victory? The sting of death is sin; and the strength of sin is the law. But thanks be to God, which giveth us the victory through our Lord Jesus Christ.',
         },
         reflection: {
           zh: '这是保罗对死亡的嘲讽！死亡曾是人类最大的恐惧和仇敌，但因着基督的复活，死亡的毒钩已被拔去。罪使死亡可怕，但基督已经胜过罪；律法定人有罪，但基督已经满足了律法的要求。得胜不是靠我们，而是借着主耶稣基督。',
@@ -525,7 +525,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '腓立比书 3:10-11',
           ref_en: 'Philippians 3:10-11',
           text_zh: '使我认识基督，晓得他复活的大能，并且晓得和他一同受苦，效法他的死，或者我也得以从死里复活。',
-          text_en: 'That I may know him and the power of his resurrection, and may share his sufferings, becoming like him in his death, that by any means possible I may attain the resurrection from the dead.',
+          text_en: 'That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death; If by any means I might attain unto the resurrection of the dead.',
         },
         reflection: {
           zh: '保罗的人生目标不是成功、财富或名声，而是"认识基督"。注意他把"复活的大能"和"一同受苦"放在一起——复活的能力不是让我们逃避苦难，而是让我们在苦难中有力量。真正认识基督意味着经历祂的全部：祂的能力和祂的苦难。',
@@ -545,7 +545,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '帖撒罗尼迦前书 4:13-14',
           ref_en: '1 Thessalonians 4:13-14',
           text_zh: '论到睡了的人，我们不愿意弟兄们不知道，恐怕你们忧伤，像那些没有指望的人一样。我们若信耶稣死而复活了，那已经在耶稣里睡了的人，神也必将他们与耶稣一同带来。',
-          text_en: 'But we do not want you to be uninformed, brothers, about those who are asleep, that you may not grieve as others do who have no hope. For since we believe that Jesus died and rose again, even so, through Jesus, God will bring with him those who have fallen asleep.',
+          text_en: 'But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope. For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.',
         },
         reflection: {
           zh: '基督徒也会面对亲人的离世，也会悲伤。但我们的悲伤不同于没有盼望之人的悲伤。因为耶稣复活了，所有在基督里死去的人也必复活。死亡不是永别，而是暂时的分离。有一天，我们将在主里重聚，永不再分离。',
@@ -565,7 +565,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '使徒行传 1:8-9',
           ref_en: 'Acts 1:8-9',
           text_zh: '但圣灵降临在你们身上，你们就必得着能力，并要在耶路撒冷、犹太全地和撒玛利亚，直到地极，作我的见证。说了这话，他们正看的时候，他就被取上升，有一朵云彩把他接去，便看不见他了。',
-          text_en: '"But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth." And when he had said these things, as they were looking on, he was lifted up, and a cloud took him out of their sight.',
+          text_en: 'But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth. And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.',
         },
         reflection: {
           zh: '复活的主升天前留下的不是一个结束，而是一个开始。祂差派门徒去"直到地极"作见证，并应许圣灵的能力。两千年来，福音从耶路撒冷传到世界每个角落，正是这个使命的延续。今天，我们就是"地极"的见证人。',
@@ -585,7 +585,7 @@ export const themesSeasonal: AltarTheme[] = [
           ref_zh: '启示录 21:4-5',
           ref_en: 'Revelation 21:4-5',
           text_zh: '神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛，因为以前的事都过去了。坐宝座的说："看哪，我将一切都更新了！"',
-          text_en: 'He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away. And he who was seated on the throne said, "Behold, I am making all things new."',
+          text_en: 'And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away. And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.',
         },
         reflection: {
           zh: '复活的终极盼望不只是我们个人从死里复活，而是整个创造的更新。神要擦去一切眼泪——不再有死亡、悲哀、哭号、疼痛。"我将一切都更新了"——这是基督复活所开启的新创造的最终完成。我们现在经历的一切苦难都是暂时的，那永恒的荣耀正在前方等待我们。',

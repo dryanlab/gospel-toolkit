@@ -11,7 +11,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 1:14',
           ref_en: 'John 1:14',
           text_zh: '道成了肉身，住在我们中间，充充满满地有恩典有真理。我们也见过他的荣光，正是父独生子的荣光。',
-          text_en: 'And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.',
+          text_en: 'And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.',
         },
         reflection: {
           zh: '永恒的道不是远在天边的概念，而是亲自来到我们中间，住在我们当中。神的荣耀不是透过雷电彰显，而是透过一个婴孩、一个人的生命彰显。这位充满恩典与真理的主，选择与我们同在。',
@@ -31,7 +31,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 1:29',
           ref_en: 'John 1:29',
           text_zh: '次日，约翰看见耶稣来到他那里，就说："看哪，神的羔羊，除去世人罪孽的！"',
-          text_en: 'The next day he saw Jesus coming toward him, and said, "Behold, the Lamb of God, who takes away the sin of the world!"',
+          text_en: 'The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.',
         },
         reflection: {
           zh: '施洗约翰用一句话揭示了耶稣来到世上的核心使命：他是神的羔羊，要除去世人的罪孽。旧约中无数羔羊的献祭都指向这一位终极的羔羊。他不是来审判，而是来承担。',
@@ -51,7 +51,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 3:3',
           ref_en: 'John 3:3',
           text_zh: '耶稣回答说："我实实在在地告诉你，人若不重生，就不能见神的国。"',
-          text_en: 'Jesus answered him, "Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God."',
+          text_en: 'Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.',
         },
         reflection: {
           zh: '尼哥底母是以色列的教师，有学问、有地位，却被耶稣告知：这一切都不够。进入神的国不是靠改良，而是靠重生——从上头来的全新生命。这不是人的努力能达成的，而是圣灵的工作。',
@@ -71,7 +71,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 4:13-14',
           ref_en: 'John 4:13-14',
           text_zh: '耶稣回答说："凡喝这水的，还要再渴；人若喝我所赐的水，就永远不渴。我所赐的水要在他里头成为泉源，直涌到永生。"',
-          text_en: 'Jesus said to her, "Everyone who drinks of this water will be thirsty again, but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life."',
+          text_en: 'Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again: But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.',
         },
         reflection: {
           zh: '撒马利亚妇人来井边打水，以为这只是日常需要。耶稣却揭示了她心灵深处更大的干渴。世界上的一切满足都是暂时的，唯有耶稣所赐的活水能在我们里面成为永不枯竭的泉源。',
@@ -91,7 +91,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 6:35',
           ref_en: 'John 6:35',
           text_zh: '耶稣说："我就是生命的粮。到我这里来的，必定不饿；信我的，永远不渴。"',
-          text_en: 'Jesus said to them, "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."',
+          text_en: 'And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.',
         },
         reflection: {
           zh: '人们追随耶稣是因为吃饼得饱，但耶稣指向更深的饥饿。他不仅赐下食物，他自己就是生命的粮。来到他面前、信靠他，我们灵魂最深的饥渴就得到满足。',
@@ -111,7 +111,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 8:12',
           ref_en: 'John 8:12',
           text_zh: '耶稣又对众人说："我是世界的光。跟从我的，就不在黑暗里走，必要得着生命的光。"',
-          text_en: 'Again Jesus spoke to them, saying, "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life."',
+          text_en: 'Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.',
         },
         reflection: {
           zh: '在住棚节的灯光仪式中，耶稣宣告自己是世界的光。黑暗代表迷失、罪恶和死亡，光代表方向、圣洁和生命。跟从耶稣的人不再在黑暗中摸索，因为他就是道路上的光。',
@@ -131,7 +131,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 8:32',
           ref_en: 'John 8:32',
           text_zh: '你们必晓得真理，真理必叫你们得以自由。',
-          text_en: 'And you will know the truth, and the truth will set you free.',
+          text_en: 'And ye shall know the truth, and the truth shall make you free.',
         },
         reflection: {
           zh: '耶稣所说的自由不是政治自由，而是从罪的捆绑中得释放。真理不是抽象的哲学概念，而是耶稣自己。当我们认识他、跟随他，罪的锁链就断开，我们在他里面得到真正的自由。',
@@ -151,7 +151,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 10:9',
           ref_en: 'John 10:9',
           text_zh: '我就是门；凡从我进来的，必然得救，并且出入得草吃。',
-          text_en: 'I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture.',
+          text_en: 'I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.',
         },
         reflection: {
           zh: '在古代，牧人自己就是羊圈的门，用身体挡住入口保护羊群。耶稣说他就是门，意味着他是唯一的入口，也是我们的保护。从他进来的人，必然得救，并且得到丰盛的供应。',
@@ -171,7 +171,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 10:11',
           ref_en: 'John 10:11',
           text_zh: '我是好牧人；好牧人为羊舍命。',
-          text_en: 'I am the good shepherd. The good shepherd lays down his life for the sheep.',
+          text_en: 'I am the good shepherd: the good shepherd giveth his life for the sheep.',
         },
         reflection: {
           zh: '雇工看到狼来就逃跑，因为羊不是他的。但好牧人与羊有生命的联结，他认识每一只羊，甚至愿意为羊舍命。耶稣不是被迫牺牲，而是甘心为我们舍命。',
@@ -191,7 +191,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 11:25-26',
           ref_en: 'John 11:25-26',
           text_zh: '耶稣对她说："复活在我，生命也在我。信我的人虽然死了，也必复活；凡活着信我的人必永远不死。你信这话吗？"',
-          text_en: 'Jesus said to her, "I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?"',
+          text_en: 'Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live: And whosoever liveth and believeth in me shall never die. Believest thou this?',
         },
         reflection: {
           zh: '在拉撒路坟墓前，马大悲痛欲绝。耶稣没有给出哲学安慰，而是宣告一个震撼的事实：复活和生命不是将来的事件，而是一个人——就是他自己。信他的人，死亡不是终点，而是通往永生的门。',
@@ -211,7 +211,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 13:14-15',
           ref_en: 'John 13:14-15',
           text_zh: '我是你们的主，你们的夫子，尚且洗你们的脚，你们也当彼此洗脚。我给你们作了榜样，叫你们照着我向你们所做的去做。',
-          text_en: 'If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another\'s feet. For I have given you an example, that you also should do just as I have done to you.',
+          text_en: 'If I then, your Lord and Master, have washed your feet; ye also ought to wash one another’s feet. For I have given you an example, that ye should do as I have done to you.',
         },
         reflection: {
           zh: '万王之王弯下腰来，为门徒洗脚。这不是一次作秀，而是一个颠覆世界价值观的宣告：真正的领袖是仆人，真正的伟大在于服侍。耶稣不仅教导谦卑，他活出了谦卑。',
@@ -231,7 +231,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 14:6',
           ref_en: 'John 14:6',
           text_zh: '耶稣说："我就是道路、真理、生命；若不藉着我，没有人能到父那里去。"',
-          text_en: 'Jesus said to him, "I am the way, and the truth, and the life. No one comes to the Father except through me."',
+          text_en: 'Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.',
         },
         reflection: {
           zh: '耶稣不是说他知道道路，而是说他就是道路。他不是指向真理，他就是真理。他不是赐予生命的途径之一，他就是生命本身。到父那里去只有一条路，就是通过耶稣基督。',
@@ -251,7 +251,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 15:1,5',
           ref_en: 'John 15:1,5',
           text_zh: '我是真葡萄树，我父是栽培的人。我是葡萄树，你们是枝子。常在我里面的，我也常在他里面，这人就多结果子；因为离了我，你们就不能做什么。',
-          text_en: '"I am the true vine, and my Father is the vinedresser. I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."',
+          text_en: 'I am the true vine, and my Father is the husbandman.',
         },
         reflection: {
           zh: '枝子离开葡萄树就会枯萎死亡。耶稣用这个比喻说明一个属灵的真理：我们的生命力、结果子的能力完全来自于与他的联合。不是靠自己的努力，而是靠住在他里面。',
@@ -271,7 +271,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 14:27',
           ref_en: 'John 14:27',
           text_zh: '我留下平安给你们；我将我的平安赐给你们。我所赐的，不像世人所赐的。你们心里不要忧愁，也不要胆怯。',
-          text_en: 'Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid.',
+          text_en: 'Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.',
         },
         reflection: {
           zh: '耶稣在被卖的那一夜，自己即将面对十字架的苦难，却把平安赐给门徒。这平安不像世界的平安依赖环境，而是超越环境的内在安稳。因为赐平安的主自己与我们同在。',
@@ -291,7 +291,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 16:33',
           ref_en: 'John 16:33',
           text_zh: '我将这些事告诉你们，是要叫你们在我里面有平安。在世上你们有苦难；但你们可以放心，我已经胜了世界。',
-          text_en: 'I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.',
+          text_en: 'These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.',
         },
         reflection: {
           zh: '耶稣没有应许我们在世上没有苦难，而是应许他已经胜了世界。苦难是真实的，但得胜更是确定的。我们的平安不是因为没有困难，而是因为在困难中有一位已经得胜的主与我们同在。',
@@ -320,7 +320,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 2:23-25',
           ref_en: 'Exodus 2:23-25',
           text_zh: '过了多年，埃及王死了。以色列人因做苦工，就叹息哀求，他们的哀声达于神。神听见他们的哀声，就记念他与亚伯拉罕、以撒、雅各所立的约。神看顾以色列人，也知道他们的苦情。',
-          text_en: 'During those many days the king of Egypt died, and the people of Israel groaned because of their slavery and cried out for help. Their cry for rescue from slavery came up to God. And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob. God saw the people of Israel—and God knew.',
+          text_en: 'And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage. And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob. And God looked upon the children of Israel, and God had respect unto them.',
         },
         reflection: {
           zh: '四百年的沉默不代表神的缺席。以色列人的哀声达于神——神听见了、记念了、看顾了、知道了。四个动词展现了神对受苦子民完全的关注。当我们以为神沉默时，他其实正在预备拯救。',
@@ -340,7 +340,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 3:5-6',
           ref_en: 'Exodus 3:5-6',
           text_zh: '神说："不要近前来。当把你脚上的鞋脱下来，因为你所站之地是圣地。"又说："我是你父亲的神，是亚伯拉罕的神，以撒的神，雅各的神。"摩西蒙上脸，因为怕看神。',
-          text_en: 'Then he said, "Do not come near; take your sandals off your feet, for the place on which you are standing is holy ground." And he said, "I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob." And Moses hid his face, for he was afraid to look at God.',
+          text_en: 'And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground. Moreover he said, I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God.',
         },
         reflection: {
           zh: '一丛燃烧却不被烧毁的荆棘，成了神显现的地方。旷野中最平凡的角落因神的同在而成为圣地。摩西被呼召脱鞋，因为站在圣洁的神面前需要敬畏。神亲自向他启示自己的身份。',
@@ -360,7 +360,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 3:14',
           ref_en: 'Exodus 3:14',
           text_zh: '神对摩西说："我是自有永有的。"又说："你要对以色列人这样说：‘那自有的打发我到你们这里来。’”',
-          text_en: 'God said to Moses, "I AM WHO I AM." And he said, "Say this to the people of Israel: \'I AM has sent me to you.\'"',
+          text_en: 'And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.',
         },
         reflection: {
           zh: '"我是自有永有的"——这是神最核心的自我启示。他不依赖任何事物而存在，他是一切存在的源头。这个名字意味着他的信实——过去如此，现在如此，将来也如此。他永不改变。',
@@ -380,7 +380,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 5:1',
           ref_en: 'Exodus 5:1',
           text_zh: '后来摩西、亚伦去对法老说："耶和华以色列的神这样说：‘容我的百姓去，在旷野向我守节。’”',
-          text_en: 'Afterward Moses and Aaron went and said to Pharaoh, "Thus says the LORD, the God of Israel, \'Let my people go, that they may hold a feast to me in the wilderness.\'"',
+          text_en: 'And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.',
         },
         reflection: {
           zh: '"容我的百姓去"——这是神主权的宣告。以色列人不属于法老，他们属于神。神要释放他的百姓，不是为了让他们自由散漫，而是为了让他们来敬拜他。真正的自由是脱离罪的辖制，归向神。',
@@ -400,7 +400,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 12:13',
           ref_en: 'Exodus 12:13',
           text_zh: '这血要在你们所住的房屋上作记号；我一见这血，就越过你们去。我击杀埃及地头生的时候，灾殃必不临到你们身上灭你们。',
-          text_en: 'The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt.',
+          text_en: 'And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.',
         },
         reflection: {
           zh: '逾越节的血是保护的记号。审判临到全地时，唯有门框上涂了羔羊之血的家庭得免灾殃。这血预表了基督的宝血——我们得救不是靠自己的善行，而是靠羔羊的血遮盖。',
@@ -420,7 +420,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 14:21-22',
           ref_en: 'Exodus 14:21-22',
           text_zh: '摩西向海伸杖，耶和华便用大东风，使海水一夜退去，水便分开，海就成了干地。以色列人下海中走干地，水在他们的左右作了墙垣。',
-          text_en: 'Then Moses stretched out his hand over the sea, and the LORD drove the sea back by a strong east wind all night and made the sea dry land, and the waters were divided. And the people of Israel went into the midst of the sea on dry ground, the waters being a wall to them on their right hand and on their left.',
+          text_en: 'And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided. And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left.',
         },
         reflection: {
           zh: '前有红海，后有追兵，这是绝境。但神的能力超越一切不可能。他使海水分开，使深渊成为道路。在我们看来无路可走的时候，神能在水中开道路。',
@@ -440,7 +440,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 15:1-2',
           ref_en: 'Exodus 15:1-2',
           text_zh: '那时，摩西和以色列人向耶和华唱歌说："我要向耶和华歌唱，因他大大战胜；将马和骑马的投在海中。耶和华是我的力量，我的诗歌，也成了我的拯救。这是我的神，我要赞美他，是我父亲的神，我要尊崇他。"',
-          text_en: 'Then Moses and the people of Israel sang this song to the LORD, saying, "I will sing to the LORD, for he has triumphed gloriously; the horse and his rider he has thrown into the sea. The LORD is my strength and my song, and he has become my salvation; this is my God, and I will praise him, my father\'s God, and I will exalt him."',
+          text_en: 'Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea. The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father’s God, and I will exalt him.',
         },
         reflection: {
           zh: '过了红海，以色列人回望神的大能作为，不禁发出赞美。这首歌不是彩排过的，而是亲身经历拯救之后，从心灵深处涌流出来的感恩。最美的赞美来自亲身经历神拯救的人。',
@@ -460,7 +460,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 16:4',
           ref_en: 'Exodus 16:4',
           text_zh: '耶和华对摩西说："我要将粮食从天降给你们。百姓可以出去，每天收每天的分，我好试验他们遵不遵我的法度。"',
-          text_en: 'Then the LORD said to Moses, "Behold, I am about to rain bread from heaven for you, and the people shall go out and gather a day\'s portion every day, that I may test them, whether they will walk in my law or not."',
+          text_en: 'Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.',
         },
         reflection: {
           zh: '神在旷野降下吗哪，每天供应所需。不多不少，刚刚好。不能囤积，必须每天领取。这教导我们信靠神每日的供应，而非依赖自己的积蓄。日用的饮食，今日赐给我们。',
@@ -480,7 +480,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 17:6',
           ref_en: 'Exodus 17:6',
           text_zh: '我必在何烈的磐石那里，站在你面前。你要击打磐石，从磐石里必有水流出来，使百姓可以喝。摩西就在以色列的长老眼前这样行了。',
-          text_en: '"Behold, I will stand before you there on the rock at Horeb, and you shall strike the rock, and water shall come out of it, and the people will drink." And Moses did so, in the sight of the elders of Israel.',
+          text_en: 'Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.',
         },
         reflection: {
           zh: '旷野没有水，百姓向摩西发怨言。但神说他要站在磐石上——神自己站在那里承受击打。保罗告诉我们，那磐石就是基督。从被击打的磐石中流出活水，从被钉十架的基督里流出生命。',
@@ -500,7 +500,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 20:1-3',
           ref_en: 'Exodus 20:1-3',
           text_zh: '神吩咐这一切的话说："我是耶和华你的神，曾将你从埃及地为奴之家领出来。除了我以外，你不可有别的神。"',
-          text_en: 'And God spoke all these words, saying, "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. You shall have no other gods before me."',
+          text_en: 'And God spake all these words, saying, I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me.',
         },
         reflection: {
           zh: '十诫不是冰冷的法律条文，而是以关系为基础的盟约。神先宣告他的身份和恩典——"我是拯救你的神"——然后才给出要求。顺服是对恩典的回应，不是赚取恩典的手段。',
@@ -520,7 +520,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 20:3-5',
           ref_en: 'Exodus 20:3-5',
           text_zh: '除了我以外，你不可有别的神。不可为自己雕刻偶像，也不可做什么形像仿佛上天、下地，和地底下、水中的百物。不可跪拜那些像，也不可侍奉他，因为我耶和华你的神是忌邪的神。',
-          text_en: '"You shall have no other gods before me. You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. You shall not bow down to them or serve them, for I the LORD your God am a jealous God."',
+          text_en: 'Thou shalt have no other gods before me. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;',
         },
         reflection: {
           zh: '神是"忌邪的神"——这不是人类的嫉妒，而是对专一关系的坚持。就像配偶不容许第三者介入一样，神不容许我们将心分给偶像。偶像不只是木石雕刻，任何取代神在我们心中首位的事物都是偶像。',
@@ -540,7 +540,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 32:7-8',
           ref_en: 'Exodus 32:7-8',
           text_zh: '耶和华吩咐摩西说："下去吧，因为你的百姓，就是你从埃及地领出来的，已经败坏了。他们快快偏离了我所吩咐的道，为自己铸了一只牛犊，向它下拜献祭，说：‘以色列啊，这就是领你出埃及地的神。’”',
-          text_en: 'And the LORD said to Moses, "Go down, for your people, whom you brought up out of the land of Egypt, have corrupted themselves. They have turned aside quickly out of the way that I commanded them. They have made for themselves a golden calf and have worshiped it and sacrificed to it and said, \'These are your gods, O Israel, who brought you up out of the land of Egypt!\'"',
+          text_en: 'And the LORD said unto Moses, Go, get thee down; for thy people, which thou broughtest out of the land of Egypt, have corrupted themselves: They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These be thy gods, O Israel, which have brought thee up out of the land of Egypt.',
         },
         reflection: {
           zh: '以色列人才刚经历了红海的神迹，就铸了金牛犊。他们"快快偏离"——背离神竟是如此容易。这提醒我们，属灵的记忆很短暂。我们需要每天更新与神的关系，警醒不偏离。',
@@ -560,7 +560,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 33:18-19; 34:6',
           ref_en: 'Exodus 33:18-19; 34:6',
           text_zh: '摩西说："求你显出你的荣耀给我看。"耶和华说："我要显我一切的恩慈，在你面前经过，宣告我的名。"耶和华在他面前宣告说："耶和华，耶和华，是有怜悯有恩典的神，不轻易发怒，并有丰盛的慈爱和诚实。"',
-          text_en: 'Moses said, "Please show me your glory." And he said, "I will make all my goodness pass before you and will proclaim before you my name \'The LORD.\'" The LORD passed before him and proclaimed, "The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness."',
+          text_en: 'And he said, I beseech thee, shew me thy glory. And he said, I will make all my goodness pass before thee, and I will proclaim the name of the LORD before thee; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy.',
         },
         reflection: {
           zh: '摩西求看神的荣耀，神用什么来回应？不是雷电交加的能力展示，而是宣告自己的品格：怜悯、恩典、忍耐、慈爱、诚实。神的荣耀最深刻的彰显，就是他的恩慈品格。',
@@ -580,7 +580,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 40:34',
           ref_en: 'Exodus 40:34',
           text_zh: '当时，云彩遮盖会幕，耶和华的荣光就充满了帐幕。',
-          text_en: 'Then the cloud covered the tent of meeting, and the glory of the LORD filled the tabernacle.',
+          text_en: 'Then a cloud covered the tent of the congregation, and the glory of the LORD filled the tabernacle.',
         },
         reflection: {
           zh: '会幕建成了，神的荣光就充满其中。这是整卷出埃及记的高潮：神不仅拯救了他的百姓，更要住在他们中间。从此，以色列人不再孤独行路，因为神的同在与他们一同前行。',
@@ -600,7 +600,7 @@ export const themesB10 = [
           ref_zh: '出埃及记 33:14',
           ref_en: 'Exodus 33:14',
           text_zh: '耶和华说："我必亲自和你同去，使你得安息。"',
-          text_en: 'And he said, "My presence will go with you, and I will give you rest."',
+          text_en: 'And he said, My presence shall go with thee, and I will give thee rest.',
         },
         reflection: {
           zh: '在漫长的旷野旅程中，神给摩西最宝贵的应许不是黄金铺路、风调雨顺，而是"我必亲自和你同去"。有神同在，旷野也变成恩典之路；有神同行，我们就有安息。',
@@ -629,7 +629,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 1:3',
           ref_en: 'Ephesians 1:3',
           text_zh: '愿颂赞归与我们主耶稣基督的父神！他在基督里曾赐给我们天上各样属灵的福气。',
-          text_en: 'Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places.',
+          text_en: 'Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:',
         },
         reflection: {
           zh: '保罗没有说神"将要赐"或"可能赐"，而是说"曾赐给"——过去完成式。在基督里，天上各样属灵的福气已经是我们的了。我们不是缺乏的乞丐，而是已经拥有一切属灵丰盛的神的儿女。',
@@ -649,7 +649,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 1:4-5',
           ref_en: 'Ephesians 1:4-5',
           text_zh: '就如神从创立世界以前，在基督里拣选了我们，使我们在他面前成为圣洁，无有瑕疵；又因爱我们，就按着自己意旨所喜悦的，预定我们藉着耶稣基督得儿子的名分。',
-          text_en: 'Even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love he predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will.',
+          text_en: 'According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,',
         },
         reflection: {
           zh: '在世界被造之前，神就已经拣选了我们。这不是事后的补救计划，而是永恒中的爱的旨意。我们被拣选的目的是成为圣洁，被预定的身份是神的儿女。这一切都因为爱。',
@@ -669,7 +669,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 1:13-14',
           ref_en: 'Ephesians 1:13-14',
           text_zh: '你们既听见真理的道，就是那叫你们得救的福音，也信了基督，既然信他，就受了所应许的圣灵为印记。这圣灵是我们得基业的凭据，直等到神之民被赎，使他的荣耀得着称赞。',
-          text_en: 'In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.',
+          text_en: 'In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise, Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.',
         },
         reflection: {
           zh: '圣灵是神给我们的印记和凭据。印记表示所有权——我们属于神；凭据表示保证——将来的基业是确定的。圣灵住在我们里面，就是神对我们说："你是我的，我必不丢弃你。"',
@@ -689,7 +689,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 1:7-8',
           ref_en: 'Ephesians 1:7-8',
           text_zh: '我们藉这爱子的血得蒙救赎，过犯得以赦免，乃是照他丰富的恩典。这恩典是神用诸般智慧聪明，充充足足赏给我们的。',
-          text_en: 'In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace, which he lavished upon us, in all wisdom and insight.',
+          text_en: 'In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace; Wherein he hath abounded toward us in all wisdom and prudence;',
         },
         reflection: {
           zh: '我们的救赎不是廉价的——代价是基督的宝血。但神赐给我们恩典不是吝啬地施舍，而是"充充足足赏给"。这恩典之丰富，不是涓涓细流，而是汹涌澎湃的洪流。',
@@ -709,7 +709,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 2:1,4-5',
           ref_en: 'Ephesians 2:1,4-5',
           text_zh: '你们死在过犯罪恶之中，他叫你们活过来。然而，神既有丰富的怜悯，因他爱我们的大爱，当我们死在过犯中的时候，便叫我们与基督一同活过来。你们得救是本乎恩。',
-          text_en: 'And you were dead in the trespasses and sins. But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved.',
+          text_en: 'And you hath he quickened, who were dead in trespasses and sins;',
         },
         reflection: {
           zh: '"然而，神……"——这两个字改变了一切。我们原是死在罪中的人，没有能力自救。但神的怜悯和大爱临到了我们。不是我们寻找神，是神在我们还死的时候就使我们活过来。',
@@ -729,7 +729,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 2:8-9',
           ref_en: 'Ephesians 2:8-9',
           text_zh: '你们得救是本乎恩，也因着信；这并不是出于自己，乃是神所赐的；也不是出于行为，免得有人自夸。',
-          text_en: 'For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.',
+          text_en: 'For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.',
         },
         reflection: {
           zh: '得救完全是恩典的礼物。不是我们的信心有多大，不是我们的行为有多好，而是神白白的赐予。保罗特别强调"免得有人自夸"——救恩排除了一切人的功劳，将一切荣耀归给神。',
@@ -749,7 +749,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 2:10',
           ref_en: 'Ephesians 2:10',
           text_zh: '我们原是他的工作，在基督耶稣里造成的，为要叫我们行善，就是神所预备叫我们行的。',
-          text_en: 'For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.',
+          text_en: 'For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.',
         },
         reflection: {
           zh: '我们不是靠行善得救，却是为了行善被造。我们是神的"工作"（希腊文poiema，杰作）。每个信徒都是神精心创造的艺术品，有神预备好的善工等待我们去行。你的人生有神独特的设计。',
@@ -769,7 +769,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 2:13',
           ref_en: 'Ephesians 2:13',
           text_zh: '你们从前远离神的人，如今却在基督耶稣里，靠着他的血，已经得亲近了。',
-          text_en: 'But now in Christ Jesus you who once were far off have been brought near by the blood of Christ.',
+          text_en: 'But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.',
         },
         reflection: {
           zh: '"从前远离"——"如今得亲近"。这是每个信徒生命中最大的转变。我们曾经与神隔绝，没有指望，但基督的血打破了一切隔墙。如今我们可以坦然无惧地来到神面前。',
@@ -789,7 +789,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 4:4-6',
           ref_en: 'Ephesians 4:4-6',
           text_zh: '身体只有一个，圣灵只有一个，正如你们蒙召同有一个指望。一主，一信，一洗，一神，就是众人的父，超乎众人之上，贯乎众人之中，也住在众人之内。',
-          text_en: 'There is one body and one Spirit—just as you were called to the one hope that belongs to your call—one Lord, one faith, one baptism, one God and Father of all, who is over all and through all and in all.',
+          text_en: 'There is one body, and one Spirit, even as ye are called in one hope of your calling; One Lord, one faith, one baptism, One God and Father of all, who is above all, and through all, and in you all.',
         },
         reflection: {
           zh: '保罗用七个"一"来描述教会合一的根基：一个身体、一个圣灵、一个指望、一主、一信、一洗、一神。教会的合一不是人为的组织统一，而是基于我们共同的信仰根基。',
@@ -809,7 +809,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 4:15',
           ref_en: 'Ephesians 4:15',
           text_zh: '惟用爱心说诚实话，凡事长进，连于元首基督。',
-          text_en: 'Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ.',
+          text_en: 'But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:',
         },
         reflection: {
           zh: '真理没有爱就变得生硬伤人；爱没有真理就变得软弱妥协。保罗呼吁我们"用爱心说诚实话"——两者缺一不可。这样的生命才能在基督里长进成熟。',
@@ -829,7 +829,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 4:22-24',
           ref_en: 'Ephesians 4:22-24',
           text_zh: '就要脱去你们从前行为上的旧人，这旧人是因私欲的迷惑渐渐变坏的；又要将你们的心志改换一新，并且穿上新人；这新人是照着神的形像造的，有真理的仁义和圣洁。',
-          text_en: 'To put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires, and to be renewed in the spirit of your minds, and to put on the new self, created after the likeness of God in true righteousness and holiness.',
+          text_en: 'That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts; And be renewed in the spirit of your mind; And that ye put on the new man, which after God is created in righteousness and true holiness.',
         },
         reflection: {
           zh: '基督徒生命的更新像换衣服：脱去旧人，穿上新人。旧人受私欲迷惑，渐渐变坏；新人照神的形像造成，有真理的仁义和圣洁。这不是一次性的行为，而是每天的操练。',
@@ -849,7 +849,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 5:1-2',
           ref_en: 'Ephesians 5:1-2',
           text_zh: '所以你们该效法神，好像蒙慈爱的儿女一样。也要凭爱心行事，正如基督爱我们，为我们舍了自己，当作馨香的供物和祭物，献与神。',
-          text_en: 'Therefore be imitators of God, as beloved children. And walk in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God.',
+          text_en: 'Be ye therefore followers of God, as dear children; And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.',
         },
         reflection: {
           zh: '效法神——这是何等大胆的呼召！但保罗的根据是：我们是"蒙慈爱的儿女"。孩子自然模仿父亲，因为有爱的关系。基督为我们舍己的爱是我们效法的标杆。',
@@ -869,7 +869,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 5:25',
           ref_en: 'Ephesians 5:25',
           text_zh: '你们作丈夫的，要爱你们的妻子，正如基督爱教会，为教会舍己。',
-          text_en: 'Husbands, love your wives, as Christ loved the church and gave himself up for her.',
+          text_en: 'Husbands, love your wives, even as Christ also loved the church, and gave himself for it;',
         },
         reflection: {
           zh: '丈夫爱妻子的标准是什么？是基督爱教会的方式——舍己。这不是控制或支配，而是牺牲和服侍。基督为教会死，丈夫也被呼召为妻子的益处而牺牲自己。婚姻反映了基督与教会的关系。',
@@ -889,7 +889,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 6:1-3',
           ref_en: 'Ephesians 6:1-3',
           text_zh: '你们作儿女的，要在主里听从父母，这是理所当然的。要孝敬父母，使你得福，在世长寿。这是第一条带应许的诫命。',
-          text_en: 'Children, obey your parents in the Lord, for this is right. "Honor your father and mother" (this is the first commandment with a promise), "that it may go well with you and that you may live long in the land."',
+          text_en: 'Children, obey your parents in the Lord: for this is right. Honour thy father and mother; which is the first commandment with promise; That it may be well with thee, and thou mayest live long on the earth.',
         },
         reflection: {
           zh: '"在主里听从父母"——顺服父母不是盲从，而是在主里面的顺服。孝敬父母是第一条带应许的诫命。神看重家庭秩序，也应许那些尊敬父母的人得到祝福。',
@@ -909,7 +909,7 @@ export const themesB10 = [
           ref_zh: '以弗所书 6:10-11',
           ref_en: 'Ephesians 6:10-11',
           text_zh: '我还有末了的话：你们要靠着主，倚赖他的大能大力作刚强的人。要穿戴神所赐的全副军装，就能抵挡魔鬼的诡计。',
-          text_en: 'Finally, be strong in the Lord and in the strength of his might. Put on the whole armor of God, that you may be able to stand against the schemes of the devil.',
+          text_en: 'Finally, my brethren, be strong in the Lord, and in the power of his might. Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.',
         },
         reflection: {
           zh: '基督徒的生命是一场属灵的争战。保罗没有说"靠自己的意志力"，而是说"靠着主，倚赖他的大能大力"。同时，我们需要穿戴全副军装——这说明争战是真实的，但装备也是充分的。',
@@ -938,7 +938,7 @@ export const themesB10 = [
           ref_zh: '创世记 3:15',
           ref_en: 'Genesis 3:15',
           text_zh: '我又要叫你和女人彼此为仇；你的后裔和女人的后裔也彼此为仇。女人的后裔要伤你的头；你要伤他的脚跟。',
-          text_en: 'I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.',
+          text_en: 'And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.',
         },
         reflection: {
           zh: '在人类堕落的最黑暗时刻，神就已经发出了救赎的应许。"女人的后裔"要伤蛇的头——这是圣经中第一个弥赛亚预言。从伊甸园开始，神的救赎计划就已经展开，指向那位将要来的基督。',
@@ -958,7 +958,7 @@ export const themesB10 = [
           ref_zh: '民数记 24:17',
           ref_en: 'Numbers 24:17',
           text_zh: '我看他却不在现时；我望他却不在近日。有星要出于雅各，有杖要兴于以色列。',
-          text_en: 'I see him, but not now; I behold him, but not near: a star shall come out of Jacob, and a scepter shall rise out of Israel.',
+          text_en: 'I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.',
         },
         reflection: {
           zh: '巴兰虽是一个不完美的先知，却被神使用说出弥赛亚的预言。"有星要出于雅各"——这颗星不是普通的天文现象，而是指向那位从以色列而出的君王。几千年后，东方博士追随一颗星来到伯利恒。',
@@ -978,7 +978,7 @@ export const themesB10 = [
           ref_zh: '以赛亚书 7:14',
           ref_en: 'Isaiah 7:14',
           text_zh: '因此，主自己要给你们一个兆头，必有童女怀孕生子，给他起名叫以马内利。',
-          text_en: 'Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel.',
+          text_en: 'Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.',
         },
         reflection: {
           zh: '"以马内利"——神与我们同在。这不仅是一个名字，更是整个救赎故事的核心。神没有远远地观望人类的痛苦，他亲自来到我们中间。童女怀孕的神迹表明，这位孩子的来源是超自然的——他是神自己。',
@@ -998,7 +998,7 @@ export const themesB10 = [
           ref_zh: '以赛亚书 9:6',
           ref_en: 'Isaiah 9:6',
           text_zh: '因有一婴孩为我们而生；有一子赐给我们。政权必担在他的肩头上；他名称为"奇妙策士、全能的神、永在的父、和平的君"。',
-          text_en: 'For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.',
+          text_en: 'For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.',
         },
         reflection: {
           zh: '一个婴孩，却拥有四个超凡的名号：奇妙策士、全能的神、永在的父、和平的君。这位孩子既是完全的人，又是完全的神。他肩负的不是世俗的政权，而是永恒的国度。',
@@ -1018,7 +1018,7 @@ export const themesB10 = [
           ref_zh: '弥迦书 5:2',
           ref_en: 'Micah 5:2',
           text_zh: '伯利恒以法他啊，你在犹大诸城中为小，将来必有一位从你那里出来，在以色列中为我作掌权的；他的根源从亘古，从太初就有。',
-          text_en: 'But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days.',
+          text_en: 'But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.',
         },
         reflection: {
           zh: '伯利恒是犹大最小的城，却被神拣选为弥赛亚的出生地。神常常拣选世人看为卑微的来成就他的旨意。这位从小城出来的掌权者，他的根源却是从亘古、从太初就有的——他是永恒的神。',
@@ -1038,7 +1038,7 @@ export const themesB10 = [
           ref_zh: '路加福音 1:30-33',
           ref_en: 'Luke 1:30-33',
           text_zh: '天使对她说："马利亚，不要怕！你在神面前已经蒙恩了。你要怀孕生子，可以给他起名叫耶稣。他要为大，称为至高者的儿子；主神要把他祖大卫的位给他。他要作雅各家的王，直到永远；他的国也没有穷尽。"',
-          text_en: 'And the angel said to her, "Do not be afraid, Mary, for you have found favor with God. And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus. He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever, and of his kingdom there will be no end."',
+          text_en: 'And the angel said unto her, Fear not, Mary: for thou hast found favour with God. And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS. He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David: And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.',
         },
         reflection: {
           zh: '天使加百列带来了人类历史上最重大的消息：至高者的儿子要降生为人。马利亚是一个平凡的少女，却被神拣选承载这不平凡的使命。"不要怕"——面对超自然的呼召，神的第一句话总是安慰。',
@@ -1058,7 +1058,7 @@ export const themesB10 = [
           ref_zh: '路加福音 1:46-49',
           ref_en: 'Luke 1:46-49',
           text_zh: '马利亚说："我心尊主为大；我灵以神我的救主为乐；因为他顾念他使女的卑微；从今以后，万代要称我有福。那全能者为我成就了大事；他的名为圣。"',
-          text_en: 'And Mary said, "My soul magnifies the Lord, and my spirit rejoices in God my Savior, for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed; for he who is mighty has done great things for me, and holy is his name."',
+          text_en: 'And Mary said, My soul doth magnify the Lord, And my spirit hath rejoiced in God my Saviour. For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed. For he that is mighty hath done to me great things; and holy is his name.',
         },
         reflection: {
           zh: '马利亚的颂歌（尊主颂）不是因为自己的功劳，而是因为神的恩典。她承认自己的卑微，却因全能者的作为而欢喜。真正的敬拜就是将目光从自己转向神，看见他为我们所成就的大事。',
@@ -1078,7 +1078,7 @@ export const themesB10 = [
           ref_zh: '马太福音 1:20-23',
           ref_en: 'Matthew 1:20-23',
           text_zh: '正思念这事的时候，有主的使者向他梦中显现，说："大卫的子孙约瑟，不要怕！只管娶过你的妻子马利亚来，因她所怀的孕是从圣灵来的。她将要生一个儿子，你要给他起名叫耶稣，因他要将自己的百姓从罪恶里救出来。"这一切的事成就是要应验主藉先知所说的话，说："必有童女怀孕生子；人要称他的名为以马内利。"',
-          text_en: 'But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not be afraid to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins." All this took place to fulfill what the Lord had spoken by the prophet: "Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel."',
+          text_en: 'But while he thought on these things, behold, the angel of the LORD appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost. And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins. Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying, Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.',
         },
         reflection: {
           zh: '约瑟面临巨大的困惑和社会压力，但天使的话让他明白：这一切都是神的计划。"耶稣"这名字的意思是"耶和华拯救"——他来的目的明确：将百姓从罪恶里救出来。约瑟顺服了，成为神计划中忠实的合作者。',
@@ -1098,7 +1098,7 @@ export const themesB10 = [
           ref_zh: '路加福音 2:6-7',
           ref_en: 'Luke 2:6-7',
           text_zh: '他们在那里的时候，马利亚的产期到了，就生了头胎的儿子，用布包起来，放在马槽里，因为客店里没有地方。',
-          text_en: 'And while they were there, the time came for her to give birth. And she gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn.',
+          text_en: 'And so it was, that, while they were there, the days were accomplished that she should be delivered. And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.',
         },
         reflection: {
           zh: '万王之王不是降生在皇宫，而是在马槽。客店里没有地方给他——从他来到世上的第一刻，就经历了被拒绝。但正是这份卑微彰显了恩典的伟大：神成为最渺小的，为要拯救最卑微的。',
@@ -1118,7 +1118,7 @@ export const themesB10 = [
           ref_zh: '路加福音 2:10-11',
           ref_en: 'Luke 2:10-11',
           text_zh: '那天使对他们说："不要惧怕！我报给你们大喜的信息，是关乎万民的；因今天在大卫的城里，为你们生了救主，就是主基督。"',
-          text_en: 'And the angel said to them, "Fear not, for behold, I bring you good news of great joy that will be for all the people. For unto you is born this day in the city of David a Savior, who is Christ the Lord."',
+          text_en: 'And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people. For unto you is born this day in the city of David a Saviour, which is Christ the Lord.',
         },
         reflection: {
           zh: '这大喜的信息不是先告诉祭司或君王，而是告诉了旷野中的牧羊人——社会最底层的人。福音是"关乎万民的"，没有人被排除在外。救主来了，不是为精英，而是为所有人。',
@@ -1138,7 +1138,7 @@ export const themesB10 = [
           ref_zh: '路加福音 2:14',
           ref_en: 'Luke 2:14',
           text_zh: '在至高之处荣耀归与神！在地上平安归与他所喜悦的人！',
-          text_en: 'Glory to God in the highest, and on earth peace among those with whom he is pleased!',
+          text_en: 'Glory to God in the highest, and on earth peace, good will toward men.',
         },
         reflection: {
           zh: '天使的颂歌连接了天与地：天上有神的荣耀，地上有人的平安。基督的降生使天地相连——神的荣耀不再遥不可及，人间的平安不再是空想。因为神自己来到了地上。',
@@ -1158,7 +1158,7 @@ export const themesB10 = [
           ref_zh: '马太福音 2:10-11',
           ref_en: 'Matthew 2:10-11',
           text_zh: '他们看见那星，就大大地欢喜；进了房子，看见小孩子和他母亲马利亚，就俯伏拜那小孩子，揭开宝盒，拿黄金、乳香、没药为礼物献给他。',
-          text_en: 'When they saw the star, they rejoiced exceedingly with great joy. And going into the house, they saw the child with Mary his mother, and they fell down and worshiped him. Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh.',
+          text_en: 'When they saw the star, they rejoiced with exceeding great joy. And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.',
         },
         reflection: {
           zh: '东方博士跋涉千里来朝拜这位婴孩。他们带来三样礼物：黄金象征他的王权，乳香象征他的神性，没药预示他的受难。真正的敬拜伴随着代价——博士们献上了最珍贵的。',
@@ -1178,7 +1178,7 @@ export const themesB10 = [
           ref_zh: '约翰福音 1:14',
           ref_en: 'John 1:14',
           text_zh: '道成了肉身，住在我们中间，充充满满地有恩典有真理。我们也见过他的荣光，正是父独生子的荣光。',
-          text_en: 'And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.',
+          text_en: 'And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.',
         },
         reflection: {
           zh: '约翰用最简洁有力的话概括了道成肉身的奥秘："道成了肉身。"永恒的道——创造万物的那一位——成为了有血有肉的人，住在我们中间。他没有失去神性，却完全拥有了人性。这是最伟大的降卑，也是最深的爱。',
@@ -1198,7 +1198,7 @@ export const themesB10 = [
           ref_zh: '加拉太书 4:4-5',
           ref_en: 'Galatians 4:4-5',
           text_zh: '及至时候满足，神就差遣他的儿子，为女子所生，且生在律法以下，要把律法以下的人赎出来，叫我们得着儿子的名分。',
-          text_en: 'But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons.',
+          text_en: 'But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, To redeem them that were under the law, that we might receive the adoption of sons.',
         },
         reflection: {
           zh: '"时候满足"——神的时间表从不迟到。基督在历史中最完美的时刻降临，不早不晚。他生在律法以下，是为了把律法以下的人赎出来。他成为我们的样式，是为了使我们得着儿子的名分。',
@@ -1218,7 +1218,7 @@ export const themesB10 = [
           ref_zh: '腓立比书 2:9-11',
           ref_en: 'Philippians 2:9-11',
           text_zh: '所以，神将他升为至高，又赐给他那超乎万名之上的名，叫一切在天上的、地上的，和地底下的，因耶稣的名无不屈膝，无不口称"耶稣基督为主"，使荣耀归与父神。',
-          text_en: 'Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.',
+          text_en: 'Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.',
         },
         reflection: {
           zh: '从马槽到十字架，从十字架到宝座——这是基督的旅程。因为他降卑到最低处，所以神将他升到最高处。"耶稣基督为主"——这是宇宙中最终极的宣告。有一天，万膝都要跪拜，万口都要承认。',
