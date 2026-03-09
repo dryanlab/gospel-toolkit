@@ -315,7 +315,7 @@ export default function ReadingsPage() {
       <div className="mb-8">
         <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🔥 最新伴读 Latest</h2>
         <div className="space-y-3">
-          {[...readings].filter(r => isPublished(r.publishDate)).reverse().slice(0, 5).map((item, i) => {
+          {[...readings].filter(r => isPublished(r.publishDate)).sort((a, b) => new Date(b.publishDate).getTime() - new Date(a.publishDate).getTime()).slice(0, 5).map((item, i) => {
             const chRead = isReadLocal(item.bookEn.toLowerCase(), item.chapter);
             return (
             <Link
