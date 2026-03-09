@@ -139,7 +139,7 @@ export default function TodayUpdate() {
 
   return (
     <Link href={content.href} className="block group mb-6">
-      <div className="rounded-2xl bg-gradient-to-r from-emerald-700 via-teal-600 to-emerald-600 dark:from-emerald-800 dark:via-teal-700 dark:to-emerald-700 px-6 min-h-[88px] py-4 flex items-center gap-4 transition-all hover:shadow-lg hover:-translate-y-0.5 shadow-md">
+      <div className="rounded-2xl bg-gradient-to-r from-emerald-700 via-teal-600 to-emerald-600 dark:from-emerald-800 dark:via-teal-700 dark:to-emerald-700 px-6 h-[108px] py-4 flex items-center gap-4 transition-all hover:shadow-lg hover:-translate-y-0.5 shadow-md">
         <span className="text-4xl shrink-0">🔔</span>
         <div className="flex-1 min-w-0">
           <p className="text-white/70 text-xs">{dateZh}</p>

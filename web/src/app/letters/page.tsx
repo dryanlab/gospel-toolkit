@@ -1,6 +1,6 @@
 'use client';
 
-import { isPublished, useHydrated } from '@/lib/preview';
+import { isPreview, isPublished, useHydrated } from '@/lib/preview';
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { letters as staticLetters, categoryLabels } from '@/data/letters';
@@ -28,9 +28,14 @@ export default function LettersPage() {
     });
   }, []);
 
+  // In production, hide unpublished letters completely
+  const preview = typeof window !== 'undefined' && isPreview() ? true : false;
+  const visible = hydrated && !preview
+    ? letters.filter(l => isPublished(l.date))
+    : letters;
   const filtered = activeCategory === 'all'
-    ? letters
-    : letters.filter(l => l.category === activeCategory);
+    ? visible
+    : visible.filter(l => l.category === activeCategory);
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
@@ -72,7 +77,7 @@ export default function LettersPage() {
           const label = cat === 'all'
             ? { zh: '全部', en: 'All', icon: '📋' }
             : categoryLabels[cat];
-          const count = cat === 'all' ? letters.length : letters.filter(l => l.category === cat).length;
+          const count = cat === 'all' ? visible.length : visible.filter(l => l.category === cat).length;
           return (
             <button
               key={cat}
