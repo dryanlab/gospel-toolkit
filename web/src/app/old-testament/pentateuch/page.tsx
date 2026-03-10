@@ -11,6 +11,7 @@ const books: BibleBook[] = [
     id: 'genesis',
     name_zh: '创世记',
     name_en: 'Genesis',
+    guideHref: '/old-testament/pentateuch/genesis',
     author_zh: '摩西',
     author_en: 'Moses',
     date: '约公元前1446-1406年',
@@ -25,6 +26,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'exodus',
+    guideHref: '/old-testament/pentateuch/exodus',
     name_zh: '出埃及记',
     name_en: 'Exodus',
     author_zh: '摩西',
@@ -41,6 +43,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'leviticus',
+    guideHref: '/old-testament/pentateuch/leviticus',
     name_zh: '利未记',
     name_en: 'Leviticus',
     author_zh: '摩西',
@@ -57,6 +60,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'numbers',
+    guideHref: '/old-testament/pentateuch/numbers',
     name_zh: '民数记',
     name_en: 'Numbers',
     author_zh: '摩西',
@@ -73,6 +77,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'deuteronomy',
+    guideHref: '/old-testament/pentateuch/deuteronomy',
     name_zh: '申命记',
     name_en: 'Deuteronomy',
     author_zh: '摩西',

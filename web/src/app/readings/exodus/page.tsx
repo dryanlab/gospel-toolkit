@@ -5,6 +5,7 @@ import type { Metadata } from 'next';
 
 const exodusConfig: BookConfig = {
   bookId: 'exodus',
+  guideHref: '/old-testament/pentateuch/exodus',
   bookZh: '出埃及记',
   bookEn: 'Exodus',
   bibleId: 'EXO',

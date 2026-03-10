@@ -24,6 +24,7 @@ export interface BookConfig {
   introZh: string;      // 中文介绍
   introEn: string;      // 英文介绍
   isTopicBased?: boolean; // true for psalms/proverbs (not sequential)
+  guideHref?: string;    // link to detailed book guide page
 }
 
 // --- Read mark helpers ---
@@ -126,7 +127,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
         merged.sort((a, b) => a.chapter - b.chapter);
         setChapters(merged);
       }
-    });
+    }).catch(() => {/* API unavailable, use static data */});
   }, []);
 
   useEffect(() => {
@@ -141,20 +142,21 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
     if (staticCh && isChPublished) {
       setCh(staticCh);
       fetchReading(bookEn, staticCh.chapter).then(apiCh => {
-        if (apiCh) {
+        if (apiCh && apiCh.content_zh && apiCh.content_en) {
+          // Merge: use API data but fall back to static for any null fields
           setCh({
-            book: apiCh.book, bookEn: apiCh.book_en, chapter: apiCh.chapter,
-            title: apiCh.title, titleEn: apiCh.title_en,
-            author: apiCh.author, authorEn: apiCh.author_en,
-            scripture: apiCh.scripture, publishDate: apiCh.publish_date,
-            content_zh: apiCh.content_zh, content_en: apiCh.content_en,
-            historyContext_zh: apiCh.history_context_zh, historyContext_en: apiCh.history_context_en,
-            structure_zh: apiCh.structure_zh, structure_en: apiCh.structure_en,
-            theology_zh: apiCh.theology_zh, theology_en: apiCh.theology_en,
-            christShadow_zh: apiCh.christ_shadow_zh, christShadow_en: apiCh.christ_shadow_en,
+            book: apiCh.book || staticCh.book, bookEn: apiCh.book_en || staticCh.bookEn, chapter: apiCh.chapter,
+            title: apiCh.title || staticCh.title, titleEn: apiCh.title_en || staticCh.titleEn,
+            author: apiCh.author || staticCh.author, authorEn: apiCh.author_en || staticCh.authorEn,
+            scripture: apiCh.scripture || staticCh.scripture, publishDate: apiCh.publish_date || staticCh.publishDate,
+            content_zh: apiCh.content_zh || staticCh.content_zh, content_en: apiCh.content_en || staticCh.content_en,
+            historyContext_zh: apiCh.history_context_zh || staticCh.historyContext_zh, historyContext_en: apiCh.history_context_en || staticCh.historyContext_en,
+            structure_zh: apiCh.structure_zh || staticCh.structure_zh, structure_en: apiCh.structure_en || staticCh.structure_en,
+            theology_zh: apiCh.theology_zh || staticCh.theology_zh, theology_en: apiCh.theology_en || staticCh.theology_en,
+            christShadow_zh: apiCh.christ_shadow_zh || staticCh.christShadow_zh, christShadow_en: apiCh.christ_shadow_en || staticCh.christShadow_en,
           });
         }
-      });
+      }).catch(() => {/* API unavailable, keep static data */});
     } else {
       setCh(null);
     }
@@ -162,8 +164,8 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
 
   // --- Detail view ---
   if (ch && isChPublished) {
-    const zhText = ch.content_zh.replace(/[#*]/g, '');
-    const enText = ch.content_en.replace(/[#*]/g, '');
+    const zhText = (ch.content_zh || '').replace(/[#*]/g, '');
+    const enText = (ch.content_en || '').replace(/[#*]/g, '');
 
     // Compute prev/next once for reuse at top and bottom
     const sortedPublished = chapters.filter(c => isPublished(c.publishDate)).sort((a,b) => a.chapter - b.chapter);
@@ -294,7 +296,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
         <div className="mt-8">
           <ShareBar url={`https://rockoftruth.net/readings/${bookId}?ch=${ch.chapter}`}
             title={`${bookZh}第${ch.chapter}${unitZh}：${ch.title}`}
-            summary={ch.content_zh.replace(/[#*]/g, '').substring(0, 120) + '...'}
+            summary={(ch.content_zh || '').replace(/[#*]/g, '').substring(0, 120) + '...'}
             scripture={ch.scripture} emoji="📖" cardStyle="reading" author={ch.author} />
         </div>
 
@@ -326,6 +328,20 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
         <p>&ldquo;{introZh}&rdquo;</p>
         <p className="text-[var(--color-text-secondary)] mt-2">&ldquo;{introEn}&rdquo;</p>
       </div>
+
+      {config.guideHref && (
+        <Link href={config.guideHref}
+          className="block mb-8 p-4 rounded-xl bg-gradient-to-r from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20 border border-emerald-200 dark:border-emerald-800 hover:shadow-md transition-shadow">
+          <div className="flex items-center gap-3">
+            <span className="text-2xl">📚</span>
+            <div className="flex-1">
+              <p className="text-sm font-bold text-emerald-800 dark:text-emerald-300">{bookZh}导读 · {bookEn} Guide</p>
+              <p className="text-xs text-emerald-700/70 dark:text-emerald-400/70 mt-0.5">了解本书的结构、主题与神学脉络，再开始逐章伴读</p>
+            </div>
+            <span className="text-emerald-600 dark:text-emerald-400">→</span>
+          </div>
+        </Link>
+      )}
 
       <div className="mb-6">
         <div className="flex items-center justify-between mb-2">

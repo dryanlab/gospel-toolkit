@@ -9,6 +9,7 @@ export const metadata = {
 const books: BibleBook[] = [
   {
     id: 'matthew',
+    guideHref: '/new-testament/gospels/matthew',
     name_zh: '马太福音',
     name_en: 'Matthew',
     author_zh: '使徒马太',
@@ -25,6 +26,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'mark',
+    guideHref: '/new-testament/gospels/mark',
     name_zh: '马可福音',
     name_en: 'Mark',
     author_zh: '约翰·马可',
@@ -41,6 +43,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'luke',
+    guideHref: '/new-testament/gospels/luke',
     name_zh: '路加福音',
     name_en: 'Luke',
     author_zh: '路加',
@@ -57,6 +60,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'john',
+    guideHref: '/new-testament/gospels/john',
     name_zh: '约翰福音',
     name_en: 'John',
     author_zh: '使徒约翰',
@@ -73,6 +77,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'acts',
+    guideHref: '/new-testament/gospels/acts',
     name_zh: '使徒行传',
     name_en: 'Acts',
     author_zh: '路加',

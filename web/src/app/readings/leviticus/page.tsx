@@ -5,6 +5,7 @@ import type { Metadata } from 'next';
 
 const leviticusConfig: BookConfig = {
   bookId: 'leviticus',
+  guideHref: '/old-testament/pentateuch/leviticus',
   bookZh: '利未记',
   bookEn: 'Leviticus',
   bibleId: 'LEV',

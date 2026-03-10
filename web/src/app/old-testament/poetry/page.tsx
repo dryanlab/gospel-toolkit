@@ -9,6 +9,7 @@ export const metadata = {
 const books: BibleBook[] = [
   {
     id: 'job',
+    guideHref: '/old-testament/poetry/job',
     name_zh: '约伯记',
     name_en: 'Job',
     author_zh: '佚名',
@@ -25,6 +26,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'psalms',
+    guideHref: '/old-testament/poetry/psalms',
     name_zh: '诗篇',
     name_en: 'Psalms',
     author_zh: '大卫等',
@@ -41,6 +43,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'proverbs',
+    guideHref: '/old-testament/poetry/proverbs',
     name_zh: '箴言',
     name_en: 'Proverbs',
     author_zh: '所罗门等',
@@ -57,6 +60,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'ecclesiastes',
+    guideHref: '/old-testament/poetry/ecclesiastes',
     name_zh: '传道书',
     name_en: 'Ecclesiastes',
     author_zh: '所罗门',
@@ -73,6 +77,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'songofsolomon',
+    guideHref: '/old-testament/poetry/songofsolomon',
     name_zh: '雅歌',
     name_en: 'Song of Solomon',
     author_zh: '所罗门',

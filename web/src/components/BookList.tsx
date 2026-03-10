@@ -21,6 +21,7 @@ export interface BibleBook {
   keyVerse_zh: string;
   keyVerse_en: string;
   keyRef: string;
+  guideHref?: string;
 }
 
 interface BookListProps {
@@ -102,17 +103,25 @@ export default function BookList({ icon, title_zh, title_en, desc_zh, desc_en, g
                 <p className="text-xs text-[var(--color-accent)] font-medium">— {book.keyRef}</p>
               </div>
 
-              {/* Link to Bible full text */}
-              {bibleIdMap.get(book.name_en) && (
-                <div className="mt-4">
+              {/* Links */}
+              <div className="mt-4 flex flex-wrap gap-3">
+                {book.guideHref && (
+                  <Link
+                    href={book.guideHref}
+                    className="inline-flex items-center gap-2 rounded-lg border border-emerald-500/30 bg-emerald-500/10 px-4 py-2.5 text-sm text-emerald-700 dark:text-emerald-400 font-medium hover:bg-emerald-500/20 transition-colors"
+                  >
+                    📚 详细导读 Guide
+                  </Link>
+                )}
+                {bibleIdMap.get(book.name_en) && (
                   <Link
                     href={`/bible/${bibleIdMap.get(book.name_en)}`}
                     className="inline-flex items-center gap-2 rounded-lg border border-[var(--color-accent)]/30 bg-[var(--color-accent)]/10 px-4 py-2.5 text-sm text-[var(--color-accent)] font-medium hover:bg-[var(--color-accent)]/20 transition-colors"
                   >
-                    📖 阅读{book.name_zh}全文 Read {book.name_en}
+                    📖 阅读全文 Read
                   </Link>
-                </div>
-              )}
+                )}
+              </div>
             </div>
           </div>
         ))}

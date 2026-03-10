@@ -10,6 +10,7 @@ export const metadata: Metadata = {
 
 const romansConfig: BookConfig = {
   bookId: 'romans',
+  guideHref: '/new-testament/pauline/romans',
   bookZh: '罗马书',
   bookEn: 'Romans',
   bibleId: 'ROM',

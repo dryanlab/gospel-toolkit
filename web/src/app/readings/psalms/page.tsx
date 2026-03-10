@@ -16,6 +16,7 @@ export const metadata: Metadata = {
 
 const config: BookConfig = {
   bookId: 'psalms',
+  guideHref: '/old-testament/poetry/psalms',
   bookZh: '诗篇',
   bookEn: 'Psalms',
   bibleId: 'PSA',

@@ -10,6 +10,7 @@ export const metadata: Metadata = {
 
 const actsConfig: BookConfig = {
   bookId: 'acts',
+  guideHref: '/new-testament/gospels/acts',
   bookZh: '使徒行传',
   bookEn: 'Acts',
   bibleId: 'ACT',

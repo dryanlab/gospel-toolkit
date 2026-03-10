@@ -9,6 +9,7 @@ export const metadata = {
 const books: BibleBook[] = [
   {
     id: 'joshua',
+    guideHref: '/old-testament/historical/joshua',
     name_zh: '约书亚记',
     name_en: 'Joshua',
     author_zh: '约书亚',
@@ -25,6 +26,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'judges',
+    guideHref: '/old-testament/historical/judges',
     name_zh: '士师记',
     name_en: 'Judges',
     author_zh: '传统认为撒母耳',
@@ -41,6 +43,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'ruth',
+    guideHref: '/old-testament/historical/ruth',
     name_zh: '路得记',
     name_en: 'Ruth',
     author_zh: '传统认为撒母耳',
@@ -57,6 +60,7 @@ const books: BibleBook[] = [
   },
   {
     id: '1samuel',
+    guideHref: '/old-testament/historical/1samuel',
     name_zh: '撒母耳记上',
     name_en: '1 Samuel',
     author_zh: '撒母耳等',
@@ -73,6 +77,7 @@ const books: BibleBook[] = [
   },
   {
     id: '2samuel',
+    guideHref: '/old-testament/historical/2samuel',
     name_zh: '撒母耳记下',
     name_en: '2 Samuel',
     author_zh: '佚名',
@@ -89,6 +94,7 @@ const books: BibleBook[] = [
   },
   {
     id: '1kings',
+    guideHref: '/old-testament/historical/1kings',
     name_zh: '列王纪上',
     name_en: '1 Kings',
     author_zh: '传统认为耶利米',
@@ -105,6 +111,7 @@ const books: BibleBook[] = [
   },
   {
     id: '2kings',
+    guideHref: '/old-testament/historical/2kings',
     name_zh: '列王纪下',
     name_en: '2 Kings',
     author_zh: '传统认为耶利米',
@@ -121,6 +128,7 @@ const books: BibleBook[] = [
   },
   {
     id: '1chronicles',
+    guideHref: '/old-testament/historical/1chronicles',
     name_zh: '历代志上',
     name_en: '1 Chronicles',
     author_zh: '传统认为以斯拉',
@@ -137,6 +145,7 @@ const books: BibleBook[] = [
   },
   {
     id: '2chronicles',
+    guideHref: '/old-testament/historical/2chronicles',
     name_zh: '历代志下',
     name_en: '2 Chronicles',
     author_zh: '传统认为以斯拉',
@@ -153,6 +162,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'ezra',
+    guideHref: '/old-testament/historical/ezra',
     name_zh: '以斯拉记',
     name_en: 'Ezra',
     author_zh: '以斯拉',
@@ -169,6 +179,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'nehemiah',
+    guideHref: '/old-testament/historical/nehemiah',
     name_zh: '尼希米记',
     name_en: 'Nehemiah',
     author_zh: '尼希米',
@@ -185,6 +196,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'esther',
+    guideHref: '/old-testament/historical/esther',
     name_zh: '以斯帖记',
     name_en: 'Esther',
     author_zh: '佚名',

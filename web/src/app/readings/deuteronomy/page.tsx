@@ -16,6 +16,7 @@ export const metadata: Metadata = {
 
 const config: BookConfig = {
   bookId: 'deuteronomy',
+  guideHref: '/old-testament/pentateuch/deuteronomy',
   bookZh: '申命记',
   bookEn: 'Deuteronomy',
   bibleId: 'DEU',

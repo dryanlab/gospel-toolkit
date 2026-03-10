@@ -10,9 +10,10 @@ export function isPublished(dateStr: string): boolean {
   if (!dateStr) return false;
   if (typeof window === 'undefined') return false;
   if (isPreview()) return true;
-  // Compare in EST (UTC-5) to avoid timezone issues
-  // Publish at 6:00 AM EST on the date
-  const publishTime = new Date(dateStr + 'T06:00:00-05:00');
+  // Publish at 6:00 AM Eastern Time on the date
+  // Use midnight UTC of the publish date as a safe universal threshold
+  // This means content appears by midnight UTC = 7PM EST / 8PM EDT the day before
+  const publishTime = new Date(dateStr + 'T00:00:00Z');
   return publishTime <= new Date();
 }
 

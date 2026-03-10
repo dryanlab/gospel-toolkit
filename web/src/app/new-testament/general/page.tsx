@@ -9,6 +9,7 @@ export const metadata = {
 const books: BibleBook[] = [
   {
     id: 'hebrews',
+    guideHref: '/new-testament/general/hebrews',
     name_zh: '希伯来书',
     name_en: 'Hebrews',
     author_zh: '未知（传统认为可能是保罗、巴拿巴或亚波罗）',
@@ -25,6 +26,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'james',
+    guideHref: '/new-testament/general/james',
     name_zh: '雅各书',
     name_en: 'James',
     author_zh: '主的兄弟雅各',
@@ -41,6 +43,7 @@ const books: BibleBook[] = [
   },
   {
     id: '1peter',
+    guideHref: '/new-testament/general/1peter',
     name_zh: '彼得前书',
     name_en: '1 Peter',
     author_zh: '使徒彼得',
@@ -57,6 +60,7 @@ const books: BibleBook[] = [
   },
   {
     id: '2peter',
+    guideHref: '/new-testament/general/2peter',
     name_zh: '彼得后书',
     name_en: '2 Peter',
     author_zh: '使徒彼得',
@@ -73,6 +77,7 @@ const books: BibleBook[] = [
   },
   {
     id: '1john',
+    guideHref: '/new-testament/general/1john',
     name_zh: '约翰一书',
     name_en: '1 John',
     author_zh: '使徒约翰',
@@ -89,6 +94,7 @@ const books: BibleBook[] = [
   },
   {
     id: '2john',
+    guideHref: '/new-testament/general/2john',
     name_zh: '约翰二书',
     name_en: '2 John',
     author_zh: '使徒约翰',
@@ -105,6 +111,7 @@ const books: BibleBook[] = [
   },
   {
     id: '3john',
+    guideHref: '/new-testament/general/3john',
     name_zh: '约翰三书',
     name_en: '3 John',
     author_zh: '使徒约翰',
@@ -121,6 +128,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'jude',
+    guideHref: '/new-testament/general/jude',
     name_zh: '犹大书',
     name_en: 'Jude',
     author_zh: '主的兄弟犹大',

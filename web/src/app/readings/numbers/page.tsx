@@ -16,6 +16,7 @@ export const metadata: Metadata = {
 
 const config: BookConfig = {
   bookId: 'numbers',
+  guideHref: '/old-testament/pentateuch/numbers',
   bookZh: '民数记',
   bookEn: 'Numbers',
   bibleId: 'NUM',

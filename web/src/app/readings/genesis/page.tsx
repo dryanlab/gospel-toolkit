@@ -26,6 +26,7 @@ const config: BookConfig = {
   authorEn: 'Moses',
   introZh: '弟兄姐妹，我是摩西，耶和华的仆人。这卷书是我在西奈旷野写下的，要让你们知道——万物从何而来，又是谁的手托住这一切。',
   introEn: 'Brothers and sisters, I am Moses, servant of the LORD. I wrote this book in the wilderness of Sinai, so you would know -- where all things come from, and whose hand upholds them all.',
+  guideHref: '/old-testament/pentateuch/genesis',
 };
 
 export default function GenesisPage() {

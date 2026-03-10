@@ -9,6 +9,7 @@ export const metadata = {
 const books: BibleBook[] = [
   {
     id: 'isaiah',
+    guideHref: '/old-testament/major-prophets/isaiah',
     name_zh: '以赛亚书',
     name_en: 'Isaiah',
     author_zh: '以赛亚',
@@ -25,6 +26,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'jeremiah',
+    guideHref: '/old-testament/major-prophets/jeremiah',
     name_zh: '耶利米书',
     name_en: 'Jeremiah',
     author_zh: '耶利米',
@@ -41,6 +43,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'lamentations',
+    guideHref: '/old-testament/major-prophets/lamentations',
     name_zh: '耶利米哀歌',
     name_en: 'Lamentations',
     author_zh: '耶利米',
@@ -57,6 +60,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'ezekiel',
+    guideHref: '/old-testament/major-prophets/ezekiel',
     name_zh: '以西结书',
     name_en: 'Ezekiel',
     author_zh: '以西结',
@@ -73,6 +77,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'daniel',
+    guideHref: '/old-testament/major-prophets/daniel',
     name_zh: '但以理书',
     name_en: 'Daniel',
     author_zh: '但以理',

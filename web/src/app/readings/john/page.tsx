@@ -5,6 +5,7 @@ import type { Metadata } from 'next';
 
 const johnConfig: BookConfig = {
   bookId: 'john',
+  guideHref: '/new-testament/gospels/john',
   bookZh: '约翰福音',
   bookEn: 'John',
   bibleId: 'JHN',

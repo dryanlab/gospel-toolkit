@@ -9,6 +9,7 @@ export const metadata = {
 const books: BibleBook[] = [
   {
     id: 'hosea',
+    guideHref: '/old-testament/minor-prophets/hosea',
     name_zh: '何西阿书',
     name_en: 'Hosea',
     author_zh: '何西阿',
@@ -25,6 +26,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'joel',
+    guideHref: '/old-testament/minor-prophets/joel',
     name_zh: '约珥书',
     name_en: 'Joel',
     author_zh: '约珥',
@@ -41,6 +43,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'amos',
+    guideHref: '/old-testament/minor-prophets/amos',
     name_zh: '阿摩司书',
     name_en: 'Amos',
     author_zh: '阿摩司',
@@ -57,6 +60,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'obadiah',
+    guideHref: '/old-testament/minor-prophets/obadiah',
     name_zh: '俄巴底亚书',
     name_en: 'Obadiah',
     author_zh: '俄巴底亚',
@@ -73,6 +77,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'jonah',
+    guideHref: '/old-testament/minor-prophets/jonah',
     name_zh: '约拿书',
     name_en: 'Jonah',
     author_zh: '约拿',
@@ -89,6 +94,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'micah',
+    guideHref: '/old-testament/minor-prophets/micah',
     name_zh: '弥迦书',
     name_en: 'Micah',
     author_zh: '弥迦',
@@ -105,6 +111,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'nahum',
+    guideHref: '/old-testament/minor-prophets/nahum',
     name_zh: '那鸿书',
     name_en: 'Nahum',
     author_zh: '那鸿',
@@ -121,6 +128,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'habakkuk',
+    guideHref: '/old-testament/minor-prophets/habakkuk',
     name_zh: '哈巴谷书',
     name_en: 'Habakkuk',
     author_zh: '哈巴谷',
@@ -137,6 +145,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'zephaniah',
+    guideHref: '/old-testament/minor-prophets/zephaniah',
     name_zh: '西番雅书',
     name_en: 'Zephaniah',
     author_zh: '西番雅',
@@ -153,6 +162,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'haggai',
+    guideHref: '/old-testament/minor-prophets/haggai',
     name_zh: '哈该书',
     name_en: 'Haggai',
     author_zh: '哈该',
@@ -169,6 +179,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'zechariah',
+    guideHref: '/old-testament/minor-prophets/zechariah',
     name_zh: '撒迦利亚书',
     name_en: 'Zechariah',
     author_zh: '撒迦利亚',
@@ -185,6 +196,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'malachi',
+    guideHref: '/old-testament/minor-prophets/malachi',
     name_zh: '玛拉基书',
     name_en: 'Malachi',
     author_zh: '玛拉基',

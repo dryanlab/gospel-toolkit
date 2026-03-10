@@ -16,6 +16,7 @@ export const metadata: Metadata = {
 
 const config: BookConfig = {
   bookId: 'proverbs',
+  guideHref: '/old-testament/poetry/proverbs',
   bookZh: '箴言',
   bookEn: 'Proverbs',
   bibleId: 'PRO',

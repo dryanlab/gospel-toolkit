@@ -9,6 +9,7 @@ export const metadata = {
 const books: BibleBook[] = [
   {
     id: 'romans',
+    guideHref: '/new-testament/pauline/romans',
     name_zh: '罗马书',
     name_en: 'Romans',
     author_zh: '使徒保罗',
@@ -25,6 +26,7 @@ const books: BibleBook[] = [
   },
   {
     id: '1corinthians',
+    guideHref: '/new-testament/pauline/1corinthians',
     name_zh: '哥林多前书',
     name_en: '1 Corinthians',
     author_zh: '使徒保罗',
@@ -41,6 +43,7 @@ const books: BibleBook[] = [
   },
   {
     id: '2corinthians',
+    guideHref: '/new-testament/pauline/2corinthians',
     name_zh: '哥林多后书',
     name_en: '2 Corinthians',
     author_zh: '使徒保罗',
@@ -57,6 +60,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'galatians',
+    guideHref: '/new-testament/pauline/galatians',
     name_zh: '加拉太书',
     name_en: 'Galatians',
     author_zh: '使徒保罗',
@@ -73,6 +77,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'ephesians',
+    guideHref: '/new-testament/pauline/ephesians',
     name_zh: '以弗所书',
     name_en: 'Ephesians',
     author_zh: '使徒保罗',
@@ -89,6 +94,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'philippians',
+    guideHref: '/new-testament/pauline/philippians',
     name_zh: '腓立比书',
     name_en: 'Philippians',
     author_zh: '使徒保罗',
@@ -105,6 +111,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'colossians',
+    guideHref: '/new-testament/pauline/colossians',
     name_zh: '歌罗西书',
     name_en: 'Colossians',
     author_zh: '使徒保罗',
@@ -121,6 +128,7 @@ const books: BibleBook[] = [
   },
   {
     id: '1thessalonians',
+    guideHref: '/new-testament/pauline/1thessalonians',
     name_zh: '帖撒罗尼迦前书',
     name_en: '1 Thessalonians',
     author_zh: '使徒保罗',
@@ -137,6 +145,7 @@ const books: BibleBook[] = [
   },
   {
     id: '2thessalonians',
+    guideHref: '/new-testament/pauline/2thessalonians',
     name_zh: '帖撒罗尼迦后书',
     name_en: '2 Thessalonians',
     author_zh: '使徒保罗',
@@ -153,6 +162,7 @@ const books: BibleBook[] = [
   },
   {
     id: '1timothy',
+    guideHref: '/new-testament/pauline/1timothy',
     name_zh: '提摩太前书',
     name_en: '1 Timothy',
     author_zh: '使徒保罗',
@@ -169,6 +179,7 @@ const books: BibleBook[] = [
   },
   {
     id: '2timothy',
+    guideHref: '/new-testament/pauline/2timothy',
     name_zh: '提摩太后书',
     name_en: '2 Timothy',
     author_zh: '使徒保罗',
@@ -185,6 +196,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'titus',
+    guideHref: '/new-testament/pauline/titus',
     name_zh: '提多书',
     name_en: 'Titus',
     author_zh: '使徒保罗',
@@ -201,6 +213,7 @@ const books: BibleBook[] = [
   },
   {
     id: 'philemon',
+    guideHref: '/new-testament/pauline/philemon',
     name_zh: '腓利门书',
     name_en: 'Philemon',
     author_zh: '使徒保罗',

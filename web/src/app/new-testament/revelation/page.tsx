@@ -9,6 +9,7 @@ export const metadata = {
 const books: BibleBook[] = [
   {
     id: 'revelation',
+    guideHref: '/new-testament/revelation/revelation',
     name_zh: '启示录',
     name_en: 'Revelation',
     author_zh: '使徒约翰',

@@ -46,16 +46,20 @@ function mapReadingFields(r: any): any {
 }
 
 export async function fetchReadingsList(book?: string): Promise<any[]> {
-  const url = book ? `${API_BASE}/readings?book=${book}` : `${API_BASE}/readings`;
-  const res = await fetch(url);
-  if (!res.ok) return [];
-  const data = await res.json();
-  return (data.readings || []).map(mapReadingFields);
+  try {
+    const url = book ? `${API_BASE}/readings?book=${book}` : `${API_BASE}/readings`;
+    const res = await fetch(url);
+    if (!res.ok) return [];
+    const data = await res.json();
+    return (data.readings || []).map(mapReadingFields);
+  } catch { return []; }
 }
 
 export async function fetchReading(book: string, chapter: number): Promise<any | null> {
-  const res = await fetch(`${API_BASE}/readings/${book}/${chapter}`);
-  if (!res.ok) return null;
-  const data = await res.json();
-  return mapReadingFields(data.reading || null);
+  try {
+    const res = await fetch(`${API_BASE}/readings/${book}/${chapter}`);
+    if (!res.ok) return null;
+    const data = await res.json();
+    return mapReadingFields(data.reading || null);
+  } catch { return null; }
 }
