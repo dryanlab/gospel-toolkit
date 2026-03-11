@@ -63,7 +63,7 @@ Zephaniah moves from creation's reversal (1:2–3) to new creation's promise (3:
 
 神学主题方面，西番雅的"耶和华的日子"神学与改革宗理解的"神的主权"直接呼应。神不是一个远在天边、不干预历史的神，而是一位积极治理历史的主权君王——祂在历史中审判，也在历史中救赎。
 
-全书对"谦卑者"（ `anawim`）的关注也值得注意："你们没有遵守耶和华命令的谦卑人，应当寻求耶和华；凡遵守他命令的，都当寻求公义，寻求谦卑，或者在耶和华发怒的日子可以隐藏"（2:3）。谦卑、寻求神——这是在审判中蒙保守的唯一道路。正如改革宗神学所强调：在神面前，人唯一的正确姿态是谦卑与依靠。`,
+全书对"谦卑者"（anawim）的关注也值得注意："你们没有遵守耶和华命令的谦卑人，应当寻求耶和华；凡遵守他命令的，都当寻求公义，寻求谦卑，或者在耶和华发怒的日子可以隐藏"（2:3）。谦卑、寻求神——这是在审判中蒙保守的唯一道路。正如改革宗神学所强调：在神面前，人唯一的正确姿态是谦卑与依靠。`,
     content_en: `Zephaniah is a Minor Prophet particularly valued in the Reformed tradition because it most clearly proclaims both sides of God's sovereignty: the righteousness of judgment and the love of mercy.
 
 Historically, Zephaniah lived before or during King Josiah's reform (c. 630–620 BC). King Josiah (640–609 BC) was Judah's last genuine reforming king — he purged idolatry, repaired the temple, and rediscovered the Book of the Law (2 Kgs 22). Zephaniah's prophecy may have been one of the catalysts for this reformation.

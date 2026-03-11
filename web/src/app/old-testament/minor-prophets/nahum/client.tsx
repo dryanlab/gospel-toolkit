@@ -63,6 +63,24 @@ In 612 BC, Babylonian and Median forces captured Nineveh, fulfilling Nahum's pro
 "Behold, I am against thee, saith the LORD of hosts" (3:5) -- when God Himself becomes an empire's enemy, no power can save it. Nineveh's fall was completely fulfilled in 612 BC; the world's greatest city was so thoroughly destroyed that for over two millennia people doubted it had ever existed.
 
 Though brief, Nahum's theological significance is immense. It answers a question troubling all believers: why do the wicked prosper? The answer: God's justice will not be silent forever. "The LORD is slow to anger, and great in power, and will not at all acquit the wicked" (1:3). Slow to anger does not mean never angry; great patience does not mean never judging.`,
+  },
+  {
+    title_zh: `四、那鸿与约拿：同一城市，两个信息`,
+    title_en: `IV. Nahum and Jonah: Same City, Two Messages`,
+    content_zh: `那鸿书与约拿书有着奇妙的对话关系——两卷书都是关于尼尼微的预言，但信息几乎完全相反。约拿书记录了神如何怜悯悔改的尼尼微，而那鸿书记录了神如何审判重新作恶的尼尼微。
+
+两书合在一起，传递了一个完整的神学信息：悔改带来怜悯，顽梗带来审判。约拿时代的尼尼微人因着悔改蒙了怜悯（约拿书3:10），但一百多年后的尼尼微重新回到了暴行和骄傲，于是面临了那鸿所预言的彻底覆灭（公元前612年）。
+
+这两卷书并列，也反映了神性格的完整性：神是"有恩典、有怜悯、不轻易发怒"（约拿4:2）的神；同时也是"万不以有罪的为无罪"（那鸿1:3）的神。祂的怜悯不消解祂的公义，祂的公义也不取消祂的怜悯——两者在十字架上达到完美的交汇。
+
+那鸿书最终的盼望是普遍性的："耶和华本为善，在患难的日子为人的保障，并且认得那些投靠他的人"（1:7）。审判恶人与保护义人是同一个神同时进行的两件事。每一个"投靠他的人"——即使身处尼尼微式的黑暗文化中——都在神的保障之内。`,
+    content_en: `Nahum and Jonah have a remarkable dialogue relationship — both are prophecies concerning Nineveh, but with nearly opposite messages. Jonah records God's mercy on a repentant Nineveh; Nahum records God's judgment on a Nineveh that returned to evil.
+
+Together they convey a complete theological message: repentance brings mercy; hardness brings judgment. The Ninevites of Jonah's era received mercy through repentance (Jonah 3:10), but more than a century later Nineveh returned to atrocity and pride, meeting the total destruction Nahum prophesied (612 BC).
+
+These two books placed together reflect the completeness of God's character: He is a God of "grace, mercy, slow to anger" (Jonah 4:2); simultaneously He "will not at all acquit the wicked" (Nahum 1:3). His mercy does not dissolve His justice; His justice does not cancel His mercy — both reach their perfect convergence at the cross.
+
+Nahum's ultimate hope is universal: "The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him" (1:7, KJV). Judging the wicked and protecting the righteous are two things the same God does simultaneously. Every person who "trusts in him" — even in the midst of a Nineveh-like dark culture — is within God's refuge.`,
   }
 ];
 
