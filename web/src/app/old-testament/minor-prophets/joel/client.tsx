@@ -42,6 +42,24 @@ The famous "Beat your plowshares into swords, and your pruninghooks into spears"
 
 The book concludes with glorious promise: "And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk... the LORD dwelleth in Zion" (3:18, 21). Though only three chapters, Joel encompasses from locust plague to eschaton, from repentance to Spirit's outpouring, from judgment to new creation — a complete redemptive panorama.`,
   },
+  {
+    title_zh: `四、"撕裂心肠"：约珥书对今日教会的呼召`,
+    title_en: `IV. "Rend Your Heart": Joel's Call to the Church Today`,
+    content_zh: `约珥书最刺透人心的经文是2:12-13："耶和华说：虽然如此，你们应当禁食、哭泣、悲哀，一心归向我。你们要撕裂心肠，不撕裂衣服，归向耶和华你们的神；因为他有恩典、有怜悯、不轻易发怒、有丰盛的慈爱，并且后悔不降所说的灾。"
+
+"撕裂心肠，不撕裂衣服"——这是旧约中对外在宗教形式与内在心灵悔改之区分最清晰的表达之一。撕裂衣服是以色列人表达悲哀的传统习俗，但神要的不是习俗的表演，而是内心真实的破碎与回转。
+
+这一呼召对今日的教会同样切中要害。我们可能有完美的礼拜仪式、漂亮的教堂、丰富的事工活动，却内心冷漠、属灵麻木。约珥书的呼召是：吹角在锡安、分别圣会、聚集老人孩童（2:15-16）——这是整个教会群体一起在神面前谦卑认罪的图景。
+
+更新的起点是谦卑的悔改；悔改的保证是神"有恩典、有怜悯、不轻易发怒"（2:13）。认罪不是绝望，而是信心——信这位有怜悯的神必然垂顾那真实寻求祂的心。`,
+    content_en: `Joel's most penetrating verses are 2:12-13: "Therefore also now, saith the LORD, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning: And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil." (KJV)
+
+"Rend your heart, and not your garments" — this is one of the Old Testament's clearest distinctions between outward religious form and inner repentance. Tearing garments was Israel's traditional expression of grief, but God desires not the performance of custom but the genuine brokenness and turning of the heart.
+
+This call strikes equally to the heart of today's church. We may have perfect worship liturgy, beautiful buildings, abundant ministries, yet be inwardly cold and spiritually numb. Joel's call: blow the trumpet in Zion, call a solemn assembly, gather the elders and children (2:15-16) — a picture of the entire church community humbling itself in repentance before God together.
+
+The starting point of renewal is humble repentance; repentance's guarantee is that God is "gracious and merciful, slow to anger, and of great kindness" (2:13). Confession is not despair but faith — faith that this merciful God will surely attend to the heart that truly seeks Him.`,
+  },
 ];
 
 const overview = {
