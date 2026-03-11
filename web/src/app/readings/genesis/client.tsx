@@ -95,19 +95,30 @@ export default function GenesisClient({ chapters: staticChapters }: { chapters: 
     if (staticCh && isChPublished) {
       setCh(staticCh); // immediate static fallback
       fetchReading('Genesis', staticCh.chapter).then(apiCh => {
-        if (apiCh) {
+        if (apiCh && apiCh.content_zh) {
           setCh({
-            book: apiCh.book, bookEn: apiCh.book_en, chapter: apiCh.chapter,
-            title: apiCh.title, titleEn: apiCh.title_en,
-            author: apiCh.author, authorEn: apiCh.author_en,
-            scripture: apiCh.scripture, publishDate: apiCh.publish_date,
-            content_zh: apiCh.content_zh, content_en: apiCh.content_en,
-            historyContext_zh: apiCh.history_context_zh, historyContext_en: apiCh.history_context_en,
-            structure_zh: apiCh.structure_zh, structure_en: apiCh.structure_en,
-            theology_zh: apiCh.theology_zh, theology_en: apiCh.theology_en,
-            christShadow_zh: apiCh.christ_shadow_zh, christShadow_en: apiCh.christ_shadow_en,
+            book: apiCh.book || staticCh.book,
+            bookEn: apiCh.book_en || staticCh.bookEn,
+            chapter: apiCh.chapter || staticCh.chapter,
+            title: apiCh.title || staticCh.title,
+            titleEn: apiCh.title_en || staticCh.titleEn,
+            author: apiCh.author || staticCh.author,
+            authorEn: apiCh.author_en || staticCh.authorEn,
+            scripture: apiCh.scripture || staticCh.scripture,
+            publishDate: apiCh.publish_date || staticCh.publishDate,
+            content_zh: apiCh.content_zh || staticCh.content_zh,
+            content_en: apiCh.content_en || staticCh.content_en,
+            historyContext_zh: apiCh.history_context_zh || staticCh.historyContext_zh,
+            historyContext_en: apiCh.history_context_en || staticCh.historyContext_en,
+            structure_zh: apiCh.structure_zh || staticCh.structure_zh,
+            structure_en: apiCh.structure_en || staticCh.structure_en,
+            theology_zh: apiCh.theology_zh || staticCh.theology_zh,
+            theology_en: apiCh.theology_en || staticCh.theology_en,
+            christShadow_zh: apiCh.christ_shadow_zh || staticCh.christShadow_zh,
+            christShadow_en: apiCh.christ_shadow_en || staticCh.christShadow_en,
           });
         }
+        // If API data is incomplete, keep staticCh (already set above)
       });
     } else {
       setCh(null);
@@ -115,8 +126,8 @@ export default function GenesisClient({ chapters: staticChapters }: { chapters: 
   }, [selected]);
 
   if (ch && isChPublished) {
-    const zhText = ch.content_zh.replace(/[#*]/g, '');
-    const enText = ch.content_en.replace(/[#*]/g, '');
+    const zhText = (ch.content_zh || '').replace(/[#*]/g, '');
+    const enText = (ch.content_en || '').replace(/[#*]/g, '');
     return (
       <div className="max-w-3xl mx-auto px-4 py-8">
         <button onClick={() => setSelected(null)} className="text-sm text-[var(--color-accent)] hover:underline mb-6 inline-block">
@@ -212,7 +223,7 @@ export default function GenesisClient({ chapters: staticChapters }: { chapters: 
         <ShareBar
           url={`https://rockoftruth.net/readings/genesis?ch=${ch.chapter}`}
           title={`创世记第${ch.chapter}章：${ch.title}`}
-          summary={ch.content_zh.replace(/[#*]/g, '').substring(0, 120) + '...'}
+          summary={(ch.content_zh || '').replace(/[#*]/g, '').substring(0, 120) + '...'}
           scripture={ch.scripture}
           emoji="📖"
           cardStyle="reading"

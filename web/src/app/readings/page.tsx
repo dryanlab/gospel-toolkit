@@ -278,6 +278,14 @@ export default function ReadingsPage() {
             Walk through Scripture chapter by chapter, as if guided by the biblical author. These are not translations of the original text, but guided readings rooted in the Reformed interpretive tradition.
           </span>
         </p>
+        <div className="mt-4 inline-block px-4 py-2 rounded-full bg-[var(--color-accent)]/10 border border-[var(--color-accent)]/20">
+          <p className="text-sm text-[var(--color-accent)] font-medium">
+            📅 周日至周五 · 12:00 AM (ET) 更新
+          </p>
+          <p className="text-xs text-[var(--color-accent)]/70 italic">
+            Sunday through Friday · Midnight ET
+          </p>
+        </div>
       </div>
 
       {/* Bible Entry */}
@@ -372,26 +380,7 @@ export default function ReadingsPage() {
         ))}
       </div>
 
-      {/* Update schedule */}
-      <div className="text-center p-6 rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)]">
-        <p className="text-sm font-bold text-[var(--color-text)] mb-2">
-          📅 更新时间 Update Schedule
-        </p>
-        <p className="text-sm text-[var(--color-text)]">
-          周一至周五 · 美东时间每日凌晨 12:00 AM · 每天更新一章
-        </p>
-        <p className="text-xs text-[var(--color-text-secondary)] italic mt-1">
-          Monday through Friday · Midnight ET · One chapter per day
-        </p>
-        <div className="mt-3 pt-3 border-t border-[var(--color-border)]">
-          <p className="text-xs text-[var(--color-text-secondary)]">
-            周日发布诗篇/箴言灵修 · 66卷 · 1189章 · 从创世记到启示录
-          </p>
-          <p className="text-xs text-[var(--color-text-secondary)] italic mt-1">
-            Psalms/Proverbs devotional on Sundays · 66 books · Genesis to Revelation
-          </p>
-        </div>
-      </div>
+
     </div>
   );
 }

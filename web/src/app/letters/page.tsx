@@ -63,10 +63,10 @@ export default function LettersPage() {
         </p>
         <div className="mt-4 inline-block px-4 py-2 rounded-full bg-[var(--color-accent)]/10 border border-[var(--color-accent)]/20">
           <p className="text-sm text-[var(--color-accent)] font-medium">
-            📅 每周六 · 早上 8:00 AM (EST) 更新
+            📅 每周六 · 12:00 AM (ET) 更新
           </p>
           <p className="text-xs text-[var(--color-accent)]/70 italic">
-            Updated every Saturday · 8:00 AM EST
+            Updated every Saturday · Midnight ET
           </p>
         </div>
       </div>
