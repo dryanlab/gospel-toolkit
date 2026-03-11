@@ -6,7 +6,7 @@ import { useState } from 'react';
 const sections = [
     {
       title_zh: '一、为真道竭力争辩',
-      title_en: 'Earnestly Contend for the Faith',
+      title_en: `I. Earnestly Contend for the Faith`,
       content_zh: `犹大原本想写一封关于救恩的积极书信，但紧急的处境迫使他改变计划——假教师已经偷偷混入教会。
 
 "亲爱的弟兄啊，我想尽心写信给你们，论我们同得救恩的时候，就不得不写信劝你们，要为从前一次交付圣徒的真道竭力地争辩。因为有些人偷着进来，就是自古被定受刑罚的，是不虔诚的，将我们神的恩变作放纵情欲的机会，并且不认独一的主宰——我们主耶稣基督。"（犹大书 1:3-4）
@@ -21,8 +21,8 @@ const sections = [
 "The faith which was once delivered unto the saints' — the word "once' indicates that the apostolic faith is complete and cannot be added to. The faith has been delivered; our task is not to invent new doctrines but to "earnestly contend' — to guard the purity of this faith. The hallmark of false teachers is "turning the grace of our God into lasciviousness' — using grace as an excuse for sin, which is the greatest insult to grace.`
     },
     {
-      title_zh: '历史的鉴戒与审判的确据',
-      title_en: 'Historical Warnings and the Certainty of Judgment',
+      title_zh: `二、历史的鉴戒与审判的确据`,
+      title_en: `II. Historical Warnings and the Certainty of Judgment`,
       content_zh: `犹大用三个旧约例子警告假教师必受审判：以色列人出埃及后在旷野不信（1:5）、堕落的天使（1:6）、所多玛和蛾摩拉（1:7）。这些都是历史上的实际事件，证明神必审判不虔不义的人。
 
 犹大还引用了该隐、巴兰和可拉的例子："他们走了该隐的道路，又为利往巴兰的错谬里直奔，并在可拉的背叛中灭亡了"（1:11）。该隐代表嫉妒与暴力，巴兰代表贪财的假先知，可拉代表对合法权柄的背叛——假教师的行为就是这三者的结合。
@@ -35,8 +35,8 @@ Jude also cites Cain, Balaam, and Korah: "Woe unto them! for they have gone in t
 Jude describes them with vivid imagery: "These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots; Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever." (Jude 1:12-13)`
     },
     {
-      title_zh: '在至圣的真道上建造自己',
-      title_en: 'Building Yourselves Up in the Most Holy Faith',
+      title_zh: `三、在至圣的真道上建造自己`,
+      title_en: `III. Building Yourselves Up in the Most Holy Faith`,
       content_zh: `犹大不只警告假教师，也积极指导信徒如何在险恶的属灵环境中站立得稳：
 
 "亲爱的弟兄啊，你们却要在至圣的真道上造就自己，在圣灵里祷告，保守自己常在神的爱中，仰望我们主耶稣基督的怜悯，直到永生。"（犹大书 1:20-21）
@@ -55,8 +55,8 @@ Jude gives four elements: (1) building on the faith — rooting oneself in sound
 Jude also teaches how to treat those who have gone astray in varying degrees: "And of some have compassion, making a difference: And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh" (1:22-23). The wisdom here is: compassion is necessary, but with discernment and vigilance, lest one also become contaminated.`
     },
     {
-      title_zh: '宝贵的祝祷：保守你们不失脚',
-      title_en: 'The Precious Benediction: Keeping You from Falling',
+      title_zh: `四、宝贵的祝祷：保守你们不失脚`,
+      title_en: `IV. The Precious Benediction: Keeping You from Falling`,
       content_zh: `犹大书以新约中最伟大的祝祷之一结束。在警告了这么多假教师的危险之后，犹大最后将读者的目光转向那位能保守我们的神。
 
 "那能保守你们不失脚、叫你们无瑕无疵、欢欢喜喜站在他荣耀之前的我们的救主——独一的神，愿荣耀、威严、能力、权柄，因我们的主耶稣基督归与他，从万古以前并现今，直到永永远远。阿们！"（犹大书 1:24-25）

@@ -6,7 +6,7 @@ import { useState } from 'react';
 const sections = [
     {
       title_zh: '一、神是光：在光明中行走（1-2章）',
-      title_en: 'God Is Light: Walking in the Light',
+      title_en: `I. God Is Light: Walking in the Light`,
       content_zh: `约翰一书是约翰在晚年写给爱弗所附近教会的书信，回应当时兴起的幻影说（认为基督没有真实的肉身）。约翰以"从起初"就亲眼所见的见证开篇，强调道成肉身的真实性。
 
 "神就是光，在他毫无黑暗。这是我们从主所听见、又报给你们的信息。我们若说是与神相交，却仍在黑暗里行，就是说谎话，不行真理了。我们若在光明中行，如同神在光明中，就彼此相交，他儿子耶稣的血也洗净我们一切的罪。"（约翰一书 1:5-7）
@@ -22,7 +22,7 @@ const sections = [
     },
     {
       title_zh: '二、爱神与爱弟兄：不可分割（3章）',
-      title_en: 'Loving God and Loving Brothers: Inseparable',
+      title_en: `II. Loving God and Loving Brothers: Inseparable`,
       content_zh: `约翰一书最著名的主题是爱——神的爱与我们对弟兄的爱是不可分割的。
 
 "亲爱的弟兄啊，我们应当彼此相爱，因为爱是从神来的。凡有爱心的，都是由神而生，并且认识神。没有爱心的，就不认识神，因为神就是爱。"（约翰一书 4:7-8）
@@ -42,7 +42,7 @@ John further says: "If a man say, I love God, and hateth his brother, he is a li
     },
     {
       title_zh: '三、得胜世界的信心（5章）',
-      title_en: 'The Faith That Overcomes the World',
+      title_en: `III. The Faith That Overcomes the World`,
       content_zh: `约翰一书的结尾充满了确据——知道自己有永生是可以的，信心是得胜世界的武器。
 
 "因为凡从神生的，就胜过世界；使我们胜了世界的，就是我们的信心。胜过世界的是谁呢？不是那信耶稣是神儿子的吗？"（约翰一书 5:4-5）

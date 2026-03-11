@@ -6,7 +6,7 @@ import { useState } from 'react';
 const sections = [
     {
       title_zh: '一、设立长老：教会根基的建造（1章）',
-      title_en: 'Appointing Elders: Building the Church\'s Foundation',
+      title_en: `I. Appointing Elders: Building the Church's Foundation`,
       content_zh: `保罗留提多在克里特岛，是为了"将那没有办完的事都办整齐了，又照我所吩咐你的，在各城设立长老"（1:5）。克里特的文化背景是混乱和不敬虔的——连克里特人自己的先知都说"克里特人常说谎话，乃是恶兽，又馋又懒"（1:12）。在这样的环境中建立教会，设立合格的长老尤为重要。
 
 "若有无可指责的人，只作一个妇人的丈夫，儿女也是信主的，没有人告他们是放荡不服约束的，就可以设立。监督既是神的管家，必须无可指责，不任性，不暴躁，不因酒滋事，不打人，不贪无义之财；乐意接待远人，好善，庄重，公平，圣洁，自持。坚守所教真实的道理，就能将纯正的教训劝化人，又能把争辩的人驳倒了。"（提多书 1:6-9）
@@ -22,7 +22,7 @@ Paul's standards are consistent with First Timothy: character first, gifts secon
     },
     {
       title_zh: '二、神救众人的恩典（2章）',
-      title_en: 'The Grace of God That Bringeth Salvation',
+      title_en: `II. The Grace of God That Bringeth Salvation`,
       content_zh: `提多书第二章包含了一段关于恩典最精炼的神学论述。
 
 "因为神救众人的恩典已经显明出来，教训我们除去不敬虔的心和世俗的情欲，在今世自守、公义、敬虔度日，等候所盼望的福，并等候至大的神和我们救主耶稣基督的荣耀显现。"（提多书 2:11-13）
@@ -38,7 +38,7 @@ Grace is not merely pardoning grace but grace that "teaches us." Those who truly
     },
     {
       title_zh: '三、重生的洗与圣灵的更新（3章）',
-      title_en: 'The Washing of Regeneration and Renewing of the Holy Ghost',
+      title_en: `III. The Washing of Regeneration and Renewing of the Holy Ghost`,
       content_zh: `第三章进一步阐述救恩的本质——不是靠行为，而是靠神的怜悯。
 
 "他便救了我们；并不是因我们自己所行的义，乃是照他的怜悯，藉着重生的洗和圣灵的更新。圣灵就是神藉着耶稣基督——我们救主厚厚浇灌在我们身上的，好叫我们因他的恩得称为义，可以凭着永生的盼望成为后嗣。"（提多书 3:5-7）

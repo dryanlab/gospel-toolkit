@@ -6,7 +6,7 @@ import { useState } from 'react';
 const sections = [
     {
       title_zh: '一、持守纯正的道：抵挡异端（1章）',
-      title_en: 'Holding Fast Sound Doctrine: Resisting Heresy',
+      title_en: `I. Holding Fast Sound Doctrine: Resisting Heresy`,
       content_zh: `保罗留下提摩太在以弗所牧养教会，自己则去了马其顿。以弗所教会面临严重的异端威胁——有人传讲荒渺无凭的话语和无穷的家谱，偏离了信仰的核心。
 
 "我往马其顿去的时候，曾劝你仍住在以弗所，好嘱咐那几个人不可传异教，也不可听从荒渺无凭的话语和无穷的家谱；这等事只生辩论，并不发明神在信上所立的章程。但命令的总归就是爱；这爱是从清洁的心和无亏的良心，无伪的信心生出来的。"（提摩太前书 1:3-5）
@@ -22,7 +22,7 @@ const sections = [
     },
     {
       title_zh: '二、教会的秩序与治理（2-3章）',
-      title_en: 'Church Order and Governance',
+      title_en: `II. Church Order and Governance`,
       content_zh: `提摩太前书被称为"教牧书信"之一，因为它详细论述了教会的组织和治理。保罗给出了监督（长老）和执事的资格标准。
 
 "人若想要得监督的职分，就是羡慕善工。作监督的，必须无可指责，只作一个妇人的丈夫，有节制，自守，端正，乐意接待远人，善于教导；不因酒滋事，不打人，只要温和，不争竞，不贪财。"（提摩太前书 3:1-3）
@@ -38,7 +38,7 @@ Notice Paul's criteria: not talent, education, or eloquence, but character. "Bla
     },
     {
       title_zh: '三、敬虔的奥秘与年轻牧者的操练（4章）',
-      title_en: 'The Mystery of Godliness and the Young Pastor\'s Discipline',
+      title_en: `III. The Mystery of Godliness and the Young Pastor's Discipline`,
       content_zh: `保罗在书信中间插入了一段伟大的基督颂歌，揭示了"敬虔的奥秘"。
 
 "大哉，敬虔的奥秘，无人不以为然！就是神在肉身显现，被圣灵称义，被天使看见，被传于外邦，被世人信服，被接在荣耀里。"（提摩太前书 3:16）

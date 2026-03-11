@@ -6,7 +6,7 @@ import { useState } from 'react';
 const sections = [
     {
       title_zh: '一、使徒的遗嘱：脱离帐棚之前的嘱托',
-      title_en: "The Apostle's Testament: Instructions Before Departing the Tent",
+      title_en: `I. The Apostle's Testament: Instructions Before Departing the Tent`,
       content_zh: `彼得后书是新约中最具遗嘱性质的书信。彼得明确知道自己即将殉道：
 
 "因为知道我脱离这帐棚的时候快到了，正如我们主耶稣基督所指示我的。我也要尽心竭力，使你们在我去世以后时常记念这些事。"（彼得后书 1:13-15）
@@ -29,8 +29,8 @@ This gives every sentence in Second Peter immense weight. A man about to leave t
 Peter also emphasizes that what he proclaimed was not "cunningly devised fables" but what he had "were eyewitnesses of his majesty' (1:16) — he was a witness of the Transfiguration, hearing with his own ears the Father's voice: "This is my beloved Son, in whom I am well pleased' (1:17). The apostolic witness is not myth but firsthand testimony.`
     },
     {
-      title_zh: '信仰的功课：在恩典中长进',
-      title_en: 'Lessons of Faith: Growing in Grace',
+      title_zh: `二、信仰的功课：在恩典中长进`,
+      title_en: `II. Lessons of Faith: Growing in Grace`,
       content_zh: `彼得后书是彼得在殉道前的最后书信。他知道自己"脱离这帐棚的时候快到了"（1:14），因此更加迫切地要把最重要的事留给信徒。第一章他呼吁信徒在信仰中积极成长，列出了信仰成长的阶梯。
 
 "正因这缘故，你们要分外地殷勤；有了信心，又要加上德行；有了德行，又要加上知识；有了知识，又要加上节制；有了节制，又要加上忍耐；有了忍耐，又要加上虔敬；有了虔敬，又要加上爱弟兄的心；有了爱弟兄的心，又要加上爱众人的心。"（彼得后书 1:5-7）
@@ -45,8 +45,8 @@ Peter also emphasizes that what he proclaimed was not "cunningly devised fables"
 These eight qualities are not parallel but progressively ascending. Faith is the foundation; love is the pinnacle. Peter says that having these qualities means we will not be "barren nor unfruitful' (1:8), but will be abundantly supplied with "an entrance into the everlasting kingdom of our Lord and Saviour Jesus Christ' (1:11).`
     },
     {
-      title_zh: '警戒假先知：他们的结局必然败亡',
-      title_en: 'Warning Against False Prophets: Their End Is Destruction',
+      title_zh: `三、警戒假先知：他们的结局必然败亡`,
+      title_en: `III. Warning Against False Prophets: Their End Is Destruction`,
       content_zh: `彼得后书第二章是新约中对假教师最严厉的警告之一。
 
 "从前在百姓中有假先知起来，将来在你们中间也必有假师傅，私自引进陷害人的异端，连买他们的主他们也不承认，自取速速地灭亡。将有许多人随从他们邪淫的行为，便叫真道因他们的缘故被毁谤。"（彼得后书 2:1-2）
@@ -61,8 +61,8 @@ These eight qualities are not parallel but progressively ascending. Faith is the
 The hallmark of false prophets is bringing in heresies "privily' — not openly opposing Christ but sneaking in secretly. Their "pernicious ways' bring evil reputation upon "the way of truth," causing the world to misunderstand Christianity. Peter uses three historical examples to show God will judge false prophets: fallen angels (2:4), Noah's flood (2:5), Sodom's fire (2:6) — yet He also delivers the righteous. This is both warning and comfort.`
     },
     {
-      title_zh: '主再来是确实的：千年如一日',
-      title_en: 'The Lord\'s Return Is Certain: A Thousand Years as One Day',
+      title_zh: `四、主再来是确实的：千年如一日`,
+      title_en: `IV. The Lord's Return Is Certain: A Thousand Years as One Day`,
       content_zh: `彼得后书最重要的神学贡献之一，是回应"主为什么还不来？"的质疑。
 
 "主所应许的尚未成就，有人以为他是耽延，其实他是宽容你们，不愿有一人沉沦，乃愿人人都悔改。但主的日子要像贼来到一样；那日，天必大有响声废去，有形质的都要被烈火销化，地和其上的物都要烧尽了。"（彼得后书 3:9-10）

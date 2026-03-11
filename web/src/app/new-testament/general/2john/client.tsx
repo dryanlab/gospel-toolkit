@@ -6,7 +6,7 @@ import { useState } from 'react';
 const sections = [
     {
       title_zh: '一、行在真理与爱中',
-      title_en: 'Walking in Truth and Love',
+      title_en: `I. Walking in Truth and Love`,
       content_zh: `约翰二书是约翰写给"蒙拣选的太太和她儿女"的短信，可能是写给某位信主的妇女，也可能是教会的拟人化表达。全信只有13节，却包含了约翰信仰的核心：真理与爱不可分割。
 
 "作长老的写信给蒙拣选的太太和她的儿女，就是我诚心所爱的；不但我爱，也是一切知道真理之人所爱的；因我们心里存着的真理，是永远与我们同在的。恩惠、怜悯、平安从父神并从父的儿子耶稣基督降与我们，在真理和爱心上常与我们同在。"（约翰二书 1:1-3）
@@ -21,8 +21,8 @@ const sections = [
 John loves this household "in the truth' — love is not emotionalism but love grounded in truth. Truth is what we mutually hold fast to; love is truth expressed in relationship. John rejoiced to hear that her children "walk in truth, as we have received a commandment from the Father' (1:4) — walking in truth is what brings the greatest joy to a shepherd.`
     },
     {
-      title_zh: '爱就是遵行诫命',
-      title_en: 'Love Is Walking in His Commandments',
+      title_zh: `二、爱就是遵行诫命`,
+      title_en: `II. Love Is Walking in His Commandments`,
       content_zh: `约翰在问安之后，立即将"爱"与"诫命"联系在一起，这是约翰神学的核心特征。
 
 "我现在劝你，太太啊，我们大家要彼此相爱。这并不是我写一条新命令给你，乃是我们从起初所受的命令。我们若照他的命令行，这就是爱。你们从起初所听见当行的，就是这命令。"（约翰二书 1:5-6）
@@ -41,8 +41,8 @@ This passage reveals the dialectical relationship between love and commandment: 
 WSC Q39: "What is the duty which God requireth of man?" A: "The duty which God requireth of man, is obedience to his revealed will." Love and obedience are not two things but two sides of the same coin.`
     },
     {
-      title_zh: '迷惑人的与敌基督的',
-      title_en: 'Deceivers and Antichrists',
+      title_zh: `三、迷惑人的与敌基督的`,
+      title_en: `III. Deceivers and Antichrists`,
       content_zh: `约翰在第7节突然转向严肃的警告，揭露了威胁教会的具体异端：
 
 "因为世上有许多迷惑人的出来，他们不认耶稣基督是成了肉身来的。这就是那迷惑人、敌基督的。"（约翰二书 1:7）
@@ -61,8 +61,8 @@ The heresy in view is likely an early form of Gnosticism known as Docetism, whic
 John continues: "Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward" (1:8). This is not saying believers can lose salvation, but warning that being led astray by heresy can cause one to lose the fruit and reward of service. John uses the severe title "antichrist" for these false teachers — not because they openly oppose Christ, but because under a "spiritual" veneer they hollow out Christ's person and work.`
     },
     {
-      title_zh: '不可接待传异教的人',
-      title_en: 'Do Not Receive Those Who Bring False Doctrine',
+      title_zh: `四、不可接待传异教的人`,
+      title_en: `IV. Do Not Receive Those Who Bring False Doctrine`,
       content_zh: `约翰在短信中也发出了严肃的警告：真正的爱包含拒绝异端的勇气。
 
 "凡越过基督的教训不常守着的，就没有神。常守这教训的，就有父又有子。若有人到你们那里，不是传这教训，不要接他到家里，也不要问他的安；因为问他安的，就在他的恶行上有份。"（约翰二书 1:9-11）

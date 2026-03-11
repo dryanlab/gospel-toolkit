@@ -6,7 +6,7 @@ import { useState } from 'react';
 const sections = [
     {
       title_zh: '一、腓利门的信心与爱心：福音果子的见证',
-      title_en: "Philemon's Faith and Love: Testimony of the Gospel's Fruit",
+      title_en: `I. Philemon's Faith and Love: Testimony of the Gospel's Fruit`,
       content_zh: `保罗在开篇就为腓利门的信心和爱心感恩，这不是客套，而是为后面的请求铺设神学基础。
 
 "我祷告的时候提到你，常为你感谢我的神。因听说你的爱心并你向主耶稣和众圣徒的信心。愿你与人所同有的信心显出功效，使人知道你们各样善事都是为基督做的。"（腓利门书 1:4-6）
@@ -25,8 +25,8 @@ Paul mentions Philemon's "love" and "faith" — the order in the Greek forms a c
 Philemon had a church meeting in his house (1:2, "the church in thy house"), indicating he was a core member of the Colossian church, wealthy enough to own slaves and provide a meeting place. Paul calls him a "fellowlabourer' — not an employer-employee relationship but a co-worker relationship in the gospel.`
     },
     {
-      title_zh: '爱心的恳求：不是命令，乃是请求',
-      title_en: 'An Appeal of Love: Not a Command but a Request',
+      title_zh: `二、爱心的恳求：不是命令，乃是请求`,
+      title_en: `II. An Appeal of Love: Not a Command but a Request`,
       content_zh: `腓利门书只有一章25节，是保罗最短的书信，却蕴含着福音最深刻的应用。阿尼西母是腓利门的奴隶，他偷了主人的财物逃跑，在罗马遇见了囚犯保罗，信了主。保罗现在把他送回去，同时写信请求腓利门饶恕并接纳他。
 
 "我虽然靠着基督能放胆吩咐你合宜的事，然而像我这有年纪的保罗，现在又是为基督耶稣被囚的，宁可凭着爱心求你。就是为我在捆锁中所生的儿子阿尼西母求你。"（腓利门书 1:8-10）
@@ -41,8 +41,8 @@ Philemon had a church meeting in his house (1:2, "the church in thy house"), ind
 Paul had apostolic authority to "command' Philemon, but chose to "beseech for love's sake." This is the gospel's way — not coercion but the persuasion of love. Paul called Onesimus "my son whom I have begotten in my bonds' — a runaway slave became an apostle's son through the gospel.`
     },
     {
-      title_zh: '福音如何改变社会关系',
-      title_en: 'How the Gospel Transforms Social Relationships',
+      title_zh: `三、福音如何改变社会关系`,
+      title_en: `III. How the Gospel Transforms Social Relationships`,
       content_zh: `保罗对腓利门的请求揭示了福音改变社会关系的方式——不是外在的革命，而是内在的更新。
 
 "他暂时离开你，或者是叫你永远得着他——不再是奴仆，乃是高过奴仆，是亲爱的兄弟。在我实在是如此，何况在你呢！这也不拘是按肉体说，是按主说。"（腓利门书 1:15-16）
@@ -57,8 +57,8 @@ Paul had apostolic authority to "command' Philemon, but chose to "beseech for lo
 "Not now as a servant, but above a servant, a brother beloved' — this is the identity revolution the gospel brings. In Christ, master and slave become brothers. Paul did not directly call for the abolition of slavery, but he planted a seed: when a master truly regards his slave as "a brother beloved," the foundation of slavery crumbles. The gospel changes the world not through top-down political revolution but through inside-out life transformation.`
     },
     {
-      title_zh: '基督的代替：福音的缩影',
-      title_en: 'Christ\'s Substitution: The Gospel in Miniature',
+      title_zh: `四、基督的代替：福音的缩影`,
+      title_en: `IV. Christ's Substitution: The Gospel in Miniature`,
       content_zh: `腓利门书最感人的一节，也是福音代替原理的最佳写照。
 
 "他若亏负你，或欠你什么，都归在我的帐上。我保罗亲笔写的，我必偿还。"（腓利门书 1:18-19）

@@ -6,7 +6,7 @@ import { useState } from 'react';
 const sections = [
     {
       title_zh: '一、患难中的安慰与神公义的审判（1章）',
-      title_en: 'Comfort in Affliction and God\'s Righteous Judgment',
+      title_en: `I. Comfort in Affliction and God's Righteous Judgment`,
       content_zh: `帖撒罗尼迦后书写于前书之后不久。教会仍在遭受逼迫，保罗首先安慰他们：苦难不是白受的，神公义的审判必要临到逼迫他们的人。
 
 "我们在神的各教会里为你们夸口，都因你们在所受的一切逼迫患难中，仍旧存忍耐和信心。这正是神公义判断的明证，叫你们可算配得神的国；你们就是为这国受苦。"（帖撒罗尼迦后书 1:4-5）
@@ -22,7 +22,7 @@ Believers' patience and faith in tribulation are themselves "a manifest token of
     },
     {
       title_zh: '二、大罪人的显露与主再来的次序（2章）',
-      title_en: 'The Revelation of the Man of Sin and the Order of the Lord\'s Return',
+      title_en: `II. The Revelation of the Man of Sin and the Order of the Lord's Return`,
       content_zh: `帖撒罗尼迦教会中有人传说"主的日子现在到了"，引起恐慌和混乱。保罗纠正这一错误，指出主再来之前必有两件事先发生。
 
 "人不拘用什么法子，你们总不要被他诱惑；因为那日子以前，必有离道反教的事，并有那大罪人，就是沉沦之子，显露出来。他是抵挡主，高抬自己，超过一切称为神的和一切受人敬拜的，甚至坐在神的殿里，自称是神。"（帖撒罗尼迦后书 2:3-4）
@@ -38,7 +38,7 @@ Before the Lord's return, first there must be "a falling away' — a great apost
     },
     {
       title_zh: '三、不做工就不可吃饭：基督徒的勤劳（3章）',
-      title_en: 'If Any Would Not Work, Neither Should He Eat',
+      title_en: `III. If Any Would Not Work, Neither Should He Eat`,
       content_zh: `帖撒罗尼迦教会中有人借口"主快来了"就不再工作，成为游手好闲的人，甚至管别人的闲事。保罗严厉斥责这种行为。
 
 "我们在你们那里的时候，曾吩咐你们说，若有人不肯做工，就不可吃饭。因我们听说，在你们中间有人不按规矩而行，什么工都不做，反倒专管闲事。我们靠主耶稣基督吩咐、劝戒这样的人，要安静做工，吃自己的饭。"（帖撒罗尼迦后书 3:10-12）

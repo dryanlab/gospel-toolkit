@@ -6,7 +6,7 @@ import { useState } from 'react';
 const sections = [
     {
       title_zh: '一、不以福音为耻：刚强的心（1章）',
-      title_en: 'Not Ashamed of the Gospel: A Spirit of Power',
+      title_en: `I. Not Ashamed of the Gospel: A Spirit of Power`,
       content_zh: `提摩太后书是保罗生命中最后一封书信，写于罗马监狱，死亡近在眼前。在这样的处境中，保罗没有自怜，反而勉励提摩太刚强壮胆。
 
 "因为神赐给我们，不是胆怯的心，乃是刚强、仁爱、谨守的心。你不要以给我们的主作见证为耻，也不要以我这为主被囚的为耻；总要按神的能力，与我为福音同受苦难。"（提摩太后书 1:7-8）
@@ -22,7 +22,7 @@ const sections = [
     },
     {
       title_zh: '二、圣经的默示与充足（2章）',
-      title_en: 'The Inspiration and Sufficiency of Scripture',
+      title_en: `II. The Inspiration and Sufficiency of Scripture`,
       content_zh: `保罗在这封遗书中留下了关于圣经最重要的宣告之一。
 
 "圣经都是神所默示的，于教训、督责、使人归正、教导人学义都是有益的，叫属神的人得以完全，预备行各样的善事。"（提摩太后书 3:16-17）
@@ -38,7 +38,7 @@ const sections = [
     },
     {
       title_zh: '三、美好的仗已经打过：保罗的遗言（4章）',
-      title_en: 'I Have Fought a Good Fight: Paul\'s Final Words',
+      title_en: `III. I Have Fought a Good Fight: Paul\'s Final Words`,
       content_zh: `第四章是保罗一生的总结，也是整本圣经中最感人的段落之一。
 
 "我现在被浇奠，我离世的时候到了。那美好的仗我已经打过了，当跑的路我已经跑尽了，所信的道我已经守住了。从此以后，有公义的冠冕为我存留，就是按着公义审判的主到了那日要赐给我的；不但赐给我，也赐给凡爱慕他显现的人。"（提摩太后书 4:6-8）

@@ -6,7 +6,7 @@ import { useState } from 'react';
 const sections = [
     {
       title_zh: '一、活泼的盼望：苦难中的平安（1章）',
-      title_en: 'A Living Hope: Peace in Suffering',
+      title_en: `I. A Living Hope: Peace in Suffering`,
       content_zh: `彼得前书的背景是罗马帝国对基督徒的逼迫，收信人是散居各地的信徒。彼得以他亲身经历的失败与恢复，写下了关于苦难中盼望最真实的见证。
 
 "愿颂赞归与我们主耶稣基督的父神！他曾照自己的大怜悯，藉耶稣基督从死里复活，重生了我们，叫我们有活泼的盼望，可以得着不能朽坏、不能玷污、不能衰残、为你们存留在天上的基业。"（彼得前书 1:3-4）
@@ -22,7 +22,7 @@ const sections = [
     },
     {
       title_zh: '二、选民、圣洁的国度：教会的身份（2章）',
-      title_en: 'A Chosen Generation, A Holy Nation: The Church\'s Identity',
+      title_en: `II. A Chosen Generation, A Holy Nation: The Church's Identity`,
       content_zh: `彼得书信中最著名的段落之一，描述了基督徒在神眼中的身份——这是每一个在苦难中迷失方向的信徒需要回归的根基。
 
 "惟有你们是被拣选的族类，是有君尊的祭司，是圣洁的国度，是属神的子民，要叫你们宣扬那召你们出黑暗入奇妙光明者的美德。"（彼得前书 2:9）
@@ -42,7 +42,7 @@ Who are you? Not someone defined by society or limited by suffering, but someone
     },
     {
       title_zh: '三、在苦难中效法基督的脚踪（3章）',
-      title_en: 'Following Christ\'s Steps Through Suffering',
+      title_en: `III. Following Christ's Steps Through Suffering`,
       content_zh: `彼得书信关于苦难的教导，来自他亲眼目睹基督受苦的经历。他是在客西马尼园逃跑的那个人，是在大祭司院子里三次不认主的那个人——他对苦难与恐惧有切身的体验。
 
 "你们蒙召原是为此；因基督也为你们受过苦，给你们留下榜样，叫你们跟随他的脚踪行。他并没有犯罪，口里也没有诡诈；他被骂不还口；受害不说威吓的话，只将自己交托那按公义审判人的主。"（彼得前书 2:21-23）

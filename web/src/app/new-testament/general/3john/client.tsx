@@ -6,7 +6,7 @@ import { useState } from 'react';
 const sections = [
     {
       title_zh: '一、接待传道人：盖犹的美好见证',
-      title_en: 'Welcoming Missionaries: The Good Example of Gaius',
+      title_en: `I. Welcoming Missionaries: The Good Example of Gaius`,
       content_zh: `约翰三书是写给盖犹的个人信件，全信只有14节，却在约翰二书"不可接待异端"之后，提供了一个正面的例子：当接待、支持传道人。
 
 "亲爱的兄弟啊，凡你向作客旅之弟兄所行的都是忠心的。他们在教会面前证明了你的爱，你若配得过神，帮助他们往前行，这就好了。"（约翰三书 1:5-6）
@@ -21,8 +21,8 @@ const sections = [
 Gaius welcomed missionaries, including strangers, and was commended for "faithfully' doing so. This is the biblical standard of hospitality — not only welcoming acquaintances but also welcoming traveling missionaries. Paul in Romans 12:13 says to be "given to hospitality," and Hebrews 13:2 says "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares."`
     },
     {
-      title_zh: '为主名出外：宣教的神学根基',
-      title_en: 'Going Forth for His Name: The Theological Foundation of Mission',
+      title_zh: `二、为主名出外：宣教的神学根基`,
+      title_en: `II. Going Forth for His Name: The Theological Foundation of Mission`,
       content_zh: `约翰在第7-8节给出了支持传道人的神学理由：
 
 "因他们是为主的名出外，对于外邦人一无所取。所以我们应该接待这样的人，叫我们与他们一同为真理做工。"（约翰三书 1:7-8）
@@ -41,8 +41,8 @@ Gaius welcomed missionaries, including strangers, and was commended for "faithfu
 The crucial phrase is the last: "that we might be fellowhelpers to the truth." Supporting missionaries is not merely doing good but participating in mission. You may not be able to go preach personally, but by welcoming missionaries and supplying their needs, you share in the gospel mission, becoming "fellowhelpers to the truth." This is what Paul calls "fellowship in furtherance of the gospel" (Philippians 1:5).`
     },
     {
-      title_zh: '爱权位的丢特腓与爱真理的低米丢',
-      title_en: 'Power-Loving Diotrephes and Truth-Loving Demetrius',
+      title_zh: `三、爱权位的丢特腓与爱真理的低米丢`,
+      title_en: `III. Power-Loving Diotrephes and Truth-Loving Demetrius`,
       content_zh: `约翰三书中两个人物的对比，是教会历史上关于领袖品格最早的案例记录。
 
 "我曾略略地写信给教会，但那好为首的丢特腓不接待我们。所以我若去，必要提说他所行的事，就是他用恶言妄论我们。还不以此为足，他自己不接待弟兄，有人愿意接待，他也禁止，并且将那些人赶出教会。"（约翰三书 1:9-10）
@@ -57,8 +57,8 @@ The crucial phrase is the last: "that we might be fellowhelpers to the truth." S
 Diotrephes's problem was that he "loveth to have the preeminence' — using power as his goal. He refused to accept the apostle John's authority and even cast out believers who wanted to welcome missionaries. This is a recorded early church case of leadership abuse. In contrast, "Demetrius hath good report of all men, and of the truth itself' (1:12) — those with true spiritual authority are confirmed by both truth and the community, not obtained by excluding others.`
     },
     {
-      title_zh: '效法善不效法恶：从行为看信仰',
-      title_en: 'Follow Good, Not Evil: Faith Manifested in Conduct',
+      title_zh: `四、效法善不效法恶：从行为看信仰`,
+      title_en: `IV. Follow Good, Not Evil: Faith Manifested in Conduct`,
       content_zh: `约翰在全信的高潮处写下了一句掷地有声的话：
 
 "亲爱的兄弟啊，不要效法恶，只要效法善。行善的属乎神；行恶的未曾见过神。"（约翰三书 1:11）
