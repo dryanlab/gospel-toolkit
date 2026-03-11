@@ -53,21 +53,6 @@ Israel asks how to respond — thousands of rams? Ten thousands of rivers of oil
 This does not mean works replace grace, but that those who truly know God inevitably live out justice, mercy, and humility. Outward religious ritual without inner life-change is worthless.
 
 The book ends with a declaration of faith — even in darkness, Micah looks to God: "Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me" (7:7). The final passage praises God's mercy: "Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy. He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea" (7:18–19). "Micah" means "Who is like the LORD?" — the book's finale returns to the prophet's own name.`,
-  },
-
-{
-    title_zh: `四、弥赛亚从伯利恒出来（5-7章）`,
-    title_en: `IV. The Messiah Shall Come from Bethlehem (Ch. 5-7)`,
-    content_zh: `弥迦书5:2是旧约最精确的弥赛亚预言之一："伯利恒以法他啊，你在犹大诸城中为小，将来必有一位从你那里出来，在以色列中为我作掌权的；他的根源从亘古，从太初就有。"这节经文在马太福音2:6被引用，博士们据此找到了婴孩耶稣。
-
-弥迦书6:8是旧约对信仰生活最精练的总结："世人哪，耶和华已指示你何为善。他向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。"不是复杂的礼仪，不是昂贵的祭物，而是三件简单的事：公义、怜悯、谦卑。
-
-第7章以信心的宣告结束："至于我，我要仰望耶和华，要等候那救我的神"（7:7）。弥迦在黑暗中宣告光明，在审判中宣告盼望——因为"神喜爱施恩"（7:18）。这位喜爱怜悯的神，在基督里向全人类施展了他最大的怜悯。`,
-    content_en: `Micah 5:2 is one of the Old Testament's most precise Messianic prophecies: "But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting." Matthew 2:6 quotes this verse; the Magi used it to find the infant Jesus.
-
-Micah 6:8 is the Old Testament's most concise summary of faithful living: "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?" Not complex rituals, not expensive sacrifices, but three simple things: justice, mercy, humility.
-
-Chapter 7 ends with a declaration of faith: "Therefore I will look unto the LORD; I will wait for the God of my salvation" (7:7). Micah declares light in darkness and hope in judgment -- because God "delighteth in mercy" (7:18). This mercy-delighting God, in Christ, extended His greatest mercy to all humanity.`,
   }
 ];
 

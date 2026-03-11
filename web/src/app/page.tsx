@@ -203,7 +203,7 @@ export default function HomePage() {
           <strong>真理磐石福音事工致力于传扬福音与建造门徒。</strong>我们持守纯正的改革宗信仰——<strong>唯独圣经</strong>、<strong>唯独恩典</strong>、<strong>唯独信心</strong>、<strong>唯独基督</strong>、<strong>唯独神的荣耀</strong>。盼望借着这个平台，帮助更多人认识真理，扎根信仰，在恩典中成长。
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] mt-3 italic max-w-2xl mx-auto">
-          Rock of Truth is dedicated to proclaiming the Gospel and building disciples. We hold to the historic Reformed faith — Sola Scriptura, Sola Gratia, Sola Fide, Solus Christus, Soli Deo Gloria. We hope that through this platform, more people will come to know the truth, be rooted in the faith, and grow in grace.
+          Rock of Truth Gospel Ministry is dedicated to proclaiming the Gospel and building disciples. We hold to the historic Reformed faith — Sola Scriptura, Sola Gratia, Sola Fide, Solus Christus, Soli Deo Gloria. We hope that through this platform, more people will come to know the truth, be rooted in the faith, and grow in grace.
         </p>
         <div className="mt-4 pt-4 border-t border-[var(--color-border)] flex items-center justify-center gap-4">
           <a href="/about" className="text-sm text-[var(--color-accent)] hover:underline">

@@ -5,8 +5,8 @@ import { useState } from 'react';
 
 const sections = [
     {
-      title_zh: '信心的榜样：帖撒罗尼迦教会',
-      title_en: 'A Model of Faith: The Thessalonian Church',
+      title_zh: '一、信心的榜样：帖撒罗尼迦教会（1章）',
+      title_en: 'I. A Model of Faith: The Thessalonian Church (Ch. 1)',
       content_zh: `帖撒罗尼迦前书是保罗最早的书信之一，写于他第二次宣教旅程期间。保罗在帖撒罗尼迦只待了短短几周就被迫离开（使徒行传17章），但这个年轻的教会在逼迫中显出惊人的信心。
 
 "因为我们的福音传到你们那里，不独在乎言语，也在乎权能和圣灵，并充足的信心。你们在大难之中，蒙了圣灵所赐的喜乐，领受真道就效法我们，也效法了主。甚至你们作了马其顿和亚该亚所有信主之人的榜样。"（帖撒罗尼迦前书 1:5-7）
@@ -21,8 +21,8 @@ const sections = [
 The gospel is not merely the transmission of words but the manifestation of the Holy Spirit's power. The Thessalonian believers received the word "in much affliction' yet had "joy of the Holy Ghost' — this is the very mark of true faith. The world's sufferings cannot steal the joy given by the Holy Spirit; rather, they become the proving ground of faith.`
     },
     {
-      title_zh: '牧者的心肠：保罗的牧养典范',
-      title_en: 'A Pastor\'s Heart: Paul\'s Model of Shepherding',
+      title_zh: '二、牧者的心肠：保罗的牧养典范（2-3章）',
+      title_en: 'II. A Pastor\'s Heart: Paul\'s Model of Shepherding (Ch. 2-3)',
       content_zh: `保罗在第二至三章展现了一个牧者最真挚的心肠。他不是为利、为名而传道，而是将自己的生命与信徒紧密相连。
 
 "只在你们中间存心温柔，如同母亲乳养自己的孩子。我们既是这样爱你们，不但愿意将神的福音给你们，连自己的性命也愿意给你们，因你们是我们所疼爱的。"（帖撒罗尼迦前书 2:7-8）
@@ -37,8 +37,8 @@ The gospel is not merely the transmission of words but the manifestation of the 
 Paul used the image of "a nurse cherishing her children' to describe his ministry, and also said he exhorted, comforted, and charged them "as a father doth his children' (2:11). True shepherding is not only pulpit teaching but the pouring of life into life — "we were willing to have imparted unto you our own souls." This is the standard for everyone who serves God.`
     },
     {
-      title_zh: '主的再来：活泼的盼望',
-      title_en: 'The Lord\'s Return: A Living Hope',
+      title_zh: '三、主的再来：活泼的盼望（4章）',
+      title_en: 'III. The Lord\'s Return: A Living Hope (Ch. 4)',
       content_zh: `帖撒罗尼迦教会最关心的问题之一是：已经去世的信徒在主再来时会怎样？保罗给出了教会历史上最清晰的末世论教导之一。
 
 "我们现在照主的话告诉你们一件事：我们这活着还存留到主降临的人，断不能在那已经睡了的人之先。因为主必亲自从天降临，有呼叫的声音和天使长的声音，又有神的号吹响；那在基督里死了的人必先复活。以后我们这活着还存留的人必和他们一同被提到云里，在空中与主相遇。这样，我们就要和主永远同在。"（帖撒罗尼迦前书 4:15-17）

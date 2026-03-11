@@ -20,16 +20,24 @@ Prison did not extinguish Paul's joy; rather, it became an opportunity for witne
   {
     title_zh: `二、以基督的心为心：谦卑与合一（2章）`,
     title_en: `II. Having the Mind of Christ: Humility and Unity (Ch. 2)`,
-    content_zh: `腓立比书第2章包含新约最伟大的基督论诗歌（2:6-11）。基督"本有神的形像，不以自己与神同等为强夺的"，反倒虚己，取了奴仆的形像，"自己卑微，存心顺服，以至于死，且死在十字架上"（2:8）。
+    content_zh: `第2章是保罗书信中神学最为密集的篇章之一。他从实际的教会生活问题出发——"凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。各人不要单顾自己的事，也要顾别人的事"（2:3-4）——然后引出新约最伟大的基督论诗歌作为谦卑的终极榜样：
 
-保罗引用这首诗歌的目的是实践性的——"你们当以基督耶稣的心为心"（2:5）。教会中的合一、谦卑、彼此看别人比自己强（2:3），都是以基督的虚己为榜样。
+"你们当以基督耶稣的心为心：他本有神的形像，不以自己与神同等为强夺的；反倒虚己，取了奴仆的形像，成为人的样式；既有人的样子，就自己卑微，存心顺服，以至于死，且死在十字架上。所以，神将他升为至高，又赐给他那超乎万名之上的名，叫一切在天上的、地上的，和地底下的，因耶稣的名无不屈膝，无不口称耶稣基督为主，使荣耀归与父神。"（2:6-11）
 
-"你们立志行事都是神在你们心里运行，为要成就他的美意"（2:13）。基督徒生活的动力不是自律，而是神在里面的工作。提摩太和以巴弗提（2:19-30）是这种舍己精神的活见证——他们不求自己的益处，只求别人的益处。`,
-    content_en: `Philippians 2 contains the greatest Christological hymn in the New Testament (2:6-11). Christ, "being in the form of God, thought it not robbery to be equal with God," yet emptied Himself, took the form of a servant, and "humbled himself, and became obedient unto death, even the death of the cross" (2:8).
+这首诗歌描绘了一个巨大的"V"字形运动：从至高降到至卑（神的形像→奴仆的形像→十字架的死），再从至卑升到至高（被升为至高→万名之上→万膝跪拜）。"虚己"（kenosis）不是说基督放弃了神性，而是说他不以神性的特权为自己谋利——他自愿走向贫穷、软弱和死亡。韦敏斯德信条第八章论基督的"降卑"（humiliation）和"升高"（exaltation）正是基于这段经文。
 
-Paul's purpose in quoting this hymn is practical -- "Let this mind be in you, which was also in Christ Jesus" (2:5). Unity in the church, humility, and esteeming others better than ourselves (2:3) all flow from Christ's example.
+这首诗歌的上下文是实践性的——"以基督的心为心"。教会中的合一、谦卑、看别人比自己强，不是道德说教，而是效法基督虚己的具体实践。
 
-"It is God which worketh in you both to will and to do of his good pleasure" (2:13). The power of Christian life is not self-discipline but God working within. Timothy and Epaphroditus (2:19-30) are living witnesses of this self-giving spirit.`,
+"就当恐惧战兢做成你们得救的工夫。因为你们立志行事都是神在你们心里运行，为要成就他的美意"（2:12-13）。这里并存着两个真理：人的责任（"做成你们得救的工夫"）和神的主权（"神在你们心里运行"）。改革宗神学不是把两者对立，而是同时持守。提摩太和以巴弗提（2:19-30）是这种舍己精神的活见证——以巴弗提"为做基督的工夫，几乎至死"（2:30）。`,
+    content_en: `Chapter 2 is one of the most theologically dense passages in Paul's letters. He starts from practical church life — "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. Look not every man on his own things, but every man also on the things of others" (2:3-4) — then introduces the New Testament's greatest Christological hymn as the ultimate model of humility:
+
+"Let this mind be in you, which was also in Christ Jesus: Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross. Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father." (2:6-11, KJV)
+
+This hymn traces a great V-shaped movement: from highest to lowest (form of God → form of a servant → death on a cross), then from lowest to highest (highly exalted → name above every name → every knee bowing). "Kenosis" (self-emptying) does not mean Christ abandoned His divinity but that He did not exploit His divine privileges for His own benefit — He voluntarily embraced poverty, weakness, and death. Westminster Confession chapter 8 on Christ's "humiliation" and "exaltation" is grounded precisely in this passage.
+
+The hymn's context is practical — "let this mind be in you." Church unity, humility, and esteeming others are not moral platitudes but concrete imitation of Christ's self-emptying.
+
+"Work out your own salvation with fear and trembling. For it is God which worketh in you both to will and to do of his good pleasure" (2:12-13). Two truths coexist: human responsibility ("work out your salvation") and divine sovereignty ("God worketh in you"). Reformed theology does not oppose these but holds both simultaneously. Timothy and Epaphroditus (2:19-30) are living witnesses of this self-giving spirit — Epaphroditus "for the work of Christ was nigh unto death" (2:30).`,
   },
   {
     title_zh: `三、认识基督：舍弃一切的得着（3章）`,

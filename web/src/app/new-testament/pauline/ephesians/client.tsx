@@ -4,32 +4,80 @@ import SpeakButton from '@/components/SpeakButton';
 import { useState } from 'react';
 const sections = [
   {
-    title_zh: `一、在基督里的属灵福气（1-3章）`,
-    title_en: `I. Spiritual Blessings in Christ (Ch. 1-3)`,
-    content_zh: `以弗所书以荣耀的颂歌开始——"愿颂赞归与我们主耶稣基督的父神！他在基督里曾赐给我们天上各样属灵的福气"（1:3）。选召（1:4）、救赎（1:7）、产业（1:11）、圣灵的印记（1:13）——这是神赐给每一个信徒的丰富资产。
+    title_zh: `一、在基督里的拣选与恩典的救恩（1-2章）`,
+    title_en: `I. Election in Christ and Salvation by Grace (Ch. 1-2)`,
+    content_zh: `以弗所书以新约中最荣耀的颂歌开始——一个长达12节的希腊文句子（1:3-14），保罗一口气颂赞三一神的救恩工作：
 
-保罗的两个代祷（1:15-23, 3:14-21）是全书最高峰：祈求信徒有智慧和启示的灵，认识基督复活的大能；愿信徒被圣灵充满，使基督住在心里，"以爱心为根，以爱心为基"，能以和众圣徒一同明白基督的爱"是何等长阔高深"（3:18）。
+"愿颂赞归与我们主耶稣基督的父神！他在基督里曾赐给我们天上各样属灵的福气；就如神从创立世界以前，在基督里拣选了我们，使我们在他面前成为圣洁，无有瑕疵；又因爱我们，就按着自己的意旨所喜悦的，预定我们藉着耶稣基督得儿子的名分"（1:3-5）。
 
-第2章展示了恩典的奇妙——我们"本是死在过犯罪恶之中"（2:1），却"因着信，藉着恩得救"（2:8）。犹太人和外邦人在基督里同为"一个新人"（2:15），"同蒙应许"（3:6）——这是教会的奥秘。`,
-    content_en: `Ephesians opens with a glorious doxology -- "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ" (1:3). Election (1:4), redemption (1:7), inheritance (1:11), the seal of the Spirit (1:13) -- these are the riches given to every believer.
+"Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ: According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will." (Ephesians 1:3-5, KJV)
 
-Paul's two prayers (1:15-23, 3:14-21) are the book's summits: asking that believers have the spirit of wisdom and revelation to know the power of Christ's resurrection; that believers be filled with the Spirit, Christ dwelling in their hearts, rooted and grounded in love, able to comprehend "what is the breadth, and length, and depth, and height" of Christ's love (3:18).
+"从创立世界以前"拣选——这不是事后的追认，而是在时间之前的永恒定旨。改革宗神学的"无条件的拣选"教义正植根于此：神拣选我们不是因为他预见我们会信，而是"按着自己的意旨所喜悦的"。接着是救赎（"我们藉这爱子的血得蒙救赎，过犯得以赦免"，1:7）、启示（"都是照他自己所预定的美意"，1:9）、继承（"我们也在他里面得了基业"，1:11）、印证（"你们既听见真理的道……信了基督，既然信他，就受了所应许的圣灵为印记"，1:13）。圣父拣选、圣子救赎、圣灵印证——三一神完美协作的救恩。
 
-Chapter 2 displays the wonder of grace -- we "were dead in trespasses and sins" (2:1), yet saved "by grace through faith" (2:8). Jews and Gentiles are "one new man" in Christ (2:15), "fellowheirs" (3:6) -- this is the mystery of the church.`,
+保罗的第一个代祷（1:15-23）求神赐下"智慧和启示的灵"，使信徒"真知道他"；认识"他的恩召有何等指望"、"他在圣徒中得的基业有何等丰盛的荣耀"、以及"他向我们这信的人所显的能力是何等浩大"——就是使基督从死里复活的同一大能（1:19-20）。
+
+第2章展示了恩典救恩最精炼的表述。"你们死在过犯罪恶之中，他叫你们活过来"（2:1）——人在罪中不是"生病了"而是"死了"。死人不能自救，只能等候外来的复活大能。"然而，神既有丰富的怜悯，因他爱我们的大爱，当我们死在过犯中的时候，便叫我们与基督一同活过来。你们得救是本乎恩"（2:4-5）。
+
+"你们得救是本乎恩，也因着信；这并不是出于自己，乃是神所赐的；也不是出于行为，免得有人自夸"（2:8-9）——改革宗"五个唯独"中"唯独恩典"和"唯独信心"的圣经基石。信心本身也是神的恩赐，不是人自己产生的。
+
+2:11-22揭示了教会合一的奥秘：外邦人从前"与基督无关"、"在以色列国民以外"（2:12），如今在基督的十字架上"中间隔断的墙"被拆毁（2:14），犹太人和外邦人合为"一个新人"（2:15），同被建造成"神藉着圣灵居住的所在"（2:22）。`,
+    content_en: `Ephesians opens with the New Testament's most glorious doxology — a single Greek sentence spanning twelve verses (1:3-14), Paul praising the Triune God's work of salvation in one breath:
+
+"Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ: According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will." (Ephesians 1:3-5, KJV)
+
+Chosen "before the foundation of the world" — not a retroactive endorsement but an eternal decree before time began. The Reformed doctrine of "unconditional election" is rooted precisely here: God chose us not because He foresaw our faith but "according to the good pleasure of his will." Then redemption ("In whom we have redemption through his blood, the forgiveness of sins," 1:7), revelation ("according to his good pleasure which he hath purposed in himself," 1:9), inheritance ("In whom also we have obtained an inheritance," 1:11), and sealing ("after that ye heard the word of truth... ye were sealed with that holy Spirit of promise," 1:13). The Father elects, the Son redeems, the Spirit seals — the Trinity's perfect cooperation in salvation.
+
+Paul's first prayer (1:15-23) asks God for "the spirit of wisdom and revelation" that believers may "know him"; to know "what is the hope of his calling," "what the riches of the glory of his inheritance in the saints," and "what is the exceeding greatness of his power to us-ward who believe" — the very same power that raised Christ from the dead (1:19-20).
+
+Chapter 2 presents salvation by grace in its most distilled form. "And you hath he quickened, who were dead in trespasses and sins" (2:1) — humanity in sin is not "sick" but "dead." The dead cannot save themselves; they can only await an external power of resurrection. "But God, who is rich in mercy, for his great love wherewith he loved us, Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved)" (2:4-5).
+
+"For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast" (2:8-9) — the biblical cornerstone of the Reformed "Sola Gratia" and "Sola Fide." Faith itself is God's gift, not something humans produce.
+
+2:11-22 reveals the mystery of church unity: Gentiles once "without Christ" and "aliens from the commonwealth of Israel" (2:12) now have the "middle wall of partition" broken down at Christ's cross (2:14). Jew and Gentile are made into "one new man" (2:15), built together as "an habitation of God through the Spirit" (2:22).`,
   },
   {
-    title_zh: `二、合一的呼召与新人的生活（4:1-5:21）`,
+    title_zh: `二、教会的奥秘与保罗的祷告（3章）`,
+    title_en: `II. The Mystery of the Church and Paul's Prayer (Ch. 3)`,
+    content_zh: `第3章揭示了保罗所领受的"奥秘"——"这奥秘就是外邦人在基督耶稣里，藉着福音，得以同为后嗣，同为一体，同蒙应许"（3:6）。在旧约时代，这个奥秘是隐藏的；如今藉着使徒和先知被揭示出来。教会不是神的应急方案（plan B），而是"从万世以前"就预定的永恒计划（3:11）。
+
+"为要藉着教会使天上执政的、掌权的，现在得知神百般的智慧"（3:10）——教会的存在本身就是对宇宙性属灵权势的宣告。当犹太人和外邦人、奴隶和自由人、男人和女人在基督里合一敬拜时，天使和执政掌权者看到了神智慧的彰显。
+
+第3章以保罗第二个代祷结束——这是全圣经中最壮丽的祷告之一："求他按着他丰盛的荣耀，藉着他的灵，叫你们心里的力量刚强起来，使基督因你们的信，住在你们心里，叫你们的爱心有根有基，能以和众圣徒一同明白基督的爱是何等长阔高深，并知道这爱是过于人所能测度的，便叫神一切所充满的，充满了你们"（3:16-19）。基督的爱有四个维度——长、阔、高、深——却超越了所有维度，是"过于人所能测度的"。
+
+颂荣词为前三章作结："神能照着运行在我们心里的大力充充足足地成就一切，超过我们所求所想的。但愿他在教会中，并在基督耶稣里，得着荣耀，直到世世代代，永永远远。阿们！"（3:20-21）`,
+    content_en: `Chapter 3 reveals the "mystery" Paul received — "That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel" (3:6). In the Old Testament era this mystery was hidden; now it is revealed through apostles and prophets. The church is not God's backup plan but His eternal purpose "from the beginning of the world" (3:11).
+
+"To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God" (3:10) — the church's very existence is a proclamation to cosmic spiritual powers. When Jews and Gentiles, slaves and free, men and women worship together in Christ, angels and principalities behold the display of God's wisdom.
+
+Chapter 3 concludes with Paul's second prayer — one of Scripture's most magnificent: "That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man; That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love, May be able to comprehend with all saints what is the breadth, and length, and depth, and height; And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God" (3:16-19). Christ's love has four dimensions — breadth, length, depth, height — yet surpasses all dimensions, "passing knowledge."
+
+The doxology concludes the first half: "Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen." (3:20-21)`,
+  },
+  {
+    title_zh: `三、合一的呼召与新人的生活（4:1-5:21）`,
     title_en: `II. The Call to Unity and the Life of the New Self (4:1-5:21)`,
-    content_zh: `保罗以"所以"转入实践——"我为主被囚的劝你们：行事为人就当与蒙召的恩相称"（4:1）。合一的根基是七个"一"：一体、一灵、一望、一主、一信、一洗、一神（4:4-6）。
+    content_zh: `以弗所书的伟大"所以"——前三章是教义根基（神为我们做了什么），后三章是实践果实（我们当如何活）。"我为主被囚的劝你们：既然蒙召，行事为人就当与蒙召的恩相称"（4:1）。"相称"是关键——不是靠行为赚取地位，而是活出已经得到的地位。
 
-基督升天后赐下各样恩赐——使徒、先知、传福音的、牧师和教师——为要成全圣徒（4:11-12）。目标是"满有基督长成的身量"（4:13），这是教会共同追求的目标。
+合一的根基是七个"一"："身体只有一个，圣灵只有一个……一主，一信，一洗，一神，就是众人的父，超乎众人之上，贯乎众人之中，也住在众人之内"（4:4-6）。合一不是人造的和谐，而是三一神本身的合一在教会中的彰显。
 
-脱去旧人、穿上新人（4:22-24）是基督徒生活的核心。从此不再说谎、不再偷窃、不再苦毒——不是靠律法，而是因为我们已经是新造的人。"要以恩慈相待，存怜悯的心，彼此饶恕，正如神在基督里饶恕了你们一样"（4:32）。生命中的一切圣洁，都是恩典的果实。`,
-    content_en: `Paul pivots to practice with "therefore" -- "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called" (4:1). Unity is grounded in the sevenfold "one": one body, one Spirit, one hope, one Lord, one faith, one baptism, one God (4:4-6).
+基督升天后赐下五种恩赐："他所赐的，有使徒，有先知，有传福音的，有牧师和教师，为要成全圣徒，各尽其职，建立基督的身体"（4:11-12）。注意：恩赐的目的不是使领袖更出色，而是"成全圣徒"——使每个信徒都能服事。目标是"直等到我们众人在真道上同归于一，认识神的儿子，得以长大成人，满有基督长成的身量"（4:13）。
 
-The ascended Christ gave diverse gifts -- apostles, prophets, evangelists, pastors and teachers -- for the perfecting of the saints (4:11-12). The goal is "the measure of the stature of the fulness of Christ" (4:13), the church's shared pursuit.
+4:17-5:21是新人生活的具体描绘。"你们学了基督，却不是这样"（4:20）——基督教伦理不是抽象的规条，而是在基督里的新生命的自然表达。"就要脱去你们从前行为上的旧人……将你们的心志改换一新，并且穿上新人；这新人是照着神的形像造的，有真理的仁义和圣洁"（4:22-24）。
 
-Putting off the old man and putting on the new (4:22-24) is the heart of Christian life. No more lying, stealing, or bitterness -- not by law but because we are new creatures. "Be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you" (4:32). Every holiness in life is the fruit of grace.`,
+具体应用包括：弃绝谎言说诚实话（4:25）、生气却不犯罪（4:26）、不偷窃反倒劳力行善（4:28）、不说污秽的话只说造就人的好话（4:29）、"不要叫神的圣灵担忧"（4:30）、除掉苦毒和恼怒（4:31）。总原则是："要以恩慈相待，存怜悯的心，彼此饶恕，正如神在基督里饶恕了你们一样"（4:32）——饶恕的能力来自被饶恕的经历。
+
+"从前你们是暗昧的，但如今在主里面是光明的，行事为人就当像光明的子女"（5:8）。"不要作糊涂人，要明白主的旨意如何。不要醉酒，酒能使人放荡；乃要被圣灵充满"（5:17-18）——被圣灵充满是新人生活的动力源泉。`,
+    content_en: `Ephesians' great "therefore" — the first three chapters are doctrinal foundation (what God has done for us); the last three are practical fruit (how we should live). "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called" (4:1). "Worthy" is key — not earning status by works but living out the status already given.
+
+Unity's foundation is the sevenfold "one": "There is one body, and one Spirit... One Lord, one faith, one baptism, One God and Father of all, who is above all, and through all, and in you all" (4:4-6). Unity is not manufactured harmony but the manifestation of the Trinity's own unity in the church.
+
+The ascended Christ gave five gifts: "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ" (4:11-12). Note: gifts' purpose is not to make leaders more impressive but to "perfect the saints" — equipping every believer for service. The goal is "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ" (4:13).
+
+4:17-5:21 concretely depicts the new life. "But ye have not so learned Christ" (4:20) — Christian ethics are not abstract rules but the natural expression of new life in Christ. "That ye put off concerning the former conversation the old man... And be renewed in the spirit of your mind; And that ye put on the new man, which after God is created in righteousness and true holiness" (4:22-24).
+
+Specific applications include: putting away lying and speaking truth (4:25), being angry without sinning (4:26), stealing no more but laboring to give (4:28), no corrupt talk but edifying words (4:29), "grieve not the holy Spirit of God" (4:30), putting away bitterness and wrath (4:31). The governing principle: "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you" (4:32) — the power to forgive comes from the experience of being forgiven.
+
+"For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light" (5:8). "Be not unwise, but understanding what the will of the Lord is. And be not drunk with wine, wherein is excess; but be filled with the Spirit" (5:17-18) — being filled with the Spirit is the power source for the new life.`,
   },
   {
     title_zh: `三、家庭关系的更新（5:22-6:9）`,

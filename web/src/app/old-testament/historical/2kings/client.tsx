@@ -54,21 +54,6 @@ Josiah (ch. 22–23) discovered the Book of the Law — likely Deuteronomy — f
 
 The final chapters record Judah's last kings and Babylon's three invasions. In 586 BC, Nebuchadnezzar destroyed Jerusalem and the temple; the people were exiled to Babylon. 2 Kings ends in darkness with a sliver of light: King Jehoiachin was released in Babylon and "did eat bread continually before the king of Babylon" (25:29) — David's line, though in exile, was not extinguished. The Davidic Covenant's promise endured; messianic hope survived.`,
   },
-
-{
-    title_zh: `五、两个王国的终结：审判的应验（17-25章）`,
-    title_en: `V. The End of Two Kingdoms: Judgment Fulfilled (Ch. 17-25)`,
-    content_zh: `列王纪下后半部记录了两个王国先后灭亡的过程。北国以色列在公元前722年被亚述所灭（17章）——"这是因以色列人得罪了领他们出埃及地的耶和华"（17:7）。列王纪的作者用整整一章来解释亡国的原因：不是军事失败，而是属灵背叛。
-
-南国犹大在约西亚王的改革中短暂复兴（22-23章）——他在圣殿中发现了被遗忘的律法书，撕裂衣服，带领全民立约。然而约西亚之后的诸王迅速回到恶行中。公元前586年，巴比伦攻破耶路撒冷，圣殿被焚，百姓被掳（25章）。
-
-列王纪下最后的记事是约雅斤王在巴比伦被善待（25:27-30）——在绝望中的一丝盼望。大卫的后裔仍然活着，神的应许尚未终结。即使在审判最严厉的时刻，恩典的火苗没有熄灭。`,
-    content_en: `The latter half of 2 Kings records the successive fall of both kingdoms. Northern Israel fell to Assyria in 722 BC (ch. 17) -- "For so it was, that the children of Israel had sinned against the LORD their God, which had brought them up out of the land of Egypt" (17:7). The author devotes an entire chapter to explaining why: not military failure but spiritual apostasy.
-
-Southern Judah briefly revived under King Josiah's reforms (ch. 22-23) -- he discovered the forgotten Book of the Law in the temple, tore his garments, and led the people to renew the covenant. But the kings after Josiah quickly returned to evil. In 586 BC, Babylon breached Jerusalem, the temple was burned, and the people were exiled (ch. 25).
-
-2 Kings' final note is Jehoiachin's favorable treatment in Babylon (25:27-30) -- a glimmer of hope in despair. David's heir still lives; God's promises are not yet finished. Even at judgment's severest moment, the flame of grace was not extinguished.`,
-  }
 ];
 
 const overview = {

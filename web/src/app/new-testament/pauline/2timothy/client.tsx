@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 const sections = [
     {
-      title_zh: '不以福音为耻：刚强的心',
+      title_zh: '一、不以福音为耻：刚强的心（1章）',
       title_en: 'Not Ashamed of the Gospel: A Spirit of Power',
       content_zh: `提摩太后书是保罗生命中最后一封书信，写于罗马监狱，死亡近在眼前。在这样的处境中，保罗没有自怜，反而勉励提摩太刚强壮胆。
 
@@ -21,7 +21,7 @@ const sections = [
 "Power, love, and a sound mind' — these three words summarize the core qualities of Christian ministry. Not from human passion, but from the Spirit God has given. Timothy was naturally timid (1 Cor 16:10), but God's Spirit can make the timid strong. Paul himself was the example: imprisoned yet not ashamed of the gospel, calling Timothy to "be partaker of the afflictions."`
     },
     {
-      title_zh: '圣经的默示与充足',
+      title_zh: '二、圣经的默示与充足（2章）',
       title_en: 'The Inspiration and Sufficiency of Scripture',
       content_zh: `保罗在这封遗书中留下了关于圣经最重要的宣告之一。
 
@@ -37,7 +37,7 @@ const sections = [
 "Given by inspiration of God' — the Greek is theopneustos, meaning "God-breathed." Scripture is not a human work with divine endorsement, but the very words breathed out by God, written through human hands. Scripture's function is fourfold: doctrine (correct belief), reproof (identifying error), correction (reforming behavior), and instruction in righteousness (building character). The ultimate purpose is that the man of God may be "perfect, throughly furnished unto all good works." Scripture is sufficient — we need seek no additional revelation beyond it.`
     },
     {
-      title_zh: '美好的仗已经打过：保罗的遗言',
+      title_zh: '三、美好的仗已经打过：保罗的遗言（4章）',
       title_en: 'I Have Fought a Good Fight: Paul\'s Final Words',
       content_zh: `第四章是保罗一生的总结，也是整本圣经中最感人的段落之一。
 

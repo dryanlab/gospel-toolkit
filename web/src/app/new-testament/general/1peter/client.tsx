@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 const sections = [
     {
-      title_zh: '活泼的盼望：苦难中的平安',
+      title_zh: '一、活泼的盼望：苦难中的平安（1章）',
       title_en: 'A Living Hope: Peace in Suffering',
       content_zh: `彼得前书的背景是罗马帝国对基督徒的逼迫，收信人是散居各地的信徒。彼得以他亲身经历的失败与恢复，写下了关于苦难中盼望最真实的见证。
 
@@ -21,7 +21,7 @@ const sections = [
 "A lively hope' — not passive waiting but hope that is alive and vital. The foundation of this hope is "the resurrection of Jesus Christ from the dead." Because He rose, our hope is not wishful thinking but certainty. The inheritance reserved for us in heaven is threefold: "incorruptible' (will not decay), "undefiled' (cannot be contaminated), "fadeth not away' (will not fade). This is why we can rejoice even in suffering.`
     },
     {
-      title_zh: '选民、圣洁的国度：教会的身份',
+      title_zh: '二、选民、圣洁的国度：教会的身份（2章）',
       title_en: 'A Chosen Generation, A Holy Nation: The Church\'s Identity',
       content_zh: `彼得书信中最著名的段落之一，描述了基督徒在神眼中的身份——这是每一个在苦难中迷失方向的信徒需要回归的根基。
 
@@ -41,7 +41,7 @@ Four-fold identity: a chosen generation (God's sovereign election), a royal prie
 Who are you? Not someone defined by society or limited by suffering, but someone chosen by God and treasured by God.`
     },
     {
-      title_zh: '在苦难中效法基督的脚踪',
+      title_zh: '三、在苦难中效法基督的脚踪（3章）',
       title_en: 'Following Christ\'s Steps Through Suffering',
       content_zh: `彼得书信关于苦难的教导，来自他亲眼目睹基督受苦的经历。他是在客西马尼园逃跑的那个人，是在大祭司院子里三次不认主的那个人——他对苦难与恐惧有切身的体验。
 

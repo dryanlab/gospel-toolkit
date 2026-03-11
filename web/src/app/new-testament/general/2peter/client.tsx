@@ -5,6 +5,30 @@ import { useState } from 'react';
 
 const sections = [
     {
+      title_zh: '一、使徒的遗嘱：脱离帐棚之前的嘱托',
+      title_en: "The Apostle's Testament: Instructions Before Departing the Tent",
+      content_zh: `彼得后书是新约中最具遗嘱性质的书信。彼得明确知道自己即将殉道：
+
+"因为知道我脱离这帐棚的时候快到了，正如我们主耶稣基督所指示我的。我也要尽心竭力，使你们在我去世以后时常记念这些事。"（彼得后书 1:13-15）
+
+"Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me. Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance." (2 Peter 1:13-15, KJV)
+
+"脱离帐棚"是对死亡的美丽比喻——肉身如同帐棚，是暂时的居所，真正的家在天上。主耶稣曾预言彼得将以怎样的死来荣耀神（约翰福音21:18-19），彼得如今坦然面对。他不是恐惧地等死，而是迫切地做最后的交代——"尽心竭力"使信徒在他去世后仍能记住这些教导。
+
+这给彼得后书的每一句话都赋予了千钧之重。一个即将离世的人不会说废话。彼得后书的三章涵盖了他最关切的三件事：信仰的成长（1章）、假教师的危害（2章）、主再来的盼望（3章）。这不仅是教导，更是一位老使徒倾注了毕生经历的属灵遗产。
+
+彼得还特别强调他所传的不是"随从乖巧捏造的虚言"，而是"亲眼见过他的威荣"（1:16）——他是登山变像的见证人，亲耳听见天父的声音："这是我的爱子，我所喜悦的"（1:17）。使徒的见证不是神话传说，而是亲历的事实。`,
+      content_en: `Second Peter is the most testamentary letter in the New Testament. Peter explicitly knows he is about to be martyred:
+
+"Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me. Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance." (2 Peter 1:13-15, KJV)
+
+"Put off this my tabernacle' is a beautiful metaphor for death — the body is like a tent, a temporary dwelling; our true home is in heaven. The Lord Jesus had prophesied how Peter would die to glorify God (John 21:18-19), and Peter now faces it with composure. He does not await death in fear but urgently gives his final instructions — "endeavouring' that believers may remember these teachings after his departure.
+
+This gives every sentence in Second Peter immense weight. A man about to leave the world does not waste words. The three chapters cover his three deepest concerns: growth in faith (ch. 1), the danger of false teachers (ch. 2), and the hope of the Lord's return (ch. 3). This is not merely teaching but the spiritual legacy of an aged apostle pouring out a lifetime of experience.
+
+Peter also emphasizes that what he proclaimed was not "cunningly devised fables" but what he had "were eyewitnesses of his majesty' (1:16) — he was a witness of the Transfiguration, hearing with his own ears the Father's voice: "This is my beloved Son, in whom I am well pleased' (1:17). The apostolic witness is not myth but firsthand testimony.`
+    },
+    {
       title_zh: '信仰的功课：在恩典中长进',
       title_en: 'Lessons of Faith: Growing in Grace',
       content_zh: `彼得后书是彼得在殉道前的最后书信。他知道自己"脱离这帐棚的时候快到了"（1:14），因此更加迫切地要把最重要的事留给信徒。第一章他呼吁信徒在信仰中积极成长，列出了信仰成长的阶梯。

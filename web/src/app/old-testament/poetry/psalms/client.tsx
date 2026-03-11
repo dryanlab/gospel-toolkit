@@ -54,6 +54,46 @@ Book V (Ps. 107–150) contains the Songs of Ascent (Ps. 120–134, sung by pilg
 
 The Psalter concludes with five "Hallelujah" psalms (146–150), each beginning and ending with "Praise ye the LORD." The final verse summarizes the entire Psalter: "Let every thing that hath breath praise the LORD. Praise ye the LORD" (150:6). From Psalm 1's personal meditation to Psalm 150's cosmic praise — this is the Psalter's journey: all creation praising the Creator.`,
   },
+  {
+    title_zh: `四、弥赛亚诗篇：基督的影子贯穿始终`,
+    title_en: `IV. Messianic Psalms: The Shadow of Christ Throughout`,
+    content_zh: `诗篇是新约引用最多的旧约书卷，其中弥赛亚诗篇尤其重要——它们在大卫时代写成，却精确预言了基督的降生、受苦、复活和统治。
+
+诗篇2篇宣告弥赛亚的王权："你是我的儿子，我今日生你。你求我，我就将列国赐你为基业"（2:7-8）。使徒们在使徒行传4:25-26引用此篇，指向基督。
+
+诗篇22篇是十字架的预言——写于钉十字架刑罚发明前约一千年。"我的神，我的神，为什么离弃我？"（22:1）是耶稣在十字架上的呼喊。"他们扎了我的手、我的脚"（22:16）、"他们分我的外衣，为我的里衣拈阄"（22:18）——一一应验在各各他。
+
+诗篇110篇是新约引用最多的旧约经文之一："耶和华对我主说：你坐在我的右边，等我使你仇敌作你的脚凳"（110:1）。耶稣引用此篇证明弥赛亚不仅是大卫的子孙，更是大卫的主（马太福音22:44）。"你是照着麦基洗德的等次永远为祭司"（110:4）——希伯来书详细论述了基督按麦基洗德等次永远作大祭司的教义。
+
+诗篇16:10"你必不将我的灵魂撇在阴间"，被彼得在五旬节讲道中引用，证明基督的复活（使徒行传2:27）。诗篇118:22"匠人所弃的石头已成了房角的头块石头"，耶稣亲自引用，指向自己被弃绝又被高举（马太福音21:42）。弥赛亚诗篇证明：整部旧约都在见证基督。`,
+    content_en: `Psalms is the Old Testament book most quoted in the New Testament, and the messianic psalms are especially significant — written in David's time, they precisely prophesy Christ's birth, suffering, resurrection, and reign.
+
+Psalm 2 declares the Messiah's kingship: "Thou art my Son; this day have I begotten thee. Ask of me, and I shall give thee the heathen for thine inheritance" (2:7-8). The apostles cited this psalm in Acts 4:25-26, pointing to Christ.
+
+Psalm 22 is a prophecy of the cross — written approximately a thousand years before crucifixion was invented as a form of execution. "My God, my God, why hast thou forsaken me?" (22:1) was Jesus' cry on the cross. "They pierced my hands and my feet" (22:16), "They part my garments among them, and cast lots upon my vesture" (22:18) — all fulfilled at Calvary.
+
+Psalm 110 is one of the most frequently cited Old Testament texts in the New Testament: "The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool" (110:1). Jesus cited this psalm to prove the Messiah is not only David's son but David's Lord (Matthew 22:44). "Thou art a priest for ever after the order of Melchizedek" (110:4) — Hebrews expounds in detail the doctrine of Christ as eternal high priest after the order of Melchizedek.
+
+Psalm 16:10, "thou wilt not leave my soul in hell," was cited by Peter at Pentecost to prove Christ's resurrection (Acts 2:27). Psalm 118:22, "The stone which the builders refused is become the head stone of the corner," was quoted by Jesus Himself, pointing to His own rejection and exaltation (Matthew 21:42). The messianic psalms prove: the entire Old Testament bears witness to Christ.`,
+  },
+  {
+    title_zh: `五、诗篇在基督徒灵修中的地位`,
+    title_en: `V. The Place of the Psalms in Christian Devotion`,
+    content_zh: `诗篇自古以来就是基督徒灵修的核心。初代教会将诗篇作为日常祷告和敬拜的基础；修道院传统中，修士们每周诵读全部150篇；改革宗传统更是推崇诗篇颂唱（Psalm singing）。加尔文称诗篇为"灵魂的解剖学"——因为它真实地展现了信徒在神面前的一切情感。
+
+诗篇教导我们如何祷告。赞美诗篇（如103、145-150篇）教我们在一切环境中赞美神；哀歌诗篇（如13、22、88篇）教我们在痛苦中向神倾诉而不是压抑情感；忏悔诗篇（如32、51篇）教我们在罪中悔改；感恩诗篇（如30、116篇）教我们记念神的恩典；咒诅诗篇（如35、109篇）教我们将公义的诉求交给审判的神。
+
+韦敏斯德小要理问答第98问："祷告是什么？"答："祷告是奉基督的名，向神倾心吐意，承认我们的罪，感谢地求他的恩典。"诗篇正是这一切的范本。
+
+路德说："诗篇是一本小圣经。"它浓缩了全部圣经的教义，以祷告和赞美的形式呈现。无论你在信仰的哪个阶段——初信的喜乐、试炼中的挣扎、黑夜中的等候、得胜后的赞美——诗篇都有一篇为你预备的话语。`,
+    content_en: `The Psalms have been central to Christian devotion since antiquity. The early church used the Psalms as the foundation for daily prayer and worship; in the monastic tradition, monks recited all 150 psalms weekly; the Reformed tradition especially championed psalm singing. Calvin called the Psalms "an anatomy of all the parts of the soul" — because they truthfully display every emotion of the believer before God.
+
+The Psalms teach us how to pray. Praise psalms (e.g., 103, 145-150) teach us to praise God in all circumstances; lament psalms (e.g., 13, 22, 88) teach us to pour out our pain to God rather than suppress our emotions; penitential psalms (e.g., 32, 51) teach us repentance in sin; thanksgiving psalms (e.g., 30, 116) teach us to remember God's grace; imprecatory psalms (e.g., 35, 109) teach us to entrust our cry for justice to the God who judges righteously.
+
+WSC Q98: "What is prayer?" A: "Prayer is an offering up of our desires unto God, for things agreeable to His will, in the name of Christ, with confession of our sins, and thankful acknowledgment of His mercies." The Psalms are the template for all of this.
+
+Luther said: "The Psalms are a little Bible." They condense all biblical doctrine, presented in the form of prayer and praise. Whatever stage of faith you are in — the joy of new belief, the struggle of trials, the waiting in the dark night, the praise after victory — the Psalms have a word prepared for you.`,
+  },
 ];
 
 const overview = {

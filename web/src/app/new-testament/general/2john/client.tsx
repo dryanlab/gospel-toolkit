@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 const sections = [
     {
-      title_zh: '行在真理与爱中',
+      title_zh: '一、行在真理与爱中',
       title_en: 'Walking in Truth and Love',
       content_zh: `约翰二书是约翰写给"蒙拣选的太太和她儿女"的短信，可能是写给某位信主的妇女，也可能是教会的拟人化表达。全信只有13节，却包含了约翰信仰的核心：真理与爱不可分割。
 
@@ -19,6 +19,46 @@ const sections = [
 "The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth; For the truth's sake, which dwelleth in us, and shall be with us for ever. Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and in love." (2 John 1:1-3, KJV)
 
 John loves this household "in the truth' — love is not emotionalism but love grounded in truth. Truth is what we mutually hold fast to; love is truth expressed in relationship. John rejoiced to hear that her children "walk in truth, as we have received a commandment from the Father' (1:4) — walking in truth is what brings the greatest joy to a shepherd.`
+    },
+    {
+      title_zh: '爱就是遵行诫命',
+      title_en: 'Love Is Walking in His Commandments',
+      content_zh: `约翰在问安之后，立即将"爱"与"诫命"联系在一起，这是约翰神学的核心特征。
+
+"我现在劝你，太太啊，我们大家要彼此相爱。这并不是我写一条新命令给你，乃是我们从起初所受的命令。我们若照他的命令行，这就是爱。你们从起初所听见当行的，就是这命令。"（约翰二书 1:5-6）
+
+"And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another. And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it." (2 John 1:5-6, KJV)
+
+这段经文揭示了爱与诫命的辩证关系：爱不是自定义的情感，而是照神的诫命行走；同时，遵行诫命的本质就是爱。这与主耶稣在约翰福音14:15所说的完全一致："你们若爱我，就必遵守我的命令。"约翰在这里回应了当时（也是今天）一种危险的倾向——以"爱"的名义废弃神的命令。真正的爱从不与真理对立，因为爱的源头就是那位真理的神。
+
+韦敏斯德小要理问答第39问："神要求人尽什么本分？"答："神要求人以顺服他所启示的旨意为本分。"爱与顺服不是两件事，而是一件事的两面。`,
+      content_en: `After his greeting, John immediately links "love" and "commandment" — a hallmark of Johannine theology.
+
+"And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another. And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it." (2 John 1:5-6, KJV)
+
+This passage reveals the dialectical relationship between love and commandment: love is not self-defined emotion but walking according to God's commandments; at the same time, the essence of keeping commandments is love. This perfectly echoes what the Lord Jesus said in John 14:15: "If ye love me, keep my commandments." John here counters a dangerous tendency of his time (and ours) — abolishing God's commands in the name of "love." True love never opposes truth, for the source of love is the God of truth Himself.
+
+WSC Q39: "What is the duty which God requireth of man?" A: "The duty which God requireth of man, is obedience to his revealed will." Love and obedience are not two things but two sides of the same coin.`
+    },
+    {
+      title_zh: '迷惑人的与敌基督的',
+      title_en: 'Deceivers and Antichrists',
+      content_zh: `约翰在第7节突然转向严肃的警告，揭露了威胁教会的具体异端：
+
+"因为世上有许多迷惑人的出来，他们不认耶稣基督是成了肉身来的。这就是那迷惑人、敌基督的。"（约翰二书 1:7）
+
+"For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist." (2 John 1:7, KJV)
+
+这里所指的异端很可能是早期诺斯底主义的一种形式——幻影说（Docetism），认为基督只是看起来有肉身，实际上并没有真正道成肉身。约翰在约翰一书4:2-3已经严厉驳斥了这种教导。否认道成肉身就是否认救赎的根基：如果基督没有取得真正的人性，他就不能代替我们死；如果他没有真正受苦，十字架就成了幻象。
+
+约翰接着说："你们要小心自己，不要丢失你们所做的工，乃要得着满足的赏赐"（1:8）。这不是说信徒会失去救恩，而是警告：被异端迷惑会使你失去事奉的果效和赏赐。约翰用"敌基督"这个严厉的称呼来形容这些假教师——不是因为他们明目张胆地反对基督，而是因为他们以"属灵"的外衣暗中掏空了基督的位格与工作。`,
+      content_en: `In verse 7, John pivots to a solemn warning, exposing the specific heresy threatening the church:
+
+"For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist." (2 John 1:7, KJV)
+
+The heresy in view is likely an early form of Gnosticism known as Docetism, which held that Christ only appeared to have a physical body but did not truly become incarnate. John had already refuted this teaching severely in 1 John 4:2-3. To deny the incarnation is to deny the foundation of redemption: if Christ did not take on true human nature, He could not die in our place; if He did not truly suffer, the cross becomes an illusion.
+
+John continues: "Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward" (1:8). This is not saying believers can lose salvation, but warning that being led astray by heresy can cause one to lose the fruit and reward of service. John uses the severe title "antichrist" for these false teachers — not because they openly oppose Christ, but because under a "spiritual" veneer they hollow out Christ's person and work.`
     },
     {
       title_zh: '不可接待传异教的人',

@@ -5,60 +5,102 @@ import { useState } from 'react';
 
 const sections = [
   {
-    title_zh: `一、苦难中的安慰与新约的职事（1-5章）`,
-    title_en: `I. Comfort in Suffering and the Ministry of the New Covenant (Ch. 1-5)`,
-    content_zh: `保罗以安慰开始——"我们在一切患难中，他就安慰我们，叫我们能用神所赐的安慰去安慰那遭各样患难的人"（1:4）。安慰不是为了享受，而是为了转给别人。保罗的苦难如此深重，"连活命的指望都绝了"（1:8），但正是在绝望中他学会了不靠自己。
+    title_zh: `一、苦难中的安慰与使徒的心肠（1-2章）`,
+    title_en: `I. Comfort in Suffering and the Apostle's Heart (Ch. 1-2)`,
+    content_zh: `哥林多后书是保罗最私密的一封信——在这里我们看到的不是系统神学家，而是一个满身伤痕、心里流泪、却因神的安慰而刚强的牧者。
 
-新约的职事远超过旧约："那字句是叫人死，精意是叫人活"（3:6）。摩西的帕子在基督里被除去了。"我们众人既然敞着脸得以看见主的荣光，好像从镜子里返照，就变成主的形状"（3:18）。
+"愿颂赞归与我们的主耶稣基督的父神，就是发慈悲的父，赐各样安慰的神。我们在一切患难中，他就安慰我们，叫我们能用神所赐的安慰去安慰那遭各样患难的人"（1:3-4）。"安慰"（paraklesis）在开头的几节经文中出现了十次——保罗要告诉我们：安慰不是为了自己享受的，而是为了转给别人。你所经历的痛苦不是白受的，它使你成为安慰的管道。
 
-"我们有这宝贝放在瓦器里"（4:7）——保罗的软弱不是障碍，而是神能力的容器。"我们这至暂至轻的苦楚，要为我们成就极重无比、永远的荣耀"（4:17）。`,
-    content_en: `Paul begins with comfort -- "Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God" (1:4). Comfort is not for enjoyment but for passing on. Paul's suffering was so severe he "despaired even of life" (1:8), but in despair he learned to rely not on himself.
+保罗在亚细亚的苦难如此深重，"连活命的指望都绝了"（1:8）。但正是在绝望的深渊中，他学会了"不靠自己，只靠叫死人复活的神"（1:9）。这是十字架神学的核心体验：人的尽头是神的起头。韦敏斯德小要理问答第一问"人的首要目的是什么？"——答案是"荣耀神并永远以他为乐"——当人被剥夺了一切自足的资源后，才真正学会完全依靠神。
 
-The new covenant ministry far surpasses the old: "The letter killeth, but the spirit giveth life" (3:6). Moses' veil is removed in Christ. "We all, with open face beholding as in a glass the glory of the Lord, are changed into the same image" (3:18).
+第2章揭示了保罗内心的挣扎：他写了一封"忧愁的信"给哥林多人（2:4），不是要叫他们忧愁，而是叫他们知道他格外的爱。那个犯了罪的人已经悔改了，保罗劝教会"倒不如赦免他、安慰他，免得他忧愁太过，甚至沉沦了"（2:7）。教会纪律的目的始终是恢复，不是定罪。赦免和管教是同一枚硬币的两面。`,
+    content_en: `2 Corinthians is Paul's most personal letter — here we see not the systematic theologian but a wounded, weeping pastor made strong by God's comfort.
 
-"We have this treasure in earthen vessels" (4:7) -- Paul's weakness is not an obstacle but a vessel for God's power. "Our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory" (4:17).`,
+"Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God" (1:3-4). "Comfort" (paraklesis) appears ten times in the opening verses — Paul is saying: comfort is not for your own enjoyment but for passing on. Your pain is not wasted; it makes you a channel of comfort.
+
+Paul's suffering in Asia was so severe he "despaired even of life" (1:8). But in the abyss of despair, he learned to rely "not in ourselves, but in God which raiseth the dead" (1:9). This is the core experience of cross theology: man's extremity is God's opportunity. The Westminster Shorter Catechism Q1 asks "What is the chief end of man?" — "To glorify God and enjoy Him forever" — only when stripped of all self-sufficiency does one truly learn total dependence on God.
+
+Chapter 2 reveals Paul's inner struggle: he wrote a "sorrowful letter" to the Corinthians (2:4), not to grieve them but to show his extraordinary love. The offender had repented, and Paul urges the church to "forgive him, and comfort him, lest perhaps such a one should be swallowed up with overmuch sorrow" (2:7). Church discipline always aims at restoration, not condemnation. Forgiveness and discipline are two sides of the same coin.`,
   },
   {
-    title_zh: `二、和好的使命与圣洁的生活（5:11-7章）`,
-    title_en: `II. The Ministry of Reconciliation and Holy Living (5:11-Ch. 7)`,
-    content_zh: `"若有人在基督里，他就是新造的人，旧事已过，都变成新的了"（5:17）——这是哥林多后书最著名的经文之一。新造的人有新的使命："神……将劝人与他和好的职分赐给我们"（5:18）。每个基督徒都是"基督的使者"（5:20）。
+    title_zh: `二、新约职事的荣耀与瓦器中的宝贝（3-5章）`,
+    title_en: `II. The Glory of the New Covenant Ministry and Treasure in Earthen Vessels (Ch. 3-5)`,
+    content_zh: `第3-5章是保罗对新约职事最深刻的阐述。旧约的职事有荣光——摩西面上放光，以色列人不敢注视——但新约的职事有更大的荣光。"那字句是叫人死，精意是叫人活"（3:6）。律法定罪，圣灵赐生命；律法刻在石版上，圣灵写在心上。
 
-保罗劝勉信徒过分别为圣的生活："你们和不信的原不相配"（6:14）。这不是要与世隔绝，而是保持信仰的纯洁。"亲爱的弟兄啊，我们既有这等应许，就当洁净自己，除去身体、灵魂一切的污秽，敬畏神，得以成圣"（7:1）。
+"主就是那灵；主的灵在哪里，那里就得以自由。我们众人既然敞着脸得以看见主的荣光，好像从镜子里返照，就变成主的形状，荣上加荣，如同从主的灵变成的"（3:17-18）。旧约的帕子在基督里被除去了——信徒可以面对面注视神的荣耀，并且在注视中被改变。成圣不是靠人的努力挣扎，而是靠注视基督的荣耀而被圣灵渐渐更新。这是改革宗成圣观的核心：从"荣耀到荣耀"。
 
-第7章保罗为哥林多人的悔改而喜乐——"依着神的意思忧愁，就生出没有后悔的懊悔来，以致得救"（7:10）。真正的悔改不是自怜，是生命的转向。`,
-    content_en: `"If any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new" (5:17) -- one of 2 Corinthians' most famous verses. The new creature has a new mission: God "hath given to us the ministry of reconciliation" (5:18). Every Christian is an "ambassador for Christ" (5:20).
+第4章引出了哥林多后书最伟大的意象之一："我们有这宝贝放在瓦器里，要显明这莫大的能力是出于神，不是出于我们"（4:7）。宝贝是福音的荣耀，瓦器是使徒软弱的身体。神故意将至高的宝贝放在至卑的容器里——这样任何人看到福音的大能就不会归功于传道人，而会归荣耀于神。"四面受敌，却不被困住；心里作难，却不至失望；遭逼迫，却不被丢弃；打倒了，却不至死亡"（4:8-9）。
 
-Paul urges believers to live in holiness: "Be ye not unequally yoked together with unbelievers" (6:14). This is not isolation from the world but preservation of faith's purity. "Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God" (7:1).
+"我们这至暂至轻的苦楚，要为我们成就极重无比、永远的荣耀"（4:17）。保罗把今生一切的苦难称为"至暂至轻"——不是因为苦难不真实，而是因为与永恒的荣耀相比，它轻如鸿毛。第5章以对永恒的盼望结束："我们原知道，我们这地上的帐棚若拆毁了，必得神所造，不是人手所造，在天上永存的房屋"（5:1）。`,
+    content_en: `Chapters 3-5 contain Paul's most profound exposition of the new covenant ministry. The old covenant ministry had glory — Moses' face shone so brightly that the Israelites could not gaze upon it — but the new covenant's glory is far greater. "The letter killeth, but the spirit giveth life" (3:6). The law condemns; the Spirit gives life. The law was carved on stone tablets; the Spirit writes on hearts.
 
-In chapter 7 Paul rejoices over the Corinthians' repentance -- "Godly sorrow worketh repentance to salvation not to be repented of" (7:10). True repentance is not self-pity but a turning of life.`,
+"Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty. But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord" (3:17-18). The old covenant's veil is removed in Christ — believers can gaze directly upon God's glory and are transformed in the gazing. Sanctification comes not through human striving but through beholding Christ's glory and being gradually renewed by the Spirit. This is the heart of the Reformed view of sanctification: "from glory to glory."
+
+Chapter 4 introduces one of 2 Corinthians' greatest images: "We have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us" (4:7). The treasure is the gospel's glory; the earthen vessel is the apostle's weak body. God deliberately places the highest treasure in the lowest vessel — so that anyone seeing the gospel's power will credit not the preacher but God. "We are troubled on every side, yet not distressed; we are perplexed, but not in despair; Persecuted, but not forsaken; cast down, but not destroyed" (4:8-9).
+
+"For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory" (4:17). Paul calls all present suffering "light" and "momentary" — not because suffering is unreal but because compared to eternal glory it is featherweight. Chapter 5 concludes with the hope of eternity: "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens" (5:1).`,
+  },
+  {
+    title_zh: `三、和好的使命与圣洁的分别（5:14-7章）`,
+    title_en: `III. The Ministry of Reconciliation and Holy Separation (5:14-Ch. 7)`,
+    content_zh: `从5:14开始，保罗展开了基督教最核心的教义之一——和好。"原来基督的爱激励我们；因我们想，一人既替众人死，众人就都死了；并且他替众人死，是叫那些活着的人不再为自己活，乃为替他们死而复活的主活"（5:14-15）。基督的死不只是替代性的赎罪，还改变了我们活着的方向——不再为自己，乃为基督。
+
+"若有人在基督里，他就是新造的人，旧事已过，都变成新的了。一切都是出于神；他藉着基督使我们与他和好，又将劝人与他和好的职分赐给我们"（5:17-18）。"新造的人"——不是旧人的修补，而是全新的创造。这与改革宗的"重生"教义一致：圣灵的工作不是改良旧性情，而是赐给人一颗新心（结36:26）。
+
+"神使那无罪的，替我们成为罪，好叫我们在他里面成为神的义"（5:21）——这是"归算的义"（imputed righteousness）最简洁有力的表述。基督没有犯罪，却承担了我们的罪；我们满身罪污，却在基督里被算为义。这种"伟大的交换"是福音的核心。
+
+第6章保罗以自己的受苦为凭据——"以忍耐、患难、穷乏、困苦、鞭打、监禁"（6:4-5）服事。然后劝诫信徒过分别为圣的生活："你们和不信的原不相配，不要同负一轭"（6:14）。这不是要基督徒与世隔绝，而是保持信仰共同体的纯洁。
+
+第7章是喜乐的章节——提多带来好消息，哥林多人真的悔改了。"依着神的意思忧愁，就生出没有后悔的懊悔来，以致得救；但世俗的忧愁是叫人死"（7:10）。世俗的忧愁（如犹大的后悔）只产生绝望；敬虔的忧愁（如彼得的痛哭）产生真正的悔改和生命的更新。`,
+    content_en: `From 5:14 onward, Paul unfolds one of Christianity's most central doctrines — reconciliation. "For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead: And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again" (5:14-15). Christ's death is not only substitutionary atonement but redirects how we live — no longer for ourselves but for Christ.
+
+"Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new. And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation" (5:17-18). "New creature" — not a patched-up old person but an entirely new creation. This aligns with the Reformed doctrine of regeneration: the Spirit's work is not improving the old nature but giving a new heart (Ezek. 36:26).
+
+"For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him" (5:21) — this is the most concise and powerful statement of imputed righteousness. Christ never sinned yet bore our sin; we are stained with sin yet in Christ are counted righteous. This "great exchange" is the gospel's core.
+
+In chapter 6 Paul presents his own suffering as credentials — serving "in much patience, in afflictions, in necessities, in distresses, In stripes, in imprisonments" (6:4-5). He then urges believers to live in holy separation: "Be ye not unequally yoked together with unbelievers" (6:14). This does not call Christians to withdraw from the world but to preserve the believing community's purity.
+
+Chapter 7 is a chapter of joy — Titus brings good news that the Corinthians have truly repented. "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death" (7:10). Worldly sorrow (like Judas's remorse) produces only despair; godly sorrow (like Peter's bitter weeping) produces true repentance and renewal of life.`,
   },
   {
     title_zh: `三、甘心乐意的奉献（8-9章）`,
     title_en: `III. Cheerful and Generous Giving (Ch. 8-9)`,
-    content_zh: `第8-9章是圣经中关于奉献最完整的教导。保罗以马其顿教会为榜样——他们在极穷之间仍格外喜乐，甘心乐意地捐助（8:2-3）。奉献的根基不是富足，而是恩典。
+    content_zh: `第8-9章是全圣经中关于奉献最完整、最系统的教导。保罗为耶路撒冷贫困的圣徒募集捐款，却把这件实际的事情提升到了神学的高度。
 
-核心原则是："各人要随本心所酌定的，不要作难，不要勉强，因为捐得乐意的人是神所喜爱的"（9:7）。奉献不是律法的要求，而是恩典的回应。当我们认识到基督"本来富足，却为你们成了贫穷，叫你们因他的贫穷，可以成为富足"（8:9），奉献就成为自然的感恩行动。
+他以马其顿教会为榜样——"就是他们在患难中受大试炼的时候，仍有满足的快乐，在极穷之间还格外显出他们乐捐的厚恩"（8:2）。他们不是富人装模作样的施舍，而是穷人从自己的缺乏中慷慨给予——"他们是按着力量，而且也过了力量，自己甘心乐意地捐助"（8:3）。更令人动容的是，他们不是不得已而为之，而是"再三地求我们，准他们在这供给圣徒的恩情上有份"（8:4）。把奉献当作特权而非义务——这颠覆了我们对给予的理解。
 
-保罗应许："神能将各样的恩惠多多地加给你们，使你们凡事常常充足，能多行各样善事"（9:8）。慷慨不会使人贫穷，因为神是一切恩惠的源头。`,
-    content_en: `Chapters 8-9 contain the Bible's most complete teaching on giving. Paul holds up the Macedonian churches as an example -- in deep poverty they overflowed with joy and gave willingly (8:2-3). The foundation of giving is not wealth but grace.
+奉献的终极根基是基督的榜样："你们知道我们主耶稣基督的恩典：他本来富足，却为你们成了贫穷，叫你们因他的贫穷，可以成为富足"（8:9）。基督从天上的荣华降到马槽的卑微，从无限的富足走向十字架的贫穷——这不是勉强的牺牲，而是爱的自愿倾倒。当我们认识到自己领受了这样的恩典，奉献就不再是负担而是喜乐的回应。
 
-The core principle: "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver" (9:7). Giving is not a legal requirement but a response to grace. When we recognize that Christ "though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich" (8:9), giving becomes a natural act of gratitude.
+核心原则是："各人要随本心所酌定的，不要作难，不要勉强，因为捐得乐意的人是神所喜爱的"（9:7）。这与旧约十一奉献的律法不同——保罗不规定比例，也不施加压力。奉献的动力不是律法的要求，而是恩典的涌流。"少种的少收，多种的多收"（9:6）——慷慨不会使人贫穷，因为"神能将各样的恩惠多多地加给你们，使你们凡事常常充足，能多行各样善事"（9:8）。`,
+    content_en: `Chapters 8-9 contain the Bible's most complete and systematic teaching on giving. Paul is raising funds for impoverished saints in Jerusalem, yet elevates this practical matter to theological heights.
 
-Paul promises: "God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work" (9:8). Generosity does not impoverish, for God is the source of all grace.`,
+He holds up the Macedonian churches as an example — "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality" (8:2). This was not wealthy people making token donations but poor people giving generously from their own need — "to their power, I bear record, yea, and beyond their power they were willing of themselves" (8:3). Even more remarkably, they did not give reluctantly but "Praying us with much intreaty that we would receive the gift" (8:4). Viewing giving as privilege rather than obligation — this overturns our understanding of generosity.
+
+The ultimate foundation for giving is Christ's example: "For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich" (8:9). Christ descended from heaven's glory to a manger's humility, from infinite riches to the poverty of the cross — not reluctant sacrifice but love's voluntary outpouring. When we recognize the grace we have received, giving becomes not a burden but a joyful response.
+
+The core principle: "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver" (9:7). Unlike Old Testament tithing law, Paul prescribes no percentage and applies no pressure. The motive for giving is not legal requirement but the overflow of grace. "He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully" (9:6) — generosity does not impoverish, for "God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work" (9:8).`,
   },
   {
     title_zh: `四、保罗的使徒权柄与十字架的大能（10-13章）`,
     title_en: `IV. Paul's Apostolic Authority and the Power of the Cross (Ch. 10-13)`,
-    content_zh: `哥林多后书最后四章是保罗最激烈的自我辩护。假使徒质疑他的权柄，他却以软弱为夸口。"他对我说：'我的恩典够你用的，因为我的能力是在人的软弱上显得完全。'"（12:9）这句话颠覆了世界的价值观。
+    content_zh: `哥林多后书最后四章是保罗最激烈的自我辩护——他面对的是渗入教会的假使徒，他们攻击保罗软弱、其貌不扬、言语粗俗（10:10）。保罗的回应令人意外：他不炫耀自己的才华，而是以软弱为夸口。
 
-保罗的"愚妄自夸"（11章）以反讽方式揭露假使徒的虚伪。他列举受苦经历——被打、被石头打、遭船难、受饥渴——这些才是真使徒的凭据。被提到第三层天的奥秘经历（12:2-4），他不以为荣；身上的刺，他反以为神的恩典。
+第10章保罗声明他争战的武器："我们争战的兵器本不是属血气的，乃是在神面前有能力，可以攻破坚固的营垒"（10:4）。第11章他被迫进行"愚妄的自夸"——但他夸口的不是成就而是苦难："被犹太人鞭打五次，每次四十减去一下；被棍打了三次；被石头打了一次；遭了三次船坏……又屡次行远路，遭江河的危险、盗贼的危险……受劳碌、受困苦，多次不得睡，又饥又渴"（11:24-27）。假使徒炫耀异象和才能，保罗炫耀伤疤和眼泪——这才是真使徒的凭据。
 
-最后的劝勉极其严肃："你们总要自己省察有信心没有，也要自己试验"（13:5）。真信仰不在口头，在于生命中有基督的实际。`,
-    content_en: `The final four chapters contain Paul's most intense self-defense. False apostles questioned his authority, yet he boasts in weakness. "He said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness" (12:9). This overturns the world's values.
+第12章是全书的高峰。保罗提到一个被提到"第三层天"、听见"隐秘的言语"的人（12:2-4）——大多数学者认为这就是保罗自己。但他不以此为荣，反而以身上的"刺"为荣。"又恐怕我因所得的启示甚大，就过于自高，所以有一根刺加在我肉体上，就是撒但的差役要攻击我，免得我过于自高"（12:7）。这根"刺"的具体性质圣经没有说明——可能是身体疾病、属灵争战或逼迫——但保罗三次求主把它拿走，主的回答改变了一切：
 
-Paul's "foolish boasting" (ch. 11) ironically exposes false apostles' hypocrisy. He lists his sufferings -- beatings, stoning, shipwreck, hunger and thirst -- these are the true marks of an apostle. The mystery of being caught up to the third heaven (12:2-4) he does not glory in; the thorn in the flesh he counts as God's grace.
+"他对我说：我的恩典够你用的，因为我的能力是在人的软弱上显得完全。所以，我更喜欢夸自己的软弱，好叫基督的能力覆庇我。我为基督的缘故，就以软弱、凌辱、急难、逼迫、困苦为可喜乐的；因我什么时候软弱，什么时候就刚强了"（12:9-10）。
 
-The final exhortation is sobering: "Examine yourselves, whether ye be in the faith; prove your own selves" (13:5). True faith is not in words but in the reality of Christ living in us.`,
+"我什么时候软弱，什么时候就刚强了"——这句话颠覆了世界的价值观。世界说：刚强了才有用。福音说：承认软弱才是真正刚强的开始。最后的劝勉极其严肃："你们总要自己省察有信心没有，也要自己试验"（13:5）。真信仰不在口头的宣称，在于生命中是否有基督活着的实际。`,
+    content_en: `The final four chapters are Paul's most intense self-defense — he faces false apostles who infiltrated the church and attacked him as weak, unimpressive, and rough in speech (10:10). Paul's response is unexpected: he boasts not in his talents but in his weakness.
+
+In chapter 10 Paul declares his weapons of warfare: "For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds" (10:4). In chapter 11 he is compelled to engage in "foolish boasting" — but he boasts not of achievements but of sufferings: "Of the Jews five times received I forty stripes save one. Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck... In journeyings often, in perils of waters, in perils of robbers... In weariness and painfulness, in watchings often, in hunger and thirst" (11:24-27). False apostles boast of visions and abilities; Paul boasts of scars and tears — these are a true apostle's credentials.
+
+Chapter 12 is the book's climax. Paul mentions someone caught up to "the third heaven" who heard "unspeakable words" (12:2-4) — most scholars believe this was Paul himself. But he does not glory in this; instead he glories in his "thorn." "And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure" (12:7). The thorn's exact nature is unspecified — possibly physical illness, spiritual attack, or persecution — but Paul besought the Lord three times to remove it, and the Lord's answer changed everything:
+
+"And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me. Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong" (12:9-10).
+
+"When I am weak, then am I strong" — this overturns the world's values. The world says: be strong and you will be useful. The gospel says: acknowledging weakness is where true strength begins. The final exhortation is sobering: "Examine yourselves, whether ye be in the faith; prove your own selves" (13:5). True faith is not verbal profession but the living reality of Christ dwelling within.`,
   },
 ]
 

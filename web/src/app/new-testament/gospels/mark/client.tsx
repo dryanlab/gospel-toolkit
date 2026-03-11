@@ -47,22 +47,48 @@ From here Jesus predicts His passion three times (8:31, 9:31, 10:33-34), and aft
 The Transfiguration (9:2-8) flashes with glory amid the suffering predictions -- Moses and Elijah speak with Jesus, the Father's voice declares: "This is my beloved Son: hear him." Suffering and glory are not contradictions but two sides of the way of the cross. Bartimaeus' cry (10:47-48) closes this section -- the blind beggar sees more clearly than the disciples.`,
   },
   {
-    title_zh: `四、受难与复活：仆人的终极使命（11-16章）`,
-    title_en: `IV. Passion and Resurrection: The Servant's Ultimate Mission (Ch. 11-16)`,
-    content_zh: `马可福音的最后六章聚焦于耶稣在耶路撒冷的最后一周。洁净圣殿宣告了旧制度的终结（11:15-17），橄榄山讲论预言了将来的审判与再来（13章），客西马尼园的祷告显出仆人完全的顺服："不要从我的意思，只要从你的意思"（14:36）。
+    title_zh: `四、耶路撒冷的最后一周：冲突与教导（11-13章）`,
+    title_en: `IV. The Final Week in Jerusalem: Conflict and Teaching (Ch. 11-13)`,
+    content_zh: `耶稣进入耶路撒冷标志着马可福音的高潮展开。骑驴进城（11:1-10）应验了撒迦利亚书9:9的预言，群众高呼"和散那"——但马可的读者知道，这欢呼很快将变成"钉他十字架"。
 
-被卖、被审、被钉——马可的叙述简洁而有力。十字架上的黑暗中，耶稣喊出："我的神！我的神！为什么离弃我？"（15:34）这是全书最震撼的一刻。百夫长的告白——"这人真是神的儿子！"（15:39）——正是马可福音从第一节就要读者明白的真理。
+洁净圣殿（11:15-17）不是一时的愤怒，而是先知性的审判。马可将此事夹在无花果树的咒诅之间（11:12-14, 20-21）——枯干的无花果树象征着以色列徒有宗教外表却没有果子。"我的殿必称为万国祷告的殿。你们倒使它成为贼窝了"（11:17）。圣殿本应是万族敬拜神的地方，宗教领袖却将其变成了牟利工具。
 
-空坟墓的信息简短却有力：他已经复活了，不在这里（16:6）。仆人的使命完成了，但门徒的使命才刚刚开始。
+第12章记录了一系列论战。纳税给凯撒的问题（12:13-17）、复活的争论（12:18-27）、最大的诫命（12:28-34），每一次耶稣都以超越人的智慧回答，令对手无言以对。寡妇的两个小钱（12:41-44）是这段的结尾——在宗教领袖用权力和金钱装饰自己的对比下，一个贫穷的寡妇投上了她"一切养生的"。神看的不是数目，而是心。
 
-马可福音有一条贯穿全书的暗线：门徒的迟钝与失败。耶稣平静风和海，他们惧怕（4:40）；五千人吃饱后他们仍不明白（6:52）；在客西马尼园他们睡着了（14:37）；最后都逃跑了（14:50）。然而复活后天使特别说："去告诉他的门徒和彼得"（16:7）——连三次不认主的彼得也包括在内。恩典大过失败，这是马可福音给每一个软弱信徒的安慰。`,
-    content_en: `The final six chapters of Mark focus on Jesus' last week in Jerusalem. The cleansing of the temple proclaimed the end of the old system (11:15-17), the Olivet Discourse prophesied coming judgment and return (ch. 13), and Gethsemane revealed the Servant's complete obedience: "not what I will, but what thou wilt" (14:36).
+橄榄山讲论（13章）是马可记录的耶稣唯一一次长篇讲道。耶路撒冷的毁灭（主后70年应验）和末日的再来交织在一起。核心信息是警醒："但那日子，那时辰，没有人知道……你们要谨慎，警醒祈祷，因为你们不晓得那日期几时来到"（13:32-33）。`,
+    content_en: `Jesus' entry into Jerusalem marks the unfolding of Mark's climax. Riding a donkey into the city (11:1-10) fulfills Zechariah 9:9; the crowds shout "Hosanna" — but Mark's readers know this acclaim will soon become "Crucify him."
 
-Betrayed, tried, crucified -- Mark's narrative is concise yet powerful. In the darkness on the cross, Jesus cried out: "My God, my God, why hast thou forsaken me?" (15:34). This is the most staggering moment of the entire book. The centurion's confession -- "Truly this man was the Son of God" (15:39) -- is the very truth Mark has proclaimed since verse one.
+The cleansing of the Temple (11:15-17) is not a fit of anger but a prophetic judgment. Mark sandwiches this event between the cursing of the fig tree (11:12-14, 20-21) — the withered tree symbolizes Israel's religious show without fruit. "My house shall be called of all nations the house of prayer; but ye have made it a den of thieves" (11:17). The Temple was meant to be a place for all nations to worship God, but the religious leaders turned it into a profit center.
 
-The empty tomb message is brief but mighty: He is risen; he is not here (16:6). The Servant's mission is accomplished, but the disciples' mission has just begun.
+Chapter 12 records a series of confrontations. The question of tribute to Caesar (12:13-17), the debate on the resurrection (12:18-27), the greatest commandment (12:28-34) — each time Jesus answers with wisdom beyond man's, silencing His opponents. The widow's two mites (12:41-44) closes this section — against the backdrop of religious leaders adorning themselves with power and money, a poor widow contributes "all her living." God sees not the amount but the heart.
 
-Mark weaves a thread throughout the Gospel: the disciples' dullness and failure. Jesus calms the storm and they are afraid (4:40); after feeding five thousand they still do not understand (6:52); in Gethsemane they fall asleep (14:37); finally all forsake Him and flee (14:50). Yet after the resurrection the angel specifically says: "tell his disciples and Peter" (16:7) -- even Peter who denied Him three times is included. Grace is greater than failure. This is Mark's comfort to every weak believer.`,
+The Olivet Discourse (ch. 13) is the only long discourse Mark records from Jesus. The destruction of Jerusalem (fulfilled in AD 70) and the end-times return are interwoven. The core message is vigilance: "But of that day and that hour knoweth no man... Take ye heed, watch and pray: for ye know not when the time is" (13:32-33).`,
+  },
+  {
+    title_zh: `五、受难与复活：仆人君王的得胜（14-16章）`,
+    title_en: `V. Passion and Resurrection: The Servant King's Victory (Ch. 14-16)`,
+    content_zh: `伯大尼的女人用至贵的真哪达香膏膏耶稣（14:3-9），耶稣说这是"为我安葬的事把香膏预先浇在我身上"，并宣告"普天之下，无论在什么地方传这福音，也要述说这女人所做的，以为记念"（14:9）。这是仆人君王受死前最温柔的一幕。
+
+最后的晚餐上（14:22-25），耶稣设立了新约的圣餐。"这是我立约的血，为多人流出来的"（14:24）。"多人"呼应以赛亚书53:12仆人之歌——受苦的仆人"担当多人的罪"。
+
+客西马尼园的祷告（14:32-42）是马可福音最沉重的段落。"他就惊恐起来，极其难过"（14:33）——马可毫不隐讳耶稣人性的真实挣扎。"阿爸！父啊！在你凡事都能。求你将这杯撤去。然而，不要从我的意思，只要从你的意思"（14:36）。"阿爸"是亚拉姆语中孩子对父亲最亲密的称呼——在极度的痛苦中，耶稣仍然信靠父。门徒却三次睡着了（14:37, 40, 41）——人的软弱与主的顺服形成了鲜明对比。
+
+被卖、被审、被弃。犹大亲嘴出卖（14:45），彼得三次不认主（14:66-72），门徒全部逃散（14:50）——甚至有一个少年人丢下麻布光身逃跑（14:51-52），这个细节只有马可记录，可能就是马可本人。
+
+十字架上从午正到申初遍地都黑暗（15:33）。耶稣大声喊着说"以罗伊！以罗伊！拉马撒巴各大尼？"就是说"我的神！我的神！为什么离弃我？"（15:34）。这是诗篇22:1的呼喊——无罪的仆人承担了我们的罪，经历了与父完全隔绝的恐怖。圣殿的幔子从上到下裂为两半（15:38），百夫长看见耶稣断气的样子就说："这人真是神的儿子！"（15:39）。马可福音的第一句是"神的儿子耶稣基督福音的起头"（1:1），最后认出这真理的却是一个罗马军人——福音从犹太传向万民的缩影。
+
+空坟墓的信息简短有力："他已经复活了，不在这里"（16:6）。天使特别说"去告诉他的门徒和彼得"（16:7）——"和彼得"三个字蕴含了无限恩典：那个三次否认主的人没有被排除在外。马可福音贯穿一条暗线：门徒的迟钝、误解、跌倒、逃散——然而复活的主仍然接纳他们、恢复他们、差遣他们。恩典大过一切失败。这是马可留给每一个软弱信徒的安慰：你的跌倒不是终点，因为仆人君王已经为你胜过了一切。`,
+    content_en: `The woman at Bethany anoints Jesus with costly spikenard (14:3-9). Jesus says she has "come aforehand to anoint my body to the burying," and declares, "Wheresoever this gospel shall be preached throughout the whole world, this also that she hath done shall be spoken of for a memorial of her" (14:9). This is the tenderest scene before the Servant King's death.
+
+At the Last Supper (14:22-25), Jesus institutes the new covenant sacrament. "This is my blood of the new testament, which is shed for many" (14:24). "For many" echoes the Servant Song of Isaiah 53:12 — the suffering servant "bare the sin of many."
+
+Gethsemane (14:32-42) is Mark's heaviest passage. "He began to be sore amazed, and to be very heavy" (14:33) — Mark does not conceal Jesus' genuine human anguish. "Abba, Father, all things are possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt" (14:36). "Abba" is a child's most intimate Aramaic address to a father — in the extremity of anguish, Jesus still trusts the Father. Yet the disciples fall asleep three times (14:37, 40, 41) — human weakness stands in stark contrast to the Lord's obedience.
+
+Betrayed, tried, abandoned. Judas betrays with a kiss (14:45), Peter denies three times (14:66-72), all disciples forsake Him and flee (14:50) — even a young man runs away naked, leaving his linen cloth behind (14:51-52), a detail only Mark records, possibly Mark himself.
+
+From the sixth to the ninth hour darkness covered the land (15:33). Jesus cried with a loud voice, "Eloi, Eloi, lama sabachthani?" — "My God, my God, why hast thou forsaken me?" (15:34). This is the cry of Psalm 22:1 — the sinless Servant bore our sins and experienced the horror of complete separation from the Father. The Temple veil was torn from top to bottom (15:38), and the centurion, seeing how Jesus breathed His last, said: "Truly this man was the Son of God" (15:39). Mark's opening line is "The beginning of the gospel of Jesus Christ, the Son of God" (1:1); the one who finally recognizes this truth is a Roman soldier — a microcosm of the gospel spreading from the Jews to all nations.
+
+The empty tomb message is brief yet mighty: "He is risen; he is not here" (16:6). The angel specifically says, "Go your way, tell his disciples and Peter" (16:7) — those three words "and Peter" contain infinite grace: the man who denied the Lord three times is not excluded. A thread runs through the entire Gospel: the disciples' dullness, misunderstanding, stumbling, and flight — yet the risen Lord still receives them, restores them, and sends them. Grace is greater than all failure. This is Mark's comfort to every weak believer: your fall is not the end, for the Servant King has already triumphed over all.`,
   },
 ]
 

@@ -37,7 +37,25 @@ The Davidic Covenant is the core foundation of messianic hope. The messianic pro
 David's prayer (7:18–29) is a king's humble response: "Who am I, O Lord GOD? and what is my house, that thou hast brought me hitherto?" This is the proper attitude of one who has received grace: not "I deserve this" but "Who am I?"`,
   },
   {
-    title_zh: `三、大卫的罪与家庭的崩塌（11-20章）`,
+    title_zh: `三、大卫的征战与恩慈（8-10章）`,
+    title_en: `III. David's Conquests and Kindness (Ch. 8-10)`,
+    content_zh: `第8章是大卫军事成就的总结——他击败了非利士人、摩押人、琐巴王、以东人，"大卫无论往哪里去，耶和华都使他得胜"（8:14）。大卫的国度达到以色列历史上最大的版图，实现了神对亚伯拉罕的应许（创15:18）。他"秉公行义"治理百姓（8:15），成为弥赛亚国度的预表。
+
+然而最动人的是第9章——大卫寻找扫罗家中剩余的人，要"因约拿单的缘故"向他们施恩（9:1）。他找到约拿单的儿子米非波设——一个因惊惶跌倒而"两腿瘸了"的人。大卫恢复了他扫罗家一切的产业，并且让他"常与王同席吃饭"（9:13）。
+
+米非波设自称"不过如死狗一般"（9:8），却被王接纳在王的筵席上。这正是福音的图画：我们本是属灵的瘸子和孤儿，却因基督（那位比约拿单更伟大的中保）的缘故，被天国的王接纳在恩典的筵席上。
+
+第10章记载亚扪人对大卫善意使者的羞辱，引发了与亚扪人和亚兰人的战争。善意被拒绝不意味着善意是错误的——恩慈不保证被善待，但恩慈本身就是对的。`,
+    content_en: `Chapter 8 summarizes David's military achievements — he defeated the Philistines, Moabites, Zobah, and Edomites; "the LORD preserved David whithersoever he went" (8:14). David's kingdom reached its greatest extent in Israel's history, fulfilling God's promise to Abraham (Gen. 15:18). He "executed judgment and justice unto all his people" (8:15), foreshadowing the Messianic kingdom.
+
+Yet the most moving chapter is 9 — David sought any remaining from Saul's house to show kindness "for Jonathan's sake" (9:1). He found Jonathan's son Mephibosheth — lame in both feet from a childhood fall caused by panic. David restored all of Saul's estate and let him "eat at the king's table continually" (9:13).
+
+Mephibosheth called himself "a dead dog" (9:8), yet was welcomed at the king's table. This is the very picture of the gospel: we are spiritual cripples and orphans, yet for the sake of Christ (a greater Mediator than Jonathan) we are welcomed by the King of heaven to the table of grace.
+
+Chapter 10 records the Ammonites' humiliation of David's goodwill ambassadors, sparking war with Ammon and Aram. Kindness being rejected does not mean kindness was wrong — grace does not guarantee reciprocation, but grace itself is always right.`,
+  },
+  {
+    title_zh: `四、大卫的罪与家庭的崩塌（11-20章）`,
     title_en: `III. David's Sin and the Collapse of His House (Ch. 11–20)`,
     content_zh: `第十一章是大卫一生的最大污点。"到了列王出战的时候，大卫差约押……大卫仍住在耶路撒冷"——他本该在战场上。从王宫屋顶看见拔示巴沐浴，大卫犯了奸淫，又谋杀了她的丈夫乌利亚——一位忠心的赫人勇士。
 
@@ -55,8 +73,8 @@ Yet sin's consequences were severe. Nathan prophesied "the sword shall never dep
 After Absalom's death, David's lament is among the most heartbreaking in all of Scripture: "O my son Absalom, my son, my son Absalom! would God I had died for thee" (18:33). A father's heart shattered — even for a son who had rebelled against him. Here we glimpse faintly the heart of the heavenly Father toward His rebellious children.`,
   },
   {
-    title_zh: `四、大卫的晚年与末了的诗歌（21-24章）`,
-    title_en: `IV. David's Later Years and Final Songs (Ch. 21–24)`,
+    title_zh: `五、大卫的晚年与末了的诗歌（21-24章）`,
+    title_en: `V. David's Later Years and Final Songs (Ch. 21–24)`,
     content_zh: `撒母耳记下最后四章构成一个文学上对称的附录。核心是大卫的两首诗歌（22章和23:1-7）。
 
 第二十二章几乎与诗篇18完全相同，是一首宏伟的感恩诗——大卫回顾一生，宣告"耶和华是我的岩石、我的山寨、我的救主"。大卫末了的话（23:1-7）是弥赛亚预言："那以公义治理人民的，敬畏神执掌权柄，他必像日出的晨光"（23:3-4），预表基督是公义的王。

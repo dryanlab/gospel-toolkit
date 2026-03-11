@@ -58,21 +58,6 @@ Chapters 10–12 present Daniel's final great vision. The angel describes detail
 
 The book ends with comfort: "But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days" (12:13).`,
   },
-
-{
-    title_zh: `四、末世异象与永恒的国度（7-12章）`,
-    title_en: `IV. Apocalyptic Visions and the Eternal Kingdom (Ch. 7-12)`,
-    content_zh: `但以理书后半部（7-12章）转为启示文学。第7章的四兽异象——狮子、熊、豹、第四兽——代表世界帝国的更迭（巴比伦、波斯、希腊、罗马）。在一切帝国之上，"一位像人子的，驾着天云而来"（7:13），得了"永远的国"。这是旧约中"人子"称号最重要的来源，耶稣常以此自称。
-
-第9章但以理的七十个七的预言（9:24-27）是旧约最精确的弥赛亚时间表，指向基督受膏和被剪除的时间。"那受膏者必被剪除，一无所有"（9:26）——十字架在数百年前就被精确预言。
-
-但以理书的信息贯穿旧约：人间帝国终必过去，神的国永远长存。"非人手凿出来的一块石头"打碎世界的偶像（2:34-35），充满天下。这是基督教的历史观：历史不是循环的，而是朝着神的国度前进的。`,
-    content_en: `The second half of Daniel (ch. 7-12) turns to apocalyptic literature. The four beasts of chapter 7 -- lion, bear, leopard, and a fourth beast -- represent successive world empires (Babylon, Persia, Greece, Rome). Above all empires, "one like the Son of man came with the clouds of heaven" (7:13) and received "an everlasting dominion." This is the most important Old Testament source of the "Son of Man" title Jesus frequently used of Himself.
-
-Daniel's Seventy Weeks prophecy in chapter 9 (9:24-27) is the Old Testament's most precise Messianic timetable, pointing to the time of Christ's anointing and being "cut off." "Shall Messiah be cut off, but not for himself" (9:26) -- the cross was prophesied centuries in advance with remarkable precision.
-
-Daniel's message runs through the Old Testament: human empires will pass; God's kingdom endures forever. "A stone was cut out without hands" that smashed the world's idol (2:34-35) and filled the whole earth. This is the Christian view of history: not cyclical but progressing toward God's kingdom.`,
-  }
 ];
 
 const overview = {

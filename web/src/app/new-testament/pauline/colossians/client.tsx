@@ -5,8 +5,8 @@ import { useState } from 'react';
 
 const sections = [
     {
-      title_zh: '基督的超越与丰盛',
-      title_en: 'The Supremacy and Fullness of Christ',
+      title_zh: '一、基督的超越与丰盛（1章）',
+      title_en: 'I. The Supremacy and Fullness of Christ (Ch. 1)',
       content_zh: `保罗在狱中写下这封书信，目的是对抗歌罗西教会中兴起的异端。这些假教师混合犹太律法主义、希腊哲学和东方神秘主义，企图在基督之外另立得救之路。保罗的回应直截了当：基督就是一切的丰盛。
 
 "爱子是那不能看见之神的像，是首生的，在一切被造的以先。因为万有都是靠他造的，无论是天上的，地上的；能看见的，不能看见的；或是有位的，主治的，执政的，掌权的；一切都是藉着他造的，又是为他造的。"（歌罗西书 1:15-16）
@@ -21,8 +21,8 @@ const sections = [
 "Firstborn' does not mean Christ is a created being, but that He holds the authority and honor of the firstborn over all creation. All things were created by Him, through Him, and for Him — what a glorious declaration! In Him dwells all the fullness of the Godhead bodily (2:9). Any attempt to seek wisdom, power, or salvation apart from Christ is a denial of this fullness.`
     },
     {
-      title_zh: '对抗异端：不要被人用虚空的妄言掳去',
-      title_en: 'Against Heresy: Beware Lest Any Man Spoil You',
+      title_zh: '二、对抗异端：不要被虚空妄言掳去（2章）',
+      title_en: 'II. Against Heresy: Beware Lest Any Man Spoil You (Ch. 2)',
       content_zh: `歌罗西的异端具有极大的迷惑性，因为它披着"智慧"和"谦虚"的外衣。保罗一针见血地揭露：
 
 "你们要谨慎，恐怕有人用他的理学和虚空的妄言，不照着基督，乃照人间的遗传和世上的小学就把你们掳去。"（歌罗西书 2:8）
@@ -41,8 +41,8 @@ These heretics demanded believers observe dietary regulations, keep festivals, w
 Paul's warning remains relevant today: any teaching that adds conditions beyond "Christ alone," no matter how spiritual it appears, is essentially "philosophy and vain deceit."`
     },
     {
-      title_zh: '在基督里的新生活',
-      title_en: 'The New Life in Christ',
+      title_zh: '三、在基督里的新生活（3章）',
+      title_en: 'III. The New Life in Christ (Ch. 3)',
       content_zh: `从第三章开始，保罗从教义转向实践。信仰不只是头脑中的知识，更是生命的更新。
 
 "所以，你们若真与基督一同复活，就当求在上面的事；那里有基督坐在神的右边。你们要思念上面的事，不要思念地上的事。因为你们已经死了，你们的生命与基督一同藏在神里面。"（歌罗西书 3:1-3）

@@ -53,21 +53,6 @@ The confrontation between Amos and Amaziah the priest of Bethel (7:10–17) is t
 Chapter 8's "summer fruit" (Hebrew qayits) is a wordplay on "end" (Hebrew qets) — Israel was ripe for harvest. "And it shall come to pass in that day, saith the Lord GOD, that I will cause the sun to go down at noon, and I will darken the earth in the clear day" (8:9) — foreshadowing eschatological darkness and evoking the darkness at the crucifixion from the sixth to ninth hour.
 
 The book ends with a surprising promise of restoration: "In that day will I raise up the tabernacle of David that is fallen... And I will bring again the captivity of my people of Israel" (9:11, 14). Acts 15:16–17 cited this passage at the Jerusalem Council to support Gentiles entering the church. From judgment to restoration — this is Amos's arc, and the arc of all Scripture.`,
-  },
-
-{
-    title_zh: `四、五个异象与余民的盼望（7-9章）`,
-    title_en: `IV. Five Visions and the Remnant's Hope (Ch. 7-9)`,
-    content_zh: `阿摩司书最后三章包含五个异象：蝗虫（7:1-3）、火（7:4-6）、准绳（7:7-9）、夏天的果子（8:1-3）、祭坛被击打（9:1-4）。前两个异象中阿摩司代求，神就后悔不降灾（7:3, 6）——先知的代求能改变神的行动。后三个异象中审判已成定局。
-
-"准绳"的异象意味着神要量以色列——看它是否合乎标准。答案是否定的。审判不是任意的，而是按照公义的标准衡量的结果。
-
-然而全书以盼望结束。"到那日，我必建立大卫倒塌的帐幕"（9:11）——使徒行传15:16引用这节经文，宣告外邦人归入教会就是这预言的应验。阿摩司的信息是：公义的审判和恩典的恢复不是矛盾的，而是同一位神的两面。"你当预备迎见你的神"（4:12）——这既是警告，也是邀请。`,
-    content_en: `The final three chapters of Amos contain five visions: locusts (7:1-3), fire (7:4-6), a plumb line (7:7-9), summer fruit (8:1-3), and the altar struck (9:1-4). In the first two visions Amos interceded and God relented (7:3, 6) -- prophetic intercession can alter God's action. In the last three, judgment is final.
-
-The "plumb line" vision means God would measure Israel -- to see if it meets the standard. The answer was no. Judgment is not arbitrary but the result of measuring against a righteous standard.
-
-Yet the book ends in hope. "In that day will I raise up the tabernacle of David that is fallen" (9:11) -- Acts 15:16 quotes this verse, declaring that Gentiles entering the church fulfills this prophecy. Amos' message: righteous judgment and gracious restoration are not contradictory but two faces of the same God. "Prepare to meet thy God" (4:12) -- this is both warning and invitation.`,
   }
 ];
 

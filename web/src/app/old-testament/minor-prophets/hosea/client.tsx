@@ -62,21 +62,6 @@ Chapter 14 is the book's climax — call and promise: "O Israel, return unto the
 
 The book ends with a wisdom-literature-style conclusion: "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein" (14:9).`,
   },
-
-{
-    title_zh: `四、归回与复兴的应许（11-14章）`,
-    title_en: `IV. The Promise of Return and Restoration (Ch. 11-14)`,
-    content_zh: `何西阿书后半部从审判转向盼望。"以色列年幼的时候，我爱他，就从埃及召出我的儿子来"（11:1）——神对以色列的爱从一开始就是无条件的，如同父亲教导孩子走路。
-
-"我怎能舍弃你？以法莲啊，我怎能弃绝你？以色列啊，我回心转意，我的怜爱大大发动"（11:8）。这是旧约中最深刻的神圣挣扎的描写——审判是公义的要求，怜悯是爱的本能。在神心中，怜悯胜了。
-
-第14章是全书的高潮——归回的呼召和复兴的应许。"以色列啊，你要归向耶和华你的神……我必医治他们背道的病，甘心爱他们"（14:1, 4）。何西阿的婚姻不只是历史事件，更是福音的预表——基督就是那位爱不忠的新妇到底的丈夫，他的爱永远不放弃。`,
-    content_en: `The latter half of Hosea turns from judgment to hope. "When Israel was a child, then I loved him, and called my son out of Egypt" (11:1) -- God's love for Israel was unconditional from the start, like a father teaching a child to walk.
-
-"How shall I give thee up, Ephraim? how shall I deliver thee, Israel? mine heart is turned within me, my repentings are kindled together" (11:8). This is the Old Testament's most profound depiction of divine struggle -- judgment is what justice demands; mercy is love's instinct. In God's heart, mercy prevails.
-
-Chapter 14 is the book's climax -- the call to return and the promise of restoration. "O Israel, return unto the LORD thy God... I will heal their backsliding, I will love them freely" (14:1, 4). Hosea's marriage is not merely historical but a gospel foreshadowing -- Christ is the husband who loves His unfaithful bride to the end; His love never gives up.`,
-  }
 ];
 
 const overview = {

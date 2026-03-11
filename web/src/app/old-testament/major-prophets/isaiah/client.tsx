@@ -7,16 +7,20 @@ const sections = [
   {
     title_zh: `一、审判与圣洁：耶路撒冷的控诉（1-12章）`,
     title_en: `I. Judgment and Holiness: The Indictment of Jerusalem (Ch. 1-12)`,
-    content_zh: `以赛亚书开篇是一场法庭审判——神控告自己的子民："所多玛的官长啊，要听耶和华的话！"（1:10）以色列的礼仪宗教已经变成了虚假：徒有祭祀，却没有公义；有祷告，却手上有血（1:11-15）。
+    content_zh: `以赛亚书开篇是一场法庭审判——天和地是见证人，神控告自己的子民："天哪，要听！地啊，侧耳而听！因为耶和华说：我养育儿女，将他们养大，他们竟悖逆我"（1:2）。以色列被称为"所多玛的官长"、"蛾摩拉的百姓"（1:10）——这是何等沉痛的控告！他们的礼仪宗教已经变成了虚假的外壳："你们所献的许多祭物与我何益呢？公绵羊的燔祭和肥畜的脂油，我已经够了"（1:11）。
 
-然而审判中有恩典的邀请："你们来，我们彼此辩论。你们的罪虽像朱红，必变成雪白"（1:18）。神的审判不是要毁灭，而是要洁净。
+然而审判中有恩典的邀请："你们的罪虽像朱红，必变成雪白；虽红如丹颜，必白如羊毛"（1:18）。神的审判不是要毁灭，而是要洁净——"我必反手加在你身上，炼尽你的渣滓，除净你的杂质"（1:25）。
 
-第6章是以赛亚被圣灵充满的异象。他看见主坐在高高的宝座上，撒拉弗呼喊："圣哉！圣哉！圣哉！是万军之耶和华，他的荣光充满全地！"（6:3）。以赛亚看见神的圣洁，立刻感到自己的污秽："祸哉！我灭亡了！"（6:5）然后神的炭洁净了他，差他去传讲难以接受的信息——人们会听而不明，看而不晓（6:9-10）。这预言在耶稣传道中再次应验。`,
-    content_en: `Isaiah opens with a courtroom scene -- God indicts His people: "Hear the word of the LORD, ye rulers of Sodom!" (1:10). Israel's religious ritual had become hypocrisy: sacrifices without justice; prayers with bloodstained hands (1:11-15).
+第6章是以赛亚蒙召的异象——"当乌西雅王崩的那年，我见主坐在高高的宝座上"（6:1）。人间的王死了，天上的王却永远坐在宝座上。撒拉弗呼喊："圣哉！圣哉！圣哉！万军之耶和华；他的荣光充满全地！"（6:3）以赛亚看见神的圣洁，立刻认识到自己的污秽："祸哉！我灭亡了！因为我是嘴唇不洁的人"（6:5）。神用坛上的炭沾他的口，洁净他的罪，然后差他去传讲难以接受的信息——"你们听是要听见，却不明白；看是要看见，却不晓得"（6:9）。
 
-Yet amid judgment comes a gracious invitation: "Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow" (1:18). God's judgment aims not at destruction but at cleansing.
+第7章包含了最著名的弥赛亚预言："因此，主自己要给你们一个兆头，必有童女怀孕生子，给他起名叫以马内利"（7:14）。马太福音1:23引用此经文指向基督的降生。第9章和第11章进一步展开："因有一婴孩为我们而生；有一子赐给我们……他名称为奇妙策士、全能的神、永在的父、和平的君"（9:6）。"从耶西的本必发一条；从他根生的枝子必结果实"（11:1）——弥赛亚从大卫的后裔而出，在他的统治下"豺狼必与绵羊羔同居"（11:6）。`,
+    content_en: `Isaiah opens with a courtroom scene — heaven and earth are witnesses, as God indicts His people: "Hear, O heavens, and give ear, O earth: for the LORD hath spoken, I have nourished and brought up children, and they have rebelled against me" (1:2). Israel is called "rulers of Sodom" and "people of Gomorrah" (1:10) — what a grievous accusation! Their religious ritual had become an empty shell: "To what purpose is the multitude of your sacrifices unto me? saith the LORD: I am full of the burnt offerings of rams, and the fat of fed beasts" (1:11).
 
-Chapter 6 is Isaiah's vision of the Spirit's fullness. He saw the Lord sitting on a high throne; seraphim cried, "Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory" (6:3). Confronted with God's holiness, Isaiah immediately felt his pollution: "Woe is me! for I am undone" (6:5). Then God's coal cleansed him and sent him to preach an unwelcome message -- people would hear but not understand, see but not perceive (6:9-10). This prophecy was fulfilled again in Jesus' ministry.`,
+Yet amid judgment comes a gracious invitation: "Though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool" (1:18). God's judgment aims not at destruction but at cleansing — "I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin" (1:25).
+
+Chapter 6 is Isaiah's call vision — "In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up" (6:1). The earthly king died; the heavenly King sits on His throne forever. Seraphim cried, "Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory" (6:3). Confronted with God's holiness, Isaiah recognized his own uncleanness: "Woe is me! for I am undone; because I am a man of unclean lips" (6:5). God cleansed him with a coal from the altar and sent him to preach an unwelcome message — "Hear ye indeed, but understand not; and see ye indeed, but perceive not" (6:9).
+
+Chapter 7 contains the most famous messianic prophecy: "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel" (7:14). Matthew 1:23 cites this as fulfilled in Christ's birth. Chapters 9 and 11 expand further: "For unto us a child is born, unto us a son is given... and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace" (9:6). "And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots" (11:1) — the Messiah from David's line, under whose reign "the wolf also shall dwell with the lamb" (11:6).`,
   },
   {
     title_zh: `二、列国的审判与锡安的盼望（13-27章）`,
@@ -49,16 +53,30 @@ Yet chapter 39 records Hezekiah's failure: he showed all his palace treasures to
   {
     title_zh: `四、神的安慰与受苦的仆人（40-55章）`,
     title_en: `IV. God's Comfort and the Suffering Servant (Ch. 40-55)`,
-    content_zh: `"你们的神说，你们要安慰，安慰我的百姓"（40:1）——以赛亚书第二部分以安慰开始。被掳的百姓将要蒙神亲自领回（40:3-5），"等候耶和华的必重新得力"（40:31）。
+    content_zh: `"你们的神说：你们要安慰，安慰我的百姓"（40:1）——以赛亚书第二部分（40-55章）被称为"安慰之书"，语调从审判转为安慰。"你们要向耶路撒冷说安慰的话，又向他宣告说，他争战的日子已满了；他的罪孽赦免了"（40:2）。
 
-四首"仆人之歌"（42:1-9, 49:1-7, 50:4-11, 52:13-53:12）逐步揭示了弥赛亚的使命。第四首（52:13-53:12）是全书的高峰，也是旧约最清晰的十字架预言："他为我们的过犯受害，为我们的罪孽压伤。因他受的刑罚，我们得平安；因他受的鞭伤，我们得医治"（53:5）。
+40:3-5宣告一条旷野中的道路要被修直——施洗约翰引用此处指向自己为基督预备道路的使命（太3:3）。40章以永恒的应许结束："但那等候耶和华的必重新得力。他们必如鹰展翅上腾；他们奔跑却不困倦，行走却不疲乏"（40:31）。
 
-这段经文在基督受难的700年前就被写下，细节惊人地吻合——被藐视、被拒绝、默然受苦、被算在罪犯中（53:3-12）。"耶和华所喜悦的事"（53:10）——十字架是神的计划，不是意外。`,
-    content_en: `"Comfort ye, comfort ye my people, saith your God" (40:1) -- Isaiah's second section opens with comfort. The exiled people will be led home by God personally (40:3-5), and "they that wait upon the LORD shall renew their strength" (40:31).
+这一部分最核心的是四首"仆人之歌"，逐步揭示弥赛亚的身份和使命。第一首（42:1-9）：仆人是神所拣选的，"他不喧嚷，不扬声"，温柔地带来公义。第二首（49:1-7）：仆人的使命不限于以色列，"我还要使你作外邦人的光，叫你施行我的救恩，直到地极"（49:6）。第三首（50:4-11）：仆人甘愿受苦，"人打我的背，我任他打；人拔我腮颊的胡须，我由他拔"（50:6）。
 
-The four "Servant Songs" (42:1-9, 49:1-7, 50:4-11, 52:13-53:12) progressively reveal the Messiah's mission. The fourth (52:13-53:12) is the book's summit and the Old Testament's clearest prophecy of the cross: "He was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed" (53:5).
+第四首（52:13-53:12）是全书的绝对高峰，也是旧约最清晰的十字架预言——在基督受难700年前写成：
 
-Written 700 years before Christ's passion, the details are astonishingly precise -- despised, rejected, silent under suffering, numbered with transgressors (53:3-12). "The pleasure of the LORD" (53:10) -- the cross was God's plan, not an accident.`,
+"他诚然担当我们的忧患，背负我们的痛苦……他为我们的过犯受害，为我们的罪孽压伤。因他受的刑罚，我们得平安；因他受的鞭伤，我们得医治。我们都如羊走迷；各人偏行己路；耶和华使我们众人的罪孽都归在他身上"（53:4-6）。
+
+"He was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed. All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all." (Isaiah 53:5-6, KJV)
+
+"他被欺压，在受苦的时候却不开口；他像羊羔被牵到宰杀之地，又像羊在剪毛的人手下无声，他也是这样不开口"（53:7）——这正是耶稣在彼拉多面前沉默的预言（太27:14）。"耶和华却定意将他压伤，使他受痛苦。耶和华以他为赎罪祭"（53:10）——十字架不是意外，不是人的计划的胜利，而是神永恒定旨中的"赎罪祭"。韦敏斯德信条第十一章"论称义"正是以基督代替性赎罪为根基。`,
+    content_en: `"Comfort ye, comfort ye my people, saith your God" (40:1) — Isaiah's second section (ch. 40-55), called "the Book of Comfort," shifts from judgment to consolation. "Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned" (40:2).
+
+40:3-5 announces a road to be made straight in the wilderness — John the Baptist cited this as his mission of preparing the way for Christ (Matt. 3:3). Chapter 40 closes with an eternal promise: "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint" (40:31).
+
+The core of this section is the four "Servant Songs," progressively revealing the Messiah's identity and mission. The first (42:1-9): the servant is God's chosen, "He shall not cry, nor lift up," gently bringing justice. The second (49:1-7): the servant's mission extends beyond Israel — "I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth" (49:6). The third (50:4-11): the servant willingly suffers — "I gave my back to the smiters, and my cheeks to them that plucked off the hair" (50:6).
+
+The fourth (52:13-53:12) is the book's absolute summit and the Old Testament's clearest prophecy of the cross — written 700 years before Christ's passion:
+
+"Surely he hath borne our griefs, and carried our sorrows... But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed. All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all." (Isaiah 53:4-6, KJV)
+
+"He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth" (53:7) — this is the very prophecy of Jesus' silence before Pilate (Matt. 27:14). "Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin" (53:10) — the cross was not an accident, not the triumph of human schemes, but the "offering for sin" in God's eternal decree. Westminster Confession chapter 11, "Of Justification," is grounded in Christ's substitutionary atonement.`,
   },
   {
     title_zh: `五、归回的应许与新天新地（56-66章）`,

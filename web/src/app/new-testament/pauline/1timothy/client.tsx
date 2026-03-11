@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 const sections = [
     {
-      title_zh: '持守纯正的道：抵挡异端',
+      title_zh: '一、持守纯正的道：抵挡异端（1章）',
       title_en: 'Holding Fast Sound Doctrine: Resisting Heresy',
       content_zh: `保罗留下提摩太在以弗所牧养教会，自己则去了马其顿。以弗所教会面临严重的异端威胁——有人传讲荒渺无凭的话语和无穷的家谱，偏离了信仰的核心。
 
@@ -21,7 +21,7 @@ const sections = [
 "The end of the commandment is charity' — sound doctrine must ultimately bear the fruit of love. If a person's theology grows ever more precise while their behavior grows ever more loveless, something is wrong with their theology. Paul himself was a living testimony: he was formerly the chief of sinners who persecuted the church, yet received the Lord's mercy — "sinners; of whom I am chief. Howbeit for this cause I obtained mercy' (1:15-16). This grace transformed him and will transform everyone who comes to faith.`
     },
     {
-      title_zh: '教会的秩序与治理',
+      title_zh: '二、教会的秩序与治理（2-3章）',
       title_en: 'Church Order and Governance',
       content_zh: `提摩太前书被称为"教牧书信"之一，因为它详细论述了教会的组织和治理。保罗给出了监督（长老）和执事的资格标准。
 
@@ -37,7 +37,7 @@ const sections = [
 Notice Paul's criteria: not talent, education, or eloquence, but character. "Blameless' is the overarching principle; the rest are specific elaborations. Church leaders must first be examples of character, then exercisers of gifts. Paul further notes that an overseer who "ruleth well his own house' (3:4) is a prerequisite for managing the church — how can someone who has failed at home shepherd God's church?`
     },
     {
-      title_zh: '敬虔的奥秘与年轻牧者的操练',
+      title_zh: '三、敬虔的奥秘与年轻牧者的操练（4章）',
       title_en: 'The Mystery of Godliness and the Young Pastor\'s Discipline',
       content_zh: `保罗在书信中间插入了一段伟大的基督颂歌，揭示了"敬虔的奥秘"。
 

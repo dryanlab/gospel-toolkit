@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 const sections = [
     {
-      title_zh: '试炼与智慧：信心的炼净',
+      title_zh: '一、试炼与智慧：信心的炼净（1章）',
       title_en: 'Trials and Wisdom: The Purifying of Faith',
       content_zh: `雅各书以一个出人意料的劝勉开始：要以试炼为大喜乐。这不是受苦主义，而是对试炼本质的深刻认识。
 
@@ -21,7 +21,7 @@ const sections = [
 Trials produce patience; patience produces perfection and completeness. This is God's intention for believers: to shape complete character through suffering. James continues: those who lack wisdom in trials may ask God, who "giveth to all men liberally, and upbraideth not' (1:5). Wisdom in the face of trials comes not from human cleverness but from God's gracious gift.`
     },
     {
-      title_zh: '信心与行为：真信心必结出果子',
+      title_zh: '二、信心与行为：真信心必结出果子（2章）',
       title_en: 'Faith and Works: True Faith Bears Fruit',
       content_zh: `雅各书最著名也最容易被误解的段落，是关于信心与行为的关系。马丁·路德曾称雅各书为"稻草的书信"，但这是误解了雅各的意思。
 
@@ -37,7 +37,7 @@ Trials produce patience; patience produces perfection and completeness. This is 
 James is not attacking the justifying faith Paul spoke of, but "verbal faith' — a false faith that consists only of words without life transformation. Paul says we are saved through faith; James says true faith produces works. The two are not contradictory but two sides of the same truth: genuine faith inevitably produces works, and "faith' without works is simply not true faith. Abraham's "faith wrought with his works, and by works was faith made perfect' (2:22) — faith and works are unified, inseparable.`
     },
     {
-      title_zh: '舌头的力量与从上头来的智慧',
+      title_zh: '三、舌头的力量与从上头来的智慧（3章）',
       title_en: 'The Power of the Tongue and Wisdom from Above',
       content_zh: `雅各书第三章用大量篇幅论及舌头——这小小的器官却有巨大的力量，可以建造也可以摧毁。
 

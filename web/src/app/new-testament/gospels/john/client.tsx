@@ -5,64 +5,114 @@ import { useState } from 'react';
 
 const sections = [
   {
-    title_zh: `一、太初有道：神子的启示（1-4章）`,
-    title_en: `I. In the Beginning Was the Word: Revelation of the Son (Ch. 1-4)`,
-    content_zh: `约翰福音以宇宙性的宣告开始："太初有道，道与神同在，道就是神"（1:1）。没有家谱，没有降生叙事——约翰直接宣告耶稣的神性。"道成了肉身，住在我们中间"（1:14），这是基督教信仰最核心的教义：永恒的神进入了时间。
+    title_zh: `一、太初有道：道成肉身的启示（1-4章）`,
+    title_en: `I. In the Beginning Was the Word: The Revelation of the Incarnation (Ch. 1-4)`,
+    content_zh: `约翰福音以全圣经中最庄严的序言开始："太初有道，道与神同在，道就是神。这道太初与神同在。万物是藉着他造的；凡被造的，没有一样不是藉着他造的"（1:1-3）。没有家谱，没有降生叙事——约翰直接宣告耶稣是永恒的神、创造的中保。"太初"（en arche）呼应创世记1:1"起初"——在一切开始之前，道已经存在。韦敏斯德信条第二章论三位一体神的永恒性，其圣经根基正在于此。
 
-开篇的"七个见证"（施洗约翰、安得烈、腓力、拿但业等）和迦拿婚宴的水变酒（2:1-11）——约翰称之为"记号"（semeion），每个神迹都指向更深的真理。洁净圣殿（2:13-22）宣告了耶稣的权柄，尼哥底母的夜访（3:1-21）引出了最著名的经文："神爱世人，甚至将他的独生子赐给他们"（3:16）。
+"道成了肉身，住在我们中间，充充满满地有恩典有真理。我们也见过他的荣光，正是父独生子的荣光"（1:14）。"住在我们中间"原文是"支搭帐幕在我们中间"（eskenosen），呼应旧约的会幕——神的荣耀曾住在帐幕中，如今住在基督的人性中。道成肉身不是神暂时装扮成人，而是永恒的神完全地、永久地取了真实的人性。
 
-撒玛利亚妇人的故事（4章）打破了犹太人与撒玛利亚人之间的一切藩篱。"你们拜父，也不在这山上，也不在耶路撒冷"（4:21）——真正的敬拜不在乎地点，在乎"用心灵和诚实"（4:24）。`,
-    content_en: `John's Gospel begins with a cosmic declaration: "In the beginning was the Word, and the Word was with God, and the Word was God" (1:1). No genealogy, no birth narrative -- John directly proclaims Jesus' deity. "The Word was made flesh, and dwelt among us" (1:14) is Christianity's most central doctrine: the eternal God entered time.
+迦拿的水变酒（2:1-11）是约翰记录的第一个"记号"（semeion）——约翰不用"神迹"而用"记号"，因为每个神迹都指向更深的真理。水变酒指向旧约的洁净之礼被福音的喜乐所取代。尼哥底母的夜访（3:1-21）引出全圣经最著名的经文："神爱世人，甚至将他的独生子赐给他们，叫一切信他的不至灭亡，反得永生"（3:16）。"重生"不是人的自我改良，而是"从灵生的"——圣灵主权的工作。
 
-The opening "seven witnesses" (John the Baptist, Andrew, Philip, Nathanael, etc.) and the water-to-wine at Cana (2:1-11) -- John calls them "signs" (semeion), each miracle pointing to deeper truth. Cleansing the temple (2:13-22) declared Jesus' authority; Nicodemus' night visit (3:1-21) produced Scripture's most famous verse: "God so loved the world, that he gave his only begotten Son" (3:16).
+撒玛利亚妇人的故事（4章）打破了犹太人与撒玛利亚人之间的种族、性别和道德的三重藩篱。这个有过五个丈夫的女人，耶稣不但不拒绝她，反而向她启示了关于真正敬拜的最深真理："时候将到，如今就是了，那真正拜父的，要用心灵和诚实拜他，因为父要这样的人拜他"（4:23）。`,
+    content_en: `John opens with the most solemn prologue in all of Scripture: "In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made." (1:1-3) No genealogy, no birth narrative — John directly proclaims Jesus as eternal God and mediator of creation. "In the beginning" (en arche) echoes Genesis 1:1 — before anything began, the Word already was. The Westminster Confession's chapter on the Trinity and God's eternality finds its biblical ground here.
 
-The Samaritan woman (ch. 4) breaks every barrier between Jews and Samaritans. "Neither in this mountain, nor yet at Jerusalem, shall ye worship the Father" (4:21) -- true worship is not about place but about "spirit and in truth" (4:24).`,
+"And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth." (1:14) "Dwelt among us" is literally "tabernacled among us" (eskenosen), echoing the Old Testament tabernacle — God's glory once dwelt in the tent, now it dwells in Christ's humanity. The Incarnation is not God temporarily disguising Himself as man but the eternal God fully and permanently assuming true human nature.
+
+The water-to-wine at Cana (2:1-11) is John's first recorded "sign" (semeion) — John uses "sign" rather than "miracle" because each points to a deeper truth. Water-to-wine signifies the Old Testament rites of purification being replaced by the joy of the gospel. Nicodemus' night visit (3:1-21) produces Scripture's most famous verse: "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life" (3:16). Being "born again" is not human self-improvement but being "born of the Spirit" — the Spirit's sovereign work.
+
+The Samaritan woman (ch. 4) breaks the triple barrier of race, gender, and morality between Jews and Samaritans. This woman who had five husbands — Jesus not only does not reject her but reveals to her the deepest truth about true worship: "The hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him" (4:23).`,
   },
   {
-    title_zh: `二、七个记号与七个"我是"（5-12章）`,
-    title_en: `II. Seven Signs and Seven "I AM" Declarations (Ch. 5-12)`,
-    content_zh: `约翰福音以七个神迹记号和七个"我是"宣告为结构。医好瘫子（5章）、五饼二鱼（6章）、医好瞎子（9章）、使拉撒路复活（11章）——每个记号都伴随着深刻的教导。
+    title_zh: `二、记号之书：七个神迹与七个"我是"（5-12章）`,
+    title_en: `II. The Book of Signs: Seven Miracles and Seven "I AM" Declarations (Ch. 5-12)`,
+    content_zh: `学者们将约翰福音1-12章称为"记号之书"（Book of Signs），因为约翰以七个精心挑选的神迹记号为骨架，每个记号都配合一段深刻的教导和一个"我是"宣告，揭示耶稣身份的不同面向。
 
-"我是生命的粮"（6:35）、"我是世界的光"（8:12）、"我是好牧人"（10:11）、"我是复活，我是生命"（11:25）、"我是道路、真理、生命"（14:6）——每一个"我是"都呼应出埃及记3:14神对摩西启示的圣名。耶稣不仅行神迹，他本身就是神迹的意义所在。
+五饼二鱼喂饱五千人（6:1-14）后，众人要强逼他作王，耶稣却退到山上。第二天他教导说："我就是生命的粮。到我这里来的，必定不饿；信我的，永远不渴"（6:35）。"生命的粮"不是物质的满足，而是属灵的喂养——他自己就是天上降下来的真粮。许多门徒听了就离去，耶稣问十二个人"你们也要去吗？"彼得回答："主啊，你有永生之道，我们还归从谁呢？"（6:68）
 
-第9章的瞎子故事充满讽刺：生来瞎眼的人看见了，自称看见的法利赛人反而瞎了。拉撒路的复活（11:38-44）是最伟大的记号——耶稣在死亡面前流泪（11:35），却拥有胜过死亡的权柄。`,
-    content_en: `John's Gospel is structured around seven miraculous signs and seven "I AM" declarations. Healing the paralytic (ch. 5), feeding five thousand (ch. 6), healing the blind man (ch. 9), raising Lazarus (ch. 11) -- each sign is paired with profound teaching.
+住棚节上耶稣宣告"我是世界的光"（8:12），又说出了最震撼犹太人的话："还没有亚伯拉罕就有了我"（8:58）。"就有了我"原文是ego eimi——"我是"，正是出埃及记3:14神向摩西启示的圣名。犹太人立刻拿石头要打他——他们完全明白他在宣称自己是神。
 
-"I am the bread of life" (6:35), "I am the light of the world" (8:12), "I am the good shepherd" (10:11), "I am the resurrection, and the life" (11:25), "I am the way, the truth, and the life" (14:6) -- each "I AM" echoes the divine name revealed to Moses in Exodus 3:14. Jesus does not merely perform miracles; He Himself is the meaning of every miracle.
+第9章的瞎子故事充满约翰式的讽刺（Johannine irony）：生来瞎眼的人经耶稣医治后看见了，法利赛人却越审问越"瞎"。瞎子从"那个人"到"先知"到"从神来的"最终到俯伏敬拜——信心是一个渐进的旅程。而法利赛人从"查问"到"不信"到"赶出教会"——拒绝也是渐进的。"你们若瞎了眼，就没有罪了；但如今你们说'我们能看见'，所以你们的罪还在"（9:41）。
 
-Chapter 9's blind man story is full of irony: the man born blind now sees while the Pharisees who claim sight are blind. The raising of Lazarus (11:38-44) is the greatest sign -- Jesus wept before death (11:35) yet holds authority over death itself.`,
+"我是好牧人；好牧人为羊舍命"（10:11）。"我的羊听我的声音，我也认识他们，他们也跟着我。我又赐给他们永生；他们永不灭亡，谁也不能从我手里把他们夺去"（10:27-28）——这是改革宗"圣徒蒙保守"教义最有力的经文之一。
+
+拉撒路的复活（11章）是七个记号中最伟大的——在坟墓前耶稣流泪（11:35，全圣经最短的一节），然后喊着说"拉撒路出来！"（11:43）死亡在他面前让步。但约翰紧接着记录：正是这个最大的记号促使公会决定杀害耶稣（11:53）——神迹不能强迫人信，反而可能加深人的敌意。`,
+    content_en: `Scholars call John 1-12 the "Book of Signs," because John uses seven carefully selected miraculous signs as the framework, each paired with profound teaching and an "I AM" declaration revealing a different facet of Jesus' identity.
+
+After feeding five thousand with five loaves and two fish (6:1-14), the crowd tried to make Him king by force, but Jesus withdrew to the mountain. The next day He taught: "I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst" (6:35). The "bread of life" is not material satisfaction but spiritual nourishment — He Himself is the true bread come down from heaven. Many disciples left after hearing this; Jesus asked the twelve, "Will ye also go away?" Peter answered: "Lord, to whom shall we go? thou hast the words of eternal life" (6:68).
+
+At the Feast of Tabernacles Jesus declared, "I am the light of the world" (8:12), and spoke the words most shocking to Jewish ears: "Before Abraham was, I am" (8:58). "I am" in Greek is ego eimi — the divine name God revealed to Moses in Exodus 3:14. The Jews immediately took up stones — they understood perfectly that He was claiming to be God.
+
+The blind man story in chapter 9 is full of Johannine irony: the man born blind, healed by Jesus, now sees, while the Pharisees grow "blinder" with each interrogation. The blind man progresses from "that man" to "a prophet" to "from God" to worshipping — faith is a gradual journey. The Pharisees progress from "questioning" to "disbelief" to "casting out" — rejection is also gradual. "If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth" (9:41).
+
+"I am the good shepherd: the good shepherd giveth his life for the sheep" (10:11). "My sheep hear my voice, and I know them, and they follow me: And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand" (10:27-28) — one of the most powerful texts for the Reformed doctrine of the perseverance of the saints.
+
+The raising of Lazarus (ch. 11) is the greatest of the seven signs — at the tomb Jesus wept (11:35, the shortest verse in the Bible), then cried out, "Lazarus, come forth!" (11:43). Death yielded before Him. But John immediately records: it was this greatest sign that prompted the Sanhedrin to resolve to kill Jesus (11:53) — miracles cannot compel faith; they may even deepen hostility.`,
   },
   {
-    title_zh: `三、临别讲论与大祭司的祷告（13-17章）`,
-    title_en: `III. The Farewell Discourse and the High Priestly Prayer (Ch. 13-17)`,
-    content_zh: `约翰福音13-17章是耶稣与门徒最后的亲密时光——四福音中最深刻的教导。洗脚（13:1-17）是仆人领袖的榜样："我是你们的主，你们的夫子，尚且洗你们的脚，你们也当彼此洗脚"（13:14）。
+    title_zh: `三、临别讲论：圣灵的应许与葡萄树的生命（13-16章）`,
+    title_en: `III. The Farewell Discourse: The Spirit's Promise and Life in the Vine (Ch. 13-16)`,
+    content_zh: `约翰福音13-17章被称为"荣耀之书"（Book of Glory）的开篇。13-16章是耶稣对门徒的临别讲论——四福音中最亲密、最深刻的教导，完全是约翰独有的材料。
 
-"我去原是为你们预备地方去"（14:2）、"我不撇下你们为孤儿"（14:18）、"我留下平安给你们"（14:27）——每一句话都是安慰。圣灵的应许贯穿整段讲论：保惠师将来要引导你们明白一切的真理（16:13）。
+洗脚（13:1-17）设定了整段讲论的基调。逾越节晚餐前，"耶稣知道自己离世归父的时候到了"（13:1），他却起来为门徒洗脚。宇宙的主宰跪在地上洗人的脚——这不只是谦卑的榜样，更是他即将在十字架上所做之事的预演：降卑自己，为他人洗净罪污。"我是你们的主，你们的夫子，尚且洗你们的脚，你们也当彼此洗脚"（13:14）。
 
-葡萄树的比喻（15:1-8）是基督徒生命的核心："你们要常在我里面，我也常在你们里面"（15:4）。不是靠努力结果子，而是住在基督里自然结出果子。
+门徒忧愁，因为主说"我要去了"。耶稣连续给出安慰："你们心里不要忧愁……在我父的家里有许多住处"（14:1-2）。"我是道路、真理、生命；若不藉着我，没有人能到父那里去"（14:6）——这是基督教信仰排他性（exclusivity）的经典宣告，也是最温暖的应许：通往父的路已经打开了。
 
-第17章的大祭司祷告是圣经中最神圣的段落之一。耶稣为门徒的合一祷告："使他们都合而为一。正如你父在我里面，我在你里面"（17:21）——教会合一的根基是三位一体神的合一。`,
-    content_en: `John 13-17 records Jesus' last intimate time with His disciples -- the deepest teaching in all four Gospels. Foot-washing (13:1-17) models servant leadership: "If I then, your Lord and Master, have washed your feet; ye also ought to wash one another's feet" (13:14).
+圣灵的应许贯穿14-16章。耶稣称圣灵为"保惠师"（parakletos，原意为"被呼唤到身边来的人"）。圣灵"要将一切的事指教你们，并且要叫你们想起我对你们所说的一切话"（14:26）；圣灵"来了，就要叫世人为罪、为义、为审判，自己责备自己"（16:8）；圣灵"要引导你们明白一切的真理"（16:13）。基督的离去不是损失，而是圣灵降临的前提——"我若不去，保惠师就不到你们这里来"（16:7）。
 
-"I go to prepare a place for you" (14:2), "I will not leave you comfortless" (14:18), "Peace I leave with you" (14:27) -- every word brings comfort. The promise of the Holy Spirit runs through the discourse: the Comforter "will guide you into all truth" (16:13).
+葡萄树的比喻（15:1-8）是基督徒生命最核心的教导。"我是真葡萄树，我父是栽培的人"（15:1）。"你们要常在我里面，我也常在你们里面。枝子若不常在葡萄树上，自己就不能结果子；你们若不常在我里面，也是这样"（15:4）。果子不是靠努力产生的，而是住在基督里的自然结果。"不常在我里面的人，就像枝子丢在外面枯干"（15:6）——离开基督，一切属灵生命都将枯竭。"常在"（menein）是约翰福音的核心动词，出现超过40次。`,
+    content_en: `John 13-17 is called the opening of the "Book of Glory." Chapters 13-16 constitute Jesus' farewell discourse to the disciples — the most intimate and profound teaching in all four Gospels, entirely unique to John.
 
-The vine parable (15:1-8) is the core of Christian life: "Abide in me, and I in you" (15:4). Fruit is not produced by effort but by abiding in Christ.
+The foot-washing (13:1-17) sets the tone. Before the Passover supper, "Jesus knowing that his hour was come that he should depart out of this world unto the Father" (13:1), He rose and washed the disciples' feet. The Sovereign of the universe kneeling to wash human feet — this is not merely an example of humility but a preview of what He will do on the cross: humbling Himself to cleanse others from sin. "If I then, your Lord and Master, have washed your feet; ye also ought to wash one another's feet" (13:14).
 
-The High Priestly Prayer in chapter 17 is one of Scripture's most sacred passages. Jesus prays for the disciples' unity: "That they all may be one; as thou, Father, art in me, and I in thee" (17:21) -- the church's unity is grounded in the unity of the Triune God.`,
+The disciples were troubled because the Lord said, "I go away." Jesus gave repeated comfort: "Let not your heart be troubled... In my Father's house are many mansions" (14:1-2). "I am the way, the truth, and the life: no man cometh unto the Father, but by me" (14:6) — the classic declaration of Christianity's exclusivity, yet also the warmest promise: the way to the Father has been opened.
+
+The promise of the Spirit runs through chapters 14-16. Jesus calls the Spirit the "Comforter" (parakletos, literally "one called alongside"). The Spirit "shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you" (14:26); when He comes, He "will reprove the world of sin, and of righteousness, and of judgment" (16:8); He "will guide you into all truth" (16:13). Christ's departure is not loss but the prerequisite for the Spirit's coming — "If I go not away, the Comforter will not come unto you" (16:7).
+
+The vine parable (15:1-8) is the most essential teaching on the Christian life. "I am the true vine, and my Father is the husbandman" (15:1). "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me" (15:4). Fruit is not produced by effort but is the natural result of abiding in Christ. "If a man abide not in me, he is cast forth as a branch, and is withered" (15:6) — apart from Christ, all spiritual life withers. "Abide" (menein) is John's key verb, appearing over 40 times in the Gospel.`,
   },
   {
-    title_zh: `四、十字架与复活：荣耀的时刻（18-21章）`,
-    title_en: `IV. The Cross and Resurrection: The Hour of Glory (Ch. 18-21)`,
-    content_zh: `在约翰福音中，十字架不是悲剧而是"荣耀的时刻"——"人子得荣耀的时候到了"（12:23）。耶稣在彼拉多面前宣告："我的国不属这世界"（18:36）。"成了！"（19:30）是全书的高峰——不是失败的呻吟，而是胜利的宣告。
+    title_zh: `四、大祭司的祷告：三位一体的奥秘（17章）`,
+    title_en: `IV. The High Priestly Prayer: The Mystery of the Trinity (Ch. 17)`,
+    content_zh: `第17章是耶稣上十字架前最后的祷告，被称为"大祭司的祷告"——因为他是在代替他的子民向父祈求。这是圣经中我们能听到的圣子向圣父最直接的对话，让我们窥见三位一体神内部的关系。
 
-抹大拉的马利亚在园中哭泣，直到耶稣呼唤她的名字——"马利亚"（20:16）。多马怀疑，直到他亲眼见主伤处，然后发出最高的告白："我的主！我的神！"（20:28）约翰记录这些，是"要叫你们信耶稣是基督，是神的儿子，并且叫你们信了他，就可以因他的名得生命"（20:31）。
+耶稣先为自己祷告："父啊，时候到了，愿你荣耀你的儿子，使儿子也荣耀你"（17:1）。"认识你独一的真神，并且认识你所差来的耶稣基督，这就是永生"（17:3）——永生不是无尽的时间，而是与三位一体的神建立关系。"父啊，现在求你使我同你享荣耀，就是未有世界以先，我同你所有的荣耀"（17:5）——耶稣祈求恢复道成肉身之前的荣耀，证明他的先存。
 
-提比哩亚海边（21章）耶稣三次问彼得"你爱我吗"——对应三次不认主。每一次回答都跟着"牧养我的羊"。失败不是终点；被恢复的人有使命。"你跟从我吧"（21:22）——这是全书最后的呼召。`,
-    content_en: `In John's Gospel, the cross is not tragedy but "the hour of glory" -- "The hour is come, that the Son of man should be glorified" (12:23). Before Pilate Jesus declared: "My kingdom is not of this world" (18:36). "It is finished!" (19:30) is the book's climax -- not a groan of defeat but a cry of victory.
+然后为门徒祷告："我不求你叫他们离开世界，只求你保守他们脱离那恶者"（17:15）。"求你用真理使他们成圣；你的道就是真理"（17:17）。成圣的途径是真理——神的话语。
 
-Mary Magdalene wept in the garden until Jesus called her name -- "Mary" (20:16). Thomas doubted until he saw the Master's wounds, then confessed: "My Lord and my God!" (20:28). John records all this "that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name" (20:31).
+最后为所有信徒祷告："我不但为这些人祈求，也为那些因他们的话信我的人祈求，使他们都合而为一。正如你父在我里面，我在你里面，使他们也在我们里面"（17:20-21）。教会合一的模式不是组织上的统一，而是效法三位一体的合一——父与子的关系是合一的终极典范。合一不排除多样性，正如父、子、灵是三个位格却是一个本体。
 
-At the Sea of Tiberias (ch. 21) Jesus asked Peter three times, "Lovest thou me?" -- corresponding to three denials. Each answer was followed by "Feed my sheep." Failure is not the end; the restored have a mission. "Follow thou me" (21:22) -- the book's final call.`,
+"父啊，我在哪里，愿你所赐给我的人也同我在那里，叫他们看见你所赐给我的荣耀；因为创立世界以前，你已经爱我了"（17:24）——创世以前父就爱子，这是宇宙中最原始的爱。我们被邀请进入这份爱中——这是恩典的终极目的：不只是赦罪，而是进入三位一体神的团契。`,
+    content_en: `Chapter 17 is Jesus' final prayer before the cross, called the "High Priestly Prayer" — because He intercedes for His people before the Father. This is the most direct conversation between the Son and the Father that Scripture allows us to hear, granting a glimpse into the inner life of the Trinity.
+
+Jesus first prays for Himself: "Father, the hour is come; glorify thy Son, that thy Son also may glorify thee" (17:1). "And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent" (17:3) — eternal life is not endless time but a relationship with the Triune God. "And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was" (17:5) — Jesus prays to resume His pre-incarnate glory, proving His pre-existence.
+
+Then He prays for the disciples: "I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil" (17:15). "Sanctify them through thy truth: thy word is truth" (17:17). The means of sanctification is truth — God's Word.
+
+Finally He prays for all believers: "Neither pray I for these alone, but for them also which shall believe on me through their word; That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us" (17:20-21). The model of church unity is not organizational uniformity but emulation of Trinitarian unity — the Father-Son relationship is the ultimate paradigm of oneness. Unity does not exclude diversity, just as Father, Son, and Spirit are three persons yet one essence.
+
+"Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world" (17:24) — the Father loved the Son before creation, the most primordial love in the universe. We are invited into this love — this is the ultimate purpose of grace: not merely forgiveness but entrance into the fellowship of the Triune God.`,
+  },
+  {
+    title_zh: `五、十字架与复活：荣耀的时刻（18-21章）`,
+    title_en: `V. The Cross and Resurrection: The Hour of Glory (Ch. 18-21)`,
+    content_zh: `在约翰福音中，十字架不是悲剧而是"荣耀的时刻"。耶稣多次说"我的时候还没有到"（2:4, 7:30, 8:20），直到12:23他宣告："人子得荣耀的时候到了。"十字架是荣耀，因为正是在那里，神的爱被最完全地彰显。
+
+在客西马尼园，当兵丁来抓耶稣，他问"你们找谁？"他们说"找拿撒勒人耶稣"。耶稣说"我就是"（ego eimi, 18:5）——他们就退后倒在地上。即使在被捕的时刻，耶稣仍掌握主权。在彼拉多面前，耶稣宣告"我的国不属这世界"（18:36），又说"我为此而生，也为此来到世间，特为给真理作见证"（18:37）。彼拉多问"真理是什么？"——历史上最悲剧性的问题，因为真理就站在他面前。
+
+"成了！"（tetelestai, 19:30）是约翰福音的高峰——不是失败的呻吟，而是胜利的宣告。这个希腊词在商业文件中意为"债已付清"。基督在十字架上付清了我们所有的罪债。约翰特别记录了"兵丁拿枪扎他的肋旁，随即有血和水流出来"（19:34），并特别强调"看见这事的那人就作见证——他的见证也是真的"（19:35）。
+
+复活清晨，抹大拉的马利亚在空坟墓前哭泣。她以为耶稣的身体被挪走了。直到耶稣呼唤她的名字——"马利亚"（20:16）——她才认出复活的主。"我的羊听我的声音，我也认识他们"（10:27）在这里得到了最温柔的实现。多马要求看见才信，耶稣满足了他，多马发出最高的告白："我的主！我的神！"（20:28）——这是约翰福音基督论的巅峰。耶稣说："你因看见了我才信；那没有看见就信的有福了"（20:29）——这句话是对历代教会所有信徒说的。
+
+第21章是附录，却包含了最感人的恢复场景。提比哩亚海边，耶稣三次问彼得"你爱我吗？"——对应三次不认主。每一次回答都跟着"你牧养我的羊"。彼得的三次否认被三次恢复覆盖。失败不是终点；在恩典中被恢复的人有更大的使命。"你跟从我吧"（21:22）——这是约翰福音最后的呼召，也是对每一个读者的呼召。`,
+    content_en: `In John's Gospel, the cross is not tragedy but "the hour of glory." Jesus repeatedly said, "Mine hour is not yet come" (2:4, 7:30, 8:20), until 12:23 when He declared: "The hour is come, that the Son of man should be glorified." The cross is glory because it is there that God's love is most fully displayed.
+
+In Gethsemane, when soldiers came to arrest Jesus, He asked, "Whom seek ye?" They answered, "Jesus of Nazareth." Jesus said, "I am he" (ego eimi, 18:5) — and they fell to the ground. Even at the moment of arrest, Jesus remained sovereign. Before Pilate, Jesus declared, "My kingdom is not of this world" (18:36), and "To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth" (18:37). Pilate asked, "What is truth?" — history's most tragic question, for Truth was standing right before him.
+
+"It is finished!" (tetelestai, 19:30) is John's climax — not a groan of defeat but a cry of victory. This Greek word in commercial documents meant "the debt is paid in full." Christ on the cross paid the full debt of all our sins. John specifically records that "one of the soldiers with a spear pierced his side, and forthwith came there out blood and water" (19:34), and emphatically adds, "he that saw it bare record, and his record is true" (19:35).
+
+On the resurrection morning, Mary Magdalene wept at the empty tomb, thinking the body had been removed. Not until Jesus called her name — "Mary" (20:16) — did she recognize the risen Lord. "My sheep hear my voice, and I know them" (10:27) finds its tenderest fulfillment here. Thomas demanded to see before believing; Jesus granted it, and Thomas uttered the highest confession: "My Lord and my God!" (20:28) — the pinnacle of Johannine Christology. Jesus said, "Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed" (20:29) — this word is spoken to all believers in every age.
+
+Chapter 21 is an epilogue yet contains the most moving scene of restoration. At the Sea of Tiberias, Jesus asked Peter three times, "Lovest thou me?" — corresponding to three denials. Each answer was followed by "Feed my sheep." Peter's three denials are covered by three restorations. Failure is not the end; those restored by grace receive a greater commission. "Follow thou me" (21:22) — John's final call, and the call to every reader.`,
   },
 ]
 

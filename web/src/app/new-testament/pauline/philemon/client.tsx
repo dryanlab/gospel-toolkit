@@ -5,6 +5,26 @@ import { useState } from 'react';
 
 const sections = [
     {
+      title_zh: '一、腓利门的信心与爱心：福音果子的见证',
+      title_en: "Philemon's Faith and Love: Testimony of the Gospel's Fruit",
+      content_zh: `保罗在开篇就为腓利门的信心和爱心感恩，这不是客套，而是为后面的请求铺设神学基础。
+
+"我祷告的时候提到你，常为你感谢我的神。因听说你的爱心并你向主耶稣和众圣徒的信心。愿你与人所同有的信心显出功效，使人知道你们各样善事都是为基督做的。"（腓利门书 1:4-6）
+
+"I thank my God, making mention of thee always in my prayers, Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints; That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus." (Philemon 1:4-6, KJV)
+
+保罗提到腓利门的"爱心"和"信心"——这两个词的顺序在原文中是交叉排列（chiasm）：信心向着主耶稣，爱心向着众圣徒。信心的对象是基督，爱心的流向是弟兄。保罗祷告他的信心"显出功效"——信心不是抽象的教义，而是在具体行动中彰显的。接下来保罗要求腓利门做的事（饶恕并接纳逃跑的奴隶阿尼西母），正是这信心"显出功效"的最大考验。
+
+腓利门家中有教会聚会（1:2"在你家的教会"），说明他是歌罗西教会的核心成员，家境富裕到可以拥有奴隶并提供聚会场所。保罗称他为"同工"——不是雇主与雇员的关系，而是福音里的同工关系。`,
+      content_en: `Paul opens by giving thanks for Philemon's faith and love — not mere courtesy but laying the theological foundation for his coming request.
+
+"I thank my God, making mention of thee always in my prayers, Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints; That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus." (Philemon 1:4-6, KJV)
+
+Paul mentions Philemon's "love" and "faith" — the order in the Greek forms a chiasm: faith toward the Lord Jesus, love toward all the saints. The object of faith is Christ; the direction of love is toward the brethren. Paul prays that his faith may "become effectual' — faith is not abstract doctrine but is manifested in concrete action. What Paul is about to ask Philemon to do (forgive and receive his runaway slave Onesimus) is precisely the greatest test of this faith becoming "effectual.'
+
+Philemon had a church meeting in his house (1:2, "the church in thy house"), indicating he was a core member of the Colossian church, wealthy enough to own slaves and provide a meeting place. Paul calls him a "fellowlabourer' — not an employer-employee relationship but a co-worker relationship in the gospel.`
+    },
+    {
       title_zh: '爱心的恳求：不是命令，乃是请求',
       title_en: 'An Appeal of Love: Not a Command but a Request',
       content_zh: `腓利门书只有一章25节，是保罗最短的书信，却蕴含着福音最深刻的应用。阿尼西母是腓利门的奴隶，他偷了主人的财物逃跑，在罗马遇见了囚犯保罗，信了主。保罗现在把他送回去，同时写信请求腓利门饶恕并接纳他。

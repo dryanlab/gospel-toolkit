@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 const sections = [
     {
-      title_zh: '神是光：在光明中行走',
+      title_zh: '一、神是光：在光明中行走（1-2章）',
       title_en: 'God Is Light: Walking in the Light',
       content_zh: `约翰一书是约翰在晚年写给爱弗所附近教会的书信，回应当时兴起的幻影说（认为基督没有真实的肉身）。约翰以"从起初"就亲眼所见的见证开篇，强调道成肉身的真实性。
 
@@ -21,7 +21,7 @@ const sections = [
 "God is light' — there is no middle ground between light and darkness. Having fellowship with God is incompatible with living in sin. John immediately adds that if we confess our sins, He is faithful and just to forgive us (1:9) — not that we deny sin, but that we confess it in the light and are cleansed in the light.`
     },
     {
-      title_zh: '爱神与爱弟兄：不可分割',
+      title_zh: '二、爱神与爱弟兄：不可分割（3章）',
       title_en: 'Loving God and Loving Brothers: Inseparable',
       content_zh: `约翰一书最著名的主题是爱——神的爱与我们对弟兄的爱是不可分割的。
 
@@ -41,7 +41,7 @@ const sections = [
 John further says: "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?" (4:20). Loving God and loving brothers are one — they cannot be separated. Claiming to love God while hating brothers is self-deception.`
     },
     {
-      title_zh: '得胜世界的信心',
+      title_zh: '三、得胜世界的信心（5章）',
       title_en: 'The Faith That Overcomes the World',
       content_zh: `约翰一书的结尾充满了确据——知道自己有永生是可以的，信心是得胜世界的武器。
 

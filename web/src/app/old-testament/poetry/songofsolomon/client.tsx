@@ -57,21 +57,6 @@ Chapter 8 contains the Song's most profound theological declaration: "Set me as 
 "A most vehement flame" — in Hebrew literally "the flame of the LORD" (šalhebetyāh). This is the only place in the book where God's name appears directly. Love's fire is not kindled by humans but comes from the LORD. This fire is as irresistible as death, as unyielding as the grave, unquenchable even by many waters. In the Reformed tradition, this points to Christ's indestructible love for the church — not even death can separate us from the love of Christ (Rom 8:38–39).
 
 The Song concludes with "Make haste, my beloved" (8:14) — love's longing never ceases. This echoes Revelation's final prayer: "Even so, come, Lord Jesus" (Rev 22:20). From the Old Testament love poem to the New Testament's eschatological hope, the same longing runs through: to be forever with the Beloved.`,
-  },
-
-{
-    title_zh: `四、爱的不可征服与信仰的奥秘（8章）`,
-    title_en: `IV. The Invincibility of Love and the Mystery of Faith (Ch. 8)`,
-    content_zh: `雅歌第8章以全书最著名的宣告结束："求你将我放在心上如印记，带在你臂上如戳记。因为爱情如死之坚强，嫉恨如阴间之残忍；所发的电光，是火焰的电光，是耶和华的烈焰。爱情，众水不能息灭，大水也不能淹没"（8:6-7）。
-
-"耶和华的烈焰"——这是雅歌中唯一一次出现神的名字，却在最关键的位置。爱情的本质是神圣的火焰，因为"神就是爱"（约翰一书4:8）。人间的爱情反映了神对人类的爱——热烈、排他、永不放弃。
-
-历代教会将雅歌解读为基督与教会之间爱的颂歌（以弗所书5:25-32）。无论是字面的夫妻之爱还是灵意的基督之爱，雅歌都在说同一件事：真正的爱"众水不能息灭"——它比死更强，比一切的阻隔都更有力。这是圣经中关于爱最深刻、最美丽的宣告。`,
-    content_en: `Song of Solomon chapter 8 closes with the book's most famous declaration: "Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which hath a most vehement flame. Many waters cannot quench love, neither can the floods drown it" (8:6-7).
-
-"A most vehement flame" -- literally "the flame of the LORD" -- is the only appearance of God's name in the Song, yet at the most crucial point. Love's essence is a divine flame, for "God is love" (1 John 4:8). Human love reflects God's love for humanity -- passionate, exclusive, never giving up.
-
-The church through the ages has read the Song as a hymn of love between Christ and His church (Ephesians 5:25-32). Whether understood literally as marital love or spiritually as Christ's love, the Song says the same thing: true love "many waters cannot quench" -- it is stronger than death, more powerful than every barrier. This is Scripture's deepest, most beautiful declaration about love.`,
   }
 ];
 

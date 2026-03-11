@@ -27,7 +27,21 @@ The fourth vision (ch. 3) is the most theologically significant — high priest 
 The fifth vision (ch. 4): a golden lampstand and two olive trees — "Not by might, nor by power, but by my spirit, saith the LORD of hosts" (4:6). Encouragement for Zerubbabel's temple-building and a principle for all spiritual work.`,
   },
   {
-    title_zh: `二、弥赛亚的预言（9-11章）`,
+    title_zh: `二、真正的禁食与公义的呼召（7-8章）`,
+    title_en: `II. True Fasting and the Call to Justice (Ch. 7-8)`,
+    content_zh: `第7-8章是撒迦利亚书的转折点。百姓来问先知：被掳期间的禁食日是否仍需遵守？神的回答出人意料——不是讨论禁食的形式，而是质问禁食的实质：
+
+"万军之耶和华曾对你们的列祖如此说：要按至理判断，各人以慈爱怜悯弟兄。不可欺压寡妇、孤儿、寄居的和贫穷人。谁都不可心里谋害弟兄"（7:9-10）。真正的禁食不是饿肚子，而是行公义、好怜悯。这与以赛亚书58章的信息完全一致。
+
+第8章转为荣耀的应许——神要回到锡安："老年人和老年妇人必再坐在耶路撒冷街上……城中街上必满有男孩女孩玩耍"（8:4-5）。禁食的日子将变为"欢喜快乐的日子和欢乐的节期"（8:19）。万国将来到耶路撒冷寻求神——"必有十个人从列国诸族中出来，拉住一个犹大人的衣襟，说：我们要与你们同去，因为我们听见神与你们同在了"（8:23）。`,
+    content_en: `Chapters 7-8 are the turning point of Zechariah. The people asked the prophet whether the fasting days observed during exile should continue. God's answer was unexpected — not discussing the form of fasting but questioning its substance:
+
+"Thus speaketh the LORD of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother: And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart" (7:9-10). True fasting is not going hungry but doing justice and showing mercy. This aligns perfectly with Isaiah 58's message.
+
+Chapter 8 turns to glorious promises — God will return to Zion: "There shall yet old men and old women dwell in the streets of Jerusalem... And the streets of the city shall be full of boys and girls playing" (8:4-5). Fasting days will become "joy and gladness, and cheerful feasts" (8:19). All nations will come to Jerusalem seeking God — "In those days it shall come to pass, that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you" (8:23).`,
+  },
+  {
+    title_zh: `三、弥赛亚的预言（9-11章）`,
     title_en: `II. Messianic Prophecies (Ch. 9–11)`,
     content_zh: `第九章包含了旧约中最精确的弥赛亚预言之一——"锡安的民哪，应当大大喜乐；耶路撒冷的民哪，应当欢呼。看哪，你的王来到你这里！他是公义的，并且施行拯救，谦谦和和地骑着驴，就是骑着驴的驹子"（9:9）。
 
@@ -45,7 +59,7 @@ Chapter 11 depicts the rejected shepherd — "And I took my staff, even Beauty, 
 Thirty pieces of silver — the exact price Judas received for betraying Jesus (Matt 26:15). The money was "cast down in the temple," then used to buy a potter's field (Matt 27:3–10). Zechariah prophesied this detail over 500 years before Christ's betrayal.`,
   },
   {
-    title_zh: `三、受苦与得胜的弥赛亚（12-14章）`,
+    title_zh: `四、受苦与得胜的弥赛亚（12-14章）`,
     title_en: `III. The Suffering and Triumphant Messiah (Ch. 12–14)`,
     content_zh: `最后三章的弥赛亚预言更加直接。"他们必仰望我，就是他们所扎的；必为我悲哀，如丧独生子，又为我愁苦，如丧长子"（12:10）。"仰望他们所扎的"——约翰福音19:37在十字架下引用此节，指向被钉的基督。
 
@@ -61,21 +75,6 @@ Thirty pieces of silver — the exact price Judas received for betraying Jesus (
 Chapter 14 is the book's climax — the Day of the LORD. "And his feet shall stand in that day upon the mount of Olives, which is before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof" (14:4). "And the LORD shall be king over all the earth: in that day shall there be one LORD, and his name one" (14:9).
 
 Zechariah begins with a small remnant returned from exile and ends with the King of kings ruling all the earth — one of Scripture's grandest redemptive narratives.`,
-  },
-
-{
-    title_zh: `四、弥赛亚的预言与末世异象（9-14章）`,
-    title_en: `IV. Messianic Prophecies and Eschatological Visions (Ch. 9-14)`,
-    content_zh: `撒迦利亚书后半部包含旧约最密集的弥赛亚预言。"锡安的民哪，应当大大喜乐！你的王来到你这里！他是公义的，并且施行拯救，谦谦和和地骑着驴"（9:9）——耶稣荣耀入城时完全应验了这预言。
-
-"他们必仰望我，就是他们所扎的"（12:10）——约翰福音19:37在十字架场景中引用了这节。"三十块钱"（11:12-13）的预言指向犹大出卖耶稣的价格。"击打牧人，羊就分散了"（13:7）——耶稣在客西马尼园引用此话预言门徒的逃散。
-
-第14章描绘了末日的场景——耶和华的日子、橄榄山裂开、活水从耶路撒冷流出、"耶和华必作全地的王"（14:9）。撒迦利亚书是旧约与新约之间的桥梁，把先知的预言和基督的应验紧密相连。`,
-    content_en: `The second half of Zechariah contains the Old Testament's densest cluster of Messianic prophecies. "Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass" (9:9) -- perfectly fulfilled at Jesus' triumphal entry.
-
-"They shall look upon me whom they have pierced" (12:10) -- John 19:37 quotes this at the crucifixion scene. "Thirty pieces of silver" (11:12-13) foreshadows the price of Judas' betrayal. "Smite the shepherd, and the sheep shall be scattered" (13:7) -- Jesus quoted this in Gethsemane predicting the disciples' flight.
-
-Chapter 14 depicts the end-time scene -- the Day of the LORD, the Mount of Olives splitting, living waters flowing from Jerusalem, and "the LORD shall be king over all the earth" (14:9). Zechariah is the bridge between Old and New Testaments, tightly linking prophetic prediction to Christ's fulfillment.`,
   }
 ];
 

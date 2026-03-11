@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 const sections = [
     {
-      title_zh: '为真道竭力争辩',
+      title_zh: '一、为真道竭力争辩',
       title_en: 'Earnestly Contend for the Faith',
       content_zh: `犹大原本想写一封关于救恩的积极书信，但紧急的处境迫使他改变计划——假教师已经偷偷混入教会。
 
@@ -33,6 +33,26 @@ const sections = [
 Jude also cites Cain, Balaam, and Korah: "Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core' (1:11). Cain represents jealousy and violence, Balaam represents the false prophet motivated by greed, and Korah represents rebellion against legitimate authority — the behavior of false teachers is a combination of all three.
 
 Jude describes them with vivid imagery: "These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots; Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever." (Jude 1:12-13)`
+    },
+    {
+      title_zh: '在至圣的真道上建造自己',
+      title_en: 'Building Yourselves Up in the Most Holy Faith',
+      content_zh: `犹大不只警告假教师，也积极指导信徒如何在险恶的属灵环境中站立得稳：
+
+"亲爱的弟兄啊，你们却要在至圣的真道上造就自己，在圣灵里祷告，保守自己常在神的爱中，仰望我们主耶稣基督的怜悯，直到永生。"（犹大书 1:20-21）
+
+"But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life." (Jude 1:20-21, KJV)
+
+犹大给出四个要素：（1）在真道上建造——扎根于纯正的教义；（2）在圣灵里祷告——不是形式化的祷告，而是被圣灵引导的祷告；（3）保守自己在神的爱中——持续活在神的爱里，不偏离；（4）仰望基督的怜悯——盼望最终的救赎。注意这里暗含三位一体的结构：圣灵、神（父）、主耶稣基督各有其工作。
+
+犹大还教导如何对待不同程度的迷失者："有些人你们要从火中抢出来，搭救他们；有些人你们要存惧怕的心怜悯他们，连那被情欲沾染的衣服也当厌恶"（1:23）。这里的智慧在于：怜悯是必须的，但要带着分辨和警惕，免得自己也被沾染。`,
+      content_en: `Jude does not only warn about false teachers but actively instructs believers on how to stand firm in a perilous spiritual environment:
+
+"But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life." (Jude 1:20-21, KJV)
+
+Jude gives four elements: (1) building on the faith — rooting oneself in sound doctrine; (2) praying in the Holy Ghost — not formulaic prayer but prayer guided by the Spirit; (3) keeping oneself in the love of God — continually living in God's love without deviation; (4) looking for Christ's mercy — anticipating final redemption. Note the implicit Trinitarian structure: the Holy Spirit, God (the Father), and the Lord Jesus Christ each has His work.
+
+Jude also teaches how to treat those who have gone astray in varying degrees: "And of some have compassion, making a difference: And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh" (1:22-23). The wisdom here is: compassion is necessary, but with discernment and vigilance, lest one also become contaminated.`
     },
     {
       title_zh: '宝贵的祝祷：保守你们不失脚',

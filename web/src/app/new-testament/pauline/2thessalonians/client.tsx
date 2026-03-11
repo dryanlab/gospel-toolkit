@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 const sections = [
     {
-      title_zh: '患难中的安慰与神公义的审判',
+      title_zh: '一、患难中的安慰与神公义的审判（1章）',
       title_en: 'Comfort in Affliction and God\'s Righteous Judgment',
       content_zh: `帖撒罗尼迦后书写于前书之后不久。教会仍在遭受逼迫，保罗首先安慰他们：苦难不是白受的，神公义的审判必要临到逼迫他们的人。
 
@@ -21,7 +21,7 @@ const sections = [
 Believers' patience and faith in tribulation are themselves "a manifest token of the righteous judgment of God." This does not mean we earn heaven through suffering, but that true faith inevitably reveals its authenticity in adversity. God sees their endurance and will execute righteous judgment when the Lord Jesus returns — "when the Lord Jesus shall be revealed from heaven with his mighty angels, in flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ' (1:7-8).`
     },
     {
-      title_zh: '大罪人的显露与主再来的次序',
+      title_zh: '二、大罪人的显露与主再来的次序（2章）',
       title_en: 'The Revelation of the Man of Sin and the Order of the Lord\'s Return',
       content_zh: `帖撒罗尼迦教会中有人传说"主的日子现在到了"，引起恐慌和混乱。保罗纠正这一错误，指出主再来之前必有两件事先发生。
 
@@ -37,7 +37,7 @@ Believers' patience and faith in tribulation are themselves "a manifest token of
 Before the Lord's return, first there must be "a falling away' — a great apostasy; second, "the man of sin' must be revealed. Paul says a restraining power currently prevents this man of sin from appearing (2:6-7). But when the time comes, the Lord Jesus "shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming' (2:8). The church need not panic — everything is within God's sovereign plan.`
     },
     {
-      title_zh: '不做工就不可吃饭：基督徒的勤劳',
+      title_zh: '三、不做工就不可吃饭：基督徒的勤劳（3章）',
       title_en: 'If Any Would Not Work, Neither Should He Eat',
       content_zh: `帖撒罗尼迦教会中有人借口"主快来了"就不再工作，成为游手好闲的人，甚至管别人的闲事。保罗严厉斥责这种行为。
 

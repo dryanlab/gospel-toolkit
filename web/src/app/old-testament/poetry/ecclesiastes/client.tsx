@@ -57,21 +57,6 @@ The following metaphors depict the body's decline: the keepers of the house trem
 The final two verses are Ecclesiastes' ultimate message and the key to the entire book: "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man. For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil" (12:13–14).
 
 After a thorough exploration of vanity, the Preacher's conclusion is not nihilism but reverence. Precisely because all is vanity under the sun, God above the sun becomes the only certainty. Ecclesiastes teaches: acknowledging life's limitations is not the beginning of despair but the beginning of fearing God.`,
-  },
-
-{
-    title_zh: `四、"敬畏神，谨守他的诫命"——全书的结论（11-12章）`,
-    title_en: `IV. "Fear God, and Keep His Commandments" -- The Book's Conclusion (Ch. 11-12)`,
-    content_zh: `传道书以极其深邃的方式结尾。第11章劝勉大胆行动——"当将你的粮食撒在水面"（11:1），因为你不知道哪一个会成功。第12章的老年描写是希伯来诗歌的杰作："银链折断，金罐破裂，瓶子在泉旁损坏，水轮在井口破烂"（12:6）——生命不可避免地走向衰老和死亡。
-
-全书最后两节是一切的总结："这些事都已听见了，总意就是：敬畏神，谨守他的诫命，这是人所当尽的本分。因为人所做的事，连一切隐藏的事，无论是善是恶，神都必审问"（12:13-14）。
-
-在否定了一切——智慧、享乐、劳碌、财富——之后，传道书给出了人生唯一确定的答案：敬畏神。不是因为明白了所有的意义，而是因为信靠那位掌管意义的神。传道书不是虚无主义的宣言，而是信仰最深层的挣扎——承认人的有限，接受神的主权。`,
-    content_en: `Ecclesiastes ends with extraordinary depth. Chapter 11 urges bold action -- "Cast thy bread upon the waters" (11:1), for you do not know which will succeed. Chapter 12's depiction of old age is a masterpiece of Hebrew poetry: "the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern" (12:6) -- life inevitably moves toward aging and death.
-
-The book's final two verses summarize everything: "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man. For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil" (12:13-14).
-
-After negating everything -- wisdom, pleasure, labor, wealth -- Ecclesiastes gives life's only certain answer: fear God. Not because all meaning is understood, but because we trust the God who governs meaning. Ecclesiastes is not a nihilistic manifesto but faith's deepest struggle -- acknowledging human limitation and accepting God's sovereignty.`,
   }
 ];
 

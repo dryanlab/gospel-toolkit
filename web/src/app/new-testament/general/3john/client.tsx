@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 const sections = [
     {
-      title_zh: '接待传道人：盖犹的美好见证',
+      title_zh: '一、接待传道人：盖犹的美好见证',
       title_en: 'Welcoming Missionaries: The Good Example of Gaius',
       content_zh: `约翰三书是写给盖犹的个人信件，全信只有14节，却在约翰二书"不可接待异端"之后，提供了一个正面的例子：当接待、支持传道人。
 
@@ -19,6 +19,26 @@ const sections = [
 "Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers; Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well." (3 John 1:5-6, KJV)
 
 Gaius welcomed missionaries, including strangers, and was commended for "faithfully' doing so. This is the biblical standard of hospitality — not only welcoming acquaintances but also welcoming traveling missionaries. Paul in Romans 12:13 says to be "given to hospitality," and Hebrews 13:2 says "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares."`
+    },
+    {
+      title_zh: '为主名出外：宣教的神学根基',
+      title_en: 'Going Forth for His Name: The Theological Foundation of Mission',
+      content_zh: `约翰在第7-8节给出了支持传道人的神学理由：
+
+"因他们是为主的名出外，对于外邦人一无所取。所以我们应该接待这样的人，叫我们与他们一同为真理做工。"（约翰三书 1:7-8）
+
+"Because that for his name's sake they went forth, taking nothing of the Gentiles. We therefore ought to receive such, that we might be fellowhelpers to the truth." (3 John 1:7-8, KJV)
+
+"为主的名出外"——宣教的动力不是个人抱负，而是主名的荣耀。"对于外邦人一无所取"——传道人不向未信者收取报酬，以保持福音的纯洁性，免得有人误解福音是可以买卖的。但这并不意味着传道人不需要供应——恰恰相反，约翰说信徒"应该接待这样的人"，这是信徒的本分。
+
+最关键的是最后一句："叫我们与他们一同为真理做工。"支持传道人不只是行善，而是参与宣教。你或许不能亲自去传道，但你接待传道人、供应他们的需要，就与他们一同承担了福音的使命，一同成为"真理的同工"。这是保罗在腓立比书1:5所称的"同心合意地兴旺福音"。`,
+      content_en: `In verses 7-8, John gives the theological reason for supporting missionaries:
+
+"Because that for his name's sake they went forth, taking nothing of the Gentiles. We therefore ought to receive such, that we might be fellowhelpers to the truth." (3 John 1:7-8, KJV)
+
+"For his name's sake they went forth' — the motivation for mission is not personal ambition but the glory of the Lord's name. "Taking nothing of the Gentiles' — missionaries did not accept payment from unbelievers, preserving the purity of the gospel lest anyone think the gospel can be bought and sold. But this does not mean missionaries need no provision — on the contrary, John says believers "ought to receive such," for it is their duty.
+
+The crucial phrase is the last: "that we might be fellowhelpers to the truth." Supporting missionaries is not merely doing good but participating in mission. You may not be able to go preach personally, but by welcoming missionaries and supplying their needs, you share in the gospel mission, becoming "fellowhelpers to the truth." This is what Paul calls "fellowship in furtherance of the gospel" (Philippians 1:5).`
     },
     {
       title_zh: '爱权位的丢特腓与爱真理的低米丢',
@@ -35,6 +55,26 @@ Gaius welcomed missionaries, including strangers, and was commended for "faithfu
 "I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not. Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church." (3 John 1:9-10, KJV)
 
 Diotrephes's problem was that he "loveth to have the preeminence' — using power as his goal. He refused to accept the apostle John's authority and even cast out believers who wanted to welcome missionaries. This is a recorded early church case of leadership abuse. In contrast, "Demetrius hath good report of all men, and of the truth itself' (1:12) — those with true spiritual authority are confirmed by both truth and the community, not obtained by excluding others.`
+    },
+    {
+      title_zh: '效法善不效法恶：从行为看信仰',
+      title_en: 'Follow Good, Not Evil: Faith Manifested in Conduct',
+      content_zh: `约翰在全信的高潮处写下了一句掷地有声的话：
+
+"亲爱的兄弟啊，不要效法恶，只要效法善。行善的属乎神；行恶的未曾见过神。"（约翰三书 1:11）
+
+"Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God." (3 John 1:11, KJV)
+
+这与约翰一书的主题完全一致：信仰必须有行为的印证。"行善的属乎神"不是说行善可以赚取救恩，而是说真正认识神的人必然结出善行的果子。反过来，"行恶的未曾见过神"——无论一个人口头的信仰告白多么正统，如果他的生活充满恶行（如丢特腓的霸权），就证明他并不真正认识神。
+
+约翰三书虽然短小，却给我们留下了三个活生生的榜样和鉴戒：盖犹教我们忠心款待，丢特腓警告我们权力的腐蚀，低米丢展示了被真理和众人共同印证的生命。在教会生活中，我们每天都在选择——效法盖犹和低米丢，还是走丢特腓的路？愿主赐我们智慧分辨。`,
+      content_en: `At the climax of his letter, John writes a resounding statement:
+
+"Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God." (3 John 1:11, KJV)
+
+This is entirely consistent with the theme of First John: faith must be evidenced by conduct. "He that doeth good is of God' does not mean good works earn salvation, but that those who truly know God will inevitably bear the fruit of good deeds. Conversely, "he that doeth evil hath not seen God' — no matter how orthodox one's verbal confession, if one's life is filled with evil deeds (like Diotrephes's tyranny), it proves he does not truly know God.
+
+Though Third John is brief, it leaves us three vivid examples and warnings: Gaius teaches us faithful hospitality, Diotrephes warns us of the corruption of power, and Demetrius displays a life confirmed by both truth and the community. In church life, we face this choice daily — follow Gaius and Demetrius, or walk the path of Diotrephes? May the Lord grant us wisdom to discern.`
     }
   ];
 
