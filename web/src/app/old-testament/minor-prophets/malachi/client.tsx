@@ -54,6 +54,24 @@ Chapter 3:16 paints a beautiful picture of God-fearing people — "Then they tha
 
 The Old Testament ends with its final two verses — prophesying Elijah's coming before "the great and dreadful day of the LORD" (4:5). Jesus identified this as John the Baptist (Matt 11:14). The Old Testament's last voice points to the New Testament's first voice — John the Baptist crying in the wilderness.`,
   },
+  {
+    title_zh: `四、四百年沉默与旧约的完结`,
+    title_en: `IV. Four Hundred Years of Silence and the Old Testament's Close`,
+    content_zh: `玛拉基书不仅是旧约最后一卷书，也是旧约最后的声音。书末以"以利亚"的预言结束："我差以利亚先知在耶和华大而可畏之日未到以前、预先来到你们这里"（4:5）。然后是四百年的沉默——没有先知，没有新的启示，没有天使显现。
+
+这四百年（约公元前430年到公元前4年施洗约翰出现）在神学上被称为"两约之间"。圣经没有记载这段时期，但不是什么都没发生——正是在这段时间里，希腊化运动席卷中东，马加比家族带领犹太人反抗塞流古帝国，罗马帝国崛起……神在历史的幕后为弥赛亚的到来准备舞台。
+
+当施洗约翰终于在旷野呼喊"天国近了，你们应当悔改！"（太3:2），他就是玛拉基所预言的以利亚，旧约最后的声音由此得到回应。玛拉基书以"咒诅"结尾——"恐怕我来用咒诅击打这地"（4:6）——这是旧约对人类罪性最后的提醒。而新约的第一句话——"亚伯拉罕的后裔、大卫的子孙耶稣基督的家谱"（太1:1）——正是神对这咒诅的回答：弥赛亚来了，借着祂，咒诅被逆转，祝福临到万族。
+
+玛拉基书是旧约的终曲，也是新约序幕的最后一幕。整本旧约以"等待"结束，整本新约以"应验"开始。神的故事没有结束，只是进入了最高潮。`,
+    content_en: `Malachi is not only the Old Testament's last book but its final voice. It ends with the Elijah prophecy: "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD" (4:5, KJV). Then four hundred years of silence — no prophets, no new revelation, no angelic appearances.
+
+These four hundred years (c. 430 BC to the appearance of John the Baptist c. 4 BC) are theologically called the "intertestamental period." The Bible does not record this era, but it was not without event: Hellenization swept the Middle East, the Maccabees led the Jews against the Seleucid Empire, Rome rose to power — God behind history's curtain was preparing the stage for the Messiah's arrival.
+
+When John the Baptist finally cried in the wilderness, "Repent ye: for the kingdom of heaven is at hand" (Matt 3:2, KJV), he was the Elijah Malachi had prophesied, and the Old Testament's final voice received its answer. Malachi ends with "curse" — "lest I come and smite the earth with a curse" (4:6, KJV) — humanity's sin's last warning in the Old Testament. And the New Testament's first sentence — "The book of the generation of Jesus Christ, the son of David, the son of Abraham" (Matt 1:1, KJV) — is God's answer to that curse: the Messiah has come, and through Him the curse is reversed, blessing flowing to all nations.
+
+Malachi is the Old Testament's finale and the New Testament prologue's final act. The entire Old Testament ends with "waiting"; the entire New Testament begins with "fulfillment." God's story has not ended — it has entered its greatest climax.`,
+  },
 ];
 
 const overview = {

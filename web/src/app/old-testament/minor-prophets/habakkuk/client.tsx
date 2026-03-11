@@ -62,6 +62,24 @@ The book's climax is the final three verses — Habakkuk's declaration of faith:
 
 This is one of Scripture's greatest declarations of faith. Fig trees not blossoming, no grapes, no olives, no sheep, no cattle — materially nothing. "Yet" — this single conjunction carries the book's entire message. Circumstances unchanged, questions unanswered, yet the prophet's heart has moved from questioning to worship. This is faith: not praising because circumstances are good, but praising though circumstances are terrible.`,
   },
+  {
+    title_zh: `四、"义人因信得生"：哈巴谷与宗教改革`,
+    title_en: `IV. "The Just Shall Live by Faith": Habakkuk and the Reformation`,
+    content_zh: `哈巴谷书2:4——"义人因信得生"——是整个基督教历史上最具影响力的旧约经文之一。保罗在罗马书1:17、加拉太书3:11引用此节，希伯来书10:38也引用此节，赋予了这七个字以新约神学的核心地位。
+
+马丁路德读到罗马书1:17对哈巴谷2:4的引用时，经历了属灵的突破——"义人因信得生"意味着人在神面前的义不是靠行为挣来的，而是因信得着的。这一洞见点燃了十六世纪的宗教改革，改变了整个西方的历史轨迹。一句来自小先知书的经文，借着保罗，借着路德，塑造了现代文明。
+
+但哈巴谷的原初语境不可忽视：他是在问"神啊，你在哪里？你为什么沉默？"的处境下得到这个答案的。"义人因信得生"不只是称义的方式，更是苦难中持守的方式——当神的作为让人困惑，当公义看来迟迟不来，义人靠的是对那位不可见之神的信心，而不是眼前可见的证据。
+
+这种"在黑暗中的信心"是哈巴谷书最宝贵的礼物。宗教改革拯救了称义教义，哈巴谷书则进一步教导我们：这信心不是在顺境中的理论，而是在苦难中的锚。"然而，我要因耶和华欢欣"（3:18）——这是基督徒最深处的信仰告白。`,
+    content_en: `Habakkuk 2:4 — "the just shall live by his faith" — is one of the most influential Old Testament verses in all of Christian history. Paul quotes it in Romans 1:17 and Galatians 3:11; Hebrews 10:38 also cites it, giving these few words a central place in New Testament theology.
+
+When Martin Luther read Romans 1:17's quotation of Habakkuk 2:4, he experienced a spiritual breakthrough: "the just shall live by faith" means that a person's righteousness before God is not earned by works but received through faith. This insight ignited the sixteenth-century Reformation, altering the entire trajectory of Western history. A single verse from a Minor Prophet, through Paul and through Luther, shaped modern civilization.
+
+But Habakkuk's original context must not be overlooked: he received this answer while asking "God, where are you? Why are you silent?" "The just shall live by faith" is not only the means of justification but the means of persevering in suffering — when God's ways are perplexing and justice seems long delayed, the righteous live by faith in the unseen God rather than visible evidence.
+
+This "faith in the dark" is Habakkuk's most precious gift. The Reformation rescued the doctrine of justification; Habakkuk further teaches us that this faith is not a fair-weather theory but an anchor in suffering. "Yet I will rejoice in the LORD" (3:18) — this is the Christian's deepest confession of faith.`,
+  },
 ];
 
 const overview = {
