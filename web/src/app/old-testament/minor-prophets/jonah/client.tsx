@@ -58,6 +58,20 @@ Then God spoke the book's most important words: "Doest thou well to be angry for
 
 The book ends with a question mark — God's question with no recorded answer from Jonah. This open ending is for every reader — how would you answer? Are you willing for God to show mercy to your enemies?`,
   },
+  {
+    title_zh: `四、约拿书的弥赛亚预表与基督应验`,
+    title_en: `IV. Jonah as Messianic Type and Christ's Fulfillment`,
+    content_zh: `约拿书在新约中有明确的弥赛亚意义。耶稣亲自援引约拿为自己的预表："约拿三日三夜在大鱼肚腹中，人子也要这样三日三夜在地里头"（太12:40）。约拿在鱼腹中的经历预表了基督的死与复活——三天三夜之后，约拿从死亡边缘被释放，正如基督在第三天复活。
+
+耶稣还提到"尼尼微人要在审判时与这世代同站，定这世代的罪；因为尼尼微人听了约拿所传的就悔改了，看哪！在这里有一人比约拿更大"（太12:41）。尼尼微人听了约拿的传道就悔改，而耶稣来了，传道更大，却有人不肯悔改——比较何其鲜明。
+
+约拿书的神学意涵也是整本圣经的微缩：人的逃跑与神的追寻、人的自私与神的怜悯、局限的民族观与神无限的恩典。神的怜悯超越了约拿所能理解的边界——超越了犹太人与外邦人、朋友与仇敌的界限。这正是福音的核心："神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不至灭亡，反得永生"（约3:16）——"世人"包括了每一个尼尼微城的罪人。`,
+    content_en: `Jonah carries explicit Messianic significance in the New Testament. Jesus Himself cited Jonah as a type of Himself: "For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth" (Matt 12:40, KJV). Jonah's time in the fish's belly prefigures Christ's death and resurrection — after three days, Jonah was released from the brink of death, just as Christ rose on the third day.
+
+Jesus also said: "The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here" (Matt 12:41, KJV). The Ninevites repented at Jonah's preaching; Jesus came with greater preaching, yet some refused to repent — the contrast is pointed.
+
+Jonah's theological significance is a miniature of the entire Bible: human flight and God's pursuit, human selfishness and God's compassion, narrow nationalism and God's limitless grace. God's mercy extends beyond what Jonah could comprehend — beyond the boundaries of Jew and Gentile, friend and enemy. This is the gospel's core: "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life" (John 3:16, KJV) — "the world" includes every sinner in Nineveh.`,
+  },
 ];
 
 const overview = {

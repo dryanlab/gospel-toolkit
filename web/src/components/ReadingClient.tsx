@@ -141,22 +141,9 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
   useEffect(() => {
     if (staticCh && isChPublished) {
       setCh(staticCh);
-      fetchReading(bookEn, staticCh.chapter).then(apiCh => {
-        if (apiCh && apiCh.content_zh && apiCh.content_en) {
-          // Merge: use API data but fall back to static for any null fields
-          setCh({
-            book: apiCh.book || staticCh.book, bookEn: apiCh.book_en || staticCh.bookEn, chapter: apiCh.chapter,
-            title: apiCh.title || staticCh.title, titleEn: apiCh.title_en || staticCh.titleEn,
-            author: apiCh.author || staticCh.author, authorEn: apiCh.author_en || staticCh.authorEn,
-            scripture: apiCh.scripture || staticCh.scripture, publishDate: apiCh.publish_date || staticCh.publishDate,
-            content_zh: apiCh.content_zh || staticCh.content_zh, content_en: apiCh.content_en || staticCh.content_en,
-            historyContext_zh: apiCh.history_context_zh || staticCh.historyContext_zh, historyContext_en: apiCh.history_context_en || staticCh.historyContext_en,
-            structure_zh: apiCh.structure_zh || staticCh.structure_zh, structure_en: apiCh.structure_en || staticCh.structure_en,
-            theology_zh: apiCh.theology_zh || staticCh.theology_zh, theology_en: apiCh.theology_en || staticCh.theology_en,
-            christShadow_zh: apiCh.christ_shadow_zh || staticCh.christShadow_zh, christShadow_en: apiCh.christ_shadow_en || staticCh.christShadow_en,
-          });
-        }
-      }).catch(() => {/* API unavailable, keep static data */});
+      // D1 readings data is unreliable (truncated content) — disabled until D1 is repopulated with full data
+      // fetchReading(bookEn, staticCh.chapter).then(...).catch(...)
+      void 0; // use static data only
     } else {
       setCh(null);
     }

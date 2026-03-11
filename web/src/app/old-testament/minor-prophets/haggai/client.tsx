@@ -49,6 +49,20 @@ The book ends with a special promise to Zerubbabel — "In that day, saith the L
 "The glory of this latter house shall be greater than of the former" (2:9) -- Solomon's temple was magnificent and Zerubbabel's could not compare. Yet God said the latter would surpass it -- because Christ Himself would walk within its courts. When Jesus taught in the temple, this prophecy was fulfilled.
 
 At the book's end, God speaks of Zerubbabel: "I will make thee as a signet: for I have chosen thee" (2:23). Though the royal line of David was nearly severed by exile, God preserved it until Christ was born from this lineage. Haggai's message: do not despise the day of small things, but look to God's coming glory.`,
+  },
+  {
+    title_zh: `四、哈该的信息与今日的应用`,
+    title_en: `IV. Haggai's Message and Its Application Today`,
+    content_zh: `哈该的信息对今日的教会有直接的应用。当外在的成就和繁荣成为优先，而神的家（教会的建造、肢体的相交、神话语的传承）被搁置，我们就陷入了和回归以色列人同样的错误。
+
+哈该提出了一个尖锐的诊断："你们撒的多，收的少；你们吃，吃不饱；喝，喝不足；穿衣服，不觉暖和；得工钱的，将工钱装在破漏的囊中"（1:6）。这幅生动的图画描述了以神之外的事物为中心时生命的空虚——努力却没有满足感。
+
+转机在于神的同在："我与你们同在，这是耶和华说的"（1:13）。这句话是整卷书的核心。不是殿宇的华丽，而是神自己的同在，才是真正的荣耀。今日的应用是：当我们将神放在首位，优先建造祂的国和祂的义，"这些东西都要加给你们了"（参太6:33）。把神放回中心，是一切生命祝福的根基。`,
+    content_en: `Haggai's message has direct application for the church today. When external achievement and prosperity become priorities while God's house (the church's building, fellowship, and the transmission of His Word) is neglected, we fall into the same error as the returning Israelites.
+
+Haggai presents a sharp diagnosis: "Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes" (1:6, KJV). This vivid picture describes the emptiness of a life centered outside of God — much effort but no satisfaction.
+
+The turning point is God's presence: "I am with you, saith the LORD" (1:13, KJV). This is the heart of the entire book. Not the temple's splendor but God's presence itself is true glory. The application for today: when we put God first, prioritizing the building of His kingdom and His righteousness, "all these things shall be added unto you" (cf. Matt 6:33). Returning God to the center is the foundation of all life's blessing.`,
   }
 ];
 
