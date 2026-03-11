@@ -11,8 +11,6 @@ const sections = [
 
 "亲爱的兄弟啊，凡你向作客旅之弟兄所行的都是忠心的。他们在教会面前证明了你的爱，你若配得过神，帮助他们往前行，这就好了。"（约翰三书 1:5-6）
 
-"Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers; Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well." (3 John 1:5-6, KJV)
-
 盖犹接待了传道人，包括外来的陌生人，被称为"忠心的行事"。这是款待之道（hospitality）的圣经标准——不只接待相识的，也接待陌生的传道人。保罗在罗马书12:13说"客要一味地款待"，希伯来书13:2说"不可忘记用爱心接待客旅，因为曾有接待客旅的，不知不觉就接待了天使"。`,
       content_en: `Third John is a personal letter to Gaius, with only 14 verses. Following Second John's warning against receiving false teachers, it provides a positive example: believers should welcome and support missionaries.
 
@@ -26,8 +24,6 @@ Gaius welcomed missionaries, including strangers, and was commended for "faithfu
       content_zh: `约翰在第7-8节给出了支持传道人的神学理由：
 
 "因他们是为主的名出外，对于外邦人一无所取。所以我们应该接待这样的人，叫我们与他们一同为真理做工。"（约翰三书 1:7-8）
-
-"Because that for his name's sake they went forth, taking nothing of the Gentiles. We therefore ought to receive such, that we might be fellowhelpers to the truth." (3 John 1:7-8, KJV)
 
 "为主的名出外"——宣教的动力不是个人抱负，而是主名的荣耀。"对于外邦人一无所取"——传道人不向未信者收取报酬，以保持福音的纯洁性，免得有人误解福音是可以买卖的。但这并不意味着传道人不需要供应——恰恰相反，约翰说信徒"应该接待这样的人"，这是信徒的本分。
 
@@ -62,8 +58,6 @@ Diotrephes's problem was that he "loveth to have the preeminence' — using powe
       content_zh: `约翰在全信的高潮处写下了一句掷地有声的话：
 
 "亲爱的兄弟啊，不要效法恶，只要效法善。行善的属乎神；行恶的未曾见过神。"（约翰三书 1:11）
-
-"Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God." (3 John 1:11, KJV)
 
 这与约翰一书的主题完全一致：信仰必须有行为的印证。"行善的属乎神"不是说行善可以赚取救恩，而是说真正认识神的人必然结出善行的果子。反过来，"行恶的未曾见过神"——无论一个人口头的信仰告白多么正统，如果他的生活充满恶行（如丢特腓的霸权），就证明他并不真正认识神。
 

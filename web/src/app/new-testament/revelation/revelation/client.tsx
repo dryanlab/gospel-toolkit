@@ -11,8 +11,6 @@ const sections = [
 
 "我转过身来，要看是谁发声与我说话；既转过来，就看见七个金灯台。灯台中间有一位好像人子，身穿长衣，直垂到脚，胸间束着金带。他的头与发皆白，如白羊毛，如雪；眼目如同火焰；脚好像在炉中锻炼光明的铜；声音如同众水的声音。"（启示录 1:12-15）
 
-"And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks; And in the midst of the seven candlesticks one like unto the Son of man, clothed with a garment down to the foot, and girt about the paps with a golden girdle. His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire; And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters." (Revelation 1:12-15, KJV)
-
 约翰见到基督的荣耀后"仆倒在他脚前，像死了一样"（1:17）——当年倚靠在主胸前的门徒，如今见到荣耀中的基督，只能俯伏。但基督说："不要惧怕！我是首先的，我是末后的，又是那存活的；我曾死过，现在又活了，直活到永永远远"（1:17-18）。第二至三章给七教会的信，是基督对教会最真实的评价——有赞扬、有责备、有呼召悔改。`,
       content_en: `Revelation opens with John on the island of Patmos beholding Christ in glory. This is no longer the gentle teacher by the Sea of Galilee, but the King of Kings who judges the world.
 
@@ -26,8 +24,6 @@ When John saw Christ's glory he "fell at his feet as dead' (1:17) — the discip
       content_zh: `从第四章开始，约翰被提到天上看见了最壮观的异象——天上的宝座和不停止的敬拜。
 
 "他们昼夜不住地说：圣哉！圣哉！圣哉！主神是昔在、今在、以后永在的全能者。"（启示录 4:8）
-
-"And they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come." (Revelation 4:8, KJV)
 
 然后约翰看见一卷用七印封严的书卷，没有人能展开。约翰就大哭，直到长老安慰他："犹大支派中的狮子，大卫的根，他已得胜，能以展开那书卷"（5:5）。但约翰转头看见的不是狮子，而是"有羔羊站立，像是被杀过的"（5:6）——得胜的狮子，以受死的羔羊的形象出现。这是启示录最深刻的神学意象：基督的得胜是通过受苦和牺牲实现的。
 
@@ -86,8 +82,6 @@ The great white throne judgment (20:11-15) is history's final court. "And the de
       content_zh: `启示录最后两章是全部圣经最荣耀的异象——新天新地。
 
 "我又看见一个新天新地；因为先前的天地已经过去了，海也不再有了。我又看见圣城新耶路撒冷由神那里从天而降，预备好了，就如新妇妆饰整齐，等候丈夫。我听见有大声音从宝座出来说：看哪，神的帐幕在人间。他要与人同住，他们要作他的子民。神要亲自与他们同在，作他们的神。神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛，因为以前的事都过去了。"（21:1-4）
-
-"And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea. And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband. And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God. And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away." (Revelation 21:1-4, KJV)
 
 "神的帐幕在人间"——创世记中人因罪被赶出伊甸园、与神隔绝；启示录中神亲自来到人中间、永远同住。圣经以失去乐园开始，以得回乐园结束——但新的乐园不是回到伊甸，而是远超伊甸。新耶路撒冷里没有圣殿，"因主神全能者和羔羊为城的殿"（21:22）。不需要日月光照，"因有神的荣耀光照，又有羔羊为城的灯"（21:23）。生命河从神和羔羊的宝座流出，生命树每月结果，"树上的叶子乃为医治万民"（22:2）——创世记3章因罪失去的生命树，在这里永远向人敞开。
 

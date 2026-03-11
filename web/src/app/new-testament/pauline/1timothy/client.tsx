@@ -11,8 +11,6 @@ const sections = [
 
 "我往马其顿去的时候，曾劝你仍住在以弗所，好嘱咐那几个人不可传异教，也不可听从荒渺无凭的话语和无穷的家谱；这等事只生辩论，并不发明神在信上所立的章程。但命令的总归就是爱；这爱是从清洁的心和无亏的良心，无伪的信心生出来的。"（提摩太前书 1:3-5）
 
-"As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine, Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do. Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned." (1 Timothy 1:3-5, KJV)
-
 "命令的总归就是爱"——纯正的教义最终要结出爱的果子。如果一个人的神学越来越精确，行为却越来越缺乏爱心，那他的神学一定出了问题。保罗自己就是活生生的见证：他原是逼迫教会的罪魁，却蒙了主的怜悯，"在罪人中我是个罪魁。然而，我蒙了怜悯"（1:15-16）。这恩典改变了他，也要改变每一个归信的人。`,
       content_en: `Paul left Timothy in Ephesus to shepherd the church while he went to Macedonia. The Ephesian church faced serious heretical threats — some were teaching myths and endless genealogies, departing from the core of faith.
 
@@ -27,8 +25,6 @@ const sections = [
 
 "人若想要得监督的职分，就是羡慕善工。作监督的，必须无可指责，只作一个妇人的丈夫，有节制，自守，端正，乐意接待远人，善于教导；不因酒滋事，不打人，只要温和，不争竞，不贪财。"（提摩太前书 3:1-3）
 
-"This is a true saying, If a man desire the office of a bishop, he desireth a good work. A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach; Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous." (1 Timothy 3:1-3, KJV)
-
 注意保罗的标准：不是才华、学历或口才，而是品格。"无可指责"是总原则，其余都是具体展开。教会的领袖首先是品格的榜样，然后才是恩赐的运用。保罗更指出，监督"好好管理自己的家"（3:4）是管理教会的前提——一个在家庭中失败的人，如何能牧养神的教会？`,
       content_en: `First Timothy is called one of the "Pastoral Epistles' because it deals extensively with church organization and governance. Paul set forth the qualifications for overseers (elders) and deacons.
 
@@ -42,8 +38,6 @@ Notice Paul's criteria: not talent, education, or eloquence, but character. "Bla
       content_zh: `保罗在书信中间插入了一段伟大的基督颂歌，揭示了"敬虔的奥秘"。
 
 "大哉，敬虔的奥秘，无人不以为然！就是神在肉身显现，被圣灵称义，被天使看见，被传于外邦，被世人信服，被接在荣耀里。"（提摩太前书 3:16）
-
-"And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory." (1 Timothy 3:16, KJV)
 
 六行诗句，概括了基督救赎的全部历程——道成肉身、复活称义、天使敬拜、福音广传、万民归信、升天得荣。这就是教会信仰的根基和内容。
 

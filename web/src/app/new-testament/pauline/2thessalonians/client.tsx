@@ -11,8 +11,6 @@ const sections = [
 
 "我们在神的各教会里为你们夸口，都因你们在所受的一切逼迫患难中，仍旧存忍耐和信心。这正是神公义判断的明证，叫你们可算配得神的国；你们就是为这国受苦。"（帖撒罗尼迦后书 1:4-5）
 
-"So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure: Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer." (2 Thessalonians 1:4-5, KJV)
-
 信徒在患难中的忍耐和信心，本身就是"神公义判断的明证"。这不是说我们靠受苦赚取天国，而是说真信心必然在苦难中显出真实。神看见他们的忍耐，必在主耶稣再来时施行公义的审判——"那时，主耶稣同他有能力的天使从天上在火焰中显现，要报应那不认识神和那不听从我主耶稣福音的人"（1:7-8）。`,
       content_en: `Second Thessalonians was written shortly after the first letter. The church was still suffering persecution, and Paul first comforted them: their suffering was not in vain — God's righteous judgment would come upon their persecutors.
 
@@ -27,8 +25,6 @@ Believers' patience and faith in tribulation are themselves "a manifest token of
 
 "人不拘用什么法子，你们总不要被他诱惑；因为那日子以前，必有离道反教的事，并有那大罪人，就是沉沦之子，显露出来。他是抵挡主，高抬自己，超过一切称为神的和一切受人敬拜的，甚至坐在神的殿里，自称是神。"（帖撒罗尼迦后书 2:3-4）
 
-"Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition; Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God." (2 Thessalonians 2:3-4, KJV)
-
 主再来之前，第一是"离道反教的事"——大规模的背道；第二是"大罪人"的显露。保罗说现在有一个拦阻的力量使这大罪人暂时不能显现（2:6-7）。但到了时候，主耶稣要用口中的气灭绝他，用降临的荣光废掉他（2:8）。教会不必恐慌——一切都在神主权的计划之中。`,
       content_en: `Someone in the Thessalonian church was spreading the word that "the day of the Lord is at hand," causing panic and confusion. Paul corrected this error, pointing out that two things must happen before the Lord's return.
 
@@ -42,8 +38,6 @@ Before the Lord's return, first there must be "a falling away' — a great apost
       content_zh: `帖撒罗尼迦教会中有人借口"主快来了"就不再工作，成为游手好闲的人，甚至管别人的闲事。保罗严厉斥责这种行为。
 
 "我们在你们那里的时候，曾吩咐你们说，若有人不肯做工，就不可吃饭。因我们听说，在你们中间有人不按规矩而行，什么工都不做，反倒专管闲事。我们靠主耶稣基督吩咐、劝戒这样的人，要安静做工，吃自己的饭。"（帖撒罗尼迦后书 3:10-12）
-
-"For even when we were with you, this we commanded you, that if any would not work, neither should he eat. For we hear that there are some which walk among you disorderly, working not at all, but are busybodies. Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread." (2 Thessalonians 3:10-12, KJV)
 
 末世的盼望不是懒惰的借口。真正期待主再来的人，应该更加忠心地做好手中的工作，因为我们要向主交账。保罗自己就是榜样——他在帖撒罗尼迦时"辛苦劳碌，昼夜做工"（3:8），为的是不给任何人增添负担。基督徒的生活应当是勤劳、有秩序、自食其力的。`,
       content_en: `Some in the Thessalonian church used the excuse that "the Lord is coming soon' to stop working, becoming idle and meddlesome. Paul sharply rebuked this behavior.

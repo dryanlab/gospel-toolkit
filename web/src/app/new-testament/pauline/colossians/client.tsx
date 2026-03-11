@@ -11,8 +11,6 @@ const sections = [
 
 "爱子是那不能看见之神的像，是首生的，在一切被造的以先。因为万有都是靠他造的，无论是天上的，地上的；能看见的，不能看见的；或是有位的，主治的，执政的，掌权的；一切都是藉着他造的，又是为他造的。"（歌罗西书 1:15-16）
 
-"He is the image of the invisible God, the firstborn of every creature: For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him." (Colossians 1:15-16, KJV)
-
 "首生的"不是说基督是被造物，而是说他在万有之上拥有长子的权柄和尊荣。万有因他而造、靠他而立、为他而存——这是何等荣耀的宣告！在他里面，神本性一切的丰盛都有形有体地居住（2:9）。任何在基督之外寻找智慧、能力或拯救的尝试，都是对这丰盛的否定。`,
       content_en: `Paul wrote this letter from prison to combat heresy rising in the Colossian church. False teachers blended Jewish legalism, Greek philosophy, and Eastern mysticism, attempting to establish paths to salvation apart from Christ. Paul's response is unequivocal: Christ is the fullness of everything.
 
@@ -26,8 +24,6 @@ const sections = [
       content_zh: `歌罗西的异端具有极大的迷惑性，因为它披着"智慧"和"谦虚"的外衣。保罗一针见血地揭露：
 
 "你们要谨慎，恐怕有人用他的理学和虚空的妄言，不照着基督，乃照人间的遗传和世上的小学就把你们掳去。"（歌罗西书 2:8）
-
-"Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ." (Colossians 2:8, KJV)
 
 这些异端要求信徒遵守饮食规条、守节期、敬拜天使、追求神秘的异象体验。保罗指出，这一切"是将来事的影儿；那形体却是基督"（2:17）。影儿已经过去，实体已经来到。基督在十字架上已经"将一切执政的、掌权的掳来，明显给众人看，就仗着十字架夸胜"（2:15）。既然基督已经得胜，我们还需要靠人的规条得救吗？
 
@@ -46,8 +42,6 @@ Paul's warning remains relevant today: any teaching that adds conditions beyond 
       content_zh: `从第三章开始，保罗从教义转向实践。信仰不只是头脑中的知识，更是生命的更新。
 
 "所以，你们若真与基督一同复活，就当求在上面的事；那里有基督坐在神的右边。你们要思念上面的事，不要思念地上的事。因为你们已经死了，你们的生命与基督一同藏在神里面。"（歌罗西书 3:1-3）
-
-"If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God. Set your affection on things above, not on things on the earth. For ye are dead, and your life is hid with Christ in God." (Colossians 3:1-3, KJV)
 
 "与基督一同藏在神里面"——这是何等安全的位置！我们的生命不再属于自己，乃是藏在基督里，被神的大能保守。因此保罗劝勉信徒脱去旧人、穿上新人：要除去恼恨、忿怒、恶毒、毁谤、污秽的言语（3:8），要存怜悯、恩慈、谦虚、温柔、忍耐的心（3:12）。这不是靠自己的努力，而是因为我们已经在基督里被更新了。
 

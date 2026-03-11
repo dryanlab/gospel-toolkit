@@ -11,8 +11,6 @@ const sections = [
 
 "亲爱的弟兄啊，我想尽心写信给你们，论我们同得救恩的时候，就不得不写信劝你们，要为从前一次交付圣徒的真道竭力地争辩。因为有些人偷着进来，就是自古被定受刑罚的，是不虔诚的，将我们神的恩变作放纵情欲的机会，并且不认独一的主宰——我们主耶稣基督。"（犹大书 1:3-4）
 
-"Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints. For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ." (Jude 1:3-4, KJV)
-
 "从前一次交付圣徒的真道"——这里的"一次"表明使徒信仰是完整的、不可添加的。真道已经交付了，我们的任务不是发明新教义，而是"竭力争辩"——守护这信仰的纯正。假教师的特征是"将神的恩变作放纵情欲的机会"——他们以恩典为借口犯罪，这是对恩典最大的侮辱。`,
       content_en: `Jude originally intended to write a positive letter about salvation, but the urgency of the situation forced him to change plans — false teachers had already crept into the church.
 
@@ -41,8 +39,6 @@ Jude describes them with vivid imagery: "These are spots in your feasts of chari
 
 "亲爱的弟兄啊，你们却要在至圣的真道上造就自己，在圣灵里祷告，保守自己常在神的爱中，仰望我们主耶稣基督的怜悯，直到永生。"（犹大书 1:20-21）
 
-"But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life." (Jude 1:20-21, KJV)
-
 犹大给出四个要素：（1）在真道上建造——扎根于纯正的教义；（2）在圣灵里祷告——不是形式化的祷告，而是被圣灵引导的祷告；（3）保守自己在神的爱中——持续活在神的爱里，不偏离；（4）仰望基督的怜悯——盼望最终的救赎。注意这里暗含三位一体的结构：圣灵、神（父）、主耶稣基督各有其工作。
 
 犹大还教导如何对待不同程度的迷失者："有些人你们要从火中抢出来，搭救他们；有些人你们要存惧怕的心怜悯他们，连那被情欲沾染的衣服也当厌恶"（1:23）。这里的智慧在于：怜悯是必须的，但要带着分辨和警惕，免得自己也被沾染。`,
@@ -60,8 +56,6 @@ Jude also teaches how to treat those who have gone astray in varying degrees: "A
       content_zh: `犹大书以新约中最伟大的祝祷之一结束。在警告了这么多假教师的危险之后，犹大最后将读者的目光转向那位能保守我们的神。
 
 "那能保守你们不失脚、叫你们无瑕无疵、欢欢喜喜站在他荣耀之前的我们的救主——独一的神，愿荣耀、威严、能力、权柄，因我们的主耶稣基督归与他，从万古以前并现今，直到永永远远。阿们！"（犹大书 1:24-25）
-
-"Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy, To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen." (Jude 1:24-25, KJV)
 
 "保守你们不失脚"——在假教师横行、信仰受威胁的时代，最终的保障不是我们自己的警觉，而是神的保守。他不只保守我们不跌倒，更要叫我们"无瑕无疵、欢欢喜喜"地站在他面前。那日不是战战兢兢地见主，而是欢欢喜喜地见主。这是何等大的恩典！`,
       content_en: `Jude concludes with one of the greatest benedictions in the New Testament. After warning at length about false teachers, Jude finally turns readers' gaze to the God who is able to keep us.

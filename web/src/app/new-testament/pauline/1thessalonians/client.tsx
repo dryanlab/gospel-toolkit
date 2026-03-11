@@ -11,8 +11,6 @@ const sections = [
 
 "因为我们的福音传到你们那里，不独在乎言语，也在乎权能和圣灵，并充足的信心。你们在大难之中，蒙了圣灵所赐的喜乐，领受真道就效法我们，也效法了主。甚至你们作了马其顿和亚该亚所有信主之人的榜样。"（帖撒罗尼迦前书 1:5-7）
 
-"For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance. And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost: So that ye were ensamples to all that believe in Macedonia and Achaia." (1 Thessalonians 1:5-7, KJV)
-
 福音不只是言语的传递，更是圣灵大能的彰显。帖撒罗尼迦信徒在"大难之中"领受真道，却有"圣灵所赐的喜乐"——这正是真信心的标记。世界的苦难不能夺去圣灵赐下的喜乐，反而成为信心的试金石。`,
       content_en: `First Thessalonians is one of Paul's earliest letters, written during his second missionary journey. Paul stayed in Thessalonica only a few weeks before being forced to leave (Acts 17), yet this young church displayed remarkable faith under persecution.
 
@@ -26,8 +24,6 @@ The gospel is not merely the transmission of words but the manifestation of the 
       content_zh: `保罗在第二至三章展现了一个牧者最真挚的心肠。他不是为利、为名而传道，而是将自己的生命与信徒紧密相连。
 
 "只在你们中间存心温柔，如同母亲乳养自己的孩子。我们既是这样爱你们，不但愿意将神的福音给你们，连自己的性命也愿意给你们，因你们是我们所疼爱的。"（帖撒罗尼迦前书 2:7-8）
-
-"But we were gentle among you, even as a nurse cherisheth her children: So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us." (1 Thessalonians 2:7-8, KJV)
 
 保罗用"母亲乳养孩子"来形容他的服事，又说"好像父亲待自己的儿女一样"劝勉、安慰、嘱咐他们（2:11）。真正的牧养不只是讲台上的教导，更是生命对生命的倾注——"连自己的性命也愿意给你们"。这是每一个事奉神之人的标准。`,
       content_en: `In chapters 2-3, Paul reveals the most sincere heart of a pastor. He did not preach for profit or fame but bound his own life closely to his flock.
@@ -43,8 +39,6 @@ Paul used the image of "a nurse cherishing her children' to describe his ministr
 
 "我们现在照主的话告诉你们一件事：我们这活着还存留到主降临的人，断不能在那已经睡了的人之先。因为主必亲自从天降临，有呼叫的声音和天使长的声音，又有神的号吹响；那在基督里死了的人必先复活。以后我们这活着还存留的人必和他们一同被提到云里，在空中与主相遇。这样，我们就要和主永远同在。"（帖撒罗尼迦前书 4:15-17）
 
-"For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep. For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord." (1 Thessalonians 4:15-17, KJV)
-
 "和主永远同在"——这是基督徒最终极的盼望。保罗说，你们当用这些话彼此劝慰（4:18）。面对死亡，我们不是没有盼望的人，因为主已经复活，那些在基督里睡了的人也必复活。这个盼望不是虚幻的愿望，而是建立在主复活之上的确据。`,
       content_en: `One of the Thessalonian church's greatest concerns was: what happens to believers who have already died when the Lord returns? Paul provided one of the clearest eschatological teachings in church history.
 
@@ -58,8 +52,6 @@ Paul used the image of "a nurse cherishing her children' to describe his ministr
       content_zh: `第五章延续主再来的主题，但切入角度改变了——不再是"何时来"，而是"怎样活"。"主的日子来到，好像夜间的贼一样"（5:2），所以"我们不要睡觉，像别人一样，总要儆醒谨守"（5:6）。
 
 "你们要常常喜乐，不住地祷告，凡事谢恩；因为这是神在基督耶稣里向你们所定的旨意。"（帖撒罗尼迦前书 5:16-18）
-
-"Rejoice evermore. Pray without ceasing. In every thing give thanks: for this is the will of God in Christ Jesus concerning you." (1 Thessalonians 5:16-18, KJV)
 
 这三个命令是整个基督徒生活的缩影：喜乐、祷告、感谢。三者相辅相成——常常喜乐使人能感谢，不住祷告使人与神连接，凡事感谢使人保持心的敞开。保罗补充说："不要消灭圣灵的感动；不要藐视先知的讲论。但要凡事察验，善美的要持守，各等恶事要禁戒不做"（5:19-22）。全书最后以祝福作结："愿赐平安的神亲自使你们全然成圣！你们的灵与魂与体得蒙保守，在我主耶稣基督降临的时候，完全无可指摘。"（5:23）`,
       content_en: `Chapter 5 continues the theme of the Lord's return but from a different angle — not "when" but "how to live." "The day of the Lord so cometh as a thief in the night" (5:2), so "let us not sleep, as do others; but let us watch and be sober" (5:6).

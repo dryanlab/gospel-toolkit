@@ -11,8 +11,6 @@ const sections = [
 
 "神就是光，在他毫无黑暗。这是我们从主所听见、又报给你们的信息。我们若说是与神相交，却仍在黑暗里行，就是说谎话，不行真理了。我们若在光明中行，如同神在光明中，就彼此相交，他儿子耶稣的血也洗净我们一切的罪。"（约翰一书 1:5-7）
 
-"This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all. If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth: But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin." (1 John 1:5-7, KJV)
-
 "神是光"——光和黑暗没有中间地带。与神相交不可能同时活在罪中。约翰紧接着说，若承认自己的罪，神是信实公义的，必要赦免我们的罪（1:9）——不是不认罪，而是在光中认罪，在光中被洁净。`,
       content_en: `First John was written by the elderly John to churches near Ephesus, responding to the emerging Docetism (the belief that Christ did not have a real physical body). John opens with eyewitness testimony "from the beginning," emphasizing the reality of the incarnation.
 
@@ -26,8 +24,6 @@ const sections = [
       content_zh: `约翰一书最著名的主题是爱——神的爱与我们对弟兄的爱是不可分割的。
 
 "亲爱的弟兄啊，我们应当彼此相爱，因为爱是从神来的。凡有爱心的，都是由神而生，并且认识神。没有爱心的，就不认识神，因为神就是爱。"（约翰一书 4:7-8）
-
-"Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God. He that loveth not knoweth not God; for God is love." (1 John 4:7-8, KJV)
 
 "神就是爱"——这不是说爱就是神，而是说神的本质是爱。神爱的明证是："神差他独生子到世间来，使我们藉着他得生，神爱我们的心在此就显明了"（4:9）。我们爱，因为他先爱了我们（4:19）。
 
@@ -46,8 +42,6 @@ John further says: "If a man say, I love God, and hateth his brother, he is a li
       content_zh: `约翰一书的结尾充满了确据——知道自己有永生是可以的，信心是得胜世界的武器。
 
 "因为凡从神生的，就胜过世界；使我们胜了世界的，就是我们的信心。胜过世界的是谁呢？不是那信耶稣是神儿子的吗？"（约翰一书 5:4-5）
-
-"For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith. Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?" (1 John 5:4-5, KJV)
 
 "胜过世界的……就是我们的信心"——信心不是一种感觉，而是一种确据，是抓住了耶稣是神儿子这一真理的信心。约翰说，这信心的果实是：神赐给我们永生，这永生是在他儿子里面的（5:11）。
 

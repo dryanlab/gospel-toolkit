@@ -31,8 +31,6 @@ Philemon had a church meeting in his house (1:2, "the church in thy house"), ind
 
 "我虽然靠着基督能放胆吩咐你合宜的事，然而像我这有年纪的保罗，现在又是为基督耶稣被囚的，宁可凭着爱心求你。就是为我在捆锁中所生的儿子阿尼西母求你。"（腓利门书 1:8-10）
 
-"Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient, Yet for love's sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ: I beseech thee for my son Onesimus, whom I have begotten in my bonds." (Philemon 1:8-10, KJV)
-
 保罗有使徒的权柄可以"命令"腓利门，但他选择"凭着爱心求"。这就是福音的方式——不是强迫，而是爱的感化。保罗称阿尼西母为"我在捆锁中所生的儿子"，一个逃跑的奴隶在福音里成了使徒的儿子。`,
       content_en: `Philemon has only one chapter of 25 verses — Paul's shortest letter — yet it contains the gospel's most profound application. Onesimus was Philemon's slave who stole from his master and fled. In Rome he met the imprisoned Paul and came to faith. Paul now sends him back, writing to request Philemon's forgiveness and acceptance.
 
@@ -47,8 +45,6 @@ Paul had apostolic authority to "command' Philemon, but chose to "beseech for lo
 
 "他暂时离开你，或者是叫你永远得着他——不再是奴仆，乃是高过奴仆，是亲爱的兄弟。在我实在是如此，何况在你呢！这也不拘是按肉体说，是按主说。"（腓利门书 1:15-16）
 
-"For perhaps he therefore departed for a season, that thou shouldest receive him for ever; Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?" (Philemon 1:15-16, KJV)
-
 "不再是奴仆，乃是亲爱的兄弟"——这是福音带来的身份革命。在基督里，主人和奴隶成了弟兄。保罗没有直接呼吁废除奴隶制，但他种下了一颗种子：当主人真正将奴隶视为"亲爱的兄弟"时，奴隶制的根基就被瓦解了。福音改变世界的方式不是自上而下的政治革命，而是自内而外的生命更新。`,
       content_en: `Paul's request to Philemon reveals how the gospel transforms social relationships — not through outward revolution but inward renewal.
 
@@ -62,8 +58,6 @@ Paul had apostolic authority to "command' Philemon, but chose to "beseech for lo
       content_zh: `腓利门书最感人的一节，也是福音代替原理的最佳写照。
 
 "他若亏负你，或欠你什么，都归在我的帐上。我保罗亲笔写的，我必偿还。"（腓利门书 1:18-19）
-
-"If he hath wronged thee, or oweth thee ought, put that on mine account; I Paul have written it with mine own hand, I will repay it." (Philemon 1:18-19, KJV)
 
 "都归在我的帐上"——这正是基督在十字架上为我们所做的。我们亏欠了神，我们的罪债无法偿还，但基督说："都归在我的帐上。"保罗效法基督，愿意为阿尼西母承担一切债务。这就是福音的核心：代替。无罪的替有罪的受刑，富足的替贫穷的偿债，义者替不义者而死。
 

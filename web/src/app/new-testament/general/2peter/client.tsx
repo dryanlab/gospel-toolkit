@@ -11,8 +11,6 @@ const sections = [
 
 "因为知道我脱离这帐棚的时候快到了，正如我们主耶稣基督所指示我的。我也要尽心竭力，使你们在我去世以后时常记念这些事。"（彼得后书 1:13-15）
 
-"Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me. Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance." (2 Peter 1:13-15, KJV)
-
 "脱离帐棚"是对死亡的美丽比喻——肉身如同帐棚，是暂时的居所，真正的家在天上。主耶稣曾预言彼得将以怎样的死来荣耀神（约翰福音21:18-19），彼得如今坦然面对。他不是恐惧地等死，而是迫切地做最后的交代——"尽心竭力"使信徒在他去世后仍能记住这些教导。
 
 这给彼得后书的每一句话都赋予了千钧之重。一个即将离世的人不会说废话。彼得后书的三章涵盖了他最关切的三件事：信仰的成长（1章）、假教师的危害（2章）、主再来的盼望（3章）。这不仅是教导，更是一位老使徒倾注了毕生经历的属灵遗产。
@@ -35,8 +33,6 @@ Peter also emphasizes that what he proclaimed was not "cunningly devised fables"
 
 "正因这缘故，你们要分外地殷勤；有了信心，又要加上德行；有了德行，又要加上知识；有了知识，又要加上节制；有了节制，又要加上忍耐；有了忍耐，又要加上虔敬；有了虔敬，又要加上爱弟兄的心；有了爱弟兄的心，又要加上爱众人的心。"（彼得后书 1:5-7）
 
-"And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; And to knowledge temperance; and to temperance patience; and to patience godliness; And to godliness brotherly kindness; and to brotherly kindness charity." (2 Peter 1:5-7, KJV)
-
 这八个特质不是平行的，而是层层递进的。信仰是基础，爱是顶峰。彼得说，有了这些就不至于"闲懒不结果子"（1:8），反而会"叫你们丰丰富富地得以进入我们主救主耶稣基督永远的国"（1:11）。`,
       content_en: `Second Peter is Peter's final letter before his martyrdom. Knowing that "shortly I must put off this my tabernacle' (1:14), he was even more urgent about leaving believers the most important truths. In chapter 1 he urges believers to grow actively in faith, listing a ladder of spiritual growth.
 
@@ -51,8 +47,6 @@ These eight qualities are not parallel but progressively ascending. Faith is the
 
 "从前在百姓中有假先知起来，将来在你们中间也必有假师傅，私自引进陷害人的异端，连买他们的主他们也不承认，自取速速地灭亡。将有许多人随从他们邪淫的行为，便叫真道因他们的缘故被毁谤。"（彼得后书 2:1-2）
 
-"But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction. And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of." (2 Peter 2:1-2, KJV)
-
 假先知的特征是"私自引进陷害人的异端"——不是公开反对基督，而是偷偷混入。他们"邪淫的行为"败坏了"真道的名声"，让世人误解基督教。彼得用三个历史例子说明神必审判假先知：堕落天使（2:4）、挪亚时代的洪水（2:5）、所多玛的火（2:6）——同时也必拯救义人。这是警戒，也是安慰。`,
       content_en: `Second Peter chapter 2 contains one of the New Testament's sternest warnings against false teachers.
 
@@ -66,8 +60,6 @@ The hallmark of false prophets is bringing in heresies "privily' — not openly 
       content_zh: `彼得后书最重要的神学贡献之一，是回应"主为什么还不来？"的质疑。
 
 "主所应许的尚未成就，有人以为他是耽延，其实他是宽容你们，不愿有一人沉沦，乃愿人人都悔改。但主的日子要像贼来到一样；那日，天必大有响声废去，有形质的都要被烈火销化，地和其上的物都要烧尽了。"（彼得后书 3:9-10）
-
-"The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up." (2 Peter 3:9-10, KJV)
 
 神的"耽延"不是无能，而是怜悯——他"不愿有一人沉沦，乃愿人人都悔改"。保罗在罗马书说神有"丰盛的恩慈、宽容、忍耐"等候罪人悔改（罗2:4）。当我们抱怨神为何还不施行公义时，其实我们自己也在蒙受他宽容的恩典。但"主的日子"必然来到，我们当如何回应？彼得的结语是："你们既盼望这些事，就当殷勤，使自己没有玷污，无可指摘，安然见主"（3:14）。`,
       content_en: `One of Second Peter's most important theological contributions is responding to the question: "Why hasn't the Lord come yet?"

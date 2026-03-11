@@ -11,8 +11,6 @@ const sections = [
 
 "作长老的写信给蒙拣选的太太和她的儿女，就是我诚心所爱的；不但我爱，也是一切知道真理之人所爱的；因我们心里存着的真理，是永远与我们同在的。恩惠、怜悯、平安从父神并从父的儿子耶稣基督降与我们，在真理和爱心上常与我们同在。"（约翰二书 1:1-3）
 
-"The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth; For the truth's sake, which dwelleth in us, and shall be with us for ever. Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and in love." (2 John 1:1-3, KJV)
-
 约翰"在真理里"爱这家人——爱不是感情用事，而是以真理为根基的爱。真理是我们共同持守的，爱是真理在关系中的表达。约翰听说她的儿女"照我们从父所受的命令，在真理中而行，我就甚喜乐"（1:4）——在真理中行走，是让牧者最喜乐的事。`,
       content_en: `Second John is a short letter from John to "the elect lady and her children," possibly written to a specific Christian woman or as a personification of a church. With only 13 verses, it contains the core of John's faith: truth and love are inseparable.
 
@@ -26,8 +24,6 @@ John loves this household "in the truth' — love is not emotionalism but love g
       content_zh: `约翰在问安之后，立即将"爱"与"诫命"联系在一起，这是约翰神学的核心特征。
 
 "我现在劝你，太太啊，我们大家要彼此相爱。这并不是我写一条新命令给你，乃是我们从起初所受的命令。我们若照他的命令行，这就是爱。你们从起初所听见当行的，就是这命令。"（约翰二书 1:5-6）
-
-"And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another. And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it." (2 John 1:5-6, KJV)
 
 这段经文揭示了爱与诫命的辩证关系：爱不是自定义的情感，而是照神的诫命行走；同时，遵行诫命的本质就是爱。这与主耶稣在约翰福音14:15所说的完全一致："你们若爱我，就必遵守我的命令。"约翰在这里回应了当时（也是今天）一种危险的倾向——以"爱"的名义废弃神的命令。真正的爱从不与真理对立，因为爱的源头就是那位真理的神。
 
@@ -47,8 +43,6 @@ WSC Q39: "What is the duty which God requireth of man?" A: "The duty which God r
 
 "因为世上有许多迷惑人的出来，他们不认耶稣基督是成了肉身来的。这就是那迷惑人、敌基督的。"（约翰二书 1:7）
 
-"For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist." (2 John 1:7, KJV)
-
 这里所指的异端很可能是早期诺斯底主义的一种形式——幻影说（Docetism），认为基督只是看起来有肉身，实际上并没有真正道成肉身。约翰在约翰一书4:2-3已经严厉驳斥了这种教导。否认道成肉身就是否认救赎的根基：如果基督没有取得真正的人性，他就不能代替我们死；如果他没有真正受苦，十字架就成了幻象。
 
 约翰接着说："你们要小心自己，不要丢失你们所做的工，乃要得着满足的赏赐"（1:8）。这不是说信徒会失去救恩，而是警告：被异端迷惑会使你失去事奉的果效和赏赐。约翰用"敌基督"这个严厉的称呼来形容这些假教师——不是因为他们明目张胆地反对基督，而是因为他们以"属灵"的外衣暗中掏空了基督的位格与工作。`,
@@ -66,8 +60,6 @@ John continues: "Look to yourselves, that we lose not those things which we have
       content_zh: `约翰在短信中也发出了严肃的警告：真正的爱包含拒绝异端的勇气。
 
 "凡越过基督的教训不常守着的，就没有神。常守这教训的，就有父又有子。若有人到你们那里，不是传这教训，不要接他到家里，也不要问他的安；因为问他安的，就在他的恶行上有份。"（约翰二书 1:9-11）
-
-"Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son. If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed: For he that biddeth him God speed is partaker of his evil deeds." (2 John 1:9-11, KJV)
 
 约翰的立场看起来不近人情，但有其深刻的神学理由："连接他就在他的恶行上有份（原文）"。接待传假道的人，就是间接支持异端的传播，这不是爱，反而是害。在今天的处境中，这个原则同样适用：对异端的包容不是宽容，而是对真理的背叛，也是对将被异端误导之人的伤害。`,
       content_en: `John also issues a solemn warning in this brief letter: genuine love includes the courage to reject heresy.

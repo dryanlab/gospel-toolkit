@@ -10,8 +10,6 @@ const sections = [
 
 "愿颂赞归与我们主耶稣基督的父神！他在基督里曾赐给我们天上各样属灵的福气；就如神从创立世界以前，在基督里拣选了我们，使我们在他面前成为圣洁，无有瑕疵；又因爱我们，就按着自己的意旨所喜悦的，预定我们藉着耶稣基督得儿子的名分"（1:3-5）。
 
-"Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ: According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will." (Ephesians 1:3-5, KJV)
-
 "从创立世界以前"拣选——这不是事后的追认，而是在时间之前的永恒定旨。改革宗神学的"无条件的拣选"教义正植根于此：神拣选我们不是因为他预见我们会信，而是"按着自己的意旨所喜悦的"。接着是救赎（"我们藉这爱子的血得蒙救赎，过犯得以赦免"，1:7）、启示（"都是照他自己所预定的美意"，1:9）、继承（"我们也在他里面得了基业"，1:11）、印证（"你们既听见真理的道……信了基督，既然信他，就受了所应许的圣灵为印记"，1:13）。圣父拣选、圣子救赎、圣灵印证——三一神完美协作的救恩。
 
 保罗的第一个代祷（1:15-23）求神赐下"智慧和启示的灵"，使信徒"真知道他"；认识"他的恩召有何等指望"、"他在圣徒中得的基业有何等丰盛的荣耀"、以及"他向我们这信的人所显的能力是何等浩大"——就是使基督从死里复活的同一大能（1:19-20）。

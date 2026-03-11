@@ -11,8 +11,6 @@ const sections = [
 
 "愿颂赞归与我们主耶稣基督的父神！他曾照自己的大怜悯，藉耶稣基督从死里复活，重生了我们，叫我们有活泼的盼望，可以得着不能朽坏、不能玷污、不能衰残、为你们存留在天上的基业。"（彼得前书 1:3-4）
 
-"Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead, To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you." (1 Peter 1:3-4, KJV)
-
 "活泼的盼望"——不是消极等待，而是活生生、有生命力的盼望。这盼望的根基是"耶稣基督从死里复活"。因为他复活了，我们的盼望不是幻想，而是确据。那在天上为我们存留的基业是三重的："不能朽坏"（不会腐烂）、"不能玷污"（不会被污染）、"不能衰残"（不会褪色）。这就是我们在苦难中仍能喜乐的原因。`,
       content_en: `First Peter was written against the backdrop of Roman persecution of Christians, addressed to believers scattered throughout various regions. Peter, drawing on his own personal experience of failure and restoration, wrote the most authentic testimony about hope in suffering.
 
@@ -26,8 +24,6 @@ const sections = [
       content_zh: `彼得书信中最著名的段落之一，描述了基督徒在神眼中的身份——这是每一个在苦难中迷失方向的信徒需要回归的根基。
 
 "惟有你们是被拣选的族类，是有君尊的祭司，是圣洁的国度，是属神的子民，要叫你们宣扬那召你们出黑暗入奇妙光明者的美德。"（彼得前书 2:9）
-
-"But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light." (1 Peter 2:9, KJV)
 
 四重身份：被拣选的族类（神主权的拣选）、有君尊的祭司（每个信徒都可直接到神面前）、圣洁的国度（分别为圣的群体）、属神的子民（字面是"为自己所得的子民"）。这一切的目的是什么？"宣扬那召你们出黑暗入奇妙光明者的美德"——宣扬神的美德，这是教会存在的使命。
 
@@ -46,8 +42,6 @@ Who are you? Not someone defined by society or limited by suffering, but someone
       content_zh: `彼得书信关于苦难的教导，来自他亲眼目睹基督受苦的经历。他是在客西马尼园逃跑的那个人，是在大祭司院子里三次不认主的那个人——他对苦难与恐惧有切身的体验。
 
 "你们蒙召原是为此；因基督也为你们受过苦，给你们留下榜样，叫你们跟随他的脚踪行。他并没有犯罪，口里也没有诡诈；他被骂不还口；受害不说威吓的话，只将自己交托那按公义审判人的主。"（彼得前书 2:21-23）
-
-"For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps: Who did no sin, neither was guile found in his mouth: Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously." (1 Peter 2:21-23, KJV)
 
 "给你们留下榜样"——基督的受苦不只是赎罪，也是我们的榜样。他"被骂不还口，受害不说威吓的话"，而是"将自己交托那按公义审判人的主"——这是真正的信心：在不公义中不试图自救，而是将自己托付给公义的神。
 

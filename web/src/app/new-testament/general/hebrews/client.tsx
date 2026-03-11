@@ -11,8 +11,6 @@ const sections = [
 
 "神既在古时藉着众先知多次多方地晓谕列祖，就在这末世藉着他儿子晓谕我们；又早已立他为承受万有的，也曾藉着他创造诸世界。他是神荣耀所发的光辉，是神本体的真像，常用他权能的命令托住万有。他洗净了人的罪，就坐在高天至大者的右边。"（希伯来书 1:1-3）
 
-"God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds; Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high." (Hebrews 1:1-3, KJV)
-
 这三节经文是全圣经中对基督位格最庄严的描述之一。七个描述层层递进：被立为万有的承受者、创造的中保、神荣耀的光辉、神本体的真像、以权能托住万有、洗净人的罪、坐在至大者右边。韦敏斯德信条第八章"论中保基督"的圣经根基正在这里。
 
 作者面对的是有回归犹太教危险的希伯来信徒——他们在逼迫下动摇，开始怀念旧约礼仪的熟悉感。作者的论证策略是逐一比较：基督比天使更尊贵——"他所承受的名，既比天使的名更尊贵，就远超过天使"（1:4）；但基督也取了人性——"他并不救拔天使，乃是救拔亚伯拉罕的后裔。所以他凡事该与他的弟兄相同"（2:16-17）。
@@ -83,8 +81,6 @@ This leads to the book's most important practical application: "Having therefore
 
 "信就是所望之事的实底，是未见之事的确据。"（11:1）
 
-"Now faith is the substance of things hoped for, the evidence of things not seen." (Hebrews 11:1, KJV)
-
 信心不是盲目的乐观，而是对看不见之事的确信——因为应许的那位是信实的。作者接着列举了一长串以"因着信"开头的见证：亚伯因着信献上更美的祭物（11:4）；以诺因着信被接去不至见死（11:5）；挪亚因着信造方舟（11:7）；亚伯拉罕因着信出去，"还不知往哪里去"（11:8）；摩西因着信离开埃及，"看为基督受的凌辱比埃及的财物更宝贵"（11:26）。
 
 最令人动容的是11:13-16："这些人都是存着信心死的，并没有得着所应许的，却从远处望见，且欢喜迎接，又承认自己在世上是客旅，是寄居的……他们却羡慕一个更美的家乡，就是在天上的。所以神被称为他们的神，并不以为耻，因为他已经给他们预备了一座城。"他们在今生没有看见应许的实现，却仍然相信。这种超越可见世界的信心——不以地上的成就为满足，而以天上的家乡为盼望——是希伯来书对每一代信徒的呼召。
@@ -106,8 +102,6 @@ The turn in 11:35-38 is especially sobering: faith does not always bring victory
       content_zh: `第12章将信心名人堂的论述推向高潮——所有信心英雄都指向一个终极的榜样：
 
 "我们既有这许多的见证人，如同云彩围着我们，就当放下各样的重担，脱去容易缠累我们的罪，存心忍耐，奔那摆在我们前头的路程，仰望为我们信心创始成终的耶稣。他因那摆在前面的喜乐，就轻看羞辱，忍受了十字架的苦难，便坐在神宝座的右边了。"（12:1-2）
-
-"Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us, Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God." (Hebrews 12:1-2, KJV)
 
 信心的终极榜样不是11章的任何一位，而是耶稣——他是信心的"创始成终者"。"创始"意味着他开辟了信心之路，"成终"意味着他使信心达到完美。他因"摆在前面的喜乐"——就是拯救他的子民、与他们永远同在的喜乐——忍受了十字架。
 

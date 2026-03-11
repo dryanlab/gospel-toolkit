@@ -11,8 +11,6 @@ const sections = [
 
 "若有无可指责的人，只作一个妇人的丈夫，儿女也是信主的，没有人告他们是放荡不服约束的，就可以设立。监督既是神的管家，必须无可指责，不任性，不暴躁，不因酒滋事，不打人，不贪无义之财；乐意接待远人，好善，庄重，公平，圣洁，自持。坚守所教真实的道理，就能将纯正的教训劝化人，又能把争辩的人驳倒了。"（提多书 1:6-9）
 
-"If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly. For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre; But a lover of hospitality, a lover of good men, sober, just, holy, temperate; Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers." (Titus 1:6-9, KJV)
-
 保罗的标准与提摩太前书一致：品格在先，恩赐在后。特别强调"坚守所教真实的道理"——长老不仅要有好品格，更要有教导的能力，能用纯正教训劝勉人、驳倒异端。`,
       content_en: `Paul left Titus in Crete to "set in order the things that are wanting, and ordain elders in every city, as I had appointed thee' (1:5). The cultural context of Crete was chaotic and ungodly — even a Cretan prophet admitted "the Cretians are alway liars, evil beasts, slow bellies' (1:12). In such an environment, establishing qualified elders was critically important.
 
@@ -27,8 +25,6 @@ Paul's standards are consistent with First Timothy: character first, gifts secon
 
 "因为神救众人的恩典已经显明出来，教训我们除去不敬虔的心和世俗的情欲，在今世自守、公义、敬虔度日，等候所盼望的福，并等候至大的神和我们救主耶稣基督的荣耀显现。"（提多书 2:11-13）
 
-"For the grace of God that bringeth salvation hath appeared to all men, Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world; Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ." (Titus 2:11-13, KJV)
-
 恩典不只是赦罪的恩典，更是"教训我们"的恩典。真正领受恩典的人，必然活出不同的生命——"除去不敬虔的心和世俗的情欲"，转而"自守、公义、敬虔度日"。廉价的恩典是只要赦免不要改变，但圣经中的恩典是既赦免又更新。我们在"已然"（恩典已显明）与"未然"（等候荣耀显现）之间活出敬虔的生命。`,
       content_en: `Titus chapter 2 contains one of the most refined theological statements on grace.
 
@@ -42,8 +38,6 @@ Grace is not merely pardoning grace but grace that "teaches us." Those who truly
       content_zh: `第三章进一步阐述救恩的本质——不是靠行为，而是靠神的怜悯。
 
 "他便救了我们；并不是因我们自己所行的义，乃是照他的怜悯，藉着重生的洗和圣灵的更新。圣灵就是神藉着耶稣基督——我们救主厚厚浇灌在我们身上的，好叫我们因他的恩得称为义，可以凭着永生的盼望成为后嗣。"（提多书 3:5-7）
-
-"Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost; Which he shed on us abundantly through Jesus Christ our Saviour; That being justified by his grace, we should be made heirs according to the hope of eternal life." (Titus 3:5-7, KJV)
 
 "并不是因我们自己所行的义"——救恩完全出于神的怜悯。"重生的洗"指的不是外在的水礼本身，而是圣灵内在的更新工作——洗去旧人、生出新人。这与以西结书36:25-27的预言完全吻合：神要用清水洒在我们身上，赐给我们新心和新灵。保罗在此将三一神的救赎工作完美呈现：父的怜悯、子的代赎、灵的更新。`,
       content_en: `Chapter 3 further expounds the nature of salvation — not by works but by God's mercy.

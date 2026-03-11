@@ -63,8 +63,6 @@ Yet chapter 39 records Hezekiah's failure: he showed all his palace treasures to
 
 "他诚然担当我们的忧患，背负我们的痛苦……他为我们的过犯受害，为我们的罪孽压伤。因他受的刑罚，我们得平安；因他受的鞭伤，我们得医治。我们都如羊走迷；各人偏行己路；耶和华使我们众人的罪孽都归在他身上"（53:4-6）。
 
-"He was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed. All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all." (Isaiah 53:5-6, KJV)
-
 "他被欺压，在受苦的时候却不开口；他像羊羔被牵到宰杀之地，又像羊在剪毛的人手下无声，他也是这样不开口"（53:7）——这正是耶稣在彼拉多面前沉默的预言（太27:14）。"耶和华却定意将他压伤，使他受痛苦。耶和华以他为赎罪祭"（53:10）——十字架不是意外，不是人的计划的胜利，而是神永恒定旨中的"赎罪祭"。韦敏斯德信条第十一章"论称义"正是以基督代替性赎罪为根基。`,
     content_en: `"Comfort ye, comfort ye my people, saith your God" (40:1) — Isaiah's second section (ch. 40-55), called "the Book of Comfort," shifts from judgment to consolation. "Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned" (40:2).
 

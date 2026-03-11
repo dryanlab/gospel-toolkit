@@ -11,8 +11,6 @@ const sections = [
 
 "因为神赐给我们，不是胆怯的心，乃是刚强、仁爱、谨守的心。你不要以给我们的主作见证为耻，也不要以我这为主被囚的为耻；总要按神的能力，与我为福音同受苦难。"（提摩太后书 1:7-8）
 
-"For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind. Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God." (2 Timothy 1:7-8, KJV)
-
 "刚强、仁爱、谨守"——这三个词概括了基督徒事奉的核心素质。不是出于人的血气，而是出于神所赐的灵。提摩太生性胆怯（林前16:10），但神的灵能使胆怯的人刚强。保罗自己就是榜样：身陷囹圄却不以福音为耻，反而呼召提摩太"同受苦难"。`,
       content_en: `Second Timothy is Paul's final letter, written from a Roman prison with death approaching. In such circumstances, Paul did not indulge in self-pity but rather encouraged Timothy to be strong and courageous.
 
@@ -27,8 +25,6 @@ const sections = [
 
 "圣经都是神所默示的，于教训、督责、使人归正、教导人学义都是有益的，叫属神的人得以完全，预备行各样的善事。"（提摩太后书 3:16-17）
 
-"All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: That the man of God may be perfect, throughly furnished unto all good works." (2 Timothy 3:16-17, KJV)
-
 "神所默示的"——原文是theopneustos，意思是"神所呼出的"。圣经不是人的作品加上神的认可，而是神自己呼出的话语，借着人的手写下。圣经的功用是四重的：教训（正确的信仰）、督责（指出错误）、使人归正（纠正行为）、教导人学义（建立品格）。最终目的是叫属神的人"得以完全，预备行各样的善事"。圣经是充足的——我们不需要在圣经之外寻找额外的启示。`,
       content_en: `In this farewell letter, Paul left one of the most important declarations about Scripture.
 
@@ -42,8 +38,6 @@ const sections = [
       content_zh: `第四章是保罗一生的总结，也是整本圣经中最感人的段落之一。
 
 "我现在被浇奠，我离世的时候到了。那美好的仗我已经打过了，当跑的路我已经跑尽了，所信的道我已经守住了。从此以后，有公义的冠冕为我存留，就是按着公义审判的主到了那日要赐给我的；不但赐给我，也赐给凡爱慕他显现的人。"（提摩太后书 4:6-8）
-
-"For I am now ready to be offered, and the time of my departure is at hand. I have fought a good fight, I have finished my course, I have kept the faith: Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing." (2 Timothy 4:6-8, KJV)
 
 三个完成式动词——"打过了""跑尽了""守住了"——概括了保罗一生的事奉。他不是回顾自己的成就而自夸，而是在面对死亡时见证神恩典的信实。"公义的冠冕"不只给保罗，也给"凡爱慕他显现的人"——这包括每一个忠心到底的基督徒。
 
