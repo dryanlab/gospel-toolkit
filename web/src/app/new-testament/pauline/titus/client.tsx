@@ -50,21 +50,21 @@ Grace is not merely pardoning grace but grace that "teaches us." Those who truly
 
 "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost; Which he shed on us abundantly through Jesus Christ our Saviour; That being justified by his grace, we should be made heirs according to the hope of eternal life." (Titus 3:5-7, KJV)
 
-"Not by works of righteousness which we have done' — salvation is entirely from God's mercy. "The washing of regeneration' refers not to the outward rite of baptism itself but to the inward renewal by the Holy Spirit — washing away the old and birthing the new. This perfectly aligns with Ezekiel 36:25-27: God will sprinkle clean water upon us, giving us a new heart and a new spirit. Paul here perfectly presents the Trinitarian work of redemption: the Father's mercy, the Son's atonement, and the Spirit's renewal.\`
+"Not by works of righteousness which we have done' — salvation is entirely from God's mercy. "The washing of regeneration' refers not to the outward rite of baptism itself but to the inward renewal by the Holy Spirit — washing away the old and birthing the new. This perfectly aligns with Ezekiel 36:25-27: God will sprinkle clean water upon us, giving us a new heart and a new spirit. Paul here perfectly presents the Trinitarian work of redemption: the Father's mercy, the Son's atonement, and the Spirit's renewal.`
     },
     {
-      title_zh: \`四、善行与无益的争论（3章续）\`,
-      title_en: \`IV. Good Works and Avoiding Useless Controversies (Ch. 3 cont.)\`,
-      content_zh: \`保罗在第三章后半部分发出了实践的命令：既然我们蒙了救恩，就当"多以行善为念"（3:8）。善行不是得救的条件，而是得救的果实——是"美好、有益于人的"（3:8）。
+      title_zh: `四、善行与无益的争论（3章续）`,
+      title_en: `IV. Good Works and Avoiding Useless Controversies (Ch. 3 cont.)`,
+      content_zh: `保罗在第三章后半部分发出了实践的命令：既然我们蒙了救恩，就当"多以行善为念"（3:8）。善行不是得救的条件，而是得救的果实——是"美好、有益于人的"（3:8）。
 
 另一方面，保罗严肃地警告要"远避无知的辩论、家谱、纷争，和因律法起的争论，因为这都是虚空的，是无益的"（3:9）。教会中有些争论耗费大量精力却毫无属灵益处——保罗的建议是直接拒绝，"一、二次劝戒之后，就要弃绝"（3:10）。
 
-提多书以问安作结，提到了亚基布和阿波罗等同工，最后嘱咐说"我们的人，也当学习做正经事业来补所不足，不要做不结果子的人"（3:14）。"不要做不结果子的人"——这是提多书留给每个信徒的最后呼召。知道真理，还要结出真理的果子；领受恩典，还要活出恩典的荣耀。\`,
-      content_en: \`The latter part of chapter 3 gives practical commands: since we have received salvation, we should be "careful to maintain good works" (3:8). Good works are not conditions for salvation but its fruit — "these things are good and profitable unto men" (3:8).
+提多书以问安作结，提到了亚基布和阿波罗等同工，最后嘱咐说"我们的人，也当学习做正经事业来补所不足，不要做不结果子的人"（3:14）。"不要做不结果子的人"——这是提多书留给每个信徒的最后呼召。知道真理，还要结出真理的果子；领受恩典，还要活出恩典的荣耀。`,
+      content_en: `The latter part of chapter 3 gives practical commands: since we have received salvation, we should be "careful to maintain good works" (3:8). Good works are not conditions for salvation but its fruit — "these things are good and profitable unto men" (3:8).
 
 On the other hand, Paul solemnly warns to "avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain" (3:9, KJV). Some church controversies consume enormous energy yet yield no spiritual benefit — Paul's advice is to simply reject them: "after the first and second admonition reject" (3:10, KJV).
 
-Titus closes with greetings to Artemas, Tychicus, Apollos and others, ending with: "And let ours also learn to maintain good works for necessary uses, that they be not unfruitful" (3:14, KJV). "That they be not unfruitful" — this is Titus's final call to every believer. Knowing the truth must yield the fruit of truth; receiving grace must be lived out in grace's glory.\`
+Titus closes with greetings to Artemas, Tychicus, Apollos and others, ending with: "And let ours also learn to maintain good works for necessary uses, that they be not unfruitful" (3:14, KJV). "That they be not unfruitful" — this is Titus's final call to every believer. Knowing the truth must yield the fruit of truth; receiving grace must be lived out in grace's glory.`
     }
   ];
 

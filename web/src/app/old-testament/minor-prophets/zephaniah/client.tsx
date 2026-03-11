@@ -54,6 +54,24 @@ The imagery is stunning — Almighty God not only receiving His people's praise 
 
 Zephaniah moves from creation's reversal (1:2–3) to new creation's promise (3:17–20), from judgment to singing, completing a full theological arc. Judgment is not the endpoint — restoration is God's ultimate purpose.`,
   },
+  {
+    title_zh: `四、西番雅的时代背景与改革宗神学`,
+    title_en: `IV. Historical Context and Reformed Theological Themes`,
+    content_zh: `西番雅是改革宗传统中特别重视的一卷小先知书，因为它以最清晰的方式宣告了神主权的两面：审判的义与怜悯的爱。
+
+从历史背景来看，西番雅生活在约西亚王改革之前或改革期间（约公元前630-620年）。约西亚王（主前640-609年在位）是犹大最后一位真正的改革君王，他清除偶像崇拜，修缮圣殿，重新发现律法书（王下22章）。西番雅的预言可能正是推动这次改革的催化剂之一。
+
+神学主题方面，西番雅的"耶和华的日子"神学与改革宗理解的"神的主权"直接呼应。神不是一个远在天边、不干预历史的神，而是一位积极治理历史的主权君王——祂在历史中审判，也在历史中救赎。
+
+全书对"谦卑者"（ `anawim`）的关注也值得注意："你们没有遵守耶和华命令的谦卑人，应当寻求耶和华；凡遵守他命令的，都当寻求公义，寻求谦卑，或者在耶和华发怒的日子可以隐藏"（2:3）。谦卑、寻求神——这是在审判中蒙保守的唯一道路。正如改革宗神学所强调：在神面前，人唯一的正确姿态是谦卑与依靠。`,
+    content_en: `Zephaniah is a Minor Prophet particularly valued in the Reformed tradition because it most clearly proclaims both sides of God's sovereignty: the righteousness of judgment and the love of mercy.
+
+Historically, Zephaniah lived before or during King Josiah's reform (c. 630–620 BC). King Josiah (640–609 BC) was Judah's last genuine reforming king — he purged idolatry, repaired the temple, and rediscovered the Book of the Law (2 Kgs 22). Zephaniah's prophecy may have been one of the catalysts for this reformation.
+
+Theologically, Zephaniah's "Day of the LORD" theology directly resonates with the Reformed understanding of divine sovereignty. God is not a distant deity uninvolved in history but an actively governing sovereign Lord — judging in history, and redeeming in history.
+
+The book's focus on the "humble" (anawim) is also noteworthy: "Seek ye the LORD, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the LORD's anger" (2:3, KJV). Humility and seeking God — this is the only path to shelter in the day of judgment. As Reformed theology emphasizes: before God, the only proper posture of humanity is humility and dependence.`,
+  },
 ];
 
 const overview = {
