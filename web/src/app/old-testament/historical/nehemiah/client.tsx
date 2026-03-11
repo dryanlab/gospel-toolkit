@@ -54,6 +54,24 @@ Chapter 9 contains one of the longest prayers in the Old Testament, as the Levit
 
 Nehemiah's second visit to Jerusalem (ch. 13) found the people had fallen again — trading on the Sabbath, intermarrying, misusing the temple. He corrected them forcefully, even "cursed them, and smote certain of them, and plucked off their hair" (13:25). Nehemiah ends with a sobering realization: external reform cannot change the human heart. Israel needed not better walls or stricter laws but God's promised New Covenant — "I will put my law in their inward parts, and write it in their hearts" (Jer 31:33).`,
   },
+  {
+    title_zh: `四、尼希米的领袖风格：祷告先于行动`,
+    title_en: `IV. Nehemiah's Leadership: Prayer Before Action`,
+    content_zh: `尼希米书是整本圣经中对属灵领袖最生动的描绘之一。尼希米在面对每一个挑战时的第一反应总是祷告——从听见耶路撒冷城墙毁坏的消息到禁食祷告（1:4），从王后宫中回答王的询问前"默默地祷告天上的神"（2:4），到敌人威胁时的呼喊"我们的神啊，求你垂听"（4:4）。
+
+尼希米的祷告有一个显著特点：简短而实际。"我在天上的神面前禁食祷告……我就祷告说……"（1:4-5）是深思熟虑的恳求；"求你坚固我的手"（6:9）是战场上的短呼。祷告不是脱离现实的仪式，而是贯穿行动始终的生命连接。
+
+尼希米面对反对时也展示了领袖的勇气。当桑巴拉和多比雅一再嘲讽和威胁，他的回答是："我正做大工，不能下去。我若下去到你们那里，这工就必停废。"（6:3）专注于神所托付的使命，不被旁枝末节分散，这是领袖最难学会的功课。
+
+尼希米书最后以他的短祷收尾——"我的神啊，求你记念我，施恩与我"（13:31）。这简单的七个字，是一个领袖一生侍奉之后，在神面前最诚实的倾诉。功绩不是他的骄傲，而是他在神面前摆上的，等候神的鉴察与记念。`,
+    content_en: `The book of Nehemiah is one of Scripture's most vivid portraits of a spiritual leader. Nehemiah's first response to every challenge is always prayer — from hearing of Jerusalem's broken walls, fasting and praying for days (1:4), to "breath-praying" silently to God in the royal court before answering the king (2:4), to crying out under threat: "O God, strengthen my hands" (6:9).
+
+Nehemiah's prayers have a distinctive character: brief and practical. The longer intercession (1:4-5) is deliberate pleading; "Now therefore, O God, strengthen my hands" (6:9) is a battlefield cry. Prayer is not a ritual disconnected from reality but a living connection running through all of action.
+
+Nehemiah's courage in facing opposition is equally instructive. When Sanballat and Tobiah repeatedly mocked and threatened, his answer was: "I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?" (6:3, KJV). Staying focused on God's entrusted mission, not distracted by peripheral conflicts, is the leader's hardest lesson.
+
+The book ends with Nehemiah's short prayer: "Remember me, O my God, for good" (13:31, KJV). These simple words are a leader's most honest offering after a lifetime of service — not boasting in accomplishments but laying them before God, awaiting His scrutiny and remembrance.`,
+  },
 ];
 
 const overview = {

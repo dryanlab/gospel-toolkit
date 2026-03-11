@@ -50,6 +50,20 @@ The theological climax of the book comes in the final verse: the son born to Rut
 
 Boaz is a perfect type of Christ: he is the kinsman-redeemer with both the ability and the willingness to redeem; he did not hold Ruth's Gentile identity against her but received her into Israel; he paid the cost to complete the redemption — just as Christ became our kinsman-redeemer (through the incarnation), able and willing to redeem us regardless of cost, bringing us into God's family.`,
   },
+  {
+    title_zh: `四、路得书的核心神学：神的护理与忠诚之爱`,
+    title_en: `IV. Core Theology of Ruth: Providence and Covenant Love`,
+    content_zh: `路得书从未明确提到神的神迹或异象，但神的护理之手在每一页都清晰可见。路得"碰巧"拾穗在波阿斯的田间（2:3）——这个"碰巧"是希伯来文 מִקְרֶה (miqreh)，意为"偶然发生"，但作者用这词是带着讽刺意味的：在神的治理下，没有真正的偶然。
+
+整卷书的关键词是 חֶסֶד (hesed)——通常译为"恩慈"或"慈爱"。拿俄米两次用这个词：一次称赞路得对婆婆的 hesed（1:8），一次赞美波阿斯对她们的 hesed（2:20）。这个词在旧约中既用于人与人之间的忠诚之爱，也用于神对以色列的盟约之爱。路得对拿俄米的忠心（"你往哪里去，我也往那里去"，1:16），是 hesed 在人际关系中最美丽的体现，也折射出神对祂子民那永不改变的盟约之爱。
+
+路得书还承载着一个突破性的神学信息：救恩不限于以色列人。摩押女子路得——一个外邦人、一个寡妇、一个穷人——因着信心与忠心，不仅得到了接纳，更进入了弥赛亚的家谱。神的恩典没有种族边界。这预表了新约时代，借着基督，"并不分犹太人、希腊人，并不分为奴的、自主的，也不分男女，因为你们在基督耶稣里都成为一了"（加3:28）。`,
+    content_en: `The book of Ruth never explicitly mentions a miracle or vision, yet God's providential hand is visible on every page. Ruth "happened to come" to the portion of the field belonging to Boaz (2:3) — this "happened" translates the Hebrew מִקְרֶה (miqreh), meaning "chance occurrence," but the author uses the word with irony: under God's governance, there is no true chance.
+
+The book's keyword is חֶסֶד (hesed) — typically translated "lovingkindness" or "steadfast love." Naomi uses the word twice: once commending Ruth's hesed toward her mother-in-law (1:8), and once praising Boaz's hesed toward them (2:20). In the Old Testament this word describes both human loyal love and God's covenant love toward Israel. Ruth's faithfulness to Naomi ("whither thou goest, I will go," 1:16) is hesed's most beautiful human expression, reflecting God's own unchanging covenant love for His people.
+
+Ruth also carries a breakthrough theological message: salvation is not limited to Israelites. Ruth the Moabite — a Gentile, a widow, a poor woman — through faith and faithfulness was not merely accepted but entered the Messianic genealogy. God's grace has no ethnic boundary. This prefigures the New Testament era: through Christ, "there is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus" (Gal 3:28, KJV).`,
+  },
 ];
 
 const overview = {

@@ -50,6 +50,20 @@ The final promise is Zion's ultimate victory — "But upon mount Zion shall be d
 
 Though only one chapter of twenty-one verses, Obadiah encompasses a complete theological structure: pride will be humbled, injustice judged, God's kingdom ultimately triumphant. The shortest Old Testament book delivers the fullest message in the most concise form.`,
   },
+  {
+    title_zh: `四、以扫与雅各：历史背景与神学意义`,
+    title_en: `IV. Esau and Jacob: Historical Background and Theological Significance`,
+    content_zh: `要理解俄巴底亚书，必须了解以东与以色列之间绵延数百年的兄弟恩怨。以东人是以扫的后裔，以色列人是雅各的后裔——两人是双胞胎兄弟（创25:24-26）。以扫将长子名分卖给雅各（创25:29-34），后来又失去了父亲的祝福（创27章），从此两族之间结下了深仇。
+
+以东人位于以色列南部的西珥山地，控制要道，对路过的旅行者征收过路费。公元前586年耶路撒冷被巴比伦攻陷时，以东人不仅幸灾乐祸，还积极协助巴比伦军队——"外邦人进他城门，为耶路撒冷拈阄，你也像他们中间的一个"（11节）。这是对"兄弟之邦"最深的背叛。
+
+从神学角度，以东代表了"骄傲的肉体"——以自己的智慧（8节）、勇士（9节）、山势险峻（3-4节）为靠，却忘记了一切都在神的手中。俄巴底亚书是对每一个依靠自身优势而轻视他人的人的警告："你心里狂傲，自以为必没有人能将你拉下来"（3节）——而神的审判将证明这是虚妄的自信。`,
+    content_en: `To understand Obadiah, one must know the centuries-long fraternal enmity between Edom and Israel. Edomites were descendants of Esau; Israelites of Jacob — twin brothers (Gen 25:24-26). Esau sold his birthright to Jacob (Gen 25:29-34) and later lost his father's blessing (Gen 27), from which point the two nations bore deep enmity.
+
+Edom occupied the hill country of Seir south of Israel, controlling key trade routes and extracting tolls from travelers. When Jerusalem fell to Babylon in 586 BC, the Edomites not only rejoiced but actively assisted the Babylonian forces — "thou wast as one of them" who cast lots for Jerusalem (v. 11). This was the deepest betrayal of a "brother nation."
+
+Theologically, Edom represents "the pride of the flesh" — trusting in their own wisdom (v. 8), warriors (v. 9), and mountain strongholds (vv. 3-4), forgetting that everything is in God's hands. Obadiah warns everyone who relies on their own advantages while despising others: "The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?" (v. 3, KJV) — God's judgment will prove this confidence vain.`,
+  },
 ];
 
 const overview = {

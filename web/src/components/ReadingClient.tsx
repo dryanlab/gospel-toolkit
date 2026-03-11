@@ -112,22 +112,9 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
   const [readCountState, setReadCountState] = useState(0);
 
   useEffect(() => {
-    fetchReadingsList(bookEn).then(apiChapters => {
-      if (apiChapters && apiChapters.length > 0) {
-        const apiMap = new Map(apiChapters.map((c: any) => [c.chapter, c]));
-        const merged = staticChapters.map(sc => {
-          const apiC = apiMap.get(sc.chapter) as ReadingChapter | undefined;
-          return apiC && apiC.content_zh ? apiC : sc;
-        });
-        apiChapters.forEach((ac: any) => {
-          if (!staticChapters.find(sc => sc.chapter === ac.chapter)) {
-            merged.push(ac as ReadingChapter);
-          }
-        });
-        merged.sort((a, b) => a.chapter - b.chapter);
-        setChapters(merged);
-      }
-    }).catch(() => {/* API unavailable, use static data */});
+    // D1 readings data disabled — using static data only until D1 is repopulated with verified full content
+    // fetchReadingsList(bookEn).then(...).catch(...)
+    void 0;
   }, []);
 
   useEffect(() => {
