@@ -20,7 +20,7 @@ export default function AboutPage() {
             &ldquo;你们必晓得真理，真理必叫你们得以自由。&rdquo;（约翰福音 8:32）
           </blockquote>
           <p>
-            <strong>真理磐石致力于传扬福音与建造门徒。</strong>我们持守纯正的<strong>改革宗</strong>信仰——<strong>唯独圣经</strong>、<strong>唯独恩典</strong>、<strong>唯独信心</strong>、<strong>唯独基督</strong>、<strong>唯独神的荣耀</strong>。盼望借着这个平台，帮助弟兄姐妹和慕道朋友认识真理、扎根信仰、在恩典中成长。网站内容<strong>中英双语</strong>，也方便向英文朋友传福音。
+            <strong>真理磐石福音事工致力于传扬福音与建造门徒。</strong>我们持守纯正的<strong>改革宗</strong>信仰——<strong>唯独圣经</strong>、<strong>唯独恩典</strong>、<strong>唯独信心</strong>、<strong>唯独基督</strong>、<strong>唯独神的荣耀</strong>。盼望借着这个平台，帮助弟兄姐妹和慕道朋友认识真理、扎根信仰、在恩典中成长。网站内容<strong>中英双语</strong>，也方便向英文朋友传福音。
           </p>
         </section>
 

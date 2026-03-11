@@ -10,11 +10,11 @@ export function isPublished(dateStr: string): boolean {
   if (!dateStr) return false;
   if (typeof window === 'undefined') return false;
   if (isPreview()) return true;
-  // Publish at 6:00 AM Eastern Time on the date
-  // Use midnight UTC of the publish date as a safe universal threshold
-  // This means content appears by midnight UTC = 7PM EST / 8PM EDT the day before
-  const publishTime = new Date(dateStr + 'T00:00:00Z');
-  return publishTime <= new Date();
+  // Publish at midnight Eastern Time (ET) on the date
+  // Compare current ET date with publish date — handles DST automatically
+  const now = new Date();
+  const todayET = now.toLocaleDateString('en-CA', { timeZone: 'America/New_York' }); // YYYY-MM-DD format
+  return dateStr <= todayET;
 }
 
 // React hook version — safe for hydration

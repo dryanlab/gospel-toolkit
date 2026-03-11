@@ -378,10 +378,10 @@ export default function ReadingsPage() {
           📅 更新时间 Update Schedule
         </p>
         <p className="text-sm text-[var(--color-text)]">
-          周一至周五 · 早上 6:00 AM (EST) · 每天更新一章
+          周一至周五 · 美东时间每日凌晨 12:00 AM · 每天更新一章
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] italic mt-1">
-          Monday through Friday · 6:00 AM EST · One chapter per day
+          Monday through Friday · Midnight ET · One chapter per day
         </p>
         <div className="mt-3 pt-3 border-t border-[var(--color-border)]">
           <p className="text-xs text-[var(--color-text-secondary)]">
