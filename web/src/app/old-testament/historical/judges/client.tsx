@@ -23,7 +23,9 @@ This cycle is not merely a historical record but a portrait of the human heart. 
     title_en: `II. Major Judges — From Othniel to Samson (Ch. 3b–16)`,
     content_zh: `六位"大士师"中，每一位都有其独特的故事和神学意义。
 
-**俄陀聂**（3章）是"理想士师"的典范，简洁而完整地展示了士师循环。**以笏**（3章）是左撒人，用左手制成暗器刺杀摩押王以革伦——神选用世人轻视的人成就大事。
+**俄陀聂**（3章）是"理想士师"的典范，简洁而完整地展示了士师循环。
+
+**以笏**（3章）是左撒人，用左手制成暗器刺杀摩押王以革伦——神选用世人轻视的人成就大事。
 
 **底波拉**（4-5章）是唯一的女士师，也是先知。她召唤巴拉出战，对不肯单独出战的巴拉说："这次得胜的荣耀不归给你"——果然，最终杀死西西拉的是雅亿（一位女子），她用帐篷橛子打进西西拉头颅。希伯来书11:32将巴拉列为信心英雄，但故事清楚表明：荣耀归于愿意顺服的女性。
 
@@ -34,7 +36,9 @@ This cycle is not merely a historical record but a portrait of the human heart. 
 **参孙**（13-16章）是最矛盾的士师。他被圣灵充满、力大无比，却软弱于情欲；他毁坏婚姻、毁坏约定，却在生命最后时刻呼求神、完成使命。参孙的一生是恩典与软弱并存的缩影——神用破碎的器皿成就祂的旨意。`,
     content_en: `Among the six "major judges," each has a unique story and theological significance.
 
-**Othniel** (ch. 3) is the paradigmatic "ideal judge," presenting the cycle briefly and completely. **Ehud** (ch. 3) was left-handed and made a hidden weapon to assassinate Eglon king of Moab — God uses those despised by the world to accomplish great things.
+**Othniel** (ch. 3) is the paradigmatic "ideal judge," presenting the cycle briefly and completely.
+
+**Ehud** (ch. 3) was left-handed and made a hidden weapon to assassinate Eglon king of Moab — God uses those despised by the world to accomplish great things.
 
 **Deborah** (ch. 4–5) was the only female judge and a prophetess. She summoned Barak to battle; when Barak refused to go without her, she told him: "the honour shall not be thine" — and indeed, the one who finally killed Sisera was Jael (a woman), who drove a tent peg through Sisera's head. Hebrews 11:32 lists Barak as a hero of faith, but the story makes clear: glory goes to the women who were willing to act.
 
@@ -62,36 +66,6 @@ This cycle is not merely a historical record but a portrait of the human heart. 
 
 Both appendices share the same refrain: "In those days there was no king in Israel: every man did that which was right in his own eyes" — an anticipation of the monarchy, paving the way for the age of kings in Samuel.`,
   },
-
-{
-    title_zh: `四、基甸：最小的成为大能勇士（6-8章）`,
-    title_en: `IV. Gideon: The Least Becomes a Mighty Warrior (Ch. 6-8)`,
-    content_zh: `基甸的故事是士师记最详尽的叙事之一。天使称他为"大能的勇士"（6:12）时，他正在酒醡里躲避米甸人打麦子——讽刺而又恩典。神选择最软弱的人来彰显最大的能力。
-
-神把基甸的军队从32,000人减到300人（7:2-7），目的只有一个："免得以色列人向我夸大，说：是我们自己的手救了我们"（7:2）。300人手持火把和空瓶，夜间呐喊——米甸大军自相残杀。胜利不属于人的力量，属于耶和华。
-
-然而基甸晚年的失败同样发人深省。他用战利品制造了一个以弗得，"后来以色列人拜那以弗得行了邪淫"（8:27）。英雄不能承受荣耀的重量，这是整个士师记反复出现的悲剧主题。`,
-    content_en: `Gideon's story is one of Judges' most detailed narratives. When the angel called him "thou mighty man of valour" (6:12), he was threshing wheat in a winepress, hiding from the Midianites -- ironic yet gracious. God chooses the weakest to display the greatest power.
-
-God reduced Gideon's army from 32,000 to 300 (7:2-7) for one purpose: "lest Israel vaunt themselves against me, saying, Mine own hand hath saved me" (7:2). Three hundred men with torches and empty pitchers shouted in the night -- the Midianite host destroyed itself. Victory belongs not to human strength but to the LORD.
-
-Yet Gideon's later failure is equally sobering. He made an ephod from the spoil, and "all Israel went thither a whoring after it" (8:27). Heroes cannot bear the weight of glory -- this is the recurring tragic theme of the entire book of Judges.`,
-  }
-,
-{
-    title_zh: `五、参孙与士师记的终曲：没有王的混乱（13-21章）`,
-    title_en: `V. Samson and Judges' Finale: Chaos Without a King (Ch. 13-21)`,
-    content_zh: `参孙（13-16章）是最矛盾的士师——拥有超自然的力量却在情欲面前毫无抵抗力。他一生的模式是：倚靠神时大有能力，倚靠自己时惨遭失败。大利拉不是他失败的原因，而是他内心早已偏离的外在表现。
-
-参孙最后的祷告——"求你赐我这一次的力量"（16:28）——是悲壮的悔改。他在死时所杀的比活着所杀的还多（16:30）。这不是英雄的传奇，而是悲剧的高潮。
-
-士师记最后五章（17-21章）是全书最黑暗的部分——但的偶像崇拜（17-18章）、基比亚的暴行（19章）、支派间的战争（20-21章）。全书以重复的判词结束："那时以色列中没有王，各人任意而行"（21:25）。没有敬虔的权柄，人心就走向彻底的败坏。士师记为王国的来临预备了舞台——以色列需要一位真正的王。`,
-    content_en: `Samson (ch. 13-16) is the most contradictory judge -- supernatural strength yet zero resistance to lust. His life pattern: mighty when relying on God, utterly defeated when relying on himself. Delilah was not the cause of his failure but the outward expression of a heart already turned aside.
-
-Samson's final prayer -- "strengthen me, I pray thee, only this once" (16:28) -- is a tragic repentance. He killed more in his death than in his life (16:30). This is not heroic legend but tragic climax.
-
-The final five chapters (17-21) are the book's darkest -- Dan's idolatry (ch. 17-18), the atrocity at Gibeah (ch. 19), intertribal war (ch. 20-21). The book ends with a repeated verdict: "In those days there was no king in Israel: every man did that which was right in his own eyes" (21:25). Without godly authority, the human heart descends into total corruption. Judges sets the stage for the coming kingdom -- Israel needs a true King.`,
-  }
 ];
 
 const overview = {
@@ -116,6 +90,29 @@ const outline = [
   ["19-21章", "利未人的妾与便雅悯战争", "Ch. 19–21", "Levite's Concubine; War on Benjamin"],
 ];
 
+const theology = {
+  title_zh: `核心神学：人的败坏与神的怜悯`,
+  title_en: `Core Theology: Human Depravity and Divine Mercy`,
+  content_zh: `士师记是圣经中最黑暗的叙事之一，但正因如此，它对罪与恩典的教导格外深刻。全书的主旨句是最后一节："那时以色列中没有王，各人任意而行"（21:25）。
+
+第一，全然败坏的活教材。改革宗神学"全然败坏"（Total Depravity）的教义在士师记中得到最生动的展示。七个循环的螺旋式下降证明：人靠自己不会变好，只会越来越堕落。从俄陀聂的简洁胜利到参孙的混乱人生，再到便雅悯支派的所多玛式罪恶——人心的败坏没有底线。韦敏斯德信条第六章说"人由于堕落在罪中……完全丧失了行任何与得救相关之善事的能力"——士师记就是这个教义的叙事版。
+
+第二，神在审判中仍有怜悯。尽管以色列反复悖逆，神每一次听见他们的哀嚎都兴起士师拯救他们。"耶和华因以色列人所发的叹息……就后悔了"（2:18原文直译）。这不是说神改变了心意，而是说神的怜悯在审判中始终运作。即使在最黑暗的时代，神也没有完全弃绝祂的百姓——这是恩典之约的不可毁灭性。
+
+第三，需要一位真正的王。"那时以色列中没有王"——这句话的含义远超政治层面。士师记在呼唤一位不像参孙那样软弱的拯救者，不像基甸那样晚节不保的领袖，而是一位完全公义、永远忠信的王。撒母耳记将回应这个呼唤（大卫），但大卫也不完美。最终，只有基督——大卫的子孙——才是那位永远的王和完美的士师，祂"以公义审判"（赛11:4），拯救却永不失败。
+
+第四，恩典在破碎中运作。参孙、基甸、耶弗他——士师记的英雄们几乎都有严重的道德缺陷。但神使用他们，不是因为他们配得，而是因为神的恩典超越人的软弱。"神却拣选了世上愚拙的，叫有智慧的羞愧"（林前1:27）。`,
+  content_en: `Judges is one of the darkest narratives in Scripture, but precisely for this reason its teaching on sin and grace is extraordinarily profound. The book's thesis statement is its final verse: "In those days there was no king in Israel: every man did that which was right in his own eyes" (21:25).
+
+First, a living textbook of total depravity. The Reformed doctrine of Total Depravity finds its most vivid illustration in Judges. Seven cycles of spiraling decline prove that humanity, left to itself, does not improve but only degenerates further. From Othniel's concise victory to Samson's chaotic life to Benjamin's Sodom-like wickedness — there is no floor to human depravity. The Westminster Confession chapter 6 states that humans, "by their fall into a state of sin, have wholly lost all ability of will to any spiritual good" — Judges is the narrative version of this doctrine.
+
+Second, God's mercy persists within judgment. Despite Israel's repeated rebellion, every time God heard their groaning He raised up judges to deliver them. "The LORD was moved to pity because of their groanings" (2:18). This does not mean God changed His mind but that God's mercy operates continuously within His judgment. Even in the darkest era, God did not utterly forsake His people — this is the indestructibility of the covenant of grace.
+
+Third, the need for a true King. "There was no king in Israel" — this statement's meaning far transcends politics. Judges cries out for a deliverer not as weak as Samson, not as compromised in later life as Gideon, but a King fully righteous and forever faithful. Samuel will partially answer this cry (David), but David too was imperfect. Ultimately, only Christ — the Son of David — is the eternal King and perfect Judge who "shall judge the poor with righteousness" (Isa 11:4), delivering without ever failing.
+
+Fourth, grace works through brokenness. Samson, Gideon, Jephthah — the heroes of Judges almost all have serious moral flaws. Yet God used them, not because they deserved it, but because God's grace transcends human weakness. "God hath chosen the foolish things of the world to confound the wise" (1 Cor 1:27).`,
+};
+
 const keyVerse = {
   zh: `"那时，以色列中没有王，各人任意而行。"（士师记 21:25）`,
   en: `"In those days there was no king in Israel: every man did that which was right in his own eyes." (Judges 21:25)`,
@@ -123,16 +120,28 @@ const keyVerse = {
 
 const info = { nameZh: `士师记`, nameEn: `Judges`, author: `撒母耳（传统）`, date: `约公元前1380-1050年`, chapters: `21章`, backHref: `/old-testament/historical`, backLabel: `历史书`, bibleId: `JDG` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to the Book of {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

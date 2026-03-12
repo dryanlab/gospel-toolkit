@@ -106,6 +106,29 @@ const outline = [
   ["35-40章", "会幕建成与神的荣光", "Ch. 35–40", "Tabernacle Built; God's Glory"],
 ];
 
+const theology = {
+  title_zh: `核心神学：救赎与神的同在`,
+  title_en: `Core Theology: Redemption and the Presence of God`,
+  content_zh: `出埃及记是圣经中"救赎"概念的原型。以色列出埃及的事件，不仅是一次历史性的解放，更是全部救赎神学的范式——基督救赎祂子民的预演。
+
+第一，逾越节羔羊与基督的救赎。"你们要取一只无残疾的羊羔……把血涂在门楣和左右门框上"（12:5-7）。保罗直接指出："我们逾越节的羔羊基督已经被杀献祭了"（林前5:7）。羔羊的血不是因为它自身有什么能力，而是因为神说"我一见这血，就越过你们去"（12:13）——救赎的根基是神的应许，不是人的行为。
+
+第二，神的名字"耶和华"（יהוה）。在燃烧的荆棘前，神向摩西启示了自己的名："我是自有永有的"（3:14，希伯来文 אֶהְיֶה אֲשֶׁר אֶהְיֶה）。这个名字启示了神的自存性、不变性和信实——祂是那位"昔在、今在、以后永在"的神。韦敏斯德小要理问答第四问论神的属性："神是个灵，祂的存在、智慧、权能、圣洁、公义、良善和信实，都是无限无量、永恒不变的"——根基就在出埃及记的神的自我启示中。
+
+第三，律法与盟约。十诫不是得救的条件，而是已被救赎之民的生活准则。神先说"我是耶和华你的神，曾将你从埃及地为奴之家领出来"（20:2），然后才颁布诫命——先有恩典，后有律法。律法的功用是显明神圣洁的标准，暴露人的罪，引人归向基督（加3:24"律法是我们训蒙的师傅，引我们到基督那里"）。
+
+第四，会幕——以马内利的预表。出埃及记最后16章都在讲会幕的建造。"又当为我造圣所，使我可以住在他们中间"（25:8）。会幕是神与人同住的具体表达，预表道成肉身——"道成了肉身，住在（原文：支搭帐幕）我们中间"（约1:14）。会幕的每一个细节——约柜、陈设饼、金灯台、香坛——都指向基督。`,
+  content_en: `Exodus is the archetype of "redemption" in the Bible. Israel's departure from Egypt was not merely a historical liberation but the paradigm for all redemptive theology — a rehearsal of Christ's redemption of His people.
+
+First, the Passover lamb and Christ's redemption. "Your lamb shall be without blemish... and they shall take of the blood, and strike it on the two side posts and on the upper door post" (12:5-7). Paul states directly: "Christ our passover is sacrificed for us" (1 Cor 5:7). The blood of the lamb had no inherent power; rather, God said, "when I see the blood, I will pass over you" (12:13) — the foundation of redemption is God's promise, not human works.
+
+Second, the divine name "Yahweh" (יהוה). Before the burning bush, God revealed His name to Moses: "I AM THAT I AM" (3:14, Hebrew אֶהְיֶה אֲשֶׁר אֶהְיֶה). This name reveals God's self-existence, immutability, and faithfulness — He is the One "which is, and which was, and which is to come." The Westminster Shorter Catechism Q4 on God's attributes — "God is a Spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness, and truth" — is rooted in Exodus's divine self-revelation.
+
+Third, law and covenant. The Ten Commandments are not conditions for salvation but the living standard for an already-redeemed people. God first said "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage" (20:2), and only then issued the commandments — grace precedes law. The function of the law is to reveal God's holy standard, expose human sin, and lead people to Christ (Gal 3:24, "the law was our schoolmaster to bring us unto Christ").
+
+Fourth, the tabernacle — a type of Immanuel. The final sixteen chapters of Exodus are devoted to the tabernacle's construction. "Let them make me a sanctuary; that I may dwell among them" (25:8). The tabernacle was the concrete expression of God dwelling with man, prefiguring the incarnation — "the Word was made flesh, and dwelt [literally: tabernacled] among us" (John 1:14). Every detail of the tabernacle — the ark, the showbread, the golden lampstand, the altar of incense — points to Christ.`,
+};
+
 const keyVerse = {
   zh: `"我是耶和华你的神，曾将你从埃及地为奴之家领出来。"（出埃及记 20:2）`,
   en: `"I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage." (Exodus 20:2)`,
@@ -121,6 +144,17 @@ const info = {
   backLabel: `摩西五经`,
   bibleId: `EXO`,
 };
+
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
 
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
@@ -139,8 +173,8 @@ export default function BookGuide() {
       </div>
       <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]">
         <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2>
-        <div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div>
-        <div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div>
+        <div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div>
+        <div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div>
       </div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800">
         <p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p>
@@ -167,13 +201,14 @@ export default function BookGuide() {
             </button>
             {expandedIdx === i && (
               <div className="px-6 pb-5 border-t border-[var(--color-border)]">
-                <div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div>
-                <div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div>
+                <div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div>
+                <div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div>
               </div>
             )}
           </div>
         ))}
       </div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]">
         <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>
         {(() => {

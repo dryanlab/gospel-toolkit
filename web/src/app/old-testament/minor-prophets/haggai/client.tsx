@@ -36,34 +36,6 @@ The second half of chapter 2 uses two priestly law illustrations: holiness does 
 
 The book ends with a special promise to Zerubbabel — "In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts" (2:23). A "signet ring" symbolizes royal authority. Zerubbabel's grandfather King Jehoiachin had been "pulled off" like a signet (Jer 22:24); now God would "put on" Zerubbabel again — David's royal hope was not extinguished. Zerubbabel appears in Jesus' genealogy (Matt 1:12); this promise was ultimately fulfilled in Christ.`,
   },
-  {
-    title_zh: `三、"万国所羡慕的必来到"——弥赛亚的应许（2:6-9, 20-23）`,
-    title_en: `III. "The Desire of All Nations Shall Come" -- Messianic Promise (2:6-9, 20-23)`,
-    content_zh: `哈该书虽短，却包含极重要的弥赛亚预言。"过不多时，我必再一次震动天地、沧海与旱地。我必震动万国；万国所羡慕的必来到，我就使这殿满了荣耀。这是万军之耶和华说的"（2:6-7）。
-
-这殿后来的荣耀必大过先前的荣耀（2:9）——所罗门的圣殿金碧辉煌，所罗巴伯的圣殿远不能比。但神说后者的荣耀更大——因为基督将亲自踏入这殿。当耶稣在圣殿教训人时，这预言便应验了。
-
-书末论到所罗巴伯——"我必以你为印，因我拣选了你"（2:23）。大卫后裔的王室血脉虽经被掳几乎断绝，神仍然保守了它，直到基督从这血脉中诞生。哈该的信息是：不要看眼前的卑微，要看神将来的荣耀。`,
-    content_en: `Though brief, Haggai contains a vital Messianic prophecy. "Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land; And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the LORD of hosts" (2:6-7).
-
-"The glory of this latter house shall be greater than of the former" (2:9) -- Solomon's temple was magnificent and Zerubbabel's could not compare. Yet God said the latter would surpass it -- because Christ Himself would walk within its courts. When Jesus taught in the temple, this prophecy was fulfilled.
-
-At the book's end, God speaks of Zerubbabel: "I will make thee as a signet: for I have chosen thee" (2:23). Though the royal line of David was nearly severed by exile, God preserved it until Christ was born from this lineage. Haggai's message: do not despise the day of small things, but look to God's coming glory.`,
-  },
-  {
-    title_zh: `四、哈该的信息与今日的应用`,
-    title_en: `IV. Haggai's Message and Its Application Today`,
-    content_zh: `哈该的信息对今日的教会有直接的应用。当外在的成就和繁荣成为优先，而神的家（教会的建造、肢体的相交、神话语的传承）被搁置，我们就陷入了和回归以色列人同样的错误。
-
-哈该提出了一个尖锐的诊断："你们撒的多，收的少；你们吃，吃不饱；喝，喝不足；穿衣服，不觉暖和；得工钱的，将工钱装在破漏的囊中"（1:6）。这幅生动的图画描述了以神之外的事物为中心时生命的空虚——努力却没有满足感。
-
-转机在于神的同在："我与你们同在，这是耶和华说的"（1:13）。这句话是整卷书的核心。不是殿宇的华丽，而是神自己的同在，才是真正的荣耀。今日的应用是：当我们将神放在首位，优先建造祂的国和祂的义，"这些东西都要加给你们了"（参太6:33）。把神放回中心，是一切生命祝福的根基。`,
-    content_en: `Haggai's message has direct application for the church today. When external achievement and prosperity become priorities while God's house (the church's building, fellowship, and the transmission of His Word) is neglected, we fall into the same error as the returning Israelites.
-
-Haggai presents a sharp diagnosis: "Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes" (1:6, KJV). This vivid picture describes the emptiness of a life centered outside of God — much effort but no satisfaction.
-
-The turning point is God's presence: "I am with you, saith the LORD" (1:13, KJV). This is the heart of the entire book. Not the temple's splendor but God's presence itself is true glory. The application for today: when we put God first, prioritizing the building of His kingdom and His righteousness, "all these things shall be added unto you" (cf. Matt 6:33). Returning God to the center is the foundation of all life's blessing.`,
-  }
 ];
 
 const overview = {
@@ -83,6 +55,25 @@ const outline = [
   ["2:20-23", "所罗巴伯的印记", "2:20–23", "Zerubbabel's Signet"],
 ];
 
+const theology = {
+  title_zh: `核心神学：重建圣殿——敬拜的优先次序`,
+  title_en: `Core Theology: Rebuilding the Temple — The Priority of Worship`,
+  content_zh: `哈该书只有两章38节，却包含了一个对每个时代的教会都至关重要的信息：神的殿（敬拜）必须放在首位。
+
+第一，优先次序的颠倒。"这殿仍然荒凉，你们自己还住天花板的房屋吗？"（1:4）。归回的犹太人忙于建造自己的房屋，却任由圣殿荒废了十六年。哈该指出：他们经济上的困难正是因为优先次序颠倒了——"你们撒的种多，收的却少；你们吃，却不得饱"（1:6）。这不是"成功神学"，而是盟约的原则：当神的子民把自己的舒适放在神的荣耀之前，一切努力都将落空。"你们要先求祂的国和祂的义"（太6:33）。
+
+第二，"后来的荣耀必大过先前的"。"这殿后来的荣耀必大过先前的荣耀"（2:9）。第二圣殿在外表上远不如所罗门的圣殿辉煌，老年人看见就哭泣（拉3:12）。但神应许：后来的荣耀更大——因为基督亲自进入了这座圣殿。道成肉身的神在第二圣殿中行走和教导——这荣耀远超黄金和宝石。
+
+第三，圣洁不能传递，污秽却能传染。哈该用祭司律法做了一个比喻：圣肉触碰其他食物不会使它们成圣，但不洁之物接触任何东西都会使其不洁（2:12-13）。应用在灵性上：善行不能自动遮盖罪，但罪会污染一切。我们需要的不是更多的好行为来抵消罪，而是从根本上被洁净——这只有基督的血能做到。`,
+  content_en: `Haggai contains only two chapters and 38 verses, yet it carries a message crucial for the church in every age: God's house (worship) must come first.
+
+First, inverted priorities. "Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste?" (1:4). The returned Jews busied themselves building their own homes while leaving the temple in ruins for sixteen years. Haggai pointed out: their economic difficulties stemmed from inverted priorities — "Ye have sown much, and bring in little; ye eat, but ye have not enough" (1:6). This is not "prosperity theology" but a covenantal principle: when God's people put their own comfort before God's glory, all efforts come to nothing. "Seek ye first the kingdom of God, and his righteousness" (Matt 6:33).
+
+Second, "the glory of this latter house shall be greater than of the former." "The glory of this latter house shall be greater than of the former" (2:9). The second temple was far less magnificent than Solomon's; the elderly wept upon seeing it (Ezra 3:12). But God promised greater glory to come — because Christ Himself entered this temple. The incarnate God walked and taught within the second temple — this glory far surpassed gold and jewels.
+
+Third, holiness does not transfer, but defilement does. Haggai used priestly law as an illustration: holy meat touching other food does not make it holy, but an unclean thing touching anything makes it unclean (2:12-13). Applied spiritually: good deeds cannot automatically cover sin, but sin contaminates everything. We need not more good works to offset sin but fundamental cleansing — and only the blood of Christ can accomplish this.`,
+};
+
 const keyVerse = {
   zh: `"这殿后来的荣耀必大过先前的荣耀。在这地方我必赐平安。这是万军之耶和华说的。"（哈该书 2:9）`,
   en: `"The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts." (Haggai 2:9)`,
@@ -90,16 +81,28 @@ const keyVerse = {
 
 const info = { nameZh: `哈该书`, nameEn: `Haggai`, author: `哈该`, date: `公元前520年`, chapters: `2章`, backHref: `/old-testament/minor-prophets`, backLabel: `小先知书`, bibleId: `HAG` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

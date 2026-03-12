@@ -54,24 +54,6 @@ Chapter 9 contains one of the longest prayers in the Old Testament, as the Levit
 
 Nehemiah's second visit to Jerusalem (ch. 13) found the people had fallen again — trading on the Sabbath, intermarrying, misusing the temple. He corrected them forcefully, even "cursed them, and smote certain of them, and plucked off their hair" (13:25). Nehemiah ends with a sobering realization: external reform cannot change the human heart. Israel needed not better walls or stricter laws but God's promised New Covenant — "I will put my law in their inward parts, and write it in their hearts" (Jer 31:33).`,
   },
-  {
-    title_zh: `四、尼希米的领袖风格：祷告先于行动`,
-    title_en: `IV. Nehemiah's Leadership: Prayer Before Action`,
-    content_zh: `尼希米书是整本圣经中对属灵领袖最生动的描绘之一。尼希米在面对每一个挑战时的第一反应总是祷告——从听见耶路撒冷城墙毁坏的消息到禁食祷告（1:4），从王后宫中回答王的询问前"默默地祷告天上的神"（2:4），到敌人威胁时的呼喊"我们的神啊，求你垂听"（4:4）。
-
-尼希米的祷告有一个显著特点：简短而实际。"我在天上的神面前禁食祷告……我就祷告说……"（1:4-5）是深思熟虑的恳求；"求你坚固我的手"（6:9）是战场上的短呼。祷告不是脱离现实的仪式，而是贯穿行动始终的生命连接。
-
-尼希米面对反对时也展示了领袖的勇气。当桑巴拉和多比雅一再嘲讽和威胁，他的回答是："我正做大工，不能下去。我若下去到你们那里，这工就必停废。"（6:3）专注于神所托付的使命，不被旁枝末节分散，这是领袖最难学会的功课。
-
-尼希米书最后以他的短祷收尾——"我的神啊，求你记念我，施恩与我"（13:31）。这简单的七个字，是一个领袖一生侍奉之后，在神面前最诚实的倾诉。功绩不是他的骄傲，而是他在神面前摆上的，等候神的鉴察与记念。`,
-    content_en: `The book of Nehemiah is one of Scripture's most vivid portraits of a spiritual leader. Nehemiah's first response to every challenge is always prayer — from hearing of Jerusalem's broken walls, fasting and praying for days (1:4), to "breath-praying" silently to God in the royal court before answering the king (2:4), to crying out under threat: "O God, strengthen my hands" (6:9).
-
-Nehemiah's prayers have a distinctive character: brief and practical. The longer intercession (1:4-5) is deliberate pleading; "Now therefore, O God, strengthen my hands" (6:9) is a battlefield cry. Prayer is not a ritual disconnected from reality but a living connection running through all of action.
-
-Nehemiah's courage in facing opposition is equally instructive. When Sanballat and Tobiah repeatedly mocked and threatened, his answer was: "I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?" (6:3, KJV). Staying focused on God's entrusted mission, not distracted by peripheral conflicts, is the leader's hardest lesson.
-
-The book ends with Nehemiah's short prayer: "Remember me, O my God, for good" (13:31, KJV). These simple words are a leader's most honest offering after a lifetime of service — not boasting in accomplishments but laying them before God, awaiting His scrutiny and remembrance.`,
-  },
 ];
 
 const overview = {
@@ -98,6 +80,29 @@ const outline = [
   ["13章", "尼希米的最终改革", "Ch. 13", "Nehemiah's Final Reforms"],
 ];
 
+const theology = {
+  title_zh: `核心神学：城墙与盟约——信仰共同体的重建`,
+  title_en: `Core Theology: Walls and Covenant — Rebuilding the Community of Faith`,
+  content_zh: `尼希米记不仅是重建耶路撒冷城墙的故事，更是重建信仰共同体的神学叙事。城墙是具体的，但它所保护的——神的子民——才是核心。
+
+第一，祷告与行动的合一。尼希米的祷告（1:4-11）和他的行动力是全书的标志。他不是只祷告不行动的属灵主义者，也不是只行动不祷告的实用主义者。"我们的神啊，求你垂听……我们向你祷告"——然后他立即行动，利用波斯王的信任请求归回。改革宗传统强调"双重因果"：神的主权与人的责任并行不悖。尼希米完美地展示了这一点。
+
+第二，52天建墙——在抵挡中坚持。面对参巴拉、多比雅的嘲笑、威胁和阴谋，尼希米的回答是："我在做大工，不能下去"（6:3）。百姓一手拿兵器，一手做工（4:17）——信仰的建造从来不是在温室中进行的。教会在逼迫和试探中成长，这是使徒行传和教会历史反复证明的模式。
+
+第三，律法的公开诵读与百姓的复兴。第八章是全书的属灵高潮：以斯拉在水门前向全会众诵读律法书，利未人"使百姓明白律法"（8:8），百姓听见律法的话就哭泣——因为他们意识到自己多年来偏离了神的命令。但尼希米说："你们不要忧愁，因靠耶和华而得的喜乐是你们的力量"（8:10）。真正的复兴始于对神话语的重新发现和认真聆听。
+
+第四，盟约的更新。第九章的认罪祷告和第十章的盟约更新仪式是尼希米记的神学核心。百姓公开认罪，回顾从亚伯拉罕到被掳的全部历史，然后郑重立约：守安息日、不与外邦通婚、缴纳什一奉献、维护圣殿。这是一个决定性的时刻——被管教过的社区选择重新委身于盟约。`,
+  content_en: `Nehemiah is not merely the story of rebuilding Jerusalem's walls but a theological narrative of rebuilding the community of faith. The walls were physical, but what they protected — God's people — is what truly mattered.
+
+First, the unity of prayer and action. Nehemiah's prayer (1:4-11) and his decisiveness are the book's hallmarks. He was neither a spiritualist who only prayed without acting, nor a pragmatist who only acted without praying. "Hear, O our God... we pray before thee" — then he immediately acted, leveraging the Persian king's trust to request return. The Reformed tradition emphasizes "dual causation": God's sovereignty and human responsibility operate in parallel. Nehemiah perfectly demonstrates this.
+
+Second, 52 days of wall-building — perseverance under opposition. Facing Sanballat and Tobiah's ridicule, threats, and conspiracies, Nehemiah's answer was: "I am doing a great work, so that I cannot come down" (6:3). The people worked with a weapon in one hand and a tool in the other (4:17) — the building of faith never occurs in a greenhouse. The church grows amid persecution and temptation; this is the pattern repeatedly confirmed in Acts and church history.
+
+Third, public reading of the law and the people's revival. Chapter 8 is the book's spiritual climax: Ezra read the book of the law before the assembly at the Water Gate, the Levites "caused the people to understand the law" (8:8), and the people wept upon hearing the words of the law — realizing how far they had strayed from God's commands. But Nehemiah said: "Neither be ye sorry; for the joy of the LORD is your strength" (8:10). True revival begins with the rediscovery of and attentive listening to God's Word.
+
+Fourth, covenant renewal. The confession prayer of chapter 9 and the covenant renewal ceremony of chapter 10 form Nehemiah's theological core. The people publicly confessed, reviewed their entire history from Abraham to the exile, then solemnly covenanted: to keep the Sabbath, not to intermarry with foreigners, to pay the tithe, and to maintain the temple. This was a decisive moment — a chastened community chose to recommit to the covenant.`,
+};
+
 const keyVerse = {
   zh: `"你们不要忧愁，因靠耶和华而得的喜乐是你们的力量。"（尼希米记 8:10）`,
   en: `"Neither be ye sorry; for the joy of the LORD is your strength." (Nehemiah 8:10)`,
@@ -105,16 +110,28 @@ const keyVerse = {
 
 const info = { nameZh: `尼希米记`, nameEn: `Nehemiah`, author: `尼希米`, date: `约公元前445-430年`, chapters: `13章`, backHref: `/old-testament/historical`, backLabel: `历史书`, bibleId: `NEH` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

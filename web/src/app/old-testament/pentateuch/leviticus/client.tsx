@@ -110,6 +110,29 @@ const outline = [
   ["27章", "许愿与奉献条例", "Ch. 27", "Vows and Dedications"],
 ];
 
+const theology = {
+  title_zh: `核心神学：圣洁与赎罪`,
+  title_en: `Core Theology: Holiness and Atonement`,
+  content_zh: `利未记是圣经中被忽视最多却神学含量最高的书卷之一。它的核心命令只有一句："你们要圣洁，因为我耶和华你们的神是圣洁的"（19:2）。彼得前书1:16引用了这句话，说明它在新约中仍然有效。
+
+第一，献祭体系与基督一次献上的祭。五祭（燔祭、素祭、平安祭、赎罪祭、赎愆祭）从不同角度呈现了人如何亲近圣洁的神。燔祭是全然奉献（"馨香的火祭"，1:9），预表基督完全顺服至死的奉献；赎罪祭和赎愆祭处理罪的问题，预表基督为我们的罪作了挽回祭（约壹2:2）。希伯来书10:1说律法中的祭物"不过是将来美事的影儿"——利未记的每一只羔羊都指向各各他的那只羔羊。
+
+第二，赎罪日（Yom Kippur）。利未记16章是旧约祭祀制度的高峰。大祭司一年一次进入至圣所，先为自己的罪献祭，再为百姓的罪献祭；一只公山羊被杀，血弹在施恩座上；另一只"替罪羊"（阿撒泻勒）承担百姓的罪被送到旷野。希伯来书9:12说基督"不用山羊和牛犊的血，乃用自己的血，只一次进入圣所，成了永远赎罪的事"——赎罪日的所有要素在基督里得到终极成全。
+
+第三，洁净与不洁净的区分。利未记11-15章的洁净条例看似琐碎，实则教导一个深刻的神学真理：圣洁的神不能容忍任何不洁。这些条例让以色列人在日常生活的每一刻都意识到圣洁与不洁的界限，培养他们对罪的敏感。马可福音7:19说耶稣"洁净了各样的食物"——新约中外在的洁净条例被废除了，但内在圣洁的要求永远不变。
+
+第四，圣洁法典与邻舍之爱。"不可报仇，也不可埋怨你本国的子民，却要爱人如己；我是耶和华"（19:18）。耶稣引用这句话作为律法的第二大诫命（太22:39）。利未记告诉我们：圣洁不是退隐山林的苦修，而是在日常的邻舍关系中活出公义和慈爱。`,
+  content_en: `Leviticus is one of the most neglected yet theologically richest books of the Bible. Its core command is a single sentence: "Ye shall be holy: for I the LORD your God am holy" (19:2). First Peter 1:16 quotes this verse, demonstrating its enduring validity in the New Testament.
+
+First, the sacrificial system and Christ's once-for-all offering. The five offerings (burnt, grain, peace, sin, and guilt offerings) present from different angles how sinful humans may approach a holy God. The burnt offering is total consecration ("a sweet savour unto the LORD," 1:9), prefiguring Christ's complete obedience unto death; the sin and guilt offerings deal with the problem of sin, prefiguring Christ as the propitiation for our sins (1 John 2:2). Hebrews 10:1 says the sacrifices of the law were "a shadow of good things to come" — every lamb in Leviticus points to the Lamb of Calvary.
+
+Second, the Day of Atonement (Yom Kippur). Leviticus 16 is the pinnacle of the Old Testament sacrificial system. The high priest entered the Holy of Holies once a year, first offering sacrifice for his own sins, then for the people's; one goat was slain, its blood sprinkled on the mercy seat; another, the "scapegoat" (azazel), bore the people's sins and was sent into the wilderness. Hebrews 9:12 says Christ "neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us" — every element of the Day of Atonement finds its ultimate fulfillment in Christ.
+
+Third, the distinction between clean and unclean. The purity laws of chapters 11–15 may seem trivial but teach a profound theological truth: a holy God cannot tolerate any uncleanness. These regulations made Israel conscious of the boundary between holy and profane at every moment of daily life, cultivating sensitivity to sin. Mark 7:19 says Jesus "made all foods clean" — the outward purity laws are abrogated in the New Testament, but the requirement of inward holiness is eternal.
+
+Fourth, the Holiness Code and love of neighbor. "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD" (19:18). Jesus cited this as the second great commandment (Matt 22:39). Leviticus teaches that holiness is not monastic withdrawal but living out justice and mercy in everyday neighbor relationships.`,
+};
+
 const keyVerse = {
   zh: `"你们要圣洁，因为我耶和华你们的神是圣洁的。"（利未记 19:2）`,
   en: `"Ye shall be holy: for I the LORD your God am holy." (Leviticus 19:2)`,
@@ -120,6 +143,17 @@ const info = {
   date: `约公元前1446-1406年`, chapters: `27章`,
   backHref: `/old-testament/pentateuch`, backLabel: `摩西五经`, bibleId: `LEV`,
 };
+
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
 
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
@@ -136,8 +170,8 @@ export default function BookGuide() {
       </div>
       <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]">
         <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2>
-        <div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div>
-        <div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div>
+        <div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div>
+        <div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div>
       </div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800">
         <p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p>
@@ -152,10 +186,11 @@ export default function BookGuide() {
               <div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg>
             </button>
-            {expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}
+            {expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}
           </div>
         ))}
       </div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]">
         <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>
         {(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half);

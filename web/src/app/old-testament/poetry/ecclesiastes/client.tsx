@@ -80,6 +80,29 @@ const outline = [
   ["12章", "记念造你的主", "Ch. 12", "Remember Your Creator"],
 ];
 
+const theology = {
+  title_zh: `核心神学：日光之下的虚空与日光之上的意义`,
+  title_en: `Core Theology: Vanity Under the Sun and Meaning Above the Sun`,
+  content_zh: `传道书是圣经中最"现代"的书卷——它的存在主义式追问在两千多年后依然震撼人心。"虚空的虚空，凡事都是虚空"（1:2）——这不是绝望的宣言，而是诚实的诊断。
+
+第一，"日光之下"的限定。"虚空"（希伯来文 הֶבֶל，hevel）出现了38次，但每次都伴随着关键的限定词——"日光之下"（1:3, 2:11等）。传道者不是说生命本身没有意义，而是说离开了神，单从人的视角（"日光之下"）观察，一切追求最终都归于虚空。智慧、财富、享乐、功名——没有任何一样能给人永恒的满足。这是对人类一切自救努力最彻底的批判，也为福音铺设了道路：如果"日光之下"找不到意义，那意义必须来自"日光之上"。
+
+第二，死亡——终极的平等者。"义人所遭遇的，恶人也必遭遇"（9:2原文直译）。传道者反复强调死亡使一切人间的区别变得相对——智慧人和愚昧人同样死亡，富人和穷人同归尘土。这不是虚无主义，而是对人类骄傲最有效的解药。只有承认死亡的现实，人才会认真思考永恒——"我将永生安置在世人心里"（3:11）。
+
+第三，"神的作为，人不能参透"。"神造万物，各按其时成为美好，又将永生安置在世人心里。然而神从始至终的作为，人不能参透"（3:11）。人的心里有永恒的渴望，却无法靠自己满足这渴望——这是人类困境的完美描述。奥古斯丁说"你为自己造了我们，我们的心不安息，直到安息在你里面"——传道书正是这句话的旧约版。
+
+第四，结语的归宿。"总意就是：敬畏神，谨守祂的诫命，这是人所当尽的本分"（12:13）。经过12章的探索和质疑，传道者的结论不是虚无，而是回到信仰的根基——敬畏神。这与箴言1:7遥相呼应：一切智慧的起点和终点都是敬畏耶和华。`,
+  content_en: `Ecclesiastes is the most "modern" book of the Bible — its existential questioning remains startling after more than two millennia. "Vanity of vanities; all is vanity" (1:2) — this is not a declaration of despair but an honest diagnosis.
+
+First, the qualifier "under the sun." "Vanity" (Hebrew הֶבֶל, hevel) appears 38 times, but always accompanied by a crucial qualifier — "under the sun" (1:3, 2:11, etc.). The Preacher does not say life itself is meaningless but that apart from God, viewed solely from a human perspective ("under the sun"), all pursuits ultimately amount to vanity. Wisdom, wealth, pleasure, fame — none can give lasting satisfaction. This is the most thorough critique of all human self-salvation efforts and paves the way for the gospel: if meaning cannot be found "under the sun," it must come from "above the sun."
+
+Second, death — the ultimate equalizer. "All things come alike to all: there is one event to the righteous, and to the wicked" (9:2). The Preacher repeatedly emphasizes that death relativizes all human distinctions — the wise and the foolish alike die; the rich and the poor alike return to dust. This is not nihilism but the most effective antidote to human pride. Only by acknowledging the reality of death will people seriously contemplate eternity — "he hath set the world [eternity] in their heart" (3:11).
+
+Third, "no man can find out the work that God maketh." "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end" (3:11). The human heart longs for eternity yet cannot satisfy that longing on its own — a perfect description of the human predicament. Augustine said "Thou hast made us for Thyself, and our hearts are restless till they rest in Thee" — Ecclesiastes is the Old Testament version of that statement.
+
+Fourth, the conclusion's destination. "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man" (12:13). After twelve chapters of exploration and questioning, the Preacher's conclusion is not nihilism but a return to the foundation of faith — the fear of God. This echoes Proverbs 1:7: the beginning and end of all wisdom is the fear of the LORD.`,
+};
+
 const keyVerse = {
   zh: `"这些事都已听见了，总意就是：敬畏神，谨守他的诫命，这是人所当尽的本分。"（传道书 12:13）`,
   en: `"Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man." (Ecclesiastes 12:13)`,
@@ -87,16 +110,28 @@ const keyVerse = {
 
 const info = { nameZh: `传道书`, nameEn: `Ecclesiastes`, author: `所罗门（传统观点）`, date: `约公元前935年`, chapters: `12章`, backHref: `/old-testament/poetry`, backLabel: `诗歌智慧书`, bibleId: `ECC` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

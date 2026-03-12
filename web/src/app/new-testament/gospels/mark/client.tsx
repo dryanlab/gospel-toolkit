@@ -112,6 +112,29 @@ const outline = [
   ["16章", "复活", "Ch. 16", "Resurrection"],
 ];
 
+const theology = {
+  title_zh: `核心神学：受苦的仆人——行动中的基督`,
+  title_en: `Core Theology: The Suffering Servant — Christ in Action`,
+  content_zh: `马可福音是四福音中最短、节奏最快的，用"立刻"（euthys）一词超过四十次，展现一位不停歇地服事的基督。
+
+第一，仆人基督。马可没有记载耶稣的家谱和降生——因为人不关心仆人的出身，只关心他是否忠心地做工。耶稣自己说明了这个主题："人子来，并不是要受人的服事，乃是要服事人，并且要舍命作多人的赎价"（10:45）。这一节经文是整卷马可福音的神学中心——服事和舍命，是弥赛亚使命的两个面向。
+
+第二，弥赛亚的秘密。马可福音中耶稣多次禁止人宣扬祂的身份——赶鬼后禁止鬼说出祂是谁（1:34, 3:12），医治后吩咐人不要告诉人（1:44, 5:43, 7:36），甚至在彼得认信后也"禁戒他们，不要告诉人"（8:30）。为什么？因为当时犹太人期望的是政治性的弥赛亚，一个推翻罗马的军事领袖。耶稣必须先走十字架的道路，然后人才能正确理解"弥赛亚"的真正含义——不是靠武力征服，而是靠受苦救赎。
+
+第三，十字架的中心性。马可福音的结构以十字架为中心——前半部（1-8:26）展示耶稣的能力（神迹、赶鬼、教导），后半部（8:27-16章）转向十字架的道路。三次受难预言（8:31, 9:31, 10:33-34）构成了后半部的骨架。百夫长的认信——"这人真是神的儿子！"（15:39）——是在十字架下而非在神迹中说出的。马可要告诉我们：认识基督的真正途径不是看祂的能力，而是看祂的十字架。
+
+第四，门徒的失败与恩典。马可对门徒的描写毫不留情——他们不理解耶稣的比喻（4:13），在风暴中惧怕（4:40），争论谁为大（9:34），在客西马尼园睡着（14:37），最终全部逃散（14:50）。彼得三次不认主（14:66-72）。马可为什么如此坦诚地记录门徒的软弱？因为福音的核心不是人的忠心，而是基督的恩典——即使最亲近的门徒都失败了，基督仍然为他们走上了十字架。`,
+  content_en: `Mark is the shortest and fastest-paced of the four Gospels, using the word "immediately" (euthys) over forty times, presenting a Christ who serves without ceasing.
+
+First, Christ the Servant. Mark records no genealogy or birth narrative — because people do not care about a servant's pedigree, only whether he faithfully does his work. Jesus Himself stated this theme: "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many" (10:45). This verse is the theological center of the entire Gospel — service and self-sacrifice are the two dimensions of the Messiah's mission.
+
+Second, the Messianic secret. In Mark, Jesus repeatedly forbids people from proclaiming His identity — silencing demons (1:34, 3:12), commanding the healed to tell no one (1:44, 5:43, 7:36), even after Peter's confession "he charged them that they should tell no man of him" (8:30). Why? Because the Jews expected a political Messiah, a military leader to overthrow Rome. Jesus had to walk the way of the cross first, so that people could rightly understand the true meaning of "Messiah" — redemption through suffering, not conquest through force.
+
+Third, the centrality of the cross. Mark's structure centers on the cross — the first half (1–8:26) displays Jesus's power (miracles, exorcisms, teaching); the second half (8:27–16) turns toward the cross. Three passion predictions (8:31, 9:31, 10:33-34) form the backbone of the second half. The centurion's confession — "Truly this man was the Son of God" (15:39) — is spoken beneath the cross, not amid miracles. Mark tells us: the true path to knowing Christ is not through His power but through His cross.
+
+Fourth, the disciples' failure and grace. Mark portrays the disciples unsparingly — they fail to understand Jesus's parables (4:13), fear the storm (4:40), argue over who is greatest (9:34), fall asleep in Gethsemane (14:37), and finally all flee (14:50). Peter denied Jesus three times (14:66-72). Why does Mark so honestly record the disciples' weakness? Because the gospel's core is not human faithfulness but Christ's grace — even the closest disciples failed, yet Christ still went to the cross for them.`,
+};
+
 const keyVerse = {
   zh: `"因为人子来，并不是要受人的服侍，乃是要服侍人，并且要舍命作多人的赎价。"（马可福音 10:45）`,
   en: `"For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many." (Mark 10:45)`,
@@ -119,16 +142,28 @@ const keyVerse = {
 
 const info = { nameZh: `马可福音`, nameEn: `Mark`, author: `约翰·马可`, date: `约公元65-70年`, chapters: `16章`, backHref: `/new-testament/gospels`, backLabel: `四福音书`, bibleId: `MRK` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

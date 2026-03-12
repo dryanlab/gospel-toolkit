@@ -60,20 +60,6 @@ David's weakness also appeared in this period -- he took refuge with the Philist
 
 Saul died on Mount Gilboa (ch. 31), having first sought the spirit of Samuel through a medium (ch. 28) -- the final portrait of spiritual bankruptcy. His life reminds us: outward success does not indicate spiritual health; obedience to God is the only foundation.`,
   },
-  {
-    title_zh: `五、撒母耳记上的神学遗产`,
-    title_en: `V. Theological Legacy of 1 Samuel`,
-    content_zh: `撒母耳记上对比了两种王权：地上王权（扫罗）和属灵王权（大卫，预表基督）的根本差异。
-
-神拣选的标准不是外表，而是内心（16:7）。争战的胜败不在人的力量，而在耶和华的名（17:45）。真正的权柄来自顺服，而非能力（15:22）。等候神的时间比抢夺权位更有价值（26:11）。
-
-哈拿的祷告（2:1-10）预告了这一切的主题——神"使软弱的有力，叫跌倒的腰带力量"（2:4）。整卷书在讲一个真理：不是倚靠势力、不是倚靠才能，乃是倚靠神的灵（撒迦利亚书4:6）。大卫是预表——更大的大卫基督，用最软弱的方式（十字架）赢得了最伟大的胜利。`,
-    content_en: `1 Samuel contrasts two kingships: the fundamental difference between earthly kingship (Saul) and spiritual kingship (David, a type of Christ).
-
-God's standard of selection is the heart, not outward appearance (16:7). Victory in battle depends not on human strength but on the name of the LORD (17:45). True authority comes from obedience, not ability (15:22). Waiting on God's timing is more valuable than seizing power (26:11).
-
-Hannah's prayer (2:1-10) prefigures all these themes -- God "giveth strength unto the weak" and "he that stumbled is girded with strength" (2:4). The entire book teaches one truth: not by might nor by power, but by God's Spirit (Zechariah 4:6). David is a type -- the greater David, Christ, won the greatest victory by the most seemingly weak means: the cross.`,
-  },
 ]
 
 const overview = {
@@ -103,6 +89,29 @@ const outline = [
   ["31章", "扫罗之死", "Ch. 31", "Saul's Death"],
 ];
 
+const theology = {
+  title_zh: `核心神学：从神权到王权的过渡`,
+  title_en: `Core Theology: Transition from Theocracy to Monarchy`,
+  content_zh: `撒母耳记上记载了以色列历史上最重大的制度转变：从士师时代的神权统治到君主制度。这个转变充满了神学张力——百姓要王，但"他们不是厌弃你，乃是厌弃我，不要我作他们的王"（8:7）。
+
+第一，王权的悖论。以色列要求立王"像列国一样"（8:5），这本身就是问题——他们不满足于以耶和华为王，要效法外邦人。然而，神在审判中仍有恩典：祂不仅允许了王权，更将王权纳入祂的救赎计划。大卫之约最终指向基督——人的悖逆被神翻转为救赎的管道。
+
+第二，外表与内心。"耶和华不像人看人：人是看外貌，耶和华是看内心"（16:7）。这句话出现在膏立大卫的场景中，是全书最核心的神学宣告。扫罗又高又帅，有王者之相，却因不顺服被废弃；大卫是最小的牧羊少年，却合神心意。改革宗神学强调"有效呼召"（effectual calling）不取决于人的外在条件，而取决于神主权的拣选——撒母耳记上是这教义的叙事展示。
+
+第三，扫罗的悲剧——不完全顺服的代价。扫罗的问题不是一次失误，而是一个模式：他总是部分顺服，留下自己认为合理的例外。"听命胜于献祭，顺从胜于公羊的脂油"（15:22）——这是旧约中对形式主义宗教最严厉的批判。神要的不是外在的宗教仪式，而是内心完全的顺服。
+
+第四，大卫与歌利亚——信心的争战。"你来攻击我是靠着刀枪和铜戟；我来攻击你是靠着万军之耶和华的名"（17:45）。大卫胜过歌利亚不是因为勇气或技术，而是因为他信靠的对象。这场争战预表基督——我们真正的勇士——代表祂的子民与撒但争战并得胜。`,
+  content_en: `First Samuel records the most significant institutional transition in Israel's history: from the theocratic rule of the judges period to monarchy. This transition is filled with theological tension — the people wanted a king, but "they have not rejected thee, but they have rejected me, that I should not reign over them" (8:7).
+
+First, the paradox of kingship. Israel's demand for a king "like all the nations" (8:5) was itself the problem — they were dissatisfied with the LORD as their king and wanted to imitate the Gentiles. Yet God's grace operated even within judgment: He not only permitted kingship but incorporated it into His redemptive plan. The Davidic covenant ultimately points to Christ — human rebellion is transformed by God into a channel of redemption.
+
+Second, outward appearance versus the heart. "The LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart" (16:7). Spoken at David's anointing, this is the book's most central theological declaration. Saul was tall and handsome, kingly in appearance, yet rejected for disobedience; David was the youngest shepherd boy, yet a man after God's own heart. Reformed theology emphasizes that effectual calling depends not on human external qualities but on God's sovereign election — First Samuel is the narrative demonstration of this doctrine.
+
+Third, Saul's tragedy — the cost of incomplete obedience. Saul's problem was not a single failure but a pattern: he always partially obeyed, retaining exceptions he deemed reasonable. "To obey is better than sacrifice, and to hearken than the fat of rams" (15:22) — this is the Old Testament's most severe critique of formalistic religion. God desires not external religious ceremonies but complete inward obedience.
+
+Fourth, David and Goliath — the battle of faith. "Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts" (17:45). David's victory over Goliath was not due to courage or skill but to the Object of his trust. This battle prefigures Christ — our true Champion — who fights and conquers Satan on behalf of His people.`,
+};
+
 const keyVerse = {
   zh: `"耶和华不像人看人：人是看外貌；耶和华是看内心。"（撒母耳记上 16:7）`,
   en: `"The LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart." (1 Samuel 16:7)`,
@@ -110,16 +119,28 @@ const keyVerse = {
 
 const info = { nameZh: `撒母耳记上`, nameEn: `1 Samuel`, author: `撒母耳、拿单、迦得`, date: `约公元前1050-1010年`, chapters: `31章`, backHref: `/old-testament/historical`, backLabel: `历史书`, bibleId: `1SA` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

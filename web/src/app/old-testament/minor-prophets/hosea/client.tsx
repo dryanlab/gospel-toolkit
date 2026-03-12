@@ -83,6 +83,29 @@ const outline = [
   ["14章", "归回与医治的呼召", "Ch. 14", "Call to Return and Healing"],
 ];
 
+const theology = {
+  title_zh: `核心神学：不离不弃的盟约之爱`,
+  title_en: `Core Theology: Unfailing Covenant Love`,
+  content_zh: `何西阿书是旧约中最感人的先知书——神命令先知娶一个淫妇为妻，以此比喻神对不忠以色列的爱。
+
+第一，婚姻作为盟约的比喻。何西阿与歌篾的婚姻不是个人悲剧，而是神学教材。歌篾反复行淫离去，何西阿反复将她赎回——"你再去爱一个淫妇……正如以色列人……转向别神"（3:1）。这是盟约之爱（hesed）最痛彻心扉的展示：不是因为对方配得，而是因为立约者的信实。以弗所书5:25说"丈夫要爱妻子，正如基督爱教会"——何西阿书是这教义最早的旧约根基。
+
+第二，审判是爱的另一面。"我必如狮子向以法莲，如少壮狮子向犹大家"（5:14），同时"我必医治他们背道的病，甘心爱他们"（14:4）。神的审判不是失控的愤怒，而是管教性的爱——"因为主所爱的，祂必管教"（来12:6）。何西阿书教导我们：一个从不管教的神不是慈爱的神，而是冷漠的神。
+
+第三，"认识耶和华"。"我喜爱良善，不喜爱祭祀；喜爱认识神，胜于燔祭"（6:6）。耶稣两次引用这句话（太9:13, 12:7）。"认识"（希伯来文 דַּעַת，da'at）不是头脑的知识，而是亲密的关系——与婚姻中的"认识"是同一个词。神不满足于外在的宗教仪式，祂渴望与祂的子民建立真实的关系。
+
+第四，从审判到复兴。"后来以色列人必归回，寻求他们的神耶和华和他们的王大卫"（3:5）。何西阿的盼望指向大卫之约的成全——基督。全书以复兴的应许收尾："我必医治他们背道的病……我必向以色列如甘露"（14:4-5）。无论以色列多么不忠，神的爱终将得胜。`,
+  content_en: `Hosea is the most emotionally powerful prophetic book in the Old Testament — God commanded the prophet to marry a promiscuous woman, illustrating God's love for unfaithful Israel.
+
+First, marriage as a covenant metaphor. Hosea's marriage to Gomer was not a personal tragedy but a theological lesson. Gomer repeatedly committed adultery and left; Hosea repeatedly redeemed her — "Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel" (3:1). This is the most heart-wrenching display of covenant love (hesed): not because the partner deserves it, but because of the covenant-maker's faithfulness. Ephesians 5:25 says "Husbands, love your wives, even as Christ also loved the church" — Hosea is the earliest Old Testament foundation for this doctrine.
+
+Second, judgment is the other face of love. "I will be unto Ephraim as a lion, and as a young lion to the house of Judah" (5:14), yet "I will heal their backsliding, I will love them freely" (14:4). God's judgment is not uncontrolled rage but disciplinary love — "whom the Lord loveth he chasteneth" (Heb 12:6). Hosea teaches: a God who never disciplines is not a loving God but an indifferent one.
+
+Third, "knowing the LORD." "I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings" (6:6). Jesus quoted this twice (Matt 9:13, 12:7). "Knowledge" (Hebrew דַּעַת, da'at) is not intellectual information but intimate relationship — the same word used for marital "knowing." God is not satisfied with outward religious ceremony; He longs for genuine relationship with His people.
+
+Fourth, from judgment to restoration. "Afterward shall the children of Israel return, and seek the LORD their God, and David their king" (3:5). Hosea's hope points to the fulfillment of the Davidic covenant — Christ. The book concludes with promises of restoration: "I will heal their backsliding... I will be as the dew unto Israel" (14:4-5). No matter how unfaithful Israel may be, God's love will ultimately prevail.`,
+};
+
 const keyVerse = {
   zh: `"我必医治他们背道的病，甘心爱他们。"（何西阿书 14:4）`,
   en: `"I will heal their backsliding, I will love them freely." (Hosea 14:4)`,
@@ -90,16 +113,28 @@ const keyVerse = {
 
 const info = { nameZh: `何西阿书`, nameEn: `Hosea`, author: `何西阿`, date: `约公元前755-715年`, chapters: `14章`, backHref: `/old-testament/minor-prophets`, backLabel: `小先知书`, bibleId: `HOS` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

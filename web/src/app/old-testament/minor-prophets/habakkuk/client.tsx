@@ -62,24 +62,6 @@ The book's climax is the final three verses — Habakkuk's declaration of faith:
 
 This is one of Scripture's greatest declarations of faith. Fig trees not blossoming, no grapes, no olives, no sheep, no cattle — materially nothing. "Yet" — this single conjunction carries the book's entire message. Circumstances unchanged, questions unanswered, yet the prophet's heart has moved from questioning to worship. This is faith: not praising because circumstances are good, but praising though circumstances are terrible.`,
   },
-  {
-    title_zh: `四、"义人因信得生"：哈巴谷与宗教改革`,
-    title_en: `IV. "The Just Shall Live by Faith": Habakkuk and the Reformation`,
-    content_zh: `哈巴谷书2:4——"义人因信得生"——是整个基督教历史上最具影响力的旧约经文之一。保罗在罗马书1:17、加拉太书3:11引用此节，希伯来书10:38也引用此节，赋予了这七个字以新约神学的核心地位。
-
-马丁路德读到罗马书1:17对哈巴谷2:4的引用时，经历了属灵的突破——"义人因信得生"意味着人在神面前的义不是靠行为挣来的，而是因信得着的。这一洞见点燃了十六世纪的宗教改革，改变了整个西方的历史轨迹。一句来自小先知书的经文，借着保罗，借着路德，塑造了现代文明。
-
-但哈巴谷的原初语境不可忽视：他是在问"神啊，你在哪里？你为什么沉默？"的处境下得到这个答案的。"义人因信得生"不只是称义的方式，更是苦难中持守的方式——当神的作为让人困惑，当公义看来迟迟不来，义人靠的是对那位不可见之神的信心，而不是眼前可见的证据。
-
-这种"在黑暗中的信心"是哈巴谷书最宝贵的礼物。宗教改革拯救了称义教义，哈巴谷书则进一步教导我们：这信心不是在顺境中的理论，而是在苦难中的锚。"然而，我要因耶和华欢欣"（3:18）——这是基督徒最深处的信仰告白。`,
-    content_en: `Habakkuk 2:4 — "the just shall live by his faith" — is one of the most influential Old Testament verses in all of Christian history. Paul quotes it in Romans 1:17 and Galatians 3:11; Hebrews 10:38 also cites it, giving these few words a central place in New Testament theology.
-
-When Martin Luther read Romans 1:17's quotation of Habakkuk 2:4, he experienced a spiritual breakthrough: "the just shall live by faith" means that a person's righteousness before God is not earned by works but received through faith. This insight ignited the sixteenth-century Reformation, altering the entire trajectory of Western history. A single verse from a Minor Prophet, through Paul and through Luther, shaped modern civilization.
-
-But Habakkuk's original context must not be overlooked: he received this answer while asking "God, where are you? Why are you silent?" "The just shall live by faith" is not only the means of justification but the means of persevering in suffering — when God's ways are perplexing and justice seems long delayed, the righteous live by faith in the unseen God rather than visible evidence.
-
-This "faith in the dark" is Habakkuk's most precious gift. The Reformation rescued the doctrine of justification; Habakkuk further teaches us that this faith is not a fair-weather theory but an anchor in suffering. "Yet I will rejoice in the LORD" (3:18) — this is the Christian's deepest confession of faith.`,
-  },
 ];
 
 const overview = {
@@ -99,6 +81,25 @@ const outline = [
   ["3章", "信心的祷告与赞美", "Ch. 3", "Prayer and Praise of Faith"],
 ];
 
+const theology = {
+  title_zh: `核心神学：义人必因信得生`,
+  title_en: `Core Theology: The Just Shall Live by Faith`,
+  content_zh: `哈巴谷书是旧约中最"个人化"的先知书——不是对百姓的宣告，而是先知与神之间的直接对话和质问。
+
+第一，"义人必因信得生"（2:4）。这五个字改变了世界。保罗在罗马书1:17和加拉太书3:11引用这句话，建立了因信称义的教义；路德因这句话发动了宗教改革。哈巴谷的原意是：在看不见公义实现的时代，义人仍然凭信心坚持——不是因为环境好，而是因为神可信。这是全旧约对信心最简洁、最有力的定义。
+
+第二，质疑的合法性。"耶和华啊，我呼求你，你不应允，要到几时呢？"（1:2）。哈巴谷没有因为自己是先知就压抑疑问——他大胆地质问神为什么容忍罪恶、为什么用更恶的巴比伦来审判犹大。神没有责备他的质疑，而是给出了回答。这教导我们：信仰不排斥诚实的疑问——但质疑之后必须等候神的回答，而不是放弃信仰。
+
+第三，在苦难中赞美。"虽然无花果树不发旺，葡萄树不结果，橄榄树也不效力，田地不出粮食，圈中绝了羊，棚内也没有牛；然而，我要因耶和华欢欣，因救我的神喜乐"（3:17-18）。这是全旧约最伟大的信仰宣告之一——在一切外在支撑都崩塌的时候，信心仍然站立。这不是盲目的乐观，而是根植于神本身（而非神的赐予）的坚定信靠。`,
+  content_en: `Habakkuk is the most "personal" prophetic book in the Old Testament — not a proclamation to the people but a direct dialogue and questioning between the prophet and God.
+
+First, "the just shall live by his faith" (2:4). These words changed the world. Paul cited this in Romans 1:17 and Galatians 3:11 to establish the doctrine of justification by faith; Luther was moved by this verse to launch the Reformation. Habakkuk's original meaning: in an era when justice is nowhere to be seen, the righteous still persevere by faith — not because circumstances are good, but because God is trustworthy. This is the most concise and powerful definition of faith in the entire Old Testament.
+
+Second, the legitimacy of questioning. "O LORD, how long shall I cry, and thou wilt not hear!" (1:2). Habakkuk did not suppress his questions because he was a prophet — he boldly asked God why He tolerates evil and why He uses the even more wicked Babylonians to judge Judah. God did not rebuke his questioning but gave an answer. This teaches us: faith does not exclude honest questions — but after questioning, one must wait for God's answer rather than abandon faith.
+
+Third, praise in suffering. "Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls: Yet I will rejoice in the LORD, I will joy in the God of my salvation" (3:17-18). This is one of the greatest declarations of faith in the entire Old Testament — when every external support collapses, faith still stands. This is not blind optimism but firm trust rooted in God Himself, not in His gifts.`,
+};
+
 const keyVerse = {
   zh: `"惟义人因信得生。"（哈巴谷书 2:4）`,
   en: `"The just shall live by his faith." (Habakkuk 2:4)`,
@@ -106,16 +107,28 @@ const keyVerse = {
 
 const info = { nameZh: `哈巴谷书`, nameEn: `Habakkuk`, author: `哈巴谷`, date: `约公元前609-605年`, chapters: `3章`, backHref: `/old-testament/minor-prophets`, backLabel: `小先知书`, bibleId: `HAB` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

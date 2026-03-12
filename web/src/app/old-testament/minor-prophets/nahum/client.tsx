@@ -50,38 +50,6 @@ In 612 BC, Babylonian and Median forces captured Nineveh, fulfilling Nahum's pro
   }
 
 ,
-{
-    title_zh: `三、神公义的最终宣告（3章）`,
-    title_en: `III. God's Final Declaration of Justice (Ch. 3)`,
-    content_zh: `那鸿书第3章详述尼尼微倾覆的原因。"祸哉！这流人血的城，充满谎诈和强暴"（3:1）。尼尼微的罪不只是一般的道德败坏，而是系统性的暴行——军事侵略、文化压迫、宗教狂妄。
-
-"万军之耶和华说：我与你为敌"（3:5）——当神亲自成为一个帝国的敌人，没有任何力量能够拯救它。尼尼微的陷落在公元前612年完全应验，曾经世界最大的城市被彻底毁灭，以至于两千多年后人们一度怀疑它是否存在过。
-
-那鸿书虽然短小，神学意义却极其重大。它回答了一个困扰所有信徒的问题：为什么恶人兴旺？答案是：神的公义不会永远沉默。"耶和华不轻易发怒，大有能力，万不以有罪的为无罪"（1:3）。不轻易发怒不等于不发怒，大有忍耐不等于永不审判。`,
-    content_en: `Nahum chapter 3 details the reasons for Nineveh's overthrow. "Woe to the bloody city! it is all full of lies and robbery" (3:1). Nineveh's sin was not ordinary moral failure but systematic atrocity -- military aggression, cultural oppression, religious arrogance.
-
-"Behold, I am against thee, saith the LORD of hosts" (3:5) -- when God Himself becomes an empire's enemy, no power can save it. Nineveh's fall was completely fulfilled in 612 BC; the world's greatest city was so thoroughly destroyed that for over two millennia people doubted it had ever existed.
-
-Though brief, Nahum's theological significance is immense. It answers a question troubling all believers: why do the wicked prosper? The answer: God's justice will not be silent forever. "The LORD is slow to anger, and great in power, and will not at all acquit the wicked" (1:3). Slow to anger does not mean never angry; great patience does not mean never judging.`,
-  },
-  {
-    title_zh: `四、那鸿与约拿：同一城市，两个信息`,
-    title_en: `IV. Nahum and Jonah: Same City, Two Messages`,
-    content_zh: `那鸿书与约拿书有着奇妙的对话关系——两卷书都是关于尼尼微的预言，但信息几乎完全相反。约拿书记录了神如何怜悯悔改的尼尼微，而那鸿书记录了神如何审判重新作恶的尼尼微。
-
-两书合在一起，传递了一个完整的神学信息：悔改带来怜悯，顽梗带来审判。约拿时代的尼尼微人因着悔改蒙了怜悯（约拿书3:10），但一百多年后的尼尼微重新回到了暴行和骄傲，于是面临了那鸿所预言的彻底覆灭（公元前612年）。
-
-这两卷书并列，也反映了神性格的完整性：神是"有恩典、有怜悯、不轻易发怒"（约拿4:2）的神；同时也是"万不以有罪的为无罪"（那鸿1:3）的神。祂的怜悯不消解祂的公义，祂的公义也不取消祂的怜悯——两者在十字架上达到完美的交汇。
-
-那鸿书最终的盼望是普遍性的："耶和华本为善，在患难的日子为人的保障，并且认得那些投靠他的人"（1:7）。审判恶人与保护义人是同一个神同时进行的两件事。每一个"投靠他的人"——即使身处尼尼微式的黑暗文化中——都在神的保障之内。`,
-    content_en: `Nahum and Jonah have a remarkable dialogue relationship — both are prophecies concerning Nineveh, but with nearly opposite messages. Jonah records God's mercy on a repentant Nineveh; Nahum records God's judgment on a Nineveh that returned to evil.
-
-Together they convey a complete theological message: repentance brings mercy; hardness brings judgment. The Ninevites of Jonah's era received mercy through repentance (Jonah 3:10), but more than a century later Nineveh returned to atrocity and pride, meeting the total destruction Nahum prophesied (612 BC).
-
-These two books placed together reflect the completeness of God's character: He is a God of "grace, mercy, slow to anger" (Jonah 4:2); simultaneously He "will not at all acquit the wicked" (Nahum 1:3). His mercy does not dissolve His justice; His justice does not cancel His mercy — both reach their perfect convergence at the cross.
-
-Nahum's ultimate hope is universal: "The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him" (1:7, KJV). Judging the wicked and protecting the righteous are two things the same God does simultaneously. Every person who "trusts in him" — even in the midst of a Nineveh-like dark culture — is within God's refuge.`,
-  }
 ];
 
 const overview = {
@@ -99,12 +67,42 @@ const outline = [
   ["3章", "流血之城的结局", "Ch. 3", "End of the Bloody City"],
 ];
 
+const theology = {
+  title_zh: `核心神学：神的公义审判与受压迫者的安慰`,
+  title_en: `Core Theology: God's Righteous Judgment and Comfort for the Oppressed`,
+  content_zh: `那鸿书是对亚述帝国首都尼尼微毁灭的预言。约拿书中尼尼微曾悔改得救，但他们的悔改没有持续——一百多年后，尼尼微重归残暴。
+
+第一，神是公义的审判者。"耶和华不轻易发怒，大有能力，万不以有罪的为无罪"（1:3）。那鸿书提醒我们：神的忍耐不是纵容。祂"不轻易发怒"——但终究会发怒。亚述帝国以残暴闻名——活剥战俘皮肤、堆叠头颅——神最终追讨了这一切。"伸冤在我，我必报应"（罗12:19）不是空洞的承诺，而是确定的事实。
+
+第二，受压迫者的福音。"看哪，有报好信传平安之人的脚登山"（1:15）。对被亚述欺压了数百年的犹大来说，尼尼微的毁灭就是好消息——压迫者终于被审判了。保罗在罗马书10:15引用类似的经文（赛52:7）指向福音的传播。审判恶人和拯救义人是同一枚硬币的两面。
+
+第三，帝国的兴亡在神手中。亚述帝国曾横扫整个近东，似乎不可战胜。但在公元前612年，尼尼微在巴比伦和玛代的联军面前倒塌——那鸿的预言精确应验。任何帝国，无论多么强大，都不能超越神的审判。`,
+  content_en: `Nahum prophesies the destruction of Nineveh, the Assyrian capital. In Jonah, Nineveh repented and was spared, but their repentance did not endure — over a century later, Nineveh returned to cruelty.
+
+First, God is a righteous judge. "The LORD is slow to anger, and great in power, and will not at all acquit the wicked" (1:3). Nahum reminds us: God's patience is not permissiveness. He is "slow to anger" — but will eventually be angry. The Assyrian empire was notorious for brutality — flaying prisoners alive, piling skulls — and God ultimately held them accountable. "Vengeance is mine; I will repay, saith the Lord" (Rom 12:19) is not an empty promise but a certain fact.
+
+Second, gospel for the oppressed. "Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace" (1:15). For Judah, oppressed by Assyria for centuries, Nineveh's destruction was good news — the oppressor was finally judged. Paul in Romans 10:15 cites a similar verse (Isa 52:7) pointing to gospel proclamation. Judging the wicked and delivering the righteous are two sides of the same coin.
+
+Third, the rise and fall of empires is in God's hands. The Assyrian empire swept across the entire Near East, seemingly invincible. Yet in 612 BC, Nineveh fell before the combined forces of Babylon and Media — Nahum's prophecy precisely fulfilled. No empire, however powerful, can transcend God's judgment.`,
+};
+
 const keyVerse = {
   zh: `"耶和华本为善，在患难的日子为人的保障，并且认得那些投靠他的人。"（那鸿书 1:7）`,
   en: `"The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him." (Nahum 1:7)`,
 };
 
-const info = { nameZh: `那鸿书`, nameEn: `Nahum`, author: `那鸿`, date: `约公元前663-612年`, chapters: `3章`, backHref: `/old-testament/minor-prophets`, backLabel: `小先知书`, bibleId: `NAM` };
+const info = { nameZh: `那鸿书`, nameEn: `Nahum`, author: `那鸿`, date: `约公元前663-612年`, chapters: `3章`, backHref: `/old-testament/minor-prophets`, backLabel: `小先知书`, bibleId: `NAH` };
+
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
 
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
@@ -112,10 +110,11 @@ export default function BookGuide() {
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

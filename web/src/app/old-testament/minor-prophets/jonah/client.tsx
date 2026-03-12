@@ -58,20 +58,6 @@ Then God spoke the book's most important words: "Doest thou well to be angry for
 
 The book ends with a question mark — God's question with no recorded answer from Jonah. This open ending is for every reader — how would you answer? Are you willing for God to show mercy to your enemies?`,
   },
-  {
-    title_zh: `四、约拿书的弥赛亚预表与基督应验`,
-    title_en: `IV. Jonah as Messianic Type and Christ's Fulfillment`,
-    content_zh: `约拿书在新约中有明确的弥赛亚意义。耶稣亲自援引约拿为自己的预表："约拿三日三夜在大鱼肚腹中，人子也要这样三日三夜在地里头"（太12:40）。约拿在鱼腹中的经历预表了基督的死与复活——三天三夜之后，约拿从死亡边缘被释放，正如基督在第三天复活。
-
-耶稣还提到"尼尼微人要在审判时与这世代同站，定这世代的罪；因为尼尼微人听了约拿所传的就悔改了，看哪！在这里有一人比约拿更大"（太12:41）。尼尼微人听了约拿的传道就悔改，而耶稣来了，传道更大，却有人不肯悔改——比较何其鲜明。
-
-约拿书的神学意涵也是整本圣经的微缩：人的逃跑与神的追寻、人的自私与神的怜悯、局限的民族观与神无限的恩典。神的怜悯超越了约拿所能理解的边界——超越了犹太人与外邦人、朋友与仇敌的界限。这正是福音的核心："神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不至灭亡，反得永生"（约3:16）——"世人"包括了每一个尼尼微城的罪人。`,
-    content_en: `Jonah carries explicit Messianic significance in the New Testament. Jesus Himself cited Jonah as a type of Himself: "For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth" (Matt 12:40, KJV). Jonah's time in the fish's belly prefigures Christ's death and resurrection — after three days, Jonah was released from the brink of death, just as Christ rose on the third day.
-
-Jesus also said: "The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here" (Matt 12:41, KJV). The Ninevites repented at Jonah's preaching; Jesus came with greater preaching, yet some refused to repent — the contrast is pointed.
-
-Jonah's theological significance is a miniature of the entire Bible: human flight and God's pursuit, human selfishness and God's compassion, narrow nationalism and God's limitless grace. God's mercy extends beyond what Jonah could comprehend — beyond the boundaries of Jew and Gentile, friend and enemy. This is the gospel's core: "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life" (John 3:16, KJV) — "the world" includes every sinner in Nineveh.`,
-  },
 ];
 
 const overview = {
@@ -90,12 +76,46 @@ const outline = [
   ["4章", "约拿的愤怒与神的怜悯", "Ch. 4", "Jonah's Anger; God's Compassion"],
 ];
 
+const theology = {
+  title_zh: `核心神学：神的怜悯超越民族边界`,
+  title_en: `Core Theology: God's Mercy Transcends National Boundaries`,
+  content_zh: `约拿书不是一个关于大鱼的故事，而是一个关于神的怜悯和先知的偏见的深刻神学叙事。
+
+第一，神的怜悯不受民族限制。约拿逃跑的原因不是惧怕，而是偏见——他不愿意尼尼微人（亚述人，以色列的仇敌）悔改得救。"我知道你是有恩典、有怜悯的神，不轻易发怒，有丰盛的慈爱，并且后悔不降所说的灾"（4:2）。约拿知道神的属性，但他不喜欢神把这属性应用在外邦人身上。这预表了犹太人对外邦人归信的抗拒——使徒行传中彼得和保罗都面对同样的挑战。
+
+第二，真正的悔改。尼尼微全城的悔改是旧约中最戏剧性的归正记录——从王到百姓，连牲畜都披上麻布（3:8）。耶稣引用尼尼微人的悔改来责备祂那个时代的人："尼尼微人……听了约拿所传的就悔改了。看哪，在这里有一人比约拿更大"（太12:41）。如果异教徒的尼尼微能悔改，听到基督福音的人更没有借口不悔改。
+
+第三，约拿作为基督的预表。"约拿三日三夜在大鱼肚腹中，人子也要这样三日三夜在地里头"（太12:40）。耶稣亲自将约拿的经历解释为祂死亡和复活的预表。大鱼不是故事的重点——它指向的是基督从死亡中复活的大能。
+
+第四，蓖麻的教训。神最后用一棵蓖麻教导约拿："你为这蓖麻发怒合乎理吗？"（4:9）。约拿为一棵植物的枯萎发怒，却不怜悯十二万不能分辨左右手的尼尼微人。这是对一切宗教偏见最尖锐的批判——我们常常关心自己的舒适胜过他人的灵魂。`,
+  content_en: `Jonah is not a story about a great fish but a profound theological narrative about God's mercy and a prophet's prejudice.
+
+First, God's mercy is not limited by nationality. Jonah fled not from fear but from prejudice — he did not want the Ninevites (Assyrians, Israel's enemies) to repent and be saved. "I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil" (4:2). Jonah knew God's attributes but disliked God applying them to Gentiles. This prefigures Jewish resistance to Gentile conversion — Peter and Paul faced the same challenge in Acts.
+
+Second, genuine repentance. Nineveh's city-wide repentance is the most dramatic conversion in the Old Testament — from the king to the common people, even the livestock were covered with sackcloth (3:8). Jesus cited Nineveh's repentance to rebuke His own generation: "The men of Nineveh... repented at the preaching of Jonas; and, behold, a greater than Jonas is here" (Matt 12:41). If pagan Nineveh could repent, those who hear Christ's gospel have even less excuse.
+
+Third, Jonah as a type of Christ. "As Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth" (Matt 12:40). Jesus Himself interpreted Jonah's experience as a type of His death and resurrection. The great fish is not the story's point — it points to Christ's power over death.
+
+Fourth, the lesson of the gourd. God taught Jonah through a plant: "Doest thou well to be angry for the gourd?" (4:9). Jonah was angry over a withered plant yet had no compassion for 120,000 Ninevites who "cannot discern between their right hand and their left hand." This is the sharpest critique of all religious prejudice — we often care more about our own comfort than others' souls.`,
+};
+
 const keyVerse = {
   zh: `"这尼尼微大城，其中不能分辨左手右手的有十二万多人，并有许多牲畜，我岂能不爱惜呢？"（约拿书 4:11）`,
   en: `"And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?" (Jonah 4:11)`,
 };
 
-const info = { nameZh: `约拿书`, nameEn: `Jonah`, author: `约拿（或后人记述）`, date: `约公元前8世纪`, chapters: `4章`, backHref: `/old-testament/minor-prophets`, backLabel: `小先知书`, bibleId: `JNA` };
+const info = { nameZh: `约拿书`, nameEn: `Jonah`, author: `约拿（或后人记述）`, date: `约公元前8世纪`, chapters: `4章`, backHref: `/old-testament/minor-prophets`, backLabel: `小先知书`, bibleId: `JON` };
+
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
 
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
@@ -103,10 +123,11 @@ export default function BookGuide() {
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

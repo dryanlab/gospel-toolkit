@@ -109,6 +109,29 @@ const outline = [
   ["37-50章", `约瑟的故事`, "Ch. 37–50", `The Story of Joseph`],
 ];
 
+const theology = {
+  title_zh: `核心神学：盟约与应许的起源`,
+  title_en: `Core Theology: The Origin of Covenant and Promise`,
+  content_zh: `创世记是整本圣经的神学根基。它回答了最根本的问题：世界从哪里来？人为什么受苦？盼望在哪里？
+
+第一，创造的教义。"起初，神创造天地"（1:1）——这一句确立了整个圣经世界观：神是自有永有的，万物是被造的，创造是出于神的主权意志而非必然。人按神的形象被造（1:26-27），因此人有尊严、有道德责任、有与神相交的能力。韦敏斯德小要理问答第一问"人的首要目的是什么？"——答案"荣耀神，以祂为乐，直到永远"——正是建立在创世记的创造论之上。
+
+第二，堕落与原罪。第三章的叙事是人类一切悲剧的源头。亚当作为全人类的代表（"盟约之首"），他的悖逆使罪进入世界，所有人都承受了罪的后果。保罗在罗马书5:12说"罪是从一人入了世界"——这正是创世记第三章的神学。然而在审判中神就给出了应许："女人的后裔要伤蛇的头"（3:15），这被称为"原始福音"（protevangelium），是全部救赎历史的种子。
+
+第三，盟约神学。创世记记载了神与挪亚之约（"永不再用洪水灭地"，9:11）和亚伯拉罕之约（"我必叫你成为大国"，12:2）。亚伯拉罕之约是整本圣经盟约神学的核心枢纽——土地、后裔、福临万邦。加拉太书3:8说"圣经既然预先看明，神要叫外邦人因信称义，就早已传福音给亚伯拉罕"——亚伯拉罕之约就是福音的预告。
+
+第四，神的护理与救赎。约瑟的话总结了创世记的神学精髓："从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命"（50:20）。人的恶行在神的主权之下被转化为救赎的器具——这正是十字架的预演。`,
+  content_en: `Genesis is the theological foundation of the entire Bible. It answers the most fundamental questions: Where did the world come from? Why do humans suffer? Where is hope?
+
+First, the doctrine of creation. "In the beginning God created the heaven and the earth" (Gen 1:1) — this one sentence establishes the entire biblical worldview: God is self-existent and eternal, all things are created, and creation proceeds from God's sovereign will rather than necessity. Humanity was made in God's image (1:26–27), hence possessing dignity, moral responsibility, and the capacity for communion with God. The Westminster Shorter Catechism Q1, "What is the chief end of man?" — answered, "To glorify God, and to enjoy him forever" — is built upon Genesis's doctrine of creation.
+
+Second, the fall and original sin. The narrative of chapter 3 is the source of all human tragedy. Adam, as the representative of all humanity (the "covenant head"), brought sin into the world through his disobedience, and all bear sin's consequences. Paul states in Romans 5:12, "by one man sin entered into the world" — this is the theology of Genesis 3. Yet within the very judgment God gave a promise: "the seed of the woman shall bruise the serpent's head" (3:15), called the protevangelium (the first gospel), the seed of the entire history of redemption.
+
+Third, covenant theology. Genesis records God's covenant with Noah ("I will not again curse the ground," 9:11) and the Abrahamic covenant ("I will make of thee a great nation," 12:2). The Abrahamic covenant is the central hinge of the Bible's covenant theology — land, offspring, blessing to all nations. Galatians 3:8 says, "the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham" — the Abrahamic covenant is the gospel foretold.
+
+Fourth, divine providence and redemption. Joseph's words summarize the theological essence of Genesis: "ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive" (50:20). Human evil is transformed under God's sovereignty into an instrument of redemption — a rehearsal of the cross.`,
+};
+
 const keyVerse = {
   zh: `"起初，神创造天地。"（创世记 1:1）`,
   en: `"In the beginning God created the heaven and the earth." (Genesis 1:1, KJV)`,
@@ -116,16 +139,28 @@ const keyVerse = {
 
 const info = { nameZh: `创世记`, nameEn: `Genesis`, author: `摩西`, date: `约公元前1446-1406年`, chapters: `50章`, backHref: `/old-testament/pentateuch`, backLabel: `摩西五经`, bibleId: `GEN` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

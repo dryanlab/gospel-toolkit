@@ -27,7 +27,7 @@ Chapter 6's lion's den similarly demonstrates uncompromising faith. Persian offi
 These six chapters carry a unified message: before earthly powers, faithfulness to God may exact a cost, but God can deliver those faithful to Him — and "but if not," faithfulness itself is victory.`,
   },
   {
-    title_zh: `二、异梦与异象——世界帝国的兴衰（2, 7-8章）`,
+    title_zh: `二、异梦与异象——世界帝国的兴衰（7-8章）`,
     title_en: `II. Dreams and Visions — Rise and Fall of World Empires (Ch. 2, 7–8)`,
     content_zh: `但以理书的预言核心始于第二章尼布甲尼撒的梦——一个大像，金头、银胸、铜腹、铁腿、半铁半泥的脚。但以理解释：四种金属代表四个相继的帝国。"当那列王在位的时候，天上的神必另立一国，永不败坏……打碎这一切国"（2:44）——一块非人手凿出来的石头打碎大像，变成大山充满全地。这块石头就是基督的国度。
 
@@ -82,6 +82,29 @@ const outline = [
   ["10-12章", "末世大异象", "Ch. 10–12", "Final Great Vision"],
 ];
 
+const theology = {
+  title_zh: `核心神学：万国之上的神与末世的盼望`,
+  title_en: `Core Theology: God Above All Nations and the Hope of the End Times`,
+  content_zh: `但以理书是旧约中最独特的书卷之一，结合了宫廷叙事和天启异象。它的核心信息是：无论世上的帝国多么强大，神才是历史真正的君王。
+
+第一，神掌管万国。尼布甲尼撒的梦（2章）中大像的四种金属代表四个世界帝国，但一块"非人手凿出来的石头"打碎了整座大像（2:34-35）。这块石头代表神的国——"必存到永远"（2:44）。七十个七的预言（9:24-27）更精确地预告了弥赛亚来临的时间。但以理书教导我们：帝国兴亡、政权更迭，都在神的掌控之中。"祂改变时候、日期，废王、立王"（2:21）——没有任何人间权势超出神主权的范围。
+
+第二，火窑与狮子坑——信仰的代价。沙得拉、米煞、亚伯尼歌的回答是全书最动人的信仰宣言："我们所事奉的神能将我们从烈火的窑中救出来……即或不然，我们也决不事奉你的神"（3:17-18）。"即或不然"（even if He does not）——真正的信仰不以结果为条件。他们不是因为确信神会拯救才拒绝拜像，而是因为即使神不拯救，偶像仍然不值得敬拜。但以理在狮子坑中的经历同样证明：忠于神可能意味着失去一切，但神在火中、在坑中、在死亡中同在。
+
+第三，人子的异象。"我在夜间的异象中观看，见有一位像人子的，驾着天云而来，被领到亘古常在者面前……得了权柄、荣耀、国度，使各方、各国、各族的人都事奉祂"（7:13-14）。耶稣最常用的自我称谓就是"人子"——直接取自但以理书7章。这位"人子"既是完全的人（"像人子的"），又拥有神的权柄（"驾着天云而来"）。但以理的异象揭示了弥赛亚的双重本性——真神真人。
+
+第四，忠信到底的智慧人。"智慧人必发光，如同天上的光；那使多人归义的，必发光如星，直到永永远远"（12:3）。但以理书的终极盼望不在今生而在来世——有身体的复活（12:2"睡在尘埃中的，必有多人复醒"）和永恒的赏赐。这是旧约中对复活和永生最清晰的启示之一。`,
+  content_en: `Daniel is one of the most unique books of the Old Testament, combining court narratives with apocalyptic visions. Its core message is: no matter how powerful earthly empires may be, God is the true King of history.
+
+First, God rules over all nations. In Nebuchadnezzar's dream (ch. 2), the four metals of the great image represent four world empires, but a stone "cut out without hands" smashed the entire image (2:34-35). This stone represents God's kingdom — "which shall stand for ever" (2:44). The prophecy of seventy weeks (9:24-27) even more precisely foretells the timing of the Messiah's coming. Daniel teaches us: empires rise and fall, regimes change, all under God's control. "He changeth the times and the seasons: he removeth kings, and setteth up kings" (2:21) — no human power falls outside the scope of God's sovereignty.
+
+Second, the furnace and the lions' den — the cost of faith. The response of Shadrach, Meshach, and Abednego is the book's most moving declaration of faith: "Our God whom we serve is able to deliver us from the burning fiery furnace... But if not, be it known unto thee, O king, that we will not serve thy gods" (3:17-18). "But if not" — true faith is not conditioned on outcomes. They refused to worship the image not because they were certain God would deliver but because even if He did not, the idol was still unworthy of worship. Daniel's experience in the lions' den likewise demonstrates: faithfulness to God may mean losing everything, but God is present in the fire, in the pit, and in death itself.
+
+Third, the vision of the Son of Man. "I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days... And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him" (7:13-14). Jesus's most common self-designation was "Son of Man" — taken directly from Daniel 7. This "Son of Man" is both fully human ("one like the Son of man") and possesses divine authority ("came with the clouds of heaven"). Daniel's vision reveals the Messiah's dual nature — truly God and truly man.
+
+Fourth, the wise who endure to the end. "They that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever" (12:3). Daniel's ultimate hope is not in this life but the next — with bodily resurrection (12:2, "many of them that sleep in the dust of the earth shall awake") and eternal reward. This is one of the clearest Old Testament revelations of resurrection and eternal life.`,
+};
+
 const keyVerse = {
   zh: `"当那列王在位的时候，天上的神必另立一国，永不败坏……打碎这一切国。"（但以理书 2:44）`,
   en: `"And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed... but it shall break in pieces and consume all these kingdoms." (Daniel 2:44)`,
@@ -89,16 +112,28 @@ const keyVerse = {
 
 const info = { nameZh: `但以理书`, nameEn: `Daniel`, author: `但以理`, date: `约公元前605-536年`, chapters: `12章`, backHref: `/old-testament/major-prophets`, backLabel: `大先知书`, bibleId: `DAN` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

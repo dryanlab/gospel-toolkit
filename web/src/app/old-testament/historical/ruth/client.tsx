@@ -50,21 +50,22 @@ The theological climax of the book comes in the final verse: the son born to Rut
 
 Boaz is a perfect type of Christ: he is the kinsman-redeemer with both the ability and the willingness to redeem; he did not hold Ruth's Gentile identity against her but received her into Israel; he paid the cost to complete the redemption — just as Christ became our kinsman-redeemer (through the incarnation), able and willing to redeem us regardless of cost, bringing us into God's family.`,
   },
-  {
-    title_zh: `四、路得书的核心神学：神的护理与忠诚之爱`,
-    title_en: `IV. Core Theology of Ruth: Providence and Covenant Love`,
-    content_zh: `路得书从未明确提到神的神迹或异象，但神的护理之手在每一页都清晰可见。路得"碰巧"拾穗在波阿斯的田间（2:3）——这个"碰巧"是希伯来文 מִקְרֶה (miqreh)，意为"偶然发生"，但作者用这词是带着讽刺意味的：在神的治理下，没有真正的偶然。
+];
+
+const theology = {
+  title_zh: `核心神学：神的护理与忠诚之爱`,
+  title_en: `Core Theology: Providence and Covenant Love`,
+  content_zh: `路得记从未明确提到神的神迹或异象，但神的护理之手在每一页都清晰可见。路得"碰巧"拾穗在波阿斯的田间（2:3）——这个"碰巧"是希伯来文 מִקְרֶה (miqreh)，意为"偶然发生"，但作者用这词是带着讽刺意味的：在神的治理下，没有真正的偶然。
 
 整卷书的关键词是 חֶסֶד (hesed)——通常译为"恩慈"或"慈爱"。拿俄米两次用这个词：一次称赞路得对婆婆的 hesed（1:8），一次赞美波阿斯对她们的 hesed（2:20）。这个词在旧约中既用于人与人之间的忠诚之爱，也用于神对以色列的盟约之爱。路得对拿俄米的忠心（"你往哪里去，我也往那里去"，1:16），是 hesed 在人际关系中最美丽的体现，也折射出神对祂子民那永不改变的盟约之爱。
 
-路得书还承载着一个突破性的神学信息：救恩不限于以色列人。摩押女子路得——一个外邦人、一个寡妇、一个穷人——因着信心与忠心，不仅得到了接纳，更进入了弥赛亚的家谱。神的恩典没有种族边界。这预表了新约时代，借着基督，"并不分犹太人、希腊人，并不分为奴的、自主的，也不分男女，因为你们在基督耶稣里都成为一了"（加3:28）。`,
-    content_en: `The book of Ruth never explicitly mentions a miracle or vision, yet God's providential hand is visible on every page. Ruth "happened to come" to the portion of the field belonging to Boaz (2:3) — this "happened" translates the Hebrew מִקְרֶה (miqreh), meaning "chance occurrence," but the author uses the word with irony: under God's governance, there is no true chance.
+路得记还承载着一个突破性的神学信息：救恩不限于以色列人。摩押女子路得——一个外邦人、一个寡妇、一个穷人——因着信心与忠心，不仅得到了接纳，更进入了弥赛亚的家谱。神的恩典没有种族边界。这预表了新约时代，借着基督，"并不分犹太人、希腊人，并不分为奴的、自主的，也不分男女，因为你们在基督耶稣里都成为一了"（加3:28）。`,
+  content_en: `The book of Ruth never explicitly mentions a miracle or vision, yet God's providential hand is visible on every page. Ruth "happened to come" to the portion of the field belonging to Boaz (2:3) — this "happened" translates the Hebrew מִקְרֶה (miqreh), meaning "chance occurrence," but the author uses the word with irony: under God's governance, there is no true chance.
 
 The book's keyword is חֶסֶד (hesed) — typically translated "lovingkindness" or "steadfast love." Naomi uses the word twice: once commending Ruth's hesed toward her mother-in-law (1:8), and once praising Boaz's hesed toward them (2:20). In the Old Testament this word describes both human loyal love and God's covenant love toward Israel. Ruth's faithfulness to Naomi ("whither thou goest, I will go," 1:16) is hesed's most beautiful human expression, reflecting God's own unchanging covenant love for His people.
 
 Ruth also carries a breakthrough theological message: salvation is not limited to Israelites. Ruth the Moabite — a Gentile, a widow, a poor woman — through faith and faithfulness was not merely accepted but entered the Messianic genealogy. God's grace has no ethnic boundary. This prefigures the New Testament era: through Christ, "there is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus" (Gal 3:28, KJV).`,
-  },
-];
+};
 
 const overview = {
   zh: `路得记是旧约中最精美的短篇叙事之一，全书4章讲述了士师时代一个小人物的故事——却是整个救赎历史的缩影。它夹在士师记的黑暗与撒母耳记的王国之间，像一朵盛开在荒漠中的花，以忠心、慈爱（希伯来文 חֶסֶד，hesed）和神的护理为主题。
@@ -95,16 +96,28 @@ const keyVerse = {
 
 const info = { nameZh: `路得记`, nameEn: `Ruth`, author: `撒母耳（传统）`, date: `约公元前1100年`, chapters: `4章`, backHref: `/old-testament/historical`, backLabel: `历史书`, bibleId: `RUT` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to the Book of {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

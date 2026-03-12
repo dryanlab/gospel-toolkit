@@ -110,6 +110,29 @@ const outline = [
   ["35-36章", "逃城与产业条例", "Ch. 35–36", "Cities of Refuge; Inheritance Laws"],
 ];
 
+const theology = {
+  title_zh: `核心神学：旷野中的信心与不信`,
+  title_en: `Core Theology: Faith and Unbelief in the Wilderness`,
+  content_zh: `民数记的名字来自两次人口普查，但它真正的主题是旷野——信心与不信的试验场。以色列人在旷野的经历是新约教会的鉴戒："这些事都是我们的鉴戒，叫我们不要贪恋恶事，像他们那样贪恋的"（林前10:6）。
+
+第一，不信的代价。民数记13-14章是全书的神学转折点。十二个探子从迦南回来，十个说"我们不能上去攻击那民，因为他们比我们强壮"，只有迦勒和约书亚说"耶和华若喜悦我们，就必将我们领进那地"（14:8）。结果，第一代人除迦勒和约书亚外全部倒毙旷野。希伯来书3:19总结："这样看来，他们不能进入安息是因为不信的缘故了。"不信不是无知，而是在看见了神的大能之后仍然拒绝信靠。
+
+第二，神的信实不因人的不信而改变。尽管以色列人反复悖逆——发怨言（11章）、挑战摩西的权威（可拉叛乱，16章）、拜偶像（25章），神依然保守他们、供应他们、引领他们到应许之地的边界。"神非人，必不致说谎；也非人子，必不致后悔。祂说话岂不照着行呢？祂发言岂不要成就呢？"（23:19）——这是巴兰先知被迫说出的对神信实的宣告。
+
+第三，铜蛇与基督。以色列人因发怨言被火蛇咬伤，神吩咐摩西造一条铜蛇挂在杆子上，"凡被咬的，一望这蛇就必得活"（21:9）。耶稣亲自解释这段经文："摩西在旷野怎样举蛇，人子也必照样被举起来，叫一切信祂的都得永生"（约3:14-15）。铜蛇是十字架最直接的旧约预表：仰望就得救，不是靠行为，只靠信心。
+
+第四，旷野是恩典的学校。"你也要记念耶和华你的神在旷野引导你这四十年……要苦炼你、试验你，要知道你心内如何"（申8:2）。旷野不是惩罚的终点，而是训练的过程。神在旷野中用吗哪养活百姓，用云柱火柱引路，用磐石出水供应——即使在他们不配的时候。`,
+  content_en: `The name "Numbers" comes from two censuses, but the book's true theme is the wilderness — the proving ground of faith and unbelief. Israel's wilderness experience serves as a warning for the New Testament church: "Now these things were our examples, to the intent we should not lust after evil things, as they also lusted" (1 Cor 10:6).
+
+First, the cost of unbelief. Chapters 13–14 are the theological turning point of the entire book. Twelve spies returned from Canaan; ten said "We be not able to go up against the people; for they are stronger than we," but Caleb and Joshua said "If the LORD delight in us, then he will bring us into this land" (14:8). The result: the entire first generation, except Caleb and Joshua, perished in the wilderness. Hebrews 3:19 concludes: "So we see that they could not enter in because of unbelief." Unbelief is not ignorance but refusal to trust after having witnessed God's mighty power.
+
+Second, God's faithfulness is unchanged by human unfaithfulness. Despite Israel's repeated rebellion — complaining (ch. 11), challenging Moses's authority (Korah's rebellion, ch. 16), idolatry (ch. 25) — God still preserved, provided for, and led them to the border of the Promised Land. "God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?" (23:19) — this is the declaration of God's faithfulness forced from the lips of the prophet Balaam.
+
+Third, the bronze serpent and Christ. When Israel was bitten by fiery serpents for complaining, God commanded Moses to make a bronze serpent and set it on a pole: "every one that is bitten, when he looketh upon it, shall live" (21:9). Jesus Himself interpreted this passage: "As Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: That whosoever believeth in him should not perish, but have eternal life" (John 3:14–15). The bronze serpent is the most direct Old Testament type of the cross: look and be saved — not by works, but by faith alone.
+
+Fourth, the wilderness as a school of grace. "Thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness... to humble thee, and to prove thee, to know what was in thine heart" (Deut 8:2). The wilderness was not the endpoint of punishment but a process of training. God fed the people with manna, guided them with pillar of cloud and fire, and provided water from the rock — even when they were undeserving.`,
+};
+
 const keyVerse = {
   zh: `"耶和华不轻易发怒，并有丰盛的慈爱，赦免罪孽和过犯。"（民数记 14:18）`,
   en: `"The LORD is longsuffering, and of great mercy, forgiving iniquity and transgression." (Numbers 14:18)`,
@@ -120,6 +143,17 @@ const info = {
   date: `约公元前1406年`, chapters: `36章`,
   backHref: `/old-testament/pentateuch`, backLabel: `摩西五经`, bibleId: `NUM`,
 };
+
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
 
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
@@ -132,7 +166,7 @@ export default function BookGuide() {
         <p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to the Book of {info.nameEn}</p>
         <div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div>
       </div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
       <div className="space-y-4">
@@ -142,10 +176,11 @@ export default function BookGuide() {
               <div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg>
             </button>
-            {expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}
+            {expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}
           </div>
         ))}
       </div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]">
         <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>
         {(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half);

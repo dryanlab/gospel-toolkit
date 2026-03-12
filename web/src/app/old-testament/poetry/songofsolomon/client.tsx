@@ -78,6 +78,29 @@ const outline = [
   ["8:5-14", "爱的力量与永恒", "Ch. 8:5–14", "Love's Power and Eternity"],
 ];
 
+const theology = {
+  title_zh: `核心神学：盟约之爱的颂歌`,
+  title_en: `Core Theology: A Song of Covenant Love`,
+  content_zh: `雅歌是圣经中最独特的书卷——一首纯粹的爱情诗，没有律法、没有先知预言、没有历史叙事。它的存在本身就是一个神学宣告：爱情是神创造的美好礼物，值得被歌颂。
+
+第一，爱情的神圣性。在一个将灵与肉对立的宗教文化中，雅歌大胆地肯定了身体之爱的美善。"我属我的良人，他也恋慕我"（7:10）——这是创世记2:24"二人成为一体"的诗意回响。改革宗传统反对灵肉二元论，肯定婚姻中的亲密关系是神所设立的——韦敏斯德信条24章论婚姻："婚姻是为了夫妻间彼此的帮助……并为了繁殖具有纯洁后裔的人类。"雅歌证明婚姻之爱不是"必要之恶"，而是创造之善。
+
+第二，基督与教会的预表。犹太传统将雅歌解读为耶和华与以色列之间的爱情；基督教传统进一步将它解读为基督与教会的关系。以弗所书5:25-32保罗将婚姻关系直接比喻为"基督爱教会"。"我的佳偶，你全然美丽，毫无瑕疵"（4:7）——基督看祂的教会正是如此：不是因为教会自身完美，而是因为基督的义遮盖了她的一切瑕疵。
+
+第三，爱情的排他性与忠贞。"求你将我放在你心上如印记，带在你臂上如戳记；因为爱情如死之坚强"（8:6）。雅歌的爱情不是浪漫主义的多情，而是排他的、全然委身的、至死不渝的。这正是盟约之爱的本质——神对祂子民的爱是排他的（"除我以外你不可有别的神"），也是至死不渝的（"我总不撇下你，也不丢弃你"，来13:5）。
+
+第四，爱的不可购买。"若有人拿家中所有的财宝要换爱情，就全被藐视"（8:7）。真正的爱不是交易——它不能被金钱、权力或任何外在条件购买。这是恩典的本质：救恩不是靠功德换来的，而是神白白的赐予。"你们得救是本乎恩，也因着信；这并不是出于自己，乃是神所赐的"（弗2:8）。`,
+  content_en: `The Song of Solomon is the most unique book in the Bible — a pure love poem with no law, no prophecy, no historical narrative. Its very existence is a theological declaration: romantic love is a good gift from God, worthy of celebration.
+
+First, the sacredness of love. In a religious culture that pits spirit against flesh, the Song boldly affirms the goodness of bodily love. "I am my beloved's, and his desire is toward me" (7:10) — this is the poetic echo of Genesis 2:24, "they shall be one flesh." The Reformed tradition opposes spirit-flesh dualism and affirms that intimacy within marriage is God-ordained — the Westminster Confession chapter 24 on marriage: "Marriage was ordained for the mutual help of husband and wife... and for the increase of mankind with legitimate issue." The Song proves that marital love is not a "necessary evil" but a creational good.
+
+Second, a type of Christ and the church. Jewish tradition reads the Song as the love between the LORD and Israel; Christian tradition further reads it as the relationship between Christ and His church. In Ephesians 5:25-32, Paul directly compares the marriage relationship to "Christ loved the church." "Thou art all fair, my love; there is no spot in thee" (4:7) — this is exactly how Christ sees His church: not because the church is inherently perfect, but because Christ's righteousness covers all her blemishes.
+
+Third, the exclusivity and faithfulness of love. "Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death" (8:6). The Song's love is not romantic fickleness but exclusive, fully committed, and faithful unto death. This is the very nature of covenant love — God's love for His people is exclusive ("Thou shalt have no other gods before me") and faithful unto death ("I will never leave thee, nor forsake thee," Heb 13:5).
+
+Fourth, love cannot be purchased. "If a man would give all the substance of his house for love, it would utterly be contemned" (8:7). True love is not a transaction — it cannot be bought with money, power, or any external condition. This is the nature of grace: salvation is not earned by merit but freely given by God. "By grace are ye saved through faith; and that not of yourselves: it is the gift of God" (Eph 2:8).`,
+};
+
 const keyVerse = {
   zh: `"求你将我放在你心上如印记，带在你臂上如戳记。因为爱情如死之坚强，嫉恨如阴间之残忍。所发的电光是火焰的电光，是耶和华的烈焰。"（雅歌 8:6）`,
   en: `"Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which hath a most vehement flame." (Song of Solomon 8:6)`,
@@ -85,16 +108,28 @@ const keyVerse = {
 
 const info = { nameZh: `雅歌`, nameEn: `Song of Solomon`, author: `所罗门`, date: `约公元前960年`, chapters: `8章`, backHref: `/old-testament/poetry`, backLabel: `诗歌智慧书`, bibleId: `SNG` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

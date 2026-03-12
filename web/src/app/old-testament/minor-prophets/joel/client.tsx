@@ -42,24 +42,6 @@ The famous "Beat your plowshares into swords, and your pruninghooks into spears"
 
 The book concludes with glorious promise: "And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk... the LORD dwelleth in Zion" (3:18, 21). Though only three chapters, Joel encompasses from locust plague to eschaton, from repentance to Spirit's outpouring, from judgment to new creation — a complete redemptive panorama.`,
   },
-  {
-    title_zh: `四、"撕裂心肠"：约珥书对今日教会的呼召`,
-    title_en: `IV. "Rend Your Heart": Joel's Call to the Church Today`,
-    content_zh: `约珥书最刺透人心的经文是2:12-13："耶和华说：虽然如此，你们应当禁食、哭泣、悲哀，一心归向我。你们要撕裂心肠，不撕裂衣服，归向耶和华你们的神；因为他有恩典、有怜悯、不轻易发怒、有丰盛的慈爱，并且后悔不降所说的灾。"
-
-"撕裂心肠，不撕裂衣服"——这是旧约中对外在宗教形式与内在心灵悔改之区分最清晰的表达之一。撕裂衣服是以色列人表达悲哀的传统习俗，但神要的不是习俗的表演，而是内心真实的破碎与回转。
-
-这一呼召对今日的教会同样切中要害。我们可能有完美的礼拜仪式、漂亮的教堂、丰富的事工活动，却内心冷漠、属灵麻木。约珥书的呼召是：吹角在锡安、分别圣会、聚集老人孩童（2:15-16）——这是整个教会群体一起在神面前谦卑认罪的图景。
-
-更新的起点是谦卑的悔改；悔改的保证是神"有恩典、有怜悯、不轻易发怒"（2:13）。认罪不是绝望，而是信心——信这位有怜悯的神必然垂顾那真实寻求祂的心。`,
-    content_en: `Joel's most penetrating verses are 2:12-13: "Therefore also now, saith the LORD, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning: And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil." (KJV)
-
-"Rend your heart, and not your garments" — this is one of the Old Testament's clearest distinctions between outward religious form and inner repentance. Tearing garments was Israel's traditional expression of grief, but God desires not the performance of custom but the genuine brokenness and turning of the heart.
-
-This call strikes equally to the heart of today's church. We may have perfect worship liturgy, beautiful buildings, abundant ministries, yet be inwardly cold and spiritually numb. Joel's call: blow the trumpet in Zion, call a solemn assembly, gather the elders and children (2:15-16) — a picture of the entire church community humbling itself in repentance before God together.
-
-The starting point of renewal is humble repentance; repentance's guarantee is that God is "gracious and merciful, slow to anger, and of great kindness" (2:13). Confession is not despair but faith — faith that this merciful God will surely attend to the heart that truly seeks Him.`,
-  },
 ];
 
 const overview = {
@@ -78,6 +60,29 @@ const outline = [
   ["3章", "列国审判与锡安的荣耀", "Ch. 3", "Nations Judged; Zion Glorified"],
 ];
 
+const theology = {
+  title_zh: `核心神学：耶和华的日子与圣灵的浇灌`,
+  title_en: `Core Theology: The Day of the LORD and the Outpouring of the Spirit`,
+  content_zh: `约珥书以一场蝗灾为起点，展开了旧约中关于"耶和华的日子"和圣灵浇灌最集中的预言。
+
+第一，耶和华的日子。"耶和华的日子大而可畏，谁能当得起呢？"（2:11）。"耶和华的日子"是旧约先知的核心概念——神亲自介入历史施行审判与拯救的时刻。蝗灾只是预尝，真正的"耶和华的日子"将是终末的审判。这个概念在新约中被应用到基督的再来（帖前5:2"主的日子来到，好像夜间的贼一样"）。
+
+第二，圣灵浇灌的应许。"以后，我要将我的灵浇灌凡有血气的。你们的儿女要说预言，你们的老年人要做异梦，少年人要见异象"（2:28）。彼得在五旬节直接引用这段经文（徒2:16-21），宣告圣灵降临的应验。这是旧约中最重要的圣灵预言——圣灵不再只临到少数先知和君王，而是浇灌在"凡有血气的"身上。改革宗神学强调：五旬节不是一次性的超自然事件，而是新约时代圣灵普遍内住的开端。
+
+第三，悔改的呼召。"你们要撕裂心肠，不撕裂衣服，归向耶和华你们的神；因为祂有恩典，有怜悯，不轻易发怒，有丰盛的慈爱"（2:13）。"撕裂心肠"与"撕裂衣服"的对比是全书的精华——外在的宗教仪式（撕衣）不够，神要的是内心真实的破碎和悔改。
+
+第四，约沙法谷的审判。"万民啊，你们要预备！要上到约沙法谷，因为我必坐在那里审判四围的列国"（3:12原文直译）。终末的审判是对万国的——不只是以色列的仇敌，而是所有悖逆神的势力都要面对审判。但对神的子民来说，"耶和华是祂百姓的避难所"（3:16）。`,
+  content_en: `Joel begins with a locust plague and unfolds the Old Testament's most concentrated prophecy concerning "the Day of the LORD" and the outpouring of the Spirit.
+
+First, the Day of the LORD. "The day of the LORD is great and very terrible; and who can abide it?" (2:11). "The Day of the LORD" is a core concept of the Old Testament prophets — the moment when God personally intervenes in history to execute judgment and salvation. The locust plague was merely a foretaste; the true "Day of the LORD" will be the final judgment. This concept is applied in the New Testament to Christ's return (1 Thess 5:2, "the day of the Lord so cometh as a thief in the night").
+
+Second, the promise of the Spirit's outpouring. "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions" (2:28). Peter directly quoted this passage at Pentecost (Acts 2:16-21), declaring the Spirit's descent as its fulfillment. This is the Old Testament's most important prophecy of the Spirit — no longer limited to a few prophets and kings but poured out upon "all flesh." Reformed theology emphasizes: Pentecost was not a one-time supernatural event but the inauguration of the Spirit's universal indwelling in the New Testament era.
+
+Third, the call to repentance. "Rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness" (2:13). The contrast between "rending the heart" and "rending garments" is the book's essence — outward religious ritual (tearing clothes) is insufficient; God desires genuine inward brokenness and repentance.
+
+Fourth, the judgment in the Valley of Jehoshaphat. "Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about" (3:12). The final judgment encompasses all nations — not just Israel's enemies but all powers that rebel against God will face judgment. Yet for God's people, "the LORD will be the hope of his people" (3:16).`,
+};
+
 const keyVerse = {
   zh: `"以后，我要将我的灵浇灌凡有血气的。你们的儿女要说预言；你们的老年人要做异梦，少年人要见异象。"（约珥书 2:28）`,
   en: `"And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions." (Joel 2:28)`,
@@ -85,16 +90,28 @@ const keyVerse = {
 
 const info = { nameZh: `约珥书`, nameEn: `Joel`, author: `约珥`, date: `日期有争议`, chapters: `3章`, backHref: `/old-testament/minor-prophets`, backLabel: `小先知书`, bibleId: `JOL` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

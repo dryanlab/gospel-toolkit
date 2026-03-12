@@ -73,6 +73,29 @@ const outline = [
   ["9章", "坛旁的主与复兴应许", "Ch. 9", "Lord by the Altar; Restoration"],
 ];
 
+const theology = {
+  title_zh: `核心神学：社会公义与真正的敬拜`,
+  title_en: `Core Theology: Social Justice and True Worship`,
+  content_zh: `阿摩司是一个牧人和修理桑树的农夫，不是职业先知，却被神差遣向富裕而腐败的北国以色列发出最严厉的审判宣告。
+
+第一，公义如大水滚滚。"惟愿公平如大水滚滚，使公义如江河滔滔"（5:24）。这是全书最著名的宣告，也是马丁·路德·金最常引用的经文之一。阿摩司揭露了北国的罪：富人欺压穷人、法庭腐败、商人用诡诈的天平欺骗买家。神的公义要求社会正义——信仰不能与日常生活的公义脱节。改革宗传统强调：教会不仅关心灵魂的得救，也关心社会的公义，因为神是全地的主。
+
+第二，宗教仪式不能替代公义。"我厌恶你们的节期……你们虽然向我献燔祭和素祭，我却不悦纳"（5:21-22）。以色列人在伯特利和吉甲热心敬拜，但同时压榨穷人。阿摩司宣告：没有公义的敬拜是对神的侮辱。这与以赛亚1章、弥迦6:8的信息一脉相承——神要的不是更多的祭物，而是更多的公义。
+
+第三，神的拣选带来更大的责任。"在地上万族中，我只认识你们，因此我必追讨你们的一切罪孽"（3:2）。被拣选不是特权的保障，而是责任的加重。以色列以为自己是神的选民就可以免于审判——阿摩司彻底粉碎了这种"廉价的拣选观"。"多给谁，就向谁多取"（路12:48）。
+
+第四，大卫倒塌帐幕的重建。"到那日，我必建立大卫倒塌的帐幕"（9:11）。雅各在使徒行传15:16-17引用这段经文，宣告外邦人归信基督正是这预言的应验。阿摩司以审判开始，以复兴结束——大卫之约不会永远倒塌，弥赛亚必将重建。`,
+  content_en: `Amos was a herdsman and dresser of sycamore trees — not a professional prophet — yet God sent him to pronounce the harshest judgment against the wealthy and corrupt northern kingdom of Israel.
+
+First, justice rolling like waters. "But let judgment run down as waters, and righteousness as a mighty stream" (5:24). This is the book's most famous declaration and one of Martin Luther King Jr.'s most quoted scriptures. Amos exposed the north's sins: the rich oppressing the poor, corrupt courts, merchants cheating buyers with deceitful scales. God's righteousness demands social justice — faith cannot be disconnected from justice in daily life. The Reformed tradition emphasizes: the church cares not only for the salvation of souls but for social justice, because God is Lord of all the earth.
+
+Second, religious ritual cannot substitute for justice. "I hate, I despise your feast days... Though ye offer me burnt offerings and your meat offerings, I will not accept them" (5:21-22). Israel worshipped zealously at Bethel and Gilgal while simultaneously oppressing the poor. Amos declared: worship without justice is an insult to God. This aligns with Isaiah 1 and Micah 6:8 — God wants not more sacrifices but more justice.
+
+Third, God's election brings greater responsibility. "You only have I known of all the families of the earth: therefore I will punish you for all your iniquities" (3:2). Election is not a guarantee of privilege but an increase of responsibility. Israel assumed that being God's chosen people exempted them from judgment — Amos utterly shattered this "cheap election." "Unto whomsoever much is given, of him shall be much required" (Luke 12:48).
+
+Fourth, the rebuilding of David's fallen tabernacle. "In that day will I raise up the tabernacle of David that is fallen" (9:11). James quoted this at the Jerusalem Council (Acts 15:16-17), declaring that Gentile conversion to Christ is this prophecy's fulfillment. Amos begins with judgment and ends with restoration — the Davidic covenant will not remain fallen forever; the Messiah will rebuild.`,
+};
+
 const keyVerse = {
   zh: `"惟愿公平如大水滚滚，使公义如江河滔滔。"（阿摩司书 5:24）`,
   en: `"But let judgment run down as waters, and righteousness as a mighty stream." (Amos 5:24)`,
@@ -80,16 +103,28 @@ const keyVerse = {
 
 const info = { nameZh: `阿摩司书`, nameEn: `Amos`, author: `阿摩司`, date: `约公元前760年`, chapters: `9章`, backHref: `/old-testament/minor-prophets`, backLabel: `小先知书`, bibleId: `AMO` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

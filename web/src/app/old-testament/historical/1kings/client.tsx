@@ -41,8 +41,26 @@ After Solomon's death, his son Rehoboam refused to lighten the people's burdens,
 Jeroboam set up golden calves at Dan and Bethel, saying: "It is too much for you to go up to Jerusalem: behold thy gods, O Israel, which brought thee up out of the land of Egypt" (12:28) — a replay of the golden calf sin of Exodus 32. This became the perpetual root sin of the northern kingdom.`,
   },
   {
-    title_zh: `三、以利亚——与巴力争战的先知（17-22章）`,
-    title_en: `III. Elijah — The Prophet Who Contended with Baal (Ch. 17–22)`,
+    title_zh: `三、南北分裂与诸王的兴衰（13-16章）`,
+    title_en: `III. The Divided Kingdom and the Rise and Fall of Kings (Ch. 13–16)`,
+    content_zh: `王国分裂之后，列王纪上用四章记载了南北两国早期诸王的兴衰。这段历史的节奏很快，因为作者的评判标准始终如一：是否忠于耶和华。
+
+北国以色列从一开始就走上了偏路。耶罗波安设立金牛犊，后来的每一位北国君王都延续了"耶罗波安使以色列人犯罪的那罪"（15:34）。拿答、巴沙、以拉、心利——北国的王位更替充满了阴谋和谋杀，没有一个稳定的王朝，因为离弃神的国度不可能有真正的平安。暗利虽然在政治上强大（建造了撒马利亚城），但圣经对他的评价只有一句："行耶和华眼中看为恶的事，比他以前的列王更甚"（16:25）。
+
+南国犹大稍好，但也不稳定。亚撒是少有的敬虔王，"行耶和华眼中看为正的事"（15:11），除去偶像甚至废了太后玛迦的位。但他晚年却依靠亚兰王而不依靠神（代下16:7-9），留下了遗憾。
+
+这段历史的核心教训是：人间王朝的兴衰不是政治博弈的结果，而是神盟约审判的运作。忠于耶和华的得蒙保守，背弃盟约的必遭倾覆。"耶罗波安的罪"成了整个北国历史的定调——一个错误的起点决定了整条道路的方向。`,
+    content_en: `After the kingdom divided, 1 Kings devotes four chapters to the early kings of both nations. The narrative moves quickly because the author's criterion of evaluation is always the same: faithfulness to the LORD.
+
+The northern kingdom of Israel went astray from the start. Jeroboam established the golden calves, and every subsequent northern king perpetuated "the sin of Jeroboam wherewith he made Israel to sin" (15:34). Nadab, Baasha, Elah, Zimri — the northern throne changed hands through conspiracies and assassinations, with no stable dynasty, because a kingdom that forsakes God can never have true peace. Omri, though politically powerful (he built Samaria), receives only one biblical verdict: "wrought evil in the eyes of the LORD, and did worse than all that were before him" (16:25).
+
+The southern kingdom of Judah fared somewhat better but was also unstable. Asa was a rare godly king who "did that which was right in the eyes of the LORD" (15:11), removing idols and even deposing the queen mother Maachah. Yet in his later years he relied on the king of Aram rather than on God (2 Chr 16:7-9), ending with regret.
+
+The core lesson of this section is: the rise and fall of human dynasties is not the result of political maneuvering but the operation of God's covenant judgment. Those faithful to the LORD are preserved; those who break the covenant are overthrown. "The sin of Jeroboam" set the tone for the entire history of the north — a wrong starting point determines the direction of the entire path.`,
+  },
+  {
+    title_zh: `四、以利亚——与巴力争战的先知（17-22章）`,
+    title_en: `IV. Elijah — The Prophet Who Contended with Baal (Ch. 17–22)`,
     content_zh: `以利亚是旧约中最伟大的先知之一，他突然出现在经文中，没有家谱介绍——"基列寄居的提斯比人以利亚"（17:1）。他宣告旱灾审判亚哈王和耶洗别推行的巴力崇拜。
 
 迦密山之战（18章）是旧约最戏剧性的场面之一。以利亚独自面对八百五十位巴力和亚舍拉的先知。"你们心持两意要到几时呢？若耶和华是神，就当顺从耶和华；若巴力是神，就当顺从巴力"（18:21）。他挑战百姓不要在两者之间犹疑不决。最终耶和华降火烧尽燔祭和坛上的水，百姓俯伏说"耶和华是神！耶和华是神！"
@@ -58,36 +76,6 @@ Yet after the great victory on Carmel, Elijah fled into the wilderness under Jez
 
 King Ahab coveted Naboth's vineyard and allowed Jezebel to engineer Naboth's murder (ch. 21). Elijah pronounced judgment on Ahab's house: "In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine" (21:19). Ahab temporarily repented and God delayed the judgment; but it would surely be fulfilled in the days of his son Joram.`,
   },
-
-{
-    title_zh: `四、以利亚与以利沙：先知对抗王权（17-22章）`,
-    title_en: `IV. Elijah and Elisha: Prophets Against Royal Power (Ch. 17-22)`,
-    content_zh: `列王纪上的后半部被先知以利亚所主导。迦密山上的对决（18章）是旧约最戏剧性的场面之一——以利亚独自面对450个巴力先知，"耶和华是神"的火从天降下（18:38），百姓俯伏说："耶和华是神！耶和华是神！"
-
-然而在大胜之后，以利亚竟然因耶洗别的威胁逃到旷野，求死说"耶和华啊，罢了！求你取我的性命"（19:4）。信心的高峰后紧跟灵性的低谷——这是许多事奉者的真实经历。神没有责备他，而是用"微小的声音"（19:12）来恢复他。
-
-亚哈王夺取拿伯的葡萄园（21章）是王权腐败的极端案例。以利亚宣告审判——"狗在何处舔拿伯的血，也必在何处舔你的血"（21:19）。先知的职分就是对权力说真话，不管代价如何。`,
-    content_en: `The latter half of 1 Kings is dominated by the prophet Elijah. The confrontation on Mount Carmel (ch. 18) is one of the Old Testament's most dramatic scenes -- Elijah alone against 450 prophets of Baal; "the fire of the LORD fell" (18:38), and the people fell on their faces: "The LORD, he is the God!"
-
-Yet after this great victory, Elijah fled to the wilderness because of Jezebel's threat, praying for death: "It is enough; now, O LORD, take away my life" (19:4). A spiritual valley immediately following a peak of faith -- this is the real experience of many servants of God. The LORD did not rebuke him but restored him with "a still small voice" (19:12).
-
-Ahab's seizure of Naboth's vineyard (ch. 21) is an extreme case of royal corruption. Elijah pronounced judgment: "In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine" (21:19). The prophet's calling is to speak truth to power, regardless of cost.`,
-  }
-,
-{
-    title_zh: `五、所罗门的兴衰：智慧不能代替顺服（1-11章）`,
-    title_en: `V. Solomon's Rise and Fall: Wisdom Cannot Substitute for Obedience (Ch. 1-11)`,
-    content_zh: `所罗门向神求智慧而非富贵（3:9-12），神大悦并加赐他一切。他建造了辉煌的圣殿（6-7章），献殿祷告（8章）是旧约最伟大的公祷之一。然而这一切荣耀的背后，衰败的种子已经播下。
-
-"所罗门王在法老的女儿之外，又宠爱许多外邦女子"（11:1），她们"引诱他的心去随从别神"（11:4）。最智慧的人犯了最愚昧的罪——不是不知道对错，而是明知故犯。智慧是恩赐，顺服是选择；恩赐不能代替选择。
-
-所罗门的失败导致了王国的分裂（12章）。耶罗波安的金牛犊（12:28-29）——"以色列人哪，你们上耶路撒冷去实在是难，这就是领你们出埃及地的神"——成为北国永远的罪。列王纪上教导：属灵的遗产不能被继承，每一代人都必须自己选择顺服。`,
-    content_en: `Solomon asked God for wisdom rather than riches (3:9-12); God was pleased and added everything else. He built the magnificent temple (ch. 6-7); the dedication prayer (ch. 8) is one of the Old Testament's greatest public prayers. Yet behind all this glory, seeds of decay were already sown.
-
-"King Solomon loved many strange women" besides Pharaoh's daughter (11:1), and they "turned away his heart after other gods" (11:4). The wisest man committed the most foolish sin -- not from ignorance but deliberate choice. Wisdom is a gift; obedience is a choice. Gifts cannot substitute for choices.
-
-Solomon's failure led to the kingdom's division (ch. 12). Jeroboam's golden calves (12:28-29) -- "It is too much for you to go up to Jerusalem: behold thy gods, O Israel, which brought thee up out of the land of Egypt" -- became the northern kingdom's perpetual sin. 1 Kings teaches: spiritual heritage cannot be inherited; each generation must choose obedience for itself.`,
-  }
 ];
 
 const overview = {
@@ -116,6 +104,29 @@ const outline = [
   ["22章", "亚哈阵亡", "Ch. 22", "Ahab's Death"],
 ];
 
+const theology = {
+  title_zh: `核心神学：圣殿与国度的分裂`,
+  title_en: `Core Theology: The Temple and the Division of the Kingdom`,
+  content_zh: `列王纪上从大卫王朝的巅峰写到以色列国度的分裂，呈现了一个令人心碎的神学主题：人的不忠与神的信实之间的张力。
+
+第一，所罗门的圣殿——神同在的高峰。所罗门建殿是旧约叙事的高潮之一。"耶和华的荣光充满了殿"（8:11）——自从出埃及记会幕以来，神终于有了一座永久的居所。所罗门的献殿祷告（8章）是旧约中最伟大的祷告之一，其中包含了一个惊人的认信："天和天上的天尚且不足你居住的，何况我所建的这殿呢？"（8:27）——圣殿只是影子，无限的神不能被有限的建筑所容纳。这预表了约翰福音2:19-21耶稣说"你们拆毁这殿，我三日内要再建立起来"——基督的身体才是真正的圣殿。
+
+第二，智慧的有限与信仰的持守。所罗门求智慧而非富贵（3:9），神喜悦他。但智慧并不能保证信仰的忠贞——"所罗门年老的时候，他的妃嫔诱惑他的心去随从别神"（11:4）。世上最聪明的人也会在属灵上跌倒。这是一个严肃的警告：知识不等于敬虔，恩赐不等于品格。"自己以为站得稳的，须要谨慎，免得跌倒"（林前10:12）。
+
+第三，国度分裂——罪的后果。所罗门的拜偶像直接导致了国度的分裂（11:11-13）。耶罗波安在北国设立金牛犊——"以色列啊，这就是领你们出埃及地的神"（12:28），这是对出埃及记32章金牛犊事件的重演。历史在罪中循环，每一次都更加严重。
+
+第四，以利亚——孤独的见证人。在亚哈和耶洗别的黑暗统治下，以利亚成为神仅存的先知声音。迦密山上的对决（18章）是信仰与偶像的终极交锋："耶和华是神！耶和华是神！"但即使在这次伟大的胜利之后，以利亚也陷入绝望，逃到何烈山。神对他说"我在以色列人中为自己留下七千人，是未曾向巴力屈膝的"（19:18）——保罗在罗马书11:4引用这段话论"照着拣选的恩典，还有所留的余数"。神永远保守祂的余民。`,
+  content_en: `First Kings traces the arc from the pinnacle of David's dynasty to the division of Israel's kingdom, presenting a heartbreaking theological theme: the tension between human unfaithfulness and divine faithfulness.
+
+First, Solomon's Temple — the pinnacle of God's presence. Solomon's temple construction is one of the climaxes of Old Testament narrative. "The glory of the LORD had filled the house of the LORD" (8:11) — since the tabernacle of Exodus, God at last had a permanent dwelling. Solomon's dedicatory prayer (ch. 8) is one of the greatest prayers in the Old Testament, containing an astonishing confession: "Behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?" (8:27) — the temple is but a shadow; the infinite God cannot be contained in a finite building. This prefigures John 2:19-21, where Jesus said "Destroy this temple, and in three days I will raise it up" — Christ's body is the true temple.
+
+Second, the limits of wisdom and perseverance in faith. Solomon asked for wisdom rather than riches (3:9), and God was pleased. But wisdom does not guarantee faithfulness — "when Solomon was old, his wives turned away his heart after other gods" (11:4). The wisest man on earth could still fall spiritually. This is a solemn warning: knowledge does not equal godliness; giftedness does not equal character. "Let him that thinketh he standeth take heed lest he fall" (1 Cor 10:12).
+
+Third, the division of the kingdom — the consequence of sin. Solomon's idolatry directly caused the kingdom's division (11:11-13). Jeroboam set up golden calves in the north — "Behold thy gods, O Israel, which brought thee up out of the land of Egypt" (12:28), a replay of the golden calf in Exodus 32. History cycles through sin, each iteration more severe.
+
+Fourth, Elijah — the solitary witness. Under the dark reign of Ahab and Jezebel, Elijah became God's sole prophetic voice. The confrontation on Mount Carmel (ch. 18) was the ultimate showdown between faith and idolatry: "The LORD, he is the God; the LORD, he is the God!" Yet even after this great victory, Elijah sank into despair and fled to Horeb. God told him, "I have left me seven thousand in Israel, all the knees which have not bowed unto Baal" (19:18) — Paul quotes this in Romans 11:4 regarding "a remnant according to the election of grace." God always preserves His remnant.`,
+};
+
 const keyVerse = {
   zh: `"所以求你赐我智慧，可以判断你的民，能辨别是非。不然，谁能判断这众多的民呢？"（列王纪上 3:9）`,
   en: `"Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?" (1 Kings 3:9)`,
@@ -123,16 +134,28 @@ const keyVerse = {
 
 const info = { nameZh: `列王纪上`, nameEn: `1 Kings`, author: `传统认为耶利米`, date: `约公元前970-850年`, chapters: `22章`, backHref: `/old-testament/historical`, backLabel: `历史书`, bibleId: `1KI` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

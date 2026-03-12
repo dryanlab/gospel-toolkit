@@ -116,6 +116,29 @@ const outline = [
   ["16章", `捐项与问安`, "Ch. 16", `The Collection and Greetings`]
 ];
 
+const theology = {
+  title_zh: `核心神学：十字架的智慧与教会的秩序`,
+  title_en: `Core Theology: The Wisdom of the Cross and the Order of the Church`,
+  content_zh: `哥林多前书是保罗写给一个问题重重的教会的书信——分裂、淫乱、诉讼、恩赐滥用——但保罗用十字架的智慧和复活的盼望来回应每一个问题。
+
+第一，十字架的愚拙就是神的智慧。"十字架的道理，在那灭亡的人为愚拙；在我们得救的人却为神的大能"（1:18）。哥林多人追求世俗的智慧和雄辩，保罗却宣告："我曾定了主意，在你们中间不知道别的，只知道耶稣基督并祂钉十字架"（2:2）。十字架翻转了世界的价值观——软弱中有能力，愚拙中有智慧，死亡中有生命。
+
+第二，身体的圣洁。"岂不知你们的身子就是圣灵的殿吗？"（6:19）。保罗不是禁欲主义者——他肯定婚姻中的身体关系（7章）——但他坚决反对淫乱，因为信徒的身体已经被基督用重价买赎，属于神。"你们要在身子上荣耀神"（6:20）。
+
+第三，爱的颂歌。"我若能说万人的方言，并天使的话语，却没有爱，我就成了鸣的锣、响的钹一般"（13:1）。哥林多前书13章不是婚礼上的浪漫诗——它是对恩赐争论的终极回答。哥林多人以说方言为荣，保罗说：没有爱，一切恩赐都是噪音。"爱是恒久忍耐，又有恩慈"（13:4）——这不是感觉，而是意志的选择和行动的坚持。
+
+第四，复活的盼望。"基督若没有复活，你们的信便是徒然"（15:17）。第15章是全圣经关于身体复活最完整的论述。复活不是灵魂脱离身体，而是身体的改变——"这必朽坏的总要变成不朽坏的"（15:53）。"死啊！你得胜的权势在哪里？死啊！你的毒钩在哪里？"（15:55）——基督的复活是对死亡最终的胜利。`,
+  content_en: `1 Corinthians is Paul's letter to a deeply troubled church — divisions, immorality, lawsuits, misuse of gifts — yet Paul addresses every problem with the wisdom of the cross and the hope of resurrection.
+
+First, the foolishness of the cross is God's wisdom. "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God" (1:18). The Corinthians pursued worldly wisdom and eloquence; Paul declared: "I determined not to know any thing among you, save Jesus Christ, and him crucified" (2:2). The cross inverts the world's values — power in weakness, wisdom in foolishness, life in death.
+
+Second, bodily holiness. "Know ye not that your body is the temple of the Holy Ghost?" (6:19). Paul is no ascetic — he affirms physical intimacy within marriage (ch. 7) — but he firmly opposes sexual immorality because the believer's body has been bought with a price and belongs to God. "Glorify God in your body" (6:20).
+
+Third, the hymn of love. "Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal" (13:1). 1 Corinthians 13 is not a romantic wedding poem — it is the ultimate answer to the gifts debate. The Corinthians boasted of speaking in tongues; Paul says: without love, every gift is noise. "Charity suffereth long, and is kind" (13:4) — this is not a feeling but a choice of the will and persistence of action.
+
+Fourth, the hope of resurrection. "If Christ be not raised, your faith is vain" (15:17). Chapter 15 is Scripture's most complete treatment of bodily resurrection. Resurrection is not the soul's escape from the body but the body's transformation — "this corruptible must put on incorruption" (15:53). "O death, where is thy sting? O grave, where is thy victory?" (15:55) — Christ's resurrection is death's ultimate defeat.`,
+};
+
 const keyVerse = {
   zh: `"如今常存的有信，有望，有爱，这三样，其中最大的是爱。"（哥林多前书 13:13）`,
   en: `"And now abideth faith, hope, charity, these three; but the greatest of these is charity." (1 Corinthians 13:13)`,
@@ -123,16 +146,28 @@ const keyVerse = {
 
 const info = { nameZh: `哥林多前书`, nameEn: `1 Corinthians`, author: `使徒保罗`, date: `约公元55年`, chapters: `16章`, backHref: `/new-testament/pauline`, backLabel: `保罗书信`, bibleId: `1CO` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

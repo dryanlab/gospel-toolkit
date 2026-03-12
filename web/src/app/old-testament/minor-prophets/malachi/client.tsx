@@ -54,24 +54,6 @@ Chapter 3:16 paints a beautiful picture of God-fearing people — "Then they tha
 
 The Old Testament ends with its final two verses — prophesying Elijah's coming before "the great and dreadful day of the LORD" (4:5). Jesus identified this as John the Baptist (Matt 11:14). The Old Testament's last voice points to the New Testament's first voice — John the Baptist crying in the wilderness.`,
   },
-  {
-    title_zh: `四、四百年沉默与旧约的完结`,
-    title_en: `IV. Four Hundred Years of Silence and the Old Testament's Close`,
-    content_zh: `玛拉基书不仅是旧约最后一卷书，也是旧约最后的声音。书末以"以利亚"的预言结束："我差以利亚先知在耶和华大而可畏之日未到以前、预先来到你们这里"（4:5）。然后是四百年的沉默——没有先知，没有新的启示，没有天使显现。
-
-这四百年（约公元前430年到公元前4年施洗约翰出现）在神学上被称为"两约之间"。圣经没有记载这段时期，但不是什么都没发生——正是在这段时间里，希腊化运动席卷中东，马加比家族带领犹太人反抗塞流古帝国，罗马帝国崛起……神在历史的幕后为弥赛亚的到来准备舞台。
-
-当施洗约翰终于在旷野呼喊"天国近了，你们应当悔改！"（太3:2），他就是玛拉基所预言的以利亚，旧约最后的声音由此得到回应。玛拉基书以"咒诅"结尾——"恐怕我来用咒诅击打这地"（4:6）——这是旧约对人类罪性最后的提醒。而新约的第一句话——"亚伯拉罕的后裔、大卫的子孙耶稣基督的家谱"（太1:1）——正是神对这咒诅的回答：弥赛亚来了，借着祂，咒诅被逆转，祝福临到万族。
-
-玛拉基书是旧约的终曲，也是新约序幕的最后一幕。整本旧约以"等待"结束，整本新约以"应验"开始。神的故事没有结束，只是进入了最高潮。`,
-    content_en: `Malachi is not only the Old Testament's last book but its final voice. It ends with the Elijah prophecy: "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD" (4:5, KJV). Then four hundred years of silence — no prophets, no new revelation, no angelic appearances.
-
-These four hundred years (c. 430 BC to the appearance of John the Baptist c. 4 BC) are theologically called the "intertestamental period." The Bible does not record this era, but it was not without event: Hellenization swept the Middle East, the Maccabees led the Jews against the Seleucid Empire, Rome rose to power — God behind history's curtain was preparing the stage for the Messiah's arrival.
-
-When John the Baptist finally cried in the wilderness, "Repent ye: for the kingdom of heaven is at hand" (Matt 3:2, KJV), he was the Elijah Malachi had prophesied, and the Old Testament's final voice received its answer. Malachi ends with "curse" — "lest I come and smite the earth with a curse" (4:6, KJV) — humanity's sin's last warning in the Old Testament. And the New Testament's first sentence — "The book of the generation of Jesus Christ, the son of David, the son of Abraham" (Matt 1:1, KJV) — is God's answer to that curse: the Messiah has come, and through Him the curse is reversed, blessing flowing to all nations.
-
-Malachi is the Old Testament's finale and the New Testament prologue's final act. The entire Old Testament ends with "waiting"; the entire New Testament begins with "fulfillment." God's story has not ended — it has entered its greatest climax.`,
-  },
 ];
 
 const overview = {
@@ -93,6 +75,29 @@ const outline = [
   ["4:4-6", "以利亚的预言", "4:4–6", "Prophecy of Elijah"],
 ];
 
+const theology = {
+  title_zh: `核心神学：盟约的信实与弥赛亚先锋的预告`,
+  title_en: `Core Theology: Covenant Faithfulness and the Herald of the Messiah`,
+  content_zh: `玛拉基书是旧约的最后一卷，写在归回之后百余年，百姓的灵性已再度低迷。它是旧约向新约的过渡，最后的声音在呼唤弥赛亚的到来。
+
+第一，"我曾爱你们"。全书以神的爱的宣告开始："我曾爱你们"（1:2）。但百姓的回应是冷漠的质疑："你在何事上爱我们呢？"这是信仰冷淡最典型的症状——不是否认神的存在，而是质疑神的爱。玛拉基的整本书就是对这个质疑的回应：神的爱是真实的，但你们的回应是虚假的。
+
+第二，献祭的败坏——给神最差的。"你们将瞎眼的献为祭物，这不为恶吗？将瘸腿的、有病的献上，这不为恶吗？你献给你的省长，他岂喜悦你？"（1:8）。祭司们把最差的牲畜献给神，把好的留给自己。玛拉基的逻辑简单而尖锐：你不敢这样对待世上的官员，却这样对待宇宙的创造者。这对今天的教会仍是严厉的质问：我们把最好的时间、精力、才华给了什么？
+
+第三，什一奉献与神的挑战。"万军之耶和华说：你们要将当纳的十分之一全然送入仓库……以此试试我，是否为你们敞开天上的窗户，倾福与你们"（3:10）。这是全圣经中唯一一处神主动邀请人来"试验"祂的经文。奉献不是交易，而是信心的操练——当我们把属于神的归给神，就经历祂供应的信实。
+
+第四，以利亚的预告。"看哪，耶和华大而可畏之日未到以前，我必差遣先知以利亚到你们那里"（4:5）。这是旧约的最后一个预言——四百年的沉默之后，施洗约翰以以利亚的灵和能力出现（路1:17），为基督预备道路。旧约以等待结束，新约以应验开始。`,
+  content_en: `Malachi is the last book of the Old Testament, written over a century after the return from exile, when the people's spiritual vitality had again declined. It is the transition from Old to New Testament — the final voice crying out for the Messiah's coming.
+
+First, "I have loved you." The book opens with God's declaration of love: "I have loved you, saith the LORD" (1:2). But the people respond with cold skepticism: "Wherein hast thou loved us?" This is the classic symptom of spiritual apathy — not denying God's existence but questioning His love. Malachi's entire book responds to this challenge: God's love is real, but your response is fraudulent.
+
+Second, corrupt sacrifices — giving God the worst. "If ye offer the blind for sacrifice, is it not evil? and if ye offer the lame and sick, is it not evil? offer it now unto thy governor; will he be pleased with thee?" (1:8). The priests offered the worst animals to God and kept the best for themselves. Malachi's logic is simple and sharp: you would not dare treat a human governor this way, yet you treat the Creator of the universe thus. This remains a piercing question for today's church: What receives our best time, energy, and talent?
+
+Third, the tithe and God's challenge. "Bring ye all the tithes into the storehouse... and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing" (3:10). This is the only passage in all of Scripture where God actively invites people to "test" Him. Giving is not a transaction but an exercise of faith — when we return to God what belongs to God, we experience His faithful provision.
+
+Fourth, the prophecy of Elijah. "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD" (4:5). This is the Old Testament's final prophecy — after four hundred years of silence, John the Baptist appeared "in the spirit and power of Elias" (Luke 1:17), preparing the way for Christ. The Old Testament ends with waiting; the New Testament begins with fulfillment.`,
+};
+
 const keyVerse = {
   zh: `"万军之耶和华说：你们要将当纳的十分之一全然送入仓库，使我家有粮，以此试试我，是否为你们敞开天上的窗户，倾福与你们，甚至无处可容。"（玛拉基书 3:10）`,
   en: `"Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it." (Malachi 3:10)`,
@@ -100,16 +105,28 @@ const keyVerse = {
 
 const info = { nameZh: `玛拉基书`, nameEn: `Malachi`, author: `玛拉基`, date: `约公元前460-430年`, chapters: `4章`, backHref: `/old-testament/minor-prophets`, backLabel: `小先知书`, bibleId: `MAL` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

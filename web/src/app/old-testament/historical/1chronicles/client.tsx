@@ -41,53 +41,37 @@ The Davidic Covenant is restated here (ch. 17), paralleling 2 Samuel 7. David's 
 Most distinctive is David's preparation for the temple (ch. 22–29). Though God forbade David to build it (because "thou hast shed blood abundantly," 22:8), David poured all his effort into preparing materials and organization. He told Solomon: "Be strong and of good courage, and do it: fear not, nor be dismayed: for the LORD God, even my God, will be with thee" (28:20). What David could not do, he prepared for the next generation — this is the vision of a spiritual leader.`,
   },
   {
-    title_zh: `三、大卫的奉献——一切都从你而来（29章）`,
-    title_en: `III. David's Offering — All Things Come from Thee (Ch. 29)`,
-    content_zh: `历代志上第29章是大卫生命的巅峰之一。大卫带头奉献自己的私产为圣殿预备，众首领也甘心乐意地奉献。大卫的祷告是旧约中最美的奉献祷告：
+    title_zh: `三、利未人的职分与敬拜的秩序（23-27章）`,
+    title_en: `III. The Levitical Ministry and the Order of Worship (Ch. 23–27)`,
+    content_zh: `历代志上23-27章记载了大卫为圣殿敬拜所做的周详安排。这五章在列王纪中找不到——它们是历代志作者独有的材料，反映了被掳归回后犹太社区对敬拜秩序的高度重视。
 
-"耶和华我们的父啊，你是应当称颂的，从亘古直到永远……因为万物都从你而来，我们把从你而得的献给你。我们在你面前是客旅，是寄居的，与我们列祖一样。我们在世的日子如影儿，不能长存"（29:10-15）。
+大卫将利未人分为四类事奉（23:4-5）：管理圣殿事务的、作官长和士师的、守门的、用大卫所造之乐器颂赞耶和华的。音乐事奉占据了突出地位——亚萨、希幔、耶杜顿三大诗班的编排（25章）表明敬拜不是即兴的，而是有秩序、有组织、有传承的。
 
-"万物都从你而来，我们把从你而得的献给你"——这一句话定义了基督徒奉献的本质。我们不是在给神什么，而是将从神手中领受的归还给祂。这驱除了一切骄傲和功劳感。
+祭司被分为二十四个班次轮流供职（24章），这一制度一直延续到新约时代——路加福音1:5记载撒迦利亚属于"亚比雅班"。守门人的职分（26章）看似卑微，却是保护圣殿圣洁不可或缺的。军事和行政的组织（27章）表明大卫治理的智慧——敬拜的神也是秩序的神，"凡事都要规规矩矩地按着次序行"（林前14:40）。
 
-大卫的一生以敬拜结束。他不是以军事胜利或政治成就画上句号，而是以带领全会众敬拜为最后的形象。历代志上教导我们：人生最重要的不是你做了什么，而是你如何敬拜。`,
-    content_en: `1 Chronicles 29 is one of the pinnacles of David's life. David led by offering his personal wealth for the temple; the leaders also gave willingly and joyfully. David's prayer is one of the most beautiful offertory prayers in the Old Testament:
+这些章节提醒教会：敬拜需要周全的预备和忠心的事奉者。每一个看似不起眼的职分——守门、歌唱、管理——在神眼中都是神圣的事奉。`,
+    content_en: `1 Chronicles 23-27 records David's thorough arrangements for temple worship. These five chapters have no parallel in Kings — they are unique to the Chronicler, reflecting the post-exilic community's deep concern for the order of worship.
 
-"Blessed be thou, LORD God of Israel our father, for ever and ever... for all things come of thee, and of thine own have we given thee. For we are strangers before thee, and sojourners, as were all our fathers: our days on the earth are as a shadow, and there is none abiding" (29:10–15).
+David divided the Levites into four categories of service (23:4-5): overseeing the work of the temple, serving as officers and judges, gatekeepers, and praising the LORD with instruments David had made. Musical ministry held a prominent place — the organization of three great choirs under Asaph, Heman, and Jeduthun (ch. 25) shows that worship was not spontaneous but ordered, organized, and transmitted through generations.
 
-"All things come of thee, and of thine own have we given thee" — this one sentence defines the essence of Christian giving. We are not giving God something of ours but returning what we have received from His hand. This banishes all pride and merit.
+The priests were divided into twenty-four courses serving in rotation (ch. 24), a system that continued into the New Testament era — Luke 1:5 records that Zechariah belonged to "the course of Abia." The gatekeepers' role (ch. 26), though seemingly humble, was indispensable for protecting the temple's holiness. The military and administrative organization (ch. 27) demonstrates David's governing wisdom — the God of worship is also the God of order: "Let all things be done decently and in order" (1 Cor 14:40).
 
-David's life ended in worship. He is last seen not as a military victor or political achiever but as one leading the whole assembly in worship. 1 Chronicles teaches us: the most important thing in life is not what you accomplished but how you worshipped.`,
+These chapters remind the church: worship requires thorough preparation and faithful servants. Every seemingly insignificant role — gatekeeping, singing, administration — is sacred service in God's eyes.`,
   },
+  {
+    title_zh: `四、大卫的遗命与奉献（28-29章）`,
+    title_en: `IV. David's Final Charge and Offering (Ch. 28–29)`,
+    content_zh: `历代志上的最后两章是大卫一生的高潮与谢幕。第28章，大卫在全以色列会众面前将圣殿的蓝图交给所罗门，这蓝图是"耶和华用手画出来使我明白的"（28:19）——圣殿不是人的设计，而是神的启示。大卫勉励所罗门："你当刚强壮胆去行。不要惧怕，也不要惊惶，因为耶和华神，就是我的神，与你同在"（28:20）。
 
-{
-    title_zh: `四、利未人的事奉与敬拜的秩序（23-27章）`,
-    title_en: `IV. The Levites' Service and the Order of Worship (Ch. 23-27)`,
-    content_zh: `历代志上用大量篇幅记录敬拜的秩序——利未人的班次（23章）、祭司的二十四班（24章）、歌唱者的编组（25章）、守门者和库管（26章）、军队和官员的编制（27章）。在其他历史书看来这是枯燥的行政细节，但在历代志的视角中，这是最重要的事。
+第29章记载了大卫和众领袖为圣殿的奉献。大卫首先以身作则，从自己的私产中拿出金银（29:3-4），然后众族长甘心乐意地奉献（29:6-8）。大卫的祷告（29:10-19）是全书的神学高潮："耶和华啊，尊大、能力、荣耀、强胜、威严都是你的……我算什么？我的民算什么？竟能如此乐意奉献？因为万物都从你而来，我们把从你而得的献给你"（29:11-14）。
 
-为什么？因为历代志写给被掳归回的以色列人，他们最需要知道的是：如何正确地敬拜神。没有王权的荣耀，没有帝国的版图，但圣殿的敬拜可以恢复。秩序不是束缚，而是尊重——对神圣洁的尊重。
+"万物都从你而来，我们把从你而得的献给你"——这是圣经中关于奉献最深刻的定义。我们不是在给神什么祂没有的东西，而是将祂原本赐给我们的归还给祂。真正的奉献不是损失，而是感恩；不是义务，而是特权。历代志上以这个奉献的高潮结束，预示了一个比所罗门圣殿更伟大的殿——基督的身体（约2:21）。`,
+    content_en: `The final two chapters of 1 Chronicles form the climax and curtain call of David's life. In chapter 28, David presented the temple blueprints to Solomon before all Israel — blueprints "made me understand in writing by his hand upon me" (28:19) — the temple was not a human design but a divine revelation. David encouraged Solomon: "Be strong and of good courage, and do it: fear not, nor be dismayed: for the LORD God, even my God, will be with thee" (28:20).
 
-大卫亲自设立诗班（25章），亚萨、希幔、耶杜顿的名字反复出现在诗篇的标题中。音乐不是敬拜的装饰，而是敬拜的核心。大卫知道，最好的艺术应当献给最伟大的神。`,
-    content_en: `1 Chronicles devotes extensive space to worship order -- Levitical divisions (ch. 23), the twenty-four priestly courses (ch. 24), singers' groups (ch. 25), gatekeepers and treasurers (ch. 26), military and civil officers (ch. 27). Other histories might view these as dry administrative details, but in Chronicles' perspective, this is what matters most.
+Chapter 29 records the offerings of David and the leaders for the temple. David led by example, contributing from his own private treasury (29:3-4); then the chief fathers gave willingly and joyfully (29:6-8). David's prayer (29:10-19) is the theological climax of the entire book: "Thine, O LORD, is the greatness, and the power, and the glory, and the victory, and the majesty... But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of thee, and of thine own have we given thee" (29:11-14).
 
-Why? Because Chronicles was written for Israelites returned from exile, who most needed to know: how to worship God properly. Without royal glory or imperial territory, temple worship could still be restored. Order is not bondage but reverence -- respect for God's holiness.
-
-David personally appointed the choir (ch. 25); the names Asaph, Heman, and Jeduthun appear repeatedly in Psalm superscriptions. Music is not worship's decoration but its core. David knew the finest art should be offered to the greatest God.`,
-  }
-,
-{
-    title_zh: `五、大卫的遗命与圣殿的预备（28-29章）`,
-    title_en: `V. David's Final Charge and Temple Preparations (Ch. 28-29)`,
-    content_zh: `历代志上最后两章是大卫的谢幕。他把圣殿的蓝图交给所罗门——"这一切工作的样式都是耶和华用手划出来使我明白的"（28:19）。圣殿不是大卫的设计，而是神的设计；大卫只是忠心的传递者。
-
-大卫在众人面前的祷告是旧约最壮丽的颂赞之一："耶和华啊，尊大、能力、荣耀、强胜、威严都是你的；凡天上地下的都是你的；国度也是你的"（29:11）。紧接着他说："我算什么，我的民算什么，竟能如此乐意奉献？因为万物都从你而来，我们把从你而得的献给你"（29:14）。
-
-这是一切奉献的神学基础——我们不是在给神什么，而是在还给他本来就属于他的。大卫以感恩和谦卑结束了他的一生。历代志上从家谱开始，以颂赞结束——整卷书的信息是：神在历史中做工，目的是在他的百姓中间建立永恒的敬拜。`,
-    content_en: `The final two chapters of 1 Chronicles are David's farewell. He handed the temple blueprints to Solomon -- "All this, said David, the LORD made me understand in writing by his hand upon me" (28:19). The temple was not David's design but God's; David was merely the faithful transmitter.
-
-David's prayer before the assembly is one of the Old Testament's most majestic praises: "Thine, O LORD, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom" (29:11). He continued: "But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of thee, and of thine own have we given thee" (29:14).
-
-This is the theological foundation of all giving -- we are not giving God anything but returning what already belongs to Him. David ended his life with gratitude and humility. 1 Chronicles begins with genealogies and ends with praise -- the entire book's message: God works in history to establish eternal worship among His people.`,
-  }
+"All things come of thee, and of thine own have we given thee" — this is Scripture's most profound definition of offering. We are not giving God something He lacks; we are returning what He originally gave us. True giving is not loss but gratitude; not obligation but privilege. 1 Chronicles concludes with this climax of offering, foreshadowing a temple greater than Solomon's — the body of Christ (John 2:21).`,
+  },
 ];
 
 const overview = {
@@ -116,6 +100,29 @@ const outline = [
   ["28-29章", "大卫的遗训与奉献", "Ch. 28–29", "David's Charge and Offering"],
 ];
 
+const theology = {
+  title_zh: `核心神学：敬拜与大卫之约的延续`,
+  title_en: `Core Theology: Worship and the Continuation of the Davidic Covenant`,
+  content_zh: `历代志上是被掳归回后写成的，目的是向回归的犹太社区重新确认他们的身份：你们是大卫之约的继承人，敬拜的子民。
+
+第一，家谱的神学意义。九章家谱不是无聊的名单，而是盟约延续的证明。从亚当到大卫的谱系（1-3章）表明：神从创世之初就有一条不断的线索，贯穿历史，指向弥赛亚。每一个名字都是神信实的见证——祂没有忘记祂的应许。马太福音1章耶稣的家谱正是历代志家谱的延续和成全。
+
+第二，敬拜的核心地位。历代志上用了大量篇幅记载大卫为圣殿敬拜所做的预备：利未人的班次、诗班的设立、乐器的配置。大卫的感恩诗（16:8-36）是全书的神学高峰："要记念祂向以色列人所行的奇事……祂是耶和华我们的神"（16:12-14）。改革宗传统特别强调敬拜的"规范原则"——敬拜必须按照神的吩咐，不是人的发明。历代志为圣殿敬拜建立了详细的规范，预表新约教会的有序敬拜。
+
+第三，大卫——不是无瑕的英雄，而是悔改的榜样。历代志省略了大卫与拔示巴的丑闻（撒下11-12章），但记录了数点民数的罪（21章）。大卫购买了阿珥楠的禾场建坛献祭——这正是日后圣殿的地点。"我不用你的东西白白献给耶和华"（21:24）——真正的奉献必须付出代价，这预表基督在各各他付出终极代价。
+
+第四，神在历史中的主权。历代志的叙事视角始终是神学性的：战争的胜败、国王的兴衰，背后都是神的手在运作。"战争全在乎耶和华"（5:22）。被掳归回的社区需要知道：你们的历史不是偶然的，你们的未来掌握在信实之神的手中。`,
+  content_en: `First Chronicles was written after the return from exile to reaffirm the identity of the restored Jewish community: you are heirs of the Davidic covenant and a people of worship.
+
+First, the theological significance of genealogies. The nine chapters of genealogies are not tedious lists but proof of covenant continuity. The lineage from Adam to David (ch. 1-3) demonstrates that from creation God maintained an unbroken thread through history pointing to the Messiah. Each name is a witness to God's faithfulness — He has not forgotten His promise. The genealogy of Jesus in Matthew 1 is the continuation and fulfillment of Chronicles' genealogy.
+
+Second, the centrality of worship. First Chronicles devotes extensive space to David's preparations for temple worship: the divisions of Levites, the establishment of choirs, the arrangement of instruments. David's psalm of thanksgiving (16:8-36) is the book's theological pinnacle: "Remember his marvellous works... He is the LORD our God" (16:12-14). The Reformed tradition particularly emphasizes the "regulative principle" of worship — worship must follow God's commands, not human invention. Chronicles establishes detailed norms for temple worship, prefiguring the ordered worship of the New Testament church.
+
+Third, David — not a flawless hero but a model of repentance. Chronicles omits the Bathsheba scandal (2 Sam 11-12) but records the sin of the census (ch. 21). David purchased the threshing floor of Ornan and built an altar — the very site of the future temple. "I will not take that which is thine for the LORD, nor offer burnt offerings without cost" (21:24) — true offering must cost something, prefiguring Christ's ultimate cost at Calvary.
+
+Fourth, God's sovereignty in history. Chronicles' narrative perspective is consistently theological: behind victories and defeats, the rise and fall of kings, God's hand is always at work. "The battle was of God" (5:22). The post-exilic community needed to know: your history is not accidental; your future is held in the hands of a faithful God.`,
+};
+
 const keyVerse = {
   zh: `"因为万物都从你而来，我们把从你而得的献给你。"（历代志上 29:14）`,
   en: `"For all things come of thee, and of thine own have we given thee." (1 Chronicles 29:14)`,
@@ -123,16 +130,28 @@ const keyVerse = {
 
 const info = { nameZh: `历代志上`, nameEn: `1 Chronicles`, author: `传统认为以斯拉`, date: `约公元前450-400年`, chapters: `29章`, backHref: `/old-testament/historical`, backLabel: `历史书`, bibleId: `1CH` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

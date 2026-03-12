@@ -119,6 +119,29 @@ const outline = [
   ["24章", "数点百姓与亚劳拿禾场", "Ch. 24", "Census; Araunah's Threshing Floor"],
 ];
 
+const theology = {
+  title_zh: `核心神学：大卫之约与君王的罪`,
+  title_en: `Core Theology: The Davidic Covenant and the Sin of Kings`,
+  content_zh: `撒母耳记下围绕一个核心事件展开：大卫之约（7章）。这个约不仅塑造了以色列的历史，更是整个弥赛亚盼望的根基。
+
+第一，大卫之约——永恒国度的应许。"你的家和你的国必在我面前永远坚立。你的国位也必坚定，直到永远"（7:16）。大卫想为神建造殿宇，神却反过来应许为大卫建立"家室"（dynasty）。这个约是无条件的——不取决于大卫后裔的表现，而取决于神的信实。即使所罗门犯罪，神也说"我却不将我的慈爱全然收回"（7:15）。路加福音1:32-33天使对马利亚说"主神要把祂祖大卫的位给祂……祂的国也没有穷尽"——基督是大卫之约的终极应验。
+
+第二，君王也在律法之下。大卫与拔示巴的罪（11-12章）是全书的神学转折点。王犯了罪——谋杀和奸淫，以色列最伟大的王也不能凌驾于神的律法之上。拿单先知的指控"你就是那人！"（12:7）确立了一个根本原则：在神面前没有人享有豁免权。改革宗传统特别强调这一点——"Lex Rex"（律法为王），不是"Rex Lex"（王为律法）。
+
+第三，罪的代际传递。大卫犯奸淫之后，他的家庭陷入连锁反应的悲剧：暗嫩强暴他玛，押沙龙杀暗嫩又叛变，亚多尼雅争夺王位。"刀剑必永不离开你的家"（12:10）——罪的后果不会因为被赦免而消失。恩典赦免了罪的刑罚，但罪的后果仍在历史中运作。这是对"廉价恩典"最有力的反驳。
+
+第四，诗篇51——悔改的范式。大卫在被拿单指控后写下诗篇51："神啊，求你为我造清洁的心，使我里面重新有正直的灵"（诗51:10）。这首诗成为全部圣经中悔改的经典表达。大卫不找借口、不推责任，完全承认自己的罪"唯独得罪了你"（51:4）。真正的悔改不是后悔被发现，而是为得罪圣洁的神而忧伤。`,
+  content_en: `Second Samuel revolves around one central event: the Davidic covenant (ch. 7). This covenant not only shaped Israel's history but forms the foundation of the entire messianic hope.
+
+First, the Davidic covenant — the promise of an eternal kingdom. "Thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever" (7:16). David wanted to build a house for God, but God instead promised to build David a "house" (dynasty). This covenant is unconditional — depending not on the performance of David's descendants but on God's faithfulness. Even when Solomon sinned, God said "my mercy shall not depart away from him" (7:15). In Luke 1:32-33, the angel told Mary, "The Lord God shall give unto him the throne of his father David... and of his kingdom there shall be no end" — Christ is the ultimate fulfillment of the Davidic covenant.
+
+Second, even kings are under the law. David's sin with Bathsheba (ch. 11-12) is the book's theological turning point. The king sinned — murder and adultery; Israel's greatest king was not above God's law. Nathan's accusation, "Thou art the man!" (12:7), established a fundamental principle: before God, no one has immunity. The Reformed tradition particularly emphasizes this — "Lex Rex" (the law is king), not "Rex Lex" (the king is law).
+
+Third, the intergenerational transmission of sin. After David's adultery, his family descended into a chain reaction of tragedy: Amnon violated Tamar, Absalom killed Amnon and then rebelled, Adonijah contested the throne. "The sword shall never depart from thine house" (12:10) — the consequences of sin do not vanish because forgiveness has been granted. Grace pardons sin's penalty, but sin's consequences continue to operate in history. This is the most powerful rebuttal of "cheap grace."
+
+Fourth, Psalm 51 — the paradigm of repentance. After Nathan's confrontation, David wrote Psalm 51: "Create in me a clean heart, O God; and renew a right spirit within me" (Ps 51:10). This psalm became the classic expression of repentance in all of Scripture. David made no excuses, shifted no blame, but fully acknowledged his sin — "Against thee, thee only, have I sinned" (51:4). True repentance is not regret at being caught but grief at having offended a holy God.`,
+};
+
 const keyVerse = {
   zh: `"你的家和你的国必在我面前永远坚立。你的国位也必坚定，直到永远。"（撒母耳记下 7:16）`,
   en: `"And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever." (2 Samuel 7:16)`,
@@ -126,16 +149,28 @@ const keyVerse = {
 
 const info = { nameZh: `撒母耳记下`, nameEn: `2 Samuel`, author: `拿单、迦得`, date: `约公元前1010-970年`, chapters: `24章`, backHref: `/old-testament/historical`, backLabel: `历史书`, bibleId: `2SA` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

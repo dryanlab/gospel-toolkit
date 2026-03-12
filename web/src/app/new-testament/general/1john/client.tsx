@@ -19,8 +19,8 @@ const sections = [
 "God is light' — there is no middle ground between light and darkness. Having fellowship with God is incompatible with living in sin. John immediately adds that if we confess our sins, He is faithful and just to forgive us (1:9) — not that we deny sin, but that we confess it in the light and are cleansed in the light.`
     },
     {
-      title_zh: '二、爱神与爱弟兄：不可分割（3章）',
-      title_en: `II. Loving God and Loving Brothers: Inseparable`,
+      title_zh: '二、爱与真理的试验（3-4章）',
+      title_en: `II. The Tests of Love and Truth (Ch. 3–4)`,
       content_zh: `约翰一书最著名的主题是爱——神的爱与我们对弟兄的爱是不可分割的。
 
 "亲爱的弟兄啊，我们应当彼此相爱，因为爱是从神来的。凡有爱心的，都是由神而生，并且认识神。没有爱心的，就不认识神，因为神就是爱。"（约翰一书 4:7-8）
@@ -37,8 +37,8 @@ const sections = [
 John further says: "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?" (4:20). Loving God and loving brothers are one — they cannot be separated. Claiming to love God while hating brothers is self-deception.`
     },
     {
-      title_zh: '三、得胜世界的信心（5章）',
-      title_en: `III. The Faith That Overcomes the World`,
+      title_zh: '三、得胜世界的信心与永生的确据（5章）',
+      title_en: `III. Overcoming Faith and the Assurance of Eternal Life (Ch. 5)`,
       content_zh: `约翰一书的结尾充满了确据——知道自己有永生是可以的，信心是得胜世界的武器。
 
 "因为凡从神生的，就胜过世界；使我们胜了世界的，就是我们的信心。胜过世界的是谁呢？不是那信耶稣是神儿子的吗？"（约翰一书 5:4-5）
@@ -54,21 +54,7 @@ John further says: "If a man say, I love God, and hateth his brother, he is a li
 
 First John ends with a precious promise: "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life" (5:13). Eternal life is not something we only know after death — we can know it now. This is the purpose of First John: to give believers assurance.`
     },
-    {
-      title_zh: `四、试验真假先知与爱的完全（4章）`,
-      title_en: `IV. Testing Spirits and the Perfection of Love (Ch. 4)`,
-      content_zh: `第四章开门见山地要求信徒"不要信一切的灵，总要试验那些灵是否出于神"（4:1）。试验的标准是：承认耶稣基督是道成了肉身来的，那灵就是出于神的；凡不承认耶稣的，那灵不是出于神（4:2-3）。这个神学测试在约翰时代针对幻影说，在今日同样适用于一切否认基督真人真神的异端。
-
-然后约翰进入全书最深刻的神学宣告："神就是爱"（4:8）。这不只是说神有爱，而是说爱是神的本性。神的爱如何显明？"不是我们爱神，乃是神爱我们，差他的儿子为我们的罪作了挽回祭，这就是爱了"（4:10）。
-
-爱的逻辑产生了爱的义务："亲爱的弟兄啊，神既是这样爱我们，我们也当彼此相爱"（4:11）。我们爱，因为他先爱我们（4:19）——这是恩典伦理学的精华。爱达到完全的标志是"在审判的日子可以坦然无惧"（4:17）——因为爱里没有惧怕，完全的爱把惧怕除去。`,
-      content_en: `Chapter 4 immediately calls believers to "believe not every spirit, but try the spirits whether they are of God" (4:1). The test is: every spirit that confesses Christ has come in the flesh is of God; every spirit that does not confess Jesus is not of God (4:2-3). This theological test addressed Docetism in John's time and applies equally today to any heresy denying Christ's true humanity and divinity.
-
-John then arrives at the book's deepest theological declaration: "God is love" (4:8). This does not merely say God possesses love — love is God's very nature. How is God's love manifested? "Not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins" (4:10).
-
-Love's logic produces love's obligation: "Beloved, if God so loved us, we ought also to love one another" (4:11). "We love him, because he first loved us" (4:19) — this is the essence of grace ethics. The mark of love made perfect is "boldness in the day of judgment" (4:17) — for there is no fear in love; perfect love casts out fear.`
-    }
-  ];
+];
 
 const overview = {
   zh: `约翰一书是使徒约翰晚年所写，主要对象是小亚细亚的教会。约翰面对两大威胁：幻影说（否认基督真实的人性）和道德上的放纵主义。书信围绕三个核心主题：神是光（1-2章）、神是爱（3-4章）、神是生命（5章）。约翰用三重测试帮助信徒确认真信仰：神学的（承认基督道成肉身）、道德的（遵守命令）、社会的（爱弟兄）。`,
@@ -83,12 +69,42 @@ const outline = [
   ["5章", `得胜的信心与永生的确据`, "Ch. 5", `Overcoming Faith and the Assurance of Eternal Life`],
 ];
 
+const theology = {
+  title_zh: `核心神学：神就是光，神就是爱`,
+  title_en: `Core Theology: God Is Light, God Is Love`,
+  content_zh: `约翰一书围绕两个核心宣告展开——"神就是光"（1:5）和"神就是爱"（4:8）——以此检验真假信仰。
+
+第一，在光明中行走。"神就是光，在祂毫无黑暗"（1:5）。"我们若说是与神相交，却仍在黑暗里行，就是说谎话"（1:6）。约翰的逻辑很简单：如果你声称认识神却活在罪中，你就是骗子。真正与神相交的人行在光明中——不是说他不犯罪，而是说他不以罪为生活方式，并且"我们若认自己的罪，神是信实的，是公义的，必要赦免我们的罪"（1:9）。
+
+第二，神就是爱。"没有爱心的，就不认识神，因为神就是爱"（4:8）。"不是我们爱神，乃是神爱我们，差祂的儿子为我们的罪作了挽回祭，这就是爱了"（4:10）。爱不是从人出发的——人的爱有条件、会改变、会枯竭。神的爱是无条件的、主动的、牺牲的。"我们爱，因为神先爱了我们"（4:19）——人的爱是对神之爱的回应，不是原动力。
+
+第三，试验的标准。约翰给出三个检验真信仰的标准：教义的标准（信耶稣是成了肉身来的基督，4:2）、道德的标准（行公义，不犯罪为生活方式，3:9）、爱的标准（爱弟兄，3:14）。"人若说'我爱神'，却恨他的弟兄，就是说谎话的"（4:20）。`,
+  content_en: `1 John revolves around two core declarations — "God is light" (1:5) and "God is love" (4:8) — using them to test true and false faith.
+
+First, walking in the light. "God is light, and in him is no darkness at all" (1:5). "If we say that we have fellowship with him, and walk in darkness, we lie" (1:6). John's logic is simple: if you claim to know God yet live in sin, you are a liar. Those truly in fellowship with God walk in light — not that they never sin, but that sin is not their lifestyle, and "if we confess our sins, he is faithful and just to forgive us our sins" (1:9).
+
+Second, God is love. "He that loveth not knoweth not God; for God is love" (4:8). "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins" (4:10). Love does not originate from humans — human love is conditional, changeable, exhaustible. God's love is unconditional, initiating, sacrificial. "We love him, because he first loved us" (4:19) — human love is a response to God's love, not the prime mover.
+
+Third, standards of testing. John gives three tests for genuine faith: doctrinal (believing Jesus is the Christ come in the flesh, 4:2), moral (practicing righteousness, not making sin a lifestyle, 3:9), and relational (loving the brethren, 3:14). "If a man say, I love God, and hateth his brother, he is a liar" (4:20).`,
+};
+
 const keyVerse = {
   zh: `"没有爱心的，就不认识神，因为神就是爱。"（约翰一书 4:8）`,
   en: `"He that loveth not knoweth not God; for God is love." (1 John 4:8, KJV)`,
 };
 
-const info = { nameZh: `约翰一书`, nameEn: `1 John`, author: `使徒约翰`, date: `约公元85-95年`, chapters: `5章`, backHref: `/new-testament/general`, backLabel: `普通书信`, bibleId: `1JO` };
+const info = { nameZh: `约翰一书`, nameEn: `1 John`, author: `使徒约翰`, date: `约公元85-95年`, chapters: `5章`, backHref: `/new-testament/general`, backLabel: `普通书信`, bibleId: `1JN` };
+
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
 
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
@@ -96,10 +112,11 @@ export default function BookGuide() {
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

@@ -103,6 +103,29 @@ const outline = [
   ["24章", "示剑立约与约书亚之死", "Ch. 24", "Covenant at Shechem; Joshua Dies"],
 ];
 
+const theology = {
+  title_zh: `核心神学：应许的成全与圣战`,
+  title_en: `Core Theology: Fulfillment of Promise and Holy War`,
+  content_zh: `约书亚记的第一句话就奠定了全书的神学基调："耶和华的仆人摩西死了以后，耶和华晓谕摩西的帮手嫩的儿子约书亚说……"（1:1）。摩西死了，但神的计划没有停止——应许必须成全。
+
+第一，神的信实与应许的成全。"耶和华应许赐福给以色列家的话，一句也没有落空，都应验了"（21:45）。这是约书亚记的神学总结。从亚伯拉罕之约（创12:1-3）到摩西之约（申28章），神的每一个应许都在约书亚记中逐步应验。迦南不仅是一片地理上的土地，更是神赐给祂子民的安息之地——希伯来书4:8-9说"若是约书亚已叫他们享了安息，后来神就不再提别的日子了。这样看来，必另有一安息日的安息为神的子民存留"——地上的迦南预表天上的安息。
+
+第二，圣战与神的公义。约书亚记中迦南人的灭绝（herem，"尽行毁灭"）是现代读者最难理解的主题。但这不是种族清洗，而是神对罪恶已满的迦南文化的审判（创15:16"亚摩利人的罪孽还没有满盈"）。迦南文化包含活人献祭、庙妓制度、严重的道德败坏。神用以色列作为祂审判的工具——正如后来神也用亚述和巴比伦审判以色列自己。审判没有偏私，这正是神公义的体现。
+
+第三，约书亚作为基督的预表。"约书亚"（希伯来文 יְהוֹשֻׁעַ）与"耶稣"是同一个名字，意为"耶和华拯救"。约书亚带领以色列过约旦河进入应许之地，预表基督带领祂的子民进入天上的安息。但约书亚不是完美的——他被基遍人欺骗（9章），因为"没有求问耶和华"；而基督是完美的约书亚，祂永不失误，永远带领祂的子民走在正路上。
+
+第四，选择与委身。"至于我和我家，我们必定事奉耶和华"（24:15）。约书亚的临终告别不是一次情感的呼召，而是盟约的更新——他要求以色列人在耶和华与偶像之间做出明确的选择。信仰从来不是中间地带，要么全心事奉神，要么被偶像掳去。`,
+  content_en: `The first sentence of Joshua sets the theological tone for the entire book: "Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses' minister..." (1:1). Moses died, but God's plan did not stop — the promise must be fulfilled.
+
+First, God's faithfulness and the fulfillment of promise. "There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass" (21:45). This is Joshua's theological summary. From the Abrahamic covenant (Gen 12:1-3) to the Mosaic covenant (Deut 28), every promise of God finds progressive fulfillment in Joshua. Canaan was not merely a geographical territory but a land of rest God gave His people — Hebrews 4:8-9 says "if Jesus [Joshua] had given them rest, then would he not afterward have spoken of another day. There remaineth therefore a rest to the people of God" — the earthly Canaan prefigures the heavenly rest.
+
+Second, holy war and God's justice. The destruction of the Canaanites (herem, "utter destruction") in Joshua is the most difficult theme for modern readers. But this was not ethnic cleansing; it was God's judgment upon a Canaanite culture whose sin had reached its fullness (Gen 15:16, "the iniquity of the Amorites is not yet full"). Canaanite culture included child sacrifice, temple prostitution, and severe moral corruption. God used Israel as His instrument of judgment — just as He later used Assyria and Babylon to judge Israel itself. Judgment shows no partiality; this is the very expression of God's justice.
+
+Third, Joshua as a type of Christ. "Joshua" (Hebrew יְהוֹשֻׁעַ) is the same name as "Jesus," meaning "Yahweh saves." Joshua led Israel across the Jordan into the Promised Land, prefiguring Christ leading His people into heavenly rest. Yet Joshua was imperfect — he was deceived by the Gibeonites (ch. 9) because he "asked not counsel at the mouth of the LORD"; but Christ is the perfect Joshua, who never errs and always leads His people in the right path.
+
+Fourth, choice and commitment. "As for me and my house, we will serve the LORD" (24:15). Joshua's farewell address was not an emotional appeal but a covenant renewal — he demanded Israel make a clear choice between the LORD and idols. Faith is never a middle ground: either serve God wholeheartedly or be captive to idols.`,
+};
+
 const keyVerse = {
   zh: `"至于我和我家，我们必定事奉耶和华。"（约书亚记 24:15）`,
   en: `"But as for me and my house, we will serve the LORD." (Joshua 24:15)`,
@@ -110,16 +133,28 @@ const keyVerse = {
 
 const info = { nameZh: `约书亚记`, nameEn: `Joshua`, author: `约书亚 (Joshua)`, date: `约公元前1406-1380年`, chapters: `24章`, backHref: `/old-testament/historical`, backLabel: `历史书`, bibleId: `JOS` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to the Book of {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

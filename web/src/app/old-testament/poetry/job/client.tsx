@@ -64,44 +64,50 @@ God's response essentially says: Job, you cannot understand or control even the 
 
 Job's response is worship: "I have heard of thee by the hearing of the ear: but now mine eye seeth thee" (42:5). Job received no answer to his suffering, but something better -- he encountered God. God ultimately commended Job (42:7) and restored double what he had lost (42:10-12). Yet the book's true blessing is not doubled wealth but those words: "now mine eye seeth thee."`,
   },
-  {
-    title_zh: `五、约伯记的神学遗产：苦难中的信心`,
-    title_en: `V. Job's Theological Legacy: Faith in Suffering`,
-    content_zh: `约伯记的核心教导不是"为什么好人受苦"的答案——因为神从未给出这个答案。它教导的是：在没有答案的时候，信心仍然可以站立。
-
-约伯在苦难最深处说出了旧约最伟大的信仰告白之一："我知道我的救赎主活着，末了必站立在地上……我必亲眼见他"（19:25-27）。他不理解苦难的原因，但他确信一件事——神活着，最终会为他辩白。
-
-约伯记也挑战了"成功神学"的根基。撒但的控告——"约伯敬畏神岂是无故呢？"——代表了世界对宗教的看法：信仰不过是交换条件。约伯的坚持证明：真信心不是交易，而是在失去一切时仍然说"耶和华的名是应当称颂的"。这样的信心，比任何神学论证都更有力地见证了神的荣耀。`,
-    content_en: `Job's core teaching is not an answer to "why do good people suffer" -- for God never gives that answer. It teaches that in the absence of answers, faith can still stand.
-
-In the depths of suffering, Job uttered one of the Old Testament's greatest confessions: "I know that my redeemer liveth, and that he shall stand at the latter day upon the earth... yet in my flesh shall I see God" (19:25-27). He did not understand the reason for his suffering, but was certain of one thing -- God lives and would ultimately vindicate him.
-
-Job also challenges the foundation of prosperity theology. Satan's accusation -- "Doth Job fear God for nought?" -- represents the world's view of religion: faith is merely conditional exchange. Job's endurance proves: true faith is not a transaction but saying "blessed be the name of the LORD" even when everything is lost. Such faith witnesses to God's glory more powerfully than any theological argument.`,
-  },
-]
+];
 
 const overview = {
-  zh: `约伯记是圣经中最古老的书卷之一（可能早于摩西五经），也是人类文学史上最深刻的苦难神学作品。全书42章以散文序幕（1-2章）和尾声（42:7-17）包裹诗体辩论（3-42:6），探讨一个永恒的问题：义人为何受苦？
+  zh: `约伯记是圣经中最古老的智慧文学之一，可能写于族长时期。全书42章以散文序言（1-2章）和散文结尾（42:7-17）包裹着一场漫长的诗歌辩论（3-41章）。
 
-约伯记不是给出一个简单答案，而是将问题带到神面前。三个朋友代表传统的报应神学（因果报应），约伯代表真实的信心挣扎（质疑却不离弃），最终神亲自从旋风中启示自己——不是解释苦难的原因，而是启示自己的伟大。约伯记教导我们：在苦难中，我们需要的不是答案，而是神自己。`,
-  en: `Job is one of the oldest books of the Bible (possibly predating the Pentateuch) and the most profound work on the theology of suffering in human literary history. Its 42 chapters wrap poetic dialogues (ch. 3–42:6) between a prose prologue (ch. 1–2) and epilogue (42:7–17), exploring an eternal question: Why do the righteous suffer?
+核心人物有约伯（义人受苦者）、以利法、比勒达、琐法（三个朋友）、以利户（年轻人），以及最终从旋风中说话的耶和华。全书探讨的终极问题不是"为什么受苦"，而是"在苦难中如何认识神"。`,
+  en: `Job is one of the oldest wisdom texts in the Bible, likely written during the patriarchal era. Its 42 chapters feature a prose prologue (ch. 1-2) and epilogue (42:7-17) enclosing a lengthy poetic dialogue (ch. 3-41).
 
-Job does not offer a simple answer but brings the question before God. The three friends represent traditional retribution theology; Job represents authentic faith struggling (questioning yet not abandoning); finally God reveals Himself from the whirlwind — not explaining suffering's cause but revealing His own greatness. Job teaches: in suffering, we need not answers but God Himself.`,
+The central figures are Job (the righteous sufferer), Eliphaz, Bildad, and Zophar (three friends), Elihu (the young man), and the LORD who speaks from the whirlwind. The book's ultimate question is not "why suffering" but "how to know God through suffering."`,
 };
 
 const outline = [
-  ["1-2章", "天上的法庭与约伯的试炼", "Ch. 1–2", "Heavenly Court; Job's Trial"],
-  ["3章", "约伯的哀歌", "Ch. 3", "Job's Lament"],
-  ["4-14章", "第一轮辩论", "Ch. 4–14", "First Cycle of Debate"],
-  ["15-21章", "第二轮辩论", "Ch. 15–21", "Second Cycle of Debate"],
-  ["22-31章", "第三轮辩论", "Ch. 22–31", "Third Cycle of Debate"],
-  ["28章", "智慧之诗", "Ch. 28", "Poem on Wisdom"],
-  ["29-31章", "约伯的终辩", "Ch. 29–31", "Job's Final Defense"],
-  ["32-37章", "以利户的演讲", "Ch. 32–37", "Elihu's Speeches"],
-  ["38-41章", "耶和华从旋风中说话", "Ch. 38–41", "God Speaks from the Whirlwind"],
-  ["42:1-6", "约伯的悔改", "Ch. 42:1–6", "Job's Repentance"],
-  ["42:7-17", "约伯的复兴", "Ch. 42:7–17", "Job's Restoration"],
+  ["1-2章", "天上的法庭与约伯的苦难", "Ch. 1–2", "The Heavenly Court; Job's Suffering"],
+  ["3章", "约伯的哀叹", "Ch. 3", "Job's Lament"],
+  ["4-14章", "第一轮辩论", "Ch. 4–14", "First Cycle of Speeches"],
+  ["15-21章", "第二轮辩论", "Ch. 15–21", "Second Cycle of Speeches"],
+  ["22-31章", "第三轮辩论与约伯的最后陈词", "Ch. 22–31", "Third Cycle; Job's Final Defense"],
+  ["32-37章", "以利户的发言", "Ch. 32–37", "Elihu's Speeches"],
+  ["38-41章", "耶和华从旋风中说话", "Ch. 38–41", "The LORD Speaks from the Whirlwind"],
+  ["42章", "约伯的悔改与神的恢复", "Ch. 42", "Job's Repentance; Restoration"],
 ];
+
+const theology = {
+  title_zh: `核心神学：苦难中的信心与神的主权`,
+  title_en: `Core Theology: Faith in Suffering and the Sovereignty of God`,
+  content_zh: `约伯记是圣经中最古老的智慧文学，直面人类最深的困惑：义人为何受苦？神是否公平？
+
+第一，因果报应神学的破产。约伯三个朋友的核心论点是"受苦因为犯罪"——这是古代近东普遍的宗教逻辑。但约伯的遭遇彻底粉碎了这个框架：他是"完全正直、敬畏神、远离恶事"的人（1:1），神自己为他作证。改革宗神学区分"一般恩典"和"特殊恩典"，拒绝将今生的祸福与个人的义行简单挂钩——约伯记是这个教义的叙事基础。
+
+第二，神的主权超越人的理解。神在旋风中的回答（38-41章）没有解释约伯受苦的原因，而是用一连串的质问展示祂创造和治理万物的主权："我立大地根基的时候，你在哪里呢？"（38:4）。神的回答不是冷漠的，而是深刻的：你不需要理解我的每一个决定，你需要信靠我的品格。韦敏斯德信条5.2说："虽然就神的预知和命定而言，万事的发生都是不变而有效的，然而神借着同一护理，使万事按各自因果的本性，或必然、或自由、或按条件地发生。"
+
+第三，中保的渴望。约伯在痛苦中多次呼喊需要一位"仲裁者"（9:33）、"辩护者"（16:19）、"救赎主"（19:25）。"我知道我的救赎主活着，末了必站立在地上"（19:25）——这是旧约中对基督最震撼的预言之一。约伯在最深的黑暗中抓住了盼望——他不知道这位救赎主是谁，但他知道祂存在。基督正是约伯所渴望的那位完美中保："在神和人中间，只有一位中保，乃是降世为人的基督耶稣"（提前2:5）。
+
+第四，从"风闻"到"亲眼看见"。"我从前风闻有你，现在亲眼看见你。因此我厌恶自己，在尘土和炉灰中懊悔"（42:5-6）。苦难的终极目的不是惩罚，而是让人更深地认识神。约伯在苦难之前对神是"风闻"——二手的知识；经过苦难之后，他对神有了"亲眼看见"——直接的经历。这是灵命成长最痛苦也最真实的路径。`,
+  content_en: `Job is the oldest wisdom literature in the Bible, confronting humanity's deepest perplexity: Why do the righteous suffer? Is God fair?
+
+First, the bankruptcy of retribution theology. The core argument of Job's three friends is "suffering results from sin" — the common religious logic of the ancient Near East. But Job's experience utterly shatters this framework: he was "perfect and upright, and one that feared God, and eschewed evil" (1:1), and God Himself testified on his behalf. Reformed theology distinguishes "common grace" from "special grace" and refuses to simplistically link present fortune or misfortune with personal righteousness — Job is the narrative foundation of this doctrine.
+
+Second, God's sovereignty transcends human understanding. God's answer from the whirlwind (ch. 38-41) does not explain why Job suffered but instead displays His sovereignty over creation through a barrage of questions: "Where wast thou when I laid the foundations of the earth?" (38:4). God's answer is not cold but profound: you do not need to understand My every decision; you need to trust My character. The Westminster Confession 5.2 states: "Although, in relation to the foreknowledge and decree of God, the first Cause, all things come to pass immutably, and infallibly; yet, by the same providence, He ordereth them to fall out, according to the nature of second causes, either necessarily, freely, or contingently."
+
+Third, the longing for a mediator. In his agony, Job repeatedly cried out for an "daysman" (9:33), an "advocate" (16:19), a "redeemer" (19:25). "I know that my redeemer liveth, and that he shall stand at the latter day upon the earth" (19:25) — this is one of the most stunning Old Testament prophecies of Christ. In his deepest darkness, Job seized upon hope — he did not know who this Redeemer was, but he knew He existed. Christ is the perfect Mediator Job longed for: "there is one mediator between God and men, the man Christ Jesus" (1 Tim 2:5).
+
+Fourth, from "hearing" to "seeing." "I have heard of thee by the hearing of the ear: but now mine eye seeth thee. Wherefore I abhor myself, and repent in dust and ashes" (42:5-6). The ultimate purpose of suffering is not punishment but deeper knowledge of God. Before his suffering, Job knew God by "hearing" — secondhand knowledge; after suffering, he knew God by "seeing" — direct experience. This is the most painful yet most authentic path of spiritual growth.`,
+};
 
 const keyVerse = {
   zh: `"我从前风闻有你，现在亲眼看见你。"（约伯记 42:5）`,
@@ -110,16 +116,28 @@ const keyVerse = {
 
 const info = { nameZh: `约伯记`, nameEn: `Job`, author: `不详（可能是约伯本人或摩西）`, date: `族长时期（约公元前2000-1800年）`, chapters: `42章`, backHref: `/old-testament/poetry`, backLabel: `诗歌智慧书`, bibleId: `JOB` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

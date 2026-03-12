@@ -58,21 +58,6 @@ The Jews were not only spared from annihilation but granted the right of self-de
 
 Remarkably, Esther never mentions God's name — the only book of the Bible with this distinction. Yet God's hand is everywhere: in the "coincidental" insomnia, the "chance" reading, the timing of events. Esther teaches: even when God's name is unseen, His providence governs all.`,
   },
-
-{
-    title_zh: `四、末底改与以斯帖的信心遗产`,
-    title_en: `IV. The Legacy of Faith from Mordecai and Esther`,
-    content_zh: `以斯帖记最独特的特征是全书没有提到"神"的名字。然而神的护理贯穿每一个"巧合"——以斯帖成为王后（2章）、末底改发现暗杀阴谋（2:22）、王在失眠之夜翻阅历史（6:1）、哈曼恰好在场（6:4）。看不见的神通过看得见的事件掌管历史。
-
-末底改的话是全书的关键："焉知你得了王后的位分不是为现今的机会吗？"（4:14）每个人的处境都不是偶然的——你的位置、身份、能力，都是为了"现今的机会"预备的。
-
-以斯帖的决定——"我若死就死吧"（4:16）——是信心的极致表达。她不确定结果，但她知道这是对的。信心不是确定结果的保证，而是在不确定中仍然做对的事。普珥节（9章）至今仍被犹太人庆祝，记念神在暗中保护他子民的信实。`,
-    content_en: `Esther's most distinctive feature is that God's name never appears in the entire book. Yet God's providence permeates every "coincidence" -- Esther becoming queen (ch. 2), Mordecai discovering the assassination plot (2:22), the king reading the chronicles during a sleepless night (6:1), Haman happening to be present (6:4). The invisible God governs history through visible events.
-
-Mordecai's words are the book's key: "Who knoweth whether thou art come to the kingdom for such a time as this?" (4:14). Everyone's circumstances are not accidental -- your position, identity, and abilities are all prepared "for such a time as this."
-
-Esther's decision -- "if I perish, I perish" (4:16) -- is the ultimate expression of faith. She was uncertain of the outcome but knew it was right. Faith is not a guarantee of results but doing the right thing amid uncertainty. The Feast of Purim (ch. 9) is still celebrated by Jews today, commemorating God's faithfulness in secretly protecting His people.`,
-  }
 ];
 
 const overview = {
@@ -97,6 +82,29 @@ const outline = [
   ["10章", "末底改的尊荣", "Ch. 10", "Mordecai's Greatness"],
 ];
 
+const theology = {
+  title_zh: `核心神学：隐藏的神与看不见的护理`,
+  title_en: `Core Theology: The Hidden God and Invisible Providence`,
+  content_zh: `以斯帖记是圣经中唯一没有提到"神"这个名字的书卷。但正因如此，它对神的护理之工的教导反而更加深刻——神不需要被提及才能运作；祂在幕后掌管一切。
+
+第一，没有神迹的神迹。全书没有红海分开、没有火从天降、没有异梦异象，只有一连串看似"巧合"的事件：瓦实提被废、以斯帖被选为王后、末底改偶然发现暗杀阴谋、亚哈随鲁王恰好那一夜失眠翻阅历史……每一个"巧合"都是神看不见之手的运作。韦敏斯德信条第五章论"护理"："神以祂至大的智慧、圣洁与权能，保护祂所造之万有及其一切行动，并加以管理。"以斯帖记就是这个教义最生动的叙事注释。
+
+第二，"此时此刻"的呼召。末底改对以斯帖说的话是全书最著名的经文："焉知你得了王后的位分，不是为现今的机会吗？"（4:14）。每一个信徒都被神放在特定的时间、地点、角色中——不是偶然的，而是有目的的。以斯帖从一个普通的犹太孤女成为拯救全族的器皿，证明神能使用任何人，只要他们愿意在关键时刻站出来。
+
+第三，"若你闭口不言"——人的责任与神的主权。末底改的下一句话同样重要："你若闭口不言，犹大人必从别处得解脱蒙拯救"（4:14）。这是一个深刻的神学声明：神的计划不依赖任何人，但神选择使用人来成就祂的旨意。以斯帖可以选择不行动，但神的救赎不会因此失败——"解脱必从别处来"。这完美地平衡了神的主权和人的责任。
+
+第四，普珥节的逆转。哈曼掣签（普珥）选定灭绝犹太人的日子，结果那一天反而成了犹太人灭绝仇敌的日子。"签放在怀里，定事由耶和华"（箴16:33）。恶人的计谋在神手中被完全翻转——这是十字架的预演：人类最大的恶行（杀害神的儿子）成为神最大的善工（救赎全人类）。`,
+  content_en: `Esther is the only book of the Bible that never mentions the name of God. Yet precisely for this reason, its teaching on divine providence is all the more profound — God does not need to be named to be at work; He governs all things from behind the scenes.
+
+First, a miracle without miracles. The book contains no parting of the Red Sea, no fire from heaven, no visions or dreams — only a chain of seeming "coincidences": Vashti deposed, Esther chosen as queen, Mordecai happening to discover an assassination plot, the king happening to suffer insomnia that very night and reading the chronicles... Each "coincidence" is the operation of God's invisible hand. The Westminster Confession chapter 5 on providence: "God the great Creator of all things doth uphold, direct, dispose, and govern all creatures, actions, and things... by His most wise and holy providence." Esther is the most vivid narrative commentary on this doctrine.
+
+Second, the call of "such a time as this." Mordecai's words to Esther are the book's most famous verse: "Who knoweth whether thou art come to the kingdom for such a time as this?" (4:14). Every believer is placed by God in a specific time, place, and role — not by accident but with purpose. Esther, from an ordinary Jewish orphan, became the instrument of her people's deliverance, proving God can use anyone willing to stand up at the critical moment.
+
+Third, "if thou altogether holdest thy peace" — human responsibility and divine sovereignty. Mordecai's next words are equally important: "If thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place" (4:14). This is a profound theological statement: God's plan depends on no one, yet God chooses to use people to accomplish His purposes. Esther could choose inaction, but God's redemption would not fail — "deliverance shall arise from another place." This perfectly balances divine sovereignty and human responsibility.
+
+Fourth, the reversal of Purim. Haman cast lots (pur) to choose the day for exterminating the Jews, but that very day became the day the Jews destroyed their enemies. "The lot is cast into the lap; but the whole disposing thereof is of the LORD" (Prov 16:33). The schemes of the wicked were completely reversed in God's hands — a rehearsal of the cross: humanity's greatest evil (killing the Son of God) became God's greatest good (redeeming all humanity).`,
+};
+
 const keyVerse = {
   zh: `"焉知你得了王后的位分不是为现今的机会吗？"（以斯帖记 4:14）`,
   en: `"Who knoweth whether thou art come to the kingdom for such a time as this?" (Esther 4:14)`,
@@ -104,16 +112,28 @@ const keyVerse = {
 
 const info = { nameZh: `以斯帖记`, nameEn: `Esther`, author: `传统认为末底改`, date: `约公元前483-473年`, chapters: `10章`, backHref: `/old-testament/historical`, backLabel: `历史书`, bibleId: `EST` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

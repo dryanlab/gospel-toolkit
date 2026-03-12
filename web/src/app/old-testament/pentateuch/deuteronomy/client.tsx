@@ -126,6 +126,29 @@ const outline = [
   ["33-34章", "摩西的祝福与去世", "Ch. 33–34", "Moses' Blessing and Death"],
 ];
 
+const theology = {
+  title_zh: `核心神学：盟约更新与全心之爱`,
+  title_en: `Core Theology: Covenant Renewal and Wholehearted Love`,
+  content_zh: `申命记是摩西临终前对新一代以色列人的遗言，也是旧约盟约神学最完整的阐述。它的结构遵循古代近东宗主条约的格式（历史序言→条约条款→祝福与咒诅→见证），证明以色列与神之间的关系本质上是盟约关系。
+
+第一，"示玛"——信仰的核心告白。"以色列啊，你要听！耶和华我们神是独一的主。你要尽心、尽性、尽力爱耶和华你的神"（6:4-5）。这是犹太教最核心的信仰告白，也是耶稣所说"最大的诫命"（太22:37-38）。"尽心、尽性、尽力"不是三种不同的爱，而是强调爱神必须是全人、全方位、毫无保留的。申命记的律法不是冰冷的法条，而是爱的回应——因为神先爱了我们（"耶和华专爱你们，拣选你们，并非因你们的人数多于别民"，7:7）。
+
+第二，约的祝福与咒诅。28章是全书的高潮：顺服带来祝福，悖逆带来咒诅。这些不是任意的赏罚，而是约的条款。历史证明以色列最终走向了咒诅——被掳巴比伦。但保罗在加拉太书3:13说"基督既为我们受了咒诅，就赎出我们脱离律法的咒诅"——基督在十字架上承受了申命记28章所有的咒诅，使我们承受亚伯拉罕之约的祝福。
+
+第三，摩西——基督的预表。"耶和华你的神要从你们弟兄中间给你兴起一位先知像我，你们要听从祂"（18:15）。使徒行传3:22彼得引用这段经文指向基督——基督是那位比摩西更伟大的先知、中保和立法者。摩西因一次不信不得进入迦南（民20:12），但基督完全顺服，为我们开了一条进入天上迦南的道路。
+
+第四，"割你们心的皮"。"耶和华你神必将你心里和你后裔心里的污秽除掉，好叫你尽心尽性爱耶和华你的神，使你可以存活"（30:6）。外在的割礼不够，必须有内在的心灵更新。这预言了新约圣灵的工作——"我也要赐给你们一个新心，将新灵放在你们里面"（结36:26）。申命记已经看到了律法的局限性，也暗示了恩典之约的必要性。`,
+  content_en: `Deuteronomy is Moses's farewell address to a new generation of Israelites, and the most complete exposition of covenant theology in the Old Testament. Its structure follows the ancient Near Eastern suzerainty treaty format (historical prologue → treaty stipulations → blessings and curses → witnesses), demonstrating that the relationship between Israel and God is fundamentally covenantal.
+
+First, the Shema — the core confession of faith. "Hear, O Israel: The LORD our God is one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might" (6:4-5). This is Judaism's most central confession and what Jesus called "the great commandment" (Matt 22:37-38). "Heart, soul, and might" do not represent three different kinds of love but emphasize that love for God must be total, comprehensive, and without reservation. Deuteronomy's law is not cold legislation but a response of love — because God loved us first ("The LORD did not set his love upon you, nor choose you, because ye were more in number than any people," 7:7).
+
+Second, covenant blessings and curses. Chapter 28 is the book's climax: obedience brings blessing, disobedience brings curse. These are not arbitrary rewards and punishments but covenant stipulations. History proved that Israel ultimately fell under the curses — exile to Babylon. But Paul says in Galatians 3:13, "Christ hath redeemed us from the curse of the law, being made a curse for us" — on the cross, Christ bore every curse of Deuteronomy 28, so that we might inherit the blessings of the Abrahamic covenant.
+
+Third, Moses as a type of Christ. "The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken" (18:15). In Acts 3:22, Peter quotes this passage pointing to Christ — Christ is the Prophet greater than Moses, the Mediator, the Lawgiver. Moses, because of one act of unbelief, was barred from Canaan (Num 20:12), but Christ obeyed perfectly, opening for us a way into the heavenly Canaan.
+
+Fourth, "circumcise your heart." "The LORD thy God will circumcise thine heart, and the heart of thy seed, to love the LORD thy God with all thine heart, and with all thy soul, that thou mayest live" (30:6). Outward circumcision is not enough; there must be an inward renewal of the heart. This prophesies the New Testament work of the Holy Spirit — "A new heart also will I give you, and a new spirit will I put within you" (Ezek 36:26). Deuteronomy already perceives the limitation of the law and hints at the necessity of the covenant of grace.`,
+};
+
 const keyVerse = {
   zh: `"以色列啊，你要听！耶和华我们神是独一的主。你要尽心、尽性、尽力爱耶和华你的神。"（申命记 6:4-5）`,
   en: `"Hear, O Israel: The LORD our God is one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might." (Deuteronomy 6:4–5)`,
@@ -136,6 +159,17 @@ const info = {
   date: `约公元前1406年`, chapters: `34章`,
   backHref: `/old-testament/pentateuch`, backLabel: `摩西五经`, bibleId: `DEU`,
 };
+
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
 
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
@@ -148,7 +182,7 @@ export default function BookGuide() {
         <p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to the Book of {info.nameEn}</p>
         <div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div>
       </div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
       <div className="space-y-4">
@@ -158,10 +192,11 @@ export default function BookGuide() {
               <div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg>
             </button>
-            {expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}
+            {expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}
           </div>
         ))}
       </div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]">
         <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>
         {(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half);

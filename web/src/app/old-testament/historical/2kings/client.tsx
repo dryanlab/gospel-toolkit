@@ -82,6 +82,29 @@ const outline = [
   ["24-25章", "犹大灭亡与被掳", "Ch. 24–25", "Fall of Judah; Exile"],
 ];
 
+const theology = {
+  title_zh: `核心神学：审判中的盼望`,
+  title_en: `Core Theology: Hope Amid Judgment`,
+  content_zh: `列王纪下记载了以色列和犹大两国走向灭亡的历史，是旧约中最沉重的叙事。但即使在审判中，神的恩典之光从未完全熄灭。
+
+第一，神耐心的极限与必然的审判。北国以色列在主前722年被亚述灭国，南国犹大在主前586年被巴比伦灭国。"耶和华藉祂仆人众先知所说的，都应验了"（24:2）。审判不是神失控的愤怒，而是祂多次警告之后的盟约执行。申命记28章的咒诅一一应验——列王纪下是申命记咒诅条款的历史兑现。
+
+第二，复兴的短暂与人心的顽梗。希西家和约西亚是犹大最后两位敬虔的王。希西家在亚述围城时祷告，神一夜杀了十八万五千亚述军兵（19:35）；约西亚发现律法书后彻底改革，拆毁偶像祭坛。但两次复兴都没有持久——人心的败坏不是制度改革能解决的。"约西亚以前没有王像他，尽心尽性尽力归向耶和华……但是耶和华向犹大所发猛烈的怒气仍不止息"（23:25-26）。即使最好的人类努力也不能逆转罪的后果——只有神自己的介入才能。
+
+第三，被掳不是终点。列王纪下的最后一幕令人意外：被掳的犹大王约雅斤在巴比伦获释，在巴比伦王的桌前吃饭（25:27-30）。这个小小的细节是神学性的——大卫的后裔没有断绝，灯没有完全熄灭。神对大卫的应许（撒下7:16"你的国位必坚定直到永远"）在最黑暗的时刻仍然有效。
+
+第四，先知的角色——审判中的恩典管道。以利沙的事工充满了恩典的记号：治好了耶利哥的水源，使穷寡妇的油不断增多，使乃缦的大麻风得洁净，甚至使死人复活。在审判的大叙事中，先知的存在本身就是恩典——神在毁灭之前总是先差遣使者。"主耶和华若不将奥秘指示祂的仆人众先知，就一无所行"（摩3:7）。`,
+  content_en: `Second Kings records the history of both Israel and Judah's march toward destruction — the heaviest narrative in the Old Testament. Yet even amid judgment, the light of God's grace never fully extinguishes.
+
+First, the limit of God's patience and the inevitability of judgment. The northern kingdom fell to Assyria in 722 BC; the southern kingdom fell to Babylon in 586 BC. "According to all that the LORD had spoken by his servants the prophets, so was it" (24:2). Judgment is not God's uncontrolled anger but the enforcement of covenant terms after repeated warnings. The curses of Deuteronomy 28 were fulfilled one by one — Second Kings is the historical fulfillment of Deuteronomy's curse clauses.
+
+Second, the brevity of revival and the stubbornness of the heart. Hezekiah and Josiah were Judah's last two godly kings. Hezekiah prayed during the Assyrian siege, and God slew 185,000 Assyrian soldiers in one night (19:35); Josiah discovered the book of the law and launched thorough reforms, tearing down altars and idols. Yet neither revival endured — the corruption of the heart cannot be solved by institutional reform. "Before him there was no king like him, that turned to the LORD with all his heart... notwithstanding the LORD turned not from the fierceness of his great wrath" (23:25-26). Even the best human effort cannot reverse sin's consequences — only God's own intervention can.
+
+Third, exile is not the end. The final scene of Second Kings is unexpected: the captive Judean king Jehoiachin was released in Babylon and ate at the Babylonian king's table (25:27-30). This small detail is theological — the line of David was not extinguished; the lamp was not completely snuffed out. God's promise to David (2 Sam 7:16, "thy throne shall be established for ever") remains operative in the darkest hour.
+
+Fourth, the role of prophets — channels of grace amid judgment. Elisha's ministry overflowed with signs of grace: healing Jericho's water, multiplying a widow's oil, cleansing Naaman's leprosy, even raising the dead. Within the grand narrative of judgment, the very existence of prophets is itself grace — God always sends messengers before destruction. "Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets" (Amos 3:7).`,
+};
+
 const keyVerse = {
   zh: `"这是因以色列人得罪那领他们出埃及地、脱离埃及王法老手的耶和华他们的神，去敬畏别神。"（列王纪下 17:7）`,
   en: `"For so it was, that the children of Israel had sinned against the LORD their God, which had brought them up out of the land of Egypt, from under the hand of Pharaoh king of Egypt, and had feared other gods." (2 Kings 17:7)`,
@@ -89,16 +112,28 @@ const keyVerse = {
 
 const info = { nameZh: `列王纪下`, nameEn: `2 Kings`, author: `传统认为耶利米`, date: `约公元前850-586年`, chapters: `25章`, backHref: `/old-testament/historical`, backLabel: `历史书`, bibleId: `2KI` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

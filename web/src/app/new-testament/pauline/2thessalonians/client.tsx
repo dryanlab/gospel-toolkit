@@ -45,20 +45,6 @@ Before the Lord's return, first there must be "a falling away' — a great apost
 "For even when we were with you, this we commanded you, that if any would not work, neither should he eat. For we hear that there are some which walk among you disorderly, working not at all, but are busybodies. Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread." (2 Thessalonians 3:10-12, KJV)
 
 The hope of the end times is no excuse for laziness. Those who truly expect the Lord's return should be even more faithful in their present work, for we must give account to the Lord. Paul himself was the example — he "laboured and wrought with labour night and day" (3:8) in Thessalonica, so as not to be a burden to anyone. The Christian life should be industrious, orderly, and self-sufficient.`
-    },
-    {
-      title_zh: `四、愿主坚固你们的心（1-2章：患难与末世教导）`,
-      title_en: `IV. May the Lord Establish Your Hearts (Ch. 1-2: Affliction and Last Things)`,
-      content_zh: `第一章保罗明确宣告：神使那些患难信徒的仇敌"受患难"是公义的（1:6），而使受患难的信徒"得平安"（1:7）——苦难不是神的遗忘，而是神公义计划的一部分。"主耶稣同他有能力的天使从天上在火焰中显现，要报应那不认识神、和那不听从我主耶稣福音的人"（1:7-8）——末日的审判是确定的、公义的。
-
-第二章是新约末世论中最神秘的一段，描述"不法的人"（敌基督）在主再来之前的显露："他是抵挡主、高抬自己、超过一切称为神的和一切受人敬拜的，甚至坐在神的殿里，自称是神"（2:4）。这位"不法的人"的来临要先有大背道（2:3）。在他显露之前，有一位"阻止者"在拦阻（2:7）——历代教会对这"阻止者"的身份有不同解释（圣灵、罗马政权、或使徒的事工等）。
-
-但保罗的重点不在于满足人的好奇，而在于信徒的确据："主所爱的弟兄们，我们本当为你们常常感谢神；因为他从起初拣选了你们，叫你们因信真道、又被圣灵感动成为圣洁，能以得救"（2:13）。无论末世的细节如何，我们在神的拣选和保守中是安全的。`,
-      content_en: `Chapter 1 clearly declares that it is righteous for God to "recompense tribulation to them that trouble you" (1:6), and to give rest to the troubled believers (1:7) — suffering is not God's forgetting but part of His just plan. "The Lord Jesus shall be revealed from heaven with his mighty angels, in flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ" (1:7-8, KJV) — final judgment is certain and just.
-
-Chapter 2 is the most mysterious eschatological passage in the New Testament, describing the "man of sin" (Antichrist) who will be revealed before the Lord's return: "Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God" (2:4, KJV). His coming will be preceded by a great falling away (2:3). Before his full manifestation, "one who restrains" holds him back (2:7) — the church has offered various identifications: the Holy Spirit, Roman authority, or apostolic ministry.
-
-But Paul's emphasis is not on satisfying curiosity about prophetic details but on believers' assurance: "But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth" (2:13, KJV). Whatever the details of the last days, we are secure in God's election and keeping.`
     }
   ];
 
@@ -73,6 +59,25 @@ const outline = [
   ["3章", `勤劳做工与教会纪律`, "Ch. 3", `Diligent Work and Church Discipline`],
 ];
 
+const theology = {
+  title_zh: `核心神学：末日的审判与忍耐中的忠心`,
+  title_en: `Core Theology: Final Judgment and Faithfulness in Endurance`,
+  content_zh: `帖撒罗尼迦后书纠正了关于基督再来的误解——有人以为主的日子已经来了，因此停止工作坐等。
+
+第一，公义的审判必要来到。"主耶稣同祂有能力的天使从天上在火焰中显现，要报应那不认识神和那不听从我主耶稣福音的人"（1:7-8）。对受苦的信徒来说，审判是安慰——神看见了他们的苦难，终必伸张正义。苦难不是永恒的，审判也不是空洞的威胁。
+
+第二，不要被误导。保罗澄清：主的日子还没有来，"因为那日子以前，必有离道反教的事，并有那大罪人……显露出来"（2:3）。保罗警告不要因末世的狂热而失去理性——预言的应验有神定的时间表，不是人能催促的。
+
+第三，殷勤做工等候主来。"若有人不肯做工，就不可吃饭"（3:10）。有人以"主快来了"为借口游手好闲，保罗严厉纠正：等候主来不是停止一切、坐着等天上掉馅饼，而是更加殷勤地活出信仰。真正的末世观激发行动，而非滋生懒惰。`,
+  content_en: `2 Thessalonians corrects misunderstandings about Christ's return — some believed the Day of the Lord had already come and stopped working to wait.
+
+First, righteous judgment will come. "The Lord Jesus shall be revealed from heaven with his mighty angels, In flaming fire taking vengeance on them that know not God, and that obey not the gospel" (1:7-8). For suffering believers, judgment is comfort — God sees their suffering and will ultimately vindicate justice. Suffering is not eternal, and judgment is no empty threat.
+
+Second, do not be misled. Paul clarifies: the Day has not yet come, "for that day shall not come, except there come a falling away first, and that man of sin be revealed" (2:3). Paul warns against losing rationality through eschatological frenzy — prophetic fulfillment follows God's timetable, which humans cannot hasten.
+
+Third, work diligently while awaiting the Lord. "If any would not work, neither should he eat" (3:10). Some used "the Lord is coming soon" as an excuse for idleness; Paul sternly corrects this: awaiting the Lord's return means not ceasing all activity but more diligently living out the faith. A true eschatological perspective inspires action, not laziness.`,
+};
+
 const keyVerse = {
   zh: `"弟兄们，你们行善不可丧志。"（帖撒罗尼迦后书 3:13）`,
   en: `"But ye, brethren, be not weary in well doing." (2 Thessalonians 3:13, KJV)`,
@@ -80,16 +85,28 @@ const keyVerse = {
 
 const info = { nameZh: `帖撒罗尼迦后书`, nameEn: `2 Thessalonians`, author: `使徒保罗`, date: `约公元51-52年`, chapters: `3章`, backHref: `/new-testament/pauline`, backLabel: `保罗书信`, bibleId: `2TH` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

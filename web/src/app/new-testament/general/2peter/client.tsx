@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 const sections = [
     {
-      title_zh: '一、使徒的遗嘱：脱离帐棚之前的嘱托',
+      title_zh: '一、使徒的遗嘱与信仰成长的阶梯（1章）',
       title_en: `I. The Apostle's Testament: Instructions Before Departing the Tent`,
       content_zh: `彼得后书是新约中最具遗嘱性质的书信。彼得明确知道自己即将殉道：
 
@@ -26,23 +26,9 @@ This gives every sentence in Second Peter immense weight. A man about to leave t
 
 Peter also emphasizes that what he proclaimed was not "cunningly devised fables" but what he had "were eyewitnesses of his majesty' (1:16) — he was a witness of the Transfiguration, hearing with his own ears the Father's voice: "This is my beloved Son, in whom I am well pleased' (1:17). The apostolic witness is not myth but firsthand testimony.`
     },
-    {
-      title_zh: `二、信仰的功课：在恩典中长进`,
-      title_en: `II. Lessons of Faith: Growing in Grace`,
-      content_zh: `彼得后书是彼得在殉道前的最后书信。他知道自己"脱离这帐棚的时候快到了"（1:14），因此更加迫切地要把最重要的事留给信徒。第一章他呼吁信徒在信仰中积极成长，列出了信仰成长的阶梯。
-
-"正因这缘故，你们要分外地殷勤；有了信心，又要加上德行；有了德行，又要加上知识；有了知识，又要加上节制；有了节制，又要加上忍耐；有了忍耐，又要加上虔敬；有了虔敬，又要加上爱弟兄的心；有了爱弟兄的心，又要加上爱众人的心。"（彼得后书 1:5-7）
-
-这八个特质不是平行的，而是层层递进的。信仰是基础，爱是顶峰。彼得说，有了这些就不至于"闲懒不结果子"（1:8），反而会"叫你们丰丰富富地得以进入我们主救主耶稣基督永远的国"（1:11）。`,
-      content_en: `Second Peter is Peter's final letter before his martyrdom. Knowing that "shortly I must put off this my tabernacle' (1:14), he was even more urgent about leaving believers the most important truths. In chapter 1 he urges believers to grow actively in faith, listing a ladder of spiritual growth.
-
-"And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; And to knowledge temperance; and to temperance patience; and to patience godliness; And to godliness brotherly kindness; and to brotherly kindness charity." (2 Peter 1:5-7, KJV)
-
-These eight qualities are not parallel but progressively ascending. Faith is the foundation; love is the pinnacle. Peter says that having these qualities means we will not be "barren nor unfruitful' (1:8), but will be abundantly supplied with "an entrance into the everlasting kingdom of our Lord and Saviour Jesus Christ' (1:11).`
-    },
-    {
-      title_zh: `三、警戒假先知：他们的结局必然败亡`,
-      title_en: `III. Warning Against False Prophets: Their End Is Destruction`,
+  {
+      title_zh: `二、警戒假教师：他们的结局必然败亡（2章）`,
+      title_en: `II. Warning Against False Teachers: Their Certain Doom (Ch. 2)`,
       content_zh: `彼得后书第二章是新约中对假教师最严厉的警告之一。
 
 "从前在百姓中有假先知起来，将来在你们中间也必有假师傅，私自引进陷害人的异端，连买他们的主他们也不承认，自取速速地灭亡。将有许多人随从他们邪淫的行为，便叫真道因他们的缘故被毁谤。"（彼得后书 2:1-2）
@@ -55,8 +41,8 @@ These eight qualities are not parallel but progressively ascending. Faith is the
 The hallmark of false prophets is bringing in heresies "privily' — not openly opposing Christ but sneaking in secretly. Their "pernicious ways' bring evil reputation upon "the way of truth," causing the world to misunderstand Christianity. Peter uses three historical examples to show God will judge false prophets: fallen angels (2:4), Noah's flood (2:5), Sodom's fire (2:6) — yet He also delivers the righteous. This is both warning and comfort.`
     },
     {
-      title_zh: `四、主再来是确实的：千年如一日`,
-      title_en: `IV. The Lord's Return Is Certain: A Thousand Years as One Day`,
+      title_zh: `三、主再来是确实的：千年如一日（3章）`,
+      title_en: `III. The Lord's Return Is Certain (Ch. 3)`,
       content_zh: `彼得后书最重要的神学贡献之一，是回应"主为什么还不来？"的质疑。
 
 "主所应许的尚未成就，有人以为他是耽延，其实他是宽容你们，不愿有一人沉沦，乃愿人人都悔改。但主的日子要像贼来到一样；那日，天必大有响声废去，有形质的都要被烈火销化，地和其上的物都要烧尽了。"（彼得后书 3:9-10）
@@ -81,6 +67,25 @@ const outline = [
   ["3章", `末日的来临与圣洁的等候`, "Ch. 3", `The Coming Day of the Lord and Holy Waiting`],
 ];
 
+const theology = {
+  title_zh: `核心神学：在真知识中长进与防备假教师`,
+  title_en: `Core Theology: Growing in True Knowledge and Guarding Against False Teachers`,
+  content_zh: `彼得后书是彼得的遗书——"知道我脱离这帐棚的时候快到了"（1:14）。他最后的嘱咐聚焦于两件事：在真理中成长，防备假教师。
+
+第一，神的性情的有份者。"因此，祂已将又宝贵又极大的应许赐给我们，叫我们既脱离世上从情欲来的败坏，就得与神的性情有份"（1:4）。这是全新约中关于成圣最惊人的宣告——信徒不仅被赦免，更被呼召分享神的性情。这不是说人变成了神，而是说圣灵在信徒里面做更新的工作，使人越来越像基督。
+
+第二，圣经的默示。"预言从来没有出于人意的，乃是人被圣灵感动，说出神的话来"（1:21）。彼得与保罗（提后3:16）一同见证了圣经的神圣来源——不是人的智慧，而是圣灵的感动。先知不是在写自己的想法，而是在传达神的信息。
+
+第三，主的日子必要来到。"主的日子要像贼来到一样。那日，天必大有响声废去，有形质的都要被烈火销化"（3:10）。有人嘲笑说"主要降临的应许在哪里呢？"（3:4），彼得回答："主所应许的尚未成就，有人以为祂是耽延，其实不是耽延，乃是宽容你们，不愿有一人沉沦"（3:9）。神的"耽延"不是失信，而是恩典的延伸。`,
+  content_en: `2 Peter is Peter's farewell letter — "knowing that shortly I must put off this my tabernacle" (1:14). His final charge focuses on two things: growing in truth and guarding against false teachers.
+
+First, partakers of the divine nature. "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust" (1:4). This is the New Testament's most astonishing statement about sanctification — believers are not merely forgiven but called to share in God's nature. This does not mean humans become God, but that the Spirit works renewal within believers, making them increasingly like Christ.
+
+Second, the inspiration of Scripture. "Prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost" (1:21). Peter joins Paul (2 Tim 3:16) in testifying to Scripture's divine origin — not human wisdom but the Holy Spirit's moving. The prophets were not writing their own thoughts but delivering God's message.
+
+Third, the Day of the Lord will surely come. "The day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat" (3:10). Some scoff, "Where is the promise of his coming?" (3:4); Peter answers: "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish" (3:9). God's "delay" is not unfaithfulness but extended grace.`,
+};
+
 const keyVerse = {
   zh: `"主所应许的尚未成就，有人以为他是耽延，其实他是宽容你们，不愿有一人沉沦，乃愿人人都悔改。"（彼得后书 3:9）`,
   en: `"The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance." (2 Peter 3:9, KJV)`,
@@ -88,16 +93,28 @@ const keyVerse = {
 
 const info = { nameZh: `彼得后书`, nameEn: `2 Peter`, author: `使徒彼得`, date: `约公元65-68年`, chapters: `3章`, backHref: `/new-testament/general`, backLabel: `普通书信`, bibleId: `2PE` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

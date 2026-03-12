@@ -45,20 +45,6 @@ Grace is not merely pardoning grace but grace that "teaches us." Those who truly
 "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost; Which he shed on us abundantly through Jesus Christ our Saviour; That being justified by his grace, we should be made heirs according to the hope of eternal life." (Titus 3:5-7, KJV)
 
 "Not by works of righteousness which we have done' — salvation is entirely from God's mercy. "The washing of regeneration' refers not to the outward rite of baptism itself but to the inward renewal by the Holy Spirit — washing away the old and birthing the new. This perfectly aligns with Ezekiel 36:25-27: God will sprinkle clean water upon us, giving us a new heart and a new spirit. Paul here perfectly presents the Trinitarian work of redemption: the Father's mercy, the Son's atonement, and the Spirit's renewal.`
-    },
-    {
-      title_zh: `四、善行与无益的争论（3章续）`,
-      title_en: `IV. Good Works and Avoiding Useless Controversies (Ch. 3 cont.)`,
-      content_zh: `保罗在第三章后半部分发出了实践的命令：既然我们蒙了救恩，就当"多以行善为念"（3:8）。善行不是得救的条件，而是得救的果实——是"美好、有益于人的"（3:8）。
-
-另一方面，保罗严肃地警告要"远避无知的辩论、家谱、纷争，和因律法起的争论，因为这都是虚空的，是无益的"（3:9）。教会中有些争论耗费大量精力却毫无属灵益处——保罗的建议是直接拒绝，"一、二次劝戒之后，就要弃绝"（3:10）。
-
-提多书以问安作结，提到了亚基布和阿波罗等同工，最后嘱咐说"我们的人，也当学习做正经事业来补所不足，不要做不结果子的人"（3:14）。"不要做不结果子的人"——这是提多书留给每个信徒的最后呼召。知道真理，还要结出真理的果子；领受恩典，还要活出恩典的荣耀。`,
-      content_en: `The latter part of chapter 3 gives practical commands: since we have received salvation, we should be "careful to maintain good works" (3:8). Good works are not conditions for salvation but its fruit — "these things are good and profitable unto men" (3:8).
-
-On the other hand, Paul solemnly warns to "avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain" (3:9, KJV). Some church controversies consume enormous energy yet yield no spiritual benefit — Paul's advice is to simply reject them: "after the first and second admonition reject" (3:10, KJV).
-
-Titus closes with greetings to Artemas, Tychicus, Apollos and others, ending with: "And let ours also learn to maintain good works for necessary uses, that they be not unfruitful" (3:14, KJV). "That they be not unfruitful" — this is Titus's final call to every believer. Knowing the truth must yield the fruit of truth; receiving grace must be lived out in grace's glory.`
     }
   ];
 
@@ -73,6 +59,25 @@ const outline = [
   ["3章", `救恩的根据与善行的实践`, "Ch. 3", `The Basis of Salvation and the Practice of Good Works`],
 ];
 
+const theology = {
+  title_zh: `核心神学：恩典的教导与善行的果效`,
+  title_en: `Core Theology: The Teaching of Grace and the Fruit of Good Works`,
+  content_zh: `提多书虽然只有三章，却包含了保罗对恩典与善行关系最清晰的阐述。
+
+第一，神救众人的恩典。"因为神救众人的恩典已经显明出来，教训我们除去不敬虔的心和世俗的情欲，在今世自守、公义、敬虔度日，等候所盼望的福"（2:11-13）。恩典不仅是拯救的能力，更是教导的能力——真正的恩典不会导致放纵，而是"教训我们"过敬虔的生活。廉价的恩典说"反正神会赦免"；真正的恩典改变人的生命。
+
+第二，重生的洗和圣灵的更新。"祂便救了我们，并不是因我们自己所行的义，乃是照祂的怜悯，藉着重生的洗和圣灵的更新"（3:5）。救恩的根基是神的怜悯，途径是圣灵的工作，结果是生命的更新。"行义"不是得救的条件，而是得救的果实。
+
+第三，切切行善。提多书三次提到"留心行善"（2:14, 3:8, 3:14）。善行不是得救的根据，却是得救的证据。"这话是可信的，我也愿你把这些事切切实实地讲明，使那些已信神的人留心做正经事业"（3:8）。`,
+  content_en: `Though only three chapters long, Titus contains Paul's clearest exposition of the relationship between grace and good works.
+
+First, the grace of God that brings salvation. "For the grace of God that bringeth salvation hath appeared to all men, Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world; Looking for that blessed hope" (2:11-13). Grace is not only the power to save but the power to teach — true grace does not lead to license but "teaches us" to live godly lives. Cheap grace says "God will forgive anyway"; true grace transforms lives.
+
+Second, the washing of regeneration and renewal of the Holy Spirit. "He saved us, not by works of righteousness which we have done, but according to his mercy, by the washing of regeneration, and renewing of the Holy Ghost" (3:5). Salvation's foundation is God's mercy, its means is the Spirit's work, its result is life's renewal. "Works of righteousness" are not the condition of salvation but its fruit.
+
+Third, zealous for good works. Titus mentions being "careful to maintain good works" three times (2:14, 3:8, 3:14). Good works are not the ground of salvation but its evidence. "This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works" (3:8).`,
+};
+
 const keyVerse = {
   zh: `"他便救了我们；并不是因我们自己所行的义，乃是照他的怜悯，藉着重生的洗和圣灵的更新。"（提多书 3:5）`,
   en: `"Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost." (Titus 3:5, KJV)`,
@@ -80,16 +85,28 @@ const keyVerse = {
 
 const info = { nameZh: `提多书`, nameEn: `Titus`, author: `使徒保罗`, date: `约公元63-65年`, chapters: `3章`, backHref: `/new-testament/pauline`, backLabel: `保罗书信`, bibleId: `TIT` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>

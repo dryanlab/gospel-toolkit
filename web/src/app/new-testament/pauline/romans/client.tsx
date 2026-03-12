@@ -160,6 +160,29 @@ const outline = [
   ["12-16章", "圣徒的实践生活", "Ch. 12–16", "Practical Life of the Saints"],
 ];
 
+const theology = {
+  title_zh: `核心神学：因信称义——福音的系统阐述`,
+  title_en: `Core Theology: Justification by Faith — A Systematic Exposition of the Gospel`,
+  content_zh: `罗马书是保罗神学的巅峰之作，被路德称为"新约中最重要的书卷，最纯粹的福音"。
+
+第一，人人都在罪中。罗马书1-3章是全圣经对人类罪性最系统的分析。外邦人的罪（1:18-32）："他们虽然知道神，却不当作神荣耀祂"；犹太人的罪（2:1-3:8）：有律法却不遵行。结论是毁灭性的："没有义人，连一个也没有"（3:10）。改革宗神学的"全然败坏"（Total Depravity）教义正是以此为基础——不是说人坏到极点，而是说罪污染了人的每一个层面。
+
+第二，因信称义。"人称义是因着信，不在乎遵行律法"（3:28）。称义（δικαίωσις）不是"使人变义"，而是"宣告人为义"——法庭性的宣判，不是道德的改造。亚伯拉罕在受割礼之前就因信被称为义（4:9-12），证明称义不靠行为。"如今，那些在基督耶稣里的就不定罪了"（8:1）——这是基督徒最确定的安慰。
+
+第三，在基督里的新生命。罗马书6-8章展开了称义之后的生活。"我们在罪上死了的人岂可仍在罪中活着呢？"（6:2）——称义不是犯罪的执照，而是新生命的开始。第7章坦诚地描述了信徒内心的挣扎："我所愿意的善，我反不做；我所不愿意的恶，我倒去做"（7:19）——这是每个真信徒的经历。第8章则以凯旋的宣告结束："谁能使我们与基督的爱隔绝呢？……都不能叫我们与神的爱隔绝"（8:35-39）。
+
+第四，神的主权与人的责任。罗马书9-11章论述了神的拣选与以色列的命运——这是全圣经中关于预定论最集中的论述。"如今也是这样，照着拣选的恩典，还有所留的余数"（11:5）。但保罗同时坚持人的责任："凡求告主名的就必得救"（10:13）。神的主权和人的责任不是矛盾，而是奥秘中的和谐——"深哉，神丰富的智慧和知识！祂的判断何其难测！祂的踪迹何其难寻！"（11:33）。`,
+  content_en: `Romans is the pinnacle of Pauline theology; Luther called it "the most important book in the New Testament, the purest gospel."
+
+First, all are under sin. Romans 1-3 is Scripture's most systematic analysis of human sinfulness. Gentile sin (1:18-32): "when they knew God, they glorified him not as God"; Jewish sin (2:1-3:8): possessing the law but failing to keep it. The conclusion is devastating: "There is none righteous, no, not one" (3:10). The Reformed doctrine of Total Depravity is grounded here — not that humans are as bad as possible, but that sin contaminates every dimension of human existence.
+
+Second, justification by faith. "A man is justified by faith without the deeds of the law" (3:28). Justification (δικαίωσις) is not "making righteous" but "declaring righteous" — a forensic verdict, not a moral transformation. Abraham was counted righteous by faith before circumcision (4:9-12), proving justification is not by works. "There is therefore now no condemnation to them which are in Christ Jesus" (8:1) — this is the Christian's most certain comfort.
+
+Third, new life in Christ. Romans 6-8 unfolds life after justification. "Shall we continue in sin, that grace may abound? God forbid" (6:1-2) — justification is not a license to sin but the beginning of new life. Chapter 7 honestly describes the believer's inner struggle: "For the good that I would I do not: but the evil which I would not, that I do" (7:19) — the experience of every true believer. Chapter 8 concludes with triumphant declaration: "Who shall separate us from the love of Christ?... nor any other creature, shall be able to separate us from the love of God" (8:35-39).
+
+Fourth, God's sovereignty and human responsibility. Romans 9-11 addresses divine election and Israel's destiny — the most concentrated discussion of predestination in all of Scripture. "Even so then at this present time also there is a remnant according to the election of grace" (11:5). Yet Paul simultaneously insists on human responsibility: "Whosoever shall call upon the name of the Lord shall be saved" (10:13). God's sovereignty and human responsibility are not contradictory but harmonious within mystery — "O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!" (11:33).`,
+};
+
 const keyVerse = {
   zh: `"如今，那些在基督耶稣里的就不定罪了。"（罗马书 8:1）`,
   en: `"There is therefore now no condemnation to them which are in Christ Jesus." (Romans 8:1)`,
@@ -167,16 +190,28 @@ const keyVerse = {
 
 const info = { nameZh: `罗马书`, nameEn: `Romans`, author: `使徒保罗`, date: `约公元57年`, chapters: `16章`, backHref: `/new-testament/pauline`, backLabel: `保罗书信`, bibleId: `ROM` };
 
+
+function renderText(text: string) {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
+
 export default function BookGuide() {
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link href={info.backHref} className="inline-flex items-center gap-1 text-sm text-[var(--color-accent)] hover:underline mb-6">← {info.backLabel}</Link>
       <div className="text-center mb-10"><span className="text-5xl mb-4 block">📖</span><h1 className="font-serif-cn text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-2">{info.nameZh}导读</h1><p className="text-base text-[var(--color-text-secondary)] italic mb-4">A Guide to {info.nameEn}</p><div className="flex justify-center gap-4 text-xs text-[var(--color-text-secondary)]"><span>✍️ 作者：{info.author}</span><span>📅 {info.date}</span><span>📄 {info.chapters}</span></div></div>
-      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{overview.zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{overview.en}</p></div></div>
+      <div className="mb-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-3">📋 全书概览</h2><div className="flex items-start gap-2 mb-3"><SpeakButton text={overview.zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn">{renderText(overview.zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={overview.en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed">{renderText(overview.en)}</p></div></div>
       <div className="mb-10 p-5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border border-amber-200 dark:border-amber-800"><p className="text-sm font-bold text-amber-800 dark:text-amber-300 mb-1">🔑 金句 Key Verse</p><p className="font-serif-cn text-base text-[var(--color-text)] font-bold leading-relaxed">{keyVerse.zh}</p><p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{keyVerse.en}</p></div>
       <div className="mb-6"><h2 className="font-serif-cn text-xl font-bold text-[var(--color-text)] mb-1">📚 分段导读</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">Section-by-Section Guide</p></div>
-      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{sec.content_zh}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{sec.content_en}</p></div></div>)}</div>))}</div>
+      <div className="space-y-4">{sections.map((sec, i) => (<div key={i} className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] overflow-hidden"><button onClick={() => setExpandedIdx(expandedIdx === i ? null : i)} className="w-full flex items-center justify-between px-6 py-4 text-left cursor-pointer hover:bg-[var(--color-accent)]/5 transition-colors"><div><h3 className="font-serif-cn text-base font-bold text-[var(--color-text)]">{sec.title_zh}</h3><p className="text-xs text-[var(--color-text-secondary)] italic">{sec.title_en}</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className={`w-5 h-5 text-[var(--color-text-secondary)] transition-transform ${expandedIdx === i ? 'rotate-180' : ''}`}><path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clipRule="evenodd" /></svg></button>{expandedIdx === i && (<div className="px-6 pb-5 border-t border-[var(--color-border)]"><div className="flex items-start gap-2 mt-4 mb-4"><SpeakButton text={sec.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(sec.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={sec.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(sec.content_en)}</p></div></div>)}</div>))}</div>
+      <div className="mt-10 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 bg-gradient-to-br from-amber-50/50 to-orange-50/50 dark:from-amber-900/10 dark:to-orange-900/10"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-1">⛪ {theology.title_zh}</h2><p className="text-xs text-[var(--color-text-secondary)] italic mb-4">{theology.title_en}</p><div className="flex items-start gap-2 mb-4"><SpeakButton text={theology.content_zh} lang="zh" /><p className="text-sm text-[var(--color-text)] leading-relaxed font-serif-cn whitespace-pre-line">{renderText(theology.content_zh)}</p></div><div className="flex items-start gap-2"><SpeakButton text={theology.content_en} lang="en" /><p className="text-xs text-[var(--color-text-secondary)] italic leading-relaxed whitespace-pre-line">{renderText(theology.content_en)}</p></div></div>
       <div className="mt-10 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)]"><h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] mb-4">🗂️ 章节大纲</h2>{(() => { const half = Math.ceil(outline.length / 2); const col1 = outline.slice(0, half); const col2 = outline.slice(half); const renderItem = ([zh, desc, chEn, descEn]: string[], i: number) => (<div key={i} className="py-1.5 border-b border-[var(--color-border)]/30 last:border-b-0"><div className="flex items-baseline gap-2"><span className="font-bold text-[var(--color-accent)] min-w-[65px] shrink-0">{zh}</span><span className="text-[var(--color-text)]">{desc}</span></div><div className="flex items-baseline gap-2 mt-0.5"><span className="text-[var(--color-text-secondary)] text-xs italic min-w-[65px] shrink-0">{chEn}</span><span className="text-[var(--color-text-secondary)] text-xs italic">{descEn}</span></div></div>); return (<div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 text-sm"><div>{col1.map((item, i) => renderItem(item, i))}</div><div>{col2.map((item, i) => renderItem(item, i + half))}</div></div>); })()}</div>
       <div className="mt-8 text-center"><Link href={`/bible/${info.bibleId}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-bold hover:opacity-90 transition-opacity">📖 阅读{info.nameZh} Read {info.nameEn}</Link></div>
     </div>
