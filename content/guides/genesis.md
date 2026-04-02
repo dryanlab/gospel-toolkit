@@ -1,30 +1,32 @@
----
-book: "创世记"
-bookEn: "Genesis"
-author: "摩西"
-date: "约公元前1446-1406年"
-chapters: "50章"
-bibleId: "GEN"
-sourcePath: "old-testament/pentateuch/genesis/client.tsx"
----
+# 创世记 Genesis
 
-# 创世记 导读 / Genesis Guide
+- **作者**: 摩西
+- **写作时间**: 约公元前1446-1406年
+- **章数**: 50章
 
-## 一、创造（1-2章）
+## 概述
+
+创世记是圣经的第一卷书，记载了从创造天地到约瑟在埃及去世的历史。全书50章涵盖了人类最根本的问题：万物从何而来？人为何存在？罪恶如何进入世界？神如何展开他的救赎计划？摩西在西奈旷野写下此书，为刚出埃及的以色列人建立信仰根基——认识独一的创造主，明白他拣选亚伯拉罕后裔的恩典之约。
+
+## Overview
+
+Genesis is the first book of the Bible, recording history from the creation of heaven and earth to the death of Joseph in Egypt. Its 50 chapters address humanity's most fundamental questions: Where did all things come from? Why do humans exist? How did sin enter the world? How did God unfold His plan of redemption? Moses wrote this book in the Sinai wilderness to establish a foundation of faith for the Israelites who had just left Egypt — to know the one Creator and to understand His covenant of grace with Abraham's descendants.
+
+## 分段导读
+
+### 一、创造（1-2章）
+*I. Creation (Ch. 1–2)*
 
 创世记以"起初，神创造天地"开篇，这是全部圣经的根基。第一章以庄严的节奏记载六日创造：光、穹苍、旱地与植物、日月星辰、飞鸟鱼类、走兽与人。每一日的创造都以"神看着是好的"结束，第六日造人后更宣告"甚好"。人是按照神的形像被造的，这赋予人独特的尊严与使命——治理全地，荣耀神。
 
 第二章则聚焦伊甸园中的细节：神用地上的尘土造人，将生气吹在他鼻孔里；又为亚当设立园子，使他修理看守；取亚当的肋骨造了夏娃，设立了婚姻。"二人成为一体"，这是神对家庭的原初设计。韦敏斯德小要理问答第10问："神怎样造人？"答："神照着自己的形像，在知识、公义、圣洁中造人，使人管理一切受造之物。"
 
-### I. Creation (Ch. 1–2)
-
 Genesis opens with "In the beginning God created the heaven and the earth" — the foundation of all Scripture. Chapter 1 records the six days of creation in solemn cadence: light, firmament, dry land and vegetation, sun, moon and stars, birds and fish, beasts and man. Each day concludes with "God saw that it was good," and after creating man on the sixth day, He declared it "very good." Humanity is made in God's image, granting unique dignity and purpose — to have dominion over the earth and glorify God.
 
 Chapter 2 focuses on the details in Eden: God formed man from the dust of the ground and breathed into his nostrils the breath of life; He planted a garden for Adam to tend and keep; He took a rib from Adam to make Eve, establishing marriage. "They shall be one flesh" — this is God's original design for the family. WSC Q10: "How did God create man?" A: "God created man male and female, after his own image, in knowledge, righteousness, and holiness, with dominion over the creatures."
 
----
-
-## 二、堕落与应许（3-5章）
+### 二、堕落与应许（3-5章）
+*II. The Fall and the Promise (Ch. 3–5)*
 
 第三章是人类历史的转折。蛇引诱夏娃怀疑神的话："神岂是真说？"夏娃先吃了禁果，又给丈夫吃。他们的眼睛就明亮了——不是得到智慧，而是认识了羞耻。神来寻找他们："你在哪里？"这不是神不知道，而是恩典的呼唤。
 
@@ -32,17 +34,14 @@ Chapter 2 focuses on the details in Eden: God formed man from the dust of the gr
 
 第四章记载该隐杀亚伯——罪从悖逆发展为凶杀。第五章的家谱中反复出现"就死了"，提醒我们罪的工价乃是死。唯独以诺"与神同行，神将他取去"，成为黑暗世代中信心的亮光。
 
-### II. The Fall and the Promise (Ch. 3–5)
-
 Chapter 3 is the turning point of human history. The serpent tempted Eve to doubt God's word: "Yea, hath God said?" Eve ate the forbidden fruit and gave to her husband. Their eyes were opened — not to gain wisdom, but to know shame. God came seeking them: "Where art thou?" This was not ignorance but a call of grace.
 
 Within judgment lies the gospel: God told the serpent, "her seed shall bruise thy head" (3:15) — the first messianic prophecy in Scripture (the Protoevangelium). God also made coats of skins for Adam and Eve — the first blood sacrifice, foreshadowing Christ's substitutionary atonement.
 
 Chapter 4 records Cain killing Abel — sin escalates from disobedience to murder. Chapter 5's genealogy repeats "and he died," reminding us that the wages of sin is death. Only Enoch "walked with God: and he was not; for God took him," a light of faith in a dark generation.
 
----
-
-## 三、洪水与挪亚之约（6-11章）
+### 三、洪水与挪亚之约（6-11章）
+*III. The Flood and Noah's Covenant (Ch. 6–11)*
 
 罪在地上蔓延，"耶和华见人在地上罪恶很大，终日所思想的尽都是恶"（6:5）。神决定用洪水审判全地，却"恩待"挪亚。挪亚遵照神的吩咐建造方舟，一家八口得救——方舟预表基督：只有进入基督里面，才能逃脱神的审判。
 
@@ -50,17 +49,14 @@ Chapter 4 records Cain killing Abel — sin escalates from disobedience to murde
 
 但人心未变。第十一章巴别塔事件中，人类企图"传扬我们的名"，与神"荣耀神的名"的旨意完全对立。神变乱他们的口音，分散全地。万族分散的结局，恰恰为下一章神拣选亚伯拉罕"使万族得福"铺平了道路。
 
-### III. The Flood and Noah's Covenant (Ch. 6–11)
-
 Sin spread across the earth: "God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually" (6:5). God determined to judge the earth by flood, yet "Noah found grace in the eyes of the LORD." Noah obeyed God's command to build the ark, and his family of eight was saved — the ark foreshadows Christ: only by being in Christ can one escape God's judgment.
 
 After the flood, God established a covenant with Noah, setting the rainbow as its sign, promising never again to destroy the earth by flood. Chapter 9 also established governmental authority: "Whoso sheddeth man's blood, by man shall his blood be shed."
 
 Yet the human heart remained unchanged. In the Tower of Babel incident (ch. 11), humanity sought to "make us a name" — directly opposing God's purpose to glorify His own name. God confused their language and scattered them abroad. This scattering of the nations precisely prepares the way for God's election of Abraham in the next chapter — to bless all nations.
 
----
-
-## 四、亚伯拉罕——信心之父（12-25章上）
+### 四、亚伯拉罕——信心之父（12-25章上）
+*IV. Abraham — Father of Faith (Ch. 12–25a)*
 
 第十二章是创世记乃至整本圣经的关键转折。神呼召亚伯兰（后改名亚伯拉罕）离开本地、本族、父家，往神所指示的地去，并给他三重应许：大国、大名、万族因你得福。这就是亚伯拉罕之约，是恩典之约在旧约中的核心展开。
 
@@ -68,17 +64,14 @@ Yet the human heart remained unchanged. In the Tower of Babel incident (ch. 11),
 
 第二十二章记载亚伯拉罕献以撒，是全书最震撼的叙事。亚伯拉罕对以撒说"神必自己预备作燔祭的羊羔"——这预言在两千年后的各各他成就了。摩利亚山上的以撒背柴上山，预表基督背十字架走向髑髅地。
 
-### IV. Abraham — Father of Faith (Ch. 12–25a)
-
 Chapter 12 is the pivotal turning point of Genesis and indeed all of Scripture. God called Abram (later renamed Abraham) to leave his country, kindred, and father's house for a land God would show him, giving him a threefold promise: a great nation, a great name, and through him all families of the earth would be blessed. This is the Abrahamic covenant — the core unfolding of the covenant of grace in the Old Testament.
 
 Abraham's life was a journey of faith mixed with weakness: he twice lied about his wife being his sister (ch. 12, 20), took Hagar by his own plan (ch. 16), yet God remained faithful. Chapter 15 is a theological summit — "And he believed in the LORD; and he counted it to him for righteousness" (15:6), the Old Testament foundation of justification by faith, repeatedly cited by Paul in Romans and Galatians.
 
 Chapter 22 records Abraham offering Isaac — the most staggering narrative in the book. Abraham told Isaac, "God will provide himself a lamb for a burnt offering" — a prophecy fulfilled two thousand years later at Calvary. Isaac carrying wood up Mount Moriah foreshadows Christ bearing the cross to Golgotha.
 
----
-
-## 五、以撒与雅各——约的传承（25-36章）
+### 五、以撒与雅各——约的传承（25-36章）
+*V. Isaac and Jacob — Covenant Succession (Ch. 25–36)*
 
 以撒是过渡人物，但他的故事彰显了约的延续性。神对以撒说"我必坚定我向你父亚伯拉罕所起的誓"（26:3）。以撒重蹈父亲的覆辙，谎称妻子是妹妹——原罪的代际传递令人警醒。
 
@@ -86,17 +79,14 @@ Chapter 22 records Abraham offering Isaac — the most staggering narrative in t
 
 第三十二章是雅各生命的转折：雅博渡口与神摔跤，"你的名不要再叫雅各，要叫以色列"。大腿窝被扭伤的雅各从此一瘸一拐行走——这是蒙恩之人的记号：靠自己的力量被打碎，才学会倚靠神。第三十五章雅各回到伯特利，除去外邦偶像，回归纯正的敬拜。
 
-### V. Isaac and Jacob — Covenant Succession (Ch. 25–36)
-
 Isaac is a transitional figure, yet his story demonstrates covenant continuity. God told Isaac, "I will establish the oath which I sware unto Abraham thy father" (26:3). Isaac repeated his father's sin, lying about his wife being his sister — the intergenerational transmission of original sin is sobering.
 
 Jacob's story is far more dramatic. He bought Esau's birthright for a mess of pottage, then deceitfully obtained his father's blessing. Fleeing to Haran, the ladder in his dream at Bethel appeared to him — that ladder foreshadows Christ, the sole mediator between heaven and earth (John 1:51). Through twenty years with Laban, Jacob experienced deceiving and being deceived, toil and grace.
 
 Chapter 32 is the turning point of Jacob's life: wrestling with God at the ford of Jabbok. "Thy name shall be called no more Jacob, but Israel." Jacob's hip was put out of joint, and he walked with a limp ever after — the mark of a redeemed man: broken in self-reliance, learning to depend on God. In chapter 35, Jacob returned to Bethel, put away foreign idols, and returned to pure worship.
 
----
-
-## 六、约瑟——苦难中的救赎（37-50章）
+### 六、约瑟——苦难中的救赎（37-50章）
+*VI. Joseph — Redemption Through Suffering (Ch. 37–50)*
 
 约瑟的故事是创世记最长的连续叙事，占了近三分之一的篇幅。被兄弟出卖、被波提乏之妻诬陷、被下到监狱——约瑟的苦难一层深过一层。但"耶和华与约瑟同在"是反复出现的主题。
 
@@ -106,8 +96,6 @@ Chapter 32 is the turning point of Jacob's life: wrestling with God at the ford 
 
 创世记以约瑟的棺材停在埃及作为结尾，遥望出埃及的应许——救赎的故事远未结束。
 
-### VI. Joseph — Redemption Through Suffering (Ch. 37–50)
-
 Joseph's story is the longest continuous narrative in Genesis, occupying nearly one-third of the book. Sold by his brothers, falsely accused by Potiphar's wife, cast into prison — Joseph's suffering deepened layer upon layer. Yet "the LORD was with Joseph" is a recurring theme.
 
 From prison to prime minister, Joseph's life is the supreme illustration of "God meant it unto good" (50:20). He foreshadows Christ on multiple levels: rejected by his own people, exalted through suffering, ruling among the Gentiles, becoming the provider of bread who saves his entire family.
@@ -116,5 +104,27 @@ Chapter 45, where Joseph revealed himself to his brothers, is one of the most mo
 
 Genesis ends with Joseph's coffin resting in Egypt, looking toward the promise of the Exodus — the story of redemption is far from over.
 
----
+## 核心神学
 
+### 核心神学：盟约与应许的起源
+*Core Theology: The Origin of Covenant and Promise*
+
+创世记是整本圣经的神学根基。它回答了最根本的问题：世界从哪里来？人为什么受苦？盼望在哪里？
+
+第一，创造的教义。"起初，神创造天地"（1:1）——这一句确立了整个圣经世界观：神是自有永有的，万物是被造的，创造是出于神的主权意志而非必然。人按神的形象被造（1:26-27），因此人有尊严、有道德责任、有与神相交的能力。韦敏斯德小要理问答第一问"人的首要目的是什么？"——答案"荣耀神，以祂为乐，直到永远"——正是建立在创世记的创造论之上。
+
+第二，堕落与原罪。第三章的叙事是人类一切悲剧的源头。亚当作为全人类的代表（"盟约之首"），他的悖逆使罪进入世界，所有人都承受了罪的后果。保罗在罗马书5:12说"罪是从一人入了世界"——这正是创世记第三章的神学。然而在审判中神就给出了应许："女人的后裔要伤蛇的头"（3:15），这被称为"原始福音"（protevangelium），是全部救赎历史的种子。
+
+第三，盟约神学。创世记记载了神与挪亚之约（"永不再用洪水灭地"，9:11）和亚伯拉罕之约（"我必叫你成为大国"，12:2）。亚伯拉罕之约是整本圣经盟约神学的核心枢纽——土地、后裔、福临万邦。加拉太书3:8说"圣经既然预先看明，神要叫外邦人因信称义，就早已传福音给亚伯拉罕"——亚伯拉罕之约就是福音的预告。
+
+第四，神的护理与救赎。约瑟的话总结了创世记的神学精髓："从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命"（50:20）。人的恶行在神的主权之下被转化为救赎的器具——这正是十字架的预演。
+
+Genesis is the theological foundation of the entire Bible. It answers the most fundamental questions: Where did the world come from? Why do humans suffer? Where is hope?
+
+First, the doctrine of creation. "In the beginning God created the heaven and the earth" (Gen 1:1) — this one sentence establishes the entire biblical worldview: God is self-existent and eternal, all things are created, and creation proceeds from God's sovereign will rather than necessity. Humanity was made in God's image (1:26–27), hence possessing dignity, moral responsibility, and the capacity for communion with God. The Westminster Shorter Catechism Q1, "What is the chief end of man?" — answered, "To glorify God, and to enjoy him forever" — is built upon Genesis's doctrine of creation.
+
+Second, the fall and original sin. The narrative of chapter 3 is the source of all human tragedy. Adam, as the representative of all humanity (the "covenant head"), brought sin into the world through his disobedience, and all bear sin's consequences. Paul states in Romans 5:12, "by one man sin entered into the world" — this is the theology of Genesis 3. Yet within the very judgment God gave a promise: "the seed of the woman shall bruise the serpent's head" (3:15), called the protevangelium (the first gospel), the seed of the entire history of redemption.
+
+Third, covenant theology. Genesis records God's covenant with Noah ("I will not again curse the ground," 9:11) and the Abrahamic covenant ("I will make of thee a great nation," 12:2). The Abrahamic covenant is the central hinge of the Bible's covenant theology — land, offspring, blessing to all nations. Galatians 3:8 says, "the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham" — the Abrahamic covenant is the gospel foretold.
+
+Fourth, divine providence and redemption. Joseph's words summarize the theological essence of Genesis: "ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive" (50:20). Human evil is transformed under God's sovereignty into an instrument of redemption — a rehearsal of the cross.

@@ -9,7 +9,7 @@ title_zh: "从拔摩海岛寄出"
 title_en: "A Letter from Patmos"
 date: "2026-03-28"
 category: "to-you"
-scripture: "约翰一书 4:7-21 / 1 John 4:7-21"
+scripture: "约翰一书 4:7-21"
 summary_zh: "年迈的使徒约翰从拔摩海岛写给亲爱读者的最后书信，回忆与主同行的岁月，见证道成肉身的荣耀与爱。"
 summary_en: "A final letter from the aged Apostle John on Patmos to beloved readers, recalling years walking with the Lord, bearing witness to the glory and love of the incarnate Word."
 tags: ["见证", "爱", "光", "道成肉身"]
@@ -127,11 +127,8 @@ Beloved, let us love one another, for love is from God, and whoever loves has be
 
 愿主的恩与你同在！
 
-约翰
-拔摩海岛
-主后95年
-
 你的弟兄，在拔摩海岛上的约翰
+主后95年
 
 ## Content (English)
 
@@ -237,9 +234,6 @@ I am about to see His face. But you are still alive. You must choose—will you 
 
 May the Lord's grace be with you!
 
-John
-Isle of Patmos
-AD 95
-
 Your brother, John on the island of Patmos
+AD 95
 

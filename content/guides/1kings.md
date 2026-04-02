@@ -1,16 +1,25 @@
----
-book: "列王纪上"
-bookEn: "1 Kings"
-author: "传统认为耶利米"
-date: "约公元前970-850年"
-chapters: "22章"
-bibleId: "1KI"
-sourcePath: "old-testament/historical/1kings/client.tsx"
----
+# 列王纪上 1 Kings
 
-# 列王纪上 导读 / 1 Kings Guide
+- **作者**: 传统认为耶利米
+- **写作时间**: 约公元前970-850年
+- **章数**: 22章
 
-## 一、所罗门的荣耀与智慧（1-10章）
+## 概述
+
+列王纪上记载了以色列从所罗门的辉煌到王国分裂、再到以利亚时代的历史。全书涵盖约120年（公元前970-850年），核心人物是所罗门、罗波安/耶罗波安，以及先知以利亚。
+
+全书22章可分为三大段：所罗门的王朝（1-11章）、王国分裂与早期诸王（12-16章）、以利亚的事工（17-22章）。列王纪上的核心主题是：忠于约的王蒙福，背约的王遭审判。圣殿的建造是神与人同在的高峰，金牛犊的设立则是离弃的开始。
+
+## Overview
+
+1 Kings records Israel's history from Solomon's splendor through the kingdom's division to the era of Elijah, covering approximately 120 years (c. 970–850 BC). The central figures are Solomon, Rehoboam/Jeroboam, and the prophet Elijah.
+
+Its 22 chapters divide into three sections: Solomon's reign (ch. 1–11), the divided kingdom and early kings (ch. 12–16), and Elijah's ministry (ch. 17–22). The core theme is: kings faithful to the covenant are blessed; those who break it face judgment. The temple's construction represents the pinnacle of God's dwelling with His people; the golden calves mark the beginning of departure.
+
+## 分段导读
+
+### 一、所罗门的荣耀与智慧（1-10章）
+*I. Solomon's Glory and Wisdom (Ch. 1–10)*
 
 列王纪上以大卫年老衰迈开始。亚多尼雅企图夺位，但先知拿单和拔示巴促成所罗门按照神的旨意继位（1章）。大卫临终嘱咐所罗门要刚强壮胆，遵守耶和华的律法（2:1-4）。
 
@@ -20,8 +29,6 @@ sourcePath: "old-testament/historical/1kings/client.tsx"
 
 示巴女王的来访（10章）见证了所罗门荣耀的顶峰："你的智慧和你的福分越过我所听见的风声"（10:7）。然而这一切辉煌都将因所罗门后来的堕落而蒙上阴影。
 
-### I. Solomon's Glory and Wisdom (Ch. 1–10)
-
 1 Kings opens with David old and feeble. Adonijah attempted to seize the throne, but the prophet Nathan and Bathsheba ensured Solomon's succession according to God's will (ch. 1). David's final charge to Solomon was to be strong, courageous, and obedient to the law of the LORD (2:1–4).
 
 When Solomon sacrificed at Gibeon, God appeared to him in a dream and asked what he desired. Solomon asked not for riches or long life but for "an understanding heart to judge thy people" (3:9). God therefore gave him unparalleled wisdom, plus the riches and honor he had not asked for. The judgment of the two mothers disputing a child (3:16–28) became the classic illustration of Solomon's wisdom.
@@ -30,9 +37,8 @@ The building of the temple (ch. 5–8) is the climax of the first half. Solomon 
 
 The visit of the Queen of Sheba (ch. 10) witnessed the zenith of Solomon's glory: "thy wisdom and prosperity exceedeth the fame which I heard" (10:7). Yet all this splendor would be overshadowed by Solomon's later apostasy.
 
----
-
-## 二、所罗门的堕落与王国分裂（11-12章）
+### 二、所罗门的堕落与王国分裂（11-12章）
+*II. Solomon's Apostasy and the Kingdom Divided (Ch. 11–12)*
 
 第十一章是所罗门一生最大的悲剧。"所罗门年老的时候，他的妃嫔诱惑他的心去随从别神"（11:4）。他为摩押的基抹和亚扪的摩洛筑了邱坛。最有智慧的人做了最愚蠢的事——这警告我们，恩赐不等于恩典，知识不等于敬虔。
 
@@ -42,8 +48,6 @@ The visit of the Queen of Sheba (ch. 10) witnessed the zenith of Solomon's glory
 
 耶罗波安在但和伯特利设立金牛犊，说："以色列人哪，你们上耶路撒冷去实在是难，这就是领你们出埃及地的神"（12:28）——重演了出埃及记32章金牛犊的罪。这成了北国永远的罪根。
 
-### II. Solomon's Apostasy and the Kingdom Divided (Ch. 11–12)
-
 Chapter 11 is the greatest tragedy of Solomon's life. "When Solomon was old, his wives turned away his heart after other gods" (11:4). He built high places for Chemosh of Moab and Molech of Ammon. The wisest man did the most foolish thing — a warning that gifts are not grace, and knowledge is not godliness.
 
 God raised up three adversaries against Solomon (11:14–40); among them Jeroboam would become king of the northern kingdom. The prophet Ahijah tore his new garment into twelve pieces and gave Jeroboam ten, prophesying the division of the kingdom.
@@ -52,9 +56,27 @@ After Solomon's death, his son Rehoboam refused to lighten the people's burdens,
 
 Jeroboam set up golden calves at Dan and Bethel, saying: "It is too much for you to go up to Jerusalem: behold thy gods, O Israel, which brought thee up out of the land of Egypt" (12:28) — a replay of the golden calf sin of Exodus 32. This became the perpetual root sin of the northern kingdom.
 
----
+### 三、南北分裂与诸王的兴衰（13-16章）
+*III. The Divided Kingdom and the Rise and Fall of Kings (Ch. 13–16)*
 
-## 三、以利亚——与巴力争战的先知（17-22章）
+王国分裂之后，列王纪上用四章记载了南北两国早期诸王的兴衰。这段历史的节奏很快，因为作者的评判标准始终如一：是否忠于耶和华。
+
+北国以色列从一开始就走上了偏路。耶罗波安设立金牛犊，后来的每一位北国君王都延续了"耶罗波安使以色列人犯罪的那罪"（15:34）。拿答、巴沙、以拉、心利——北国的王位更替充满了阴谋和谋杀，没有一个稳定的王朝，因为离弃神的国度不可能有真正的平安。暗利虽然在政治上强大（建造了撒马利亚城），但圣经对他的评价只有一句："行耶和华眼中看为恶的事，比他以前的列王更甚"（16:25）。
+
+南国犹大稍好，但也不稳定。亚撒是少有的敬虔王，"行耶和华眼中看为正的事"（15:11），除去偶像甚至废了太后玛迦的位。但他晚年却依靠亚兰王而不依靠神（代下16:7-9），留下了遗憾。
+
+这段历史的核心教训是：人间王朝的兴衰不是政治博弈的结果，而是神盟约审判的运作。忠于耶和华的得蒙保守，背弃盟约的必遭倾覆。"耶罗波安的罪"成了整个北国历史的定调——一个错误的起点决定了整条道路的方向。
+
+After the kingdom divided, 1 Kings devotes four chapters to the early kings of both nations. The narrative moves quickly because the author's criterion of evaluation is always the same: faithfulness to the LORD.
+
+The northern kingdom of Israel went astray from the start. Jeroboam established the golden calves, and every subsequent northern king perpetuated "the sin of Jeroboam wherewith he made Israel to sin" (15:34). Nadab, Baasha, Elah, Zimri — the northern throne changed hands through conspiracies and assassinations, with no stable dynasty, because a kingdom that forsakes God can never have true peace. Omri, though politically powerful (he built Samaria), receives only one biblical verdict: "wrought evil in the eyes of the LORD, and did worse than all that were before him" (16:25).
+
+The southern kingdom of Judah fared somewhat better but was also unstable. Asa was a rare godly king who "did that which was right in the eyes of the LORD" (15:11), removing idols and even deposing the queen mother Maachah. Yet in his later years he relied on the king of Aram rather than on God (2 Chr 16:7-9), ending with regret.
+
+The core lesson of this section is: the rise and fall of human dynasties is not the result of political maneuvering but the operation of God's covenant judgment. Those faithful to the LORD are preserved; those who break the covenant are overthrown. "The sin of Jeroboam" set the tone for the entire history of the north — a wrong starting point determines the direction of the entire path.
+
+### 四、以利亚——与巴力争战的先知（17-22章）
+*IV. Elijah — The Prophet Who Contended with Baal (Ch. 17–22)*
 
 以利亚是旧约中最伟大的先知之一，他突然出现在经文中，没有家谱介绍——"基列寄居的提斯比人以利亚"（17:1）。他宣告旱灾审判亚哈王和耶洗别推行的巴力崇拜。
 
@@ -64,8 +86,6 @@ Jeroboam set up golden calves at Dan and Bethel, saying: "It is too much for you
 
 亚哈王因贪图拿伯的葡萄园，容许耶洗别设计害死拿伯（21章）。以利亚宣告了对亚哈家的审判："狗在何处舔拿伯的血，也必在何处舔你的血"（21:19）。亚哈暂时悔改，神推迟了审判；但这审判终必在他儿子约兰的日子应验。
 
-### III. Elijah — The Prophet Who Contended with Baal (Ch. 17–22)
-
 Elijah is one of the greatest prophets of the Old Testament, appearing suddenly without genealogical introduction — "Elijah the Tishbite, who was of the inhabitants of Gilead" (17:1). He pronounced drought as judgment on King Ahab and Jezebel's promotion of Baal worship.
 
 The contest on Mount Carmel (ch. 18) is one of the most dramatic scenes in the Old Testament. Elijah stood alone against 850 prophets of Baal and Asherah. "How long halt ye between two opinions? if the LORD be God, follow him: but if Baal, then follow him" (18:21). He challenged the people to stop wavering. The LORD sent fire that consumed the burnt offering and even the water on the altar; the people fell prostrate: "The LORD, he is the God; the LORD, he is the God!"
@@ -74,41 +94,27 @@ Yet after the great victory on Carmel, Elijah fled into the wilderness under Jez
 
 King Ahab coveted Naboth's vineyard and allowed Jezebel to engineer Naboth's murder (ch. 21). Elijah pronounced judgment on Ahab's house: "In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine" (21:19). Ahab temporarily repented and God delayed the judgment; but it would surely be fulfilled in the days of his son Joram.
 
----
+## 核心神学
 
-## 四、以利亚与以利沙：先知对抗王权（17-22章）
+### 核心神学：圣殿与国度的分裂
+*Core Theology: The Temple and the Division of the Kingdom*
 
-列王纪上的后半部被先知以利亚所主导。迦密山上的对决（18章）是旧约最戏剧性的场面之一——以利亚独自面对450个巴力先知，"耶和华是神"的火从天降下（18:38），百姓俯伏说："耶和华是神！耶和华是神！"
+列王纪上从大卫王朝的巅峰写到以色列国度的分裂，呈现了一个令人心碎的神学主题：人的不忠与神的信实之间的张力。
 
-然而在大胜之后，以利亚竟然因耶洗别的威胁逃到旷野，求死说"耶和华啊，罢了！求你取我的性命"（19:4）。信心的高峰后紧跟灵性的低谷——这是许多事奉者的真实经历。神没有责备他，而是用"微小的声音"（19:12）来恢复他。
+第一，所罗门的圣殿——神同在的高峰。所罗门建殿是旧约叙事的高潮之一。"耶和华的荣光充满了殿"（8:11）——自从出埃及记会幕以来，神终于有了一座永久的居所。所罗门的献殿祷告（8章）是旧约中最伟大的祷告之一，其中包含了一个惊人的认信："天和天上的天尚且不足你居住的，何况我所建的这殿呢？"（8:27）——圣殿只是影子，无限的神不能被有限的建筑所容纳。这预表了约翰福音2:19-21耶稣说"你们拆毁这殿，我三日内要再建立起来"——基督的身体才是真正的圣殿。
 
-亚哈王夺取拿伯的葡萄园（21章）是王权腐败的极端案例。以利亚宣告审判——"狗在何处舔拿伯的血，也必在何处舔你的血"（21:19）。先知的职分就是对权力说真话，不管代价如何。
+第二，智慧的有限与信仰的持守。所罗门求智慧而非富贵（3:9），神喜悦他。但智慧并不能保证信仰的忠贞——"所罗门年老的时候，他的妃嫔诱惑他的心去随从别神"（11:4）。世上最聪明的人也会在属灵上跌倒。这是一个严肃的警告：知识不等于敬虔，恩赐不等于品格。"自己以为站得稳的，须要谨慎，免得跌倒"（林前10:12）。
 
-### IV. Elijah and Elisha: Prophets Against Royal Power (Ch. 17-22)
+第三，国度分裂——罪的后果。所罗门的拜偶像直接导致了国度的分裂（11:11-13）。耶罗波安在北国设立金牛犊——"以色列啊，这就是领你们出埃及地的神"（12:28），这是对出埃及记32章金牛犊事件的重演。历史在罪中循环，每一次都更加严重。
 
-The latter half of 1 Kings is dominated by the prophet Elijah. The confrontation on Mount Carmel (ch. 18) is one of the Old Testament's most dramatic scenes -- Elijah alone against 450 prophets of Baal; "the fire of the LORD fell" (18:38), and the people fell on their faces: "The LORD, he is the God!"
+第四，以利亚——孤独的见证人。在亚哈和耶洗别的黑暗统治下，以利亚成为神仅存的先知声音。迦密山上的对决（18章）是信仰与偶像的终极交锋："耶和华是神！耶和华是神！"但即使在这次伟大的胜利之后，以利亚也陷入绝望，逃到何烈山。神对他说"我在以色列人中为自己留下七千人，是未曾向巴力屈膝的"（19:18）——保罗在罗马书11:4引用这段话论"照着拣选的恩典，还有所留的余数"。神永远保守祂的余民。
 
-Yet after this great victory, Elijah fled to the wilderness because of Jezebel's threat, praying for death: "It is enough; now, O LORD, take away my life" (19:4). A spiritual valley immediately following a peak of faith -- this is the real experience of many servants of God. The LORD did not rebuke him but restored him with "a still small voice" (19:12).
+First Kings traces the arc from the pinnacle of David's dynasty to the division of Israel's kingdom, presenting a heartbreaking theological theme: the tension between human unfaithfulness and divine faithfulness.
 
-Ahab's seizure of Naboth's vineyard (ch. 21) is an extreme case of royal corruption. Elijah pronounced judgment: "In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine" (21:19). The prophet's calling is to speak truth to power, regardless of cost.
+First, Solomon's Temple — the pinnacle of God's presence. Solomon's temple construction is one of the climaxes of Old Testament narrative. "The glory of the LORD had filled the house of the LORD" (8:11) — since the tabernacle of Exodus, God at last had a permanent dwelling. Solomon's dedicatory prayer (ch. 8) is one of the greatest prayers in the Old Testament, containing an astonishing confession: "Behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?" (8:27) — the temple is but a shadow; the infinite God cannot be contained in a finite building. This prefigures John 2:19-21, where Jesus said "Destroy this temple, and in three days I will raise it up" — Christ's body is the true temple.
 
----
+Second, the limits of wisdom and perseverance in faith. Solomon asked for wisdom rather than riches (3:9), and God was pleased. But wisdom does not guarantee faithfulness — "when Solomon was old, his wives turned away his heart after other gods" (11:4). The wisest man on earth could still fall spiritually. This is a solemn warning: knowledge does not equal godliness; giftedness does not equal character. "Let him that thinketh he standeth take heed lest he fall" (1 Cor 10:12).
 
-## 五、所罗门的兴衰：智慧不能代替顺服（1-11章）
+Third, the division of the kingdom — the consequence of sin. Solomon's idolatry directly caused the kingdom's division (11:11-13). Jeroboam set up golden calves in the north — "Behold thy gods, O Israel, which brought thee up out of the land of Egypt" (12:28), a replay of the golden calf in Exodus 32. History cycles through sin, each iteration more severe.
 
-所罗门向神求智慧而非富贵（3:9-12），神大悦并加赐他一切。他建造了辉煌的圣殿（6-7章），献殿祷告（8章）是旧约最伟大的公祷之一。然而这一切荣耀的背后，衰败的种子已经播下。
-
-"所罗门王在法老的女儿之外，又宠爱许多外邦女子"（11:1），她们"引诱他的心去随从别神"（11:4）。最智慧的人犯了最愚昧的罪——不是不知道对错，而是明知故犯。智慧是恩赐，顺服是选择；恩赐不能代替选择。
-
-所罗门的失败导致了王国的分裂（12章）。耶罗波安的金牛犊（12:28-29）——"以色列人哪，你们上耶路撒冷去实在是难，这就是领你们出埃及地的神"——成为北国永远的罪。列王纪上教导：属灵的遗产不能被继承，每一代人都必须自己选择顺服。
-
-### V. Solomon's Rise and Fall: Wisdom Cannot Substitute for Obedience (Ch. 1-11)
-
-Solomon asked God for wisdom rather than riches (3:9-12); God was pleased and added everything else. He built the magnificent temple (ch. 6-7); the dedication prayer (ch. 8) is one of the Old Testament's greatest public prayers. Yet behind all this glory, seeds of decay were already sown.
-
-"King Solomon loved many strange women" besides Pharaoh's daughter (11:1), and they "turned away his heart after other gods" (11:4). The wisest man committed the most foolish sin -- not from ignorance but deliberate choice. Wisdom is a gift; obedience is a choice. Gifts cannot substitute for choices.
-
-Solomon's failure led to the kingdom's division (ch. 12). Jeroboam's golden calves (12:28-29) -- "It is too much for you to go up to Jerusalem: behold thy gods, O Israel, which brought thee up out of the land of Egypt" -- became the northern kingdom's perpetual sin. 1 Kings teaches: spiritual heritage cannot be inherited; each generation must choose obedience for itself.
-
----
-
+Fourth, Elijah — the solitary witness. Under the dark reign of Ahab and Jezebel, Elijah became God's sole prophetic voice. The confrontation on Mount Carmel (ch. 18) was the ultimate showdown between faith and idolatry: "The LORD, he is the God; the LORD, he is the God!" Yet even after this great victory, Elijah sank into despair and fled to Horeb. God told him, "I have left me seven thousand in Israel, all the knees which have not bowed unto Baal" (19:18) — Paul quotes this in Romans 11:4 regarding "a remnant according to the election of grace." God always preserves His remnant.

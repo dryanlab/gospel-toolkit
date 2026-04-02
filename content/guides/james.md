@@ -1,16 +1,66 @@
----
-book: "雅各书"
-bookEn: "James"
-author: "主的兄弟雅各"
-date: "约公元45-49年"
-chapters: "5章"
-bibleId: "JAS"
-sourcePath: "new-testament/general/james/client.tsx"
----
+# 雅各书 James
 
-# 雅各书 导读 / James Guide
+- **作者**: 主的兄弟雅各
+- **写作时间**: 约公元45-49年
+- **章数**: 5章
 
-## 四、争战的根源与谦卑顺服（4章）
+## 概述
+
+雅各书是新约最早期的书信之一，作者是主的兄弟雅各，写给流散在外的犹太基督徒。这封书信极具实践性，被比作新约的箴言书，着重论述信仰如何落实在日常生活中：如何面对试炼、如何对待穷人、信心与行为的关系、控制舌头、谦卑、祷告的力量。改革宗传统认为雅各书与保罗书信不冲突——两人强调的是信仰的不同方面。
+
+## Overview
+
+James is one of the earliest New Testament letters, written by James the brother of the Lord to Jewish Christians scattered abroad. This intensely practical letter is often compared to the New Testament Proverbs, emphasizing how faith is lived out in daily life: handling trials, treating the poor, the relationship of faith and works, controlling the tongue, humility, and the power of prayer. The Reformed tradition holds that James does not contradict Paul — the two emphasize different aspects of the same faith.
+
+## 分段导读
+
+### 一、试炼与智慧：信心的炼净（1章）
+*I. Trials and Wisdom: The Purifying of Faith*
+
+雅各书以一个出人意料的劝勉开始：要以试炼为大喜乐。这不是受苦主义，而是对试炼本质的深刻认识。
+
+"我的弟兄们，你们落在百般试炼中，都要以为大喜乐；因为知道你们的信心经过试验，就生忍耐。但忍耐也当成功，使你们成全、完备，毫无缺欠。"（雅各书 1:2-4）
+
+试炼的目的是"生忍耐"，忍耐的目的是"成全、完备"。这是神对信徒的心意：借着苦难塑造完全的品格。雅各接着说，在试炼中缺乏智慧的，可以向神祈求，"神是厚赐与众人，也不斥责人的"（1:5）。面对试炼的智慧，不是靠人的聪明，而是来自神的恩赐。
+
+James opens with a surprising exhortation: count trials as great joy. This is not masochism but a profound understanding of what trials truly are.
+
+"My brethren, count it all joy when ye fall into divers temptations; Knowing this, that the trying of your faith worketh patience. But let patience have her perfect work, that ye may be perfect and entire, wanting nothing." (James 1:2-4, KJV)
+
+Trials produce patience; patience produces perfection and completeness. This is God's intention for believers: to shape complete character through suffering. James continues: those who lack wisdom in trials may ask God, who "giveth to all men liberally, and upbraideth not' (1:5). Wisdom in the face of trials comes not from human cleverness but from God's gracious gift.
+
+### 二、信心与行为：真信心必结出果子（2章）
+*II. Faith and Works: True Faith Bears Fruit*
+
+雅各书最著名也最容易被误解的段落，是关于信心与行为的关系。马丁·路德曾称雅各书为"稻草的书信"，但这是误解了雅各的意思。
+
+"我的弟兄们，若有人说自己有信心，却没有行为，有什么益处呢？这信心能救他吗？……这样，信心若没有行为就是死的。"（雅各书 2:14,17）
+
+雅各攻击的不是保罗所说"因信称义"的信心，而是"口头信心"——只是说说而已、没有生命改变的虚假信心。保罗说我们靠信心得救，雅各说真信心会结出行为。两人说的不是矛盾，而是同一真理的两面：真正的信心必然产生行为，而没有行为的"信心"根本不是真信心。亚伯拉罕"信心是与他的行为并行，而且信心因着行为才得成全"（2:22）——信心和行为是合一的，不可分割。
+
+The most famous and most easily misunderstood passage in James concerns the relationship between faith and works. Martin Luther once called James "an epistle of straw," but this misread James's intention.
+
+"What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? … Even so faith, if it hath not works, is dead, being alone." (James 2:14,17, KJV)
+
+James is not attacking the justifying faith Paul spoke of, but "verbal faith' — a false faith that consists only of words without life transformation. Paul says we are saved through faith; James says true faith produces works. The two are not contradictory but two sides of the same truth: genuine faith inevitably produces works, and "faith' without works is simply not true faith. Abraham's "faith wrought with his works, and by works was faith made perfect' (2:22) — faith and works are unified, inseparable.
+
+### 三、舌头的力量与从上头来的智慧（3章）
+*III. The Power of the Tongue and Wisdom from Above*
+
+雅各书第三章用大量篇幅论及舌头——这小小的器官却有巨大的力量，可以建造也可以摧毁。
+
+"这样，舌头在百体里也是最小的，却能说大话。看哪，最小的火能点着最大的树林。舌头就是火，在我们百体中，舌头是个罪恶的世界，能污秽全身，也能把生命的轮子点起来，并且是从地狱里点着的。"（雅各书 3:5-6）
+
+舌头能用来"颂赞那为主、为父的神，又用它来咒诅那照着　神形像被造的人"（3:9）——同一个舌头，可以赞美神，也可以伤害人。雅各指出，真正的解决之道不是靠自己控制舌头（"没有人能制伏这舌头"，3:8），而是靠"从上头来的智慧"——这智慧是"纯洁的、和平的、温良的、柔顺的，满有怜悯、多结善果，没有偏见，没有假冒"（3:17）。
+
+James chapter 3 devotes considerable space to the tongue — this small organ with tremendous power, capable of both building up and tearing down.
+
+"Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth! And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell." (James 3:5-6, KJV)
+
+The tongue is used "therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God" (3:9) — the same tongue can praise God and wound people. James notes the true solution is not self-control of the tongue ("no man can tame the tongue," 3:8), but "wisdom from above" — wisdom that is "first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy" (3:17).
+
+### 四、争战的根源与谦卑顺服（4章）
+*IV. The Root of Conflict and Humble Submission (Ch. 4)*
 
 雅各第四章深入诊断教会争战的根源，他的诊断直截了当："你们中间的争战斗殴是从哪里来的呢？不是从你们百体中战斗之私欲来的吗？"（4:1）争战不从外部而来，从内心的私欲而来。祷告却没有得着，是因为"妄求，要浪费在你们的宴乐中"（4:3）——祷告的动机错了。
 
@@ -18,17 +68,14 @@ sourcePath: "new-testament/general/james/client.tsx"
 
 雅各也严肃地提醒人生的短暂："你们的生命是什么呢？你们原来是一片云雾，出现少时就不见了。"（4:14）因此一切计划都要说"主若愿意，我们就可以活着，也可以做这事或那事"（4:15）。谦卑不只是对神的态度，也是对未来不确定性的诚实承认。
 
-### IV. The Root of Conflict and Humble Submission (Ch. 4)
-
 James chapter 4 diagnoses the root of conflict in the church with directness: "From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?" (4:1). Conflict does not come from outside but from inner desires. Prayers go unanswered because they are "asked amiss, that ye may consume it upon your lusts" (4:3) — the motivation for prayer is wrong.
 
 "Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God?" (4:4). This is a sharp warning: a believer's attachment to the world's system is spiritual unfaithfulness to God. The answer of grace is humility: "God resisteth the proud, but giveth grace unto the humble. Submit yourselves therefore to God. Resist the devil, and he will flee from you." (4:6-7).
 
 James also solemnly reminds us of life's brevity: "For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away." (4:14). Therefore all plans should be qualified with "If the Lord will, we shall live, and do this, or that" (4:15). Humility is not only an attitude toward God but an honest acknowledgment of our uncertain future.
 
----
-
-## 五、对富人的警告与祷告的大能（5章）
+### 五、对富人的警告与祷告的大能（5章）
+*V. Warning to the Rich and the Power of Prayer (Ch. 5)*
 
 雅各书第五章以对不义富人的严厉警告开始——他们积存的金银会作见证，他们克扣工人的工价"达到万军之主的耳中"（5:4）。这不是对富裕本身的谴责，而是对靠不义手段积累财富、漠视穷人的罪的严肃控诉。
 
@@ -38,11 +85,7 @@ James also solemnly reminds us of life's brevity: "For what is your life? It is 
 
 "你们中间有病了的呢，他就该请教会的长老来，他们可以奉主的名用油抹他，为他祷告；出于信心的祷告要救那病人，主必叫他起来；他若犯了罪，也必蒙赦免。"（雅各书 5:14-15）
 
-"Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord: And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him." (James 5:14-15, KJV)
-
 以利亚是"与我们一样性情的人"（5:17），却能用祷告止住雨水三年半——这说明祷告的大能不在于祷告者的特殊地位，而在于那位听祷告的神。"义人祈祷所发的力是大有功效的"（5:16）——这是雅各书对每一位信徒的激励与邀请。
-
-### V. Warning to the Rich and the Power of Prayer (Ch. 5)
 
 James chapter 5 opens with a sharp warning to unjust rich men — their stored gold and silver will testify against them, and the wages they withheld from workers "have entered into the ears of the Lord of sabaoth" (5:4). This is not a condemnation of wealth itself but a solemn indictment of the sin of unjustly acquiring riches and ignoring the poor.
 
@@ -54,5 +97,23 @@ The book concludes with the power of prayer, one of James's most famous passages
 
 Elijah was "a man subject to like passions as we are" (5:17), yet through prayer stopped rain for three and a half years — this shows the power of prayer lies not in the prayer's special status but in the God who hears. "The effectual fervent prayer of a righteous man availeth much" (5:16) — this is James's encouragement and invitation to every believer.
 
----
+## 核心神学
 
+### 核心神学：信心与行为——活的信心必结果子
+*Core Theology: Faith and Works — Living Faith Must Bear Fruit*
+
+雅各书被路德称为"稻草书信"，但它与保罗的因信称义并不矛盾——雅各攻击的是没有行为的死信心，而非保罗所说的真信心。
+
+第一，信心没有行为是死的。"信心若没有行为就是死的"（2:26）。雅各不是在说靠行为得救——他是在说，真信心必然产生行为。亚伯拉罕"把他儿子以撒献在坛上，岂不是因行为称义吗？"（2:21）——这里的"称义"不是法庭上的宣告（保罗的用法），而是在人面前的证明。保罗说信心使人在神面前称义；雅各说行为证明信心在人面前是真的。两者互补，不矛盾。
+
+第二，舌头的能力。"舌头就是火，在我们百体中，舌头是个罪恶的世界"（3:6）。"舌头在百体里也是最小的，却能说大话"（3:5）。雅各对言语的警告在社交媒体时代尤其有力——一条推文可以毁掉一生的名誉。"颂赞和咒诅从一个口里出来。我的弟兄们，这是不应当的"（3:10）。
+
+第三，听道行道。"只是你们要行道，不要单单听道"（1:22）。雅各是实践神学家——他关心的不是抽象的教义辩论，而是信仰如何落实在日常生活中。"在神我们的父面前，那清洁没有玷污的虔诚，就是看顾在患难中的孤儿寡妇"（1:27）。真正的敬虔不是在教会里表现属灵，而是在日常生活中活出爱。
+
+James was called an "epistle of straw" by Luther, but it does not contradict Paul's justification by faith — James attacks dead faith without works, not the living faith Paul describes.
+
+First, faith without works is dead. "Faith without works is dead" (2:26). James is not saying works save — he is saying true faith inevitably produces works. "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?" (2:21) — "justified" here is not a courtroom verdict (Paul's usage) but a demonstration before people. Paul says faith justifies before God; James says works prove faith is genuine before men. The two are complementary, not contradictory.
+
+Second, the power of the tongue. "The tongue is a fire, a world of iniquity" (3:6). "The tongue is a little member, and boasteth great things" (3:5). James's warning about speech is especially powerful in the social media age — one tweet can destroy a lifetime reputation. "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be" (3:10).
+
+Third, be doers of the word. "Be ye doers of the word, and not hearers only" (1:22). James is a practical theologian — he cares not about abstract doctrinal debates but how faith is lived out in daily life. "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction" (1:27). True godliness is not appearing spiritual in church but living out love in everyday life.

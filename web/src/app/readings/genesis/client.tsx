@@ -36,6 +36,12 @@ function renderMd(md: string) {
     let html = line;
     html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
     html = html.replace(/\*(.+?)\*/g, '<em class="text-[var(--color-accent)]">$1</em>');
+    if (line.startsWith('### ')) {
+      return <h3 key={i} className="text-[16px] font-bold text-[var(--color-text)] leading-[1.8] mt-7 mb-1" dangerouslySetInnerHTML={{ __html: html.slice(4) }} />;
+    }
+    if (line.startsWith('## ')) {
+      return <h2 key={i} className="text-[17px] font-bold text-[var(--color-text)] leading-[1.8] mt-6 mb-2" dangerouslySetInnerHTML={{ __html: html.slice(3) }} />;
+    }
     if (line.startsWith('- ')) {
       return <li key={i} className="text-[15px] text-[var(--color-text)] leading-[1.8] ml-4 list-disc" dangerouslySetInnerHTML={{ __html: html.slice(2) }} />;
     }
@@ -173,26 +179,26 @@ export default function GenesisClient({ chapters: staticChapters }: { chapters: 
 
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">📍 历史背景 Historical Context</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed mb-2">{ch.historyContext_zh}</p>
-            <p className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed">{ch.historyContext_en}</p>
+            <div className="text-sm text-[var(--color-text)] leading-relaxed mb-2">{renderMd(ch.historyContext_zh || '')}</div>
+            <div className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed">{renderMd(ch.historyContext_en || '')}</div>
           </div>
 
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">🔍 经文结构 Structure</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed mb-2">{ch.structure_zh}</p>
-            <p className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed">{ch.structure_en}</p>
+            <div className="text-sm text-[var(--color-text)] leading-relaxed mb-2">{renderMd(ch.structure_zh || '')}</div>
+            <div className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed">{renderMd(ch.structure_en || '')}</div>
           </div>
 
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">⛪ 神学意涵 Theological Significance</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed mb-2">{ch.theology_zh}</p>
-            <p className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed">{ch.theology_en}</p>
+            <div className="text-sm text-[var(--color-text)] leading-relaxed mb-2">{renderMd(ch.theology_zh || '')}</div>
+            <div className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed">{renderMd(ch.theology_en || '')}</div>
           </div>
 
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">✝️ 基督的影子 Shadow of Christ</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed mb-2">{ch.christShadow_zh}</p>
-            <p className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed">{ch.christShadow_en}</p>
+            <div className="text-sm text-[var(--color-text)] leading-relaxed mb-2">{renderMd(ch.christShadow_zh || '')}</div>
+            <div className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed">{renderMd(ch.christShadow_en || '')}</div>
           </div>
         </div>
 

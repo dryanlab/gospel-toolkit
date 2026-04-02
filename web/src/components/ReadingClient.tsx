@@ -63,7 +63,7 @@ function renderMd(md: string) {
     const trimmed = line.trim();
     // Headings
     if (trimmed.startsWith('### ')) {
-      return <h3 key={i} className="font-serif-cn text-base font-bold text-[var(--color-text)] mt-6 mb-3" dangerouslySetInnerHTML={{ __html: html.replace(/^###\s+/, '') }} />;
+      return <h3 key={i} className="font-serif-cn text-base font-bold text-[var(--color-text)] mt-7 mb-1" dangerouslySetInnerHTML={{ __html: html.replace(/^###\s+/, '') }} />;
     }
     if (trimmed.startsWith('## ')) {
       return <h2 key={i} className="font-serif-cn text-lg font-bold text-[var(--color-text)] mt-8 mb-4" dangerouslySetInnerHTML={{ __html: html.replace(/^##\s+/, '') }} />;
@@ -78,7 +78,7 @@ function renderMd(md: string) {
     // Ordered list
     const olMatch = trimmed.match(/^(\d+)\.\s+(.*)$/);
     if (olMatch) {
-      return <li key={i} className="text-[15px] text-[var(--color-text)] leading-[1.8] ml-4 list-decimal" dangerouslySetInnerHTML={{ __html: html.replace(/^\d+\.\s+/, '') }} />;
+      return <li key={i} className="text-[15px] text-[var(--color-text)] leading-[1.8] ml-4 list-decimal mb-1" dangerouslySetInnerHTML={{ __html: html.replace(/^\d+\.\s+/, '') }} />;
     }
     // Unordered list
     if (trimmed.startsWith('- ')) {
@@ -205,19 +205,19 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">📍 历史背景</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.historyContext_zh) }}></p>
+            <div className="text-sm text-[var(--color-text)] leading-relaxed">{renderMd(ch.historyContext_zh || '')}</div>
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">🔍 经文结构</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.structure_zh) }}></p>
+            <div className="text-sm text-[var(--color-text)] leading-relaxed">{renderMd(ch.structure_zh || '')}</div>
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">⛪ 神学意涵</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.theology_zh) }}></p>
+            <div className="text-sm text-[var(--color-text)] leading-relaxed">{renderMd(ch.theology_zh || '')}</div>
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">✝️ 基督的影子</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.christShadow_zh) }}></p>
+            <div className="text-sm text-[var(--color-text)] leading-relaxed">{renderMd(ch.christShadow_zh || '')}</div>
           </div>
         </div>
 
@@ -237,19 +237,19 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">📍 Historical Context</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.historyContext_en) }}></p>
+            <div className="text-sm text-[var(--color-text)] leading-relaxed">{renderMd(ch.historyContext_en || '')}</div>
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">🔍 Structure</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.structure_en) }}></p>
+            <div className="text-sm text-[var(--color-text)] leading-relaxed">{renderMd(ch.structure_en || '')}</div>
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">⛪ Theological Significance</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.theology_en) }}></p>
+            <div className="text-sm text-[var(--color-text)] leading-relaxed">{renderMd(ch.theology_en || '')}</div>
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">✝️ Shadow of Christ</h3>
-            <p className="text-sm text-[var(--color-text)] leading-relaxed" dangerouslySetInnerHTML={{ __html: inlineMd(ch.christShadow_en) }}></p>
+            <div className="text-sm text-[var(--color-text)] leading-relaxed">{renderMd(ch.christShadow_en || '')}</div>
           </div>
         </div>
 

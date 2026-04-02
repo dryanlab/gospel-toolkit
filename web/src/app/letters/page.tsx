@@ -30,9 +30,10 @@ export default function LettersPage() {
 
   // In production, hide unpublished letters completely
   const preview = typeof window !== 'undefined' && isPreview() ? true : false;
-  const visible = hydrated && !preview
+  const visible = (hydrated && !preview
     ? letters.filter(l => isPublished(l.date))
-    : letters;
+    : letters
+  ).sort((a, b) => a.date.localeCompare(b.date));
   const filtered = activeCategory === 'all'
     ? visible
     : visible.filter(l => l.category === activeCategory);

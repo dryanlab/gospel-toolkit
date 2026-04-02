@@ -1,16 +1,25 @@
----
-book: "弥迦书"
-bookEn: "Micah"
-author: "弥迦"
-date: "约公元前735-700年"
-chapters: "7章"
-bibleId: "MIC"
-sourcePath: "old-testament/minor-prophets/micah/client.tsx"
----
+# 弥迦书 Micah
 
-# 弥迦书 导读 / Micah Guide
+- **作者**: 弥迦
+- **写作时间**: 约公元前735-700年
+- **章数**: 7章
 
-## 一、审判的宣告（1-3章）
+## 概述
+
+弥迦书（7章）是与以赛亚同时代的先知弥迦所写（约公元前735-700年），主要向犹大和撒马利亚传讲。弥迦来自犹大乡村摩利沙，他的信息结合了社会公义的控诉和弥赛亚盼望的宣告。
+
+弥迦书最著名的三节经文分别是：弥赛亚降生在伯利恒的预言（5:2）、刀打成犁头的和平异象（4:3）、以及"行公义，好怜悯，存谦卑的心与神同行"的总结（6:8）。弥迦教导：审判与盼望并存，公义与怜悯不可分割。
+
+## Overview
+
+Micah (7 chapters) was written by the prophet Micah, a contemporary of Isaiah (c. 735–700 BC), primarily addressing Judah and Samaria. Micah came from rural Moresheth; his message combines social justice indictment with messianic hope.
+
+Micah's three most famous verses are: the Messiah's birth in Bethlehem (5:2), the peace vision of swords into plowshares (4:3), and the summary "do justly, love mercy, walk humbly with thy God" (6:8). Micah teaches: judgment and hope coexist; justice and mercy are inseparable.
+
+## 分段导读
+
+### 一、审判的宣告（1-3章）
+*I. Announcement of Judgment (Ch. 1–3)*
 
 弥迦以宇宙性的审判场景开场："万民哪，你们都要听！地和其上所有的，也都要侧耳而听！主耶和华从他的圣殿要见证你们的不是"（1:2）。神从天降临，山在祂面前融化，谷裂开——这是神显现的壮丽描写。
 
@@ -20,8 +29,6 @@ sourcePath: "old-testament/minor-prophets/micah/client.tsx"
 
 第三章最严厉的控诉指向首领和先知："你们恶善好恶，从人身上剥皮，从人骨头上剔肉"（3:2）。弥迦宣告："锡安必被耕种像一块田，耶路撒冷必变为乱堆"（3:12）——这个预言在一百多年后被耶利米引用（耶26:18），也确实应验了。
 
-### I. Announcement of Judgment (Ch. 1–3)
-
 Micah opens with a cosmic judgment scene: "Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord GOD be witness against you, the Lord from his holy temple" (1:2). God descends from heaven; mountains melt before Him, valleys split — a magnificent theophany.
 
 Micah pronounces judgment on both Samaria and Jerusalem. Samaria will become a heap of ruins, her idols shattered (1:6–7). Micah grieves — "Therefore I will wail and howl, I will go stripped and naked" (1:8). A true prophet announcing judgment does not gloat but weeps with the people.
@@ -30,9 +37,8 @@ Chapters 2–3 specifically indict Israel's leaders. Greedy landlords "devise in
 
 Chapter 3's harshest indictment targets rulers and prophets: "Who hate the good, and love the evil; who pluck off their skin from off them, and their flesh from off their bones" (3:2). Micah declares: "Therefore shall Zion for your sake be plowed as a field, and Jerusalem shall become heaps" (3:12) — this prophecy was cited by Jeremiah over a century later (Jer 26:18) and was indeed fulfilled.
 
----
-
-## 二、盼望与弥赛亚的应许（4-5章）
+### 二、盼望与弥赛亚的应许（4-5章）
+*II. Hope and the Messianic Promise (Ch. 4–5)*
 
 从第四章开始，基调从审判急转为盼望。弥迦描绘了末日的荣耀图景："末后的日子，耶和华殿的山必坚立，超乎诸山，高举过于万岭；万民都要流归这山"（4:1）。然后是著名的和平异象："他们要将刀打成犁头，把枪打成镰刀。这国不举刀攻击那国；他们也不再学习战事"（4:3）。
 
@@ -40,17 +46,14 @@ Chapter 3's harshest indictment targets rulers and prophets: "Who hate the good,
 
 这节经文在耶稣降生时被直接引用——希律王询问基督当生在何处，祭司长和文士引用此节回答"在犹大的伯利恒"（太2:5-6）。弥迦在基督降生前七百多年精确预言了祂的出生地。"他的根源从亘古，从太初就有"——这不只是预言一位人间君王，而是指向一位永恒的存在者。
 
-### II. Hope and the Messianic Promise (Ch. 4–5)
-
 From chapter 4, the tone shifts dramatically from judgment to hope. Micah paints an eschatological vision of glory: "But in the last days it shall come to pass, that the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it" (4:1). Then the famous peace vision: "And they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more" (4:3).
 
 Chapter 5 contains Micah's most important prophecy — the Messiah's birth in Bethlehem: "But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting" (5:2).
 
 This verse was directly cited at Jesus' birth — when Herod asked where the Christ was to be born, the chief priests and scribes quoted this passage: "In Bethlehem of Judaea" (Matt 2:5–6). Micah precisely predicted Christ's birthplace over 700 years before His birth. "Whose goings forth have been from of old, from everlasting" — this prophesies not merely a human king but an eternal Being.
 
----
-
-## 三、神的要求与最终的怜悯（6-7章）
+### 三、神的要求与最终的怜悯（6-7章）
+*III. God's Requirement and Final Mercy (Ch. 6–7)*
 
 第六章以法庭场景展开——神与以色列打官司，山岭和磐石是见证人。神回顾自己对以色列的恩典：带他们出埃及、差遣摩西亚伦米利暗、拦阻巴兰咒诅他们。然后问："我的百姓啊，我向你做了什么？我在什么事上使你厌烦？你可以对我证明"（6:3）。
 
@@ -60,8 +63,6 @@ This verse was directly cited at Jesus' birth — when Herod asked where the Chr
 
 全书以信心的宣告结束——即使在黑暗中，弥迦仍然仰望神："至于我，我要仰望耶和华，要等候那救我的神；我的神必应允我"（7:7）。最后一段是对神怜悯的颂赞："神啊，有何神像你，赦免罪孽，饶恕你产业之余民的罪过，不永远怀怒，喜爱施恩？必再怜悯我们，将我们的罪孽踏在脚下，又将我们的一切罪投于深海"（7:18-19）。"弥迦"这个名字的意思正是"有何神像耶和华"——全书最后回到了先知名字的含义。
 
-### III. God's Requirement and Final Mercy (Ch. 6–7)
-
 Chapter 6 opens as a courtroom scene — God takes Israel to court, with mountains and hills as witnesses. God recounts His grace: bringing them from Egypt, sending Moses, Aaron, and Miriam, preventing Balaam's curse. Then asks: "O my people, what have I done unto thee? and wherein have I wearied thee? testify against me" (6:3).
 
 Israel asks how to respond — thousands of rams? Ten thousands of rivers of oil? Even their firstborn? (6:6–7) Micah gives the Old Testament's most classic summary: "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?" (6:8).
@@ -70,23 +71,23 @@ This does not mean works replace grace, but that those who truly know God inevit
 
 The book ends with a declaration of faith — even in darkness, Micah looks to God: "Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me" (7:7). The final passage praises God's mercy: "Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy. He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea" (7:18–19). "Micah" means "Who is like the LORD?" — the book's finale returns to the prophet's own name.
 
----
+## 核心神学
 
-## 四、弥赛亚从伯利恒出来（5-7章）
+### 核心神学：公义、怜悯与谦卑同行
+*Core Theology: Justice, Mercy, and Walking Humbly*
 
-弥迦书5:2是旧约最精确的弥赛亚预言之一："伯利恒以法他啊，你在犹大诸城中为小，将来必有一位从你那里出来，在以色列中为我作掌权的；他的根源从亘古，从太初就有。"这节经文在马太福音2:6被引用，博士们据此找到了婴孩耶稣。
+弥迦书浓缩了旧约先知信息的精华，一句话概括了神对人的全部要求，同时预言了弥赛亚的出生地。
 
-弥迦书6:8是旧约对信仰生活最精练的总结："世人哪，耶和华已指示你何为善。他向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。"不是复杂的礼仪，不是昂贵的祭物，而是三件简单的事：公义、怜悯、谦卑。
+第一，弥迦书6:8——信仰的总纲。"世人哪，耶和华已指示你何为善。祂向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心与你的神同行"（6:8）。这被许多人视为旧约伦理的最高概括。"行公义"——在社会关系中维护正义；"好怜悯"——对软弱者的同情和帮助；"存谦卑的心与神同行"——不是骄傲的自义，而是谦卑地依靠神。这三者不可分割——没有公义的怜悯是软弱的，没有怜悯的公义是冷酷的，离开了与神同行，两者都失去了根基。
 
-第7章以信心的宣告结束："至于我，我要仰望耶和华，要等候那救我的神"（7:7）。弥迦在黑暗中宣告光明，在审判中宣告盼望——因为"神喜爱施恩"（7:18）。这位喜爱怜悯的神，在基督里向全人类施展了他最大的怜悯。
+第二，伯利恒的预言。"伯利恒以法他啊，你在犹大诸城中为小，将来必有一位从你那里出来，在以色列中为我作掌权的；祂的根源从亘古、从太初就有"（5:2）。马太福音2:6引用这段经文指向基督的降生。注意"祂的根源从亘古、从太初就有"——这不是一个普通的人类君王，而是永恒者进入时间。弥赛亚从最小的城出来，正如神一贯的方式：拣选卑微的来成就伟大的。
 
-### IV. The Messiah Shall Come from Bethlehem (Ch. 5-7)
+第三，审判与复兴并存。弥迦同时宣告审判（"锡安必被耕种像一块田"，3:12）和复兴（"末后的日子……万民都要流归这山"，4:1）。先知的信息从来不是纯粹的定罪——审判的目的是带来悔改，悔改带来复兴。
 
-Micah 5:2 is one of the Old Testament's most precise Messianic prophecies: "But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting." Matthew 2:6 quotes this verse; the Magi used it to find the infant Jesus.
+Micah distills the essence of Old Testament prophetic preaching — summarizing in one sentence all that God requires of humanity, while also prophesying the Messiah's birthplace.
 
-Micah 6:8 is the Old Testament's most concise summary of faithful living: "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?" Not complex rituals, not expensive sacrifices, but three simple things: justice, mercy, humility.
+First, Micah 6:8 — the summary of faith. "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?" (6:8). Many regard this as the highest summary of Old Testament ethics. "Do justly" — uphold righteousness in social relationships; "love mercy" — compassion and help for the vulnerable; "walk humbly with thy God" — not proud self-righteousness but humble dependence on God. These three are inseparable: mercy without justice is weakness; justice without mercy is cruelty; apart from walking with God, both lose their foundation.
 
-Chapter 7 ends with a declaration of faith: "Therefore I will look unto the LORD; I will wait for the God of my salvation" (7:7). Micah declares light in darkness and hope in judgment -- because God "delighteth in mercy" (7:18). This mercy-delighting God, in Christ, extended His greatest mercy to all humanity.
+Second, the Bethlehem prophecy. "But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting" (5:2). Matthew 2:6 cites this pointing to Christ's birth. Note "whose goings forth have been from of old, from everlasting" — this is not an ordinary human king but the Eternal One entering time. The Messiah comes from the smallest town, consistent with God's pattern: choosing the humble to accomplish the great.
 
----
-
+Third, judgment and restoration coexist. Micah simultaneously proclaims judgment ("Zion shall be plowed as a field," 3:12) and restoration ("in the last days... people shall flow unto it," 4:1). The prophetic message is never pure condemnation — judgment's purpose is to bring repentance, and repentance brings restoration.

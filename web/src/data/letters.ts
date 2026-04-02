@@ -319,9 +319,9 @@ That is the gospel.
     authorBioEn: 'Originally named Joseph, a Levite from Cyprus. The apostles called him Barnabas, meaning \\"Son of Encouragement.\\" He accepted Paul after his conversion when others feared him, led the Antioch church, and fought for Mark\\',
     title_zh: '团契的真义',
     title_en: 'The True Meaning of Fellowship',
-    date: '2026-04-25',
+    date: '2026-05-02',
     category: 'fellowship' as Letter['category'],
-    scripture: '使徒行传 4:32-37 / Acts 4:32-37',
+    scripture: '使徒行传 4:32-37',
     scriptureText_zh: `那许多信的人都是一心一意的，没有一人说他的东西有一样是自己的，都是大家公用。（使徒行传 4:32）`,
     scriptureText_en: `Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common. (Acts 4:32) (Acts 4:32)`,
     summary_zh: '团契不是完美之人的聚会，乃是蒙恩之人在基督里的合一。',
@@ -951,9 +951,9 @@ May the God who had mercy on me likewise have mercy on you. May He create in you
     authorBioEn: 'The Tishbite, prophet of great power',
     title_zh: '在何烈山的洞中',
     title_en: 'In the Cave at Horeb',
-    date: '2026-04-04',
+    date: '2026-04-11',
     category: 'testimony' as Letter['category'],
-    scripture: '列王纪上 19:1-18 / 1 Kings 19:1-18',
+    scripture: '列王纪上 19:1-18',
     scriptureText_zh: `耶和华说："你出来站在山上，在我面前。"（列王纪上 19:11-12）那时耶和华从那里经过，在他面前有烈风大作，崩山碎石，耶和华却不在风中；风后地震，耶和华却不在其中；地震后有火，耶和华也不在火中；火后有微小的声音。`,
     scriptureText_en: `And he said, "Go out and stand on the mount before the LORD." And behold, the LORD passed by, and a great and strong wind tore the mountains and broke in pieces the rocks before the LORD, but the LORD was not in the wind. And after the wind an earthquake, but the LORD was not in the earthquake. And after the earthquake a fire, but the LORD was not in the fire. And after the fire the sound of a low whisper. (1 Kings 19:11-12)`,
     summary_zh: '以利亚在迦密山大胜之后陷入极度绝望，逃到何烈山的洞中。神没有在烈风、地震、火中，却在微小的声音中向他说话——最刚强的先知也会软弱，但神的恩典在人的软弱上显得完全。',
@@ -1183,7 +1183,7 @@ Your servant, Elijah the Tishbite`,
     title_en: 'Property and Kinship',
     date: '2099-12-31',
     category: 'fellowship' as Letter['category'],
-    scripture: '箴言 18:19 / Proverbs 18:19',
+    scripture: '箴言 18:19',
     scriptureText_zh: `弟兄结怨，劝他和好，比取坚固城还难；这样的争竞，如同坚寨的门闩。（箴言 18:19）`,
     scriptureText_en: `A brother offended is more unyielding than a strong city, and quarreling is like the bars of a castle. (Proverbs 18:19)`,
     summary_zh: '当金钱和财产介入亲人之间，会发生什么？七位圣经人物分享亲身经历与教训。',
@@ -1839,9 +1839,9 @@ Abraham spoke last:
     authorBioEn: 'Wife of Elkanah, mother of Samuel',
     title_zh: '那一年在示罗',
     title_en: 'That Year in Shiloh',
-    date: '2026-05-02',
+    date: '2026-05-09',
     category: 'testimony' as Letter['category'],
-    scripture: '撒母耳记上 1:1-2:11 / 1 Samuel 1:1-2:11',
+    scripture: '撒母耳记上 1:1-2:11',
     scriptureText_zh: `哈拿心里愁苦，就痛痛哭泣，祈祷耶和华。许愿说："万军之耶和华啊，你若垂顾婢女的苦情，眷念不忘婢女，赐我一个儿子，我必使他终身归与耶和华。"`,
     scriptureText_en: `She was deeply distressed and prayed to the LORD and wept bitterly. And she vowed a vow and said, "And she was in bitterness of soul, and prayed unto the LORD, and wept sore. And she vowed a vow, and said, O LORD of hosts, if thou wilt indeed look on the affliction of thine handmaid, and remember me, and not forget thine handmaid, but wilt give unto thine handmaid a man child, then I will give him unto the LORD all the days of his life, and there shall no razor come upon his head." (1 Samuel 1:10-11)`,
     summary_zh: '在示罗的圣殿里，一个不能生育的妇人含泪祷告，连祭司都以为她喝醉了。哈拿的祷告教会我们：神垂听那些从心灵深处发出的呼求，他的时间表永远不会错。',
@@ -2033,6 +2033,162 @@ Your sister, Hannah`,
     tags: ['祷告', '信心', '奉献', '恩典'],
   },
   {
+    id: 'john-how-do-you-know',
+    author: '约翰',
+    authorEn: 'John',
+    authorAvatar: '📖',
+    authorBio: '耶稣所爱的门徒，最后一位在世的使徒',
+    authorBioEn: 'The disciple whom Jesus loved, the last living apostle',
+    title_zh: '你们怎么知道——论真信心的证据与爱心的判断',
+    title_en: 'How Do You Know — On the Evidence of True Faith and the Judgment of Love',
+    date: '2026-05-30',
+    category: 'theology' as Letter['category'],
+    scripture: '约翰一书 3:14',
+    scriptureText_zh: `我们因为爱弟兄，就晓得是已经出死入生了。没有爱心的，仍住在死中。（约翰一书 3:14）`,
+    scriptureText_en: `We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death. (1 John 3:14, KJV)`,
+    summary_zh: '我怎么知道自己真的得救了？我怎么分辨谁是真信徒？年迈的使徒约翰从亲身经历出发，论述真信心的五个记号：圣灵的果子、悔改的心、爱弟兄、顺服的方向、持守到底——果子是恩典的证据，不是恩典的条件。',
+    summary_en: 'How can I know I am truly saved? How can I discern who is a true believer? The aged Apostle John draws from personal experience to discuss five marks of true faith: the fruit of the Spirit, a repentant heart, love for the brethren, the direction of obedience, and perseverance — fruit is evidence of grace, not a condition for it.',
+    content_zh: `亲爱的小子们，我是约翰，耶稣所爱的门徒。
+
+我写这封信的时候已经很老了。彼得殉道了，保罗殉道了，其他使徒也都先后离世——如今只剩下我一个人。教会中出现了假教师，传另一个福音，搅扰弟兄姐妹的信心。许多人来问我：约翰啊，我怎么知道自己真的得救了？我怎么分辨谁是真信徒、谁是假信徒？
+
+这正是我写约翰一书的原因："我将这些话写给你们信奉神儿子之名的人，要叫你们知道自己有永生"（约壹5:13）。我要给你们确据——不是模糊的盼望，而是扎实的确据。
+
+### 先分清因果——果子是证据，不是条件
+
+在讲真信心的记号之前，我必须先说清楚一件事，免得你们走入律法主义的陷阱。
+
+我们不是因为结了果子才得救，而是因为得救了才结果子。主耶稣说"好树结好果子"（太7:17）——请注意因果关系：先有好树的生命，然后才有好果子。树不是因为结了果子才成为好树，而是因为它是好树才结出好果子。
+
+所以，我下面要讲的五个记号，都是恩典的证据，不是恩典的条件。你得救唯独因信、唯独靠恩典——这是保罗弟兄说了千百遍的。果子是恩典在你生命中做工的结果。如果你把果子当成条件，你就会活在恐惧中而不是确据中；你会不断问"我做得够不够好"，而不是仰望基督说"他为我做的已经够了"。
+
+分清了这一点，我们才能安心地谈论果子。
+
+### 第一个记号：圣灵的果子——品格的渐进改变
+
+保罗弟兄列出了圣灵的果子："仁爱、喜乐、和平、忍耐、恩慈、良善、信实、温柔、节制"（加5:22-23）。请注意，这些不是九种果子，而是一个果子的九个面向。圣灵在一个人生命中做工，会渐渐产生这些品格。
+
+关键词是"渐渐"。成圣是一生的过程，不是一夜之间的完美。我跟随主三年，亲眼看见他的荣耀，但直到今天我仍然在成长中。你不需要在每一个品格上都完美，你需要的是方向——你比去年更有忍耐吗？比五年前更有恩慈吗？如果有，即使进步缓慢，那就是圣灵在做工的证据。
+
+### 第二个记号：悔改的心——对罪有真实的忧伤
+
+"我们若说自己无罪，便是自欺，真理不在我们心里了。我们若认自己的罪，神是信实的，是公义的，必要赦免我们的罪，洗净我们一切的不义"（约壹1:8-9）。
+
+真信徒不是不犯罪的人，而是犯罪后会悔改的人。真悔改和假悔改的区别在哪里？假悔改是怕惩罚——"我要是被发现了怎么办"；真悔改是因为得罪了神——"我怎能作这大恶，得罪神呢"（创39:9）。
+
+我亲眼见过最深的悔改。彼得三次不认主的那一夜，主转过身来看他——就是那一个眼神，彼得就出去痛哭了（路22:61-62）。大卫犯了奸淫和谋杀，听了拿单先知的话，立刻说"我得罪耶和华了"（撒下12:13）。他们犯了大罪，但他们的悔改也是真实的、迅速的、彻底的。真信徒的标记不是无罪，而是犯罪后不能安心——良心不让他安宁，直到他回到神面前认罪。
+
+### 第三个记号：爱弟兄——从死入生的标记
+
+"我们因为爱弟兄，就晓得是已经出死入生了"（约壹3:14）。小子们，这是我最看重的记号。如果你只记住我这封信的一句话，就记住这一句。
+
+但我说的爱不是感觉上的喜欢。教会里有些弟兄你未必喜欢——性格不合、背景不同、习惯不同。但爱不是喜欢，爱是行动："小子们哪，我们相爱，不要只在言语和舌头上，总要在行为和诚实上"（约壹3:18）。看见弟兄有需要而你伸出手帮助，看见弟兄跌倒而你扶他起来，看见弟兄受苦而你与他同哭——这就是爱的证据。
+
+你的心是否牵挂教会中的弟兄姐妹？他们的喜乐是否让你欢喜，他们的苦难是否让你心痛？如果是，这就是从死入生的标记。
+
+### 第四个记号：顺服的方向——不是完美而是朝向
+
+"我们若遵守他的诫命，就晓得是认识他。人若说我认识他，却不遵守他的诫命，便是说谎话的"（约壹2:3-4）。
+
+这话听起来严厉，但请注意"遵守"这个词。它不是说完美地、无一遗漏地执行每一条诫命——如果是那样，没有一个人认识神。它说的是你生命的方向。一个人可能跌倒一百次，但如果他每一次都爬起来继续走，他的方向就是对的。真信徒的生命像一条曲折但总体向上的线——有低谷、有弯路，但总方向是朝着神的。
+
+相反，一个不信的人即使偶尔做些好事，他生命的总方向是离开神的。方向比速度重要。
+
+### 第五个记号：持守到底——时间是最诚实的见证
+
+"他们从我们中间出去，却不是属我们的；若是属我们的，就必仍旧与我们同在；他们出去，显明都不是属我们的"（约壹2:19）。
+
+我见过许多人起初火热，后来冷淡，最终离开。这让我忧伤，但也让我明白：持守到底是真信心最终的标记。不是靠自己的意志力坚持——谁的意志力能坚持一辈子？而是神保守他的百姓到底。圣徒的坚忍，本质上是神的坚忍——"那在你们心里动了善工的，必成全这工，直到耶稣基督的日子"（腓1:6）。
+
+### 那么，能不能判断别人是否重生？
+
+小子们，这是最需要谨慎的地方。主说"凭着他们的果子就可以认出他们来"（太7:16），但这话主要是针对假先知和假教师的辨别，不是让我们随意审判弟兄的灵魂。
+
+"人是看外貌，耶和华是看内心"（撒上16:7）。终极的判断属于神。我们对弟兄要存爱心的盼望——"凡事包容，凡事相信，凡事盼望"（林前13:7）。除非有明显的、持续的、不悔改的罪行，我们不应该轻易论断一个人的得救状态。
+
+我要讲一个亲身的故事。彼得三次不认主的那一夜——如果你在那个院子里看见彼得对着使女发咒起誓说"我不认得那个人"，你会怎么判断他？你一定会说：这个人不是真信徒。但你错了。彼得是真信徒，他只是在极度的恐惧中暂时跌倒了。复活的主在提比哩亚海边三次问他"你爱我吗"，三次恢复了他。我们不能用弟兄最软弱的一刻来定义他的一生。
+
+### 活在确据中，行在爱中
+
+小子们，我写这些不是要让你们焦虑地自我检查，而是要让你们安心。确据最终不是来自你的表现，而是来自神的应许和圣灵的内证——"圣灵与我们的心同证我们是神的儿女"（罗8:16）。
+
+省察自己是为了感恩，不是为了恐惧。当你看见自己生命中有圣灵的果子、有悔改的心、有对弟兄的爱，你应该说的不是"我做得还不够好"，而是"感谢主，你的恩典在我身上做工了"。
+
+至于看待弟兄——用爱看，不用审判的眼光看。"爱里没有惧怕，爱既完全，就把惧怕除去"（约壹4:18）。
+
+小子们，让我们彼此相爱，因为爱是从神来的。`,
+    content_en: `Dear little children, I am John, the disciple whom Jesus loved.
+
+I write this letter as a very old man. Peter was martyred, Paul was martyred, the other apostles have all departed — now I alone remain. False teachers have appeared in the churches, preaching another gospel, troubling the faith of brothers and sisters. Many come to me asking: John, how can I know I am truly saved? How can I discern who is a true believer and who is false?
+
+This is precisely why I wrote my first epistle: "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life." (1 John 5:13). I want to give you assurance — not vague hope, but solid assurance.
+
+### First, Get the Cause and Effect Right — Fruit Is Evidence, Not a Condition
+
+Before I discuss the marks of true faith, I must clarify one thing, lest you fall into the trap of legalism.
+
+We are not saved because we bear fruit; we bear fruit because we are saved. The Lord Jesus said, "A good tree bringeth forth good fruit." (Matt 7:17). Note the order: first the life of a good tree, then good fruit. The tree does not become good by bearing fruit; it bears fruit because it is good.
+
+Therefore, the five marks I discuss below are all evidence of grace, not conditions for grace. You are saved by faith alone, by grace alone — brother Paul said this a thousand times. Fruit is the result of grace at work in your life. If you treat fruit as a condition, you will live in fear rather than assurance; you will constantly ask "Am I doing enough?" instead of looking to Christ and saying "What He did for me is enough."
+
+With this clear, we can discuss fruit with peace of heart.
+
+### The First Mark: The Fruit of the Spirit — Gradual Change of Character
+
+Brother Paul listed the fruit of the Spirit: "love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance." (Gal 5:22-23). Note: these are not nine fruits but nine facets of one fruit. The Spirit working in a person's life gradually produces these qualities.
+
+The key word is "gradually." Sanctification is a lifelong process, not overnight perfection. I followed the Lord for three years, saw His glory with my own eyes, yet I am still growing to this day. You need not be perfect in every quality; what you need is direction — are you more patient than last year? More kind than five years ago? If so, even if progress is slow, that is evidence the Spirit is at work.
+
+### The Second Mark: A Repentant Heart — Genuine Sorrow Over Sin
+
+"If we say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness." (1 John 1:8-9).
+
+A true believer is not someone who never sins but someone who repents after sinning. What distinguishes true repentance from false? False repentance fears punishment — "What if I get caught?" True repentance grieves over offending God — "How then can I do this great wickedness, and sin against God?" (Gen 39:9).
+
+I have witnessed the deepest repentance. The night Peter denied the Lord three times, the Lord turned and looked at him — just that one glance, and Peter went out and wept bitterly (Luke 22:61-62). David committed adultery and murder, yet when the prophet Nathan confronted him, he immediately said, "I have sinned against the LORD." (2 Sam 12:13). They committed great sins, but their repentance was real, swift, and thorough. The mark of a true believer is not sinlessness but the inability to rest in sin — conscience will not let him be at peace until he returns to God and confesses.
+
+### The Third Mark: Love for the Brethren — The Mark of Passing from Death to Life
+
+"We know that we have passed from death unto life, because we love the brethren." (1 John 3:14). Little children, this is the mark I value most. If you remember only one thing from this letter, remember this.
+
+But the love I speak of is not a feeling of fondness. There may be brothers in the church you do not naturally like — different personalities, different backgrounds, different habits. But love is not liking; love is action: "My little children, let us not love in word, neither in tongue; but in deed and in truth." (1 John 3:18). When you see a brother in need and reach out to help, when you see a brother stumble and lift him up, when you see a brother suffering and weep with him — that is evidence of love.
+
+Does your heart carry concern for the brothers and sisters in your church? Does their joy bring you gladness, their suffering bring you sorrow? If so, that is the mark of passing from death to life.
+
+### The Fourth Mark: The Direction of Obedience — Not Perfection but Orientation
+
+"And hereby we do know that we know him, if we keep his commandments. He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him." (1 John 2:3-4).
+
+These words sound severe, but notice the word "keep." It does not mean flawlessly, without exception, executing every commandment — if that were the standard, no one would know God. It speaks of life's direction. A person may fall a hundred times, but if each time he rises and continues walking, his direction is right. A true believer's life is like a winding but overall upward line — there are valleys, there are detours, but the general direction is toward God.
+
+Conversely, an unbeliever may occasionally do good deeds, yet the overall direction of his life is away from God. Direction matters more than speed.
+
+### The Fifth Mark: Perseverance to the End — Time Is the Most Honest Witness
+
+"They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us." (1 John 2:19).
+
+I have seen many who were fervent at first, grew cold, and eventually departed. This grieves me, but it also teaches me: perseverance to the end is the ultimate mark of true faith. Not by one's own willpower — whose willpower can last a lifetime? — but by God preserving His people to the end. The perseverance of the saints is, in essence, the perseverance of God: "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ." (Phil 1:6).
+
+### Then, Can We Judge Whether Others Are Reborn?
+
+Little children, this is where the greatest caution is needed. The Lord said, "Ye shall know them by their fruits." (Matt 7:16), but this was primarily about discerning false prophets and false teachers, not for us to casually judge a brother's soul.
+
+"For the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart." (1 Sam 16:7). Ultimate judgment belongs to God. We should hold charitable hope for our brothers — "Beareth all things, believeth all things, hopeth all things." (1 Cor 13:7). Unless there is obvious, persistent, unrepentant sin, we should not hastily judge someone's state of salvation.
+
+Let me tell you a story I witnessed. The night Peter denied the Lord three times — if you had been in that courtyard, watching Peter cursing and swearing to the servant girl, "I know not the man!" — how would you have judged him? You would surely have said: This man is no true believer. But you would have been wrong. Peter was a true believer who temporarily fell in extreme terror. The risen Lord, on the shore of Tiberias, three times asked him, "Lovest thou me?" — and three times restored him. We cannot define a brother's entire life by his weakest moment.
+
+### Live in Assurance, Walk in Love
+
+Little children, I write these things not to make you anxiously self-examine, but to set your hearts at rest. Assurance ultimately comes not from your performance but from God's promises and the Spirit's internal witness — "The Spirit itself beareth witness with our spirit, that we are the children of God." (Rom 8:16).
+
+Self-examination is for gratitude, not fear. When you see the Spirit's fruit in your life, a repentant heart, love for your brothers, you should not say "I'm still not good enough" but rather "Thank You, Lord, Your grace is at work in me."
+
+As for how you view your brothers — look with love, not with judgment. "There is no fear in love; but perfect love casteth out fear." (1 John 4:18).
+
+Little children, let us love one another, for love is of God.`,
+    tags: ['信心', '确据', '恩典', '爱', '成圣'],
+  },
+  {
     id: 'john-patmos',
     author: '约翰',
     authorEn: 'John',
@@ -2043,7 +2199,7 @@ Your sister, Hannah`,
     title_en: 'A Letter from Patmos',
     date: '2026-03-28',
     category: 'to-you' as Letter['category'],
-    scripture: '约翰一书 4:7-21 / 1 John 4:7-21',
+    scripture: '约翰一书 4:7-21',
     scriptureText_zh: `亲爱的弟兄阿，我们应当彼此相爱，因为爱是从神来的。凡有爱心的，都是由神而生，并且认识神。`,
     scriptureText_en: `Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God.`,
     summary_zh: '年迈的使徒约翰从拔摩海岛写给亲爱读者的最后书信，回忆与主同行的岁月，见证道成肉身的荣耀与爱。',
@@ -2150,11 +2306,8 @@ Your sister, Hannah`,
 
 愿主的恩与你同在！
 
-约翰
-拔摩海岛
-主后95年
-
-你的弟兄，在拔摩海岛上的约翰`,
+你的弟兄，在拔摩海岛上的约翰
+主后95年`,
     content_en: `Dear reader, grace and peace to you from Him who is and who was and who is to come!
 
 I am John, the disciple whom Jesus loved. At this moment, I sit on a cold rock on the Isle of Patmos, writing this letter with trembling hands. The sea wind howls, waves crash against the cliffs, sending up a low roar. This is a place of exile in the Roman Empire, a prison for political criminals and heretics. I was banished here, not for committing a crime, but "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ." (Rev 1:9).
@@ -2257,11 +2410,8 @@ I am about to see His face. But you are still alive. You must choose—will you 
 
 May the Lord's grace be with you!
 
-John
-Isle of Patmos
-AD 95
-
-Your brother, John on the island of Patmos`,
+Your brother, John on the island of Patmos
+AD 95`,
     tags: ['见证', '爱', '光', '道成肉身'],
   },
   {
@@ -2273,9 +2423,9 @@ Your brother, John on the island of Patmos`,
     authorBioEn: 'Eleventh son of Jacob, governor of Egypt',
     title_zh: '从坑底到王宫',
     title_en: 'From the Pit to the Palace',
-    date: '2026-05-09',
+    date: '2026-05-16',
     category: 'testimony' as Letter['category'],
-    scripture: '创世记 50:15-21 / Genesis 50:15-21',
+    scripture: '创世记 50:15-21',
     scriptureText_zh: `约瑟对他们说："不要害怕，我岂能代替神呢？从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景。"（创世记 50:19-20）`,
     scriptureText_en: `But Joseph said to them, "And Joseph said unto them, Fear not: for am I in the place of God? But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive." (Genesis 50:19-20)`,
     summary_zh: '被亲兄弟出卖、被主母诬陷、被同伴遗忘——十三年的苦难没有白费。约瑟的故事告诉我们：你们的意思是要害我，但神的意思原是好的。在神护理的手中，没有一滴眼泪是徒然的。',
@@ -2481,6 +2631,178 @@ Your brother, Joseph`,
     tags: ['忍耐', '护理', '饶恕', '信实'],
   },
   {
+    id: 'joshua-footprints',
+    author: '约书亚',
+    authorEn: 'Joshua',
+    authorAvatar: '⚔️',
+    authorBio: '嫩的儿子，摩西的继承人，以色列的统帅',
+    authorBioEn: 'Son of Nun, successor of Moses, commander of Israel',
+    title_zh: '应许之地的脚印——旧约圣地巡礼',
+    title_en: 'Footprints in the Promised Land — A Pilgrimage Through Sacred Places',
+    date: '2026-05-23',
+    category: 'theology' as Letter['category'],
+    scripture: '约书亚记 24:26-27',
+    scriptureText_zh: `约书亚将这些话都写在神的律法书上，又将一块大石头立在橡树下耶和华的圣所旁边。约书亚对百姓说："看哪，这石头可以向我们作见证，因为是听见了耶和华所吩咐我们的一切话，倘或你们背弃你们的神，这石头就可以向你们作见证。"（约书亚记 24:26-27）`,
+    scriptureText_en: `And Joshua wrote these words in the book of the law of God, and took a great stone, and set it up there under an oak, that was by the sanctuary of the LORD. And Joshua said unto all the people, Behold, this stone shall be a witness unto us; for it hath heard all the words of the LORD which he spake unto us: it shall be therefore a witness unto you, lest ye deny your God. (Joshua 24:26-27, KJV)`,
+    summary_zh: '伯特利、示剑、摩利亚山、幔利的橡树、别是巴、伯利恒、希伯仑——这些地名反复出现在旧约历史中，不是巧合，而是神在同一片土地上留下的脚印。每一处圣地都在述说同一个故事：应许、等候、成就。',
+    summary_en: 'Bethel, Shechem, Mount Moriah, the Oaks of Mamre, Beersheba, Bethlehem, Hebron — these place names recur throughout Old Testament history not by coincidence, but as God\'s footprints left upon the same land. Each sacred site tells the same story: promise, waiting, fulfillment.',
+    content_zh: `亲爱的弟兄姐妹，我是约书亚，嫩的儿子。
+
+我这一生走过许多路——从埃及到旷野，从旷野到约旦河，从约旦河到应许之地的每一座城、每一片山。但当我年老的时候回望，最让我震撼的不是那些战役，而是一个发现：**神一直在同样的地方行事。**
+
+我们的祖先亚伯拉罕走过的路，以撒走过，雅各走过，如今我们也走过。同样的地名，同样的祭坛遗址，同样的橡树，同样的井——神在同一片土地上，一代又一代地留下他的脚印。让我带你们巡礼这些圣地。
+
+### 示剑——约的起点与终点
+
+亚伯拉罕进入迦南后，第一个停留的地方就是示剑，在摩利橡树那里（创12:6）。耶和华在那里向他显现说："我要把这地赐给你的后裔。"亚伯拉罕就在那里为耶和华筑了一座坛——**这是应许之地上第一座坛**。
+
+后来雅各从巴旦亚兰回来，也在示剑买了一块地，筑了一座坛，起名叫伊利伊罗伊以色列，就是"以色列的神"（创33:18-20）。再后来，底拿的悲剧也发生在示剑（创34章），约瑟的骸骨最终也葬在示剑（书24:32）。
+
+而我——约书亚——在生命的最后，也是在示剑召集全以色列，宣告"至于我和我家，我们必定事奉耶和华"（书24:15）。我在示剑的橡树下立了大石头作见证。
+
+从亚伯拉罕到我，示剑是约的起点，也是约的更新之地。从第一座坛到最后的立约大会，神在同一个地方，呼召一代又一代的人回应他的恩典。
+
+千年之后，主耶稣经过撒玛利亚的叙加——就在示剑附近——在雅各井旁对一个撒玛利亚妇人说："时候将到，你们拜父，也不在这山上，也不在耶路撒冷……那真正拜父的，要用心灵和诚实拜他"（约4:21-23）。示剑的坛最终指向的，不是一个地方，而是一位神。
+
+### 伯特利——天门打开的地方
+
+雅各逃离以扫，在荒野中枕石而眠。他梦见一个梯子立在地上，梯子的头顶着天，有神的使者在梯子上，上去下来（创28:12）。耶和华站在梯子以上说："我是耶和华你祖亚伯拉罕的神，也是以撒的神；我要将你现在所躺卧之地赐给你和你的后裔。"
+
+雅各醒来说："耶和华真在这里，我竟不知道！这地方何等可畏！这不是别的，乃是神的殿，也是天的门"（创28:16-17）。他给那地方起名叫伯特利——"神的殿"。
+
+二十年后，雅各从示剑的悲剧中回到伯特利，除去偶像，重新筑坛（创35:1-7）。神再次向他显现，重申应许，赐他新名以色列。伯特利成了雅各一生中最重要的属灵坐标——第一次遇见神，和重新归回神，都在这里。
+
+主耶稣对拿但业说："你们将要看见天开了，神的使者上去下来在人子身上"（约1:51）。弟兄姐妹，主耶稣自己就是那天梯！伯特利所预示的"天的门"，在基督里完全打开了。
+
+### 摩利亚山——献祭与救赎的圣山
+
+"神说：你带着你的儿子，就是你独生的儿子，你所爱的以撒，往摩利亚地去，在我所要指示你的山上，把他献为燔祭"（创22:2）。亚伯拉罕在那山上举刀的一刻，天使喊住了他，他看见一只公羊代替以撒被献上。亚伯拉罕给那地方起名叫"耶和华以勒"——耶和华必预备（创22:14）。
+
+千年之后，所罗门在摩利亚山上建造了圣殿（代下3:1）。亚伯拉罕献祭的山，成了以色列永久敬拜的中心。
+
+再过千年，在同一座山脉的另一个山头——各各他——神的独生子被献上，不再有天使喊停，因为这一次，神亲自预备的羔羊就是他自己的儿子。"亚伯拉罕给那地方起名叫耶和华以勒，直到今日人还说，在耶和华的山上必有预备"（创22:14）。从亚伯拉罕到各各他，摩利亚山上的应许等了两千年才完全成就。
+
+### 幔利的橡树——神与人同席
+
+亚伯拉罕在幔利的橡树下支搭帐棚，住了许多年（创13:18）。在那棵橡树下，三位客人来访，亚伯拉罕急忙招待，用饼和小牛犊款待他们。其中一位竟是耶和华自己——他在那里向亚伯拉罕宣告：撒拉明年必生一个儿子（创18:10）。
+
+幔利的橡树是神与人同席的地方。不是在圣殿里，不是在祭坛旁，而是在一棵普通的橡树下，在日常的饭桌上，神向他的朋友启示了他的计划。
+
+希伯来书说："不可忘记用爱心接待客旅；因为曾有接待客旅的，不知不觉就接待了天使"（来13:2）。这句话的背景正是幔利橡树下的故事。而主耶稣说："看哪，我站在门外叩门，若有听见我声音就开门的，我要进到他那里去，我与他、他与我一同坐席"（启3:20）。幔利橡树下的同席，最终指向基督与信徒永恒的团契。
+
+### 别是巴——应许之地的南界
+
+亚伯拉罕在别是巴与亚比米勒立约，栽了一棵垂丝柳树，求告耶和华永生神的名（创21:31-33）。以撒在别是巴筑坛，耶和华向他显现说："不要惧怕，因为我与你同在"（创26:24-25）。雅各下埃及前在别是巴献祭，神在异象中说："你下埃及去不要害怕，因为我必使你在那里成为大族"（创46:1-3）。
+
+三代族长，同一个地方，同一句话——**"不要害怕。"** 别是巴是应许之地的最南端，是离开应许之地前最后的驿站。每一次族长们要进入未知、面对恐惧时，神都在别是巴向他们说话。
+
+弟兄姐妹，你的"别是巴"在哪里？当你即将踏入未知的旷野，神说的话没有改变——"不要害怕，因为我与你同在。"
+
+### 伯利恒——死亡之路上的生命
+
+拉结在伯利恒的路上难产而死，临终前给儿子起名叫便俄尼——"我的悲伤之子"（创35:18-19）。伯利恒最初与死亡和眼泪相连。
+
+但后来，路得在伯利恒的田间拾穗（得2章），遇见了波阿斯，嫁入了以色列——一个摩押女子成了大卫的曾祖母。再后来，撒母耳在伯利恒膏立了牧羊少年大卫为王（撒上16章）。
+
+先知弥迦预言："伯利恒以法他阿，你在犹大诸城中为小，将来必有一位从你那里出来，在以色列中为我作掌权的；他的根源从亘古，从太初就有"（弥5:2）。
+
+当年拉结在伯利恒流泪而死的地方，千年之后，弥赛亚在那里降生。死亡之路变成了生命之路。耶利米说"在拉玛听见号啕大哭的声音，是拉结哭她儿女"（耶31:15），马太引用这话描述希律屠杀婴孩（太2:18）。但拉结的哭声不是故事的结局——从伯利恒的马槽里发出的第一声啼哭，才是。
+
+### 希伯仑——信心的根基之地
+
+亚伯拉罕定居在希伯仑的幔利橡树旁（创13:18）。撒拉死在希伯仑，亚伯拉罕在那里买了麦比拉洞——这是圣经记载的以色列人在应许之地第一笔地产（创23章）。后来亚伯拉罕自己、以撒和利百加、雅各和利亚都葬在那里。
+
+麦比拉洞不只是一个坟墓，它是一个**信心的宣告**：我们虽然是寄居者，但这地是神应许给我们的。亚伯拉罕花了四百舍客勒银子买一个坟地——不是因为死了需要安葬，而是因为信了需要扎根。他要把骨头留在应许之地，因为他信神必成就他的话。
+
+希伯来书说，这些人"都是存着信心死的，并没有得着所应许的；却从远处望见，且欢喜迎接，又承认自己在世上是客旅，是寄居的"（来11:13）。希伯仑的麦比拉洞，就是这信心最具体的见证——他们在应许之地买了墓地，因为他们信，有一天他们要在这片土地上复活。
+
+弟兄姐妹，当我在示剑立起那块大石头的时候，我知道我的日子快到了。但我不害怕，因为我走过的这些地方——示剑、伯特利、摩利亚、幔利、别是巴、伯利恒、希伯仑——每一处都在告诉我同一件事：**神是信实的。**
+
+他在示剑应许了，就在示剑更新。他在伯特利显现了，就在伯特利再来。他在摩利亚预备了公羊，就在各各他预备了羔羊。他在别是巴说"不要怕"，就在每一个旷野中与我们同行。他在伯利恒留下了眼泪，也在伯利恒降生了盼望。他在希伯仑埋葬了族长，也必在末日使他们复活。
+
+这些地方不只是地图上的点，它们是神的脚印。从亚伯拉罕到我约书亚，再到你们——读这封信的弟兄姐妹——神的脚步从未停止。
+
+"耶和华你们神所应许赐福与你们的话没有一句落空，都应验在你们身上了"（书23:14）。`,
+    content_en: `Dear brothers and sisters, I am Joshua, son of Nun.
+
+In my lifetime I have walked many roads — from Egypt to the wilderness, from the wilderness to the Jordan, from the Jordan to every city and hill in the promised land. But as I look back in my old age, what astounds me most is not the battles but a discovery: **God keeps acting in the same places.**
+
+The roads our father Abraham walked, Isaac walked, Jacob walked, and now we have walked too. The same place names, the same altar sites, the same oaks, the same wells — on the same land, generation after generation, God has left His footprints. Let me take you on a pilgrimage through these sacred sites.
+
+### Shechem — Where the Covenant Begins and Is Renewed
+
+When Abraham first entered Canaan, Shechem was his first stop, at the oak of Moreh (Gen 12:6). The LORD appeared to him there and said, "Unto thy seed will I give this land." Abraham built an altar there — **the first altar in the promised land**.
+
+Later Jacob returned from Paddan-aram and also bought land at Shechem, built an altar, and named it El-Elohe-Israel — "God, the God of Israel" (Gen 33:18-20). Later still, Dinah's tragedy occurred at Shechem (Gen 34), and Joseph's bones were ultimately buried at Shechem (Josh 24:32).
+
+And I — Joshua — at the end of my life, also gathered all Israel at Shechem, declaring: "But as for me and my house, we will serve the LORD." (Josh 24:15). I set up a great stone under the oak at Shechem as a witness.
+
+From Abraham to me, Shechem was the starting point of the covenant and the place of its renewal. From the first altar to the final covenant assembly, God called generation after generation in the same place to respond to His grace.
+
+A thousand years later, the Lord Jesus passed through Samaria to Sychar — near Shechem — and at Jacob's well told a Samaritan woman: "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth." (John 4:23). The altar at Shechem ultimately pointed not to a place, but to a Person.
+
+### Bethel — Where Heaven Opened
+
+Jacob fled from Esau and slept on a stone in the wilderness. He dreamed of a ladder set on earth, its top reaching heaven, with angels ascending and descending (Gen 28:12). The LORD stood above it and said: "I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed."
+
+Jacob awoke and said: "Surely the LORD is in this place; and I knew it not. How dreadful is this place! this is none other but the house of God, and this is the gate of heaven." (Gen 28:16-17). He named it Bethel — "House of God."
+
+Twenty years later, Jacob returned to Bethel after the tragedy at Shechem, removed the foreign gods, and rebuilt the altar (Gen 35:1-7). God appeared again, reaffirmed the promise, and gave him the new name Israel. Bethel became the most important spiritual landmark of Jacob's life — both his first encounter with God and his return to God happened here.
+
+The Lord Jesus told Nathanael: "Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man." (John 1:51). Brothers and sisters, the Lord Jesus Himself is the ladder! The "gate of heaven" foreshadowed at Bethel was fully opened in Christ.
+
+### Mount Moriah — The Sacred Mountain of Sacrifice and Redemption
+
+"And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of." (Gen 22:2). At the moment Abraham raised the knife, the angel called out, and he saw a ram caught in a thicket, offered in Isaac's place. Abraham named that place Jehovah-jireh — "The LORD will provide" (Gen 22:14).
+
+A thousand years later, Solomon built the Temple on Mount Moriah (2 Chr 3:1). The mountain where Abraham offered sacrifice became Israel's permanent center of worship.
+
+Another thousand years later, on another peak of that same mountain range — Golgotha — God's only Son was offered up. This time no angel called a halt, for this time God's own Lamb, whom He Himself had provided, was His own Son. "And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the LORD it shall be seen." (Gen 22:14). From Abraham to Calvary, the promise on Moriah waited two thousand years for its complete fulfillment.
+
+### The Oaks of Mamre — Where God Dined with Man
+
+Abraham pitched his tent by the oaks of Mamre and dwelt there many years (Gen 13:18). Under those oaks, three visitors came and Abraham hurried to serve them with bread and a calf. One of them was the LORD Himself — there He announced to Abraham that Sarah would bear a son the following year (Gen 18:10).
+
+The oaks of Mamre were where God sat at table with man. Not in a temple, not beside an altar, but under an ordinary oak, at an ordinary meal, God revealed His plan to His friend.
+
+Hebrews says: "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares." (Heb 13:2). The background of this verse is the story under the oaks of Mamre. And the Lord Jesus says: "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me." (Rev 3:20). The table fellowship under the oaks of Mamre ultimately points to the eternal communion between Christ and His people.
+
+### Beersheba — The Southern Boundary of Promise
+
+Abraham made a covenant with Abimelech at Beersheba, planted a tamarisk tree, and called on the name of the LORD, the everlasting God (Gen 21:31-33). Isaac built an altar at Beersheba, where the LORD appeared and said: "Fear not, for I am with thee." (Gen 26:24-25). Before going down to Egypt, Jacob offered sacrifices at Beersheba, and God spoke in a vision: "Fear not to go down into Egypt; for I will there make of thee a great nation." (Gen 46:1-3).
+
+Three generations of patriarchs, the same place, the same words — **"Do not be afraid."** Beersheba was the southernmost edge of the promised land, the last station before leaving it. Every time the patriarchs faced the unknown and confronted fear, God spoke to them at Beersheba.
+
+Brothers and sisters, where is your Beersheba? When you are about to step into an unknown wilderness, God's words have not changed — "Fear not, for I am with thee."
+
+### Bethlehem — Life on the Road of Death
+
+Rachel died in hard labor on the road to Bethlehem, naming her son Ben-oni with her last breath — "son of my sorrow" (Gen 35:18-19). Bethlehem was first associated with death and tears.
+
+But later, Ruth gleaned in Bethlehem's fields (Ruth 2), met Boaz, and married into Israel — a Moabite woman becoming David's great-grandmother. Later still, Samuel anointed the shepherd boy David as king in Bethlehem (1 Sam 16).
+
+The prophet Micah foretold: "But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting." (Micah 5:2).
+
+Where Rachel wept and died, a thousand years later the Messiah was born. The road of death became the road of life. Jeremiah said: "A voice was heard in Ramah, lamentation, and bitter weeping; Rahel weeping for her children." (Jer 31:15). Matthew quoted this describing Herod's massacre of infants (Matt 2:18). But Rachel's weeping is not the end of the story — the first cry from Bethlehem's manger is.
+
+### Hebron — The Foundation of Faith
+
+Abraham settled by the oaks of Mamre at Hebron (Gen 13:18). Sarah died at Hebron, and Abraham purchased the cave of Machpelah there — the first recorded property purchase by an Israelite in the promised land (Gen 23). Later Abraham himself, Isaac and Rebekah, Jacob and Leah were all buried there.
+
+The cave of Machpelah was not merely a tomb; it was a **declaration of faith**: though we are sojourners, this land is promised to us by God. Abraham paid four hundred shekels of silver for a burial plot — not because the dead needed burying, but because the faithful needed to plant roots. He left his bones in the promised land because he believed God would fulfill His word.
+
+Hebrews says: "These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth." (Heb 11:13). The cave of Machpelah at Hebron is the most concrete testimony of this faith — they purchased graves in the promised land because they believed that one day they would rise again on this very soil.
+
+Brothers and sisters, when I set up that great stone at Shechem, I knew my days were drawing to a close. But I was not afraid, because every place I had walked — Shechem, Bethel, Moriah, Mamre, Beersheba, Bethlehem, Hebron — told me the same thing: **God is faithful.**
+
+What He promised at Shechem, He renewed at Shechem. Where He appeared at Bethel, He came again at Bethel. Where He provided a ram on Moriah, He provided the Lamb on Calvary. Where He said "Fear not" at Beersheba, He walks with us through every wilderness. Where He left tears at Bethlehem, He also brought forth hope at Bethlehem. Where He buried the patriarchs at Hebron, He will surely raise them on the last day.
+
+These places are not merely dots on a map; they are God's footprints. From Abraham to me, Joshua, and now to you — brothers and sisters reading this letter — God's steps have never stopped.
+
+"There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass." (Josh 21:45).`,
+    tags: ['应许', '圣地', '救赎历史', '基督', '旧约地理'],
+  },
+  {
     id: 'mary-magnificat',
     author: '马利亚',
     authorEn: 'Mary',
@@ -2489,9 +2811,9 @@ Your brother, Joseph`,
     authorBioEn: 'Virgin of Nazareth, mother of Jesus',
     title_zh: '我心尊主为大',
     title_en: 'My Soul Magnifies the Lord',
-    date: '2026-04-11',
+    date: '2026-04-18',
     category: 'testimony' as Letter['category'],
-    scripture: '路加福音 1:46-55 / Luke 1:46-55',
+    scripture: '路加福音 1:46-55',
     scriptureText_zh: `马利亚说：我心尊主为大；我灵以神我的救主为乐；因为他顾念他使女的卑微；从今以后，万代要称我有福。（路加福音 1:46-49）`,
     scriptureText_en: `And Mary said, "And Mary said, My soul doth magnify the Lord, And my spirit hath rejoiced in God my Saviour. For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed. For he that is mighty hath done to me great things; and holy is his name." (Luke 1:46-49)`,
     summary_zh: '一个拿撒勒的平凡少女，被神拣选成为弥赛亚的母亲。马利亚的尊主颂不是一首安静的摇篮曲，而是一首翻转世界的革命之歌——神叫有权柄的失位，叫卑贱的升高。',
@@ -2698,6 +3020,158 @@ Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be u
 
 The Lord's servant, Mary of Nazareth`,
     tags: ['颂赞', '谦卑', '恩典', '盼望'],
+  },
+  {
+    id: 'moses-names-remembered',
+    author: '摩西',
+    authorEn: 'Moses',
+    authorAvatar: '📜',
+    authorBio: '神的仆人，律法的颁布者，五经的作者',
+    authorBioEn: 'Servant of God, lawgiver, author of the Pentateuch',
+    title_zh: '那些被记念的名字——从约外之民看约内之恩',
+    title_en: 'Names Remembered — Grace Within the Covenant, Seen Through Those Outside',
+    date: '2026-04-26',
+    category: 'theology' as Letter['category'],
+    scripture: '创世记 10:32',
+    scriptureText_zh: `这些都是挪亚三个儿子的宗族，各随他们的支派立国。洪水以后，他们在地上分为邦国。（创世记 10:32）`,
+    scriptureText_en: `These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood. (Genesis 10:32, KJV)`,
+    summary_zh: '为什么圣灵要我记录该隐的后裔、含和雅弗的后裔、罗得的后裔、以实玛利的后裔、以扫的后裔？这些约外之民的名录不是多余的注脚，而是救赎历史不可或缺的一环——因为地上万族都要因亚伯拉罕的后裔得福。',
+    summary_en: 'Why did the Spirit move me to record the descendants of Cain, Ham, Japheth, Lot, Ishmael, and Esau? These genealogies of those outside the covenant are not redundant footnotes but an indispensable part of redemptive history — for in Abraham\'s seed shall all the families of the earth be blessed.',
+    content_zh: `亲爱的弟兄姐妹，我是摩西，神的仆人。
+
+你们或许在读创世记时有过这样的疑问：为什么要花那么多篇幅记录那些"不重要"的家谱？该隐的后裔、含的后裔、罗得的后裔、以实玛利的后裔、以扫的后裔——这些人不是被拣选的一支，为什么圣灵要我一一写下他们的名字？
+
+因为在神的眼中，没有一个名字是多余的。这些约外之民的名录，恰恰是理解约内之恩的钥匙。让我带你们从头走一遍。
+
+### 该隐的后裔——神的普遍恩典（创4:17-24）
+
+该隐杀了兄弟，被逐出神的面前。按公义说，他该灭亡。但神给他一个记号保护他（创4:15），又让他的后裔发展出畜牧（雅八）、音乐（犹八）、冶炼（土八该隐）。文明的起源竟在被逐者的后裔中——这就是改革宗所说的"普遍恩典"：即使在约外，神仍赐人才能、文化和秩序。
+
+但请注意：该隐后裔的文明最终走向了拉麦的暴力和骄傲——"人若杀该隐，遭报七倍；杀拉麦，必遭报七十七倍"（创4:24）。没有神的约束，文明可以璀璨，也可以堕落。
+
+与此同时，塞特的后裔"求告耶和华的名"（创4:26）。两条线对比鲜明：一条有文明却无敬拜，一条有敬拜才有指望。弥赛亚的家谱沿塞特的支派延续，而非该隐。
+
+### 含和雅弗的后裔——万国在神的手中（创10章）
+
+洪水之后，挪亚的三个儿子生养众多。我奉命记录了这张"万国表"——含的后裔南下，成为迦南人、埃及人、非利士人、古实人，宁录建造了巴别；雅弗的后裔北上西扩；闪的后裔中出了亚伯拉罕。
+
+为什么要记这么多民族？因为神"从一本造出万族的人，住在全地上，并且预先定准他们的年限和所住的疆界"（徒17:26）。每一个民族的兴衰都在神的主权之下。万国表不是地理课本，而是神掌管全地的证据。
+
+含的儿子迦南被咒诅（创9:25），但千年之后，迦南的女子喇合因信归入了以色列，进入了弥赛亚的家谱（太1:5）。被咒诅之族的后裔，因信蒙恩——这正是恩典的力量。
+
+### 罗得的后裔——从羞耻中出恩典（创19:30-38）
+
+罗得在所多玛覆灭后，他的两个女儿与他行了乱伦之事。长女生了摩押，次女生了便亚米。这两个名字本身就带着羞耻。摩押人和亚扪人后来成了以色列的世仇，律法规定"亚扪人或是摩押人不可入耶和华的会"（申23:3）。
+
+但是——路得是摩押女子！
+
+她对婆婆拿俄米说："你的国就是我的国，你的神就是我的神"（得1:16）。她从约外进入约内，从被排斥的民族成为大卫的曾祖母，进入了弥赛亚的家谱（太1:5）。
+
+弟兄姐妹，这是何等大的恩典！神能从最不堪的起源中拣选他的百姓。罪不能拦阻恩典，羞耻不能限制拣选。"在人这是不能的，在神凡事都能"（太19:26）。
+
+### 以实玛利的后裔——约外的应许也成就（创25:12-18）
+
+亚伯拉罕为以实玛利祈求："但愿以实玛利活在你面前"（创17:18）。神回答说：约要与以撒立，但"论到以实玛利，我也应允你。我必赐福给他，使他昌盛，极其繁多。他必生十二个族长，我也要使他成为大国"（创17:20）。
+
+我记录了以实玛利的十二个儿子（创25:13-16），一一应验。神信守他一切的话，不只是约内的应许，也包括约外的应许。以实玛利没有承受永约，但神对夏甲和亚伯拉罕的话没有一句落空。
+
+更令人惊叹的是：以实玛利人的商队成了约瑟被卖到埃及的途径（创37:27-28）。人的恶成就了神的善。以实玛利的后裔在不知不觉中参与了神的救赎计划——将那位未来拯救以色列全家的人带到了埃及。
+
+### 以扫的后裔——先有国度，后有审判（创36章）
+
+我用了整整一章记载以扫的家谱。以扫的后裔在以色列人还在埃及为奴时，已经有了君王、城邦和军队。从世俗的眼光看，以扫的选择似乎更明智——用不着等四百年，先享地上的福。
+
+以东人的智慧闻名天下。约伯的朋友以利法来自提幔——以扫的孙子的城邑（创36:11；伯2:11）。先知说："提幔中再没有智慧吗？"（耶49:7）以东人有文化、有权势、有智慧。
+
+但先知俄巴底亚的整卷书宣判了以东的灭亡："你因行强暴待弟兄雅各，必被羞愧遮盖，也必永远断绝"（俄1:10）。以东的国度兴起又衰落，今日已无踪影。
+
+然而故事还有最后一幕：当以东人希律王统治犹大时，那位真正的王——弥赛亚耶稣——降生在伯利恒。以扫的后裔坐在宝座上，雅各的后裔躺在马槽里。但宝座上的要过去，马槽里的要存到永远。"圭必不离犹大，杖必不离他两脚之间，直等细罗来到"（创49:10）。
+
+这就是神的拣选："双子还没有生下来，善恶还没有做出来，只因要显明神拣选人的旨意，不在乎人的行为，乃在乎召人的主。雅各是我所爱的，以扫是我所恶的"（罗9:11-13）。
+
+### 万国归一——从约外到约内的洪流
+
+弟兄姐妹，为什么圣灵要我记下这些名字？
+
+因为救赎计划从来不只是关于一个民族。神对亚伯拉罕说的第一句应许就是："地上的万族都要因你得福"（创12:3）。这些约外的名录是这个应许的背景——万族是哪些族？就是这些被记录下来的族。
+
+你们看弥赛亚的家谱：他玛是迦南人，喇合是迦南人，路得是摩押人，拔示巴是赫人乌利亚的妻子（太1:3-6）。四个外邦女子，被圣灵特意写进弥赛亚的家谱。约外之民的血脉流入了约内之王的血管。
+
+这是何等的恩典！保罗说："你们从前在以色列国民以外，在所应许的诸约上是局外人，并且活在世上没有指望，没有神。你们从前远离神的人，如今却在基督耶稣里，靠着他的血，已经得亲近了"（弗2:12-13）。
+
+最终，使徒约翰在异象中看见："有许多的人，没有人能数过来，是从各国、各族、各民、各方来的，站在宝座和羔羊面前"（启7:9）。该隐的后裔、含的后裔、罗得的后裔、以实玛利的后裔、以扫的后裔——这些约外的名录，最终都要汇入这个敬拜的洪流。
+
+弟兄姐妹，当你读创世记中那些看似枯燥的家谱时，请记住：神记念每一个名字。在永恒的救赎计划中，没有任何一个民族是被遗忘的。那位从万国中拣选百姓的神，也从万国中呼召你来到他面前。你曾经是"约外之民"，如今是"约内之子"。这是恩典，唯独恩典。
+
+愿荣耀归给那位"从创立世界以前，在基督里拣选了我们"的神（弗1:4）。`,
+    content_en: `Dear brothers and sisters, I am Moses, servant of God.
+
+You may have wondered while reading Genesis: why spend so much space recording seemingly "unimportant" genealogies? The descendants of Cain, of Ham, of Lot, of Ishmael, of Esau — these were not the chosen line. Why did the Spirit move me to write down every one of their names?
+
+Because in God's eyes, no name is superfluous. These genealogies of those outside the covenant are precisely the key to understanding the grace within it. Let me walk you through them.
+
+### The Descendants of Cain — God's Common Grace (Gen 4:17-24)
+
+Cain killed his brother and was driven from God's presence. By justice, he should have perished. Yet God gave him a mark of protection (Gen 4:15) and allowed his descendants to develop animal husbandry (Jabal), music (Jubal), and metalwork (Tubal-Cain). The origins of civilization arose among the exiled — this is what Reformed theology calls "common grace": even outside the covenant, God still grants talents, culture, and order.
+
+But note: Cain's civilization ultimately produced Lamech's violence and arrogance — "If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold." (Gen 4:24). Without God's restraint, civilization can shine brilliantly and fall catastrophically.
+
+Meanwhile, Seth's line "began to call upon the name of the LORD" (Gen 4:26). Two lines in stark contrast: one had civilization without worship, the other had worship and therefore hope. The Messiah's genealogy continued through Seth's line, not Cain's.
+
+### The Descendants of Ham and Japheth — All Nations in God's Hand (Gen 10)
+
+After the Flood, Noah's three sons multiplied. I was commanded to record the "Table of Nations" — Ham's descendants went south, becoming Canaanites, Egyptians, Philistines, Cushites; Nimrod built Babel. Japheth's descendants spread north and west. From Shem's line came Abraham.
+
+Why record so many nations? Because God "hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;" (Acts 17:26). Every nation's rise and fall is under God's sovereignty. The Table of Nations is not a geography textbook but evidence that God governs all the earth.
+
+Ham's son Canaan was cursed (Gen 9:25), yet a thousand years later, the Canaanite woman Rahab entered Israel by faith and joined the Messiah's genealogy (Matt 1:5). A descendant of the cursed line, saved by faith — this is the power of grace.
+
+### The Descendants of Lot — Grace from Shame (Gen 19:30-38)
+
+After Sodom's destruction, Lot's two daughters committed incest with their father. The firstborn bore Moab, the younger bore Ben-Ammi. These very names carry shame. The Moabites and Ammonites became Israel's enemies, and the law decreed: "An Ammonite or Moabite shall not enter into the congregation of the LORD." (Deut 23:3).
+
+But — Ruth was a Moabite woman!
+
+She told her mother-in-law Naomi: "Thy people shall be my people, and thy God my God." (Ruth 1:16). She entered from outside the covenant to within, from a rejected people to become David's great-grandmother, entering the Messiah's genealogy (Matt 1:5).
+
+Brothers and sisters, what immense grace! God can choose His people from the most unseemly origins. Sin cannot hinder grace; shame cannot limit election. "With men this is impossible; but with God all things are possible." (Matt 19:26).
+
+### The Descendants of Ishmael — Promises Outside the Covenant Also Fulfilled (Gen 25:12-18)
+
+Abraham pleaded for Ishmael: "O that Ishmael might live before thee!" (Gen 17:18). God answered: the covenant would be with Isaac, but "as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation." (Gen 17:20).
+
+I recorded Ishmael's twelve sons (Gen 25:13-16), each one fulfilled. God keeps all His words — not only promises within the covenant but also those outside it. Ishmael did not inherit the eternal covenant, but not one of God's words to Hagar and Abraham fell to the ground.
+
+More astonishingly: Ishmaelite traders became the means by which Joseph was sold into Egypt (Gen 37:27-28). Human evil accomplished God's good. Ishmael's descendants unknowingly participated in God's redemptive plan — carrying the future savior of all Israel to Egypt.
+
+### The Descendants of Esau — Kingdom First, Judgment After (Gen 36)
+
+I devoted an entire chapter to Esau's genealogy. While the Israelites were still slaves in Egypt, Esau's descendants already had kings, city-states, and armies. From a worldly perspective, Esau's choice seemed wiser — no need to wait four hundred years; enjoy earthly blessings now.
+
+Edomite wisdom was renowned. Job's friend Eliphaz came from Teman — the city of Esau's grandson (Gen 36:11; Job 2:11). The prophet asked: "Is wisdom no more in Teman?" (Jer 49:7). Edom had culture, power, and wisdom.
+
+Yet the entire book of Obadiah pronounced Edom's doom: "For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever." (Obad 1:10). Edom's kingdom rose and fell; today no trace remains.
+
+But the story has one final act: when the Edomite King Herod ruled Judea, the true King — the Messiah Jesus — was born in Bethlehem. Esau's descendant sat on the throne; Jacob's descendant lay in a manger. But the one on the throne would pass away; the one in the manger would endure forever. "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come." (Gen 49:10).
+
+This is God's election: "(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;) As it is written, Jacob have I loved, but Esau have I hated." (Rom 9:11-13).
+
+### All Nations to One — The Flood from Outside to Inside the Covenant
+
+Brothers and sisters, why did the Spirit move me to record these names?
+
+Because God's redemptive plan was never about just one nation. The very first promise God spoke to Abraham was: "And in thee shall all families of the earth be blessed." (Gen 12:3). These genealogies outside the covenant are the backdrop to this promise — which are "all the families"? Precisely these recorded peoples.
+
+Look at the Messiah's genealogy: Tamar was a Canaanite, Rahab was a Canaanite, Ruth was a Moabite, Bathsheba was the wife of Uriah the Hittite (Matt 1:3-6). Four foreign women, deliberately written into the Messiah's genealogy by the Spirit. The blood of those outside the covenant flowed into the veins of the King within the covenant.
+
+What grace! Paul wrote: "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world: But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ." (Eph 2:12-13).
+
+Finally, the Apostle John saw in his vision: "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb." (Rev 7:9). The descendants of Cain, Ham, Lot, Ishmael, Esau — all these genealogies outside the covenant will ultimately flow into this great river of worship.
+
+Brothers and sisters, when you read those seemingly dry genealogies in Genesis, remember: God remembers every name. In His eternal plan of redemption, no nation is forgotten. The God who chose a people from among all nations also called you from among all nations to come before Him. You were once "outside the covenant"; now you are "children of the covenant." This is grace, grace alone.
+
+Glory be to the God who "hath chosen us in him before the foundation of the world" (Eph 1:4).`,
+    tags: ['拣选', '恩典', '家谱', '救赎历史', '万国'],
   },
   {
     id: 'paul-damascus',
@@ -3680,13 +4154,13 @@ Your sister, Ruth of Moab`,
     author: '多马',
     authorEn: 'Thomas',
     authorAvatar: '🤚',
-    authorBio: '十二使徒之一，人称\\"多疑的多马\\"',
-    authorBioEn: 'One of the Twelve, known as \\"Doubting Thomas\\"',
+    authorBio: '十二使徒之一，又称多疑的多马',
+    authorBioEn: 'One of the Twelve, known as Doubting Thomas',
     title_zh: '我的主！我的神！',
     title_en: 'My Lord and My God!',
-    date: '2026-04-18',
+    date: '2026-04-04',
     category: 'testimony' as Letter['category'],
-    scripture: '约翰福音 20:24-29 / John 20:24-29',
+    scripture: '约翰福音 20:24-29',
     scriptureText_zh: `多马说："我的主！我的神！"耶稣对他说："你因看见了我才信；那没有看见就信的有福了。"（约翰福音 20:29）（约翰福音 20:28）`,
     scriptureText_en: `Thomas answered him, "My Lord and my God!" Jesus said to him, "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed." (John 20:29) (John 20:28)`,
     summary_zh: '我不是\\"怀疑的多马\\"——我是那个需要亲眼看见才能相信的人。但当复活的主站在我面前，我说出了整本圣经中最伟大的信仰告白：\\"我的主！我的神！\\"疑惑不是信心的对立面，不信才是。',

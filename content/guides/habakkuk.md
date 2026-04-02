@@ -1,16 +1,25 @@
----
-book: "哈巴谷书"
-bookEn: "Habakkuk"
-author: "哈巴谷"
-date: "约公元前609-605年"
-chapters: "3章"
-bibleId: "HAB"
-sourcePath: "old-testament/minor-prophets/habakkuk/client.tsx"
----
+# 哈巴谷书 Habakkuk
 
-# 哈巴谷书 导读 / Habakkuk Guide
+- **作者**: 哈巴谷
+- **写作时间**: 约公元前609-605年
+- **章数**: 3章
 
-## 一、先知的质问与神的回答（1章）
+## 概述
+
+哈巴谷书（3章）是小先知书中最独特的一卷——它不是先知对百姓讲道，而是先知与神之间的对话。哈巴谷大约在公元前609-605年事奉，正值犹大面临巴比伦威胁之际。
+
+全书结构是：质问→回答→再质问→再回答→祷告赞美。哈巴谷教导我们：把疑问带到神面前不是不信，而是信心最真实的表达。"义人因信得生"（2:4）成为了整个基督教信仰的核心经文之一。
+
+## Overview
+
+Habakkuk (3 chapters) is the most unique Minor Prophet — not a prophet preaching to people but a dialogue between prophet and God. Habakkuk ministered around 609–605 BC as Judah faced Babylonian threat.
+
+The structure: question → answer → deeper question → answer → prayer of praise. Habakkuk teaches: bringing doubts before God is not unbelief but faith's most authentic expression. "The just shall live by his faith" (2:4) became one of Christianity's core verses.
+
+## 分段导读
+
+### 一、先知的质问与神的回答（1章）
+*I. The Prophet's Question and God's Answer (Ch. 1)*
 
 哈巴谷书以先知向神发出的坦率质问开始——"耶和华啊，我呼求你，你不应允，要到几时呢？我因强暴哀求你，你还不拯救"（1:2）。哈巴谷看到犹大社会的不公义——强暴、罪孽、奸恶、争端——却看不到神在做什么。
 
@@ -20,8 +29,6 @@ sourcePath: "old-testament/minor-prophets/habakkuk/client.tsx"
 
 哈巴谷的质问是信仰中最深刻的问题之一——如果神是公义的，为什么世界如此不公？哈巴谷没有压抑自己的疑问，而是直接带到神面前——这本身就是信心的表现。
 
-### I. The Prophet's Question and God's Answer (Ch. 1)
-
 Habakkuk opens with the prophet's candid challenge to God — "O LORD, how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save!" (1:2). Habakkuk saw Judah's social injustice — violence, iniquity, wickedness, strife — yet saw no divine response.
 
 God's answer was unexpected: "Behold ye among the heathen, and regard, and wonder marvellously: for I will work a work in your days, which ye will not believe, though it be told you" (1:5). God would raise up the Chaldeans (Babylonians) to judge Judah — a more wicked nation to punish Israel!
@@ -30,9 +37,8 @@ This prompts Habakkuk's deeper perplexity — a second challenge: "Thou art of p
 
 Habakkuk's challenge is one of faith's deepest questions — if God is just, why is the world so unjust? Habakkuk did not suppress his doubt but brought it directly to God — this itself is an expression of faith.
 
----
-
-## 二、义人必因信得生（2章）
+### 二、义人必因信得生（2章）
+*II. The Just Shall Live by Faith (Ch. 2)*
 
 第二章开头，哈巴谷说"我要站在守望所，立在望楼上观看，看耶和华对我说什么话"（2:1）。他不是怒气冲冲地离开，而是静候神的回答——这是成熟信仰的标志。
 
@@ -44,8 +50,6 @@ Habakkuk's challenge is one of faith's deepest questions — if God is just, why
 
 全章以庄严的宣告结束："惟耶和华在他的圣殿中；全地的人都当在他面前肃敬静默"（2:20）。当你不明白神在做什么的时候，当安静等候。
 
-### II. The Just Shall Live by Faith (Ch. 2)
-
 Chapter 2 opens with Habakkuk saying "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me" (2:1). He does not storm off in anger but waits quietly for God's answer — the mark of mature faith.
 
 God's answer is the book's most central statement: "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith" (2:4). This single sentence became a cornerstone of New Testament theology — Paul cites it in Romans 1:17 and Galatians 3:11 to expound justification by faith; Hebrews 10:38 also quotes it to encourage believers' perseverance.
@@ -56,9 +60,8 @@ Chapter 2 then pronounces five "woes" against Babylon — greed (2:6–8), unjus
 
 The chapter ends with a solemn declaration: "But the LORD is in his holy temple: let all the earth keep silence before him" (2:20). When you do not understand what God is doing — be still and wait.
 
----
-
-## 三、哈巴谷的祷告与信心之歌（3章）
+### 三、哈巴谷的祷告与信心之歌（3章）
+*III. Habakkuk's Prayer and Song of Faith (Ch. 3)*
 
 第三章是一首壮丽的祷告诗歌，以音乐指示开始和结束（"流离歌"、"交与伶长"），说明它是为圣殿敬拜而写的。
 
@@ -68,8 +71,6 @@ The chapter ends with a solemn declaration: "But the LORD is in his holy temple:
 
 这是圣经中最伟大的信心宣告之一。无花果树不发旺、葡萄不结果、没有羊没有牛——物质上一无所有。"然而"——这个转折词承载了整卷书的信息。环境没有改变，问题没有解答，但先知的心已经从质疑转为敬拜。这就是信心：不是因为环境好所以赞美，而是虽然环境糟糕仍然赞美。
 
-### III. Habakkuk's Prayer and Song of Faith (Ch. 3)
-
 Chapter 3 is a magnificent prayer-psalm, bookended by musical notations ("upon Shigionoth," "to the chief singer"), indicating it was written for temple worship.
 
 Habakkuk reviews God's mighty acts in history — the glory from Sinai (3:3), the parting of the Red Sea (3:15). This is not escapism but using historical experience to strengthen present faith: the God who saved Israel in the past still reigns now.
@@ -78,27 +79,23 @@ The book's climax is the final three verses — Habakkuk's declaration of faith:
 
 This is one of Scripture's greatest declarations of faith. Fig trees not blossoming, no grapes, no olives, no sheep, no cattle — materially nothing. "Yet" — this single conjunction carries the book's entire message. Circumstances unchanged, questions unanswered, yet the prophet's heart has moved from questioning to worship. This is faith: not praising because circumstances are good, but praising though circumstances are terrible.
 
----
+## 核心神学
 
-## 四、"义人因信得生"：哈巴谷与宗教改革
+### 核心神学：义人必因信得生
+*Core Theology: The Just Shall Live by Faith*
 
-哈巴谷书2:4——"义人因信得生"——是整个基督教历史上最具影响力的旧约经文之一。保罗在罗马书1:17、加拉太书3:11引用此节，希伯来书10:38也引用此节，赋予了这七个字以新约神学的核心地位。
+哈巴谷书是旧约中最"个人化"的先知书——不是对百姓的宣告，而是先知与神之间的直接对话和质问。
 
-马丁路德读到罗马书1:17对哈巴谷2:4的引用时，经历了属灵的突破——"义人因信得生"意味着人在神面前的义不是靠行为挣来的，而是因信得着的。这一洞见点燃了十六世纪的宗教改革，改变了整个西方的历史轨迹。一句来自小先知书的经文，借着保罗，借着路德，塑造了现代文明。
+第一，"义人必因信得生"（2:4）。这五个字改变了世界。保罗在罗马书1:17和加拉太书3:11引用这句话，建立了因信称义的教义；路德因这句话发动了宗教改革。哈巴谷的原意是：在看不见公义实现的时代，义人仍然凭信心坚持——不是因为环境好，而是因为神可信。这是全旧约对信心最简洁、最有力的定义。
 
-但哈巴谷的原初语境不可忽视：他是在问"神啊，你在哪里？你为什么沉默？"的处境下得到这个答案的。"义人因信得生"不只是称义的方式，更是苦难中持守的方式——当神的作为让人困惑，当公义看来迟迟不来，义人靠的是对那位不可见之神的信心，而不是眼前可见的证据。
+第二，质疑的合法性。"耶和华啊，我呼求你，你不应允，要到几时呢？"（1:2）。哈巴谷没有因为自己是先知就压抑疑问——他大胆地质问神为什么容忍罪恶、为什么用更恶的巴比伦来审判犹大。神没有责备他的质疑，而是给出了回答。这教导我们：信仰不排斥诚实的疑问——但质疑之后必须等候神的回答，而不是放弃信仰。
 
-这种"在黑暗中的信心"是哈巴谷书最宝贵的礼物。宗教改革拯救了称义教义，哈巴谷书则进一步教导我们：这信心不是在顺境中的理论，而是在苦难中的锚。"然而，我要因耶和华欢欣"（3:18）——这是基督徒最深处的信仰告白。
+第三，在苦难中赞美。"虽然无花果树不发旺，葡萄树不结果，橄榄树也不效力，田地不出粮食，圈中绝了羊，棚内也没有牛；然而，我要因耶和华欢欣，因救我的神喜乐"（3:17-18）。这是全旧约最伟大的信仰宣告之一——在一切外在支撑都崩塌的时候，信心仍然站立。这不是盲目的乐观，而是根植于神本身（而非神的赐予）的坚定信靠。
 
-### IV. "The Just Shall Live by Faith": Habakkuk and the Reformation
+Habakkuk is the most "personal" prophetic book in the Old Testament — not a proclamation to the people but a direct dialogue and questioning between the prophet and God.
 
-Habakkuk 2:4 — "the just shall live by his faith" — is one of the most influential Old Testament verses in all of Christian history. Paul quotes it in Romans 1:17 and Galatians 3:11; Hebrews 10:38 also cites it, giving these few words a central place in New Testament theology.
+First, "the just shall live by his faith" (2:4). These words changed the world. Paul cited this in Romans 1:17 and Galatians 3:11 to establish the doctrine of justification by faith; Luther was moved by this verse to launch the Reformation. Habakkuk's original meaning: in an era when justice is nowhere to be seen, the righteous still persevere by faith — not because circumstances are good, but because God is trustworthy. This is the most concise and powerful definition of faith in the entire Old Testament.
 
-When Martin Luther read Romans 1:17's quotation of Habakkuk 2:4, he experienced a spiritual breakthrough: "the just shall live by faith" means that a person's righteousness before God is not earned by works but received through faith. This insight ignited the sixteenth-century Reformation, altering the entire trajectory of Western history. A single verse from a Minor Prophet, through Paul and through Luther, shaped modern civilization.
+Second, the legitimacy of questioning. "O LORD, how long shall I cry, and thou wilt not hear!" (1:2). Habakkuk did not suppress his questions because he was a prophet — he boldly asked God why He tolerates evil and why He uses the even more wicked Babylonians to judge Judah. God did not rebuke his questioning but gave an answer. This teaches us: faith does not exclude honest questions — but after questioning, one must wait for God's answer rather than abandon faith.
 
-But Habakkuk's original context must not be overlooked: he received this answer while asking "God, where are you? Why are you silent?" "The just shall live by faith" is not only the means of justification but the means of persevering in suffering — when God's ways are perplexing and justice seems long delayed, the righteous live by faith in the unseen God rather than visible evidence.
-
-This "faith in the dark" is Habakkuk's most precious gift. The Reformation rescued the doctrine of justification; Habakkuk further teaches us that this faith is not a fair-weather theory but an anchor in suffering. "Yet I will rejoice in the LORD" (3:18) — this is the Christian's deepest confession of faith.
-
----
-
+Third, praise in suffering. "Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls: Yet I will rejoice in the LORD, I will joy in the God of my salvation" (3:17-18). This is one of the greatest declarations of faith in the entire Old Testament — when every external support collapses, faith still stands. This is not blind optimism but firm trust rooted in God Himself, not in His gifts.

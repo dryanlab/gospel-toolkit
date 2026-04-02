@@ -9,7 +9,7 @@ title_zh: "家产与亲情"
 title_en: "Property and Kinship"
 date: "2099-12-31"
 category: "fellowship"
-scripture: "箴言 18:19 / Proverbs 18:19"
+scripture: "箴言 18:19"
 summary_zh: "当金钱和财产介入亲人之间，会发生什么？七位圣经人物分享亲身经历与教训。"
 summary_en: "What happens when money and property come between family members? Seven biblical figures share their personal experiences and lessons."
 tags: ["家庭", "财产", "亲情", "团契", "智慧"]
