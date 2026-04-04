@@ -1,5 +1,5 @@
 // Service Worker for 真理磐石 PWA
-const CACHE_NAME = 'gospel-app-v2';
+const CACHE_NAME = 'gospel-app-v4';
 
 // Install event - cache essential assets
 self.addEventListener('install', (event) => {
