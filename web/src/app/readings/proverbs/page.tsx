@@ -25,8 +25,8 @@ const config: BookConfig = {
   emoji: '💎',
   authorZh: '所罗门',
   authorEn: 'Solomon',
-  introZh: '弟兄姐妹，我是所罗门，大卫的儿子。耶和华赐我智慧，胜过世上一切的人。但我要告诉你——智慧的开端不是聪明，而是敬畏耶和华。',
-  introEn: 'Brothers and sisters, I am Solomon, son of David. The LORD granted me wisdom surpassing all on earth. But I must tell you -- the beginning of wisdom is not cleverness, but the fear of the LORD.',
+  introZh: '我是所罗门，大卫的儿子。耶和华赐我智慧，胜过世上一切的人。但我要告诉你，智慧的开端不是聪明，而是敬畏耶和华。',
+  introEn: 'I am Solomon, son of David. The LORD granted me wisdom surpassing all on earth. But I must tell you: the beginning of wisdom is not cleverness, but the fear of the LORD.',
   isTopicBased: true,
 };
 
