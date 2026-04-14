@@ -16,8 +16,8 @@ const books: BibleBook[] = [
     author_en: 'Unknown (traditionally Paul, Barnabas, or Apollos)',
     date: '约公元65年',
     date_en: 'c. AD 65',
-    theme_zh: '基督超越一切——更美的大祭司与新约',
-    theme_en: 'Christ Is Superior — A Better High Priest and a New Covenant',
+    theme_zh: '基督超越一切，更美的大祭司与新约',
+    theme_en: 'Christ Is Superior, A Better High Priest and a New Covenant',
     summary_zh: '希伯来书向面临逼迫的犹太裔信徒证明基督远超天使、摩西、旧约祭司制度和一切旧约预表。第11章的"信心英雄榜"激励历代圣徒奔跑天路。',
     summary_en: 'Hebrews demonstrates to persecuted Jewish believers that Christ is far superior to angels, Moses, the Old Testament priesthood, and all Old Testament types. The "hall of faith" in Chapter 11 inspires the saints to run the race.',
     keyVerse_zh: '我们既有这许多的见证人，如同云彩围着我们，就当放下各样的重担，脱去容易缠累我们的罪，存心忍耐，奔那摆在我们前头的路程。',
@@ -33,8 +33,8 @@ const books: BibleBook[] = [
     author_en: 'James, brother of Jesus',
     date: '约公元45-49年',
     date_en: 'c. AD 45–49',
-    theme_zh: '活出来的信仰——信心与行为',
-    theme_en: 'Living Faith — Faith and Works',
+    theme_zh: '活出来的信仰，信心与行为',
+    theme_en: 'Living Faith, Faith and Works',
     summary_zh: '雅各书被称为"新约的箴言"，以实际的教导帮助信徒将信仰活出来：控制舌头、照顾穷人、在试炼中忍耐、以行为证明真信心。',
     summary_en: 'James, called "the Proverbs of the New Testament," gives practical teaching on living out the faith: taming the tongue, caring for the poor, enduring trials, and demonstrating true faith through works.',
     keyVerse_zh: '身体没有灵魂是死的，信心没有行为也是死的。',
@@ -84,8 +84,8 @@ const books: BibleBook[] = [
     author_en: 'Apostle John',
     date: '约公元85-95年',
     date_en: 'c. AD 85–95',
-    theme_zh: '神就是爱——真信仰的测验',
-    theme_en: 'God Is Love — Tests of True Faith',
+    theme_zh: '神就是爱，真信仰的测验',
+    theme_en: 'God Is Love, Tests of True Faith',
     summary_zh: '约翰提供了三个测验来辨别真信仰：教义的测验（相信耶稣是道成肉身的基督）、道德的测验（遵行神的命令）和社会的测验（彼此相爱）。',
     summary_en: 'John provides three tests of true faith: the doctrinal test (believing Jesus is the Christ come in the flesh), the moral test (obeying God\'s commands), and the social test (loving one another).',
     keyVerse_zh: '神就是爱；住在爱里面的，就是住在神里面，神也住在他里面。',
@@ -106,7 +106,7 @@ const books: BibleBook[] = [
     summary_zh: '约翰二书是写给"蒙拣选的太太"的短信，劝勉信徒在真理和爱中行走，警告不可接待否认基督道成肉身的假教师。',
     summary_en: 'A short letter to "the elect lady," urging believers to walk in truth and love while warning against receiving false teachers who deny that Christ came in the flesh.',
     keyVerse_zh: '我们大家要彼此相爱，这并不是我写一条新命令给你，乃是我们从起初所受的命令。',
-    keyVerse_en: 'And now I ask you, dear lady—not as though I were writing you a new commandment, but the one we have had from the beginning—that we love one another.',
+    keyVerse_en: 'And now I ask you, dear lady, not as though I were writing you a new commandment, but the one we have had from the beginning, that we love one another.',
     keyRef: '约翰二书 1:5 / 2 John 1:5',
   },
   {
@@ -152,7 +152,7 @@ export default function GeneralEpistlesPage() {
       title_zh="普通书信"
       title_en="General Epistles"
       desc_zh="普通书信是其他使徒写给众教会的书信，涵盖基督的超越、活泼的信心、苦难中的盼望、防备假教师等丰富主题，教导信徒在各样环境中持守真道。"
-      desc_en="The General Epistles, written by various apostles to the wider Church, cover Christ's supremacy, living faith, hope in suffering, and guarding against false teachers — equipping believers to hold fast in every circumstance."
+      desc_en="The General Epistles, written by various apostles to the wider Church, cover Christ's supremacy, living faith, hope in suffering, and guarding against false teachers, equipping believers to hold fast in every circumstance."
       gradient="from-purple-600 to-violet-800"
       books={books}
       backHref="/new-testament"

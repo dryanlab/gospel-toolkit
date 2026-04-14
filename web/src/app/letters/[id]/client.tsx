@@ -39,7 +39,7 @@ function renderMarkdown(md: string) {
         </h1>
       );
     } else if (line.startsWith('> ')) {
-      // Blockquote — scripture reference style
+      // Blockquote, scripture reference style
       let html = line.slice(2);
       html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
       html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');

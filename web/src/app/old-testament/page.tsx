@@ -13,7 +13,7 @@ const categories = [
     icon: '📜',
     count: 5,
     desc_zh: '从创世到以色列人进入应许之地前，神的创造、拣选与立约',
-    desc_en: 'From creation to the edge of the Promised Land — God\'s creation, election, and covenant',
+    desc_en: 'From creation to the edge of the Promised Land, God\'s creation, election, and covenant',
     gradient: 'from-amber-600 to-yellow-800',
   },
   {
@@ -23,7 +23,7 @@ const categories = [
     icon: '⚔️',
     count: 12,
     desc_zh: '从征服迦南到被掳归回，以色列的兴衰与神信实的带领',
-    desc_en: 'From the conquest of Canaan to the return from exile — Israel\'s rise and fall under God\'s faithful guidance',
+    desc_en: 'From the conquest of Canaan to the return from exile, Israel\'s rise and fall under God\'s faithful guidance',
     gradient: 'from-emerald-600 to-teal-800',
   },
   {
@@ -71,10 +71,10 @@ export default function OldTestamentPage() {
           Guide to the Old Testament
         </p>
         <p className="text-sm text-[var(--color-text)] leading-relaxed max-w-xl mx-auto mb-2">
-          旧约圣经39卷书卷记载了神创造天地、拣选以色列、颁布律法、差遣先知的历史，一步步指向那将要来的弥赛亚——耶稣基督。
+          旧约圣经39卷书卷记载了神创造天地、拣选以色列、颁布律法、差遣先知的历史，一步步指向那将要来的弥赛亚，耶稣基督。
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] max-w-xl mx-auto italic">
-          The 39 books of the Old Testament record God&apos;s creation, His election of Israel, the giving of the Law, and the sending of prophets — all pointing step by step to the coming Messiah, Jesus Christ.
+          The 39 books of the Old Testament record God&apos;s creation, His election of Israel, the giving of the Law, and the sending of prophets, all pointing step by step to the coming Messiah, Jesus Christ.
         </p>
       </div>
 

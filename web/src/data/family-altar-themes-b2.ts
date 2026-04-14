@@ -20,7 +20,7 @@ export const themesB2: AltarTheme[] = [
         },
         reflection: {
           zh: '撒种的比喻提醒我们，神的道如同种子，需要落在好土里才能结实。路旁的土代表心硬的人，听了道却不明白，仇敌就把所撒的夺去了。我们当省察自己的心田，是否预备好接受神话语的栽种。',
-          en: 'The Parable of the Sower reminds us that God\'s Word is like seed that needs good soil to bear fruit. The path represents hard hearts — those who hear the Word but do not understand, and the evil one snatches away what was sown. Let us examine our hearts: are they prepared to receive the planting of God\'s Word?',
+          en: 'The Parable of the Sower reminds us that God\'s Word is like seed that needs good soil to bear fruit. The path represents hard hearts, those who hear the Word but do not understand, and the evil one snatches away what was sown. Let us examine our hearts: are they prepared to receive the planting of God\'s Word?',
         },
         question: {
           zh: '你觉得自己的心田现在更像哪种土壤？你可以做什么来预备自己的心更好地接受神的话语？',
@@ -40,7 +40,7 @@ export const themesB2: AltarTheme[] = [
         },
         reflection: {
           zh: '芥菜种的比喻让我们看到天国的奥秘：它起初看似微不足道，却有着不可阻挡的生长力量。基督的教会从十二个门徒开始，如今遍布全球。信心也是如此，即使小如芥菜种，在神的手中也能成就大事。',
-          en: 'The Parable of the Mustard Seed reveals the mystery of God\'s kingdom: it starts seemingly insignificant, yet possesses unstoppable growing power. Christ\'s church began with twelve disciples and now spans the globe. Faith works the same way — even faith as small as a mustard seed can accomplish great things in God\'s hands.',
+          en: 'The Parable of the Mustard Seed reveals the mystery of God\'s kingdom: it starts seemingly insignificant, yet possesses unstoppable growing power. Christ\'s church began with twelve disciples and now spans the globe. Faith works the same way, even faith as small as a mustard seed can accomplish great things in God\'s hands.',
         },
         question: {
           zh: '你是否曾因为觉得自己的信心太小而气馁？芥菜种的比喻如何鼓励你？',
@@ -59,8 +59,8 @@ export const themesB2: AltarTheme[] = [
           text_en: 'Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.',
         },
         reflection: {
-          zh: '天国的价值远超世上一切。这个人发现宝贝后，不是勉强、不是被迫，而是"欢欢喜喜地"变卖一切。当我们真正认识基督的宝贵，放下世界的事就不再是牺牲，而是喜乐的交换——用短暂的换永恒的。',
-          en: 'The kingdom of heaven far surpasses everything in this world. When this man found the treasure, he was not reluctant or forced — he went "in his joy" and sold everything. When we truly know the preciousness of Christ, letting go of worldly things is no longer sacrifice but a joyful exchange — trading the temporary for the eternal.',
+          zh: '天国的价值远超世上一切。这个人发现宝贝后，不是勉强、不是被迫，而是"欢欢喜喜地"变卖一切。当我们真正认识基督的宝贵，放下世界的事就不再是牺牲，而是喜乐的交换，用短暂的换永恒的。',
+          en: 'The kingdom of heaven far surpasses everything in this world. When this man found the treasure, he was not reluctant or forced, he went "in his joy" and sold everything. When we truly know the preciousness of Christ, letting go of worldly things is no longer sacrifice but a joyful exchange, trading the temporary for the eternal.',
         },
         question: {
           zh: '在你心中，天国的价值是否超过世上的一切？有什么是你还不愿意为基督放下的？',
@@ -79,8 +79,8 @@ export const themesB2: AltarTheme[] = [
           text_en: 'What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it? And when he hath found it, he layeth it on his shoulders, rejoicing. And when he cometh home, he calleth together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost.',
         },
         reflection: {
-          zh: '好牧人不惜撇下九十九只，去寻找那一只迷失的羊。这就是神对罪人的爱——不是等你回来，而是主动来寻找你。祂不嫌弃你走得多远，找到你之后还欢欢喜喜地扛在肩上。每一个灵魂在神眼中都无比宝贵。',
-          en: 'The Good Shepherd leaves the ninety-nine to search for the one lost sheep. This is God\'s love for sinners — He doesn\'t wait for you to return but actively comes to find you. No matter how far you\'ve wandered, He rejoices and carries you on His shoulders. Every soul is infinitely precious in God\'s eyes.',
+          zh: '好牧人不惜撇下九十九只，去寻找那一只迷失的羊。这就是神对罪人的爱，不是等你回来，而是主动来寻找你。祂不嫌弃你走得多远，找到你之后还欢欢喜喜地扛在肩上。每一个灵魂在神眼中都无比宝贵。',
+          en: 'The Good Shepherd leaves the ninety-nine to search for the one lost sheep. This is God\'s love for sinners, He doesn\'t wait for you to return but actively comes to find you. No matter how far you\'ve wandered, He rejoices and carries you on His shoulders. Every soul is infinitely precious in God\'s eyes.',
         },
         question: {
           zh: '你是否经历过神在你迷失时来寻找你？你身边是否有"迷失的羊"需要你为他们祷告？',
@@ -100,7 +100,7 @@ export const themesB2: AltarTheme[] = [
         },
         reflection: {
           zh: '浪子回头的比喻是福音最美的图画之一。父亲没有等浪子走到跟前才接纳他，而是"相离还远"就跑过去拥抱。袍子代表尊荣，戒指代表权柄，鞋子代表儿子的身份。无论我们曾经如何远离神，祂总是张开双臂等待我们回家。',
-          en: 'The Parable of the Prodigal Son is one of the most beautiful pictures of the gospel. The father didn\'t wait for the son to reach him — he saw him "a long way off" and ran to embrace him. The robe represents honor, the ring represents authority, the shoes represent sonship. No matter how far we\'ve strayed from God, He always stands with open arms waiting for us to come home.',
+          en: 'The Parable of the Prodigal Son is one of the most beautiful pictures of the gospel. The father didn\'t wait for the son to reach him, he saw him "a long way off" and ran to embrace him. The robe represents honor, the ring represents authority, the shoes represent sonship. No matter how far we\'ve strayed from God, He always stands with open arms waiting for us to come home.',
         },
         question: {
           zh: '你是否曾像浪子一样远离天父？回到神面前时，你经历了怎样的接纳和恩典？',
@@ -120,7 +120,7 @@ export const themesB2: AltarTheme[] = [
         },
         reflection: {
           zh: '绵羊和山羊的比喻告诉我们，真正的信心必然带出行动。服事最小的弟兄姐妹，就是服事基督自己。信仰不只在教堂里，更在日常生活的每一个怜悯行动中。我们对有需要之人的态度，反映了我们与基督的关系。',
-          en: 'The Parable of the Sheep and Goats teaches that genuine faith inevitably produces action. Serving the least of Christ\'s brothers and sisters is serving Christ Himself. Faith is not confined to the church building — it lives in every act of mercy in daily life. Our attitude toward those in need reflects our relationship with Christ.',
+          en: 'The Parable of the Sheep and Goats teaches that genuine faith inevitably produces action. Serving the least of Christ\'s brothers and sisters is serving Christ Himself. Faith is not confined to the church building, it lives in every act of mercy in daily life. Our attitude toward those in need reflects our relationship with Christ.',
         },
         question: {
           zh: '最近有没有什么具体的方式，你可以服事身边有需要的人？你如何在日常生活中活出信仰？',
@@ -139,8 +139,8 @@ export const themesB2: AltarTheme[] = [
           text_en: 'Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants. And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents. But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made. The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all. Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.',
         },
         reflection: {
-          zh: '一千万银子是天文数字，一个人一辈子也还不清。这正是我们在神面前的光景——罪债之大，远超我们偿还的能力。但主人"动了慈心"，完全免了他的债。这就是恩典！然而比喻继续说，那仆人却不肯免同伴的小债。领受了大恩典的人，岂不应当也以恩典待人吗？',
-          en: 'Ten thousand talents was an astronomical sum — impossible to repay in a lifetime. This is our condition before God — our debt of sin far exceeds our ability to pay. But the master "out of pity" forgave the entire debt. This is grace! Yet the parable continues: that servant refused to forgive his fellow servant\'s small debt. Should not those who have received great grace also extend grace to others?',
+          zh: '一千万银子是天文数字，一个人一辈子也还不清。这正是我们在神面前的光景，罪债之大，远超我们偿还的能力。但主人"动了慈心"，完全免了他的债。这就是恩典！然而比喻继续说，那仆人却不肯免同伴的小债。领受了大恩典的人，岂不应当也以恩典待人吗？',
+          en: 'Ten thousand talents was an astronomical sum, impossible to repay in a lifetime. This is our condition before God, our debt of sin far exceeds our ability to pay. But the master "out of pity" forgave the entire debt. This is grace! Yet the parable continues: that servant refused to forgive his fellow servant\'s small debt. Should not those who have received great grace also extend grace to others?',
         },
         question: {
           zh: '你是否有不愿饶恕的人或事？想想神免了你多大的债，这如何帮助你去饶恕别人？',
@@ -148,7 +148,7 @@ export const themesB2: AltarTheme[] = [
         },
         prayer: {
           zh: '恩慈的主，祢免了我们无法偿还的罪债，这何等大的恩典！求祢帮助我们也以恩慈待人，饶恕那些得罪我们的人，正如祢饶恕了我们一样。奉主耶稣的名祷告，阿们。',
-          en: 'Gracious Lord, You forgave our unpayable debt of sin — what amazing grace! Help us extend grace to others and forgive those who wrong us, just as You have forgiven us. In Jesus\' name, amen.',
+          en: 'Gracious Lord, You forgave our unpayable debt of sin, what amazing grace! Help us extend grace to others and forgive those who wrong us, just as You have forgiven us. In Jesus\' name, amen.',
         },
       },
       {
@@ -160,7 +160,7 @@ export const themesB2: AltarTheme[] = [
         },
         reflection: {
           zh: '十个童女的比喻警醒我们要时刻预备迎接主的再来。灯代表外在的信仰表现，油代表内在真实的属灵生命。聪明与愚拙的区别不在于灯，而在于油。外表的宗教形式不够，我们需要真实的、内在的与基督的关系。',
-          en: 'The Parable of the Ten Virgins warns us to always be prepared for the Lord\'s return. The lamps represent outward religious appearance, while the oil represents genuine inner spiritual life. The difference between wise and foolish is not the lamp but the oil. Outward religious form is not enough — we need a real, inner relationship with Christ.',
+          en: 'The Parable of the Ten Virgins warns us to always be prepared for the Lord\'s return. The lamps represent outward religious appearance, while the oil represents genuine inner spiritual life. The difference between wise and foolish is not the lamp but the oil. Outward religious form is not enough, we need a real, inner relationship with Christ.',
         },
         question: {
           zh: '如果主今天就回来，你预备好了吗？你的信仰是外在的形式，还是内在真实的生命？',
@@ -200,7 +200,7 @@ export const themesB2: AltarTheme[] = [
         },
         reflection: {
           zh: '好撒玛利亚人的比喻打破了所有的偏见和界限。祭司和利未人是宗教领袖，却视而不见；反倒是被犹太人鄙视的撒玛利亚人伸出了援手。真正的爱邻舍不分民族、阶层、背景，是看见需要就行动的慈心。耶稣自己就是那位真正的好撒玛利亚人，来到我们这些伤痕累累的罪人身边。',
-          en: 'The Good Samaritan breaks through all prejudice and boundaries. The priest and Levite were religious leaders who passed by, but the Samaritan — despised by Jews — was the one who helped. True love for neighbor knows no ethnicity, class, or background — it is compassion that sees need and acts. Jesus Himself is the true Good Samaritan who came to us, wounded sinners.',
+          en: 'The Good Samaritan breaks through all prejudice and boundaries. The priest and Levite were religious leaders who passed by, but the Samaritan, despised by Jews, was the one who helped. True love for neighbor knows no ethnicity, class, or background, it is compassion that sees need and acts. Jesus Himself is the true Good Samaritan who came to us, wounded sinners.',
         },
         question: {
           zh: '你生活中是否有像"落在强盗手中"一样需要帮助的人？你是像祭司利未人一样路过，还是愿意像撒玛利亚人一样停下来？',
@@ -208,7 +208,7 @@ export const themesB2: AltarTheme[] = [
         },
         prayer: {
           zh: '主耶稣，祢是我们的好撒玛利亚人，在我们伤痕累累时来医治我们。求祢赐给我们祢一样的慈心，不因偏见而冷漠，而是看见需要就伸出援手。奉主耶稣的名祷告，阿们。',
-          en: 'Lord Jesus, You are our Good Samaritan who came to heal us when we were wounded. Give us Your same compassion — not cold indifference from prejudice, but hands that reach out when they see need. In Jesus\' name, amen.',
+          en: 'Lord Jesus, You are our Good Samaritan who came to heal us when we were wounded. Give us Your same compassion, not cold indifference from prejudice, but hands that reach out when they see need. In Jesus\' name, amen.',
         },
       },
       {
@@ -228,7 +228,7 @@ export const themesB2: AltarTheme[] = [
         },
         prayer: {
           zh: '神啊，开恩可怜我们这些罪人！求祢除去我们心中一切的骄傲和自义，让我们常存谦卑痛悔的心来到祢面前。不是靠我们的好行为，乃是靠祢的怜悯。奉主耶稣的名祷告，阿们。',
-          en: 'God, be merciful to us sinners! Remove all pride and self-righteousness from our hearts. Let us always come before You with humble and contrite hearts — not relying on our good works, but on Your mercy. In Jesus\' name, amen.',
+          en: 'God, be merciful to us sinners! Remove all pride and self-righteousness from our hearts. Let us always come before You with humble and contrite hearts, not relying on our good works, but on Your mercy. In Jesus\' name, amen.',
         },
       },
       {
@@ -239,8 +239,8 @@ export const themesB2: AltarTheme[] = [
           text_en: 'Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.',
         },
         reflection: {
-          zh: '两种根基的比喻是登山宝训的总结。听道而行道，就是把生命建造在磐石上；听道而不行道，就是建在沙土上。人生的风雨总会来到——疾病、失业、关系破裂、至亲离世。能不能站立得住，取决于你的根基是什么。真理磐石就是基督和祂的话语。',
-          en: 'The Parable of the Two Foundations concludes the Sermon on the Mount. Hearing and doing the Word is building on rock; hearing without doing is building on sand. Life\'s storms will come — illness, job loss, broken relationships, loss of loved ones. Whether you stand depends on your foundation. The Rock of Truth is Christ and His Word.',
+          zh: '两种根基的比喻是登山宝训的总结。听道而行道，就是把生命建造在磐石上；听道而不行道，就是建在沙土上。人生的风雨总会来到：疾病、失业、关系破裂、至亲离世。能不能站立得住，取决于你的根基是什么。真理磐石就是基督和祂的话语。',
+          en: 'The Parable of the Two Foundations concludes the Sermon on the Mount. Hearing and doing the Word is building on rock; hearing without doing is building on sand. Life\'s storms will come, illness, job loss, broken relationships, loss of loved ones. Whether you stand depends on your foundation. The Rock of Truth is Christ and His Word.',
         },
         question: {
           zh: '你的人生根基是建在什么上面？当风雨来临时，什么是你不动摇的依靠？',
@@ -259,8 +259,8 @@ export const themesB2: AltarTheme[] = [
           text_en: 'Then said he unto him, A certain man made a great supper, and bade many: And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready. And they all with one consent began to make excuse. The first said unto him, I have bought a piece of ground, and I must needs go and see it: I pray thee have me excused. And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused. And another said, I have married a wife, and therefore I cannot come.',
         },
         reflection: {
-          zh: '大筵席的比喻揭示了一个令人心痛的事实：神的恩典白白赐给人，人却因为各种理由推辞。买地、试牛、娶妻——这些本身不是坏事，但当它们成为拒绝神邀请的借口时，就成了偶像。神的筵席已经备好，样样齐备，问题从来不是神预备得不够，而是我们是否愿意来。',
-          en: 'The Parable of the Great Banquet reveals a heartbreaking truth: God offers His grace freely, yet people decline for various reasons. Buying a field, testing oxen, getting married — none of these are bad things, but when they become excuses to reject God\'s invitation, they become idols. God\'s banquet is ready with everything prepared. The problem is never that God hasn\'t prepared enough, but whether we are willing to come.',
+          zh: '大筵席的比喻揭示了一个令人心痛的事实：神的恩典白白赐给人，人却因为各种理由推辞。买地、试牛、娶妻，这些本身不是坏事，但当它们成为拒绝神邀请的借口时，就成了偶像。神的筵席已经备好，样样齐备，问题从来不是神预备得不够，而是我们是否愿意来。',
+          en: 'The Parable of the Great Banquet reveals a heartbreaking truth: God offers His grace freely, yet people decline for various reasons. Buying a field, testing oxen, getting married, none of these are bad things, but when they become excuses to reject God\'s invitation, they become idols. God\'s banquet is ready with everything prepared. The problem is never that God hasn\'t prepared enough, but whether we are willing to come.',
         },
         question: {
           zh: '你生活中有什么事情正在成为你回应神呼召的借口？你是否把某些事看得比神的邀请更重要？',
@@ -279,8 +279,8 @@ export const themesB2: AltarTheme[] = [
           text_en: 'Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind: Which, when it was full, they drew to shore, and sat down, and gathered the good into vessels, but cast the bad away.',
         },
         reflection: {
-          zh: '撒网的比喻提醒我们，教会在地上是可见的混合体——好鱼和坏鱼共存于网中。最终的分别不是人做的，而是在末日由天使来执行。这给我们两个提醒：第一，不要因为教会中有假冒伪善的人就离开教会；第二，要省察自己到底是哪一种鱼。',
-          en: 'The Parable of the Net reminds us that the visible church on earth is a mixed body — good and bad fish coexist in the net. The final separation is not done by humans but by angels at the end of the age. This gives us two reminders: first, don\'t leave the church because of hypocrites; second, examine yourself to see which kind of fish you are.',
+          zh: '撒网的比喻提醒我们，教会在地上是可见的混合体，好鱼和坏鱼共存于网中。最终的分别不是人做的，而是在末日由天使来执行。这给我们两个提醒：第一，不要因为教会中有假冒伪善的人就离开教会；第二，要省察自己到底是哪一种鱼。',
+          en: 'The Parable of the Net reminds us that the visible church on earth is a mixed body, good and bad fish coexist in the net. The final separation is not done by humans but by angels at the end of the age. This gives us two reminders: first, don\'t leave the church because of hypocrites; second, examine yourself to see which kind of fish you are.',
         },
         question: {
           zh: '你如何看待教会中不完美的地方？这个比喻如何帮助你理解教会的本质和你在其中的角色？',
@@ -299,8 +299,8 @@ export const themesB2: AltarTheme[] = [
           text_en: 'And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully: And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits? And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods. And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry. But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided? So is he that layeth up treasure for himself, and is not rich toward God.',
         },
         reflection: {
-          zh: '无知财主的比喻是对物质主义最严厉的警告。这个人不是因为有钱而被称为无知，而是因为他把一切盼望都放在财物上，却不顾自己灵魂的归宿。"今夜必要你的灵魂"——生命的脆弱超乎我们的想象。在神面前富足，远比在世上富足更重要。',
-          en: 'The Parable of the Rich Fool is the sternest warning against materialism. This man was not called a fool for being rich, but for placing all his hope in wealth while ignoring the destiny of his soul. "This night your soul is required of you" — life is more fragile than we imagine. Being rich toward God is far more important than being rich in this world.',
+          zh: '无知财主的比喻是对物质主义最严厉的警告。这个人不是因为有钱而被称为无知，而是因为他把一切盼望都放在财物上，却不顾自己灵魂的归宿。"今夜必要你的灵魂"，生命的脆弱超乎我们的想象。在神面前富足，远比在世上富足更重要。',
+          en: 'The Parable of the Rich Fool is the sternest warning against materialism. This man was not called a fool for being rich, but for placing all his hope in wealth while ignoring the destiny of his soul. "This night your soul is required of you", life is more fragile than we imagine. Being rich toward God is far more important than being rich in this world.',
         },
         question: {
           zh: '如果神今晚就要你的灵魂，你预备好了吗？你在"向神富足"上有怎样的追求？',

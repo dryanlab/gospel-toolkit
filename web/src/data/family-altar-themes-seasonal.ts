@@ -40,7 +40,7 @@ export const themesSeasonal: AltarTheme[] = [
         },
         reflection: {
           zh: '万王之王弯腰为门徒洗脚，这是何等惊人的画面！在那个时代，洗脚是最卑微的仆人才做的事。耶稣用行动教导门徒：真正的伟大不在于被人服事，而在于服事人。祂为我们树立了谦卑服事的终极榜样。',
-          en: 'The King of kings stooped to wash His disciples\' feet — what an astonishing scene! In that era, foot-washing was the task of the lowliest servant. Jesus taught His disciples through action: true greatness is not in being served but in serving. He set the ultimate example of humble service.',
+          en: 'The King of kings stooped to wash His disciples\' feet, what an astonishing scene! In that era, foot-washing was the task of the lowliest servant. Jesus taught His disciples through action: true greatness is not in being served but in serving. He set the ultimate example of humble service.',
         },
         question: {
           zh: '你愿意放下身段去服事别人吗？在家庭中，你可以如何效法耶稣谦卑服事的榜样？',
@@ -79,8 +79,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me. And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.',
         },
         reflection: {
-          zh: '客西马尼园的祷告让我们看到耶稣完全的人性——祂真实地经历了恐惧和忧伤。"这杯"是指神对罪的忿怒，耶稣将要代替我们承担。然而祂的祷告以"不要照我的意思，只要照你的意思"结束。这是完全的顺服，是信心最高的表达。',
-          en: 'Jesus\' prayer in Gethsemane reveals His full humanity — He genuinely experienced fear and sorrow. "This cup" refers to God\'s wrath against sin that Jesus would bear on our behalf. Yet His prayer ends with "not as I will, but as you will." This is complete surrender — the highest expression of faith.',
+          zh: '客西马尼园的祷告让我们看到耶稣完全的人性，祂真实地经历了恐惧和忧伤。"这杯"是指神对罪的忿怒，耶稣将要代替我们承担。然而祂的祷告以"不要照我的意思，只要照你的意思"结束。这是完全的顺服，是信心最高的表达。',
+          en: 'Jesus\' prayer in Gethsemane reveals His full humanity, He genuinely experienced fear and sorrow. "This cup" refers to God\'s wrath against sin that Jesus would bear on our behalf. Yet His prayer ends with "not as I will, but as you will." This is complete surrender, the highest expression of faith.',
         },
         question: {
           zh: '当你面对极大的困难时，你能像耶稣一样祷告"不要照我的意思，只要照你的意思"吗？',
@@ -99,8 +99,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'And forthwith he came to Jesus, and said, Hail, master; and kissed him. And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.',
         },
         reflection: {
-          zh: '犹大用亲嘴——这个表示亲密和爱的动作——来出卖耶稣。最亲近的人的背叛是最深的伤害。但耶稣仍然称犹大为"朋友"。即使在被出卖的时刻，耶稣依然给犹大悔改的机会。祂对罪人的爱，连背叛都无法夺去。',
-          en: 'Judas used a kiss — a gesture of intimacy and love — to betray Jesus. Betrayal by someone closest causes the deepest wound. Yet Jesus still called Judas "friend." Even at the moment of betrayal, Jesus offered Judas a chance to repent. His love for sinners cannot be taken away, not even by betrayal.',
+          zh: '犹大用亲嘴，这个表示亲密和爱的动作，来出卖耶稣。最亲近的人的背叛是最深的伤害。但耶稣仍然称犹大为"朋友"。即使在被出卖的时刻，耶稣依然给犹大悔改的机会。祂对罪人的爱，连背叛都无法夺去。',
+          en: 'Judas used a kiss, a gesture of intimacy and love, to betray Jesus. Betrayal by someone closest causes the deepest wound. Yet Jesus still called Judas "friend." Even at the moment of betrayal, Jesus offered Judas a chance to repent. His love for sinners cannot be taken away, not even by betrayal.',
         },
         question: {
           zh: '你是否经历过被亲近的人伤害或背叛？耶稣的回应如何帮助你面对这样的经历？',
@@ -139,12 +139,12 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.',
         },
         reflection: {
-          zh: '以赛亚书53章是旧约中最清晰的十字架预言，写于耶稣降生前七百年。每一个"我们"和"他"的对比都令人震撼：我们的过犯——他受害；我们的罪孽——他压伤；我们得平安——因他受刑罚。十字架的本质就是替代：无罪的代替有罪的。',
-          en: 'Isaiah 53 is the clearest Old Testament prophecy of the cross, written 700 years before Jesus\' birth. Every contrast between "our" and "his" is stunning: our transgressions — he was pierced; our iniquities — he was crushed; we receive peace — through his punishment. The essence of the cross is substitution: the sinless One taking the place of sinners.',
+          zh: '以赛亚书53章是旧约中最清晰的十字架预言，写于耶稣降生前七百年。每一个"我们"和"他"的对比都令人震撼：我们的过犯，他受害；我们的罪孽，他压伤；我们得平安，因他受刑罚。十字架的本质就是替代：无罪的代替有罪的。',
+          en: 'Isaiah 53 is the clearest Old Testament prophecy of the cross, written 700 years before Jesus\' birth. Every contrast between "our" and "his" is stunning: our transgressions, he was pierced; our iniquities, he was crushed; we receive peace, through his punishment. The essence of the cross is substitution: the sinless One taking the place of sinners.',
         },
         question: {
-          zh: '"因他受的鞭伤，我们得医治"——这句话对你个人意味着什么？你心中有什么伤需要主来医治？',
-          en: '"With his wounds we are healed" — what does this mean to you personally? What wounds in your heart need the Lord\'s healing?',
+          zh: '"因他受的鞭伤，我们得医治"，这句话对你个人意味着什么？你心中有什么伤需要主来医治？',
+          en: '"With his wounds we are healed", what does this mean to you personally? What wounds in your heart need the Lord\'s healing?',
         },
         prayer: {
           zh: '主耶稣，祢为我们的过犯受害，为我们的罪孽压伤。我们本不配得，但祢甘愿替代我们。感谢祢的鞭伤带给我们医治，祢的刑罚带给我们平安。奉主耶稣的名祷告，阿们。',
@@ -159,8 +159,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'And when the sixth hour was come, there was darkness over the whole land until the ninth hour. And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?',
         },
         reflection: {
-          zh: '这是整本圣经中最沉重的一句话。圣父与圣子之间永恒的团契在这一刻断裂了——因为耶稣担当了我们的罪。遍地的黑暗是外在的记号，内在的黑暗更加深沉。耶稣经历了被神离弃的痛苦，好叫我们永远不再被神离弃。',
-          en: 'This is the most weighty sentence in all of Scripture. The eternal fellowship between Father and Son was severed in this moment — because Jesus bore our sin. The darkness over the land was an outward sign; the inner darkness was far deeper. Jesus experienced the agony of being forsaken by God so that we would never be forsaken.',
+          zh: '这是整本圣经中最沉重的一句话。圣父与圣子之间永恒的团契在这一刻断裂了，因为耶稣担当了我们的罪。遍地的黑暗是外在的记号，内在的黑暗更加深沉。耶稣经历了被神离弃的痛苦，好叫我们永远不再被神离弃。',
+          en: 'This is the most weighty sentence in all of Scripture. The eternal fellowship between Father and Son was severed in this moment, because Jesus bore our sin. The darkness over the land was an outward sign; the inner darkness was far deeper. Jesus experienced the agony of being forsaken by God so that we would never be forsaken.',
         },
         question: {
           zh: '你是否经历过感觉神不在身边的时刻？知道耶稣为你经历了被神离弃，这如何安慰你？',
@@ -179,8 +179,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.',
         },
         reflection: {
-          zh: '在十字架上极度的痛苦中，耶稣开口说的第一句话不是咒诅，不是求救，而是为钉祂的人祷告。这就是十字架的爱——不是爱那些可爱的人，而是爱那些正在伤害你的人。这样的饶恕超越了人的能力，只有从神而来的爱才能做到。',
-          en: 'In the extreme agony of the cross, Jesus\' first words were not a curse or a cry for help, but a prayer for those crucifying Him. This is the love of the cross — not loving those who are lovable, but loving those who are hurting you. Such forgiveness exceeds human ability; only love from God can accomplish this.',
+          zh: '在十字架上极度的痛苦中，耶稣开口说的第一句话不是咒诅，不是求救，而是为钉祂的人祷告。这就是十字架的爱，不是爱那些可爱的人，而是爱那些正在伤害你的人。这样的饶恕超越了人的能力，只有从神而来的爱才能做到。',
+          en: 'In the extreme agony of the cross, Jesus\' first words were not a curse or a cry for help, but a prayer for those crucifying Him. This is the love of the cross, not loving those who are lovable, but loving those who are hurting you. Such forgiveness exceeds human ability; only love from God can accomplish this.',
         },
         question: {
           zh: '耶稣为伤害祂的人祷告。有没有什么人是你觉得很难饶恕的？你能为他们祷告吗？',
@@ -188,7 +188,7 @@ export const themesSeasonal: AltarTheme[] = [
         },
         prayer: {
           zh: '主耶稣，祢在十字架上为仇敌祷告，这样的爱我们做不到，但祢能。求祢把这样的爱放在我们心里，帮助我们饶恕那些伤害过我们的人。奉主耶稣的名祷告，阿们。',
-          en: 'Lord Jesus, You prayed for Your enemies on the cross — a love we cannot achieve, but You can. Place this love in our hearts and help us forgive those who have hurt us. In Jesus\' name, amen.',
+          en: 'Lord Jesus, You prayed for Your enemies on the cross, a love we cannot achieve, but You can. Place this love in our hearts and help us forgive those who have hurt us. In Jesus\' name, amen.',
         },
       },
       {
@@ -200,7 +200,7 @@ export const themesSeasonal: AltarTheme[] = [
         },
         reflection: {
           zh: '十字架上的强盗是恩典最有力的见证。他没有受洗，没有行过善事，没有时间"改过自新"，只是在生命的最后一刻信靠了耶稣。耶稣的回应何等宝贵："今日你要同我在乐园里了。"救恩从来不是靠我们赚取的，而是白白赐给信靠之人的礼物。',
-          en: 'The thief on the cross is the most powerful testimony of grace. He was not baptized, had done no good works, had no time to "reform" — he simply trusted Jesus in his final moment. Jesus\' response is precious: "Today you will be with me in paradise." Salvation is never earned; it is a free gift to all who believe.',
+          en: 'The thief on the cross is the most powerful testimony of grace. He was not baptized, had done no good works, had no time to "reform", he simply trusted Jesus in his final moment. Jesus\' response is precious: "Today you will be with me in paradise." Salvation is never earned; it is a free gift to all who believe.',
         },
         question: {
           zh: '十字架上的强盗告诉我们，什么时候信主都不算晚。你身边有谁需要听到这样的恩典信息？',
@@ -220,7 +220,7 @@ export const themesSeasonal: AltarTheme[] = [
         },
         reflection: {
           zh: '"成了！"这一个字（希腊文tetelestai）是整个救赎历史的高潮。它的意思是"完全偿清了"。耶稣不是说"我完了"，而是说"完成了"。罪债已清，救恩已成，再没有什么需要我们添加的。我们的得救不是靠信心加行为，而是单单靠基督在十字架上已经完成的工作。',
-          en: '"It is finished!" This single word (Greek: tetelestai) is the climax of redemption history. It means "paid in full." Jesus did not say "I am finished" but "It is accomplished." The debt of sin is cleared, salvation is complete — there is nothing for us to add. Our salvation rests not on faith plus works, but solely on Christ\'s finished work on the cross.',
+          en: '"It is finished!" This single word (Greek: tetelestai) is the climax of redemption history. It means "paid in full." Jesus did not say "I am finished" but "It is accomplished." The debt of sin is cleared, salvation is complete, there is nothing for us to add. Our salvation rests not on faith plus works, but solely on Christ\'s finished work on the cross.',
         },
         question: {
           zh: '"成了"意味着救恩已经完成。你是否还在试图靠自己的努力来赢得神的接纳？',
@@ -239,8 +239,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent; And the graves were opened; and many bodies of the saints which slept arose, And came out of the graves after his resurrection, and went into the holy city, and appeared unto many. Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.',
         },
         reflection: {
-          zh: '殿里的幔子从上到下裂开——注意是"从上到下"，这不是人手所为，而是神亲自撕裂的。这幔子原来隔开圣所和至圣所，象征人与神之间的阻隔。幔子裂开意味着通往神面前的路已经打开，每个信靠基督的人都可以坦然无惧地来到神面前。',
-          en: 'The temple curtain was torn from top to bottom — note "from top to bottom," not by human hands but by God Himself. This curtain separated the Holy Place from the Most Holy, symbolizing the barrier between humanity and God. Its tearing means the way to God is now open — every believer in Christ can come boldly before God.',
+          zh: '殿里的幔子从上到下裂开，注意是"从上到下"，这不是人手所为，而是神亲自撕裂的。这幔子原来隔开圣所和至圣所，象征人与神之间的阻隔。幔子裂开意味着通往神面前的路已经打开，每个信靠基督的人都可以坦然无惧地来到神面前。',
+          en: 'The temple curtain was torn from top to bottom, note "from top to bottom," not by human hands but by God Himself. This curtain separated the Holy Place from the Most Holy, symbolizing the barrier between humanity and God. Its tearing means the way to God is now open, every believer in Christ can come boldly before God.',
         },
         question: {
           zh: '殿里幔子裂开意味着你可以直接来到神面前。你是否充分享受了这个特权？',
@@ -259,8 +259,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took the body of Jesus. And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound weight. Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.',
         },
         reflection: {
-          zh: '约瑟和尼哥底母是"暗暗的门徒"——一个因惧怕而秘密跟随，一个只敢夜里来找耶稣。但在耶稣最需要人站出来的时刻，当其他门徒都逃走时，反而是这两个胆小的人勇敢地站了出来。十字架改变了他们。有时候，信心在最黑暗的时刻反而最明亮。',
-          en: 'Joseph and Nicodemus were "secret disciples" — one followed secretly out of fear, the other came to Jesus only at night. But at the moment when Jesus most needed someone to step forward, when other disciples had fled, these two timid men bravely emerged. The cross changed them. Sometimes faith shines brightest in the darkest hour.',
+          zh: '约瑟和尼哥底母是"暗暗的门徒"，一个因惧怕而秘密跟随，一个只敢夜里来找耶稣。但在耶稣最需要人站出来的时刻，当其他门徒都逃走时，反而是这两个胆小的人勇敢地站了出来。十字架改变了他们。有时候，信心在最黑暗的时刻反而最明亮。',
+          en: 'Joseph and Nicodemus were "secret disciples", one followed secretly out of fear, the other came to Jesus only at night. But at the moment when Jesus most needed someone to step forward, when other disciples had fled, these two timid men bravely emerged. The cross changed them. Sometimes faith shines brightest in the darkest hour.',
         },
         question: {
           zh: '你是否也是一个"暗暗的门徒"？十字架的爱是否激励你更勇敢地表明信仰？',
@@ -279,8 +279,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.',
         },
         reflection: {
-          zh: '彼得曾三次不认主，他比任何人都更深地体会十字架恩典的宝贵。"亲身担当"——耶稣不是远远地替我们安排救恩，而是亲自上了十字架。十字架的目的不只是赦免我们的罪，更是让我们"在义上活"——活出新生命。恩典不是让我们继续犯罪的许可证，而是改变生命的力量。',
-          en: 'Peter, who denied the Lord three times, understood the preciousness of cross-borne grace more deeply than anyone. "He himself bore" — Jesus did not arrange salvation from afar but personally went to the cross. The purpose of the cross is not only to forgive our sins but to enable us to "live to righteousness" — to live new lives. Grace is not a license to sin but the power to transform.',
+          zh: '彼得曾三次不认主，他比任何人都更深地体会十字架恩典的宝贵。"亲身担当"，耶稣不是远远地替我们安排救恩，而是亲自上了十字架。十字架的目的不只是赦免我们的罪，更是让我们"在义上活"，活出新生命。恩典不是让我们继续犯罪的许可证，而是改变生命的力量。',
+          en: 'Peter, who denied the Lord three times, understood the preciousness of cross-borne grace more deeply than anyone. "He himself bore", Jesus did not arrange salvation from afar but personally went to the cross. The purpose of the cross is not only to forgive our sins but to enable us to "live to righteousness", to live new lives. Grace is not a license to sin but the power to transform.',
         },
         question: {
           zh: '十字架不只赦免罪，更给我们活出新生命的力量。你的生命因十字架发生了什么改变？',
@@ -288,7 +288,7 @@ export const themesSeasonal: AltarTheme[] = [
         },
         prayer: {
           zh: '主耶稣，感谢祢亲身担当了我们的罪。求祢帮助我们不只享受赦免的恩典，更活出十字架改变生命的大能，在义上活，荣耀祢的名。奉主耶稣的名祷告，阿们。',
-          en: 'Lord Jesus, thank You for bearing our sins in Your own body. Help us not only enjoy the grace of forgiveness but live out the transforming power of the cross — living in righteousness and glorifying Your name. In Jesus\' name, amen.',
+          en: 'Lord Jesus, thank You for bearing our sins in Your own body. Help us not only enjoy the grace of forgiveness but live out the transforming power of the cross, living in righteousness and glorifying Your name. In Jesus\' name, amen.',
         },
       },
       {
@@ -299,8 +299,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.',
         },
         reflection: {
-          zh: '耶稣忍受十字架不是因为祂喜欢受苦，而是因为"那摆在前面的喜乐"。这喜乐是什么？是我们！是你和我得赎回归神的喜乐。祂看见了十字架那一边的荣耀——千千万万被拯救的灵魂与祂永远同在。如今祂已坐在神宝座的右边，受难已过，荣耀永在。',
-          en: 'Jesus endured the cross not because He enjoyed suffering, but because of "the joy set before Him." What was this joy? Us! The joy of you and me being redeemed and brought back to God. He saw the glory beyond the cross — countless saved souls with Him forever. Now He is seated at God\'s right hand. The suffering is past; the glory is eternal.',
+          zh: '耶稣忍受十字架不是因为祂喜欢受苦，而是因为"那摆在前面的喜乐"。这喜乐是什么？是我们！是你和我得赎回归神的喜乐。祂看见了十字架那一边的荣耀，千千万万被拯救的灵魂与祂永远同在。如今祂已坐在神宝座的右边，受难已过，荣耀永在。',
+          en: 'Jesus endured the cross not because He enjoyed suffering, but because of "the joy set before Him." What was this joy? Us! The joy of you and me being redeemed and brought back to God. He saw the glory beyond the cross, countless saved souls with Him forever. Now He is seated at God\'s right hand. The suffering is past; the glory is eternal.',
         },
         question: {
           zh: '知道耶稣是因为你的缘故而忍受十字架，这如何影响你对祂的爱和感恩？',
@@ -308,7 +308,7 @@ export const themesSeasonal: AltarTheme[] = [
         },
         prayer: {
           zh: '主耶稣，祢因那摆在前面的喜乐忍受了十字架。而那喜乐竟然包括我们！何等不可思议的爱！求祢帮助我们时时仰望祢，在人生的艰难中效法祢忍耐到底。奉主耶稣的名祷告，阿们。',
-          en: 'Lord Jesus, You endured the cross for the joy set before You — and that joy includes us! What incredible love! Help us always look to You and follow Your example of endurance through life\'s difficulties. In Jesus\' name, amen.',
+          en: 'Lord Jesus, You endured the cross for the joy set before You, and that joy includes us! What incredible love! Help us always look to You and follow Your example of endurance through life\'s difficulties. In Jesus\' name, amen.',
         },
       },
     ],
@@ -328,8 +328,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified. He is not here: for he is risen, as he said. Come, see the place where the Lord lay.',
         },
         reflection: {
-          zh: '"他不在这里，已经复活了"——这是人类历史上最伟大的宣告。坟墓空了！死亡被打败了！如果耶稣没有复活，我们的信就是徒然的。但祂确实复活了，正如祂所预言的。复活不只是一个历史事件，更是我们信仰的根基和盼望的源头。',
-          en: '"He is not here, for he has risen" — this is the greatest announcement in human history. The tomb is empty! Death is defeated! If Jesus had not risen, our faith would be in vain. But He truly rose, just as He foretold. The resurrection is not merely a historical event but the foundation of our faith and the source of our hope.',
+          zh: '"他不在这里，已经复活了"，这是人类历史上最伟大的宣告。坟墓空了！死亡被打败了！如果耶稣没有复活，我们的信就是徒然的。但祂确实复活了，正如祂所预言的。复活不只是一个历史事件，更是我们信仰的根基和盼望的源头。',
+          en: '"He is not here, for he has risen", this is the greatest announcement in human history. The tomb is empty! Death is defeated! If Jesus had not risen, our faith would be in vain. But He truly rose, just as He foretold. The resurrection is not merely a historical event but the foundation of our faith and the source of our hope.',
         },
         question: {
           zh: '复活节对你意味着什么？耶稣的复活如何影响你面对死亡和困难的态度？',
@@ -348,8 +348,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away. Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.',
         },
         reflection: {
-          zh: '复活的主第一个显现给抹大拉的马利亚——一个曾被七个鬼附的女人。耶稣只说了一个字："马利亚"，她就认出了祂。好牧人按名字呼唤祂的羊。耶稣复活后第一件事不是彰显权能，而是安慰一个哭泣的人。祂的温柔令人动容。',
-          en: 'The risen Lord first appeared to Mary Magdalene — a woman once possessed by seven demons. Jesus spoke just one word: "Mary," and she recognized Him. The Good Shepherd calls His sheep by name. After resurrection, Jesus\' first act was not to display power but to comfort a weeping person. His tenderness is deeply moving.',
+          zh: '复活的主第一个显现给抹大拉的马利亚，一个曾被七个鬼附的女人。耶稣只说了一个字："马利亚"，她就认出了祂。好牧人按名字呼唤祂的羊。耶稣复活后第一件事不是彰显权能，而是安慰一个哭泣的人。祂的温柔令人动容。',
+          en: 'The risen Lord first appeared to Mary Magdalene, a woman once possessed by seven demons. Jesus spoke just one word: "Mary," and she recognized Him. The Good Shepherd calls His sheep by name. After resurrection, Jesus\' first act was not to display power but to comfort a weeping person. His tenderness is deeply moving.',
         },
         question: {
           zh: '耶稣认识你的名字，知道你的眼泪。你是否在最伤心的时刻听到过主温柔的呼唤？',
@@ -368,8 +368,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them. And their eyes were opened, and they knew him; and he vanished out of their sight. And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?',
         },
         reflection: {
-          zh: '以马忤斯路上的两个门徒，心里愁闷灰心，复活的耶稣亲自走近他们，为他们讲解圣经。当祂擘饼时，他们的眼睛就明亮了。注意：是圣经使他们的心火热，是擘饼使他们认出主来。读经和圣餐——这两样至今仍是我们认识基督的主要途径。',
-          en: 'Two disciples on the Emmaus road were downcast and discouraged. The risen Jesus Himself drew near and explained the Scriptures to them. When He broke bread, their eyes were opened. Note: Scripture made their hearts burn; breaking bread revealed the Lord. Bible reading and communion — these two remain our primary ways of knowing Christ today.',
+          zh: '以马忤斯路上的两个门徒，心里愁闷灰心，复活的耶稣亲自走近他们，为他们讲解圣经。当祂擘饼时，他们的眼睛就明亮了。注意：是圣经使他们的心火热，是擘饼使他们认出主来。读经和圣餐，这两样至今仍是我们认识基督的主要途径。',
+          en: 'Two disciples on the Emmaus road were downcast and discouraged. The risen Jesus Himself drew near and explained the Scriptures to them. When He broke bread, their eyes were opened. Note: Scripture made their hearts burn; breaking bread revealed the Lord. Bible reading and communion, these two remain our primary ways of knowing Christ today.',
         },
         question: {
           zh: '你读圣经时，心是否"火热"？如何让每日读经成为遇见复活主的时刻？',
@@ -388,8 +388,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing. And Thomas answered and said unto him, My LORD and my God.',
         },
         reflection: {
-          zh: '多马常被称为"怀疑的多马"，但耶稣没有责备他，而是满足了他的需要。耶稣理解我们的软弱和怀疑。注意多马看见复活主后的回应："我的主！我的神！"——这是福音书中最完整的信仰告白。有时候怀疑是通往更深信心的必经之路。',
-          en: 'Thomas is often called "doubting Thomas," but Jesus did not rebuke him — He met his need. Jesus understands our weakness and doubt. Note Thomas\' response upon seeing the risen Lord: "My Lord and my God!" — the fullest confession of faith in the Gospels. Sometimes doubt is a necessary path to deeper faith.',
+          zh: '多马常被称为"怀疑的多马"，但耶稣没有责备他，而是满足了他的需要。耶稣理解我们的软弱和怀疑。注意多马看见复活主后的回应："我的主！我的神！"，这是福音书中最完整的信仰告白。有时候怀疑是通往更深信心的必经之路。',
+          en: 'Thomas is often called "doubting Thomas," but Jesus did not rebuke him, He met his need. Jesus understands our weakness and doubt. Note Thomas\' response upon seeing the risen Lord: "My Lord and my God!", the fullest confession of faith in the Gospels. Sometimes doubt is a necessary path to deeper faith.',
         },
         question: {
           zh: '你是否有过信仰上的怀疑？多马的经历如何鼓励你在疑惑中继续寻求？',
@@ -397,7 +397,7 @@ export const themesSeasonal: AltarTheme[] = [
         },
         prayer: {
           zh: '主耶稣，感谢祢不嫌弃我们的怀疑和软弱。求祢像对待多马一样对待我们，在疑惑中引导我们进入更深的信心，直到我们也能说"我的主！我的神！"奉主耶稣的名祷告，阿们。',
-          en: 'Lord Jesus, thank You for not despising our doubts and weakness. Treat us as You treated Thomas — guide us through doubt into deeper faith until we too can say "My Lord and my God!" In Jesus\' name, amen.',
+          en: 'Lord Jesus, thank You for not despising our doubts and weakness. Treat us as You treated Thomas, guide us through doubt into deeper faith until we too can say "My Lord and my God!" In Jesus\' name, amen.',
         },
       },
       {
@@ -408,8 +408,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs. He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep. He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.',
         },
         reflection: {
-          zh: '彼得三次不认主，复活的耶稣三次问他"你爱我吗"——不是为了羞辱他，而是为了恢复他。每一次回答都医治一次否认的伤口。耶稣不只饶恕彼得，还重新委派他"喂养我的羊"。复活的主不放弃失败的人，反而给他们新的使命。',
-          en: 'Peter denied Jesus three times; the risen Jesus asked him three times "Do you love me?" — not to shame him but to restore him. Each answer healed one denial wound. Jesus not only forgave Peter but recommissioned him: "Feed my sheep." The risen Lord does not abandon those who fail but gives them new purpose.',
+          zh: '彼得三次不认主，复活的耶稣三次问他"你爱我吗"，不是为了羞辱他，而是为了恢复他。每一次回答都医治一次否认的伤口。耶稣不只饶恕彼得，还重新委派他"喂养我的羊"。复活的主不放弃失败的人，反而给他们新的使命。',
+          en: 'Peter denied Jesus three times; the risen Jesus asked him three times "Do you love me?", not to shame him but to restore him. Each answer healed one denial wound. Jesus not only forgave Peter but recommissioned him: "Feed my sheep." The risen Lord does not abandon those who fail but gives them new purpose.',
         },
         question: {
           zh: '你是否因为曾经的失败而觉得神不会再用你了？彼得的恢复给你什么鼓励？',
@@ -428,8 +428,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; And that he was buried, and that he rose again the third day according to the scriptures: And that he was seen of Cephas, then of the twelve:',
         },
         reflection: {
-          zh: '保罗把福音浓缩为最核心的内容：基督死了、埋葬了、复活了、显现了。这不是神话传说，而是有众多目击证人的历史事件。"照圣经所说"出现两次，强调这一切都在神的计划之中。福音不复杂——它的核心就是基督的死与复活。',
-          en: 'Paul distills the gospel to its core: Christ died, was buried, was raised, and appeared. This is not myth but a historical event with many eyewitnesses. "In accordance with the Scriptures" appears twice, emphasizing all this was part of God\'s plan. The gospel is not complicated — its core is Christ\'s death and resurrection.',
+          zh: '保罗把福音浓缩为最核心的内容：基督死了、埋葬了、复活了、显现了。这不是神话传说，而是有众多目击证人的历史事件。"照圣经所说"出现两次，强调这一切都在神的计划之中。福音不复杂，它的核心就是基督的死与复活。',
+          en: 'Paul distills the gospel to its core: Christ died, was buried, was raised, and appeared. This is not myth but a historical event with many eyewitnesses. "In accordance with the Scriptures" appears twice, emphasizing all this was part of God\'s plan. The gospel is not complicated, its core is Christ\'s death and resurrection.',
         },
         question: {
           zh: '如果有人问你"福音是什么"，你能用一两句话说清楚吗？试试看。',
@@ -448,8 +448,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'But now is Christ risen from the dead, and become the firstfruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive.',
         },
         reflection: {
-          zh: '基督的复活不是孤立事件，而是"初熟的果子"——预示着更大的丰收。祂的复活保证了所有信祂之人将来的复活。在亚当里，我们继承了死亡；在基督里，我们继承了生命。这就是福音的大能：死亡不是终点，而是通往永生的门。',
-          en: 'Christ\'s resurrection is not an isolated event but "the firstfruits" — a preview of a greater harvest. His resurrection guarantees the future resurrection of all who believe. In Adam, we inherit death; in Christ, we inherit life. This is the power of the gospel: death is not the end but the door to eternal life.',
+          zh: '基督的复活不是孤立事件，而是"初熟的果子"，预示着更大的丰收。祂的复活保证了所有信祂之人将来的复活。在亚当里，我们继承了死亡；在基督里，我们继承了生命。这就是福音的大能：死亡不是终点，而是通往永生的门。',
+          en: 'Christ\'s resurrection is not an isolated event but "the firstfruits", a preview of a greater harvest. His resurrection guarantees the future resurrection of all who believe. In Adam, we inherit death; in Christ, we inherit life. This is the power of the gospel: death is not the end but the door to eternal life.',
         },
         question: {
           zh: '知道你将来也会复活，这如何改变你看待今生苦难和死亡的方式？',
@@ -468,8 +468,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:',
         },
         reflection: {
-          zh: '复活不只是未来的盼望，更是现在的实际。我们与基督同死同复活，意味着旧的生命已经过去，新的生命已经开始。"一举一动有新生的样式"——复活的能力不只改变我们死后的去处，更改变我们现在的生活方式。',
-          en: 'Resurrection is not only a future hope but a present reality. Being united with Christ in death and resurrection means the old life has passed and new life has begun. "Walk in newness of life" — resurrection power changes not only our destination after death but our way of living now.',
+          zh: '复活不只是未来的盼望，更是现在的实际。我们与基督同死同复活，意味着旧的生命已经过去，新的生命已经开始。"一举一动有新生的样式"，复活的能力不只改变我们死后的去处，更改变我们现在的生活方式。',
+          en: 'Resurrection is not only a future hope but a present reality. Being united with Christ in death and resurrection means the old life has passed and new life has begun. "Walk in newness of life", resurrection power changes not only our destination after death but our way of living now.',
         },
         question: {
           zh: '你的日常生活是否活出了"新生的样式"？哪些方面还需要经历复活的更新？',
@@ -488,8 +488,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last: I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.',
         },
         reflection: {
-          zh: '复活的基督拿着死亡和阴间的钥匙——祂是死亡的主人，不是死亡的受害者。因此祂说"不要惧怕"。无论我们面对什么——疾病、失去、甚至死亡本身——掌管这一切的是那位爱我们、为我们死而复活的主。祂活着，直到永永远远。',
-          en: 'The risen Christ holds the keys of Death and Hades — He is the master of death, not its victim. Therefore He says "Fear not." Whatever we face — illness, loss, even death itself — the One who controls it all is the Lord who loves us and died and rose for us. He lives forever and ever.',
+          zh: '复活的基督拿着死亡和阴间的钥匙，祂是死亡的主人，不是死亡的受害者。因此祂说"不要惧怕"。无论我们面对什么：疾病、失去、甚至死亡本身：掌管这一切的是那位爱我们、为我们死而复活的主。祂活着，直到永永远远。',
+          en: 'The risen Christ holds the keys of Death and Hades, He is the master of death, not its victim. Therefore He says "Fear not." Whatever we face, illness, loss, even death itself, the One who controls it all is the Lord who loves us and died and rose for us. He lives forever and ever.',
         },
         question: {
           zh: '你最害怕的是什么？知道复活的基督拿着死亡的钥匙，这如何帮助你面对恐惧？',
@@ -528,8 +528,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death; If by any means I might attain unto the resurrection of the dead.',
         },
         reflection: {
-          zh: '保罗的人生目标不是成功、财富或名声，而是"认识基督"。注意他把"复活的大能"和"一同受苦"放在一起——复活的能力不是让我们逃避苦难，而是让我们在苦难中有力量。真正认识基督意味着经历祂的全部：祂的能力和祂的苦难。',
-          en: 'Paul\'s life goal was not success, wealth, or fame but "to know Christ." Notice he links "the power of his resurrection" with "sharing his sufferings" — resurrection power is not for escaping suffering but for having strength within it. Truly knowing Christ means experiencing all of Him: His power and His suffering.',
+          zh: '保罗的人生目标不是成功、财富或名声，而是"认识基督"。注意他把"复活的大能"和"一同受苦"放在一起，复活的能力不是让我们逃避苦难，而是让我们在苦难中有力量。真正认识基督意味着经历祂的全部：祂的能力和祂的苦难。',
+          en: 'Paul\'s life goal was not success, wealth, or fame but "to know Christ." Notice he links "the power of his resurrection" with "sharing his sufferings", resurrection power is not for escaping suffering but for having strength within it. Truly knowing Christ means experiencing all of Him: His power and His suffering.',
         },
         question: {
           zh: '你渴望认识基督到什么程度？你是否愿意为认识祂而付代价？',
@@ -537,7 +537,7 @@ export const themesSeasonal: AltarTheme[] = [
         },
         prayer: {
           zh: '主啊，我们渴望更深地认识祢。不只认识祢复活的大能，也愿意与祢一同受苦。求祢帮助我们在顺境和逆境中都经历祢、认识祢。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, we long to know You more deeply — not only Your resurrection power but sharing in Your sufferings. Help us experience and know You in prosperity and adversity alike. In Jesus\' name, amen.',
+          en: 'Lord, we long to know You more deeply, not only Your resurrection power but sharing in Your sufferings. Help us experience and know You in prosperity and adversity alike. In Jesus\' name, amen.',
         },
       },
       {
@@ -569,15 +569,15 @@ export const themesSeasonal: AltarTheme[] = [
         },
         reflection: {
           zh: '复活的主升天前留下的不是一个结束，而是一个开始。祂差派门徒去"直到地极"作见证，并应许圣灵的能力。两千年来，福音从耶路撒冷传到世界每个角落，正是这个使命的延续。今天，我们就是"地极"的见证人。',
-          en: 'The risen Lord\'s ascension was not an ending but a beginning. He commissioned His disciples to witness "to the end of the earth" and promised the Holy Spirit\'s power. For two thousand years, the gospel has spread from Jerusalem to every corner of the world — a continuation of this mission. Today, we are witnesses at "the end of the earth."',
+          en: 'The risen Lord\'s ascension was not an ending but a beginning. He commissioned His disciples to witness "to the end of the earth" and promised the Holy Spirit\'s power. For two thousand years, the gospel has spread from Jerusalem to every corner of the world, a continuation of this mission. Today, we are witnesses at "the end of the earth."',
         },
         question: {
           zh: '你如何在自己的生活圈子里为复活的基督作见证？',
           en: 'How can you witness for the risen Christ in your own circle of life?',
         },
         prayer: {
-          zh: '主耶稣，祢升天前赐给我们大使命。求祢的圣灵充满我们，给我们能力和勇气，在我们所在的地方——家庭、学校、职场——为祢作美好的见证。奉主耶稣的名祷告，阿们。',
-          en: 'Lord Jesus, You gave us the Great Commission before Your ascension. Fill us with Your Holy Spirit, giving us power and courage to witness for You wherever we are — at home, school, and work. In Jesus\' name, amen.',
+          zh: '主耶稣，祢升天前赐给我们大使命。求祢的圣灵充满我们，给我们能力和勇气，在我们所在的地方：家庭、学校、职场，为祢作美好的见证。奉主耶稣的名祷告，阿们。',
+          en: 'Lord Jesus, You gave us the Great Commission before Your ascension. Fill us with Your Holy Spirit, giving us power and courage to witness for You wherever we are, at home, school, and work. In Jesus\' name, amen.',
         },
       },
       {
@@ -588,8 +588,8 @@ export const themesSeasonal: AltarTheme[] = [
           text_en: 'And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away. And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.',
         },
         reflection: {
-          zh: '复活的终极盼望不只是我们个人从死里复活，而是整个创造的更新。神要擦去一切眼泪——不再有死亡、悲哀、哭号、疼痛。"我将一切都更新了"——这是基督复活所开启的新创造的最终完成。我们现在经历的一切苦难都是暂时的，那永恒的荣耀正在前方等待我们。',
-          en: 'The ultimate hope of resurrection is not just our personal rising from the dead but the renewal of all creation. God will wipe away every tear — no more death, mourning, crying, or pain. "I am making all things new" — this is the final completion of the new creation inaugurated by Christ\'s resurrection. All our present sufferings are temporary; eternal glory awaits us ahead.',
+          zh: '复活的终极盼望不只是我们个人从死里复活，而是整个创造的更新。神要擦去一切眼泪：不再有死亡、悲哀、哭号、疼痛。"我将一切都更新了"，这是基督复活所开启的新创造的最终完成。我们现在经历的一切苦难都是暂时的，那永恒的荣耀正在前方等待我们。',
+          en: 'The ultimate hope of resurrection is not just our personal rising from the dead but the renewal of all creation. God will wipe away every tear, no more death, mourning, crying, or pain. "I am making all things new", this is the final completion of the new creation inaugurated by Christ\'s resurrection. All our present sufferings are temporary; eternal glory awaits us ahead.',
         },
         question: {
           zh: '想象一个没有眼泪、没有死亡、没有痛苦的世界。这样的盼望如何帮助你面对今天的困难？',

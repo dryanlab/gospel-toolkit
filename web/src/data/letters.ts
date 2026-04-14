@@ -495,7 +495,7 @@ Paul and I "had a sharp disagreement, so that they separated." This is Scripture
 
 But the story does not end there. Years later, Paul wrote from prison to the Colossian church:
 
-> Aristarchus my fellow prisoner greets you, and Mark the cousin of Barnabas (concerning whom you have received instructions—if he comes to you, welcome him). (Colossians 4:10)
+> Aristarchus my fellow prisoner greets you, and Mark the cousin of Barnabas (concerning whom you have received instructions, if he comes to you, welcome him). (Colossians 4:10)
 
 Paul accepted Mark! At the end of his life, he even wrote to Timothy:
 

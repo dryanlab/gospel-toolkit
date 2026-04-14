@@ -41,12 +41,12 @@ export default function ShareBar({ url, title, summary, scripture, emoji = '📜
   const isMobile = typeof navigator !== 'undefined' && /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
   const canNativeShare = typeof navigator !== 'undefined' && !!navigator.share;
 
-  // Native share (mobile) — rich content
+  // Native share (mobile), rich content
   const nativeShare = async () => {
     try {
       await navigator.share({
         title: `${emoji} ${title}`,
-        text: `${summary}${scriptureLine}${authorLine ? '\n' + authorLine : ''}\n\n— ${siteTag}`,
+        text: `${summary}${scriptureLine}${authorLine ? '\n' + authorLine : ''}\n\n, ${siteTag}`,
         url: prodUrl,
       });
     } catch {
@@ -67,7 +67,7 @@ export default function ShareBar({ url, title, summary, scripture, emoji = '📜
   };
 
   const platforms = [
-    // Native share (mobile) — system handles app selection
+    // Native share (mobile), system handles app selection
     ...(canNativeShare ? [{
       name: '分享 Share',
       icon: '📤',
@@ -93,7 +93,7 @@ export default function ShareBar({ url, title, summary, scripture, emoji = '📜
   };
 
   const copyForFriend = async () => {
-    const text = `${emoji} ${title}\n\n${summary}${scripture ? '\n\n📖 ' + scripture : ''}${authorLine ? '\n\n' + authorLine : ''}\n\n🔗 ${prodUrl}\n\n— ${siteTag}`;
+    const text = `${emoji} ${title}\n\n${summary}${scripture ? '\n\n📖 ' + scripture : ''}${authorLine ? '\n\n' + authorLine : ''}\n\n🔗 ${prodUrl}\n\n, ${siteTag}`;
     try {
       await navigator.clipboard.writeText(text);
     } catch {
@@ -188,7 +188,7 @@ export default function ShareBar({ url, title, summary, scripture, emoji = '📜
     ctx.fillStyle = grad;
     ctx.fillRect(0, 0, w, h);
 
-    // Paper texture effect — subtle noise via radial spots
+    // Paper texture effect, subtle noise via radial spots
     ctx.save();
     ctx.globalAlpha = 0.03;
     for (let i = 0; i < 8; i++) {
@@ -250,7 +250,7 @@ export default function ShareBar({ url, title, summary, scripture, emoji = '📜
     if (author) {
       ctx.fillStyle = t.accent2;
       ctx.font = '20px "PingFang SC", "Microsoft YaHei", sans-serif';
-      ctx.fillText('— ' + author + ' —', w / 2, y);
+      ctx.fillText(', ' + author + ', ', w / 2, y);
       y += 38;
     }
 
@@ -294,7 +294,7 @@ export default function ShareBar({ url, title, summary, scripture, emoji = '📜
       ctx.fillStyle = t.accent2;
       ctx.font = 'italic 19px "PingFang SC", "Microsoft YaHei", serif';
       ctx.textAlign = 'center';
-      ctx.fillText('— ' + scripture + ' —', w / 2, y);
+      ctx.fillText(', ' + scripture + ', ', w / 2, y);
       y += 30;
     }
 
@@ -428,7 +428,7 @@ export default function ShareBar({ url, title, summary, scripture, emoji = '📜
                   {scripture && <p className="mt-2 italic text-[var(--color-accent)]">📖 {scripture}</p>}
                   {author && <p className="mt-1 text-[var(--color-text-secondary)] text-xs">✍️ {author}</p>}
                   <p className="mt-2 text-[var(--color-accent)]">🔗 {prodUrl}</p>
-                  <p className="mt-1 text-[var(--color-text-secondary)] text-xs">— {siteTag}</p>
+                  <p className="mt-1 text-[var(--color-text-secondary)] text-xs">, {siteTag}</p>
                 </div>
                 <div className="flex gap-2">
                   <button

@@ -7,56 +7,56 @@ const sections = [
   {
     title_zh: `一、以东的骄傲与审判（1-9节）`,
     title_en: `I. Edom's Pride and Judgment (v. 1–9)`,
-    content_zh: `俄巴底亚书开门见山宣告对以东的审判。以东人是以扫的后裔，住在西珥山的悬崖峭壁中——佩特拉古城所在之处。他们自恃地势险要，觉得无人能攻取。
+    content_zh: `俄巴底亚书开门见山宣告对以东的审判。以东人是以扫的后裔，住在西珥山的悬崖峭壁中，佩特拉古城所在之处。他们自恃地势险要，觉得无人能攻取。
 
-神直接挑战以东的骄傲："住在磐石穴中、居所在高处的啊，你因心里骄傲，自己说：'谁能将我拉下地去呢？'你虽如大鹰高飞，在星宿之间搭窝，我必从那里拉下你来"（3-4节）。骄傲是以东的核心罪——这也是一切罪的根源。
+神直接挑战以东的骄傲："住在磐石穴中、居所在高处的啊，你因心里骄傲，自己说：'谁能将我拉下地去呢？'你虽如大鹰高飞，在星宿之间搭窝，我必从那里拉下你来"（3-4节）。骄傲是以东的核心罪，这也是一切罪的根源。
 
-审判是彻底的。连盟友和朋友都要背叛以东——"与你结盟的都送你上路，直到交界；与你和好的欺骗你，且胜过你"（7节）。以东引以为傲的智慧和勇士都将消灭——"以扫山的人都必被杀戮剪除"（9节）。`,
-    content_en: `Obadiah opens with a direct pronouncement of judgment on Edom. The Edomites were Esau's descendants, dwelling in the cliffs of Mount Seir — the site of ancient Petra. They trusted in their fortified position, believing no one could conquer them.
+审判是彻底的。连盟友和朋友都要背叛以东："与你结盟的都送你上路，直到交界；与你和好的欺骗你，且胜过你"（7节）。以东引以为傲的智慧和勇士都将消灭："以扫山的人都必被杀戮剪除"（9节）。`,
+    content_en: `Obadiah opens with a direct pronouncement of judgment on Edom. The Edomites were Esau's descendants, dwelling in the cliffs of Mount Seir, the site of ancient Petra. They trusted in their fortified position, believing no one could conquer them.
 
-God directly challenges Edom's pride: "The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground? Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD" (v. 3–4). Pride is Edom's core sin — and the root of all sin.
+God directly challenges Edom's pride: "The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground? Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD" (v. 3–4). Pride is Edom's core sin, and the root of all sin.
 
-Judgment is total. Even allies and friends will betray Edom — "All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee" (v. 7). Edom's famed wisdom and warriors shall perish — "thy mighty men, O Teman, shall be dismayed, to the end that every one of the mount of Esau may be cut off by slaughter" (v. 9).`,
+Judgment is total. Even allies and friends will betray Edom, "All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee" (v. 7). Edom's famed wisdom and warriors shall perish, "thy mighty men, O Teman, shall be dismayed, to the end that every one of the mount of Esau may be cut off by slaughter" (v. 9).`,
   },
   {
     title_zh: `二、以东对兄弟的罪（10-14节）`,
     title_en: `II. Edom's Sin Against a Brother (v. 10–14)`,
-    content_zh: `以东被审判的具体原因在第十至十四节——当巴比伦攻破耶路撒冷时，以东不但没有帮助自己的兄弟犹大，反而幸灾乐祸、趁火打劫。
+    content_zh: `以东被审判的具体原因在第十至十四节，当巴比伦攻破耶路撒冷时，以东不但没有帮助自己的兄弟犹大，反而幸灾乐祸、趁火打劫。
 
-"因你向兄弟雅各行强暴，羞愧必遮盖你，你也必永远断绝"（10节）。以扫和雅各虽然世代为仇，但血缘之约仍在——以东对犹大的态度违背了兄弟之义。
+"因你向兄弟雅各行强暴，羞愧必遮盖你，你也必永远断绝"（10节）。以扫和雅各虽然世代为仇，但血缘之约仍在，以东对犹大的态度违背了兄弟之义。
 
 先知用八个"不应当"列出以东的罪状（12-14节）：不应当在兄弟遭难时瞪眼看，不应当在他们被灭时欢乐，不应当在他们遭难时说狂傲的话，不应当趁火打劫，不应当在岔路口拦截逃难者，不应当将他们交给仇敌。
 
-这段经文的现代意义极为深刻——当别人遭难时，旁观者的冷漠和趁火打劫同样是罪。沉默不是中立，而是帮凶。`,
-    content_en: `The specific reason for Edom's judgment appears in verses 10–14 — when Babylon breached Jerusalem, Edom not only failed to help brother Judah but gloated and plundered.
+这段经文的现代意义极为深刻，当别人遭难时，旁观者的冷漠和趁火打劫同样是罪。沉默不是中立，而是帮凶。`,
+    content_en: `The specific reason for Edom's judgment appears in verses 10–14, when Babylon breached Jerusalem, Edom not only failed to help brother Judah but gloated and plundered.
 
-"For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever" (v. 10). Though Esau and Jacob were rivals for generations, the bond of kinship remained — Edom's attitude toward Judah violated the obligation of brotherhood.
+"For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever" (v. 10). Though Esau and Jacob were rivals for generations, the bond of kinship remained, Edom's attitude toward Judah violated the obligation of brotherhood.
 
 The prophet lists eight "thou shouldest not have" charges (v. 12–14): should not have looked on their calamity, should not have rejoiced over them in destruction, should not have spoken proudly in distress, should not have entered the gate to plunder, should not have stood in crossroads to cut off fugitives, should not have delivered up survivors to the enemy.
 
-This passage's modern relevance is profound — when others suffer, bystanders' indifference and opportunistic plundering are equally sinful. Silence is not neutrality but complicity.`,
+This passage's modern relevance is profound, when others suffer, bystanders' indifference and opportunistic plundering are equally sinful. Silence is not neutrality but complicity.`,
   },
   {
     title_zh: `三、耶和华的日子与锡安的得胜（15-21节）`,
     title_en: `III. The Day of the LORD and Zion's Victory (v. 15–21)`,
-    content_zh: `全书最后七节将视野从以东扩展到万国——"耶和华降罚的日子临近万国。你怎样行，他也必照样向你行。你的报应必归到你头上"（15节）。这是旧约中"种什么收什么"最简洁的表述。
+    content_zh: `全书最后七节将视野从以东扩展到万国："耶和华降罚的日子临近万国。你怎样行，他也必照样向你行。你的报应必归到你头上"（15节）。这是旧约中"种什么收什么"最简洁的表述。
 
-最后的应许是锡安的最终得胜——"在锡安山必有逃脱的人，那山也必成圣"（17节上）。雅各家必得回自己的产业，约瑟家如火焰，以扫家如碎秸——"国度就归耶和华了"（21节下）。
+最后的应许是锡安的最终得胜："在锡安山必有逃脱的人，那山也必成圣"（17节上）。雅各家必得回自己的产业，约瑟家如火焰，以扫家如碎秸："国度就归耶和华了"（21节下）。
 
 俄巴底亚书虽然只有一章二十一节，但涵盖了完整的神学结构：骄傲必被降卑，不义必受审判，神的国度必最终得胜。这卷最短的旧约书用最简洁的方式传递了最完整的信息。`,
-    content_en: `The final seven verses expand the horizon from Edom to all nations — "For the day of the LORD is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head" (v. 15). This is the Old Testament's most concise statement of "you reap what you sow."
+    content_en: `The final seven verses expand the horizon from Edom to all nations, "For the day of the LORD is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head" (v. 15). This is the Old Testament's most concise statement of "you reap what you sow."
 
-The final promise is Zion's ultimate victory — "But upon mount Zion shall be deliverance, and there shall be holiness" (v. 17). The house of Jacob shall possess their inheritance, the house of Joseph a flame, the house of Esau stubble — "and the kingdom shall be the LORD's' (v. 21).
+The final promise is Zion's ultimate victory, "But upon mount Zion shall be deliverance, and there shall be holiness" (v. 17). The house of Jacob shall possess their inheritance, the house of Joseph a flame, the house of Esau stubble, "and the kingdom shall be the LORD's' (v. 21).
 
 Though only one chapter of twenty-one verses, Obadiah encompasses a complete theological structure: pride will be humbled, injustice judged, God's kingdom ultimately triumphant. The shortest Old Testament book delivers the fullest message in the most concise form.`,
   },
 ];
 
 const overview = {
-  zh: `俄巴底亚书是旧约最短的书卷（仅1章21节），但信息极为集中——宣告对以东的审判。以东是以扫的后裔，与以色列（雅各的后裔）有血缘关系，但世代为仇。
+  zh: `俄巴底亚书是旧约最短的书卷（仅1章21节），但信息极为集中，宣告对以东的审判。以东是以扫的后裔，与以色列（雅各的后裔）有血缘关系，但世代为仇。
 
 写作时间可能在耶路撒冷陷落（公元前586年）之后不久，因为以东在犹大最危难的时刻幸灾乐祸、趁火打劫。俄巴底亚书教导：骄傲必被降卑，袖手旁观兄弟受难就是犯罪，而最终的国度属于耶和华。`,
-  en: `Obadiah is the shortest Old Testament book (just 1 chapter, 21 verses), yet its message is intensely focused — judgment on Edom. Edom descended from Esau and shared kinship with Israel (Jacob's descendants) but was hostile for generations.
+  en: `Obadiah is the shortest Old Testament book (just 1 chapter, 21 verses), yet its message is intensely focused, judgment on Edom. Edom descended from Esau and shared kinship with Israel (Jacob's descendants) but was hostile for generations.
 
 Written likely shortly after Jerusalem's fall (586 BC), when Edom gloated and plundered during Judah's darkest hour. Obadiah teaches: pride will be humbled, standing by while a brother suffers is sin, and the kingdom ultimately belongs to the LORD.`,
 };
@@ -79,7 +79,7 @@ const theology = {
 第二，袖手旁观等于同谋。以东的罪不只是直接的攻击，更是在犹大被巴比伦攻击时的幸灾乐祸和趁火打劫。"你兄弟遭难的日子，你不当瞪眼看着"（12节）。对邻舍苦难的漠视，在神眼中等同于参与罪恶。"你们既做在我这弟兄中一个最小的身上，就是做在我身上了"（太25:40）。
 
 第三，国度是耶和华的。"国度就归耶和华了"（21节）。这是全书的结语，也是全部先知书的终极盼望。无论地上的帝国如何更迭，最终的国度属于耶和华和祂的受膏者。`,
-  content_en: `Obadiah is the shortest book in the Old Testament — only 21 verses — yet it contains profound theological truth: God judges proud nations, and His kingdom will ultimately prevail.
+  content_en: `Obadiah is the shortest book in the Old Testament, only 21 verses, yet it contains profound theological truth: God judges proud nations, and His kingdom will ultimately prevail.
 
 First, pride is the root of all evil. "The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock... thou that saith in his heart, Who shall bring me down to the ground? Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down" (vv. 3-4). Edom (Esau's descendants) was proud because of its impregnable geography (the rock fortresses of Mount Seir). But no natural advantage can withstand God's judgment. "Pride goeth before destruction, and an haughty spirit before a fall" (Prov 16:18).
 

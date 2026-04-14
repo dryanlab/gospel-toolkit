@@ -79,8 +79,8 @@ export const themesB1: AltarTheme[] = [
           text_en: 'And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.',
         },
         reflection: {
-          zh: '神审视祂一切的创造，宣告"甚好"。这不仅是"好"，而是"甚好"——完美无瑕。神的创造反映了祂的智慧与美善。虽然罪进入了世界，但神对祂创造的心意始终是美好的，祂也在基督里使万物更新。',
-          en: 'God surveyed all He had made and declared it "very good" — not merely good, but very good, perfect and flawless. God\'s creation reflects His wisdom and goodness. Though sin entered the world, God\'s intention for His creation remains beautiful, and He is making all things new in Christ.',
+          zh: '神审视祂一切的创造，宣告"甚好"。这不仅是"好"，而是"甚好"，完美无瑕。神的创造反映了祂的智慧与美善。虽然罪进入了世界，但神对祂创造的心意始终是美好的，祂也在基督里使万物更新。',
+          en: 'God surveyed all He had made and declared it "very good", not merely good, but very good, perfect and flawless. God\'s creation reflects His wisdom and goodness. Though sin entered the world, God\'s intention for His creation remains beautiful, and He is making all things new in Christ.',
         },
         question: {
           zh: '你是否曾因生活的困难而忘记神创造的美好？今天你能在哪里重新发现神"甚好"的创造？',
@@ -99,8 +99,8 @@ export const themesB1: AltarTheme[] = [
           text_en: 'And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made. And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.',
         },
         reflection: {
-          zh: '神并非因疲倦而安息，乃是因工作完毕而安息。祂设立安息日，为人类立下了工作与休息的节奏。安息不是懒惰，而是信靠——相信神掌管一切，我们不需要不停地忙碌。在基督里，我们找到了真正的安息。',
-          en: 'God did not rest because He was tired, but because His work was complete. He established the Sabbath, setting a rhythm of work and rest for humanity. Rest is not laziness but trust — trusting that God is in control and we don\'t need to be constantly busy. In Christ, we find true rest.',
+          zh: '神并非因疲倦而安息，乃是因工作完毕而安息。祂设立安息日，为人类立下了工作与休息的节奏。安息不是懒惰，而是信靠，相信神掌管一切，我们不需要不停地忙碌。在基督里，我们找到了真正的安息。',
+          en: 'God did not rest because He was tired, but because His work was complete. He established the Sabbath, setting a rhythm of work and rest for humanity. Rest is not laziness but trust, trusting that God is in control and we don\'t need to be constantly busy. In Christ, we find true rest.',
         },
         question: {
           zh: '你的生活中有足够的安息吗？什么拦阻你停下来，安静在神面前？',
@@ -120,7 +120,7 @@ export const themesB1: AltarTheme[] = [
         },
         reflection: {
           zh: '大自然是神荣耀的无声见证。日出日落、星辰运转、四季更替，无不在诉说创造主的伟大。这是一种不需要语言的启示，超越文化和国界，向所有人宣告：有一位伟大的神。',
-          en: 'Nature is a silent witness to God\'s glory. Sunrise and sunset, orbiting stars, changing seasons — all declare the greatness of the Creator. This is a revelation that needs no words, transcending culture and borders, proclaiming to all: there is a great God.',
+          en: 'Nature is a silent witness to God\'s glory. Sunrise and sunset, orbiting stars, changing seasons, all declare the greatness of the Creator. This is a revelation that needs no words, transcending culture and borders, proclaiming to all: there is a great God.',
         },
         question: {
           zh: '大自然中的哪些景象最能让你感受到神的荣耀？你多久没有停下来欣赏神的创造了？',
@@ -160,11 +160,11 @@ export const themesB1: AltarTheme[] = [
         },
         reflection: {
           zh: '先知以赛亚用一系列壮丽的画面描绘神的伟大。浩瀚的海洋在神手中不过是手心的水，广阔的苍天不过是手虎口的宽度。这位无限伟大的神，却愿意亲近渺小的我们，这是何等的恩典。',
-          en: 'The prophet Isaiah uses a series of magnificent images to portray God\'s greatness. The vast oceans are but water in the hollow of His hand; the expanse of the heavens is merely the span of His fingers. That this infinitely great God chooses to draw near to us — how amazing is His grace.',
+          en: 'The prophet Isaiah uses a series of magnificent images to portray God\'s greatness. The vast oceans are but water in the hollow of His hand; the expanse of the heavens is merely the span of His fingers. That this infinitely great God chooses to draw near to us, how amazing is His grace.',
         },
         question: {
-          zh: '当你感到自己的问题很大时，想想这位用手心量诸水的神——你的问题在祂面前有多大？',
-          en: 'When your problems feel overwhelming, consider this God who measures the oceans in His hand — how big are your problems before Him?',
+          zh: '当你感到自己的问题很大时，想想这位用手心量诸水的神，你的问题在祂面前有多大？',
+          en: 'When your problems feel overwhelming, consider this God who measures the oceans in His hand, how big are your problems before Him?',
         },
         prayer: {
           zh: '伟大的神，祢用手心量诸水，用手虎口量苍天。在祢面前，没有任何事情太大或太难。求祢帮助我们以信心的眼光看待生活中的挑战。奉主耶稣的名祷告，阿们。',
@@ -179,8 +179,8 @@ export const themesB1: AltarTheme[] = [
           text_en: 'Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.',
         },
         reflection: {
-          zh: '神是永恒的——祂没有开始，也没有终结。在山岳形成之前，在世界被造之前，神就已经存在。这意味着祂不受时间限制，祂的应许永不过期，祂的爱永不改变。我们短暂的人生，锚定在这位永恒的神里面。',
-          en: 'God is eternal — He has no beginning and no end. Before the mountains were formed, before the world was made, God already existed. This means He is not bound by time, His promises never expire, and His love never changes. Our brief lives are anchored in this eternal God.',
+          zh: '神是永恒的，祂没有开始，也没有终结。在山岳形成之前，在世界被造之前，神就已经存在。这意味着祂不受时间限制，祂的应许永不过期，祂的爱永不改变。我们短暂的人生，锚定在这位永恒的神里面。',
+          en: 'God is eternal, He has no beginning and no end. Before the mountains were formed, before the world was made, God already existed. This means He is not bound by time, His promises never expire, and His love never changes. Our brief lives are anchored in this eternal God.',
         },
         question: {
           zh: '知道神是从亘古到永远的神，这如何影响你面对人生短暂和不确定性的态度？',
@@ -219,8 +219,8 @@ export const themesB1: AltarTheme[] = [
           text_en: 'O LORD, thou hast searched me, and known me. Thou knowest my downsitting and mine uprising, thou understandest my thought afar off. Thou compassest my path and my lying down, and art acquainted with all my ways. For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether.',
         },
         reflection: {
-          zh: '神对我们的认识是全面而深入的——祂知道我们的一举一动、每个意念、甚至尚未出口的话。这不是令人恐惧的监视，而是深情的关注。神完全认识我们，却依然爱我们，这就是无条件的爱。',
-          en: 'God\'s knowledge of us is comprehensive and deep — He knows our every action, every thought, even words not yet spoken. This is not frightening surveillance but loving attention. God knows us completely and still loves us — that is unconditional love.',
+          zh: '神对我们的认识是全面而深入的：祂知道我们的一举一动、每个意念、甚至尚未出口的话。这不是令人恐惧的监视，而是深情的关注。神完全认识我们，却依然爱我们，这就是无条件的爱。',
+          en: 'God\'s knowledge of us is comprehensive and deep, He knows our every action, every thought, even words not yet spoken. This is not frightening surveillance but loving attention. God knows us completely and still loves us, that is unconditional love.',
         },
         question: {
           zh: '知道神完全了解你的一切（包括你的软弱和隐藏的想法），你有什么感受？是安慰还是不安？',
@@ -239,8 +239,8 @@ export const themesB1: AltarTheme[] = [
           text_en: 'Whither shall I go from thy spirit? or whither shall I flee from thy presence? If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there. If I take the wings of the morning, and dwell in the uttermost parts of the sea; Even there shall thy hand lead me, and thy right hand shall hold me.',
         },
         reflection: {
-          zh: '神无处不在——无论天上、阴间、海极，都有祂的同在。这对信靠祂的人是极大的安慰：没有任何地方、任何处境能使我们与神隔绝。无论我们走到哪里，神的手必引导我们，祂的右手必扶持我们。',
-          en: 'God is omnipresent — whether in heaven, Sheol, or the farthest sea, He is there. For those who trust Him, this is immense comfort: no place, no circumstance can separate us from God. Wherever we go, His hand will lead us and His right hand will hold us.',
+          zh: '神无处不在：无论天上、阴间、海极，都有祂的同在。这对信靠祂的人是极大的安慰：没有任何地方、任何处境能使我们与神隔绝。无论我们走到哪里，神的手必引导我们，祂的右手必扶持我们。',
+          en: 'God is omnipresent, whether in heaven, Sheol, or the farthest sea, He is there. For those who trust Him, this is immense comfort: no place, no circumstance can separate us from God. Wherever we go, His hand will lead us and His right hand will hold us.',
         },
         question: {
           zh: '你是否曾感到神离你很远？这段经文如何提醒你神一直都在？',
@@ -259,8 +259,8 @@ export const themesB1: AltarTheme[] = [
           text_en: 'This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.',
         },
         reflection: {
-          zh: '"神就是光"——这不仅描述神的一个属性，更是对祂本质的宣告。光代表圣洁、真理和公义。在神里面毫无黑暗，意味着祂完全纯洁，没有任何罪恶或虚假。当我们亲近这位光的神，我们的生命也被光照和洁净。',
-          en: '"God is light" — this is not merely describing one of God\'s attributes but declaring His very essence. Light represents holiness, truth, and righteousness. That there is no darkness in Him means He is completely pure, with no sin or falsehood. As we draw near to this God of light, our lives are also illuminated and purified.',
+          zh: '"神就是光"，这不仅描述神的一个属性，更是对祂本质的宣告。光代表圣洁、真理和公义。在神里面毫无黑暗，意味着祂完全纯洁，没有任何罪恶或虚假。当我们亲近这位光的神，我们的生命也被光照和洁净。',
+          en: '"God is light", this is not merely describing one of God\'s attributes but declaring His very essence. Light represents holiness, truth, and righteousness. That there is no darkness in Him means He is completely pure, with no sin or falsehood. As we draw near to this God of light, our lives are also illuminated and purified.',
         },
         question: {
           zh: '如果神是光、在祂毫无黑暗，我们应该如何面对自己生命中的"黑暗面"？',

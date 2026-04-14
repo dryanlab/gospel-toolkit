@@ -43,7 +43,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '主啊，求你赐给我一颗忧伤痛悔的心。不是表面的认罪，而是真实地为罪忧伤。感谢你应许不轻看这样的心。求你破碎我的骄傲，使我在你面前谦卑。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, grant me a broken and contrite heart—not superficial confession but genuine sorrow for sin. Thank You for promising not to despise such a heart. Break my pride and humble me before You. In Jesus\' name, amen.'
+          en: 'Lord, grant me a broken and contrite heart, not superficial confession but genuine sorrow for sin. Thank You for promising not to despise such a heart. Break my pride and humble me before You. In Jesus\' name, amen.'
         }
       },
       {
@@ -55,7 +55,7 @@ export const themesA9 = [
         },
         reflection: {
           zh: '认罪带来赦免，这是神信实和公义的应许。神的赦免不是因为我们配得，而是因为祂的信实。当我们坦诚认罪，祂不仅赦免，还洗净我们一切的不义，使我们完全洁净。',
-          en: 'Confession brings forgiveness—this is God\'s faithful and just promise. God\'s forgiveness is not because we deserve it but because He is faithful. When we honestly confess, He not only forgives but cleanses us from all unrighteousness.'
+          en: 'Confession brings forgiveness, this is God\'s faithful and just promise. God\'s forgiveness is not because we deserve it but because He is faithful. When we honestly confess, He not only forgives but cleanses us from all unrighteousness.'
         },
         question: {
           zh: '你是否有尚未向神认的罪？你是否信靠神的信实和公义，相信祂必赦免并洗净你？',
@@ -74,8 +74,8 @@ export const themesA9 = [
           text_en: 'Therefore also now, saith the LORD, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning: And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.'
         },
         reflection: {
-          zh: '神呼召祂的百姓撕裂心肠而非衣服——要的是内心真实的悔改，不是外在的表现。我们可以放心归向祂，因为祂有恩典、有怜悯、不轻易发怒，并且有丰盛的慈爱。',
-          en: 'God calls His people to rend their hearts, not their garments—He desires genuine inner repentance, not outward show. We can confidently return to Him because He is gracious, merciful, slow to anger, and abounding in steadfast love.'
+          zh: '神呼召祂的百姓撕裂心肠而非衣服，要的是内心真实的悔改，不是外在的表现。我们可以放心归向祂，因为祂有恩典、有怜悯、不轻易发怒，并且有丰盛的慈爱。',
+          en: 'God calls His people to rend their hearts, not their garments, He desires genuine inner repentance, not outward show. We can confidently return to Him because He is gracious, merciful, slow to anger, and abounding in steadfast love.'
         },
         question: {
           zh: '你的悔改是"撕裂衣服"的外在形式，还是"撕裂心肠"的内在转变？知道神有恩典有怜悯，如何鼓励你一心归向祂？',
@@ -83,7 +83,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '满有恩典的神，求你帮助我撕裂心肠归向你，不只是外在的形式。感谢你是有恩典、有怜悯、不轻易发怒的神。我愿一心归向你，求你接纳我。奉主耶稣的名祷告，阿们。',
-          en: 'Gracious God, help me to rend my heart and return to You—not just in outward form. Thank You for being gracious, merciful, and slow to anger. I desire to return to You wholeheartedly. Please receive me. In Jesus\' name, amen.'
+          en: 'Gracious God, help me to rend my heart and return to You, not just in outward form. Thank You for being gracious, merciful, and slow to anger. I desire to return to You wholeheartedly. Please receive me. In Jesus\' name, amen.'
         }
       },
       {
@@ -134,8 +134,8 @@ export const themesA9 = [
           text_en: 'Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times? Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.'
         },
         reflection: {
-          zh: '彼得以为七次饶恕已经很慷慨了，耶稣却说七十个七次——意思是无限次。饶恕不是一个数学公式，而是一种生命态度。因为神无限次地饶恕了我们，我们也当无限次地饶恕弟兄。',
-          en: 'Peter thought forgiving seven times was generous, but Jesus said seventy-seven times—meaning without limit. Forgiveness is not a mathematical formula but a life attitude. Because God forgives us without limit, we too should forgive others without limit.'
+          zh: '彼得以为七次饶恕已经很慷慨了，耶稣却说七十个七次，意思是无限次。饶恕不是一个数学公式，而是一种生命态度。因为神无限次地饶恕了我们，我们也当无限次地饶恕弟兄。',
+          en: 'Peter thought forgiving seven times was generous, but Jesus said seventy-seven times, meaning without limit. Forgiveness is not a mathematical formula but a life attitude. Because God forgives us without limit, we too should forgive others without limit.'
         },
         question: {
           zh: '有没有人你觉得已经"饶恕够了"？耶稣关于七十个七次的教导如何挑战你对饶恕的理解？',
@@ -174,7 +174,7 @@ export const themesA9 = [
           text_en: 'Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven:'
         },
         reflection: {
-          zh: '耶稣将论断、定罪与饶恕放在一起。不论断、不定罪、主动饶恕——这三者相互关联。当我们选择饶恕而不是论断定罪时，我们自己也必蒙饶恕。饶恕是打开恩典之门的钥匙。',
+          zh: '耶稣将论断、定罪与饶恕放在一起。不论断、不定罪、主动饶恕，这三者相互关联。当我们选择饶恕而不是论断定罪时，我们自己也必蒙饶恕。饶恕是打开恩典之门的钥匙。',
           en: 'Jesus links judging, condemning, and forgiving together. Not judging, not condemning, and actively forgiving are interconnected. When we choose forgiveness over judgment, we ourselves will be forgiven. Forgiveness is the key that opens the door of grace.'
         },
         question: {
@@ -194,8 +194,8 @@ export const themesA9 = [
           text_en: 'And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son. But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: And bring hither the fatted calf, and kill it; and let us eat, and be merry: For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.'
         },
         reflection: {
-          zh: '浪子的父亲在儿子还远的时候就跑去迎接他。他没有等儿子道歉完毕，就已经拥抱亲吻了他，并恢复他儿子的身份。这就是我们天父的心——祂总是主动迎接悔改的人。',
-          en: 'The prodigal\'s father ran to meet his son while he was still far off. Before the son could finish his apology, the father embraced and kissed him and restored his status as son. This is our heavenly Father\'s heart—He always runs to meet those who repent.'
+          zh: '浪子的父亲在儿子还远的时候就跑去迎接他。他没有等儿子道歉完毕，就已经拥抱亲吻了他，并恢复他儿子的身份。这就是我们天父的心，祂总是主动迎接悔改的人。',
+          en: 'The prodigal\'s father ran to meet his son while he was still far off. Before the son could finish his apology, the father embraced and kissed him and restored his status as son. This is our heavenly Father\'s heart, He always runs to meet those who repent.'
         },
         question: {
           zh: '你是否觉得自己的罪太大，不配回到天父面前？浪子父亲的反应如何改变你对神的认识？',
@@ -254,8 +254,8 @@ export const themesA9 = [
           text_en: 'I, even I, am he that blotteth out thy transgressions for mine own sake, and will not remember thy sins.'
         },
         reflection: {
-          zh: '神涂抹我们的过犯，不是因为我们配得，而是"为自己的缘故"——这完全是出于祂的恩典和荣耀。更奇妙的是，祂选择不再记念我们的罪恶。神的饶恕是如此彻底和完全。',
-          en: 'God blots out our transgressions not because we deserve it but "for His own sake"—entirely out of His grace and glory. Even more wonderfully, He chooses not to remember our sins. God\'s forgiveness is thoroughly complete.'
+          zh: '神涂抹我们的过犯，不是因为我们配得，而是"为自己的缘故"，这完全是出于祂的恩典和荣耀。更奇妙的是，祂选择不再记念我们的罪恶。神的饶恕是如此彻底和完全。',
+          en: 'God blots out our transgressions not because we deserve it but "for His own sake", entirely out of His grace and glory. Even more wonderfully, He chooses not to remember our sins. God\'s forgiveness is thoroughly complete.'
         },
         question: {
           zh: '神说祂不再记念你的罪恶，你是否仍然活在过去的罪疚中不肯放手？你愿意接受神已经完全涂抹你过犯的事实吗？',
@@ -283,7 +283,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '天父，你在基督里饶恕了我，求你帮助我也以恩慈相待、存怜悯的心去饶恕人。不是凭我的感觉，而是凭你的恩典。让我效法基督的饶恕。奉主耶稣的名祷告，阿们。',
-          en: 'Father, You forgave me in Christ. Help me to be kind, tenderhearted, and forgiving toward others—not based on my feelings but on Your grace. Let me imitate Christ\'s forgiveness. In Jesus\' name, amen.'
+          en: 'Father, You forgave me in Christ. Help me to be kind, tenderhearted, and forgiving toward others, not based on my feelings but on Your grace. Let me imitate Christ\'s forgiveness. In Jesus\' name, amen.'
         }
       },
       {
@@ -294,8 +294,8 @@ export const themesA9 = [
           text_en: 'Be ye therefore merciful, as your Father also is merciful.'
         },
         reflection: {
-          zh: '耶稣以天父的慈悲作为我们生活的标准。慈悲不仅仅是一种情感，更是行动——饶恕、怜悯、施恩给不配的人。当我们效法天父的慈悲时，我们就活出了神儿女的样式。',
-          en: 'Jesus sets the Father\'s mercy as the standard for our lives. Mercy is not merely an emotion but action—forgiving, showing compassion, and extending grace to the undeserving. When we imitate our Father\'s mercy, we live as true children of God.'
+          zh: '耶稣以天父的慈悲作为我们生活的标准。慈悲不仅仅是一种情感，更是行动：饶恕、怜悯、施恩给不配的人。当我们效法天父的慈悲时，我们就活出了神儿女的样式。',
+          en: 'Jesus sets the Father\'s mercy as the standard for our lives. Mercy is not merely an emotion but action, forgiving, showing compassion, and extending grace to the undeserving. When we imitate our Father\'s mercy, we live as true children of God.'
         },
         question: {
           zh: '你认为在你的生活中，哪个关系最需要你操练"像天父一样慈悲"？你愿意今天就开始吗？',
@@ -324,7 +324,7 @@ export const themesA9 = [
         },
         reflection: {
           zh: '即使在哀歌的绝望中，先知仍然宣告：耶和华的慈爱永不止息，祂的怜悯每早晨都是新的。无论我们经历多么黑暗的时刻，神的信实如同每天升起的太阳，从不缺席。',
-          en: 'Even amid the despair of Lamentations, the prophet declares: the LORD\'s steadfast love never ceases and His mercies are new every morning. No matter how dark our circumstances, God\'s faithfulness is like the rising sun—never absent.'
+          en: 'Even amid the despair of Lamentations, the prophet declares: the LORD\'s steadfast love never ceases and His mercies are new every morning. No matter how dark our circumstances, God\'s faithfulness is like the rising sun, never absent.'
         },
         question: {
           zh: '你是否正在经历人生的"哀歌"？你能否像先知一样，在困境中仍然宣告"你的诚实极其广大"？',
@@ -364,11 +364,11 @@ export const themesA9 = [
         },
         reflection: {
           zh: '诗篇136篇每一节都重复"他的慈爱永远长存"。这不是啰嗦，而是强调：神的慈爱是永恒不变的事实。无论环境如何改变，神的慈爱永远长存，这值得我们反复称谢。',
-          en: 'Psalm 136 repeats "his steadfast love endures forever" in every verse. This is not redundancy but emphasis: God\'s steadfast love is an eternal, unchanging reality. No matter how circumstances change, His love endures forever—worthy of our repeated thanksgiving.'
+          en: 'Psalm 136 repeats "his steadfast love endures forever" in every verse. This is not redundancy but emphasis: God\'s steadfast love is an eternal, unchanging reality. No matter how circumstances change, His love endures forever, worthy of our repeated thanksgiving.'
         },
         question: {
-          zh: '"他的慈爱永远长存"——你能列举三件事来证明神对你的慈爱是持续不变的吗？',
-          en: '"His steadfast love endures forever"—can you list three things that demonstrate God\'s steadfast love has been constant in your life?'
+          zh: '"他的慈爱永远长存"，你能列举三件事来证明神对你的慈爱是持续不变的吗？',
+          en: '"His steadfast love endures forever", can you list three things that demonstrate God\'s steadfast love has been constant in your life?'
         },
         prayer: {
           zh: '耶和华我的神，你本为善，你的慈爱永远长存。我要称谢你，因为你是万神之神、万主之主。你的慈爱从未改变，从未离开。我要一生称谢你的信实。奉主耶稣的名祷告，阿们。',
@@ -384,7 +384,7 @@ export const themesA9 = [
         },
         reflection: {
           zh: '经过四十年旷野漂流和征服迦南的争战，约书亚可以见证：神的应许一句也没有落空。神不是说了不算的神，祂每一个应许都会应验，虽然时间和方式可能超出我们的预期。',
-          en: 'After forty years of wilderness wandering and the conquest of Canaan, Joshua testifies: not one of God\'s promises had failed. God does not make empty promises—every one comes to pass, though the timing and manner may exceed our expectations.'
+          en: 'After forty years of wilderness wandering and the conquest of Canaan, Joshua testifies: not one of God\'s promises had failed. God does not make empty promises, every one comes to pass, though the timing and manner may exceed our expectations.'
         },
         question: {
           zh: '你是否正在等候神某个应许的实现？约书亚的见证如何坚固你的信心，相信神的话一句也不会落空？',
@@ -403,8 +403,8 @@ export const themesA9 = [
           text_en: 'If we believe not, yet he abideth faithful: he cannot deny himself.'
         },
         reflection: {
-          zh: '这是何等安慰的话——即使我们失信，神仍然可信。神的信实不取决于我们的表现，而是取决于祂自己的本性。祂不能背乎自己，因为信实就是祂的本质。',
-          en: 'What a comforting truth—even if we are faithless, He remains faithful. God\'s faithfulness does not depend on our performance but on His own nature. He cannot deny Himself because faithfulness is His very essence.'
+          zh: '这是何等安慰的话，即使我们失信，神仍然可信。神的信实不取决于我们的表现，而是取决于祂自己的本性。祂不能背乎自己，因为信实就是祂的本质。',
+          en: 'What a comforting truth, even if we are faithless, He remains faithful. God\'s faithfulness does not depend on our performance but on His own nature. He cannot deny Himself because faithfulness is His very essence.'
         },
         question: {
           zh: '你是否曾因自己的失信而怀疑神是否还信实？"他不能背乎自己"这句话如何改变你对神信实的理解？',
@@ -443,8 +443,8 @@ export const themesA9 = [
           text_en: 'If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.'
         },
         reflection: {
-          zh: '同一节经文在A9中强调了悔改的呼召，在这里则彰显了神的信实——祂赦免我们的罪不是因为祂心情好，而是因为祂是信实的、公义的。神的赦免建立在祂不改变的信实品格之上。',
-          en: 'The same verse highlighted repentance in A9; here it reveals God\'s faithfulness—He forgives not because He is in a good mood but because He is faithful and just. God\'s forgiveness is grounded in His unchanging, faithful character.'
+          zh: '同一节经文在A9中强调了悔改的呼召，在这里则彰显了神的信实，祂赦免我们的罪不是因为祂心情好，而是因为祂是信实的、公义的。神的赦免建立在祂不改变的信实品格之上。',
+          en: 'The same verse highlighted repentance in A9; here it reveals God\'s faithfulness, He forgives not because He is in a good mood but because He is faithful and just. God\'s forgiveness is grounded in His unchanging, faithful character.'
         },
         question: {
           zh: '神的赦免是基于祂的信实和公义，而非我们的表现。这如何影响你认罪时的信心？你是否完全信靠祂的信实？',
@@ -452,7 +452,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '信实公义的神，感谢你赦免我的罪、洗净我的不义，不是因为我配得，而是因为你的信实和公义。我全然信靠你的品格，将我的罪坦诚交托在你手中。奉主耶稣的名祷告，阿们。',
-          en: 'Faithful and just God, thank You for forgiving my sins and cleansing my unrighteousness—not because I deserve it but because of Your faithfulness and justice. I fully trust Your character and honestly entrust my sins to You. In Jesus\' name, amen.'
+          en: 'Faithful and just God, thank You for forgiving my sins and cleansing my unrighteousness, not because I deserve it but because of Your faithfulness and justice. I fully trust Your character and honestly entrust my sins to You. In Jesus\' name, amen.'
         }
       },
       {
@@ -483,8 +483,8 @@ export const themesA9 = [
           text_en: 'For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.'
         },
         reflection: {
-          zh: '神所有的应许在基督里都是"是的"——没有一个"也许"，没有一个"不"。基督是神一切应许的保证和成全。当我们在基督里说"阿们"时，就是在回应神信实的应许。',
-          en: 'All of God\'s promises find their "Yes" in Christ—no "maybe," no "no." Christ is the guarantee and fulfillment of every promise. When we say "Amen" in Christ, we respond to God\'s faithful promises.'
+          zh: '神所有的应许在基督里都是"是的"，没有一个"也许"，没有一个"不"。基督是神一切应许的保证和成全。当我们在基督里说"阿们"时，就是在回应神信实的应许。',
+          en: 'All of God\'s promises find their "Yes" in Christ, no "maybe," no "no." Christ is the guarantee and fulfillment of every promise. When we say "Amen" in Christ, we respond to God\'s faithful promises.'
         },
         question: {
           zh: '你是否有时怀疑神的某些应许是否真的适用于你？知道神的应许在基督里都是"是的"，如何增强你的信心？',
@@ -512,7 +512,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '信实的神，你是那位应许我们的主。求你帮助我坚守所承认的指望，不至摇动。不是靠我自己的力量，而是因为你是信实的。我的盼望建立在你信实的品格上。奉主耶稣的名祷告，阿们。',
-          en: 'Faithful God, You are the One who has promised. Help me hold fast the confession of my hope without wavering—not by my own strength but because You are faithful. My hope is built on Your faithful character. In Jesus\' name, amen.'
+          en: 'Faithful God, You are the One who has promised. Help me hold fast the confession of my hope without wavering, not by my own strength but because You are faithful. My hope is built on Your faithful character. In Jesus\' name, amen.'
         }
       },
       {
@@ -543,8 +543,8 @@ export const themesA9 = [
           text_en: 'In hope of eternal life, which God, that cannot lie, promised before the world began;'
         },
         reflection: {
-          zh: '保罗称神为"无谎言的神"。神在万古之先就应许了永生——这应许比时间本身还古老。一位从不说谎的神所给出的应许，是宇宙中最可靠的事实。',
-          en: 'Paul calls God the One "who never lies." God promised eternal life before the ages began—this promise is older than time itself. A promise from a God who never lies is the most reliable fact in the universe.'
+          zh: '保罗称神为"无谎言的神"。神在万古之先就应许了永生，这应许比时间本身还古老。一位从不说谎的神所给出的应许，是宇宙中最可靠的事实。',
+          en: 'Paul calls God the One "who never lies." God promised eternal life before the ages began, this promise is older than time itself. A promise from a God who never lies is the most reliable fact in the universe.'
         },
         question: {
           zh: '你是否真正相信神是"无谎言的神"？祂在万古之先就应许的永生，对你今天的生活有什么意义？',
@@ -567,12 +567,12 @@ export const themesA9 = [
           en: 'Hebrews compares Jesus to Moses, pointing out that Jesus was completely faithful to the One who appointed Him. Jesus\' faithfulness is both our example and foundation. He was faithful to the Father in all things and faithfully accomplished the mission of redemption.'
         },
         question: {
-          zh: '耶稣为设立祂的尽忠到底——甚至到十字架。祂的信实如何激励你在自己的岗位上忠心？',
-          en: 'Jesus was faithful to the One who appointed Him—even to the cross. How does His faithfulness inspire you to be faithful in your own calling?'
+          zh: '耶稣为设立祂的尽忠到底，甚至到十字架。祂的信实如何激励你在自己的岗位上忠心？',
+          en: 'Jesus was faithful to the One who appointed Him, even to the cross. How does His faithfulness inspire you to be faithful in your own calling?'
         },
         prayer: {
           zh: '主耶稣，你为设立你的父神尽忠，甚至忠心到死在十字架上。感谢你的信实成就了我的救恩。求你帮助我效法你的忠心，在神交付我的每件事上尽忠。奉主耶稣的名祷告，阿们。',
-          en: 'Lord Jesus, You were faithful to the Father who appointed You, even unto death on the cross. Thank You—Your faithfulness accomplished my salvation. Help me follow Your example of faithfulness in everything God has entrusted to me. In Jesus\' name, amen.'
+          en: 'Lord Jesus, You were faithful to the Father who appointed You, even unto death on the cross. Thank You, Your faithfulness accomplished my salvation. Help me follow Your example of faithfulness in everything God has entrusted to me. In Jesus\' name, amen.'
         }
       },
       {
@@ -583,8 +583,8 @@ export const themesA9 = [
           text_en: 'The Lord GOD hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.'
         },
         reflection: {
-          zh: '神每早晨信实地提醒、教导祂的仆人。祂赐下受教者的舌头和耳朵，使我们能扶助疲乏的人。神的信实体现在祂每天的同在和引导中——每一个清晨都有祂新鲜的话语。',
-          en: 'God faithfully awakens and teaches His servant every morning. He gives the tongue and ear of the taught so we can sustain the weary. God\'s faithfulness is shown in His daily presence and guidance—every morning brings His fresh word.'
+          zh: '神每早晨信实地提醒、教导祂的仆人。祂赐下受教者的舌头和耳朵，使我们能扶助疲乏的人。神的信实体现在祂每天的同在和引导中，每一个清晨都有祂新鲜的话语。',
+          en: 'God faithfully awakens and teaches His servant every morning. He gives the tongue and ear of the taught so we can sustain the weary. God\'s faithfulness is shown in His daily presence and guidance, every morning brings His fresh word.'
         },
         question: {
           zh: '你是否每天早晨留出时间让主提醒你的耳朵？你是否用神赐你的话语去扶助身边疲乏的人？',
@@ -603,8 +603,8 @@ export const themesA9 = [
           text_en: 'Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.'
         },
         reflection: {
-          zh: '彼得鼓励受苦的信徒将灵魂交给"信实的造化之主"。即使在苦难中，神仍然是信实的创造主。祂创造了我们，也必看顾我们。我们可以放心地将一切——包括苦难——交在祂手中。',
-          en: 'Peter encourages suffering believers to entrust their souls to a "faithful Creator." Even in suffering, God remains the faithful Creator. He who made us will surely care for us. We can confidently place everything—including our suffering—in His hands.'
+          zh: '彼得鼓励受苦的信徒将灵魂交给"信实的造化之主"。即使在苦难中，神仍然是信实的创造主。祂创造了我们，也必看顾我们。我们可以放心地将一切，包括苦难，交在祂手中。',
+          en: 'Peter encourages suffering believers to entrust their souls to a "faithful Creator." Even in suffering, God remains the faithful Creator. He who made us will surely care for us. We can confidently place everything, including our suffering, in His hands.'
         },
         question: {
           zh: '你是否正在经历某种苦难？你愿意将自己的灵魂交给那位信实的造化之主，同时继续一心为善吗？',
@@ -641,7 +641,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '主啊，帮助我明白听命胜于献祭。我不要用外在的行为替代内心的顺服。教导我单纯地听从祢的话，这是祢最喜悦的。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, help me understand that obedience is better than sacrifice. I don\'t want outward acts to replace inward obedience. Teach me to simply obey — this delights You most. In Jesus\' name, amen.',
+          en: 'Lord, help me understand that obedience is better than sacrifice. I don\'t want outward acts to replace inward obedience. Teach me to simply obey, this delights You most. In Jesus\' name, amen.',
         },
       },
       {
@@ -661,7 +661,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '主耶稣，我爱祢，求祢帮助我用顺服来表达这份爱。不是出于勉强，而是出于感恩和爱。祢的命令不是重担，而是爱的指引。奉主耶稣的名祷告，阿们。',
-          en: 'Lord Jesus, I love You — help me express that love through obedience. Not from compulsion but from gratitude and love. Your commands are love\'s guidance. In Jesus\' name, amen.',
+          en: 'Lord Jesus, I love You, help me express that love through obedience. Not from compulsion but from gratitude and love. Your commands are love\'s guidance. In Jesus\' name, amen.',
         },
       },
       {
@@ -713,7 +713,7 @@ export const themesA9 = [
         },
         reflection: {
           zh: '诗人对神律法的态度不是被迫遵守，而是"何等爱慕"，终日思想。当我们真正认识到神话语的宝贵，顺服不再是苦差而是甜蜜的喜悦。爱慕神的律法是持久顺服的秘诀。',
-          en: 'The psalmist\'s attitude is not forced compliance but passionate love — meditating all day. When we recognize God\'s word as precious, obedience becomes sweet delight, not drudgery. Loving God\'s law is the secret to lasting obedience.',
+          en: 'The psalmist\'s attitude is not forced compliance but passionate love, meditating all day. When we recognize God\'s word as precious, obedience becomes sweet delight, not drudgery. Loving God\'s law is the secret to lasting obedience.',
         },
         question: {
           zh: '你对神的话语是"爱慕"还是"应付"？怎样才能培养出像诗人一样"终日不住思想"的渴慕？',
@@ -721,7 +721,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '主啊，赐我一颗爱慕祢律法的心。不是出于被迫，而是出于甘甜的喜悦。愿我终日思想祢的话语，在其中找到无尽的宝藏。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, give me a heart that loves Your law — not from compulsion but sweet delight. May I meditate on Your word all day and find endless treasure. In Jesus\' name, amen.',
+          en: 'Lord, give me a heart that loves Your law, not from compulsion but sweet delight. May I meditate on Your word all day and find endless treasure. In Jesus\' name, amen.',
         },
       },
       {
@@ -732,8 +732,8 @@ export const themesA9 = [
           text_en: 'Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.',
         },
         reflection: {
-          zh: '大使命不仅是传福音，更包含"教训他们遵守"——帮助人学习顺服基督的一切命令。门徒训练的核心是培养顺服的生命。耶稣应许与顺服祂使命的人同在，直到世界的末了。',
-          en: 'The Great Commission includes not just evangelism but "teaching them to observe" — helping people obey all Christ\'s commands. Discipleship at its core cultivates a life of obedience. Jesus promises His presence with those who obey His mission, to the end of the age.',
+          zh: '大使命不仅是传福音，更包含"教训他们遵守"，帮助人学习顺服基督的一切命令。门徒训练的核心是培养顺服的生命。耶稣应许与顺服祂使命的人同在，直到世界的末了。',
+          en: 'The Great Commission includes not just evangelism but "teaching them to observe", helping people obey all Christ\'s commands. Discipleship at its core cultivates a life of obedience. Jesus promises His presence with those who obey His mission, to the end of the age.',
         },
         question: {
           zh: '你是否不仅自己学习顺服，也在帮助别人学习遵守主的命令？门徒训练在你的信仰生活中占什么位置？',
@@ -752,8 +752,8 @@ export const themesA9 = [
           text_en: 'And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.',
         },
         reflection: {
-          zh: '基督的顺服是终极榜样——不是舒适环境中的顺服，而是"以至于死，且死在十字架上"。祂从天上降卑为人，又从人的尊严降到十字架的羞辱。这种彻底的顺服出于对父神旨意的完全信靠。',
-          en: 'Christ\'s obedience is the ultimate example — not in comfort but "to the point of death, even death on a cross." He descended from glory to humanity, from dignity to the cross\'s shame. This radical obedience flows from complete trust in the Father\'s will.',
+          zh: '基督的顺服是终极榜样，不是舒适环境中的顺服，而是"以至于死，且死在十字架上"。祂从天上降卑为人，又从人的尊严降到十字架的羞辱。这种彻底的顺服出于对父神旨意的完全信靠。',
+          en: 'Christ\'s obedience is the ultimate example, not in comfort but "to the point of death, even death on a cross." He descended from glory to humanity, from dignity to the cross\'s shame. This radical obedience flows from complete trust in the Father\'s will.',
         },
         question: {
           zh: '基督顺服到死的榜样如何挑战你目前的顺服程度？你愿意在哪些方面更深地跟随祂？',
@@ -773,7 +773,7 @@ export const themesA9 = [
         },
         reflection: {
           zh: '亚伯拉罕的顺服令人惊叹："出去的时候，还不知往哪里去。"信心的顺服不需要完整的路线图，只需要信任呼召者。有时神呼召我们踏出一步而看不到第二步，这正是信心顺服的考验。',
-          en: 'Abraham\'s obedience is remarkable: "he went out, not knowing where he was going." Faith-driven obedience needs no complete roadmap — only trust in the One who calls. Sometimes God asks one step when we can\'t see the second. This is the test of faithful obedience.',
+          en: 'Abraham\'s obedience is remarkable: "he went out, not knowing where he was going." Faith-driven obedience needs no complete roadmap, only trust in the One who calls. Sometimes God asks one step when we can\'t see the second. This is the test of faithful obedience.',
         },
         question: {
           zh: '神是否在呼召你踏出一步，而你因为看不到全貌而犹豫？你愿意像亚伯拉罕一样凭信心顺服吗？',
@@ -801,7 +801,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '主啊，祢向我所要的就是敬畏祢、遵行祢的道、爱祢、侍奉祢。这一切都是为叫我得福。帮助我甘心顺服，经历祢命令中的祝福。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, what You require is to fear, walk, love, and serve You — all for my good. Help me obey willingly and experience blessing within Your commands. In Jesus\' name, amen.',
+          en: 'Lord, what You require is to fear, walk, love, and serve You, all for my good. Help me obey willingly and experience blessing within Your commands. In Jesus\' name, amen.',
         },
       },
       {
@@ -821,7 +821,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '主耶稣，我渴望常在祢的爱里。帮助我遵守祢的命令，不是为了赚取祢的爱，而是为了更深地住在祢的爱中。奉主耶稣的名祷告，阿们。',
-          en: 'Lord Jesus, I long to abide in Your love. Help me keep Your commands — not to earn Your love but to dwell more deeply in it. In Jesus\' name, amen.',
+          en: 'Lord Jesus, I long to abide in Your love. Help me keep Your commands, not to earn Your love but to dwell more deeply in it. In Jesus\' name, amen.',
         },
       },
       {
@@ -832,8 +832,8 @@ export const themesA9 = [
           text_en: 'Thy word is a lamp unto my feet, and a light unto my path.',
         },
         reflection: {
-          zh: '神的话照亮前行的每一步。灯不是照亮远方，而是照亮脚前——一步一步引导。顺服神的话就像在黑暗中跟着灯光走，不需要看到终点，只要看到下一步就够了。',
-          en: 'God\'s word illuminates every step. A lamp lights not the distance but the feet — guiding step by step. Obeying God\'s word is like following a lamp in darkness; you don\'t need the destination, just the next step.',
+          zh: '神的话照亮前行的每一步。灯不是照亮远方，而是照亮脚前，一步一步引导。顺服神的话就像在黑暗中跟着灯光走，不需要看到终点，只要看到下一步就够了。',
+          en: 'God\'s word illuminates every step. A lamp lights not the distance but the feet, guiding step by step. Obeying God\'s word is like following a lamp in darkness; you don\'t need the destination, just the next step.',
         },
         question: {
           zh: '你是否每天让神的话语成为你脚前的灯？在做决定时，你是否先寻求神话语的指引？',
@@ -852,8 +852,8 @@ export const themesA9 = [
           text_en: 'Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.',
         },
         reflection: {
-          zh: '顺服的道路是窄路，不是多数人走的路。宽门大路看似轻松却通向灭亡；窄门小路看似艰难却通向永生。选择顺服就是选择窄路——可能孤独、可能艰辛，但终点是生命。',
-          en: 'Obedience is the narrow way, not the popular road. The wide gate seems easy but leads to destruction; the narrow gate seems hard but leads to life. Choosing obedience means the narrow path — perhaps lonely, perhaps difficult, but the destination is life.',
+          zh: '顺服的道路是窄路，不是多数人走的路。宽门大路看似轻松却通向灭亡；窄门小路看似艰难却通向永生。选择顺服就是选择窄路：可能孤独、可能艰辛，但终点是生命。',
+          en: 'Obedience is the narrow way, not the popular road. The wide gate seems easy but leads to destruction; the narrow gate seems hard but leads to life. Choosing obedience means the narrow path, perhaps lonely, perhaps difficult, but the destination is life.',
         },
         question: {
           zh: '你是否在走窄路？在哪些方面你受到引诱想走宽门大路？是什么让你坚持走窄路？',
@@ -872,8 +872,8 @@ export const themesA9 = [
           text_en: 'And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.',
         },
         reflection: {
-          zh: '顺服的代价是"舍己"和"天天背起十字架"。这不是一次性的决定，而是每天的选择。十字架代表死——向自我的意愿、骄傲和舒适死。但跟从耶稣的人知道，在舍己中找到了真正的自己。',
-          en: 'The cost of obedience is "deny himself" and "take up his cross daily." Not a one-time decision but a daily choice. The cross means death — to self-will, pride, and comfort. But followers of Jesus know that in self-denial they find their true selves.',
+          zh: '顺服的代价是"舍己"和"天天背起十字架"。这不是一次性的决定，而是每天的选择。十字架代表死：向自我的意愿、骄傲和舒适死。但跟从耶稣的人知道，在舍己中找到了真正的自己。',
+          en: 'The cost of obedience is "deny himself" and "take up his cross daily." Not a one-time decision but a daily choice. The cross means death, to self-will, pride, and comfort. But followers of Jesus know that in self-denial they find their true selves.',
         },
         question: {
           zh: '今天你的"十字架"是什么？有什么自我的意愿需要你为了跟随耶稣而放下？',
@@ -921,7 +921,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '主耶稣，祢虽为神子，还因苦难学了顺从。帮助我也在苦难中学习顺服，不逃避、不抱怨，而是在其中更像祢。奉主耶稣的名祷告，阿们。',
-          en: 'Lord Jesus, though the Son, You learned obedience through suffering. Help me learn obedience in hardship — not fleeing or complaining but becoming more like You. In Jesus\' name, amen.',
+          en: 'Lord Jesus, though the Son, You learned obedience through suffering. Help me learn obedience in hardship, not fleeing or complaining but becoming more like You. In Jesus\' name, amen.',
         },
       },
     ],
@@ -941,8 +941,8 @@ export const themesA9 = [
           text_en: 'Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.',
         },
         reflection: {
-          zh: '大使命是主耶稣升天前给门徒的最后命令，也是教会最核心的使命。"去"、"使人作门徒"、"施洗"、"教训遵守"——这四个动作是传福音的完整过程。而"我就常与你们同在"是完成使命的力量源泉。',
-          en: 'The Great Commission is Jesus\' final command and the church\'s core mission. "Go," "make disciples," "baptize," "teach to observe" — four actions forming the complete process. And "I am with you always" is the power source for fulfilling it.',
+          zh: '大使命是主耶稣升天前给门徒的最后命令，也是教会最核心的使命。"去"、"使人作门徒"、"施洗"、"教训遵守"，这四个动作是传福音的完整过程。而"我就常与你们同在"是完成使命的力量源泉。',
+          en: 'The Great Commission is Jesus\' final command and the church\'s core mission. "Go," "make disciples," "baptize," "teach to observe", four actions forming the complete process. And "I am with you always" is the power source for fulfilling it.',
         },
         question: {
           zh: '你是否将大使命看作给你个人的命令，还是只是给"牧师传教士"的？你可以从哪里开始"去"？',
@@ -970,7 +970,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '主啊，求祢的圣灵降临在我身上，赐我能力作祢的见证。从家庭、职场开始，直到地极。我不靠自己的能力，乃靠祢圣灵的大能。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, let Your Holy Spirit come upon me and empower me to witness — from family and workplace to the ends of the earth. I rely not on my strength but Your Spirit\'s power. In Jesus\' name, amen.',
+          en: 'Lord, let Your Holy Spirit come upon me and empower me to witness, from family and workplace to the ends of the earth. I rely not on my strength but Your Spirit\'s power. In Jesus\' name, amen.',
         },
       },
       {
@@ -1002,7 +1002,7 @@ export const themesA9 = [
         },
         reflection: {
           zh: '保罗在罗马帝国中心宣告"不以福音为耻"。福音在世人眼中可能是愚拙的，但它是"神的大能"。我们不需要为信息感到尴尬，因为福音本身带着拯救的能力。关键不是我们表达多完美，而是福音本身的大能。',
-          en: 'Paul declared "not ashamed of the gospel" in Rome\'s heart. The gospel may seem foolish to the world, but it is "the power of God." We need not be embarrassed — the gospel itself carries saving power. The key is not our perfect delivery but the gospel\'s inherent power.',
+          en: 'Paul declared "not ashamed of the gospel" in Rome\'s heart. The gospel may seem foolish to the world, but it is "the power of God." We need not be embarrassed, the gospel itself carries saving power. The key is not our perfect delivery but the gospel\'s inherent power.',
         },
         question: {
           zh: '你是否曾因害怕别人的眼光而不敢分享福音？"福音本是神的大能"如何给你勇气？',
@@ -1041,8 +1041,8 @@ export const themesA9 = [
           text_en: 'For we are labourers together with God: ye are God’s husbandry, ye are God’s building.',
         },
         reflection: {
-          zh: '何等荣耀的身份——"与神同工的"！传福音不是独自的工作，而是与全能神一起同工。我们撒种浇灌，但生长是神的工作。我们不必承担全部压力，只需忠心做自己的部分。',
-          en: 'What a glorious identity — "God\'s fellow workers"! Evangelism is not solo work but partnership with Almighty God. We plant and water; growth is God\'s work. We need not bear all pressure — just faithfully do our part.',
+          zh: '何等荣耀的身份："与神同工的"！传福音不是独自的工作，而是与全能神一起同工。我们撒种浇灌，但生长是神的工作。我们不必承担全部压力，只需忠心做自己的部分。',
+          en: 'What a glorious identity, "God\'s fellow workers"! Evangelism is not solo work but partnership with Almighty God. We plant and water; growth is God\'s work. We need not bear all pressure, just faithfully do our part.',
         },
         question: {
           zh: '你是否感到传福音压力太大？知道自己是"与神同工"而非独自承担，这如何释放你？',
@@ -1050,7 +1050,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '天父，感谢祢让我与祢同工，何等大的荣耀。帮助我忠心做好我的部分，把结果交在祢手中。我不是独自作战，乃是与祢同工。奉主耶稣的名祷告，阿们。',
-          en: 'Father, thank You for letting me work alongside You — what honor. Help me faithfully do my part and leave results to You. I work not alone but with You. In Jesus\' name, amen.',
+          en: 'Father, thank You for letting me work alongside You, what honor. Help me faithfully do my part and leave results to You. I work not alone but with You. In Jesus\' name, amen.',
         },
       },
       {
@@ -1061,8 +1061,8 @@ export const themesA9 = [
           text_en: 'Ye are the light of the world. A city that is set on an hill cannot be hid. Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.',
         },
         reflection: {
-          zh: '传福音不只是用口说，更是用生命发光。耶稣说我们"是"世上的光——这是身份宣告。光的本质就是照亮黑暗，只要不把光藏起来。好行为是福音最好的名片，让人看见就将荣耀归给天父。',
-          en: 'Evangelism is not just verbal but shining with our lives. Jesus says we "are" the light — an identity declaration. Light\'s nature is to illuminate; just don\'t hide it. Good works are the gospel\'s best calling card, leading others to glorify the Father.',
+          zh: '传福音不只是用口说，更是用生命发光。耶稣说我们"是"世上的光，这是身份宣告。光的本质就是照亮黑暗，只要不把光藏起来。好行为是福音最好的名片，让人看见就将荣耀归给天父。',
+          en: 'Evangelism is not just verbal but shining with our lives. Jesus says we "are" the light, an identity declaration. Light\'s nature is to illuminate; just don\'t hide it. Good works are the gospel\'s best calling card, leading others to glorify the Father.',
         },
         question: {
           zh: '你是否在日常生活中让光照耀出来？有没有什么在"遮盖"你的光？',
@@ -1081,8 +1081,8 @@ export const themesA9 = [
           text_en: 'For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!',
         },
         reflection: {
-          zh: '保罗传福音的动力不是夸耀，而是内心的迫切——"我是不得已的"。当一个人真正经历了福音的大能，就不能不传。这不是外在义务，而是内心被福音点燃的火焰。"若不传福音，我便有祸了"——何等强烈的使命感！',
-          en: 'Paul\'s motivation was not boasting but inner compulsion — "necessity is laid upon me." When someone truly experiences the gospel\'s power, they cannot help but preach. Not external duty but an inner flame. "Woe to me if I do not preach!" — what intense conviction!',
+          zh: '保罗传福音的动力不是夸耀，而是内心的迫切："我是不得已的"。当一个人真正经历了福音的大能，就不能不传。这不是外在义务，而是内心被福音点燃的火焰。"若不传福音，我便有祸了"，何等强烈的使命感！',
+          en: 'Paul\'s motivation was not boasting but inner compulsion, "necessity is laid upon me." When someone truly experiences the gospel\'s power, they cannot help but preach. Not external duty but an inner flame. "Woe to me if I do not preach!", what intense conviction!',
         },
         question: {
           zh: '你是否有保罗那样"不得已"要传福音的迫切感？如果没有，你觉得是什么拦阻了你？',
@@ -1101,8 +1101,8 @@ export const themesA9 = [
           text_en: 'Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ’s stead, be ye reconciled to God.',
         },
         reflection: {
-          zh: '使者代表的不是自己，而是差他的人。我们作"基督的使者"，代表天国的王向世人发出和好的邀请。神竟然"借我们"来劝人——选择通过软弱器皿传递天国信息。这是何等大的信任和尊荣！',
-          en: 'An ambassador represents not himself but the sender. As "ambassadors for Christ" we represent heaven\'s King, extending reconciliation. God "makes his appeal through us" — choosing weak vessels for heaven\'s message. What immense trust and honor!',
+          zh: '使者代表的不是自己，而是差他的人。我们作"基督的使者"，代表天国的王向世人发出和好的邀请。神竟然"借我们"来劝人，选择通过软弱器皿传递天国信息。这是何等大的信任和尊荣！',
+          en: 'An ambassador represents not himself but the sender. As "ambassadors for Christ" we represent heaven\'s King, extending reconciliation. God "makes his appeal through us", choosing weak vessels for heaven\'s message. What immense trust and honor!',
         },
         question: {
           zh: '作为基督的使者，你是否意识到自己代表的是天国的王？这个身份如何改变你传福音的态度？',
@@ -1121,8 +1121,8 @@ export const themesA9 = [
           text_en: 'They that sow in tears shall reap in joy. He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.',
         },
         reflection: {
-          zh: '传福音常伴随泪水——被拒绝的泪、为灵魂忧伤的泪、付代价的泪。但神应许：流泪撒种的，必欢呼收割。每一滴为福音流的泪，都在预备将来欢呼的丰收。',
-          en: 'Evangelism is often accompanied by tears — of rejection, grief for souls, and sacrifice. But God promises: those who sow in tears will reap with joy. Every tear shed for the gospel prepares a future harvest of joy.',
+          zh: '传福音常伴随泪水：被拒绝的泪、为灵魂忧伤的泪、付代价的泪。但神应许：流泪撒种的，必欢呼收割。每一滴为福音流的泪，都在预备将来欢呼的丰收。',
+          en: 'Evangelism is often accompanied by tears, of rejection, grief for souls, and sacrifice. But God promises: those who sow in tears will reap with joy. Every tear shed for the gospel prepares a future harvest of joy.',
         },
         question: {
           zh: '你是否曾为传福音流过泪？知道神应许"必欢呼收割"，这如何鼓励你在艰难中继续撒种？',
@@ -1142,7 +1142,7 @@ export const themesA9 = [
         },
         reflection: {
           zh: '保罗提醒：有人栽种有人浇灌，但使生命成长的是神。我们不需要因看不到"结果"而灰心，我们的工作只是撒种和浇灌的一部分。最终的果效在神手中。',
-          en: 'Paul reminds us: one plants, another waters, but God gives growth. We need not be discouraged without "results" — our work is just part of planting and watering. The ultimate fruit is in God\'s hands.',
+          en: 'Paul reminds us: one plants, another waters, but God gives growth. We need not be discouraged without "results", our work is just part of planting and watering. The ultimate fruit is in God\'s hands.',
         },
         question: {
           zh: '你是否曾因传福音没有立刻看到果效而灰心？"惟有神叫他生长"如何改变你的心态？',
@@ -1161,8 +1161,8 @@ export const themesA9 = [
           text_en: 'But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts.',
         },
         reflection: {
-          zh: '福音是神"托付"给我们的——既是使命也是信任。传福音时，动机不是讨人喜欢，而是讨神喜欢。这释放我们不需要修改福音来迎合人的喜好，只需忠心传讲神所托付的。',
-          en: 'The gospel is "entrusted" to us — both mission and trust. Our motivation is not to please people but God who tests hearts. This frees us from modifying the gospel to suit preferences; we simply preach faithfully what was entrusted.',
+          zh: '福音是神"托付"给我们的，既是使命也是信任。传福音时，动机不是讨人喜欢，而是讨神喜欢。这释放我们不需要修改福音来迎合人的喜好，只需忠心传讲神所托付的。',
+          en: 'The gospel is "entrusted" to us, both mission and trust. Our motivation is not to please people but God who tests hearts. This frees us from modifying the gospel to suit preferences; we simply preach faithfully what was entrusted.',
         },
         question: {
           zh: '你在传福音时，是更在意人的反应还是神的喜悦？你是否曾因怕得罪人而淡化了福音？',
@@ -1170,7 +1170,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '主啊，祢把福音托付了我，帮助我忠心传讲，不讨人的喜欢，乃讨祢的喜欢。赐我勇气传讲完整的福音，不加不减。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, You entrusted me with the gospel. Help me preach faithfully — to please You, not people. Grant me courage to proclaim the full gospel. In Jesus\' name, amen.',
+          en: 'Lord, You entrusted me with the gospel. Help me preach faithfully, to please You, not people. Grant me courage to proclaim the full gospel. In Jesus\' name, amen.',
         },
       },
       {
@@ -1210,7 +1210,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '主啊，求祢赐我口才，使我能放胆开口讲明福音的奥秘。也为所有传福音的弟兄姐妹祷告，赐他们勇气和智慧。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, give me words to boldly proclaim the gospel\'s mystery. I also pray for all who share the gospel — grant them courage and wisdom. In Jesus\' name, amen.',
+          en: 'Lord, give me words to boldly proclaim the gospel\'s mystery. I also pray for all who share the gospel, grant them courage and wisdom. In Jesus\' name, amen.',
         },
       },
       {
@@ -1221,8 +1221,8 @@ export const themesA9 = [
           text_en: 'Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few; Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.',
         },
         reflection: {
-          zh: '耶稣看到群众就心生怜悯，因为庄稼多、工人少。祂的解决方案不是"你们赶快去"，而是"你们当求"——先祷告，求庄稼的主差派工人。传福音从祷告开始。当我们祷告时，可能被差派的正是我们自己。',
-          en: 'Jesus saw the crowds with compassion: harvest plentiful, laborers few. His solution was not "hurry and go" but "pray earnestly" — ask the Lord of the harvest to send workers. Evangelism begins with prayer. And the one sent may be us.',
+          zh: '耶稣看到群众就心生怜悯，因为庄稼多、工人少。祂的解决方案不是"你们赶快去"，而是"你们当求"，先祷告，求庄稼的主差派工人。传福音从祷告开始。当我们祷告时，可能被差派的正是我们自己。',
+          en: 'Jesus saw the crowds with compassion: harvest plentiful, laborers few. His solution was not "hurry and go" but "pray earnestly", ask the Lord of the harvest to send workers. Evangelism begins with prayer. And the one sent may be us.',
         },
         question: {
           zh: '你是否为更多工人被差遣到禾场祷告？你是否愿意自己成为那个被差遣的工人？',
@@ -1230,7 +1230,7 @@ export const themesA9 = [
         },
         prayer: {
           zh: '庄稼的主，要收的庄稼多，做工的人少。求祢打发工人出去收祢的庄稼。主啊，我在这里，请差遣我！奉主耶稣的名祷告，阿们。',
-          en: 'Lord of the harvest, the harvest is plentiful but laborers few. Send out workers into Your harvest. Lord, here I am — send me! In Jesus\' name, amen.',
+          en: 'Lord of the harvest, the harvest is plentiful but laborers few. Send out workers into Your harvest. Lord, here I am, send me! In Jesus\' name, amen.',
         },
       },
     ],

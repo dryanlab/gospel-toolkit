@@ -11,13 +11,13 @@ export function isPublished(dateStr: string): boolean {
   if (typeof window === 'undefined') return false;
   if (isPreview()) return true;
   // Publish at midnight Eastern Time (ET) on the date
-  // Compare current ET date with publish date — handles DST automatically
+  // Compare current ET date with publish date, handles DST automatically
   const now = new Date();
   const todayET = now.toLocaleDateString('en-CA', { timeZone: 'America/New_York' }); // YYYY-MM-DD format
   return dateStr <= todayET;
 }
 
-// React hook version — safe for hydration
+// React hook version, safe for hydration
 import { useState, useEffect } from 'react';
 export function useHydrated(): boolean {
   const [hydrated, setHydrated] = useState(false);

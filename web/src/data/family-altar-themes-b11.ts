@@ -16,7 +16,7 @@ export const themesB11: AltarTheme[] = [
           ref_zh: `出埃及记 2:23-25`,
           ref_en: `Exodus 2:23-25`,
           text_zh: `过了多年，埃及王死了。以色列人因做苦工，就叹息哀求，他们的哀声达于神。神听见他们的哀声，就记念他与亚伯拉罕、以撒、雅各所立的约。神看顾以色列人，也知道他们的苦情。`,
-          text_en: `During those many days the king of Egypt died, and the people of Israel groaned because of their slavery and cried out for help. Their cry for rescue from slavery came up to God. And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob. God saw the people of Israel—and God knew.`,
+          text_en: `During those many days the king of Egypt died, and the people of Israel groaned because of their slavery and cried out for help. Their cry for rescue from slavery came up to God. And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob. God saw the people of Israel, and God knew.`,
         },
         reflection: {
           zh: `神并非不知道我们的痛苦。当以色列人在苦难中呼求时，神听见、记念、看顾、知道。这四个动词表明神全然关注祂子民的苦难。在我们最深的痛苦中，神从未离开。`,
@@ -39,8 +39,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `Then he said, "Do not come near; take your sandals off your feet, for the place on which you are standing is holy ground." And he said, "I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob." And Moses hid his face, for he was afraid to look at God.`,
         },
         reflection: {
-          zh: `圣洁的神主动向摩西显现。脱鞋象征敬畏与顺服。神不仅是宇宙的主宰，更是我们列祖的神——祂是与人立约、进入关系的神。敬畏是亲近神的起点。`,
-          en: `The holy God took the initiative to reveal Himself to Moses. Removing sandals symbolizes reverence and submission. God is not only the sovereign of the universe but the God of our fathers—a covenant-making, relationship-entering God. Reverence is the starting point of drawing near.`,
+          zh: `圣洁的神主动向摩西显现。脱鞋象征敬畏与顺服。神不仅是宇宙的主宰，更是我们列祖的神：祂是与人立约、进入关系的神。敬畏是亲近神的起点。`,
+          en: `The holy God took the initiative to reveal Himself to Moses. Removing sandals symbolizes reverence and submission. God is not only the sovereign of the universe but the God of our fathers, a covenant-making, relationship-entering God. Reverence is the starting point of drawing near.`,
         },
         question: {
           zh: `你在日常生活中如何保持对神的敬畏？`,
@@ -59,8 +59,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `God said to Moses, "I AM WHO I AM." And he said, "Say this to the people of Israel: 'I AM has sent me to you.'"`,
         },
         reflection: {
-          zh: `"我是自有永有的"——这是神最根本的自我启示。祂不依赖任何受造物而存在，祂是一切存在的根源。当我们感到无力时，这位"自有永有"的神是我们最坚固的磐石。`,
-          en: `"I AM WHO I AM"—this is God's most fundamental self-revelation. He depends on nothing created for His existence; He is the source of all being. When we feel powerless, this self-existent God is our firmest rock.`,
+          zh: `"我是自有永有的"，这是神最根本的自我启示。祂不依赖任何受造物而存在，祂是一切存在的根源。当我们感到无力时，这位"自有永有"的神是我们最坚固的磐石。`,
+          en: `"I AM WHO I AM", this is God's most fundamental self-revelation. He depends on nothing created for His existence; He is the source of all being. When we feel powerless, this self-existent God is our firmest rock.`,
         },
         question: {
           zh: `神的"自有永有"对你面对不确定的未来有什么安慰？`,
@@ -120,7 +120,7 @@ export const themesB11: AltarTheme[] = [
         },
         reflection: {
           zh: `红海分开是信心最伟大的一刻。前有大海，后有追兵，看似绝路，神却开出一条从未有过的路。神专门在不可能中彰显祂的大能。你眼前的"红海"，正是神要显大能的地方。`,
-          en: `The parting of the Red Sea is one of faith's greatest moments. The sea ahead, the army behind—a dead end, yet God opened a way that never existed. God specializes in the impossible. Your "Red Sea" is precisely where God wants to display His power.`,
+          en: `The parting of the Red Sea is one of faith's greatest moments. The sea ahead, the army behind, a dead end, yet God opened a way that never existed. God specializes in the impossible. Your "Red Sea" is precisely where God wants to display His power.`,
         },
         question: {
           zh: `你目前面对什么看似不可能的困境？你能信靠神为你开路吗？`,
@@ -159,8 +159,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `Then the LORD said to Moses, "Behold, I am about to rain bread from heaven for you, and the people shall go out and gather a day's portion every day, that I may test them, whether they will walk in my law or not."`,
         },
         reflection: {
-          zh: `吗哪是每日的供应——不多不少，刚好够用。神要以色列人学习每天依靠祂。这正是主祷文"我们日用的饮食，今日赐给我们"的旧约根基。信靠神的供应，是每天的功课。`,
-          en: `Manna was daily provision—not too much, not too little, just enough. God wanted Israel to learn daily dependence on Him. This is the Old Testament foundation for "Give us this day our daily bread." Trusting God's provision is a daily lesson.`,
+          zh: `吗哪是每日的供应，不多不少，刚好够用。神要以色列人学习每天依靠祂。这正是主祷文"我们日用的饮食，今日赐给我们"的旧约根基。信靠神的供应，是每天的功课。`,
+          en: `Manna was daily provision, not too much, not too little, just enough. God wanted Israel to learn daily dependence on Him. This is the Old Testament foundation for "Give us this day our daily bread." Trusting God's provision is a daily lesson.`,
         },
         question: {
           zh: `你是否愿意每天依靠神的供应，而非囤积自己的安全感？`,
@@ -199,8 +199,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `And God spoke all these words, saying, "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. You shall have no other gods before me."`,
         },
         reflection: {
-          zh: `十诫的根基是恩典——"我曾将你领出来"。神先拯救，后颁布律法。顺服不是得救的条件，而是对恩典的回应。因为神先爱了我们，我们才甘心将祂放在生命的首位。`,
-          en: `The foundation of the Ten Commandments is grace—"who brought you out." God saved first, then gave the law. Obedience is not a condition for salvation but a response to grace. Because God loved us first, we willingly place Him first in our lives.`,
+          zh: `十诫的根基是恩典："我曾将你领出来"。神先拯救，后颁布律法。顺服不是得救的条件，而是对恩典的回应。因为神先爱了我们，我们才甘心将祂放在生命的首位。`,
+          en: `The foundation of the Ten Commandments is grace: "who brought you out." God saved first, then gave the law. Obedience is not a condition for salvation but a response to grace. Because God loved us first, we willingly place Him first in our lives.`,
         },
         question: {
           zh: `在你的生活中，有没有什么人或事物取代了神的首位？`,
@@ -219,8 +219,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `"You shall have no other gods before me. You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. You shall not bow down to them or serve them, for I the LORD your God am a jealous God."`,
         },
         reflection: {
-          zh: `神是"忌邪的神"——这不是人性的嫉妒，而是圣洁之爱的热忱。正如丈夫对妻子的爱不容第三者介入，神对我们的爱是专一而火热的。任何取代神位置的事物，都是我们心中的偶像。`,
-          en: `God is a "jealous God"—not with petty envy but with the zeal of holy love. Just as a husband's love permits no rival, God's love for us is exclusive and fervent. Anything that displaces God is an idol of the heart.`,
+          zh: `神是"忌邪的神"，这不是人性的嫉妒，而是圣洁之爱的热忱。正如丈夫对妻子的爱不容第三者介入，神对我们的爱是专一而火热的。任何取代神位置的事物，都是我们心中的偶像。`,
+          en: `God is a "jealous God", not with petty envy but with the zeal of holy love. Just as a husband's love permits no rival, God's love for us is exclusive and fervent. Anything that displaces God is an idol of the heart.`,
         },
         question: {
           zh: `现代生活中有哪些隐性的偶像容易占据我们的心？`,
@@ -259,8 +259,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `Moses said, "Please show me your glory." And he said, "I will make all my goodness pass before you and will proclaim before you my name 'The LORD.'" The LORD passed before him and proclaimed, "The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness."`,
         },
         reflection: {
-          zh: `当摩西求看神的荣耀时，神所启示的是祂的品格——怜悯、恩典、忍耐、慈爱、诚实。神最大的荣耀不在于祂的能力，而在于祂的恩慈。认识神的性情，是信仰最深的根基。`,
-          en: `When Moses asked to see God's glory, God revealed His character—mercy, grace, patience, steadfast love, faithfulness. God's greatest glory is not His power but His goodness. Knowing God's nature is the deepest foundation of faith.`,
+          zh: `当摩西求看神的荣耀时，神所启示的是祂的品格：怜悯、恩典、忍耐、慈爱、诚实。神最大的荣耀不在于祂的能力，而在于祂的恩慈。认识神的性情，是信仰最深的根基。`,
+          en: `When Moses asked to see God's glory, God revealed His character, mercy, grace, patience, steadfast love, faithfulness. God's greatest glory is not His power but His goodness. Knowing God's nature is the deepest foundation of faith.`,
         },
         question: {
           zh: `在这些属性中，哪一个对你此刻最有意义？为什么？`,
@@ -299,8 +299,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `And he said, "My presence will go with you, and I will give you rest."`,
         },
         reflection: {
-          zh: `这是整本出埃及记中最温柔的应许之一。前方的旷野道路漫长而未知，但神应许祂亲自同行，并赐下安息。我们人生的旷野旅程也是如此——重要的不是道路的难易，而是谁与我们同行。`,
-          en: `This is one of the tenderest promises in Exodus. The wilderness road ahead was long and unknown, but God promised His personal presence and rest. So it is with our life's wilderness journey—what matters is not how hard the road is, but who walks with us.`,
+          zh: `这是整本出埃及记中最温柔的应许之一。前方的旷野道路漫长而未知，但神应许祂亲自同行，并赐下安息。我们人生的旷野旅程也是如此，重要的不是道路的难易，而是谁与我们同行。`,
+          en: `This is one of the tenderest promises in Exodus. The wilderness road ahead was long and unknown, but God promised His personal presence and rest. So it is with our life's wilderness journey, what matters is not how hard the road is, but who walks with us.`,
         },
         question: {
           zh: `你是否在忙碌和焦虑中忘记了神同在的应许？如何重新进入祂的安息？`,
@@ -328,8 +328,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places,`,
         },
         reflection: {
-          zh: `"天上各样属灵的福气"已经赐给了我们——不是将来时，而是过去时。在基督里，我们已经拥有一切所需。我们不是乞丐在恳求，而是儿女在领受。`,
-          en: `"Every spiritual blessing" has already been given to us—past tense, not future. In Christ, we already possess all we need. We are not beggars pleading but children receiving.`,
+          zh: `"天上各样属灵的福气"已经赐给了我们，不是将来时，而是过去时。在基督里，我们已经拥有一切所需。我们不是乞丐在恳求，而是儿女在领受。`,
+          en: `"Every spiritual blessing" has already been given to us, past tense, not future. In Christ, we already possess all we need. We are not beggars pleading but children receiving.`,
         },
         question: {
           zh: `你是否活在"已经蒙福"的确信中，还是总觉得自己缺乏？`,
@@ -368,8 +368,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.`,
         },
         reflection: {
-          zh: `圣灵是我们的"印记"和"凭据"。印记代表所有权——我们属于神；凭据代表保证——神必完成祂开始的工作。圣灵住在我们里面，就是神永不撤回之爱的明证。`,
-          en: `The Holy Spirit is our "seal" and "guarantee." The seal represents ownership—we belong to God; the guarantee represents assurance—God will finish what He started. The Spirit dwelling in us is proof of God's irrevocable love.`,
+          zh: `圣灵是我们的"印记"和"凭据"。印记代表所有权，我们属于神；凭据代表保证，神必完成祂开始的工作。圣灵住在我们里面，就是神永不撤回之爱的明证。`,
+          en: `The Holy Spirit is our "seal" and "guarantee." The seal represents ownership, we belong to God; the guarantee represents assurance, God will finish what He started. The Spirit dwelling in us is proof of God's irrevocable love.`,
         },
         question: {
           zh: `你是否意识到圣灵住在你里面，作为神对你永恒应许的保证？`,
@@ -405,11 +405,11 @@ export const themesB11: AltarTheme[] = [
           ref_zh: `以弗所书 2:1, 4-5`,
           ref_en: `Ephesians 2:1, 4-5`,
           text_zh: `你们死在过犯罪恶之中，他叫你们活过来。……然而神既有丰富的怜悯，因他爱我们的大爱，当我们死在过犯中的时候，便叫我们与基督一同活过来（你们得救是本乎恩）。`,
-          text_en: `And you were dead in the trespasses and sins... But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved—`,
+          text_en: `And you were dead in the trespasses and sins... But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ, by grace you have been saved, `,
         },
         reflection: {
-          zh: `"然而神"——这是圣经中最美的转折。我们曾经死在罪中，毫无自救的能力。但神的怜悯和大爱介入了，使我们与基督一同活过来。恩典不是我们努力的结果，而是神主动的拯救。`,
-          en: `"But God"—these may be the most beautiful two words in Scripture. We were dead in sin, utterly unable to save ourselves. But God's mercy and great love intervened, making us alive with Christ. Grace is not the result of our effort but God's initiative.`,
+          zh: `"然而神"，这是圣经中最美的转折。我们曾经死在罪中，毫无自救的能力。但神的怜悯和大爱介入了，使我们与基督一同活过来。恩典不是我们努力的结果，而是神主动的拯救。`,
+          en: `"But God", these may be the most beautiful two words in Scripture. We were dead in sin, utterly unable to save ourselves. But God's mercy and great love intervened, making us alive with Christ. Grace is not the result of our effort but God's initiative.`,
         },
         question: {
           zh: `回想你信主前后的改变，"然而神"在你的故事中扮演了什么角色？`,
@@ -428,8 +428,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.`,
         },
         reflection: {
-          zh: `恩典加信心，减去行为，等于救恩。这是基督教福音最核心的公式。救恩是礼物——不是工资，不是奖赏。当我们明白这一点，骄傲就无立足之地，感恩就充满心间。`,
-          en: `Grace plus faith, minus works, equals salvation. This is the core equation of the Christian gospel. Salvation is a gift—not wages, not a reward. When we grasp this, pride has no foothold and gratitude fills the heart.`,
+          zh: `恩典加信心，减去行为，等于救恩。这是基督教福音最核心的公式。救恩是礼物，不是工资，不是奖赏。当我们明白这一点，骄傲就无立足之地，感恩就充满心间。`,
+          en: `Grace plus faith, minus works, equals salvation. This is the core equation of the Christian gospel. Salvation is a gift, not wages, not a reward. When we grasp this, pride has no foothold and gratitude fills the heart.`,
         },
         question: {
           zh: `你是否在不知不觉中试图用好行为来"赚取"神的恩典？`,
@@ -449,7 +449,7 @@ export const themesB11: AltarTheme[] = [
         },
         reflection: {
           zh: `我们不是靠行为得救，但我们是为行善而被造。善行不是救恩的原因，而是救恩的果实。神早已为你预备了专属的使命，你是祂的杰作，被造来完成独特的美好计划。`,
-          en: `We are not saved by works, but we are created for good works. Good works are not the cause of salvation but its fruit. God has already prepared a unique mission for you—you are His masterpiece, created to fulfill a beautiful plan.`,
+          en: `We are not saved by works, but we are created for good works. Good works are not the cause of salvation but its fruit. God has already prepared a unique mission for you, you are His masterpiece, created to fulfill a beautiful plan.`,
         },
         question: {
           zh: `你认为神为你预备了什么样的善工？你正在行走其中吗？`,
@@ -468,8 +468,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `But now in Christ Jesus you who once were far off have been brought near by the blood of Christ.`,
         },
         reflection: {
-          zh: `"从前远离"到"如今亲近"——这是福音带来的根本改变。基督的血拆除了一切隔断的墙，使我们这些原本与神隔绝的人可以坦然无惧地来到祂面前。`,
-          en: `"Once far off" to "brought near"—this is the fundamental change the gospel brings. Christ's blood demolished every dividing wall, allowing us who were once separated from God to come boldly before Him.`,
+          zh: `"从前远离"到"如今亲近"，这是福音带来的根本改变。基督的血拆除了一切隔断的墙，使我们这些原本与神隔绝的人可以坦然无惧地来到祂面前。`,
+          en: `"Once far off" to "brought near", this is the fundamental change the gospel brings. Christ's blood demolished every dividing wall, allowing us who were once separated from God to come boldly before Him.`,
         },
         question: {
           zh: `你是否真的感受到自己被带到了神面前？什么时候你最感到与神亲近？`,
@@ -485,7 +485,7 @@ export const themesB11: AltarTheme[] = [
           ref_zh: `以弗所书 4:4-6`,
           ref_en: `Ephesians 4:4-6`,
           text_zh: `身体只有一个，圣灵只有一个，正如你们蒙召，同有一个指望。一主，一信，一洗，一神，就是众人的父，超乎众人之上，贯乎众人之中，也住在众人之内。`,
-          text_en: `There is one body and one Spirit—just as you were called to the one hope that belongs to your call—one Lord, one faith, one baptism, one God and Father of all, who is over all and through all and in all.`,
+          text_en: `There is one body and one Spirit, just as you were called to the one hope that belongs to your call, one Lord, one faith, one baptism, one God and Father of all, who is over all and through all and in all.`,
         },
         reflection: {
           zh: `七个"一"构成教会合一的根基。我们的合一不是建立在相同的性格或偏好上，而是建立在共同的信仰、共同的主、共同的圣灵上。教会的多元中有真正的合一。`,
@@ -528,8 +528,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `to put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires, and to be renewed in the spirit of your minds, and to put on the new self, created after the likeness of God in true righteousness and holiness.`,
         },
         reflection: {
-          zh: `脱去旧人，穿上新人——这是每天的操练。如同换衣服一样，我们要主动脱去旧习惯、旧思维，穿上神所赐的新生命。改变从"心志改换一新"开始，由内而外。`,
-          en: `Putting off the old self and putting on the new—this is a daily practice. Like changing clothes, we actively shed old habits and mindsets and clothe ourselves in the new life God gives. Change starts with "renewed minds," from the inside out.`,
+          zh: `脱去旧人，穿上新人，这是每天的操练。如同换衣服一样，我们要主动脱去旧习惯、旧思维，穿上神所赐的新生命。改变从"心志改换一新"开始，由内而外。`,
+          en: `Putting off the old self and putting on the new, this is a daily practice. Like changing clothes, we actively shed old habits and mindsets and clothe ourselves in the new life God gives. Change starts with "renewed minds," from the inside out.`,
         },
         question: {
           zh: `你生命中有哪些"旧人"的习惯需要脱去？你愿意让神更新你的心志吗？`,
@@ -568,8 +568,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `Husbands, love your wives, as Christ loved the church and gave himself up for her,`,
         },
         reflection: {
-          zh: `基督对教会的爱是牺牲的、主动的、无条件的。这个标准对丈夫来说看似高不可攀，但这正是福音的力量——不是靠自己的力量去爱，而是被基督的爱充满后自然流溢出来。`,
-          en: `Christ's love for the church is sacrificial, initiating, and unconditional. This standard seems impossibly high for husbands, but this is the power of the gospel—not loving by our own strength but overflowing naturally when filled with Christ's love.`,
+          zh: `基督对教会的爱是牺牲的、主动的、无条件的。这个标准对丈夫来说看似高不可攀，但这正是福音的力量，不是靠自己的力量去爱，而是被基督的爱充满后自然流溢出来。`,
+          en: `Christ's love for the church is sacrificial, initiating, and unconditional. This standard seems impossibly high for husbands, but this is the power of the gospel, not loving by our own strength but overflowing naturally when filled with Christ's love.`,
         },
         question: {
           zh: `基督舍己的爱如何成为你人际关系的榜样？`,
@@ -588,8 +588,8 @@ export const themesB11: AltarTheme[] = [
           text_en: `Children, obey your parents in the Lord, for this is right. "Honor your father and mother" (this is the first commandment with a promise), "that it may go well with you and that you may live long in the land."`,
         },
         reflection: {
-          zh: `孝敬父母是第一条带应许的诫命。"在主里听从"表明顺服的根基是信仰，不是盲从。家庭秩序反映了神的秩序——在爱中有权柄，在权柄中有爱。`,
-          en: `Honoring parents is the first commandment with a promise. "In the Lord" shows that obedience is rooted in faith, not blind compliance. Family order reflects God's order—authority in love, and love in authority.`,
+          zh: `孝敬父母是第一条带应许的诫命。"在主里听从"表明顺服的根基是信仰，不是盲从。家庭秩序反映了神的秩序，在爱中有权柄，在权柄中有爱。`,
+          en: `Honoring parents is the first commandment with a promise. "In the Lord" shows that obedience is rooted in faith, not blind compliance. Family order reflects God's order, authority in love, and love in authority.`,
         },
         question: {
           zh: `你如何在日常生活中实践孝敬父母？如何向下一代传递这个价值？`,

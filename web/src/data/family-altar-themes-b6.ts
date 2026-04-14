@@ -22,7 +22,7 @@ export const themesB6 = [
         },
         question: {
           zh: '你对耶稣的跟随，是像当日群众一样随环境改变，还是无论顺逆都忠心到底？',
-          en: 'Is your devotion to Jesus like the crowd\'s—changing with circumstances—or do you remain faithful regardless of what comes?'
+          en: 'Is your devotion to Jesus like the crowd\'s, changing with circumstances, or do you remain faithful regardless of what comes?'
         },
         prayer: {
           zh: '主耶稣，你是配得称颂的大卫之子。求你帮助我不做随波逐流的跟随者，而是在任何环境中都真心向你呼喊"和散那"。阿们。',
@@ -38,7 +38,7 @@ export const themesB6 = [
         },
         reflection: {
           zh: '耶稣洁净圣殿，因为神的殿本是祷告的殿，却被人变成了谋利的场所。耶稣的愤怒出于对父神圣洁的热心。我们的心就是神的殿，是否也被世俗的贪婪和杂念占据？十架之路要求我们先洁净自己的内心殿宇。',
-          en: 'Jesus cleansed the temple because God\'s house was meant for prayer but had become a marketplace. His anger arose from zeal for the Father\'s holiness. Our hearts are God\'s temple—have they too been cluttered with worldly greed and distractions? The way of the cross demands we first cleanse our inner temple.'
+          en: 'Jesus cleansed the temple because God\'s house was meant for prayer but had become a marketplace. His anger arose from zeal for the Father\'s holiness. Our hearts are God\'s temple, have they too been cluttered with worldly greed and distractions? The way of the cross demands we first cleanse our inner temple.'
         },
         question: {
           zh: '你心灵的殿中，有什么需要被主洁净和清除的"买卖"？',
@@ -58,7 +58,7 @@ export const themesB6 = [
         },
         reflection: {
           zh: '这位女人将极贵重的香膏毫无保留地浇在耶稣头上，在众人看来是浪费，在耶稣看来却是最美的奉献。她凭着爱和信心，预先为主的安葬做了预备。真正的奉献不计较代价，也不在乎旁人的眼光，只因为主配得。',
-          en: 'This woman poured costly ointment unreservedly on Jesus\' head. Others saw waste; Jesus saw the most beautiful offering. In love and faith, she prepared him for burial beforehand. True devotion counts no cost and cares nothing for others\' opinions—because the Lord is worthy.'
+          en: 'This woman poured costly ointment unreservedly on Jesus\' head. Others saw waste; Jesus saw the most beautiful offering. In love and faith, she prepared him for burial beforehand. True devotion counts no cost and cares nothing for others\' opinions, because the Lord is worthy.'
         },
         question: {
           zh: '你愿意为主打破自己最珍贵的"玉瓶"，不计代价地奉献吗？',
@@ -66,7 +66,7 @@ export const themesB6 = [
         },
         prayer: {
           zh: '亲爱的主，你配得我最好的一切。求你给我像这女人一样的爱，甘愿打碎自己最宝贵的，毫无保留地献给你。阿们。',
-          en: 'Dear Lord, you deserve my very best. Give me love like this woman\'s—willing to break what is most precious and offer it without reservation. Amen.'
+          en: 'Dear Lord, you deserve my very best. Give me love like this woman\'s, willing to break what is most precious and offer it without reservation. Amen.'
         }
       },
       {
@@ -78,7 +78,7 @@ export const themesB6 = [
         },
         reflection: {
           zh: '最后的晚餐中，耶稣将饼和杯赐给门徒，预表他即将在十字架上为我们舍身流血。饼象征他破碎的身体，杯象征他所流的宝血，立了新的约。每次领受圣餐，我们都在记念主的死，直到他再来。这不只是仪式，更是与主生命的联合。',
-          en: 'At the Last Supper, Jesus gave bread and cup to his disciples, foreshadowing his sacrifice on the cross. The bread symbolizes his broken body; the cup, his blood establishing the new covenant. Each time we partake in communion, we remember his death until he comes again—not mere ritual but union with the Lord\'s life.'
+          en: 'At the Last Supper, Jesus gave bread and cup to his disciples, foreshadowing his sacrifice on the cross. The bread symbolizes his broken body; the cup, his blood establishing the new covenant. Each time we partake in communion, we remember his death until he comes again, not mere ritual but union with the Lord\'s life.'
         },
         question: {
           zh: '你每次领受圣餐时，心中是否真正记念主为你舍身流血的爱？',
@@ -97,8 +97,8 @@ export const themesB6 = [
           text_en: 'A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another. By this shall all men know that ye are my disciples, if ye have love one to another.'
         },
         reflection: {
-          zh: '在走向十字架的前夜，耶稣给门徒留下的不是策略或计划，而是一条新命令：彼此相爱。这爱的标准不是世人的爱，而是"我怎样爱你们"——舍己牺牲的爱。这份爱就是基督徒最有力的见证，让世人认出我们属于基督。',
-          en: 'On the eve of the cross, Jesus left his disciples not a strategy or plan but a new commandment: love one another. The standard is not worldly love but "as I have loved you"—self-sacrificing love. This love is Christians\' most powerful testimony, by which the world recognizes we belong to Christ.'
+          zh: '在走向十字架的前夜，耶稣给门徒留下的不是策略或计划，而是一条新命令：彼此相爱。这爱的标准不是世人的爱，而是"我怎样爱你们"，舍己牺牲的爱。这份爱就是基督徒最有力的见证，让世人认出我们属于基督。',
+          en: 'On the eve of the cross, Jesus left his disciples not a strategy or plan but a new commandment: love one another. The standard is not worldly love but "as I have loved you", self-sacrificing love. This love is Christians\' most powerful testimony, by which the world recognizes we belong to Christ.'
         },
         question: {
           zh: '在你的教会和家庭中，你如何实际地活出主所命令的"彼此相爱"？',
@@ -137,8 +137,8 @@ export const themesB6 = [
           text_en: 'And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.'
         },
         reflection: {
-          zh: '在客西马尼园中，耶稣面对即将承受全人类罪孽的十字架，极其伤痛，汗如血滴。他坦诚地向父神表达内心的挣扎，却最终说出"不要照我的意思，只要照你的意思"。这是完全顺服的祷告，也是十架之路最深的功课——降服自己的意志于神。',
-          en: 'In Gethsemane, facing the cross that would bear all humanity\'s sin, Jesus was in deep anguish, his sweat like drops of blood. He honestly expressed his struggle to the Father, yet concluded with "not as I will, but as you will." This is the prayer of total surrender—the deepest lesson of the way of the cross.'
+          zh: '在客西马尼园中，耶稣面对即将承受全人类罪孽的十字架，极其伤痛，汗如血滴。他坦诚地向父神表达内心的挣扎，却最终说出"不要照我的意思，只要照你的意思"。这是完全顺服的祷告，也是十架之路最深的功课，降服自己的意志于神。',
+          en: 'In Gethsemane, facing the cross that would bear all humanity\'s sin, Jesus was in deep anguish, his sweat like drops of blood. He honestly expressed his struggle to the Father, yet concluded with "not as I will, but as you will." This is the prayer of total surrender, the deepest lesson of the way of the cross.'
         },
         question: {
           zh: '你生命中有什么"苦杯"是你正在祈求挪去的？你能否像耶稣一样说"愿你的旨意成全"？',
@@ -157,8 +157,8 @@ export const themesB6 = [
           text_en: 'And forthwith he came to Jesus, and said, Hail, master; and kissed him. And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.'
         },
         reflection: {
-          zh: '犹大用亲嘴——最亲密的问候方式——来出卖耶稣。耶稣明知犹大的意图，却仍称他为"朋友"。这是何等的忍耐与怜悯。背叛的痛最深，因为来自最近的人。耶稣承受了被至亲之人出卖的痛苦，好让我们知道他完全理解我们被伤害的感受。',
-          en: 'Judas used a kiss—the most intimate greeting—to betray Jesus. Though Jesus knew his intent, he still called him "Friend." What patience and mercy! Betrayal wounds deepest because it comes from those closest. Jesus bore this pain so we would know he fully understands our hurt.'
+          zh: '犹大用亲嘴，最亲密的问候方式，来出卖耶稣。耶稣明知犹大的意图，却仍称他为"朋友"。这是何等的忍耐与怜悯。背叛的痛最深，因为来自最近的人。耶稣承受了被至亲之人出卖的痛苦，好让我们知道他完全理解我们被伤害的感受。',
+          en: 'Judas used a kiss, the most intimate greeting, to betray Jesus. Though Jesus knew his intent, he still called him "Friend." What patience and mercy! Betrayal wounds deepest because it comes from those closest. Jesus bore this pain so we would know he fully understands our hurt.'
         },
         question: {
           zh: '你曾经历过亲近之人的背叛吗？耶稣对犹大的回应教导你如何面对背叛？',
@@ -177,8 +177,8 @@ export const themesB6 = [
           text_en: 'And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice. And Peter went out, and wept bitterly.'
         },
         reflection: {
-          zh: '彼得曾信誓旦旦说就算死也不会否认主，却在压力下三次不认耶稣。当鸡叫时，主转过身来看他——那一眼不是定罪，而是充满爱与忧伤。彼得痛哭，因为他看见了自己的软弱。悔改的眼泪是恢复的起点，主的目光不是弃绝，而是挽回。',
-          en: 'Peter swore he would die rather than deny the Lord, yet under pressure denied Jesus three times. When the rooster crowed, the Lord turned and looked at him—a gaze not of condemnation but of love and sorrow. Peter wept bitterly, seeing his own weakness. Tears of repentance begin restoration; the Lord\'s gaze is not rejection but redemption.'
+          zh: '彼得曾信誓旦旦说就算死也不会否认主，却在压力下三次不认耶稣。当鸡叫时，主转过身来看他，那一眼不是定罪，而是充满爱与忧伤。彼得痛哭，因为他看见了自己的软弱。悔改的眼泪是恢复的起点，主的目光不是弃绝，而是挽回。',
+          en: 'Peter swore he would die rather than deny the Lord, yet under pressure denied Jesus three times. When the rooster crowed, the Lord turned and looked at him, a gaze not of condemnation but of love and sorrow. Peter wept bitterly, seeing his own weakness. Tears of repentance begin restoration; the Lord\'s gaze is not rejection but redemption.'
         },
         question: {
           zh: '你是否曾在压力下否认或隐藏自己的信仰？主转身看你的目光，带给你怎样的感受？',
@@ -197,8 +197,8 @@ export const themesB6 = [
           text_en: 'Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice. Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all.'
         },
         reflection: {
-          zh: '耶稣在彼拉多面前宣告他来到世间是为真理作见证。彼拉多的"真理是什么"不是真诚的追问，而是玩世不恭的嘲讽。真理就站在他面前，他却看不见。今天许多人也如彼拉多，在各种声音中迷失，不再相信有绝对的真理，殊不知真理本身就是一个人——耶稣基督。',
-          en: 'Before Pilate, Jesus declared he came to bear witness to the truth. Pilate\'s "What is truth?" was not a sincere question but a cynical dismissal. Truth stood before him, yet he could not see. Many today are like Pilate, lost among competing voices, no longer believing in absolute truth—not realizing Truth itself is a person: Jesus Christ.'
+          zh: '耶稣在彼拉多面前宣告他来到世间是为真理作见证。彼拉多的"真理是什么"不是真诚的追问，而是玩世不恭的嘲讽。真理就站在他面前，他却看不见。今天许多人也如彼拉多，在各种声音中迷失，不再相信有绝对的真理，殊不知真理本身就是一个人，耶稣基督。',
+          en: 'Before Pilate, Jesus declared he came to bear witness to the truth. Pilate\'s "What is truth?" was not a sincere question but a cynical dismissal. Truth stood before him, yet he could not see. Many today are like Pilate, lost among competing voices, no longer believing in absolute truth, not realizing Truth itself is a person: Jesus Christ.'
         },
         question: {
           zh: '在这个众说纷纭的时代，你是否确信耶稣就是真理？你如何在生活中为真理作见证？',
@@ -217,8 +217,8 @@ export const themesB6 = [
           text_en: 'And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left. Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.'
         },
         reflection: {
-          zh: '在十字架上承受极大痛苦时，耶稣的第一句话不是诅咒，不是申冤，而是为钉他的人祈求赦免。"他们所做的，他们不晓得"——耶稣看见的不是仇恨，而是人的无知与迷失。这超越人性的饶恕，正是十字架最核心的信息：神的爱胜过一切罪。',
-          en: 'While suffering immense agony on the cross, Jesus\'s first words were not curses or pleas for justice but a prayer for his executioners\' forgiveness. "They know not what they do"—Jesus saw not hatred but human ignorance and lostness. This forgiveness beyond human nature is the cross\'s core message: God\'s love overcomes all sin.'
+          zh: '在十字架上承受极大痛苦时，耶稣的第一句话不是诅咒，不是申冤，而是为钉他的人祈求赦免。"他们所做的，他们不晓得"，耶稣看见的不是仇恨，而是人的无知与迷失。这超越人性的饶恕，正是十字架最核心的信息：神的爱胜过一切罪。',
+          en: 'While suffering immense agony on the cross, Jesus\'s first words were not curses or pleas for justice but a prayer for his executioners\' forgiveness. "They know not what they do", Jesus saw not hatred but human ignorance and lostness. This forgiveness beyond human nature is the cross\'s core message: God\'s love overcomes all sin.'
         },
         question: {
           zh: '有没有人伤害了你，是你至今仍无法饶恕的？十字架上耶稣的祷告如何挑战你？',
@@ -237,8 +237,8 @@ export const themesB6 = [
           text_en: 'When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.'
         },
         reflection: {
-          zh: '"成了"——这一声宣告震动天地。这不是失败者的叹息，而是得胜者的凯歌。耶稣完成了父神交付的救赎大工，罪债全部偿清，救恩完全成就。我们不需要再做任何事来赢得神的接纳，因为耶稣已经说了"成了"。这是福音最美的一个字。',
-          en: '"It is finished"—this declaration shook heaven and earth. Not a defeated sigh but a victor\'s triumph. Jesus completed the Father\'s redemptive work: all sin-debt paid, salvation fully accomplished. We need do nothing more to earn God\'s acceptance, for Jesus said "It is finished." This is the gospel\'s most beautiful word.'
+          zh: '"成了"，这一声宣告震动天地。这不是失败者的叹息，而是得胜者的凯歌。耶稣完成了父神交付的救赎大工，罪债全部偿清，救恩完全成就。我们不需要再做任何事来赢得神的接纳，因为耶稣已经说了"成了"。这是福音最美的一个字。',
+          en: '"It is finished", this declaration shook heaven and earth. Not a defeated sigh but a victor\'s triumph. Jesus completed the Father\'s redemptive work: all sin-debt paid, salvation fully accomplished. We need do nothing more to earn God\'s acceptance, for Jesus said "It is finished." This is the gospel\'s most beautiful word.'
         },
         question: {
           zh: '你是否仍在靠自己的努力去赢得神的接纳？"成了"这句话如何释放你？',
@@ -266,7 +266,7 @@ export const themesB6 = [
         },
         prayer: {
           zh: '主啊，求你赐我像亚利马太约瑟一样的勇气，在别人退缩时敢于站出来，在黑暗中为你作光。阿们。',
-          en: 'Lord, give me courage like Joseph of Arimathea—to stand when others retreat and to be your light in the darkness. Amen.'
+          en: 'Lord, give me courage like Joseph of Arimathea, to stand when others retreat and to be your light in the darkness. Amen.'
         }
       },
       {
@@ -277,8 +277,8 @@ export const themesB6 = [
           text_en: 'And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified. He is not here: for he is risen, as he said. Come, see the place where the Lord lay.'
         },
         reflection: {
-          zh: '"他不在这里，已经复活了"——这是人类历史上最荣耀的宣告。空坟墓证明死亡无法拘禁生命的主。十架之路不是终结于死亡，而是终结于复活的荣耀。因为他活着，我们也要活着；因为他得胜，死亡不再是终点，而是通往永生的门。',
-          en: '"He is not here, for he has risen"—the most glorious declaration in human history. The empty tomb proves death cannot hold the Lord of life. The way of the cross ends not in death but in resurrection glory. Because he lives, we shall live; because he conquered, death is no longer the end but the gate to eternal life.'
+          zh: '"他不在这里，已经复活了"，这是人类历史上最荣耀的宣告。空坟墓证明死亡无法拘禁生命的主。十架之路不是终结于死亡，而是终结于复活的荣耀。因为他活着，我们也要活着；因为他得胜，死亡不再是终点，而是通往永生的门。',
+          en: '"He is not here, for he has risen", the most glorious declaration in human history. The empty tomb proves death cannot hold the Lord of life. The way of the cross ends not in death but in resurrection glory. Because he lives, we shall live; because he conquered, death is no longer the end but the gate to eternal life.'
         },
         question: {
           zh: '复活的信息如何改变你面对死亡和苦难的态度？',
@@ -367,7 +367,7 @@ export const themesB6 = [
         },
         reflection: {
           zh: '耶稣告诉尼哥底母，进入神国不是靠宗教知识或道德努力，而是需要从圣灵重生。肉身的生命无法产生属灵的生命，就像肉体无法生出灵来。圣灵的重生是一个全新的开始，赐给我们新的生命、新的性情、新的方向。这是圣灵最根本的工作。',
-          en: 'Jesus told Nicodemus that entering God\'s kingdom requires not religious knowledge or moral effort, but rebirth by the Spirit. Flesh cannot produce spiritual life. The Spirit\'s rebirth is a completely new beginning—new life, new nature, new direction. This is the Spirit\'s most foundational work.'
+          en: 'Jesus told Nicodemus that entering God\'s kingdom requires not religious knowledge or moral effort, but rebirth by the Spirit. Flesh cannot produce spiritual life. The Spirit\'s rebirth is a completely new beginning, new life, new nature, new direction. This is the Spirit\'s most foundational work.'
         },
         question: {
           zh: '你是否经历过圣灵的重生？你的生命是否有从"旧"到"新"的真实改变？',
@@ -386,8 +386,8 @@ export const themesB6 = [
           text_en: 'And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.'
         },
         reflection: {
-          zh: '耶稣应许门徒，他虽然离去，父却要赐下另一位保惠师——圣灵，永远与我们同在。圣灵不是暂时的访客，而是永远的同伴。他住在我们里面，不是远远地观望。世人不认识他，但属神的人认识他，因为我们经历他的同在。有了圣灵，我们永远不是孤儿。',
-          en: 'Jesus promised that though he would depart, the Father would give another Helper—the Holy Spirit—to be with us forever. The Spirit is not a temporary visitor but an eternal companion dwelling within us. The world doesn\'t know him, but God\'s children do, for we experience his presence. With the Spirit, we are never orphans.'
+          zh: '耶稣应许门徒，他虽然离去，父却要赐下另一位保惠师，圣灵，永远与我们同在。圣灵不是暂时的访客，而是永远的同伴。他住在我们里面，不是远远地观望。世人不认识他，但属神的人认识他，因为我们经历他的同在。有了圣灵，我们永远不是孤儿。',
+          en: 'Jesus promised that though he would depart, the Father would give another Helper, the Holy Spirit, to be with us forever. The Spirit is not a temporary visitor but an eternal companion dwelling within us. The world doesn\'t know him, but God\'s children do, for we experience his presence. With the Spirit, we are never orphans.'
         },
         question: {
           zh: '你是否常常意识到圣灵住在你里面？你如何在日常生活中经历他的同在？',
@@ -446,8 +446,8 @@ export const themesB6 = [
           text_en: 'And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:'
         },
         reflection: {
-          zh: '圣灵来到世间，要叫人为罪、为义、为审判自己责备自己。圣灵的责备不是定罪，而是光照——让人看见自己的罪，认识神的义，明白审判的真实。没有圣灵的光照，人不会真正意识到自己需要救恩。每一次真实的悔改，背后都是圣灵的工作。',
-          en: 'The Spirit convicts the world concerning sin, righteousness, and judgment. The Spirit\'s conviction is not condemnation but illumination—helping people see their sin, know God\'s righteousness, and understand judgment\'s reality. Without the Spirit, no one truly realizes their need for salvation. Every genuine repentance is the Spirit\'s work.'
+          zh: '圣灵来到世间，要叫人为罪、为义、为审判自己责备自己。圣灵的责备不是定罪，而是光照，让人看见自己的罪，认识神的义，明白审判的真实。没有圣灵的光照，人不会真正意识到自己需要救恩。每一次真实的悔改，背后都是圣灵的工作。',
+          en: 'The Spirit convicts the world concerning sin, righteousness, and judgment. The Spirit\'s conviction is not condemnation but illumination, helping people see their sin, know God\'s righteousness, and understand judgment\'s reality. Without the Spirit, no one truly realizes their need for salvation. Every genuine repentance is the Spirit\'s work.'
         },
         question: {
           zh: '你最近是否经历过圣灵对你内心的光照和责备？你如何回应？',
@@ -495,7 +495,7 @@ export const themesB6 = [
         },
         prayer: {
           zh: '圣灵啊，求你的火降临在我身上，洁净我、充满我、赋予我能力。使我像五旬节的门徒一样，勇敢地为主作见证。阿们。',
-          en: 'Holy Spirit, let your fire fall upon me—purify me, fill me, empower me. Make me like the disciples at Pentecost, boldly witnessing for the Lord. Amen.'
+          en: 'Holy Spirit, let your fire fall upon me, purify me, fill me, empower me. Make me like the disciples at Pentecost, boldly witnessing for the Lord. Amen.'
         }
       },
       {
@@ -507,7 +507,7 @@ export const themesB6 = [
         },
         reflection: {
           zh: '圣灵的果子不是靠人的努力生产的，而是圣灵在我们生命中自然结出的。注意这里用的是单数"果子"，说明这九种品格是一个整体，都是基督生命的流露。我们不需要苦苦修炼，只需要常住在基督里，让圣灵在我们里面工作，果子就会自然长出。',
-          en: 'The fruit of the Spirit is not produced by human effort but grows naturally as the Spirit works in our lives. Note the singular "fruit"—these nine qualities form one whole, all expressions of Christ\'s life. We need not strive; we simply abide in Christ, let the Spirit work, and the fruit grows naturally.'
+          en: 'The fruit of the Spirit is not produced by human effort but grows naturally as the Spirit works in our lives. Note the singular "fruit", these nine qualities form one whole, all expressions of Christ\'s life. We need not strive; we simply abide in Christ, let the Spirit work, and the fruit grows naturally.'
         },
         question: {
           zh: '圣灵果子中的九种品格，哪一种在你生命中最需要成长？',
@@ -527,7 +527,7 @@ export const themesB6 = [
         },
         reflection: {
           zh: '被圣灵引导是神儿女的标志。圣灵不是偶尔来访的客人，而是持续引领我们方向的向导。被圣灵引导意味着在每一个决定上寻求他的带领，顺服他的感动。这不是被动的等待，而是主动的聆听和顺服。',
-          en: 'Being led by the Spirit is the mark of God\'s children. The Spirit is not an occasional visitor but a continual guide. Being Spirit-led means seeking his leading in every decision and obeying his promptings—not passive waiting but active listening and obedience.'
+          en: 'Being led by the Spirit is the mark of God\'s children. The Spirit is not an occasional visitor but a continual guide. Being Spirit-led means seeking his leading in every decision and obeying his promptings, not passive waiting but active listening and obedience.'
         },
         question: {
           zh: '在你最近的一个重要决定中，你是否寻求了圣灵的引导？',
@@ -546,8 +546,8 @@ export const themesB6 = [
           text_en: 'Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered. And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.'
         },
         reflection: {
-          zh: '我们常常不知道该怎样祷告，但圣灵知道。他用说不出来的叹息替我们代求，照着神的旨意为我们祈求。这是何等安慰——即使我们词穷、困惑、软弱到无法开口，圣灵仍在为我们祷告。我们的祷告生活从来不是独自一人的挣扎。',
-          en: 'We often don\'t know how to pray, but the Spirit does. He intercedes with groanings too deep for words, according to God\'s will. What comfort—even when speechless, confused, or too weak to utter a word, the Spirit prays for us. Our prayer life is never a solitary struggle.'
+          zh: '我们常常不知道该怎样祷告，但圣灵知道。他用说不出来的叹息替我们代求，照着神的旨意为我们祈求。这是何等安慰：即使我们词穷、困惑、软弱到无法开口，圣灵仍在为我们祷告。我们的祷告生活从来不是独自一人的挣扎。',
+          en: 'We often don\'t know how to pray, but the Spirit does. He intercedes with groanings too deep for words, according to God\'s will. What comfort, even when speechless, confused, or too weak to utter a word, the Spirit prays for us. Our prayer life is never a solitary struggle.'
         },
         question: {
           zh: '当你不知道如何祷告时，你是否信靠圣灵在你里面为你代求？',
@@ -566,8 +566,8 @@ export const themesB6 = [
           text_en: 'Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?'
         },
         reflection: {
-          zh: '保罗提醒哥林多信徒一个惊人的真理：我们就是神的殿，圣灵住在我们里面。旧约时代神的荣耀住在圣殿中，如今神选择住在他百姓的心中。这赋予我们极大的尊严，也带来极大的责任——我们的身体、思想、行为都当圣洁，因为这是神居住的殿。',
-          en: 'Paul reminds the Corinthians of an astonishing truth: we are God\'s temple, and the Spirit dwells in us. In the Old Testament God\'s glory dwelt in the temple; now God chooses to dwell in his people\'s hearts. This gives us great dignity and great responsibility—our bodies, minds, and actions should be holy, for this is God\'s dwelling place.'
+          zh: '保罗提醒哥林多信徒一个惊人的真理：我们就是神的殿，圣灵住在我们里面。旧约时代神的荣耀住在圣殿中，如今神选择住在他百姓的心中。这赋予我们极大的尊严，也带来极大的责任：我们的身体、思想、行为都当圣洁，因为这是神居住的殿。',
+          en: 'Paul reminds the Corinthians of an astonishing truth: we are God\'s temple, and the Spirit dwells in us. In the Old Testament God\'s glory dwelt in the temple; now God chooses to dwell in his people\'s hearts. This gives us great dignity and great responsibility, our bodies, minds, and actions should be holy, for this is God\'s dwelling place.'
         },
         question: {
           zh: '既然你的身体是圣灵的殿，你在日常生活中如何看待和对待自己的身体？',
@@ -586,8 +586,8 @@ export const themesB6 = [
           text_en: 'In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise, Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.'
         },
         reflection: {
-          zh: '圣灵是神赐给信徒的印记和凭据。印记代表所有权——我们属于神；凭据代表保证——我们必得着天上的基业。圣灵的内住不仅是现在的祝福，更是将来荣耀的预付款。无论环境如何，圣灵的印记确保我们的救恩是稳妥的。',
-          en: 'The Holy Spirit is the seal and guarantee God gives believers. The seal represents ownership—we belong to God; the guarantee represents assurance—we will receive our heavenly inheritance. The Spirit\'s indwelling is not only a present blessing but a down payment of future glory. The Spirit\'s seal ensures our salvation is secure.'
+          zh: '圣灵是神赐给信徒的印记和凭据。印记代表所有权，我们属于神；凭据代表保证，我们必得着天上的基业。圣灵的内住不仅是现在的祝福，更是将来荣耀的预付款。无论环境如何，圣灵的印记确保我们的救恩是稳妥的。',
+          en: 'The Holy Spirit is the seal and guarantee God gives believers. The seal represents ownership, we belong to God; the guarantee represents assurance, we will receive our heavenly inheritance. The Spirit\'s indwelling is not only a present blessing but a down payment of future glory. The Spirit\'s seal ensures our salvation is secure.'
         },
         question: {
           zh: '你是否因着圣灵的印记，对自己的救恩有确实的把握和平安？',
@@ -635,12 +635,12 @@ export const themesB6 = [
           text_en: 'Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. But his delight is in the law of the LORD; and in his law doth he meditate day and night. And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.'
         },
         reflection: {
-          zh: '诗篇的开篇告诉我们，有福的人生有两个特征：远离罪恶的影响，亲近神的话语。喜爱并昼夜思想神律法的人，像栽在溪水旁的树——根基稳固、养分充足、按时结果。真正的繁荣不在于外在的成功，而在于生命扎根在神话语的活水中。',
-          en: 'The Psalms open by telling us a blessed life has two marks: turning from evil\'s influence and drawing near to God\'s Word. Those who delight in and meditate on God\'s law are like trees by streams—firmly rooted, well-nourished, fruitful in season. True prosperity lies not in outward success but in being rooted in the living water of God\'s Word.'
+          zh: '诗篇的开篇告诉我们，有福的人生有两个特征：远离罪恶的影响，亲近神的话语。喜爱并昼夜思想神律法的人，像栽在溪水旁的树：根基稳固、养分充足、按时结果。真正的繁荣不在于外在的成功，而在于生命扎根在神话语的活水中。',
+          en: 'The Psalms open by telling us a blessed life has two marks: turning from evil\'s influence and drawing near to God\'s Word. Those who delight in and meditate on God\'s law are like trees by streams, firmly rooted, well-nourished, fruitful in season. True prosperity lies not in outward success but in being rooted in the living water of God\'s Word.'
         },
         question: {
           zh: '你每天花多少时间"昼夜思想"神的话语？你的生命是否像溪水旁的树一样有根有基？',
-          en: 'How much time do you spend meditating on God\'s Word daily? Is your life like a tree by streams—firmly rooted?'
+          en: 'How much time do you spend meditating on God\'s Word daily? Is your life like a tree by streams, firmly rooted?'
         },
         prayer: {
           zh: '主啊，我要喜爱你的律法，昼夜思想。求你使我像栽在溪水旁的树，在你话语的滋润中扎根、成长、结果。阿们。',
@@ -656,7 +656,7 @@ export const themesB6 = [
         },
         reflection: {
           zh: '大卫以牧羊人的经验写下这首最温柔的诗篇。耶和华是我们的牧者，他供应一切所需（青草地），赐我们安息（可安歇的水边），苏醒疲惫的灵魂，引导我们走义路。在这忙碌焦虑的时代，我们多么需要停下来，让好牧人带领我们到安歇之处。',
-          en: 'David wrote this most tender psalm from his shepherd\'s experience. The LORD is our shepherd—providing all we need (green pastures), granting rest (still waters), restoring our weary souls, guiding us in right paths. In this busy, anxious age, how we need to stop and let the Good Shepherd lead us to rest.'
+          en: 'David wrote this most tender psalm from his shepherd\'s experience. The LORD is our shepherd, providing all we need (green pastures), granting rest (still waters), restoring our weary souls, guiding us in right paths. In this busy, anxious age, how we need to stop and let the Good Shepherd lead us to rest.'
         },
         question: {
           zh: '你目前的生活是否让你感到疲惫缺乏？你是否愿意让好牧人带领你到青草地和溪水边？',
@@ -675,8 +675,8 @@ export const themesB6 = [
           text_en: 'God is our refuge and strength, a very present help in trouble. Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;'
         },
         reflection: {
-          zh: '当世界天翻地覆、山崩地裂时，诗人宣告：我们不害怕！因为神是我们的避难所和力量，是患难中随时的帮助。注意不是"偶尔的帮助"，而是"随时的帮助"——无论何时何地，神都在。这信心不是盲目乐观，而是建立在对全能神认识之上的确据。',
-          en: 'When the world is upended and mountains crumble, the psalmist declares: we will not fear! God is our refuge and strength, a very present help. Not "occasional help" but "very present"—available anytime, anywhere. This faith is not blind optimism but confidence built on knowing the Almighty.'
+          zh: '当世界天翻地覆、山崩地裂时，诗人宣告：我们不害怕！因为神是我们的避难所和力量，是患难中随时的帮助。注意不是"偶尔的帮助"，而是"随时的帮助"，无论何时何地，神都在。这信心不是盲目乐观，而是建立在对全能神认识之上的确据。',
+          en: 'When the world is upended and mountains crumble, the psalmist declares: we will not fear! God is our refuge and strength, a very present help. Not "occasional help" but "very present", available anytime, anywhere. This faith is not blind optimism but confidence built on knowing the Almighty.'
         },
         question: {
           zh: '你生命中正在经历什么"山摇动到海心"的处境？你是否相信神是你随时的帮助？',
@@ -696,7 +696,7 @@ export const themesB6 = [
         },
         reflection: {
           zh: '诗篇51篇是大卫犯罪后最深切的悔改祷告。他不为自己找借口，不推卸责任，而是直接呼求神的怜悯。他所依靠的不是自己的好行为，而是神的慈爱和丰盛的慈悲。真正的悔改不是靠自我改善，而是将污秽的自己完全交在恩典的神手中。',
-          en: 'Psalm 51 is David\'s deepest prayer of repentance after sin. He makes no excuses, shifts no blame, but directly pleads for God\'s mercy—relying not on his own deeds but on God\'s steadfast love and abundant mercy. True repentance is not self-improvement but placing our polluted selves entirely in the hands of a gracious God.'
+          en: 'Psalm 51 is David\'s deepest prayer of repentance after sin. He makes no excuses, shifts no blame, but directly pleads for God\'s mercy, relying not on his own deeds but on God\'s steadfast love and abundant mercy. True repentance is not self-improvement but placing our polluted selves entirely in the hands of a gracious God.'
         },
         question: {
           zh: '你是否有需要向神认的罪？你敢不敢像大卫一样坦诚地到神面前？',
@@ -715,8 +715,8 @@ export const themesB6 = [
           text_en: 'As the hart panteth after the water brooks, so panteth my soul after thee, O God. My soul thirsteth for God, for the living God: when shall I come and appear before God?'
         },
         reflection: {
-          zh: '诗人用一幅生动的图画——干渴的鹿切慕溪水——来表达他对神深切的渴望。这不是宗教的义务感，而是生命深处的渴求，就像身体离不开水一样，灵魂离不开神。在你忙碌的生活中，是否仍保持着对神的渴慕？还是灵魂已经干渴而不自知？',
-          en: 'The psalmist uses a vivid image—a deer panting for streams—to express deep longing for God. This is not religious duty but a soul-deep craving: as the body needs water, the soul needs God. In your busy life, do you still thirst for God, or has your soul grown dry without knowing?'
+          zh: '诗人用一幅生动的图画，干渴的鹿切慕溪水，来表达他对神深切的渴望。这不是宗教的义务感，而是生命深处的渴求，就像身体离不开水一样，灵魂离不开神。在你忙碌的生活中，是否仍保持着对神的渴慕？还是灵魂已经干渴而不自知？',
+          en: 'The psalmist uses a vivid image, a deer panting for streams, to express deep longing for God. This is not religious duty but a soul-deep craving: as the body needs water, the soul needs God. In your busy life, do you still thirst for God, or has your soul grown dry without knowing?'
         },
         question: {
           zh: '你的心对神的渴慕程度如何？是如鹿切慕溪水般迫切，还是已经淡了？',
@@ -735,8 +735,8 @@ export const themesB6 = [
           text_en: 'He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.'
         },
         reflection: {
-          zh: '"住在至高者隐密处"描绘了与神最亲密的关系——不是偶尔的造访，而是居住。当我们持续住在神的同在中，他就成为我们的荫庇、避难所和山寨。这种保护不是远距离的看顾，而是荫下的遮盖，近到可以感受到他的气息。',
-          en: '"Dwelling in the shelter of the Most High" pictures the most intimate relationship with God—not occasional visits but dwelling. When we continually abide in God\'s presence, he becomes our shade, refuge, and fortress—not distant oversight but close sheltering, near enough to feel his breath.'
+          zh: '"住在至高者隐密处"描绘了与神最亲密的关系，不是偶尔的造访，而是居住。当我们持续住在神的同在中，他就成为我们的荫庇、避难所和山寨。这种保护不是远距离的看顾，而是荫下的遮盖，近到可以感受到他的气息。',
+          en: '"Dwelling in the shelter of the Most High" pictures the most intimate relationship with God, not occasional visits but dwelling. When we continually abide in God\'s presence, he becomes our shade, refuge, and fortress, not distant oversight but close sheltering, near enough to feel his breath.'
         },
         question: {
           zh: '你是"住在"至高者的隐密处，还是只是"路过"？你如何持续住在神的同在中？',
@@ -744,7 +744,7 @@ export const themesB6 = [
         },
         prayer: {
           zh: '至高的神，我要住在你的隐密处，不是偶尔造访，而是安家在你的荫下。你是我的避难所、我的山寨、我所倚靠的神。阿们。',
-          en: 'Most High God, I choose to dwell in your shelter—not visit occasionally but make my home under your shadow. You are my refuge, my fortress, my God in whom I trust. Amen.'
+          en: 'Most High God, I choose to dwell in your shelter, not visit occasionally but make my home under your shadow. You are my refuge, my fortress, my God in whom I trust. Amen.'
         }
       },
       {
@@ -755,8 +755,8 @@ export const themesB6 = [
           text_en: 'Bless the LORD, O my soul: and all that is within me, bless his holy name. Bless the LORD, O my soul, and forget not all his benefits: Who forgiveth all thine iniquities; who healeth all thy diseases;'
         },
         reflection: {
-          zh: '大卫呼唤自己的灵魂来赞美神，提醒自己不可忘记神的恩惠。人是多么容易忘恩啊！神赦免了我们一切的罪，医治我们一切的疾病，但我们常常一转身就忘记。赞美不只是情绪的表达，更是意志的决定——刻意地数算恩典，刻意地称颂神。',
-          en: 'David calls his soul to praise God, reminding himself not to forget God\'s benefits. How easily we forget! God forgives all our sin, heals all our diseases, yet we quickly forget. Praise is not just emotional expression but a deliberate choice—intentionally counting blessings, intentionally blessing God.'
+          zh: '大卫呼唤自己的灵魂来赞美神，提醒自己不可忘记神的恩惠。人是多么容易忘恩啊！神赦免了我们一切的罪，医治我们一切的疾病，但我们常常一转身就忘记。赞美不只是情绪的表达，更是意志的决定，刻意地数算恩典，刻意地称颂神。',
+          en: 'David calls his soul to praise God, reminding himself not to forget God\'s benefits. How easily we forget! God forgives all our sin, heals all our diseases, yet we quickly forget. Praise is not just emotional expression but a deliberate choice, intentionally counting blessings, intentionally blessing God.'
         },
         question: {
           zh: '你最近忘记了神的哪些恩惠？现在就数算三样你要感恩的事。',
@@ -775,12 +775,12 @@ export const themesB6 = [
           text_en: 'O LORD, thou hast searched me, and known me. Thou knowest my downsitting and mine uprising, thou understandest my thought afar off. Thou compassest my path and my lying down, and art acquainted with all my ways. For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether.'
         },
         reflection: {
-          zh: '神对我们的认识是完全的——我们的起坐、意念、行为，甚至舌头上还未说出的话，他都知道。这对骄傲的人是警告，对孤独的人却是安慰。世上没有人完全理解你，但神完全认识你，并且在完全认识你之后，仍然爱你。这才是真正的被爱。',
-          en: 'God\'s knowledge of us is complete—our sitting, rising, thoughts, actions, even unspoken words. To the proud this is a warning; to the lonely, deep comfort. No one fully understands you, but God fully knows you—and knowing you completely, still loves you. This is what it truly means to be loved.'
+          zh: '神对我们的认识是完全的：我们的起坐、意念、行为，甚至舌头上还未说出的话，他都知道。这对骄傲的人是警告，对孤独的人却是安慰。世上没有人完全理解你，但神完全认识你，并且在完全认识你之后，仍然爱你。这才是真正的被爱。',
+          en: 'God\'s knowledge of us is complete, our sitting, rising, thoughts, actions, even unspoken words. To the proud this is a warning; to the lonely, deep comfort. No one fully understands you, but God fully knows you, and knowing you completely, still loves you. This is what it truly means to be loved.'
         },
         question: {
-          zh: '神完全认识你的一切——包括你隐藏的部分——这让你感到害怕还是安慰？',
-          en: 'God knows everything about you—including what you hide. Does this make you afraid or comforted?'
+          zh: '神完全认识你的一切，包括你隐藏的部分，这让你感到害怕还是安慰？',
+          en: 'God knows everything about you, including what you hide. Does this make you afraid or comforted?'
         },
         prayer: {
           zh: '耶和华啊，你鉴察我、认识我。我在你面前毫无隐藏，但你仍然爱我。感谢你这份完全的认识和完全的爱，使我可以坦然无惧。阿们。',
@@ -795,11 +795,11 @@ export const themesB6 = [
           text_en: 'By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.'
         },
         reflection: {
-          zh: '被掳到巴比伦的以色列人坐在河边哭泣，追想失去的锡安。在异乡的痛苦中，他们无法唱耶和华的歌。这是信仰最真实的一面——有时候我们的处境让我们唱不出赞美。但即使在巴比伦河边的哭泣，也是向神真实的表达。神不嫌弃我们的眼泪。',
-          en: 'Exiled Israelites sat by Babylon\'s rivers and wept, remembering lost Zion. In their pain, they could not sing the LORD\'s song. This is faith at its most honest—sometimes circumstances silence our praise. But even weeping by Babylon\'s rivers is authentic expression before God. God does not despise our tears.'
+          zh: '被掳到巴比伦的以色列人坐在河边哭泣，追想失去的锡安。在异乡的痛苦中，他们无法唱耶和华的歌。这是信仰最真实的一面，有时候我们的处境让我们唱不出赞美。但即使在巴比伦河边的哭泣，也是向神真实的表达。神不嫌弃我们的眼泪。',
+          en: 'Exiled Israelites sat by Babylon\'s rivers and wept, remembering lost Zion. In their pain, they could not sing the LORD\'s song. This is faith at its most honest, sometimes circumstances silence our praise. But even weeping by Babylon\'s rivers is authentic expression before God. God does not despise our tears.'
         },
         question: {
-          zh: '你是否正在经历人生的"巴比伦"——一个让你唱不出赞美的处境？你能向神坦诚表达吗？',
+          zh: '你是否正在经历人生的"巴比伦"，一个让你唱不出赞美的处境？你能向神坦诚表达吗？',
           en: 'Are you in a "Babylon" season where you can\'t sing praise? Can you be honest with God about it?'
         },
         prayer: {
@@ -815,8 +815,8 @@ export const themesB6 = [
           text_en: 'Thy word is a lamp unto my feet, and a light unto my path.'
         },
         reflection: {
-          zh: '神的话语不是远处的探照灯，让我们看见遥远的未来，而是脚前的灯——照亮当下每一步。在人生的黑暗和迷茫中，我们不需要看见全部的路，只需要看见下一步。神的话语就是那盏灯，在每一个十字路口为我们照亮前方。',
-          en: 'God\'s Word is not a distant searchlight showing the far future but a lamp at our feet—illuminating each present step. In life\'s darkness, we don\'t need to see the whole road, just the next step. God\'s Word is that lamp, lighting the way at every crossroad.'
+          zh: '神的话语不是远处的探照灯，让我们看见遥远的未来，而是脚前的灯，照亮当下每一步。在人生的黑暗和迷茫中，我们不需要看见全部的路，只需要看见下一步。神的话语就是那盏灯，在每一个十字路口为我们照亮前方。',
+          en: 'God\'s Word is not a distant searchlight showing the far future but a lamp at our feet, illuminating each present step. In life\'s darkness, we don\'t need to see the whole road, just the next step. God\'s Word is that lamp, lighting the way at every crossroad.'
         },
         question: {
           zh: '你在面对人生的不确定时，是否以神的话语作为你每一步的引导？',
@@ -835,8 +835,8 @@ export const themesB6 = [
           text_en: 'The heavens declare the glory of God; and the firmament sheweth his handywork. Day unto day uttereth speech, and night unto night sheweth knowledge.'
         },
         reflection: {
-          zh: '整个受造界都在述说神的荣耀——日月星辰、山川大地，无声却有力地宣告着造物主的伟大。每一个日出、每一个星夜，都是神向我们发出的信息。大自然是神的另一本书，日日夜夜不停地传讲他的智慧和能力。你是否有耳可听？',
-          en: 'All creation declares God\'s glory—sun, moon, stars, mountains silently yet powerfully proclaim the Creator\'s greatness. Every sunrise, every starry night is a message from God. Nature is God\'s other book, speaking day and night of his wisdom and power. Do you have ears to hear?'
+          zh: '整个受造界都在述说神的荣耀：日月星辰、山川大地，无声却有力地宣告着造物主的伟大。每一个日出、每一个星夜，都是神向我们发出的信息。大自然是神的另一本书，日日夜夜不停地传讲他的智慧和能力。你是否有耳可听？',
+          en: 'All creation declares God\'s glory, sun, moon, stars, mountains silently yet powerfully proclaim the Creator\'s greatness. Every sunrise, every starry night is a message from God. Nature is God\'s other book, speaking day and night of his wisdom and power. Do you have ears to hear?'
         },
         question: {
           zh: '你最近一次从大自然中感受到神的荣耀是什么时候？今天花几分钟仰望天空吧。',
@@ -876,7 +876,7 @@ export const themesB6 = [
         },
         reflection: {
           zh: '所罗门的智慧之言提醒我们：一切劳碌和努力，若不是出于神、依靠神，都是枉然。这不是叫我们懒惰，而是认识到一切都需要神的祝福才有意义。建造家庭、发展事业、教养孩子，都需要先邀请神来做主人和建造者。',
-          en: 'Solomon\'s wisdom reminds us: all labor and effort, if not from God and relying on God, is in vain. This doesn\'t call us to laziness but to recognize everything needs God\'s blessing for meaning. Building families, careers, raising children—all require first inviting God to be Lord and builder.'
+          en: 'Solomon\'s wisdom reminds us: all labor and effort, if not from God and relying on God, is in vain. This doesn\'t call us to laziness but to recognize everything needs God\'s blessing for meaning. Building families, careers, raising children, all require first inviting God to be Lord and builder.'
         },
         question: {
           zh: '你正在努力建造的"房屋"（家庭、事业、计划），是否有邀请耶和华来做建造者？',
@@ -895,8 +895,8 @@ export const themesB6 = [
           text_en: 'Out of the depths have I cried unto thee, O LORD. Lord, hear my voice: let thine ears be attentive to the voice of my supplications.'
         },
         reflection: {
-          zh: '"从深处"——这是人生最低谷的呼求。诗人没有在深处绝望，而是在深处向神呼求。生命的深渊不是祷告的阻碍，反而常常是最真实祷告的起点。当你跌到最深处时，记住：神的耳朵侧向深处。你越低，他越近。',
-          en: '"Out of the depths"—a cry from life\'s lowest point. The psalmist did not despair in the depths but cried out to God. Life\'s abyss is not a hindrance to prayer but often the starting point of the most authentic prayer. When you fall lowest, remember: God\'s ear bends toward the depths. The lower you are, the nearer he is.'
+          zh: '"从深处"，这是人生最低谷的呼求。诗人没有在深处绝望，而是在深处向神呼求。生命的深渊不是祷告的阻碍，反而常常是最真实祷告的起点。当你跌到最深处时，记住：神的耳朵侧向深处。你越低，他越近。',
+          en: '"Out of the depths", a cry from life\'s lowest point. The psalmist did not despair in the depths but cried out to God. Life\'s abyss is not a hindrance to prayer but often the starting point of the most authentic prayer. When you fall lowest, remember: God\'s ear bends toward the depths. The lower you are, the nearer he is.'
         },
         question: {
           zh: '你是否正在人生的"深处"？你有没有像诗人一样向神呼求？',
@@ -916,11 +916,11 @@ export const themesB6 = [
         },
         reflection: {
           zh: '诗篇以赞美开始（诗1篇的"有福"），以赞美结束（诗150篇的"赞美耶和华"）。最后一节呼召"凡有气息的"都来赞美神。只要你还有一口气在，你就有赞美神的理由和责任。赞美不是等到一切都好才做的事，而是因为神配得，凡有气息的都当如此。',
-          en: 'The Psalms begin with praise ("Blessed" in Psalm 1) and end with praise ("Praise the LORD" in Psalm 150). The final verse calls "everything that has breath" to praise. As long as you breathe, you have reason to praise. Praise is not reserved for good times—God is worthy, and everything with breath should praise him.'
+          en: 'The Psalms begin with praise ("Blessed" in Psalm 1) and end with praise ("Praise the LORD" in Psalm 150). The final verse calls "everything that has breath" to praise. As long as you breathe, you have reason to praise. Praise is not reserved for good times, God is worthy, and everything with breath should praise him.'
         },
         question: {
           zh: '今天你有气息，你是否用这气息赞美了耶和华？',
-          en: 'You have breath today—have you used it to praise the LORD?'
+          en: 'You have breath today, have you used it to praise the LORD?'
         },
         prayer: {
           zh: '耶和华啊，我要用你赐我的每一口气息来赞美你！无论环境如何，你永远配得赞美。哈利路亚！阿们。',
@@ -944,8 +944,8 @@ export const themesB6 = [
           text_en: 'Blessed are the poor in spirit: for theirs is the kingdom of heaven.'
         },
         reflection: {
-          zh: '登山宝训的第一个福，不是给强大的、成功的人，而是给"虚心的人"——灵里贫穷、知道自己一无所有的人。天国的门为那些自认富足的人关闭，却为承认自己贫穷需要神的人敞开。属灵生命的第一步，是承认自己的空虚。',
-          en: 'The first beatitude is not for the strong or successful but for the "poor in spirit"—those who know they have nothing. The kingdom\'s door closes to the self-sufficient but opens to those who acknowledge their poverty and need for God. The first step in spiritual life is admitting our emptiness.'
+          zh: '登山宝训的第一个福，不是给强大的、成功的人，而是给"虚心的人"，灵里贫穷、知道自己一无所有的人。天国的门为那些自认富足的人关闭，却为承认自己贫穷需要神的人敞开。属灵生命的第一步，是承认自己的空虚。',
+          en: 'The first beatitude is not for the strong or successful but for the "poor in spirit", those who know they have nothing. The kingdom\'s door closes to the self-sufficient but opens to those who acknowledge their poverty and need for God. The first step in spiritual life is admitting our emptiness.'
         },
         question: {
           zh: '你是否在神面前承认自己灵里的贫穷？还是觉得自己已经够好了？',
@@ -953,7 +953,7 @@ export const themesB6 = [
         },
         prayer: {
           zh: '主啊，我承认自己灵里贫穷，一无所有。我不倚靠自己的能力和义，只仰望你的恩典。感谢你将天国赐给像我这样虚心的人。阿们。',
-          en: 'Lord, I confess my spiritual poverty—I have nothing. I rely not on my own ability but look to your grace alone. Thank you for giving the kingdom to the poor in spirit like me. Amen.'
+          en: 'Lord, I confess my spiritual poverty, I have nothing. I rely not on my own ability but look to your grace alone. Thank you for giving the kingdom to the poor in spirit like me. Amen.'
         }
       },
       {
@@ -964,8 +964,8 @@ export const themesB6 = [
           text_en: 'Blessed are they that mourn: for they shall be comforted.'
         },
         reflection: {
-          zh: '世界说快乐的人有福，耶稣却说哀恸的人有福。这里的哀恸不只是为失去而悲伤，更是为罪而忧伤——为自己的罪、为世界的破碎而深深悲痛。这样的哀恸不是绝望，因为必有安慰随之而来。那位安慰者——圣灵——会擦干一切真诚悔改的眼泪。',
-          en: 'The world says the happy are blessed; Jesus says those who mourn are. This mourning is not merely grief over loss but sorrow over sin—deep grief over our sin and the world\'s brokenness. Such mourning is not despair, for comfort surely follows. The Comforter—the Holy Spirit—wipes every tear of sincere repentance.'
+          zh: '世界说快乐的人有福，耶稣却说哀恸的人有福。这里的哀恸不只是为失去而悲伤，更是为罪而忧伤：为自己的罪、为世界的破碎而深深悲痛。这样的哀恸不是绝望，因为必有安慰随之而来。那位安慰者，圣灵，会擦干一切真诚悔改的眼泪。',
+          en: 'The world says the happy are blessed; Jesus says those who mourn are. This mourning is not merely grief over loss but sorrow over sin, deep grief over our sin and the world\'s brokenness. Such mourning is not despair, for comfort surely follows. The Comforter, the Holy Spirit, wipes every tear of sincere repentance.'
         },
         question: {
           zh: '你有没有为自己的罪和世界的痛苦而真正哀恸过？',
@@ -973,7 +973,7 @@ export const themesB6 = [
         },
         prayer: {
           zh: '主啊，赐我一颗能为罪哀恸的心。不是麻木不仁，而是对罪有敏锐的感知。我相信你应许的安慰必临到每一个真心悔改的人。阿们。',
-          en: 'Lord, give me a heart that mourns over sin—not numb but sensitively aware. I trust your promised comfort comes to every truly repentant heart. Amen.'
+          en: 'Lord, give me a heart that mourns over sin, not numb but sensitively aware. I trust your promised comfort comes to every truly repentant heart. Amen.'
         }
       },
       {
@@ -984,8 +984,8 @@ export const themesB6 = [
           text_en: 'Blessed are the meek: for they shall inherit the earth.'
         },
         reflection: {
-          zh: '温柔不是软弱，而是有力量却选择谦卑。耶稣自己就是温柔的典范——拥有一切权柄，却骑驴进城、为门徒洗脚。世界说强者得胜、弱者被淘汰，但天国的法则相反：温柔的人必承受地土。不是靠争抢，而是靠谦卑等候神的赏赐。',
-          en: 'Meekness is not weakness but strength choosing humility. Jesus is the model—holding all authority yet riding a donkey and washing feet. The world says the strong win; the kingdom\'s principle is opposite: the meek inherit the earth. Not by grabbing but by humbly awaiting God\'s reward.'
+          zh: '温柔不是软弱，而是有力量却选择谦卑。耶稣自己就是温柔的典范：拥有一切权柄，却骑驴进城、为门徒洗脚。世界说强者得胜、弱者被淘汰，但天国的法则相反：温柔的人必承受地土。不是靠争抢，而是靠谦卑等候神的赏赐。',
+          en: 'Meekness is not weakness but strength choosing humility. Jesus is the model, holding all authority yet riding a donkey and washing feet. The world says the strong win; the kingdom\'s principle is opposite: the meek inherit the earth. Not by grabbing but by humbly awaiting God\'s reward.'
         },
         question: {
           zh: '在你的日常生活中，你是用争竞还是温柔来面对冲突？',
@@ -1004,8 +1004,8 @@ export const themesB6 = [
           text_en: 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled.'
         },
         reflection: {
-          zh: '饥渴是最基本的生存需要，耶稣用这个比喻描述对公义的渴望。真正饥渴慕义的人，不是随便想想，而是像饥饿的人渴望食物一样迫切地追求神的义。神应许这样的人必得饱足——不是半饱，而是完全的满足。',
-          en: 'Hunger and thirst are the most basic survival needs. Jesus uses this for the longing for righteousness. Those who truly hunger and thirst pursue God\'s righteousness as desperately as the starving crave food. God promises they shall be satisfied—not half-full, but completely.'
+          zh: '饥渴是最基本的生存需要，耶稣用这个比喻描述对公义的渴望。真正饥渴慕义的人，不是随便想想，而是像饥饿的人渴望食物一样迫切地追求神的义。神应许这样的人必得饱足，不是半饱，而是完全的满足。',
+          en: 'Hunger and thirst are the most basic survival needs. Jesus uses this for the longing for righteousness. Those who truly hunger and thirst pursue God\'s righteousness as desperately as the starving crave food. God promises they shall be satisfied, not half-full, but completely.'
         },
         question: {
           zh: '你对神的公义的渴慕，是像饿极了渴极了一样迫切，还是可有可无？',
@@ -1013,7 +1013,7 @@ export const themesB6 = [
         },
         prayer: {
           zh: '主啊，求你在我心中激发对你公义的饥渴。不是半心半意地追求，而是像饥饿的人寻找食物一样迫切。你应许饥渴慕义的必得饱足，我凭信心领受。阿们。',
-          en: 'Lord, stir in my heart a hunger and thirst for your righteousness—desperate longing like the starving seeking food. You promise satisfaction; I receive it by faith. Amen.'
+          en: 'Lord, stir in my heart a hunger and thirst for your righteousness, desperate longing like the starving seeking food. You promise satisfaction; I receive it by faith. Amen.'
         }
       },
       {
@@ -1024,8 +1024,8 @@ export const themesB6 = [
           text_en: 'Blessed are the merciful: for they shall obtain mercy.'
         },
         reflection: {
-          zh: '怜恤是进入别人的痛苦中，给予同情和帮助。耶稣应许怜恤人的人也必蒙怜恤——这不是交易，而是属灵的法则。一个被神怜恤过的人，自然会去怜恤他人；一个懂得怜恤的心，也更能深深体会神的怜恤。怜恤的循环从领受神的恩典开始。',
-          en: 'Mercy is entering another\'s pain with compassion and help. Jesus promises the merciful shall receive mercy—not as transaction but spiritual principle. One who has received God\'s mercy naturally shows mercy; a merciful heart more deeply experiences God\'s mercy. The cycle begins with receiving God\'s grace.'
+          zh: '怜恤是进入别人的痛苦中，给予同情和帮助。耶稣应许怜恤人的人也必蒙怜恤，这不是交易，而是属灵的法则。一个被神怜恤过的人，自然会去怜恤他人；一个懂得怜恤的心，也更能深深体会神的怜恤。怜恤的循环从领受神的恩典开始。',
+          en: 'Mercy is entering another\'s pain with compassion and help. Jesus promises the merciful shall receive mercy, not as transaction but spiritual principle. One who has received God\'s mercy naturally shows mercy; a merciful heart more deeply experiences God\'s mercy. The cycle begins with receiving God\'s grace.'
         },
         question: {
           zh: '你最近有机会怜恤他人却错过了吗？有谁正在等待你的怜恤？',
@@ -1044,8 +1044,8 @@ export const themesB6 = [
           text_en: 'Blessed are the pure in heart: for they shall see God.'
         },
         reflection: {
-          zh: '清心——内心纯净、没有分裂和虚伪。清心的人不是完美无罪的人，而是内心真诚、动机单纯、全心向着神的人。世界充满了分心和诱惑，使我们的心变得混浊。但耶稣应许清心的人必得见神——不只是将来在天上，也是此刻在日常中经历神的同在。',
-          en: 'Pure in heart—inner purity without duplicity or hypocrisy. The pure in heart are not sinless but sincere, with undivided motives, wholeheartedly toward God. The world\'s distractions cloud our hearts. But Jesus promises the pure in heart shall see God—not only in heaven but in experiencing God\'s presence in daily life now.'
+          zh: '清心：内心纯净、没有分裂和虚伪。清心的人不是完美无罪的人，而是内心真诚、动机单纯、全心向着神的人。世界充满了分心和诱惑，使我们的心变得混浊。但耶稣应许清心的人必得见神，不只是将来在天上，也是此刻在日常中经历神的同在。',
+          en: 'Pure in heart, inner purity without duplicity or hypocrisy. The pure in heart are not sinless but sincere, with undivided motives, wholeheartedly toward God. The world\'s distractions cloud our hearts. But Jesus promises the pure in heart shall see God, not only in heaven but in experiencing God\'s presence in daily life now.'
         },
         question: {
           zh: '你的心是否"清"的？有什么混杂的动机或隐藏的虚伪需要被洁净？',
@@ -1064,8 +1064,8 @@ export const themesB6 = [
           text_en: 'Blessed are the peacemakers: for they shall be called the children of God.'
         },
         reflection: {
-          zh: '使人和睦的人不只是爱好和平的人，而是主动去创造和平、修复关系的人。神自己就是最大的和平缔造者——藉着基督使我们与他和好。当我们去调解冲突、修复裂痕、带来合一时，我们就像天父一样，配称为"神的儿子"。和平不会自动发生，需要人去缔造。',
-          en: 'Peacemakers are not merely peace-lovers but those who actively create peace and restore relationships. God is the ultimate peacemaker—reconciling us through Christ. When we mediate conflicts and repair fractures, we act like the Father, worthy to be called "sons of God." Peace doesn\'t happen automatically; it must be made.'
+          zh: '使人和睦的人不只是爱好和平的人，而是主动去创造和平、修复关系的人。神自己就是最大的和平缔造者，藉着基督使我们与他和好。当我们去调解冲突、修复裂痕、带来合一时，我们就像天父一样，配称为"神的儿子"。和平不会自动发生，需要人去缔造。',
+          en: 'Peacemakers are not merely peace-lovers but those who actively create peace and restore relationships. God is the ultimate peacemaker, reconciling us through Christ. When we mediate conflicts and repair fractures, we act like the Father, worthy to be called "sons of God." Peace doesn\'t happen automatically; it must be made.'
         },
         question: {
           zh: '在你的家庭、教会或职场中，有没有需要你去修复的关系或调解的冲突？',
@@ -1084,8 +1084,8 @@ export const themesB6 = [
           text_en: 'Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven. Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.'
         },
         reflection: {
-          zh: '八福的最后回到了第一福的应许——天国。为义受逼迫的人有福，因为逼迫证明你站在了对的一边。耶稣甚至说我们应当"欢喜快乐"，因为天上的赏赐是大的。受苦不是失败的标志，而是跟随基督的印记。历世历代的先知和圣徒都走过这条路。',
-          en: 'The last beatitude returns to the first\'s promise—the kingdom. The persecuted for righteousness are blessed because persecution proves you stand on the right side. Jesus says to "rejoice and be glad" for the heavenly reward is great. Suffering is not failure\'s sign but the mark of following Christ.'
+          zh: '八福的最后回到了第一福的应许，天国。为义受逼迫的人有福，因为逼迫证明你站在了对的一边。耶稣甚至说我们应当"欢喜快乐"，因为天上的赏赐是大的。受苦不是失败的标志，而是跟随基督的印记。历世历代的先知和圣徒都走过这条路。',
+          en: 'The last beatitude returns to the first\'s promise, the kingdom. The persecuted for righteousness are blessed because persecution proves you stand on the right side. Jesus says to "rejoice and be glad" for the heavenly reward is great. Suffering is not failure\'s sign but the mark of following Christ.'
         },
         question: {
           zh: '你是否曾因为信仰而受到嘲笑或排斥？你能在其中欢喜快乐吗？',
@@ -1104,8 +1104,8 @@ export const themesB6 = [
           text_en: 'Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.'
         },
         reflection: {
-          zh: '盐有调味和防腐的功能。耶稣说我们是世上的盐——我们的存在应该为这个世界带来味道和保鲜。但盐若失了味，就完全无用了。基督徒若活得与世人无异，就失去了存在的意义。我们要活出盐的本质——在败坏中保持圣洁，在乏味中带来生命的滋味。',
-          en: 'Salt flavors and preserves. Jesus says we are the salt of the earth—our presence should bring flavor and preservation. But salt that loses taste is utterly useless. Christians who live no differently from the world lose their purpose. We must live out salt\'s nature—maintaining holiness amid corruption, bringing life\'s flavor amid blandness.'
+          zh: '盐有调味和防腐的功能。耶稣说我们是世上的盐，我们的存在应该为这个世界带来味道和保鲜。但盐若失了味，就完全无用了。基督徒若活得与世人无异，就失去了存在的意义。我们要活出盐的本质，在败坏中保持圣洁，在乏味中带来生命的滋味。',
+          en: 'Salt flavors and preserves. Jesus says we are the salt of the earth, our presence should bring flavor and preservation. But salt that loses taste is utterly useless. Christians who live no differently from the world lose their purpose. We must live out salt\'s nature, maintaining holiness amid corruption, bringing life\'s flavor amid blandness.'
         },
         question: {
           zh: '你在所处的环境中，是否发挥着"盐"的作用？还是已经"失了味"？',
@@ -1145,7 +1145,7 @@ export const themesB6 = [
         },
         reflection: {
           zh: '耶稣用天上的飞鸟来教导我们不要忧虑。飞鸟不种不收，天父仍然养活它们。我们比飞鸟贵重得多，天父岂不更看顾我们吗？忧虑不能使寿数多加一刻，反而偷走了今天的喜乐和平安。信靠天父的供应，不是不负责任，而是将重担交给掌管一切的神。',
-          en: 'Jesus uses birds to teach us not to worry. Birds neither sow nor reap, yet the Father feeds them. We are worth far more—will the Father not care for us even more? Worry cannot add a single hour to life; it only steals today\'s joy. Trusting the Father\'s provision is not irresponsibility but surrendering burdens to the God who controls all.'
+          en: 'Jesus uses birds to teach us not to worry. Birds neither sow nor reap, yet the Father feeds them. We are worth far more, will the Father not care for us even more? Worry cannot add a single hour to life; it only steals today\'s joy. Trusting the Father\'s provision is not irresponsibility but surrendering burdens to the God who controls all.'
         },
         question: {
           zh: '你目前最大的忧虑是什么？你能否将它交给那位连飞鸟都养活的天父？',
@@ -1153,7 +1153,7 @@ export const themesB6 = [
         },
         prayer: {
           zh: '天父，你连天上的飞鸟都养活，我在你眼中比飞鸟贵重得多。我将一切忧虑交给你，因为忧虑不能改变什么，唯有信靠你才有真平安。阿们。',
-          en: 'Father, you feed the birds, and I am worth far more. I surrender all worries to you, for anxiety changes nothing—only trusting you brings true peace. Amen.'
+          en: 'Father, you feed the birds, and I am worth far more. I surrender all worries to you, for anxiety changes nothing, only trusting you brings true peace. Amen.'
         }
       },
       {
@@ -1164,8 +1164,8 @@ export const themesB6 = [
           text_en: 'But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.'
         },
         reflection: {
-          zh: '这是耶稣给我们的生活优先次序：先求神的国和神的义。不是不管其他事，而是把神放在第一位。当我们优先追求神的旨意和公义时，其他生活所需神都会加给我们。问题往往是我们颠倒了次序——先追求物质，再考虑神。把次序摆对了，一切就对了。',
-          en: 'Jesus gives us life\'s priority: seek first God\'s kingdom and righteousness. Not ignoring everything else but putting God first. When we prioritize God\'s will, he adds all necessities. The problem is we often reverse the order—pursuing material things first, then considering God. Get the order right and everything falls into place.'
+          zh: '这是耶稣给我们的生活优先次序：先求神的国和神的义。不是不管其他事，而是把神放在第一位。当我们优先追求神的旨意和公义时，其他生活所需神都会加给我们。问题往往是我们颠倒了次序，先追求物质，再考虑神。把次序摆对了，一切就对了。',
+          en: 'Jesus gives us life\'s priority: seek first God\'s kingdom and righteousness. Not ignoring everything else but putting God first. When we prioritize God\'s will, he adds all necessities. The problem is we often reverse the order, pursuing material things first, then considering God. Get the order right and everything falls into place.'
         },
         question: {
           zh: '在你生活的优先排序中，神的国和神的义排在第几位？',
@@ -1184,8 +1184,8 @@ export const themesB6 = [
           text_en: 'Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.'
         },
         reflection: {
-          zh: '耶稣警告我们不要论断人——不是说不要分辨是非，而是不要以自以为义的态度定别人的罪。我们用什么尺度量别人，神也要用什么尺度量我们。多少教会的纷争和关系的破裂都因论断而起？在指出别人眼中的刺之前，先处理自己眼中的梁木。',
-          en: 'Jesus warns against judging—not forbidding discernment but prohibiting self-righteous condemnation. The measure we use for others will be used for us. How many church conflicts and broken relationships stem from judging? Before pointing out another\'s speck, deal with the log in your own eye.'
+          zh: '耶稣警告我们不要论断人，不是说不要分辨是非，而是不要以自以为义的态度定别人的罪。我们用什么尺度量别人，神也要用什么尺度量我们。多少教会的纷争和关系的破裂都因论断而起？在指出别人眼中的刺之前，先处理自己眼中的梁木。',
+          en: 'Jesus warns against judging, not forbidding discernment but prohibiting self-righteous condemnation. The measure we use for others will be used for us. How many church conflicts and broken relationships stem from judging? Before pointing out another\'s speck, deal with the log in your own eye.'
         },
         question: {
           zh: '你是否常常论断他人？你愿意用什么样的量器来量给别人（也量给自己）？',
@@ -1204,7 +1204,7 @@ export const themesB6 = [
           text_en: 'Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.'
         },
         reflection: {
-          zh: '这就是著名的"黄金法则"——你愿意人怎样待你，你也要怎样待人。耶稣说这一条总结了律法和先知的全部教导。这不是消极的"己所不欲，勿施于人"，而是积极的"你希望被如何对待，就主动如此对待别人"。如果每个人都这样做，世界会完全不同。',
+          zh: '这就是著名的"黄金法则"，你愿意人怎样待你，你也要怎样待人。耶稣说这一条总结了律法和先知的全部教导。这不是消极的"己所不欲，勿施于人"，而是积极的"你希望被如何对待，就主动如此对待别人"。如果每个人都这样做，世界会完全不同。',
           en: 'The famous "Golden Rule": do to others what you wish done to you. Jesus says this summarizes all the Law and Prophets. Not the passive "don\'t do what you wouldn\'t want" but the active "treat others as you wish to be treated." If everyone lived this way, the world would be entirely different.'
         },
         question: {
@@ -1224,16 +1224,16 @@ export const themesB6 = [
           text_en: 'Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.'
         },
         reflection: {
-          zh: '登山宝训以这个比喻作为总结：听道并且行道的人如聪明人建在磐石上，暴风雨来了也不倒。关键不只是"听"，而是"听了就去行"。多少人听了无数篇讲道，却从未将所听的付诸实践？真正的信仰不是头脑的知识，而是生命的根基——建立在遵行主话语的磐石上。',
-          en: 'The Sermon on the Mount concludes with this parable: those who hear and do are wise builders on rock—storms come but the house stands. The key is not just "hearing" but "hearing and doing." How many hear countless sermons yet never practice them? True faith is not head knowledge but life\'s foundation—built on the rock of obeying the Lord\'s words.'
+          zh: '登山宝训以这个比喻作为总结：听道并且行道的人如聪明人建在磐石上，暴风雨来了也不倒。关键不只是"听"，而是"听了就去行"。多少人听了无数篇讲道，却从未将所听的付诸实践？真正的信仰不是头脑的知识，而是生命的根基，建立在遵行主话语的磐石上。',
+          en: 'The Sermon on the Mount concludes with this parable: those who hear and do are wise builders on rock, storms come but the house stands. The key is not just "hearing" but "hearing and doing." How many hear countless sermons yet never practice them? True faith is not head knowledge but life\'s foundation, built on the rock of obeying the Lord\'s words.'
         },
         question: {
           zh: '你最近听到的一个教导或经文，你有没有实际地去行出来？',
-          en: 'A recent teaching or verse you heard—have you actually put it into practice?'
+          en: 'A recent teaching or verse you heard, have you actually put it into practice?'
         },
         prayer: {
           zh: '主耶稣，我不要做只听道不行道的人。求你帮助我将你的话语建立为生命的根基，不只是听见，更是去行。当风雨来袭时，我的生命必不倒塌，因为根基立在磐石上。阿们。',
-          en: 'Lord Jesus, I don\'t want to be a hearer only but a doer. Help me build on your words as my foundation—not just hearing but doing. When storms come, my life will not fall, for it is founded on the rock. Amen.'
+          en: 'Lord Jesus, I don\'t want to be a hearer only but a doer. Help me build on your words as my foundation, not just hearing but doing. When storms come, my life will not fall, for it is founded on the rock. Amen.'
         }
       }
     ]

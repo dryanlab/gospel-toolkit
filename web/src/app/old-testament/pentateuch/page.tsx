@@ -33,8 +33,8 @@ const books: BibleBook[] = [
     author_en: 'Moses',
     date: '约公元前1446-1406年',
     date_en: 'c. 1446–1406 BC',
-    theme_zh: '救赎与立约——神拯救祂的百姓',
-    theme_en: 'Redemption and Covenant — God Delivers His People',
+    theme_zh: '救赎与立约，神拯救祂的百姓',
+    theme_en: 'Redemption and Covenant, God Delivers His People',
     summary_zh: '出埃及记记载以色列人从埃及为奴之地被拯救出来，神在西奈山与百姓立约，并指示建造会幕。逾越节的羔羊预表基督的救赎。',
     summary_en: 'Exodus records Israel\'s deliverance from slavery in Egypt, God\'s covenant with His people at Sinai, and instructions for the tabernacle. The Passover lamb foreshadows the redemption in Christ.',
     keyVerse_zh: '我是耶和华你的神，曾将你从埃及地为奴之家领出来。',
@@ -50,8 +50,8 @@ const books: BibleBook[] = [
     author_en: 'Moses',
     date: '约公元前1446-1406年',
     date_en: 'c. 1446–1406 BC',
-    theme_zh: '圣洁——你们要圣洁，因为我是圣洁的',
-    theme_en: 'Holiness — Be Holy, for I Am Holy',
+    theme_zh: '圣洁，你们要圣洁，因为我是圣洁的',
+    theme_en: 'Holiness, Be Holy, for I Am Holy',
     summary_zh: '利未记详细规定了献祭制度、洁净条例和节期，教导以色列人如何以圣洁的生活来亲近圣洁的神。一切祭祀都指向基督一次永远的献祭。',
     summary_en: 'Leviticus details the sacrificial system, purity laws, and festivals, teaching Israel how to approach a holy God through holy living. All sacrifices point to Christ\'s once-for-all offering.',
     keyVerse_zh: '你们要圣洁，因为我耶和华你们的神是圣洁的。',
@@ -84,8 +84,8 @@ const books: BibleBook[] = [
     author_en: 'Moses',
     date: '约公元前1406年',
     date_en: 'c. 1406 BC',
-    theme_zh: '重申盟约——爱神、守约、蒙福',
-    theme_en: 'Covenant Renewal — Love God, Keep Covenant, Be Blessed',
+    theme_zh: '重申盟约：爱神、守约、蒙福',
+    theme_en: 'Covenant Renewal, Love God, Keep Covenant, Be Blessed',
     summary_zh: '申命记是摩西在约旦河东对新一代以色列人重申律法与盟约的讲章，核心是全心全意爱神。这卷书也是耶稣在旷野受试探时三次引用的经卷。',
     summary_en: 'Deuteronomy is Moses\' farewell address to the new generation, renewing the law and covenant east of the Jordan. Its core is wholehearted love for God. Jesus quoted this book three times when tempted in the wilderness.',
     keyVerse_zh: '以色列啊，你要听！耶和华我们神是独一的主。你要尽心、尽性、尽力爱耶和华你的神。',
@@ -101,7 +101,7 @@ export default function PentateuchPage() {
       title_zh="摩西五经"
       title_en="The Pentateuch"
       desc_zh="摩西五经是圣经的开篇，记载了神创造万物、人类堕落、洪水审判、列祖蒙召、出埃及、立约赐律法的历史，奠定了整本圣经的神学根基。"
-      desc_en="The Pentateuch opens the Bible, recording creation, the fall, the flood, the calling of the patriarchs, the Exodus, and the giving of the Law — laying the theological foundation for all of Scripture."
+      desc_en="The Pentateuch opens the Bible, recording creation, the fall, the flood, the calling of the patriarchs, the Exodus, and the giving of the Law, laying the theological foundation for all of Scripture."
       gradient="from-amber-600 to-yellow-800"
       books={books}
       backHref="/old-testament"

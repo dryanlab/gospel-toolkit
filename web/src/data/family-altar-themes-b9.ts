@@ -40,7 +40,7 @@ export const themesB9: AltarTheme[] = [
         },
         reflection: {
           zh: '哀恸不仅是为失去而悲伤，更是为罪恶和这个破碎世界而忧伤。神应许亲自安慰那些为义而哀恸的人，祂的安慰远超人间的一切慰藉。',
-          en: 'Mourning is not only grief over loss but sorrow over sin and a broken world. God promises to personally comfort those who mourn for righteousness—His comfort far surpasses any earthly consolation.',
+          en: 'Mourning is not only grief over loss but sorrow over sin and a broken world. God promises to personally comfort those who mourn for righteousness, His comfort far surpasses any earthly consolation.',
         },
         question: {
           zh: '你是否曾经历过在悲伤中感受到神特别的安慰？那是怎样的经历？',
@@ -59,8 +59,8 @@ export const themesB9: AltarTheme[] = [
           text_en: 'Blessed are the meek: for they shall inherit the earth.',
         },
         reflection: {
-          zh: '温柔是受控制的力量，是在有能力反击时选择恩慈。耶稣本身就是温柔的典范——祂有天上地下所有的权柄，却为我们甘愿受苦。温柔的人最终将承受一切。',
-          en: 'Meekness is strength under control—choosing grace when you have the power to retaliate. Jesus exemplified meekness: He held all authority yet willingly suffered for us. The meek will ultimately inherit everything.',
+          zh: '温柔是受控制的力量，是在有能力反击时选择恩慈。耶稣本身就是温柔的典范，祂有天上地下所有的权柄，却为我们甘愿受苦。温柔的人最终将承受一切。',
+          en: 'Meekness is strength under control, choosing grace when you have the power to retaliate. Jesus exemplified meekness: He held all authority yet willingly suffered for us. The meek will ultimately inherit everything.',
         },
         question: {
           zh: '在面对冲突或不公平时，你如何操练温柔而不是以牙还牙？',
@@ -68,7 +68,7 @@ export const themesB9: AltarTheme[] = [
         },
         prayer: {
           zh: '主耶稣，你是温柔谦卑的王，求你帮助我学习你的样式，在有力量时选择恩慈，在被冒犯时选择饶恕。阿们。',
-          en: 'Lord Jesus, You are the gentle and humble King. Help me learn from You—to choose grace when I have power and forgiveness when offended. Amen.',
+          en: 'Lord Jesus, You are the gentle and humble King. Help me learn from You, to choose grace when I have power and forgiveness when offended. Amen.',
         },
       },
       {
@@ -119,8 +119,8 @@ export const themesB9: AltarTheme[] = [
           text_en: 'Blessed are the pure in heart: for they shall see God.',
         },
         reflection: {
-          zh: '清心意味着内心没有分裂的忠诚——全心全意专注于神。只有当我们的心被洁净、被单一的热情所驱动时，才能真正看见神在我们生命中的作为。',
-          en: 'Purity of heart means undivided loyalty—wholehearted focus on God. Only when our hearts are cleansed and driven by a single passion can we truly see God at work in our lives.',
+          zh: '清心意味着内心没有分裂的忠诚，全心全意专注于神。只有当我们的心被洁净、被单一的热情所驱动时，才能真正看见神在我们生命中的作为。',
+          en: 'Purity of heart means undivided loyalty, wholehearted focus on God. Only when our hearts are cleansed and driven by a single passion can we truly see God at work in our lives.',
         },
         question: {
           zh: '你的心是否有分裂的忠诚？有什么事物在与神争夺你心中首位的位置？',
@@ -139,8 +139,8 @@ export const themesB9: AltarTheme[] = [
           text_en: 'Blessed are the peacemakers: for they shall be called the children of God.',
         },
         reflection: {
-          zh: '使人和睦不是回避冲突，而是积极地在关系中带来和好。神自己是最伟大的和平使者——祂差遣耶稣使我们与神和好。当我们效法祂促进和平时，就彰显了神儿女的身份。',
-          en: 'Peacemaking is not conflict avoidance but actively bringing reconciliation. God is the ultimate peacemaker—He sent Jesus to reconcile us. When we follow His example and promote peace, we reveal our identity as God\'s children.',
+          zh: '使人和睦不是回避冲突，而是积极地在关系中带来和好。神自己是最伟大的和平使者，祂差遣耶稣使我们与神和好。当我们效法祂促进和平时，就彰显了神儿女的身份。',
+          en: 'Peacemaking is not conflict avoidance but actively bringing reconciliation. God is the ultimate peacemaker, He sent Jesus to reconcile us. When we follow His example and promote peace, we reveal our identity as God\'s children.',
         },
         question: {
           zh: '在你的家庭、职场或教会中，有没有需要你主动促进和好的关系？',
@@ -179,8 +179,8 @@ export const themesB9: AltarTheme[] = [
           text_en: 'Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.',
         },
         reflection: {
-          zh: '盐能防腐、调味、洁净。基督徒在世界中就当如盐一般——防止道德败坏，给生活带来美好的味道。但盐若失了味就毫无价值，我们的生命也必须保持属灵的活力。',
-          en: 'Salt preserves, flavors, and purifies. Christians should be like salt in the world—preventing moral decay and bringing goodness to life. But salt that loses its flavor is worthless; our lives must maintain spiritual vitality.',
+          zh: '盐能防腐、调味、洁净。基督徒在世界中就当如盐一般，防止道德败坏，给生活带来美好的味道。但盐若失了味就毫无价值，我们的生命也必须保持属灵的活力。',
+          en: 'Salt preserves, flavors, and purifies. Christians should be like salt in the world, preventing moral decay and bringing goodness to life. But salt that loses its flavor is worthless; our lives must maintain spiritual vitality.',
         },
         question: {
           zh: '你的生命在哪些方面正在发挥"盐"的作用？有没有"失味"的危险？',
@@ -280,7 +280,7 @@ export const themesB9: AltarTheme[] = [
         },
         reflection: {
           zh: '这条"金律"概括了整本旧约律法的精髓。它不是被动的"不要伤害人"，而是主动的"积极善待人"。如果每个人都活出这条原则，世界将会何等不同。',
-          en: 'This "Golden Rule" summarizes the essence of the Old Testament law. It is not passive—"do no harm"—but active—"do good." If everyone lived by this principle, how different the world would be.',
+          en: 'This "Golden Rule" summarizes the essence of the Old Testament law. It is not passive: "do no harm", but active: "do good." If everyone lived by this principle, how different the world would be.',
         },
         question: {
           zh: '今天你可以主动做一件事来善待他人，就像你希望别人善待你一样吗？',
@@ -300,7 +300,7 @@ export const themesB9: AltarTheme[] = [
         },
         reflection: {
           zh: '登山宝训的结语提醒我们：听道必须行道。信仰不是理论知识，而是生命实践。那些将耶稣的话付诸行动的人，就像建在磐石上的房子，无论遭遇什么风浪都能站立得稳。',
-          en: 'The conclusion of the Sermon on the Mount reminds us: hearing must lead to doing. Faith is not theoretical knowledge but lived practice. Those who put Jesus\' words into action are like a house built on rock—standing firm through every storm.',
+          en: 'The conclusion of the Sermon on the Mount reminds us: hearing must lead to doing. Faith is not theoretical knowledge but lived practice. Those who put Jesus\' words into action are like a house built on rock, standing firm through every storm.',
         },
         question: {
           zh: '回顾登山宝训的教导，哪一条是你最需要从"听"转化为"行"的？',
@@ -328,8 +328,8 @@ export const themesB9: AltarTheme[] = [
           text_en: 'And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.',
         },
         reflection: {
-          zh: '永恒的道成为有血有肉的人，住在我们中间。这是神最大的谦卑，也是最大的爱——祂不是远远地观望，而是亲自进入我们的世界，充满恩典和真理。',
-          en: 'The eternal Word became flesh and blood, dwelling among us. This is God\'s greatest humility and love—He did not watch from afar but entered our world personally, full of grace and truth.',
+          zh: '永恒的道成为有血有肉的人，住在我们中间。这是神最大的谦卑，也是最大的爱，祂不是远远地观望，而是亲自进入我们的世界，充满恩典和真理。',
+          en: 'The eternal Word became flesh and blood, dwelling among us. This is God\'s greatest humility and love, He did not watch from afar but entered our world personally, full of grace and truth.',
         },
         question: {
           zh: '"道成肉身"对你的日常生活意味着什么？神的同在如何改变你面对困难的方式？',
@@ -348,8 +348,8 @@ export const themesB9: AltarTheme[] = [
           text_en: 'The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.',
         },
         reflection: {
-          zh: '施洗约翰一语道出了耶稣来到世间的核心使命——作为神的羔羊，为全人类的罪献上自己。旧约中无数的羔羊献祭都指向这一位终极的羔羊。',
-          en: 'John the Baptist declared Jesus\' core mission—to be the Lamb of God, offering Himself for all humanity\'s sin. Every lamb sacrifice in the Old Testament pointed to this ultimate Lamb.',
+          zh: '施洗约翰一语道出了耶稣来到世间的核心使命，作为神的羔羊，为全人类的罪献上自己。旧约中无数的羔羊献祭都指向这一位终极的羔羊。',
+          en: 'John the Baptist declared Jesus\' core mission, to be the Lamb of God, offering Himself for all humanity\'s sin. Every lamb sacrifice in the Old Testament pointed to this ultimate Lamb.',
         },
         question: {
           zh: '耶稣作为"神的羔羊"为你承担了罪的代价，这对你意味着什么？',
@@ -388,8 +388,8 @@ export const themesB9: AltarTheme[] = [
           text_en: 'Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again: But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.',
         },
         reflection: {
-          zh: '世界上一切的满足都是暂时的——喝了还要再渴。但耶稣所赐的活水能从心底涌出，带来永恒的满足。这活水就是圣灵的内住，源源不断地供应生命。',
-          en: 'Every worldly satisfaction is temporary—drink and you thirst again. But the living water Jesus gives springs up from within, bringing eternal satisfaction. This living water is the indwelling Spirit, endlessly supplying life.',
+          zh: '世界上一切的满足都是暂时的，喝了还要再渴。但耶稣所赐的活水能从心底涌出，带来永恒的满足。这活水就是圣灵的内住，源源不断地供应生命。',
+          en: 'Every worldly satisfaction is temporary, drink and you thirst again. But the living water Jesus gives springs up from within, bringing eternal satisfaction. This living water is the indwelling Spirit, endlessly supplying life.',
         },
         question: {
           zh: '你是否还在追求世界的"水"来满足内心的渴望？耶稣的活水如何改变了你的渴求？',
@@ -408,8 +408,8 @@ export const themesB9: AltarTheme[] = [
           text_en: 'And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.',
         },
         reflection: {
-          zh: '耶稣宣告自己是生命的粮——不是暂时填饱肚子的食物，而是供应灵魂永恒需要的粮食。来到耶稣面前的人不再饥饿，信靠祂的人永远不渴。祂是我们生命的根本满足。',
-          en: 'Jesus declares Himself the bread of life—not temporary food for the stomach but bread that satisfies the soul\'s eternal need. Those who come to Jesus will never hunger; those who believe will never thirst. He is our life\'s fundamental satisfaction.',
+          zh: '耶稣宣告自己是生命的粮，不是暂时填饱肚子的食物，而是供应灵魂永恒需要的粮食。来到耶稣面前的人不再饥饿，信靠祂的人永远不渴。祂是我们生命的根本满足。',
+          en: 'Jesus declares Himself the bread of life, not temporary food for the stomach but bread that satisfies the soul\'s eternal need. Those who come to Jesus will never hunger; those who believe will never thirst. He is our life\'s fundamental satisfaction.',
         },
         question: {
           zh: '你每天是否在耶稣这"生命的粮"中得到喂养？你如何保持这种灵里的饱足？',
@@ -448,8 +448,8 @@ export const themesB9: AltarTheme[] = [
           text_en: 'And ye shall know the truth, and the truth shall make you free.',
         },
         reflection: {
-          zh: '真正的自由不是随心所欲，而是被真理释放。世界提供虚假的自由，最终导致捆绑；但耶稣的真理打破罪的锁链，带来真正的自由——从罪的权势、恐惧和谎言中释放。',
-          en: 'True freedom is not doing whatever you want but being liberated by truth. The world offers false freedom that leads to bondage; Jesus\' truth breaks sin\'s chains and brings true freedom—release from sin\'s power, fear, and lies.',
+          zh: '真正的自由不是随心所欲，而是被真理释放。世界提供虚假的自由，最终导致捆绑；但耶稣的真理打破罪的锁链，带来真正的自由：从罪的权势、恐惧和谎言中释放。',
+          en: 'True freedom is not doing whatever you want but being liberated by truth. The world offers false freedom that leads to bondage; Jesus\' truth breaks sin\'s chains and brings true freedom, release from sin\'s power, fear, and lies.',
         },
         question: {
           zh: '你生命中有哪些谎言或捆绑需要被神的真理释放？',
@@ -528,8 +528,8 @@ export const themesB9: AltarTheme[] = [
           text_en: 'If I then, your Lord and Master, have washed your feet; ye also ought to wash one another’s feet. For I have given you an example, that ye should do as I have done to you.',
         },
         reflection: {
-          zh: '万王之王跪下来洗门徒的脚——这是颠覆性的领导模式。耶稣用行动教导我们：真正的伟大不在于被人服侍，而在于服侍他人。祂给我们留下了谦卑服侍的榜样。',
-          en: 'The King of kings knelt to wash His disciples\' feet—a revolutionary model of leadership. Jesus taught through action: true greatness lies not in being served but in serving others. He left us an example of humble service.',
+          zh: '万王之王跪下来洗门徒的脚，这是颠覆性的领导模式。耶稣用行动教导我们：真正的伟大不在于被人服侍，而在于服侍他人。祂给我们留下了谦卑服侍的榜样。',
+          en: 'The King of kings knelt to wash His disciples\' feet, a revolutionary model of leadership. Jesus taught through action: true greatness lies not in being served but in serving others. He left us an example of humble service.',
         },
         question: {
           zh: '你愿意放下身段，像耶稣一样谦卑地服侍身边的人吗？可以从什么具体行动开始？',
@@ -549,7 +549,7 @@ export const themesB9: AltarTheme[] = [
         },
         reflection: {
           zh: '这是耶稣最明确的自我宣告之一：祂不仅指向道路，祂就是道路；祂不仅教导真理，祂就是真理；祂不仅赐下生命，祂就是生命。到天父那里去的唯一途径就是通过耶稣。',
-          en: 'This is one of Jesus\' clearest self-declarations: He doesn\'t just point to the way—He is the way; He doesn\'t just teach truth—He is the truth; He doesn\'t just give life—He is the life. The only way to the Father is through Jesus.',
+          en: 'This is one of Jesus\' clearest self-declarations: He doesn\'t just point to the way, He is the way; He doesn\'t just teach truth, He is the truth; He doesn\'t just give life, He is the life. The only way to the Father is through Jesus.',
         },
         question: {
           zh: '耶稣说祂是唯一的道路，这对你的信仰和你与他人分享福音有什么影响？',
@@ -568,8 +568,8 @@ export const themesB9: AltarTheme[] = [
           text_en: 'I am the true vine, and my Father is the husbandman.',
         },
         reflection: {
-          zh: '枝子离了葡萄树就无法存活，更不能结果子。耶稣用这个比喻说明与祂保持亲密关系的重要性——常在祂里面，让祂的生命汁液流淌在我们里面，自然就会结出丰盛的果子。',
-          en: 'A branch cannot survive apart from the vine, let alone bear fruit. Jesus uses this metaphor to show the importance of an intimate relationship with Him—abide in Him, let His life flow through us, and we will naturally bear abundant fruit.',
+          zh: '枝子离了葡萄树就无法存活，更不能结果子。耶稣用这个比喻说明与祂保持亲密关系的重要性，常在祂里面，让祂的生命汁液流淌在我们里面，自然就会结出丰盛的果子。',
+          en: 'A branch cannot survive apart from the vine, let alone bear fruit. Jesus uses this metaphor to show the importance of an intimate relationship with Him, abide in Him, let His life flow through us, and we will naturally bear abundant fruit.',
         },
         question: {
           zh: '你与耶稣的关系是否像枝子连于葡萄树那样紧密？你如何操练"常在主里面"？',
@@ -588,8 +588,8 @@ export const themesB9: AltarTheme[] = [
           text_en: 'Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.',
         },
         reflection: {
-          zh: '耶稣的平安与世界给的平安完全不同。世界的平安取决于环境，但耶稣的平安超越环境——即使在风暴中也能安然。这平安是祂亲自留给门徒的遗产，也是给我们的礼物。',
-          en: 'Jesus\' peace is entirely different from the world\'s peace. The world\'s peace depends on circumstances, but Jesus\' peace transcends them—calm even in the storm. This peace is His personal legacy to His disciples and His gift to us.',
+          zh: '耶稣的平安与世界给的平安完全不同。世界的平安取决于环境，但耶稣的平安超越环境，即使在风暴中也能安然。这平安是祂亲自留给门徒的遗产，也是给我们的礼物。',
+          en: 'Jesus\' peace is entirely different from the world\'s peace. The world\'s peace depends on circumstances, but Jesus\' peace transcends them, calm even in the storm. This peace is His personal legacy to His disciples and His gift to us.',
         },
         question: {
           zh: '你目前的生活中，哪些方面最需要耶稣所赐的平安？',

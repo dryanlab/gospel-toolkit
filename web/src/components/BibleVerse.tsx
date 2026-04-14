@@ -334,7 +334,7 @@ export default function BibleVerse({ verse: rawVerse }: Props) {
             <>
               <span className="block text-[var(--color-text)] font-serif-cn mb-2 leading-relaxed">{verseData.zh}</span>
               <span className="block text-[var(--color-text-secondary)] italic text-xs leading-relaxed">{verseData.en}</span>
-              <span className="block text-[var(--color-text-secondary)]/50 text-[10px] mt-2">— {zhLabel} {enLabel !== zhLabel ? enLabel : ''}（和合本 / KJV）</span>
+              <span className="block text-[var(--color-text-secondary)]/50 text-[10px] mt-2">, {zhLabel} {enLabel !== zhLabel ? enLabel : ''}（和合本 / KJV）</span>
             </>
           ) : (
             <span className="text-[var(--color-text-secondary)] italic text-xs">📖 {zhLabel} {enLabel !== zhLabel ? enLabel : ''}</span>

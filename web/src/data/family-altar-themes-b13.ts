@@ -19,8 +19,8 @@ export const themesB13: AltarTheme[] = [
           text_en: 'And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.',
         },
         reflection: {
-          zh: '这是圣经中第一个关于救主的应许，被称为"原始福音"。在人类堕落的那一刻，神已经预备了拯救的计划。女人的后裔——耶稣基督——将彻底击败撒但的权势。道成肉身的计划从创世之初就已定下。',
-          en: 'This is the first messianic promise in Scripture, called the "protoevangelium." At the very moment of humanity\'s fall, God already had a plan of salvation. The offspring of the woman—Jesus Christ—would decisively crush Satan\'s power. The plan of incarnation was set from the very beginning.',
+          zh: '这是圣经中第一个关于救主的应许，被称为"原始福音"。在人类堕落的那一刻，神已经预备了拯救的计划。女人的后裔，耶稣基督，将彻底击败撒但的权势。道成肉身的计划从创世之初就已定下。',
+          en: 'This is the first messianic promise in Scripture, called the "protoevangelium." At the very moment of humanity\'s fall, God already had a plan of salvation. The offspring of the woman, Jesus Christ, would decisively crush Satan\'s power. The plan of incarnation was set from the very beginning.',
         },
         question: {
           zh: '神在人犯罪后立刻赐下应许，这告诉我们神是怎样的一位神？',
@@ -40,15 +40,15 @@ export const themesB13: AltarTheme[] = [
         },
         reflection: {
           zh: '外邦先知巴兰虽被雇来咒诅以色列，却在圣灵的感动下说出了弥赛亚的预言。那颗出于雅各的星，预指着伯利恒之星和君王耶稣的降临。神的计划不受任何人的阻挡，连仇敌也要为祂的旨意效力。',
-          en: 'Balaam, a pagan prophet hired to curse Israel, was moved by the Spirit to prophesy about the Messiah. The star out of Jacob foreshadowed the Star of Bethlehem and the coming of King Jesus. God\'s plan cannot be thwarted—even enemies serve His purposes.',
+          en: 'Balaam, a pagan prophet hired to curse Israel, was moved by the Spirit to prophesy about the Messiah. The star out of Jacob foreshadowed the Star of Bethlehem and the coming of King Jesus. God\'s plan cannot be thwarted, even enemies serve His purposes.',
         },
         question: {
           zh: '神使用巴兰这位外邦先知来传递弥赛亚的预言，这对我们理解神的主权有什么启示？',
           en: 'What does God\'s use of Balaam, a pagan prophet, to deliver a messianic prophecy teach us about His sovereignty?',
         },
         prayer: {
-          zh: '主啊，祢是掌管万有的神，没有任何势力能阻挡祢的计划。感谢祢差遣那颗明亮的晨星——耶稣基督——来照亮我们的生命。愿我们在祂的光中行走，直到永远。奉耶稣的名祷告，阿们。',
-          en: 'Lord, You are sovereign over all, and no power can hinder Your plan. Thank You for sending that bright Morning Star—Jesus Christ—to illuminate our lives. May we walk in His light forever. In Jesus\' name, amen.',
+          zh: '主啊，祢是掌管万有的神，没有任何势力能阻挡祢的计划。感谢祢差遣那颗明亮的晨星，耶稣基督，来照亮我们的生命。愿我们在祂的光中行走，直到永远。奉耶稣的名祷告，阿们。',
+          en: 'Lord, You are sovereign over all, and no power can hinder Your plan. Thank You for sending that bright Morning Star, Jesus Christ, to illuminate our lives. May we walk in His light forever. In Jesus\' name, amen.',
         },
       },
       {
@@ -63,8 +63,8 @@ export const themesB13: AltarTheme[] = [
           en: '"Immanuel" means "God with us." This is the heart of Christmas: God is not distant but comes to dwell among us. The virgin birth is a supernatural sign revealing that Jesus is fully God and fully man. The incarnation is God\'s deepest condescension and greatest love.',
         },
         question: {
-          zh: '"以马内利——神与我们同在"这个名字，在你目前的生活处境中有什么特别的意义？',
-          en: 'What special meaning does the name "Immanuel—God with us" hold for your current life situation?',
+          zh: '"以马内利，神与我们同在"这个名字，在你目前的生活处境中有什么特别的意义？',
+          en: 'What special meaning does the name "Immanuel, God with us" hold for your current life situation?',
         },
         prayer: {
           zh: '以马内利的神，感谢祢不是遥不可及的神，而是亲自来到我们中间，与我们同在。在孤单的时候，祢是我们的陪伴；在困难的时候，祢是我们的力量。愿我们时刻意识到祢的同在。奉耶稣的名祷告，阿们。',
@@ -83,8 +83,8 @@ export const themesB13: AltarTheme[] = [
           en: 'This verse reveals the mystery of the incarnation: a child, yet bearing the titles of Almighty God. He is Wonderful Counselor, giving us wisdom; Mighty God, possessing infinite power; Everlasting Father, caring for us forever; Prince of Peace, granting true peace. The baby in the manger is the King of the universe.',
         },
         question: {
-          zh: '奇妙策士、全能的神、永在的父、和平的君——这四个名称中，哪一个最触动你现在的心？为什么？',
-          en: 'Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace—which of these four titles speaks most to your heart right now, and why?',
+          zh: '奇妙策士、全能的神、永在的父、和平的君，这四个名称中，哪一个最触动你现在的心？为什么？',
+          en: 'Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace, which of these four titles speaks most to your heart right now, and why?',
         },
         prayer: {
           zh: '奇妙的主，祢是我们的策士、全能的神、永在的父、和平的君。我们将一切忧虑和重担交给祢，因为祢的肩头能担当一切。求祢的平安充满我们的心和家庭。奉耶稣的名祷告，阿们。',
@@ -99,8 +99,8 @@ export const themesB13: AltarTheme[] = [
           text_en: 'But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.',
         },
         reflection: {
-          zh: '神选择了小小的伯利恒，而不是荣耀的耶路撒冷，作为弥赛亚的诞生地。这正是神做事的方式——祂拣选卑微的，使强壮的羞愧。然而这位从小城出来的，祂的根源却是从亘古太初就有的永恒之神。',
-          en: 'God chose tiny Bethlehem, not glorious Jerusalem, as the Messiah\'s birthplace. This is God\'s way—He chooses the lowly to shame the strong. Yet the one coming from this small town has origins from of old, from ancient days—the eternal God Himself.',
+          zh: '神选择了小小的伯利恒，而不是荣耀的耶路撒冷，作为弥赛亚的诞生地。这正是神做事的方式，祂拣选卑微的，使强壮的羞愧。然而这位从小城出来的，祂的根源却是从亘古太初就有的永恒之神。',
+          en: 'God chose tiny Bethlehem, not glorious Jerusalem, as the Messiah\'s birthplace. This is God\'s way, He chooses the lowly to shame the strong. Yet the one coming from this small town has origins from of old, from ancient days, the eternal God Himself.',
         },
         question: {
           zh: '神选择在小城伯利恒成就大事，这对我们看待自己的"渺小"有什么鼓励？',
@@ -127,8 +127,8 @@ export const themesB13: AltarTheme[] = [
           en: 'Mary was an ordinary young woman chosen for an extraordinary mission. Has God ever done something unexpected in your life?',
         },
         prayer: {
-          zh: '天父，感谢祢拣选平凡的人来成就祢不平凡的计划。感谢祢赐下耶稣——祢的拯救。求祢给我们马利亚那样顺服的心，甘心成为祢手中的器皿。奉耶稣的名祷告，阿们。',
-          en: 'Heavenly Father, thank You for choosing ordinary people for Your extraordinary plans. Thank You for giving us Jesus—Your salvation. Grant us Mary\'s obedient heart, willing to be instruments in Your hands. In Jesus\' name, amen.',
+          zh: '天父，感谢祢拣选平凡的人来成就祢不平凡的计划。感谢祢赐下耶稣，祢的拯救。求祢给我们马利亚那样顺服的心，甘心成为祢手中的器皿。奉耶稣的名祷告，阿们。',
+          en: 'Heavenly Father, thank You for choosing ordinary people for Your extraordinary plans. Thank You for giving us Jesus, Your salvation. Grant us Mary\'s obedient heart, willing to be instruments in Your hands. In Jesus\' name, amen.',
         },
       },
       {
@@ -159,8 +159,8 @@ export const themesB13: AltarTheme[] = [
           text_en: 'But while he thought on these things, behold, the angel of the LORD appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost. And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins. Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying, Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.',
         },
         reflection: {
-          zh: '约瑟面临艰难的抉择，但天使的话语给了他信心和方向。"耶稣"这个名字揭示了道成肉身的核心目的——将百姓从罪恶里救出来。马太特别指出这应验了以赛亚的预言，说明神的应许从不落空。约瑟的顺服也是圣诞故事中不可或缺的一部分。',
-          en: 'Joseph faced a difficult decision, but the angel\'s words gave him faith and direction. The name "Jesus" reveals the core purpose of the incarnation—to save His people from their sins. Matthew points out that this fulfilled Isaiah\'s prophecy, showing that God\'s promises never fail. Joseph\'s obedience is an essential part of the Christmas story.',
+          zh: '约瑟面临艰难的抉择，但天使的话语给了他信心和方向。"耶稣"这个名字揭示了道成肉身的核心目的，将百姓从罪恶里救出来。马太特别指出这应验了以赛亚的预言，说明神的应许从不落空。约瑟的顺服也是圣诞故事中不可或缺的一部分。',
+          en: 'Joseph faced a difficult decision, but the angel\'s words gave him faith and direction. The name "Jesus" reveals the core purpose of the incarnation, to save His people from their sins. Matthew points out that this fulfilled Isaiah\'s prophecy, showing that God\'s promises never fail. Joseph\'s obedience is an essential part of the Christmas story.',
         },
         question: {
           zh: '约瑟在困惑和压力中选择了顺服神。当你面对不理解的处境时，你如何信靠神的带领？',
@@ -168,7 +168,7 @@ export const themesB13: AltarTheme[] = [
         },
         prayer: {
           zh: '主啊，求祢赐给我们约瑟那样的信心和顺服。当我们面对不明白的事情时，帮助我们信靠祢的话语和应许。感谢祢差遣耶稣来拯救我们脱离罪恶，这是最美好的圣诞礼物。奉耶稣的名祷告，阿们。',
-          en: 'Lord, grant us faith and obedience like Joseph\'s. When we face things we don\'t understand, help us trust Your Word and promises. Thank You for sending Jesus to save us from our sins—the most wonderful Christmas gift. In Jesus\' name, amen.',
+          en: 'Lord, grant us faith and obedience like Joseph\'s. When we face things we don\'t understand, help us trust Your Word and promises. Thank You for sending Jesus to save us from our sins, the most wonderful Christmas gift. In Jesus\' name, amen.',
         },
       },
       {
@@ -179,8 +179,8 @@ export const themesB13: AltarTheme[] = [
           text_en: 'And so it was, that, while they were there, the days were accomplished that she should be delivered. And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.',
         },
         reflection: {
-          zh: '宇宙的创造者降生在最卑微的环境中——没有宫殿，没有皇室的接待，只有一个马槽。"客店里没有地方"不仅是历史事实，也是属灵的写照：这个世界常常没有给耶稣留下位置。然而神的荣耀恰恰在卑微中彰显，这就是道成肉身的奇妙。',
-          en: 'The Creator of the universe was born in the humblest circumstances—no palace, no royal reception, just a manger. "No place in the inn" is not only historical fact but a spiritual picture: the world often has no room for Jesus. Yet God\'s glory shines precisely in humility—this is the wonder of the incarnation.',
+          zh: '宇宙的创造者降生在最卑微的环境中，没有宫殿，没有皇室的接待，只有一个马槽。"客店里没有地方"不仅是历史事实，也是属灵的写照：这个世界常常没有给耶稣留下位置。然而神的荣耀恰恰在卑微中彰显，这就是道成肉身的奇妙。',
+          en: 'The Creator of the universe was born in the humblest circumstances, no palace, no royal reception, just a manger. "No place in the inn" is not only historical fact but a spiritual picture: the world often has no room for Jesus. Yet God\'s glory shines precisely in humility, this is the wonder of the incarnation.',
         },
         question: {
           zh: '在你的生活中，你有没有给耶稣留下足够的"位置"？什么占据了祂应有的空间？',
@@ -199,8 +199,8 @@ export const themesB13: AltarTheme[] = [
           text_en: 'And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people. For unto you is born this day in the city of David a Saviour, which is Christ the Lord.',
         },
         reflection: {
-          zh: '天使把这"大喜的信息"首先报给了卑微的牧羊人，而不是宗教领袖或政治权贵。这福音是"关乎万民的"——不分贫富、不分种族、不分地位。救主、基督、主——三个称号概括了耶稣的身份：祂拯救我们、被神膏立、掌管一切。',
-          en: 'The angel delivered this "good news of great joy" first to humble shepherds, not religious leaders or political elites. This gospel is "for all the people"—regardless of wealth, race, or status. Savior, Christ, Lord—three titles summarize who Jesus is: He saves us, is anointed by God, and reigns over all.',
+          zh: '天使把这"大喜的信息"首先报给了卑微的牧羊人，而不是宗教领袖或政治权贵。这福音是"关乎万民的"，不分贫富、不分种族、不分地位。救主、基督、主，三个称号概括了耶稣的身份：祂拯救我们、被神膏立、掌管一切。',
+          en: 'The angel delivered this "good news of great joy" first to humble shepherds, not religious leaders or political elites. This gospel is "for all the people", regardless of wealth, race, or status. Savior, Christ, Lord, three titles summarize who Jesus is: He saves us, is anointed by God, and reigns over all.',
         },
         question: {
           zh: '天使说这好消息是"关乎万民的"。你身边有谁还没有听到这个大喜的信息？',
@@ -227,8 +227,8 @@ export const themesB13: AltarTheme[] = [
           en: 'How is the "peace" Jesus brings different from the "peace" the world pursues? Have you experienced this peace from God?',
         },
         prayer: {
-          zh: '荣耀的神，天使为祢的降生歌唱，我们也要加入这赞美的行列！感谢祢藉着耶稣赐给我们真正的平安——与祢和好的平安。愿这平安充满我们的心，也从我们流向周围的人。奉耶稣的名祷告，阿们。',
-          en: 'Glorious God, the angels sang at Your birth, and we join in their praise! Thank You for granting us true peace through Jesus—the peace of reconciliation with You. May this peace fill our hearts and flow from us to those around us. In Jesus\' name, amen.',
+          zh: '荣耀的神，天使为祢的降生歌唱，我们也要加入这赞美的行列！感谢祢藉着耶稣赐给我们真正的平安，与祢和好的平安。愿这平安充满我们的心，也从我们流向周围的人。奉耶稣的名祷告，阿们。',
+          en: 'Glorious God, the angels sang at Your birth, and we join in their praise! Thank You for granting us true peace through Jesus, the peace of reconciliation with You. May this peace fill our hearts and flow from us to those around us. In Jesus\' name, amen.',
         },
       },
       {
@@ -239,16 +239,16 @@ export const themesB13: AltarTheme[] = [
           text_en: 'When they saw the star, they rejoiced with exceeding great joy. And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.',
         },
         reflection: {
-          zh: '博士们不远千里来朝拜婴孩耶稣，献上最珍贵的礼物。黄金象征君王的身份，乳香象征祭司的职分，没药预表祂将来的受苦与死亡。真正的敬拜总是伴随着代价——付出时间、旅程和最好的礼物。圣诞的本质就是敬拜那位道成肉身的王。',
-          en: 'The wise men traveled great distances to worship the baby Jesus, offering their most precious gifts. Gold symbolizes His kingship, frankincense His priestly role, and myrrh foreshadows His suffering and death. True worship always involves cost—time, journey, and our best gifts. The essence of Christmas is worshiping the incarnate King.',
+          zh: '博士们不远千里来朝拜婴孩耶稣，献上最珍贵的礼物。黄金象征君王的身份，乳香象征祭司的职分，没药预表祂将来的受苦与死亡。真正的敬拜总是伴随着代价：付出时间、旅程和最好的礼物。圣诞的本质就是敬拜那位道成肉身的王。',
+          en: 'The wise men traveled great distances to worship the baby Jesus, offering their most precious gifts. Gold symbolizes His kingship, frankincense His priestly role, and myrrh foreshadows His suffering and death. True worship always involves cost, time, journey, and our best gifts. The essence of Christmas is worshiping the incarnate King.',
         },
         question: {
           zh: '博士们献上了他们最宝贵的礼物。你愿意在这个圣诞季节，将什么"最好的"献给耶稣？',
           en: 'The wise men offered their most precious gifts. What "best" are you willing to offer Jesus this Christmas season?',
         },
         prayer: {
-          zh: '主耶稣，我们也像博士一样来到祢面前敬拜祢。我们愿意将最好的献给祢——我们的时间、才能、财物，以及我们整个的心。祢配得一切的尊崇和赞美。奉耶稣的名祷告，阿们。',
-          en: 'Lord Jesus, like the wise men, we come before You to worship. We offer You our best—our time, talents, resources, and our whole hearts. You are worthy of all honor and praise. In Jesus\' name, amen.',
+          zh: '主耶稣，我们也像博士一样来到祢面前敬拜祢。我们愿意将最好的献给祢：我们的时间、才能、财物，以及我们整个的心。祢配得一切的尊崇和赞美。奉耶稣的名祷告，阿们。',
+          en: 'Lord Jesus, like the wise men, we come before You to worship. We offer You our best, our time, talents, resources, and our whole hearts. You are worthy of all honor and praise. In Jesus\' name, amen.',
         },
       },
       {
@@ -259,12 +259,12 @@ export const themesB13: AltarTheme[] = [
           text_en: 'And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.',
         },
         reflection: {
-          zh: '这是整本圣经对道成肉身最精炼的表达。"道"就是神自己，祂"成了肉身"——永恒进入时间，无限进入有限，荣耀进入卑微。"住在我们中间"原文有"支搭帐幕"之意，如同旧约神的帐幕在以色列人中间。祂充满恩典和真理，使我们得见神的荣光。',
-          en: 'This is Scripture\'s most concise expression of the incarnation. The "Word" is God Himself who "became flesh"—eternity entering time, the infinite entering the finite, glory entering humility. "Dwelt among us" literally means "tabernacled," like God\'s tabernacle among Israel. Full of grace and truth, He reveals God\'s glory to us.',
+          zh: '这是整本圣经对道成肉身最精炼的表达。"道"就是神自己，祂"成了肉身"，永恒进入时间，无限进入有限，荣耀进入卑微。"住在我们中间"原文有"支搭帐幕"之意，如同旧约神的帐幕在以色列人中间。祂充满恩典和真理，使我们得见神的荣光。',
+          en: 'This is Scripture\'s most concise expression of the incarnation. The "Word" is God Himself who "became flesh", eternity entering time, the infinite entering the finite, glory entering humility. "Dwelt among us" literally means "tabernacled," like God\'s tabernacle among Israel. Full of grace and truth, He reveals God\'s glory to us.',
         },
         question: {
-          zh: '"充充满满地有恩典有真理"——在你的信仰经历中，你更多经历到的是神的恩典还是真理？如何在两者中保持平衡？',
-          en: '"Full of grace and truth"—in your faith journey, have you experienced more of God\'s grace or His truth? How do you maintain balance between the two?',
+          zh: '"充充满满地有恩典有真理"，在你的信仰经历中，你更多经历到的是神的恩典还是真理？如何在两者中保持平衡？',
+          en: '"Full of grace and truth", in your faith journey, have you experienced more of God\'s grace or His truth? How do you maintain balance between the two?',
         },
         prayer: {
           zh: '奇妙的主，祢是太初的道，竟愿意成为肉身住在我们中间。祢充充满满地有恩典有真理，我们渴望更多见到祢的荣光。求祢的恩典和真理充满我们的生命和家庭。奉耶稣的名祷告，阿们。',
@@ -279,8 +279,8 @@ export const themesB13: AltarTheme[] = [
           text_en: 'But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, To redeem them that were under the law, that we might receive the adoption of sons.',
         },
         reflection: {
-          zh: '"时候满足"说明道成肉身不是偶然，而是神在历史中精确计划的时刻。神的儿子"为女子所生"——完全进入人类的处境；"生在律法以下"——完全承受律法的要求。目的是双重的：把我们从律法的咒诅中赎出来，并赐给我们儿子的名分。圣诞是一个领养的故事——我们被接纳进入神的家。',
-          en: '"The fullness of time" shows the incarnation was not accidental but God\'s precisely planned moment in history. God\'s Son was "born of woman"—fully entering the human condition; "born under the law"—fully bearing the law\'s demands. The purpose is twofold: to redeem us from the law\'s curse and to grant us adoption as sons. Christmas is an adoption story—we are welcomed into God\'s family.',
+          zh: '"时候满足"说明道成肉身不是偶然，而是神在历史中精确计划的时刻。神的儿子"为女子所生"，完全进入人类的处境；"生在律法以下"，完全承受律法的要求。目的是双重的：把我们从律法的咒诅中赎出来，并赐给我们儿子的名分。圣诞是一个领养的故事，我们被接纳进入神的家。',
+          en: '"The fullness of time" shows the incarnation was not accidental but God\'s precisely planned moment in history. God\'s Son was "born of woman", fully entering the human condition; "born under the law", fully bearing the law\'s demands. The purpose is twofold: to redeem us from the law\'s curse and to grant us adoption as sons. Christmas is an adoption story, we are welcomed into God\'s family.',
         },
         question: {
           zh: '"得着儿子的名分"意味着我们不再是奴仆，而是神家里的儿女。这个身份如何改变你看待自己的方式？',

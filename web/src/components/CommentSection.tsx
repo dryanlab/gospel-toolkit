@@ -77,7 +77,7 @@ export default function CommentSection({ articleId }: CommentSectionProps) {
                   &ldquo;{c.content}&rdquo;
                 </p>
                 <p className="text-xs text-[var(--color-text-secondary)] mt-2 text-right">
-                  —— {c.name}{c.city ? '，' + c.city : ''} · {c.date}
+                  ， {c.name}{c.city ? '，' + c.city : ''} · {c.date}
                 </p>
               </div>
             ))}

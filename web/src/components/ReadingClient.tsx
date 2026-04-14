@@ -112,7 +112,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
   const [readCountState, setReadCountState] = useState(0);
 
   useEffect(() => {
-    // D1 readings data disabled — using static data only until D1 is repopulated with verified full content
+    // D1 readings data disabled, using static data only until D1 is repopulated with verified full content
     // fetchReadingsList(bookEn).then(...).catch(...)
     void 0;
   }, []);
@@ -128,7 +128,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
   useEffect(() => {
     if (staticCh && isChPublished) {
       setCh(staticCh);
-      // D1 readings data is unreliable (truncated content) — disabled until D1 is repopulated with full data
+      // D1 readings data is unreliable (truncated content), disabled until D1 is repopulated with full data
       // fetchReading(bookEn, staticCh.chapter).then(...).catch(...)
       void 0; // use static data only
     } else {

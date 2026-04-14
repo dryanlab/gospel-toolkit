@@ -45,7 +45,7 @@ export default function SubscribeBar() {
         每日灵修 · 圣徒伴读 · 圣徒来信，新内容第一时间送到您的邮箱
       </p>
       <p className="text-center text-stone-500 text-xs mb-4">
-        Daily devotions · Bible readings · Saints&apos; letters — delivered to your inbox
+        Daily devotions · Bible readings · Saints&apos; letters, delivered to your inbox
       </p>
 
       {status === 'success' ? (

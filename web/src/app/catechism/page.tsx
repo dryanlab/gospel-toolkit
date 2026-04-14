@@ -75,7 +75,7 @@ function CatechismPage() {
         <h1 className="font-serif-cn text-2xl sm:text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2 break-words">📖 Westminster Catechism</h1>
         <p className="text-[var(--color-text-secondary)]">韦敏斯德要理问答</p>
         <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-sm mx-auto italic break-words">
-          Love the Lord your God with all your heart and with all your soul and with all your mind. — Matthew 22:37
+          Love the Lord your God with all your heart and with all your soul and with all your mind., Matthew 22:37
         </p>
       </div>
 
@@ -127,8 +127,8 @@ function CatechismPage() {
 
       <p className="text-sm text-[var(--color-text-secondary)] mb-4">
         {tab === 'wsc' 
-          ? 'Westminster Shorter Catechism — Foundational Q&A for beginners' 
-          : 'Westminster Larger Catechism — In-depth systematic theology for advanced study'}
+          ? 'Westminster Shorter Catechism, Foundational Q&A for beginners' 
+          : 'Westminster Larger Catechism, In-depth systematic theology for advanced study'}
       </p>
 
       <input

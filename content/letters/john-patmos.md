@@ -31,15 +31,15 @@ Beloved, let us love one another, for love is from God, and whoever loves has be
 
 ### 一、回忆主的同在
 
-我已经是个老人了。岁月在我脸上刻下深深的皱纹，白发如霜覆盖我的头。我的手不再稳健，眼睛也渐渐模糊。但我的记忆依然清晰——我永远不会忘记那个改变我一生的日子。
+我已经是个老人了。岁月在我脸上刻下深深的皱纹，白发如霜覆盖我的头。我的手不再稳健，眼睛也渐渐模糊。但我的记忆依然清晰，我永远不会忘记那个改变我一生的日子。
 
-那是在加利利海边。我和哥哥雅各正在补网，父亲西庇太在一旁。忽然，一个声音传来："来跟从我！我要叫你们得人如得鱼一样。"（太4:19）我抬起头，看见那双眼睛——深邃如海，却充满慈爱。那一刻，我知道：这就是我一生要跟随的主。
+那是在加利利海边。我和哥哥雅各正在补网，父亲西庇太在一旁。忽然，一个声音传来："来跟从我！我要叫你们得人如得鱼一样。"（太4:19）我抬起头，看见那双眼睛，深邃如海，却充满慈爱。那一刻，我知道：这就是我一生要跟随的主。
 
 从那天起，我跟随他三年半。我见过他在迦拿的婚筵上变水为酒，见过他用五饼二鱼喂饱五千人，见过他平静风和海，见过他使死人复活。我亲耳听见他说："我就是道路、真理、生命；若不藉着我，没有人能到父那里去。"（约14:6）
 
 我永远不会忘记变化山上的那一幕。主耶稣带着我、彼得和雅各上了高山。他的脸面明亮如日头，衣裳洁白如光。摩西和以利亚显现，与他谈论。我们吓得俯伏在地。然后，有声音从云彩里出来，说："这是我的爱子，我所喜悦的。你们要听他！"（太17:5）
 
-那一刻，我明白了：这位拿撒勒的木匠，不仅仅是一位伟大的教师，不仅仅是一位行神迹的先知——他就是神的儿子，是万有的主！
+那一刻，我明白了：这位拿撒勒的木匠，不仅仅是一位伟大的教师，不仅仅是一位行神迹的先知，他就是神的儿子，是万有的主！
 
 ### 二、十字架与空坟墓
 
@@ -59,7 +59,7 @@ Beloved, let us love one another, for love is from God, and whoever loves has be
 
 我也进去，看见，就信了（约20:8）。
 
-那天晚上，主向我们显现。他站在门徒中间，说："愿你们平安！"我们以为是魂，他却说："你们看我的手、我的脚，就知道实在是我了。魂无骨无肉，你们看，我是有的。"（路24:39）我伸手摸他肋旁的伤口——真的是他！他真的复活了！
+那天晚上，主向我们显现。他站在门徒中间，说："愿你们平安！"我们以为是魂，他却说："你们看我的手、我的脚，就知道实在是我了。魂无骨无肉，你们看，我是有的。"（路24:39）我伸手摸他肋旁的伤口，真的是他！他真的复活了！
 
 ### 三、五旬节与使徒的使命
 
@@ -69,7 +69,7 @@ Beloved, let us love one another, for love is from God, and whoever loves has be
 
 五旬节那天，圣灵降临！大风吹过，火焰的舌头落在我们各人头上。我们就被圣灵充满，说起别国的话来。彼得站起来讲道，那天有三千人悔改受洗。
 
-从那天起，教会诞生了。我们在圣殿里教训人，在家中擘饼，凡物公用，赒济穷人。主将得救的人天天加给我们。我们行了许多神迹奇事——瘸子能行走，瞎子能看见，鬼被赶出去。
+从那天起，教会诞生了。我们在圣殿里教训人，在家中擘饼，凡物公用，赒济穷人。主将得救的人天天加给我们。我们行了许多神迹奇事，瘸子能行走，瞎子能看见，鬼被赶出去。
 
 但逼迫也随之而来。司提反被石头打死，成为第一位殉道者。我的哥哥雅各被希律王用刀杀了（徒12:2）。彼得被囚在监里。保罗在各处遭受患难、鞭打、石头打、监禁。许多弟兄姊妹为主的名殉道。
 
@@ -93,7 +93,7 @@ Beloved, let us love one another, for love is from God, and whoever loves has be
 
 这里没有教会，没有弟兄姊妹，只有冰冷的岩石和咆哮的海浪。白天，烈日炙烤；夜晚，寒风刺骨。我的食物是粗糙的饼和咸鱼。我的床是坚硬的石头。我的伴侣是孤独。
 
-但就在这里——在这最荒凉、最孤独的地方——主向我显现了！
+但就在这里：在这最荒凉、最孤独的地方，主向我显现了！
 
 那是主日。我被圣灵感动，听见身后有大声音如吹号，说："你所看见的当写在书上，达与以弗所、士每拿、别迦摩、推雅推喇、撒狄、非拉铁非、老底嘉那七个教会。"我转过身来，要看是谁发声与我说话。
 
@@ -121,7 +121,7 @@ Beloved, let us love one another, for love is from God, and whoever loves has be
 
 我曾亲眼看见主，亲手摸过他，亲耳听见他的话。这不是虚构的神话，乃是历史的事实。主真的道成肉身，真的死在十字架上，真的第三天复活了！凡信他的，就有永生。
 
-我将要去见他的面了。但你还活着。你要选择——跟随这位复活的主，还是继续在世界的黑暗中行走？
+我将要去见他的面了。但你还活着。你要选择，跟随这位复活的主，还是继续在世界的黑暗中行走？
 
 > "我是世界的光。跟从我的，就不在黑暗里走，必要得着生命的光。"（约翰福音8:12）
 
@@ -138,15 +138,15 @@ I am John, the disciple whom Jesus loved. At this moment, I sit on a cold rock o
 
 ### I. Remembering the Lord's Presence
 
-I am an old man now. Years have etched deep wrinkles on my face, white hair covers my head like frost. My hands are no longer steady, my eyes are gradually dimming. But my memory remains clear—I will never forget that day that changed my life forever.
+I am an old man now. Years have etched deep wrinkles on my face, white hair covers my head like frost. My hands are no longer steady, my eyes are gradually dimming. But my memory remains clear, I will never forget that day that changed my life forever.
 
-It was by the Sea of Galilee. My brother James and I were mending nets, our father Zebedee nearby. Suddenly, a voice called out: "And he saith unto them, Follow me, and I will make you fishers of men." (Matt 4:19). I looked up and saw those eyes—deep as the sea, yet full of compassion. In that moment, I knew: This is the Lord I would follow all my life.
+It was by the Sea of Galilee. My brother James and I were mending nets, our father Zebedee nearby. Suddenly, a voice called out: "And he saith unto them, Follow me, and I will make you fishers of men." (Matt 4:19). I looked up and saw those eyes, deep as the sea, yet full of compassion. In that moment, I knew: This is the Lord I would follow all my life.
 
 From that day, I followed Him for three and a half years. I saw Him turn water into wine at the wedding in Cana, saw Him feed five thousand with five loaves and two fish, saw Him calm the wind and sea, saw Him raise the dead. I heard Him say with my own ears, "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me." (John 14:6).
 
 I will never forget that scene on the Mount of Transfiguration. Jesus took me, Peter, and James up a high mountain. His face shone like the sun, and his clothes became white as light. Moses and Elijah appeared, talking with Him. We fell on our faces in terror. Then a voice from the cloud said, "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him." (Matt 17:5).
 
-In that moment, I understood: This carpenter from Nazareth was not merely a great teacher, not merely a miracle-working prophet—He is the Son of God, the Lord of all!
+In that moment, I understood: This carpenter from Nazareth was not merely a great teacher, not merely a miracle-working prophet, He is the Son of God, the Lord of all!
 
 ### II. The Cross and the Empty Tomb
 
@@ -166,7 +166,7 @@ Mary Magdalene ran to me and Peter saying, "They have taken the Lord out of the 
 
 Then I went in, saw, and believed (John 20:8).
 
-That evening, the Lord appeared to us. He stood among the disciples and said, "Peace be with you!" We thought it was a spirit, but He said, "Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have." (Luke 24:39). I reached out and touched the wound in His side—it was really Him! He had truly risen!
+That evening, the Lord appeared to us. He stood among the disciples and said, "Peace be with you!" We thought it was a spirit, but He said, "Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have." (Luke 24:39). I reached out and touched the wound in His side, it was really Him! He had truly risen!
 
 ### III. Pentecost and the Apostolic Mission
 
@@ -176,7 +176,7 @@ Forty days after His resurrection, the Lord ascended to heaven. He said to us, "
 
 On the day of Pentecost, the Holy Spirit descended! A mighty wind blew through, tongues of fire rested on each of us. We were filled with the Holy Spirit and began speaking in other languages. Peter stood up and preached, and three thousand people repented and were baptized that day.
 
-From that day, the Church was born. We taught in the temple, broke bread in homes, shared all things in common, cared for the poor. The Lord added to our number daily those who were being saved. We performed many signs and wonders—the lame walked, the blind saw, demons were cast out.
+From that day, the Church was born. We taught in the temple, broke bread in homes, shared all things in common, cared for the poor. The Lord added to our number daily those who were being saved. We performed many signs and wonders, the lame walked, the blind saw, demons were cast out.
 
 But persecution followed. Stephen was stoned to death, becoming the first martyr. My brother James was killed by King Herod with the sword (Acts 12:2). Peter was imprisoned. Paul suffered afflictions, beatings, stonings, and imprisonments everywhere. Many brothers and sisters were martyred for the Lord's name.
 
@@ -200,7 +200,7 @@ But now, I am exiled to this desolate island. The Roman Emperor Domitian persecu
 
 There is no church here, no brothers and sisters, only cold rocks and roaring waves. By day, the scorching sun; by night, the biting wind. My food is coarse bread and salted fish. My bed is hard stone. My companion is loneliness.
 
-But it is here—in this most desolate, most lonely place—that the Lord appeared to me!
+But it is here, in this most desolate, most lonely place, that the Lord appeared to me!
 
 It was the Lord's Day. I was in the Spirit, and I heard behind me a loud voice like a trumpet saying, "Write what you see in a book and send it to the seven churches, to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea." I turned to see the voice that was speaking to me.
 
@@ -228,7 +228,7 @@ The night deepens, the cold wind on the island grows sharper. But my heart burns
 
 I have seen the Lord with my own eyes, touched Him with my own hands, heard His words with my own ears. This is not a fabricated myth but historical fact. The Lord truly became flesh, truly died on the cross, truly rose on the third day! Whoever believes in Him has eternal life.
 
-I am about to see His face. But you are still alive. You must choose—will you follow this risen Lord, or continue walking in the darkness of the world?
+I am about to see His face. But you are still alive. You must choose, will you follow this risen Lord, or continue walking in the darkness of the world?
 
 > "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life." (John 8:12)
 

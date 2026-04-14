@@ -261,10 +261,10 @@ function WorshipPage() {
         </h1>
         <p className="text-[var(--color-text-secondary)]">Worship Songs</p>
         <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-sm mx-auto break-words">
-          当用诗章、颂词、灵歌，彼此对说，口唱心和地赞美主。— 以弗所书 5:19
+          当用诗章、颂词、灵歌，彼此对说，口唱心和地赞美主。, 以弗所书 5:19
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-sm mx-auto italic break-words">
-          Speaking to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord. — Ephesians 5:19
+          Speaking to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord., Ephesians 5:19
         </p>
       </div>
 

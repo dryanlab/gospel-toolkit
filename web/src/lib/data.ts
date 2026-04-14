@@ -145,7 +145,7 @@ export const categoryLabels: Record<string, { zh: string; en: string }> = {
 
 // QA category order for navigation between topics
 export const qaCategoryOrder: string[] = [
-  'existence_of_god',        // 上帝存在 — 最根本的问题
+  'existence_of_god',        // 上帝存在, 最根本的问题
   'trinity',                 // 三位一体
   'authority_of_scripture',  // 圣经权威
   'bible_reliability',       // 圣经可靠

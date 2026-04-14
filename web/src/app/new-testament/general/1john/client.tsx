@@ -11,48 +11,48 @@ const sections = [
 
 "神就是光，在他毫无黑暗。这是我们从主所听见、又报给你们的信息。我们若说是与神相交，却仍在黑暗里行，就是说谎话，不行真理了。我们若在光明中行，如同神在光明中，就彼此相交，他儿子耶稣的血也洗净我们一切的罪。"（约翰一书 1:5-7）
 
-"神是光"——光和黑暗没有中间地带。与神相交不可能同时活在罪中。约翰紧接着说，若承认自己的罪，神是信实公义的，必要赦免我们的罪（1:9）——不是不认罪，而是在光中认罪，在光中被洁净。`,
+"神是光"，光和黑暗没有中间地带。与神相交不可能同时活在罪中。约翰紧接着说，若承认自己的罪，神是信实公义的，必要赦免我们的罪（1:9），不是不认罪，而是在光中认罪，在光中被洁净。`,
       content_en: `First John was written by the elderly John to churches near Ephesus, responding to the emerging Docetism (the belief that Christ did not have a real physical body). John opens with eyewitness testimony "from the beginning," emphasizing the reality of the incarnation.
 
 "This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all. If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth: But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin." (1 John 1:5-7, KJV)
 
-"God is light' — there is no middle ground between light and darkness. Having fellowship with God is incompatible with living in sin. John immediately adds that if we confess our sins, He is faithful and just to forgive us (1:9) — not that we deny sin, but that we confess it in the light and are cleansed in the light.`
+"God is light', there is no middle ground between light and darkness. Having fellowship with God is incompatible with living in sin. John immediately adds that if we confess our sins, He is faithful and just to forgive us (1:9), not that we deny sin, but that we confess it in the light and are cleansed in the light.`
     },
     {
       title_zh: '二、爱与真理的试验（3-4章）',
       title_en: `II. The Tests of Love and Truth (Ch. 3–4)`,
-      content_zh: `约翰一书最著名的主题是爱——神的爱与我们对弟兄的爱是不可分割的。
+      content_zh: `约翰一书最著名的主题是爱，神的爱与我们对弟兄的爱是不可分割的。
 
 "亲爱的弟兄啊，我们应当彼此相爱，因为爱是从神来的。凡有爱心的，都是由神而生，并且认识神。没有爱心的，就不认识神，因为神就是爱。"（约翰一书 4:7-8）
 
-"神就是爱"——这不是说爱就是神，而是说神的本质是爱。神爱的明证是："神差他独生子到世间来，使我们藉着他得生，神爱我们的心在此就显明了"（4:9）。我们爱，因为他先爱了我们（4:19）。
+"神就是爱"，这不是说爱就是神，而是说神的本质是爱。神爱的明证是："神差他独生子到世间来，使我们藉着他得生，神爱我们的心在此就显明了"（4:9）。我们爱，因为他先爱了我们（4:19）。
 
 约翰进一步说："人若说我爱神，却恨他的弟兄，就是说谎话的；不爱他所看见的弟兄，就不能爱没有看见的神"（4:20）。爱神和爱弟兄是一体的，不可分割。声称爱神却恨弟兄是自欺欺人。`,
-      content_en: `First John's most celebrated theme is love — God's love for us and our love for brothers are inseparable.
+      content_en: `First John's most celebrated theme is love, God's love for us and our love for brothers are inseparable.
 
 "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God. He that loveth not knoweth not God; for God is love." (1 John 4:7-8, KJV)
 
-"God is love' — this does not mean love is God, but that love is the very nature of God. The proof of God's love: "God sent his only begotten Son into the world, that we might live through him. Herein is love' (4:9). We love because He first loved us (4:19).
+"God is love', this does not mean love is God, but that love is the very nature of God. The proof of God's love: "God sent his only begotten Son into the world, that we might live through him. Herein is love' (4:9). We love because He first loved us (4:19).
 
-John further says: "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?" (4:20). Loving God and loving brothers are one — they cannot be separated. Claiming to love God while hating brothers is self-deception.`
+John further says: "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?" (4:20). Loving God and loving brothers are one, they cannot be separated. Claiming to love God while hating brothers is self-deception.`
     },
     {
       title_zh: '三、得胜世界的信心与永生的确据（5章）',
       title_en: `III. Overcoming Faith and the Assurance of Eternal Life (Ch. 5)`,
-      content_zh: `约翰一书的结尾充满了确据——知道自己有永生是可以的，信心是得胜世界的武器。
+      content_zh: `约翰一书的结尾充满了确据，知道自己有永生是可以的，信心是得胜世界的武器。
 
 "因为凡从神生的，就胜过世界；使我们胜了世界的，就是我们的信心。胜过世界的是谁呢？不是那信耶稣是神儿子的吗？"（约翰一书 5:4-5）
 
-"胜过世界的……就是我们的信心"——信心不是一种感觉，而是一种确据，是抓住了耶稣是神儿子这一真理的信心。约翰说，这信心的果实是：神赐给我们永生，这永生是在他儿子里面的（5:11）。
+"胜过世界的……就是我们的信心"，信心不是一种感觉，而是一种确据，是抓住了耶稣是神儿子这一真理的信心。约翰说，这信心的果实是：神赐给我们永生，这永生是在他儿子里面的（5:11）。
 
-约翰一书的最后是一句珍贵的承诺："我将这些话写给你们信奉神儿子之名的人，要叫你们知道自己有永生"（5:13）。永生不是死后才知道的，而是现在就可以知道。这是约翰一书写作的目的——让信徒有确据。`,
-      content_en: `First John ends with assurance — knowing that we have eternal life is possible, and faith is the weapon that overcomes the world.
+约翰一书的最后是一句珍贵的承诺："我将这些话写给你们信奉神儿子之名的人，要叫你们知道自己有永生"（5:13）。永生不是死后才知道的，而是现在就可以知道。这是约翰一书写作的目的，让信徒有确据。`,
+      content_en: `First John ends with assurance, knowing that we have eternal life is possible, and faith is the weapon that overcomes the world.
 
 "For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith. Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?" (1 John 5:4-5, KJV)
 
-"The victory that overcometh the world, even our faith' — faith is not a feeling but a certainty, a faith that grasps the truth that Jesus is the Son of God. John says the fruit of this faith: God has given us eternal life, and this life is in His Son (5:11).
+"The victory that overcometh the world, even our faith', faith is not a feeling but a certainty, a faith that grasps the truth that Jesus is the Son of God. John says the fruit of this faith: God has given us eternal life, and this life is in His Son (5:11).
 
-First John ends with a precious promise: "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life" (5:13). Eternal life is not something we only know after death — we can know it now. This is the purpose of First John: to give believers assurance.`
+First John ends with a precious promise: "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life" (5:13). Eternal life is not something we only know after death, we can know it now. This is the purpose of First John: to give believers assurance.`
     },
 ];
 
@@ -72,18 +72,18 @@ const outline = [
 const theology = {
   title_zh: `核心神学：神就是光，神就是爱`,
   title_en: `Core Theology: God Is Light, God Is Love`,
-  content_zh: `约翰一书围绕两个核心宣告展开——"神就是光"（1:5）和"神就是爱"（4:8）——以此检验真假信仰。
+  content_zh: `约翰一书围绕两个核心宣告展开："神就是光"（1:5）和"神就是爱"（4:8），以此检验真假信仰。
 
-第一，在光明中行走。"神就是光，在祂毫无黑暗"（1:5）。"我们若说是与神相交，却仍在黑暗里行，就是说谎话"（1:6）。约翰的逻辑很简单：如果你声称认识神却活在罪中，你就是骗子。真正与神相交的人行在光明中——不是说他不犯罪，而是说他不以罪为生活方式，并且"我们若认自己的罪，神是信实的，是公义的，必要赦免我们的罪"（1:9）。
+第一，在光明中行走。"神就是光，在祂毫无黑暗"（1:5）。"我们若说是与神相交，却仍在黑暗里行，就是说谎话"（1:6）。约翰的逻辑很简单：如果你声称认识神却活在罪中，你就是骗子。真正与神相交的人行在光明中，不是说他不犯罪，而是说他不以罪为生活方式，并且"我们若认自己的罪，神是信实的，是公义的，必要赦免我们的罪"（1:9）。
 
-第二，神就是爱。"没有爱心的，就不认识神，因为神就是爱"（4:8）。"不是我们爱神，乃是神爱我们，差祂的儿子为我们的罪作了挽回祭，这就是爱了"（4:10）。爱不是从人出发的——人的爱有条件、会改变、会枯竭。神的爱是无条件的、主动的、牺牲的。"我们爱，因为神先爱了我们"（4:19）——人的爱是对神之爱的回应，不是原动力。
+第二，神就是爱。"没有爱心的，就不认识神，因为神就是爱"（4:8）。"不是我们爱神，乃是神爱我们，差祂的儿子为我们的罪作了挽回祭，这就是爱了"（4:10）。爱不是从人出发的：人的爱有条件、会改变、会枯竭。神的爱是无条件的、主动的、牺牲的。"我们爱，因为神先爱了我们"（4:19），人的爱是对神之爱的回应，不是原动力。
 
 第三，试验的标准。约翰给出三个检验真信仰的标准：教义的标准（信耶稣是成了肉身来的基督，4:2）、道德的标准（行公义，不犯罪为生活方式，3:9）、爱的标准（爱弟兄，3:14）。"人若说'我爱神'，却恨他的弟兄，就是说谎话的"（4:20）。`,
-  content_en: `1 John revolves around two core declarations — "God is light" (1:5) and "God is love" (4:8) — using them to test true and false faith.
+  content_en: `1 John revolves around two core declarations, "God is light" (1:5) and "God is love" (4:8), using them to test true and false faith.
 
-First, walking in the light. "God is light, and in him is no darkness at all" (1:5). "If we say that we have fellowship with him, and walk in darkness, we lie" (1:6). John's logic is simple: if you claim to know God yet live in sin, you are a liar. Those truly in fellowship with God walk in light — not that they never sin, but that sin is not their lifestyle, and "if we confess our sins, he is faithful and just to forgive us our sins" (1:9).
+First, walking in the light. "God is light, and in him is no darkness at all" (1:5). "If we say that we have fellowship with him, and walk in darkness, we lie" (1:6). John's logic is simple: if you claim to know God yet live in sin, you are a liar. Those truly in fellowship with God walk in light, not that they never sin, but that sin is not their lifestyle, and "if we confess our sins, he is faithful and just to forgive us our sins" (1:9).
 
-Second, God is love. "He that loveth not knoweth not God; for God is love" (4:8). "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins" (4:10). Love does not originate from humans — human love is conditional, changeable, exhaustible. God's love is unconditional, initiating, sacrificial. "We love him, because he first loved us" (4:19) — human love is a response to God's love, not the prime mover.
+Second, God is love. "He that loveth not knoweth not God; for God is love" (4:8). "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins" (4:10). Love does not originate from humans, human love is conditional, changeable, exhaustible. God's love is unconditional, initiating, sacrificial. "We love him, because he first loved us" (4:19), human love is a response to God's love, not the prime mover.
 
 Third, standards of testing. John gives three tests for genuine faith: doctrinal (believing Jesus is the Christ come in the flesh, 4:2), moral (practicing righteousness, not making sin a lifestyle, 3:9), and relational (loving the brethren, 3:14). "If a man say, I love God, and hateth his brother, he is a liar" (4:20).`,
 };

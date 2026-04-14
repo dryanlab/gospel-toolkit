@@ -100,7 +100,7 @@ export default function BookList({ icon, title_zh, title_en, desc_zh, desc_en, g
                 </div>
                 <p className="text-[var(--color-text)] leading-relaxed text-sm mb-1">&ldquo;{book.keyVerse_zh}&rdquo;</p>
                 <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic mb-2">&ldquo;{book.keyVerse_en}&rdquo;</p>
-                <p className="text-xs text-[var(--color-accent)] font-medium">— {book.keyRef}</p>
+                <p className="text-xs text-[var(--color-accent)] font-medium">, {book.keyRef}</p>
               </div>
 
               {/* Links */}

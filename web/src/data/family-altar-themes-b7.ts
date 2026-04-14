@@ -60,7 +60,7 @@ export const themesB7: AltarTheme[] = [
         },
         reflection: {
           zh: '圣灵使人重生，这是进入神国的唯一道路。肉身的生命有限且短暂，唯有从圣灵而生的新生命才能进入永恒。重生不是人的努力，而是圣灵的超然工作。',
-          en: 'The Holy Spirit brings about new birth — the only way to enter God\'s kingdom. Fleshly life is limited and temporary; only the new life born of the Spirit can enter eternity. Rebirth is not human effort but the supernatural work of the Spirit.',
+          en: 'The Holy Spirit brings about new birth, the only way to enter God\'s kingdom. Fleshly life is limited and temporary; only the new life born of the Spirit can enter eternity. Rebirth is not human effort but the supernatural work of the Spirit.',
         },
         question: {
           zh: '你是否经历过圣灵带来的重生？这个经历如何改变了你的生命？',
@@ -79,8 +79,8 @@ export const themesB7: AltarTheme[] = [
           text_en: 'And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.',
         },
         reflection: {
-          zh: '耶稣应许赐下圣灵作为保惠师——帮助者、安慰者、辩护者。圣灵不是暂时的访客，而是永远与我们同在的伙伴。祂住在我们里面，使我们永不孤单。',
-          en: 'Jesus promised the Holy Spirit as our Helper — comforter, counselor, advocate. The Spirit is not a temporary visitor but an eternal companion. He dwells within us so we are never alone.',
+          zh: '耶稣应许赐下圣灵作为保惠师：帮助者、安慰者、辩护者。圣灵不是暂时的访客，而是永远与我们同在的伙伴。祂住在我们里面，使我们永不孤单。',
+          en: 'Jesus promised the Holy Spirit as our Helper, comforter, counselor, advocate. The Spirit is not a temporary visitor but an eternal companion. He dwells within us so we are never alone.',
         },
         question: {
           zh: '你在日常生活中如何经历圣灵作为保惠师的同在与帮助？',
@@ -140,7 +140,7 @@ export const themesB7: AltarTheme[] = [
         },
         reflection: {
           zh: '圣灵使人知罪，这不是定罪，而是出于爱的光照。圣灵让我们看到自己的罪，也看到基督的义和审判的真实，从而引导我们悔改归向神。',
-          en: 'The Spirit convicts of sin — not to condemn, but to illuminate with love. The Spirit shows us our sin, Christ\'s righteousness, and the reality of judgment, leading us to repentance and back to God.',
+          en: 'The Spirit convicts of sin, not to condemn, but to illuminate with love. The Spirit shows us our sin, Christ\'s righteousness, and the reality of judgment, leading us to repentance and back to God.',
         },
         question: {
           zh: '你是否经历过圣灵在你心中的光照和责备？你如何回应？',
@@ -239,8 +239,8 @@ export const themesB7: AltarTheme[] = [
           text_en: 'Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered. And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.',
         },
         reflection: {
-          zh: '我们常常不知道如何祷告，但圣灵帮助我们的软弱，为我们代求。这是何等大的安慰——即使在我们最无助的时刻，圣灵也在照着神的旨意为我们祈求。',
-          en: 'We often don\'t know how to pray, but the Spirit helps us in our weakness and intercedes for us. What great comfort — even in our most helpless moments, the Spirit intercedes for us according to God\'s will.',
+          zh: '我们常常不知道如何祷告，但圣灵帮助我们的软弱，为我们代求。这是何等大的安慰，即使在我们最无助的时刻，圣灵也在照着神的旨意为我们祈求。',
+          en: 'We often don\'t know how to pray, but the Spirit helps us in our weakness and intercedes for us. What great comfort, even in our most helpless moments, the Spirit intercedes for us according to God\'s will.',
         },
         question: {
           zh: '当你不知道如何祷告时，你是否相信圣灵在替你代求？这如何改变你的祷告生活？',
@@ -329,7 +329,7 @@ export const themesB7: AltarTheme[] = [
         },
         reflection: {
           zh: '诗篇以"有福"开篇，为整本诗篇定下基调。真正的福气不在于外在环境，而在于与神话语的关系。昼夜思想神律法的人如同栽在溪水旁的树，根基稳固，生命丰盛。',
-          en: 'The Psalms open with "blessed," setting the tone for the entire book. True blessedness is not about circumstances but about our relationship with God\'s Word. The one who meditates on God\'s law day and night is like a tree by streams of water — deeply rooted and abundantly fruitful.',
+          en: 'The Psalms open with "blessed," setting the tone for the entire book. True blessedness is not about circumstances but about our relationship with God\'s Word. The one who meditates on God\'s law day and night is like a tree by streams of water, deeply rooted and abundantly fruitful.',
         },
         question: {
           zh: '你是否有每天昼夜思想神话语的习惯？什么阻碍了你更深地扎根于神的话语？',
@@ -388,8 +388,8 @@ export const themesB7: AltarTheme[] = [
           text_en: 'Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. Wash me throughly from mine iniquity, and cleanse me from my sin.',
         },
         reflection: {
-          zh: '大卫犯罪后的悔改祷告是历史上最深刻的认罪之一。他不找借口，不推卸责任，而是直接呼求神的怜悯。真正的悔改是基于对神慈爱的认识——知道祂愿意赦免并洁净我们。',
-          en: 'David\'s prayer of repentance after his sin is one of history\'s most profound confessions. He makes no excuses and shifts no blame but cries out directly for God\'s mercy. True repentance is rooted in knowing God\'s steadfast love — knowing He is willing to forgive and cleanse us.',
+          zh: '大卫犯罪后的悔改祷告是历史上最深刻的认罪之一。他不找借口，不推卸责任，而是直接呼求神的怜悯。真正的悔改是基于对神慈爱的认识，知道祂愿意赦免并洁净我们。',
+          en: 'David\'s prayer of repentance after his sin is one of history\'s most profound confessions. He makes no excuses and shifts no blame but cries out directly for God\'s mercy. True repentance is rooted in knowing God\'s steadfast love, knowing He is willing to forgive and cleanse us.',
         },
         question: {
           zh: '你是否有需要向神认的罪？你是否相信神丰盛的慈悲足以涂抹你一切的过犯？',
@@ -428,8 +428,8 @@ export const themesB7: AltarTheme[] = [
           text_en: 'He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.',
         },
         reflection: {
-          zh: '住在至高者隐密处意味着与神保持亲密的关系。在神的荫下，我们得到全方位的保护。诗人不仅认识神的保护，更宣告信靠——"祂是我的避难所，我的山寨，我所倚靠的。"',
-          en: 'Dwelling in the shelter of the Most High means maintaining an intimate relationship with God. Under His shadow we receive complete protection. The psalmist not only knows God\'s protection but declares trust — "My refuge and fortress, my God, in whom I trust."',
+          zh: '住在至高者隐密处意味着与神保持亲密的关系。在神的荫下，我们得到全方位的保护。诗人不仅认识神的保护，更宣告信靠："祂是我的避难所，我的山寨，我所倚靠的。"',
+          en: 'Dwelling in the shelter of the Most High means maintaining an intimate relationship with God. Under His shadow we receive complete protection. The psalmist not only knows God\'s protection but declares trust, "My refuge and fortress, my God, in whom I trust."',
         },
         question: {
           zh: '你是否住在至高者的隐密处？什么使你离开了神的荫庇？',
@@ -449,7 +449,7 @@ export const themesB7: AltarTheme[] = [
         },
         reflection: {
           zh: '大卫提醒自己的灵魂要赞美神，不可忘记神的恩惠。感恩是对抗遗忘的武器。神赦免我们的罪、医治我们的疾病，这些恩典太多太大，我们不应视为理所当然。',
-          en: 'David reminds his own soul to praise God and not forget His benefits. Gratitude is the weapon against forgetfulness. God forgives our sins and heals our diseases — these graces are too great and too many to take for granted.',
+          en: 'David reminds his own soul to praise God and not forget His benefits. Gratitude is the weapon against forgetfulness. God forgives our sins and heals our diseases, these graces are too great and too many to take for granted.',
         },
         question: {
           zh: '你最近是否忘记了神的某些恩惠？花一点时间数算神的恩典。',
@@ -488,8 +488,8 @@ export const themesB7: AltarTheme[] = [
           text_en: 'By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.',
         },
         reflection: {
-          zh: '被掳到巴比伦的以色列人经历了深深的失落和哀伤。在异乡追想家园，他们唱不出赞美的歌。这首诗篇诚实地表达了信仰中的痛苦——有时我们在困境中确实难以歌唱，但这并不意味着信心的失败。',
-          en: 'The Israelites in Babylonian exile experienced profound loss and grief. Remembering home in a foreign land, they could not sing praise. This psalm honestly expresses the pain within faith — sometimes we truly cannot sing in hardship, but this does not mean failure of faith.',
+          zh: '被掳到巴比伦的以色列人经历了深深的失落和哀伤。在异乡追想家园，他们唱不出赞美的歌。这首诗篇诚实地表达了信仰中的痛苦，有时我们在困境中确实难以歌唱，但这并不意味着信心的失败。',
+          en: 'The Israelites in Babylonian exile experienced profound loss and grief. Remembering home in a foreign land, they could not sing praise. This psalm honestly expresses the pain within faith, sometimes we truly cannot sing in hardship, but this does not mean failure of faith.',
         },
         question: {
           zh: '你是否正处于一个难以歌唱的人生季节？如何在困境中持守对神的信靠？',
@@ -508,8 +508,8 @@ export const themesB7: AltarTheme[] = [
           text_en: 'Thy word is a lamp unto my feet, and a light unto my path.',
         },
         reflection: {
-          zh: '神的话语如同灯光照亮我们前行的道路。注意这里说的是"脚前"的灯——不是照亮整条路，而是照亮下一步。信心的行走就是一步一步跟随神话语的光。',
-          en: 'God\'s Word is like a lamp illuminating our path. Notice it says "a lamp to my feet" — not lighting the entire road but the next step. Walking by faith means following the light of God\'s Word one step at a time.',
+          zh: '神的话语如同灯光照亮我们前行的道路。注意这里说的是"脚前"的灯，不是照亮整条路，而是照亮下一步。信心的行走就是一步一步跟随神话语的光。',
+          en: 'God\'s Word is like a lamp illuminating our path. Notice it says "a lamp to my feet", not lighting the entire road but the next step. Walking by faith means following the light of God\'s Word one step at a time.',
         },
         question: {
           zh: '你是否在等神照亮整条路才肯迈步？还是愿意信靠祂一步一步地前行？',
@@ -557,7 +557,7 @@ export const themesB7: AltarTheme[] = [
         },
         prayer: {
           zh: '主啊，求祢使我像诗人一样，一听到"我们往耶和华的殿去"就满心欢喜。除去我心中对敬拜的倦怠，重新燃起对祢的渴慕和敬拜的热情。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, make me like the psalmist — glad when called to go to Your house. Remove any weariness in my heart toward worship and rekindle my longing and passion for You. In Jesus\' name, amen.',
+          en: 'Lord, make me like the psalmist, glad when called to go to Your house. Remove any weariness in my heart toward worship and rekindle my longing and passion for You. In Jesus\' name, amen.',
         },
       },
       {
@@ -588,8 +588,8 @@ export const themesB7: AltarTheme[] = [
           text_en: 'Out of the depths have I cried unto thee, O LORD. Lord, hear my voice: let thine ears be attentive to the voice of my supplications.',
         },
         reflection: {
-          zh: '"深处"代表人生的最低谷——罪的深渊、苦难的深处、绝望的底层。但正是在深处，诗人向神呼求。最深的痛苦可以成为最深祷告的起点。神的耳朵总是侧向那些从深处呼求的人。',
-          en: '"The depths" represent life\'s lowest valleys — the pit of sin, the depths of suffering, the bottom of despair. Yet from the depths, the psalmist cries to God. The deepest pain can become the starting point of the deepest prayer. God\'s ears are always attentive to those who cry from the depths.',
+          zh: '"深处"代表人生的最低谷：罪的深渊、苦难的深处、绝望的底层。但正是在深处，诗人向神呼求。最深的痛苦可以成为最深祷告的起点。神的耳朵总是侧向那些从深处呼求的人。',
+          en: '"The depths" represent life\'s lowest valleys, the pit of sin, the depths of suffering, the bottom of despair. Yet from the depths, the psalmist cries to God. The deepest pain can become the starting point of the deepest prayer. God\'s ears are always attentive to those who cry from the depths.',
         },
         question: {
           zh: '你是否正处于人生的"深处"？你是否愿意从那里向神发出真实的呼求？',
@@ -608,8 +608,8 @@ export const themesB7: AltarTheme[] = [
           text_en: 'Let every thing that hath breath praise the LORD. Praise ye the LORD.',
         },
         reflection: {
-          zh: '诗篇以赞美开始，也以赞美结束。最后这句是对一切有生命之物的呼召——只要你还有一口气息，就要赞美耶和华。赞美不需要等到一切完美，赞美就是我们存在的目的。',
-          en: 'The Psalms begin with praise and end with praise. This final verse is a call to every living thing — as long as you have breath, praise the Lord. Praise doesn\'t wait until everything is perfect; praise is the very purpose of our existence.',
+          zh: '诗篇以赞美开始，也以赞美结束。最后这句是对一切有生命之物的呼召，只要你还有一口气息，就要赞美耶和华。赞美不需要等到一切完美，赞美就是我们存在的目的。',
+          en: 'The Psalms begin with praise and end with praise. This final verse is a call to every living thing, as long as you have breath, praise the Lord. Praise doesn\'t wait until everything is perfect; praise is the very purpose of our existence.',
         },
         question: {
           zh: '你今天有哪些理由可以赞美神？即使在困难中，你能否找到赞美的理由？',

@@ -27,7 +27,7 @@ function GuideSection() {
             </p>
             <p className="font-medium mb-1 mt-3">🎯 What is Family Altar?</p>
             <p className="text-[var(--color-text-secondary)] leading-relaxed italic">
-              Family Altar is a daily worship time for Christian families — reading Scripture, reflecting, discussing, praying, and singing together to build a spiritual foundation in God&apos;s Word.
+              Family Altar is a daily worship time for Christian families, reading Scripture, reflecting, discussing, praying, and singing together to build a spiritual foundation in God&apos;s Word.
             </p>
           </div>
 
@@ -35,23 +35,23 @@ function GuideSection() {
             <p className="font-medium mb-1">📋 每日内容包括：</p>
             <p className="text-[var(--color-text-secondary)] italic text-xs mb-2">Daily Content Includes:</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-[var(--color-text-secondary)]">
-              <div className="flex items-start gap-2"><span>📖</span><span><strong>今日经文</strong> — 中英双语经文<br/><span className="italic text-xs">Daily Scripture — Bilingual passage</span></span></div>
-              <div className="flex items-start gap-2"><span>💭</span><span><strong>默想</strong> — 经文要点<br/><span className="italic text-xs">Reflection — Key insights</span></span></div>
-              <div className="flex items-start gap-2"><span>💬</span><span><strong>家庭讨论</strong> — 讨论问题<br/><span className="italic text-xs">Discussion — Questions for the family</span></span></div>
-              <div className="flex items-start gap-2"><span>🙏</span><span><strong>祷告引导</strong> — 祷告方向<br/><span className="italic text-xs">Prayer Guide — Prayer direction</span></span></div>
-              <div className="flex items-start gap-2"><span>🎵</span><span><strong>诗歌推荐</strong> — 相关赞美诗<br/><span className="italic text-xs">Hymn Suggestion — Related hymn</span></span></div>
-              <div className="flex items-start gap-2"><span>📚</span><span><strong>今日要理</strong> — 韦敏斯德小要理问答（107题）＋大要理问答（196题），303天一轮<br/><span className="italic text-xs">Daily Catechism — WSC (107 Qs) + WLC (196 Qs), 303-day cycle</span></span></div>
-              <div className="flex items-start gap-2"><span>🍞</span><span><strong>谢饭祷告</strong> — 饭前祷词<br/><span className="italic text-xs">Meal Prayer — Grace before meals</span></span></div>
+              <div className="flex items-start gap-2"><span>📖</span><span><strong>今日经文</strong>, 中英双语经文<br/><span className="italic text-xs">Daily Scripture, Bilingual passage</span></span></div>
+              <div className="flex items-start gap-2"><span>💭</span><span><strong>默想</strong>, 经文要点<br/><span className="italic text-xs">Reflection, Key insights</span></span></div>
+              <div className="flex items-start gap-2"><span>💬</span><span><strong>家庭讨论</strong>, 讨论问题<br/><span className="italic text-xs">Discussion, Questions for the family</span></span></div>
+              <div className="flex items-start gap-2"><span>🙏</span><span><strong>祷告引导</strong>, 祷告方向<br/><span className="italic text-xs">Prayer Guide, Prayer direction</span></span></div>
+              <div className="flex items-start gap-2"><span>🎵</span><span><strong>诗歌推荐</strong>, 相关赞美诗<br/><span className="italic text-xs">Hymn Suggestion, Related hymn</span></span></div>
+              <div className="flex items-start gap-2"><span>📚</span><span><strong>今日要理</strong>, 韦敏斯德小要理问答（107题）＋大要理问答（196题），303天一轮<br/><span className="italic text-xs">Daily Catechism, WSC (107 Qs) + WLC (196 Qs), 303-day cycle</span></span></div>
+              <div className="flex items-start gap-2"><span>🍞</span><span><strong>谢饭祷告</strong>, 饭前祷词<br/><span className="italic text-xs">Meal Prayer, Grace before meals</span></span></div>
             </div>
           </div>
 
           <div>
             <p className="font-medium mb-1">⏱️ 如何使用？<br/><span className="text-xs font-normal italic text-[var(--color-text-secondary)]">How to Use?</span></p>
             <p className="text-[var(--color-text-secondary)] leading-relaxed">
-              每次 <strong>5-10 分钟</strong>即可。建议选一个固定时间（如晚餐前后），由一位家庭成员带领朗读经文，全家一起默想、讨论、祷告。不需要完成所有区块——选择适合你家庭的部分开始就好。
+              每次 <strong>5-10 分钟</strong>即可。建议选一个固定时间（如晚餐前后），由一位家庭成员带领朗读经文，全家一起默想、讨论、祷告。不需要完成所有区块，选择适合你家庭的部分开始就好。
             </p>
             <p className="text-[var(--color-text-secondary)] leading-relaxed italic mt-1">
-              Just <strong>5–10 minutes</strong> each time. Pick a regular time (e.g. before or after dinner), have one family member read the Scripture aloud, then reflect, discuss, and pray together. You don&apos;t have to cover every section — start with what works for your family.
+              Just <strong>5–10 minutes</strong> each time. Pick a regular time (e.g. before or after dinner), have one family member read the Scripture aloud, then reflect, discuss, and pray together. You don&apos;t have to cover every section, start with what works for your family.
             </p>
           </div>
 
@@ -78,22 +78,22 @@ function GuideSection() {
               <div className="flex items-start gap-2 text-xs">
                 <span className="text-sm">✝️</span>
                 <div>
-                  <p><strong>受难周</strong> — 复活节前15天（每年日期不同）</p>
-                  <p className="italic">Passion Week — 15 days before Easter (date varies each year)</p>
+                  <p><strong>受难周</strong>, 复活节前15天（每年日期不同）</p>
+                  <p className="italic">Passion Week, 15 days before Easter (date varies each year)</p>
                 </div>
               </div>
               <div className="flex items-start gap-2 text-xs">
                 <span className="text-sm">🌅</span>
                 <div>
-                  <p><strong>复活节</strong> — 复活节当天起15天（紧接受难周）</p>
-                  <p className="italic">Easter &amp; Resurrection — 15 days from Easter Sunday (follows Passion Week)</p>
+                  <p><strong>复活节</strong>, 复活节当天起15天（紧接受难周）</p>
+                  <p className="italic">Easter &amp; Resurrection, 15 days from Easter Sunday (follows Passion Week)</p>
                 </div>
               </div>
               <div className="flex items-start gap-2 text-xs">
                 <span className="text-sm">⭐</span>
                 <div>
-                  <p><strong>将临期/圣诞</strong> — 每年12月10日-24日</p>
-                  <p className="italic">Advent &amp; Christmas — December 10–24 each year</p>
+                  <p><strong>将临期/圣诞</strong>, 每年12月10日-24日</p>
+                  <p className="italic">Advent &amp; Christmas, December 10–24 each year</p>
                 </div>
               </div>
             </div>
@@ -362,7 +362,7 @@ export default function FamilyAltarPage() {
               </p>
             )}
             <p className="text-xs text-[var(--color-accent)] font-medium">
-              — {scripture.ref_zh}{showEnglish ? ` / ${scripture.ref_en}` : ''}
+             , {scripture.ref_zh}{showEnglish ? ` / ${scripture.ref_en}` : ''}
             </p>
           </div>
         </section>
@@ -531,7 +531,7 @@ export default function FamilyAltarPage() {
       {/* Footer tip */}
       <div className="mt-6 text-center text-xs text-[var(--color-text-secondary)]">
         <p>💡 建议每次家庭敬拜控制在 5-10 分钟，简短、实用、易坚持</p>
-        <p className="italic">Tip: Keep each family worship session to 5–10 minutes — short, practical, and sustainable</p>
+        <p className="italic">Tip: Keep each family worship session to 5–10 minutes, short, practical, and sustainable</p>
       </div>
     </div>
   );

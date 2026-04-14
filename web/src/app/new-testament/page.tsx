@@ -64,7 +64,7 @@ export default function NewTestamentPage() {
           新约圣经27卷书卷记载了耶稣基督的生平、教会的建立与使徒的教导，是神在基督里成就救赎的启示。
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] max-w-xl mx-auto italic">
-          The 27 books of the New Testament record the life of Jesus Christ, the establishment of the Church, and the apostles&apos; teaching — God&apos;s revelation of redemption accomplished in Christ.
+          The 27 books of the New Testament record the life of Jesus Christ, the establishment of the Church, and the apostles&apos; teaching, God&apos;s revelation of redemption accomplished in Christ.
         </p>
       </div>
 

@@ -10,8 +10,8 @@ title_en: "The Night the Rooster Crowed Twice"
 date: "2026-02-14"
 category: "testimony"
 scripture: "路加福音 22:54-62"
-summary_zh: "从\"我愿为你死\"的豪言壮语，到院子里炭火旁的恐惧，到鸡叫时与耶稣目光相遇的那一秒——祂的眼神里没有责备，只有爱。"
-summary_en: "From bold vows of dying for Him, to cowering by a charcoal fire, to that moment when the rooster crowed and our eyes met — His gaze held no condemnation, only love."
+summary_zh: "从\"我愿为你死\"的豪言壮语，到院子里炭火旁的恐惧，到鸡叫时与耶稣目光相遇的那一秒，祂的眼神里没有责备，只有爱。"
+summary_en: "From bold vows of dying for Him, to cowering by a charcoal fire, to that moment when the rooster crowed and our eyes met, His gaze held no condemnation, only love."
 tags: ["信心", "跌倒", "恢复", "恩典"]
 ---
 
@@ -51,7 +51,7 @@ And the Lord turned and looked at Peter. And Peter remembered the saying of the 
 
 "西门，你睡觉吗？不能儆醒片时吗？总要儆醒祷告，免得入了迷惑。你们心灵固然愿意，肉体却软弱了。"（可 14:37-38）
 
-心灵固然愿意，肉体却软弱了——这是对我一生最准确的描述。
+心灵固然愿意，肉体却软弱了，这是对我一生最准确的描述。
 
 ## 院子里的炭火
 
@@ -71,7 +71,7 @@ And the Lord turned and looked at Peter. And Peter remembered the saying of the 
 
 **我不认得那个人！** 我甚至起了咒发了誓。
 
-弟兄姐妹，你们听到了吗？我起誓咒诅自己，说我不认得祂——那个在加利利海边呼召我的主，那个拉着我的手叫我在水面上行走的主，那个对我说"你是彼得，我要把我的教会建造在这磐石上"的主。
+弟兄姐妹，你们听到了吗？我起誓咒诅自己，说我不认得祂，那个在加利利海边呼召我的主，那个拉着我的手叫我在水面上行走的主，那个对我说"你是彼得，我要把我的教会建造在这磐石上"的主。
 
 ## 鸡叫了
 
@@ -95,13 +95,13 @@ And the Lord turned and looked at Peter. And Peter remembered the saying of the 
 
 ## 提比哩亚海边
 
-祂复活之后，我不知道该怎么面对祂。我做了唯一会做的事——回去打鱼。
+祂复活之后，我不知道该怎么面对祂。我做了唯一会做的事，回去打鱼。
 
-那天晚上，我们整夜什么也没打着。天快亮的时候，岸上站着一个人，喊："小子们，你们有吃的没有？"我们说没有。祂说："把网撒在船的右边。"我们照做了——鱼多得网都拉不上来。
+那天晚上，我们整夜什么也没打着。天快亮的时候，岸上站着一个人，喊："小子们，你们有吃的没有？"我们说没有。祂说："把网撒在船的右边。"我们照做了，鱼多得网都拉不上来。
 
 约翰先认出祂："是主！"
 
-我一听到这句话，就束上外衣，跳进海里，游向岸边。弟兄姐妹，你们听到了吗——**我没有逃走，我向祂游过去了。** 我不知道祂要对我说什么，我不知道等待我的是斥责还是赦免，但我无法不奔向祂。这就是爱——哪怕你满身羞耻，你还是忍不住要到祂面前。
+我一听到这句话，就束上外衣，跳进海里，游向岸边。弟兄姐妹，你们听到了吗，**我没有逃走，我向祂游过去了。** 我不知道祂要对我说什么，我不知道等待我的是斥责还是赦免，但我无法不奔向祂。这就是爱，哪怕你满身羞耻，你还是忍不住要到祂面前。
 
 上了岸，我看到一堆**炭火**。
 
@@ -115,11 +115,11 @@ And the Lord turned and looked at Peter. And Peter remembered the saying of the 
 
 **"约翰的儿子西门，你爱我比这些更深吗？"**
 
-弟兄姐妹，祂没有叫我"彼得"。祂叫我"约翰的儿子西门"——我的旧名字，那个还没有被呼召、还没有被赐名"磐石"之前的名字。好像在说：我们回到起点，重新来过。
+弟兄姐妹，祂没有叫我"彼得"。祂叫我"约翰的儿子西门"，我的旧名字，那个还没有被呼召、还没有被赐名"磐石"之前的名字。好像在说：我们回到起点，重新来过。
 
 我说："主阿，是的，你知道我爱你。"
 
-可我不敢再用那个大胆的"爱"字了。在希腊文里，祂问的是agape——那种完全的、舍己的、至死不渝的爱。我回答的是phileo——朋友的爱、真诚却有限的爱。因为我已经不敢夸口了。那个说"我就是跟你一起死也不会不认你"的人，连在一个使女面前都站不住。
+可我不敢再用那个大胆的"爱"字了。在希腊文里，祂问的是agape，那种完全的、舍己的、至死不渝的爱。我回答的是phileo：朋友的爱、真诚却有限的爱。因为我已经不敢夸口了。那个说"我就是跟你一起死也不会不认你"的人，连在一个使女面前都站不住。
 
 祂说："你喂养我的小羊。"
 
@@ -135,47 +135,47 @@ And the Lord turned and looked at Peter. And Peter remembered the saying of the 
 
 经文说"彼得因为耶稣第三次对他说'你爱我吗'，就忧愁"。
 
-我忧愁，不是因为祂烦我。我忧愁，是因为我知道为什么是三次——**三次不认，三次恢复。** 每一次提问，都在拆除一次否认。祂在一层一层地把那个夜晚的咒诅从我身上剥下来。
+我忧愁，不是因为祂烦我。我忧愁，是因为我知道为什么是三次，**三次不认，三次恢复。** 每一次提问，都在拆除一次否认。祂在一层一层地把那个夜晚的咒诅从我身上剥下来。
 
 我流着泪说："主阿，你是无所不知的，**你知道我爱你。**"
 
-我不再为自己辩护，不再夸口，不再承诺。我只能说：你知道。你知道我的软弱，你知道我的失败，你知道我所有的眼泪和羞耻——**但你也知道，在这一切的底下，我爱你。** 哪怕是这么小的、这么残破的爱，你都知道。
+我不再为自己辩护，不再夸口，不再承诺。我只能说：你知道。你知道我的软弱，你知道我的失败，你知道我所有的眼泪和羞耻，**但你也知道，在这一切的底下，我爱你。** 哪怕是这么小的、这么残破的爱，你都知道。
 
 祂说："你喂养我的羊。"
 
-弟兄姐妹，你们听到了吗？祂没有说"好吧，我原谅你了，但你以后靠边站"。祂没有降职我、边缘化我、给我安排一个不重要的岗位。**祂把最重要的使命交给了我——牧养祂的羊群。**
+弟兄姐妹，你们听到了吗？祂没有说"好吧，我原谅你了，但你以后靠边站"。祂没有降职我、边缘化我、给我安排一个不重要的岗位。**祂把最重要的使命交给了我，牧养祂的羊群。**
 
 这就是恩典。恩典不只是赦免你的过去，恩典是重新赋予你未来。
 
 ## 致每一个跌倒过的人
 
-弟兄姐妹，我写这封信的时候，手在发抖。不是因为年老——是因为每次回想那个夜晚和那个清晨，我都会哭。
+弟兄姐妹，我写这封信的时候，手在发抖。不是因为年老，是因为每次回想那个夜晚和那个清晨，我都会哭。
 
 那个夜晚是我生命中最黑暗的时刻。但那个清晨是我生命中最光明的时刻。
 
-如果你此刻正被自己的失败压得喘不过气来——如果你觉得自己说过的话、做过的事、背叛过的信任，让你不配再被主使用——
+如果你此刻正被自己的失败压得喘不过气来：如果你觉得自己说过的话、做过的事、背叛过的信任，让你不配再被主使用：
 
 **请你听我说：** 我，彼得，三次在众人面前发咒起誓说不认识耶稣。我看见祂的眼神，跑出去痛哭。我以为一切都完了。
 
-但祂在海边为我生了一堆炭火。祂亲手做了早饭。祂三次问我"你爱我吗"——不是为了定罪，是为了释放。
+但祂在海边为我生了一堆炭火。祂亲手做了早饭。祂三次问我"你爱我吗"，不是为了定罪，是为了释放。
 
-后来，那个三次不认主的人，在五旬节站在耶路撒冷的街头，放胆讲道，三千人归主。不是因为我变得刚强了——**是因为我终于不再靠自己的刚强了。**
+后来，那个三次不认主的人，在五旬节站在耶路撒冷的街头，放胆讲道，三千人归主。不是因为我变得刚强了，**是因为我终于不再靠自己的刚强了。**
 
 跌倒不是故事的结局。鸡叫不是最后的声音。炭火旁的否认不是最后的画面。
 
-最后的画面，是另一堆炭火——提比哩亚海边，晨光里，复活的主亲手为我烤鱼，看着我的眼睛，温柔地问：
+最后的画面，是另一堆炭火，提比哩亚海边，晨光里，复活的主亲手为我烤鱼，看着我的眼睛，温柔地问：
 
 **"你爱我吗？"**
 
 这个问题不只是问我的。今天，此刻，祂也在问你。
 
-不管你跌倒了多少次，不管你的否认有多深——**祂的恢复永远比你的跌倒更深。** 祂的炭火永远在那里，等着你回来。
+不管你跌倒了多少次，不管你的否认有多深，**祂的恢复永远比你的跌倒更深。** 祂的炭火永远在那里，等着你回来。
 
 你只需要回答一句话：**"主阿，你知道我爱你。"**
 
 *"你回头以后，要坚固你的弟兄。"（路加福音 22:32）*
 
-*愿恩惠、平安多多地加给你们——你的弟兄，彼得*
+*愿恩惠、平安多多地加给你们，你的弟兄，彼得*
 
 ## Content (English)
 
@@ -205,7 +205,7 @@ Three times He came back to find us sleeping. Three times. The man who said "I w
 
 "And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest not thou watch one hour? Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak." (Mark 14:37-38)
 
-The spirit is willing, but the flesh is weak — the most accurate description of my entire life.
+The spirit is willing, but the flesh is weak, the most accurate description of my entire life.
 
 ## The Charcoal Fire in the Courtyard
 
@@ -225,7 +225,7 @@ The third time, bystanders said: "Your accent betrays you. You are one of them."
 
 **I do not know the man!** I even began to invoke a curse on myself.
 
-Brothers and sisters, did you hear that? I swore an oath that I did not know Him — the One who called me by the Sea of Galilee, who held my hand as I walked on water, who said to me, "You are Peter, and on this rock I will build my church."
+Brothers and sisters, did you hear that? I swore an oath that I did not know Him, the One who called me by the Sea of Galilee, who held my hand as I walked on water, who said to me, "You are Peter, and on this rock I will build my church."
 
 ## The Rooster Crowed
 
@@ -249,13 +249,13 @@ I went out and wept bitterly.
 
 ## By the Sea of Tiberias
 
-After His resurrection, I did not know how to face Him. So I did the only thing I knew — I went back to fishing.
+After His resurrection, I did not know how to face Him. So I did the only thing I knew, I went back to fishing.
 
-That night we caught nothing. As dawn broke, a figure stood on the shore and called out: "Children, do you have any fish?" We said no. He said, "Cast the net on the right side of the boat." We did — and the net was so full we could not haul it in.
+That night we caught nothing. As dawn broke, a figure stood on the shore and called out: "Children, do you have any fish?" We said no. He said, "Cast the net on the right side of the boat." We did, and the net was so full we could not haul it in.
 
 John recognized Him first: "It is the Lord!"
 
-The moment I heard those words, I put on my outer garment and threw myself into the sea, swimming toward shore. Brothers and sisters, did you hear that? **I did not run away. I swam toward Him.** I did not know what He would say to me — rebuke or forgiveness — but I could not help running to Him. That is what love does: even when you are covered in shame, you cannot stay away.
+The moment I heard those words, I put on my outer garment and threw myself into the sea, swimming toward shore. Brothers and sisters, did you hear that? **I did not run away. I swam toward Him.** I did not know what He would say to me, rebuke or forgiveness, but I could not help running to Him. That is what love does: even when you are covered in shame, you cannot stay away.
 
 When I reached the shore, I saw a **charcoal fire**.
 
@@ -263,17 +263,17 @@ A charcoal fire.
 
 The last time I sat beside a charcoal fire was in the courtyard of the high priest. Beside that fire, I said three times, "I do not know the man."
 
-He did not build just any fire. **He deliberately used a charcoal fire to bring me back to the scene of my fall.** Not to humiliate me, but to heal me. Because true restoration does not pretend the fall never happened — it takes you back to where you fell, and lets you stand up again right there.
+He did not build just any fire. **He deliberately used a charcoal fire to bring me back to the scene of my fall.** Not to humiliate me, but to heal me. Because true restoration does not pretend the fall never happened, it takes you back to where you fell, and lets you stand up again right there.
 
 After breakfast, He looked at me and asked the first question:
 
 **"Simon, son of John, do you love me more than these?"**
 
-Brothers and sisters, He did not call me "Peter." He called me "Simon, son of John" — my old name, the name before I was called, before I was named "the Rock." As if to say: let us go back to the beginning and start over.
+Brothers and sisters, He did not call me "Peter." He called me "Simon, son of John", my old name, the name before I was called, before I was named "the Rock." As if to say: let us go back to the beginning and start over.
 
 I said, "Yes, Lord; you know that I love you."
 
-But I no longer dared to use that bold word for love. In Greek, He asked with agape — total, self-sacrificing, unwavering love. I answered with phileo — the love of a friend, sincere but limited. Because I could no longer boast. The man who said "I will die with you" could not even stand firm before a servant girl.
+But I no longer dared to use that bold word for love. In Greek, He asked with agape, total, self-sacrificing, unwavering love. I answered with phileo, the love of a friend, sincere but limited. Because I could no longer boast. The man who said "I will die with you" could not even stand firm before a servant girl.
 
 He said, "Feed my lambs."
 
@@ -289,45 +289,45 @@ A third time He asked: **"Simon, son of John, do you love me?"**
 
 Scripture says "Peter was grieved because he said to him the third time, 'Do you love me?'"
 
-I was grieved not because He was pestering me. I was grieved because I knew why it was three times — **three denials, three restorations.** Each question dismantled one denial. He was peeling away the curse of that night, layer by layer, from my soul.
+I was grieved not because He was pestering me. I was grieved because I knew why it was three times, **three denials, three restorations.** Each question dismantled one denial. He was peeling away the curse of that night, layer by layer, from my soul.
 
 Through tears I said: "Lord, you know everything; **you know that I love you.**"
 
-I no longer defended myself, no longer boasted, no longer made promises. All I could say was: You know. You know my weakness, you know my failure, you know all my tears and shame — **but you also know that beneath it all, I love you.** Even this small, broken love — you know it.
+I no longer defended myself, no longer boasted, no longer made promises. All I could say was: You know. You know my weakness, you know my failure, you know all my tears and shame, **but you also know that beneath it all, I love you.** Even this small, broken love, you know it.
 
 He said, "Feed my sheep."
 
-Brothers and sisters, did you hear? He did not say, "Fine, I forgive you, but step aside from now on." He did not demote me, marginalize me, or assign me some minor role. **He entrusted me with His most important mission — to shepherd His flock.**
+Brothers and sisters, did you hear? He did not say, "Fine, I forgive you, but step aside from now on." He did not demote me, marginalize me, or assign me some minor role. **He entrusted me with His most important mission, to shepherd His flock.**
 
 This is grace. Grace does not merely forgive your past. Grace gives you back your future.
 
 ## To Everyone Who Has Fallen
 
-Brothers and sisters, my hand trembles as I write this letter. Not from age — but because every time I remember that night and that morning, I weep.
+Brothers and sisters, my hand trembles as I write this letter. Not from age, but because every time I remember that night and that morning, I weep.
 
 That night was the darkest moment of my life. But that morning was the brightest.
 
-If you are crushed by your own failure right now — if the words you have spoken, the things you have done, the trust you have betrayed make you feel unworthy of ever being used by the Lord again —
+If you are crushed by your own failure right now, if the words you have spoken, the things you have done, the trust you have betrayed make you feel unworthy of ever being used by the Lord again: 
 
 **Hear me:** I, Peter, swore with curses three times before witnesses that I did not know Jesus. I saw His eyes, ran out, and wept bitterly. I thought it was all over.
 
-But He built a charcoal fire for me on the shore. He cooked breakfast with His own hands. He asked me three times, "Do you love me?" — not to condemn, but to set me free.
+But He built a charcoal fire for me on the shore. He cooked breakfast with His own hands. He asked me three times, "Do you love me?", not to condemn, but to set me free.
 
-Later, the man who denied the Lord three times stood in the streets of Jerusalem at Pentecost and preached boldly, and three thousand souls were saved. Not because I had become strong — **but because I had finally stopped relying on my own strength.**
+Later, the man who denied the Lord three times stood in the streets of Jerusalem at Pentecost and preached boldly, and three thousand souls were saved. Not because I had become strong, **but because I had finally stopped relying on my own strength.**
 
 Falling is not the end of the story. The rooster's crow is not the final sound. The denial by the charcoal fire is not the final scene.
 
-The final scene is another charcoal fire — by the Sea of Tiberias, in the morning light, the risen Lord grilling fish for me with His own hands, looking into my eyes, and gently asking:
+The final scene is another charcoal fire, by the Sea of Tiberias, in the morning light, the risen Lord grilling fish for me with His own hands, looking into my eyes, and gently asking:
 
 **"Do you love me?"**
 
 That question was not only for me. Today, right now, He is asking you too.
 
-No matter how many times you have fallen, no matter how deep your denial — **His restoration is always deeper than your fall.** His charcoal fire is always there, waiting for you to come home.
+No matter how many times you have fallen, no matter how deep your denial, **His restoration is always deeper than your fall.** His charcoal fire is always there, waiting for you to come home.
 
 You need only answer one thing: **"Lord, you know that I love you."**
 
 *"But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren." (Luke 22:32)*
 
-*May grace and peace be multiplied to you — your brother, Peter*
+*May grace and peace be multiplied to you, your brother, Peter*
 

@@ -22,10 +22,10 @@ export default function ApologeticsPage() {
         </h1>
         <p className="text-[var(--color-text-secondary)]">Apologetics</p>
         <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto">
-          只要心里尊主基督为圣。有人问你们心中盼望的缘由，就要常作准备，以温柔、敬畏的心回答各人。— 彼得前书 3:15
+          只要心里尊主基督为圣。有人问你们心中盼望的缘由，就要常作准备，以温柔、敬畏的心回答各人。, 彼得前书 3:15
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-lg mx-auto italic">
-          But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect. — 1 Peter 3:15
+          But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect., 1 Peter 3:15
         </p>
       </div>
 

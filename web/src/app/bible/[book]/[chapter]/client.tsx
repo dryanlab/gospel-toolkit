@@ -18,7 +18,7 @@ interface Book { id: string; name_en: string; name_zh: string; chapters: number;
 
 type Mode = 'cuv' | 'kjv' | 'parallel';
 
-// Song of Solomon speaker labels — extract from verse text and render as styled tags
+// Song of Solomon speaker labels, extract from verse text and render as styled tags
 const SPEAKER_RE = /（(新郎|新娘|书拉密女|书拉密|耶路撒冷的众女子|新娘的兄弟|众女子)）/g;
 
 function extractSpeaker(text: string): { speaker: string | null; cleaned: string } {
@@ -81,12 +81,12 @@ function buildVerseLabels(verses: string[]): { label: string; skip: boolean }[] 
   return result;
 }
 
-// Chinese pronunciation fixes for TTS — common misread characters in biblical context
+// Chinese pronunciation fixes for TTS, common misread characters in biblical context
 const ZH_PRONUNCIATION_FIXES: [RegExp, string][] = [
   // Punctuation cleanup for natural reading
   [/耶和华─/g, '耶和华，'],
   [/─/g, '，'],
-  // Skip translator notes — not part of scripture text
+  // Skip translator notes, not part of scripture text
   [/（或译[^）]*）/g, ''],
   [/（或作[^）]*）/g, ''],
   // Pronunciation fixes are handled server-side (tts-api/server.py ZH_REPLACEMENTS)
@@ -102,7 +102,7 @@ function buildTtsText(
 ): string {
   if (!verses) return '';
   const parts: string[] = [];
-  // Chapter title — no blank line after, so it stays in the same TTS chunk as first verses
+  // Chapter title, no blank line after, so it stays in the same TTS chunk as first verses
   parts.push(lang === 'zh' ? `${bookName}，第${chapter}章。` : `${bookName}, chapter ${chapter}.`);
 
   for (let i = 0; i < verses.length; i++) {

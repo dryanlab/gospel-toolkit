@@ -40,7 +40,7 @@ export const themesA3: AltarTheme[] = [
         },
         reflection: {
           zh: '诗人邀请我们以感谢和赞美来到神的面前。感恩是我们进入神同在的钥匙，当我们称谢祂的名，我们的心就被引向敬拜。',
-          en: 'The psalmist invites us to come before God with thanksgiving and praise. Gratitude is the key to entering God\'s presence—when we bless His name, our hearts are drawn into worship.',
+          en: 'The psalmist invites us to come before God with thanksgiving and praise. Gratitude is the key to entering God\'s presence, when we bless His name, our hearts are drawn into worship.',
         },
         question: {
           zh: '你通常以什么样的态度来到神面前？感谢和赞美如何改变你亲近神的方式？',
@@ -59,8 +59,8 @@ export const themesA3: AltarTheme[] = [
           text_en: 'O give thanks unto the LORD, for he is good: for his mercy endureth for ever.',
         },
         reflection: {
-          zh: '感恩的根基在于神的本性——祂本为善，祂的慈爱永远长存。我们的感恩不是基于环境，而是基于神永不改变的良善和慈爱。',
-          en: 'The foundation of gratitude lies in God\'s nature—He is good, and His steadfast love endures forever. Our thankfulness is not based on circumstances but on God\'s unchanging goodness and love.',
+          zh: '感恩的根基在于神的本性，祂本为善，祂的慈爱永远长存。我们的感恩不是基于环境，而是基于神永不改变的良善和慈爱。',
+          en: 'The foundation of gratitude lies in God\'s nature, He is good, and His steadfast love endures forever. Our thankfulness is not based on circumstances but on God\'s unchanging goodness and love.',
         },
         question: {
           zh: '回想你的人生，神的慈爱在哪些时刻显得格外真实？"他的慈爱永远长存"这句话如何坚固你的信心？',
@@ -159,8 +159,8 @@ export const themesA3: AltarTheme[] = [
           text_en: 'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.',
         },
         reflection: {
-          zh: '保罗将感谢与祷告、祈求并列，教导我们在向神求告的同时要带着感恩。感恩是胜过忧虑的良药——当我们感谢神已经做的，就能信靠祂将要做的。',
-          en: 'Paul places thanksgiving alongside prayer and supplication, teaching us to bring our requests to God with gratitude. Thankfulness is the antidote to anxiety—when we thank God for what He has done, we can trust Him for what He will do.',
+          zh: '保罗将感谢与祷告、祈求并列，教导我们在向神求告的同时要带着感恩。感恩是胜过忧虑的良药，当我们感谢神已经做的，就能信靠祂将要做的。',
+          en: 'Paul places thanksgiving alongside prayer and supplication, teaching us to bring our requests to God with gratitude. Thankfulness is the antidote to anxiety, when we thank God for what He has done, we can trust Him for what He will do.',
         },
         question: {
           zh: '当你忧虑时，感恩如何帮助你将重担交给神？你能否在祈求的同时也数算神过去的恩典？',
@@ -180,7 +180,7 @@ export const themesA3: AltarTheme[] = [
         },
         reflection: {
           zh: '诗人呼召我们以感谢和诗歌来到神面前。感恩不只是安静的默想，也可以用欢呼和歌唱来表达。喜乐的敬拜源于感恩的心。',
-          en: 'The psalmist calls us to come before God with thanksgiving and songs of praise. Gratitude is not only quiet reflection—it can be expressed in joyful noise and singing. Joyful worship flows from a thankful heart.',
+          en: 'The psalmist calls us to come before God with thanksgiving and songs of praise. Gratitude is not only quiet reflection, it can be expressed in joyful noise and singing. Joyful worship flows from a thankful heart.',
         },
         question: {
           zh: '你喜欢用什么方式表达对神的感恩？诗歌和欢呼如何丰富你的感恩生活？',
@@ -219,8 +219,8 @@ export const themesA3: AltarTheme[] = [
           text_en: 'Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.',
         },
         reflection: {
-          zh: '保罗指出，当我们在基督里生根建造、信心坚固时，感恩的心也会自然增长。感恩是属灵成熟的标志——我们越认识基督，就越充满感谢。',
-          en: 'Paul points out that as we are rooted and built up in Christ with firm faith, thanksgiving naturally abounds. Gratitude is a mark of spiritual maturity—the more we know Christ, the more thankful we become.',
+          zh: '保罗指出，当我们在基督里生根建造、信心坚固时，感恩的心也会自然增长。感恩是属灵成熟的标志，我们越认识基督，就越充满感谢。',
+          en: 'Paul points out that as we are rooted and built up in Christ with firm faith, thanksgiving naturally abounds. Gratitude is a mark of spiritual maturity, the more we know Christ, the more thankful we become.',
         },
         question: {
           zh: '你觉得自己在基督里的根基是否稳固？你的感恩之心是否随着信心的成长而增长？',
@@ -259,8 +259,8 @@ export const themesA3: AltarTheme[] = [
           text_en: 'For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: For it is sanctified by the word of God and prayer.',
         },
         reflection: {
-          zh: '保罗教导我们，神所造的一切都是好的，关键在于我们是否以感恩的心领受。感恩的态度使日常生活中的一切——食物、工作、关系——都成为圣洁。',
-          en: 'Paul teaches that everything God created is good; the key is whether we receive it with thanksgiving. A grateful attitude sanctifies everything in daily life—food, work, relationships—making them holy.',
+          zh: '保罗教导我们，神所造的一切都是好的，关键在于我们是否以感恩的心领受。感恩的态度使日常生活中的一切：食物、工作、关系，都成为圣洁。',
+          en: 'Paul teaches that everything God created is good; the key is whether we receive it with thanksgiving. A grateful attitude sanctifies everything in daily life, food, work, relationships, making them holy.',
         },
         question: {
           zh: '你是否以感恩的心领受神赐给你的日常事物？感恩如何使平凡的事物变得神圣？',
@@ -279,8 +279,8 @@ export const themesA3: AltarTheme[] = [
           text_en: 'Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;',
         },
         reflection: {
-          zh: '保罗呼召我们"常常"和"凡事"感谢父神。这不是偶尔的感恩，而是持续不断的生活方式——奉耶稣基督的名，在一切事上感谢天父。',
-          en: 'Paul calls us to give thanks "always" and "for everything" to God the Father. This is not occasional gratitude but a continual way of life—giving thanks in all things in the name of our Lord Jesus Christ.',
+          zh: '保罗呼召我们"常常"和"凡事"感谢父神。这不是偶尔的感恩，而是持续不断的生活方式，奉耶稣基督的名，在一切事上感谢天父。',
+          en: 'Paul calls us to give thanks "always" and "for everything" to God the Father. This is not occasional gratitude but a continual way of life, giving thanks in all things in the name of our Lord Jesus Christ.',
         },
         question: {
           zh: '"常常感谢"和"凡事感谢"对你来说意味着什么？你如何在日常生活中实践这种持续的感恩？',
@@ -299,8 +299,8 @@ export const themesA3: AltarTheme[] = [
           text_en: 'By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.',
         },
         reflection: {
-          zh: '希伯来书将感恩的赞美比作献给神的祭。靠着耶稣，我们不再需要牲畜为祭，而是以嘴唇的果子——感恩与颂赞——来敬拜神。这是新约信徒最美的祭。',
-          en: 'Hebrews compares thankful praise to a sacrifice offered to God. Through Jesus, we no longer need animal sacrifices but worship God with the fruit of our lips—gratitude and praise. This is the most beautiful offering of New Testament believers.',
+          zh: '希伯来书将感恩的赞美比作献给神的祭。靠着耶稣，我们不再需要牲畜为祭，而是以嘴唇的果子，感恩与颂赞，来敬拜神。这是新约信徒最美的祭。',
+          en: 'Hebrews compares thankful praise to a sacrifice offered to God. Through Jesus, we no longer need animal sacrifices but worship God with the fruit of our lips, gratitude and praise. This is the most beautiful offering of New Testament believers.',
         },
         question: {
           zh: '你如何理解"以颂赞为祭"？在什么时候赞美对你来说最像一种牺牲？',
@@ -328,12 +328,12 @@ export const themesA3: AltarTheme[] = [
           text_en: 'For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.',
         },
         reflection: {
-          zh: '这是圣经中最著名的经文之一，揭示了神爱的深度——祂将独生子赐给我们。神的爱不是抽象的概念，而是以耶稣基督的生命为代价的具体行动。',
-          en: 'This is one of the most famous verses in Scripture, revealing the depth of God\'s love—He gave His only Son for us. God\'s love is not an abstract concept but a concrete action that cost the life of Jesus Christ.',
+          zh: '这是圣经中最著名的经文之一，揭示了神爱的深度，祂将独生子赐给我们。神的爱不是抽象的概念，而是以耶稣基督的生命为代价的具体行动。',
+          en: 'This is one of the most famous verses in Scripture, revealing the depth of God\'s love, He gave His only Son for us. God\'s love is not an abstract concept but a concrete action that cost the life of Jesus Christ.',
         },
         question: {
-          zh: '"神爱世人，甚至将他的独生子赐给他们"——这句话对你个人意味着什么？你如何回应如此大的爱？',
-          en: '"God so loved the world, that he gave his only Son"—what does this mean to you personally? How do you respond to such great love?',
+          zh: '"神爱世人，甚至将他的独生子赐给他们"，这句话对你个人意味着什么？你如何回应如此大的爱？',
+          en: '"God so loved the world, that he gave his only Son", what does this mean to you personally? How do you respond to such great love?',
         },
         prayer: {
           zh: '天父，感谢你爱世人，甚至将你的独生子赐给我们。这份爱超过我所能理解的。求你帮助我深深领受这份爱，并将它分享给周围的人。奉主耶稣的名祷告，阿们。',
@@ -348,8 +348,8 @@ export const themesA3: AltarTheme[] = [
           text_en: 'For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.',
         },
         reflection: {
-          zh: '保罗列举了一切可能的力量——死亡、生命、天使、掌权者——没有任何事物能使我们与神在基督里的爱隔绝。这是何等坚定不移的爱！',
-          en: 'Paul lists every conceivable power—death, life, angels, rulers—and declares that nothing can separate us from God\'s love in Christ. What unshakable, immovable love this is!',
+          zh: '保罗列举了一切可能的力量：死亡、生命、天使、掌权者，没有任何事物能使我们与神在基督里的爱隔绝。这是何等坚定不移的爱！',
+          en: 'Paul lists every conceivable power, death, life, angels, rulers, and declares that nothing can separate us from God\'s love in Christ. What unshakable, immovable love this is!',
         },
         question: {
           zh: '你是否曾感觉与神的爱隔绝？这段经文如何回应你的恐惧和疑虑？',
@@ -368,8 +368,8 @@ export const themesA3: AltarTheme[] = [
           text_en: 'We love him, because he first loved us.',
         },
         reflection: {
-          zh: '约翰揭示了爱的源头——不是我们先爱神，而是神先爱我们。我们一切爱的能力都源于神主动的、先行的爱。',
-          en: 'John reveals the source of love—not that we loved God first, but that He first loved us. All our capacity to love originates from God\'s initiative, His preemptive love.',
+          zh: '约翰揭示了爱的源头，不是我们先爱神，而是神先爱我们。我们一切爱的能力都源于神主动的、先行的爱。',
+          en: 'John reveals the source of love, not that we loved God first, but that He first loved us. All our capacity to love originates from God\'s initiative, His preemptive love.',
         },
         question: {
           zh: '知道"神先爱我们"如何改变你爱人的方式？你如何在日常生活中传递神先行的爱？',
@@ -388,12 +388,12 @@ export const themesA3: AltarTheme[] = [
           text_en: 'In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him. Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.',
         },
         reflection: {
-          zh: '神的爱不是空洞的话语，而是藉着差遣独生子为我们的罪作挽回祭显明出来的。这就是爱的定义——不是我们爱神，而是神主动爱我们。',
-          en: 'God\'s love is not empty words but was made manifest by sending His only Son as the propitiation for our sins. This is the definition of love—not that we loved God, but that He loved us first.',
+          zh: '神的爱不是空洞的话语，而是藉着差遣独生子为我们的罪作挽回祭显明出来的。这就是爱的定义，不是我们爱神，而是神主动爱我们。',
+          en: 'God\'s love is not empty words but was made manifest by sending His only Son as the propitiation for our sins. This is the definition of love, not that we loved God, but that He loved us first.',
         },
         question: {
-          zh: '约翰说"这就是爱了"——神差祂的儿子为我们的罪作挽回祭。这个爱的定义如何挑战你对爱的理解？',
-          en: 'John says "this is love"—God sent His Son as the propitiation for our sins. How does this definition of love challenge your understanding of love?',
+          zh: '约翰说"这就是爱了"，神差祂的儿子为我们的罪作挽回祭。这个爱的定义如何挑战你对爱的理解？',
+          en: 'John says "this is love", God sent His Son as the propitiation for our sins. How does this definition of love challenge your understanding of love?',
         },
         prayer: {
           zh: '主啊，感谢你差遣独生子到世间来，为我们的罪作了挽回祭。这就是爱！求你帮助我深深领受这份爱，也活出这份爱。奉主耶稣的名祷告，阿们。',
@@ -408,12 +408,12 @@ export const themesA3: AltarTheme[] = [
           text_en: 'But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.',
         },
         reflection: {
-          zh: '神的爱最惊人之处在于——祂不是等我们变好了才爱我们，而是在我们还作罪人的时候，基督就为我们死了。这是无条件的、主动的爱。',
+          zh: '神的爱最惊人之处在于，祂不是等我们变好了才爱我们，而是在我们还作罪人的时候，基督就为我们死了。这是无条件的、主动的爱。',
           en: 'The most astonishing aspect of God\'s love is this: He did not wait for us to become good before loving us. While we were still sinners, Christ died for us. This is unconditional, proactive love.',
         },
         question: {
-          zh: '"在我们还作罪人的时候"——这个时间点为什么如此重要？神的爱不附带条件，这如何影响你看待自己和他人？',
-          en: '"While we were still sinners"—why is this timing so significant? How does God\'s unconditional love affect how you see yourself and others?',
+          zh: '"在我们还作罪人的时候"，这个时间点为什么如此重要？神的爱不附带条件，这如何影响你看待自己和他人？',
+          en: '"While we were still sinners", why is this timing so significant? How does God\'s unconditional love affect how you see yourself and others?',
         },
         prayer: {
           zh: '天父，感谢你在我还作罪人的时候就差基督为我死。你的爱不附带条件，不等我变好。求你帮助我以同样无条件的爱去对待身边的人。奉主耶稣的名祷告，阿们。',
@@ -428,8 +428,8 @@ export const themesA3: AltarTheme[] = [
           text_en: 'But God, who is rich in mercy, for his great love wherewith he loved us, Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)',
         },
         reflection: {
-          zh: '保罗描绘了我们属灵的真实光景——死在过犯中。然而神因着祂丰富的怜悯和大爱，叫我们与基督一同活过来。从死到生，全是恩典。',
-          en: 'Paul paints our true spiritual condition—dead in trespasses. Yet God, rich in mercy and great love, made us alive together with Christ. From death to life—all by grace.',
+          zh: '保罗描绘了我们属灵的真实光景，死在过犯中。然而神因着祂丰富的怜悯和大爱，叫我们与基督一同活过来。从死到生，全是恩典。',
+          en: 'Paul paints our true spiritual condition, dead in trespasses. Yet God, rich in mercy and great love, made us alive together with Christ. From death to life, all by grace.',
         },
         question: {
           zh: '从"死在过犯中"到"与基督一同活过来"，这个转变全因神的大爱。你如何经历了这份使人活过来的爱？',
@@ -448,8 +448,8 @@ export const themesA3: AltarTheme[] = [
           text_en: 'The LORD hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.',
         },
         reflection: {
-          zh: '神对祂子民的爱是"永远的爱"——没有起点，没有终点。祂以慈爱吸引我们，不是强迫，而是温柔地引领。这份永远的爱是我们最深的安全感。',
-          en: 'God\'s love for His people is "everlasting love"—without beginning or end. He draws us with faithfulness, not by force but by gentle leading. This everlasting love is our deepest security.',
+          zh: '神对祂子民的爱是"永远的爱"，没有起点，没有终点。祂以慈爱吸引我们，不是强迫，而是温柔地引领。这份永远的爱是我们最深的安全感。',
+          en: 'God\'s love for His people is "everlasting love", without beginning or end. He draws us with faithfulness, not by force but by gentle leading. This everlasting love is our deepest security.',
         },
         question: {
           zh: '你如何感受到神以慈爱吸引你？"永远的爱"这个概念如何影响你对未来的盼望？',
@@ -472,12 +472,12 @@ export const themesA3: AltarTheme[] = [
           en: 'David uses the immeasurable distance between heaven and earth to describe the vastness of God\'s steadfast love. God\'s love for those who fear Him surpasses all measurement and imagination.',
         },
         question: {
-          zh: '天离地何等的高——你能想象神的慈爱有多大吗？这份超越想象的爱如何给你安慰和力量？',
-          en: 'As high as the heavens are above the earth—can you imagine how great God\'s love is? How does this love beyond imagination give you comfort and strength?',
+          zh: '天离地何等的高，你能想象神的慈爱有多大吗？这份超越想象的爱如何给你安慰和力量？',
+          en: 'As high as the heavens are above the earth, can you imagine how great God\'s love is? How does this love beyond imagination give you comfort and strength?',
         },
         prayer: {
           zh: '主啊，你的慈爱何等浩大，如天离地那样高！我虽不能完全理解，但我深深感恩。求你帮助我敬畏你，住在你广大的慈爱中。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, Your steadfast love is so great—as high as the heavens are above the earth! Though I cannot fully comprehend it, I am deeply grateful. Help me fear You and dwell in Your vast love. In Jesus\' name, amen.',
+          en: 'Lord, Your steadfast love is so great, as high as the heavens are above the earth! Though I cannot fully comprehend it, I am deeply grateful. Help me fear You and dwell in Your vast love. In Jesus\' name, amen.',
         },
       },
       {
@@ -488,8 +488,8 @@ export const themesA3: AltarTheme[] = [
           text_en: 'The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.',
         },
         reflection: {
-          zh: '这节经文描绘了一幅令人惊叹的画面——全能的神因我们欢欣喜乐，默然爱我们，甚至因我们欢呼歌唱。神不是冷漠的旁观者，而是一位对祂儿女充满热情之爱的父。',
-          en: 'This verse paints an astonishing picture—the Almighty God rejoices over us with gladness, quiets us with His love, and even exults over us with loud singing. God is not a distant observer but a Father overflowing with passionate love for His children.',
+          zh: '这节经文描绘了一幅令人惊叹的画面，全能的神因我们欢欣喜乐，默然爱我们，甚至因我们欢呼歌唱。神不是冷漠的旁观者，而是一位对祂儿女充满热情之爱的父。',
+          en: 'This verse paints an astonishing picture, the Almighty God rejoices over us with gladness, quiets us with His love, and even exults over us with loud singing. God is not a distant observer but a Father overflowing with passionate love for His children.',
         },
         question: {
           zh: '你能想象神因你而欢呼歌唱吗？这幅画面如何改变你对神的认识？',
@@ -512,8 +512,8 @@ export const themesA3: AltarTheme[] = [
           en: 'This passage is the perfect portrait of love and a picture of God\'s love for us. God is patient and kind toward us, bears all things, hopes all things. When we read these descriptions, we see exactly how God loves us.',
         },
         question: {
-          zh: '将这段经文中的"爱"替换成"神"来读——你对神的爱有什么新的认识？你如何将这种爱活出来？',
-          en: 'Read this passage replacing "love" with "God"—what new insight do you gain about God\'s love? How can you live out this kind of love?',
+          zh: '将这段经文中的"爱"替换成"神"来读，你对神的爱有什么新的认识？你如何将这种爱活出来？',
+          en: 'Read this passage replacing "love" with "God", what new insight do you gain about God\'s love? How can you live out this kind of love?',
         },
         prayer: {
           zh: '主啊，感谢你的爱是恒久忍耐、又有恩慈的。你不轻易发怒，不计算我的恶，凡事包容、凡事盼望。求你帮助我效法你的爱去爱人。奉主耶稣的名祷告，阿们。',
@@ -528,16 +528,16 @@ export const themesA3: AltarTheme[] = [
           text_en: 'Greater love hath no man than this, that a man lay down his life for his friends.',
         },
         reflection: {
-          zh: '耶稣说最大的爱是为朋友舍命——而祂自己正是这样做了。十字架是爱的最高表达，耶稣为我们付出了最大的代价。',
-          en: 'Jesus says the greatest love is to lay down one\'s life for friends—and He Himself did exactly that. The cross is the ultimate expression of love; Jesus paid the highest price for us.',
+          zh: '耶稣说最大的爱是为朋友舍命，而祂自己正是这样做了。十字架是爱的最高表达，耶稣为我们付出了最大的代价。',
+          en: 'Jesus says the greatest love is to lay down one\'s life for friends, and He Himself did exactly that. The cross is the ultimate expression of love; Jesus paid the highest price for us.',
         },
         question: {
           zh: '耶稣为你舍命，这是最大的爱。你如何回应这份舍命的爱？你愿意为他人付出什么样的代价？',
-          en: 'Jesus laid down His life for you—the greatest love. How do you respond to this sacrificial love? What are you willing to sacrifice for others?',
+          en: 'Jesus laid down His life for you, the greatest love. How do you respond to this sacrificial love? What are you willing to sacrifice for others?',
         },
         prayer: {
           zh: '主耶稣，感谢你为我舍命，这是人间最大的爱。求你帮助我以舍己的心去爱人，效法你牺牲的榜样。奉主耶稣的名祷告，阿们。',
-          en: 'Lord Jesus, thank You for laying down Your life for me—the greatest love of all. Help me love others with a selfless heart, following Your example of sacrifice. In Jesus\' name, amen.',
+          en: 'Lord Jesus, thank You for laying down Your life for me, the greatest love of all. Help me love others with a selfless heart, following Your example of sacrifice. In Jesus\' name, amen.',
         },
       },
       {
@@ -568,8 +568,8 @@ export const themesA3: AltarTheme[] = [
           text_en: 'Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.',
         },
         reflection: {
-          zh: '约翰惊叹父神赐给我们的慈爱——使我们得称为神的儿女！这不只是一个称号，而是真实的身份。我们真是神的儿女，这是何等尊贵的爱。',
-          en: 'John marvels at the love the Father has given us—that we should be called children of God! This is not just a title but a real identity. We truly are God\'s children—what a precious love.',
+          zh: '约翰惊叹父神赐给我们的慈爱，使我们得称为神的儿女！这不只是一个称号，而是真实的身份。我们真是神的儿女，这是何等尊贵的爱。',
+          en: 'John marvels at the love the Father has given us, that we should be called children of God! This is not just a title but a real identity. We truly are God\'s children, what a precious love.',
         },
         question: {
           zh: '你是否真正意识到自己是"神的儿女"？这个身份如何影响你的自我认识和日常生活？',
@@ -588,12 +588,12 @@ export const themesA3: AltarTheme[] = [
           text_en: 'That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love, May be able to comprehend with all saints what is the breadth, and length, and depth, and height; And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.',
         },
         reflection: {
-          zh: '保罗为信徒祷告，求他们能明白基督的爱是何等长阔高深——这爱过于人所能测度。当我们被这爱充满，就被神一切的丰盛所充满。',
-          en: 'Paul prays for believers to comprehend the breadth, length, height, and depth of Christ\'s love—a love that surpasses knowledge. When we are filled with this love, we are filled with all the fullness of God.',
+          zh: '保罗为信徒祷告，求他们能明白基督的爱是何等长阔高深，这爱过于人所能测度。当我们被这爱充满，就被神一切的丰盛所充满。',
+          en: 'Paul prays for believers to comprehend the breadth, length, height, and depth of Christ\'s love, a love that surpasses knowledge. When we are filled with this love, we are filled with all the fullness of God.',
         },
         question: {
-          zh: '基督的爱是何等长阔高深——你在哪个维度上最需要更深的体验？这份"过于人所能测度"的爱如何改变你？',
-          en: 'The love of Christ has breadth, length, height, and depth—in which dimension do you most need a deeper experience? How does this love that "surpasses knowledge" change you?',
+          zh: '基督的爱是何等长阔高深，你在哪个维度上最需要更深的体验？这份"过于人所能测度"的爱如何改变你？',
+          en: 'The love of Christ has breadth, length, height, and depth, in which dimension do you most need a deeper experience? How does this love that "surpasses knowledge" change you?',
         },
         prayer: {
           zh: '主啊，求你使基督因信住在我心里，叫我的爱心有根有基。求你帮助我明白基督的爱是何等长阔高深，虽过于人所能测度，却真实地充满我。奉主耶稣的名祷告，阿们。',
@@ -608,12 +608,12 @@ export const themesA3: AltarTheme[] = [
           text_en: 'He that loveth not knoweth not God; for God is love.',
         },
         reflection: {
-          zh: '约翰做出了圣经中最深刻的宣告之一——"神就是爱"。爱不只是神的属性之一，而是神的本质。认识神，就是认识爱；经历爱，就是经历神。',
-          en: 'John makes one of the most profound declarations in Scripture—"God is love." Love is not just one of God\'s attributes but His very essence. To know God is to know love; to experience love is to experience God.',
+          zh: '约翰做出了圣经中最深刻的宣告之一："神就是爱"。爱不只是神的属性之一，而是神的本质。认识神，就是认识爱；经历爱，就是经历神。',
+          en: 'John makes one of the most profound declarations in Scripture: "God is love." Love is not just one of God\'s attributes but His very essence. To know God is to know love; to experience love is to experience God.',
         },
         question: {
-          zh: '"神就是爱"——这句话如何塑造你对神的整体认识？如果神的本质就是爱，这对你的生活意味着什么？',
-          en: '"God is love"—how does this shape your overall understanding of God? If God\'s very nature is love, what does this mean for your life?',
+          zh: '"神就是爱"，这句话如何塑造你对神的整体认识？如果神的本质就是爱，这对你的生活意味着什么？',
+          en: '"God is love", how does this shape your overall understanding of God? If God\'s very nature is love, what does this mean for your life?',
         },
         prayer: {
           zh: '主啊，你就是爱！你的本质就是爱。求你帮助我更深地认识你，也更深地活在爱中。愿我因认识你而成为一个有爱的人。奉主耶稣的名祷告，阿们。',

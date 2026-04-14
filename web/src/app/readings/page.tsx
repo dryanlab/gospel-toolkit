@@ -158,7 +158,7 @@ function BookCard({ book, readings }: { book: BookDef; readings: ReadingChapter[
   const { status, published, totalWritten, firstDate } = getBookStatus(book, readings);
   const pct = book.total > 0 ? Math.round((published / book.total) * 100) : 0;
 
-  // 状态1: 正在发表 — 可点击，显示进度条
+  // 状态1: 正在发表, 可点击，显示进度条
   if (status === 'active') {
     return (
       <Link
@@ -180,7 +180,7 @@ function BookCard({ book, readings }: { book: BookDef; readings: ReadingChapter[
     );
   }
 
-  // 状态2: 即将推出 — 灰色不可点，显示预计开始日期
+  // 状态2: 即将推出, 灰色不可点，显示预计开始日期
   if (status === 'coming') {
     return (
       <div className="flex items-center gap-3 p-3 rounded-xl border border-dashed border-[var(--color-accent)]/40 bg-[var(--color-bg-secondary)] opacity-70">
@@ -196,7 +196,7 @@ function BookCard({ book, readings }: { book: BookDef; readings: ReadingChapter[
     );
   }
 
-  // 状态3: 无内容 — 灰色不可点
+  // 状态3: 无内容, 灰色不可点
   return (
     <div className="flex items-center gap-3 p-3 rounded-xl border border-[var(--color-border)] bg-[var(--color-bg-secondary)] opacity-40">
       <span className="text-2xl grayscale">{book.icon}</span>
@@ -265,14 +265,14 @@ export default function ReadingsPage() {
         <p className="text-sm text-[var(--color-text-secondary)] mt-1">Read with the Saints</p>
         <blockquote className="mt-4 text-sm text-[var(--color-text-secondary)] italic max-w-lg mx-auto">
           &ldquo;圣经都是神所默示的，于教训、督责、使人归正、教导人学义都是有益的。&rdquo;
-          <span className="text-xs">— 提摩太后书 3:16</span>
+          <span className="text-xs">, 提摩太后书 3:16</span>
           <br />
           <span className="text-xs italic">&ldquo;All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness.&rdquo;</span>
           <br />
-          <span className="text-xs">— 2 Timothy 3:16</span>
+          <span className="text-xs">, 2 Timothy 3:16</span>
         </blockquote>
         <p className="mt-4 text-sm text-[var(--color-text)] max-w-2xl mx-auto leading-relaxed">
-          以圣经作者的视角，带你逐章走进经文。这不是原文翻译，而是基于改革宗释经传统的导读——想象摩西坐在你身旁，为你讲解他写下这些话时的心意。
+          以圣经作者的视角，带你逐章走进经文。这不是原文翻译，而是基于改革宗释经传统的导读，想象摩西坐在你身旁，为你讲解他写下这些话时的心意。
           <br />
           <span className="text-[var(--color-text-secondary)]">
             Walk through Scripture chapter by chapter, as if guided by the biblical author. These are not translations of the original text, but guided readings rooted in the Reformed interpretive tradition.
@@ -294,7 +294,7 @@ export default function ReadingsPage() {
           <span className="text-4xl">📖</span>
           <div>
             <div className="text-xl font-bold">圣经 / Holy Bible</div>
-            <div className="text-amber-100 text-sm mt-0.5">和合本 · King James Version — 66卷 1189章</div>
+            <div className="text-amber-100 text-sm mt-0.5">和合本 · King James Version, 66卷 1189章</div>
           </div>
           <span className="ml-auto text-2xl">→</span>
         </div>

@@ -40,7 +40,7 @@ function SearchResults() {
       <h1 className="font-serif-cn text-2xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">搜索结果</h1>
       {query && counts && (
         <p className="text-sm text-[var(--color-text-secondary)] mb-4">
-          搜索 &ldquo;{query}&rdquo; — 找到 {counts[scope]} 个结果
+          搜索 &ldquo;{query}&rdquo;, 找到 {counts[scope]} 个结果
         </p>
       )}
 
@@ -134,7 +134,7 @@ function SearchResults() {
                 {results.books.map(b => (
                   <Link key={b.id} href={`/library/${b.id}`} className="block rounded-xl border border-[var(--color-border)] p-3 hover:border-[var(--color-accent)] transition">
                     <h3 className="font-serif-cn font-medium text-[var(--color-text)] break-words">{b.title_zh}</h3>
-                    <p className="text-sm text-[var(--color-text-secondary)] break-words">{b.author_zh} — {b.title_en}</p>
+                    <p className="text-sm text-[var(--color-text-secondary)] break-words">{b.author_zh}, {b.title_en}</p>
                   </Link>
                 ))}
               </div>
@@ -168,7 +168,7 @@ function SearchResults() {
                 {results.worship.map((s: any) => (
                   <Link key={s.id} href={`/worship?song=${encodeURIComponent(s.id)}`} className="block rounded-xl border border-[var(--color-border)] p-3 hover:border-[var(--color-accent)] transition">
                     <h3 className="font-serif-cn font-medium text-[var(--color-text)] break-words">{s.title}</h3>
-                    <p className="text-sm text-[var(--color-text-secondary)] break-words">🎤 {s.artist}{s.subtitle ? ` — ${s.subtitle}` : ''}</p>
+                    <p className="text-sm text-[var(--color-text-secondary)] break-words">🎤 {s.artist}{s.subtitle ? `, ${s.subtitle}` : ''}</p>
                   </Link>
                 ))}
               </div>

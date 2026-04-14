@@ -271,7 +271,7 @@ export default function GenesisClient({ chapters: staticChapters }: { chapters: 
       </div>
 
       <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-5 mb-8 italic text-sm text-[var(--color-text)]">
-        <p>&ldquo;弟兄姐妹，我是摩西，耶和华的仆人。这卷书是我在西奈旷野写下的，要让你们知道——万物从何而来，又是谁的手托住这一切。&rdquo;</p>
+        <p>&ldquo;弟兄姐妹，我是摩西，耶和华的仆人。这卷书是我在西奈旷野写下的，要让你们知道，万物从何而来，又是谁的手托住这一切。&rdquo;</p>
         <p className="text-[var(--color-text-secondary)] mt-2">&ldquo;Brothers and sisters, I am Moses, servant of the LORD. I wrote this book in the wilderness of Sinai, so you would know -- where all things come from, and whose hand upholds them all.&rdquo;</p>
       </div>
 

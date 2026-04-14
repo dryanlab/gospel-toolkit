@@ -206,7 +206,7 @@ export default function SpeakButton({ text, lang, gender, className }: { text: s
         const url = URL.createObjectURL(blob);
         const audio = new Audio(url);
         audioRef.current = audio;
-        // Replace without stopping — same button's next chunk
+        // Replace without stopping, same button's next chunk
         replaceAudio(audio, () => {
           cancelledRef.current = true;
           setState('idle');
@@ -238,7 +238,7 @@ export default function SpeakButton({ text, lang, gender, className }: { text: s
         await playBlob(blob);
       }
     } catch {
-      // Playback error — silent
+      // Playback error, silent
     }
 
     if (!cancelledRef.current) {

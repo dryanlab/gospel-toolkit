@@ -54,8 +54,8 @@ export const themesA5 = [
           text_en: 'Follow peace with all men, and holiness, without which no man shall see the Lord:',
         },
         reflection: {
-          zh: '这节经文将和睦与圣洁并列，表明真正的圣洁不是自我隔离，而是在与人的关系中活出来。同时，"非圣洁没有人能见主"提醒我们圣洁的严肃性——它不是可选项，而是见主的必要条件。',
-          en: 'This verse pairs peace with holiness, showing that true holiness is not isolation but is lived out in relationships. "Without which no one will see the Lord" reminds us of holiness\'s seriousness — it is not optional but essential for seeing God.',
+          zh: '这节经文将和睦与圣洁并列，表明真正的圣洁不是自我隔离，而是在与人的关系中活出来。同时，"非圣洁没有人能见主"提醒我们圣洁的严肃性，它不是可选项，而是见主的必要条件。',
+          en: 'This verse pairs peace with holiness, showing that true holiness is not isolation but is lived out in relationships. "Without which no one will see the Lord" reminds us of holiness\'s seriousness, it is not optional but essential for seeing God.',
         },
         question: {
           zh: '追求和睦与追求圣洁如何在你的生活中并行？是否有需要同时修复关系并追求圣洁的地方？',
@@ -74,8 +74,8 @@ export const themesA5 = [
           text_en: 'For God hath not called us unto uncleanness, but unto holiness.',
         },
         reflection: {
-          zh: '神对我们的呼召有明确的方向——不是沾染污秽，而是成为圣洁。这个呼召既是神的恩典，也是我们的责任。当我们面对试探时，要记得神呼召我们的目的是圣洁，这应成为我们抵挡罪恶的动力。',
-          en: 'God\'s calling has a clear direction — not impurity, but holiness. This calling is both God\'s grace and our responsibility. When we face temptation, remembering that God called us to holiness should motivate us to resist sin.',
+          zh: '神对我们的呼召有明确的方向，不是沾染污秽，而是成为圣洁。这个呼召既是神的恩典，也是我们的责任。当我们面对试探时，要记得神呼召我们的目的是圣洁，这应成为我们抵挡罪恶的动力。',
+          en: 'God\'s calling has a clear direction, not impurity, but holiness. This calling is both God\'s grace and our responsibility. When we face temptation, remembering that God called us to holiness should motivate us to resist sin.',
         },
         question: {
           zh: '神召你不是要你沾染污秽，乃是成为圣洁。你如何在面对试探时，牢记神对你的圣洁呼召？',
@@ -94,8 +94,8 @@ export const themesA5 = [
           text_en: 'I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.',
         },
         reflection: {
-          zh: '保罗劝勉我们把身体献上当作活祭。与旧约已死的祭物不同，我们是"活祭"，每天在生活中为神而活。这个献上是基于"神的慈悲"——因为神先爱了我们，我们才能以圣洁的生命回应祂的恩典。',
-          en: 'Paul urges us to present our bodies as a living sacrifice. Unlike the dead sacrifices of the Old Testament, we are "living sacrifices," alive for God daily. This offering is based on "the mercies of God" — because God first loved us, we can respond to His grace with holy lives.',
+          zh: '保罗劝勉我们把身体献上当作活祭。与旧约已死的祭物不同，我们是"活祭"，每天在生活中为神而活。这个献上是基于"神的慈悲"，因为神先爱了我们，我们才能以圣洁的生命回应祂的恩典。',
+          en: 'Paul urges us to present our bodies as a living sacrifice. Unlike the dead sacrifices of the Old Testament, we are "living sacrifices," alive for God daily. This offering is based on "the mercies of God", because God first loved us, we can respond to His grace with holy lives.',
         },
         question: {
           zh: '将身体献上当作活祭意味着什么？你今天可以如何在具体行动中把自己献给神？',
@@ -235,7 +235,7 @@ export const themesA5 = [
         },
         reflection: {
           zh: '我们的身体是圣灵的殿，这是何等崇高的身份！既然圣灵住在我们里面，我们就有责任保守这殿的圣洁。我们不是自己的人，是基督用重价买来的，所以要在身体上荣耀神。',
-          en: 'Our bodies are temples of the Holy Spirit — what a lofty identity! Since the Spirit dwells in us, we are responsible to keep this temple holy. We are not our own; we were bought with a price. So we must glorify God in our bodies.',
+          en: 'Our bodies are temples of the Holy Spirit, what a lofty identity! Since the Spirit dwells in us, we are responsible to keep this temple holy. We are not our own; we were bought with a price. So we must glorify God in our bodies.',
         },
         question: {
           zh: '你的身体是圣灵的殿，你是重价买来的。这个真理如何改变你对待自己身体的方式？',
@@ -254,8 +254,8 @@ export const themesA5 = [
           text_en: 'For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light: (For the fruit of the Spirit is in all goodness and righteousness and truth;)',
         },
         reflection: {
-          zh: '保罗说我们从前是暗昧的，但如今在主里面是光明的。我们的身份已经改变了！既然是光明的子女，行事为人就应该与这身份相称。光明所结的果子是良善、公义、诚实——这些是圣洁生命的自然流露。',
-          en: 'Paul says we were once darkness, but now we are light in the Lord. Our identity has changed! As children of light, our conduct should match this identity. The fruit of light — goodness, righteousness, truth — flows naturally from a holy life.',
+          zh: '保罗说我们从前是暗昧的，但如今在主里面是光明的。我们的身份已经改变了！既然是光明的子女，行事为人就应该与这身份相称。光明所结的果子是良善、公义、诚实，这些是圣洁生命的自然流露。',
+          en: 'Paul says we were once darkness, but now we are light in the Lord. Our identity has changed! As children of light, our conduct should match this identity. The fruit of light, goodness, righteousness, truth, flows naturally from a holy life.',
         },
         question: {
           zh: '你从前是暗昧的，如今在主里面是光明的。你的生活是否结出了良善、公义、诚实的果子？',
@@ -295,7 +295,7 @@ export const themesA5 = [
         },
         reflection: {
           zh: '我们是圣洁的国度、属神的子民，这是何等荣耀的身份！神拣选我们、使我们成为圣洁，不是让我们独享，而是要我们宣扬祂的美德。圣洁的生命是最有力的见证，让人看见神奇妙的光明。',
-          en: 'We are a holy nation, a people for God\'s own possession — what a glorious identity! God chose us and made us holy not for ourselves alone but to proclaim His excellencies. A holy life is the most powerful testimony, showing the world God\'s marvelous light.',
+          en: 'We are a holy nation, a people for God\'s own possession, what a glorious identity! God chose us and made us holy not for ourselves alone but to proclaim His excellencies. A holy life is the most powerful testimony, showing the world God\'s marvelous light.',
         },
         question: {
           zh: '你是圣洁的国度、属神的子民。你如何以圣洁的生命宣扬那召你出黑暗入光明者的美德？',
@@ -323,8 +323,8 @@ export const themesA5 = [
           text_en: 'Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,',
         },
         reflection: {
-          zh: '我们的盼望不是死的、虚幻的，而是"活泼的盼望"。这盼望的根基是耶稣基督从死里复活——因为祂活着，我们的盼望就是活的、有力的、不会落空的。这是神照祂的大怜悯赐给我们的礼物。',
-          en: 'Our hope is not dead or fanciful but a "living hope." Its foundation is the resurrection of Jesus Christ — because He lives, our hope is alive, powerful, and certain. This is a gift from God according to His great mercy.',
+          zh: '我们的盼望不是死的、虚幻的，而是"活泼的盼望"。这盼望的根基是耶稣基督从死里复活，因为祂活着，我们的盼望就是活的、有力的、不会落空的。这是神照祂的大怜悯赐给我们的礼物。',
+          en: 'Our hope is not dead or fanciful but a "living hope." Its foundation is the resurrection of Jesus Christ, because He lives, our hope is alive, powerful, and certain. This is a gift from God according to His great mercy.',
         },
         question: {
           zh: '你的盼望是建立在什么根基上？耶稣基督的复活如何使你拥有活泼的盼望？',
@@ -344,7 +344,7 @@ export const themesA5 = [
         },
         reflection: {
           zh: '神被称为"使人有盼望的神"，祂是盼望的源头。当我们因信靠祂而被喜乐和平安充满时，圣灵的能力就使我们"大有盼望"。盼望不是靠自己的乐观，而是借着圣灵的能力涌流出来的。',
-          en: 'God is called "the God of hope" — He is the source of all hope. When we are filled with joy and peace through believing, the Holy Spirit\'s power causes us to "abound in hope." Hope doesn\'t come from our own optimism but overflows by the Spirit\'s power.',
+          en: 'God is called "the God of hope", He is the source of all hope. When we are filled with joy and peace through believing, the Holy Spirit\'s power causes us to "abound in hope." Hope doesn\'t come from our own optimism but overflows by the Spirit\'s power.',
         },
         question: {
           zh: '保罗称神为"使人有盼望的神"。你是否经历过圣灵的能力使你大有盼望？在什么时候？',
@@ -364,7 +364,7 @@ export const themesA5 = [
         },
         reflection: {
           zh: '这是神对被掳巴比伦的百姓说的话，在最黑暗的时刻，神宣告祂的意念是赐平安的，要给他们末后的指望。无论我们现在处境多么困难，神对我们的计划始终是美善的，祂要赐给我们未来和盼望。',
-          en: 'God spoke these words to His people in Babylonian exile. In their darkest hour, He declared His plans are for welfare, to give them a future and hope. No matter how difficult our circumstances, God\'s plans for us are always good — He gives us a future and a hope.',
+          en: 'God spoke these words to His people in Babylonian exile. In their darkest hour, He declared His plans are for welfare, to give them a future and hope. No matter how difficult our circumstances, God\'s plans for us are always good, He gives us a future and a hope.',
         },
         question: {
           zh: '神说祂向你所怀的意念是赐平安的意念。在你目前的处境中，你如何信靠神美善的计划？',
@@ -383,8 +383,8 @@ export const themesA5 = [
           text_en: 'And we know that all things work together for good to them that love God, to them who are the called according to his purpose.',
         },
         reflection: {
-          zh: '"万事都互相效力"——不是说每件事本身都是好的，而是神能将一切事情（包括苦难和挫折）编织在一起，使爱祂的人最终得益处。这个应许给我们在困难中持守盼望的理由。',
-          en: '"All things work together for good" — not that every event is good in itself, but that God weaves all things (including suffering and setbacks) together for the ultimate good of those who love Him. This promise gives us reason to hold onto hope in difficulty.',
+          zh: '"万事都互相效力"，不是说每件事本身都是好的，而是神能将一切事情（包括苦难和挫折）编织在一起，使爱祂的人最终得益处。这个应许给我们在困难中持守盼望的理由。',
+          en: '"All things work together for good", not that every event is good in itself, but that God weaves all things (including suffering and setbacks) together for the ultimate good of those who love Him. This promise gives us reason to hold onto hope in difficulty.',
         },
         question: {
           zh: '你相信万事都互相效力叫爱神的人得益处吗？有没有过去的经历印证了这个应许？',
@@ -404,7 +404,7 @@ export const themesA5 = [
         },
         reflection: {
           zh: '诗人在极度忧闷中对自己的灵魂说话，他没有否认痛苦，却选择将盼望放在神身上。"应当仰望神"是一个信心的决定，不是等感觉好了才仰望，而是在忧闷中选择仰望。这就是盼望的力量。',
-          en: 'The psalmist speaks to his own soul in deep despair. He doesn\'t deny his pain but chooses to place his hope in God. "Hope in God" is a decision of faith — not waiting until feelings improve but choosing to look up in the midst of sorrow. This is the power of hope.',
+          en: 'The psalmist speaks to his own soul in deep despair. He doesn\'t deny his pain but chooses to place his hope in God. "Hope in God" is a decision of faith, not waiting until feelings improve but choosing to look up in the midst of sorrow. This is the power of hope.',
         },
         question: {
           zh: '当你的心忧闷烦躁时，你会像诗人一样对自己的灵魂说"应当仰望神"吗？',
@@ -463,8 +463,8 @@ export const themesA5 = [
           text_en: 'Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;',
         },
         reflection: {
-          zh: '盼望被比喻为灵魂的锚——又坚固、又牢靠。船在风浪中靠锚稳定，同样，我们的灵魂在人生的风浪中靠盼望稳固。这锚不是抛在海底，而是"通入幔内"，连接于至圣所中神的同在。',
-          en: 'Hope is compared to an anchor of the soul — sure and steadfast. As a ship is stabilized by its anchor in storms, our souls are secured by hope in life\'s storms. This anchor is not cast into the sea but enters "behind the curtain," connected to God\'s presence in the Most Holy Place.',
+          zh: '盼望被比喻为灵魂的锚，又坚固、又牢靠。船在风浪中靠锚稳定，同样，我们的灵魂在人生的风浪中靠盼望稳固。这锚不是抛在海底，而是"通入幔内"，连接于至圣所中神的同在。',
+          en: 'Hope is compared to an anchor of the soul, sure and steadfast. As a ship is stabilized by its anchor in storms, our souls are secured by hope in life\'s storms. This anchor is not cast into the sea but enters "behind the curtain," connected to God\'s presence in the Most Holy Place.',
         },
         question: {
           zh: '你的盼望是否像灵魂的锚一样坚固牢靠？在人生风浪中，什么使你的灵魂稳固？',
@@ -483,8 +483,8 @@ export const themesA5 = [
           text_en: 'Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.',
         },
         reflection: {
-          zh: '因为有复活的盼望，我们的劳苦在主里面不是徒然的。这个确据使我们能坚固不摇动，竭力多做主工。盼望不是让我们消极等待，而是积极行动的动力——因为我们知道，一切在主里的付出都有永恒的价值。',
-          en: 'Because of the hope of resurrection, our labor in the Lord is not in vain. This assurance enables us to be steadfast and immovable, abounding in the Lord\'s work. Hope doesn\'t make us passive but drives us to action — knowing that all we do in the Lord has eternal value.',
+          zh: '因为有复活的盼望，我们的劳苦在主里面不是徒然的。这个确据使我们能坚固不摇动，竭力多做主工。盼望不是让我们消极等待，而是积极行动的动力，因为我们知道，一切在主里的付出都有永恒的价值。',
+          en: 'Because of the hope of resurrection, our labor in the Lord is not in vain. This assurance enables us to be steadfast and immovable, abounding in the Lord\'s work. Hope doesn\'t make us passive but drives us to action, knowing that all we do in the Lord has eternal value.',
         },
         question: {
           zh: '保罗说你的劳苦在主里面不是徒然的。这个盼望如何激励你在服事中坚持不放弃？',
@@ -503,8 +503,8 @@ export const themesA5 = [
           text_en: 'And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.',
         },
         reflection: {
-          zh: '在世上，盼望常常落空让人失望羞耻。但保罗说，我们在基督里的盼望不至于羞耻，因为圣灵已将神的爱浇灌在我们心里。这爱是盼望的保证——神既然爱我们到这个地步，祂的应许必不落空。',
-          en: 'In the world, hopes often fail, leaving us ashamed. But Paul says our hope in Christ does not put us to shame, because the Holy Spirit has poured God\'s love into our hearts. This love guarantees our hope — since God loves us this much, His promises will not fail.',
+          zh: '在世上，盼望常常落空让人失望羞耻。但保罗说，我们在基督里的盼望不至于羞耻，因为圣灵已将神的爱浇灌在我们心里。这爱是盼望的保证，神既然爱我们到这个地步，祂的应许必不落空。',
+          en: 'In the world, hopes often fail, leaving us ashamed. But Paul says our hope in Christ does not put us to shame, because the Holy Spirit has poured God\'s love into our hearts. This love guarantees our hope, since God loves us this much, His promises will not fail.',
         },
         question: {
           zh: '你是否经历过盼望落空的失望？"盼望不至于羞耻"这个应许对你意味着什么？',
@@ -523,8 +523,8 @@ export const themesA5 = [
           text_en: 'Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;',
         },
         reflection: {
-          zh: '我们所盼望的福是什么？就是耶稣基督荣耀的再来！这是"有福的盼望"——不是模糊的愿望，而是确定会实现的应许。基督必要再来，祂的荣耀必要显现。这个盼望使我们在等候中活出敬虔的生命。',
-          en: 'What is our blessed hope? The glorious appearing of Jesus Christ! This is the "blessed hope" — not a vague wish but a certain promise. Christ will return and His glory will be revealed. This hope motivates us to live godly lives while we wait.',
+          zh: '我们所盼望的福是什么？就是耶稣基督荣耀的再来！这是"有福的盼望"，不是模糊的愿望，而是确定会实现的应许。基督必要再来，祂的荣耀必要显现。这个盼望使我们在等候中活出敬虔的生命。',
+          en: 'What is our blessed hope? The glorious appearing of Jesus Christ! This is the "blessed hope", not a vague wish but a certain promise. Christ will return and His glory will be revealed. This hope motivates us to live godly lives while we wait.',
         },
         question: {
           zh: '你是否常常等候基督荣耀的显现？这个"所盼望的福"如何影响你今天的生活方式？',
@@ -543,8 +543,8 @@ export const themesA5 = [
           text_en: 'Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.',
         },
         reflection: {
-          zh: '我们盼望的不只是个人的得救，还有整个受造界的更新——新天新地。在那里，公义将永远居住，不再有罪恶和不公。这个宏大的盼望提醒我们，神的救赎计划远超我们的想象。',
-          en: 'Our hope is not just personal salvation but the renewal of all creation — new heavens and a new earth where righteousness dwells, with no more sin or injustice. This grand hope reminds us God\'s redemptive plan far exceeds our imagination.',
+          zh: '我们盼望的不只是个人的得救，还有整个受造界的更新，新天新地。在那里，公义将永远居住，不再有罪恶和不公。这个宏大的盼望提醒我们，神的救赎计划远超我们的想象。',
+          en: 'Our hope is not just personal salvation but the renewal of all creation, new heavens and a new earth where righteousness dwells, with no more sin or injustice. This grand hope reminds us God\'s redemptive plan far exceeds our imagination.',
         },
         question: {
           zh: '你是否盼望那有义居在其中的新天新地？这个盼望如何帮助你看待今世的不公义？',
@@ -563,8 +563,8 @@ export const themesA5 = [
           text_en: 'For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ: Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.',
         },
         reflection: {
-          zh: '我们是天上的国民——这世界不是我们最终的家。我们等候基督再来，祂要将我们卑贱的身体改变，和祂荣耀的身体相似。这是何等的盼望！不论今生身体多么软弱，将来都要被完全改变。',
-          en: 'Our citizenship is in heaven — this world is not our final home. We await Christ\'s return when He will transform our lowly bodies to be like His glorious body. What a hope! No matter how frail our bodies are now, they will be completely transformed.',
+          zh: '我们是天上的国民，这世界不是我们最终的家。我们等候基督再来，祂要将我们卑贱的身体改变，和祂荣耀的身体相似。这是何等的盼望！不论今生身体多么软弱，将来都要被完全改变。',
+          en: 'Our citizenship is in heaven, this world is not our final home. We await Christ\'s return when He will transform our lowly bodies to be like His glorious body. What a hope! No matter how frail our bodies are now, they will be completely transformed.',
         },
         question: {
           zh: '你如何以天上国民的身份生活在地上？基督要改变你身体的应许给你什么盼望？',
@@ -583,8 +583,8 @@ export const themesA5 = [
           text_en: 'Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.',
         },
         reflection: {
-          zh: '我们现在已经是神的儿女，但将来还有更荣耀的事等着我们——当主显现时，我们必要像祂。虽然将来如何还未完全显明，但有一件事是确定的：我们必得见祂的真体，并且变得像祂。这是基督徒最终极的盼望。',
-          en: 'We are already God\'s children now, but something even more glorious awaits — when He appears, we shall be like Him. Though what we will be is not yet fully revealed, one thing is certain: we will see Him as He is and become like Him. This is the Christian\'s ultimate hope.',
+          zh: '我们现在已经是神的儿女，但将来还有更荣耀的事等着我们，当主显现时，我们必要像祂。虽然将来如何还未完全显明，但有一件事是确定的：我们必得见祂的真体，并且变得像祂。这是基督徒最终极的盼望。',
+          en: 'We are already God\'s children now, but something even more glorious awaits, when He appears, we shall be like Him. Though what we will be is not yet fully revealed, one thing is certain: we will see Him as He is and become like Him. This is the Christian\'s ultimate hope.',
         },
         question: {
           zh: '你现在已是神的儿女，将来必要像主。这个盼望如何影响你现在的生活和追求？',
@@ -603,8 +603,8 @@ export const themesA5 = [
           text_en: 'He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.',
         },
         reflection: {
-          zh: '这是圣经最后的盼望宣告。主耶稣亲自应许"我必快来"，而教会以热切的回应说"主耶稣啊，我愿你来"。这不只是一句结束语，更是所有基督徒共同的呼声——我们渴望见主面，渴望祂的国度完全降临。',
-          en: 'This is the Bible\'s final declaration of hope. Jesus Himself promises "I am coming soon," and the church responds eagerly, "Come, Lord Jesus!" This is not just a closing line but the shared cry of all Christians — we long to see His face and for His kingdom to fully come.',
+          zh: '这是圣经最后的盼望宣告。主耶稣亲自应许"我必快来"，而教会以热切的回应说"主耶稣啊，我愿你来"。这不只是一句结束语，更是所有基督徒共同的呼声，我们渴望见主面，渴望祂的国度完全降临。',
+          en: 'This is the Bible\'s final declaration of hope. Jesus Himself promises "I am coming soon," and the church responds eagerly, "Come, Lord Jesus!" This is not just a closing line but the shared cry of all Christians, we long to see His face and for His kingdom to fully come.',
         },
         question: {
           zh: '你的心是否也在说"主耶稣啊，我愿你来"？你如何在日常生活中活出这份渴望？',
@@ -632,16 +632,16 @@ export const themesA5 = [
           text_en: 'And these words, which I command thee this day, shall be in thine heart: And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.',
         },
         reflection: {
-          zh: '信仰的传承不只是在教会里，更是在家庭的日常生活中。坐下、行路、躺下、起来——涵盖了生活的每一刻。父母首先要将神的话记在自己心上，然后自然地在生活中传递给儿女。家庭就是最好的属灵教室。',
-          en: 'Passing on faith happens not just at church but in daily family life. Sitting, walking, lying down, rising — every moment of life. Parents must first have God\'s word on their own hearts, then naturally pass it to their children. The home is the best spiritual classroom.',
+          zh: '信仰的传承不只是在教会里，更是在家庭的日常生活中。坐下、行路、躺下、起来，涵盖了生活的每一刻。父母首先要将神的话记在自己心上，然后自然地在生活中传递给儿女。家庭就是最好的属灵教室。',
+          en: 'Passing on faith happens not just at church but in daily family life. Sitting, walking, lying down, rising, every moment of life. Parents must first have God\'s word on their own hearts, then naturally pass it to their children. The home is the best spiritual classroom.',
         },
         question: {
-          zh: '你是否在日常生活中——坐下、行路、躺下、起来——都和家人谈论神的话？如何能做得更好？',
-          en: 'Do you talk about God\'s word with your family in daily life — sitting, walking, lying down, rising? How can you do better?',
+          zh: '你是否在日常生活中：坐下、行路、躺下、起来，都和家人谈论神的话？如何能做得更好？',
+          en: 'Do you talk about God\'s word with your family in daily life, sitting, walking, lying down, rising? How can you do better?',
         },
         prayer: {
           zh: '天父，求你帮助我们将你的话记在心上，并在日常生活中殷勤教训我们的儿女。无论坐下、行路、躺下、起来，都与家人谈论你的话语。奉主耶稣的名祷告，阿们。',
-          en: 'Father, help us keep Your words on our hearts and diligently teach them to our children — when we sit, walk, lie down, and rise. In Jesus\' name, amen.',
+          en: 'Father, help us keep Your words on our hearts and diligently teach them to our children, when we sit, walk, lie down, and rise. In Jesus\' name, amen.',
         },
       },
       {
@@ -652,8 +652,8 @@ export const themesA5 = [
           text_en: 'Lo, children are an heritage of the LORD: and the fruit of the womb is his reward.',
         },
         reflection: {
-          zh: '儿女不是负担，而是耶和华所赐的产业和赏赐。当我们以这样的眼光看待孩子时，养育的态度就会不同——我们是神所托付的管家，要以感恩和敬畏的心来养育祂赐给我们的产业。',
-          en: 'Children are not burdens but a heritage and reward from the LORD. When we view children this way, our parenting changes — we are stewards entrusted by God, raising His gift with gratitude and reverence.',
+          zh: '儿女不是负担，而是耶和华所赐的产业和赏赐。当我们以这样的眼光看待孩子时，养育的态度就会不同，我们是神所托付的管家，要以感恩和敬畏的心来养育祂赐给我们的产业。',
+          en: 'Children are not burdens but a heritage and reward from the LORD. When we view children this way, our parenting changes, we are stewards entrusted by God, raising His gift with gratitude and reverence.',
         },
         question: {
           zh: '你是否把儿女看作耶和华所赐的产业和赏赐？这个观点如何改变你的养育态度？',
@@ -672,8 +672,8 @@ export const themesA5 = [
           text_en: 'Train up a child in the way he should go: and when he is old, he will not depart from it.',
         },
         reflection: {
-          zh: '"教养"意味着有目的地引导和训练，不是放任自流。"当行的道"指的是合神心意的道路。这节经文既是应许也是责任——父母在孩子年幼时殷勤教养，所种下的种子会影响他们一生。',
-          en: '"Train up" means purposeful guidance and instruction, not neglect. "The way he should go" is the path pleasing to God. This verse is both promise and responsibility — seeds sown through diligent parenting in childhood will influence a lifetime.',
+          zh: '"教养"意味着有目的地引导和训练，不是放任自流。"当行的道"指的是合神心意的道路。这节经文既是应许也是责任，父母在孩子年幼时殷勤教养，所种下的种子会影响他们一生。',
+          en: '"Train up" means purposeful guidance and instruction, not neglect. "The way he should go" is the path pleasing to God. This verse is both promise and responsibility, seeds sown through diligent parenting in childhood will influence a lifetime.',
         },
         question: {
           zh: '你如何教养孩子走当行的道？在教育中，你最看重培养孩子哪方面的品格？',
@@ -692,8 +692,8 @@ export const themesA5 = [
           text_en: 'Children, obey your parents in the Lord: for this is right. Honour thy father and mother; which is the first commandment with promise; That it may be well with thee, and thou mayest live long on the earth. And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.',
         },
         reflection: {
-          zh: '这段经文对家庭中的双方都有教导：儿女要在主里听从父母，父亲不要惹儿女的气。健康的家庭关系需要双向的努力——儿女的顺服和父母的温柔养育。"照着主的教训"提醒我们，养育的标准是主的话语。',
-          en: 'This passage instructs both sides: children obey parents in the Lord; fathers don\'t provoke children to anger. Healthy family relationships require mutual effort — children\'s obedience and parents\' gentle upbringing. "In the discipline and instruction of the Lord" reminds us the standard is God\'s word.',
+          zh: '这段经文对家庭中的双方都有教导：儿女要在主里听从父母，父亲不要惹儿女的气。健康的家庭关系需要双向的努力，儿女的顺服和父母的温柔养育。"照着主的教训"提醒我们，养育的标准是主的话语。',
+          en: 'This passage instructs both sides: children obey parents in the Lord; fathers don\'t provoke children to anger. Healthy family relationships require mutual effort, children\'s obedience and parents\' gentle upbringing. "In the discipline and instruction of the Lord" reminds us the standard is God\'s word.',
         },
         question: {
           zh: '作为家庭成员，你在听从/养育方面做得如何？你是否有时惹儿女的气或不顺服父母？',
@@ -753,7 +753,7 @@ export const themesA5 = [
         },
         reflection: {
           zh: '这节经文描绘了代际之间美丽的关系：子孙是老人的冠冕，父亲是儿女的荣耀。健康的家庭是多代人彼此尊荣的地方。老人以子孙为荣，儿女以父亲为骄傲。这需要每一代人都忠心地活出信仰。',
-          en: 'This verse paints a beautiful picture of generational relationships: grandchildren are the crown of the aged, and fathers are the glory of children. A healthy family is where generations honor each other — elders proud of grandchildren, children proud of parents. This requires each generation to live faithfully.',
+          en: 'This verse paints a beautiful picture of generational relationships: grandchildren are the crown of the aged, and fathers are the glory of children. A healthy family is where generations honor each other, elders proud of grandchildren, children proud of parents. This requires each generation to live faithfully.',
         },
         question: {
           zh: '你的家庭中，不同世代之间的关系如何？你如何成为下一代的荣耀和上一代的冠冕？',
@@ -772,8 +772,8 @@ export const themesA5 = [
           text_en: 'Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.',
         },
         reflection: {
-          zh: '这是一幅美丽的家庭画面：妻子如多结果子的葡萄树，儿女如橄榄栽子围绕餐桌。这幅图画描绘了敬畏耶和华之人的福分——一个充满生命力、丰盛和喜乐的家庭。围桌而坐的画面更是家庭团聚和亲密的象征。',
-          en: 'This is a beautiful family picture: a wife like a fruitful vine, children like olive shoots around the table. It portrays the blessing of those who fear the LORD — a family full of vitality, abundance, and joy. Gathering around the table symbolizes family togetherness and intimacy.',
+          zh: '这是一幅美丽的家庭画面：妻子如多结果子的葡萄树，儿女如橄榄栽子围绕餐桌。这幅图画描绘了敬畏耶和华之人的福分：一个充满生命力、丰盛和喜乐的家庭。围桌而坐的画面更是家庭团聚和亲密的象征。',
+          en: 'This is a beautiful family picture: a wife like a fruitful vine, children like olive shoots around the table. It portrays the blessing of those who fear the LORD, a family full of vitality, abundance, and joy. Gathering around the table symbolizes family togetherness and intimacy.',
         },
         question: {
           zh: '你的家庭是否像这幅美丽的画面？你如何营造一个充满生命力和喜乐的家庭氛围？',
@@ -781,7 +781,7 @@ export const themesA5 = [
         },
         prayer: {
           zh: '主啊，求你祝福我们的家庭，使我们的家像这诗篇所描绘的，充满生命力和喜乐。愿我们全家围绕你的恩典之桌，享受你所赐的福分。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, bless our families to be like this psalm describes — full of vitality and joy. May we gather around Your table of grace, enjoying the blessings You give. In Jesus\' name, amen.',
+          en: 'Lord, bless our families to be like this psalm describes, full of vitality and joy. May we gather around Your table of grace, enjoying the blessings You give. In Jesus\' name, amen.',
         },
       },
       {
@@ -792,8 +792,8 @@ export const themesA5 = [
           text_en: 'Her children arise up, and call her blessed; her husband also, and he praiseth her.',
         },
         reflection: {
-          zh: '才德的妇人得到儿女和丈夫的称赞——这是家庭中最美的回报。儿女称她有福，丈夫赞赏她的贡献。在家庭中，我们是否常常表达对家人的感恩和赞赏？特别是对默默付出的母亲和妻子？',
-          en: 'The virtuous woman receives praise from her children and husband — the most beautiful reward in a family. Children call her blessed; her husband praises her. Do we regularly express gratitude and appreciation to family members, especially mothers and wives who serve quietly?',
+          zh: '才德的妇人得到儿女和丈夫的称赞，这是家庭中最美的回报。儿女称她有福，丈夫赞赏她的贡献。在家庭中，我们是否常常表达对家人的感恩和赞赏？特别是对默默付出的母亲和妻子？',
+          en: 'The virtuous woman receives praise from her children and husband, the most beautiful reward in a family. Children call her blessed; her husband praises her. Do we regularly express gratitude and appreciation to family members, especially mothers and wives who serve quietly?',
         },
         question: {
           zh: '你是否常常称赞和感谢家中默默付出的人？你今天可以如何具体地表达对家人的感恩？',
@@ -812,8 +812,8 @@ export const themesA5 = [
           text_en: 'Husbands, love your wives, even as Christ also loved the church, and gave himself for it;',
         },
         reflection: {
-          zh: '丈夫爱妻子的标准是基督爱教会——这是舍己的爱，不是自私的爱。基督为教会舍命，丈夫也当为妻子牺牲自己的利益、时间和舒适。这样的爱不是靠人的力量，而是靠基督的恩典才能活出来。',
-          en: 'The standard for a husband\'s love is Christ\'s love for the church — sacrificial, not selfish. Christ gave Himself up for the church; husbands should sacrifice their interests, time, and comfort for their wives. Such love comes not from human strength but from Christ\'s grace.',
+          zh: '丈夫爱妻子的标准是基督爱教会，这是舍己的爱，不是自私的爱。基督为教会舍命，丈夫也当为妻子牺牲自己的利益、时间和舒适。这样的爱不是靠人的力量，而是靠基督的恩典才能活出来。',
+          en: 'The standard for a husband\'s love is Christ\'s love for the church, sacrificial, not selfish. Christ gave Himself up for the church; husbands should sacrifice their interests, time, and comfort for their wives. Such love comes not from human strength but from Christ\'s grace.',
         },
         question: {
           zh: '丈夫被呼召要像基督爱教会一样爱妻子。你在婚姻中如何活出这种舍己的爱？',
@@ -832,8 +832,8 @@ export const themesA5 = [
           text_en: 'Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.',
         },
         reflection: {
-          zh: '这是神设立婚姻的原初蓝图：离开、连合、成为一体。"离开"意味着建立新的家庭单元；"连合"表示紧密的委身；"成为一体"说明婚姻的合一是全人的——身体、情感和灵性的合一。这是神圣的盟约。',
-          en: 'This is God\'s original blueprint for marriage: leave, hold fast, become one flesh. "Leave" means establishing a new family unit; "hold fast" expresses firm commitment; "become one flesh" shows marriage is a whole-person union — physical, emotional, and spiritual. This is a sacred covenant.',
+          zh: '这是神设立婚姻的原初蓝图：离开、连合、成为一体。"离开"意味着建立新的家庭单元；"连合"表示紧密的委身；"成为一体"说明婚姻的合一是全人的：身体、情感和灵性的合一。这是神圣的盟约。',
+          en: 'This is God\'s original blueprint for marriage: leave, hold fast, become one flesh. "Leave" means establishing a new family unit; "hold fast" expresses firm commitment; "become one flesh" shows marriage is a whole-person union, physical, emotional, and spiritual. This is a sacred covenant.',
         },
         question: {
           zh: '神设立婚姻是"离开、连合、成为一体"。你的婚姻关系在这三个方面是否平衡？',
@@ -893,7 +893,7 @@ export const themesA5 = [
         },
         reflection: {
           zh: '保罗将教会称为"信徒一家的人"，我们不只有血缘的家庭，还有属灵的大家庭。我们要向众人行善，但对属灵的家人更当如此。教会就是神的家，弟兄姐妹就是我们的家人，我们要以家人的心来彼此关爱。',
-          en: 'Paul calls the church "the household of faith" — we have not only biological families but a spiritual family. We should do good to everyone, but especially to fellow believers. The church is God\'s household; brothers and sisters are our family, and we should care for each other as such.',
+          en: 'Paul calls the church "the household of faith", we have not only biological families but a spiritual family. We should do good to everyone, but especially to fellow believers. The church is God\'s household; brothers and sisters are our family, and we should care for each other as such.',
         },
         question: {
           zh: '你是否把教会中的弟兄姐妹当作"信徒一家的人"来关爱？你可以如何更多地向他们行善？',
@@ -912,8 +912,8 @@ export const themesA5 = [
           text_en: 'When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also.',
         },
         reflection: {
-          zh: '提摩太的信仰可以追溯到他的外祖母罗以和母亲友尼基。信仰的传承是家庭最宝贵的产业——不是财富或名声，而是无伪之信。从祖母到母亲到儿子，三代人的信仰见证了家庭属灵传承的力量。',
-          en: 'Timothy\'s faith traces back to his grandmother Lois and mother Eunice. Faith passed through generations is a family\'s most precious heritage — not wealth or fame, but sincere faith. Three generations of faith witness the power of spiritual heritage in families.',
+          zh: '提摩太的信仰可以追溯到他的外祖母罗以和母亲友尼基。信仰的传承是家庭最宝贵的产业，不是财富或名声，而是无伪之信。从祖母到母亲到儿子，三代人的信仰见证了家庭属灵传承的力量。',
+          en: 'Timothy\'s faith traces back to his grandmother Lois and mother Eunice. Faith passed through generations is a family\'s most precious heritage, not wealth or fame, but sincere faith. Three generations of faith witness the power of spiritual heritage in families.',
         },
         question: {
           zh: '你的信仰是否从上一代传承而来？你如何将信仰传递给下一代？',
@@ -941,8 +941,8 @@ export const themesA5 = [
           text_en: 'For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.',
         },
         reflection: {
-          zh: '耶稣——万王之王，万主之主——来到世上不是要受人服事，而是要服事人。祂服事的最高表达就是舍命作赎价。这彻底颠覆了世界对权力和伟大的定义。真正的伟大在于服事，真正的领导在于牺牲。',
-          en: 'Jesus — King of kings, Lord of lords — came not to be served but to serve. The ultimate expression of His service was giving His life as a ransom. This radically redefines the world\'s view of power and greatness. True greatness lies in service; true leadership in sacrifice.',
+          zh: '耶稣，万王之王，万主之主，来到世上不是要受人服事，而是要服事人。祂服事的最高表达就是舍命作赎价。这彻底颠覆了世界对权力和伟大的定义。真正的伟大在于服事，真正的领导在于牺牲。',
+          en: 'Jesus, King of kings, Lord of lords, came not to be served but to serve. The ultimate expression of His service was giving His life as a ransom. This radically redefines the world\'s view of power and greatness. True greatness lies in service; true leadership in sacrifice.',
         },
         question: {
           zh: '耶稣以服事人和舍命来定义祂的使命。你如何效法祂的榜样，以服事的心态对待他人？',
@@ -1001,8 +1001,8 @@ export const themesA5 = [
           text_en: 'And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.',
         },
         reflection: {
-          zh: '耶稣将服事最小的弟兄等同于服事祂自己。这意味着每一次我们帮助有需要的人——无论多么微小——都是在服事基督。这赋予了日常服事极大的尊严和意义。我们不是在做无关紧要的小事，而是在服事我们的王。',
-          en: 'Jesus equates serving the least of His brothers with serving Him. Every time we help someone in need — no matter how small — we serve Christ. This gives everyday service immense dignity and meaning. We are not doing trivial things but serving our King.',
+          zh: '耶稣将服事最小的弟兄等同于服事祂自己。这意味着每一次我们帮助有需要的人，无论多么微小，都是在服事基督。这赋予了日常服事极大的尊严和意义。我们不是在做无关紧要的小事，而是在服事我们的王。',
+          en: 'Jesus equates serving the least of His brothers with serving Him. Every time we help someone in need, no matter how small, we serve Christ. This gives everyday service immense dignity and meaning. We are not doing trivial things but serving our King.',
         },
         question: {
           zh: '耶稣说做在最小弟兄身上就是做在祂身上。你身边有哪些"最小的弟兄"需要你的服事？',
@@ -1021,8 +1021,8 @@ export const themesA5 = [
           text_en: 'If I then, your Lord and Master, have washed your feet; ye also ought to wash one another’s feet. For I have given you an example, that ye should do as I have done to you.',
         },
         reflection: {
-          zh: '主和夫子洗门徒的脚——这是最卑微的仆人才做的事。耶稣以行动教导我们：没有任何服事是低于我们身份的。祂给我们作了榜样，叫我们照着去做。彼此洗脚意味着愿意降卑自己去服事他人最实际的需要。',
-          en: 'The Lord and Teacher washed His disciples\' feet — the job of the lowest servant. Jesus teaches by example: no service is beneath us. He gave us an example to follow. Washing one another\'s feet means humbling ourselves to serve others\' most practical needs.',
+          zh: '主和夫子洗门徒的脚，这是最卑微的仆人才做的事。耶稣以行动教导我们：没有任何服事是低于我们身份的。祂给我们作了榜样，叫我们照着去做。彼此洗脚意味着愿意降卑自己去服事他人最实际的需要。',
+          en: 'The Lord and Teacher washed His disciples\' feet, the job of the lowest servant. Jesus teaches by example: no service is beneath us. He gave us an example to follow. Washing one another\'s feet means humbling ourselves to serve others\' most practical needs.',
         },
         question: {
           zh: '耶稣为门徒洗脚，给我们作了榜样。你是否愿意做卑微的服事？有什么具体的"洗脚"行动你可以做？',
@@ -1041,8 +1041,8 @@ export const themesA5 = [
           text_en: 'And whatsoever ye do, do it heartily, as to the Lord, and not unto men; Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.',
         },
         reflection: {
-          zh: '无论做什么——洗碗、工作、照顾孩子——都可以是对主的事奉。关键不在于做什么，而在于为谁做。"从心里做，像是给主做的"改变了一切平凡工作的意义。我们所事奉的乃是主基督，祂必赏赐我们。',
-          en: 'Whatever you do — dishes, work, childcare — can be service to the Lord. The key is not what you do but for whom. "Work heartily, as for the Lord" transforms the meaning of every ordinary task. We are serving the Lord Christ, and He will reward us.',
+          zh: '无论做什么：洗碗、工作、照顾孩子，都可以是对主的事奉。关键不在于做什么，而在于为谁做。"从心里做，像是给主做的"改变了一切平凡工作的意义。我们所事奉的乃是主基督，祂必赏赐我们。',
+          en: 'Whatever you do, dishes, work, childcare, can be service to the Lord. The key is not what you do but for whom. "Work heartily, as for the Lord" transforms the meaning of every ordinary task. We are serving the Lord Christ, and He will reward us.',
         },
         question: {
           zh: '你是否把日常的工作和家务当作给主做的？"像是给主做的"这个心态如何改变你的态度？',
@@ -1062,15 +1062,15 @@ export const themesA5 = [
         },
         reflection: {
           zh: '我们是神的工作（杰作），被造是为了行善。更奇妙的是，这些善行是神预先预备好的。这意味着神为每个人都预备了独特的服事机会和使命。我们不需要自己制造机会，只需要行在神已经预备好的道路上。',
-          en: 'We are God\'s workmanship (masterpiece), created for good works. Even more wonderfully, these good works were prepared beforehand by God. He has prepared unique service opportunities and missions for each person. We don\'t need to create opportunities — just walk in what God has already prepared.',
+          en: 'We are God\'s workmanship (masterpiece), created for good works. Even more wonderfully, these good works were prepared beforehand by God. He has prepared unique service opportunities and missions for each person. We don\'t need to create opportunities, just walk in what God has already prepared.',
         },
         question: {
           zh: '神预先预备了善行叫你去行。你是否留心发现神为你预备的服事机会？',
           en: 'God prepared good works for you to walk in. Are you attentive to the service opportunities God has prepared for you?',
         },
         prayer: {
-          zh: '天父，感谢你——我们是你的杰作，在基督里被造。求你帮助我们发现并行在你所预备的善行中，完成你为我们预定的服事使命。奉主耶稣的名祷告，阿们。',
-          en: 'Father, thank You — we are Your workmanship, created in Christ. Help us discover and walk in the good works You prepared beforehand, fulfilling the mission You designed for us. In Jesus\' name, amen.',
+          zh: '天父，感谢你，我们是你的杰作，在基督里被造。求你帮助我们发现并行在你所预备的善行中，完成你为我们预定的服事使命。奉主耶稣的名祷告，阿们。',
+          en: 'Father, thank You, we are Your workmanship, created in Christ. Help us discover and walk in the good works You prepared beforehand, fulfilling the mission You designed for us. In Jesus\' name, amen.',
         },
       },
       {
@@ -1101,8 +1101,8 @@ export const themesA5 = [
           text_en: 'Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. Look not every man on his own things, but every man also on the things of others.',
         },
         reflection: {
-          zh: '服事的核心态度是谦卑——看别人比自己强，顾别人的事。这与世界的价值观完全相反，世界说要争先恐后、自我推销。但保罗说凡事不可结党或贪图虚浮的荣耀。真正的服事从谦卑开始，关注他人的需要。',
-          en: 'The core attitude of service is humility — counting others more significant and looking to their interests. This contradicts the world\'s values of self-promotion. Paul says do nothing from selfish ambition or conceit. True service starts with humility and attention to others\' needs.',
+          zh: '服事的核心态度是谦卑，看别人比自己强，顾别人的事。这与世界的价值观完全相反，世界说要争先恐后、自我推销。但保罗说凡事不可结党或贪图虚浮的荣耀。真正的服事从谦卑开始，关注他人的需要。',
+          en: 'The core attitude of service is humility, counting others more significant and looking to their interests. This contradicts the world\'s values of self-promotion. Paul says do nothing from selfish ambition or conceit. True service starts with humility and attention to others\' needs.',
         },
         question: {
           zh: '你是否常常只顾自己的事？今天你如何更多地关注别人的需要，看别人比自己强？',
@@ -1121,8 +1121,8 @@ export const themesA5 = [
           text_en: 'Serve the LORD with gladness: come before his presence with singing.',
         },
         reflection: {
-          zh: '"乐意事奉"——服事神不应该是沉重的负担，而应该充满喜乐。当我们认识到所事奉的是荣耀的神，服事就成为特权而不是义务。带着歌唱来到神面前，表达的是一颗感恩、快乐的服事之心。',
-          en: '"Serve with gladness" — serving God should not be a heavy burden but full of joy. When we realize we serve the glorious God, service becomes a privilege, not a duty. Coming into His presence with singing expresses a grateful, joyful heart of service.',
+          zh: '"乐意事奉"，服事神不应该是沉重的负担，而应该充满喜乐。当我们认识到所事奉的是荣耀的神，服事就成为特权而不是义务。带着歌唱来到神面前，表达的是一颗感恩、快乐的服事之心。',
+          en: '"Serve with gladness", serving God should not be a heavy burden but full of joy. When we realize we serve the glorious God, service becomes a privilege, not a duty. Coming into His presence with singing expresses a grateful, joyful heart of service.',
         },
         question: {
           zh: '你事奉神时是乐意的还是勉强的？如何能从负担转为喜乐地服事？',
@@ -1141,8 +1141,8 @@ export const themesA5 = [
           text_en: 'He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much.',
         },
         reflection: {
-          zh: '耶稣教导我们忠心从小事开始。不要轻看小的服事机会——打扫教会、问候新人、为人祷告。在最小的事上忠心，神就会托付更大的事。服事的态度比服事的规模更重要。',
-          en: 'Jesus teaches that faithfulness starts with small things. Don\'t despise small service opportunities — cleaning the church, greeting newcomers, praying for others. Faithful in little, God entrusts more. The attitude of service matters more than its scale.',
+          zh: '耶稣教导我们忠心从小事开始。不要轻看小的服事机会：打扫教会、问候新人、为人祷告。在最小的事上忠心，神就会托付更大的事。服事的态度比服事的规模更重要。',
+          en: 'Jesus teaches that faithfulness starts with small things. Don\'t despise small service opportunities, cleaning the church, greeting newcomers, praying for others. Faithful in little, God entrusts more. The attitude of service matters more than its scale.',
         },
         question: {
           zh: '你是否在小事上也忠心服事？有没有因为觉得事情太小而忽略了忠心？',
@@ -1161,8 +1161,8 @@ export const themesA5 = [
           text_en: 'Bear ye one another’s burdens, and so fulfil the law of Christ.',
         },
         reflection: {
-          zh: '互相担当重担是基督律法的核心。基督为我们担当了罪的重担，我们也当为彼此担当生活中的重担——无论是实际的困难还是心灵的忧伤。这就是爱的服事，也是完全基督律法的方式。',
-          en: 'Bearing one another\'s burdens is at the heart of Christ\'s law. Christ bore our burden of sin; we should bear each other\'s burdens — whether practical difficulties or emotional sorrows. This is loving service and the way to fulfill Christ\'s law.',
+          zh: '互相担当重担是基督律法的核心。基督为我们担当了罪的重担，我们也当为彼此担当生活中的重担，无论是实际的困难还是心灵的忧伤。这就是爱的服事，也是完全基督律法的方式。',
+          en: 'Bearing one another\'s burdens is at the heart of Christ\'s law. Christ bore our burden of sin; we should bear each other\'s burdens, whether practical difficulties or emotional sorrows. This is loving service and the way to fulfill Christ\'s law.',
         },
         question: {
           zh: '你身边是否有人正在背负沉重的担子？你可以如何帮助他们分担重担？',
@@ -1222,7 +1222,7 @@ export const themesA5 = [
         },
         reflection: {
           zh: '基督徒的自由和服事并不矛盾。我们是自由的，但这自由不是用来遮盖恶毒，而是用来作神的仆人。真正的自由是有能力选择善，选择服事神和服事人。当我们甘心作神的仆人时，就活出了最高的自由。',
-          en: 'Christian freedom and service are not contradictory. We are free, but this freedom is not a cover for evil — it is for living as God\'s servants. True freedom is the ability to choose good, to serve God and others. When we willingly serve as God\'s servants, we live in the highest freedom.',
+          en: 'Christian freedom and service are not contradictory. We are free, but this freedom is not a cover for evil, it is for living as God\'s servants. True freedom is the ability to choose good, to serve God and others. When we willingly serve as God\'s servants, we live in the highest freedom.',
         },
         question: {
           zh: '你如何在自由中作神的仆人？你的自由是用来服事神还是满足自己？',

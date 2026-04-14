@@ -20,7 +20,7 @@ export default function AboutPage() {
             &ldquo;你们必晓得真理，真理必叫你们得以自由。&rdquo;（约翰福音 8:32）
           </blockquote>
           <p>
-            <strong>真理磐石福音事工致力于传扬福音与建造门徒。</strong>我们持守纯正的<strong>改革宗</strong>信仰——<strong>唯独圣经</strong>、<strong>唯独恩典</strong>、<strong>唯独信心</strong>、<strong>唯独基督</strong>、<strong>唯独神的荣耀</strong>。盼望借着这个平台，帮助弟兄姐妹和慕道朋友认识真理、扎根信仰、在恩典中成长。网站内容<strong>中英双语</strong>，也方便向英文朋友传福音。
+            <strong>真理磐石福音事工致力于传扬福音与建造门徒。</strong>我们持守纯正的<strong>改革宗</strong>信仰，<strong>唯独圣经</strong>、<strong>唯独恩典</strong>、<strong>唯独信心</strong>、<strong>唯独基督</strong>、<strong>唯独神的荣耀</strong>。盼望借着这个平台，帮助弟兄姐妹和慕道朋友认识真理、扎根信仰、在恩典中成长。网站内容<strong>中英双语</strong>，也方便向英文朋友传福音。
           </p>
         </section>
 
@@ -41,12 +41,12 @@ export default function AboutPage() {
 
             <div>
               <h3 className="font-bold text-base">3. 📖 圣徒伴读</h3>
-              <p className="mt-1">圣经作者以<strong>第一人称</strong>带你逐章读经——摩西讲创世记、大卫讲诗篇、保罗讲罗马书……通过作者的视角，了解<strong>历史背景</strong>、<strong>经文结构</strong>、<strong>神学意涵</strong>和<strong>救恩脉络</strong>，让圣经活起来。每周更新，<strong>持续连载</strong>，覆盖全部66卷1189章。</p>
+              <p className="mt-1">圣经作者以<strong>第一人称</strong>带你逐章读经：摩西讲创世记、大卫讲诗篇、保罗讲罗马书……通过作者的视角，了解<strong>历史背景</strong>、<strong>经文结构</strong>、<strong>神学意涵</strong>和<strong>救恩脉络</strong>，让圣经活起来。每周更新，<strong>持续连载</strong>，覆盖全部66卷1189章。</p>
             </div>
 
             <div>
               <h3 className="font-bold text-base">4. 📜 圣徒来信</h3>
-              <p className="mt-1">圣经人物写给你的<strong>亲笔信</strong>——他们最真实的挣扎、信心与得胜。涵盖<strong>心路历程</strong>、<strong>神学专题</strong>、<strong>圣徒团契</strong>和<strong>致读者书</strong>四个栏目，每周更新。支持<strong>点赞</strong>、<strong>留言</strong>和<strong>分享</strong>。</p>
+              <p className="mt-1">圣经人物写给你的<strong>亲笔信</strong>：他们最真实的挣扎、信心与得胜。涵盖<strong>心路历程</strong>、<strong>神学专题</strong>、<strong>圣徒团契</strong>和<strong>致读者书</strong>四个栏目，每周更新。支持<strong>点赞</strong>、<strong>留言</strong>和<strong>分享</strong>。</p>
             </div>
 
             <div>

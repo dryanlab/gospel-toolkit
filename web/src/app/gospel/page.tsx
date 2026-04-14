@@ -15,7 +15,7 @@ const sections = [
     content_zh:
       '圣经告诉我们，所有人都犯了罪，亏缺了神的荣耀。罪不只是做了坏事，更是我们与造我们的神之间关系的断裂。我们靠自己无法修复这个关系，也无法达到神圣洁的标准。',
     content_en:
-      'The Bible tells us that all have sinned and fall short of the glory of God. Sin is not merely doing bad things — it is the broken relationship between us and the God who made us. We cannot repair this relationship on our own, nor can we meet God\'s standard of holiness.',
+      'The Bible tells us that all have sinned and fall short of the glory of God. Sin is not merely doing bad things, it is the broken relationship between us and the God who made us. We cannot repair this relationship on our own, nor can we meet God\'s standard of holiness.',
     verses: [
       {
         ref_zh: '罗马书 3:23',
@@ -68,7 +68,7 @@ const sections = [
     content_zh:
       '福音呼召我们悔改并信靠耶稣基督。悔改意味着承认自己的罪，转离旧的生活方向；信靠意味着单单依靠基督的救赎，而不是靠自己的努力或善行。这救恩完全是神的恩典，是白白赐给我们的礼物。',
     content_en:
-      'The gospel calls us to repent and trust in Jesus Christ. Repentance means acknowledging our sin and turning from our old way of life; faith means relying on Christ\'s redemption alone, not on our own efforts or good works. This salvation is entirely by God\'s grace — a free gift.',
+      'The gospel calls us to repent and trust in Jesus Christ. Repentance means acknowledging our sin and turning from our old way of life; faith means relying on Christ\'s redemption alone, not on our own efforts or good works. This salvation is entirely by God\'s grace, a free gift.',
     verses: [
       {
         ref_zh: '以弗所书 2:8-9',
@@ -93,9 +93,9 @@ const sections = [
     title: '新生命的盼望',
     subtitle: 'The Hope',
     content_zh:
-      '信靠基督的人被神称为义人，与神和好，成为神家里的儿女。圣灵住在信徒里面，引导我们过新的生活。我们有永生的确据——不是因为我们有多好，而是因为基督已经为我们成就了一切。',
+      '信靠基督的人被神称为义人，与神和好，成为神家里的儿女。圣灵住在信徒里面，引导我们过新的生活。我们有永生的确据，不是因为我们有多好，而是因为基督已经为我们成就了一切。',
     content_en:
-      'Those who trust in Christ are declared righteous by God, reconciled to Him, and adopted as children of His family. The Holy Spirit dwells in believers, guiding us into new life. We have the assurance of eternal life — not because of how good we are, but because Christ has accomplished everything for us.',
+      'Those who trust in Christ are declared righteous by God, reconciled to Him, and adopted as children of His family. The Holy Spirit dwells in believers, guiding us into new life. We have the assurance of eternal life, not because of how good we are, but because Christ has accomplished everything for us.',
     verses: [
       {
         ref_zh: '哥林多后书 5:17',
@@ -135,10 +135,10 @@ export default function GospelPage() {
           Where do I come from? What is the meaning of life? Where will I go after death?
         </p>
         <p className="text-[var(--color-text-secondary)] leading-relaxed max-w-xl mx-auto text-sm">
-          福音是人类历史上最重要的好消息——神亲自为我们开辟了一条回到祂面前的道路。
+          福音是人类历史上最重要的好消息，神亲自为我们开辟了一条回到祂面前的道路。
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] leading-relaxed max-w-xl mx-auto italic">
-          The gospel is the greatest news in human history — God Himself has opened a way for us to come back to Him.
+          The gospel is the greatest news in human history, God Himself has opened a way for us to come back to Him.
         </p>
       </div>
 
@@ -176,7 +176,7 @@ export default function GospelPage() {
               <p className="text-[var(--color-text-secondary)] text-xs italic mb-2">
                 &ldquo;So God created man in his own image, in the image of God he created him; male and female he created them.&rdquo;
               </p>
-              <p className="text-xs text-[var(--color-accent)] font-medium">— 创世记 1:27 / Genesis 1:27</p>
+              <p className="text-xs text-[var(--color-accent)] font-medium">, 创世记 1:27 / Genesis 1:27</p>
             </div>
           </div>
 
@@ -204,7 +204,7 @@ export default function GospelPage() {
               <p className="text-[var(--color-text-secondary)] text-xs italic mb-2">
                 &ldquo;Man&apos;s chief end is to glorify God, and to enjoy him forever.&rdquo;
               </p>
-              <p className="text-xs text-[var(--color-accent)] font-medium">— 韦敏斯德小要理问答第一问 / WSC Q.1</p>
+              <p className="text-xs text-[var(--color-accent)] font-medium">, 韦敏斯德小要理问答第一问 / WSC Q.1</p>
             </div>
           </div>
 
@@ -215,15 +215,15 @@ export default function GospelPage() {
             </h3>
             <div className="flex items-start gap-2 mb-1">
               <p className="text-[var(--color-text)] leading-relaxed text-sm flex-1">
-                死亡不是终点。圣经明确告诉我们，每个人都要面对造物主的审判。这不是一个可以回避的问题——但好消息是，神已经为我们预备了出路。
+                死亡不是终点。圣经明确告诉我们，每个人都要面对造物主的审判。这不是一个可以回避的问题，但好消息是，神已经为我们预备了出路。
               </p>
-              <SpeakButton text="死亡不是终点。圣经明确告诉我们，每个人都要面对造物主的审判。这不是一个可以回避的问题——但好消息是，神已经为我们预备了出路。" lang="zh" className="shrink-0 mt-0.5" />
+              <SpeakButton text="死亡不是终点。圣经明确告诉我们，每个人都要面对造物主的审判。这不是一个可以回避的问题，但好消息是，神已经为我们预备了出路。" lang="zh" className="shrink-0 mt-0.5" />
             </div>
             <div className="flex items-start gap-2 mb-3">
               <p className="text-[var(--color-text-secondary)] leading-relaxed text-xs italic flex-1">
-                Death is not the end. The Bible clearly tells us that everyone will face judgment before the Creator. This is not a question we can avoid — but the good news is that God has prepared a way for us.
+                Death is not the end. The Bible clearly tells us that everyone will face judgment before the Creator. This is not a question we can avoid, but the good news is that God has prepared a way for us.
               </p>
-              <SpeakButton text="Death is not the end. The Bible clearly tells us that everyone will face judgment before the Creator. This is not a question we can avoid — but the good news is that God has prepared a way for us." lang="en" className="shrink-0 mt-0.5" />
+              <SpeakButton text="Death is not the end. The Bible clearly tells us that everyone will face judgment before the Creator. This is not a question we can avoid, but the good news is that God has prepared a way for us." lang="en" className="shrink-0 mt-0.5" />
             </div>
             <div className="rounded-lg bg-[var(--color-bg)] border border-[var(--color-border)] p-4">
               <p className="text-[var(--color-text)] text-sm mb-1">
@@ -232,7 +232,7 @@ export default function GospelPage() {
               <p className="text-[var(--color-text-secondary)] text-xs italic mb-2">
                 &ldquo;And just as it is appointed for man to die once, and after that comes judgment.&rdquo;
               </p>
-              <p className="text-xs text-[var(--color-accent)] font-medium">— 希伯来书 9:27 / Hebrews 9:27</p>
+              <p className="text-xs text-[var(--color-accent)] font-medium">, 希伯来书 9:27 / Hebrews 9:27</p>
             </div>
           </div>
         </div>
@@ -240,10 +240,10 @@ export default function GospelPage() {
         {/* Transition */}
         <div className="mt-6 pt-5 border-t border-[var(--color-border)] text-center">
           <p className="text-[var(--color-text)] text-sm leading-relaxed">
-            这些问题的答案，都指向同一个方向——<strong>福音</strong>。
+            这些问题的答案，都指向同一个方向，<strong>福音</strong>。
           </p>
           <p className="text-[var(--color-text-secondary)] text-xs italic">
-            The answers to all these questions point in one direction — the <strong>Gospel</strong>.
+            The answers to all these questions point in one direction, the <strong>Gospel</strong>.
           </p>
         </div>
       </div>
@@ -298,7 +298,7 @@ export default function GospelPage() {
                         &ldquo;{verse.text_en}&rdquo;
                       </p>
                       <p className="text-xs text-[var(--color-accent)] font-medium">
-                        — {verse.ref_zh} / {verse.ref_en}
+                       , {verse.ref_zh} / {verse.ref_en}
                       </p>
                     </div>
                     <div className="flex flex-col gap-1 shrink-0">

@@ -25,7 +25,7 @@ const config: BookConfig = {
   emoji: '🎵',
   authorZh: '大卫',
   authorEn: 'David',
-  introZh: '弟兄姐妹，我是大卫，犹大支派耶西的儿子。这些诗歌是我在青草地上、在旷野逃亡中、在王宫宝座前写下的——每一首都是向耶和华的倾心吐意。',
+  introZh: '弟兄姐妹，我是大卫，犹大支派耶西的儿子。这些诗歌是我在青草地上、在旷野逃亡中、在王宫宝座前写下的，每一首都是向耶和华的倾心吐意。',
   introEn: 'Brothers and sisters, I am David, son of Jesse, of the tribe of Judah. These songs were written on green pastures, in the wilderness as a fugitive, and from the throne of a king -- every one of them a pouring out of heart before the LORD.',
   isTopicBased: true,
 };

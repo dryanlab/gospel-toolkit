@@ -25,8 +25,8 @@ const config: BookConfig = {
   emoji: '📜',
   authorZh: '摩西',
   authorEn: 'Moses',
-  introZh: '申命记是摩西的遗言——在约旦河东向新一代以色列人重申律法和盟约。这是旧约中最伟大的讲道集，从"以色列啊你要听"到摩西之死。',
-  introEn: 'Deuteronomy is Moses\' farewell—reiterating law and covenant to the new generation east of the Jordan. It is the Old Testament\'s greatest sermon collection, from "Hear, O Israel" to Moses\' death.',
+  introZh: '申命记是摩西的遗言，在约旦河东向新一代以色列人重申律法和盟约。这是旧约中最伟大的讲道集，从"以色列啊你要听"到摩西之死。',
+  introEn: 'Deuteronomy is Moses\' farewell, reiterating law and covenant to the new generation east of the Jordan. It is the Old Testament\'s greatest sermon collection, from "Hear, O Israel" to Moses\' death.',
 };
 
 export default function DeuteronomyReadingPage() {

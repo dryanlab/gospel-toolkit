@@ -83,10 +83,10 @@ export default function HomePage() {
         </h1>
         <p className="text-lg text-[var(--color-text-secondary)]">Rock of Truth</p>
         <p className="mt-3 text-sm text-[var(--color-text-secondary)] max-w-md mx-auto">
-          你们必晓得真理，真理必叫你们得以自由。— 约翰福音 8:32
+          你们必晓得真理，真理必叫你们得以自由。, 约翰福音 8:32
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] max-w-md mx-auto italic">
-          You will know the truth, and the truth will set you free. — John 8:32
+          You will know the truth, and the truth will set you free., John 8:32
         </p>
       </div>
 
@@ -97,7 +97,7 @@ export default function HomePage() {
           <div className="flex-1 min-w-0">
             <p className="text-white/70 text-xs">The Word of God</p>
             <h3 className="font-serif-cn text-xl font-bold text-white">圣经 / Holy Bible</h3>
-            <p className="text-white/80 text-sm">和合本 · King James Version — 66卷 1189章</p>
+            <p className="text-white/80 text-sm">和合本 · King James Version, 66卷 1189章</p>
           </div>
           <span className="text-white/90 text-2xl shrink-0 group-hover:translate-x-1 transition-transform">→</span>
         </div>
@@ -135,7 +135,7 @@ export default function HomePage() {
               每日家庭敬拜指引，全家一起亲近神
             </p>
             <p className="text-[var(--color-text-secondary)] text-xs italic mx-auto mb-4">
-              Daily family worship guide — draw near to God together
+              Daily family worship guide, draw near to God together
             </p>
             <span className="inline-flex items-center gap-1 text-[var(--color-accent)] font-medium text-sm group-hover:underline">
               今日内容 Today&apos;s Content →
@@ -152,7 +152,7 @@ export default function HomePage() {
               圣经作者亲自带你逐章读经
             </p>
             <p className="text-[var(--color-text-secondary)] text-xs italic mx-auto mb-4">
-              Read with the Saints — chapter by chapter
+              Read with the Saints, chapter by chapter
             </p>
             <span className="inline-flex items-center gap-1 text-[var(--color-accent)] font-medium text-sm group-hover:underline">
               开始阅读 Start Reading →
@@ -166,10 +166,10 @@ export default function HomePage() {
               圣徒来信
             </h2>
             <p className="text-[var(--color-text-secondary)] text-sm mx-auto mb-3">
-              圣经人物的亲笔信——最真实的挣扎与得胜
+              圣经人物的亲笔信，最真实的挣扎与得胜
             </p>
             <p className="text-[var(--color-text-secondary)] text-xs italic mx-auto mb-4">
-              Letters from biblical figures — their struggles and victories
+              Letters from biblical figures, their struggles and victories
             </p>
             <span className="inline-flex items-center gap-1 text-[var(--color-accent)] font-medium text-sm group-hover:underline">
               阅读来信 Read Letters →
@@ -200,10 +200,10 @@ export default function HomePage() {
         <h3 className="font-serif-cn text-lg font-semibold text-[var(--color-text)] mb-2">关于真理磐石</h3>
         <p className="text-xs text-[var(--color-text-secondary)] mb-3">About Rock of Truth</p>
         <p className="text-sm text-[var(--color-text)] leading-relaxed max-w-2xl mx-auto">
-          <strong>真理磐石福音事工致力于传扬福音与建造门徒。</strong>我们持守纯正的改革宗信仰——<strong>唯独圣经</strong>、<strong>唯独恩典</strong>、<strong>唯独信心</strong>、<strong>唯独基督</strong>、<strong>唯独神的荣耀</strong>。盼望借着这个平台，帮助更多人认识真理，扎根信仰，在恩典中成长。
+          <strong>真理磐石福音事工致力于传扬福音与建造门徒。</strong>我们持守纯正的改革宗信仰，<strong>唯独圣经</strong>、<strong>唯独恩典</strong>、<strong>唯独信心</strong>、<strong>唯独基督</strong>、<strong>唯独神的荣耀</strong>。盼望借着这个平台，帮助更多人认识真理，扎根信仰，在恩典中成长。
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] mt-3 italic max-w-2xl mx-auto">
-          Rock of Truth Gospel Ministry is dedicated to proclaiming the Gospel and building disciples. We hold to the historic Reformed faith — Sola Scriptura, Sola Gratia, Sola Fide, Solus Christus, Soli Deo Gloria. We hope that through this platform, more people will come to know the truth, be rooted in the faith, and grow in grace.
+          Rock of Truth Gospel Ministry is dedicated to proclaiming the Gospel and building disciples. We hold to the historic Reformed faith, Sola Scriptura, Sola Gratia, Sola Fide, Solus Christus, Soli Deo Gloria. We hope that through this platform, more people will come to know the truth, be rooted in the faith, and grow in grace.
         </p>
         <div className="mt-4 pt-4 border-t border-[var(--color-border)] flex items-center justify-center gap-4">
           <a href="/about" className="text-sm text-[var(--color-accent)] hover:underline">

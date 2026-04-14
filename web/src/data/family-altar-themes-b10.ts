@@ -54,8 +54,8 @@ export const themesB10 = [
           text_en: 'Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.',
         },
         reflection: {
-          zh: '尼哥底母是以色列的教师，有学问、有地位，却被耶稣告知：这一切都不够。进入神的国不是靠改良，而是靠重生——从上头来的全新生命。这不是人的努力能达成的，而是圣灵的工作。',
-          en: 'Nicodemus was a teacher of Israel — learned and respected — yet Jesus told him it was not enough. Entering God\'s kingdom is not about self-improvement but about being born again — a completely new life from above, wrought by the Holy Spirit.',
+          zh: '尼哥底母是以色列的教师，有学问、有地位，却被耶稣告知：这一切都不够。进入神的国不是靠改良，而是靠重生，从上头来的全新生命。这不是人的努力能达成的，而是圣灵的工作。',
+          en: 'Nicodemus was a teacher of Israel, learned and respected, yet Jesus told him it was not enough. Entering God\'s kingdom is not about self-improvement but about being born again, a completely new life from above, wrought by the Holy Spirit.',
         },
         question: {
           zh: '重生不是改善旧生命，而是得到新生命。你的生命中有哪些"重生"的记号？',
@@ -95,7 +95,7 @@ export const themesB10 = [
         },
         reflection: {
           zh: '人们追随耶稣是因为吃饼得饱，但耶稣指向更深的饥饿。他不仅赐下食物，他自己就是生命的粮。来到他面前、信靠他，我们灵魂最深的饥渴就得到满足。',
-          en: 'The crowds followed Jesus because they ate bread and were filled, but Jesus pointed to a deeper hunger. He does not merely give food — He Himself is the bread of life. Coming to Him and believing in Him satisfies our deepest spiritual hunger.',
+          en: 'The crowds followed Jesus because they ate bread and were filled, but Jesus pointed to a deeper hunger. He does not merely give food, He Himself is the bread of life. Coming to Him and believing in Him satisfies our deepest spiritual hunger.',
         },
         question: {
           zh: '耶稣说"到我这里来的，必定不饿"。你每天是否以耶稣为你生命的粮？',
@@ -135,7 +135,7 @@ export const themesB10 = [
         },
         reflection: {
           zh: '耶稣所说的自由不是政治自由，而是从罪的捆绑中得释放。真理不是抽象的哲学概念，而是耶稣自己。当我们认识他、跟随他，罪的锁链就断开，我们在他里面得到真正的自由。',
-          en: 'The freedom Jesus speaks of is not political liberation but release from the bondage of sin. Truth is not an abstract philosophy — it is Jesus Himself. When we know and follow Him, sin\'s chains are broken and we find true freedom in Him.',
+          en: 'The freedom Jesus speaks of is not political liberation but release from the bondage of sin. Truth is not an abstract philosophy, it is Jesus Himself. When we know and follow Him, sin\'s chains are broken and we find true freedom in Him.',
         },
         question: {
           zh: '真理使人自由。有什么谎言或捆绑是你需要用神的真理来胜过的？',
@@ -175,7 +175,7 @@ export const themesB10 = [
         },
         reflection: {
           zh: '雇工看到狼来就逃跑，因为羊不是他的。但好牧人与羊有生命的联结，他认识每一只羊，甚至愿意为羊舍命。耶稣不是被迫牺牲，而是甘心为我们舍命。',
-          en: 'A hired hand flees when the wolf comes because the sheep are not his own. But the good shepherd has a life-bond with his sheep — He knows each one and willingly lays down His life. Jesus was not forced to sacrifice; He chose to die for us.',
+          en: 'A hired hand flees when the wolf comes because the sheep are not his own. But the good shepherd has a life-bond with his sheep, He knows each one and willingly lays down His life. Jesus was not forced to sacrifice; He chose to die for us.',
         },
         question: {
           zh: '好牧人为羊舍命。知道耶稣甘心为你舍命，这如何影响你对他的信靠？',
@@ -194,8 +194,8 @@ export const themesB10 = [
           text_en: 'Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live: And whosoever liveth and believeth in me shall never die. Believest thou this?',
         },
         reflection: {
-          zh: '在拉撒路坟墓前，马大悲痛欲绝。耶稣没有给出哲学安慰，而是宣告一个震撼的事实：复活和生命不是将来的事件，而是一个人——就是他自己。信他的人，死亡不是终点，而是通往永生的门。',
-          en: 'Before Lazarus\' tomb, Martha was grief-stricken. Jesus offered no philosophical comfort but declared a stunning truth: the resurrection and the life are not future events but a person — Himself. For those who believe, death is not the end but a doorway to eternal life.',
+          zh: '在拉撒路坟墓前，马大悲痛欲绝。耶稣没有给出哲学安慰，而是宣告一个震撼的事实：复活和生命不是将来的事件，而是一个人，就是他自己。信他的人，死亡不是终点，而是通往永生的门。',
+          en: 'Before Lazarus\' tomb, Martha was grief-stricken. Jesus offered no philosophical comfort but declared a stunning truth: the resurrection and the life are not future events but a person, Himself. For those who believe, death is not the end but a doorway to eternal life.',
         },
         question: {
           zh: '耶稣问马大："你信这话吗？"今天他也问你同样的问题。你怎样回答？',
@@ -203,7 +203,7 @@ export const themesB10 = [
         },
         prayer: {
           zh: '主耶稣，你是复活，你是生命。我们信靠你，无论生死，都在你手中。求你坚固我们的信心，胜过对死亡的惧怕。阿们。',
-          en: 'Lord Jesus, You are the resurrection and the life. We trust in You — in life and death we are in Your hands. Strengthen our faith to overcome the fear of death. Amen.',
+          en: 'Lord Jesus, You are the resurrection and the life. We trust in You, in life and death we are in Your hands. Strengthen our faith to overcome the fear of death. Amen.',
         },
       },
       {
@@ -215,7 +215,7 @@ export const themesB10 = [
         },
         reflection: {
           zh: '万王之王弯下腰来，为门徒洗脚。这不是一次作秀，而是一个颠覆世界价值观的宣告：真正的领袖是仆人，真正的伟大在于服侍。耶稣不仅教导谦卑，他活出了谦卑。',
-          en: 'The King of kings knelt down to wash His disciples\' feet. This was not a performance but a declaration that overturns worldly values: true leadership is servanthood, and true greatness lies in serving. Jesus did not merely teach humility — He lived it.',
+          en: 'The King of kings knelt down to wash His disciples\' feet. This was not a performance but a declaration that overturns worldly values: true leadership is servanthood, and true greatness lies in serving. Jesus did not merely teach humility, He lived it.',
         },
         question: {
           zh: '耶稣给我们留下了服侍的榜样。你今天可以怎样"洗别人的脚"？',
@@ -235,7 +235,7 @@ export const themesB10 = [
         },
         reflection: {
           zh: '耶稣不是说他知道道路，而是说他就是道路。他不是指向真理，他就是真理。他不是赐予生命的途径之一，他就是生命本身。到父那里去只有一条路，就是通过耶稣基督。',
-          en: 'Jesus did not say He knows the way — He said He is the way. He does not merely point to truth — He is the truth. He is not one means to life — He is life itself. There is only one way to the Father: through Jesus Christ.',
+          en: 'Jesus did not say He knows the way, He said He is the way. He does not merely point to truth, He is the truth. He is not one means to life, He is life itself. There is only one way to the Father: through Jesus Christ.',
         },
         question: {
           zh: '耶稣是唯一的道路、真理和生命。在你的人生旅程中，你是否在跟随这条唯一的道路？',
@@ -323,8 +323,8 @@ export const themesB10 = [
           text_en: 'And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage. And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob. And God looked upon the children of Israel, and God had respect unto them.',
         },
         reflection: {
-          zh: '四百年的沉默不代表神的缺席。以色列人的哀声达于神——神听见了、记念了、看顾了、知道了。四个动词展现了神对受苦子民完全的关注。当我们以为神沉默时，他其实正在预备拯救。',
-          en: 'Four hundred years of silence did not mean God was absent. The Israelites\' cries came up to God — He heard, He remembered, He saw, He knew. Four verbs reveal God\'s complete attention to His suffering people. When we think God is silent, He is preparing deliverance.',
+          zh: '四百年的沉默不代表神的缺席。以色列人的哀声达于神：神听见了、记念了、看顾了、知道了。四个动词展现了神对受苦子民完全的关注。当我们以为神沉默时，他其实正在预备拯救。',
+          en: 'Four hundred years of silence did not mean God was absent. The Israelites\' cries came up to God, He heard, He remembered, He saw, He knew. Four verbs reveal God\'s complete attention to His suffering people. When we think God is silent, He is preparing deliverance.',
         },
         question: {
           zh: '神听见以色列人的哀声，记念他的约。在你等候神回应的时刻，你是否相信他已经听见？',
@@ -344,7 +344,7 @@ export const themesB10 = [
         },
         reflection: {
           zh: '一丛燃烧却不被烧毁的荆棘，成了神显现的地方。旷野中最平凡的角落因神的同在而成为圣地。摩西被呼召脱鞋，因为站在圣洁的神面前需要敬畏。神亲自向他启示自己的身份。',
-          en: 'A bush that burned but was not consumed became the place of God\'s appearing. The most ordinary corner of the wilderness became holy ground because of God\'s presence. Moses was called to remove his sandals — standing before a holy God requires reverence.',
+          en: 'A bush that burned but was not consumed became the place of God\'s appearing. The most ordinary corner of the wilderness became holy ground because of God\'s presence. Moses was called to remove his sandals, standing before a holy God requires reverence.',
         },
         question: {
           zh: '神使平凡之地成为圣地。你是否在日常生活中留意神的同在，带着敬畏来到他面前？',
@@ -363,8 +363,8 @@ export const themesB10 = [
           text_en: 'And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.',
         },
         reflection: {
-          zh: '"我是自有永有的"——这是神最核心的自我启示。他不依赖任何事物而存在，他是一切存在的源头。这个名字意味着他的信实——过去如此，现在如此，将来也如此。他永不改变。',
-          en: '"I AM WHO I AM" — this is God\'s most fundamental self-revelation. He depends on nothing for His existence; He is the source of all being. This name signifies His faithfulness — He was, He is, He will be. He never changes.',
+          zh: '"我是自有永有的"，这是神最核心的自我启示。他不依赖任何事物而存在，他是一切存在的源头。这个名字意味着他的信实，过去如此，现在如此，将来也如此。他永不改变。',
+          en: '"I AM WHO I AM", this is God\'s most fundamental self-revelation. He depends on nothing for His existence; He is the source of all being. This name signifies His faithfulness, He was, He is, He will be. He never changes.',
         },
         question: {
           zh: '神说"我是自有永有的"。这位永不改变的神如何成为你生命的根基？',
@@ -383,8 +383,8 @@ export const themesB10 = [
           text_en: 'And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.',
         },
         reflection: {
-          zh: '"容我的百姓去"——这是神主权的宣告。以色列人不属于法老，他们属于神。神要释放他的百姓，不是为了让他们自由散漫，而是为了让他们来敬拜他。真正的自由是脱离罪的辖制，归向神。',
-          en: '"Let my people go" — this is a declaration of God\'s sovereignty. Israel did not belong to Pharaoh; they belonged to God. God freed His people not for aimless liberty but for worship. True freedom is release from sin\'s dominion to return to God.',
+          zh: '"容我的百姓去"，这是神主权的宣告。以色列人不属于法老，他们属于神。神要释放他的百姓，不是为了让他们自由散漫，而是为了让他们来敬拜他。真正的自由是脱离罪的辖制，归向神。',
+          en: '"Let my people go", this is a declaration of God\'s sovereignty. Israel did not belong to Pharaoh; they belonged to God. God freed His people not for aimless liberty but for worship. True freedom is release from sin\'s dominion to return to God.',
         },
         question: {
           zh: '神释放以色列人是为了让他们敬拜他。你是否把自己的自由用来荣耀神？',
@@ -403,16 +403,16 @@ export const themesB10 = [
           text_en: 'And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.',
         },
         reflection: {
-          zh: '逾越节的血是保护的记号。审判临到全地时，唯有门框上涂了羔羊之血的家庭得免灾殃。这血预表了基督的宝血——我们得救不是靠自己的善行，而是靠羔羊的血遮盖。',
-          en: 'The Passover blood was a sign of protection. When judgment fell on the land, only households marked by the lamb\'s blood were spared. This blood foreshadows Christ\'s precious blood — we are saved not by good works but by the covering of the Lamb\'s blood.',
+          zh: '逾越节的血是保护的记号。审判临到全地时，唯有门框上涂了羔羊之血的家庭得免灾殃。这血预表了基督的宝血，我们得救不是靠自己的善行，而是靠羔羊的血遮盖。',
+          en: 'The Passover blood was a sign of protection. When judgment fell on the land, only households marked by the lamb\'s blood were spared. This blood foreshadows Christ\'s precious blood, we are saved not by good works but by the covering of the Lamb\'s blood.',
         },
         question: {
           zh: '"我一见这血，就越过你们去。"你是否信靠基督的宝血作为你的遮盖和保护？',
           en: '"When I see the blood, I will pass over you." Do you trust Christ\'s blood as your covering and protection?',
         },
         prayer: {
-          zh: '主啊，感谢你为我们预备了逾越节的羔羊——你的独生子耶稣基督。他的宝血遮盖我们，使审判越过我们。我们感恩敬拜。阿们。',
-          en: 'Lord, thank You for providing the Passover Lamb — Your only Son, Jesus Christ. His precious blood covers us so that judgment passes over us. We worship with gratitude. Amen.',
+          zh: '主啊，感谢你为我们预备了逾越节的羔羊，你的独生子耶稣基督。他的宝血遮盖我们，使审判越过我们。我们感恩敬拜。阿们。',
+          en: 'Lord, thank You for providing the Passover Lamb, Your only Son, Jesus Christ. His precious blood covers us so that judgment passes over us. We worship with gratitude. Amen.',
         },
       },
       {
@@ -424,7 +424,7 @@ export const themesB10 = [
         },
         reflection: {
           zh: '前有红海，后有追兵，这是绝境。但神的能力超越一切不可能。他使海水分开，使深渊成为道路。在我们看来无路可走的时候，神能在水中开道路。',
-          en: 'The Red Sea before them, Pharaoh\'s army behind — an impossible situation. But God\'s power transcends every impossibility. He parted the waters and made the deep a highway. When we see no way forward, God can make a path through the waters.',
+          en: 'The Red Sea before them, Pharaoh\'s army behind, an impossible situation. But God\'s power transcends every impossibility. He parted the waters and made the deep a highway. When we see no way forward, God can make a path through the waters.',
         },
         question: {
           zh: '神在红海中开路。你生命中是否有看似不可能的"红海"？你是否相信神能为你开路？',
@@ -464,7 +464,7 @@ export const themesB10 = [
         },
         reflection: {
           zh: '神在旷野降下吗哪，每天供应所需。不多不少，刚刚好。不能囤积，必须每天领取。这教导我们信靠神每日的供应，而非依赖自己的积蓄。日用的饮食，今日赐给我们。',
-          en: 'God rained manna in the wilderness, providing daily needs — not too much, not too little, just enough. It could not be hoarded; it had to be gathered fresh each day. This teaches us to trust God\'s daily provision rather than our own reserves.',
+          en: 'God rained manna in the wilderness, providing daily needs, not too much, not too little, just enough. It could not be hoarded; it had to be gathered fresh each day. This teaches us to trust God\'s daily provision rather than our own reserves.',
         },
         question: {
           zh: '吗哪每天领取，不能囤积。你是否每天信靠神的供应，还是试图靠自己的力量积攒安全感？',
@@ -483,12 +483,12 @@ export const themesB10 = [
           text_en: 'Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.',
         },
         reflection: {
-          zh: '旷野没有水，百姓向摩西发怨言。但神说他要站在磐石上——神自己站在那里承受击打。保罗告诉我们，那磐石就是基督。从被击打的磐石中流出活水，从被钉十架的基督里流出生命。',
-          en: 'There was no water in the wilderness, and the people grumbled. But God said He would stand on the rock — God Himself stood there to receive the blow. Paul tells us that rock was Christ. Living water flowed from the struck rock, just as life flows from the crucified Christ.',
+          zh: '旷野没有水，百姓向摩西发怨言。但神说他要站在磐石上，神自己站在那里承受击打。保罗告诉我们，那磐石就是基督。从被击打的磐石中流出活水，从被钉十架的基督里流出生命。',
+          en: 'There was no water in the wilderness, and the people grumbled. But God said He would stand on the rock, God Himself stood there to receive the blow. Paul tells us that rock was Christ. Living water flowed from the struck rock, just as life flows from the crucified Christ.',
         },
         question: {
           zh: '磐石被击打，活水就流出。基督为你被"击打"，你是否在他里面找到了生命的活水？',
-          en: 'The rock was struck and water flowed. Christ was "struck" for you — have you found living water in Him?',
+          en: 'The rock was struck and water flowed. Christ was "struck" for you, have you found living water in Him?',
         },
         prayer: {
           zh: '主啊，你是我们的磐石。感谢你为我们被击打，使活水从你流出。在干旱之地，你是我们生命的泉源。阿们。',
@@ -503,8 +503,8 @@ export const themesB10 = [
           text_en: 'And God spake all these words, saying, I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me.',
         },
         reflection: {
-          zh: '十诫不是冰冷的法律条文，而是以关系为基础的盟约。神先宣告他的身份和恩典——"我是拯救你的神"——然后才给出要求。顺服是对恩典的回应，不是赚取恩典的手段。',
-          en: 'The Ten Commandments are not cold legal codes but a covenant grounded in relationship. God first declares His identity and grace — "I am the God who saved you" — then gives His requirements. Obedience is a response to grace, not a means to earn it.',
+          zh: '十诫不是冰冷的法律条文，而是以关系为基础的盟约。神先宣告他的身份和恩典："我是拯救你的神"，然后才给出要求。顺服是对恩典的回应，不是赚取恩典的手段。',
+          en: 'The Ten Commandments are not cold legal codes but a covenant grounded in relationship. God first declares His identity and grace, "I am the God who saved you", then gives His requirements. Obedience is a response to grace, not a means to earn it.',
         },
         question: {
           zh: '神先拯救，再颁布诫命。你的顺服是出于对神恩典的感恩回应，还是试图靠行为赚取神的爱？',
@@ -523,8 +523,8 @@ export const themesB10 = [
           text_en: 'Thou shalt have no other gods before me. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;',
         },
         reflection: {
-          zh: '神是"忌邪的神"——这不是人类的嫉妒，而是对专一关系的坚持。就像配偶不容许第三者介入一样，神不容许我们将心分给偶像。偶像不只是木石雕刻，任何取代神在我们心中首位的事物都是偶像。',
-          en: 'God is a "jealous God" — not with human pettiness but with a holy insistence on an exclusive relationship. As a spouse rightly demands faithfulness, God will not share our hearts with idols. Idols are not just carved images — anything that takes God\'s first place in our hearts is an idol.',
+          zh: '神是"忌邪的神"，这不是人类的嫉妒，而是对专一关系的坚持。就像配偶不容许第三者介入一样，神不容许我们将心分给偶像。偶像不只是木石雕刻，任何取代神在我们心中首位的事物都是偶像。',
+          en: 'God is a "jealous God", not with human pettiness but with a holy insistence on an exclusive relationship. As a spouse rightly demands faithfulness, God will not share our hearts with idols. Idols are not just carved images, anything that takes God\'s first place in our hearts is an idol.',
         },
         question: {
           zh: '神是忌邪的神，不容许偶像。你生命中有什么事物可能在取代神的首位？',
@@ -543,8 +543,8 @@ export const themesB10 = [
           text_en: 'And the LORD said unto Moses, Go, get thee down; for thy people, which thou broughtest out of the land of Egypt, have corrupted themselves: They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These be thy gods, O Israel, which have brought thee up out of the land of Egypt.',
         },
         reflection: {
-          zh: '以色列人才刚经历了红海的神迹，就铸了金牛犊。他们"快快偏离"——背离神竟是如此容易。这提醒我们，属灵的记忆很短暂。我们需要每天更新与神的关系，警醒不偏离。',
-          en: 'Israel had just experienced the Red Sea miracle, yet they made a golden calf. They "turned aside quickly" — departure from God can be shockingly swift. This reminds us that spiritual memory is short. We need daily renewal and vigilance against wandering.',
+          zh: '以色列人才刚经历了红海的神迹，就铸了金牛犊。他们"快快偏离"，背离神竟是如此容易。这提醒我们，属灵的记忆很短暂。我们需要每天更新与神的关系，警醒不偏离。',
+          en: 'Israel had just experienced the Red Sea miracle, yet they made a golden calf. They "turned aside quickly", departure from God can be shockingly swift. This reminds us that spiritual memory is short. We need daily renewal and vigilance against wandering.',
         },
         question: {
           zh: '以色列人"快快偏离"了神的道。你生命中是否有"快快偏离"神的倾向需要警醒？',
@@ -632,8 +632,8 @@ export const themesB10 = [
           text_en: 'Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:',
         },
         reflection: {
-          zh: '保罗没有说神"将要赐"或"可能赐"，而是说"曾赐给"——过去完成式。在基督里，天上各样属灵的福气已经是我们的了。我们不是缺乏的乞丐，而是已经拥有一切属灵丰盛的神的儿女。',
-          en: 'Paul does not say God "will bless" or "might bless" but "has blessed" — past tense, completed. In Christ, every spiritual blessing in the heavenly places is already ours. We are not beggars lacking provision but children of God who possess every spiritual richness.',
+          zh: '保罗没有说神"将要赐"或"可能赐"，而是说"曾赐给"，过去完成式。在基督里，天上各样属灵的福气已经是我们的了。我们不是缺乏的乞丐，而是已经拥有一切属灵丰盛的神的儿女。',
+          en: 'Paul does not say God "will bless" or "might bless" but "has blessed", past tense, completed. In Christ, every spiritual blessing in the heavenly places is already ours. We are not beggars lacking provision but children of God who possess every spiritual richness.',
         },
         question: {
           zh: '神已经赐给你天上各样属灵的福气。你是否活在这个丰盛的现实中，还是仍然觉得自己缺乏？',
@@ -672,8 +672,8 @@ export const themesB10 = [
           text_en: 'In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise, Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.',
         },
         reflection: {
-          zh: '圣灵是神给我们的印记和凭据。印记表示所有权——我们属于神；凭据表示保证——将来的基业是确定的。圣灵住在我们里面，就是神对我们说："你是我的，我必不丢弃你。"',
-          en: 'The Holy Spirit is God\'s seal and guarantee. The seal marks ownership — we belong to God; the guarantee assures us — our future inheritance is certain. The Spirit dwelling within us is God saying, "You are mine, and I will never forsake you."',
+          zh: '圣灵是神给我们的印记和凭据。印记表示所有权，我们属于神；凭据表示保证，将来的基业是确定的。圣灵住在我们里面，就是神对我们说："你是我的，我必不丢弃你。"',
+          en: 'The Holy Spirit is God\'s seal and guarantee. The seal marks ownership, we belong to God; the guarantee assures us, our future inheritance is certain. The Spirit dwelling within us is God saying, "You are mine, and I will never forsake you."',
         },
         question: {
           zh: '圣灵是我们得基业的凭据。你是否在日常生活中意识到圣灵住在你里面？',
@@ -692,8 +692,8 @@ export const themesB10 = [
           text_en: 'In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace; Wherein he hath abounded toward us in all wisdom and prudence;',
         },
         reflection: {
-          zh: '我们的救赎不是廉价的——代价是基督的宝血。但神赐给我们恩典不是吝啬地施舍，而是"充充足足赏给"。这恩典之丰富，不是涓涓细流，而是汹涌澎湃的洪流。',
-          en: 'Our redemption was not cheap — it cost Christ\'s blood. Yet God does not give grace sparingly; He "lavished" it upon us. The riches of this grace are not a trickle but a torrential flood.',
+          zh: '我们的救赎不是廉价的，代价是基督的宝血。但神赐给我们恩典不是吝啬地施舍，而是"充充足足赏给"。这恩典之丰富，不是涓涓细流，而是汹涌澎湃的洪流。',
+          en: 'Our redemption was not cheap, it cost Christ\'s blood. Yet God does not give grace sparingly; He "lavished" it upon us. The riches of this grace are not a trickle but a torrential flood.',
         },
         question: {
           zh: '神的恩典是"充充足足赏给我们的"。你是否在经历这丰盛的恩典，还是觉得神对你很吝啬？',
@@ -701,7 +701,7 @@ export const themesB10 = [
         },
         prayer: {
           zh: '天父，感谢你藉着基督的血赐给我们丰富的恩典。你的恩典充充足足，我们永远述说不尽。阿们。',
-          en: 'Heavenly Father, thank You for the rich grace given through Christ\'s blood. Your grace is lavished abundantly — we can never exhaust its telling. Amen.',
+          en: 'Heavenly Father, thank You for the rich grace given through Christ\'s blood. Your grace is lavished abundantly, we can never exhaust its telling. Amen.',
         },
       },
       {
@@ -712,8 +712,8 @@ export const themesB10 = [
           text_en: 'And you hath he quickened, who were dead in trespasses and sins;',
         },
         reflection: {
-          zh: '"然而，神……"——这两个字改变了一切。我们原是死在罪中的人，没有能力自救。但神的怜悯和大爱临到了我们。不是我们寻找神，是神在我们还死的时候就使我们活过来。',
-          en: '"But God" — these two words changed everything. We were dead in sin, utterly unable to save ourselves. But God\'s mercy and great love reached us. We did not seek God; God made us alive even while we were still dead.',
+          zh: '"然而，神……"，这两个字改变了一切。我们原是死在罪中的人，没有能力自救。但神的怜悯和大爱临到了我们。不是我们寻找神，是神在我们还死的时候就使我们活过来。',
+          en: '"But God", these two words changed everything. We were dead in sin, utterly unable to save ourselves. But God\'s mercy and great love reached us. We did not seek God; God made us alive even while we were still dead.',
         },
         question: {
           zh: '"然而，神……"这两个字如何改变了你的人生故事？',
@@ -732,8 +732,8 @@ export const themesB10 = [
           text_en: 'For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.',
         },
         reflection: {
-          zh: '得救完全是恩典的礼物。不是我们的信心有多大，不是我们的行为有多好，而是神白白的赐予。保罗特别强调"免得有人自夸"——救恩排除了一切人的功劳，将一切荣耀归给神。',
-          en: 'Salvation is entirely a gift of grace. Not because of how great our faith is or how good our works are, but because of God\'s free gift. Paul emphasizes "so that no one may boast" — salvation excludes all human merit and gives all glory to God.',
+          zh: '得救完全是恩典的礼物。不是我们的信心有多大，不是我们的行为有多好，而是神白白的赐予。保罗特别强调"免得有人自夸"，救恩排除了一切人的功劳，将一切荣耀归给神。',
+          en: 'Salvation is entirely a gift of grace. Not because of how great our faith is or how good our works are, but because of God\'s free gift. Paul emphasizes "so that no one may boast", salvation excludes all human merit and gives all glory to God.',
         },
         question: {
           zh: '得救不是出于行为，免得有人自夸。你是否仍然试图靠好行为来赚取神的接纳？',
@@ -741,7 +741,7 @@ export const themesB10 = [
         },
         prayer: {
           zh: '天父，得救是本乎恩，也因着信。这不是我们的功劳，乃是你的恩赐。一切荣耀归给你！阿们。',
-          en: 'Heavenly Father, we are saved by grace through faith — not our own doing but Your gift. All glory belongs to You! Amen.',
+          en: 'Heavenly Father, we are saved by grace through faith, not our own doing but Your gift. All glory belongs to You! Amen.',
         },
       },
       {
@@ -753,7 +753,7 @@ export const themesB10 = [
         },
         reflection: {
           zh: '我们不是靠行善得救，却是为了行善被造。我们是神的"工作"（希腊文poiema，杰作）。每个信徒都是神精心创造的艺术品，有神预备好的善工等待我们去行。你的人生有神独特的设计。',
-          en: 'We are not saved by good works, but we are created for good works. We are God\'s "workmanship" (Greek poiema — masterpiece). Every believer is God\'s carefully crafted work of art, with good works prepared in advance for us. Your life has God\'s unique design.',
+          en: 'We are not saved by good works, but we are created for good works. We are God\'s "workmanship" (Greek poiema, masterpiece). Every believer is God\'s carefully crafted work of art, with good works prepared in advance for us. Your life has God\'s unique design.',
         },
         question: {
           zh: '你是神的杰作，被造是为了行善。你是否在寻找并行走在神为你预备的善工中？',
@@ -772,8 +772,8 @@ export const themesB10 = [
           text_en: 'But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.',
         },
         reflection: {
-          zh: '"从前远离"——"如今得亲近"。这是每个信徒生命中最大的转变。我们曾经与神隔绝，没有指望，但基督的血打破了一切隔墙。如今我们可以坦然无惧地来到神面前。',
-          en: '"Once far off" — "now brought near." This is the greatest transformation in every believer\'s life. We were once alienated from God, without hope, but Christ\'s blood broke down every barrier. Now we can come boldly before God.',
+          zh: '"从前远离"："如今得亲近"。这是每个信徒生命中最大的转变。我们曾经与神隔绝，没有指望，但基督的血打破了一切隔墙。如今我们可以坦然无惧地来到神面前。',
+          en: '"Once far off", "now brought near." This is the greatest transformation in every believer\'s life. We were once alienated from God, without hope, but Christ\'s blood broke down every barrier. Now we can come boldly before God.',
         },
         question: {
           zh: '你从前远离神，如今靠基督的血得亲近。你是否珍惜这份来之不易的亲密关系？',
@@ -812,8 +812,8 @@ export const themesB10 = [
           text_en: 'But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:',
         },
         reflection: {
-          zh: '真理没有爱就变得生硬伤人；爱没有真理就变得软弱妥协。保罗呼吁我们"用爱心说诚实话"——两者缺一不可。这样的生命才能在基督里长进成熟。',
-          en: 'Truth without love becomes harsh and hurtful; love without truth becomes weak and compromising. Paul calls us to "speak the truth in love" — both are indispensable. Only this way do we grow to maturity in Christ.',
+          zh: '真理没有爱就变得生硬伤人；爱没有真理就变得软弱妥协。保罗呼吁我们"用爱心说诚实话"，两者缺一不可。这样的生命才能在基督里长进成熟。',
+          en: 'Truth without love becomes harsh and hurtful; love without truth becomes weak and compromising. Paul calls us to "speak the truth in love", both are indispensable. Only this way do we grow to maturity in Christ.',
         },
         question: {
           zh: '你更倾向于"只讲真理不顾感受"还是"只讲爱心不讲真理"？如何平衡两者？',
@@ -821,7 +821,7 @@ export const themesB10 = [
         },
         prayer: {
           zh: '主啊，求你帮助我们用爱心说诚实话。不因爱而妥协真理，也不因真理而失去爱心。使我们在基督里长进成熟。阿们。',
-          en: 'Lord, help us to speak the truth in love — not compromising truth for love, nor losing love for truth. May we grow to maturity in Christ. Amen.',
+          en: 'Lord, help us to speak the truth in love, not compromising truth for love, nor losing love for truth. May we grow to maturity in Christ. Amen.',
         },
       },
       {
@@ -852,8 +852,8 @@ export const themesB10 = [
           text_en: 'Be ye therefore followers of God, as dear children; And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.',
         },
         reflection: {
-          zh: '效法神——这是何等大胆的呼召！但保罗的根据是：我们是"蒙慈爱的儿女"。孩子自然模仿父亲，因为有爱的关系。基督为我们舍己的爱是我们效法的标杆。',
-          en: 'Imitating God — what a bold calling! But Paul\'s basis is this: we are "beloved children." Children naturally imitate their father because of the love relationship. Christ\'s self-giving love is the standard we are called to follow.',
+          zh: '效法神，这是何等大胆的呼召！但保罗的根据是：我们是"蒙慈爱的儿女"。孩子自然模仿父亲，因为有爱的关系。基督为我们舍己的爱是我们效法的标杆。',
+          en: 'Imitating God, what a bold calling! But Paul\'s basis is this: we are "beloved children." Children naturally imitate their father because of the love relationship. Christ\'s self-giving love is the standard we are called to follow.',
         },
         question: {
           zh: '基督为我们舍了自己。你今天可以怎样"凭爱心行事"，效法基督的舍己？',
@@ -872,16 +872,16 @@ export const themesB10 = [
           text_en: 'Husbands, love your wives, even as Christ also loved the church, and gave himself for it;',
         },
         reflection: {
-          zh: '丈夫爱妻子的标准是什么？是基督爱教会的方式——舍己。这不是控制或支配，而是牺牲和服侍。基督为教会死，丈夫也被呼召为妻子的益处而牺牲自己。婚姻反映了基督与教会的关系。',
-          en: 'What is the standard for a husband\'s love? Christ\'s love for the church — self-sacrifice. This is not control or domination but sacrifice and service. Christ died for the church; husbands are called to sacrifice for their wives\' good. Marriage reflects Christ\'s relationship with the church.',
+          zh: '丈夫爱妻子的标准是什么？是基督爱教会的方式，舍己。这不是控制或支配，而是牺牲和服侍。基督为教会死，丈夫也被呼召为妻子的益处而牺牲自己。婚姻反映了基督与教会的关系。',
+          en: 'What is the standard for a husband\'s love? Christ\'s love for the church, self-sacrifice. This is not control or domination but sacrifice and service. Christ died for the church; husbands are called to sacrifice for their wives\' good. Marriage reflects Christ\'s relationship with the church.',
         },
         question: {
           zh: '基督为教会舍己。作为丈夫（或将来的丈夫），你如何以舍己的爱来爱你的妻子？',
           en: 'Christ gave Himself up for the church. As a husband (or future husband), how can you love your wife with self-sacrificing love?',
         },
         prayer: {
-          zh: '主啊，求你帮助丈夫们像基督爱教会一样爱妻子——以舍己、牺牲、服侍的爱。让我们的婚姻成为基督与教会关系的见证。阿们。',
-          en: 'Lord, help husbands love their wives as Christ loved the church — with self-giving, sacrificial, serving love. May our marriages be a witness of Christ\'s relationship with the church. Amen.',
+          zh: '主啊，求你帮助丈夫们像基督爱教会一样爱妻子：以舍己、牺牲、服侍的爱。让我们的婚姻成为基督与教会关系的见证。阿们。',
+          en: 'Lord, help husbands love their wives as Christ loved the church, with self-giving, sacrificial, serving love. May our marriages be a witness of Christ\'s relationship with the church. Amen.',
         },
       },
       {
@@ -892,8 +892,8 @@ export const themesB10 = [
           text_en: 'Children, obey your parents in the Lord: for this is right. Honour thy father and mother; which is the first commandment with promise; That it may be well with thee, and thou mayest live long on the earth.',
         },
         reflection: {
-          zh: '"在主里听从父母"——顺服父母不是盲从，而是在主里面的顺服。孝敬父母是第一条带应许的诫命。神看重家庭秩序，也应许那些尊敬父母的人得到祝福。',
-          en: '"Obey your parents in the Lord" — obeying parents is not blind submission but obedience within the Lord. Honoring parents is the first commandment with a promise. God values family order and promises blessings to those who honor their parents.',
+          zh: '"在主里听从父母"，顺服父母不是盲从，而是在主里面的顺服。孝敬父母是第一条带应许的诫命。神看重家庭秩序，也应许那些尊敬父母的人得到祝福。',
+          en: '"Obey your parents in the Lord", obeying parents is not blind submission but obedience within the Lord. Honoring parents is the first commandment with a promise. God values family order and promises blessings to those who honor their parents.',
         },
         question: {
           zh: '孝敬父母是第一条带应许的诫命。你今天可以怎样具体地孝敬你的父母？',
@@ -912,8 +912,8 @@ export const themesB10 = [
           text_en: 'Finally, my brethren, be strong in the Lord, and in the power of his might. Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.',
         },
         reflection: {
-          zh: '基督徒的生命是一场属灵的争战。保罗没有说"靠自己的意志力"，而是说"靠着主，倚赖他的大能大力"。同时，我们需要穿戴全副军装——这说明争战是真实的，但装备也是充分的。',
-          en: 'The Christian life is a spiritual battle. Paul does not say "in your own willpower" but "in the Lord and in the strength of his might." We also need the whole armor of God — the battle is real, but the equipment is sufficient.',
+          zh: '基督徒的生命是一场属灵的争战。保罗没有说"靠自己的意志力"，而是说"靠着主，倚赖他的大能大力"。同时，我们需要穿戴全副军装，这说明争战是真实的，但装备也是充分的。',
+          en: 'The Christian life is a spiritual battle. Paul does not say "in your own willpower" but "in the Lord and in the strength of his might." We also need the whole armor of God, the battle is real, but the equipment is sufficient.',
         },
         question: {
           zh: '属灵争战是真实的。你是否每天穿戴神的全副军装，还是赤手空拳面对仇敌？',
@@ -941,16 +941,16 @@ export const themesB10 = [
           text_en: 'And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.',
         },
         reflection: {
-          zh: '在人类堕落的最黑暗时刻，神就已经发出了救赎的应许。"女人的后裔"要伤蛇的头——这是圣经中第一个弥赛亚预言。从伊甸园开始，神的救赎计划就已经展开，指向那位将要来的基督。',
-          en: 'In humanity\'s darkest moment of the Fall, God already proclaimed the promise of redemption. The "offspring of the woman" would bruise the serpent\'s head — this is the Bible\'s first messianic prophecy. From Eden, God\'s redemption plan was already unfolding, pointing to the coming Christ.',
+          zh: '在人类堕落的最黑暗时刻，神就已经发出了救赎的应许。"女人的后裔"要伤蛇的头，这是圣经中第一个弥赛亚预言。从伊甸园开始，神的救赎计划就已经展开，指向那位将要来的基督。',
+          en: 'In humanity\'s darkest moment of the Fall, God already proclaimed the promise of redemption. The "offspring of the woman" would bruise the serpent\'s head, this is the Bible\'s first messianic prophecy. From Eden, God\'s redemption plan was already unfolding, pointing to the coming Christ.',
         },
         question: {
           zh: '在堕落之初，神就应许了救赎。这如何帮助你在黑暗中看见盼望？',
           en: 'At the very beginning of the Fall, God promised redemption. How does this help you see hope in darkness?',
         },
         prayer: {
-          zh: '主啊，感谢你从起初就预备了救赎。在人类最黑暗的时刻，你的应许就已经发出。求你帮助我们在任何黑暗中都仰望那位女人的后裔——耶稣基督。阿们。',
-          en: 'Lord, thank You for preparing redemption from the very beginning. In humanity\'s darkest hour, Your promise was already spoken. Help us look to the offspring of the woman — Jesus Christ — in every darkness. Amen.',
+          zh: '主啊，感谢你从起初就预备了救赎。在人类最黑暗的时刻，你的应许就已经发出。求你帮助我们在任何黑暗中都仰望那位女人的后裔，耶稣基督。阿们。',
+          en: 'Lord, thank You for preparing redemption from the very beginning. In humanity\'s darkest hour, Your promise was already spoken. Help us look to the offspring of the woman, Jesus Christ, in every darkness. Amen.',
         },
       },
       {
@@ -961,12 +961,12 @@ export const themesB10 = [
           text_en: 'I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.',
         },
         reflection: {
-          zh: '巴兰虽是一个不完美的先知，却被神使用说出弥赛亚的预言。"有星要出于雅各"——这颗星不是普通的天文现象，而是指向那位从以色列而出的君王。几千年后，东方博士追随一颗星来到伯利恒。',
-          en: 'Balaam, though an imperfect prophet, was used by God to speak a messianic prophecy. "A star shall come out of Jacob" — this star is not an ordinary astronomical event but points to the King who would come from Israel. Millennia later, wise men followed a star to Bethlehem.',
+          zh: '巴兰虽是一个不完美的先知，却被神使用说出弥赛亚的预言。"有星要出于雅各"，这颗星不是普通的天文现象，而是指向那位从以色列而出的君王。几千年后，东方博士追随一颗星来到伯利恒。',
+          en: 'Balaam, though an imperfect prophet, was used by God to speak a messianic prophecy. "A star shall come out of Jacob", this star is not an ordinary astronomical event but points to the King who would come from Israel. Millennia later, wise men followed a star to Bethlehem.',
         },
         question: {
-          zh: '"有星要出于雅各"——这预言在基督身上如何应验？基督是你生命中的明星吗？',
-          en: '"A star shall come out of Jacob" — how was this fulfilled in Christ? Is Christ the guiding star of your life?',
+          zh: '"有星要出于雅各"，这预言在基督身上如何应验？基督是你生命中的明星吗？',
+          en: '"A star shall come out of Jacob", how was this fulfilled in Christ? Is Christ the guiding star of your life?',
         },
         prayer: {
           zh: '主啊，你是出于雅各的星，是以色列的杖。你从远古就被预言，在日期满足的时候降临。我们仰望你，跟随你。阿们。',
@@ -981,8 +981,8 @@ export const themesB10 = [
           text_en: 'Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.',
         },
         reflection: {
-          zh: '"以马内利"——神与我们同在。这不仅是一个名字，更是整个救赎故事的核心。神没有远远地观望人类的痛苦，他亲自来到我们中间。童女怀孕的神迹表明，这位孩子的来源是超自然的——他是神自己。',
-          en: '"Immanuel" — God with us. This is not merely a name but the core of the entire redemption story. God did not watch human suffering from afar; He came to be among us. The miracle of the virgin birth shows this child\'s origin is supernatural — He is God Himself.',
+          zh: '"以马内利"，神与我们同在。这不仅是一个名字，更是整个救赎故事的核心。神没有远远地观望人类的痛苦，他亲自来到我们中间。童女怀孕的神迹表明，这位孩子的来源是超自然的，他是神自己。',
+          en: '"Immanuel", God with us. This is not merely a name but the core of the entire redemption story. God did not watch human suffering from afar; He came to be among us. The miracle of the virgin birth shows this child\'s origin is supernatural, He is God Himself.',
         },
         question: {
           zh: '"以马内利"意味着神与我们同在。在你最孤独或困难的时刻，你是否经历到"神与你同在"？',
@@ -1021,8 +1021,8 @@ export const themesB10 = [
           text_en: 'But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.',
         },
         reflection: {
-          zh: '伯利恒是犹大最小的城，却被神拣选为弥赛亚的出生地。神常常拣选世人看为卑微的来成就他的旨意。这位从小城出来的掌权者，他的根源却是从亘古、从太初就有的——他是永恒的神。',
-          en: 'Bethlehem was the smallest among Judah\'s clans, yet God chose it as the Messiah\'s birthplace. God often chooses what the world considers insignificant to accomplish His will. This ruler from a small town has origins from of old, from ancient days — He is the eternal God.',
+          zh: '伯利恒是犹大最小的城，却被神拣选为弥赛亚的出生地。神常常拣选世人看为卑微的来成就他的旨意。这位从小城出来的掌权者，他的根源却是从亘古、从太初就有的，他是永恒的神。',
+          en: 'Bethlehem was the smallest among Judah\'s clans, yet God chose it as the Messiah\'s birthplace. God often chooses what the world considers insignificant to accomplish His will. This ruler from a small town has origins from of old, from ancient days, He is the eternal God.',
         },
         question: {
           zh: '神拣选卑微的伯利恒。你是否觉得自己太渺小不能被神使用？神如何看待"小"？',
@@ -1041,8 +1041,8 @@ export const themesB10 = [
           text_en: 'And the angel said unto her, Fear not, Mary: for thou hast found favour with God. And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS. He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David: And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.',
         },
         reflection: {
-          zh: '天使加百列带来了人类历史上最重大的消息：至高者的儿子要降生为人。马利亚是一个平凡的少女，却被神拣选承载这不平凡的使命。"不要怕"——面对超自然的呼召，神的第一句话总是安慰。',
-          en: 'The angel Gabriel brought the most momentous news in human history: the Son of the Most High would be born as a man. Mary was an ordinary young woman chosen for an extraordinary mission. "Do not be afraid" — God\'s first word in the face of a supernatural calling is always comfort.',
+          zh: '天使加百列带来了人类历史上最重大的消息：至高者的儿子要降生为人。马利亚是一个平凡的少女，却被神拣选承载这不平凡的使命。"不要怕"，面对超自然的呼召，神的第一句话总是安慰。',
+          en: 'The angel Gabriel brought the most momentous news in human history: the Son of the Most High would be born as a man. Mary was an ordinary young woman chosen for an extraordinary mission. "Do not be afraid", God\'s first word in the face of a supernatural calling is always comfort.',
         },
         question: {
           zh: '马利亚蒙恩，被托付不平凡的使命。当神呼召你做超出你能力的事时，你是否愿意顺服？',
@@ -1070,7 +1070,7 @@ export const themesB10 = [
         },
         prayer: {
           zh: '主啊，我们的心尊你为大，我们的灵以你为乐。你顾念我们的卑微，为我们成就了大事。你的名为圣，当受一切赞美。阿们。',
-          en: 'Lord, our souls magnify You and our spirits rejoice in You. You have looked on our humble estate and done great things for us. Holy is Your name — worthy of all praise. Amen.',
+          en: 'Lord, our souls magnify You and our spirits rejoice in You. You have looked on our humble estate and done great things for us. Holy is Your name, worthy of all praise. Amen.',
         },
       },
       {
@@ -1081,8 +1081,8 @@ export const themesB10 = [
           text_en: 'But while he thought on these things, behold, the angel of the LORD appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost. And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins. Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying, Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.',
         },
         reflection: {
-          zh: '约瑟面临巨大的困惑和社会压力，但天使的话让他明白：这一切都是神的计划。"耶稣"这名字的意思是"耶和华拯救"——他来的目的明确：将百姓从罪恶里救出来。约瑟顺服了，成为神计划中忠实的合作者。',
-          en: 'Joseph faced tremendous confusion and social pressure, but the angel\'s words revealed God\'s plan. "Jesus" means "the LORD saves" — His purpose was clear: to save His people from their sins. Joseph obeyed and became a faithful partner in God\'s plan.',
+          zh: '约瑟面临巨大的困惑和社会压力，但天使的话让他明白：这一切都是神的计划。"耶稣"这名字的意思是"耶和华拯救"，他来的目的明确：将百姓从罪恶里救出来。约瑟顺服了，成为神计划中忠实的合作者。',
+          en: 'Joseph faced tremendous confusion and social pressure, but the angel\'s words revealed God\'s plan. "Jesus" means "the LORD saves", His purpose was clear: to save His people from their sins. Joseph obeyed and became a faithful partner in God\'s plan.',
         },
         question: {
           zh: '约瑟在困惑中顺服了神的旨意。当神的计划让你困惑时，你是否愿意像约瑟一样信靠顺服？',
@@ -1090,7 +1090,7 @@ export const themesB10 = [
         },
         prayer: {
           zh: '主啊，感谢你赐下耶稣，将我们从罪恶里救出来。求你赐我们约瑟的信心和顺服，即使不完全明白，也甘心跟随你的旨意。阿们。',
-          en: 'Lord, thank You for giving us Jesus to save us from our sins. Grant us Joseph\'s faith and obedience — willing to follow Your will even when we don\'t fully understand. Amen.',
+          en: 'Lord, thank You for giving us Jesus to save us from our sins. Grant us Joseph\'s faith and obedience, willing to follow Your will even when we don\'t fully understand. Amen.',
         },
       },
       {
@@ -1101,8 +1101,8 @@ export const themesB10 = [
           text_en: 'And so it was, that, while they were there, the days were accomplished that she should be delivered. And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.',
         },
         reflection: {
-          zh: '万王之王不是降生在皇宫，而是在马槽。客店里没有地方给他——从他来到世上的第一刻，就经历了被拒绝。但正是这份卑微彰显了恩典的伟大：神成为最渺小的，为要拯救最卑微的。',
-          en: 'The King of kings was born not in a palace but in a manger. There was no room in the inn — from His first moment on earth, He experienced rejection. Yet this very humility reveals the greatness of grace: God became the smallest to save the lowliest.',
+          zh: '万王之王不是降生在皇宫，而是在马槽。客店里没有地方给他，从他来到世上的第一刻，就经历了被拒绝。但正是这份卑微彰显了恩典的伟大：神成为最渺小的，为要拯救最卑微的。',
+          en: 'The King of kings was born not in a palace but in a manger. There was no room in the inn, from His first moment on earth, He experienced rejection. Yet this very humility reveals the greatness of grace: God became the smallest to save the lowliest.',
         },
         question: {
           zh: '客店里没有地方给耶稣。在你忙碌的生活中，你的心里是否有给耶稣的位置？',
@@ -1110,7 +1110,7 @@ export const themesB10 = [
         },
         prayer: {
           zh: '主耶稣，你降生在卑微的马槽里，因为世界没有给你预备位置。求你帮助我们在心中为你预备最好的位置，迎接你、敬拜你。阿们。',
-          en: 'Lord Jesus, You were born in a humble manger because the world made no room for You. Help us prepare the best place in our hearts for You — to welcome and worship You. Amen.',
+          en: 'Lord Jesus, You were born in a humble manger because the world made no room for You. Help us prepare the best place in our hearts for You, to welcome and worship You. Amen.',
         },
       },
       {
@@ -1121,8 +1121,8 @@ export const themesB10 = [
           text_en: 'And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people. For unto you is born this day in the city of David a Saviour, which is Christ the Lord.',
         },
         reflection: {
-          zh: '这大喜的信息不是先告诉祭司或君王，而是告诉了旷野中的牧羊人——社会最底层的人。福音是"关乎万民的"，没有人被排除在外。救主来了，不是为精英，而是为所有人。',
-          en: 'This great news was announced not first to priests or kings but to shepherds in the fields — the lowest in society. The gospel is "for all the people"; no one is excluded. The Savior came not for the elite but for everyone.',
+          zh: '这大喜的信息不是先告诉祭司或君王，而是告诉了旷野中的牧羊人，社会最底层的人。福音是"关乎万民的"，没有人被排除在外。救主来了，不是为精英，而是为所有人。',
+          en: 'This great news was announced not first to priests or kings but to shepherds in the fields, the lowest in society. The gospel is "for all the people"; no one is excluded. The Savior came not for the elite but for everyone.',
         },
         question: {
           zh: '大喜的信息首先传给了卑微的牧羊人。你是否愿意把这好消息带给身边被忽视的人？',
@@ -1141,12 +1141,12 @@ export const themesB10 = [
           text_en: 'Glory to God in the highest, and on earth peace, good will toward men.',
         },
         reflection: {
-          zh: '天使的颂歌连接了天与地：天上有神的荣耀，地上有人的平安。基督的降生使天地相连——神的荣耀不再遥不可及，人间的平安不再是空想。因为神自己来到了地上。',
-          en: 'The angels\' song connects heaven and earth: glory to God in the highest, peace on earth. Christ\'s birth bridged heaven and earth — God\'s glory is no longer unreachable, and earthly peace is no longer a dream, because God Himself came to earth.',
+          zh: '天使的颂歌连接了天与地：天上有神的荣耀，地上有人的平安。基督的降生使天地相连，神的荣耀不再遥不可及，人间的平安不再是空想。因为神自己来到了地上。',
+          en: 'The angels\' song connects heaven and earth: glory to God in the highest, peace on earth. Christ\'s birth bridged heaven and earth, God\'s glory is no longer unreachable, and earthly peace is no longer a dream, because God Himself came to earth.',
         },
         question: {
-          zh: '天使歌唱"荣耀归与神，平安归与人"。你的生活是否反映了这双重的现实——将荣耀归给神，领受他的平安？',
-          en: 'The angels sang of glory to God and peace to people. Does your life reflect this dual reality — giving glory to God and receiving His peace?',
+          zh: '天使歌唱"荣耀归与神，平安归与人"。你的生活是否反映了这双重的现实，将荣耀归给神，领受他的平安？',
+          en: 'The angels sang of glory to God and peace to people. Does your life reflect this dual reality, giving glory to God and receiving His peace?',
         },
         prayer: {
           zh: '主啊，愿荣耀在至高之处归与你！愿你的平安降临在我们心中、我们的家庭和我们的世界。阿们。',
@@ -1161,16 +1161,16 @@ export const themesB10 = [
           text_en: 'When they saw the star, they rejoiced with exceeding great joy. And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.',
         },
         reflection: {
-          zh: '东方博士跋涉千里来朝拜这位婴孩。他们带来三样礼物：黄金象征他的王权，乳香象征他的神性，没药预示他的受难。真正的敬拜伴随着代价——博士们献上了最珍贵的。',
-          en: 'The wise men traveled thousands of miles to worship this child. They brought three gifts: gold symbolizing His kingship, frankincense His divinity, myrrh foreshadowing His suffering. True worship involves cost — the wise men offered their most precious treasures.',
+          zh: '东方博士跋涉千里来朝拜这位婴孩。他们带来三样礼物：黄金象征他的王权，乳香象征他的神性，没药预示他的受难。真正的敬拜伴随着代价，博士们献上了最珍贵的。',
+          en: 'The wise men traveled thousands of miles to worship this child. They brought three gifts: gold symbolizing His kingship, frankincense His divinity, myrrh foreshadowing His suffering. True worship involves cost, the wise men offered their most precious treasures.',
         },
         question: {
           zh: '博士们献上最珍贵的礼物来敬拜耶稣。你愿意把什么"最珍贵的"献给主？',
           en: 'The wise men offered their most precious gifts to worship Jesus. What "most precious thing" are you willing to offer the Lord?',
         },
         prayer: {
-          zh: '主耶稣，我们像东方博士一样来到你面前敬拜。我们愿意献上最珍贵的——我们的心、我们的时间、我们的一切。你配得一切的赞美和敬拜。阿们。',
-          en: 'Lord Jesus, like the wise men, we come to worship You. We offer our most precious gifts — our hearts, our time, our all. You are worthy of all praise and worship. Amen.',
+          zh: '主耶稣，我们像东方博士一样来到你面前敬拜。我们愿意献上最珍贵的：我们的心、我们的时间、我们的一切。你配得一切的赞美和敬拜。阿们。',
+          en: 'Lord Jesus, like the wise men, we come to worship You. We offer our most precious gifts, our hearts, our time, our all. You are worthy of all praise and worship. Amen.',
         },
       },
       {
@@ -1181,12 +1181,12 @@ export const themesB10 = [
           text_en: 'And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.',
         },
         reflection: {
-          zh: '约翰用最简洁有力的话概括了道成肉身的奥秘："道成了肉身。"永恒的道——创造万物的那一位——成为了有血有肉的人，住在我们中间。他没有失去神性，却完全拥有了人性。这是最伟大的降卑，也是最深的爱。',
-          en: 'John summarizes the mystery of the incarnation in the most concise and powerful words: "The Word became flesh." The eternal Word — the One through whom all things were created — became a flesh-and-blood human and dwelt among us. He did not lose His divinity yet fully embraced humanity. This is the greatest condescension and the deepest love.',
+          zh: '约翰用最简洁有力的话概括了道成肉身的奥秘："道成了肉身。"永恒的道，创造万物的那一位，成为了有血有肉的人，住在我们中间。他没有失去神性，却完全拥有了人性。这是最伟大的降卑，也是最深的爱。',
+          en: 'John summarizes the mystery of the incarnation in the most concise and powerful words: "The Word became flesh." The eternal Word, the One through whom all things were created, became a flesh-and-blood human and dwelt among us. He did not lose His divinity yet fully embraced humanity. This is the greatest condescension and the deepest love.',
         },
         question: {
-          zh: '道成了肉身——神成为人。这个奥秘对你的信仰意味着什么？',
-          en: 'The Word became flesh — God became human. What does this mystery mean for your faith?',
+          zh: '道成了肉身，神成为人。这个奥秘对你的信仰意味着什么？',
+          en: 'The Word became flesh, God became human. What does this mystery mean for your faith?',
         },
         prayer: {
           zh: '主耶稣，你是永恒的道，却为我们成了肉身。感谢你充充满满地带来恩典和真理。愿我们在你的荣光中生活，见证你的爱。阿们。',
@@ -1201,8 +1201,8 @@ export const themesB10 = [
           text_en: 'But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, To redeem them that were under the law, that we might receive the adoption of sons.',
         },
         reflection: {
-          zh: '"时候满足"——神的时间表从不迟到。基督在历史中最完美的时刻降临，不早不晚。他生在律法以下，是为了把律法以下的人赎出来。他成为我们的样式，是为了使我们得着儿子的名分。',
-          en: '"The fullness of time" — God\'s timetable is never late. Christ came at the perfect moment in history, neither too early nor too late. He was born under the law to redeem those under the law. He became like us so that we might receive adoption as sons.',
+          zh: '"时候满足"，神的时间表从不迟到。基督在历史中最完美的时刻降临，不早不晚。他生在律法以下，是为了把律法以下的人赎出来。他成为我们的样式，是为了使我们得着儿子的名分。',
+          en: '"The fullness of time", God\'s timetable is never late. Christ came at the perfect moment in history, neither too early nor too late. He was born under the law to redeem those under the law. He became like us so that we might receive adoption as sons.',
         },
         question: {
           zh: '神在"时候满足"时差遣他的儿子。你是否相信神在你生命中也有完美的时间表？',
@@ -1221,8 +1221,8 @@ export const themesB10 = [
           text_en: 'Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.',
         },
         reflection: {
-          zh: '从马槽到十字架，从十字架到宝座——这是基督的旅程。因为他降卑到最低处，所以神将他升到最高处。"耶稣基督为主"——这是宇宙中最终极的宣告。有一天，万膝都要跪拜，万口都要承认。',
-          en: 'From manger to cross, from cross to throne — this is Christ\'s journey. Because He humbled Himself to the lowest place, God exalted Him to the highest. "Jesus Christ is Lord" — this is the ultimate declaration in the universe. One day every knee will bow and every tongue confess.',
+          zh: '从马槽到十字架，从十字架到宝座，这是基督的旅程。因为他降卑到最低处，所以神将他升到最高处。"耶稣基督为主"，这是宇宙中最终极的宣告。有一天，万膝都要跪拜，万口都要承认。',
+          en: 'From manger to cross, from cross to throne, this is Christ\'s journey. Because He humbled Himself to the lowest place, God exalted Him to the highest. "Jesus Christ is Lord", this is the ultimate declaration in the universe. One day every knee will bow and every tongue confess.',
         },
         question: {
           zh: '有一天万膝要跪拜，万口要承认耶稣基督为主。你今天是否愿意先屈膝承认他为你生命的主？',

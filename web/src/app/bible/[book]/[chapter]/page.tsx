@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: { params: Promise<{ book: str
   if (!b) return {};
   return {
     title: `${b.name_zh} 第${chapter}章 | 圣经 | 真理磐石`,
-    description: `${b.name_zh}（${b.name_en}）第${chapter}章 — 和合本与KJV中英对照阅读`,
+    description: `${b.name_zh}（${b.name_en}）第${chapter}章, 和合本与KJV中英对照阅读`,
   };
 }
 

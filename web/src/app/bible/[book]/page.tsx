@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: { params: Promise<{ book: str
   if (!b) return {};
   return {
     title: `${b.name_zh} ${b.name_en} | 圣经 | 真理磐石`,
-    description: `${b.name_zh}（${b.name_en}）共${b.chapters}章 — 和合本与KJV圣经阅读`,
+    description: `${b.name_zh}（${b.name_en}）共${b.chapters}章, 和合本与KJV圣经阅读`,
   };
 }
 

@@ -16,8 +16,8 @@ const books: BibleBook[] = [
     author_en: 'Apostle Paul',
     date: '约公元57年',
     date_en: 'c. AD 57',
-    theme_zh: '因信称义——福音的全面阐述',
-    theme_en: 'Justification by Faith — A Comprehensive Exposition of the Gospel',
+    theme_zh: '因信称义，福音的全面阐述',
+    theme_en: 'Justification by Faith, A Comprehensive Exposition of the Gospel',
     summary_zh: '罗马书是保罗神学的巅峰之作，系统地阐述了人的罪、神的义、因信称义、成圣、拣选与以色列的命运等核心教义。它被称为"基督教信仰的宪章"。',
     summary_en: 'Romans is the pinnacle of Paul\'s theology, systematically expounding human sin, God\'s righteousness, justification by faith, sanctification, election, and the destiny of Israel.',
     keyVerse_zh: '因为世人都犯了罪，亏缺了神的荣耀；如今却蒙神的恩典，因基督耶稣的救赎，就白白地称义。',
@@ -50,8 +50,8 @@ const books: BibleBook[] = [
     author_en: 'Apostle Paul',
     date: '约公元56年',
     date_en: 'c. AD 56',
-    theme_zh: '软弱中的刚强——使徒的职分与苦难',
-    theme_en: 'Strength in Weakness — Apostolic Ministry and Suffering',
+    theme_zh: '软弱中的刚强，使徒的职分与苦难',
+    theme_en: 'Strength in Weakness, Apostolic Ministry and Suffering',
     summary_zh: '这是保罗最个人化的书信，为自己的使徒职分辩护，分享事奉中的苦难与安慰，教导信徒在软弱中经历神的大能。',
     summary_en: 'Paul\'s most personal letter, defending his apostolic ministry, sharing sufferings and comforts, and teaching believers to experience God\'s power in weakness.',
     keyVerse_zh: '祂对我说："我的恩典够你用的，因为我的能力是在人的软弱上显得完全。"',
@@ -67,8 +67,8 @@ const books: BibleBook[] = [
     author_en: 'Apostle Paul',
     date: '约公元49年',
     date_en: 'c. AD 49',
-    theme_zh: '基督里的自由——唯独恩典，唯独信心',
-    theme_en: 'Freedom in Christ — Grace Alone, Faith Alone',
+    theme_zh: '基督里的自由，唯独恩典，唯独信心',
+    theme_en: 'Freedom in Christ, Grace Alone, Faith Alone',
     summary_zh: '保罗激烈地反驳"靠行律法称义"的错谬教导，宣告人唯独靠恩典因信称义。这封书信被称为"基督徒自由的大宪章"，是宗教改革的重要根基。',
     summary_en: 'Paul passionately refutes justification by works of the law, declaring justification by grace through faith alone. Called "the Magna Carta of Christian liberty," it was foundational to the Reformation.',
     keyVerse_zh: '基督释放了我们，叫我们得以自由。所以要站立得稳，不要再被奴仆的轭挟制。',
@@ -84,8 +84,8 @@ const books: BibleBook[] = [
     author_en: 'Apostle Paul',
     date: '约公元61年',
     date_en: 'c. AD 61',
-    theme_zh: '在基督里的丰盛——教会是基督的身体',
-    theme_en: 'Riches in Christ — The Church as the Body of Christ',
+    theme_zh: '在基督里的丰盛，教会是基督的身体',
+    theme_en: 'Riches in Christ, The Church as the Body of Christ',
     summary_zh: '以弗所书展示了神在基督里赐给信徒的一切属灵福气：拣选、救赎、圣灵的印记。后半部分教导合一、圣洁的生活并穿戴全副军装。',
     summary_en: 'Ephesians reveals every spiritual blessing in Christ: election, redemption, the seal of the Spirit. The second half teaches unity, holiness, and putting on the full armor of God.',
     keyVerse_zh: '你们得救是本乎恩，也因着信；这并不是出于自己，乃是神所赐的。',
@@ -118,8 +118,8 @@ const books: BibleBook[] = [
     author_en: 'Apostle Paul',
     date: '约公元61年',
     date_en: 'c. AD 61',
-    theme_zh: '基督的至高超越——万有之首',
-    theme_en: 'The Supremacy of Christ — Head over All',
+    theme_zh: '基督的至高超越，万有之首',
+    theme_en: 'The Supremacy of Christ, Head over All',
     summary_zh: '保罗高举基督超越一切受造之物的至高地位，反驳混合犹太教和异教元素的"歌罗西异端"。1:15-20的基督颂是对基督神性最有力的宣告之一。',
     summary_en: 'Paul exalts Christ\'s supremacy over all creation, refuting the "Colossian heresy." The Christ hymn in 1:15-20 is one of the most powerful declarations of Christ\'s deity.',
     keyVerse_zh: '爱子是那不能看见之神的像，是首生的，在一切被造的以先。',
@@ -186,8 +186,8 @@ const books: BibleBook[] = [
     author_en: 'Apostle Paul',
     date: '约公元67年',
     date_en: 'c. AD 67',
-    theme_zh: '持守所信的道——保罗的遗嘱',
-    theme_en: 'Guard the Faith — Paul\'s Final Testament',
+    theme_zh: '持守所信的道，保罗的遗嘱',
+    theme_en: 'Guard the Faith, Paul\'s Final Testament',
     summary_zh: '提摩太后书是保罗殉道前的最后书信，嘱咐提摩太刚强壮胆、传扬正道、忍受苦难。"那美好的仗我已经打过了"是保罗一生的总结。',
     summary_en: 'Paul\'s final letter before martyrdom urges Timothy to be strong, preach the Word, and endure suffering. "I have fought the good fight" is Paul\'s summary of his life.',
     keyVerse_zh: '圣经都是神所默示的，于教训、督责、使人归正、教导人学义都是有益的。',
@@ -224,7 +224,7 @@ const books: BibleBook[] = [
     theme_en: 'Reconciliation and Forgiveness in the Gospel',
     summary_zh: '保罗为逃跑的奴隶阿尼西母求情，请求腓利门接纳他不再是奴仆而是亲爱的弟兄。这封短信彰显福音如何改变人际关系，带来真正的和好。',
     summary_en: 'Paul intercedes for the runaway slave Onesimus, asking Philemon to receive him no longer as a slave but as a beloved brother. This short letter demonstrates how the gospel transforms relationships.',
-    keyVerse_zh: '他暂时离开你，或者是叫你永远得着他——不再是奴仆，乃是高过奴仆，是亲爱的兄弟。',
+    keyVerse_zh: '他暂时离开你，或者是叫你永远得着他，不再是奴仆，乃是高过奴仆，是亲爱的兄弟。',
     keyVerse_en: 'For this perhaps is why he was parted from you for a while, that you might have him back forever, no longer as a bondservant but more than a bondservant, as a beloved brother.',
     keyRef: '腓利门书 1:15-16 / Philemon 1:15–16',
   },
@@ -237,7 +237,7 @@ export default function PaulinePage() {
       title_zh="保罗书信"
       title_en="Pauline Epistles"
       desc_zh="使徒保罗写给各教会和同工的13封书信，系统阐述了因信称义、在基督里的自由、教会的合一与圣洁等福音核心真理，是基督教神学的根基。"
-      desc_en="Paul's 13 letters to churches and co-workers systematically expound the core truths of the gospel — justification by faith, freedom in Christ, the unity and holiness of the Church — forming the foundation of Christian theology."
+      desc_en="Paul's 13 letters to churches and co-workers systematically expound the core truths of the gospel, justification by faith, freedom in Christ, the unity and holiness of the Church, forming the foundation of Christian theology."
       gradient="from-indigo-600 to-blue-800"
       books={books}
       backHref="/new-testament"

@@ -8,20 +8,20 @@
 
 撒母耳记上（希伯来圣经中撒母耳记上下原为一卷）记载了以色列从士师时代过渡到君王时代的关键历史，涵盖三位核心人物：撒母耳（最后的士师兼先知）、扫罗（第一位王）和大卫（合神心意的王）。
 
-全书31章可分为三大段：撒母耳的兴起（1-7章）、扫罗的王朝（8-15章）、大卫的崛起与扫罗的衰落（16-31章）。撒母耳记上的核心神学信息是：神的国度不在乎外在的权力和势力，而在乎内心对神的忠信顺服。扫罗的被弃绝与大卫的被拣选形成鲜明对比——"人是看外貌，耶和华是看内心"（16:7）。
+全书31章可分为三大段：撒母耳的兴起（1-7章）、扫罗的王朝（8-15章）、大卫的崛起与扫罗的衰落（16-31章）。撒母耳记上的核心神学信息是：神的国度不在乎外在的权力和势力，而在乎内心对神的忠信顺服。扫罗的被弃绝与大卫的被拣选形成鲜明对比："人是看外貌，耶和华是看内心"（16:7）。
 
 ## Overview
 
 1 Samuel (originally one book with 2 Samuel in the Hebrew Bible) records the crucial transition from the age of judges to the age of kings in Israel, centering on three figures: Samuel (the last judge and prophet), Saul (the first king), and David (the king after God's own heart).
 
-Its 31 chapters divide into three sections: the rise of Samuel (ch. 1–7), Saul's reign (ch. 8–15), and the rise of David alongside the decline of Saul (ch. 16–31). The core theological message is: God's kingdom depends not on outward power and might but on inner faithfulness and obedience to God. Saul's rejection and David's election form a stark contrast — "man looketh on the outward appearance, but the LORD looketh on the heart" (16:7).
+Its 31 chapters divide into three sections: the rise of Samuel (ch. 1–7), Saul's reign (ch. 8–15), and the rise of David alongside the decline of Saul (ch. 16–31). The core theological message is: God's kingdom depends not on outward power and might but on inner faithfulness and obedience to God. Saul's rejection and David's election form a stark contrast, "man looketh on the outward appearance, but the LORD looketh on the heart" (16:7).
 
 ## 分段导读
 
 ### 一、撒母耳的诞生与事奉：先知的兴起（1-7章）
 *I. Samuel's Birth and Ministry: The Rise of a Prophet (Ch. 1-7)*
 
-撒母耳记上以哈拿的祷告开始——一个不育妇人向耶和华哭求。"我心中倾吐，是在耶和华面前极其伤痛，哭了许久"（1:16）。神垂听了她的祷告，撒母耳出生。哈拿的感谢颂（2:1-10）与马利亚的尊主颂遥相呼应——神"使软弱的有力，使人多生育"（2:5）。
+撒母耳记上以哈拿的祷告开始，一个不育妇人向耶和华哭求。"我心中倾吐，是在耶和华面前极其伤痛，哭了许久"（1:16）。神垂听了她的祷告，撒母耳出生。哈拿的感谢颂（2:1-10）与马利亚的尊主颂遥相呼应，神"使软弱的有力，使人多生育"（2:5）。
 
 士师时代末期，"耶和华的言语稀少，不常有默示"（3:1）。童年撒母耳在夜中听见神的声音，学会了侧耳倾听的信仰姿态。从此他成为全以色列公认的先知，"他的言语没有一句落空"（3:19）。
 
@@ -38,7 +38,7 @@ Israel brought the ark as a lucky charm to battle, but the ark was captured and 
 
 以色列求王的请求（8章）本质上是拒绝神作他们的王。"他们不是厌弃你，乃是厌弃我，不要我作他们的王"（8:7）。神答应了他们的请求，但这是神在审判中的宽容，不是神的喜悦。
 
-扫罗高大英俊（9:2）、起初谦逊（9:21）——外表和起点都很好。然而他在战场上没有等候撒母耳就擅自献祭（13章），在与亚玛力人的战争中没有完全遵从神的命令（15章）。撒母耳的话揭示了问题的核心："听命胜于献祭，顺从胜于公羊的脂油"（15:22）。
+扫罗高大英俊（9:2）、起初谦逊（9:21），外表和起点都很好。然而他在战场上没有等候撒母耳就擅自献祭（13章），在与亚玛力人的战争中没有完全遵从神的命令（15章）。撒母耳的话揭示了问题的核心："听命胜于献祭，顺从胜于公羊的脂油"（15:22）。
 
 扫罗的失败不是能力不足，而是顺服的缺失。"他抛弃耶和华的命令，耶和华也抛弃他，使他不作王"（15:23）。属灵的悖逆比外在的软弱更危险。
 
@@ -51,9 +51,9 @@ Saul's failure was not lack of ability but lack of obedience. "Because thou hast
 ### 三、大卫被膏与约拿单的友谊（16-20章）
 *III. David Anointed and Jonathan's Friendship (Ch. 16-20)*
 
-"耶和华不像人看人：人是看外貌；耶和华是看内心"（16:7）——神拣选了最不被期待的小儿子大卫。被膏后"耶和华的灵就大大感动大卫"（16:13），属灵的力量先于外在的权位。
+"耶和华不像人看人：人是看外貌；耶和华是看内心"（16:7），神拣选了最不被期待的小儿子大卫。被膏后"耶和华的灵就大大感动大卫"（16:13），属灵的力量先于外在的权位。
 
-大卫与歌利亚的故事（17章）不仅是勇气的故事，更是信心的故事。"我来攻击你，是靠着万军之耶和华的名"（17:45）——少年人的信心胜过巨人的力量，因为争战在乎耶和华，不在乎人。
+大卫与歌利亚的故事（17章）不仅是勇气的故事，更是信心的故事。"我来攻击你，是靠着万军之耶和华的名"（17:45），少年人的信心胜过巨人的力量，因为争战在乎耶和华，不在乎人。
 
 大卫与约拿单的友谊（18-20章）是圣经最感人的人际关系之一。约拿单是王子，本应视大卫为威胁，却"约拿单的心与大卫的心深相契合，约拿单爱大卫如同爱自己的性命"（18:1）。他三次冒险保护大卫（19:2, 20:35-42），甘愿放弃王位继承权。这种超越利益的友谊，根基在"耶和华面前"（20:42）。
 
@@ -66,11 +66,11 @@ The friendship of David and Jonathan (ch. 18-20) is Scripture's most moving rela
 ### 四、扫罗的衰落与大卫的等候（21-31章）
 *IV. Saul's Decline and David's Patient Waiting (Ch. 21-31)*
 
-扫罗的嫉妒使他成为逼迫大卫的人（21-26章）。大卫在旷野漂流的岁月是等候神时间的学堂。他两次有机会杀死扫罗，却放手——"我在耶和华面前万不敢伸手害耶和华的受膏者"（26:11）。等候神的时间、不伸手夺权，是大卫最宝贵的品格。
+扫罗的嫉妒使他成为逼迫大卫的人（21-26章）。大卫在旷野漂流的岁月是等候神时间的学堂。他两次有机会杀死扫罗，却放手："我在耶和华面前万不敢伸手害耶和华的受膏者"（26:11）。等候神的时间、不伸手夺权，是大卫最宝贵的品格。
 
-大卫的软弱也在这段时期显现——他投靠非利士人（27章），欺骗盟友，在悲剧边缘徘徊。圣经对大卫的记载不是要树立完美英雄，而是展示神如何在有瑕疵的人身上成就旨意。
+大卫的软弱也在这段时期显现，他投靠非利士人（27章），欺骗盟友，在悲剧边缘徘徊。圣经对大卫的记载不是要树立完美英雄，而是展示神如何在有瑕疵的人身上成就旨意。
 
-扫罗最终在基利波山阵亡（31章），死前求巫婆卜问撒母耳的鬼魂（28章）——这是属灵破产的最后图景。他的一生提醒我们：外在的成功不代表属灵的健康，而顺服神才是唯一的根基。
+扫罗最终在基利波山阵亡（31章），死前求巫婆卜问撒母耳的鬼魂（28章），这是属灵破产的最后图景。他的一生提醒我们：外在的成功不代表属灵的健康，而顺服神才是唯一的根基。
 
 Saul's jealousy turned him into David's persecutor (ch. 21-26). David's years of wilderness wandering were school for learning to wait on God's timing. Twice he had opportunity to kill Saul yet spared him -- "The LORD forbid that I should stretch forth mine hand against the LORD's anointed" (26:11). Waiting on God's timing and refusing to seize power were David's most precious qualities.
 
@@ -83,22 +83,22 @@ Saul died on Mount Gilboa (ch. 31), having first sought the spirit of Samuel thr
 ### 核心神学：从神权到王权的过渡
 *Core Theology: Transition from Theocracy to Monarchy*
 
-撒母耳记上记载了以色列历史上最重大的制度转变：从士师时代的神权统治到君主制度。这个转变充满了神学张力——百姓要王，但"他们不是厌弃你，乃是厌弃我，不要我作他们的王"（8:7）。
+撒母耳记上记载了以色列历史上最重大的制度转变：从士师时代的神权统治到君主制度。这个转变充满了神学张力，百姓要王，但"他们不是厌弃你，乃是厌弃我，不要我作他们的王"（8:7）。
 
-第一，王权的悖论。以色列要求立王"像列国一样"（8:5），这本身就是问题——他们不满足于以耶和华为王，要效法外邦人。然而，神在审判中仍有恩典：祂不仅允许了王权，更将王权纳入祂的救赎计划。大卫之约最终指向基督——人的悖逆被神翻转为救赎的管道。
+第一，王权的悖论。以色列要求立王"像列国一样"（8:5），这本身就是问题，他们不满足于以耶和华为王，要效法外邦人。然而，神在审判中仍有恩典：祂不仅允许了王权，更将王权纳入祂的救赎计划。大卫之约最终指向基督，人的悖逆被神翻转为救赎的管道。
 
-第二，外表与内心。"耶和华不像人看人：人是看外貌，耶和华是看内心"（16:7）。这句话出现在膏立大卫的场景中，是全书最核心的神学宣告。扫罗又高又帅，有王者之相，却因不顺服被废弃；大卫是最小的牧羊少年，却合神心意。改革宗神学强调"有效呼召"（effectual calling）不取决于人的外在条件，而取决于神主权的拣选——撒母耳记上是这教义的叙事展示。
+第二，外表与内心。"耶和华不像人看人：人是看外貌，耶和华是看内心"（16:7）。这句话出现在膏立大卫的场景中，是全书最核心的神学宣告。扫罗又高又帅，有王者之相，却因不顺服被废弃；大卫是最小的牧羊少年，却合神心意。改革宗神学强调"有效呼召"（effectual calling）不取决于人的外在条件，而取决于神主权的拣选，撒母耳记上是这教义的叙事展示。
 
-第三，扫罗的悲剧——不完全顺服的代价。扫罗的问题不是一次失误，而是一个模式：他总是部分顺服，留下自己认为合理的例外。"听命胜于献祭，顺从胜于公羊的脂油"（15:22）——这是旧约中对形式主义宗教最严厉的批判。神要的不是外在的宗教仪式，而是内心完全的顺服。
+第三，扫罗的悲剧，不完全顺服的代价。扫罗的问题不是一次失误，而是一个模式：他总是部分顺服，留下自己认为合理的例外。"听命胜于献祭，顺从胜于公羊的脂油"（15:22），这是旧约中对形式主义宗教最严厉的批判。神要的不是外在的宗教仪式，而是内心完全的顺服。
 
-第四，大卫与歌利亚——信心的争战。"你来攻击我是靠着刀枪和铜戟；我来攻击你是靠着万军之耶和华的名"（17:45）。大卫胜过歌利亚不是因为勇气或技术，而是因为他信靠的对象。这场争战预表基督——我们真正的勇士——代表祂的子民与撒但争战并得胜。
+第四，大卫与歌利亚，信心的争战。"你来攻击我是靠着刀枪和铜戟；我来攻击你是靠着万军之耶和华的名"（17:45）。大卫胜过歌利亚不是因为勇气或技术，而是因为他信靠的对象。这场争战预表基督，我们真正的勇士，代表祂的子民与撒但争战并得胜。
 
-First Samuel records the most significant institutional transition in Israel's history: from the theocratic rule of the judges period to monarchy. This transition is filled with theological tension — the people wanted a king, but "they have not rejected thee, but they have rejected me, that I should not reign over them" (8:7).
+First Samuel records the most significant institutional transition in Israel's history: from the theocratic rule of the judges period to monarchy. This transition is filled with theological tension, the people wanted a king, but "they have not rejected thee, but they have rejected me, that I should not reign over them" (8:7).
 
-First, the paradox of kingship. Israel's demand for a king "like all the nations" (8:5) was itself the problem — they were dissatisfied with the LORD as their king and wanted to imitate the Gentiles. Yet God's grace operated even within judgment: He not only permitted kingship but incorporated it into His redemptive plan. The Davidic covenant ultimately points to Christ — human rebellion is transformed by God into a channel of redemption.
+First, the paradox of kingship. Israel's demand for a king "like all the nations" (8:5) was itself the problem, they were dissatisfied with the LORD as their king and wanted to imitate the Gentiles. Yet God's grace operated even within judgment: He not only permitted kingship but incorporated it into His redemptive plan. The Davidic covenant ultimately points to Christ, human rebellion is transformed by God into a channel of redemption.
 
-Second, outward appearance versus the heart. "The LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart" (16:7). Spoken at David's anointing, this is the book's most central theological declaration. Saul was tall and handsome, kingly in appearance, yet rejected for disobedience; David was the youngest shepherd boy, yet a man after God's own heart. Reformed theology emphasizes that effectual calling depends not on human external qualities but on God's sovereign election — First Samuel is the narrative demonstration of this doctrine.
+Second, outward appearance versus the heart. "The LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart" (16:7). Spoken at David's anointing, this is the book's most central theological declaration. Saul was tall and handsome, kingly in appearance, yet rejected for disobedience; David was the youngest shepherd boy, yet a man after God's own heart. Reformed theology emphasizes that effectual calling depends not on human external qualities but on God's sovereign election, First Samuel is the narrative demonstration of this doctrine.
 
-Third, Saul's tragedy — the cost of incomplete obedience. Saul's problem was not a single failure but a pattern: he always partially obeyed, retaining exceptions he deemed reasonable. "To obey is better than sacrifice, and to hearken than the fat of rams" (15:22) — this is the Old Testament's most severe critique of formalistic religion. God desires not external religious ceremonies but complete inward obedience.
+Third, Saul's tragedy, the cost of incomplete obedience. Saul's problem was not a single failure but a pattern: he always partially obeyed, retaining exceptions he deemed reasonable. "To obey is better than sacrifice, and to hearken than the fat of rams" (15:22), this is the Old Testament's most severe critique of formalistic religion. God desires not external religious ceremonies but complete inward obedience.
 
-Fourth, David and Goliath — the battle of faith. "Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts" (17:45). David's victory over Goliath was not due to courage or skill but to the Object of his trust. This battle prefigures Christ — our true Champion — who fights and conquers Satan on behalf of His people.
+Fourth, David and Goliath, the battle of faith. "Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts" (17:45). David's victory over Goliath was not due to courage or skill but to the Object of his trust. This battle prefigures Christ, our true Champion, who fights and conquers Satan on behalf of His people.

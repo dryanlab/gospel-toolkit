@@ -1,4 +1,4 @@
-// Global audio manager — ensures only one TTS plays at a time
+// Global audio manager, ensures only one TTS plays at a time
 let currentAudio: HTMLAudioElement | null = null;
 let currentStop: (() => void) | null = null;
 
@@ -9,7 +9,7 @@ export function registerAudio(audio: HTMLAudioElement, onStop: () => void) {
   currentStop = onStop;
 }
 
-// Replace current registration without stopping — for sequential chunk playback
+// Replace current registration without stopping, for sequential chunk playback
 export function replaceAudio(audio: HTMLAudioElement, onStop: () => void) {
   currentAudio = audio;
   currentStop = onStop;

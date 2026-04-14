@@ -53,7 +53,7 @@ export default function LikeButton({ articleId }: LikeButtonProps) {
         setCount(data.count);
       }
     } catch {
-      // API failed — localStorage already updated, graceful degradation
+      // API failed, localStorage already updated, graceful degradation
     }
   };
 

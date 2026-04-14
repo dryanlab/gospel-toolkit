@@ -10,8 +10,8 @@ title_en: "Three Days\"
 date: "2026-03-07"
 category: "testimony"
 scripture: "创世记 22:1-19"
-summary_zh: "不写结局，只写从领受命令到举刀的那三天。每一步路在想什么？神必自己预备——这句话是信心还是绝望？"
-summary_en: "A son at a hundred years old, after twenty-five years of waiting. Then God said: give him back to me. When I raised the knife that day, I finally understood what faith truly means — and what lies in the heart of God."
+summary_zh: "不写结局，只写从领受命令到举刀的那三天。每一步路在想什么？神必自己预备，这句话是信心还是绝望？"
+summary_en: "A son at a hundred years old, after twenty-five years of waiting. Then God said: give him back to me. When I raised the knife that day, I finally understood what faith truly means, and what lies in the heart of God."
 tags: ["信心", "顺服", "牺牲", "预表"]
 ---
 
@@ -25,7 +25,7 @@ He said, "Take your son, your only son Isaac, whom you love, and go to the land 
 
 ## 正文（中文）
 
-我叫亚伯兰，后来神把我的名字改为亚伯拉罕——多国之父。
+我叫亚伯兰，后来神把我的名字改为亚伯拉罕，多国之父。
 
 我愿意把一件事告诉你，那是我这一生中最黑暗、也是最光明的一天。
 
@@ -39,11 +39,11 @@ He said, "Take your son, your only son Isaac, whom you love, and go to the land 
 
 神第一次呼召我的时候，我七十五岁。那时他应许我将成为大国，后裔多如星辰，多如尘沙。但撒拉没有孩子。我们等了一年，又等了五年，又等了十年。撒拉老了，我也老了，我们的身体已经失去了生育的能力，但神的应许还没有实现。
 
-我一度相信自己的智慧——叫使女夏甲给我生了以实玛利，以为这就是应许的实现。但神说：不是。
+我一度相信自己的智慧，叫使女夏甲给我生了以实玛利，以为这就是应许的实现。但神说：不是。
 
 二十五年之后，我已经一百岁了，撒拉九十岁了，她的生育功能早已断绝。就在这时，神做了一件在人看来完全不可能的事：**撒拉怀孕了，生了以撒。**
 
-以撒这名字是"笑"的意思。因为当神宣告这个消息时，我们两人都笑了——不是喜悦的笑，是那种"怎么可能"的苦笑。我们不相信，直到以撒真的出生。
+以撒这名字是"笑"的意思。因为当神宣告这个消息时，我们两人都笑了，不是喜悦的笑，是那种"怎么可能"的苦笑。我们不相信，直到以撒真的出生。
 
 从那天起，以撒是我全部的喜乐，是神信实的活证据，是应许的化身。每次我看着他，我就看见神是真实的。
 
@@ -67,7 +67,7 @@ He said, "Take your son, your only son Isaac, whom you love, and go to the land 
 
 我想到的第二件事是：**但以撒是应许的后裔，如果以撒死了，应许怎么成就？**
 
-这个问题在我脑海里转了整整一夜。希伯来书后来说，我找到了答案：我相信神即使从死里也能叫人复活。（希伯来书11:19）神应许以撒是后裔，神命令献以撒，那么如果以撒死了，神必使他从死里复活——因为神不会与自己矛盾。
+这个问题在我脑海里转了整整一夜。希伯来书后来说，我找到了答案：我相信神即使从死里也能叫人复活。（希伯来书11:19）神应许以撒是后裔，神命令献以撒，那么如果以撒死了，神必使他从死里复活，因为神不会与自己矛盾。
 
 我不知道我相信这个的时候，信心有多少，恐惧有多少。但我起来了，清晨就早早地起来。
 
@@ -83,9 +83,9 @@ He said, "Take your son, your only son Isaac, whom you love, and go to the land 
 
 那三天我是怎么走过来的，我说不清楚。我只知道，每一步都是靠着那个信念：神必自己预备。
 
-第一天夜里，我躺在旷野里，望着天上的星星。那些星星——就是神当年带我到帐篷外面，叫我数算的那些星星——"你的后裔将要如此。"我数不过来，神的应许也不会落空。以撒是这应许的载体，神不会毁掉自己的应许。这个念头让我撑过了那一夜。
+第一天夜里，我躺在旷野里，望着天上的星星。那些星星，就是神当年带我到帐篷外面，叫我数算的那些星星："你的后裔将要如此。"我数不过来，神的应许也不会落空。以撒是这应许的载体，神不会毁掉自己的应许。这个念头让我撑过了那一夜。
 
-第二天，我开始害怕。不是怕死，也不是怕失去以撒，而是怕自己做错了——怕我听错了神的声音，怕这是一个错误。但我回想我这一生神对我说的每一句话，每一次他说了都算数，每一次他应许了都实现。我凭什么这一次不信他？
+第二天，我开始害怕。不是怕死，也不是怕失去以撒，而是怕自己做错了，怕我听错了神的声音，怕这是一个错误。但我回想我这一生神对我说的每一句话，每一次他说了都算数，每一次他应许了都实现。我凭什么这一次不信他？
 
 第三天，我看见了那座山。我对仆人说："你们同驴在这里等候，我与童子往那里去拜一拜，就回到你们这里来。"我说"我们回来"，复数。不是一个人回来，是两个人回来。我不知道神怎么做，但我知道我们会一起回来。这不是盲目的乐观，这是基于认识神的确信。
 
@@ -123,11 +123,11 @@ He said, "Take your son, your only son Isaac, whom you love, and go to the land 
 
 我抬起头，举目观看，不料，有一只公羊，两角扣在稠密的小树中。我就取了那只公羊，献为燔祭，代替我的儿子。
 
-我解开以撒身上的绳索。他看着我，我看着他。我不知道他的眼睛里有什么——恐惧？信任？疑惑？但我知道，从那一天起，我们父子之间有了一个永远无法言说的秘密：我们都到过死亡的门口，又一起被带了回来。
+我解开以撒身上的绳索。他看着我，我看着他。我不知道他的眼睛里有什么，恐惧？信任？疑惑？但我知道，从那一天起，我们父子之间有了一个永远无法言说的秘密：我们都到过死亡的门口，又一起被带了回来。
 
 以撒没有问我为什么。也许他已经明白了。也许他要用一辈子去明白。
 
-下山的路，我们一前一后走着，没有说话。但我心里有一种东西，是上山时没有的——那不是如释重负，而是一种更深的、更沉的确信。神是信实的。不是作为一个教义，而是作为一件我亲身经历过的事。
+下山的路，我们一前一后走着，没有说话。但我心里有一种东西，是上山时没有的，那不是如释重负，而是一种更深的、更沉的确信。神是信实的。不是作为一个教义，而是作为一件我亲身经历过的事。
 
 我已经把以撒死了又活了地接回来。（希伯来书11:19）这句话后来有人这样描述我当时的心情，我觉得非常准确。那三天，以撒在我心里已经是死了的孩子。当天使呼叫我名字的那一刻，他从死里复活了。我亲身经历过死而复生，所以我能理解后来神子的故事。
 
@@ -135,7 +135,7 @@ He said, "Take your son, your only son Isaac, whom you love, and go to the land 
 
 **那地方的名字**
 
-我给那地方起名叫"耶和华以勒"——耶和华必预备。
+我给那地方起名叫"耶和华以勒"，耶和华必预备。
 
 直到今日，人还说："在耶和华的山上必有预备。"
 
@@ -151,15 +151,15 @@ He said, "Take your son, your only son Isaac, whom you love, and go to the land 
 
 第二件：**神在那里预备了一只代替的羊羔。**
 
-那只羊扣在荆棘里，在我找到之前就已经在那里了。神预备了它，不是为了让我知道以后会顺利，而是为了让我看见一个预表——有一天，神自己的儿子，要像那只羊一样，被捆绑，被献上，来代替人类的死亡。
+那只羊扣在荆棘里，在我找到之前就已经在那里了。神预备了它，不是为了让我知道以后会顺利，而是为了让我看见一个预表，有一天，神自己的儿子，要像那只羊一样，被捆绑，被献上，来代替人类的死亡。
 
-以撒背着柴上山，那捆柴后来压在了另一个人身上——就是神的儿子背着十字架走上各各他。
+以撒背着柴上山，那捆柴后来压在了另一个人身上，就是神的儿子背着十字架走上各各他。
 
 我的手举刀却被拦住；天父的儿子被钉上去，没有人拦住。
 
 "神既不爱惜自己的儿子，为我们众人舍了，岂不也把万物和他一同白白的赐给我们么？"（罗马书8:32）
 
-那一天，在摩利亚山上，我举起了刀，我才看见神的心肠——是一位愿意为了爱而不保留自己儿子的父。
+那一天，在摩利亚山上，我举起了刀，我才看见神的心肠，是一位愿意为了爱而不保留自己儿子的父。
 
 这就是福音。
 
@@ -167,9 +167,9 @@ He said, "Take your son, your only son Isaac, whom you love, and go to the land 
 
 ## Content (English)
 
-My name was Abram. Later, God changed it to Abraham — father of a multitude.
+My name was Abram. Later, God changed it to Abraham, father of a multitude.
 
-I want to tell you about one day — the darkest day and the brightest day of my life.
+I want to tell you about one day, the darkest day and the brightest day of my life.
 
 That day has a name: Moriah.
 
@@ -179,13 +179,13 @@ That day has a name: Moriah.
 
 If you are to understand that day, you must first understand what Isaac meant to me.
 
-When God first called me, I was seventy-five. He promised I would become a great nation, with descendants as numerous as the stars and the dust. But Sarah had no children. We waited one year, then five, then ten. Sarah grew old and so did I; our bodies had long since lost the power to conceive — yet God's promise had not been fulfilled.
+When God first called me, I was seventy-five. He promised I would become a great nation, with descendants as numerous as the stars and the dust. But Sarah had no children. We waited one year, then five, then ten. Sarah grew old and so did I; our bodies had long since lost the power to conceive, yet God's promise had not been fulfilled.
 
 At one point I trusted my own wisdom. I had my servant Hagar bear me a son, Ishmael, thinking this was the fulfillment of the promise. But God said: no.
 
 Twenty-five years later, I was a hundred years old. Sarah was ninety. Her ability to bear children had long been impossible. And then God did something utterly impossible in human terms: **Sarah became pregnant and gave birth to Isaac.**
 
-Isaac means "laughter." Because when God announced this news, both of us laughed — not with joy but with that disbelieving, half-bitter laughter of "how could this possibly be?" We did not believe it, until Isaac was truly born.
+Isaac means "laughter." Because when God announced this news, both of us laughed, not with joy but with that disbelieving, half-bitter laughter of "how could this possibly be?" We did not believe it, until Isaac was truly born.
 
 From that day, Isaac was my entire joy. He was the living evidence of God's faithfulness, the embodiment of the promise. Every time I looked at him, I saw that God was real.
 
@@ -203,13 +203,13 @@ When Isaac was perhaps in his early teens, God spoke to me in the night.
 
 I do not know how long I lay there through that night.
 
-People imagine that faith is an easy feeling — a voice in your heart saying "don't worry, God will protect you," and then everything becomes simple. It is not like that. Faith is not the absence of struggle. Faith is choosing obedience in the depths of the most agonizing struggle.
+People imagine that faith is an easy feeling, a voice in your heart saying "don't worry, God will protect you," and then everything becomes simple. It is not like that. Faith is not the absence of struggle. Faith is choosing obedience in the depths of the most agonizing struggle.
 
 The first thing I recognized: this was God's voice. I had followed God for twenty-five years; I knew His voice. This was not a temptation, not a dream. It was God.
 
 The second thing I could not silence: **but Isaac is the promised offspring. If Isaac dies, how can the promise be fulfilled?**
 
-This question turned over and over in my mind through the whole night. The letter to the Hebrews says later that I found an answer: I believed that God was able even to raise him from the dead (Hebrews 11:19). God had promised that Isaac was the heir; God had commanded that Isaac be offered. If Isaac died, God would raise him back to life — because God does not contradict Himself.
+This question turned over and over in my mind through the whole night. The letter to the Hebrews says later that I found an answer: I believed that God was able even to raise him from the dead (Hebrews 11:19). God had promised that Isaac was the heir; God had commanded that Isaac be offered. If Isaac died, God would raise him back to life, because God does not contradict Himself.
 
 I do not know how much of that was faith and how much was fear when I believed it. But I rose. Early the very next morning, I rose.
 
@@ -229,7 +229,7 @@ On the third day, I lifted up my eyes and saw the place in the distance.
 
 I said to my servants: "Stay here with the donkey; I and the boy will go over there and worship and come again to you."
 
-"Come again to you" — I said we, not I. I said we would return, Isaac and I together. Whatever was going to happen, Isaac would come back. I believed it.
+"Come again to you", I said we, not I. I said we would return, Isaac and I together. Whatever was going to happen, Isaac would come back. I believed it.
 
 ---
 
@@ -243,7 +243,7 @@ I said: "Here I am, my son."
 
 "Behold, the fire and the wood, but where is the lamb for a burnt offering?"
 
-Brothers and sisters, I cannot tell you what I felt in that moment. My son — the son I waited twenty-five years for — looking up at me with those innocent eyes and asking: where is the lamb?
+Brothers and sisters, I cannot tell you what I felt in that moment. My son, the son I waited twenty-five years for, looking up at me with those innocent eyes and asking: where is the lamb?
 
 I said: "God will provide for himself the lamb for a burnt offering, my son."
 
@@ -271,23 +271,23 @@ Brothers and sisters, on that day I understood two things.
 
 The first: **God did not want Isaac. God wanted my heart.**
 
-God already knew I would obey — He stopped me before the knife fell. The whole thing was not about Isaac dying. It was about asking me: what do you love most? Isaac, or the One who gave you Isaac?
+God already knew I would obey, He stopped me before the knife fell. The whole thing was not about Isaac dying. It was about asking me: what do you love most? Isaac, or the One who gave you Isaac?
 
 Do you love God, or do you love God's gifts?
 
-I discovered, on Mount Moriah, that the knife did not pierce Isaac. It pierced the idol in my heart — the place where I had set Isaac above God.
+I discovered, on Mount Moriah, that the knife did not pierce Isaac. It pierced the idol in my heart, the place where I had set Isaac above God.
 
 The second: **God provided a substitute lamb.**
 
-That ram was caught in the thicket before I found it. God had put it there already. He provided it — not to reassure me that everything would go smoothly from then on, but to show me a foreshadowing. One day, God's own Son would be bound like that ram, offered up, to take the place of humanity's death.
+That ram was caught in the thicket before I found it. God had put it there already. He provided it, not to reassure me that everything would go smoothly from then on, but to show me a foreshadowing. One day, God's own Son would be bound like that ram, offered up, to take the place of humanity's death.
 
-Isaac carried the wood up the mountain; that wood was later laid on another man's shoulders — the Son of God, carrying the cross up to Golgotha.
+Isaac carried the wood up the mountain; that wood was later laid on another man's shoulders, the Son of God, carrying the cross up to Golgotha.
 
 My hand raised the knife but was stopped; the Father's Son was nailed to the wood, and no one stopped it.
 
 "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?" (Romans 8:32)
 
-That day, on Mount Moriah, I raised the knife — and only then did I see the heart of God: a Father willing, out of love, to give even His own Son without holding back.
+That day, on Mount Moriah, I raised the knife, and only then did I see the heart of God: a Father willing, out of love, to give even His own Son without holding back.
 
 That is the gospel.
 

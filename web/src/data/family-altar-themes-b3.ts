@@ -43,8 +43,8 @@ export const themesB3: AltarTheme[] = [
           en: 'The power to witness comes not from learning or eloquence, but from the Holy Spirit. The gospel spreads from our immediate surroundings to the ends of the earth. Every believer is a witness of Christ.',
         },
         question: {
-          zh: '在你的"耶路撒冷"——你的家庭、职场和社区中，你如何为主作见证？',
-          en: 'In your "Jerusalem" — your family, workplace, and community — how do you bear witness for the Lord?',
+          zh: '在你的"耶路撒冷"，你的家庭、职场和社区中，你如何为主作见证？',
+          en: 'In your "Jerusalem", your family, workplace, and community, how do you bear witness for the Lord?',
         },
         prayer: {
           zh: '圣灵啊，求祢降临在我身上，赐我勇气和能力，从我身边的人开始，为主作美好的见证。奉主耶稣的名祷告，阿们。',
@@ -128,7 +128,7 @@ export const themesB3: AltarTheme[] = [
         },
         prayer: {
           zh: '主啊，让我们的教会像初代教会一样充满爱和喜乐，彼此分享、同心敬拜。愿祢将得救的人天天加给我们。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, let our church be like the early church — full of love and joy, sharing with one another, worshiping in unity. Add to our number daily those who are being saved. In Jesus\' name, amen.',
+          en: 'Lord, let our church be like the early church, full of love and joy, sharing with one another, worshiping in unity. Add to our number daily those who are being saved. In Jesus\' name, amen.',
         },
       },
       {
@@ -139,8 +139,8 @@ export const themesB3: AltarTheme[] = [
           text_en: 'Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk. And he took him by the right hand, and lifted him up: and immediately his feet and ankle bones received strength. And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God.',
         },
         reflection: {
-          zh: '彼得没有金银，却有比金银更宝贵的——耶稣基督的名。真正的帮助不一定是物质上的，而是将人引向基督的大能。我们所拥有的最大财富就是福音。',
-          en: 'Peter had no silver or gold, but he had something far more precious — the name of Jesus Christ. True help is not always material; it is leading people to the power of Christ. The greatest treasure we possess is the gospel.',
+          zh: '彼得没有金银，却有比金银更宝贵的，耶稣基督的名。真正的帮助不一定是物质上的，而是将人引向基督的大能。我们所拥有的最大财富就是福音。',
+          en: 'Peter had no silver or gold, but he had something far more precious, the name of Jesus Christ. True help is not always material; it is leading people to the power of Christ. The greatest treasure we possess is the gospel.',
         },
         question: {
           zh: '你身边有没有需要帮助的人？你能给他们最好的礼物是什么？',
@@ -239,8 +239,8 @@ export const themesB3: AltarTheme[] = [
           text_en: 'Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons: But in every nation he that feareth him, and worketh righteousness, is accepted with him.',
         },
         reflection: {
-          zh: '神不偏待人——这是彼得在哥尼流家中领悟的重大真理。福音打破一切种族、文化和阶层的界限。我们不应该用人的标准来限定神的恩典。',
-          en: 'God shows no partiality — this was the great truth Peter grasped in Cornelius\' house. The gospel breaks all barriers of race, culture, and class. We should not limit God\'s grace by human standards.',
+          zh: '神不偏待人，这是彼得在哥尼流家中领悟的重大真理。福音打破一切种族、文化和阶层的界限。我们不应该用人的标准来限定神的恩典。',
+          en: 'God shows no partiality, this was the great truth Peter grasped in Cornelius\' house. The gospel breaks all barriers of race, culture, and class. We should not limit God\'s grace by human standards.',
         },
         question: {
           zh: '你心中是否对某些人群有偏见？神的不偏待如何挑战你的态度？',
@@ -287,8 +287,8 @@ export const themesB3: AltarTheme[] = [
           en: 'Who in your family has not yet believed? Are you willing to persistently pray for their salvation?',
         },
         prayer: {
-          zh: '主啊，我相信祢的应许——我和我一家都必得救。求祢拯救我家中每一个人，让全家都归向祢。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, I believe Your promise — I and my household will be saved. Save every member of my family and bring them all to You. In Jesus\' name, amen.',
+          zh: '主啊，我相信祢的应许，我和我一家都必得救。求祢拯救我家中每一个人，让全家都归向祢。奉主耶稣的名祷告，阿们。',
+          en: 'Lord, I believe Your promise, I and my household will be saved. Save every member of my family and bring them all to You. In Jesus\' name, amen.',
         },
       },
       {
@@ -303,8 +303,8 @@ export const themesB3: AltarTheme[] = [
           en: 'Paul wisely preached to the Gentiles in Athens. God does not dwell in temples; He is the Lord who gives life and breath. In Him we live and move and have our being. Knowing this God does not require a long journey, for He is not far from each of us.',
         },
         question: {
-          zh: '"我们生活、动作、存留都在乎他"——这句话如何改变你对日常生活的看法？',
-          en: '"In him we live and move and have our being" — how does this truth change your perspective on daily life?',
+          zh: '"我们生活、动作、存留都在乎他"，这句话如何改变你对日常生活的看法？',
+          en: '"In him we live and move and have our being", how does this truth change your perspective on daily life?',
         },
         prayer: {
           zh: '主啊，祢是创造万物的神，我的生命气息都是祢所赐。感谢祢离我不远，在祢里面我生活、动作、存留。愿我每天都活在对祢的认知中。奉主耶稣的名祷告，阿们。',
@@ -329,7 +329,7 @@ export const themesB3: AltarTheme[] = [
         },
         reflection: {
           zh: '一切真正的智慧始于敬畏神。世界追求知识却不认识赐知识的主，这是最大的愚昧。敬畏不是恐惧，而是对神的尊崇和顺服。',
-          en: 'All true wisdom begins with fearing God. The world pursues knowledge but does not know the Lord who gives it — this is the greatest folly. Fear is not terror but reverence and submission to God.',
+          en: 'All true wisdom begins with fearing God. The world pursues knowledge but does not know the Lord who gives it, this is the greatest folly. Fear is not terror but reverence and submission to God.',
         },
         question: {
           zh: '在你追求知识和成长的过程中，敬畏神处于什么位置？',
@@ -348,8 +348,8 @@ export const themesB3: AltarTheme[] = [
           text_en: 'Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.',
         },
         reflection: {
-          zh: '专心仰赖神意味着放下对自己判断力的过度自信。在每一件事上认定神——不只是大事，也包括日常小事。当我们这样做时，神应许引导我们的道路。',
-          en: 'Trusting God wholeheartedly means releasing overconfidence in our own judgment. Acknowledge God in everything — not just big decisions but daily details. When we do, God promises to direct our paths.',
+          zh: '专心仰赖神意味着放下对自己判断力的过度自信。在每一件事上认定神，不只是大事，也包括日常小事。当我们这样做时，神应许引导我们的道路。',
+          en: 'Trusting God wholeheartedly means releasing overconfidence in our own judgment. Acknowledge God in everything, not just big decisions but daily details. When we do, God promises to direct our paths.',
         },
         question: {
           zh: '有哪些生活领域你还在倚靠自己的聪明，而没有认定神？',
@@ -388,8 +388,8 @@ export const themesB3: AltarTheme[] = [
           text_en: 'Keep thy heart with all diligence; for out of it are the issues of life.',
         },
         reflection: {
-          zh: '心是生命的源头。我们花大量精力保护外在的东西——财产、形象、健康——却常常忽略内心。心中所存的决定了生活的方向和品质。',
-          en: 'The heart is the wellspring of life. We spend great effort protecting external things — possessions, image, health — yet often neglect the heart. What the heart harbors determines the direction and quality of life.',
+          zh: '心是生命的源头。我们花大量精力保护外在的东西：财产、形象、健康，却常常忽略内心。心中所存的决定了生活的方向和品质。',
+          en: 'The heart is the wellspring of life. We spend great effort protecting external things, possessions, image, health, yet often neglect the heart. What the heart harbors determines the direction and quality of life.',
         },
         question: {
           zh: '你最近在用什么"喂养"你的心？那些内容是否帮助你更靠近神？',
@@ -428,8 +428,8 @@ export const themesB3: AltarTheme[] = [
           text_en: 'Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.',
         },
         reflection: {
-          zh: '言语拥有巨大的力量——可以带来生命，也可以带来死亡。一句鼓励的话能改变人的一天，一句恶言也能摧毁一段关系。我们要为自己所说的每一句话负责。',
-          en: 'Words hold tremendous power — they can bring life or death. A word of encouragement can change someone\'s day; a harsh word can destroy a relationship. We are responsible for every word we speak.',
+          zh: '言语拥有巨大的力量，可以带来生命，也可以带来死亡。一句鼓励的话能改变人的一天，一句恶言也能摧毁一段关系。我们要为自己所说的每一句话负责。',
+          en: 'Words hold tremendous power, they can bring life or death. A word of encouragement can change someone\'s day; a harsh word can destroy a relationship. We are responsible for every word we speak.',
         },
         question: {
           zh: '回想今天你说过的话，哪些带来了生命？哪些可能带来了伤害？',
@@ -489,7 +489,7 @@ export const themesB3: AltarTheme[] = [
         },
         reflection: {
           zh: '在追求成功的时代，品格比财富更重要。美名是长年累月忠心正直的结果，不是一朝一夕能建立的，却可能因一时的过错而毁于一旦。',
-          en: 'In an age obsessed with success, character matters more than wealth. A good name is the fruit of years of faithfulness and integrity — it cannot be built overnight but can be destroyed by a single misstep.',
+          en: 'In an age obsessed with success, character matters more than wealth. A good name is the fruit of years of faithfulness and integrity, it cannot be built overnight but can be destroyed by a single misstep.',
         },
         question: {
           zh: '如果让你在财富和好名声之间选择，你会选哪个？你的生活方式反映了什么？',
@@ -529,7 +529,7 @@ export const themesB3: AltarTheme[] = [
         },
         reflection: {
           zh: '好的友谊像铁磨铁一样，虽然过程中有摩擦，但结果是彼此更加锋利。我们需要能够坦诚相待、互相激励成长的属灵伙伴。',
-          en: 'Good friendship is like iron sharpening iron — the process involves friction, but the result is mutual sharpening. We need spiritual companions who can be honest with us and encourage mutual growth.',
+          en: 'Good friendship is like iron sharpening iron, the process involves friction, but the result is mutual sharpening. We need spiritual companions who can be honest with us and encourage mutual growth.',
         },
         question: {
           zh: '你生命中有没有一位"铁磨铁"的属灵伙伴？如果没有，你愿意寻找吗？',

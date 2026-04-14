@@ -28,7 +28,7 @@ export const themesB5: AltarTheme[] = [
         },
         prayer: {
           zh: '主啊，求你赐我像挪亚一样的信心，在这弯曲悖谬的世代中仍然顺服你的话语，不随波逐流，忠心到底。阿们。',
-          en: 'Lord, grant me faith like Noah\'s — to obey Your word in a crooked generation, to stand firm against the current, and to remain faithful to the end. Amen.',
+          en: 'Lord, grant me faith like Noah\'s, to obey Your word in a crooked generation, to stand firm against the current, and to remain faithful to the end. Amen.',
         },
       },
       {
@@ -40,7 +40,7 @@ export const themesB5: AltarTheme[] = [
         },
         reflection: {
           zh: '亚伯拉罕在七十五岁高龄时，离开了熟悉的家乡，前往一个未知的地方。他不知道目的地在哪里，却凭信心踏出了第一步。信心不是看见才相信，而是相信才看见。',
-          en: 'At seventy-five, Abraham left everything familiar for an unknown destination. He didn\'t know where he was going, yet he took the first step in faith. Faith is not seeing and then believing — it is believing and then seeing.',
+          en: 'At seventy-five, Abraham left everything familiar for an unknown destination. He didn\'t know where he was going, yet he took the first step in faith. Faith is not seeing and then believing, it is believing and then seeing.',
         },
         question: {
           zh: '神是否在呼召你离开某个舒适区？你愿意凭信心踏出那一步吗？',
@@ -59,16 +59,16 @@ export const themesB5: AltarTheme[] = [
           text_en: 'And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am. And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.',
         },
         reflection: {
-          zh: '亚伯拉罕面对的是一个看似不可能的试验——献上等候了二十五年才得到的儿子。但他相信神的信实超过自己的理解。真正的敬畏神，是愿意把最宝贵的放在祭坛上。',
-          en: 'Abraham faced a seemingly impossible test — to offer the son he waited twenty-five years to receive. Yet he trusted God\'s faithfulness beyond his own understanding. True reverence for God means placing our most precious treasures on the altar.',
+          zh: '亚伯拉罕面对的是一个看似不可能的试验，献上等候了二十五年才得到的儿子。但他相信神的信实超过自己的理解。真正的敬畏神，是愿意把最宝贵的放在祭坛上。',
+          en: 'Abraham faced a seemingly impossible test, to offer the son he waited twenty-five years to receive. Yet he trusted God\'s faithfulness beyond his own understanding. True reverence for God means placing our most precious treasures on the altar.',
         },
         question: {
           zh: '你生命中最难交托给神的是什么？你愿意把它放在祭坛上吗？',
           en: 'What is hardest for you to surrender to God? Are you willing to place it on the altar?',
         },
         prayer: {
-          zh: '主啊，你是耶和华以勒——预备的神。帮助我像亚伯拉罕一样信靠你，愿意将最宝贵的交在你手中，因为你的预备永远超过我的想象。阿们。',
-          en: 'Lord, You are Jehovah Jireh — the God who provides. Help me trust You like Abraham, willing to surrender my most precious things, for Your provision always exceeds my imagination. Amen.',
+          zh: '主啊，你是耶和华以勒，预备的神。帮助我像亚伯拉罕一样信靠你，愿意将最宝贵的交在你手中，因为你的预备永远超过我的想象。阿们。',
+          en: 'Lord, You are Jehovah Jireh, the God who provides. Help me trust You like Abraham, willing to surrender my most precious things, for Your provision always exceeds my imagination. Amen.',
         },
       },
       {
@@ -80,7 +80,7 @@ export const themesB5: AltarTheme[] = [
         },
         reflection: {
           zh: '约瑟被冤枉入狱，处境看似绝望。但"耶和华与约瑟同在"这句话改变了一切。即便在最黑暗的环境中，神的同在仍然是真实的，祂的恩典足以翻转任何困境。',
-          en: 'Joseph was wrongly imprisoned — a seemingly hopeless situation. Yet "the LORD was with Joseph" changed everything. Even in the darkest circumstances, God\'s presence is real, and His grace is sufficient to turn any situation around.',
+          en: 'Joseph was wrongly imprisoned, a seemingly hopeless situation. Yet "the LORD was with Joseph" changed everything. Even in the darkest circumstances, God\'s presence is real, and His grace is sufficient to turn any situation around.',
         },
         question: {
           zh: '当你遭遇不公或陷入困境时，你是否仍然相信神与你同在？',
@@ -119,8 +119,8 @@ export const themesB5: AltarTheme[] = [
           text_en: 'And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river’s brink. And his sister stood afar off, to wit what would be done to him. And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river’s side; and when she saw the ark among the flags, she sent her maid to fetch it. And when she had opened it, she saw the child: and, behold, the babe wept. And she had compassion on him, and said, This is one of the Hebrews’ children.',
         },
         reflection: {
-          zh: '摩西的母亲约基别在绝望中做了一件凭信心的事——把孩子交托在神的手中。一个蒲草箱承载着一位母亲的信心和一个民族的盼望。神用最意想不到的方式保护了这个孩子。',
-          en: 'Moses\' mother Jochebed did something extraordinary in desperation — she entrusted her child to God\'s hands. A simple basket carried a mother\'s faith and a nation\'s hope. God protected the child in the most unexpected way.',
+          zh: '摩西的母亲约基别在绝望中做了一件凭信心的事，把孩子交托在神的手中。一个蒲草箱承载着一位母亲的信心和一个民族的盼望。神用最意想不到的方式保护了这个孩子。',
+          en: 'Moses\' mother Jochebed did something extraordinary in desperation, she entrusted her child to God\'s hands. A simple basket carried a mother\'s faith and a nation\'s hope. God protected the child in the most unexpected way.',
         },
         question: {
           zh: '当你无能为力时，你是否愿意把你最爱的人交托在神的手中？',
@@ -160,7 +160,7 @@ export const themesB5: AltarTheme[] = [
         },
         reflection: {
           zh: '前有红海，后有追兵，以色列人陷入绝境。但神开辟了一条人无法想象的道路。当我们面对不可能的困境时，神能在绝处开路，在旷野开江河。',
-          en: 'The Red Sea ahead, the Egyptian army behind — Israel was trapped. But God opened a path beyond human imagination. When we face impossible situations, God can make a way where there seems to be no way.',
+          en: 'The Red Sea ahead, the Egyptian army behind, Israel was trapped. But God opened a path beyond human imagination. When we face impossible situations, God can make a way where there seems to be no way.',
         },
         question: {
           zh: '你现在面对的"红海"是什么？你相信神能为你开一条出路吗？',
@@ -168,7 +168,7 @@ export const themesB5: AltarTheme[] = [
         },
         prayer: {
           zh: '全能的神，你是分开红海的神，没有任何困难能拦阻你的大能。求你在我前面开路，让我经历你奇妙的拯救。阿们。',
-          en: 'Almighty God, You parted the Red Sea — no difficulty can hinder Your power. Open a way before me and let me experience Your miraculous deliverance. Amen.',
+          en: 'Almighty God, You parted the Red Sea, no difficulty can hinder Your power. Open a way before me and let me experience Your miraculous deliverance. Amen.',
         },
       },
       {
@@ -180,7 +180,7 @@ export const themesB5: AltarTheme[] = [
         },
         reflection: {
           zh: '约书亚接替摩西的重任，面对的是强大的迦南人和未知的挑战。神三次对他说"刚强壮胆"，因为勇气不是来自自己的能力，而是来自神的同在。',
-          en: 'Joshua took over from Moses, facing powerful Canaanites and unknown challenges. God told him three times to "be strong and courageous" — because courage comes not from our own ability but from God\'s presence.',
+          en: 'Joshua took over from Moses, facing powerful Canaanites and unknown challenges. God told him three times to "be strong and courageous", because courage comes not from our own ability but from God\'s presence.',
         },
         question: {
           zh: '你在哪些事上需要"刚强壮胆"？神同在的应许如何改变你的恐惧？',
@@ -200,7 +200,7 @@ export const themesB5: AltarTheme[] = [
         },
         reflection: {
           zh: '神将基甸的军队从三万二千人减到三百人，不是削弱以色列的力量，而是要彰显祂自己的大能。神不需要人多势众，祂要的是合用的器皿。少，在神的手中就是多。',
-          en: 'God reduced Gideon\'s army from 32,000 to 300 — not to weaken Israel but to display His own power. God doesn\'t need large numbers; He wants willing vessels. Little in God\'s hands becomes much.',
+          en: 'God reduced Gideon\'s army from 32,000 to 300, not to weaken Israel but to display His own power. God doesn\'t need large numbers; He wants willing vessels. Little in God\'s hands becomes much.',
         },
         question: {
           zh: '你是否觉得自己资源太少、能力不够？神如何使用"少"来成就"多"？',
@@ -240,7 +240,7 @@ export const themesB5: AltarTheme[] = [
         },
         reflection: {
           zh: '少年撒母耳还不认识神的声音，但他有一颗愿意聆听的心。"请说，仆人敬听"是我们每天灵修时最美好的祷告。神今天仍然在说话，问题是我们是否在聆听。',
-          en: 'Young Samuel did not yet recognize God\'s voice, but he had a heart willing to listen. "Speak, for your servant hears" is the most beautiful prayer for our daily devotions. God still speaks today — the question is whether we are listening.',
+          en: 'Young Samuel did not yet recognize God\'s voice, but he had a heart willing to listen. "Speak, for your servant hears" is the most beautiful prayer for our daily devotions. God still speaks today, the question is whether we are listening.',
         },
         question: {
           zh: '你每天有安静在神面前聆听祂声音的时间吗？你如何分辨神的声音？',
@@ -308,7 +308,7 @@ export const themesB5: AltarTheme[] = [
         },
         prayer: {
           zh: '主啊，求你赐我但以理的忠心，即使面对狮子坑也不停止祷告，不停止敬拜。你是封住狮子口的神，我信靠你的保护。阿们。',
-          en: 'Lord, grant me Daniel\'s faithfulness — never ceasing to pray or worship even before the lions\' den. You are the God who shuts lions\' mouths, and I trust in Your protection. Amen.',
+          en: 'Lord, grant me Daniel\'s faithfulness, never ceasing to pray or worship even before the lions\' den. You are the God who shuts lions\' mouths, and I trust in Your protection. Amen.',
         },
       },
     ],
@@ -329,7 +329,7 @@ export const themesB5: AltarTheme[] = [
         },
         reflection: {
           zh: '耶稣骑驴进入耶路撒冷，众人欢呼迎接。然而几天后，同样的群众将高喊"钉他十字架"。人的热情转瞬即逝，但耶稣进城的脚步坚定不移，因为祂知道自己要成就的使命。',
-          en: 'Jesus entered Jerusalem on a donkey to shouts of praise. Yet days later, the same crowd would cry "Crucify him!" Human enthusiasm is fleeting, but Jesus\' steps into the city were unwavering — He knew the mission He came to fulfill.',
+          en: 'Jesus entered Jerusalem on a donkey to shouts of praise. Yet days later, the same crowd would cry "Crucify him!" Human enthusiasm is fleeting, but Jesus\' steps into the city were unwavering, He knew the mission He came to fulfill.',
         },
         question: {
           zh: '你对耶稣的热心是一时的还是持久的？如何保持信仰的恒心？',
@@ -349,7 +349,7 @@ export const themesB5: AltarTheme[] = [
         },
         reflection: {
           zh: '耶稣洁净圣殿，显示了祂对敬拜纯洁的热心。神的殿应当是祷告的地方，而非交易的场所。同样，我们的心灵也是圣灵的殿，需要时常被主洁净。',
-          en: 'Jesus cleansed the temple, showing His zeal for pure worship. God\'s house should be a place of prayer, not commerce. Likewise, our hearts — temples of the Holy Spirit — need to be regularly cleansed by the Lord.',
+          en: 'Jesus cleansed the temple, showing His zeal for pure worship. God\'s house should be a place of prayer, not commerce. Likewise, our hearts, temples of the Holy Spirit, need to be regularly cleansed by the Lord.',
         },
         question: {
           zh: '你的心灵中是否有需要被主"洁净"的东西？哪些事物占据了本该属于祷告和敬拜的位置？',
@@ -388,8 +388,8 @@ export const themesB5: AltarTheme[] = [
           text_en: 'And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me. Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.',
         },
         reflection: {
-          zh: '最后的晚餐上，耶稣设立了圣餐，用饼和杯象征祂即将为我们破碎的身体和流出的宝血。每一次圣餐都是一次记念——记念那份无条件的爱和永恒的新约。',
-          en: 'At the Last Supper, Jesus instituted communion, using bread and cup to symbolize His body broken and blood shed for us. Every communion is an act of remembrance — remembering that unconditional love and the eternal new covenant.',
+          zh: '最后的晚餐上，耶稣设立了圣餐，用饼和杯象征祂即将为我们破碎的身体和流出的宝血。每一次圣餐都是一次记念，记念那份无条件的爱和永恒的新约。',
+          en: 'At the Last Supper, Jesus instituted communion, using bread and cup to symbolize His body broken and blood shed for us. Every communion is an act of remembrance, remembering that unconditional love and the eternal new covenant.',
         },
         question: {
           zh: '你上一次领受圣餐时，心中有怎样的感动？你如何在日常生活中"记念"主的牺牲？',
@@ -409,7 +409,7 @@ export const themesB5: AltarTheme[] = [
         },
         reflection: {
           zh: '在被卖的那一夜，耶稣不是谈论复仇或自保，而是赐下爱的命令。基督徒最显著的标志不是教义或仪式，而是彼此相爱。这种爱不是出于人的本性，而是效法基督舍己之爱。',
-          en: 'On the night He was betrayed, Jesus spoke not of revenge or self-preservation but gave a command to love. The most distinctive mark of Christians is not doctrine or ritual but mutual love — a love not from human nature but modeled after Christ\'s self-giving love.',
+          en: 'On the night He was betrayed, Jesus spoke not of revenge or self-preservation but gave a command to love. The most distinctive mark of Christians is not doctrine or ritual but mutual love, a love not from human nature but modeled after Christ\'s self-giving love.',
         },
         question: {
           zh: '你身边的人能从你的行为中认出你是基督的门徒吗？你如何实践"彼此相爱"？',
@@ -448,8 +448,8 @@ export const themesB5: AltarTheme[] = [
           text_en: 'And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.',
         },
         reflection: {
-          zh: '在客西马尼园，耶稣经历了极大的痛苦挣扎。祂是完全的人，也感受恐惧和痛苦。但祂的祷告是"不要照我的意思，只要照你的意思"。这是最高层次的顺服——不是没有挣扎，而是在挣扎中仍然选择神的旨意。',
-          en: 'In Gethsemane, Jesus experienced intense anguish. Fully human, He felt fear and pain. Yet His prayer was "not as I will, but as You will." This is the highest form of obedience — not the absence of struggle, but choosing God\'s will in the midst of struggle.',
+          zh: '在客西马尼园，耶稣经历了极大的痛苦挣扎。祂是完全的人，也感受恐惧和痛苦。但祂的祷告是"不要照我的意思，只要照你的意思"。这是最高层次的顺服，不是没有挣扎，而是在挣扎中仍然选择神的旨意。',
+          en: 'In Gethsemane, Jesus experienced intense anguish. Fully human, He felt fear and pain. Yet His prayer was "not as I will, but as You will." This is the highest form of obedience, not the absence of struggle, but choosing God\'s will in the midst of struggle.',
         },
         question: {
           zh: '你在祷告中是否能说"不要照我的意思，只要照你的意思"？这对你来说最难的部分是什么？',
@@ -468,8 +468,8 @@ export const themesB5: AltarTheme[] = [
           text_en: 'And forthwith he came to Jesus, and said, Hail, master; and kissed him. And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.',
         },
         reflection: {
-          zh: '犹大用亲嘴——一个亲密的动作——来出卖耶稣。背叛往往来自最亲近的人，伤害也最深。但耶稣仍然称犹大为"朋友"。即使面对最痛的背叛，耶稣也没有用仇恨回应。',
-          en: 'Judas betrayed Jesus with a kiss — an intimate gesture. Betrayal often comes from those closest to us and cuts deepest. Yet Jesus still called Judas "friend." Even facing the deepest betrayal, Jesus did not respond with hatred.',
+          zh: '犹大用亲嘴，一个亲密的动作，来出卖耶稣。背叛往往来自最亲近的人，伤害也最深。但耶稣仍然称犹大为"朋友"。即使面对最痛的背叛，耶稣也没有用仇恨回应。',
+          en: 'Judas betrayed Jesus with a kiss, an intimate gesture. Betrayal often comes from those closest to us and cuts deepest. Yet Jesus still called Judas "friend." Even facing the deepest betrayal, Jesus did not respond with hatred.',
         },
         question: {
           zh: '你曾被亲近的人伤害或背叛吗？耶稣的回应如何帮助你面对这样的经历？',
@@ -548,8 +548,8 @@ export const themesB5: AltarTheme[] = [
           text_en: 'When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.',
         },
         reflection: {
-          zh: '"成了"——这不是失败者的叹息，而是得胜者的宣告。耶稣完成了父神交给祂的救赎大工。罪的刑罚已经付清，死亡的权势已经被打破。我们不需要再做什么来赚取救恩，因为耶稣已经说了"成了"。',
-          en: '"It is finished" — not the sigh of defeat but the declaration of victory. Jesus completed the work of redemption the Father gave Him. The penalty of sin is paid; the power of death is broken. We need do nothing more to earn salvation, for Jesus has said, "It is finished."',
+          zh: '"成了"，这不是失败者的叹息，而是得胜者的宣告。耶稣完成了父神交给祂的救赎大工。罪的刑罚已经付清，死亡的权势已经被打破。我们不需要再做什么来赚取救恩，因为耶稣已经说了"成了"。',
+          en: '"It is finished", not the sigh of defeat but the declaration of victory. Jesus completed the work of redemption the Father gave Him. The penalty of sin is paid; the power of death is broken. We need do nothing more to earn salvation, for Jesus has said, "It is finished."',
         },
         question: {
           zh: '你是否仍在试图用自己的行为来赚取神的接纳？"成了"这句话对你意味着什么？',
@@ -577,7 +577,7 @@ export const themesB5: AltarTheme[] = [
         },
         prayer: {
           zh: '主啊，求你赐我像约瑟一样的勇气，在别人退缩时为你站出来。我愿将我最好的献给你，不计代价地跟随你。阿们。',
-          en: 'Lord, grant me courage like Joseph\'s — to stand for You when others withdraw. I offer You my best and follow You regardless of the cost. Amen.',
+          en: 'Lord, grant me courage like Joseph\'s, to stand for You when others withdraw. I offer You my best and follow You regardless of the cost. Amen.',
         },
       },
       {
@@ -589,7 +589,7 @@ export const themesB5: AltarTheme[] = [
         },
         reflection: {
           zh: '"他不在这里，已经复活了！"这是人类历史上最震撼的消息。空坟墓证明了耶稣胜过了死亡。十字架不是故事的结局，复活才是！因为祂活着，我们也有了永恒的盼望。',
-          en: '"He is not here, for He has risen!" This is the most earth-shaking news in human history. The empty tomb proves Jesus conquered death. The cross is not the end of the story — the resurrection is! Because He lives, we too have eternal hope.',
+          en: '"He is not here, for He has risen!" This is the most earth-shaking news in human history. The empty tomb proves Jesus conquered death. The cross is not the end of the story, the resurrection is! Because He lives, we too have eternal hope.',
         },
         question: {
           zh: '复活的信息如何改变了你对死亡和苦难的看法？',

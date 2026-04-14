@@ -60,7 +60,7 @@ export const themesA11: AltarTheme[] = [
         },
         reflection: {
           zh: '雅各警告我们，听道而不行道等于自欺。真正的顺服不是停留在知识层面，而是将所听到的神的话语付诸实践，在日常生活中活出来。',
-          en: 'James warns that hearing the word without doing it is self-deception. True obedience goes beyond head knowledge—it puts God\'s word into practice in everyday life.',
+          en: 'James warns that hearing the word without doing it is self-deception. True obedience goes beyond head knowledge, it puts God\'s word into practice in everyday life.',
         },
         question: {
           zh: '最近你听到的哪一段神的话语还没有付诸行动？今天可以怎样开始"行道"？',
@@ -80,7 +80,7 @@ export const themesA11: AltarTheme[] = [
         },
         reflection: {
           zh: '耶稣指出，真正的福分不在于外在的身份或关系，而在于听神的道并遵守。顺服神话语的人才是真正蒙福的人，这种福分超越一切世俗的羡慕。',
-          en: 'Jesus points out that true blessedness lies not in outward status or relationships but in hearing God\'s word and keeping it. Those who obey His word are truly blessed—a blessing surpassing all earthly envy.',
+          en: 'Jesus points out that true blessedness lies not in outward status or relationships but in hearing God\'s word and keeping it. Those who obey His word are truly blessed, a blessing surpassing all earthly envy.',
         },
         question: {
           zh: '你是否相信顺服神的话语会带来真正的福分？在哪些方面你经历过"听道而遵守"带来的祝福？',
@@ -108,7 +108,7 @@ export const themesA11: AltarTheme[] = [
         },
         prayer: {
           zh: '主啊，求你将爱慕你律法的心放在我里面，让我终日思想你的话语，以遵行你的旨意为喜乐，而不是视之为重担。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, place in me a heart that loves Your law. Let me meditate on Your word all day long and find joy—not burden—in doing Your will. In Jesus\' name, amen.',
+          en: 'Lord, place in me a heart that loves Your law. Let me meditate on Your word all day long and find joy, not burden, in doing Your will. In Jesus\' name, amen.',
         },
       },
       {
@@ -139,8 +139,8 @@ export const themesA11: AltarTheme[] = [
           text_en: 'And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.',
         },
         reflection: {
-          zh: '基督的顺服是最彻底的顺服——以至于死，且死在十字架上。祂的榜样告诉我们，真正的顺服需要谦卑和舍己，即使代价极大也不退缩。',
-          en: 'Christ\'s obedience was the most radical kind—obedient to the point of death on a cross. His example shows that true obedience requires humility and self-denial, without shrinking back even at the greatest cost.',
+          zh: '基督的顺服是最彻底的顺服，以至于死，且死在十字架上。祂的榜样告诉我们，真正的顺服需要谦卑和舍己，即使代价极大也不退缩。',
+          en: 'Christ\'s obedience was the most radical kind, obedient to the point of death on a cross. His example shows that true obedience requires humility and self-denial, without shrinking back even at the greatest cost.',
         },
         question: {
           zh: '基督顺服至死的榜样如何激励你在困难中仍然顺服神？你愿意为顺服神付上什么代价？',
@@ -159,8 +159,8 @@ export const themesA11: AltarTheme[] = [
           text_en: 'By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.',
         },
         reflection: {
-          zh: '亚伯拉罕的顺服是信心的顺服——他还不知往哪里去，就遵命出发了。顺服常常意味着在不确定中信靠神，凭信心而非凭眼见踏出每一步。',
-          en: 'Abraham\'s obedience was faith-driven—he obeyed and set out without knowing where he was going. Obedience often means trusting God amid uncertainty, walking by faith and not by sight.',
+          zh: '亚伯拉罕的顺服是信心的顺服，他还不知往哪里去，就遵命出发了。顺服常常意味着在不确定中信靠神，凭信心而非凭眼见踏出每一步。',
+          en: 'Abraham\'s obedience was faith-driven, he obeyed and set out without knowing where he was going. Obedience often means trusting God amid uncertainty, walking by faith and not by sight.',
         },
         question: {
           zh: '你是否愿意像亚伯拉罕一样，在还不清楚前方道路时就凭信心顺服神的呼召？',
@@ -168,7 +168,7 @@ export const themesA11: AltarTheme[] = [
         },
         prayer: {
           zh: '天父，求你赐我像亚伯拉罕一样的信心，即使不知前方道路，也愿意凭信心遵命出去。帮助我信靠你的引领，勇敢踏出顺服的每一步。奉主耶稣的名祷告，阿们。',
-          en: 'Heavenly Father, give me faith like Abraham\'s—willing to obey and go out even when I don\'t know the way. Help me trust Your leading and bravely take each step of obedience. In Jesus\' name, amen.',
+          en: 'Heavenly Father, give me faith like Abraham\'s, willing to obey and go out even when I don\'t know the way. Help me trust Your leading and bravely take each step of obedience. In Jesus\' name, amen.',
         },
       },
       {
@@ -179,8 +179,8 @@ export const themesA11: AltarTheme[] = [
           text_en: 'And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul, To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good?',
         },
         reflection: {
-          zh: '神向祂子民所要的并不复杂：敬畏、遵行、爱祂、侍奉祂、遵守诫命。而且这一切是"为要叫你得福"——神的命令不是为了辖制我们，而是为了我们的好处。',
-          en: 'What God requires is not complicated: fear Him, walk in His ways, love Him, serve Him, keep His commands. And all this is "for your good"—God\'s commands are not to control us but for our benefit.',
+          zh: '神向祂子民所要的并不复杂：敬畏、遵行、爱祂、侍奉祂、遵守诫命。而且这一切是"为要叫你得福"，神的命令不是为了辖制我们，而是为了我们的好处。',
+          en: 'What God requires is not complicated: fear Him, walk in His ways, love Him, serve Him, keep His commands. And all this is "for your good", God\'s commands are not to control us but for our benefit.',
         },
         question: {
           zh: '你是否认为神的诫命是为了你的好处？在哪些方面你经历过遵行神命令所带来的福分？',
@@ -259,8 +259,8 @@ export const themesA11: AltarTheme[] = [
           text_en: 'And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.',
         },
         reflection: {
-          zh: '跟从耶稣的代价是舍己和天天背十字架。顺服不是偶尔的决定，而是每天的选择——每天放下自己的意愿，背起十字架跟随主。',
-          en: 'Following Jesus costs self-denial and daily cross-bearing. Obedience is not an occasional decision but a daily choice—laying down our own will each day and taking up our cross to follow Him.',
+          zh: '跟从耶稣的代价是舍己和天天背十字架。顺服不是偶尔的决定，而是每天的选择，每天放下自己的意愿，背起十字架跟随主。',
+          en: 'Following Jesus costs self-denial and daily cross-bearing. Obedience is not an occasional decision but a daily choice, laying down our own will each day and taking up our cross to follow Him.',
         },
         question: {
           zh: '"天天背起十字架"对你来说意味着什么？今天你需要在哪件事上舍己来顺服主？',
@@ -300,7 +300,7 @@ export const themesA11: AltarTheme[] = [
         },
         reflection: {
           zh: '连神的儿子耶稣都是藉着苦难学习顺从，何况我们呢？苦难不是神的惩罚，而是塑造我们顺服品格的学校。在受苦中学习顺从，是属灵生命成熟的标志。',
-          en: 'Even God\'s Son Jesus learned obedience through suffering—how much more must we? Suffering is not God\'s punishment but a school shaping our character of obedience. Learning to obey through hardship is a mark of spiritual maturity.',
+          en: 'Even God\'s Son Jesus learned obedience through suffering, how much more must we? Suffering is not God\'s punishment but a school shaping our character of obedience. Learning to obey through hardship is a mark of spiritual maturity.',
         },
         question: {
           zh: '你是否能从过去经历的苦难中看到神在教导你学习顺从？苦难如何塑造了你的顺服？',
@@ -369,7 +369,7 @@ export const themesA11: AltarTheme[] = [
         },
         reflection: {
           zh: '保罗以一连串的反问揭示了传福音的迫切性：人若没有听见，就不能信。传福音的人是信与不信之间的桥梁，报福音之人的脚踪何等佳美！',
-          en: 'Paul\'s chain of rhetorical questions reveals the urgency of evangelism: people cannot believe if they have not heard. The evangelist is the bridge between belief and unbelief—how beautiful are the feet of those who bring good news!',
+          en: 'Paul\'s chain of rhetorical questions reveals the urgency of evangelism: people cannot believe if they have not heard. The evangelist is the bridge between belief and unbelief, how beautiful are the feet of those who bring good news!',
         },
         question: {
           zh: '在你身边有谁还没有听过福音？你愿意成为那个"报福音、传喜信"的人吗？',
@@ -408,8 +408,8 @@ export const themesA11: AltarTheme[] = [
           text_en: 'But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:',
         },
         reflection: {
-          zh: '彼得提醒我们传福音需要两个预备：内心尊主为圣，并且随时准备好为信仰作见证。同时，传福音的态度也很重要——以温柔和敬畏的心回答，而非争辩和论断。',
-          en: 'Peter reminds us evangelism requires two preparations: honoring Christ as holy in our hearts and always being ready to give an answer for our hope. The manner matters too—respond with gentleness and respect, not argument and judgment.',
+          zh: '彼得提醒我们传福音需要两个预备：内心尊主为圣，并且随时准备好为信仰作见证。同时，传福音的态度也很重要，以温柔和敬畏的心回答，而非争辩和论断。',
+          en: 'Peter reminds us evangelism requires two preparations: honoring Christ as holy in our hearts and always being ready to give an answer for our hope. The manner matters too, respond with gentleness and respect, not argument and judgment.',
         },
         question: {
           zh: '如果有人今天问你为什么信耶稣，你准备好怎样回答了吗？你能用温柔敬畏的态度分享你的信仰吗？',
@@ -449,7 +449,7 @@ export const themesA11: AltarTheme[] = [
         },
         reflection: {
           zh: '耶稣说我们是世上的光，光是不能隐藏的。传福音不只是用口说，更是用生命发光。我们的好行为能让人看见神的荣耀，这本身就是最有力的见证。',
-          en: 'Jesus says we are the light of the world—light cannot be hidden. Evangelism is not only spoken words but a life that shines. Our good works display God\'s glory, and that itself is the most powerful witness.',
+          en: 'Jesus says we are the light of the world, light cannot be hidden. Evangelism is not only spoken words but a life that shines. Our good works display God\'s glory, and that itself is the most powerful witness.',
         },
         question: {
           zh: '你的生活是否像"放在灯台上的灯"一样照亮周围的人？你的好行为是否能引人归荣耀给天父？',
@@ -468,8 +468,8 @@ export const themesA11: AltarTheme[] = [
           text_en: 'For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!',
         },
         reflection: {
-          zh: '保罗传福音不是为了自夸，而是出于一种神圣的"不得已"——他深知福音的宝贵和失丧灵魂的危险，传福音是他无法推卸的责任和燃烧的使命感。',
-          en: 'Paul preached not to boast but from a holy compulsion—he deeply knew the preciousness of the gospel and the peril of lost souls. Evangelism was an irresistible responsibility and burning sense of mission.',
+          zh: '保罗传福音不是为了自夸，而是出于一种神圣的"不得已"，他深知福音的宝贵和失丧灵魂的危险，传福音是他无法推卸的责任和燃烧的使命感。',
+          en: 'Paul preached not to boast but from a holy compulsion, he deeply knew the preciousness of the gospel and the peril of lost souls. Evangelism was an irresistible responsibility and burning sense of mission.',
         },
         question: {
           zh: '你是否也有保罗那样"若不传福音，便有祸了"的紧迫感？是什么拦阻了你传福音的热情？',
@@ -489,7 +489,7 @@ export const themesA11: AltarTheme[] = [
         },
         reflection: {
           zh: '我们是基督的使者，代表天国向世人发出和好的邀请。传福音就是替基督恳求人们与神和好，这是何等荣耀又神圣的角色和使命！',
-          en: 'We are ambassadors for Christ, representing heaven\'s invitation of reconciliation to the world. Evangelism is imploring people on Christ\'s behalf to be reconciled to God—what a glorious and sacred role!',
+          en: 'We are ambassadors for Christ, representing heaven\'s invitation of reconciliation to the world. Evangelism is imploring people on Christ\'s behalf to be reconciled to God, what a glorious and sacred role!',
         },
         question: {
           zh: '作为"基督的使者"，你如何在日常生活中代表基督向人发出与神和好的邀请？',
@@ -508,16 +508,16 @@ export const themesA11: AltarTheme[] = [
           text_en: 'They that sow in tears shall reap in joy. He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.',
         },
         reflection: {
-          zh: '传福音的过程中可能会有眼泪——被拒绝的泪、为灵魂忧伤的泪。但神应许流泪撒种的必欢呼收割，我们的付出和眼泪不会徒然，终必结出丰盛的果实。',
-          en: 'Evangelism may involve tears—tears of rejection, tears of sorrow for souls. But God promises that those who sow in tears will reap with joy. Our labor and tears will not be in vain; they will bear abundant fruit.',
+          zh: '传福音的过程中可能会有眼泪：被拒绝的泪、为灵魂忧伤的泪。但神应许流泪撒种的必欢呼收割，我们的付出和眼泪不会徒然，终必结出丰盛的果实。',
+          en: 'Evangelism may involve tears, tears of rejection, tears of sorrow for souls. But God promises that those who sow in tears will reap with joy. Our labor and tears will not be in vain; they will bear abundant fruit.',
         },
         question: {
           zh: '你是否曾在传福音中经历"流泪撒种"的时刻？神的应许如何鼓励你继续坚持？',
           en: 'Have you experienced "sowing in tears" in evangelism? How does God\'s promise of joyful reaping encourage you to persevere?',
         },
         prayer: {
-          zh: '主啊，当我在传福音中流泪时，求你坚固我的信心，相信你的应许——流泪撒种的必欢呼收割。帮助我不灰心，持续为灵魂撒种。奉主耶稣的名祷告，阿们。',
-          en: 'Lord, when I weep in evangelism, strengthen my faith in Your promise—those who sow in tears shall reap with joy. Help me not lose heart but keep sowing seeds for souls. In Jesus\' name, amen.',
+          zh: '主啊，当我在传福音中流泪时，求你坚固我的信心，相信你的应许，流泪撒种的必欢呼收割。帮助我不灰心，持续为灵魂撒种。奉主耶稣的名祷告，阿们。',
+          en: 'Lord, when I weep in evangelism, strengthen my faith in Your promise, those who sow in tears shall reap with joy. Help me not lose heart but keep sowing seeds for souls. In Jesus\' name, amen.',
         },
       },
       {
@@ -529,7 +529,7 @@ export const themesA11: AltarTheme[] = [
         },
         reflection: {
           zh: '保罗提醒我们，传福音是团队合作，而最终使人生命成长的是神自己。我们不必因为没有立即看到果效而灰心，因为栽种和浇灌都是不可缺少的，但叫人生长的是神。',
-          en: 'Paul reminds us that evangelism is teamwork, and ultimately God alone gives growth. We need not be discouraged if we don\'t see immediate results—planting and watering are both essential, but God gives the increase.',
+          en: 'Paul reminds us that evangelism is teamwork, and ultimately God alone gives growth. We need not be discouraged if we don\'t see immediate results, planting and watering are both essential, but God gives the increase.',
         },
         question: {
           zh: '你是否因为没有看到传福音的"即时果效"而灰心？如何在"栽种"和"浇灌"的角色中忠心？',
@@ -569,7 +569,7 @@ export const themesA11: AltarTheme[] = [
         },
         reflection: {
           zh: '保罗嘱咐提摩太"无论得时不得时"都要传道。传福音不分时机，不看环境，总要专心预备。同时要用百般忍耐和各样教训，既有责备警戒，也有劝勉鼓励。',
-          en: 'Paul charges Timothy to preach "in season and out of season." Evangelism does not depend on favorable timing or circumstances—always be ready. Do so with complete patience and teaching, including reproof, rebuke, and encouragement.',
+          en: 'Paul charges Timothy to preach "in season and out of season." Evangelism does not depend on favorable timing or circumstances, always be ready. Do so with complete patience and teaching, including reproof, rebuke, and encouragement.',
         },
         question: {
           zh: '你在传福音时是否只选择"得时"的时候？如何预备自己在"不得时"也能忠心传道？',
@@ -588,8 +588,8 @@ export const themesA11: AltarTheme[] = [
           text_en: 'And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,',
         },
         reflection: {
-          zh: '连使徒保罗都需要弟兄姐妹为他祷告，使他有口才和胆量传福音。传福音需要祷告的支持——既为自己祷告求胆量，也为同行的肢体代祷，彼此扶持。',
-          en: 'Even the apostle Paul needed prayer from fellow believers for boldness and words in evangelism. Sharing the gospel requires prayer support—praying for our own courage and interceding for fellow believers.',
+          zh: '连使徒保罗都需要弟兄姐妹为他祷告，使他有口才和胆量传福音。传福音需要祷告的支持，既为自己祷告求胆量，也为同行的肢体代祷，彼此扶持。',
+          en: 'Even the apostle Paul needed prayer from fellow believers for boldness and words in evangelism. Sharing the gospel requires prayer support, praying for our own courage and interceding for fellow believers.',
         },
         question: {
           zh: '你是否常为自己和其他传福音的肢体祷告，求神赐下口才和胆量？你可以为谁代祷？',
@@ -608,8 +608,8 @@ export const themesA11: AltarTheme[] = [
           text_en: 'Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few; Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.',
         },
         reflection: {
-          zh: '耶稣看到庄稼已熟，做工的人却少，心中充满怜悯。祂教导门徒首先要祷告——求庄稼的主差派工人。传福音始于祷告，也需要更多工人起来回应呼召。',
-          en: 'Jesus saw the plentiful harvest with few laborers and was filled with compassion. He taught the disciples to pray first—asking the Lord of the harvest to send workers. Evangelism begins with prayer and needs more workers to rise and answer the call.',
+          zh: '耶稣看到庄稼已熟，做工的人却少，心中充满怜悯。祂教导门徒首先要祷告，求庄稼的主差派工人。传福音始于祷告，也需要更多工人起来回应呼召。',
+          en: 'Jesus saw the plentiful harvest with few laborers and was filled with compassion. He taught the disciples to pray first, asking the Lord of the harvest to send workers. Evangelism begins with prayer and needs more workers to rise and answer the call.',
         },
         question: {
           zh: '你是否看到身边"庄稼已熟"的福音需要？你愿意成为那个被差派出去的工人吗？',

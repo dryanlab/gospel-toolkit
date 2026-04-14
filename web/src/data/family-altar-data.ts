@@ -1,4 +1,4 @@
-// Family Altar (家庭祭坛) — 25 themes, 375 devotional units for a full year
+// Family Altar (家庭祭坛), 25 themes, 375 devotional units for a full year
 // A-type: doctrinal themes | B-type: biblical book/narrative themes
 // Alternating A-B pattern for variety
 

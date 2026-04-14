@@ -20,7 +20,7 @@ const actsConfig: BookConfig = {
   authorZh: '路加',
   authorEn: 'Luke',
   introZh: '使徒行传是路加所写的初代教会历史，记载了圣灵降临后福音从耶路撒冷传到罗马的壮阔历程。从五旬节的三千人归主，到保罗锁链中在罗马传道，这卷书见证了一个不可阻挡的事实：复活的基督藉着圣灵，通过祂软弱却忠心的仆人，正在建造祂的教会，阴间的权柄不能胜过她。',
-  introEn: 'The Book of Acts, written by Luke, records the history of the early church — the magnificent journey of the Gospel from Jerusalem to Rome after the coming of the Holy Spirit.',
+  introEn: 'The Book of Acts, written by Luke, records the history of the early church, the magnificent journey of the Gospel from Jerusalem to Rome after the coming of the Holy Spirit.',
   isTopicBased: false,
 };
 
