@@ -9,7 +9,7 @@ const sections = [
     title_en: `I. Nehemiah's Vision and Return (Ch. 1–2)`,
     content_zh: `尼希米是波斯王亚达薛西的酒政，一个极其信任的职位。当他听见耶路撒冷城墙被拆毁、城门被火焚烧，他"坐下哭泣，悲哀几日，在天上的神面前禁食祈祷"（1:4）。尼希米的祷告（1:5-11）是旧约中最感人的代祷之一：他认罪、引用神的应许、求神施恩。
 
-最值得注意的是尼希米的"箭祷"。当亚达薛西王问他为何面带愁容时，尼希米"默祷天上的神"（2:4），然后才回答王。这不是长篇大论的祷告，而是危急时刻的一声呼求，信心可以在一瞬间连接天上的宝座。
+最动人的是尼希米的"箭祷"。当亚达薛西王问他为何面带愁容时，尼希米"默祷天上的神"（2:4），然后才回答王。这不是长篇大论的祷告，而是危急时刻的一声呼求，信心可以在一瞬间连接天上的宝座。
 
 王准许尼希米回去重建。尼希米夜间骑马查看城墙废墟（2:12-16），先摸清实际状况，然后才召集百姓。他是一个兼具祷告和务实的领袖。`,
     content_en: `Nehemiah was cupbearer to King Artaxerxes of Persia, a position of extraordinary trust. When he heard that Jerusalem's walls were broken down and its gates burned, he "sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven" (1:4). Nehemiah's prayer (1:5–11) is one of the most moving intercessions in the Old Testament, confessing sin, citing God's promises, pleading for mercy.

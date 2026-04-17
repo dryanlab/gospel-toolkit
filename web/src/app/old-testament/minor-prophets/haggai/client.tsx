@@ -34,7 +34,7 @@ Haggai's call received immediate response, governor Zerubbabel and high priest J
 
 The second half of chapter 2 uses two priestly law illustrations: holiness does not transfer by contact, but uncleanness does (2:12–13). Similarly, outward religious acts cannot sanctify, but sin's contamination spreads.
 
-The book ends with a special promise to Zerubbabel, "In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts" (2:23). A "signet ring" symbolizes royal authority. Zerubbabel's grandfather King Jehoiachin had been "pulled off" like a signet (Jer 22:24); now God would "put on" Zerubbabel again, David's royal hope was not extinguished. Zerubbabel appears in Jesus' genealogy (Matt 1:12); this promise was ultimately fulfilled in Christ.`,
+The book ends with a special promise to Zerubbabel, "In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts" (2:23). A "signet ring" symbolizes royal authority. Zerubbabel's grandfather King Jehoiachin had been "pulled off" like a signet (Jer 22:24); now God would "put on" Zerubbabel again, David's royal hope was not extinguished. Zerubbabel appears in Jesus' genealogy (Matt 1:12); this promise was fulfilled in Christ.`,
   },
 ];
 

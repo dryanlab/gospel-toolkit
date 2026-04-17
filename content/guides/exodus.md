@@ -29,7 +29,7 @@ The book's 40 chapters divide into three major sections: the journey from Egypt 
 
 Exodus opens in direct continuity with the end of Genesis. The Israelites multiplied greatly in Egypt, but a new Pharaoh arose who "knew not Joseph" and began cruelly oppressing Israel. The faithfulness of the midwives, Moses' birth and preservation, all reveal God's providential care working in the shadows.
 
-Moses grew up in Pharaoh's palace for forty years, shepherded in Midian for forty years, and was not called by God until age eighty. The vision of the burning bush was the pivotal moment, the bush burned with fire yet was not consumed, foreshadowing Israel suffering yet not destroyed, because God was with them. Here God revealed His name: "I AM THAT I AM" (3:14), the most central self-revelation in Old Testament theology.
+Moses grew up in Pharaoh's palace for forty years, shepherded in Midian for forty years, and was not called by God until age eighty. The vision of the burning bush was the decisive moment, the bush burned with fire yet was not consumed, foreshadowing Israel suffering yet not destroyed, because God was with them. Here God revealed His name: "I AM THAT I AM" (3:14), the most central self-revelation in Old Testament theology.
 
 Moses' objections ("Who am I?" "They will not believe me" "I am slow of speech") and God's replies ("Certainly I will be with thee" "I will stretch out my hand") teach us that the assurance of calling rests not in human ability but in the faithfulness of the One who calls.
 

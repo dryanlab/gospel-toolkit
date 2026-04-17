@@ -79,7 +79,7 @@ const theology = {
 第三，帝国的兴亡在神手中。亚述帝国曾横扫整个近东，似乎不可战胜。但在公元前612年，尼尼微在巴比伦和玛代的联军面前倒塌，那鸿的预言精确应验。任何帝国，无论多么强大，都不能超越神的审判。`,
   content_en: `Nahum prophesies the destruction of Nineveh, the Assyrian capital. In Jonah, Nineveh repented and was spared, but their repentance did not endure, over a century later, Nineveh returned to cruelty.
 
-First, God is a righteous judge. "The LORD is slow to anger, and great in power, and will not at all acquit the wicked" (1:3). Nahum reminds us: God's patience is not permissiveness. He is "slow to anger", but will eventually be angry. The Assyrian empire was notorious for brutality, flaying prisoners alive, piling skulls, and God ultimately held them accountable. "Vengeance is mine; I will repay, saith the Lord" (Rom 12:19) is not an empty promise but a certain fact.
+First, God is a righteous judge. "The LORD is slow to anger, and great in power, and will not at all acquit the wicked" (1:3). Nahum reminds us: God's patience is not permissiveness. He is "slow to anger", but will eventually be angry. The Assyrian empire was notorious for brutality, flaying prisoners alive, piling skulls, and God held them accountable. "Vengeance is mine; I will repay, saith the Lord" (Rom 12:19) is not an empty promise but a certain fact.
 
 Second, gospel for the oppressed. "Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace" (1:15). For Judah, oppressed by Assyria for centuries, Nineveh's destruction was good news, the oppressor was finally judged. Paul in Romans 10:15 cites a similar verse (Isa 52:7) pointing to gospel proclamation. Judging the wicked and delivering the righteous are two sides of the same coin.
 

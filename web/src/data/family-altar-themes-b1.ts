@@ -280,7 +280,7 @@ export const themesB1: AltarTheme[] = [
         },
         reflection: {
           zh: '这段经文被称为神的"自我介绍"，是旧约中对神属性最完整的宣告之一。神既有怜悯恩典，又公义信实。祂不轻易发怒，慈爱丰盛，但也不以有罪为无罪。这位神完美地平衡了爱与公义，最终在十字架上将两者完全彰显。',
-          en: 'This passage is known as God\'s "self-introduction," one of the most complete declarations of His character in the Old Testament. God is both merciful and gracious, yet just and faithful. He is slow to anger, abounding in love, yet will not clear the guilty. This God perfectly balances love and justice, ultimately displaying both fully at the cross.',
+          en: 'This passage is known as God\'s "self-introduction," one of the most complete declarations of His character in the Old Testament. God is both merciful and gracious, yet just and faithful. He is slow to anger, abounding in love, yet will not clear the guilty. This God perfectly balances love and justice, displaying both fully at the cross.',
         },
         question: {
           zh: '神的怜悯和公义如何在你的生命经历中同时彰显？你更需要经历祂的哪一面？',

@@ -50,7 +50,7 @@ Yet the human heart remained unchanged. In the Tower of Babel incident (ch. 11),
 亚伯拉罕的一生是信心的旅程，也充满软弱：他曾两次谎称妻子是妹妹（12章、20章），自作主张娶夏甲（16章），但神始终信实。第十五章是神学的高峰："亚伯兰信耶和华，耶和华就以此为他的义"（15:6），这是因信称义的旧约根基，保罗在罗马书和加拉太书中反复引用。
 
 第二十二章记载亚伯拉罕献以撒，是全书最震撼的叙事。亚伯拉罕对以撒说"神必自己预备作燔祭的羊羔"，这预言在两千年后的各各他成就了。摩利亚山上的以撒背柴上山，预表基督背十字架走向髑髅地。`,
-    content_en: `Chapter 12 is the pivotal turning point of Genesis and indeed all of Scripture. God called Abram (later renamed Abraham) to leave his country, kindred, and father's house for a land God would show him, giving him a threefold promise: a great nation, a great name, and through him all families of the earth would be blessed. This is the Abrahamic covenant, the core unfolding of the covenant of grace in the Old Testament.
+    content_en: `Chapter 12 is the turning point of Genesis and indeed all of Scripture. God called Abram (later renamed Abraham) to leave his country, kindred, and father's house for a land God would show him, giving him a threefold promise: a great nation, a great name, and through him all families of the earth would be blessed. This is the Abrahamic covenant, the core unfolding of the covenant of grace in the Old Testament.
 
 Abraham's life was a journey of faith mixed with weakness: he twice lied about his wife being his sister (ch. 12, 20), took Hagar by his own plan (ch. 16), yet God remained faithful. Chapter 15 is a theological summit, "And he believed in the LORD; and he counted it to him for righteousness" (15:6), the Old Testament foundation of justification by faith, repeatedly cited by Paul in Romans and Galatians.
 

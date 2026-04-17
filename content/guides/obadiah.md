@@ -14,7 +14,7 @@
 
 Obadiah is the shortest Old Testament book (just 1 chapter, 21 verses), yet its message is intensely focused, judgment on Edom. Edom descended from Esau and shared kinship with Israel (Jacob's descendants) but was hostile for generations.
 
-Written likely shortly after Jerusalem's fall (586 BC), when Edom gloated and plundered during Judah's darkest hour. Obadiah teaches: pride will be humbled, standing by while a brother suffers is sin, and the kingdom ultimately belongs to the LORD.
+Written likely shortly after Jerusalem's fall (586 BC), when Edom gloated and plundered during Judah's darkest hour. Obadiah teaches: pride will be humbled, standing by while a brother suffers is sin, and the kingdom belongs to the LORD.
 
 ## 分段导读
 
@@ -65,7 +65,7 @@ The final seven verses expand the horizon from Edom to all nations, "For the day
 
 The final promise is Zion's ultimate victory, "But upon mount Zion shall be deliverance, and there shall be holiness" (v. 17). The house of Jacob shall possess their inheritance, the house of Joseph a flame, the house of Esau stubble, "and the kingdom shall be the LORD's' (v. 21).
 
-Though only one chapter of twenty-one verses, Obadiah encompasses a complete theological structure: pride will be humbled, injustice judged, God's kingdom ultimately triumphant. The shortest Old Testament book delivers the fullest message in the most concise form.
+Though only one chapter of twenty-one verses, Obadiah encompasses a complete theological structure: pride will be humbled, injustice judged, God's kingdom triumphant. The shortest Old Testament book delivers the fullest message in the most concise form.
 
 ## 核心神学
 
@@ -80,7 +80,7 @@ Though only one chapter of twenty-one verses, Obadiah encompasses a complete the
 
 第三，国度是耶和华的。"国度就归耶和华了"（21节）。这是全书的结语，也是全部先知书的终极盼望。无论地上的帝国如何更迭，最终的国度属于耶和华和祂的受膏者。
 
-Obadiah is the shortest book in the Old Testament, only 21 verses, yet it contains profound theological truth: God judges proud nations, and His kingdom will ultimately prevail.
+Obadiah is the shortest book in the Old Testament, only 21 verses, yet it contains profound theological truth: God judges proud nations, and His kingdom will prevail.
 
 First, pride is the root of all evil. "The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock... thou that saith in his heart, Who shall bring me down to the ground? Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down" (vv. 3-4). Edom (Esau's descendants) was proud because of its impregnable geography (the rock fortresses of Mount Seir). But no natural advantage can withstand God's judgment. "Pride goeth before destruction, and an haughty spirit before a fall" (Prov 16:18).
 

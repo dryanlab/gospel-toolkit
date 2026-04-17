@@ -74,7 +74,7 @@ const overview = {
 士师记的神学意义不在于歌颂英雄，而在于揭示人类的无能和对神的需要。每一位士师都有严重的软弱，没有一位能真正拯救以色列，解决以色列的根本问题，悖逆的心。这为将来的王国预备，最终指向基督，唯一能真正拯救祂子民的"士师"。`,
   en: `Judges records roughly 350 years of history between Joshua and Samuel (c. 1380–1050 BC). It is one of the darkest periods in Israel's history, the entire book revolving around a repeated tragic cycle: apostasy → judgment → crying out → deliverance → rest → apostasy again.
 
-The theological significance of Judges is not in celebrating heroes but in exposing human inability and the need for God. Every judge had serious weaknesses; none could truly deliver Israel or solve its root problem, the rebellious heart. This prepares for the coming kingdom and ultimately points to Christ, the one true "Judge" who can genuinely save His people.`,
+The theological significance of Judges is not in celebrating heroes but in exposing human inability and the need for God. Every judge had serious weaknesses; none could truly deliver Israel or solve its root problem, the rebellious heart. This prepares for the coming kingdom and points to Christ, the one true "Judge" who can genuinely save His people.`,
 };
 
 const outline = [

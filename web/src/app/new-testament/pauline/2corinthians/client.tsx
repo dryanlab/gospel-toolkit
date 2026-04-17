@@ -74,7 +74,7 @@ Chapter 7 is a chapter of joy, Titus brings good news that the Corinthians have 
 核心原则是："各人要随本心所酌定的，不要作难，不要勉强，因为捐得乐意的人是神所喜爱的"（9:7）。这与旧约十一奉献的律法不同，保罗不规定比例，也不施加压力。奉献的动力不是律法的要求，而是恩典的涌流。"少种的少收，多种的多收"（9:6），慷慨不会使人贫穷，因为"神能将各样的恩惠多多地加给你们，使你们凡事常常充足，能多行各样善事"（9:8）。`,
     content_en: `Chapters 8-9 contain the Bible's most complete and systematic teaching on giving. Paul is raising funds for impoverished saints in Jerusalem, yet elevates this practical matter to theological heights.
 
-He holds up the Macedonian churches as an example, "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality" (8:2). This was not wealthy people making token donations but poor people giving generously from their own need, "to their power, I bear record, yea, and beyond their power they were willing of themselves" (8:3). Even more remarkably, they did not give reluctantly but "Praying us with much intreaty that we would receive the gift" (8:4). Viewing giving as privilege rather than obligation, this overturns our understanding of generosity.
+He holds up the Macedonian churches as an example, "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality" (8:2). This was not wealthy people making token donations but poor people giving generously from their own need, "to their power, I bear record, yea, and beyond their power they were willing of themselves" (8:3). What is more, they did not give reluctantly but "Praying us with much intreaty that we would receive the gift" (8:4). Viewing giving as privilege rather than obligation, this overturns our understanding of generosity.
 
 The ultimate foundation for giving is Christ's example: "For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich" (8:9). Christ descended from heaven's glory to a manger's humility, from infinite riches to the poverty of the cross, not reluctant sacrifice but love's voluntary outpouring. When we recognize the grace we have received, giving becomes not a burden but a joyful response.
 
@@ -105,10 +105,10 @@ Chapter 12 is the book's climax. Paul mentions someone caught up to "the third h
 ]
 
 const overview = {
-  zh: `哥林多后书（13章）是保罗最私密、最情感化的书信（约公元55-56年）。保罗在其中辩护自己的使徒职分，揭露假教师，并最深刻地阐述了十字架的神学，神的能力在人的软弱上显得完全。
+  zh: `哥林多后书（13章）是保罗最私密、最情感化的书信（约公元55-56年）。保罗在其中辩护自己的使徒职分，揭露假教师，并透彻地阐述了十字架的神学，神的能力在人的软弱上显得完全。
 
 这封信的核心悖论是：真正的属灵权柄不在于强大的外表，而在于甘愿为基督受苦的软弱。"瓦器里的宝贝"（4:7）和"我什么时候软弱，什么时候就刚强了"（12:10）是基督教最独特的力量观。`,
-  en: `2 Corinthians (13 chapters) is Paul's most personal, emotional letter (c. AD 55–56). Paul defends his apostleship, exposes false teachers, and profoundly articulates cross theology, God's power made perfect in weakness.
+  en: `2 Corinthians (13 chapters) is Paul's most personal, emotional letter (c. AD 55–56). Paul defends his apostleship, exposes false teachers, and articulates cross theology, God's power made perfect in weakness.
 
 The letter's core paradox: true spiritual authority lies not in outward strength but in willingness to suffer for Christ. "Treasure in earthen vessels" (4:7) and "when I am weak, then am I strong" (12:10) represent Christianity's most distinctive view of power.`,
 };

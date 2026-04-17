@@ -131,7 +131,7 @@ But Joseph said to them, "And Joseph said unto them, Fear not: for am I in the p
 
 Dear brothers and sisters, I am Joseph, eleventh son of Jacob, firstborn of Rachel.
 
-You know my story, the coat of many colors, the empty pit, the road that led down to Egypt. But today I want to tell you not just an inspiring tale of a slave who became a prime minister, I want to tell you that behind it all was an unseen hand, weaving a tapestry far beyond anything I could have imagined.
+You know my story, the coat of many colors, the empty pit, the road that led down to Egypt. But today I want to tell you not just an inspiring tale of a slave who became a prime minister, I want to tell you that behind it all was an unseen hand, working a plan far beyond anything I could have imagined.
 
 ### I. Sold by His Own Brothers (Genesis 37:28)
 
@@ -213,7 +213,7 @@ When my father Jacob died, my brothers feared I would take revenge. They sent a 
 
 > And he comforted them and spoke kindly to them. (Genesis 50:21)
 
-"You meant evil against me, but God meant it for good.", Brothers and sisters, this is the most profound sentence in all of Scripture about the providence of God. People have their purposes, God has his purposes. Human purposes can be evil, jealousy, betrayal, slander, being forgotten, but God's purposes are always good. He can weave all of human evil into the tapestry of his gracious will, "to bring it about that many people should be kept alive."
+"You meant evil against me, but God meant it for good.", Brothers and sisters, this is the most profound sentence in all of Scripture about the providence of God. People have their purposes, God has his purposes. Human purposes can be evil, jealousy, betrayal, slander, being forgotten, but God's purposes are always good. He can weave all of human evil into his gracious plan, "to bring it about that many people should be kept alive."
 
 The apostle Paul later wrote: "And we know that all things work together for good to them that love God, to them who are the called according to his purpose." (Romans 8:28), Is that not the portrait of my life?
 

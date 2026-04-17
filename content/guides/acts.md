@@ -94,13 +94,13 @@ Yet Acts' most theologically groundbreaking event is Peter's experience at Corne
 
 以弗所的告别讲话（20:17-38）是保罗最感人的牧者宣言："我凡事给你们作榜样，叫你们知道应当这样劳苦，扶助软弱的人，又当记念主耶稣的话，说：施比受更为有福"（20:35）。这最后一句主的话不见于四福音书，保罗保存了一个未被记录的耶稣传统。
 
-The Antioch church was praying when "the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them" (13:2). Mission is not human planning but the Spirit's sending. Three missionary journeys carried the gospel from Syria to Asia Minor, Macedonia, Greece, and ultimately toward Rome.
+The Antioch church was praying when "the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them" (13:2). Mission is not human planning but the Spirit's sending. Three missionary journeys carried the gospel from Syria to Asia Minor, Macedonia, Greece, and toward Rome.
 
 The first journey (ch. 13-14) established a key pattern: Paul first entered the synagogue to preach to Jews; when rejected, he turned to the Gentiles. The sermon at Pisidian Antioch (13:16-41) is a model of Pauline missionary preaching, from Old Testament history to Christ's death and resurrection. When the Jews rejected the gospel, Paul and Barnabas made an epoch-making declaration: "Lo, we turn to the Gentiles" (13:46).
 
 The Jerusalem Council (ch. 15) was the early church's most critical decision: Gentile believers need not be circumcised or keep the Mosaic law to be saved. "We believe that through the grace of the Lord Jesus Christ we shall be saved, even as they" (15:11). This did not abolish the law but confirmed: salvation is by grace alone, through faith alone.
 
-The second journey (15:36-18:22) was the most dramatic. "The Holy Ghost suffered them not" to preach in Asia (16:6), and a man of Macedonia appeared in a vision saying, "Come over into Macedonia, and help us" (16:9), the gospel thus entered Europe. Lydia of Philippi (16:14) was Europe's first convert; the Philippian jailer, after the earthquake, asked the most pivotal question in all Scripture: "What must I do to be saved?" Paul's answer was concise and complete: "Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house" (16:30-31).
+The second journey (15:36-18:22) was the most dramatic. "The Holy Ghost suffered them not" to preach in Asia (16:6), and a man of Macedonia appeared in a vision saying, "Come over into Macedonia, and help us" (16:9), the gospel thus entered Europe. Lydia of Philippi (16:14) was Europe's first convert; the Philippian jailer, after the earthquake, asked the most critical question in all Scripture: "What must I do to be saved?" Paul's answer was concise and complete: "Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house" (16:30-31).
 
 The Areopagus sermon in Athens (17:22-31) is a classic of Christian apologetics. Paul did not simply quote Scripture (Athenians did not know it) but began with the "unknown god" altar, presenting the one true God and Christ's resurrection in terms Greeks could understand. He quoted Greek poets ("For we are also his offspring," 17:28), establishing common ground before pointing to Christ.
 

@@ -34,7 +34,7 @@ Their theology can be summarized in one sentence: suffering is caused by sin; su
 
 Job refused to accept this simplistic causation. He acknowledged he was not perfect, but insisted his suffering was disproportionate to his sin. He longed to argue his case before God directly (13:3): "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him" (13:15) -- even in great pain, he trusted God more than his friends.
 
-The friends' error was not believing in God's justice but reducing it to a human-comprehensible algorithm, assuming suffering and sin must be proportional. God ultimately commended Job's questioning and rebuked the three friends (42:7) -- honest wrestling is more acceptable to God than false orthodoxy.`,
+The friends' error was not believing in God's justice but reducing it to a human-comprehensible algorithm, assuming suffering and sin must be proportional. God commended Job's questioning and rebuked the three friends (42:7) -- honest wrestling is more acceptable to God than false orthodoxy.`,
   },
   {
     title_zh: `三、以利户的挑战：苦难是神的教导（32-37章）`,
@@ -62,7 +62,7 @@ Yet Elihu was also insufficient -- he analyzed God's ways with human reason rath
 
 God's response essentially says: Job, you cannot understand or control even the natural world; how can you demand to understand My governance of all things? This is not evading the question but elevating it to a higher plane.
 
-Job's response is worship: "I have heard of thee by the hearing of the ear: but now mine eye seeth thee" (42:5). Job received no answer to his suffering, but something better -- he encountered God. God ultimately commended Job (42:7) and restored double what he had lost (42:10-12). Yet the book's true blessing is not doubled wealth but those words: "now mine eye seeth thee."`,
+Job's response is worship: "I have heard of thee by the hearing of the ear: but now mine eye seeth thee" (42:5). Job received no answer to his suffering, but something better -- he encountered God. God commended Job (42:7) and restored double what he had lost (42:10-12). Yet the book's true blessing is not doubled wealth but those words: "now mine eye seeth thee."`,
   },
 ];
 

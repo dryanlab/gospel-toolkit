@@ -64,7 +64,7 @@ Yet the human heart remained unchanged. In the Tower of Babel incident (ch. 11),
 
 第二十二章记载亚伯拉罕献以撒，是全书最震撼的叙事。亚伯拉罕对以撒说"神必自己预备作燔祭的羊羔"，这预言在两千年后的各各他成就了。摩利亚山上的以撒背柴上山，预表基督背十字架走向髑髅地。
 
-Chapter 12 is the pivotal turning point of Genesis and indeed all of Scripture. God called Abram (later renamed Abraham) to leave his country, kindred, and father's house for a land God would show him, giving him a threefold promise: a great nation, a great name, and through him all families of the earth would be blessed. This is the Abrahamic covenant, the core unfolding of the covenant of grace in the Old Testament.
+Chapter 12 is the turning point of Genesis and indeed all of Scripture. God called Abram (later renamed Abraham) to leave his country, kindred, and father's house for a land God would show him, giving him a threefold promise: a great nation, a great name, and through him all families of the earth would be blessed. This is the Abrahamic covenant, the core unfolding of the covenant of grace in the Old Testament.
 
 Abraham's life was a journey of faith mixed with weakness: he twice lied about his wife being his sister (ch. 12, 20), took Hagar by his own plan (ch. 16), yet God remained faithful. Chapter 15 is a theological summit, "And he believed in the LORD; and he counted it to him for righteousness" (15:6), the Old Testament foundation of justification by faith, repeatedly cited by Paul in Romans and Galatians.
 

@@ -74,7 +74,7 @@ The hope of the end times is no excuse for laziness. Those who truly expect the 
 
 2 Thessalonians corrects misunderstandings about Christ's return, some believed the Day of the Lord had already come and stopped working to wait.
 
-First, righteous judgment will come. "The Lord Jesus shall be revealed from heaven with his mighty angels, In flaming fire taking vengeance on them that know not God, and that obey not the gospel" (1:7-8). For suffering believers, judgment is comfort, God sees their suffering and will ultimately vindicate justice. Suffering is not eternal, and judgment is no empty threat.
+First, righteous judgment will come. "The Lord Jesus shall be revealed from heaven with his mighty angels, In flaming fire taking vengeance on them that know not God, and that obey not the gospel" (1:7-8). For suffering believers, judgment is comfort, God sees their suffering and will vindicate justice. Suffering is not eternal, and judgment is no empty threat.
 
 Second, do not be misled. Paul clarifies: the Day has not yet come, "for that day shall not come, except there come a falling away first, and that man of sin be revealed" (2:3). Paul warns against losing rationality through eschatological frenzy, prophetic fulfillment follows God's timetable, which humans cannot hasten.
 

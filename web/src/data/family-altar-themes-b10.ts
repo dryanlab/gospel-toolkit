@@ -564,7 +564,7 @@ export const themesB10 = [
         },
         reflection: {
           zh: '摩西求看神的荣耀，神用什么来回应？不是雷电交加的能力展示，而是宣告自己的品格：怜悯、恩典、忍耐、慈爱、诚实。神的荣耀最深刻的彰显，就是他的恩慈品格。',
-          en: 'Moses asked to see God\'s glory. How did God respond? Not with a display of raw power but by proclaiming His character: merciful, gracious, slow to anger, abounding in steadfast love and faithfulness. God\'s glory is most profoundly revealed in His gracious character.',
+          en: 'Moses asked to see God\'s glory. How did God respond? Not with a display of raw power but by proclaiming His character: merciful, gracious, slow to anger, abounding in steadfast love and faithfulness. God\'s glory is most revealed in His gracious character.',
         },
         question: {
           zh: '神的荣耀体现在他的怜悯、恩典和慈爱中。这与你对"神的荣耀"的理解有什么不同？',

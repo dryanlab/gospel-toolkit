@@ -31,7 +31,7 @@ Esther is set in the court of King Ahasuerus (Xerxes I) of the Persian Empire. Q
 
 Esther's Jewish identity was concealed, Mordecai instructed her not to reveal it (2:10). This arrangement seemed insignificant at the time but became the key to saving the entire nation. In God's providence, every seemingly random detail carries meaning.
 
-Mordecai happened to discover a plot by two eunuchs to assassinate the king; he reported it through Esther, and the matter was recorded in the royal chronicles (2:21–23). This "coincidence" would also become a pivotal turning point later, God was preparing deliverance behind the scenes.
+Mordecai happened to discover a plot by two eunuchs to assassinate the king; he reported it through Esther, and the matter was recorded in the royal chronicles (2:21–23). This "coincidence" would also become a turning point later, God was preparing deliverance behind the scenes.
 
 ### 二、哈曼的阴谋与末底改的信心（3-5章）
 *II. Haman's Plot and Mordecai's Faith (Ch. 3–5)*
@@ -48,7 +48,7 @@ Haman the Agagite was promoted above all officials. Mordecai refused to bow to H
 
 Haman was furious and resolved not merely to kill Mordecai but to annihilate all Jews throughout the Persian Empire. He slandered the Jews before the king, saying their "laws are diverse from all people; neither keep they the king's laws' (3:8), persuading the king to issue a decree of genocide and casting "Pur" (the lot) to determine the date (3:7).
 
-When Mordecai learned of this, he tore his clothes and put on sackcloth, urging Esther to plead with the king. Esther hesitated, entering the inner court unsummoned was punishable by death. Mordecai spoke the book's most pivotal words: "Who knoweth whether thou art come to the kingdom for such a time as this?" (4:14). Esther replied: "Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which is not according to the law: and if I perish, I perish" (4:16).
+When Mordecai learned of this, he tore his clothes and put on sackcloth, urging Esther to plead with the king. Esther hesitated, entering the inner court unsummoned was punishable by death. Mordecai spoke the book's most critical words: "Who knoweth whether thou art come to the kingdom for such a time as this?" (4:14). Esther replied: "Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which is not according to the law: and if I perish, I perish" (4:16).
 
 "If I perish, I perish", the supreme expression of faith. Esther was not fearless but understood that mission outweighs life.
 

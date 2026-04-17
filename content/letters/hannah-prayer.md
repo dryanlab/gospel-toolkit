@@ -207,7 +207,7 @@ My song is so similar to Mary's Magnificat, God brings down the mighty from thei
 
 The final verse of my song is especially significant: "The LORD will judge the ends of the earth; he will give strength to his king and exalt the horn of his anointed." In the age when Samuel was born, Israel had no king yet. But the Holy Spirit within me prophesied of things to come, the anointed one, the Messiah. This song reaches beyond my personal story to point toward the ultimate Deliverer.
 
-And my son Samuel, the child asked from God and returned to God, became one of Israel's greatest prophets. He anointed Saul, and then anointed David. From David's line, the Messiah was born. A barren woman's prayer became an indispensable thread in the tapestry of salvation history.
+And my son Samuel, the child asked from God and returned to God, became one of Israel's greatest prophets. He anointed Saul, and then anointed David. From David's line, the Messiah was born. A barren woman's prayer became an indispensable thread in the story of salvation.
 
 Dear brothers and sisters, are you experiencing "year after year" suffering? Is someone provoking you, mocking you? Are you nearly at the end of hope in the waiting? Hear my story: God's timing is not our timing, but his timing is always best. Pour out your bitterness before him, he will not despise your tears. He is the God who "raises up the poor from the dust and lifts the needy from the ash heap." As he dealt with me in the past, so he will deal with you today.
 

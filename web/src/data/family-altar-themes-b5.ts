@@ -100,7 +100,7 @@ export const themesB5: AltarTheme[] = [
         },
         reflection: {
           zh: '约瑟经历了被卖、被冤枉、被遗忘，但他最终看到了神在一切苦难背后的美好旨意。饶恕不是因为对方值得，而是因为我们看见了神更大的计划。',
-          en: 'Joseph endured being sold, falsely accused, and forgotten, yet he ultimately saw God\'s good purpose behind all the suffering. Forgiveness comes not because others deserve it, but because we see God\'s greater plan.',
+          en: 'Joseph endured being sold, falsely accused, and forgotten, yet he saw God\'s good purpose behind all the suffering. Forgiveness comes not because others deserve it, but because we see God\'s greater plan.',
         },
         question: {
           zh: '回顾你的人生，你能看到神如何把"坏事"变成"好事"吗？',

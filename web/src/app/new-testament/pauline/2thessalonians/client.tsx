@@ -71,7 +71,7 @@ const theology = {
 第三，殷勤做工等候主来。"若有人不肯做工，就不可吃饭"（3:10）。有人以"主快来了"为借口游手好闲，保罗严厉纠正：等候主来不是停止一切、坐着等天上掉馅饼，而是更加殷勤地活出信仰。真正的末世观激发行动，而非滋生懒惰。`,
   content_en: `2 Thessalonians corrects misunderstandings about Christ's return, some believed the Day of the Lord had already come and stopped working to wait.
 
-First, righteous judgment will come. "The Lord Jesus shall be revealed from heaven with his mighty angels, In flaming fire taking vengeance on them that know not God, and that obey not the gospel" (1:7-8). For suffering believers, judgment is comfort, God sees their suffering and will ultimately vindicate justice. Suffering is not eternal, and judgment is no empty threat.
+First, righteous judgment will come. "The Lord Jesus shall be revealed from heaven with his mighty angels, In flaming fire taking vengeance on them that know not God, and that obey not the gospel" (1:7-8). For suffering believers, judgment is comfort, God sees their suffering and will vindicate justice. Suffering is not eternal, and judgment is no empty threat.
 
 Second, do not be misled. Paul clarifies: the Day has not yet come, "for that day shall not come, except there come a falling away first, and that man of sin be revealed" (2:3). Paul warns against losing rationality through eschatological frenzy, prophetic fulfillment follows God's timetable, which humans cannot hasten.
 

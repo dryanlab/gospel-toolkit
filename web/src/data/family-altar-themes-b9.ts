@@ -60,7 +60,7 @@ export const themesB9: AltarTheme[] = [
         },
         reflection: {
           zh: '温柔是受控制的力量，是在有能力反击时选择恩慈。耶稣本身就是温柔的典范，祂有天上地下所有的权柄，却为我们甘愿受苦。温柔的人最终将承受一切。',
-          en: 'Meekness is strength under control, choosing grace when you have the power to retaliate. Jesus exemplified meekness: He held all authority yet willingly suffered for us. The meek will ultimately inherit everything.',
+          en: 'Meekness is strength under control, choosing grace when you have the power to retaliate. Jesus exemplified meekness: He held all authority yet willingly suffered for us. The meek will inherit everything.',
         },
         question: {
           zh: '在面对冲突或不公平时，你如何操练温柔而不是以牙还牙？',

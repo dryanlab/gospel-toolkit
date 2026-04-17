@@ -115,13 +115,13 @@ The roads our father Abraham walked, Isaac walked, Jacob walked, and now we have
 
 When Abraham first entered Canaan, Shechem was his first stop, at the oak of Moreh (Gen 12:6). The LORD appeared to him there and said, "Unto thy seed will I give this land." Abraham built an altar there, **the first altar in the promised land**.
 
-Later Jacob returned from Paddan-aram and also bought land at Shechem, built an altar, and named it El-Elohe-Israel, "God, the God of Israel" (Gen 33:18-20). Later still, Dinah's tragedy occurred at Shechem (Gen 34), and Joseph's bones were ultimately buried at Shechem (Josh 24:32).
+Later Jacob returned from Paddan-aram and also bought land at Shechem, built an altar, and named it El-Elohe-Israel, "God, the God of Israel" (Gen 33:18-20). Later still, Dinah's tragedy occurred at Shechem (Gen 34), and Joseph's bones were buried at Shechem (Josh 24:32).
 
 And I, Joshua, at the end of my life, also gathered all Israel at Shechem, declaring: "But as for me and my house, we will serve the LORD." (Josh 24:15). I set up a great stone under the oak at Shechem as a witness.
 
 From Abraham to me, Shechem was the starting point of the covenant and the place of its renewal. From the first altar to the final covenant assembly, God called generation after generation in the same place to respond to His grace.
 
-A thousand years later, the Lord Jesus passed through Samaria to Sychar, near Shechem, and at Jacob's well told a Samaritan woman: "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth." (John 4:23). The altar at Shechem ultimately pointed not to a place, but to a Person.
+A thousand years later, the Lord Jesus passed through Samaria to Sychar, near Shechem, and at Jacob's well told a Samaritan woman: "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth." (John 4:23). The altar at Shechem pointed not to a place, but to a Person.
 
 ### Bethel, Where Heaven Opened
 
@@ -147,7 +147,7 @@ Abraham pitched his tent by the oaks of Mamre and dwelt there many years (Gen 13
 
 The oaks of Mamre were where God sat at table with man. Not in a temple, not beside an altar, but under an ordinary oak, at an ordinary meal, God revealed His plan to His friend.
 
-Hebrews says: "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares." (Heb 13:2). The background of this verse is the story under the oaks of Mamre. And the Lord Jesus says: "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me." (Rev 3:20). The table fellowship under the oaks of Mamre ultimately points to the eternal communion between Christ and His people.
+Hebrews says: "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares." (Heb 13:2). The background of this verse is the story under the oaks of Mamre. And the Lord Jesus says: "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me." (Rev 3:20). The table fellowship under the oaks of Mamre points to the eternal communion between Christ and His people.
 
 ### Beersheba, The Southern Boundary of Promise
 

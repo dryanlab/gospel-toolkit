@@ -205,7 +205,7 @@ This is not a rebuke, it is a blessing. The Lord did not say "You believed too l
 
 Brothers and sisters, that is you. You have not placed your hand into the Lord's side. You have not seen the risen Christ standing before you with your own eyes, yet you believed. This faith is more blessed than mine, because it relies entirely on the inward witness of the Holy Spirit and the power of God's word, not on outward sensory experience.
 
-Later I went to India to preach the gospel, establishing churches in that distant land, until I was martyred for the Lord. The one who once said "I will never believe" ultimately gave his life for the faith. This was not my strength, it was the power of grace. Those nail-scarred hands pulled me up from the abyss of doubt and sent me to the ends of the earth to bear witness for him.
+Later I went to India to preach the gospel, establishing churches in that distant land, until I was martyred for the Lord. The one who once said "I will never believe" gave his life for the faith. This was not my strength, it was the power of grace. Those nail-scarred hands pulled me up from the abyss of doubt and sent me to the ends of the earth to bear witness for him.
 
 The apostle Paul later wrote: "But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us." I was that jar of clay, cracked through and through, but God's glory shone out precisely through the cracks.
 

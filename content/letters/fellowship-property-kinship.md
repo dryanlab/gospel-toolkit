@@ -565,7 +565,7 @@ Solomon didn't answer right away. He looked around at everyone present, then let
 
 "And so it happened. After I died, my son Rehoboam took the throne. The people came asking him to lighten their tax burden, because my temple-building, palace-building, and extravagance had weighed heavily on them. Rehoboam rejected the counsel of the elders and told the people: 'My father made your yoke heavy, but I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions!' Ten tribes immediately revolted, and Israel split into two kingdoms, never to be reunited.
 
-"You see? I, the wisest and wealthiest king, ultimately destroyed my own kingdom and my own family with my own hands. Wealth and power didn't preserve my household; they became the very source of its division.
+"You see? I, the wisest and wealthiest king, destroyed my own kingdom and my own family with my own hands. Wealth and power didn't preserve my household; they became the very source of its division.
 
 "I wrote many proverbs in my lifetime, drawn from countless human tragedies. Several speak directly to today's topic:
 

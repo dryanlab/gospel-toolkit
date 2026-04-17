@@ -14,7 +14,7 @@
 
 Hosea is the first of the Minor Prophets (14 chapters). The prophet ministered in the Northern Kingdom during its final decades (c. 755–715 BC). The book's central metaphor is Hosea's marriage to unfaithful Gomer, God's relationship with Israel is like a husband's with an unfaithful wife.
 
-Hosea's core is "חֶסֶד" (hesed, steadfast love/lovingkindness), God's relentless love for the undeserving. The book oscillates between judgment and mercy, with mercy ultimately triumphant. Hosea teaches: God's love is not because we deserve it but because He is love.
+Hosea's core is "חֶסֶד" (hesed, steadfast love/lovingkindness), God's relentless love for the undeserving. The book oscillates between judgment and mercy, with mercy triumphant. Hosea teaches: God's love is not because we deserve it but because He is love.
 
 ## 分段导读
 
@@ -102,4 +102,4 @@ Second, judgment is the other face of love. "I will be unto Ephraim as a lion, a
 
 Third, "knowing the LORD." "I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings" (6:6). Jesus quoted this twice (Matt 9:13, 12:7). "Knowledge" (Hebrew דַּעַת, da'at) is not intellectual information but intimate relationship, the same word used for marital "knowing." God is not satisfied with outward religious ceremony; He longs for genuine relationship with His people.
 
-Fourth, from judgment to restoration. "Afterward shall the children of Israel return, and seek the LORD their God, and David their king" (3:5). Hosea's hope points to the fulfillment of the Davidic covenant, Christ. The book concludes with promises of restoration: "I will heal their backsliding... I will be as the dew unto Israel" (14:4-5). No matter how unfaithful Israel may be, God's love will ultimately prevail.
+Fourth, from judgment to restoration. "Afterward shall the children of Israel return, and seek the LORD their God, and David their king" (3:5). Hosea's hope points to the fulfillment of the Davidic covenant, Christ. The book concludes with promises of restoration: "I will heal their backsliding... I will be as the dew unto Israel" (14:4-5). No matter how unfaithful Israel may be, God's love will prevail.

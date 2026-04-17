@@ -14,7 +14,7 @@
 
 Judges records roughly 350 years of history between Joshua and Samuel (c. 1380–1050 BC). It is one of the darkest periods in Israel's history, the entire book revolving around a repeated tragic cycle: apostasy → judgment → crying out → deliverance → rest → apostasy again.
 
-The theological significance of Judges is not in celebrating heroes but in exposing human inability and the need for God. Every judge had serious weaknesses; none could truly deliver Israel or solve its root problem, the rebellious heart. This prepares for the coming kingdom and ultimately points to Christ, the one true "Judge" who can genuinely save His people.
+The theological significance of Judges is not in celebrating heroes but in exposing human inability and the need for God. Every judge had serious weaknesses; none could truly deliver Israel or solve its root problem, the rebellious heart. This prepares for the coming kingdom and points to Christ, the one true "Judge" who can genuinely save His people.
 
 ## 分段导读
 

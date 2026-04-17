@@ -6,13 +6,13 @@
 
 ## 概述
 
-哥林多后书（13章）是保罗最私密、最情感化的书信（约公元55-56年）。保罗在其中辩护自己的使徒职分，揭露假教师，并最深刻地阐述了十字架的神学，神的能力在人的软弱上显得完全。
+哥林多后书（13章）是保罗最私密、最情感化的书信（约公元55-56年）。保罗在其中辩护自己的使徒职分，揭露假教师，并透彻地阐述了十字架的神学，神的能力在人的软弱上显得完全。
 
 这封信的核心悖论是：真正的属灵权柄不在于强大的外表，而在于甘愿为基督受苦的软弱。"瓦器里的宝贝"（4:7）和"我什么时候软弱，什么时候就刚强了"（12:10）是基督教最独特的力量观。
 
 ## Overview
 
-2 Corinthians (13 chapters) is Paul's most personal, emotional letter (c. AD 55–56). Paul defends his apostleship, exposes false teachers, and profoundly articulates cross theology, God's power made perfect in weakness.
+2 Corinthians (13 chapters) is Paul's most personal, emotional letter (c. AD 55–56). Paul defends his apostleship, exposes false teachers, and articulates cross theology, God's power made perfect in weakness.
 
 The letter's core paradox: true spiritual authority lies not in outward strength but in willingness to suffer for Christ. "Treasure in earthen vessels" (4:7) and "when I am weak, then am I strong" (12:10) represent Christianity's most distinctive view of power.
 
@@ -92,7 +92,7 @@ Chapter 7 is a chapter of joy, Titus brings good news that the Corinthians have 
 
 Chapters 8-9 contain the Bible's most complete and systematic teaching on giving. Paul is raising funds for impoverished saints in Jerusalem, yet elevates this practical matter to theological heights.
 
-He holds up the Macedonian churches as an example, "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality" (8:2). This was not wealthy people making token donations but poor people giving generously from their own need, "to their power, I bear record, yea, and beyond their power they were willing of themselves" (8:3). Even more remarkably, they did not give reluctantly but "Praying us with much intreaty that we would receive the gift" (8:4). Viewing giving as privilege rather than obligation, this overturns our understanding of generosity.
+He holds up the Macedonian churches as an example, "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality" (8:2). This was not wealthy people making token donations but poor people giving generously from their own need, "to their power, I bear record, yea, and beyond their power they were willing of themselves" (8:3). What is more, they did not give reluctantly but "Praying us with much intreaty that we would receive the gift" (8:4). Viewing giving as privilege rather than obligation, this overturns our understanding of generosity.
 
 The ultimate foundation for giving is Christ's example: "For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich" (8:9). Christ descended from heaven's glory to a manger's humility, from infinite riches to the poverty of the cross, not reluctant sacrifice but love's voluntary outpouring. When we recognize the grace we have received, giving becomes not a burden but a joyful response.
 

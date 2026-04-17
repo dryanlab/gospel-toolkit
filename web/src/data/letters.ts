@@ -122,9 +122,7 @@ export const letters: Letter[] = [
 
 我说："我儿，我在这里。"
 
-"请看，火与柴都有了，但燔祭的羊羔在那里呢？"
-
-弟兄姐妹，我无法告诉你那一刻我心里是什么感受。我的儿子，我等了二十五年的儿子，用他天真无邪的眼睛看着我问：羊羔在哪里？
+"请看，火与柴都有了，但燔祭的羊羔在那里呢？"我无法告诉你那一刻我心里是什么感受。我的儿子，我等了二十五年的儿子，用他天真无邪的眼睛看着我问：羊羔在哪里？
 
 我说："我儿，神必自己预备作燔祭的羊羔。"
 
@@ -156,9 +154,7 @@ export const letters: Letter[] = [
 
 我给那地方起名叫"耶和华以勒"，耶和华必预备。
 
-直到今日，人还说："在耶和华的山上必有预备。"
-
-弟兄姐妹，那一天我明白了两件事。
+直到今日，人还说："在耶和华的山上必有预备。"那一天我明白了两件事。
 
 第一件：**神不要以撒，神要的是我的心。**
 
@@ -259,7 +255,7 @@ I said: "Here I am, my son."
 
 "Behold, the fire and the wood, but where is the lamb for a burnt offering?"
 
-Brothers and sisters, I cannot tell you what I felt in that moment. My son ,  the son I waited twenty-five years for ,  looking up at me with those innocent eyes and asking: where is the lamb?
+ I cannot tell you what I felt in that moment. My son ,  the son I waited twenty-five years for ,  looking up at me with those innocent eyes and asking: where is the lamb?
 
 I said: "God will provide for himself the lamb for a burnt offering, my son."
 
@@ -283,7 +279,7 @@ I lifted my eyes and looked, and behold, behind me was a ram caught in a thicket
 
 I called the name of that place, "The LORD will provide." As it is said to this day, "On the mount of the LORD it shall be provided."
 
-Brothers and sisters, on that day I understood two things.
+ On that day I understood two things.
 
 The first: **God did not want Isaac. God wanted my heart.**
 
@@ -544,15 +540,13 @@ Your brother, Barnabas, the Son of Encouragement`,
 
 你们中间许多人知道我的名字，知道我写的诗篇，知道我是那个用机弦甩石打死歌利亚的少年，知道我被称为"合神心意的人"。但今天我要告诉你们的，不是那些光彩的故事。今天我要告诉你们的，是我一生中最黑暗的日子，也是最真实的日子，就是我写诗篇51的那一天。
 
-我必须把这件事完完全全地告诉你们，因为我知道你们中间有些人正活在我当时的光景中：你犯了罪，你以为可以藏住，你在神面前假装一切都没有发生。弟兄姐妹，我大卫要告诉你，**藏不住的。**
+我必须把这件事完完全全地告诉你们，因为我知道你们中间有些人正活在我当时的光景中：你犯了罪，你以为可以藏住，你在神面前假装一切都没有发生。我大卫要告诉你，**藏不住的。**
 
 ## 那个春天的黄昏
 
 事情发生在春天。列王出战的时候，我本应该在前线带领以色列的军队，但那一年，我留在了耶路撒冷。我把约押派了出去，自己却留在王宫里。这是第一个错误。但当时我不觉得这是错误，我是王，我当然可以选择留下。
 
-一天傍晚，我从床上起来，在王宫的平顶上散步。就在那时，我看见了一个妇人在沐浴。她非常美丽。
-
-弟兄姐妹，我不会详细描述接下来发生的事。你们可以去读撒母耳记下第11章。我只要说：我差人打听那妇人是谁。有人告诉我说："他是以连的女儿，赫人乌利亚的妻拔示巴。"（撒母耳记下11:3）
+一天傍晚，我从床上起来，在王宫的平顶上散步。就在那时，我看见了一个妇人在沐浴。她非常美丽。我不会详细描述接下来发生的事。你们可以去读撒母耳记下第11章。我只要说：我差人打听那妇人是谁。有人告诉我说："他是以连的女儿，赫人乌利亚的妻拔示巴。"（撒母耳记下11:3）
 
 **她是有丈夫的妇人。而且她的丈夫是我最忠心的勇士之一。**
 
@@ -596,13 +590,13 @@ Your brother, Barnabas, the Son of Encouragement`,
 
 后来我在诗篇32篇里写道：
 
-> "我闭口不认罪的时候，因终日唉哼而骨头枯干。黑夜白日，你的手在我身上沉重；我的精液耗尽，如同夏天的干旱。"（诗篇32:3-4）
+> "我闭口不认罪的时候，因终日唉哼而骨头枯干。黑夜白日，你的手在我身上沉重；我的精力耗尽，如同夏天的干旱。"（诗篇32:3-4）
 
 **神的手在我身上沉重。** 不是因为神在惩罚我，虽然惩罚也来了，而是因为圣灵在我里面，不让我安宁。祂不容许我在罪中舒舒服服地活着。
 
 我白天坐在宝座上审判百姓的案件，心里却知道自己是最该受审判的那个人。我夜里躺在床上，黑暗中乌利亚的面容在我眼前浮现。我听到他说："我决不行这事！"，他连回家睡一夜都不肯，而我夺了他的妻子、取了他的性命。
 
-有些人以为，只要没被抓住，罪就不算什么。弟兄姐妹，我以亲身经历告诉你们：**被神的灵追赶，比被全世界的人追赶更可怕。** 因为你无处可逃。你可以骗过所有人，但你骗不过那位鉴察人心肺腑的神。
+有些人以为，只要没被抓住，罪就不算什么。我以亲身经历告诉你们：**被神的灵追赶，比被全世界的人追赶更可怕。** 因为你无处可逃。你可以骗过所有人，但你骗不过那位鉴察人心肺腑的神。
 
 那将近一年，是我一生中最漫长的日子。每一天都像一年。
 
@@ -632,9 +626,7 @@ Your brother, Barnabas, the Son of Encouragement`,
 
 不是"我犯了一个错误"。不是"情况很复杂"。不是"这事也不能全怪我"。只是七个字：**我得罪耶和华了。**
 
-拿单对我说："耶和华已经除掉你的罪，你必不至于死。"
-
-弟兄姐妹，请注意，这不是因为我的悔改有多好、多深、多真诚。这完全是因为耶和华的恩典。是祂选择赦免。是祂除掉了我的罪。悔改是祂赐给我的礼物，赦免更是。
+拿单对我说："耶和华已经除掉你的罪，你必不至于死。"请注意，这不是因为我的悔改有多好、多深、多真诚。这完全是因为耶和华的恩典。是祂选择赦免。是祂除掉了我的罪。悔改是祂赐给我的礼物，赦免更是。
 
 **但罪的后果并没有被免除。** 拿单告诉我，我与拔示巴所生的孩子必定要死。刀剑必永不离开我的家。这些都一一应验了。神赦免了我的罪，但祂没有免除罪的管教。这也是出于祂的爱，"因为主所爱的，他必管教。"（希伯来书12:6）
 
@@ -694,9 +686,7 @@ Your brother, Barnabas, the Son of Encouragement`,
 
 这是我在写这首诗时领悟到的最重要的真理，也是我最想告诉你们的话。
 
-我是王。我可以献上成千上万的牛羊。我可以在圣殿里烧最昂贵的香。但神不需要这些。**神要的是碎裂的心。** 不是完美的宗教表演，不是华丽的敬拜仪式，不是一长串属灵的履历表。只是一颗在祂面前完全破碎、完全诚实、完全放弃自我辩护的心。
-
-弟兄姐妹，这是给所有跌倒之人的盼望。你不需要先把自己修好再来到神面前。你不需要先攒够功德再来祈求赦免。**你只需要带着你那颗碎裂的、忧伤的、痛悔的心来：祂必不轻看。**
+我是王。我可以献上成千上万的牛羊。我可以在圣殿里烧最昂贵的香。但神不需要这些。**神要的是碎裂的心。** 不是完美的宗教表演，不是华丽的敬拜仪式，不是一长串属灵的履历表。只是一颗在祂面前完全破碎、完全诚实、完全放弃自我辩护的心。这是给所有跌倒之人的盼望。你不需要先把自己修好再来到神面前。你不需要先攒够功德再来祈求赦免。**你只需要带着你那颗碎裂的、忧伤的、痛悔的心来：祂必不轻看。**
 
 ## 这不是故事的结局
 
@@ -726,9 +716,7 @@ Your brother, Barnabas, the Son of Encouragement`,
 
 也不要以为悔改只是一时的情绪。真正的悔改是圣灵的工作。它不只是让你为后果感到害怕，而是让你为得罪了圣洁的神而忧伤。它不只是让你说"对不起"，而是让你的生命有真实的转变。
 
-诗篇51不是我写过的最华丽的诗。它没有诗篇23的宁静之美，没有诗篇19的壮丽颂赞，没有诗篇8的宇宙视野。但它是我写过的**最真实的诗**。因为它是从最深的破碎中流出来的。
-
-弟兄姐妹，请记住这句话：
+诗篇51不是我写过的最华丽的诗。它没有诗篇23的宁静之美，没有诗篇19的壮丽颂赞，没有诗篇8的宇宙视野。但它是我写过的**最真实的诗**。因为它是从最深的破碎中流出来的。请记住这句话：
 
 > "神所要的祭就是忧伤的灵；神啊，忧伤痛悔的心，你必不轻看。"（诗篇51:17）
 
@@ -745,7 +733,7 @@ I am David, son of Jesse, king of Israel.
 
 Many of you know my name. You know the psalms I wrote, the giant I slew with a sling and a stone, and that I was called "a man after God's own heart." But what I must tell you today is not one of those glorious stories. Today I must tell you about the darkest day of my life ,  and the most honest ,  the day I wrote Psalm 51.
 
-I must tell you this story in full, because I know some of you are living in the same condition I was in: you have sinned, you think you can hide it, and you are pretending before God that nothing has happened. Brothers and sisters, I, David, tell you ,  **it cannot be hidden.**
+I must tell you this story in full, because I know some of you are living in the same condition I was in: you have sinned, you think you can hide it, and you are pretending before God that nothing has happened.  I, David, tell you ,  **it cannot be hidden.**
 
 ## That Spring Evening
 
@@ -753,7 +741,7 @@ It happened in the spring. At the time when kings go out to battle, I should hav
 
 One evening I rose from my bed and walked on the roof of the palace. It was then that I saw a woman bathing. She was very beautiful.
 
-Brothers and sisters, I will not describe in detail what happened next. You may read 2 Samuel chapter 11 for yourselves. I will say only this: I sent and inquired about the woman. And someone told me, "And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?" (2 Samuel 11:3)
+ I will not describe in detail what happened next. You may read 2 Samuel chapter 11 for yourselves. I will say only this: I sent and inquired about the woman. And someone told me, "And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?" (2 Samuel 11:3)
 
 **She was a married woman. And her husband was one of my most loyal warriors.**
 
@@ -803,7 +791,7 @@ I later wrote in Psalm 32:
 
 By day I sat on my throne judging the cases of the people, knowing in my heart that I was the one who most deserved judgment. By night I lay on my bed, and in the darkness Uriah's face appeared before me. I heard him say, "I will not do this thing!" ,  he would not even go home to sleep for one night, and I had taken his wife and his life.
 
-Some people think that if you are not caught, sin does not matter. Brothers and sisters, I tell you from personal experience: **being pursued by the Spirit of God is more terrifying than being pursued by the entire world.** For there is nowhere to flee. You can deceive everyone, but you cannot deceive the One who searches hearts and minds.
+Some people think that if you are not caught, sin does not matter.  I tell you from personal experience: **being pursued by the Spirit of God is more terrifying than being pursued by the entire world.** For there is nowhere to flee. You can deceive everyone, but you cannot deceive the One who searches hearts and minds.
 
 That year was the longest of my life. Every day felt like a year.
 
@@ -835,7 +823,7 @@ Not "I made a mistake." Not "It's complicated." Not "It wasn't entirely my fault
 
 Nathan said to me, "The LORD also has put away your sin; you shall not die."
 
-Brothers and sisters, please note ,  this was not because my repentance was so good, so deep, or so sincere. It was entirely because of the grace of the LORD. It was He who chose to forgive. It was He who put away my sin. Repentance was a gift He gave me, and forgiveness even more so.
+ Please note ,  this was not because my repentance was so good, so deep, or so sincere. It was entirely because of the grace of the LORD. It was He who chose to forgive. It was He who put away my sin. Repentance was a gift He gave me, and forgiveness even more so.
 
 **But the consequences of sin were not removed.** Nathan told me that the child born to me and Bathsheba would surely die. The sword would never depart from my house. These things all came to pass. God forgave my sin, but He did not remove its discipline. This too was from His love ,  "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth." (Hebrews 12:6).
 
@@ -867,7 +855,7 @@ Then I wrote perhaps the most puzzling yet most profound line of the entire psal
 
 "Against you only" ,  some will ask: David, did you not also sin against Bathsheba? Against Uriah? Against all Israel?
 
-Yes. I sinned against every one of them. But what I am saying here is a deeper truth: **all sin, in its essence, is sin against God.** It is His law that was broken. It is His image that was defiled. It is His holiness that was profaned. When I harmed Bathsheba and Uriah, I harmed people made in God's image. All my sin ultimately points to the Holy God.
+Yes. I sinned against every one of them. But what I am saying here is a deeper truth: **all sin, in its essence, is sin against God.** It is His law that was broken. It is His image that was defiled. It is His holiness that was profaned. When I harmed Bathsheba and Uriah, I harmed people made in God's image. All my sin points to the Holy God.
 
 Moreover, when I said "so that you may be justified in your words" ,  I was not defending myself. I was saying: **God, however you judge me, you are right.** I fully accept your verdict. If you were to destroy me, you would be just.
 
@@ -897,7 +885,7 @@ This is the most important truth I grasped while writing this psalm, and the one
 
 I am a king. I could offer thousands upon thousands of rams. I could burn the most expensive incense in the tabernacle. But God does not need these things. **What God desires is a broken heart.** Not a flawless religious performance, not a spectacular worship service, not a long résumé of spiritual accomplishments. Simply a heart that is completely broken before Him, completely honest, and has completely given up self-justification.
 
-Brothers and sisters, this is the hope for all who have fallen. You do not need to fix yourself before coming to God. You do not need to accumulate enough merit before asking for forgiveness. **You need only bring your broken, sorrowful, contrite heart :  He will not despise it.**
+ This is the hope for all who have fallen. You do not need to fix yourself before coming to God. You do not need to accumulate enough merit before asking for forgiveness. **You need only bring your broken, sorrowful, contrite heart :  He will not despise it.**
 
 ## This Is Not the End of the Story
 
@@ -929,7 +917,7 @@ And do not think that repentance is merely a momentary emotion. True repentance 
 
 Psalm 51 is not the most beautiful psalm I ever wrote. It does not have the serene beauty of Psalm 23, or the majestic praise of Psalm 19, or the cosmic vision of Psalm 8. But it is the **most honest psalm** I ever wrote ,  because it flowed from the deepest brokenness.
 
-Brothers and sisters, remember this verse:
+ Remember this verse:
 
 > "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise." (Psalm 51:17)
 
@@ -1031,9 +1019,7 @@ May the God who had mercy on me likewise have mercy on you. May He create in you
 
 > 以利亚听见，就用外衣蒙上脸，出来站在洞口。（列王纪上 19:13）
 
-我听见了。在一切的喧嚣平息之后，在所有戏剧性的显现结束之后，神在最安静的时刻临到我。我用外衣蒙住脸，因为我知道，这就是神。
-
-弟兄姐妹，这是何等重要的教导。我们常常期待神以轰轰烈烈的方式作工，期待神迹、异象、超自然的经历。但神往往在安静中说话，在你读经的时候，在你独自祷告的时候，在你安静等候的时候。
+我听见了。在一切的喧嚣平息之后，在所有戏剧性的显现结束之后，神在最安静的时刻临到我。我用外衣蒙住脸，因为我知道，这就是神。这是何等重要的教导。我们常常期待神以轰轰烈烈的方式作工，期待神迹、异象、超自然的经历。但神往往在安静中说话，在你读经的时候，在你独自祷告的时候，在你安静等候的时候。
 我在迦密山上呼求的是天火，但在何烈山上等候的是微声。这两者之间的转变，是我一生最大的属灵功课。少年人追求轰轰烈烈，成熟的信徒学会在安静中聆听。不是说神不再行大事，他当然行，而是说神最深的工作，往往在最安静的时刻。
 
 诗篇说：
@@ -1139,7 +1125,7 @@ Then, **the sound of a low whisper.**
 
 I heard it. After all the noise had subsided, after all the dramatic manifestations had ended, God came to me in the quietest moment. I covered my face with my cloak, because I knew: this was God.
 
-Brothers and sisters, what a crucial teaching this is. We often expect God to work in spectacular ways, expecting miracles, visions, supernatural experiences. But God often speaks in the quiet, when you're reading Scripture, when you're praying alone, when you're waiting in stillness.
+ What a crucial teaching this is. We often expect God to work in spectacular ways, expecting miracles, visions, supernatural experiences. But God often speaks in the quiet, when you're reading Scripture, when you're praying alone, when you're waiting in stillness.
 
 On Mount Carmel I called for heavenly fire, but on Horeb I waited for a whisper. The transition between these two was the greatest spiritual lesson of my life. The young pursue the spectacular; the mature learn to listen in the silence. Not that God no longer does great things, of course he does, but God's deepest work often happens in the quietest moments.
 
@@ -1725,7 +1711,7 @@ Solomon didn't answer right away. He looked around at everyone present, then let
 
 "And so it happened. After I died, my son Rehoboam took the throne. The people came asking him to lighten their tax burden ,  because my temple-building, palace-building, and extravagance had weighed heavily on them. Rehoboam rejected the counsel of the elders and told the people: 'My father made your yoke heavy, but I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions!' Ten tribes immediately revolted, and Israel split into two kingdoms ,  never to be reunited.
 
-"You see? I, the wisest and wealthiest king, ultimately destroyed my own kingdom and my own family with my own hands. Wealth and power didn't preserve my household; they became the very source of its division.
+"You see? I, the wisest and wealthiest king, destroyed my own kingdom and my own family with my own hands. Wealth and power didn't preserve my household; they became the very source of its division.
 
 "I wrote many proverbs in my lifetime, drawn from countless human tragedies. Several speak directly to today's topic:
 
@@ -1755,7 +1741,7 @@ Paul nodded: "Well said, Ruth. And that's exactly what I want to talk about next
 
 "Can you guess how Jesus responded?
 
-"Jesus didn't help him divide the estate. Jesus said: 'Man, who made me a judge or arbitrator over you?' Then He turned to the crowd and said something profoundly important: **'Take care, and be on your guard against all covetousness, for one's life does not consist in the abundance of his possessions.'**
+"Jesus didn't help him divide the estate. Jesus said: 'Man, who made me a judge or arbitrator over you?' Then He turned to the crowd and said something important: **'Take care, and be on your guard against all covetousness, for one's life does not consist in the abundance of his possessions.'**
 
 "Then Jesus told a story: A rich man's land produced plentifully, so much that his barns couldn't hold it all. He thought to himself: I will tear down my barns and build bigger ones, and store all my grain and goods there. Then he said to himself: 'Soul, you have ample goods laid up for many years; relax, eat, drink, be merry.'
 
@@ -2025,7 +2011,7 @@ My song is so similar to Mary's Magnificat, God brings down the mighty from thei
 
 The final verse of my song is especially significant: "The LORD will judge the ends of the earth; he will give strength to his king and exalt the horn of his anointed." In the age when Samuel was born, Israel had no king yet. But the Holy Spirit within me prophesied of things to come, the anointed one, the Messiah. This song reaches beyond my personal story to point toward the ultimate Deliverer.
 
-And my son Samuel, the child asked from God and returned to God, became one of Israel's greatest prophets. He anointed Saul, and then anointed David. From David's line, the Messiah was born. A barren woman's prayer became an indispensable thread in the tapestry of salvation history.
+And my son Samuel, the child asked from God and returned to God, became one of Israel's greatest prophets. He anointed Saul, and then anointed David. From David's line, the Messiah was born. A barren woman's prayer became an indispensable thread in the story of salvation.
 
 Dear brothers and sisters, are you experiencing "year after year" suffering? Is someone provoking you, mocking you? Are you nearly at the end of hope in the waiting? Hear my story: God's timing is not our timing, but his timing is always best. Pour out your bitterness before him, he will not despise your tears. He is the God who "raises up the poor from the dust and lifts the needy from the ash heap." As he dealt with me in the past, so he will deal with you today.
 
@@ -2179,7 +2165,7 @@ Let me tell you a story I witnessed. The night Peter denied the Lord three times
 
 ### Live in Assurance, Walk in Love
 
-Little children, I write these things not to make you anxiously self-examine, but to set your hearts at rest. Assurance ultimately comes not from your performance but from God's promises and the Spirit's internal witness ,  "The Spirit itself beareth witness with our spirit, that we are the children of God." (Rom 8:16).
+Little children, I write these things not to make you anxiously self-examine, but to set your hearts at rest. Assurance comes not from your performance but from God's promises and the Spirit's internal witness ,  "The Spirit itself beareth witness with our spirit, that we are the children of God." (Rom 8:16).
 
 Self-examination is for gratitude, not fear. When you see the Spirit's fruit in your life, a repentant heart, love for your brothers, you should not say "I'm still not good enough" but rather "Thank You, Lord, Your grace is at work in me."
 
@@ -2444,9 +2430,7 @@ AD 95`,
 
 > 有些米甸的商人从那里经过，哥哥们就把约瑟从坑里拉上来，讲定二十舍客勒银子，把约瑟卖给以实玛利人。他们就把约瑟带到埃及去了。（创世记 37:28）
 
-二十舍客勒银子。这就是我在哥哥们眼中的价值，一个奴隶的价格。他们把我那件彩衣染上山羊血，拿回去给父亲看，让他以为我被野兽撕碎了。
-
-弟兄姐妹，被陌生人伤害是痛苦的，但被自己的亲兄弟出卖，那种痛苦是骨头里的。在去埃及的路上，我回望迦南的方向，心想：我还能回家吗？父亲此刻在做什么？他是不是在为我哭泣？我做错了什么，要遭受这样的对待？
+二十舍客勒银子。这就是我在哥哥们眼中的价值，一个奴隶的价格。他们把我那件彩衣染上山羊血，拿回去给父亲看，让他以为我被野兽撕碎了。被陌生人伤害是痛苦的，但被自己的亲兄弟出卖，那种痛苦是骨头里的。在去埃及的路上，我回望迦南的方向，心想：我还能回家吗？父亲此刻在做什么？他是不是在为我哭泣？我做错了什么，要遭受这样的对待？
 
 ### 二、耶和华与约瑟同在（创39:1-21）
 
@@ -2471,7 +2455,7 @@ AD 95`,
 
 > 但耶和华与约瑟同在，向他施恩，使他在司狱的眼前蒙恩。（创世记 39:21）
 
-即使在监狱里，"耶和华与约瑟同在"。弟兄姐妹，这就是我一生学到的最重要的功课：神的同在不取决于你所在的环境。你可以在王宫里远离神，也可以在监狱里与神同在。环境不能定义你与神的关系，你的信心才能。
+即使在监狱里，"耶和华与约瑟同在"。这就是我一生学到的最重要的功课：神的同在不取决于你所在的环境。你可以在王宫里远离神，也可以在监狱里与神同在。环境不能定义你与神的关系，你的信心才能。
 
 ### 三、酒政却忘了他（创40:23）
 
@@ -2533,7 +2517,7 @@ AD 95`,
 你的弟兄，约瑟`,
     content_en: `Dear brothers and sisters, I am Joseph, eleventh son of Jacob, firstborn of Rachel.
 
-You know my story, the coat of many colors, the empty pit, the road that led down to Egypt. But today I want to tell you not just an inspiring tale of a slave who became a prime minister, I want to tell you that behind it all was an unseen hand, weaving a tapestry far beyond anything I could have imagined.
+You know my story, the coat of many colors, the empty pit, the road that led down to Egypt. But today I want to tell you not just an inspiring tale of a slave who became a prime minister, I want to tell you that behind it all was an unseen hand, working a plan far beyond anything I could have imagined.
 
 ### I. Sold by His Own Brothers (Genesis 37:28)
 
@@ -2547,7 +2531,7 @@ That day, my father sent me to check on my brothers pasturing sheep near Shechem
 
 Twenty shekels of silver. That was my value in my brothers' eyes, the price of a slave. They dipped my coat in goat's blood and brought it back to show my father, letting him believe I had been torn apart by wild animals.
 
-Brothers and sisters, being wounded by strangers is painful, but being betrayed by your own blood brothers, that pain goes to the bone. On the road to Egypt, I looked back toward Canaan, wondering: will I ever go home? What is my father doing at this moment? Is he weeping for me? What have I done to deserve this treatment?
+ Being wounded by strangers is painful, but being betrayed by your own blood brothers, that pain goes to the bone. On the road to Egypt, I looked back toward Canaan, wondering: will I ever go home? What is my father doing at this moment? Is he weeping for me? What have I done to deserve this treatment?
 
 ### II. The LORD Was with Joseph (Genesis 39:1-21)
 
@@ -2567,7 +2551,7 @@ From slave to manager, then from manager to prisoner. Life seemed to keep descen
 
 > But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison. (Genesis 39:21)
 
-Even in prison, "the LORD was with Joseph." Brothers and sisters, this is the most important lesson of my whole life: God's presence does not depend on your circumstances. You can be far from God in a palace, and you can be with God in a prison. Circumstances cannot define your relationship with God, your faith can.
+Even in prison, "the LORD was with Joseph."  This is the most important lesson of my whole life: God's presence does not depend on your circumstances. You can be far from God in a palace, and you can be with God in a prison. Circumstances cannot define your relationship with God, your faith can.
 
 During those years in Potiphar's house, I had resolved: no matter what the circumstances, I would do my work faithfully and well. This was not some high philosophy, it was a practical choice: you can give up in suffering, or you can do your best in suffering. I chose the latter, because I believed: even if no person can see my faithfulness, God can see it. The day Potiphar observed that "the LORD was with Joseph," an unbeliever witnessed the work of the LORD in his servant, that itself was a testimony. Your faith doesn't need to be proclaimed with words; your life will speak for you.
 
@@ -2615,7 +2599,7 @@ When my father Jacob died, my brothers feared I would take revenge. They sent a 
 
 > And he comforted them and spoke kindly to them. (Genesis 50:21)
 
-"You meant evil against me, but God meant it for good.", Brothers and sisters, this is the most profound sentence in all of Scripture about the providence of God. People have their purposes, God has his purposes. Human purposes can be evil, jealousy, betrayal, slander, being forgotten, but God's purposes are always good. He can weave all of human evil into the tapestry of his gracious will, "to bring it about that many people should be kept alive."
+"You meant evil against me, but God meant it for good.", Brothers and sisters, this is the most profound sentence in all of Scripture about the providence of God. People have their purposes, God has his purposes. Human purposes can be evil, jealousy, betrayal, slander, being forgotten, but God's purposes are always good. He can weave all of human evil into his gracious plan, "to bring it about that many people should be kept alive."
 
 The apostle Paul later wrote: "And we know that all things work together for good to them that love God, to them who are the called according to his purpose." (Romans 8:28), Is that not the portrait of my life?
 
@@ -2672,7 +2656,7 @@ Your brother, Joseph`,
 
 二十年后，雅各从示剑的悲剧中回到伯特利，除去偶像，重新筑坛（创35:1-7）。神再次向他显现，重申应许，赐他新名以色列。伯特利成了雅各一生中最重要的属灵坐标，第一次遇见神，和重新归回神，都在这里。
 
-主耶稣对拿但业说："你们将要看见天开了，神的使者上去下来在人子身上"（约1:51）。弟兄姐妹，主耶稣自己就是那天梯！伯特利所预示的"天的门"，在基督里完全打开了。
+主耶稣对拿但业说："你们将要看见天开了，神的使者上去下来在人子身上"（约1:51）。主耶稣自己就是那天梯！伯特利所预示的"天的门"，在基督里完全打开了。
 
 ### 摩利亚山，献祭与救赎的圣山
 
@@ -2694,9 +2678,7 @@ Your brother, Joseph`,
 
 亚伯拉罕在别是巴与亚比米勒立约，栽了一棵垂丝柳树，求告耶和华永生神的名（创21:31-33）。以撒在别是巴筑坛，耶和华向他显现说："不要惧怕，因为我与你同在"（创26:24-25）。雅各下埃及前在别是巴献祭，神在异象中说："你下埃及去不要害怕，因为我必使你在那里成为大族"（创46:1-3）。
 
-三代族长，同一个地方，同一句话，**"不要害怕。"** 别是巴是应许之地的最南端，是离开应许之地前最后的驿站。每一次族长们要进入未知、面对恐惧时，神都在别是巴向他们说话。
-
-弟兄姐妹，你的"别是巴"在哪里？当你即将踏入未知的旷野，神说的话没有改变，"不要害怕，因为我与你同在。"
+三代族长，同一个地方，同一句话，**"不要害怕。"** 别是巴是应许之地的最南端，是离开应许之地前最后的驿站。每一次族长们要进入未知、面对恐惧时，神都在别是巴向他们说话。你的"别是巴"在哪里？当你即将踏入未知的旷野，神说的话没有改变，"不要害怕，因为我与你同在。"
 
 ### 伯利恒，死亡之路上的生命
 
@@ -2714,9 +2696,7 @@ Your brother, Joseph`,
 
 麦比拉洞不只是一个坟墓，它是一个**信心的宣告**：我们虽然是寄居者，但这地是神应许给我们的。亚伯拉罕花了四百舍客勒银子买一个坟地，不是因为死了需要安葬，而是因为信了需要扎根。他要把骨头留在应许之地，因为他信神必成就他的话。
 
-希伯来书说，这些人"都是存着信心死的，并没有得着所应许的；却从远处望见，且欢喜迎接，又承认自己在世上是客旅，是寄居的"（来11:13）。希伯仑的麦比拉洞，就是这信心最具体的见证，他们在应许之地买了墓地，因为他们信，有一天他们要在这片土地上复活。
-
-弟兄姐妹，当我在示剑立起那块大石头的时候，我知道我的日子快到了。但我不害怕，因为我走过的这些地方，示剑、伯特利、摩利亚、幔利、别是巴、伯利恒、希伯仑，每一处都在告诉我同一件事：**神是信实的。**
+希伯来书说，这些人"都是存着信心死的，并没有得着所应许的；却从远处望见，且欢喜迎接，又承认自己在世上是客旅，是寄居的"（来11:13）。希伯仑的麦比拉洞，就是这信心最具体的见证，他们在应许之地买了墓地，因为他们信，有一天他们要在这片土地上复活。当我在示剑立起那块大石头的时候，我知道我的日子快到了。但我不害怕，因为我走过的这些地方，示剑、伯特利、摩利亚、幔利、别是巴、伯利恒、希伯仑，每一处都在告诉我同一件事：**神是信实的。**
 
 他在示剑应许了，就在示剑更新。他在伯特利显现了，就在伯特利再来。他在摩利亚预备了公羊，就在各各他预备了羔羊。他在别是巴说"不要怕"，就在每一个旷野中与我们同行。他在伯利恒留下了眼泪，也在伯利恒降生了盼望。他在希伯仑埋葬了族长，也必在末日使他们复活。
 
@@ -2733,13 +2713,13 @@ The roads our father Abraham walked, Isaac walked, Jacob walked, and now we have
 
 When Abraham first entered Canaan, Shechem was his first stop, at the oak of Moreh (Gen 12:6). The LORD appeared to him there and said, "Unto thy seed will I give this land." Abraham built an altar there ,  **the first altar in the promised land**.
 
-Later Jacob returned from Paddan-aram and also bought land at Shechem, built an altar, and named it El-Elohe-Israel ,  "God, the God of Israel" (Gen 33:18-20). Later still, Dinah's tragedy occurred at Shechem (Gen 34), and Joseph's bones were ultimately buried at Shechem (Josh 24:32).
+Later Jacob returned from Paddan-aram and also bought land at Shechem, built an altar, and named it El-Elohe-Israel ,  "God, the God of Israel" (Gen 33:18-20). Later still, Dinah's tragedy occurred at Shechem (Gen 34), and Joseph's bones were buried at Shechem (Josh 24:32).
 
 And I ,  Joshua ,  at the end of my life, also gathered all Israel at Shechem, declaring: "But as for me and my house, we will serve the LORD." (Josh 24:15). I set up a great stone under the oak at Shechem as a witness.
 
 From Abraham to me, Shechem was the starting point of the covenant and the place of its renewal. From the first altar to the final covenant assembly, God called generation after generation in the same place to respond to His grace.
 
-A thousand years later, the Lord Jesus passed through Samaria to Sychar ,  near Shechem ,  and at Jacob's well told a Samaritan woman: "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth." (John 4:23). The altar at Shechem ultimately pointed not to a place, but to a Person.
+A thousand years later, the Lord Jesus passed through Samaria to Sychar ,  near Shechem ,  and at Jacob's well told a Samaritan woman: "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth." (John 4:23). The altar at Shechem pointed not to a place, but to a Person.
 
 ### Bethel ,  Where Heaven Opened
 
@@ -2749,7 +2729,7 @@ Jacob awoke and said: "Surely the LORD is in this place; and I knew it not. How 
 
 Twenty years later, Jacob returned to Bethel after the tragedy at Shechem, removed the foreign gods, and rebuilt the altar (Gen 35:1-7). God appeared again, reaffirmed the promise, and gave him the new name Israel. Bethel became the most important spiritual landmark of Jacob's life ,  both his first encounter with God and his return to God happened here.
 
-The Lord Jesus told Nathanael: "Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man." (John 1:51). Brothers and sisters, the Lord Jesus Himself is the ladder! The "gate of heaven" foreshadowed at Bethel was fully opened in Christ.
+The Lord Jesus told Nathanael: "Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man." (John 1:51).  The Lord Jesus Himself is the ladder! The "gate of heaven" foreshadowed at Bethel was fully opened in Christ.
 
 ### Mount Moriah ,  The Sacred Mountain of Sacrifice and Redemption
 
@@ -2765,7 +2745,7 @@ Abraham pitched his tent by the oaks of Mamre and dwelt there many years (Gen 13
 
 The oaks of Mamre were where God sat at table with man. Not in a temple, not beside an altar, but under an ordinary oak, at an ordinary meal, God revealed His plan to His friend.
 
-Hebrews says: "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares." (Heb 13:2). The background of this verse is the story under the oaks of Mamre. And the Lord Jesus says: "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me." (Rev 3:20). The table fellowship under the oaks of Mamre ultimately points to the eternal communion between Christ and His people.
+Hebrews says: "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares." (Heb 13:2). The background of this verse is the story under the oaks of Mamre. And the Lord Jesus says: "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me." (Rev 3:20). The table fellowship under the oaks of Mamre points to the eternal communion between Christ and His people.
 
 ### Beersheba ,  The Southern Boundary of Promise
 
@@ -2773,7 +2753,7 @@ Abraham made a covenant with Abimelech at Beersheba, planted a tamarisk tree, an
 
 Three generations of patriarchs, the same place, the same words ,  **"Do not be afraid."** Beersheba was the southernmost edge of the promised land, the last station before leaving it. Every time the patriarchs faced the unknown and confronted fear, God spoke to them at Beersheba.
 
-Brothers and sisters, where is your Beersheba? When you are about to step into an unknown wilderness, God's words have not changed ,  "Fear not, for I am with thee."
+ Where is your Beersheba? When you are about to step into an unknown wilderness, God's words have not changed ,  "Fear not, for I am with thee."
 
 ### Bethlehem ,  Life on the Road of Death
 
@@ -2793,7 +2773,7 @@ The cave of Machpelah was not merely a tomb; it was a **declaration of faith**: 
 
 Hebrews says: "These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth." (Heb 11:13). The cave of Machpelah at Hebron is the most concrete testimony of this faith ,  they purchased graves in the promised land because they believed that one day they would rise again on this very soil.
 
-Brothers and sisters, when I set up that great stone at Shechem, I knew my days were drawing to a close. But I was not afraid, because every place I had walked ,  Shechem, Bethel, Moriah, Mamre, Beersheba, Bethlehem, Hebron ,  told me the same thing: **God is faithful.**
+ When I set up that great stone at Shechem, I knew my days were drawing to a close. But I was not afraid, because every place I had walked ,  Shechem, Bethel, Moriah, Mamre, Beersheba, Bethlehem, Hebron ,  told me the same thing: **God is faithful.**
 
 What He promised at Shechem, He renewed at Shechem. Where He appeared at Bethel, He came again at Bethel. Where He provided a ram on Moriah, He provided the Lamb on Calvary. Where He said "Fear not" at Beersheba, He walks with us through every wilderness. Where He left tears at Bethlehem, He also brought forth hope at Bethlehem. Where He buried the patriarchs at Hebron, He will surely raise them on the last day.
 
@@ -2906,9 +2886,7 @@ These places are not merely dots on a map; they are God's footprints. From Abrah
 
 三天后，他从死里复活了。
 
-那个清晨，当抹大拉的马利亚和其他妇女跑来告诉我们空坟墓的消息时，我的心里有一种奇特的平安，不是因为我预先知道复活会发生，而是因为我一生都在经历这位信实的神。天使说的话从不落空：出于神的话，没有一句不带能力的。
-
-弟兄姐妹，我的一生不是一帆风顺的童话，它充满了惊惶、误解、刀刺般的痛苦，和十字架下的哭泣。但贯穿这一切的，是那句从起初就支撑我的信念："我是主的使女，情愿照你的话成就在我身上。"
+那个清晨，当抹大拉的马利亚和其他妇女跑来告诉我们空坟墓的消息时，我的心里有一种奇特的平安，不是因为我预先知道复活会发生，而是因为我一生都在经历这位信实的神。天使说的话从不落空：出于神的话，没有一句不带能力的。我的一生不是一帆风顺的童话，它充满了惊惶、误解、刀刺般的痛苦，和十字架下的哭泣。但贯穿这一切的，是那句从起初就支撑我的信念："我是主的使女，情愿照你的话成就在我身上。"
 
 
 我后来也在耶路撒冷的教会中，与使徒们和其他弟兄姐妹一起祷告等候圣灵的降临。五旬节那天，圣灵浇灌在我们身上，那位天使所预言的圣灵，如今临到了所有信他的人，不再只是临到一个人。我的儿子所应许的保惠师来了。教会诞生了。
@@ -3012,9 +2990,9 @@ That morning, when Mary Magdalene and the other women came running to tell us ab
 
 I was also among the believers in the Jerusalem church, praying with the apostles and other brothers and sisters, waiting for the coming of the Holy Spirit. On the day of Pentecost, the Spirit was poured out upon us, the same Spirit the angel had spoken of, now coming upon all who believed, no longer upon just one person. The Comforter my son had promised had come. The church was born.
 
-From a small house in Nazareth to the upper room in Jerusalem, from the angel's announcement to the Spirit's descent, I witnessed the most pivotal chapters of salvation history. But let me tell you: the center of all this is not me, but the Lord Jesus Christ, the one who was born from my womb, who died on the cross, who rose from the dead, who ascended to heaven. I was only the jar of clay; he is the treasure within. I was only the servant; he is the King.
+From a small house in Nazareth to the upper room in Jerusalem, from the angel's announcement to the Spirit's descent, I witnessed the most important chapters of salvation history. But let me tell you: the center of all this is not me, but the Lord Jesus Christ, the one who was born from my womb, who died on the cross, who rose from the dead, who ascended to heaven. I was only the jar of clay; he is the treasure within. I was only the servant; he is the King.
 
-Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be used by God. But remember: God chose an ordinary girl from Nazareth to change the course of world history. He doesn't need you to be perfect; he needs you to say "let it be." It is not your ability but his grace; not your worthiness but his choosing.
+ You may feel too lowly, too ordinary, too unworthy to be used by God. But remember: God chose an ordinary girl from Nazareth to change the course of world history. He doesn't need you to be perfect; he needs you to say "let it be." It is not your ability but his grace; not your worthiness but his choosing.
 
 > For he who is mighty has done great things for me, and holy is his name. (Luke 1:49)
 
@@ -3065,9 +3043,7 @@ The Lord's servant, Mary of Nazareth`,
 
 但是，路得是摩押女子！
 
-她对婆婆拿俄米说："你的国就是我的国，你的神就是我的神"（得1:16）。她从约外进入约内，从被排斥的民族成为大卫的曾祖母，进入了弥赛亚的家谱（太1:5）。
-
-弟兄姐妹，这是何等大的恩典！神能从最不堪的起源中拣选他的百姓。罪不能拦阻恩典，羞耻不能限制拣选。"在人这是不能的，在神凡事都能"（太19:26）。
+她对婆婆拿俄米说："你的国就是我的国，你的神就是我的神"（得1:16）。她从约外进入约内，从被排斥的民族成为大卫的曾祖母，进入了弥赛亚的家谱（太1:5）。这是何等大的恩典！神能从最不堪的起源中拣选他的百姓。罪不能拦阻恩典，羞耻不能限制拣选。"在人这是不能的，在神凡事都能"（太19:26）。
 
 ### 以实玛利的后裔，约外的应许也成就（创25:12-18）
 
@@ -3099,9 +3075,7 @@ The Lord's servant, Mary of Nazareth`,
 
 这是何等的恩典！保罗说："你们从前在以色列国民以外，在所应许的诸约上是局外人，并且活在世上没有指望，没有神。你们从前远离神的人，如今却在基督耶稣里，靠着他的血，已经得亲近了"（弗2:12-13）。
 
-最终，使徒约翰在异象中看见："有许多的人，没有人能数过来，是从各国、各族、各民、各方来的，站在宝座和羔羊面前"（启7:9）。该隐的后裔、含的后裔、罗得的后裔、以实玛利的后裔、以扫的后裔，这些约外的名录，最终都要汇入这个敬拜的洪流。
-
-弟兄姐妹，当你读创世记中那些看似枯燥的家谱时，请记住：神记念每一个名字。在永恒的救赎计划中，没有任何一个民族是被遗忘的。那位从万国中拣选百姓的神，也从万国中呼召你来到他面前。你曾经是"约外之民"，如今是"约内之子"。这是恩典，唯独恩典。
+最终，使徒约翰在异象中看见："有许多的人，没有人能数过来，是从各国、各族、各民、各方来的，站在宝座和羔羊面前"（启7:9）。该隐的后裔、含的后裔、罗得的后裔、以实玛利的后裔、以扫的后裔，这些约外的名录，最终都要汇入这个敬拜的洪流。当你读创世记中那些看似枯燥的家谱时，请记住：神记念每一个名字。在永恒的救赎计划中，没有任何一个民族是被遗忘的。那位从万国中拣选百姓的神，也从万国中呼召你来到他面前。你曾经是"约外之民"，如今是"约内之子"。这是恩典，唯独恩典。
 
 愿荣耀归给那位"从创立世界以前，在基督里拣选了我们"的神（弗1:4）。`,
     content_en: `Dear brothers and sisters, I am Moses, servant of God.
@@ -3114,7 +3088,7 @@ Because in God's eyes, no name is superfluous. These genealogies of those outsid
 
 Cain killed his brother and was driven from God's presence. By justice, he should have perished. Yet God gave him a mark of protection (Gen 4:15) and allowed his descendants to develop animal husbandry (Jabal), music (Jubal), and metalwork (Tubal-Cain). The origins of civilization arose among the exiled ,  this is what Reformed theology calls "common grace": even outside the covenant, God still grants talents, culture, and order.
 
-But note: Cain's civilization ultimately produced Lamech's violence and arrogance ,  "If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold." (Gen 4:24). Without God's restraint, civilization can shine brilliantly and fall catastrophically.
+But note: Cain's civilization produced Lamech's violence and arrogance ,  "If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold." (Gen 4:24). Without God's restraint, civilization can shine brilliantly and fall catastrophically.
 
 Meanwhile, Seth's line "began to call upon the name of the LORD" (Gen 4:26). Two lines in stark contrast: one had civilization without worship, the other had worship and therefore hope. The Messiah's genealogy continued through Seth's line, not Cain's.
 
@@ -3134,7 +3108,7 @@ But ,  Ruth was a Moabite woman!
 
 She told her mother-in-law Naomi: "Thy people shall be my people, and thy God my God." (Ruth 1:16). She entered from outside the covenant to within, from a rejected people to become David's great-grandmother, entering the Messiah's genealogy (Matt 1:5).
 
-Brothers and sisters, what immense grace! God can choose His people from the most unseemly origins. Sin cannot hinder grace; shame cannot limit election. "With men this is impossible; but with God all things are possible." (Matt 19:26).
+ What immense grace! God can choose His people from the most unseemly origins. Sin cannot hinder grace; shame cannot limit election. "With men this is impossible; but with God all things are possible." (Matt 19:26).
 
 ### The Descendants of Ishmael ,  Promises Outside the Covenant Also Fulfilled (Gen 25:12-18)
 
@@ -3166,9 +3140,9 @@ Look at the Messiah's genealogy: Tamar was a Canaanite, Rahab was a Canaanite, R
 
 What grace! Paul wrote: "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world: But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ." (Eph 2:12-13).
 
-Finally, the Apostle John saw in his vision: "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb." (Rev 7:9). The descendants of Cain, Ham, Lot, Ishmael, Esau ,  all these genealogies outside the covenant will ultimately flow into this great river of worship.
+Finally, the Apostle John saw in his vision: "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb." (Rev 7:9). The descendants of Cain, Ham, Lot, Ishmael, Esau ,  all these genealogies outside the covenant will flow into this great river of worship.
 
-Brothers and sisters, when you read those seemingly dry genealogies in Genesis, remember: God remembers every name. In His eternal plan of redemption, no nation is forgotten. The God who chose a people from among all nations also called you from among all nations to come before Him. You were once "outside the covenant"; now you are "children of the covenant." This is grace, grace alone.
+ When you read those seemingly dry genealogies in Genesis, remember: God remembers every name. In His eternal plan of redemption, no nation is forgotten. The God who chose a people from among all nations also called you from among all nations to come before Him. You were once "outside the covenant"; now you are "children of the covenant." This is grace, grace alone.
 
 Glory be to the God who "hath chosen us in him before the foundation of the world" (Eph 1:4).`,
     tags: ['拣选', '恩典', '家谱', '救赎历史', '万国'],
@@ -3323,9 +3297,7 @@ Glory be to the God who "hath chosen us in him before the foundation of the worl
 
 我从前以为自己站在光明里，其实我站在黑暗中。那道光把我打倒，让我瞎了眼，但讽刺的是，**瞎了眼之后我才真正"看见"了。**
 
-## 致每一个"虔诚的逼迫者"
-
-弟兄姐妹，如果你读到这里，
+## 致每一个"虔诚的逼迫者"如果你读到这里，
 
 也许你不像我那样逼迫教会。但也许你和我有一个共同的问题：**你以为自己的义可以救自己。**
 
@@ -3436,7 +3408,7 @@ On the third day, a disciple named Ananias came.
 
 I later learned that the Lord had told him in a vision: Go to the street called Straight, and find a man from Tarsus named Saul. Ananias said, "Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:" (Acts 9:13).
 
-Brothers and sisters, think about it ,  if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
+ Think about it ,  if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
 
 **Ananias went.**
 
@@ -3484,7 +3456,7 @@ I once thought I stood in the light. In truth, I stood in darkness. That light k
 
 ## To Every "Devout Persecutor"
 
-Brothers and sisters, if you are reading this , 
+ If you are reading this , 
 
 Perhaps you do not persecute the church as I did. But perhaps you and I share a common problem: **you believe your own righteousness can save you.**
 
@@ -3569,9 +3541,7 @@ And then you will hear Him call your name.
 
 第三次，旁边的人说："你的口音把你露出来了，你真是他们一党的。"
 
-**我不认得那个人！** 我甚至起了咒发了誓。
-
-弟兄姐妹，你们听到了吗？我起誓咒诅自己，说我不认得祂，那个在加利利海边呼召我的主，那个拉着我的手叫我在水面上行走的主，那个对我说"你是彼得，我要把我的教会建造在这磐石上"的主。
+**我不认得那个人！** 我甚至起了咒发了誓。你们听到了吗？我起誓咒诅自己，说我不认得祂，那个在加利利海边呼召我的主，那个拉着我的手叫我在水面上行走的主，那个对我说"你是彼得，我要把我的教会建造在这磐石上"的主。
 
 ## 鸡叫了
 
@@ -3601,7 +3571,7 @@ And then you will hear Him call your name.
 
 约翰先认出祂："是主！"
 
-我一听到这句话，就束上外衣，跳进海里，游向岸边。弟兄姐妹，你们听到了吗，**我没有逃走，我向祂游过去了。** 我不知道祂要对我说什么，我不知道等待我的是斥责还是赦免，但我无法不奔向祂。这就是爱，哪怕你满身羞耻，你还是忍不住要到祂面前。
+我一听到这句话，就束上外衣，跳进海里，游向岸边。你们听到了吗，**我没有逃走，我向祂游过去了。** 我不知道祂要对我说什么，我不知道等待我的是斥责还是赦免，但我无法不奔向祂。这就是爱，哪怕你满身羞耻，你还是忍不住要到祂面前。
 
 上了岸，我看到一堆**炭火**。
 
@@ -3641,9 +3611,7 @@ And then you will hear Him call your name.
 
 我不再为自己辩护，不再夸口，不再承诺。我只能说：你知道。你知道我的软弱，你知道我的失败，你知道我所有的眼泪和羞耻，**但你也知道，在这一切的底下，我爱你。** 哪怕是这么小的、这么残破的爱，你都知道。
 
-祂说："你喂养我的羊。"
-
-弟兄姐妹，你们听到了吗？祂没有说"好吧，我原谅你了，但你以后靠边站"。祂没有降职我、边缘化我、给我安排一个不重要的岗位。**祂把最重要的使命交给了我：牧养祂的羊群。**
+祂说："你喂养我的羊。"你们听到了吗？祂没有说"好吧，我原谅你了，但你以后靠边站"。祂没有降职我、边缘化我、给我安排一个不重要的岗位。**祂把最重要的使命交给了我：牧养祂的羊群。**
 
 这就是恩典。恩典不只是赦免你的过去，恩典是重新赋予你未来。
 
@@ -3722,7 +3690,7 @@ The third time, bystanders said: "Your accent betrays you. You are one of them."
 
 **I do not know the man!** I even began to invoke a curse on myself.
 
-Brothers and sisters, did you hear that? I swore an oath that I did not know Him ,  the One who called me by the Sea of Galilee, who held my hand as I walked on water, who said to me, "You are Peter, and on this rock I will build my church."
+ Did you hear that? I swore an oath that I did not know Him ,  the One who called me by the Sea of Galilee, who held my hand as I walked on water, who said to me, "You are Peter, and on this rock I will build my church."
 
 ## The Rooster Crowed
 
@@ -3752,7 +3720,7 @@ That night we caught nothing. As dawn broke, a figure stood on the shore and cal
 
 John recognized Him first: "It is the Lord!"
 
-The moment I heard those words, I put on my outer garment and threw myself into the sea, swimming toward shore. Brothers and sisters, did you hear that? **I did not run away. I swam toward Him.** I did not know what He would say to me ,  rebuke or forgiveness ,  but I could not help running to Him. That is what love does: even when you are covered in shame, you cannot stay away.
+The moment I heard those words, I put on my outer garment and threw myself into the sea, swimming toward shore.  Did you hear that? **I did not run away. I swam toward Him.** I did not know what He would say to me ,  rebuke or forgiveness ,  but I could not help running to Him. That is what love does: even when you are covered in shame, you cannot stay away.
 
 When I reached the shore, I saw a **charcoal fire**.
 
@@ -3794,7 +3762,7 @@ I no longer defended myself, no longer boasted, no longer made promises. All I c
 
 He said, "Feed my sheep."
 
-Brothers and sisters, did you hear? He did not say, "Fine, I forgive you, but step aside from now on." He did not demote me, marginalize me, or assign me some minor role. **He entrusted me with His most important mission :  to shepherd His flock.**
+ Did you hear? He did not say, "Fine, I forgive you, but step aside from now on." He did not demote me, marginalize me, or assign me some minor role. **He entrusted me with His most important mission :  to shepherd His flock.**
 
 This is grace. Grace does not merely forgive your past. Grace gives you back your future.
 
@@ -3879,9 +3847,7 @@ You need only answer one thing: **"Lord, you know that I love you."**
 
 > "不要催我回去不跟随你。你往哪里去，我也往那里去；你在哪里住宿，我也在那里住宿；你的国就是我的国，你的神就是我的神。你在哪里死，我也在那里死，也葬在那里。除非死能使你我相离！不然，愿耶和华重重地降罚与我。"（路得记 1:16-17）
 
-这不只是对婆婆的忠诚，这是一个信仰的告白。"你的神就是我的神"，我在那一刻，把自己完全交给了耶和华。我不知道前面的路会怎样，不知道伯利恒的人会怎样看我，不知道明天的饭食从哪里来。但我知道，这位神是信实的。
-
-弟兄姐妹，信心从来不是在一切都确定之后才迈出的脚步。信心，是在看不见的时候仍然跟随。正如后来你们的使徒所写的：
+这不只是对婆婆的忠诚，这是一个信仰的告白。"你的神就是我的神"，我在那一刻，把自己完全交给了耶和华。我不知道前面的路会怎样，不知道伯利恒的人会怎样看我，不知道明天的饭食从哪里来。但我知道，这位神是信实的。信心从来不是在一切都确定之后才迈出的脚步。信心，是在看不见的时候仍然跟随。正如后来你们的使徒所写的：
 
 > "信就是所望之事的实底，是未见之事的确据。"（希伯来书 11:1）
 
@@ -3893,7 +3859,7 @@ You need only answer one thing: **"Lord, you know that I love you."**
 
 > "不要叫我拿俄米，要叫我玛拉，因为全能者使我受了大苦。我满满地出去，耶和华使我空空地回来。"（路得记 1:20-21）
 
-拿俄米的意思是"甜"，玛拉的意思是"苦"。她觉得神的手重重地压在她身上。弟兄姐妹，你们中间有没有人也经历过这样的时刻？觉得神似乎远离了，生活从甜变成了苦？我要告诉你们，拿俄米那时还不知道，神正在暗中为她编织一个何等奇妙的故事。苦难不是故事的结局，而是恩典的序曲。
+拿俄米的意思是"甜"，玛拉的意思是"苦"。她觉得神的手重重地压在她身上。你们中间有没有人也经历过这样的时刻？觉得神似乎远离了，生活从甜变成了苦？我要告诉你们，拿俄米那时还不知道，神正在暗中为她编织一个何等奇妙的故事。苦难不是故事的结局，而是恩典的序曲。
 
 为了活下去，我去田间拾穗。律法中有一条恩典的律例：
 
@@ -3945,7 +3911,7 @@ You need only answer one thing: **"Lord, you know that I love you."**
 
 弟兄姐妹，你们看到了吗？那个不愿付代价的至近亲属，像不像律法本身？律法能指出问题，这地需要被赎，这寡妇需要被照顾，但律法没有能力完成救赎。律法退缩了，说"我不能赎了"。
 
-但波阿斯站出来了。他甘愿付代价，甘愿承担一切，甘愿把一个摩押女子接纳为自己的妻子。弟兄姐妹，这岂不正是基督所做的吗？律法不能救你们，律法只能显出你们的罪。但基督来了，祂是那真正的至近亲属（גֹּאֵל），祂用自己的血赎买了你们。
+但波阿斯站出来了。他甘愿付代价，甘愿承担一切，甘愿把一个摩押女子接纳为自己的妻子。这岂不正是基督所做的吗？律法不能救你们，律法只能显出你们的罪。但基督来了，祂是那真正的至近亲属（גֹּאֵל），祂用自己的血赎买了你们。
 
 > "因那使人成圣的和那些得以成圣的，都是出于一。所以，他称他们为弟兄也不以为耻。"（希伯来书 2:11）
 
@@ -3959,7 +3925,7 @@ You need only answer one thing: **"Lord, you know that I love you."**
 
 看哪，那位曾说"叫我玛拉"的拿俄米，如今把孩子抱在怀中，成了他的养母（路得记 4:16）。苦变成了甜，空虚变成了丰盛，哀哭变成了喜乐。这不是因为我们做了什么配得的事，而是因为耶和华的慈爱永远长存。
 
-而这个孩子，俄备得，他生了耶西，耶西生了大卫王。弟兄姐妹，你们想一想：一个摩押女子的后裔，竟成了以色列最伟大的君王的祖母。而大卫的子孙中，那位万王之王、万主之主，道成肉身的基督耶稣降生了。
+而这个孩子，俄备得，他生了耶西，耶西生了大卫王。你们想一想：一个摩押女子的后裔，竟成了以色列最伟大的君王的祖母。而大卫的子孙中，那位万王之王、万主之主，道成肉身的基督耶稣降生了。
 
 > "耶西生大卫王。大卫从乌利亚的妻子生所罗门……雅各生约瑟，就是马利亚的丈夫，那称为基督的耶稣，是从马利亚生的。"（马太福音 1:6, 16）
 
@@ -4032,7 +3998,7 @@ And so I spoke those words that welled up from the deepest place in my soul:
 
 This was not merely loyalty to my mother-in-law. This was a confession of faith. "Your God my God", in that moment I surrendered myself entirely to the LORD. I did not know what the road ahead would hold, how the people of Bethlehem would regard me, or where tomorrow's bread would come from. But I knew this God was faithful.
 
-Brothers and sisters, faith has never been a step taken only after everything is certain. Faith is following when you cannot see. As your apostle later wrote:
+ Faith has never been a step taken only after everything is certain. Faith is following when you cannot see. As your apostle later wrote:
 
 > "Now faith is the substance of things hoped for, the evidence of things not seen." (Hebrews 11:1)
 
@@ -4044,7 +4010,7 @@ We arrived in Bethlehem at the beginning of the barley harvest. Naomi's heart wa
 
 > "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me. I went out full, and the LORD hath brought me home again empty: why then call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?" (Ruth 1:20–21)
 
-Naomi means "pleasant"; Mara means "bitter." She felt the hand of God pressing heavily upon her. Brothers and sisters, have any of you known such a season, when God seems distant, when life turns from sweet to bitter? Let me tell you: Naomi did not yet know that God was secretly weaving the most marvelous story on her behalf. Suffering was not the end of the story; it was the prelude to grace.
+Naomi means "pleasant"; Mara means "bitter." She felt the hand of God pressing heavily upon her.  Have any of you known such a season, when God seems distant, when life turns from sweet to bitter? Let me tell you: Naomi did not yet know that God was secretly weaving the most marvelous story on her behalf. Suffering was not the end of the story; it was the prelude to grace.
 
 To survive, I went to glean in the fields. The law contained a gracious provision:
 
@@ -4096,7 +4062,7 @@ He drew off his sandal and gave it to Boaz, the custom of attestation in Israel.
 
 Brothers and sisters, do you see it? The nearer kinsman who would not pay the price, is he not like the law itself? The law can identify the problem, the land needs redeeming, the widow needs caring for, but the law has no power to accomplish redemption. The law withdrew, saying, "I cannot redeem."
 
-But Boaz stepped forward. He willingly paid the price, bore the full cost, and took a Moabite woman as his wife. Brothers and sisters, is this not precisely what Christ has done? The law cannot save you; it can only reveal your sin. But Christ came, He is the true kinsman-redeemer (גֹּאֵל), and He redeemed you with His own blood.
+But Boaz stepped forward. He willingly paid the price, bore the full cost, and took a Moabite woman as his wife.  Is this not precisely what Christ has done? The law cannot save you; it can only reveal your sin. But Christ came, He is the true kinsman-redeemer (גֹּאֵל), and He redeemed you with His own blood.
 
 > "For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren," (Hebrews 2:11)
 
@@ -4110,7 +4076,7 @@ Then the LORD enabled me to conceive, and I bore a son. The women of the neighbo
 
 Behold, she who had said "Call me Mara" now held the child in her arms and became his nurse (Ruth 4:16). Bitterness turned to sweetness, emptiness to fullness, mourning to joy. Not because we had done anything worthy, but because the steadfast love of the LORD endures forever.
 
-And this child, Obed, fathered Jesse, and Jesse fathered King David. Brothers and sisters, consider this: the descendant of a Moabite woman became the grandmother of Israel's greatest king. And from David's line, the King of kings and Lord of lords, Christ Jesus, was born in the flesh.
+And this child, Obed, fathered Jesse, and Jesse fathered King David.  Consider this: the descendant of a Moabite woman became the grandmother of Israel's greatest king. And from David's line, the King of kings and Lord of lords, Christ Jesus, was born in the flesh.
 
 > "And Jesse the father of David the king. And David was the father of Solomon by the wife of Uriah… and Jacob the father of Joseph the husband of Mary, of whom Jesus was born, who is called Christ." (Matthew 1:6, 16)
 
@@ -4179,7 +4145,7 @@ Your sister, Ruth of Moab`,
 
 > 多马，又称为低土马，就对那同作门徒的说："我们也去和他同死吧。"（约翰福音 11:16）
 
-这是我，"怀疑的多马"，说的话。"我们也去和他同死吧。"这不是一个胆怯者的话，这是一个愿意为主赴死之人的宣告。弟兄姐妹，在我怀疑之前，请先看见我的忠诚。我或许不善言辞，或许不像彼得那样热情外露，但当主要走向死亡的时候，我说的是"我们也去"，不是"让我们劝他别去"。
+这是我，"怀疑的多马"，说的话。"我们也去和他同死吧。"这不是一个胆怯者的话，这是一个愿意为主赴死之人的宣告。在我怀疑之前，请先看见我的忠诚。我或许不善言辞，或许不像彼得那样热情外露，但当主要走向死亡的时候，我说的是"我们也去"，不是"让我们劝他别去"。
 
 
 我说"我们也去和他同死吧"的时候，我是认真的。我不是那种说漂亮话的人。我的性格就是这样，要么不说，说了就要做到。后来在客西马尼园，当兵丁来抓耶稣的时候，我和其他人一样逃跑了，这是我一生的耻辱。但那并不能抹去我当初说这话时的真心。人的软弱不能否定人的真诚。
@@ -4246,9 +4212,7 @@ Your sister, Ruth of Moab`,
 
 > 耶稣对他说："你因看见了我才信；那没有看见就信的有福了。"（约翰福音 20:29）
 
-这句话不是责备，这是祝福。主没有说"你信得太晚了"或"你的信心不如别人"。他是在说：多马，你是有福的，因为你信了；但还有更大的福分，属于那些没有亲眼看见就信的人。
-
-弟兄姐妹，那就是你。你没有把手探入主的肋旁，你没有亲眼看见复活的基督站在你面前，但你信了。这信心比我的更蒙福，因为这信心完全倚靠圣灵的内在见证和神话语的能力，而非外在的感官经验。
+这句话不是责备，这是祝福。主没有说"你信得太晚了"或"你的信心不如别人"。他是在说：多马，你是有福的，因为你信了；但还有更大的福分，属于那些没有亲眼看见就信的人。那就是你。你没有把手探入主的肋旁，你没有亲眼看见复活的基督站在你面前，但你信了。这信心比我的更蒙福，因为这信心完全倚靠圣灵的内在见证和神话语的能力，而非外在的感官经验。
 
 后来我去了印度传道，在那遥远的地方建立教会，直到为主殉道。那个曾经说"我总不信"的人，最终为信仰献出了生命。这不是我的刚强，这是恩典的能力。那双带着钉痕的手，从我怀疑的深渊中把我拉了上来，又差遣我到地极去为他作见证。
 
@@ -4274,7 +4238,7 @@ At that moment, I said to the other disciples:
 
 > "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him." (John 11:16)
 
-This was said by me, "Doubting Thomas." "Let us also go, that we may die with him." These are not the words of a coward; they are the declaration of one willing to die for his Lord. Brothers and sisters, before you see my doubt, first see my loyalty. I may not have been eloquent, may not have been as outwardly passionate as Peter, but when the Lord was heading toward death, I said "Let us also go", not "Let us persuade him not to."
+This was said by me, "Doubting Thomas." "Let us also go, that we may die with him." These are not the words of a coward; they are the declaration of one willing to die for his Lord.  Before you see my doubt, first see my loyalty. I may not have been eloquent, may not have been as outwardly passionate as Peter, but when the Lord was heading toward death, I said "Let us also go", not "Let us persuade him not to."
 
 When I said "Let us also go, that we may die with him," I meant it. I was not one for pretty words. My character was this: either don't speak, or speak and follow through. Later in Gethsemane, when the soldiers came to arrest Jesus, I ran like everyone else, that is the shame of my life. But that does not erase the sincerity of my heart when I first spoke those words. Human weakness does not negate human sincerity.
 
@@ -4340,9 +4304,9 @@ The Lord Jesus spoke his final words to me:
 
 This is not a rebuke, it is a blessing. The Lord did not say "You believed too late" or "Your faith is inferior to the others'." He was saying: Thomas, you are blessed because you believed; but there is an even greater blessing, belonging to those who have not seen with their eyes and yet have believed.
 
-Brothers and sisters, that is you. You have not placed your hand into the Lord's side. You have not seen the risen Christ standing before you with your own eyes, yet you believed. This faith is more blessed than mine, because it relies entirely on the inward witness of the Holy Spirit and the power of God's word, not on outward sensory experience.
+ That is you. You have not placed your hand into the Lord's side. You have not seen the risen Christ standing before you with your own eyes, yet you believed. This faith is more blessed than mine, because it relies entirely on the inward witness of the Holy Spirit and the power of God's word, not on outward sensory experience.
 
-Later I went to India to preach the gospel, establishing churches in that distant land, until I was martyred for the Lord. The one who once said "I will never believe" ultimately gave his life for the faith. This was not my strength, it was the power of grace. Those nail-scarred hands pulled me up from the abyss of doubt and sent me to the ends of the earth to bear witness for him.
+Later I went to India to preach the gospel, establishing churches in that distant land, until I was martyred for the Lord. The one who once said "I will never believe" gave his life for the faith. This was not my strength, it was the power of grace. Those nail-scarred hands pulled me up from the abyss of doubt and sent me to the ends of the earth to bear witness for him.
 
 The apostle Paul later wrote: "But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us." I was that jar of clay, cracked through and through, but God's glory shone out precisely through the cracks.
 
@@ -4407,9 +4371,7 @@ Your brother, Thomas`,
 
 耶利哥城最有钱的人，穿着精贵的袍子，像个小孩一样爬到树上去。犹太文化里，跑步都是失体面的事，何况爬树。
 
-但我不在乎了。
-
-弟兄姐妹，你知道一个人要绝望到什么程度，才会不顾一切体面？**当你心里有一个洞，大到什么都填不满的时候，面子就不重要了。**
+但我不在乎了。你知道一个人要绝望到什么程度，才会不顾一切体面？**当你心里有一个洞，大到什么都填不满的时候，面子就不重要了。**
 
 ## 祂停下来了
 
@@ -4417,9 +4379,7 @@ Your brother, Thomas`,
 
 然后，祂停下来了。**在我的树下。**
 
-祂抬头看着我。
-
-弟兄姐妹，这辈子有很多人抬头看过我，因为我坐在税关的高台上。但他们的眼睛里只有恐惧和憎恨。**从来没有人这样看过我。**
+祂抬头看着我。这辈子有很多人抬头看过我，因为我坐在税关的高台上。但他们的眼睛里只有恐惧和憎恨。**从来没有人这样看过我。**
 
 祂的眼神里没有审判，没有嫌弃。祂看我的眼神，好像在看一个**迷路很久的孩子**。
 
@@ -4465,9 +4425,7 @@ Your brother, Thomas`,
 
 **"人子来，为要寻找，拯救失丧的人。"**
 
-寻找。不是等我来找祂。是祂来找我。我以为我只是想去看看祂，原来是祂一路走来耶利哥，就是为了在那棵桑树下停下来，抬头看着我，叫我的名字。
-
-弟兄姐妹，我从树上下来的那一刻，我以为是我在找祂。后来我才明白，**从头到尾，都是祂在找我。**
+寻找。不是等我来找祂。是祂来找我。我以为我只是想去看看祂，原来是祂一路走来耶利哥，就是为了在那棵桑树下停下来，抬头看着我，叫我的名字。我从树上下来的那一刻，我以为是我在找祂。后来我才明白，**从头到尾，都是祂在找我。**
 
 ## 致每一个躲在树上的人
 
@@ -4528,7 +4486,7 @@ The wealthiest man in Jericho, in his expensive robes, scrambling up a tree like
 
 But I did not care anymore.
 
-Brothers and sisters, do you know how desperate a person must be to abandon all dignity? **When there is a hole inside you so large that nothing can fill it, appearances stop mattering.**
+ Do you know how desperate a person must be to abandon all dignity? **When there is a hole inside you so large that nothing can fill it, appearances stop mattering.**
 
 ## He Stopped
 
@@ -4538,7 +4496,7 @@ Then He stopped. **Under my tree.**
 
 He looked up at me.
 
-Brothers and sisters, many people had looked up at me before ,  because I sat on the elevated platform at the tax booth. But their eyes held only fear and hatred. **No one had ever looked at me like this.**
+ Many people had looked up at me before ,  because I sat on the elevated platform at the tax booth. But their eyes held only fear and hatred. **No one had ever looked at me like this.**
 
 His eyes held no judgment, no disgust. He looked at me the way you look at **a child who has been lost for a very long time.**
 
@@ -4586,7 +4544,7 @@ Do you know what that meant to me? All of Jericho considered me an outsider ,  a
 
 To seek. Not to wait for me to come find Him. He came to find me. I thought I was just trying to get a look at Him ,  but He had walked all the way to Jericho to stop under that sycamore tree, look up, and call my name.
 
-Brothers and sisters, the moment I climbed down, I thought I was the one seeking Him. Only later did I understand ,  **from beginning to end, it was He who was seeking me.**
+ The moment I climbed down, I thought I was the one seeking Him. Only later did I understand ,  **from beginning to end, it was He who was seeking me.**
 
 ## To Everyone Hiding in the Tree
 

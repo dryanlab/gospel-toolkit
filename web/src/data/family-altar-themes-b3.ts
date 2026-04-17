@@ -469,7 +469,7 @@ export const themesB3: AltarTheme[] = [
         },
         reflection: {
           zh: '计划是好的，但最终掌管方向的是神。我们可以筹算，但要把结果交托给主。这不是叫我们不计划，而是在计划中保持对神的敞开和顺服。',
-          en: 'Planning is good, but God ultimately directs our course. We can plan, but we must entrust the results to the Lord. This doesn\'t mean we stop planning, but that we remain open and submitted to God within our plans.',
+          en: 'Planning is good, but God directs our course. We can plan, but we must entrust the results to the Lord. This doesn\'t mean we stop planning, but that we remain open and submitted to God within our plans.',
         },
         question: {
           zh: '你最近的人生计划中，是否有为神的引导留出空间？',

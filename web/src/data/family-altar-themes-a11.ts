@@ -529,7 +529,7 @@ export const themesA11: AltarTheme[] = [
         },
         reflection: {
           zh: '保罗提醒我们，传福音是团队合作，而最终使人生命成长的是神自己。我们不必因为没有立即看到果效而灰心，因为栽种和浇灌都是不可缺少的，但叫人生长的是神。',
-          en: 'Paul reminds us that evangelism is teamwork, and ultimately God alone gives growth. We need not be discouraged if we don\'t see immediate results, planting and watering are both essential, but God gives the increase.',
+          en: 'Paul reminds us that evangelism is teamwork, and God alone gives growth. We need not be discouraged if we don\'t see immediate results, planting and watering are both essential, but God gives the increase.',
         },
         question: {
           zh: '你是否因为没有看到传福音的"即时果效"而灰心？如何在"栽种"和"浇灌"的角色中忠心？',

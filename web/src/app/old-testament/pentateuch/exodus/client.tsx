@@ -14,7 +14,7 @@ const sections = [
 摩西的推辞（"我是什么人？""他们必不信我""我本是拙口笨舌的"）与神的回应（"我必与你同在""我必以大能的手"），教导我们：蒙召的确据不在于人的能力，而在于呼召者的信实。`,
     content_en: `Exodus opens in direct continuity with the end of Genesis. The Israelites multiplied greatly in Egypt, but a new Pharaoh arose who "knew not Joseph" and began cruelly oppressing Israel. The faithfulness of the midwives, Moses' birth and preservation, all reveal God's providential care working in the shadows.
 
-Moses grew up in Pharaoh's palace for forty years, shepherded in Midian for forty years, and was not called by God until age eighty. The vision of the burning bush was the pivotal moment, the bush burned with fire yet was not consumed, foreshadowing Israel suffering yet not destroyed, because God was with them. Here God revealed His name: "I AM THAT I AM" (3:14), the most central self-revelation in Old Testament theology.
+Moses grew up in Pharaoh's palace for forty years, shepherded in Midian for forty years, and was not called by God until age eighty. The vision of the burning bush was the decisive moment, the bush burned with fire yet was not consumed, foreshadowing Israel suffering yet not destroyed, because God was with them. Here God revealed His name: "I AM THAT I AM" (3:14), the most central self-revelation in Old Testament theology.
 
 Moses' objections ("Who am I?" "They will not believe me" "I am slow of speech") and God's replies ("Certainly I will be with thee" "I will stretch out my hand") teach us that the assurance of calling rests not in human ability but in the faithfulness of the One who calls.`,
   },

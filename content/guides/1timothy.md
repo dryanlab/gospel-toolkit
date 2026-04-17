@@ -27,7 +27,7 @@ Paul left Timothy in Ephesus to shepherd the church while he went to Macedonia. 
 
 "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine, Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do. Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned." (1 Timothy 1:3-5, KJV)
 
-"The end of the commandment is charity', sound doctrine must ultimately bear the fruit of love. If a person's theology grows ever more precise while their behavior grows ever more loveless, something is wrong with their theology. Paul himself was a living testimony: he was formerly the chief of sinners who persecuted the church, yet received the Lord's mercy, "sinners; of whom I am chief. Howbeit for this cause I obtained mercy' (1:15-16). This grace transformed him and will transform everyone who comes to faith.
+"The end of the commandment is charity', sound doctrine must bear the fruit of love. If a person's theology grows ever more precise while their behavior grows ever more loveless, something is wrong with their theology. Paul himself was a living testimony: he was formerly the chief of sinners who persecuted the church, yet received the Lord's mercy, "sinners; of whom I am chief. Howbeit for this cause I obtained mercy' (1:15-16). This grace transformed him and will transform everyone who comes to faith.
 
 ### 二、教会的秩序与治理（2-3章）
 *II. Church Order and Governance*

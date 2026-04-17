@@ -105,7 +105,7 @@ Because in God's eyes, no name is superfluous. These genealogies of those outsid
 
 Cain killed his brother and was driven from God's presence. By justice, he should have perished. Yet God gave him a mark of protection (Gen 4:15) and allowed his descendants to develop animal husbandry (Jabal), music (Jubal), and metalwork (Tubal-Cain). The origins of civilization arose among the exiled, this is what Reformed theology calls "common grace": even outside the covenant, God still grants talents, culture, and order.
 
-But note: Cain's civilization ultimately produced Lamech's violence and arrogance, "If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold." (Gen 4:24). Without God's restraint, civilization can shine brilliantly and fall catastrophically.
+But note: Cain's civilization produced Lamech's violence and arrogance, "If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold." (Gen 4:24). Without God's restraint, civilization can shine brilliantly and fall catastrophically.
 
 Meanwhile, Seth's line "began to call upon the name of the LORD" (Gen 4:26). Two lines in stark contrast: one had civilization without worship, the other had worship and therefore hope. The Messiah's genealogy continued through Seth's line, not Cain's.
 
@@ -157,7 +157,7 @@ Look at the Messiah's genealogy: Tamar was a Canaanite, Rahab was a Canaanite, R
 
 What grace! Paul wrote: "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world: But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ." (Eph 2:12-13).
 
-Finally, the Apostle John saw in his vision: "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb." (Rev 7:9). The descendants of Cain, Ham, Lot, Ishmael, Esau, all these genealogies outside the covenant will ultimately flow into this great river of worship.
+Finally, the Apostle John saw in his vision: "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb." (Rev 7:9). The descendants of Cain, Ham, Lot, Ishmael, Esau, all these genealogies outside the covenant will flow into this great river of worship.
 
 Brothers and sisters, when you read those seemingly dry genealogies in Genesis, remember: God remembers every name. In His eternal plan of redemption, no nation is forgotten. The God who chose a people from among all nations also called you from among all nations to come before Him. You were once "outside the covenant"; now you are "children of the covenant." This is grace, grace alone.
 

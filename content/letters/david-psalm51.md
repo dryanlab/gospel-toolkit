@@ -83,7 +83,7 @@ The sacrifices of God are a broken spirit; a broken and contrite heart, O God, y
 
 后来我在诗篇32篇里写道：
 
-> "我闭口不认罪的时候，因终日唉哼而骨头枯干。黑夜白日，你的手在我身上沉重；我的精液耗尽，如同夏天的干旱。"（诗篇32:3-4）
+> "我闭口不认罪的时候，因终日唉哼而骨头枯干。黑夜白日，你的手在我身上沉重；我的精力耗尽，如同夏天的干旱。"（诗篇32:3-4）
 
 **神的手在我身上沉重。** 不是因为神在惩罚我，虽然惩罚也来了，而是因为圣灵在我里面，不让我安宁。祂不容许我在罪中舒舒服服地活着。
 
@@ -357,7 +357,7 @@ Then I wrote perhaps the most puzzling yet most profound line of the entire psal
 
 "Against you only", some will ask: David, did you not also sin against Bathsheba? Against Uriah? Against all Israel?
 
-Yes. I sinned against every one of them. But what I am saying here is a deeper truth: **all sin, in its essence, is sin against God.** It is His law that was broken. It is His image that was defiled. It is His holiness that was profaned. When I harmed Bathsheba and Uriah, I harmed people made in God's image. All my sin ultimately points to the Holy God.
+Yes. I sinned against every one of them. But what I am saying here is a deeper truth: **all sin, in its essence, is sin against God.** It is His law that was broken. It is His image that was defiled. It is His holiness that was profaned. When I harmed Bathsheba and Uriah, I harmed people made in God's image. All my sin points to the Holy God.
 
 Moreover, when I said "so that you may be justified in your words", I was not defending myself. I was saying: **God, however you judge me, you are right.** I fully accept your verdict. If you were to destroy me, you would be just.
 

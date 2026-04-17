@@ -59,7 +59,7 @@ First, contend earnestly for the faith. "Ye should earnestly contend for the fai
 
 Second, the severe judgment of false teachers. Jude warns with three Old Testament examples of false teachers' fate: unbelieving Israelites fallen in the wilderness (v. 5), angels who sinned kept in eternal chains (v. 6), Sodom and Gomorrah suffering eternal fire (v. 7). "Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core" (v. 11). False teachers' characteristics: using godliness as a means of gain, turning grace into license, and despising spiritual authority.
 
-Third, keep yourselves in the love of God. "But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, Keep yourselves in the love of God" (vv. 20-21). Jude's conclusion is not fear but assurance: "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy" (v. 24). What ultimately keeps us is not our own vigilance but God's power.`,
+Third, keep yourselves in the love of God. "But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, Keep yourselves in the love of God" (vv. 20-21). Jude's conclusion is not fear but assurance: "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy" (v. 24). What keeps us is not our own vigilance but God's power.`,
 };
 
 const keyVerse = {

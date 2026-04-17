@@ -109,7 +109,7 @@ The book's final sentence names the new city: "The LORD is there" (48:35). Ezeki
 
 The final nine chapters of Ezekiel describe a magnificent new temple vision. An angel with a measuring rod led Ezekiel to measure every part of the temple in detail (ch. 40-42), and then "the glory of the LORD came into the house by the way of the gate whose prospect is toward the east" (43:4) -- the same direction from which the glory had departed (10:18-19, 11:23), symbolizing God's return.
 
-This temple has never been literally built because it points to a greater reality. The New Testament reveals: the church is God's temple (Ephesians 2:21-22), the believer's body is the temple of the Holy Spirit (1 Corinthians 6:19), and ultimately the New Jerusalem needs no temple, "for the Lord God Almighty and the Lamb are the temple of it" (Revelation 21:22).
+This temple has never been literally built because it points to a greater reality. The New Testament reveals: the church is God's temple (Ephesians 2:21-22), the believer's body is the temple of the Holy Spirit (1 Corinthians 6:19), and the New Jerusalem needs no temple, "for the Lord God Almighty and the Lamb are the temple of it" (Revelation 21:22).
 
 The river flowing from the temple grows ever deeper and wider, bringing healing wherever it goes (47:1-12) -- a type of living water fully realized in Christ: "If any man thirst, let him come unto me, and drink" (John 7:37).
 

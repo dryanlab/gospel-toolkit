@@ -115,6 +115,6 @@ First, the King riding on a donkey. "Rejoice greatly, O daughter of Zion... beho
 
 Second, the One who was pierced. "They shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son" (12:10). John 19:37 cites this pointing to Christ on the cross. Most strikingly, the subject is "look upon me [the LORD]", the One who was pierced is the LORD Himself. This is one of the clearest Old Testament intimations of Christ's divinity.
 
-Third, strike the shepherd and the sheep scatter. "Smite the shepherd, and the sheep shall be scattered" (13:7). Jesus Himself quoted this in Gethsemane to foretell the disciples' flight (Matt 26:31). The Good Shepherd is struck so that the flock may ultimately be gathered and saved.
+Third, strike the shepherd and the sheep scatter. "Smite the shepherd, and the sheep shall be scattered" (13:7). Jesus Himself quoted this in Gethsemane to foretell the disciples' flight (Matt 26:31). The Good Shepherd is struck so that the flock may be gathered and saved.
 
 Fourth, "not by might, nor by power." "Not by might, nor by power, but by my spirit, saith the LORD of hosts" (4:6). Spoken to Zerubbabel rebuilding the temple, this also speaks to everyone serving God amid difficulty in every age. The advance of God's kingdom depends not on human strength but on the power of the Holy Spirit.

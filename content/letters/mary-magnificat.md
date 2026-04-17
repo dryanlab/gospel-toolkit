@@ -222,7 +222,7 @@ That morning, when Mary Magdalene and the other women came running to tell us ab
 
 I was also among the believers in the Jerusalem church, praying with the apostles and other brothers and sisters, waiting for the coming of the Holy Spirit. On the day of Pentecost, the Spirit was poured out upon us, the same Spirit the angel had spoken of, now coming upon all who believed, no longer upon just one person. The Comforter my son had promised had come. The church was born.
 
-From a small house in Nazareth to the upper room in Jerusalem, from the angel's announcement to the Spirit's descent, I witnessed the most pivotal chapters of salvation history. But let me tell you: the center of all this is not me, but the Lord Jesus Christ, the one who was born from my womb, who died on the cross, who rose from the dead, who ascended to heaven. I was only the jar of clay; he is the treasure within. I was only the servant; he is the King.
+From a small house in Nazareth to the upper room in Jerusalem, from the angel's announcement to the Spirit's descent, I witnessed the most important chapters of salvation history. But let me tell you: the center of all this is not me, but the Lord Jesus Christ, the one who was born from my womb, who died on the cross, who rose from the dead, who ascended to heaven. I was only the jar of clay; he is the treasure within. I was only the servant; he is the King.
 
 Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be used by God. But remember: God chose an ordinary girl from Nazareth to change the course of world history. He doesn't need you to be perfect; he needs you to say "let it be." It is not your ability but his grace; not your worthiness but his choosing.
 

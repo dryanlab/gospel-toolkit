@@ -52,7 +52,7 @@ The second half turns to more practical wisdom. The Preacher does not abandon li
 
 "It is better to go to the house of mourning, than to go to the house of feasting" (7:2), facing death is wiser than fleeing it. "Be not righteous over much; neither make thyself over wise" (7:16), this is not encouraging mediocrity but warning against Pharisaic self-righteousness. The Preacher soberly recognizes human limits: "Time and chance happeneth to them all. For man also knoweth not his time" (9:11–12).
 
-Chapter 9 contains a seemingly paradoxical yet profoundly wise exhortation: "Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works" (9:7). This is not hedonism but an expression of faith, after acknowledging all is vanity, still gratefully enjoying each day God gives.
+Chapter 9 contains a seemingly paradoxical yet wise exhortation: "Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works" (9:7). This is not hedonism but an expression of faith, after acknowledging all is vanity, still gratefully enjoying each day God gives.
 
 "Cast thy bread upon the waters: for thou shalt find it after many days" (11:1), an encouragement toward generosity and risk. One does not know which effort will succeed, but uncertainty should not halt doing good.
 
@@ -92,7 +92,7 @@ After a thorough exploration of vanity, the Preacher's conclusion is not nihilis
 
 Ecclesiastes is the most "modern" book of the Bible, its existential questioning remains startling after more than two millennia. "Vanity of vanities; all is vanity" (1:2), this is not a declaration of despair but an honest diagnosis.
 
-First, the qualifier "under the sun." "Vanity" (Hebrew הֶבֶל, hevel) appears 38 times, but always accompanied by a crucial qualifier, "under the sun" (1:3, 2:11, etc.). The Preacher does not say life itself is meaningless but that apart from God, viewed solely from a human perspective ("under the sun"), all pursuits ultimately amount to vanity. Wisdom, wealth, pleasure, fame, none can give lasting satisfaction. This is the most thorough critique of all human self-salvation efforts and paves the way for the gospel: if meaning cannot be found "under the sun," it must come from "above the sun."
+First, the qualifier "under the sun." "Vanity" (Hebrew הֶבֶל, hevel) appears 38 times, but always accompanied by a crucial qualifier, "under the sun" (1:3, 2:11, etc.). The Preacher does not say life itself is meaningless but that apart from God, viewed solely from a human perspective ("under the sun"), all pursuits amount to vanity. Wisdom, wealth, pleasure, fame, none can give lasting satisfaction. This is the most thorough critique of all human self-salvation efforts and paves the way for the gospel: if meaning cannot be found "under the sun," it must come from "above the sun."
 
 Second, death, the ultimate equalizer. "All things come alike to all: there is one event to the righteous, and to the wicked" (9:2). The Preacher repeatedly emphasizes that death relativizes all human distinctions, the wise and the foolish alike die; the rich and the poor alike return to dust. This is not nihilism but the most effective antidote to human pride. Only by acknowledging the reality of death will people seriously contemplate eternity, "he hath set the world [eternity] in their heart" (3:11).
 

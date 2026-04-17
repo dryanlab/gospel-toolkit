@@ -159,7 +159,7 @@ Let me tell you a story I witnessed. The night Peter denied the Lord three times
 
 ### Live in Assurance, Walk in Love
 
-Little children, I write these things not to make you anxiously self-examine, but to set your hearts at rest. Assurance ultimately comes not from your performance but from God's promises and the Spirit's internal witness, "The Spirit itself beareth witness with our spirit, that we are the children of God." (Rom 8:16).
+Little children, I write these things not to make you anxiously self-examine, but to set your hearts at rest. Assurance comes not from your performance but from God's promises and the Spirit's internal witness, "The Spirit itself beareth witness with our spirit, that we are the children of God." (Rom 8:16).
 
 Self-examination is for gratitude, not fear. When you see the Spirit's fruit in your life, a repentant heart, love for your brothers, you should not say "I'm still not good enough" but rather "Thank You, Lord, Your grace is at work in me."
 
