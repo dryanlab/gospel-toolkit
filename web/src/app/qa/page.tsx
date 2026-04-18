@@ -89,8 +89,8 @@ export default function QAPage() {
       <div className="text-center mb-6">
         <h1 className="font-serif-cn text-3xl font-bold text-[var(--color-primary)] dark:text-[var(--color-accent)] mb-2">💬 福音问答</h1>
         <p className="text-[var(--color-text-secondary)]">Gospel Q&A</p>
-        <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto">你们祈求，就给你们；寻找，就寻见；叩门，就给你们开门。, 马太福音 7:7</p>
-        <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-lg mx-auto italic">Ask and it will be given to you; seek and you will find; knock and the door will be opened to you., Matthew 7:7</p>
+        <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto">你们祈求，就给你们；寻找，就寻见；叩门，就给你们开门。（马太福音 7:7）</p>
+        <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-lg mx-auto italic">Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. (Matthew 7:7)</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">

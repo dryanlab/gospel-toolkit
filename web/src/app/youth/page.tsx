@@ -46,10 +46,10 @@ export default function YouthPage() {
         </h1>
         <p className="text-[var(--color-text-secondary)]">Youth Ministry</p>
         <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto">
-          不可叫人小看你年轻，总要在言语、行为、爱心、信心、清洁上，都作信徒的榜样。— 提摩太前书 4:12
+          不可叫人小看你年轻，总要在言语、行为、爱心、信心、清洁上，都作信徒的榜样。（提摩太前书 4:12）
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] mt-1 max-w-lg mx-auto italic">
-          Don&apos;t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity. — 1 Timothy 4:12
+          Don&apos;t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity. (1 Timothy 4:12)
         </p>
       </div>
 

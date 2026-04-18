@@ -35,13 +35,13 @@ function GuideSection() {
             <p className="font-medium mb-1">📋 每日内容包括：</p>
             <p className="text-[var(--color-text-secondary)] italic text-xs mb-2">Daily Content Includes:</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-[var(--color-text-secondary)]">
-              <div className="flex items-start gap-2"><span>📖</span><span><strong>今日经文</strong>, 中英双语经文<br/><span className="italic text-xs">Daily Scripture, Bilingual passage</span></span></div>
-              <div className="flex items-start gap-2"><span>💭</span><span><strong>默想</strong>, 经文要点<br/><span className="italic text-xs">Reflection, Key insights</span></span></div>
-              <div className="flex items-start gap-2"><span>💬</span><span><strong>家庭讨论</strong>, 讨论问题<br/><span className="italic text-xs">Discussion, Questions for the family</span></span></div>
-              <div className="flex items-start gap-2"><span>🙏</span><span><strong>祷告引导</strong>, 祷告方向<br/><span className="italic text-xs">Prayer Guide, Prayer direction</span></span></div>
-              <div className="flex items-start gap-2"><span>🎵</span><span><strong>诗歌推荐</strong>, 相关赞美诗<br/><span className="italic text-xs">Hymn Suggestion, Related hymn</span></span></div>
-              <div className="flex items-start gap-2"><span>📚</span><span><strong>今日要理</strong>, 韦敏斯德小要理问答（107题）＋大要理问答（196题），303天一轮<br/><span className="italic text-xs">Daily Catechism, WSC (107 Qs) + WLC (196 Qs), 303-day cycle</span></span></div>
-              <div className="flex items-start gap-2"><span>🍞</span><span><strong>谢饭祷告</strong>, 饭前祷词<br/><span className="italic text-xs">Meal Prayer, Grace before meals</span></span></div>
+              <div className="flex items-start gap-2"><span>📖</span><span><strong>今日经文</strong>：中英双语经文<br/><span className="italic text-xs">Daily Scripture: Bilingual passage</span></span></div>
+              <div className="flex items-start gap-2"><span>💭</span><span><strong>默想</strong>：经文要点<br/><span className="italic text-xs">Reflection: Key insights</span></span></div>
+              <div className="flex items-start gap-2"><span>💬</span><span><strong>家庭讨论</strong>：讨论问题<br/><span className="italic text-xs">Discussion: Questions for the family</span></span></div>
+              <div className="flex items-start gap-2"><span>🙏</span><span><strong>祷告引导</strong>：祷告方向<br/><span className="italic text-xs">Prayer Guide: Prayer direction</span></span></div>
+              <div className="flex items-start gap-2"><span>🎵</span><span><strong>诗歌推荐</strong>：相关赞美诗<br/><span className="italic text-xs">Hymn Suggestion: Related hymn</span></span></div>
+              <div className="flex items-start gap-2"><span>📚</span><span><strong>今日要理</strong>：韦敏斯德小要理问答（107题）＋大要理问答（196题），303天一轮<br/><span className="italic text-xs">Daily Catechism: WSC (107 Qs) + WLC (196 Qs), 303-day cycle</span></span></div>
+              <div className="flex items-start gap-2"><span>🍞</span><span><strong>谢饭祷告</strong>：饭前祷词<br/><span className="italic text-xs">Meal Prayer: Grace before meals</span></span></div>
             </div>
           </div>
 

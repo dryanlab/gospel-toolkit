@@ -63,10 +63,10 @@ export default function BibleHome() {
         </h1>
         <p className="text-[var(--color-text-secondary)]">和合本 · King James Version</p>
         <p className="text-sm text-[var(--color-text-secondary)] mt-2 max-w-lg mx-auto">
-          你的话是我脚前的灯，是我路上的光。, 诗篇 119:105
+          你的话是我脚前的灯，是我路上的光。（诗篇 119:105）
         </p>
         <p className="text-xs text-[var(--color-text-secondary)] mt-1 italic">
-          Your word is a lamp for my feet, a light on my path., Psalm 119:105
+          Your word is a lamp for my feet, a light on my path. (Psalm 119:105)
         </p>
       </div>
 

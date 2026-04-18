@@ -49,11 +49,11 @@ export default function LettersPage() {
         <p className="text-sm text-[var(--color-text-secondary)] mt-1">Letters from the Saints</p>
         <blockquote className="mt-4 text-sm text-[var(--color-text-secondary)] italic max-w-lg mx-auto">
           &ldquo;你们从前远离神的人，如今却在基督耶稣里，靠着他的血，已经得亲近了。&rdquo;
-          <span className="text-xs">, 以弗所书 2:13</span>
+          <span className="text-xs">（以弗所书 2:13）</span>
           <br />
           <span className="text-xs italic">&ldquo;But now in Christ Jesus you who once were far off have been brought near by the blood of Christ.&rdquo;</span>
           <br />
-          <span className="text-xs">, Ephesians 2:13</span>
+          <span className="text-xs">(Ephesians 2:13)</span>
         </blockquote>
         <p className="mt-4 text-sm text-[var(--color-text)] max-w-2xl mx-auto leading-relaxed">
           如果圣经中的人物能给今天的你写一封信，他们会说什么？这些书信以第一人称重述圣经历史，帮助你走进他们的挣扎、悔改与盼望。
