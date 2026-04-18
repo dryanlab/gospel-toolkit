@@ -144,7 +144,7 @@ export default function TodayUpdate() {
         <div className="flex-1 min-w-0">
           <p className="text-white/70 text-xs">{dateZh}</p>
           <h3 className="font-serif-cn text-xl font-bold text-white">今日更新 · {content.type === 'reading' ? '圣徒伴读' : '圣徒来信'}</h3>
-          <p className="text-white/80 text-sm">{content.title}{content.author ? `, ✍️ ${content.author}` : ''}</p>
+          <p className="text-white/80 text-sm">{content.title}{content.author ? ` ✍️ ${content.author}` : ''}</p>
         </div>
         <span className="text-white/90 text-2xl shrink-0 group-hover:translate-x-1 transition-transform">→</span>
       </div>
