@@ -2797,7 +2797,7 @@ These places are not merely dots on a map; they are God's footprints. From Abrah
     scriptureText_zh: `马利亚说：我心尊主为大；我灵以神我的救主为乐；因为他顾念他使女的卑微；从今以后，万代要称我有福。（路加福音 1:46-49）`,
     scriptureText_en: `And Mary said, "And Mary said, My soul doth magnify the Lord, And my spirit hath rejoiced in God my Saviour. For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed. For he that is mighty hath done to me great things; and holy is his name." (Luke 1:46-49)`,
     summary_zh: '一个拿撒勒的平凡少女，被神拣选成为弥赛亚的母亲。马利亚的尊主颂不是一首安静的摇篮曲，而是一首翻转世界的革命之歌，神叫有权柄的失位，叫卑贱的升高。',
-    summary_en: 'An ordinary girl from Nazareth, chosen by God to be the mother of the Messiah. Mary\\',
+    summary_en: 'An ordinary girl from Nazareth, chosen by God to be the mother of the Messiah. Mary\'s Magnificat is not a quiet lullaby but a revolutionary song that overturns the world; God brings down the mighty from their thrones and exalts the lowly.',
     content_zh: `亲爱的弟兄姐妹，我是马利亚，拿撒勒的一个女子。
 
 你们可能知道我的名字，弥赛亚的母亲、童女怀孕的那位。但在天使来访之前，我不过是加利利一个小村庄里一个普通的少女，已经许配给木匠约瑟，正在等待出嫁的日子。拿撒勒是一个不起眼的地方，连拿但业都说过："拿撒勒还能出什么好的吗？"
@@ -2854,7 +2854,7 @@ These places are not merely dots on a map; they are God's footprints. From Abrah
 
 弟兄姐妹，请注意我歌中的第一个词："我心尊主为大"，不是尊自己为大，不是尊弥赛亚的母亲为大，乃是尊**主**为大。我称神为"我的救主"，我自己也需要救主。我不是无罪的完人，我是蒙恩的罪人。神不是因为我配得才拣选我，乃是因为他的恩典。
 
-"他顾念他使女的卑微"，"卑微"，这就是我的身份。不是女王，不是祭司的女儿，而是一个卑微的使女。但神的眼目不像人的眼目，人看外貌，神看内心；人重高位，神顾卑微。
+"他顾念他使女的卑微"——"卑微"，这就是我的身份。不是女王，不是祭司的女儿，而是一个卑微的使女。但神的眼目不像人的眼目，人看外貌，神看内心；人重高位，神顾卑微。
 
 接下来的颂歌震撼了我自己：
 
@@ -2992,7 +2992,7 @@ I was also among the believers in the Jerusalem church, praying with the apostle
 
 From a small house in Nazareth to the upper room in Jerusalem, from the angel's announcement to the Spirit's descent, I witnessed the most important chapters of salvation history. But let me tell you: the center of all this is not me, but the Lord Jesus Christ, the one who was born from my womb, who died on the cross, who rose from the dead, who ascended to heaven. I was only the jar of clay; he is the treasure within. I was only the servant; he is the King.
 
- You may feel too lowly, too ordinary, too unworthy to be used by God. But remember: God chose an ordinary girl from Nazareth to change the course of world history. He doesn't need you to be perfect; he needs you to say "let it be." It is not your ability but his grace; not your worthiness but his choosing.
+You may feel too lowly, too ordinary, too unworthy to be used by God. But remember: God chose an ordinary girl from Nazareth to change the course of world history. He doesn't need you to be perfect; he needs you to say "let it be." It is not your ability but his grace; not your worthiness but his choosing.
 
 > For he who is mighty has done great things for me, and holy is his name. (Luke 1:49)
 
