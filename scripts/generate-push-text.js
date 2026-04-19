@@ -3,6 +3,7 @@
 // Usage: node generate-push-text.js <reading|letter|altar> [args]
 
 const fs = require('fs');
+const { execFileSync } = require('child_process');
 const PROJECT = '/Users/suyan/agents/shared/projects/gospel-app';
 
 function getToday() {
@@ -183,29 +184,32 @@ function generateLetter(id) {
   console.log(JSON.stringify({text: msg, url}));
 }
 
+function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
 function generateAltar() {
   const today = getToday();
   const dow = getDow();
-  
-  // Read theme names from data file
-  const dataSrc = fs.readFileSync(`${PROJECT}/web/src/data/family-altar-data.ts`, 'utf8');
-  const themeMatches = [...dataSrc.matchAll(/name_zh:\s*'([^']+)'[\s\S]*?name_en:\s*'([^']+)'/g)];
-  const themes = themeMatches.map(m => ({zh: m[1], en: m[2]}));
-  
-  // Calculate theme index (same algorithm as website)
-  const [y,m,d] = today.split('-').map(Number);
-  const epochStart = new Date(2026, 0, 1);
-  const todayDate = new Date(y, m-1, d);
-  const daysSinceEpoch = Math.floor((todayDate - epochStart) / 86400000);
-  const themeIndex = Math.floor(daysSinceEpoch / 15) % (themes.length || 1);
-  const dayInTheme = (daysSinceEpoch % 15) + 1;
-  
-  const theme = themes[themeIndex] || {zh: '信心', en: 'Faith'};
-  
-  // Try to extract today's scripture from theme data
-  // Theme files are named family-altar-themes-a1.ts, b1.ts, etc.
-  // Too complex to parse directly; use theme name as the main draw
-  
+
+  // Call the website's actual getDailyContent() via tsx runner so push content
+  // matches exactly what readers see on the website (including seasonal overrides).
+  let content;
+  try {
+    const out = execFileSync(
+      `${PROJECT}/web/node_modules/.bin/tsx`,
+      [`${PROJECT}/web/scripts/daily-altar.ts`, today],
+      { cwd: `${PROJECT}/web`, encoding: 'utf8', maxBuffer: 10 * 1024 * 1024 }
+    );
+    content = JSON.parse(out);
+  } catch (e) {
+    console.error('Failed to generate altar content via tsx runner:', e.message);
+    process.exit(1);
+  }
+
   const greetings = [
     '主日的清晨，全家一起到神面前。☀️',
     '新的一周开始了，带着家人一起亲近神。🌅',
@@ -215,16 +219,39 @@ function generateAltar() {
     '以感恩的心预备安息，全家一起灵修。🙏',
     '安息日的平安！全家在主的同在中歇息。🕊️',
   ];
-  
+
+  const { theme, dayInTheme, totalDaysInTheme, isSeasonal, scripture, reflection, question, prayer, catechism } = content;
+  const icon = theme.icon || '🕯️';
+  const catLabel = catechism.type === 'wsc' ? '小要理问答' : '大要理问答';
+  const catTypeEn = catechism.type === 'wsc' ? 'WSC' : 'WLC';
+
   let msg = `🕯️ <b>家庭祭坛 · Family Altar</b>\n\n`;
-  msg += `📅 ${today}\n\n`;
-  msg += `🎯 本期主题：<b>${theme.zh}</b> · <i>${theme.en}</i>\n`;
-  msg += `📆 第${dayInTheme}天（共15天）\n\n`;
+  msg += `📅 ${today}\n`;
+  msg += `🎯 ${icon} <b>${escapeHtml(theme.name_zh)}</b> · <i>${escapeHtml(theme.name_en)}</i>\n`;
+  msg += `📆 第 ${dayInTheme} 天 / 共 ${totalDaysInTheme} 天`;
+  if (isSeasonal) msg += `（节期专题）`;
+  msg += `\n\n`;
   msg += `${greetings[dow]}\n\n`;
-  msg += `📖 经文 · 💭 默想 · ❓ 讨论 · 🙏 祷告 · 🎵 诗歌 · 📗 要理问答\n\n`;
-  msg += `🔗 <a href="https://rockoftruth.net/family-altar">开始今日灵修 →</a>\n\n`;
+
+  // Scripture
+  msg += `📖 <b>${escapeHtml(scripture.ref_zh)}</b>\n`;
+  msg += `<i>${escapeHtml(scripture.text_zh)}</i>\n\n`;
+
+  // Reflection
+  msg += `💭 <b>默想</b>\n${escapeHtml(reflection.zh)}\n\n`;
+
+  // Question
+  msg += `❓ <b>讨论</b>\n${escapeHtml(question.zh)}\n\n`;
+
+  // Prayer
+  msg += `🙏 <b>祷告</b>\n${escapeHtml(prayer.zh)}\n\n`;
+
+  // Catechism
+  msg += `📗 <b>今日${catLabel}</b>：${catTypeEn} ${escapeHtml(catechism.question_zh)}\n\n`;
+
+  msg += `🔗 <a href="https://rockoftruth.net/family-altar">开始今日全家灵修 →</a>\n\n`;
   msg += `—— 真理磐石 Rock of Truth`;
-  
+
   console.log(JSON.stringify({text: msg}));
 }
 
