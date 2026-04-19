@@ -33,7 +33,7 @@ export default function LettersPage() {
   const visible = (hydrated && !preview
     ? letters.filter(l => isPublished(l.date))
     : letters
-  ).sort((a, b) => a.date.localeCompare(b.date));
+  ).sort((a, b) => b.date.localeCompare(a.date));
   const filtered = activeCategory === 'all'
     ? visible
     : visible.filter(l => l.category === activeCategory);
