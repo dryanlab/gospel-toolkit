@@ -42,6 +42,9 @@ function renderMd(md: string) {
     if (line.startsWith('## ')) {
       return <h2 key={i} className="text-[17px] font-bold text-[var(--color-text)] leading-[1.8] mt-6 mb-2" dangerouslySetInnerHTML={{ __html: html.slice(3) }} />;
     }
+    if (line.startsWith('> ')) {
+      return <blockquote key={i} className="border-l-4 border-[var(--color-accent)] bg-[var(--color-bg-secondary)] pl-4 pr-3 py-2 my-3 text-[15px] text-[var(--color-text)] italic font-bold leading-[1.8] rounded-r-lg" dangerouslySetInnerHTML={{ __html: html.replace(/^>\s+/, '') }} />;
+    }
     if (line.startsWith('- ')) {
       return <li key={i} className="text-[15px] text-[var(--color-text)] leading-[1.8] ml-4 list-disc" dangerouslySetInnerHTML={{ __html: html.slice(2) }} />;
     }
