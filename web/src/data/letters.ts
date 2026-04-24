@@ -7,6 +7,8 @@ export interface Letter {
   authorBioEn: string;
   title_zh: string;
   title_en: string;
+  subtitle_zh?: string;
+  subtitle_en?: string;
   date: string;
   category: 'testimony' | 'theology' | 'fellowship' | 'to-you';
   scripture: string;
@@ -3006,8 +3008,10 @@ The Lord's servant, Mary of Nazareth`,
     authorAvatar: '📜',
     authorBio: '神的仆人，律法的颁布者，五经的作者',
     authorBioEn: 'Servant of God, lawgiver, author of the Pentateuch',
-    title_zh: '那些被记念的名字，从约外之民看约内之恩',
-    title_en: 'Names Remembered ,  Grace Within the Covenant, Seen Through Those Outside',
+    title_zh: '那些被记念的名字',
+    title_en: 'Names Remembered',
+    subtitle_zh: '从约外之民看约内之恩',
+    subtitle_en: 'Grace Within the Covenant, Seen Through Those Outside',
     date: '2026-04-25',
     category: 'theology' as Letter['category'],
     scripture: '创世记 10:32',

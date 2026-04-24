@@ -139,7 +139,15 @@ export default function LetterClient({ id }: { id: string }) {
         <h1 className="font-serif-cn text-2xl md:text-3xl font-bold text-[var(--color-text)] mt-3">
           {letter.title_zh}
         </h1>
+        {letter.subtitle_zh && (
+          <p className="font-serif-cn text-base md:text-lg text-[var(--color-text-secondary)] mt-1">
+            {letter.subtitle_zh}
+          </p>
+        )}
         <p className="text-sm text-[var(--color-text-secondary)] italic mt-1">{letter.title_en}</p>
+        {letter.subtitle_en && (
+          <p className="text-xs text-[var(--color-text-secondary)] italic mt-0.5">{letter.subtitle_en}</p>
+        )}
         <p className="text-xs text-[var(--color-text-secondary)] mt-2">{letter.date}</p>
       </div>
 

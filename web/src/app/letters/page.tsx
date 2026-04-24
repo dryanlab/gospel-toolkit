@@ -129,6 +129,9 @@ export default function LettersPage() {
                   <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)] break-words">
                     {letter.title_zh}
                   </h2>
+                  {letter.subtitle_zh && (
+                    <p className="font-serif-cn text-sm text-[var(--color-text-secondary)]">{letter.subtitle_zh}</p>
+                  )}
                   <p className="text-xs text-[var(--color-text-secondary)] italic mb-2">{letter.title_en}</p>
                   <p className="text-sm text-[var(--color-text-secondary)] mb-2">
                     ✍️ {letter.author} {letter.authorEn} · 📖 {letter.scripture}
