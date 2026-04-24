@@ -6,7 +6,7 @@ authorAvatar: "🔥"
 authorBio: "信心之父，从迦勒底的吾珥蒙召，神的朋友"
 authorBioEn: "Father of faith, called from Ur of the Chaldeans, friend of God"
 title_zh: "摩利亚山上的三天路程"
-title_en: "Three Days\"
+title_en: "Three Days\\"
 date: "2026-03-07"
 category: "testimony"
 scripture: "创世记 22:1-19"
@@ -83,7 +83,7 @@ He said, "Take your son, your only son Isaac, whom you love, and go to the land 
 
 那三天我是怎么走过来的，我说不清楚。我只知道，每一步都是靠着那个信念：神必自己预备。
 
-第一天夜里，我躺在旷野里，望着天上的星星。那些星星，就是神当年带我到帐篷外面，叫我数算的那些星星："你的后裔将要如此。"我数不过来，神的应许也不会落空。以撒是这应许的载体，神不会毁掉自己的应许。这个念头让我撑过了那一夜。
+第一天夜里，我躺在旷野里，望着天上的星星。那些星星，就是神当年带我到帐篷外面，叫我数算的那些星星，"你的后裔将要如此。"我数不过来，神的应许也不会落空。以撒是这应许的载体，神不会毁掉自己的应许。这个念头让我撑过了那一夜。
 
 第二天，我开始害怕。不是怕死，也不是怕失去以撒，而是怕自己做错了，怕我听错了神的声音，怕这是一个错误。但我回想我这一生神对我说的每一句话，每一次他说了都算数，每一次他应许了都实现。我凭什么这一次不信他？
 
@@ -103,9 +103,7 @@ He said, "Take your son, your only son Isaac, whom you love, and go to the land 
 
 我说："我儿，我在这里。"
 
-"请看，火与柴都有了，但燔祭的羊羔在那里呢？"
-
-弟兄姐妹，我无法告诉你那一刻我心里是什么感受。我的儿子，我等了二十五年的儿子，用他天真无邪的眼睛看着我问：羊羔在哪里？
+"请看，火与柴都有了，但燔祭的羊羔在那里呢？"我无法告诉你那一刻我心里是什么感受。我的儿子，我等了二十五年的儿子，用他天真无邪的眼睛看着我问：羊羔在哪里？
 
 我说："我儿，神必自己预备作燔祭的羊羔。"
 
@@ -137,9 +135,7 @@ He said, "Take your son, your only son Isaac, whom you love, and go to the land 
 
 我给那地方起名叫"耶和华以勒"，耶和华必预备。
 
-直到今日，人还说："在耶和华的山上必有预备。"
-
-弟兄姐妹，那一天我明白了两件事。
+直到今日，人还说："在耶和华的山上必有预备。"那一天我明白了两件事。
 
 第一件：**神不要以撒，神要的是我的心。**
 
@@ -165,7 +161,7 @@ He said, "Take your son, your only son Isaac, whom you love, and go to the land 
 
 *爱你的弟兄，亚伯拉罕*
 
-## Content (English)
+## 正文（英文）
 
 My name was Abram. Later, God changed it to Abraham, father of a multitude.
 
@@ -243,7 +239,7 @@ I said: "Here I am, my son."
 
 "Behold, the fire and the wood, but where is the lamb for a burnt offering?"
 
-Brothers and sisters, I cannot tell you what I felt in that moment. My son, the son I waited twenty-five years for, looking up at me with those innocent eyes and asking: where is the lamb?
+ I cannot tell you what I felt in that moment. My son, the son I waited twenty-five years for, looking up at me with those innocent eyes and asking: where is the lamb?
 
 I said: "God will provide for himself the lamb for a burnt offering, my son."
 
@@ -267,7 +263,7 @@ I lifted my eyes and looked, and behold, behind me was a ram caught in a thicket
 
 I called the name of that place, "The LORD will provide." As it is said to this day, "On the mount of the LORD it shall be provided."
 
-Brothers and sisters, on that day I understood two things.
+ On that day I understood two things.
 
 The first: **God did not want Isaac. God wanted my heart.**
 
@@ -292,4 +288,3 @@ That day, on Mount Moriah, I raised the knife, and only then did I see the heart
 That is the gospel.
 
 *Your brother in faith, Abraham*
-

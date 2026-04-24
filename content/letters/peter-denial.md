@@ -69,9 +69,7 @@ And the Lord turned and looked at Peter. And Peter remembered the saying of the 
 
 第三次，旁边的人说："你的口音把你露出来了，你真是他们一党的。"
 
-**我不认得那个人！** 我甚至起了咒发了誓。
-
-弟兄姐妹，你们听到了吗？我起誓咒诅自己，说我不认得祂，那个在加利利海边呼召我的主，那个拉着我的手叫我在水面上行走的主，那个对我说"你是彼得，我要把我的教会建造在这磐石上"的主。
+**我不认得那个人！** 我甚至起了咒发了誓。你们听到了吗？我起誓咒诅自己，说我不认得祂，那个在加利利海边呼召我的主，那个拉着我的手叫我在水面上行走的主，那个对我说"你是彼得，我要把我的教会建造在这磐石上"的主。
 
 ## 鸡叫了
 
@@ -101,7 +99,7 @@ And the Lord turned and looked at Peter. And Peter remembered the saying of the 
 
 约翰先认出祂："是主！"
 
-我一听到这句话，就束上外衣，跳进海里，游向岸边。弟兄姐妹，你们听到了吗，**我没有逃走，我向祂游过去了。** 我不知道祂要对我说什么，我不知道等待我的是斥责还是赦免，但我无法不奔向祂。这就是爱，哪怕你满身羞耻，你还是忍不住要到祂面前。
+我一听到这句话，就束上外衣，跳进海里，游向岸边。你们听到了吗，**我没有逃走，我向祂游过去了。** 我不知道祂要对我说什么，我不知道等待我的是斥责还是赦免，但我无法不奔向祂。这就是爱，哪怕你满身羞耻，你还是忍不住要到祂面前。
 
 上了岸，我看到一堆**炭火**。
 
@@ -119,7 +117,7 @@ And the Lord turned and looked at Peter. And Peter remembered the saying of the 
 
 我说："主阿，是的，你知道我爱你。"
 
-可我不敢再用那个大胆的"爱"字了。在希腊文里，祂问的是agape，那种完全的、舍己的、至死不渝的爱。我回答的是phileo：朋友的爱、真诚却有限的爱。因为我已经不敢夸口了。那个说"我就是跟你一起死也不会不认你"的人，连在一个使女面前都站不住。
+可我不敢再用那个大胆的"爱"字了。在希腊文里，祂问的是agape，那种完全的、舍己的、至死不渝的爱。我回答的是phileo，朋友的爱、真诚却有限的爱。因为我已经不敢夸口了。那个说"我就是跟你一起死也不会不认你"的人，连在一个使女面前都站不住。
 
 祂说："你喂养我的小羊。"
 
@@ -141,9 +139,7 @@ And the Lord turned and looked at Peter. And Peter remembered the saying of the 
 
 我不再为自己辩护，不再夸口，不再承诺。我只能说：你知道。你知道我的软弱，你知道我的失败，你知道我所有的眼泪和羞耻，**但你也知道，在这一切的底下，我爱你。** 哪怕是这么小的、这么残破的爱，你都知道。
 
-祂说："你喂养我的羊。"
-
-弟兄姐妹，你们听到了吗？祂没有说"好吧，我原谅你了，但你以后靠边站"。祂没有降职我、边缘化我、给我安排一个不重要的岗位。**祂把最重要的使命交给了我，牧养祂的羊群。**
+祂说："你喂养我的羊。"你们听到了吗？祂没有说"好吧，我原谅你了，但你以后靠边站"。祂没有降职我、边缘化我、给我安排一个不重要的岗位。**祂把最重要的使命交给了我：牧养祂的羊群。**
 
 这就是恩典。恩典不只是赦免你的过去，恩典是重新赋予你未来。
 
@@ -153,7 +149,7 @@ And the Lord turned and looked at Peter. And Peter remembered the saying of the 
 
 那个夜晚是我生命中最黑暗的时刻。但那个清晨是我生命中最光明的时刻。
 
-如果你此刻正被自己的失败压得喘不过气来：如果你觉得自己说过的话、做过的事、背叛过的信任，让你不配再被主使用：
+如果你此刻正被自己的失败压得喘不过气来，如果你觉得自己说过的话、做过的事、背叛过的信任，让你不配再被主使用，
 
 **请你听我说：** 我，彼得，三次在众人面前发咒起誓说不认识耶稣。我看见祂的眼神，跑出去痛哭。我以为一切都完了。
 
@@ -177,7 +173,7 @@ And the Lord turned and looked at Peter. And Peter remembered the saying of the 
 
 *愿恩惠、平安多多地加给你们，你的弟兄，彼得*
 
-## Content (English)
+## 正文（英文）
 
 ## Lord, Even If All Fall Away, I Never Will
 
@@ -225,7 +221,7 @@ The third time, bystanders said: "Your accent betrays you. You are one of them."
 
 **I do not know the man!** I even began to invoke a curse on myself.
 
-Brothers and sisters, did you hear that? I swore an oath that I did not know Him, the One who called me by the Sea of Galilee, who held my hand as I walked on water, who said to me, "You are Peter, and on this rock I will build my church."
+ Did you hear that? I swore an oath that I did not know Him, the One who called me by the Sea of Galilee, who held my hand as I walked on water, who said to me, "You are Peter, and on this rock I will build my church."
 
 ## The Rooster Crowed
 
@@ -255,7 +251,7 @@ That night we caught nothing. As dawn broke, a figure stood on the shore and cal
 
 John recognized Him first: "It is the Lord!"
 
-The moment I heard those words, I put on my outer garment and threw myself into the sea, swimming toward shore. Brothers and sisters, did you hear that? **I did not run away. I swam toward Him.** I did not know what He would say to me, rebuke or forgiveness, but I could not help running to Him. That is what love does: even when you are covered in shame, you cannot stay away.
+The moment I heard those words, I put on my outer garment and threw myself into the sea, swimming toward shore.  Did you hear that? **I did not run away. I swam toward Him.** I did not know what He would say to me, rebuke or forgiveness, but I could not help running to Him. That is what love does: even when you are covered in shame, you cannot stay away.
 
 When I reached the shore, I saw a **charcoal fire**.
 
@@ -297,7 +293,7 @@ I no longer defended myself, no longer boasted, no longer made promises. All I c
 
 He said, "Feed my sheep."
 
-Brothers and sisters, did you hear? He did not say, "Fine, I forgive you, but step aside from now on." He did not demote me, marginalize me, or assign me some minor role. **He entrusted me with His most important mission, to shepherd His flock.**
+ Did you hear? He did not say, "Fine, I forgive you, but step aside from now on." He did not demote me, marginalize me, or assign me some minor role. **He entrusted me with His most important mission :  to shepherd His flock.**
 
 This is grace. Grace does not merely forgive your past. Grace gives you back your future.
 
@@ -307,7 +303,7 @@ Brothers and sisters, my hand trembles as I write this letter. Not from age, but
 
 That night was the darkest moment of my life. But that morning was the brightest.
 
-If you are crushed by your own failure right now, if the words you have spoken, the things you have done, the trust you have betrayed make you feel unworthy of ever being used by the Lord again: 
+If you are crushed by your own failure right now, if the words you have spoken, the things you have done, the trust you have betrayed make you feel unworthy of ever being used by the Lord again , 
 
 **Hear me:** I, Peter, swore with curses three times before witnesses that I did not know Jesus. I saw His eyes, ran out, and wept bitterly. I thought it was all over.
 
@@ -330,4 +326,3 @@ You need only answer one thing: **"Lord, you know that I love you."**
 *"But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren." (Luke 22:32)*
 
 *May grace and peace be multiplied to you, your brother, Peter*
-

@@ -4,7 +4,7 @@ author: "大卫"
 authorEn: "David"
 authorAvatar: "👑"
 authorBio: "以色列最伟大的王，合神心意的人，诗篇的主要作者"
-authorBioEn: "Greatest king of Israel, a man after God\"
+authorBioEn: "Greatest king of Israel, a man after God\\"
 title_zh: "写诗篇51那天"
 title_en: "The Day I Wrote Psalm 51"
 date: "2026-03-14"
@@ -31,15 +31,13 @@ The sacrifices of God are a broken spirit; a broken and contrite heart, O God, y
 
 你们中间许多人知道我的名字，知道我写的诗篇，知道我是那个用机弦甩石打死歌利亚的少年，知道我被称为"合神心意的人"。但今天我要告诉你们的，不是那些光彩的故事。今天我要告诉你们的，是我一生中最黑暗的日子，也是最真实的日子，就是我写诗篇51的那一天。
 
-我必须把这件事完完全全地告诉你们，因为我知道你们中间有些人正活在我当时的光景中：你犯了罪，你以为可以藏住，你在神面前假装一切都没有发生。弟兄姐妹，我大卫要告诉你，**藏不住的。**
+我必须把这件事完完全全地告诉你们，因为我知道你们中间有些人正活在我当时的光景中：你犯了罪，你以为可以藏住，你在神面前假装一切都没有发生。我大卫要告诉你，**藏不住的。**
 
 ## 那个春天的黄昏
 
 事情发生在春天。列王出战的时候，我本应该在前线带领以色列的军队，但那一年，我留在了耶路撒冷。我把约押派了出去，自己却留在王宫里。这是第一个错误。但当时我不觉得这是错误，我是王，我当然可以选择留下。
 
-一天傍晚，我从床上起来，在王宫的平顶上散步。就在那时，我看见了一个妇人在沐浴。她非常美丽。
-
-弟兄姐妹，我不会详细描述接下来发生的事。你们可以去读撒母耳记下第11章。我只要说：我差人打听那妇人是谁。有人告诉我说："他是以连的女儿，赫人乌利亚的妻拔示巴。"（撒母耳记下11:3）
+一天傍晚，我从床上起来，在王宫的平顶上散步。就在那时，我看见了一个妇人在沐浴。她非常美丽。我不会详细描述接下来发生的事。你们可以去读撒母耳记下第11章。我只要说：我差人打听那妇人是谁。有人告诉我说："他是以连的女儿，赫人乌利亚的妻拔示巴。"（撒母耳记下11:3）
 
 **她是有丈夫的妇人。而且她的丈夫是我最忠心的勇士之一。**
 
@@ -89,7 +87,7 @@ The sacrifices of God are a broken spirit; a broken and contrite heart, O God, y
 
 我白天坐在宝座上审判百姓的案件，心里却知道自己是最该受审判的那个人。我夜里躺在床上，黑暗中乌利亚的面容在我眼前浮现。我听到他说："我决不行这事！"，他连回家睡一夜都不肯，而我夺了他的妻子、取了他的性命。
 
-有些人以为，只要没被抓住，罪就不算什么。弟兄姐妹，我以亲身经历告诉你们：**被神的灵追赶，比被全世界的人追赶更可怕。** 因为你无处可逃。你可以骗过所有人，但你骗不过那位鉴察人心肺腑的神。
+有些人以为，只要没被抓住，罪就不算什么。我以亲身经历告诉你们：**被神的灵追赶，比被全世界的人追赶更可怕。** 因为你无处可逃。你可以骗过所有人，但你骗不过那位鉴察人心肺腑的神。
 
 那将近一年，是我一生中最漫长的日子。每一天都像一年。
 
@@ -107,11 +105,11 @@ The sacrifices of God are a broken spirit; a broken and contrite heart, O God, y
 
 > "你就是那人！"（撒母耳记下12:7）
 
-弟兄姐妹，我不知道该怎么向你们描述那一刻。那不只是一个人在指控我。那是永生神借着祂仆人的口，撕开了我伪装了将近一年的面具。那五个字："你就是那人"，像一把刀，刺穿了我所有的借口、所有的伪装、所有的自我欺骗。
+弟兄姐妹，我不知道该怎么向你们描述那一刻。那不只是一个人在指控我。那是永生神借着祂仆人的口，撕开了我伪装了将近一年的面具。那五个字，"你就是那人"，像一把刀，刺穿了我所有的借口、所有的伪装、所有的自我欺骗。
 
 拿单继续说。耶和华如此说：我膏你作以色列的王，救你脱离扫罗的手。我将你主人的家业赐给你……你若还以为不足，我早就加倍地赐给你。你为什么藐视耶和华的命令，行祂眼中看为恶的事呢？
 
-每一句话都像炭火落在我头上。神给了我一切：王位、权柄、财富、安全，**我却仍然不满足。** 我藐视了那位把一切赐给我的神。
+每一句话都像炭火落在我头上。神给了我一切，王位、权柄、财富、安全，**我却仍然不满足。** 我藐视了那位把一切赐给我的神。
 
 那一刻，所有的伪装都碎了。王的尊严碎了。自我辩护碎了。将近一年来苦苦维持的假面碎了。
 
@@ -119,11 +117,9 @@ The sacrifices of God are a broken spirit; a broken and contrite heart, O God, y
 
 不是"我犯了一个错误"。不是"情况很复杂"。不是"这事也不能全怪我"。只是七个字：**我得罪耶和华了。**
 
-拿单对我说："耶和华已经除掉你的罪，你必不至于死。"
+拿单对我说："耶和华已经除掉你的罪，你必不至于死。"请注意，这不是因为我的悔改有多好、多深、多真诚。这完全是因为耶和华的恩典。是祂选择赦免。是祂除掉了我的罪。悔改是祂赐给我的礼物，赦免更是。
 
-弟兄姐妹，请注意，这不是因为我的悔改有多好、多深、多真诚。这完全是因为耶和华的恩典。是祂选择赦免。是祂除掉了我的罪。悔改是祂赐给我的礼物，赦免更是。
-
-**但罪的后果并没有被免除。** 拿单告诉我，我与拔示巴所生的孩子必定要死。刀剑必永不离开我的家。这些都一一应验了。神赦免了我的罪，但祂没有免除罪的管教。这也是出于祂的爱："因为主所爱的，他必管教。"（希伯来书12:6）
+**但罪的后果并没有被免除。** 拿单告诉我，我与拔示巴所生的孩子必定要死。刀剑必永不离开我的家。这些都一一应验了。神赦免了我的罪，但祂没有免除罪的管教。这也是出于祂的爱，"因为主所爱的，他必管教。"（希伯来书12:6）
 
 ## 写诗篇51的那一天
 
@@ -181,9 +177,7 @@ The sacrifices of God are a broken spirit; a broken and contrite heart, O God, y
 
 这是我在写这首诗时领悟到的最重要的真理，也是我最想告诉你们的话。
 
-我是王。我可以献上成千上万的牛羊。我可以在圣殿里烧最昂贵的香。但神不需要这些。**神要的是碎裂的心。** 不是完美的宗教表演，不是华丽的敬拜仪式，不是一长串属灵的履历表。只是一颗在祂面前完全破碎、完全诚实、完全放弃自我辩护的心。
-
-弟兄姐妹，这是给所有跌倒之人的盼望。你不需要先把自己修好再来到神面前。你不需要先攒够功德再来祈求赦免。**你只需要带着你那颗碎裂的、忧伤的、痛悔的心来，祂必不轻看。**
+我是王。我可以献上成千上万的牛羊。我可以在圣殿里烧最昂贵的香。但神不需要这些。**神要的是碎裂的心。** 不是完美的宗教表演，不是华丽的敬拜仪式，不是一长串属灵的履历表。只是一颗在祂面前完全破碎、完全诚实、完全放弃自我辩护的心。这是给所有跌倒之人的盼望。你不需要先把自己修好再来到神面前。你不需要先攒够功德再来祈求赦免。**你只需要带着你那颗碎裂的、忧伤的、痛悔的心来：祂必不轻看。**
 
 ## 这不是故事的结局
 
@@ -213,9 +207,7 @@ The sacrifices of God are a broken spirit; a broken and contrite heart, O God, y
 
 也不要以为悔改只是一时的情绪。真正的悔改是圣灵的工作。它不只是让你为后果感到害怕，而是让你为得罪了圣洁的神而忧伤。它不只是让你说"对不起"，而是让你的生命有真实的转变。
 
-诗篇51不是我写过的最华丽的诗。它没有诗篇23的宁静之美，没有诗篇19的壮丽颂赞，没有诗篇8的宇宙视野。但它是我写过的**最真实的诗**。因为它是从最深的破碎中流出来的。
-
-弟兄姐妹，请记住这句话：
+诗篇51不是我写过的最华丽的诗。它没有诗篇23的宁静之美，没有诗篇19的壮丽颂赞，没有诗篇8的宇宙视野。但它是我写过的**最真实的诗**。因为它是从最深的破碎中流出来的。请记住这句话：
 
 > "神所要的祭就是忧伤的灵；神啊，忧伤痛悔的心，你必不轻看。"（诗篇51:17）
 
@@ -227,7 +219,7 @@ The sacrifices of God are a broken spirit; a broken and contrite heart, O God, y
 
 *爱你的弟兄，大卫*
 
-## Content (English)
+## 正文（英文）
 
 ## Dear Brothers and Sisters
 
@@ -235,7 +227,7 @@ I am David, son of Jesse, king of Israel.
 
 Many of you know my name. You know the psalms I wrote, the giant I slew with a sling and a stone, and that I was called "a man after God's own heart." But what I must tell you today is not one of those glorious stories. Today I must tell you about the darkest day of my life, and the most honest, the day I wrote Psalm 51.
 
-I must tell you this story in full, because I know some of you are living in the same condition I was in: you have sinned, you think you can hide it, and you are pretending before God that nothing has happened. Brothers and sisters, I, David, tell you, **it cannot be hidden.**
+I must tell you this story in full, because I know some of you are living in the same condition I was in: you have sinned, you think you can hide it, and you are pretending before God that nothing has happened.  I, David, tell you, **it cannot be hidden.**
 
 ## That Spring Evening
 
@@ -243,7 +235,7 @@ It happened in the spring. At the time when kings go out to battle, I should hav
 
 One evening I rose from my bed and walked on the roof of the palace. It was then that I saw a woman bathing. She was very beautiful.
 
-Brothers and sisters, I will not describe in detail what happened next. You may read 2 Samuel chapter 11 for yourselves. I will say only this: I sent and inquired about the woman. And someone told me, "And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?" (2 Samuel 11:3)
+ I will not describe in detail what happened next. You may read 2 Samuel chapter 11 for yourselves. I will say only this: I sent and inquired about the woman. And someone told me, "And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?" (2 Samuel 11:3)
 
 **She was a married woman. And her husband was one of my most loyal warriors.**
 
@@ -293,7 +285,7 @@ I later wrote in Psalm 32:
 
 By day I sat on my throne judging the cases of the people, knowing in my heart that I was the one who most deserved judgment. By night I lay on my bed, and in the darkness Uriah's face appeared before me. I heard him say, "I will not do this thing!", he would not even go home to sleep for one night, and I had taken his wife and his life.
 
-Some people think that if you are not caught, sin does not matter. Brothers and sisters, I tell you from personal experience: **being pursued by the Spirit of God is more terrifying than being pursued by the entire world.** For there is nowhere to flee. You can deceive everyone, but you cannot deceive the One who searches hearts and minds.
+Some people think that if you are not caught, sin does not matter.  I tell you from personal experience: **being pursued by the Spirit of God is more terrifying than being pursued by the entire world.** For there is nowhere to flee. You can deceive everyone, but you cannot deceive the One who searches hearts and minds.
 
 That year was the longest of my life. Every day felt like a year.
 
@@ -325,7 +317,7 @@ Not "I made a mistake." Not "It's complicated." Not "It wasn't entirely my fault
 
 Nathan said to me, "The LORD also has put away your sin; you shall not die."
 
-Brothers and sisters, please note, this was not because my repentance was so good, so deep, or so sincere. It was entirely because of the grace of the LORD. It was He who chose to forgive. It was He who put away my sin. Repentance was a gift He gave me, and forgiveness even more so.
+ Please note, this was not because my repentance was so good, so deep, or so sincere. It was entirely because of the grace of the LORD. It was He who chose to forgive. It was He who put away my sin. Repentance was a gift He gave me, and forgiveness even more so.
 
 **But the consequences of sin were not removed.** Nathan told me that the child born to me and Bathsheba would surely die. The sword would never depart from my house. These things all came to pass. God forgave my sin, but He did not remove its discipline. This too was from His love, "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth." (Hebrews 12:6).
 
@@ -349,7 +341,7 @@ Notice: I did not say "have mercy on me according to my merits." I did not say "
 
 > "For I acknowledge my transgressions: and my sin is ever before me." (Psalm 51:3)
 
-For nearly a year I had tried not to look at my sin. I pretended it did not exist. But now the mask was shattered, and I fled no longer. My sin was right there, **ever before me**: every moment.
+For nearly a year I had tried not to look at my sin. I pretended it did not exist. But now the mask was shattered, and I fled no longer. My sin was right there, **ever before me**, every moment.
 
 Then I wrote perhaps the most puzzling yet most profound line of the entire psalm:
 
@@ -387,7 +379,7 @@ This is the most important truth I grasped while writing this psalm, and the one
 
 I am a king. I could offer thousands upon thousands of rams. I could burn the most expensive incense in the tabernacle. But God does not need these things. **What God desires is a broken heart.** Not a flawless religious performance, not a spectacular worship service, not a long résumé of spiritual accomplishments. Simply a heart that is completely broken before Him, completely honest, and has completely given up self-justification.
 
-Brothers and sisters, this is the hope for all who have fallen. You do not need to fix yourself before coming to God. You do not need to accumulate enough merit before asking for forgiveness. **You need only bring your broken, sorrowful, contrite heart, He will not despise it.**
+ This is the hope for all who have fallen. You do not need to fix yourself before coming to God. You do not need to accumulate enough merit before asking for forgiveness. **You need only bring your broken, sorrowful, contrite heart :  He will not despise it.**
 
 ## This Is Not the End of the Story
 
@@ -419,7 +411,7 @@ And do not think that repentance is merely a momentary emotion. True repentance 
 
 Psalm 51 is not the most beautiful psalm I ever wrote. It does not have the serene beauty of Psalm 23, or the majestic praise of Psalm 19, or the cosmic vision of Psalm 8. But it is the **most honest psalm** I ever wrote, because it flowed from the deepest brokenness.
 
-Brothers and sisters, remember this verse:
+ Remember this verse:
 
 > "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise." (Psalm 51:17)
 
@@ -427,7 +419,6 @@ Your broken heart is more precious in God's sight than ten thousand rams, than t
 
 May the God who had mercy on me likewise have mercy on you. May He create in you a clean heart and renew a right spirit within you. May He not cast you away, nor take His Holy Spirit from you, and may He restore to you the joy of His salvation.
 
-*Grace and peace be with you, *
+*Grace and peace be with you , *
 
 *Your brother who loves you, David*
-

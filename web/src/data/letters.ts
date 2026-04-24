@@ -45,7 +45,7 @@ export const letters: Letter[] = [
     scriptureText_zh: `神说："你带着你的儿子，就是你独生的儿子，你所爱的以撒，往摩利亚地去，在我所要指示你的山上，把他献为燔祭。"`,
     scriptureText_en: `He said, "Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you."`,
     summary_zh: '不写结局，只写从领受命令到举刀的那三天。每一步路在想什么？神必自己预备，这句话是信心还是绝望？',
-    summary_en: 'A son at a hundred years old, after twenty-five years of waiting. Then God said: give him back to me. When I raised the knife that day, I finally understood what faith truly means ,  and what lies in the heart of God.',
+    summary_en: 'A son at a hundred years old, after twenty-five years of waiting. Then God said: give him back to me. When I raised the knife that day, I finally understood what faith truly means, and what lies in the heart of God.',
     content_zh: `我叫亚伯兰，后来神把我的名字改为亚伯拉罕，多国之父。
 
 我愿意把一件事告诉你，那是我这一生中最黑暗、也是最光明的一天。
@@ -181,9 +181,9 @@ export const letters: Letter[] = [
 这就是福音。
 
 *爱你的弟兄，亚伯拉罕*`,
-    content_en: `My name was Abram. Later, God changed it to Abraham ,  father of a multitude.
+    content_en: `My name was Abram. Later, God changed it to Abraham, father of a multitude.
 
-I want to tell you about one day ,  the darkest day and the brightest day of my life.
+I want to tell you about one day, the darkest day and the brightest day of my life.
 
 That day has a name: Moriah.
 
@@ -193,13 +193,13 @@ That day has a name: Moriah.
 
 If you are to understand that day, you must first understand what Isaac meant to me.
 
-When God first called me, I was seventy-five. He promised I would become a great nation, with descendants as numerous as the stars and the dust. But Sarah had no children. We waited one year, then five, then ten. Sarah grew old and so did I; our bodies had long since lost the power to conceive ,  yet God's promise had not been fulfilled.
+When God first called me, I was seventy-five. He promised I would become a great nation, with descendants as numerous as the stars and the dust. But Sarah had no children. We waited one year, then five, then ten. Sarah grew old and so did I; our bodies had long since lost the power to conceive, yet God's promise had not been fulfilled.
 
 At one point I trusted my own wisdom. I had my servant Hagar bear me a son, Ishmael, thinking this was the fulfillment of the promise. But God said: no.
 
 Twenty-five years later, I was a hundred years old. Sarah was ninety. Her ability to bear children had long been impossible. And then God did something utterly impossible in human terms: **Sarah became pregnant and gave birth to Isaac.**
 
-Isaac means "laughter." Because when God announced this news, both of us laughed ,  not with joy but with that disbelieving, half-bitter laughter of "how could this possibly be?" We did not believe it, until Isaac was truly born.
+Isaac means "laughter." Because when God announced this news, both of us laughed, not with joy but with that disbelieving, half-bitter laughter of "how could this possibly be?" We did not believe it, until Isaac was truly born.
 
 From that day, Isaac was my entire joy. He was the living evidence of God's faithfulness, the embodiment of the promise. Every time I looked at him, I saw that God was real.
 
@@ -217,13 +217,13 @@ When Isaac was perhaps in his early teens, God spoke to me in the night.
 
 I do not know how long I lay there through that night.
 
-People imagine that faith is an easy feeling ,  a voice in your heart saying "don't worry, God will protect you," and then everything becomes simple. It is not like that. Faith is not the absence of struggle. Faith is choosing obedience in the depths of the most agonizing struggle.
+People imagine that faith is an easy feeling, a voice in your heart saying "don't worry, God will protect you," and then everything becomes simple. It is not like that. Faith is not the absence of struggle. Faith is choosing obedience in the depths of the most agonizing struggle.
 
 The first thing I recognized: this was God's voice. I had followed God for twenty-five years; I knew His voice. This was not a temptation, not a dream. It was God.
 
 The second thing I could not silence: **but Isaac is the promised offspring. If Isaac dies, how can the promise be fulfilled?**
 
-This question turned over and over in my mind through the whole night. The letter to the Hebrews says later that I found an answer: I believed that God was able even to raise him from the dead (Hebrews 11:19). God had promised that Isaac was the heir; God had commanded that Isaac be offered. If Isaac died, God would raise him back to life ,  because God does not contradict Himself.
+This question turned over and over in my mind through the whole night. The letter to the Hebrews says later that I found an answer: I believed that God was able even to raise him from the dead (Hebrews 11:19). God had promised that Isaac was the heir; God had commanded that Isaac be offered. If Isaac died, God would raise him back to life, because God does not contradict Himself.
 
 I do not know how much of that was faith and how much was fear when I believed it. But I rose. Early the very next morning, I rose.
 
@@ -243,7 +243,7 @@ On the third day, I lifted up my eyes and saw the place in the distance.
 
 I said to my servants: "Stay here with the donkey; I and the boy will go over there and worship and come again to you."
 
-"Come again to you" ,  I said we, not I. I said we would return, Isaac and I together. Whatever was going to happen, Isaac would come back. I believed it.
+"Come again to you", I said we, not I. I said we would return, Isaac and I together. Whatever was going to happen, Isaac would come back. I believed it.
 
 ---
 
@@ -257,7 +257,7 @@ I said: "Here I am, my son."
 
 "Behold, the fire and the wood, but where is the lamb for a burnt offering?"
 
- I cannot tell you what I felt in that moment. My son ,  the son I waited twenty-five years for ,  looking up at me with those innocent eyes and asking: where is the lamb?
+ I cannot tell you what I felt in that moment. My son, the son I waited twenty-five years for, looking up at me with those innocent eyes and asking: where is the lamb?
 
 I said: "God will provide for himself the lamb for a burnt offering, my son."
 
@@ -285,23 +285,23 @@ I called the name of that place, "The LORD will provide." As it is said to this 
 
 The first: **God did not want Isaac. God wanted my heart.**
 
-God already knew I would obey ,  He stopped me before the knife fell. The whole thing was not about Isaac dying. It was about asking me: what do you love most? Isaac, or the One who gave you Isaac?
+God already knew I would obey, He stopped me before the knife fell. The whole thing was not about Isaac dying. It was about asking me: what do you love most? Isaac, or the One who gave you Isaac?
 
 Do you love God, or do you love God's gifts?
 
-I discovered, on Mount Moriah, that the knife did not pierce Isaac. It pierced the idol in my heart ,  the place where I had set Isaac above God.
+I discovered, on Mount Moriah, that the knife did not pierce Isaac. It pierced the idol in my heart, the place where I had set Isaac above God.
 
 The second: **God provided a substitute lamb.**
 
-That ram was caught in the thicket before I found it. God had put it there already. He provided it ,  not to reassure me that everything would go smoothly from then on, but to show me a foreshadowing. One day, God's own Son would be bound like that ram, offered up, to take the place of humanity's death.
+That ram was caught in the thicket before I found it. God had put it there already. He provided it, not to reassure me that everything would go smoothly from then on, but to show me a foreshadowing. One day, God's own Son would be bound like that ram, offered up, to take the place of humanity's death.
 
-Isaac carried the wood up the mountain; that wood was later laid on another man's shoulders ,  the Son of God, carrying the cross up to Golgotha.
+Isaac carried the wood up the mountain; that wood was later laid on another man's shoulders, the Son of God, carrying the cross up to Golgotha.
 
 My hand raised the knife but was stopped; the Father's Son was nailed to the wood, and no one stopped it.
 
 "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?" (Romans 8:32)
 
-That day, on Mount Moriah, I raised the knife ,  and only then did I see the heart of God: a Father willing, out of love, to give even His own Son without holding back.
+That day, on Mount Moriah, I raised the knife, and only then did I see the heart of God: a Father willing, out of love, to give even His own Son without holding back.
 
 That is the gospel.
 
@@ -535,7 +535,7 @@ Your brother, Barnabas, the Son of Encouragement`,
     scriptureText_zh: `神所要的祭就是忧伤的灵；神啊，忧伤痛悔的心，你必不轻看。`,
     scriptureText_en: `The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.`,
     summary_zh: '拿单指着我说"你就是那人"之后，我在碎裂中写下了最真实的一首诗，不是最好的诗，却是从最深的破碎中流出来的。',
-    summary_en: 'After Nathan pointed at me and said "You are the man," I wrote the most honest psalm of my life from the depths of brokenness ,  not my finest poetry, but my truest.',
+    summary_en: 'After Nathan pointed at me and said "You are the man," I wrote the most honest psalm of my life from the depths of brokenness, not my finest poetry, but my truest.',
     content_zh: `## 亲爱的弟兄姐妹
 
 我是大卫，耶西的儿子，以色列的王。
@@ -733,13 +733,13 @@ Your brother, Barnabas, the Son of Encouragement`,
 
 I am David, son of Jesse, king of Israel.
 
-Many of you know my name. You know the psalms I wrote, the giant I slew with a sling and a stone, and that I was called "a man after God's own heart." But what I must tell you today is not one of those glorious stories. Today I must tell you about the darkest day of my life ,  and the most honest ,  the day I wrote Psalm 51.
+Many of you know my name. You know the psalms I wrote, the giant I slew with a sling and a stone, and that I was called "a man after God's own heart." But what I must tell you today is not one of those glorious stories. Today I must tell you about the darkest day of my life, and the most honest, the day I wrote Psalm 51.
 
-I must tell you this story in full, because I know some of you are living in the same condition I was in: you have sinned, you think you can hide it, and you are pretending before God that nothing has happened.  I, David, tell you ,  **it cannot be hidden.**
+I must tell you this story in full, because I know some of you are living in the same condition I was in: you have sinned, you think you can hide it, and you are pretending before God that nothing has happened.  I, David, tell you, **it cannot be hidden.**
 
 ## That Spring Evening
 
-It happened in the spring. At the time when kings go out to battle, I should have been at the front leading the armies of Israel. But that year, I stayed behind in Jerusalem. I sent Joab out and remained in the palace. This was the first mistake. But at the time, I did not see it as one ,  I was the king; surely I could choose to stay.
+It happened in the spring. At the time when kings go out to battle, I should have been at the front leading the armies of Israel. But that year, I stayed behind in Jerusalem. I sent Joab out and remained in the palace. This was the first mistake. But at the time, I did not see it as one, I was the king; surely I could choose to stay.
 
 One evening I rose from my bed and walked on the roof of the palace. It was then that I saw a woman bathing. She was very beautiful.
 
@@ -747,33 +747,33 @@ One evening I rose from my bed and walked on the roof of the palace. It was then
 
 **She was a married woman. And her husband was one of my most loyal warriors.**
 
-I knew what the law said. I had memorized the Torah since my youth. "Neither shalt thou desire thy neighbour’s wife, neither shalt thou covet thy neighbour’s house, his field, or his manservant, or his maidservant, his ox, or his ass, or any thing that is thy neighbour’s." (Deuteronomy 5:21). I knew this commandment by heart. But in that moment, the voice of the law was drowned out by another voice ,  the voice of desire, the voice of power, the voice that said, "I am the king; who can stop me?"
+I knew what the law said. I had memorized the Torah since my youth. "Neither shalt thou desire thy neighbour’s wife, neither shalt thou covet thy neighbour’s house, his field, or his manservant, or his maidservant, his ox, or his ass, or any thing that is thy neighbour’s." (Deuteronomy 5:21). I knew this commandment by heart. But in that moment, the voice of the law was drowned out by another voice, the voice of desire, the voice of power, the voice that said, "I am the king; who can stop me?"
 
 I sent messengers and took her. I sinned against her.
 
 ## Covering One Sin with Another
 
-If things had stopped there, it would have been terrible enough. But sin never stays in one place. Sin has momentum ,  one sin begets another, until you are completely entangled in the web you yourself have woven.
+If things had stopped there, it would have been terrible enough. But sin never stays in one place. Sin has momentum, one sin begets another, until you are completely entangled in the web you yourself have woven.
 
 Bathsheba became pregnant. She sent word to me: "And the woman conceived, and sent and told David, and said, I am with child." (2 Samuel 11:5).
 
 My first response was not repentance, but **concealment**.
 
-I called Uriah back from the front, hoping he would go home and lie with his wife, so that people would think the child was his. But Uriah ,  this man to whom I owed an immeasurable debt ,  had more honor than I did. He said, "And Uriah said unto David, The ark, and Israel, and Judah, abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; shall I then go into mine house, to eat and to drink, and to lie with my wife? as thou livest, and as thy soul liveth, I will not do this thing." (2 Samuel 11:11).
+I called Uriah back from the front, hoping he would go home and lie with his wife, so that people would think the child was his. But Uriah, this man to whom I owed an immeasurable debt, had more honor than I did. He said, "And Uriah said unto David, The ark, and Israel, and Judah, abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; shall I then go into mine house, to eat and to drink, and to lie with my wife? as thou livest, and as thy soul liveth, I will not do this thing." (2 Samuel 11:11).
 
 Did you hear that? Uriah was concerned for the ark of God and the army of Israel, refusing to enjoy comfort. Meanwhile, I, the king, was hiding in my palace committing sin. His loyalty and integrity exposed my depravity and hypocrisy in that moment.
 
 I tried twice to make him go home. He would not. I even got him drunk, and still he did not go home, but slept at the entrance of the palace.
 
-I was desperate. No ,  I was not truly desperate. I could have stopped at that moment and confessed my sin before God. But I chose a darker path.
+I was desperate. No, I was not truly desperate. I could have stopped at that moment and confessed my sin before God. But I chose a darker path.
 
 I wrote a letter to Joab, the commander of the army, and sent it by Uriah's own hand. The letter said: "And he wrote in the letter, saying, Set ye Uriah in the forefront of the hottest battle, and retire ye from him, that he may be smitten, and die." (2 Samuel 11:15).
 
 **I used a faithful man's own hand to deliver his death sentence.**
 
-Brothers and sisters, my hand trembles as I write this. This is the greatest shame of my life. I was not merely guilty of unfaithfulness ,  I became a murderer. By the sword of the Ammonites, I killed an innocent man who was loyal to me.
+Brothers and sisters, my hand trembles as I write this. This is the greatest shame of my life. I was not merely guilty of unfaithfulness, I became a murderer. By the sword of the Ammonites, I killed an innocent man who was loyal to me.
 
-Uriah died. I took Bathsheba into the palace and made her my wife. To the outside world, everything was neatly arranged. The king had married a fallen soldier's widow ,  how merciful.
+Uriah died. I took Bathsheba into the palace and made her my wife. To the outside world, everything was neatly arranged. The king had married a fallen soldier's widow, how merciful.
 
 **But the eyes of the LORD never close.**
 
@@ -781,7 +781,7 @@ Scripture records: "And when the mourning was past, David sent and fetched her t
 
 ## The Year That Followed
 
-From the time of my sin until Nathan came to me, nearly a year passed. What kind of life did I live during that year? From the outside, I was still the king of Israel, still sitting on my throne, still governing the nation, still ,  perhaps ,  worshiping in the tabernacle.
+From the time of my sin until Nathan came to me, nearly a year passed. What kind of life did I live during that year? From the outside, I was still the king of Israel, still sitting on my throne, still governing the nation, still, perhaps, worshiping in the tabernacle.
 
 But on the inside?
 
@@ -789,9 +789,9 @@ I later wrote in Psalm 32:
 
 > "When I kept silence, my bones waxed old through my roaring all the day long. For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah." (Psalm 32:3-4)
 
-**The hand of God was heavy upon me.** Not because God was punishing me ,  though punishment did come ,  but because the Holy Spirit within me would not let me rest. He would not allow me to live comfortably in my sin.
+**The hand of God was heavy upon me.** Not because God was punishing me, though punishment did come, but because the Holy Spirit within me would not let me rest. He would not allow me to live comfortably in my sin.
 
-By day I sat on my throne judging the cases of the people, knowing in my heart that I was the one who most deserved judgment. By night I lay on my bed, and in the darkness Uriah's face appeared before me. I heard him say, "I will not do this thing!" ,  he would not even go home to sleep for one night, and I had taken his wife and his life.
+By day I sat on my throne judging the cases of the people, knowing in my heart that I was the one who most deserved judgment. By night I lay on my bed, and in the darkness Uriah's face appeared before me. I heard him say, "I will not do this thing!", he would not even go home to sleep for one night, and I had taken his wife and his life.
 
 Some people think that if you are not caught, sin does not matter.  I tell you from personal experience: **being pursued by the Spirit of God is more terrifying than being pursued by the entire world.** For there is nowhere to flee. You can deceive everyone, but you cannot deceive the One who searches hearts and minds.
 
@@ -801,7 +801,7 @@ That year was the longest of my life. Every day felt like a year.
 
 Then Nathan came.
 
-The prophet Nathan came to me, sent by the LORD. He did not accuse me directly. He told me a story ,  a rich man with many flocks and herds who took the only lamb of a poor man.
+The prophet Nathan came to me, sent by the LORD. He did not accuse me directly. He told me a story, a rich man with many flocks and herds who took the only lamb of a poor man.
 
 I burned with anger and said to Nathan, "And David’s anger was greatly kindled against the man; and he said to Nathan, As the LORD liveth, the man that hath done this thing shall surely die: And he shall restore the lamb fourfold, because he did this thing, and because he had no pity." (2 Samuel 12:5-6).
 
@@ -811,11 +811,11 @@ Then Nathan looked me in the eyes and spoke the words that struck my soul like t
 
 > "And Nathan said to David, Thou art the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;" (2 Samuel 12:7)
 
-Brothers and sisters, I do not know how to describe that moment to you. It was not merely a man accusing me. It was the living God, through the mouth of His servant, tearing off the mask I had worn for nearly a year. Those four words ,  "You are the man" ,  were like a sword, piercing through all my excuses, all my pretenses, all my self-deception.
+Brothers and sisters, I do not know how to describe that moment to you. It was not merely a man accusing me. It was the living God, through the mouth of His servant, tearing off the mask I had worn for nearly a year. Those four words, "You are the man", were like a sword, piercing through all my excuses, all my pretenses, all my self-deception.
 
 Nathan continued. Thus says the LORD, the God of Israel: I anointed you king over Israel, and I delivered you out of the hand of Saul. I gave you your master's house... And if this were too little, I would add to you as much more. Why have you despised the word of the LORD, to do what is evil in His sight?
 
-Every word fell like burning coals upon my head. God had given me everything ,  the throne, authority, wealth, safety ,  **and still I was not satisfied.** I had despised the God who gave me all things.
+Every word fell like burning coals upon my head. God had given me everything, the throne, authority, wealth, safety, **and still I was not satisfied.** I had despised the God who gave me all things.
 
 In that moment, all pretense shattered. The king's dignity shattered. Self-justification shattered. The facade I had painstakingly maintained for nearly a year shattered.
 
@@ -825,9 +825,9 @@ Not "I made a mistake." Not "It's complicated." Not "It wasn't entirely my fault
 
 Nathan said to me, "The LORD also has put away your sin; you shall not die."
 
- Please note ,  this was not because my repentance was so good, so deep, or so sincere. It was entirely because of the grace of the LORD. It was He who chose to forgive. It was He who put away my sin. Repentance was a gift He gave me, and forgiveness even more so.
+ Please note, this was not because my repentance was so good, so deep, or so sincere. It was entirely because of the grace of the LORD. It was He who chose to forgive. It was He who put away my sin. Repentance was a gift He gave me, and forgiveness even more so.
 
-**But the consequences of sin were not removed.** Nathan told me that the child born to me and Bathsheba would surely die. The sword would never depart from my house. These things all came to pass. God forgave my sin, but He did not remove its discipline. This too was from His love ,  "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth." (Hebrews 12:6).
+**But the consequences of sin were not removed.** Nathan told me that the child born to me and Bathsheba would surely die. The sword would never depart from my house. These things all came to pass. God forgave my sin, but He did not remove its discipline. This too was from His love, "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth." (Hebrews 12:6).
 
 ## The Day I Wrote Psalm 51
 
@@ -845,25 +845,25 @@ Notice: I did not say "have mercy on me according to my merits." I did not say "
 
 > "Wash me throughly from mine iniquity, and cleanse me from my sin." (Psalm 51:2)
 
-"Wash me thoroughly" ,  I used a word for laundering clothes, like a woman scrubbing dirty garments at the river. My sin was not a light stain that could be wiped away with a quick touch. It was filth soaked into the very fibers, requiring thorough, repeated washing.
+"Wash me thoroughly", I used a word for laundering clothes, like a woman scrubbing dirty garments at the river. My sin was not a light stain that could be wiped away with a quick touch. It was filth soaked into the very fibers, requiring thorough, repeated washing.
 
 > "For I acknowledge my transgressions: and my sin is ever before me." (Psalm 51:3)
 
-For nearly a year I had tried not to look at my sin. I pretended it did not exist. But now the mask was shattered, and I fled no longer. My sin was right there ,  **ever before me** ,  every moment.
+For nearly a year I had tried not to look at my sin. I pretended it did not exist. But now the mask was shattered, and I fled no longer. My sin was right there, **ever before me**, every moment.
 
 Then I wrote perhaps the most puzzling yet most profound line of the entire psalm:
 
 > "Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest." (Psalm 51:4)
 
-"Against you only" ,  some will ask: David, did you not also sin against Bathsheba? Against Uriah? Against all Israel?
+"Against you only", some will ask: David, did you not also sin against Bathsheba? Against Uriah? Against all Israel?
 
 Yes. I sinned against every one of them. But what I am saying here is a deeper truth: **all sin, in its essence, is sin against God.** It is His law that was broken. It is His image that was defiled. It is His holiness that was profaned. When I harmed Bathsheba and Uriah, I harmed people made in God's image. All my sin points to the Holy God.
 
-Moreover, when I said "so that you may be justified in your words" ,  I was not defending myself. I was saying: **God, however you judge me, you are right.** I fully accept your verdict. If you were to destroy me, you would be just.
+Moreover, when I said "so that you may be justified in your words", I was not defending myself. I was saying: **God, however you judge me, you are right.** I fully accept your verdict. If you were to destroy me, you would be just.
 
 > "Behold, I was shapen in iniquity; and in sin did my mother conceive me." (Psalm 51:5)
 
-This is not blaming my mother. This is my finally recognizing a profound truth: my problem was not just that one act of sin ,  **my problem is that my entire being is corrupt.** From my mother's womb I carried a sinful nature. My fall on the palace rooftop was not an accidental stumble but the inevitable expression of my fallen nature.
+This is not blaming my mother. This is my finally recognizing a profound truth: my problem was not just that one act of sin, **my problem is that my entire being is corrupt.** From my mother's womb I carried a sinful nature. My fall on the palace rooftop was not an accidental stumble but the inevitable expression of my fallen nature.
 
 This is why self-effort will never be enough. Reform is not enough. Resolution is not enough. Swearing never to do it again is not enough. **What I need is not renovation, but re-creation.**
 
@@ -871,15 +871,15 @@ And so I wrote the heart of this psalm:
 
 > "Create in me a clean heart, O God; and renew a right spirit within me." (Psalm 51:10)
 
-"Create" ,  I used the same word from Genesis chapter 1. Only God can create something from nothing. What I need is an entirely new heart, not a patched-up old one. Only the One who said "Let there be light" and there was light can create light anew in my darkened heart.
+"Create", I used the same word from Genesis chapter 1. Only God can create something from nothing. What I need is an entirely new heart, not a patched-up old one. Only the One who said "Let there be light" and there was light can create light anew in my darkened heart.
 
 > "Cast me not away from thy presence; and take not thy holy spirit from me." (Psalm 51:11)
 
-This was my deepest fear. Not losing my throne ,  what is a throne? Not death ,  death might even be relief. What I feared most was **losing God's presence.** I had seen what happened to Saul. The Spirit of the LORD departed from him, and he became a different man ,  consumed by fear and jealousy. I knelt and pleaded: God, do not leave me as you left Saul!
+This was my deepest fear. Not losing my throne, what is a throne? Not death, death might even be relief. What I feared most was **losing God's presence.** I had seen what happened to Saul. The Spirit of the LORD departed from him, and he became a different man, consumed by fear and jealousy. I knelt and pleaded: God, do not leave me as you left Saul!
 
 > "Restore unto me the joy of thy salvation; and uphold me with thy free spirit." (Psalm 51:12)
 
-"Restore" ,  meaning I once had it. Before my sin, I had the joy of salvation. In those youthful days of shepherding, I gazed at the stars and praised the Creator with a heart full of joy. On the day I danced before the ark, I had inexpressible gladness. But sin took it all away. For nearly a year my heart had been a desert. Now I pleaded with God to give that joy back to me.
+"Restore", meaning I once had it. Before my sin, I had the joy of salvation. In those youthful days of shepherding, I gazed at the stars and praised the Creator with a heart full of joy. On the day I danced before the ark, I had inexpressible gladness. But sin took it all away. For nearly a year my heart had been a desert. Now I pleaded with God to give that joy back to me.
 
 > "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise." (Psalm 51:17)
 
@@ -895,13 +895,13 @@ I must be honest with you: writing Psalm 51 did not mean everything was suddenly
 
 The sin was forgiven, but the consequences remained. The first child born to me and Bathsheba still died. I fasted and prayed for him for seven days, lying on the ground, begging God to spare the child's life. But the child still died.
 
-Later, terrible things happened in my house ,  my son Amnon violated his sister Tamar, my son Absalom killed Amnon, and then Absalom rose up in rebellion to seize my throne. I fled Jerusalem barefoot, weeping as I climbed the Mount of Olives.
+Later, terrible things happened in my house, my son Amnon violated his sister Tamar, my son Absalom killed Amnon, and then Absalom rose up in rebellion to seize my throne. I fled Jerusalem barefoot, weeping as I climbed the Mount of Olives.
 
 The sword indeed never departed from my house. Every calamity within my family reminded me of Nathan's words, reminded me of my sin.
 
 But I must also tell you: **through all this suffering, God did not leave me.** He did not take back His Holy Spirit. He disciplined me, but He did not cast me away. He refined me through suffering, causing me to know more deeply my own weakness and His grace.
 
-Later, God gave Bathsheba and me another son ,  Solomon. The LORD loved him and sent the prophet Nathan to name him Jedidiah, meaning "beloved of the LORD." Do you see? **God bestowed His greatest blessing at the very site of my greatest failure.** The lineage of the Messiah would come down through Solomon. Not because I deserved it ,  this was pure grace.
+Later, God gave Bathsheba and me another son, Solomon. The LORD loved him and sent the prophet Nathan to name him Jedidiah, meaning "beloved of the LORD." Do you see? **God bestowed His greatest blessing at the very site of my greatest failure.** The lineage of the Messiah would come down through Solomon. Not because I deserved it, this was pure grace.
 
 ## A Word to Those Who Have Fallen Today
 
@@ -911,13 +911,13 @@ I, David, say to you: **Come. Bring your broken heart and come.**
 
 Do not waste nearly a year, as I did, in concealment and self-deception. The sooner you come before God to confess, the sooner you will find freedom.
 
-Do not think your sin is too great for God to forgive. I committed adultery and murder, and God forgave even me. Not because I am David ,  but because He is the LORD, "And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth," (Exodus 34:6).
+Do not think your sin is too great for God to forgive. I committed adultery and murder, and God forgave even me. Not because I am David, but because He is the LORD, "And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth," (Exodus 34:6).
 
 Do not think you can repair things by your own effort. What you need is to be re-created, not repaired. Only the Holy Spirit can create a clean heart within you and renew a right spirit within you.
 
-And do not think that repentance is merely a momentary emotion. True repentance is the work of the Holy Spirit. It does not merely make you afraid of consequences ,  it makes you grieve because you have offended a holy God. It does not merely make you say "I'm sorry" ,  it brings about genuine transformation in your life.
+And do not think that repentance is merely a momentary emotion. True repentance is the work of the Holy Spirit. It does not merely make you afraid of consequences, it makes you grieve because you have offended a holy God. It does not merely make you say "I'm sorry", it brings about genuine transformation in your life.
 
-Psalm 51 is not the most beautiful psalm I ever wrote. It does not have the serene beauty of Psalm 23, or the majestic praise of Psalm 19, or the cosmic vision of Psalm 8. But it is the **most honest psalm** I ever wrote ,  because it flowed from the deepest brokenness.
+Psalm 51 is not the most beautiful psalm I ever wrote. It does not have the serene beauty of Psalm 23, or the majestic praise of Psalm 19, or the cosmic vision of Psalm 8. But it is the **most honest psalm** I ever wrote, because it flowed from the deepest brokenness.
 
  Remember this verse:
 
@@ -1497,19 +1497,19 @@ Your servant, Elijah the Tishbite`,
 
 ### Participants
 
-**Abraham** (Host) ,  A figure from around 2000 BC, known as the "Father of Faith." Originally from Mesopotamia (modern-day Iraq), he was called by God to leave his homeland and migrate to the land of Canaan (modern-day Palestine). He is the patriarch of the nation of Israel and a revered ancestor in Judaism, Christianity, and Islam.
+**Abraham** (Host), A figure from around 2000 BC, known as the "Father of Faith." Originally from Mesopotamia (modern-day Iraq), he was called by God to leave his homeland and migrate to the land of Canaan (modern-day Palestine). He is the patriarch of the nation of Israel and a revered ancestor in Judaism, Christianity, and Islam.
 
-**Jacob** ,  Abraham's grandson (Abraham fathered Isaac, and Isaac fathered Jacob), a figure from around 1900 BC. He competed with his twin brother Esau for the birthright and later lived with his uncle Laban for twenty years. In his later years, God renamed him "Israel," and his twelve sons became the ancestors of the twelve tribes of Israel.
+**Jacob**, Abraham's grandson (Abraham fathered Isaac, and Isaac fathered Jacob), a figure from around 1900 BC. He competed with his twin brother Esau for the birthright and later lived with his uncle Laban for twenty years. In his later years, God renamed him "Israel," and his twelve sons became the ancestors of the twelve tribes of Israel.
 
-**Joseph** ,  Jacob's eleventh son and Abraham's great-grandson, a figure from around 1800 BC. At seventeen, he was sold into slavery in Egypt by his brothers. After years of hardship, he rose to become the Prime Minister of Egypt, overseeing the nation's grain supply. His story is one of the Bible's most powerful accounts of forgiveness and reversal of fortune.
+**Joseph**, Jacob's eleventh son and Abraham's great-grandson, a figure from around 1800 BC. At seventeen, he was sold into slavery in Egypt by his brothers. After years of hardship, he rose to become the Prime Minister of Egypt, overseeing the nation's grain supply. His story is one of the Bible's most powerful accounts of forgiveness and reversal of fortune.
 
-**Jotham** ,  A figure from around 1100 BC, son of Gideon, a judge (military leader) of Israel. His half-brother Abimelech, in a bid for power, murdered his seventy brothers. Jotham was the sole survivor.
+**Jotham**, A figure from around 1100 BC, son of Gideon, a judge (military leader) of Israel. His half-brother Abimelech, in a bid for power, murdered his seventy brothers. Jotham was the sole survivor.
 
-**Ruth** ,  A figure from around 1100 BC, a foreign woman from Moab (modern-day Jordan). After her husband's death, she gave up the security of returning to her parents' home and followed her mother-in-law Naomi back to Israel. She later married Boaz and became the great-grandmother of King David.
+**Ruth**, A figure from around 1100 BC, a foreign woman from Moab (modern-day Jordan). After her husband's death, she gave up the security of returning to her parents' home and followed her mother-in-law Naomi back to Israel. She later married Boaz and became the great-grandmother of King David.
 
-**Solomon** ,  A figure from around 950 BC, the wealthiest and wisest king of Israel, son of King David. He built the Temple in Jerusalem and authored the books of Proverbs, Ecclesiastes, and Song of Songs. In his old age, he lamented that everything is "vanity."
+**Solomon**, A figure from around 950 BC, the wealthiest and wisest king of Israel, son of King David. He built the Temple in Jerusalem and authored the books of Proverbs, Ecclesiastes, and Song of Songs. In his old age, he lamented that everything is "vanity."
 
-**Paul** ,  A first-century AD figure, originally named Saul, who was a Jewish elite who persecuted Christians. After a dramatic conversion on the road to Damascus, he became Christianity's most important missionary and theologian, writing thirteen epistles in the New Testament.
+**Paul**, A first-century AD figure, originally named Saul, who was a Jewish elite who persecuted Christians. After a dramatic conversion on the road to Damascus, he became Christianity's most important missionary and theologian, writing thirteen epistles in the New Testament.
 
 ---
 
@@ -1517,7 +1517,7 @@ Your servant, Elijah the Tishbite`,
 
 Abraham looked around at the group gathered before him and spoke slowly:
 
-"I've invited all of you here today to discuss a heavy topic. Every one of us sitting here has personally experienced ,  or witnessed firsthand ,  family members turning against each other over property. Some wounds have healed; others still ache. People often say, 'Even between siblings, keep the accounts clear.' But the reality is usually this: once you've settled the accounts, you've lost the family bond."
+"I've invited all of you here today to discuss a heavy topic. Every one of us sitting here has personally experienced, or witnessed firsthand, family members turning against each other over property. Some wounds have healed; others still ache. People often say, 'Even between siblings, keep the accounts clear.' But the reality is usually this: once you've settled the accounts, you've lost the family bond."
 
 He paused, then said: "Let me start with my own story. Then I'd like each of you to share yours. We're not here to judge who was right or wrong. We're here to find lessons from these real experiences that might be useful to those who come after us."
 
@@ -1527,33 +1527,33 @@ He paused, then said: "Let me start with my own story. Then I'd like each of you
 
 ### Abraham: My Nephew Lot and I
 
-"Let me give you some background first. I originally lived in the city of Ur in Mesopotamia ,  roughly where southern Iraq is today. About four thousand years ago, God called me to leave my homeland and go to a place He would show me. So I took my wife Sarah and my nephew Lot, and we migrated all the way to the land of Canaan ,  what is now Palestine.
+"Let me give you some background first. I originally lived in the city of Ur in Mesopotamia, roughly where southern Iraq is today. About four thousand years ago, God called me to leave my homeland and go to a place He would show me. So I took my wife Sarah and my nephew Lot, and we migrated all the way to the land of Canaan, what is now Palestine.
 
 "Lot was the son of my brother Haran. Haran died young, and I raised Lot as if he were my own son. We traveled together, ate together, lived together, and weathered many storms side by side.
 
-"So where did the trouble start? We both became wealthy. After years of accumulation, my flocks, tents, and servants had grown enormously, and so had Lot's. The pastureland couldn't support both our herds, and our herdsmen began quarreling ,  your sheep ate my grass, my cattle drank from your water source, day after day.
+"So where did the trouble start? We both became wealthy. After years of accumulation, my flocks, tents, and servants had grown enormously, and so had Lot's. The pastureland couldn't support both our herds, and our herdsmen began quarreling, your sheep ate my grass, my cattle drank from your water source, day after day.
 
 "Honestly, by seniority and by strength, I could have claimed the best land for myself. But I thought long and hard about it, and decided it wasn't worth it. No pasture, however lush, was worth destroying my relationship with Lot. He was my closest kin, a child I had watched grow up.
 
 "So I said to him: 'Let there be no strife between you and me, and between your herdsmen and my herdsmen, for we are kinsmen. Is not the whole land before you? If you take the left, I will go to the right. If you take the right, I will go to the left.'
 
-"Lot looked up and saw that the entire Jordan Valley was well-watered and lush. He chose the best land for himself. He moved to the east side of the Jordan, gradually pitching his tents closer and closer to Sodom ,  a city that would later be destroyed by God for its extreme wickedness.
+"Lot looked up and saw that the entire Jordan Valley was well-watered and lush. He chose the best land for himself. He moved to the east side of the Jordan, gradually pitching his tents closer and closer to Sodom, a city that would later be destroyed by God for its extreme wickedness.
 
-"What did I get? On the surface, I got the short end of the deal ,  the dry, hilly land that was left over. But God said to me: 'Lift up your eyes from where you are, and look north and south, east and west. All the land that you see I will give to you and your offspring forever.'
+"What did I get? On the surface, I got the short end of the deal, the dry, hilly land that was left over. But God said to me: 'Lift up your eyes from where you are, and look north and south, east and west. All the land that you see I will give to you and your offspring forever.'
 
 "Looking back, Lot chose what seemed best and walked toward a doomed city. I gave up the immediate advantage but received God's enduring promise."
 
 Abraham looked at Jacob and said: "But not everyone can choose to step back in that moment."
 
-Joseph spoke up: "Great-grandfather, I've always had a question ,  didn't it hurt? The Jordan Valley was such prime land, and you just gave it up?"
+Joseph spoke up: "Great-grandfather, I've always had a question, didn't it hurt? The Jordan Valley was such prime land, and you just gave it up?"
 
 Abraham smiled: "Of course it hurt. I'm only human. But in that moment I asked myself: fifty years from now, will I regret losing that land, or losing Lot? The answer was clear."
 
 Ruth said softly: "But Lot still left you in the end and moved into Sodom..."
 
-Abraham was silent for a moment: "Yes. I gave up the land, and I still couldn't keep his heart. But at least ,  at least there was no hatred between us. When Sodom was destroyed, I was still able to plead with God on his behalf. If I had fought with him back then, we wouldn't even have had that last thread of grace."
+Abraham was silent for a moment: "Yes. I gave up the land, and I still couldn't keep his heart. But at least, at least there was no hatred between us. When Sodom was destroyed, I was still able to plead with God on his behalf. If I had fought with him back then, we wouldn't even have had that last thread of grace."
 
-He turned to Jacob: "Jacob, tell us about your experience. The whole business with Esau ,  even from heaven, I was worried for you."
+He turned to Jacob: "Jacob, tell us about your experience. The whole business with Esau, even from heaven, I was worried for you."
 
 ---
 
@@ -1561,17 +1561,17 @@ He turned to Jacob: "Jacob, tell us about your experience. The whole business wi
 
 Jacob gave a bitter smile and said:
 
-"Grandfather, don't remind me. At least your story has a decent ending. My story is far more complicated ,  and far uglier.
+"Grandfather, don't remind me. At least your story has a decent ending. My story is far more complicated, and far uglier.
 
-"Some background first. Esau and I were twin brothers; I was the younger one. In our time, the firstborn held a special position ,  he inherited a double share of the family estate and received the father's deathbed blessing, which was considered to carry divine authority and, once spoken, could never be taken back.
+"Some background first. Esau and I were twin brothers; I was the younger one. In our time, the firstborn held a special position, he inherited a double share of the family estate and received the father's deathbed blessing, which was considered to carry divine authority and, once spoken, could never be taken back.
 
 "Esau was my older brother, a rugged hunter who spent his days in the wilderness. I was the quiet type, preferring to stay in the tent.
 
 "The first incident was the red stew. One day Esau came back from hunting, absolutely famished. He saw the red stew I had cooked and said: 'I am about to die; of what use is a birthright to me?' I seized the opportunity and said: 'Sell me your birthright today.' He swore an oath and sold it to me. One bowl of stew for a birthright. Looking back, I thought I was being clever, but really I was being greedy. Esau was wrong to despise his birthright, but exploiting my brother's hunger was hardly honorable.
 
-"The second incident was worse. Our father Isaac had grown old and blind, and was preparing to give Esau his deathbed blessing. Our mother Rebekah favored me and coached me to impersonate Esau to steal the blessing. I put on Esau's clothes, tied goatskins on my arms ,  because Esau was a hairy man ,  and brought my mother's cooking to my father. He felt my hands and said: 'The voice is Jacob's voice, but the hands are Esau's hands.' He hesitated, but in the end gave me the blessing.
+"The second incident was worse. Our father Isaac had grown old and blind, and was preparing to give Esau his deathbed blessing. Our mother Rebekah favored me and coached me to impersonate Esau to steal the blessing. I put on Esau's clothes, tied goatskins on my arms, because Esau was a hairy man, and brought my mother's cooking to my father. He felt my hands and said: 'The voice is Jacob's voice, but the hands are Esau's hands.' He hesitated, but in the end gave me the blessing.
 
-"When Esau came back and discovered what had happened, he wept bitterly. That cry ,  I will never forget it as long as I live. The Bible says he 'cried out with an exceedingly great and bitter cry' and begged his father: 'Bless me, even me also, O my father!' But the blessing had already been given. It could not be taken back.
+"When Esau came back and discovered what had happened, he wept bitterly. That cry, I will never forget it as long as I live. The Bible says he 'cried out with an exceedingly great and bitter cry' and begged his father: 'Bless me, even me also, O my father!' But the blessing had already been given. It could not be taken back.
 
 "Esau hated me and said he would kill me once our father died. I had to flee in the night, leaving my homeland. That journey lasted twenty years.
 
@@ -1581,9 +1581,9 @@ Jacob gave a bitter smile and said:
 
 "Later, regarding our assets, Laban changed my wages ten times. When we agreed that white sheep would be mine, the flocks bore dark ones; when we agreed that spotted ones would be mine, the flocks bore plain ones. Father-in-law and son-in-law, polite on the surface, scheming underneath. In the end, I fled with my wives, children, and livestock while Laban was away. When he caught up with us, we had a bitter argument. We set up boundary stones, saying 'You shall not cross over to harm me, and I shall not cross over to harm you.' In-laws had become enemies who needed stone piles to keep them apart.
 
-"The lesson of my life is this: **The way you treat others is the way others will eventually treat you.** I deceived my father and brother, and Laban deceived me. I seized the birthright, and my own sons later fought among themselves over inheritance. Greed is contagious ,  it passes from one generation to the next."
+"The lesson of my life is this: **The way you treat others is the way others will eventually treat you.** I deceived my father and brother, and Laban deceived me. I seized the birthright, and my own sons later fought among themselves over inheritance. Greed is contagious, it passes from one generation to the next."
 
-Solomon couldn't help but interject: "Jacob, when you say 'greed is contagious,' that is painfully accurate. I've seen too many families like this ,  the father builds his fortune through calculation, and the sons learn to calculate; the father takes what isn't his through underhanded means, and the sons think underhanded means are perfectly normal. By the third and fourth generation, the entire family is scheming against each other, and no one sees anything wrong with it."
+Solomon couldn't help but interject: "Jacob, when you say 'greed is contagious,' that is painfully accurate. I've seen too many families like this, the father builds his fortune through calculation, and the sons learn to calculate; the father takes what isn't his through underhanded means, and the sons think underhanded means are perfectly normal. By the third and fourth generation, the entire family is scheming against each other, and no one sees anything wrong with it."
 
 Jotham said in a low voice: "At least your sons only competed. They didn't draw swords. My brothers..." He couldn't finish.
 
@@ -1595,23 +1595,23 @@ Abraham gently placed his hand on Jotham's shoulder, then looked toward Joseph: 
 
 Joseph's eyes were reddening. He glanced at Jacob, then spoke softly:
 
-"The strife my father just described did indeed pass down to our generation. I am Jacob's eleventh son. My mother Rachel was my father's most beloved wife. Father favored me and made me a coat of many colors ,  in that era, such a garment was extremely precious, typically reserved for the designated heir.
+"The strife my father just described did indeed pass down to our generation. I am Jacob's eleventh son. My mother Rachel was my father's most beloved wife. Father favored me and made me a coat of many colors, in that era, such a garment was extremely precious, typically reserved for the designated heir.
 
-"My ten older brothers watched and seethed with resentment. They hated me not because I had done anything wrong, but because our father loved me more than he loved them. On top of that, I had two dreams ,  one in which their sheaves of grain bowed down to my sheaf, and another in which the sun, moon, and eleven stars bowed down to me ,  and that was the final straw.
+"My ten older brothers watched and seethed with resentment. They hated me not because I had done anything wrong, but because our father loved me more than he loved them. On top of that, I had two dreams, one in which their sheaves of grain bowed down to my sheaf, and another in which the sun, moon, and eleven stars bowed down to me, and that was the final straw.
 
 "One day, Father sent me to check on my brothers, who were tending the flocks in the wilderness. They saw me coming from a distance and conspired among themselves: 'Here comes this dreamer. Come now, let us kill him and throw him into a pit.'
 
 "My own brothers. They wanted to kill me.
 
-"My oldest brother Reuben talked them out of it, suggesting they not shed blood but simply throw me into an empty cistern. He planned to secretly come back and rescue me. But while Reuben was away, Judah proposed selling me to a passing caravan of Midianite merchants ,  for twenty shekels of silver, roughly the price of a slave. And so ten brothers traded their brother's life for twenty pieces of silver. Then they slaughtered a goat, dipped my colorful coat in its blood, and brought it back to Father, saying: 'We found this. Please examine it ,  is it your son's robe or not?'
+"My oldest brother Reuben talked them out of it, suggesting they not shed blood but simply throw me into an empty cistern. He planned to secretly come back and rescue me. But while Reuben was away, Judah proposed selling me to a passing caravan of Midianite merchants, for twenty shekels of silver, roughly the price of a slave. And so ten brothers traded their brother's life for twenty pieces of silver. Then they slaughtered a goat, dipped my colorful coat in its blood, and brought it back to Father, saying: 'We found this. Please examine it, is it your son's robe or not?'
 
 "Father recognized it. He tore his clothes and said: 'A fierce animal has devoured him!' He mourned for me for many days, and no one could comfort him.
 
-"As for me? At seventeen I was sold to Egypt as a slave. Later, falsely accused by my master's wife, I was thrown into prison. From seventeen to thirty ,  thirteen full years ,  I was a slave and a prisoner in a foreign land. What caused all of this? A father's favoritism that bred jealousy, and behind the jealousy, a fight over inheritance and family wealth.
+"As for me? At seventeen I was sold to Egypt as a slave. Later, falsely accused by my master's wife, I was thrown into prison. From seventeen to thirty, thirteen full years, I was a slave and a prisoner in a foreign land. What caused all of this? A father's favoritism that bred jealousy, and behind the jealousy, a fight over inheritance and family wealth.
 
-"The rest of the story is well known. God raised me to become the Prime Minister of Egypt, managing the nation's food supply. When famine struck, my brothers came to Egypt to buy grain and bowed before me ,  not knowing that the Egyptian official before them was the very brother they had sold.
+"The rest of the story is well known. God raised me to become the Prime Minister of Egypt, managing the nation's food supply. When famine struck, my brothers came to Egypt to buy grain and bowed before me, not knowing that the Egyptian official before them was the very brother they had sold.
 
-"I recognized them. The feelings that surged through me in that moment ,  no one can understand. Did I hate them? After thirteen years of suffering, of course I had. But even more than that, I ached ,  for my father's grief all those years believing I was dead, and for the guilt my brothers had carried.
+"I recognized them. The feelings that surged through me in that moment, no one can understand. Did I hate them? After thirteen years of suffering, of course I had. But even more than that, I ached, for my father's grief all those years believing I was dead, and for the guilt my brothers had carried.
 
 "In the end, I revealed my identity and said: 'Do not be afraid, for am I in the place of God? As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today.'
 
@@ -1623,7 +1623,7 @@ Joseph was taken aback: "Resent you?"
 
 "For playing favorites. If I hadn't so obviously favored you, if I hadn't made you that colorful coat, maybe your brothers wouldn't have..." Jacob's voice broke.
 
-Joseph was silent for a long while, then said: "Father, I don't blame you. You loved me, and that's not wrong. What went wrong was that love getting twisted by jealousy. But I have to be honest ,  if you had shared some of that love with my brothers, perhaps things would have been different."
+Joseph was silent for a long while, then said: "Father, I don't blame you. You loved me, and that's not wrong. What went wrong was that love getting twisted by jealousy. But I have to be honest, if you had shared some of that love with my brothers, perhaps things would have been different."
 
 Paul said quietly: "This is why favoritism is more dangerous than greed. Greed is one person's sin, but favoritism can simultaneously wound both the neglected and the favored."
 
@@ -1637,33 +1637,33 @@ Jotham slowly rose to his feet, his voice trembling:
 
 "What I have to tell you is the most horrific of all your stories.
 
-"Some background first. My father was Gideon, a judge of Israel ,  essentially a military leader and national hero. He led the Israelites in defeating the invading Midianites and saved the entire nation. He had seventy sons ,  polygamy was common in that era.
+"Some background first. My father was Gideon, a judge of Israel, essentially a military leader and national hero. He led the Israelites in defeating the invading Midianites and saved the entire nation. He had seventy sons, polygamy was common in that era.
 
 "But my father had another son named Abimelech, born to a concubine from the city of Shechem. In our society, a concubine's son had lower status than the sons of full wives, and his inheritance rights ranked last.
 
-"After our father died, Abimelech refused to accept his marginal position. He went to Shechem ,  his mother's hometown ,  and stirred up the people there, saying: 'Which is better for you ,  to be ruled by all seventy of Gideon's sons, or to be ruled by one man? Remember, I am your own flesh and blood.'
+"After our father died, Abimelech refused to accept his marginal position. He went to Shechem, his mother's hometown, and stirred up the people there, saying: 'Which is better for you, to be ruled by all seventy of Gideon's sons, or to be ruled by one man? Remember, I am your own flesh and blood.'
 
-"The people of Shechem gave him seventy shekels of silver ,  note that number: seventy brothers, seventy shekels, meaning one life was worth one piece of silver. Abimelech used the money to hire a band of reckless outlaws, returned home, gathered my seventy brothers onto a single rock, and killed them one by one.
+"The people of Shechem gave him seventy shekels of silver, note that number: seventy brothers, seventy shekels, meaning one life was worth one piece of silver. Abimelech used the money to hire a band of reckless outlaws, returned home, gathered my seventy brothers onto a single rock, and killed them one by one.
 
 "Seventy brothers. One rock. One day.
 
 "I alone managed to hide and escape the slaughter.
 
-"I ran to the top of Mount Gerizim and shouted down to the people of Shechem a parable ,  the story of the thornbush king: The trees went to anoint a king over them. They asked the olive tree, but it refused. They asked the fig tree, but it refused. They asked the vine, but it refused. Finally, the thornbush said: 'If in good faith you are anointing me king, then come and take refuge in my shade. But if not, let fire come out of the thornbush and devour you!'
+"I ran to the top of Mount Gerizim and shouted down to the people of Shechem a parable, the story of the thornbush king: The trees went to anoint a king over them. They asked the olive tree, but it refused. They asked the fig tree, but it refused. They asked the vine, but it refused. Finally, the thornbush said: 'If in good faith you are anointing me king, then come and take refuge in my shade. But if not, let fire come out of the thornbush and devour you!'
 
 "What I was crying from the mountaintop was this: Abimelech was that thornbush. He had no real ability or character to govern. All he knew was violence and murder to seize power. And that fire would eventually consume him.
 
-"Sure enough, three years later, Abimelech and the people of Shechem turned on each other. He attacked the city and slaughtered its inhabitants. Then he went to attack the city of Thebez, and a woman dropped a millstone from the city wall onto his head, crushing his skull. As he lay dying, he called to his armor-bearer to run him through with a sword, so that no one could say he was killed by a woman ,  concerned about his reputation even in death.
+"Sure enough, three years later, Abimelech and the people of Shechem turned on each other. He attacked the city and slaughtered its inhabitants. Then he went to attack the city of Thebez, and a woman dropped a millstone from the city wall onto his head, crushing his skull. As he lay dying, he called to his armor-bearer to run him through with a sword, so that no one could say he was killed by a woman, concerned about his reputation even in death.
 
 "That was the end. For the sake of power and property, he murdered seventy of his own brothers, and in the end met his own ignoble death.
 
 "I want to say to everyone: **When you harm your family for property and power, you may think you've won, but you've already lost everything.** Abimelech ruled for three years, and then he died. The blood of his seventy brothers cried out silently from that rock."
 
-A long silence fell over the room. Joseph's hands were trembling slightly ,  he was thinking about how he too had nearly died at his brothers' hands. Jacob stared at the ground, unable to meet anyone's eyes.
+A long silence fell over the room. Joseph's hands were trembling slightly, he was thinking about how he too had nearly died at his brothers' hands. Jacob stared at the ground, unable to meet anyone's eyes.
 
 Solomon broke the silence, his voice very soft: "Jotham, how... how did you manage to survive afterward?"
 
-Jotham gave a bitter smile: "Surviving was my revenge. Surviving was the greatest judgment against Abimelech. When I stood on Mount Gerizim and cried out that parable, I knew: the truth cannot be hidden forever. And indeed ,  three years. Only three years."
+Jotham gave a bitter smile: "Surviving was my revenge. Surviving was the greatest judgment against Abimelech. When I stood on Mount Gerizim and cried out that parable, I knew: the truth cannot be hidden forever. And indeed, three years. Only three years."
 
 Paul took a deep breath: "Thank you for being willing to share this. I know it wasn't easy."
 
@@ -1675,19 +1675,19 @@ Ruth spoke gently, as if trying to ease the heaviness in the room:
 
 "After hearing these painful stories, I'd like to share from a different angle. I'm not someone who was wounded in a fight over property. I'm someone who willingly gave up her claim to an inheritance.
 
-"I am a Moabite ,  to the Israelites, I was a foreigner. I married a young man from Israel who had emigrated to Moab. His name was Mahlon. But shortly after our marriage, my husband died, and my father-in-law died too, leaving just me, my sister-in-law Orpah, and my mother-in-law Naomi ,  three widows.
+"I am a Moabite, to the Israelites, I was a foreigner. I married a young man from Israel who had emigrated to Moab. His name was Mahlon. But shortly after our marriage, my husband died, and my father-in-law died too, leaving just me, my sister-in-law Orpah, and my mother-in-law Naomi, three widows.
 
-"In that era, widows had no economic means and no social standing. Naomi decided to return to her homeland in Israel. She told us: 'Go back to your mothers' houses. There you can remarry; someone will provide for you. Following me, a destitute widow ,  what future is there in that?'
+"In that era, widows had no economic means and no social standing. Naomi decided to return to her homeland in Israel. She told us: 'Go back to your mothers' houses. There you can remarry; someone will provide for you. Following me, a destitute widow, what future is there in that?'
 
-"My sister-in-law Orpah wept and left, returning to her parents' home. No one blamed her ,  it was the most rational choice. Going home meant parental protection, the chance to remarry, property and land to rely on.
+"My sister-in-law Orpah wept and left, returning to her parents' home. No one blamed her, it was the most rational choice. Going home meant parental protection, the chance to remarry, property and land to rely on.
 
 "But I refused to go. I said to Naomi: 'Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God. Where you die I will die, and there will I be buried.'
 
-"What did I give up? The inheritance I could have claimed at my parents' home, the chance to remarry, a familiar language and culture, every form of security. What did I choose? To follow a penniless old woman to a foreign country, to become the lowest of the low ,  a gleaner picking up leftover grain in the fields.
+"What did I give up? The inheritance I could have claimed at my parents' home, the chance to remarry, a familiar language and culture, every form of security. What did I choose? To follow a penniless old woman to a foreign country, to become the lowest of the low, a gleaner picking up leftover grain in the fields.
 
-"But you know what happened next. In those fields I met Boaz ,  a good man who feared God. He married me, and we had a son named Obed. Obed fathered Jesse, and Jesse fathered King David. I, a foreign widow who had given up everything, became the great-grandmother of Israel's greatest king.
+"But you know what happened next. In those fields I met Boaz, a good man who feared God. He married me, and we had a son named Obed. Obed fathered Jesse, and Jesse fathered King David. I, a foreign widow who had given up everything, became the great-grandmother of Israel's greatest king.
 
-"What I want to say is this: **Sometimes letting go takes more courage than holding on, and is more greatly blessed.** I didn't make my choice out of calculation ,  I had no idea what would happen next. I simply felt that loyalty and love between people matter more than property and security."
+"What I want to say is this: **Sometimes letting go takes more courage than holding on, and is more greatly blessed.** I didn't make my choice out of calculation, I had no idea what would happen next. I simply felt that loyalty and love between people matter more than property and security."
 
 ---
 
@@ -1699,35 +1699,35 @@ After Ruth finished, everyone sat in silence for a while. Abraham picked up his 
 
 Solomon didn't answer right away. He looked around at everyone present, then let out a sigh:
 
-"I was the third king of Israel. During my reign, the nation reached the height of its wealth and power ,  gold and silver piled high as mountains. But I have to tell you: **I watched with my own eyes as wealth destroyed family after family, including my own.**
+"I was the third king of Israel. During my reign, the nation reached the height of its wealth and power, gold and silver piled high as mountains. But I have to tell you: **I watched with my own eyes as wealth destroyed family after family, including my own.**
 
-"Let me start with my brother Adonijah. When our father David was old and bedridden, unable to get up, Adonijah considered himself the rightful heir ,  the older brothers before him had all died. He couldn't wait. He secretly enlisted the support of General Joab and the priest Abiathar, threw a grand feast, invited a group of princes and officials, and publicly declared himself king.
+"Let me start with my brother Adonijah. When our father David was old and bedridden, unable to get up, Adonijah considered himself the rightful heir, the older brothers before him had all died. He couldn't wait. He secretly enlisted the support of General Joab and the priest Abiathar, threw a grand feast, invited a group of princes and officials, and publicly declared himself king.
 
-"But our father David, on his deathbed, had designated me as his successor. The prophet Nathan and my mother Bathsheba hurried to inform him, and Father immediately had me anointed as king. Before Adonijah's feast was even over, word arrived ,  Solomon had been crowned. Adonijah was terrified and clung to the horns of the altar, begging for his life. I spared him then.
+"But our father David, on his deathbed, had designated me as his successor. The prophet Nathan and my mother Bathsheba hurried to inform him, and Father immediately had me anointed as king. Before Adonijah's feast was even over, word arrived, Solomon had been crowned. Adonijah was terrified and clung to the horns of the altar, begging for his life. I spared him then.
 
-"But he wouldn't accept it. Later, he sent someone to ask me to give him Abishag, one of our father's concubines, as his wife. In our culture, marrying a former king's concubine was tantamount to claiming the throne ,  this wasn't a marriage proposal, it was a second coup attempt. I had had enough. I ordered his execution.
+"But he wouldn't accept it. Later, he sent someone to ask me to give him Abishag, one of our father's concubines, as his wife. In our culture, marrying a former king's concubine was tantamount to claiming the throne, this wasn't a marriage proposal, it was a second coup attempt. I had had enough. I ordered his execution.
 
-"My own brother ,  because he fought over the throne, which is really just fighting over the ultimate 'family inheritance' ,  paid with his life.
+"My own brother, because he fought over the throne, which is really just fighting over the ultimate 'family inheritance', paid with his life.
 
-"But the story doesn't end there. In my own old age, I made terrible mistakes ,  I took seven hundred wives and three hundred concubines, many of them foreign women. They lured me into worshiping their gods, and I actually did it. God said to me: I will surely tear the kingdom from you and give it to your servant. But for the sake of your father David, I will not do it in your lifetime. I will tear it out of the hand of your son.
+"But the story doesn't end there. In my own old age, I made terrible mistakes, I took seven hundred wives and three hundred concubines, many of them foreign women. They lured me into worshiping their gods, and I actually did it. God said to me: I will surely tear the kingdom from you and give it to your servant. But for the sake of your father David, I will not do it in your lifetime. I will tear it out of the hand of your son.
 
-"And so it happened. After I died, my son Rehoboam took the throne. The people came asking him to lighten their tax burden ,  because my temple-building, palace-building, and extravagance had weighed heavily on them. Rehoboam rejected the counsel of the elders and told the people: 'My father made your yoke heavy, but I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions!' Ten tribes immediately revolted, and Israel split into two kingdoms ,  never to be reunited.
+"And so it happened. After I died, my son Rehoboam took the throne. The people came asking him to lighten their tax burden, because my temple-building, palace-building, and extravagance had weighed heavily on them. Rehoboam rejected the counsel of the elders and told the people: 'My father made your yoke heavy, but I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions!' Ten tribes immediately revolted, and Israel split into two kingdoms, never to be reunited.
 
 "You see? I, the wisest and wealthiest king, destroyed my own kingdom and my own family with my own hands. Wealth and power didn't preserve my household; they became the very source of its division.
 
 "I wrote many proverbs in my lifetime, drawn from countless human tragedies. Several speak directly to today's topic:
 
-"First: **'Whoever is greedy for unjust gain troubles his own household.'** Notice the word 'own' ,  not someone else's household, but your own. The greedy person thinks he's building wealth for his family, when in fact he's tearing it apart with his own hands.
+"First: **'Whoever is greedy for unjust gain troubles his own household.'** Notice the word 'own', not someone else's household, but your own. The greedy person thinks he's building wealth for his family, when in fact he's tearing it apart with his own hands.
 
 "Second: **'A brother offended is more unyielding than a strong city, and quarreling is like the bars of a castle.'** What does this mean? You might be able to conquer a city by concentrating your forces. But once family members have been wounded in their hearts over money, restoring that relationship is harder than storming a fortress. City walls are built of stone, but walls of the heart are built of pain. Stone can be pushed down by force, but pain cannot be resolved by force.
 
-"Third: **'Good sense makes one slow to anger, and it is his glory to overlook an offense.'** When Abraham gave the best land to Lot, that wasn't weakness ,  that was good sense. The truly wise know this: winning a plot of land while losing a family member is a losing equation no matter how you calculate it.
+"Third: **'Good sense makes one slow to anger, and it is his glory to overlook an offense.'** When Abraham gave the best land to Lot, that wasn't weakness, that was good sense. The truly wise know this: winning a plot of land while losing a family member is a losing equation no matter how you calculate it.
 
-"In my old age, I wrote a book called Ecclesiastes. Its opening line: 'Vanity of vanities, all is vanity under the sun.' I possessed everything this world can offer ,  wealth, power, wisdom, glory ,  and in the end discovered that none of it can be taken with you. We come into this world with nothing, and we leave with nothing. The inheritance you fight over your entire life ,  you can't take a single penny of it into your coffin."
+"In my old age, I wrote a book called Ecclesiastes. Its opening line: 'Vanity of vanities, all is vanity under the sun.' I possessed everything this world can offer, wealth, power, wisdom, glory, and in the end discovered that none of it can be taken with you. We come into this world with nothing, and we leave with nothing. The inheritance you fight over your entire life, you can't take a single penny of it into your coffin."
 
-Jacob sighed: "Solomon, listening to you describe what happened in your own family ,  it's chilling. Someone as wise as you, who wrote all those proverbs, still couldn't save his own family..."
+Jacob sighed: "Solomon, listening to you describe what happened in your own family, it's chilling. Someone as wise as you, who wrote all those proverbs, still couldn't save his own family..."
 
-Solomon nodded bitterly: "That's the cruelest irony. That's why I say 'vanity' ,  even wisdom itself is vanity if you don't live by it. I understood all the principles, but I failed to live them out."
+Solomon nodded bitterly: "That's the cruelest irony. That's why I say 'vanity', even wisdom itself is vanity if you don't live by it. I understood all the principles, but I failed to live them out."
 
 Ruth said softly: "Between knowing the truth and living the truth, there lies a deep chasm."
 
@@ -1749,19 +1749,19 @@ Paul nodded: "Well said, Ruth. And that's exactly what I want to talk about next
 
 "But God said to him: **'Fool! This night your soul is required of you, and the things you have prepared, whose will they be?'**
 
-"Did you hear that? 'The things you have prepared, whose will they be?' ,  isn't this the root of every inheritance dispute? People accumulate desperately, fight desperately, and in the end, everything is left for someone else. And for the sake of fighting over things that will be left to others, they wound their own flesh and blood beyond recognition.
+"Did you hear that? 'The things you have prepared, whose will they be?', isn't this the root of every inheritance dispute? People accumulate desperately, fight desperately, and in the end, everything is left for someone else. And for the sake of fighting over things that will be left to others, they wound their own flesh and blood beyond recognition.
 
 "I myself wrote in my letter to Timothy: **'Godliness with contentment is great gain, for we brought nothing into the world, and we cannot take anything out of the world. But if we have food and clothing, with these we will be content. But those who desire to be rich fall into temptation, into a snare, into many senseless and harmful desires that plunge people into ruin and destruction. For the love of money is a root of all kinds of evils. It is through this craving that some have wandered away from the faith and pierced themselves with many pangs.'**
 
-"Note: I did not say money itself is evil. Abraham was wealthy, Joseph became a prime minister, Solomon was exceedingly rich ,  wealth itself is not the problem. The problem is 'love of money' ,  discontentment, wanting more, resorting to any means to get more.
+"Note: I did not say money itself is evil. Abraham was wealthy, Joseph became a prime minister, Solomon was exceedingly rich, wealth itself is not the problem. The problem is 'love of money', discontentment, wanting more, resorting to any means to get more.
 
-"I want to raise one more point. In Corinth ,  a Greek city ,  members of the church got into disputes and actually took each other to court before unbelievers. I wrote to them sternly: 'Brother goes to law against brother, and that before unbelievers! Why not rather suffer wrong? Why not rather be defrauded?'
+"I want to raise one more point. In Corinth, a Greek city, members of the church got into disputes and actually took each other to court before unbelievers. I wrote to them sternly: 'Brother goes to law against brother, and that before unbelievers! Why not rather suffer wrong? Why not rather be defrauded?'
 
-"**'Why not rather be defrauded?'** ,  This is what I want to say today to everyone who is suing their relatives over inheritance. You won the lawsuit, you got the property, but what did you lose? You lost a brother, a sister, a relationship that can never be restored. When you add it all up, who really lost?"
+"**'Why not rather be defrauded?'**, This is what I want to say today to everyone who is suing their relatives over inheritance. You won the lawsuit, you got the property, but what did you lose? You lost a brother, a sister, a relationship that can never be restored. When you add it all up, who really lost?"
 
-Jotham couldn't help himself: "Paul, easy for you to say. 'Rather be defrauded' ,  if Abimelech came to kill you, would you be willing then?"
+Jotham couldn't help himself: "Paul, easy for you to say. 'Rather be defrauded', if Abimelech came to kill you, would you be willing then?"
 
-Paul looked at Jotham earnestly: "Jotham, I understand your anger. What you experienced wasn't an ordinary property dispute ,  it was a massacre. I'm not saying you should meekly accept atrocities. What I'm saying is ,  before things reach that point, while it's still just about dividing houses, dividing land, dividing savings ,  can you take a step back? Most tragedies don't happen overnight. They start with little things ,  petty calculations that slowly accumulate into an unstoppable tide of hatred."
+Paul looked at Jotham earnestly: "Jotham, I understand your anger. What you experienced wasn't an ordinary property dispute, it was a massacre. I'm not saying you should meekly accept atrocities. What I'm saying is, before things reach that point, while it's still just about dividing houses, dividing land, dividing savings, can you take a step back? Most tragedies don't happen overnight. They start with little things, petty calculations that slowly accumulate into an unstoppable tide of hatred."
 
 Jotham was silent for a moment, then slowly nodded.
 
@@ -1769,25 +1769,25 @@ Jotham was silent for a moment, then slowly nodded.
 
 Abraham nodded and added:
 
-"Paul is right. When I gave up the land to Lot, outsiders thought I was a fool. But I knew in my heart: I am a sojourner in this world. I lived my entire life in tents. Even the burial plot for my wife Sarah ,  I had to buy it from the Hittites for four hundred shekels of silver. I never owned a single foot of land in Canaan that was truly mine.
+"Paul is right. When I gave up the land to Lot, outsiders thought I was a fool. But I knew in my heart: I am a sojourner in this world. I lived my entire life in tents. Even the burial plot for my wife Sarah, I had to buy it from the Hittites for four hundred shekels of silver. I never owned a single foot of land in Canaan that was truly mine.
 
-"But what I was waiting for was not earthly property ,  it was a city with foundations, whose designer and builder is God. Earthly fields, houses, bank accounts ,  in the face of eternity, they are nothing but passing clouds. Is it worth turning against your family for the sake of clouds?"
+"But what I was waiting for was not earthly property, it was a city with foundations, whose designer and builder is God. Earthly fields, houses, bank accounts, in the face of eternity, they are nothing but passing clouds. Is it worth turning against your family for the sake of clouds?"
 
 Jacob continued:
 
-"I spent my whole life grasping ,  grasping the birthright, grasping Father's blessing, grasping Laban's flocks. The name 'Jacob' means 'he grasps' or 'deceiver.' My name was the story of my life.
+"I spent my whole life grasping, grasping the birthright, grasping Father's blessing, grasping Laban's flocks. The name 'Jacob' means 'he grasps' or 'deceiver.' My name was the story of my life.
 
-"Until that one night ,  at the ford of Jabbok, a man came and wrestled with me through the entire night. He wrenched my hip socket, and I was left limping. But He also gave me a new name: Israel, meaning 'he who strives with God.'
+"Until that one night, at the ford of Jabbok, a man came and wrestled with me through the entire night. He wrenched my hip socket, and I was left limping. But He also gave me a new name: Israel, meaning 'he who strives with God.'
 
-"That night I finally understood: **It wasn't about what I could grasp :  it was about God grasping me.** Everything I had schemed so hard to seize ,  the birthright, the blessing, the flocks ,  none of it came through my cleverness. It was all God's arrangement. And for the sake of these things, I had wounded my brother, deceived my father, and made an enemy of my father-in-law.
+"That night I finally understood: **It wasn't about what I could grasp :  it was about God grasping me.** Everything I had schemed so hard to seize, the birthright, the blessing, the flocks, none of it came through my cleverness. It was all God's arrangement. And for the sake of these things, I had wounded my brother, deceived my father, and made an enemy of my father-in-law.
 
-"If I could do it over, I would rather grasp nothing at all ,  except God."
+"If I could do it over, I would rather grasp nothing at all, except God."
 
 ---
 
 ## Act Three: A Word for Today's Reader
 
-In closing, each person shared one final thought ,  the thing they most wanted to say.
+In closing, each person shared one final thought, the thing they most wanted to say.
 
 **Abraham**: "Better to lose a field than to lose a loved one's heart. A field can be bought again; once family love is lost, no amount of money can buy it back."
 
@@ -1797,11 +1797,11 @@ In closing, each person shared one final thought ,  the thing they most wanted t
 
 **Jotham**: "The blood of my seventy brothers was spilled on that rock. Abimelech ruled for three years, and then he died. I ask you: was the power and wealth worth trading your family's lives for?"
 
-**Solomon**: "I possessed every glory this world can offer ,  gold, palaces, servants, renown. In the end I said: vanity of vanities, all is vanity, all is chasing after wind. Everything you fight for your entire life ,  not a single thing can be carried into your coffin."
+**Solomon**: "I possessed every glory this world can offer, gold, palaces, servants, renown. In the end I said: vanity of vanities, all is vanity, all is chasing after wind. Everything you fight for your entire life, not a single thing can be carried into your coffin."
 
 **Ruth**: "Let go. What you're clutching so tightly may be the very thing keeping you from blessing. I gave up the comfort of going home, and followed a penniless mother-in-law into the unknown. God gave me more than I could ever have asked or imagined."
 
-**Paul**: "Jesus said: 'One's life does not consist in the abundance of his possessions.' Engrave these words on your heart ,  they are worth more than every number in your bank account. And one last time I ask: why not rather be defrauded?"
+**Paul**: "Jesus said: 'One's life does not consist in the abundance of his possessions.' Engrave these words on your heart, they are worth more than every number in your bank account. And one last time I ask: why not rather be defrauded?"
 
 ---
 
@@ -1813,7 +1813,7 @@ Abraham spoke last:
 
 "If you are currently fighting with family over an inheritance, I implore you: stop and think. What if you win? What if you lose? Fifty years from now, a hundred years from now, where will the things you fought over be? But the rift between you and your loved ones may well carry on into the next generation.
 
-"There is a verse in the Bible: 'Behold, how good and pleasant it is when brothers dwell in unity!' These words are easy to say and hard to live. But I hope that those who hear these stories will make the wise choice ,  before it is too late."
+"There is a verse in the Bible: 'Behold, how good and pleasant it is when brothers dwell in unity!' These words are easy to say and hard to live. But I hope that those who hear these stories will make the wise choice, before it is too late."
 
 *May these ancient stories become a mirror for today.*`,
     tags: ['家庭', '财产', '亲情', '团契', '智慧'],
@@ -2028,14 +2028,14 @@ Your sister, Hannah`,
     authorBio: '耶稣所爱的门徒，最后一位在世的使徒',
     authorBioEn: 'The disciple whom Jesus loved, the last living apostle',
     title_zh: '你们怎么知道，论真信心的证据与爱心的判断',
-    title_en: 'How Do You Know ,  On the Evidence of True Faith and the Judgment of Love',
+    title_en: 'How Do You Know, On the Evidence of True Faith and the Judgment of Love',
     date: '2026-05-30',
     category: 'theology' as Letter['category'],
     scripture: '约翰一书 3:14',
     scriptureText_zh: `我们因为爱弟兄，就晓得是已经出死入生了。没有爱心的，仍住在死中。（约翰一书 3:14）`,
     scriptureText_en: `We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death. (1 John 3:14, KJV)`,
     summary_zh: '我怎么知道自己真的得救了？我怎么分辨谁是真信徒？年迈的使徒约翰从亲身经历出发，论述真信心的五个记号：圣灵的果子、悔改的心、爱弟兄、顺服的方向、持守到底，果子是恩典的证据，不是恩典的条件。',
-    summary_en: 'How can I know I am truly saved? How can I discern who is a true believer? The aged Apostle John draws from personal experience to discuss five marks of true faith: the fruit of the Spirit, a repentant heart, love for the brethren, the direction of obedience, and perseverance ,  fruit is evidence of grace, not a condition for it.',
+    summary_en: 'How can I know I am truly saved? How can I discern who is a true believer? The aged Apostle John draws from personal experience to discuss five marks of true faith: the fruit of the Spirit, a repentant heart, love for the brethren, the direction of obedience, and perseverance, fruit is evidence of grace, not a condition for it.',
     content_zh: `亲爱的小子们，我是约翰，耶稣所爱的门徒。
 
 我写这封信的时候已经很老了。彼得殉道了，保罗殉道了，其他使徒也都先后离世，如今只剩下我一个人。教会中出现了假教师，传另一个福音，搅扰弟兄姐妹的信心。许多人来问我：约翰啊，我怎么知道自己真的得救了？我怎么分辨谁是真信徒、谁是假信徒？
@@ -2107,71 +2107,71 @@ Your sister, Hannah`,
 小子们，让我们彼此相爱，因为爱是从神来的。`,
     content_en: `Dear little children, I am John, the disciple whom Jesus loved.
 
-I write this letter as a very old man. Peter was martyred, Paul was martyred, the other apostles have all departed ,  now I alone remain. False teachers have appeared in the churches, preaching another gospel, troubling the faith of brothers and sisters. Many come to me asking: John, how can I know I am truly saved? How can I discern who is a true believer and who is false?
+I write this letter as a very old man. Peter was martyred, Paul was martyred, the other apostles have all departed, now I alone remain. False teachers have appeared in the churches, preaching another gospel, troubling the faith of brothers and sisters. Many come to me asking: John, how can I know I am truly saved? How can I discern who is a true believer and who is false?
 
-This is precisely why I wrote my first epistle: "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life." (1 John 5:13). I want to give you assurance ,  not vague hope, but solid assurance.
+This is precisely why I wrote my first epistle: "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life." (1 John 5:13). I want to give you assurance, not vague hope, but solid assurance.
 
-### First, Get the Cause and Effect Right ,  Fruit Is Evidence, Not a Condition
+### First, Get the Cause and Effect Right, Fruit Is Evidence, Not a Condition
 
 Before I discuss the marks of true faith, I must clarify one thing, lest you fall into the trap of legalism.
 
 We are not saved because we bear fruit; we bear fruit because we are saved. The Lord Jesus said, "A good tree bringeth forth good fruit." (Matt 7:17). Note the order: first the life of a good tree, then good fruit. The tree does not become good by bearing fruit; it bears fruit because it is good.
 
-Therefore, the five marks I discuss below are all evidence of grace, not conditions for grace. You are saved by faith alone, by grace alone ,  brother Paul said this a thousand times. Fruit is the result of grace at work in your life. If you treat fruit as a condition, you will live in fear rather than assurance; you will constantly ask "Am I doing enough?" instead of looking to Christ and saying "What He did for me is enough."
+Therefore, the five marks I discuss below are all evidence of grace, not conditions for grace. You are saved by faith alone, by grace alone, brother Paul said this a thousand times. Fruit is the result of grace at work in your life. If you treat fruit as a condition, you will live in fear rather than assurance; you will constantly ask "Am I doing enough?" instead of looking to Christ and saying "What He did for me is enough."
 
 With this clear, we can discuss fruit with peace of heart.
 
-### The First Mark: The Fruit of the Spirit ,  Gradual Change of Character
+### The First Mark: The Fruit of the Spirit, Gradual Change of Character
 
 Brother Paul listed the fruit of the Spirit: "love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance." (Gal 5:22-23). Note: these are not nine fruits but nine facets of one fruit. The Spirit working in a person's life gradually produces these qualities.
 
-The key word is "gradually." Sanctification is a lifelong process, not overnight perfection. I followed the Lord for three years, saw His glory with my own eyes, yet I am still growing to this day. You need not be perfect in every quality; what you need is direction ,  are you more patient than last year? More kind than five years ago? If so, even if progress is slow, that is evidence the Spirit is at work.
+The key word is "gradually." Sanctification is a lifelong process, not overnight perfection. I followed the Lord for three years, saw His glory with my own eyes, yet I am still growing to this day. You need not be perfect in every quality; what you need is direction, are you more patient than last year? More kind than five years ago? If so, even if progress is slow, that is evidence the Spirit is at work.
 
-### The Second Mark: A Repentant Heart ,  Genuine Sorrow Over Sin
+### The Second Mark: A Repentant Heart, Genuine Sorrow Over Sin
 
 "If we say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness." (1 John 1:8-9).
 
-A true believer is not someone who never sins but someone who repents after sinning. What distinguishes true repentance from false? False repentance fears punishment ,  "What if I get caught?" True repentance grieves over offending God ,  "How then can I do this great wickedness, and sin against God?" (Gen 39:9).
+A true believer is not someone who never sins but someone who repents after sinning. What distinguishes true repentance from false? False repentance fears punishment, "What if I get caught?" True repentance grieves over offending God, "How then can I do this great wickedness, and sin against God?" (Gen 39:9).
 
-I have witnessed the deepest repentance. The night Peter denied the Lord three times, the Lord turned and looked at him ,  just that one glance, and Peter went out and wept bitterly (Luke 22:61-62). David committed adultery and murder, yet when the prophet Nathan confronted him, he immediately said, "I have sinned against the LORD." (2 Sam 12:13). They committed great sins, but their repentance was real, swift, and thorough. The mark of a true believer is not sinlessness but the inability to rest in sin ,  conscience will not let him be at peace until he returns to God and confesses.
+I have witnessed the deepest repentance. The night Peter denied the Lord three times, the Lord turned and looked at him, just that one glance, and Peter went out and wept bitterly (Luke 22:61-62). David committed adultery and murder, yet when the prophet Nathan confronted him, he immediately said, "I have sinned against the LORD." (2 Sam 12:13). They committed great sins, but their repentance was real, swift, and thorough. The mark of a true believer is not sinlessness but the inability to rest in sin, conscience will not let him be at peace until he returns to God and confesses.
 
-### The Third Mark: Love for the Brethren ,  The Mark of Passing from Death to Life
+### The Third Mark: Love for the Brethren, The Mark of Passing from Death to Life
 
 "We know that we have passed from death unto life, because we love the brethren." (1 John 3:14). Little children, this is the mark I value most. If you remember only one thing from this letter, remember this.
 
-But the love I speak of is not a feeling of fondness. There may be brothers in the church you do not naturally like ,  different personalities, different backgrounds, different habits. But love is not liking; love is action: "My little children, let us not love in word, neither in tongue; but in deed and in truth." (1 John 3:18). When you see a brother in need and reach out to help, when you see a brother stumble and lift him up, when you see a brother suffering and weep with him ,  that is evidence of love.
+But the love I speak of is not a feeling of fondness. There may be brothers in the church you do not naturally like, different personalities, different backgrounds, different habits. But love is not liking; love is action: "My little children, let us not love in word, neither in tongue; but in deed and in truth." (1 John 3:18). When you see a brother in need and reach out to help, when you see a brother stumble and lift him up, when you see a brother suffering and weep with him, that is evidence of love.
 
 Does your heart carry concern for the brothers and sisters in your church? Does their joy bring you gladness, their suffering bring you sorrow? If so, that is the mark of passing from death to life.
 
-### The Fourth Mark: The Direction of Obedience ,  Not Perfection but Orientation
+### The Fourth Mark: The Direction of Obedience, Not Perfection but Orientation
 
 "And hereby we do know that we know him, if we keep his commandments. He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him." (1 John 2:3-4).
 
-These words sound severe, but notice the word "keep." It does not mean flawlessly, without exception, executing every commandment ,  if that were the standard, no one would know God. It speaks of life's direction. A person may fall a hundred times, but if each time he rises and continues walking, his direction is right. A true believer's life is like a winding but overall upward line ,  there are valleys, there are detours, but the general direction is toward God.
+These words sound severe, but notice the word "keep." It does not mean flawlessly, without exception, executing every commandment, if that were the standard, no one would know God. It speaks of life's direction. A person may fall a hundred times, but if each time he rises and continues walking, his direction is right. A true believer's life is like a winding but overall upward line, there are valleys, there are detours, but the general direction is toward God.
 
 Conversely, an unbeliever may occasionally do good deeds, yet the overall direction of his life is away from God. Direction matters more than speed.
 
-### The Fifth Mark: Perseverance to the End ,  Time Is the Most Honest Witness
+### The Fifth Mark: Perseverance to the End, Time Is the Most Honest Witness
 
 "They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us." (1 John 2:19).
 
-I have seen many who were fervent at first, grew cold, and eventually departed. This grieves me, but it also teaches me: perseverance to the end is the ultimate mark of true faith. Not by one's own willpower ,  whose willpower can last a lifetime? ,  but by God preserving His people to the end. The perseverance of the saints is, in essence, the perseverance of God: "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ." (Phil 1:6).
+I have seen many who were fervent at first, grew cold, and eventually departed. This grieves me, but it also teaches me: perseverance to the end is the ultimate mark of true faith. Not by one's own willpower, whose willpower can last a lifetime?, but by God preserving His people to the end. The perseverance of the saints is, in essence, the perseverance of God: "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ." (Phil 1:6).
 
 ### Then, Can We Judge Whether Others Are Reborn?
 
 Little children, this is where the greatest caution is needed. The Lord said, "Ye shall know them by their fruits." (Matt 7:16), but this was primarily about discerning false prophets and false teachers, not for us to casually judge a brother's soul.
 
-"For the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart." (1 Sam 16:7). Ultimate judgment belongs to God. We should hold charitable hope for our brothers ,  "Beareth all things, believeth all things, hopeth all things." (1 Cor 13:7). Unless there is obvious, persistent, unrepentant sin, we should not hastily judge someone's state of salvation.
+"For the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart." (1 Sam 16:7). Ultimate judgment belongs to God. We should hold charitable hope for our brothers, "Beareth all things, believeth all things, hopeth all things." (1 Cor 13:7). Unless there is obvious, persistent, unrepentant sin, we should not hastily judge someone's state of salvation.
 
-Let me tell you a story I witnessed. The night Peter denied the Lord three times ,  if you had been in that courtyard, watching Peter cursing and swearing to the servant girl, "I know not the man!" ,  how would you have judged him? You would surely have said: This man is no true believer. But you would have been wrong. Peter was a true believer who temporarily fell in extreme terror. The risen Lord, on the shore of Tiberias, three times asked him, "Lovest thou me?" ,  and three times restored him. We cannot define a brother's entire life by his weakest moment.
+Let me tell you a story I witnessed. The night Peter denied the Lord three times, if you had been in that courtyard, watching Peter cursing and swearing to the servant girl, "I know not the man!", how would you have judged him? You would surely have said: This man is no true believer. But you would have been wrong. Peter was a true believer who temporarily fell in extreme terror. The risen Lord, on the shore of Tiberias, three times asked him, "Lovest thou me?", and three times restored him. We cannot define a brother's entire life by his weakest moment.
 
 ### Live in Assurance, Walk in Love
 
-Little children, I write these things not to make you anxiously self-examine, but to set your hearts at rest. Assurance comes not from your performance but from God's promises and the Spirit's internal witness ,  "The Spirit itself beareth witness with our spirit, that we are the children of God." (Rom 8:16).
+Little children, I write these things not to make you anxiously self-examine, but to set your hearts at rest. Assurance comes not from your performance but from God's promises and the Spirit's internal witness, "The Spirit itself beareth witness with our spirit, that we are the children of God." (Rom 8:16).
 
 Self-examination is for gratitude, not fear. When you see the Spirit's fruit in your life, a repentant heart, love for your brothers, you should not say "I'm still not good enough" but rather "Thank You, Lord, Your grace is at work in me."
 
-As for how you view your brothers ,  look with love, not with judgment. "There is no fear in love; but perfect love casteth out fear." (1 John 4:18).
+As for how you view your brothers, look with love, not with judgment. "There is no fear in love; but perfect love casteth out fear." (1 John 4:18).
 
 Little children, let us love one another, for love is of God.`,
     tags: ['信心', '确据', '恩典', '爱', '成圣'],
@@ -2624,14 +2624,14 @@ Your brother, Joseph`,
     authorBio: '嫩的儿子，摩西的继承人，以色列的统帅',
     authorBioEn: 'Son of Nun, successor of Moses, commander of Israel',
     title_zh: '应许之地的脚印，旧约圣地巡礼',
-    title_en: 'Footprints in the Promised Land ,  A Pilgrimage Through Sacred Places',
+    title_en: 'Footprints in the Promised Land, A Pilgrimage Through Sacred Places',
     date: '2026-05-23',
     category: 'theology' as Letter['category'],
     scripture: '约书亚记 24:26-27',
     scriptureText_zh: `约书亚将这些话都写在神的律法书上，又将一块大石头立在橡树下耶和华的圣所旁边。约书亚对百姓说："看哪，这石头可以向我们作见证，因为是听见了耶和华所吩咐我们的一切话，倘或你们背弃你们的神，这石头就可以向你们作见证。"（约书亚记 24:26-27）`,
     scriptureText_en: `And Joshua wrote these words in the book of the law of God, and took a great stone, and set it up there under an oak, that was by the sanctuary of the LORD. And Joshua said unto all the people, Behold, this stone shall be a witness unto us; for it hath heard all the words of the LORD which he spake unto us: it shall be therefore a witness unto you, lest ye deny your God. (Joshua 24:26-27, KJV)`,
     summary_zh: '伯特利、示剑、摩利亚山、幔利的橡树、别是巴、伯利恒、希伯仑，这些地名反复出现在旧约历史中，不是巧合，而是神在同一片土地上留下的脚印。每一处圣地都在述说同一个故事：应许、等候、成就。',
-    summary_en: 'Bethel, Shechem, Mount Moriah, the Oaks of Mamre, Beersheba, Bethlehem, Hebron ,  these place names recur throughout Old Testament history not by coincidence, but as God\'s footprints left upon the same land. Each sacred site tells the same story: promise, waiting, fulfillment.',
+    summary_en: 'Bethel, Shechem, Mount Moriah, the Oaks of Mamre, Beersheba, Bethlehem, Hebron, these place names recur throughout Old Testament history not by coincidence, but as God\'s footprints left upon the same land. Each sacred site tells the same story: promise, waiting, fulfillment.',
     content_zh: `亲爱的弟兄姐妹，我是约书亚，嫩的儿子。
 
 我这一生走过许多路，从埃及到旷野，从旷野到约旦河，从约旦河到应许之地的每一座城、每一片山。但当我年老的时候回望，最让我震撼的不是那些战役，而是一个发现：**神一直在同样的地方行事。**
@@ -2707,79 +2707,79 @@ Your brother, Joseph`,
 "耶和华你们神所应许赐福与你们的话没有一句落空，都应验在你们身上了"（书23:14）。`,
     content_en: `Dear brothers and sisters, I am Joshua, son of Nun.
 
-In my lifetime I have walked many roads ,  from Egypt to the wilderness, from the wilderness to the Jordan, from the Jordan to every city and hill in the promised land. But as I look back in my old age, what astounds me most is not the battles but a discovery: **God keeps acting in the same places.**
+In my lifetime I have walked many roads, from Egypt to the wilderness, from the wilderness to the Jordan, from the Jordan to every city and hill in the promised land. But as I look back in my old age, what astounds me most is not the battles but a discovery: **God keeps acting in the same places.**
 
-The roads our father Abraham walked, Isaac walked, Jacob walked, and now we have walked too. The same place names, the same altar sites, the same oaks, the same wells ,  on the same land, generation after generation, God has left His footprints. Let me take you on a pilgrimage through these sacred sites.
+The roads our father Abraham walked, Isaac walked, Jacob walked, and now we have walked too. The same place names, the same altar sites, the same oaks, the same wells, on the same land, generation after generation, God has left His footprints. Let me take you on a pilgrimage through these sacred sites.
 
-### Shechem ,  Where the Covenant Begins and Is Renewed
+### Shechem, Where the Covenant Begins and Is Renewed
 
-When Abraham first entered Canaan, Shechem was his first stop, at the oak of Moreh (Gen 12:6). The LORD appeared to him there and said, "Unto thy seed will I give this land." Abraham built an altar there ,  **the first altar in the promised land**.
+When Abraham first entered Canaan, Shechem was his first stop, at the oak of Moreh (Gen 12:6). The LORD appeared to him there and said, "Unto thy seed will I give this land." Abraham built an altar there, **the first altar in the promised land**.
 
-Later Jacob returned from Paddan-aram and also bought land at Shechem, built an altar, and named it El-Elohe-Israel ,  "God, the God of Israel" (Gen 33:18-20). Later still, Dinah's tragedy occurred at Shechem (Gen 34), and Joseph's bones were buried at Shechem (Josh 24:32).
+Later Jacob returned from Paddan-aram and also bought land at Shechem, built an altar, and named it El-Elohe-Israel, "God, the God of Israel" (Gen 33:18-20). Later still, Dinah's tragedy occurred at Shechem (Gen 34), and Joseph's bones were buried at Shechem (Josh 24:32).
 
-And I ,  Joshua ,  at the end of my life, also gathered all Israel at Shechem, declaring: "But as for me and my house, we will serve the LORD." (Josh 24:15). I set up a great stone under the oak at Shechem as a witness.
+And I, Joshua, at the end of my life, also gathered all Israel at Shechem, declaring: "But as for me and my house, we will serve the LORD." (Josh 24:15). I set up a great stone under the oak at Shechem as a witness.
 
 From Abraham to me, Shechem was the starting point of the covenant and the place of its renewal. From the first altar to the final covenant assembly, God called generation after generation in the same place to respond to His grace.
 
-A thousand years later, the Lord Jesus passed through Samaria to Sychar ,  near Shechem ,  and at Jacob's well told a Samaritan woman: "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth." (John 4:23). The altar at Shechem pointed not to a place, but to a Person.
+A thousand years later, the Lord Jesus passed through Samaria to Sychar, near Shechem, and at Jacob's well told a Samaritan woman: "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth." (John 4:23). The altar at Shechem pointed not to a place, but to a Person.
 
-### Bethel ,  Where Heaven Opened
+### Bethel, Where Heaven Opened
 
 Jacob fled from Esau and slept on a stone in the wilderness. He dreamed of a ladder set on earth, its top reaching heaven, with angels ascending and descending (Gen 28:12). The LORD stood above it and said: "I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed."
 
-Jacob awoke and said: "Surely the LORD is in this place; and I knew it not. How dreadful is this place! this is none other but the house of God, and this is the gate of heaven." (Gen 28:16-17). He named it Bethel ,  "House of God."
+Jacob awoke and said: "Surely the LORD is in this place; and I knew it not. How dreadful is this place! this is none other but the house of God, and this is the gate of heaven." (Gen 28:16-17). He named it Bethel, "House of God."
 
-Twenty years later, Jacob returned to Bethel after the tragedy at Shechem, removed the foreign gods, and rebuilt the altar (Gen 35:1-7). God appeared again, reaffirmed the promise, and gave him the new name Israel. Bethel became the most important spiritual landmark of Jacob's life ,  both his first encounter with God and his return to God happened here.
+Twenty years later, Jacob returned to Bethel after the tragedy at Shechem, removed the foreign gods, and rebuilt the altar (Gen 35:1-7). God appeared again, reaffirmed the promise, and gave him the new name Israel. Bethel became the most important spiritual landmark of Jacob's life, both his first encounter with God and his return to God happened here.
 
 The Lord Jesus told Nathanael: "Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man." (John 1:51).  The Lord Jesus Himself is the ladder! The "gate of heaven" foreshadowed at Bethel was fully opened in Christ.
 
-### Mount Moriah ,  The Sacred Mountain of Sacrifice and Redemption
+### Mount Moriah, The Sacred Mountain of Sacrifice and Redemption
 
-"And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of." (Gen 22:2). At the moment Abraham raised the knife, the angel called out, and he saw a ram caught in a thicket, offered in Isaac's place. Abraham named that place Jehovah-jireh ,  "The LORD will provide" (Gen 22:14).
+"And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of." (Gen 22:2). At the moment Abraham raised the knife, the angel called out, and he saw a ram caught in a thicket, offered in Isaac's place. Abraham named that place Jehovah-jireh, "The LORD will provide" (Gen 22:14).
 
 A thousand years later, Solomon built the Temple on Mount Moriah (2 Chr 3:1). The mountain where Abraham offered sacrifice became Israel's permanent center of worship.
 
-Another thousand years later, on another peak of that same mountain range ,  Golgotha ,  God's only Son was offered up. This time no angel called a halt, for this time God's own Lamb, whom He Himself had provided, was His own Son. "And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the LORD it shall be seen." (Gen 22:14). From Abraham to Calvary, the promise on Moriah waited two thousand years for its complete fulfillment.
+Another thousand years later, on another peak of that same mountain range, Golgotha, God's only Son was offered up. This time no angel called a halt, for this time God's own Lamb, whom He Himself had provided, was His own Son. "And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the LORD it shall be seen." (Gen 22:14). From Abraham to Calvary, the promise on Moriah waited two thousand years for its complete fulfillment.
 
-### The Oaks of Mamre ,  Where God Dined with Man
+### The Oaks of Mamre, Where God Dined with Man
 
-Abraham pitched his tent by the oaks of Mamre and dwelt there many years (Gen 13:18). Under those oaks, three visitors came and Abraham hurried to serve them with bread and a calf. One of them was the LORD Himself ,  there He announced to Abraham that Sarah would bear a son the following year (Gen 18:10).
+Abraham pitched his tent by the oaks of Mamre and dwelt there many years (Gen 13:18). Under those oaks, three visitors came and Abraham hurried to serve them with bread and a calf. One of them was the LORD Himself, there He announced to Abraham that Sarah would bear a son the following year (Gen 18:10).
 
 The oaks of Mamre were where God sat at table with man. Not in a temple, not beside an altar, but under an ordinary oak, at an ordinary meal, God revealed His plan to His friend.
 
 Hebrews says: "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares." (Heb 13:2). The background of this verse is the story under the oaks of Mamre. And the Lord Jesus says: "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me." (Rev 3:20). The table fellowship under the oaks of Mamre points to the eternal communion between Christ and His people.
 
-### Beersheba ,  The Southern Boundary of Promise
+### Beersheba, The Southern Boundary of Promise
 
 Abraham made a covenant with Abimelech at Beersheba, planted a tamarisk tree, and called on the name of the LORD, the everlasting God (Gen 21:31-33). Isaac built an altar at Beersheba, where the LORD appeared and said: "Fear not, for I am with thee." (Gen 26:24-25). Before going down to Egypt, Jacob offered sacrifices at Beersheba, and God spoke in a vision: "Fear not to go down into Egypt; for I will there make of thee a great nation." (Gen 46:1-3).
 
-Three generations of patriarchs, the same place, the same words ,  **"Do not be afraid."** Beersheba was the southernmost edge of the promised land, the last station before leaving it. Every time the patriarchs faced the unknown and confronted fear, God spoke to them at Beersheba.
+Three generations of patriarchs, the same place, the same words, **"Do not be afraid."** Beersheba was the southernmost edge of the promised land, the last station before leaving it. Every time the patriarchs faced the unknown and confronted fear, God spoke to them at Beersheba.
 
- Where is your Beersheba? When you are about to step into an unknown wilderness, God's words have not changed ,  "Fear not, for I am with thee."
+ Where is your Beersheba? When you are about to step into an unknown wilderness, God's words have not changed, "Fear not, for I am with thee."
 
-### Bethlehem ,  Life on the Road of Death
+### Bethlehem, Life on the Road of Death
 
-Rachel died in hard labor on the road to Bethlehem, naming her son Ben-oni with her last breath ,  "son of my sorrow" (Gen 35:18-19). Bethlehem was first associated with death and tears.
+Rachel died in hard labor on the road to Bethlehem, naming her son Ben-oni with her last breath, "son of my sorrow" (Gen 35:18-19). Bethlehem was first associated with death and tears.
 
-But later, Ruth gleaned in Bethlehem's fields (Ruth 2), met Boaz, and married into Israel ,  a Moabite woman becoming David's great-grandmother. Later still, Samuel anointed the shepherd boy David as king in Bethlehem (1 Sam 16).
+But later, Ruth gleaned in Bethlehem's fields (Ruth 2), met Boaz, and married into Israel, a Moabite woman becoming David's great-grandmother. Later still, Samuel anointed the shepherd boy David as king in Bethlehem (1 Sam 16).
 
 The prophet Micah foretold: "But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting." (Micah 5:2).
 
-Where Rachel wept and died, a thousand years later the Messiah was born. The road of death became the road of life. Jeremiah said: "A voice was heard in Ramah, lamentation, and bitter weeping; Rahel weeping for her children." (Jer 31:15). Matthew quoted this describing Herod's massacre of infants (Matt 2:18). But Rachel's weeping is not the end of the story ,  the first cry from Bethlehem's manger is.
+Where Rachel wept and died, a thousand years later the Messiah was born. The road of death became the road of life. Jeremiah said: "A voice was heard in Ramah, lamentation, and bitter weeping; Rahel weeping for her children." (Jer 31:15). Matthew quoted this describing Herod's massacre of infants (Matt 2:18). But Rachel's weeping is not the end of the story, the first cry from Bethlehem's manger is.
 
-### Hebron ,  The Foundation of Faith
+### Hebron, The Foundation of Faith
 
-Abraham settled by the oaks of Mamre at Hebron (Gen 13:18). Sarah died at Hebron, and Abraham purchased the cave of Machpelah there ,  the first recorded property purchase by an Israelite in the promised land (Gen 23). Later Abraham himself, Isaac and Rebekah, Jacob and Leah were all buried there.
+Abraham settled by the oaks of Mamre at Hebron (Gen 13:18). Sarah died at Hebron, and Abraham purchased the cave of Machpelah there, the first recorded property purchase by an Israelite in the promised land (Gen 23). Later Abraham himself, Isaac and Rebekah, Jacob and Leah were all buried there.
 
-The cave of Machpelah was not merely a tomb; it was a **declaration of faith**: though we are sojourners, this land is promised to us by God. Abraham paid four hundred shekels of silver for a burial plot ,  not because the dead needed burying, but because the faithful needed to plant roots. He left his bones in the promised land because he believed God would fulfill His word.
+The cave of Machpelah was not merely a tomb; it was a **declaration of faith**: though we are sojourners, this land is promised to us by God. Abraham paid four hundred shekels of silver for a burial plot, not because the dead needed burying, but because the faithful needed to plant roots. He left his bones in the promised land because he believed God would fulfill His word.
 
-Hebrews says: "These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth." (Heb 11:13). The cave of Machpelah at Hebron is the most concrete testimony of this faith ,  they purchased graves in the promised land because they believed that one day they would rise again on this very soil.
+Hebrews says: "These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth." (Heb 11:13). The cave of Machpelah at Hebron is the most concrete testimony of this faith, they purchased graves in the promised land because they believed that one day they would rise again on this very soil.
 
- When I set up that great stone at Shechem, I knew my days were drawing to a close. But I was not afraid, because every place I had walked ,  Shechem, Bethel, Moriah, Mamre, Beersheba, Bethlehem, Hebron ,  told me the same thing: **God is faithful.**
+ When I set up that great stone at Shechem, I knew my days were drawing to a close. But I was not afraid, because every place I had walked, Shechem, Bethel, Moriah, Mamre, Beersheba, Bethlehem, Hebron, told me the same thing: **God is faithful.**
 
 What He promised at Shechem, He renewed at Shechem. Where He appeared at Bethel, He came again at Bethel. Where He provided a ram on Moriah, He provided the Lamb on Calvary. Where He said "Fear not" at Beersheba, He walks with us through every wilderness. Where He left tears at Bethlehem, He also brought forth hope at Bethlehem. Where He buried the patriarchs at Hebron, He will surely raise them on the last day.
 
-These places are not merely dots on a map; they are God's footprints. From Abraham to me, Joshua, and now to you ,  brothers and sisters reading this letter ,  God's steps have never stopped.
+These places are not merely dots on a map; they are God's footprints. From Abraham to me, Joshua, and now to you, brothers and sisters reading this letter, God's steps have never stopped.
 
 "There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass." (Josh 21:45).`,
     tags: ['应许', '圣地', '救赎历史', '基督', '旧约地理'],
@@ -3018,7 +3018,7 @@ The Lord's servant, Mary of Nazareth`,
     scriptureText_zh: `这些都是挪亚三个儿子的宗族，各随他们的支派立国。洪水以后，他们在地上分为邦国。（创世记 10:32）`,
     scriptureText_en: `These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood. (Genesis 10:32, KJV)`,
     summary_zh: '为什么圣灵要我记录该隐的后裔、含和雅弗的后裔、罗得的后裔、以实玛利的后裔、以扫的后裔？这些约外之民的名录不是多余的注脚，而是救赎历史不可或缺的一环，因为地上万族都要因亚伯拉罕的后裔得福。',
-    summary_en: 'Why did the Spirit move me to record the descendants of Cain, Ham, Japheth, Lot, Ishmael, and Esau? These genealogies of those outside the covenant are not redundant footnotes but an indispensable part of redemptive history ,  for in Abraham\'s seed shall all the families of the earth be blessed.',
+    summary_en: 'Why did the Spirit move me to record the descendants of Cain, Ham, Japheth, Lot, Ishmael, and Esau? These genealogies of those outside the covenant are not redundant footnotes but an indispensable part of redemptive history, for in Abraham\'s seed shall all the families of the earth be blessed.',
     content_zh: `亲爱的弟兄姐妹，我是摩西，神的仆人。
 
 你们或许在读创世记时有过这样的疑问：为什么要花那么多篇幅记录那些"不重要"的家谱？该隐的后裔、含的后裔、罗得的后裔、以实玛利的后裔、以扫的后裔，这些人不是被拣选的一支，为什么圣灵要我一一写下他们的名字？
@@ -3084,67 +3084,67 @@ The Lord's servant, Mary of Nazareth`,
 愿荣耀归给那位"从创立世界以前，在基督里拣选了我们"的神（弗1:4）。`,
     content_en: `Dear brothers and sisters, I am Moses, servant of God.
 
-You may have wondered while reading Genesis: why spend so much space recording seemingly "unimportant" genealogies? The descendants of Cain, of Ham, of Lot, of Ishmael, of Esau ,  these were not the chosen line. Why did the Spirit move me to write down every one of their names?
+You may have wondered while reading Genesis: why spend so much space recording seemingly "unimportant" genealogies? The descendants of Cain, of Ham, of Lot, of Ishmael, of Esau, these were not the chosen line. Why did the Spirit move me to write down every one of their names?
 
 Because in God's eyes, no name is superfluous. These genealogies of those outside the covenant are precisely the key to understanding the grace within it. Let me walk you through them.
 
-### The Descendants of Cain ,  God's Common Grace (Gen 4:17-24)
+### The Descendants of Cain, God's Common Grace (Gen 4:17-24)
 
-Cain killed his brother and was driven from God's presence. By justice, he should have perished. Yet God gave him a mark of protection (Gen 4:15) and allowed his descendants to develop animal husbandry (Jabal), music (Jubal), and metalwork (Tubal-Cain). The origins of civilization arose among the exiled ,  this is what Reformed theology calls "common grace": even outside the covenant, God still grants talents, culture, and order.
+Cain killed his brother and was driven from God's presence. By justice, he should have perished. Yet God gave him a mark of protection (Gen 4:15) and allowed his descendants to develop animal husbandry (Jabal), music (Jubal), and metalwork (Tubal-Cain). The origins of civilization arose among the exiled, this is what Reformed theology calls "common grace": even outside the covenant, God still grants talents, culture, and order.
 
-But note: Cain's civilization produced Lamech's violence and arrogance ,  "If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold." (Gen 4:24). Without God's restraint, civilization can shine brilliantly and fall catastrophically.
+But note: Cain's civilization produced Lamech's violence and arrogance, "If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold." (Gen 4:24). Without God's restraint, civilization can shine brilliantly and fall catastrophically.
 
 Meanwhile, Seth's line "began to call upon the name of the LORD" (Gen 4:26). Two lines in stark contrast: one had civilization without worship, the other had worship and therefore hope. The Messiah's genealogy continued through Seth's line, not Cain's.
 
-### The Descendants of Ham and Japheth ,  All Nations in God's Hand (Gen 10)
+### The Descendants of Ham and Japheth, All Nations in God's Hand (Gen 10)
 
-After the Flood, Noah's three sons multiplied. I was commanded to record the "Table of Nations" ,  Ham's descendants went south, becoming Canaanites, Egyptians, Philistines, Cushites; Nimrod built Babel. Japheth's descendants spread north and west. From Shem's line came Abraham.
+After the Flood, Noah's three sons multiplied. I was commanded to record the "Table of Nations", Ham's descendants went south, becoming Canaanites, Egyptians, Philistines, Cushites; Nimrod built Babel. Japheth's descendants spread north and west. From Shem's line came Abraham.
 
 Why record so many nations? Because God "hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;" (Acts 17:26). Every nation's rise and fall is under God's sovereignty. The Table of Nations is not a geography textbook but evidence that God governs all the earth.
 
-Ham's son Canaan was cursed (Gen 9:25), yet a thousand years later, the Canaanite woman Rahab entered Israel by faith and joined the Messiah's genealogy (Matt 1:5). A descendant of the cursed line, saved by faith ,  this is the power of grace.
+Ham's son Canaan was cursed (Gen 9:25), yet a thousand years later, the Canaanite woman Rahab entered Israel by faith and joined the Messiah's genealogy (Matt 1:5). A descendant of the cursed line, saved by faith, this is the power of grace.
 
-### The Descendants of Lot ,  Grace from Shame (Gen 19:30-38)
+### The Descendants of Lot, Grace from Shame (Gen 19:30-38)
 
 After Sodom's destruction, Lot's two daughters committed incest with their father. The firstborn bore Moab, the younger bore Ben-Ammi. These very names carry shame. The Moabites and Ammonites became Israel's enemies, and the law decreed: "An Ammonite or Moabite shall not enter into the congregation of the LORD." (Deut 23:3).
 
-But ,  Ruth was a Moabite woman!
+But, Ruth was a Moabite woman!
 
 She told her mother-in-law Naomi: "Thy people shall be my people, and thy God my God." (Ruth 1:16). She entered from outside the covenant to within, from a rejected people to become David's great-grandmother, entering the Messiah's genealogy (Matt 1:5).
 
  What immense grace! God can choose His people from the most unseemly origins. Sin cannot hinder grace; shame cannot limit election. "With men this is impossible; but with God all things are possible." (Matt 19:26).
 
-### The Descendants of Ishmael ,  Promises Outside the Covenant Also Fulfilled (Gen 25:12-18)
+### The Descendants of Ishmael, Promises Outside the Covenant Also Fulfilled (Gen 25:12-18)
 
 Abraham pleaded for Ishmael: "O that Ishmael might live before thee!" (Gen 17:18). God answered: the covenant would be with Isaac, but "as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation." (Gen 17:20).
 
-I recorded Ishmael's twelve sons (Gen 25:13-16), each one fulfilled. God keeps all His words ,  not only promises within the covenant but also those outside it. Ishmael did not inherit the eternal covenant, but not one of God's words to Hagar and Abraham fell to the ground.
+I recorded Ishmael's twelve sons (Gen 25:13-16), each one fulfilled. God keeps all His words, not only promises within the covenant but also those outside it. Ishmael did not inherit the eternal covenant, but not one of God's words to Hagar and Abraham fell to the ground.
 
-More astonishingly: Ishmaelite traders became the means by which Joseph was sold into Egypt (Gen 37:27-28). Human evil accomplished God's good. Ishmael's descendants unknowingly participated in God's redemptive plan ,  carrying the future savior of all Israel to Egypt.
+More astonishingly: Ishmaelite traders became the means by which Joseph was sold into Egypt (Gen 37:27-28). Human evil accomplished God's good. Ishmael's descendants unknowingly participated in God's redemptive plan, carrying the future savior of all Israel to Egypt.
 
-### The Descendants of Esau ,  Kingdom First, Judgment After (Gen 36)
+### The Descendants of Esau, Kingdom First, Judgment After (Gen 36)
 
-I devoted an entire chapter to Esau's genealogy. While the Israelites were still slaves in Egypt, Esau's descendants already had kings, city-states, and armies. From a worldly perspective, Esau's choice seemed wiser ,  no need to wait four hundred years; enjoy earthly blessings now.
+I devoted an entire chapter to Esau's genealogy. While the Israelites were still slaves in Egypt, Esau's descendants already had kings, city-states, and armies. From a worldly perspective, Esau's choice seemed wiser, no need to wait four hundred years; enjoy earthly blessings now.
 
-Edomite wisdom was renowned. Job's friend Eliphaz came from Teman ,  the city of Esau's grandson (Gen 36:11; Job 2:11). The prophet asked: "Is wisdom no more in Teman?" (Jer 49:7). Edom had culture, power, and wisdom.
+Edomite wisdom was renowned. Job's friend Eliphaz came from Teman, the city of Esau's grandson (Gen 36:11; Job 2:11). The prophet asked: "Is wisdom no more in Teman?" (Jer 49:7). Edom had culture, power, and wisdom.
 
 Yet the entire book of Obadiah pronounced Edom's doom: "For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever." (Obad 1:10). Edom's kingdom rose and fell; today no trace remains.
 
-But the story has one final act: when the Edomite King Herod ruled Judea, the true King ,  the Messiah Jesus ,  was born in Bethlehem. Esau's descendant sat on the throne; Jacob's descendant lay in a manger. But the one on the throne would pass away; the one in the manger would endure forever. "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come." (Gen 49:10).
+But the story has one final act: when the Edomite King Herod ruled Judea, the true King, the Messiah Jesus, was born in Bethlehem. Esau's descendant sat on the throne; Jacob's descendant lay in a manger. But the one on the throne would pass away; the one in the manger would endure forever. "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come." (Gen 49:10).
 
 This is God's election: "(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;) As it is written, Jacob have I loved, but Esau have I hated." (Rom 9:11-13).
 
-### All Nations to One ,  The Flood from Outside to Inside the Covenant
+### All Nations to One, The Flood from Outside to Inside the Covenant
 
 Brothers and sisters, why did the Spirit move me to record these names?
 
-Because God's redemptive plan was never about just one nation. The very first promise God spoke to Abraham was: "And in thee shall all families of the earth be blessed." (Gen 12:3). These genealogies outside the covenant are the backdrop to this promise ,  which are "all the families"? Precisely these recorded peoples.
+Because God's redemptive plan was never about just one nation. The very first promise God spoke to Abraham was: "And in thee shall all families of the earth be blessed." (Gen 12:3). These genealogies outside the covenant are the backdrop to this promise, which are "all the families"? Precisely these recorded peoples.
 
 Look at the Messiah's genealogy: Tamar was a Canaanite, Rahab was a Canaanite, Ruth was a Moabite, Bathsheba was the wife of Uriah the Hittite (Matt 1:3-6). Four foreign women, deliberately written into the Messiah's genealogy by the Spirit. The blood of those outside the covenant flowed into the veins of the King within the covenant.
 
 What grace! Paul wrote: "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world: But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ." (Eph 2:12-13).
 
-Finally, the Apostle John saw in his vision: "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb." (Rev 7:9). The descendants of Cain, Ham, Lot, Ishmael, Esau ,  all these genealogies outside the covenant will flow into this great river of worship.
+Finally, the Apostle John saw in his vision: "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb." (Rev 7:9). The descendants of Cain, Ham, Lot, Ishmael, Esau, all these genealogies outside the covenant will flow into this great river of worship.
 
  When you read those seemingly dry genealogies in Genesis, remember: God remembers every name. In His eternal plan of redemption, no nation is forgotten. The God who chose a people from among all nations also called you from among all nations to come before Him. You were once "outside the covenant"; now you are "children of the covenant." This is grace, grace alone.
 
@@ -3159,14 +3159,14 @@ Glory be to the God who "hath chosen us in him before the foundation of the worl
     authorBio: '外邦人的使徒，原名扫罗，便雅悯支派，曾逼迫教会',
     authorBioEn: 'Apostle to the Gentiles, formerly Saul, tribe of Benjamin, once a persecutor of the church',
     title_zh: '大马色路上，那道光击碎了我所有的确信',
-    title_en: 'On the Road to Damascus ,  The Light That Shattered All My Certainties',
+    title_en: 'On the Road to Damascus, The Light That Shattered All My Certainties',
     date: '2026-02-28',
     category: 'testimony' as Letter['category'],
     scripture: '使徒行传 9:1-19',
     scriptureText_zh: `扫罗行路，将到大马色，忽然从天上发光，四面照着他。他就仆倒在地，听见有声音对他说："扫罗，扫罗，你为什么逼迫我？"`,
     scriptureText_en: `Now as he went on his way, he approached Damascus, and suddenly a light from heaven shone around him. And falling to the ground, he heard a voice saying to him, "Saul, Saul, why are you persecuting me?"`,
     summary_zh: '我曾是最好的法利赛人，以为自己在为神大发热心。直到那道光让我瞎了眼，讽刺的是，瞎了眼之后我才真正"看见"了。',
-    summary_en: 'I was the finest Pharisee, convinced I was burning with zeal for God. Then that light blinded me ,  and ironically, only after losing my sight did I truly "see."',
+    summary_en: 'I was the finest Pharisee, convinced I was burning with zeal for God. Then that light blinded me, and ironically, only after losing my sight did I truly "see."',
     content_zh: `## 我是扫罗，最虔诚的逼迫者
 
 我叫扫罗，便雅悯支派的人，法利赛人中的法利赛人。
@@ -3324,7 +3324,7 @@ Glory be to the God who "hath chosen us in him before the foundation of the worl
 *"然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明他一切的忍耐，给后来信他得永生的人作榜样。"（提摩太前书 1:16）*
 
 *愿那在大马色路上光照我的主，也光照你的心，你的弟兄，保罗*`,
-    content_en: `## I Am Saul ,  The Most Devout Persecutor
+    content_en: `## I Am Saul, The Most Devout Persecutor
 
 My name is Saul, of the tribe of Benjamin, a Pharisee among Pharisees.
 
@@ -3334,11 +3334,11 @@ Did you hear that? **Blameless.** I am not boasting. In those years studying und
 
 But being serious was not enough. I wanted to **burn with zeal for God.**
 
-When I first heard that a group of people were proclaiming a crucified Nazarene as the Messiah, my blood boiled. **The Messiah hung on a tree?** The Torah clearly states: "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the LORD thy God giveth thee for an inheritance." (Deuteronomy 21:23). These people were not preaching good news ,  they were blaspheming God!
+When I first heard that a group of people were proclaiming a crucified Nazarene as the Messiah, my blood boiled. **The Messiah hung on a tree?** The Torah clearly states: "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the LORD thy God giveth thee for an inheritance." (Deuteronomy 21:23). These people were not preaching good news, they were blaspheming God!
 
 So when the Sanhedrin decided to stamp out this heresy, I was the first to volunteer.
 
-The day Stephen was stoned to death, I was there. I did not throw the stones myself ,  I guarded the garments of those who did. I watched him kneel. I watched the stones strike him one by one. His face was covered in blood, but his face , 
+The day Stephen was stoned to death, I was there. I did not throw the stones myself, I guarded the garments of those who did. I watched him kneel. I watched the stones strike him one by one. His face was covered in blood, but his face , 
 
 Brothers and sisters, I do not like to admit this, but that day I saw a face I have never been able to forget. **His face was like the face of an angel.** As he was dying, he said, "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep." (Acts 7:60)
 
@@ -3348,7 +3348,7 @@ I pushed that thought down. I told myself: this is the devil's deception. The mo
 
 So I persecuted even more furiously.
 
-I went house to house. Men and women alike, I dragged them off to prison. I threatened them, demanding they deny that name. Some did deny it ,  I saw the shame and agony in their eyes. Some refused ,  I saw in their eyes a peace, a peace that I could never possess no matter how hard I tried.
+I went house to house. Men and women alike, I dragged them off to prison. I threatened them, demanding they deny that name. Some did deny it, I saw the shame and agony in their eyes. Some refused, I saw in their eyes a peace, a peace that I could never possess no matter how hard I tried.
 
 **I hated that peace.** Because I did not have it.
 
@@ -3360,11 +3360,11 @@ I pushed that voice down deeper.
 
 Jerusalem was not enough. I heard that there were followers of the Way in Damascus too, so I went to the high priest for letters of authority to bring them back in chains.
 
-It was a long journey, about six days. The whole way I was planning how I would interrogate them, how I would convict them. My heart was full of righteous anger ,  or so I thought.
+It was a long journey, about six days. The whole way I was planning how I would interrogate them, how I would convict them. My heart was full of righteous anger, or so I thought.
 
 **Then the light came.**
 
-Brothers and sisters, I cannot describe that light with words. The noonday sun was already blazing, but that light was brighter than the sun. It did not come from one direction ,  it **shone all around me**. As if the entire sky had torn open and all its light poured down.
+Brothers and sisters, I cannot describe that light with words. The noonday sun was already blazing, but that light was brighter than the sun. It did not come from one direction, it **shone all around me**. As if the entire sky had torn open and all its light poured down.
 
 I fell to the ground.
 
@@ -3376,7 +3376,7 @@ He called my name. Twice.
 
 I lay on the ground, trembling. I asked, "Who are you, Lord?"
 
-I already knew. The instant that light struck me, all my certainties shattered ,  my knowledge of the law, my Pharisee credentials, my zeal, my righteousness ,  all of it crumbled to dust. **Because if this light was from heaven, if this voice was the voice of God, then I had not been persecuting heretics. I had been , **
+I already knew. The instant that light struck me, all my certainties shattered, my knowledge of the law, my Pharisee credentials, my zeal, my righteousness, all of it crumbled to dust. **Because if this light was from heaven, if this voice was the voice of God, then I had not been persecuting heretics. I had been , **
 
 **"I am Jesus, whom you are persecuting."**
 
@@ -3384,7 +3384,7 @@ The crucified Nazarene. The one I had declared cursed by God. The one whose name
 
 **He is Lord.**
 
-Brothers and sisters, can you imagine what I felt in that moment? It was not an epiphany. It was the **ground giving way beneath me**. Everything I had ever done ,  my devotion, my zeal, everything I took pride in :  was not merely worthless. It was aimed in **exactly the wrong direction**. I thought I was serving God. In truth, I was **persecuting God.**
+Brothers and sisters, can you imagine what I felt in that moment? It was not an epiphany. It was the **ground giving way beneath me**. Everything I had ever done, my devotion, my zeal, everything I took pride in :  was not merely worthless. It was aimed in **exactly the wrong direction**. I thought I was serving God. In truth, I was **persecuting God.**
 
 I was the most devout sinner in the world.
 
@@ -3396,7 +3396,7 @@ My companions led me by the hand into Damascus. For three days and three nights 
 
 Do you know what I was thinking during those three days?
 
-I thought of Stephen's face. I thought of every person I had dragged to prison with my own hands. I thought of those who had died because of my persecution. Their names ,  every one ,  echoed in my mind.
+I thought of Stephen's face. I thought of every person I had dragged to prison with my own hands. I thought of those who had died because of my persecution. Their names, every one, echoed in my mind.
 
 **I had been persecuting Jesus. Every believer was part of His body. When I struck them, I struck Him. When I bound them, I bound Him.**
 
@@ -3412,7 +3412,7 @@ On the third day, a disciple named Ananias came.
 
 I later learned that the Lord had told him in a vision: Go to the street called Straight, and find a man from Tarsus named Saul. Ananias said, "Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:" (Acts 9:13).
 
- Think about it ,  if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
+ Think about it, if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
 
 **Ananias went.**
 
@@ -3422,11 +3422,11 @@ He came in, placed his hands on me, and said a sentence that brought me to tears
 
 Brother. He called me **brother.**
 
-This man ,  the very man I had come to Damascus to arrest ,  called me brother.
+This man, the very man I had come to Damascus to arrest, called me brother.
 
 "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost." (Acts 9:17).
 
-In that moment, something like scales fell from my eyes. I could see again. But what I saw was no longer the world I had known ,  I saw an entirely new world. **When I was blind, I thought I could see. Only when I could see did I realize I had been blind all along.**
+In that moment, something like scales fell from my eyes. I could see again. But what I saw was no longer the world I had known, I saw an entirely new world. **When I was blind, I thought I could see. Only when I could see did I realize I had been blind all along.**
 
 I rose and was baptized.
 
@@ -3434,11 +3434,11 @@ I rose and was baptized.
 
 Brothers and sisters, if there is one person in all of Scripture least qualified to be used by God, it is I.
 
-I am not like Peter, who denied the Lord out of fear ,  Peter at least loved the Lord. **I actively, systematically, and zealously persecuted the church of Christ.** My hands were stained with the blood of saints.
+I am not like Peter, who denied the Lord out of fear, Peter at least loved the Lord. **I actively, systematically, and zealously persecuted the church of Christ.** My hands were stained with the blood of saints.
 
 Yet He chose me.
 
-Not because of any good in me. Not because of my learning ,  though I was indeed trained under the finest teacher, Gamaliel. Not because of my zeal ,  that very zeal nearly made me an eternal enemy.
+Not because of any good in me. Not because of my learning, though I was indeed trained under the finest teacher, Gamaliel. Not because of my zeal, that very zeal nearly made me an eternal enemy.
 
 **He chose me precisely to display all His patience in me, the foremost of sinners.**
 
@@ -3454,9 +3454,9 @@ In my letter to the Philippians, I wrote these words. Let me say them again now:
 
 **Rubbish.**
 
-My Pharisee credentials ,  rubbish. My education under Gamaliel ,  rubbish. My blameless record under the law ,  rubbish. Not because these things were bad in themselves, but because **when you use them as substitutes for Christ, they become the very barriers that keep you from knowing God.**
+My Pharisee credentials, rubbish. My education under Gamaliel, rubbish. My blameless record under the law, rubbish. Not because these things were bad in themselves, but because **when you use them as substitutes for Christ, they become the very barriers that keep you from knowing God.**
 
-I once thought I stood in the light. In truth, I stood in darkness. That light knocked me down and blinded me ,  but the irony is, **only after I was blinded did I truly "see."**
+I once thought I stood in the light. In truth, I stood in darkness. That light knocked me down and blinded me, but the irony is, **only after I was blinded did I truly "see."**
 
 ## To Every "Devout Persecutor"
 
@@ -3466,13 +3466,13 @@ Perhaps you do not persecute the church as I did. But perhaps you and I share a 
 
 Perhaps you are a very good person. You follow the rules, do good deeds, never harm anyone. Your record, laid out for inspection, is "blameless." But do you have that peace in your heart? The peace that was sung by people in chains?
 
-If not ,  perhaps, like Saul on the road to Damascus, you need to be struck down by that light.
+If not, perhaps, like Saul on the road to Damascus, you need to be struck down by that light.
 
 Do not be afraid. **That light does not come to destroy you. It comes to save you.**
 
-It will blind you for a time. It will shatter all your certainties. It will leave you sitting in darkness for a while. But when the scales fall from your eyes, you will see a brand new world ,  a world where you no longer need to stand on your own righteousness, a world **upheld entirely by grace.**
+It will blind you for a time. It will shatter all your certainties. It will leave you sitting in darkness for a while. But when the scales fall from your eyes, you will see a brand new world, a world where you no longer need to stand on your own righteousness, a world **upheld entirely by grace.**
 
-"Why are you persecuting me?" ,  perhaps today, the question is not about who you are persecuting, but about this: **What are you resisting?**
+"Why are you persecuting me?", perhaps today, the question is not about who you are persecuting, but about this: **What are you resisting?**
 
 Are you resisting the admission that you cannot do it on your own? Are you resisting laying down your pride? Are you resisting a love greater than all your certainties?
 
@@ -3482,7 +3482,7 @@ And then you will hear Him call your name.
 
 *"Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting." (1 Timothy 1:16)*
 
-*May the Lord who shone His light on me on the Damascus road also shine His light into your heart ,  your brother, Paul*`,
+*May the Lord who shone His light on me on the Damascus road also shine His light into your heart, your brother, Paul*`,
     tags: ['归信', '恩典', '呼召', '翻转'],
   },
   {
@@ -3500,7 +3500,7 @@ And then you will hear Him call your name.
     scriptureText_zh: `主转过身来看彼得，彼得便想起主对他所说的话："今日鸡叫以先，你要三次不认我。"他就出去痛哭。`,
     scriptureText_en: `And the Lord turned and looked at Peter. And Peter remembered the saying of the Lord, how he had said to him, "Before the rooster crows today, you will deny me three times." And he went out and wept bitterly.`,
     summary_zh: '从"我愿为你死"的豪言壮语，到院子里炭火旁的恐惧，到鸡叫时与耶稣目光相遇的那一秒，祂的眼神里没有责备，只有爱。',
-    summary_en: 'From bold vows of dying for Him, to cowering by a charcoal fire, to that moment when the rooster crowed and our eyes met ,  His gaze held no condemnation, only love.',
+    summary_en: 'From bold vows of dying for Him, to cowering by a charcoal fire, to that moment when the rooster crowed and our eyes met, His gaze held no condemnation, only love.',
     content_zh: `## 主啊，众人虽然跌倒，我总不能
 
 那天晚上的逾越节晚餐，我说了一句让自己后悔一辈子的话。
@@ -3674,7 +3674,7 @@ Three times He came back to find us sleeping. Three times. The man who said "I w
 
 "And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest not thou watch one hour? Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak." (Mark 14:37-38)
 
-The spirit is willing, but the flesh is weak ,  the most accurate description of my entire life.
+The spirit is willing, but the flesh is weak, the most accurate description of my entire life.
 
 ## The Charcoal Fire in the Courtyard
 
@@ -3694,7 +3694,7 @@ The third time, bystanders said: "Your accent betrays you. You are one of them."
 
 **I do not know the man!** I even began to invoke a curse on myself.
 
- Did you hear that? I swore an oath that I did not know Him ,  the One who called me by the Sea of Galilee, who held my hand as I walked on water, who said to me, "You are Peter, and on this rock I will build my church."
+ Did you hear that? I swore an oath that I did not know Him, the One who called me by the Sea of Galilee, who held my hand as I walked on water, who said to me, "You are Peter, and on this rock I will build my church."
 
 ## The Rooster Crowed
 
@@ -3718,13 +3718,13 @@ I went out and wept bitterly.
 
 ## By the Sea of Tiberias
 
-After His resurrection, I did not know how to face Him. So I did the only thing I knew ,  I went back to fishing.
+After His resurrection, I did not know how to face Him. So I did the only thing I knew, I went back to fishing.
 
-That night we caught nothing. As dawn broke, a figure stood on the shore and called out: "Children, do you have any fish?" We said no. He said, "Cast the net on the right side of the boat." We did ,  and the net was so full we could not haul it in.
+That night we caught nothing. As dawn broke, a figure stood on the shore and called out: "Children, do you have any fish?" We said no. He said, "Cast the net on the right side of the boat." We did, and the net was so full we could not haul it in.
 
 John recognized Him first: "It is the Lord!"
 
-The moment I heard those words, I put on my outer garment and threw myself into the sea, swimming toward shore.  Did you hear that? **I did not run away. I swam toward Him.** I did not know what He would say to me ,  rebuke or forgiveness ,  but I could not help running to Him. That is what love does: even when you are covered in shame, you cannot stay away.
+The moment I heard those words, I put on my outer garment and threw myself into the sea, swimming toward shore.  Did you hear that? **I did not run away. I swam toward Him.** I did not know what He would say to me, rebuke or forgiveness, but I could not help running to Him. That is what love does: even when you are covered in shame, you cannot stay away.
 
 When I reached the shore, I saw a **charcoal fire**.
 
@@ -3732,17 +3732,17 @@ A charcoal fire.
 
 The last time I sat beside a charcoal fire was in the courtyard of the high priest. Beside that fire, I said three times, "I do not know the man."
 
-He did not build just any fire. **He deliberately used a charcoal fire to bring me back to the scene of my fall.** Not to humiliate me, but to heal me. Because true restoration does not pretend the fall never happened ,  it takes you back to where you fell, and lets you stand up again right there.
+He did not build just any fire. **He deliberately used a charcoal fire to bring me back to the scene of my fall.** Not to humiliate me, but to heal me. Because true restoration does not pretend the fall never happened, it takes you back to where you fell, and lets you stand up again right there.
 
 After breakfast, He looked at me and asked the first question:
 
 **"Simon, son of John, do you love me more than these?"**
 
-Brothers and sisters, He did not call me "Peter." He called me "Simon, son of John" ,  my old name, the name before I was called, before I was named "the Rock." As if to say: let us go back to the beginning and start over.
+Brothers and sisters, He did not call me "Peter." He called me "Simon, son of John", my old name, the name before I was called, before I was named "the Rock." As if to say: let us go back to the beginning and start over.
 
 I said, "Yes, Lord; you know that I love you."
 
-But I no longer dared to use that bold word for love. In Greek, He asked with agape ,  total, self-sacrificing, unwavering love. I answered with phileo ,  the love of a friend, sincere but limited. Because I could no longer boast. The man who said "I will die with you" could not even stand firm before a servant girl.
+But I no longer dared to use that bold word for love. In Greek, He asked with agape, total, self-sacrificing, unwavering love. I answered with phileo, the love of a friend, sincere but limited. Because I could no longer boast. The man who said "I will die with you" could not even stand firm before a servant girl.
 
 He said, "Feed my lambs."
 
@@ -3758,11 +3758,11 @@ A third time He asked: **"Simon, son of John, do you love me?"**
 
 Scripture says "Peter was grieved because he said to him the third time, 'Do you love me?'"
 
-I was grieved not because He was pestering me. I was grieved because I knew why it was three times ,  **three denials, three restorations.** Each question dismantled one denial. He was peeling away the curse of that night, layer by layer, from my soul.
+I was grieved not because He was pestering me. I was grieved because I knew why it was three times, **three denials, three restorations.** Each question dismantled one denial. He was peeling away the curse of that night, layer by layer, from my soul.
 
 Through tears I said: "Lord, you know everything; **you know that I love you.**"
 
-I no longer defended myself, no longer boasted, no longer made promises. All I could say was: You know. You know my weakness, you know my failure, you know all my tears and shame ,  **but you also know that beneath it all, I love you.** Even this small, broken love ,  you know it.
+I no longer defended myself, no longer boasted, no longer made promises. All I could say was: You know. You know my weakness, you know my failure, you know all my tears and shame, **but you also know that beneath it all, I love you.** Even this small, broken love, you know it.
 
 He said, "Feed my sheep."
 
@@ -3772,33 +3772,33 @@ This is grace. Grace does not merely forgive your past. Grace gives you back you
 
 ## To Everyone Who Has Fallen
 
-Brothers and sisters, my hand trembles as I write this letter. Not from age ,  but because every time I remember that night and that morning, I weep.
+Brothers and sisters, my hand trembles as I write this letter. Not from age, but because every time I remember that night and that morning, I weep.
 
 That night was the darkest moment of my life. But that morning was the brightest.
 
-If you are crushed by your own failure right now ,  if the words you have spoken, the things you have done, the trust you have betrayed make you feel unworthy of ever being used by the Lord again , 
+If you are crushed by your own failure right now, if the words you have spoken, the things you have done, the trust you have betrayed make you feel unworthy of ever being used by the Lord again , 
 
 **Hear me:** I, Peter, swore with curses three times before witnesses that I did not know Jesus. I saw His eyes, ran out, and wept bitterly. I thought it was all over.
 
-But He built a charcoal fire for me on the shore. He cooked breakfast with His own hands. He asked me three times, "Do you love me?" ,  not to condemn, but to set me free.
+But He built a charcoal fire for me on the shore. He cooked breakfast with His own hands. He asked me three times, "Do you love me?", not to condemn, but to set me free.
 
-Later, the man who denied the Lord three times stood in the streets of Jerusalem at Pentecost and preached boldly, and three thousand souls were saved. Not because I had become strong ,  **but because I had finally stopped relying on my own strength.**
+Later, the man who denied the Lord three times stood in the streets of Jerusalem at Pentecost and preached boldly, and three thousand souls were saved. Not because I had become strong, **but because I had finally stopped relying on my own strength.**
 
 Falling is not the end of the story. The rooster's crow is not the final sound. The denial by the charcoal fire is not the final scene.
 
-The final scene is another charcoal fire ,  by the Sea of Tiberias, in the morning light, the risen Lord grilling fish for me with His own hands, looking into my eyes, and gently asking:
+The final scene is another charcoal fire, by the Sea of Tiberias, in the morning light, the risen Lord grilling fish for me with His own hands, looking into my eyes, and gently asking:
 
 **"Do you love me?"**
 
 That question was not only for me. Today, right now, He is asking you too.
 
-No matter how many times you have fallen, no matter how deep your denial ,  **His restoration is always deeper than your fall.** His charcoal fire is always there, waiting for you to come home.
+No matter how many times you have fallen, no matter how deep your denial, **His restoration is always deeper than your fall.** His charcoal fire is always there, waiting for you to come home.
 
 You need only answer one thing: **"Lord, you know that I love you."**
 
 *"But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren." (Luke 22:32)*
 
-*May grace and peace be multiplied to you ,  your brother, Peter*`,
+*May grace and peace be multiplied to you, your brother, Peter*`,
     tags: ['信心', '跌倒', '恢复', '恩典'],
   },
   {
@@ -4454,13 +4454,13 @@ Your brother, Thomas`,
 
 My name is Zacchaeus. Chief tax collector of Jericho.
 
-Do you know what a tax collector is? A Jew who collects taxes for Rome. In our people's eyes, we are traitors, collaborators, sellouts. And I was not just any tax collector ,  I was the **chief**. I managed a network of collectors, skimming from everyone. Whatever Rome required, I charged double. The surplus went into my own pocket.
+Do you know what a tax collector is? A Jew who collects taxes for Rome. In our people's eyes, we are traitors, collaborators, sellouts. And I was not just any tax collector, I was the **chief**. I managed a network of collectors, skimming from everyone. Whatever Rome required, I charged double. The surplus went into my own pocket.
 
 So I was very wealthy.
 
 But I did not have a single friend.
 
-On the streets of Jericho, people crossed to the other side when they saw me. Children were pulled away ,  "Stay away from that man." Rabbis would not speak to me. The synagogue door was shut to me. Neighbors spat behind my back.
+On the streets of Jericho, people crossed to the other side when they saw me. Children were pulled away, "Stay away from that man." Rabbis would not speak to me. The synagogue door was shut to me. Neighbors spat behind my back.
 
 I had the biggest house, the finest robes, coffers full of silver. But at night, that house was as empty as a tomb.
 
@@ -4472,15 +4472,15 @@ But silver does not keep you company at night, either.
 
 One day, word swept through the city: **Jesus of Nazareth was passing through Jericho.**
 
-I had heard about Him. He healed the blind. He cleansed lepers. But what caught my attention most was this ,  **He ate with tax collectors.** He ate with a tax collector named Matthew, and when the Pharisees criticized Him, He said, "Those who are well have no need of a physician, but those who are sick."
+I had heard about Him. He healed the blind. He cleansed lepers. But what caught my attention most was this, **He ate with tax collectors.** He ate with a tax collector named Matthew, and when the Pharisees criticized Him, He said, "Those who are well have no need of a physician, but those who are sick."
 
 A rabbi who was willing to sit at the same table as a tax collector.
 
 A thought stirred in my heart: **I want to see Him.** Not to seek healing. Not to ask a theological question. I just wanted to see what this man who did not despise sinners looked like.
 
-But there was a problem ,  **I was short.**
+But there was a problem, **I was short.**
 
-Do not laugh. It is right there in Scripture: "He was seeking to see who Jesus was, but on account of the crowd he could not, because he was small in stature." The truth is ,  when the crowd saw me pushing through, they deliberately refused to make way.
+Do not laugh. It is right there in Scripture: "He was seeking to see who Jesus was, but on account of the crowd he could not, because he was small in stature." The truth is, when the crowd saw me pushing through, they deliberately refused to make way.
 
 So I did the most undignified thing of my entire life.
 
@@ -4494,13 +4494,13 @@ But I did not care anymore.
 
 ## He Stopped
 
-The crowd surged forward. I looked down from the tree and saw Him ,  there in the middle of the crowd, not particularly tall.
+The crowd surged forward. I looked down from the tree and saw Him, there in the middle of the crowd, not particularly tall.
 
 Then He stopped. **Under my tree.**
 
 He looked up at me.
 
- Many people had looked up at me before ,  because I sat on the elevated platform at the tax booth. But their eyes held only fear and hatred. **No one had ever looked at me like this.**
+ Many people had looked up at me before, because I sat on the elevated platform at the tax booth. But their eyes held only fear and hatred. **No one had ever looked at me like this.**
 
 His eyes held no judgment, no disgust. He looked at me the way you look at **a child who has been lost for a very long time.**
 
@@ -4514,11 +4514,11 @@ In this entire city, people called me "that tax collector," "that crook," "that 
 
 And He said "I **must** stay at your house" :  not a request, but an appointment. As though He had come to Jericho for this very moment. **As though before I even climbed that tree, He had already decided to come find me.**
 
-When I climbed down, my hands were trembling. Not from fear. From a feeling I had never known ,  **someone was coming to my house.** Not to collect taxes. Not to file a complaint. A man people said was the Messiah was **choosing to come to my home.**
+When I climbed down, my hands were trembling. Not from fear. From a feeling I had never known, **someone was coming to my house.** Not to collect taxes. Not to file a complaint. A man people said was the Messiah was **choosing to come to my home.**
 
 ## He Did Not Demand Anything
 
-Inside my house, I did not know what to say. In my entire life I had negotiated countless deals ,  I was the best at bargaining, calculating, weighing options. But standing before Him, none of my skills were of any use.
+Inside my house, I did not know what to say. In my entire life I had negotiated countless deals, I was the best at bargaining, calculating, weighing options. But standing before Him, none of my skills were of any use.
 
 **He did not say "Repent first." He did not say "Return the money first." He did not say "Change your ways first, and then I will enter your home."**
 
@@ -4528,9 +4528,9 @@ Standing before Him, my mouth simply opened:
 
 **"Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold."**
 
-Brothers and sisters, do you know what that meant? Half my wealth to the poor, plus fourfold restitution for years of fraud ,  put together, I would be left with almost nothing.
+Brothers and sisters, do you know what that meant? Half my wealth to the poor, plus fourfold restitution for years of fraud, put together, I would be left with almost nothing.
 
-But when the words left my mouth, a lightness I had never known flooded through me. As if a boulder pressing on my chest for decades was suddenly lifted. **That silver was not my wealth; it was my chains.** And He ,  with one look, one sentence, one visit ,  broke them open.
+But when the words left my mouth, a lightness I had never known flooded through me. As if a boulder pressing on my chest for decades was suddenly lifted. **That silver was not my wealth; it was my chains.** And He, with one look, one sentence, one visit, broke them open.
 
 Not because He demanded it. **Because when you are truly touched by love, the things you were clutching so tightly :  you let go of them yourself.**
 
@@ -4542,13 +4542,13 @@ Jesus looked at me and said to everyone:
 
 "He **also** is a son of Abraham."
 
-Do you know what that meant to me? All of Jericho considered me an outsider ,  a tax collector was not a true Israelite. **But Jesus said I was a son of Abraham.** He gave me back the identity that had been taken from me.
+Do you know what that meant to me? All of Jericho considered me an outsider, a tax collector was not a true Israelite. **But Jesus said I was a son of Abraham.** He gave me back the identity that had been taken from me.
 
 **"For the Son of Man came to seek and to save the lost."**
 
-To seek. Not to wait for me to come find Him. He came to find me. I thought I was just trying to get a look at Him ,  but He had walked all the way to Jericho to stop under that sycamore tree, look up, and call my name.
+To seek. Not to wait for me to come find Him. He came to find me. I thought I was just trying to get a look at Him, but He had walked all the way to Jericho to stop under that sycamore tree, look up, and call my name.
 
- The moment I climbed down, I thought I was the one seeking Him. Only later did I understand ,  **from beginning to end, it was He who was seeking me.**
+ The moment I climbed down, I thought I was the one seeking Him. Only later did I understand, **from beginning to end, it was He who was seeking me.**
 
 ## To Everyone Hiding in the Tree
 
@@ -4568,7 +4568,7 @@ Come down. Stop hiding.
 
 *"For the Son of man is come to seek and to save that which was lost." (Luke 19:10)*
 
-*May this Lord who seeks you make His home in your heart today ,  your friend, Zacchaeus*`,
+*May this Lord who seeks you make His home in your heart today, your friend, Zacchaeus*`,
     tags: ['寻找', '悔改', '接纳', '释放'],
   },
 ];

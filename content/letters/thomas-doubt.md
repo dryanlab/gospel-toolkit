@@ -21,13 +21,13 @@ tags: ["信心", "疑惑", "确据", "复活"]
 
 ## Scripture (English)
 
-Thomas answered him, "My Lord and my God!" Jesus said to him, "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed." (John 20:29) (John 20:28)
+"And Thomas answered and said unto him, My LORD and my God." (John 20:28) "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed." (John 20:29)
 
 ## 正文（中文）
 
 亲爱的弟兄姐妹，我是多马，又名低土马，意思是"双生子"。
 
-你们大概知道我的绰号："怀疑的多马"。两千年来，人们提起我，第一反应就是"那个不信的门徒"。但今天我要告诉你全部的故事，不只是怀疑的那一面，还有怀疑如何被恩典吞没的那一面。
+你们大概知道我的绰号，"怀疑的多马"。两千年来，人们提起我，第一反应就是"那个不信的门徒"。但今天我要告诉你全部的故事，不只是怀疑的那一面，还有怀疑如何被恩典吞没的那一面。
 
 ### 一、我们也去和他同死吧（约11:16）
 
@@ -39,7 +39,7 @@ Thomas answered him, "My Lord and my God!" Jesus said to him, "Jesus saith unto 
 
 > 多马，又称为低土马，就对那同作门徒的说："我们也去和他同死吧。"（约翰福音 11:16）
 
-这是我："怀疑的多马"，说的话。"我们也去和他同死吧。"这不是一个胆怯者的话，这是一个愿意为主赴死之人的宣告。弟兄姐妹，在我怀疑之前，请先看见我的忠诚。我或许不善言辞，或许不像彼得那样热情外露，但当主要走向死亡的时候，我说的是"我们也去"，不是"让我们劝他别去"。
+这是我，"怀疑的多马"，说的话。"我们也去和他同死吧。"这不是一个胆怯者的话，这是一个愿意为主赴死之人的宣告。在我怀疑之前，请先看见我的忠诚。我或许不善言辞，或许不像彼得那样热情外露，但当主要走向死亡的时候，我说的是"我们也去"，不是"让我们劝他别去"。
 
 
 我说"我们也去和他同死吧"的时候，我是认真的。我不是那种说漂亮话的人。我的性格就是这样，要么不说，说了就要做到。后来在客西马尼园，当兵丁来抓耶稣的时候，我和其他人一样逃跑了，这是我一生的耻辱。但那并不能抹去我当初说这话时的真心。人的软弱不能否定人的真诚。
@@ -68,7 +68,7 @@ Thomas answered him, "My Lord and my God!" Jesus said to him, "Jesus saith unto 
 
 > 多马却说："我非看见他手上的钉痕，用指头探入那钉痕，又用手探入他的肋旁，我总不信。"（约翰福音 20:25）
 
-"我总不信。"，听起来很刚硬，对吗？但请理解我当时的处境。我刚刚经历了有生以来最大的创伤：我亲眼看着我的主、我的朋友、我的盼望被钉死在十字架上。我不能再承受第二次希望的破灭。如果他没有真的复活，而我却相信了，那种再次跌入深渊的痛苦会比第一次更致命。
+"我总不信。"，听起来很刚硬，对吗？但请理解我当时的处境。我刚刚经历了有生以来最大的创伤，我亲眼看着我的主、我的朋友、我的盼望被钉死在十字架上。我不能再承受第二次希望的破灭。如果他没有真的复活，而我却相信了，那种再次跌入深渊的痛苦会比第一次更致命。
 
 我不是不想信，我是不敢信。因为代价太大了。
 
@@ -83,7 +83,7 @@ Thomas answered him, "My Lord and my God!" Jesus said to him, "Jesus saith unto 
 
 > 耶稣来，站在当中说："愿你们平安！"就对多马说："伸过你的指头来，摸我的手；伸出你的手来，探入我的肋旁。不要疑惑，总要信！"（约翰福音 20:26-27）
 
-弟兄姐妹，你知道这意味着什么吗？主耶稣知道。他知道我说的每一个字："钉痕""指头""肋旁"，他全部知道。他虽然不在那个房间里，但他听见了我的每一句话、每一声叹息、每一滴眼泪。
+弟兄姐妹，你知道这意味着什么吗？主耶稣知道。他知道我说的每一个字，"钉痕""指头""肋旁"，他全部知道。他虽然不在那个房间里，但他听见了我的每一句话、每一声叹息、每一滴眼泪。
 
 他没有绕过我的怀疑。他没有说"多马，你不配见到我，因为你不信。"他直接回应了我的需要，伸出手来，让我摸他的钉痕。他来到我的怀疑之中，用他伤痕累累的双手接住了我。
 
@@ -91,7 +91,7 @@ Thomas answered him, "My Lord and my God!" Jesus said to him, "Jesus saith unto 
 
 > 多马说："我的主！我的神！"（约翰福音 20:28）
 
-"我的主！我的神！"，这不是一句泛泛的认信。这是个人的、亲密的、终极的宣告。"**我的**主！**我的**神！"不是"他们的主"，不是"以色列的神"，而是"**我的**"。在整本福音书中，没有任何门徒说出过如此直接、如此完全的对基督神性的认信。彼得说过"你是基督，是永生神的儿子"，但我说的是："你就是神。"
+"我的主！我的神！"，这不是一句泛泛的认信。这是个人的、亲密的、终极的宣告。"**我的**主！**我的**神！"不是"他们的主"，不是"以色列的神"，而是"**我的**"。在整本福音书中，没有任何门徒说出过如此直接、如此完全的对基督神性的认信。彼得说过"你是基督，是永生神的儿子"，但我说的是，"你就是神。"
 
 
 有人问：多马，你到底摸了没有？圣经没有记载。我只能说：当主站在我面前的那一刻，摸与不摸已经完全不重要了。就像一个迷路的孩子找到了父亲，你不需要检查他的身份证，你一看见他就知道：是他。复活的基督有一种无法抗拒的真实，他的同在本身就是最强的证据。
@@ -106,9 +106,7 @@ Thomas answered him, "My Lord and my God!" Jesus said to him, "Jesus saith unto 
 
 > 耶稣对他说："你因看见了我才信；那没有看见就信的有福了。"（约翰福音 20:29）
 
-这句话不是责备，这是祝福。主没有说"你信得太晚了"或"你的信心不如别人"。他是在说：多马，你是有福的，因为你信了；但还有更大的福分，属于那些没有亲眼看见就信的人。
-
-弟兄姐妹，那就是你。你没有把手探入主的肋旁，你没有亲眼看见复活的基督站在你面前，但你信了。这信心比我的更蒙福，因为这信心完全倚靠圣灵的内在见证和神话语的能力，而非外在的感官经验。
+这句话不是责备，这是祝福。主没有说"你信得太晚了"或"你的信心不如别人"。他是在说：多马，你是有福的，因为你信了；但还有更大的福分，属于那些没有亲眼看见就信的人。那就是你。你没有把手探入主的肋旁，你没有亲眼看见复活的基督站在你面前，但你信了。这信心比我的更蒙福，因为这信心完全倚靠圣灵的内在见证和神话语的能力，而非外在的感官经验。
 
 后来我去了印度传道，在那遥远的地方建立教会，直到为主殉道。那个曾经说"我总不信"的人，最终为信仰献出了生命。这不是我的刚强，这是恩典的能力。那双带着钉痕的手，从我怀疑的深渊中把我拉了上来，又差遣我到地极去为他作见证。
 
@@ -121,11 +119,11 @@ Thomas answered him, "My Lord and my God!" Jesus said to him, "Jesus saith unto 
 
 你的弟兄，多马
 
-## Content (English)
+## 正文（英文）
 
 Dear brothers and sisters, I am Thomas, also called Didymus, which means "the Twin."
 
-You probably know my nickname: "Doubting Thomas." For two thousand years, when people mention me, the first thought is "the disciple who didn't believe." But today I want to tell you the full story, not just the doubting side, but how doubt was swallowed up by grace.
+You probably know my nickname, "Doubting Thomas." For two thousand years, when people mention me, the first thought is "the disciple who didn't believe." But today I want to tell you the full story, not just the doubting side, but how doubt was swallowed up by grace.
 
 ### I. Let Us Also Go, That We May Die with Him (John 11:16)
 
@@ -135,9 +133,9 @@ When the Lord Jesus decided to return to Judea to visit Lazarus, who had died, t
 
 At that moment, I said to the other disciples:
 
-> Thomas, called the Twin, said to his fellow disciples, "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him." (John 11:16)
+> "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him." (John 11:16)
 
-This was said by me: "Doubting Thomas." "Let us also go, that we may die with him." These are not the words of a coward; they are the declaration of one willing to die for his Lord. Brothers and sisters, before you see my doubt, first see my loyalty. I may not have been eloquent, may not have been as outwardly passionate as Peter, but when the Lord was heading toward death, I said "Let us also go", not "Let us persuade him not to."
+This was said by me, "Doubting Thomas." "Let us also go, that we may die with him." These are not the words of a coward; they are the declaration of one willing to die for his Lord.  Before you see my doubt, first see my loyalty. I may not have been eloquent, may not have been as outwardly passionate as Peter, but when the Lord was heading toward death, I said "Let us also go", not "Let us persuade him not to."
 
 When I said "Let us also go, that we may die with him," I meant it. I was not one for pretty words. My character was this: either don't speak, or speak and follow through. Later in Gethsemane, when the soldiers came to arrest Jesus, I ran like everyone else, that is the shame of my life. But that does not erase the sincerity of my heart when I first spoke those words. Human weakness does not negate human sincerity.
 
@@ -145,7 +143,7 @@ When I said "Let us also go, that we may die with him," I meant it. I was not on
 
 At the Last Supper, the Lord Jesus said he was going to prepare a place for us, saying "You know the way to where I am going." The other disciples sat in silence, perhaps too embarrassed to admit they didn't understand. But I could not pretend to understand what I didn't.
 
-> Thomas said to him, "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?" (John 14:5)
+> "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?" (John 14:5)
 
 This was an honest question, so honest that the other disciples were secretly grateful someone had asked on their behalf. And it was precisely because of my question that the Lord Jesus spoke those words that illuminate all human history: "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me." (John 14:6)
 
@@ -163,7 +161,7 @@ Why was I absent? Scripture does not say. Perhaps I was too grief-stricken and n
 
 When they told me "We have seen the Lord," I said the words that would define me for all of history:
 
-> Thomas said to them, "The other disciples therefore said unto him, We have seen the LORD. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe." (John 20:25)
+> "The other disciples therefore said unto him, We have seen the LORD. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe." (John 20:25)
 
 "I will never believe.", Sounds stubborn, doesn't it? But please understand my situation. I had just experienced the greatest trauma of my life, I watched my Lord, my friend, my hope nailed to a cross and killed. I could not bear a second shattering of hope. If he had not truly risen, yet I believed, the pain of falling into that abyss again would be more fatal than the first time.
 
@@ -177,17 +175,17 @@ Eight days passed. We were in that room again, and this time I was there too. Th
 
 Eight days. A full eight days. The Lord made me wait eight days. He did not come to find me the next day, not the third day, not the fifth. He let me wait in doubt for a full eight days. Those eight days were agonizing, the other disciples were all rejoicing while I struggled alone in darkness. But I understand now: those eight days were necessary. God sometimes makes us wait not because he doesn't care, but because he is doing deeper work in the waiting.
 
-> Jesus came and stood among them and said, "Peace be with you." Then he said to Thomas, "And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you. Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing." (John 20:26-27)
+> "And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you. Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing." (John 20:26-27)
 
-Brothers and sisters, do you know what this means? The Lord Jesus knew. He knew every word I had said: "the mark of the nails," "my finger," "his side", he knew it all. Though he was not in that room, he had heard every word, every sigh, every tear.
+Brothers and sisters, do you know what this means? The Lord Jesus knew. He knew every word I had said, "the mark of the nails," "my finger," "his side", he knew it all. Though he was not in that room, he had heard every word, every sigh, every tear.
 
 He did not bypass my doubt. He did not say "Thomas, you are not worthy to see me because you didn't believe." He directly met my need, extending his hands, letting me touch his nail marks. He came into the midst of my doubt and caught me with his scarred hands.
 
 In that moment, I didn't need to touch. I didn't need anything anymore. Seeing him standing before me, those pierced hands, that wounded side, that gaze both gentle and majestic, all doubt collapsed in an instant. From my mouth burst forth the greatest confession of faith in all of Scripture:
 
-> Thomas answered him, "And Thomas answered and said unto him, My LORD and my God." (John 20:28)
+> "And Thomas answered and said unto him, My LORD and my God." (John 20:28)
 
-"My Lord and my God!", This was not a vague acknowledgment. It was personal, intimate, ultimate. "**My** Lord! **My** God!" Not "their Lord," not "the God of Israel," but "**mine**." In all the Gospels, no disciple ever made such a direct, such a complete confession of Christ's deity. Peter had said "You are the Christ, the Son of the living God," but what I said was: "You are God."
+"My Lord and my God!", This was not a vague acknowledgment. It was personal, intimate, ultimate. "**My** Lord! **My** God!" Not "their Lord," not "the God of Israel," but "**mine**." In all the Gospels, no disciple ever made such a direct, such a complete confession of Christ's deity. Peter had said "You are the Christ, the Son of the living God," but what I said was, "You are God."
 
 Did I actually touch his wounds? Scripture does not record it. I can only say: the moment the Lord stood before me, whether I touched or not was utterly irrelevant. Like a lost child finding his father, you don't need to check his ID; the moment you see him, you know: it's him. The risen Christ has an irresistible reality, his presence itself is the strongest evidence.
 
@@ -199,11 +197,11 @@ At the end of doubt, what you encounter is not an answer but a person, the risen
 
 The Lord Jesus spoke his final words to me:
 
-> Jesus said to him, "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed." (John 20:29)
+> "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed." (John 20:29)
 
 This is not a rebuke, it is a blessing. The Lord did not say "You believed too late" or "Your faith is inferior to the others'." He was saying: Thomas, you are blessed because you believed; but there is an even greater blessing, belonging to those who have not seen with their eyes and yet have believed.
 
-Brothers and sisters, that is you. You have not placed your hand into the Lord's side. You have not seen the risen Christ standing before you with your own eyes, yet you believed. This faith is more blessed than mine, because it relies entirely on the inward witness of the Holy Spirit and the power of God's word, not on outward sensory experience.
+ That is you. You have not placed your hand into the Lord's side. You have not seen the risen Christ standing before you with your own eyes, yet you believed. This faith is more blessed than mine, because it relies entirely on the inward witness of the Holy Spirit and the power of God's word, not on outward sensory experience.
 
 Later I went to India to preach the gospel, establishing churches in that distant land, until I was martyred for the Lord. The one who once said "I will never believe" gave his life for the faith. This was not my strength, it was the power of grace. Those nail-scarred hands pulled me up from the abyss of doubt and sent me to the ends of the earth to bear witness for him.
 
@@ -214,4 +212,3 @@ Dear brothers and sisters, if you are struggling with doubt, do not be afraid, a
 Doubt is not the opposite of faith; unbelief is. Doubt is a necessary passage on the way to deeper faith. May you, like me, encounter the risen Lord at the end of your doubt, and then cry out from the depths of your heart: "My Lord and my God!"
 
 Your brother, Thomas
-

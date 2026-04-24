@@ -39,7 +39,7 @@ Now as he went on his way, he approached Damascus, and suddenly a light from hea
 
 所以当公会决定要清除这个异端的时候，我第一个站出来。
 
-司提反被石头打死的那天，我就在那里。我没有亲手丢石头，我替那些丢石头的人看守衣裳。我看着他跪下来，看着石头一块一块砸在他身上。他满脸是血，但他的脸：
+司提反被石头打死的那天，我就在那里。我没有亲手丢石头，我替那些丢石头的人看守衣裳。我看着他跪下来，看着石头一块一块砸在他身上。他满脸是血，但他的脸，
 
 弟兄姐妹，我不愿意承认这一点，但那天我看到了一张我永远忘不掉的脸。**他的脸好像天使的脸。** 他在死的时候说："主阿，不要将这罪归于他们！"（使徒行传 7:60）
 
@@ -77,7 +77,7 @@ Now as he went on his way, he approached Damascus, and suddenly a light from hea
 
 我趴在地上，浑身发抖。我问："主阿，你是谁？"
 
-我其实已经知道了。在那道光照到我的一瞬间，我所有的确信都碎了：我的律法知识、我的法利赛人身份、我的热心、我的义，全部碎成了渣。**因为如果这道光是从天上来的，如果这个声音是神的声音，那么我逼迫的不是异端，而是，**
+我其实已经知道了。在那道光照到我的一瞬间，我所有的确信都碎了，我的律法知识、我的法利赛人身份、我的热心、我的义，全部碎成了渣。**因为如果这道光是从天上来的，如果这个声音是神的声音，那么我逼迫的不是异端，而是: , **
 
 **"我就是你所逼迫的耶稣。"**
 
@@ -85,7 +85,7 @@ Now as he went on his way, he approached Damascus, and suddenly a light from hea
 
 **祂就是主。**
 
-弟兄姐妹，你们能想象那一刻我的感受吗？那不是恍然大悟，那是**天塌地陷**。我这一生所做的一切：我的虔诚、我的热心、我引以为傲的一切，不仅毫无价值，而且**方向完全相反**。我以为自己在事奉神，其实我在**逼迫神**。
+弟兄姐妹，你们能想象那一刻我的感受吗？那不是恍然大悟，那是**天塌地陷**。我这一生所做的一切, : 我的虔诚、我的热心、我引以为傲的一切：不仅毫无价值，而且**方向完全相反**。我以为自己在事奉神，其实我在**逼迫神**。
 
 我是全世界最虔诚的罪人。
 
@@ -105,7 +105,7 @@ Now as he went on his way, he approached Damascus, and suddenly a light from hea
 
 我也明白了另一件事：**祂没有击杀我。**
 
-那道光完全可以把我烧成灰。以我所做的一切，我配得灭亡一千次。但祂没有。**祂问我"你为什么逼迫我"，这不是审判的宣告，这是父亲对浪子的追问。**
+那道光完全可以把我烧成灰。以我所做的一切，我配得灭亡一千次。但祂没有。**祂问我"你为什么逼迫我"：这不是审判的宣告，这是父亲对浪子的追问。**
 
 ## 亚拿尼亚来了
 
@@ -145,7 +145,7 @@ Now as he went on his way, he approached Damascus, and suddenly a light from hea
 
 "基督耶稣降世，为要拯救罪人。这话是可信的，是十分可佩服的。在罪人中我是个罪魁。然而，我蒙了怜悯，是因耶稣基督要在我这罪魁身上显明他一切的忍耐，给后来信他得永生的人作榜样。"（提摩太前书 1:15-16）
 
-你们听到了吗？**给后来的人作榜样。** 如果连扫罗都能被赦免，连逼迫教会的人都能成为使徒，**那么没有人是恩典够不到的。**
+你们听到了吗？**给后来的人作榜样。** 如果连扫罗都能被赦免，连逼迫教会的人都能成为使徒: , **那么没有人是恩典够不到的。**
 
 ## 我从前以为有益的
 
@@ -159,9 +159,7 @@ Now as he went on his way, he approached Damascus, and suddenly a light from hea
 
 我从前以为自己站在光明里，其实我站在黑暗中。那道光把我打倒，让我瞎了眼，但讽刺的是，**瞎了眼之后我才真正"看见"了。**
 
-## 致每一个"虔诚的逼迫者"
-
-弟兄姐妹，如果你读到这里：
+## 致每一个"虔诚的逼迫者"如果你读到这里，
 
 也许你不像我那样逼迫教会。但也许你和我有一个共同的问题：**你以为自己的义可以救自己。**
 
@@ -185,7 +183,7 @@ Now as he went on his way, he approached Damascus, and suddenly a light from hea
 
 *愿那在大马色路上光照我的主，也光照你的心，你的弟兄，保罗*
 
-## Content (English)
+## 正文（英文）
 
 ## I Am Saul, The Most Devout Persecutor
 
@@ -201,7 +199,7 @@ When I first heard that a group of people were proclaiming a crucified Nazarene 
 
 So when the Sanhedrin decided to stamp out this heresy, I was the first to volunteer.
 
-The day Stephen was stoned to death, I was there. I did not throw the stones myself, I guarded the garments of those who did. I watched him kneel. I watched the stones strike him one by one. His face was covered in blood, but his face: 
+The day Stephen was stoned to death, I was there. I did not throw the stones myself, I guarded the garments of those who did. I watched him kneel. I watched the stones strike him one by one. His face was covered in blood, but his face , 
 
 Brothers and sisters, I do not like to admit this, but that day I saw a face I have never been able to forget. **His face was like the face of an angel.** As he was dying, he said, "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep." (Acts 7:60)
 
@@ -239,7 +237,7 @@ He called my name. Twice.
 
 I lay on the ground, trembling. I asked, "Who are you, Lord?"
 
-I already knew. The instant that light struck me, all my certainties shattered, my knowledge of the law, my Pharisee credentials, my zeal, my righteousness, all of it crumbled to dust. **Because if this light was from heaven, if this voice was the voice of God, then I had not been persecuting heretics. I had been, **
+I already knew. The instant that light struck me, all my certainties shattered, my knowledge of the law, my Pharisee credentials, my zeal, my righteousness, all of it crumbled to dust. **Because if this light was from heaven, if this voice was the voice of God, then I had not been persecuting heretics. I had been , **
 
 **"I am Jesus, whom you are persecuting."**
 
@@ -247,7 +245,7 @@ The crucified Nazarene. The one I had declared cursed by God. The one whose name
 
 **He is Lord.**
 
-Brothers and sisters, can you imagine what I felt in that moment? It was not an epiphany. It was the **ground giving way beneath me**. Everything I had ever done, my devotion, my zeal, everything I took pride in, was not merely worthless. It was aimed in **exactly the wrong direction**. I thought I was serving God. In truth, I was **persecuting God.**
+Brothers and sisters, can you imagine what I felt in that moment? It was not an epiphany. It was the **ground giving way beneath me**. Everything I had ever done, my devotion, my zeal, everything I took pride in :  was not merely worthless. It was aimed in **exactly the wrong direction**. I thought I was serving God. In truth, I was **persecuting God.**
 
 I was the most devout sinner in the world.
 
@@ -267,7 +265,7 @@ In three days of darkness, I finally understood one thing: **the law can reveal 
 
 I also understood something else: **He did not strike me dead.**
 
-That light could have reduced me to ash. After all I had done, I deserved destruction a thousand times over. But He did not. **He asked me "Why are you persecuting me?", that was not a sentence of judgment. It was a father's question to a prodigal son.**
+That light could have reduced me to ash. After all I had done, I deserved destruction a thousand times over. But He did not. **He asked me "Why are you persecuting me?" :  that was not a sentence of judgment. It was a father's question to a prodigal son.**
 
 ## Ananias Came
 
@@ -275,7 +273,7 @@ On the third day, a disciple named Ananias came.
 
 I later learned that the Lord had told him in a vision: Go to the street called Straight, and find a man from Tarsus named Saul. Ananias said, "Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:" (Acts 9:13).
 
-Brothers and sisters, think about it, if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
+ Think about it, if someone told you to go find a man who specialized in arresting Christians and lay your hands on him in prayer, would you go?
 
 **Ananias went.**
 
@@ -307,7 +305,7 @@ Not because of any good in me. Not because of my learning, though I was indeed t
 
 "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief. Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting." (1 Timothy 1:15-16).
 
-Did you hear that? **As an example to those who would come after.** If even Saul could be forgiven, if even a persecutor of the church could become an apostle, **then no one is beyond the reach of grace.**
+Did you hear that? **As an example to those who would come after.** If even Saul could be forgiven, if even a persecutor of the church could become an apostle :  **then no one is beyond the reach of grace.**
 
 ## What I Once Counted as Gain
 
@@ -323,7 +321,7 @@ I once thought I stood in the light. In truth, I stood in darkness. That light k
 
 ## To Every "Devout Persecutor"
 
-Brothers and sisters, if you are reading this: 
+ If you are reading this , 
 
 Perhaps you do not persecute the church as I did. But perhaps you and I share a common problem: **you believe your own righteousness can save you.**
 
@@ -346,4 +344,3 @@ And then you will hear Him call your name.
 *"Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting." (1 Timothy 1:16)*
 
 *May the Lord who shone His light on me on the Damascus road also shine His light into your heart, your brother, Paul*
-

@@ -17,3 +17,4 @@ podcast/
 static_tmp/
 web/out_old/
 backup/
+.dry-run/

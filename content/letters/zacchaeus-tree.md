@@ -35,11 +35,11 @@ For the Son of Man came to seek and to save the lost.
 
 但我没有一个朋友。
 
-在耶利哥的街上，人们看到我会绕着走。孩子们被父母拉走："别靠近那个人。"拉比不会跟我说话。会堂的门对我关着。邻居在背后吐唾沫。
+在耶利哥的街上，人们看到我会绕着走。孩子们被父母拉走，"别靠近那个人。"拉比不会跟我说话。会堂的门对我关着。邻居在背后吐唾沫。
 
 我有最大的房子，最好的衣裳，满柜子的银钱。但到了晚上，那房子空得像一座坟墓。
 
-你们以为我不知道自己在做什么吗？我知道。每一次我多收穷人的钱，我都知道。每一次寡妇哭着把最后的铜钱放在我桌上，我都知道。但我停不下来。因为钱是我唯一拥有的东西了。**当全世界都不要你的时候，你只能抱紧那些不会离开你的东西，银子不会嫌弃你。**
+你们以为我不知道自己在做什么吗？我知道。每一次我多收穷人的钱，我都知道。每一次寡妇哭着把最后的铜钱放在我桌上，我都知道。但我停不下来。因为钱是我唯一拥有的东西了。**当全世界都不要你的时候，你只能抱紧那些不会离开你的东西：银子不会嫌弃你。**
 
 但银子也不会在夜里陪你。
 
@@ -63,9 +63,7 @@ For the Son of Man came to seek and to save the lost.
 
 耶利哥城最有钱的人，穿着精贵的袍子，像个小孩一样爬到树上去。犹太文化里，跑步都是失体面的事，何况爬树。
 
-但我不在乎了。
-
-弟兄姐妹，你知道一个人要绝望到什么程度，才会不顾一切体面？**当你心里有一个洞，大到什么都填不满的时候，面子就不重要了。**
+但我不在乎了。你知道一个人要绝望到什么程度，才会不顾一切体面？**当你心里有一个洞，大到什么都填不满的时候，面子就不重要了。**
 
 ## 祂停下来了
 
@@ -73,9 +71,7 @@ For the Son of Man came to seek and to save the lost.
 
 然后，祂停下来了。**在我的树下。**
 
-祂抬头看着我。
-
-弟兄姐妹，这辈子有很多人抬头看过我，因为我坐在税关的高台上。但他们的眼睛里只有恐惧和憎恨。**从来没有人这样看过我。**
+祂抬头看着我。这辈子有很多人抬头看过我，因为我坐在税关的高台上。但他们的眼睛里只有恐惧和憎恨。**从来没有人这样看过我。**
 
 祂的眼神里没有审判，没有嫌弃。祂看我的眼神，好像在看一个**迷路很久的孩子**。
 
@@ -87,7 +83,7 @@ For the Son of Man came to seek and to save the lost.
 
 在这整座城里，人们叫我"那个税吏"、"那个贪官"、"那个罪人"。没有人叫我撒该。但祂叫了。
 
-而且祂说"我**必**住在你家里"，不是请求，是命定。好像祂来耶利哥，就是为了这一刻。**好像在我爬上桑树之前，祂已经决定了要来找我。**
+而且祂说"我**必**住在你家里"：不是请求，是命定。好像祂来耶利哥，就是为了这一刻。**好像在我爬上桑树之前，祂已经决定了要来找我。**
 
 我从树上下来的时候，手在发抖。不是害怕。是一种从来没有过的感觉，**有人要来我家了。** 不是来收税的，不是来告状的。是一个人们说是弥赛亚的人，**主动要来我家。**
 
@@ -121,13 +117,11 @@ For the Son of Man came to seek and to save the lost.
 
 **"人子来，为要寻找，拯救失丧的人。"**
 
-寻找。不是等我来找祂。是祂来找我。我以为我只是想去看看祂，原来是祂一路走来耶利哥，就是为了在那棵桑树下停下来，抬头看着我，叫我的名字。
-
-弟兄姐妹，我从树上下来的那一刻，我以为是我在找祂。后来我才明白，**从头到尾，都是祂在找我。**
+寻找。不是等我来找祂。是祂来找我。我以为我只是想去看看祂，原来是祂一路走来耶利哥，就是为了在那棵桑树下停下来，抬头看着我，叫我的名字。我从树上下来的那一刻，我以为是我在找祂。后来我才明白，**从头到尾，都是祂在找我。**
 
 ## 致每一个躲在树上的人
 
-如果你读到这里，你的心在跳：
+如果你读到这里，你的心在跳，
 
 也许你也有一个洞。也许你也用钱、用成就、用忙碌、用各种东西去填那个洞，但它从来填不满。也许你也觉得自己做过的事太多太重，没有人会接纳你。也许你也只敢远远地看着，躲在人群后面，躲在树上。
 
@@ -145,7 +139,7 @@ For the Son of Man came to seek and to save the lost.
 
 *愿这位寻找你的主，今天就住进你的心里，你的朋友，撒该*
 
-## Content (English)
+## 正文（英文）
 
 ## The Richest Sinner in Jericho
 
@@ -161,7 +155,7 @@ On the streets of Jericho, people crossed to the other side when they saw me. Ch
 
 I had the biggest house, the finest robes, coffers full of silver. But at night, that house was as empty as a tomb.
 
-Do you think I did not know what I was doing? I knew. Every time I overcharged a poor man, I knew. Every time a widow placed her last coins on my table with tears in her eyes, I knew. But I could not stop. Because money was the only thing I had left. **When the whole world rejects you, you cling to the things that will not leave, and silver never looks at you with disgust.**
+Do you think I did not know what I was doing? I knew. Every time I overcharged a poor man, I knew. Every time a widow placed her last coins on my table with tears in her eyes, I knew. But I could not stop. Because money was the only thing I had left. **When the whole world rejects you, you cling to the things that will not leave :  and silver never looks at you with disgust.**
 
 But silver does not keep you company at night, either.
 
@@ -187,7 +181,7 @@ The wealthiest man in Jericho, in his expensive robes, scrambling up a tree like
 
 But I did not care anymore.
 
-Brothers and sisters, do you know how desperate a person must be to abandon all dignity? **When there is a hole inside you so large that nothing can fill it, appearances stop mattering.**
+ Do you know how desperate a person must be to abandon all dignity? **When there is a hole inside you so large that nothing can fill it, appearances stop mattering.**
 
 ## He Stopped
 
@@ -197,7 +191,7 @@ Then He stopped. **Under my tree.**
 
 He looked up at me.
 
-Brothers and sisters, many people had looked up at me before, because I sat on the elevated platform at the tax booth. But their eyes held only fear and hatred. **No one had ever looked at me like this.**
+ Many people had looked up at me before, because I sat on the elevated platform at the tax booth. But their eyes held only fear and hatred. **No one had ever looked at me like this.**
 
 His eyes held no judgment, no disgust. He looked at me the way you look at **a child who has been lost for a very long time.**
 
@@ -209,7 +203,7 @@ He called me by name. **He knew my name.**
 
 In this entire city, people called me "that tax collector," "that crook," "that sinner." No one called me Zacchaeus. But He did.
 
-And He said "I **must** stay at your house", not a request, but an appointment. As though He had come to Jericho for this very moment. **As though before I even climbed that tree, He had already decided to come find me.**
+And He said "I **must** stay at your house" :  not a request, but an appointment. As though He had come to Jericho for this very moment. **As though before I even climbed that tree, He had already decided to come find me.**
 
 When I climbed down, my hands were trembling. Not from fear. From a feeling I had never known, **someone was coming to my house.** Not to collect taxes. Not to file a complaint. A man people said was the Messiah was **choosing to come to my home.**
 
@@ -229,7 +223,7 @@ Brothers and sisters, do you know what that meant? Half my wealth to the poor, p
 
 But when the words left my mouth, a lightness I had never known flooded through me. As if a boulder pressing on my chest for decades was suddenly lifted. **That silver was not my wealth; it was my chains.** And He, with one look, one sentence, one visit, broke them open.
 
-Not because He demanded it. **Because when you are truly touched by love, the things you were clutching so tightly, you let go of them yourself.**
+Not because He demanded it. **Because when you are truly touched by love, the things you were clutching so tightly :  you let go of them yourself.**
 
 ## His Final Words
 
@@ -245,11 +239,11 @@ Do you know what that meant to me? All of Jericho considered me an outsider, a t
 
 To seek. Not to wait for me to come find Him. He came to find me. I thought I was just trying to get a look at Him, but He had walked all the way to Jericho to stop under that sycamore tree, look up, and call my name.
 
-Brothers and sisters, the moment I climbed down, I thought I was the one seeking Him. Only later did I understand, **from beginning to end, it was He who was seeking me.**
+ The moment I climbed down, I thought I was the one seeking Him. Only later did I understand, **from beginning to end, it was He who was seeking me.**
 
 ## To Everyone Hiding in the Tree
 
-If your heart is pounding as you read this: 
+If your heart is pounding as you read this , 
 
 Perhaps you have a hole too. Perhaps you have tried to fill it with money, achievement, busyness, but it never fills. Perhaps you feel that what you have done is too much and no one would ever accept you. Perhaps you only dare to watch from a distance, hiding in a tree.
 
@@ -266,4 +260,3 @@ Come down. Stop hiding.
 *"For the Son of man is come to seek and to save that which was lost." (Luke 19:10)*
 
 *May this Lord who seeks you make His home in your heart today, your friend, Zacchaeus*
-

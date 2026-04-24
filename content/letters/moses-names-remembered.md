@@ -5,9 +5,11 @@ authorEn: "Moses"
 authorAvatar: "📜"
 authorBio: "神的仆人，律法的颁布者，五经的作者"
 authorBioEn: "Servant of God, lawgiver, author of the Pentateuch"
-title_zh: "那些被记念的名字，从约外之民看约内之恩"
-title_en: "Names Remembered, Grace Within the Covenant, Seen Through Those Outside"
-date: "2026-04-26"
+title_zh: "那些被记念的名字"
+title_en: "Names Remembered"
+subtitle_zh: "从约外之民看约内之恩"
+subtitle_en: "Grace Within the Covenant, Seen Through Those Outside"
+date: "2026-04-25"
 category: "theology"
 scripture: "创世记 10:32"
 summary_zh: "为什么圣灵要我记录该隐的后裔、含和雅弗的后裔、罗得的后裔、以实玛利的后裔、以扫的后裔？这些约外之民的名录不是多余的注脚，而是救赎历史不可或缺的一环，因为地上万族都要因亚伯拉罕的后裔得福。"
@@ -35,7 +37,7 @@ These are the families of the sons of Noah, after their generations, in their na
 
 该隐杀了兄弟，被逐出神的面前。按公义说，他该灭亡。但神给他一个记号保护他（创4:15），又让他的后裔发展出畜牧（雅八）、音乐（犹八）、冶炼（土八该隐）。文明的起源竟在被逐者的后裔中，这就是改革宗所说的"普遍恩典"：即使在约外，神仍赐人才能、文化和秩序。
 
-但请注意：该隐后裔的文明最终走向了拉麦的暴力和骄傲："人若杀该隐，遭报七倍；杀拉麦，必遭报七十七倍"（创4:24）。没有神的约束，文明可以璀璨，也可以堕落。
+但请注意：该隐后裔的文明最终走向了拉麦的暴力和骄傲，"人若杀该隐，遭报七倍；杀拉麦，必遭报七十七倍"（创4:24）。没有神的约束，文明可以璀璨，也可以堕落。
 
 与此同时，塞特的后裔"求告耶和华的名"（创4:26）。两条线对比鲜明：一条有文明却无敬拜，一条有敬拜才有指望。弥赛亚的家谱沿塞特的支派延续，而非该隐。
 
@@ -53,9 +55,7 @@ These are the families of the sons of Noah, after their generations, in their na
 
 但是，路得是摩押女子！
 
-她对婆婆拿俄米说："你的国就是我的国，你的神就是我的神"（得1:16）。她从约外进入约内，从被排斥的民族成为大卫的曾祖母，进入了弥赛亚的家谱（太1:5）。
-
-弟兄姐妹，这是何等大的恩典！神能从最不堪的起源中拣选他的百姓。罪不能拦阻恩典，羞耻不能限制拣选。"在人这是不能的，在神凡事都能"（太19:26）。
+她对婆婆拿俄米说："你的国就是我的国，你的神就是我的神"（得1:16）。她从约外进入约内，从被排斥的民族成为大卫的曾祖母，进入了弥赛亚的家谱（太1:5）。这是何等大的恩典！神能从最不堪的起源中拣选他的百姓。罪不能拦阻恩典，羞耻不能限制拣选。"在人这是不能的，在神凡事都能"（太19:26）。
 
 ### 以实玛利的后裔，约外的应许也成就（创25:12-18）
 
@@ -87,13 +87,11 @@ These are the families of the sons of Noah, after their generations, in their na
 
 这是何等的恩典！保罗说："你们从前在以色列国民以外，在所应许的诸约上是局外人，并且活在世上没有指望，没有神。你们从前远离神的人，如今却在基督耶稣里，靠着他的血，已经得亲近了"（弗2:12-13）。
 
-最终，使徒约翰在异象中看见："有许多的人，没有人能数过来，是从各国、各族、各民、各方来的，站在宝座和羔羊面前"（启7:9）。该隐的后裔、含的后裔、罗得的后裔、以实玛利的后裔、以扫的后裔，这些约外的名录，最终都要汇入这个敬拜的洪流。
-
-弟兄姐妹，当你读创世记中那些看似枯燥的家谱时，请记住：神记念每一个名字。在永恒的救赎计划中，没有任何一个民族是被遗忘的。那位从万国中拣选百姓的神，也从万国中呼召你来到他面前。你曾经是"约外之民"，如今是"约内之子"。这是恩典，唯独恩典。
+最终，使徒约翰在异象中看见："有许多的人，没有人能数过来，是从各国、各族、各民、各方来的，站在宝座和羔羊面前"（启7:9）。该隐的后裔、含的后裔、罗得的后裔、以实玛利的后裔、以扫的后裔，这些约外的名录，最终都要汇入这个敬拜的洪流。当你读创世记中那些看似枯燥的家谱时，请记住：神记念每一个名字。在永恒的救赎计划中，没有任何一个民族是被遗忘的。那位从万国中拣选百姓的神，也从万国中呼召你来到他面前。你曾经是"约外之民"，如今是"约内之子"。这是恩典，唯独恩典。
 
 愿荣耀归给那位"从创立世界以前，在基督里拣选了我们"的神（弗1:4）。
 
-## Content (English)
+## 正文（英文）
 
 Dear brothers and sisters, I am Moses, servant of God.
 
@@ -125,7 +123,7 @@ But, Ruth was a Moabite woman!
 
 She told her mother-in-law Naomi: "Thy people shall be my people, and thy God my God." (Ruth 1:16). She entered from outside the covenant to within, from a rejected people to become David's great-grandmother, entering the Messiah's genealogy (Matt 1:5).
 
-Brothers and sisters, what immense grace! God can choose His people from the most unseemly origins. Sin cannot hinder grace; shame cannot limit election. "With men this is impossible; but with God all things are possible." (Matt 19:26).
+ What immense grace! God can choose His people from the most unseemly origins. Sin cannot hinder grace; shame cannot limit election. "With men this is impossible; but with God all things are possible." (Matt 19:26).
 
 ### The Descendants of Ishmael, Promises Outside the Covenant Also Fulfilled (Gen 25:12-18)
 
@@ -159,6 +157,6 @@ What grace! Paul wrote: "That at that time ye were without Christ, being aliens 
 
 Finally, the Apostle John saw in his vision: "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb." (Rev 7:9). The descendants of Cain, Ham, Lot, Ishmael, Esau, all these genealogies outside the covenant will flow into this great river of worship.
 
-Brothers and sisters, when you read those seemingly dry genealogies in Genesis, remember: God remembers every name. In His eternal plan of redemption, no nation is forgotten. The God who chose a people from among all nations also called you from among all nations to come before Him. You were once "outside the covenant"; now you are "children of the covenant." This is grace, grace alone.
+ When you read those seemingly dry genealogies in Genesis, remember: God remembers every name. In His eternal plan of redemption, no nation is forgotten. The God who chose a people from among all nations also called you from among all nations to come before Him. You were once "outside the covenant"; now you are "children of the covenant." This is grace, grace alone.
 
 Glory be to the God who "hath chosen us in him before the foundation of the world" (Eph 1:4).

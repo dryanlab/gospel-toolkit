@@ -11,7 +11,7 @@ date: "2026-04-11"
 category: "testimony"
 scripture: "列王纪上 19:1-18"
 summary_zh: "以利亚在迦密山大胜之后陷入极度绝望，逃到何烈山的洞中。神没有在烈风、地震、火中，却在微小的声音中向他说话，最刚强的先知也会软弱，但神的恩典在人的软弱上显得完全。"
-summary_en: "After his great victory on Mount Carmel, Elijah fell into deep despair and fled to a cave on Horeb. God was not in the wind, earthquake, or fire, but in the still small voice, even the strongest prophet can be weak, but God\"
+summary_en: "After his great victory on Mount Carmel, Elijah fell into deep despair and fled to a cave on Horeb. God was not in the wind, earthquake, or fire, but in the still small voice, even the strongest prophet can be weak, but God\\"
 tags: ["信心", "试炼", "复兴", "顺服"]
 ---
 
@@ -98,9 +98,7 @@ And he said, "Go out and stand on the mount before the LORD." And behold, the LO
 
 > 以利亚听见，就用外衣蒙上脸，出来站在洞口。（列王纪上 19:13）
 
-我听见了。在一切的喧嚣平息之后，在所有戏剧性的显现结束之后，神在最安静的时刻临到我。我用外衣蒙住脸，因为我知道，这就是神。
-
-弟兄姐妹，这是何等重要的教导。我们常常期待神以轰轰烈烈的方式作工，期待神迹、异象、超自然的经历。但神往往在安静中说话，在你读经的时候，在你独自祷告的时候，在你安静等候的时候。
+我听见了。在一切的喧嚣平息之后，在所有戏剧性的显现结束之后，神在最安静的时刻临到我。我用外衣蒙住脸，因为我知道，这就是神。这是何等重要的教导。我们常常期待神以轰轰烈烈的方式作工，期待神迹、异象、超自然的经历。但神往往在安静中说话，在你读经的时候，在你独自祷告的时候，在你安静等候的时候。
 我在迦密山上呼求的是天火，但在何烈山上等候的是微声。这两者之间的转变，是我一生最大的属灵功课。少年人追求轰轰烈烈，成熟的信徒学会在安静中聆听。不是说神不再行大事，他当然行，而是说神最深的工作，往往在最安静的时刻。
 
 诗篇说：
@@ -109,7 +107,7 @@ And he said, "Go out and stand on the mount before the LORD." And behold, the LO
 
 ### 五、我留下了七千人（王上19:15-18）
 
-神再次问我同样的问题，我给出了同样的回答："只剩下我一个人。"但这一次，神直接纠正了我：
+神再次问我同样的问题，我给出了同样的回答，"只剩下我一个人。"但这一次，神直接纠正了我：
 
 > 耶和华对他说："你回去，从旷野往大马士革去。到了那里，就要膏哈薛作亚兰王，又膏宁示的孙子耶户作以色列王，并膏亚伯·米何拉人沙法的儿子以利沙作先知接续你。"（列王纪上 19:15-16）
 
@@ -131,7 +129,7 @@ And he said, "Go out and stand on the mount before the LORD." And behold, the LO
 
 主的仆人，提斯比人以利亚
 
-## Content (English)
+## 正文（英文）
 
 Dear brothers and sisters, I am Elijah, the Tishbite, a prophet of the LORD.
 
@@ -209,7 +207,7 @@ Then, **the sound of a low whisper.**
 
 I heard it. After all the noise had subsided, after all the dramatic manifestations had ended, God came to me in the quietest moment. I covered my face with my cloak, because I knew: this was God.
 
-Brothers and sisters, what a crucial teaching this is. We often expect God to work in spectacular ways, expecting miracles, visions, supernatural experiences. But God often speaks in the quiet, when you're reading Scripture, when you're praying alone, when you're waiting in stillness.
+ What a crucial teaching this is. We often expect God to work in spectacular ways, expecting miracles, visions, supernatural experiences. But God often speaks in the quiet, when you're reading Scripture, when you're praying alone, when you're waiting in stillness.
 
 On Mount Carmel I called for heavenly fire, but on Horeb I waited for a whisper. The transition between these two was the greatest spiritual lesson of my life. The young pursue the spectacular; the mature learn to listen in the silence. Not that God no longer does great things, of course he does, but God's deepest work often happens in the quietest moments.
 
@@ -219,7 +217,7 @@ The psalmist said:
 
 ### V. I Have Left Seven Thousand (1 Kings 19:15-18)
 
-God asked me the same question again, and I gave the same answer: "I, even I only, am left." But this time, God directly corrected me:
+God asked me the same question again, and I gave the same answer, "I, even I only, am left." But this time, God directly corrected me:
 
 > And the LORD said to him, "And the LORD said unto him, Go, return on thy way to the wilderness of Damascus: and when thou comest, anoint Hazael to be king over Syria: And Jehu the son of Nimshi shalt thou anoint to be king over Israel: and Elisha the son of Shaphat of Abelmeholah shalt thou anoint to be prophet in thy room." (1 Kings 19:15-16)
 
@@ -240,4 +238,3 @@ God did one more thing: he prepared Elisha for me. When I cast my cloak upon Eli
 Dear brothers and sisters, if you are in a spiritual valley, hear what God said to Elijah: eat first, rest first, then seek me in the still small voice. You don't need to be a superhero, his grace is sufficient for you, for his power is made perfect in weakness.
 
 Your servant, Elijah the Tishbite
-

@@ -93,7 +93,7 @@ Beloved, let us love one another, for love is from God, and whoever loves has be
 
 这里没有教会，没有弟兄姊妹，只有冰冷的岩石和咆哮的海浪。白天，烈日炙烤；夜晚，寒风刺骨。我的食物是粗糙的饼和咸鱼。我的床是坚硬的石头。我的伴侣是孤独。
 
-但就在这里：在这最荒凉、最孤独的地方，主向我显现了！
+但就在这里，在这最荒凉、最孤独的地方，主向我显现了！
 
 那是主日。我被圣灵感动，听见身后有大声音如吹号，说："你所看见的当写在书上，达与以弗所、士每拿、别迦摩、推雅推喇、撒狄、非拉铁非、老底嘉那七个教会。"我转过身来，要看是谁发声与我说话。
 
@@ -130,7 +130,7 @@ Beloved, let us love one another, for love is from God, and whoever loves has be
 你的弟兄，在拔摩海岛上的约翰
 主后95年
 
-## Content (English)
+## 正文（英文）
 
 Dear reader, grace and peace to you from Him who is and who was and who is to come!
 
@@ -236,4 +236,3 @@ May the Lord's grace be with you!
 
 Your brother, John on the island of Patmos
 AD 95
-

@@ -11,7 +11,7 @@ date: "2026-04-18"
 category: "testimony"
 scripture: "路加福音 1:46-55"
 summary_zh: "一个拿撒勒的平凡少女，被神拣选成为弥赛亚的母亲。马利亚的尊主颂不是一首安静的摇篮曲，而是一首翻转世界的革命之歌，神叫有权柄的失位，叫卑贱的升高。"
-summary_en: "An ordinary girl from Nazareth, chosen by God to be the mother of the Messiah. Mary\"
+summary_en: "An ordinary girl from Nazareth, chosen by God to be the mother of the Messiah. Mary's Magnificat is not a quiet lullaby but a revolutionary song that overturns the world; God brings down the mighty from their thrones and exalts the lowly."
 tags: ["颂赞", "谦卑", "恩典", "盼望"]
 ---
 
@@ -27,7 +27,7 @@ And Mary said, "And Mary said, My soul doth magnify the Lord, And my spirit hath
 
 亲爱的弟兄姐妹，我是马利亚，拿撒勒的一个女子。
 
-你们可能知道我的名字：弥赛亚的母亲、童女怀孕的那位。但在天使来访之前，我不过是加利利一个小村庄里一个普通的少女，已经许配给木匠约瑟，正在等待出嫁的日子。拿撒勒是一个不起眼的地方，连拿但业都说过："拿撒勒还能出什么好的吗？"
+你们可能知道我的名字，弥赛亚的母亲、童女怀孕的那位。但在天使来访之前，我不过是加利利一个小村庄里一个普通的少女，已经许配给木匠约瑟，正在等待出嫁的日子。拿撒勒是一个不起眼的地方，连拿但业都说过："拿撒勒还能出什么好的吗？"
 
 然而，就是在这样一个被人轻看的角落，神做了一件翻转历史的大事。
 
@@ -81,7 +81,7 @@ And Mary said, "And Mary said, My soul doth magnify the Lord, And my spirit hath
 
 弟兄姐妹，请注意我歌中的第一个词："我心尊主为大"，不是尊自己为大，不是尊弥赛亚的母亲为大，乃是尊**主**为大。我称神为"我的救主"，我自己也需要救主。我不是无罪的完人，我是蒙恩的罪人。神不是因为我配得才拣选我，乃是因为他的恩典。
 
-"他顾念他使女的卑微"："卑微"，这就是我的身份。不是女王，不是祭司的女儿，而是一个卑微的使女。但神的眼目不像人的眼目，人看外貌，神看内心；人重高位，神顾卑微。
+"他顾念他使女的卑微"——"卑微"，这就是我的身份。不是女王，不是祭司的女儿，而是一个卑微的使女。但神的眼目不像人的眼目，人看外貌，神看内心；人重高位，神顾卑微。
 
 接下来的颂歌震撼了我自己：
 
@@ -113,9 +113,7 @@ And Mary said, "And Mary said, My soul doth magnify the Lord, And my spirit hath
 
 三天后，他从死里复活了。
 
-那个清晨，当抹大拉的马利亚和其他妇女跑来告诉我们空坟墓的消息时，我的心里有一种奇特的平安，不是因为我预先知道复活会发生，而是因为我一生都在经历这位信实的神。天使说的话从不落空：出于神的话，没有一句不带能力的。
-
-弟兄姐妹，我的一生不是一帆风顺的童话：它充满了惊惶、误解、刀刺般的痛苦，和十字架下的哭泣。但贯穿这一切的，是那句从起初就支撑我的信念："我是主的使女，情愿照你的话成就在我身上。"
+那个清晨，当抹大拉的马利亚和其他妇女跑来告诉我们空坟墓的消息时，我的心里有一种奇特的平安，不是因为我预先知道复活会发生，而是因为我一生都在经历这位信实的神。天使说的话从不落空：出于神的话，没有一句不带能力的。我的一生不是一帆风顺的童话，它充满了惊惶、误解、刀刺般的痛苦，和十字架下的哭泣。但贯穿这一切的，是那句从起初就支撑我的信念："我是主的使女，情愿照你的话成就在我身上。"
 
 
 我后来也在耶路撒冷的教会中，与使徒们和其他弟兄姐妹一起祷告等候圣灵的降临。五旬节那天，圣灵浇灌在我们身上，那位天使所预言的圣灵，如今临到了所有信他的人，不再只是临到一个人。我的儿子所应许的保惠师来了。教会诞生了。
@@ -128,7 +126,7 @@ And Mary said, "And Mary said, My soul doth magnify the Lord, And my spirit hath
 
 主的使女，拿撒勒的马利亚
 
-## Content (English)
+## 正文（英文）
 
 Dear brothers and sisters, I am Mary, a young woman from Nazareth.
 
@@ -186,7 +184,7 @@ Then a song welled up from within me, not one I had prepared, but one the Spirit
 
 Brothers and sisters, notice the first phrase of my song: "My soul magnifies the Lord", not magnifying myself, not magnifying the mother of the Messiah, but magnifying **the Lord**. I called God "my Savior", I too needed a Savior. I was not a sinless person; I was a sinner saved by grace. God did not choose me because I was worthy, but because of his grace.
 
-"He has looked on the humble estate of his servant": "humble estate," that was my identity. Not a queen, not a priest's daughter, but a lowly servant. Yet God's eyes are not like human eyes, people look at outward appearances, but God looks at the heart; people value high positions, but God regards the lowly.
+"He has looked on the humble estate of his servant", "humble estate," that was my identity. Not a queen, not a priest's daughter, but a lowly servant. Yet God's eyes are not like human eyes, people look at outward appearances, but God looks at the heart; people value high positions, but God regards the lowly.
 
 The rest of the song astonished even me:
 
@@ -224,9 +222,8 @@ I was also among the believers in the Jerusalem church, praying with the apostle
 
 From a small house in Nazareth to the upper room in Jerusalem, from the angel's announcement to the Spirit's descent, I witnessed the most important chapters of salvation history. But let me tell you: the center of all this is not me, but the Lord Jesus Christ, the one who was born from my womb, who died on the cross, who rose from the dead, who ascended to heaven. I was only the jar of clay; he is the treasure within. I was only the servant; he is the King.
 
-Brothers and sisters, you may feel too lowly, too ordinary, too unworthy to be used by God. But remember: God chose an ordinary girl from Nazareth to change the course of world history. He doesn't need you to be perfect; he needs you to say "let it be." It is not your ability but his grace; not your worthiness but his choosing.
+You may feel too lowly, too ordinary, too unworthy to be used by God. But remember: God chose an ordinary girl from Nazareth to change the course of world history. He doesn't need you to be perfect; he needs you to say "let it be." It is not your ability but his grace; not your worthiness but his choosing.
 
 > For he who is mighty has done great things for me, and holy is his name. (Luke 1:49)
 
 The Lord's servant, Mary of Nazareth
-

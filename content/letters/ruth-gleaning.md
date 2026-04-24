@@ -37,7 +37,7 @@ But Ruth said, Do not urge me to leave you or to return from following you. For 
 
 ### 一、摩押地的岁月：在黑暗中的预备
 
-我生在摩押地，那是一个拜基抹的地方。我们的祖先不认识耶和华，我从小所知道的，只有偶像和虚空的祭祀。那时候，从伯利恒来了一家人：以利米勒、拿俄米，和他们的两个儿子玛伦、基连。他们因为饥荒离开了犹大地，寄居在我们中间。
+我生在摩押地，那是一个拜基抹的地方。我们的祖先不认识耶和华，我从小所知道的，只有偶像和虚空的祭祀。那时候，从伯利恒来了一家人，以利米勒、拿俄米，和他们的两个儿子玛伦、基连。他们因为饥荒离开了犹大地，寄居在我们中间。
 
 我嫁给了玛伦。那段日子虽然短暂，却是我第一次从拿俄米口中听见耶和华的名。她讲述的不是一个遥远的、冰冷的神明，而是一位与祂百姓立约的神，一位在旷野中引导他们、在红海中为他们开路的神。我心中有什么东西被触动了，虽然那时我还不能完全明白。
 
@@ -59,9 +59,7 @@ But Ruth said, Do not urge me to leave you or to return from following you. For 
 
 > "不要催我回去不跟随你。你往哪里去，我也往那里去；你在哪里住宿，我也在那里住宿；你的国就是我的国，你的神就是我的神。你在哪里死，我也在那里死，也葬在那里。除非死能使你我相离！不然，愿耶和华重重地降罚与我。"（路得记 1:16-17）
 
-这不只是对婆婆的忠诚，这是一个信仰的告白。"你的神就是我的神"，我在那一刻，把自己完全交给了耶和华。我不知道前面的路会怎样，不知道伯利恒的人会怎样看我，不知道明天的饭食从哪里来。但我知道，这位神是信实的。
-
-弟兄姐妹，信心从来不是在一切都确定之后才迈出的脚步。信心，是在看不见的时候仍然跟随。正如后来你们的使徒所写的：
+这不只是对婆婆的忠诚，这是一个信仰的告白。"你的神就是我的神"，我在那一刻，把自己完全交给了耶和华。我不知道前面的路会怎样，不知道伯利恒的人会怎样看我，不知道明天的饭食从哪里来。但我知道，这位神是信实的。信心从来不是在一切都确定之后才迈出的脚步。信心，是在看不见的时候仍然跟随。正如后来你们的使徒所写的：
 
 > "信就是所望之事的实底，是未见之事的确据。"（希伯来书 11:1）
 
@@ -73,7 +71,7 @@ But Ruth said, Do not urge me to leave you or to return from following you. For 
 
 > "不要叫我拿俄米，要叫我玛拉，因为全能者使我受了大苦。我满满地出去，耶和华使我空空地回来。"（路得记 1:20-21）
 
-拿俄米的意思是"甜"，玛拉的意思是"苦"。她觉得神的手重重地压在她身上。弟兄姐妹，你们中间有没有人也经历过这样的时刻？觉得神似乎远离了，生活从甜变成了苦？我要告诉你们，拿俄米那时还不知道，神正在暗中为她编织一个何等奇妙的故事。苦难不是故事的结局，而是恩典的序曲。
+拿俄米的意思是"甜"，玛拉的意思是"苦"。她觉得神的手重重地压在她身上。你们中间有没有人也经历过这样的时刻？觉得神似乎远离了，生活从甜变成了苦？我要告诉你们，拿俄米那时还不知道，神正在暗中为她编织一个何等奇妙的故事。苦难不是故事的结局，而是恩典的序曲。
 
 为了活下去，我去田间拾穗。律法中有一条恩典的律例：
 
@@ -125,7 +123,7 @@ But Ruth said, Do not urge me to leave you or to return from following you. For 
 
 弟兄姐妹，你们看到了吗？那个不愿付代价的至近亲属，像不像律法本身？律法能指出问题，这地需要被赎，这寡妇需要被照顾，但律法没有能力完成救赎。律法退缩了，说"我不能赎了"。
 
-但波阿斯站出来了。他甘愿付代价，甘愿承担一切，甘愿把一个摩押女子接纳为自己的妻子。弟兄姐妹，这岂不正是基督所做的吗？律法不能救你们，律法只能显出你们的罪。但基督来了，祂是那真正的至近亲属（גֹּאֵל），祂用自己的血赎买了你们。
+但波阿斯站出来了。他甘愿付代价，甘愿承担一切，甘愿把一个摩押女子接纳为自己的妻子。这岂不正是基督所做的吗？律法不能救你们，律法只能显出你们的罪。但基督来了，祂是那真正的至近亲属（גֹּאֵל），祂用自己的血赎买了你们。
 
 > "因那使人成圣的和那些得以成圣的，都是出于一。所以，他称他们为弟兄也不以为耻。"（希伯来书 2:11）
 
@@ -139,7 +137,7 @@ But Ruth said, Do not urge me to leave you or to return from following you. For 
 
 看哪，那位曾说"叫我玛拉"的拿俄米，如今把孩子抱在怀中，成了他的养母（路得记 4:16）。苦变成了甜，空虚变成了丰盛，哀哭变成了喜乐。这不是因为我们做了什么配得的事，而是因为耶和华的慈爱永远长存。
 
-而这个孩子，俄备得，他生了耶西，耶西生了大卫王。弟兄姐妹，你们想一想：一个摩押女子的后裔，竟成了以色列最伟大的君王的祖母。而大卫的子孙中，那位万王之王、万主之主，道成肉身的基督耶稣降生了。
+而这个孩子，俄备得，他生了耶西，耶西生了大卫王。你们想一想：一个摩押女子的后裔，竟成了以色列最伟大的君王的祖母。而大卫的子孙中，那位万王之王、万主之主，道成肉身的基督耶稣降生了。
 
 > "耶西生大卫王。大卫从乌利亚的妻子生所罗门……雅各生约瑟，就是马利亚的丈夫，那称为基督的耶稣，是从马利亚生的。"（马太福音 1:6, 16）
 
@@ -161,7 +159,7 @@ But Ruth said, Do not urge me to leave you or to return from following you. For 
 
 这正是我的故事，从远离到亲近，从被排斥到被接纳，从拾穗的寡妇到君王的祖母。
 
-但请你们记住：恩典不是廉价的。我必须离开摩押地，必须放下旧有的一切：我的家乡、我的民族、我的偶像。跟随耶和华，意味着彻底的转向。信心不是在嘴上说说，信心是迈出脚步、走上那条未知的路。
+但请你们记住：恩典不是廉价的。我必须离开摩押地，必须放下旧有的一切，我的家乡、我的民族、我的偶像。跟随耶和华，意味着彻底的转向。信心不是在嘴上说说，信心是迈出脚步、走上那条未知的路。
 
 你们如今跟随基督，也是如此。你们被呼召离开旧我，背起十字架。前路或许不明，但那位呼召你们的是信实的。正如波阿斯在打谷场上对我说"不要惧怕"，你们的主也对你们说：
 
@@ -169,7 +167,7 @@ But Ruth said, Do not urge me to leave you or to return from following you. For 
 
 最后，我要感谢你们今天还记得我的故事。我不过是神宏大救恩叙事中的一个小角色，但神用一个摩押女子的一生，向世人宣告了一个永恒的真理：
 
-**恩典，不看你从哪里来，只看你往哪里去，往那位救赎主的怀抱中去。**
+**恩典，不看你从哪里来，只看你往哪里去：往那位救赎主的怀抱中去。**
 
 愿你们都能像我一样说出："你的国就是我的国，你的神就是我的神。"愿那位至近的亲属，我们的主基督耶稣，用祂的衣襟遮盖你们每一个人。
 
@@ -177,7 +175,7 @@ But Ruth said, Do not urge me to leave you or to return from following you. For 
 
 你们的姐妹，摩押女子路得
 
-## Content (English)
+## 正文（英文）
 
 ## Your People Shall Be My People
 
@@ -215,7 +213,7 @@ And so I spoke those words that welled up from the deepest place in my soul:
 
 This was not merely loyalty to my mother-in-law. This was a confession of faith. "Your God my God", in that moment I surrendered myself entirely to the LORD. I did not know what the road ahead would hold, how the people of Bethlehem would regard me, or where tomorrow's bread would come from. But I knew this God was faithful.
 
-Brothers and sisters, faith has never been a step taken only after everything is certain. Faith is following when you cannot see. As your apostle later wrote:
+ Faith has never been a step taken only after everything is certain. Faith is following when you cannot see. As your apostle later wrote:
 
 > "Now faith is the substance of things hoped for, the evidence of things not seen." (Hebrews 11:1)
 
@@ -227,7 +225,7 @@ We arrived in Bethlehem at the beginning of the barley harvest. Naomi's heart wa
 
 > "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me. I went out full, and the LORD hath brought me home again empty: why then call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?" (Ruth 1:20–21)
 
-Naomi means "pleasant"; Mara means "bitter." She felt the hand of God pressing heavily upon her. Brothers and sisters, have any of you known such a season, when God seems distant, when life turns from sweet to bitter? Let me tell you: Naomi did not yet know that God was secretly weaving the most marvelous story on her behalf. Suffering was not the end of the story; it was the prelude to grace.
+Naomi means "pleasant"; Mara means "bitter." She felt the hand of God pressing heavily upon her.  Have any of you known such a season, when God seems distant, when life turns from sweet to bitter? Let me tell you: Naomi did not yet know that God was secretly weaving the most marvelous story on her behalf. Suffering was not the end of the story; it was the prelude to grace.
 
 To survive, I went to glean in the fields. The law contained a gracious provision:
 
@@ -279,7 +277,7 @@ He drew off his sandal and gave it to Boaz, the custom of attestation in Israel.
 
 Brothers and sisters, do you see it? The nearer kinsman who would not pay the price, is he not like the law itself? The law can identify the problem, the land needs redeeming, the widow needs caring for, but the law has no power to accomplish redemption. The law withdrew, saying, "I cannot redeem."
 
-But Boaz stepped forward. He willingly paid the price, bore the full cost, and took a Moabite woman as his wife. Brothers and sisters, is this not precisely what Christ has done? The law cannot save you; it can only reveal your sin. But Christ came, He is the true kinsman-redeemer (גֹּאֵל), and He redeemed you with His own blood.
+But Boaz stepped forward. He willingly paid the price, bore the full cost, and took a Moabite woman as his wife.  Is this not precisely what Christ has done? The law cannot save you; it can only reveal your sin. But Christ came, He is the true kinsman-redeemer (גֹּאֵל), and He redeemed you with His own blood.
 
 > "For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren," (Hebrews 2:11)
 
@@ -293,7 +291,7 @@ Then the LORD enabled me to conceive, and I bore a son. The women of the neighbo
 
 Behold, she who had said "Call me Mara" now held the child in her arms and became his nurse (Ruth 4:16). Bitterness turned to sweetness, emptiness to fullness, mourning to joy. Not because we had done anything worthy, but because the steadfast love of the LORD endures forever.
 
-And this child, Obed, fathered Jesse, and Jesse fathered King David. Brothers and sisters, consider this: the descendant of a Moabite woman became the grandmother of Israel's greatest king. And from David's line, the King of kings and Lord of lords, Christ Jesus, was born in the flesh.
+And this child, Obed, fathered Jesse, and Jesse fathered King David.  Consider this: the descendant of a Moabite woman became the grandmother of Israel's greatest king. And from David's line, the King of kings and Lord of lords, Christ Jesus, was born in the flesh.
 
 > "And Jesse the father of David the king. And David was the father of Solomon by the wife of Uriah… and Jacob the father of Joseph the husband of Mary, of whom Jesus was born, who is called Christ." (Matthew 1:6, 16)
 
@@ -323,11 +321,10 @@ You who follow Christ today face the same call. You are summoned to leave the ol
 
 Finally, I thank you for remembering my story today. I am but a small part of God's grand narrative of redemption. Yet through one Moabite woman's life, God declared an eternal truth to the world:
 
-**Grace does not ask where you come from; it only asks where you are going, into the arms of the Redeemer.**
+**Grace does not ask where you come from; it only asks where you are going: into the arms of the Redeemer.**
 
 May all of you be able to say, as I did: "Your people shall be my people, and your God my God." May the true kinsman-redeemer, our Lord Jesus Christ, spread His wings over every one of you.
 
 In the grace of Christ,
 
 Your sister, Ruth of Moab
-
