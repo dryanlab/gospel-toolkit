@@ -1,3 +1,13 @@
+// =============================================================================
+// AUTO-SYNCED FROM content/letters/<id>.md  (DO NOT EDIT BY HAND)
+//
+// 真相源是 content/letters/<id>.md。本文件由 sync 脚本生成 / 局部 patch：
+//   cd web && npx tsx ../scripts/sync-letters-md-to-ts.ts --apply <letter-id>
+//
+// 直接编辑本文件会被下次 sync 覆盖，且不会反向同步到 .md。
+// 改来信请改 .md，再跑 sync 推 dev/prod。
+// =============================================================================
+
 export interface Letter {
   id: string;
   author: string;
