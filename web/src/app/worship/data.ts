@@ -444,6 +444,13 @@ export const songs: Song[] = [
   { id: 'ai-zai-ruan-ruo-zhong', title: '愛在軟弱中盛放_以愛還愛', artist: 'Jennifer Poon', youtubeId: '7zxCBrAH1bE', category: '敬拜诗歌' },
   { id: 'living-hope-en', title: 'Living Hope', subtitle: '活泼的盼望', artist: 'PhilWickhamVEVO', youtubeId: 'u-1fwZtKJSM', category: '敬拜诗歌' },
   { id: 'yin-ni-yu-wo-tong-xing', title: '因祢與我同行', subtitle: 'Because You Walk With Me', artist: '曾毓蘭', youtubeId: 'f4MXryu5TEM', category: '敬拜诗歌' },
+  { id: 'ping-an-zeng', title: '平安', subtitle: 'Peace', artist: '曾毓蘭', youtubeId: 'sDzJaotZm3o', category: '敬拜诗歌' },
+  { id: 'yong-yuan-juan-you', title: '永遠眷佑', subtitle: 'Eternal Care', artist: '曾毓蘭', youtubeId: 'romUS5pb-2M', category: '敬拜诗歌' },
+  { id: 'zhi-yao-xiang-xin-zeng', title: '只要相信', subtitle: 'Only Believe', artist: '曾毓蘭', youtubeId: 'gHN5kvtw2f8', category: '敬拜诗歌' },
+  { id: 'wu-yi-ming-zhi-de-mo-qi', title: '無以名之的默契', subtitle: 'Wordless Communion', artist: '曾毓蘭', youtubeId: 'G5WYUUvzXV0', category: '敬拜诗歌' },
+  { id: 'xin-zhong-you-yesu-de-xiao-hai', title: '心中有耶穌的小孩', subtitle: 'The Child With Jesus in His Heart', artist: '曾毓蘭', youtubeId: 'Rj4vnlQhtfc', category: '敬拜诗歌' },
+  { id: 'shi-jia-shi-rong-yao', title: '十架是榮耀', subtitle: 'The Cross Is Glory', artist: '曾毓蘭', youtubeId: '1M54X8JAAI8', category: '敬拜诗歌' },
+  { id: 'shen-de-hai-zi-zeng', title: '神的孩子', subtitle: 'The Child of God', artist: '曾毓蘭', youtubeId: 'm2fZrwbXi6A', category: '敬拜诗歌' },
 ];
 
 // ============================================
