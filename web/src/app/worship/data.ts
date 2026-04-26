@@ -443,6 +443,7 @@ export const songs: Song[] = [
   { id: 'shi-jia-de-ai', title: '十架的愛 Great Is Your Love', subtitle: 'Great Is Your Love', artist: '讚美之泉 Stream of Praise - Topic', youtubeId: 'npXSsd_TO4A', category: '赞美诗歌' },
   { id: 'ai-zai-ruan-ruo-zhong', title: '愛在軟弱中盛放_以愛還愛', artist: 'Jennifer Poon', youtubeId: '7zxCBrAH1bE', category: '敬拜诗歌' },
   { id: 'living-hope-en', title: 'Living Hope', subtitle: '活泼的盼望', artist: 'PhilWickhamVEVO', youtubeId: 'u-1fwZtKJSM', category: '敬拜诗歌' },
+  { id: 'yin-ni-yu-wo-tong-xing', title: '因祢與我同行', subtitle: 'Because You Walk With Me', artist: '曾毓蘭', youtubeId: 'f4MXryu5TEM', category: '敬拜诗歌' },
 ];
 
 // ============================================
