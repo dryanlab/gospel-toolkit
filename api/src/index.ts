@@ -107,12 +107,14 @@ export default {
 
         // Upsert
         await env.DB.prepare(`
-          INSERT INTO letters (id, author, author_en, author_avatar, author_bio, author_bio_en, title_zh, title_en, date, category, scripture, scripture_text_zh, scripture_text_en, summary_zh, summary_en, content_zh, content_en, tags, status, updated_at)
-          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, datetime('now'))
+          INSERT INTO letters (id, author, author_en, author_avatar, author_bio, author_bio_en, title_zh, title_en, subtitle_zh, subtitle_en, date, category, scripture, scripture_text_zh, scripture_text_en, summary_zh, summary_en, content_zh, content_en, tags, status, updated_at)
+          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, datetime('now'))
           ON CONFLICT(id) DO UPDATE SET
             author=excluded.author, author_en=excluded.author_en, author_avatar=excluded.author_avatar,
             author_bio=excluded.author_bio, author_bio_en=excluded.author_bio_en,
-            title_zh=excluded.title_zh, title_en=excluded.title_en, date=excluded.date,
+            title_zh=excluded.title_zh, title_en=excluded.title_en,
+            subtitle_zh=excluded.subtitle_zh, subtitle_en=excluded.subtitle_en,
+            date=excluded.date,
             category=excluded.category, scripture=excluded.scripture,
             scripture_text_zh=excluded.scripture_text_zh, scripture_text_en=excluded.scripture_text_en,
             summary_zh=excluded.summary_zh, summary_en=excluded.summary_en,
@@ -121,7 +123,9 @@ export default {
         `).bind(
           id, data.author, data.author_en, data.author_avatar || '📜',
           data.author_bio, data.author_bio_en,
-          data.title_zh, data.title_en, data.date, data.category,
+          data.title_zh, data.title_en,
+          data.subtitle_zh ?? null, data.subtitle_en ?? null,
+          data.date, data.category,
           data.scripture, data.scripture_text_zh, data.scripture_text_en,
           data.summary_zh, data.summary_en,
           data.content_zh, data.content_en,

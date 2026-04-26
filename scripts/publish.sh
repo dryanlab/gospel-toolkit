@@ -39,15 +39,23 @@ auth_header="Authorization: Bearer ${ADMIN_TOKEN}"
 # ===== READINGS =====
 
 readings_extract() {
-  local ch="$1"
+  local spec="$1"
+  local book="genesis" ch="$spec"
+  if [[ "$spec" == *:* ]]; then
+    book="${spec%:*}"
+    ch="${spec##*:}"
+  fi
   cd "$WEB_DIR"
   npx tsx -e "
     import { readings } from './src/data/readings';
-    const r = readings.find(r => r.book === '创世记' && r.chapter === ${ch});
-    if (!r) { console.error('Chapter ${ch} not found'); process.exit(1); }
+    const bookSlug = '${book}'.toLowerCase();
+    const r: any = readings.find((r: any) =>
+      ((r.bookEn || '').toLowerCase() === bookSlug) && r.chapter === ${ch}
+    );
+    if (!r) { console.error('Chapter ${book}:${ch} not found'); process.exit(1); }
     const payload = {
       book: r.book,
-      book_en: (r as any).bookEn || 'Genesis',
+      book_en: r.bookEn || '',
       chapter: r.chapter,
       title: r.title,
       title_en: (r as any).titleEn || r.title_en || '',
@@ -79,12 +87,17 @@ readings_extract() {
 }
 
 readings_push() {
-  local ch="$1"
-  info "提取 Ch${ch} 数据..."
+  local spec="$1"
+  local book="genesis" ch="$spec"
+  if [[ "$spec" == *:* ]]; then
+    book="${spec%:*}"
+    ch="${spec##*:}"
+  fi
+  info "提取 ${book}:${ch} 数据..."
   local data
-  data=$(readings_extract "$ch")
+  data=$(readings_extract "$spec")
   if [ $? -ne 0 ] || [ -z "$data" ]; then
-    err "Ch${ch} 提取失败，请检查 readings.ts"
+    err "${book}:${ch} 提取失败，请检查 readings.ts"
   fi
 
   # Show summary
@@ -95,10 +108,10 @@ readings_push() {
   pub_date=$(echo "$data" | python3 -c "import sys,json; print(json.load(sys.stdin)['publish_date'])")
 
   if [ "$zh_len" -lt 100 ]; then
-    err "Ch${ch}《${title}》中文内容太短(${zh_len}字)，可能是空壳"
+    err "${book}:${ch}《${title}》中文内容太短(${zh_len}字)，可能是空壳"
   fi
 
-  info "Ch${ch}《${title}》| 中文${zh_len}字 | 英文${en_len}字 | 发布日期${pub_date}"
+  info "${book}:${ch}《${title}》| 中文${zh_len}字 | 英文${en_len}字 | 发布日期${pub_date}"
 
   # Push to D1
   local resp
@@ -108,21 +121,27 @@ readings_push() {
     -d "$data")
 
   if echo "$resp" | python3 -c "import sys,json; assert json.load(sys.stdin).get('ok')" 2>/dev/null; then
-    log "Ch${ch}《${title}》推送成功"
+    log "${book}:${ch}《${title}》推送成功"
   else
-    err "Ch${ch} 推送失败: $resp"
+    err "${book}:${ch} 推送失败: $resp"
   fi
 }
 
 readings_push_range() {
-  local from="$1" to="$2"
-  info "批量推送 Ch${from}-${to}..."
+  local spec_from="$1" spec_to="$2"
+  local book="genesis" from="$spec_from" to="$spec_to"
+  if [[ "$spec_from" == *:* ]]; then
+    book="${spec_from%:*}"
+    from="${spec_from##*:}"
+    to="${spec_to##*:}"
+  fi
+  info "批量推送 ${book}:${from}-${to}..."
   local failed=0
   for ch in $(seq "$from" "$to"); do
-    readings_push "$ch" || ((failed++))
+    readings_push "${book}:${ch}" || ((failed++))
   done
   if [ $failed -eq 0 ]; then
-    log "全部完成！Ch${from}-${to} 已推送到D1"
+    log "全部完成！${book}:${from}-${to} 已推送到D1"
   else
     warn "${failed}章推送失败"
   fi
@@ -199,6 +218,8 @@ letters_extract() {
       author_bio_en: (l as any).authorBioEn || '',
       title_zh: l.title_zh,
       title_en: l.title_en,
+      subtitle_zh: (l as any).subtitle_zh || '',
+      subtitle_en: (l as any).subtitle_en || '',
       date: l.date,
       category: l.category,
       scripture: l.scripture,

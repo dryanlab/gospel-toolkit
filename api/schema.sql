@@ -8,6 +8,8 @@ CREATE TABLE IF NOT EXISTS letters (
   author_bio_en TEXT,
   title_zh    TEXT NOT NULL,
   title_en    TEXT NOT NULL,
+  subtitle_zh TEXT,
+  subtitle_en TEXT,
   date        TEXT NOT NULL,
   category    TEXT NOT NULL CHECK(category IN ('testimony','exposition','theology','fellowship','to-you')),
   scripture   TEXT,
