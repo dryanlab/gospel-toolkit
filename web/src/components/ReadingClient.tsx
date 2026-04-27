@@ -201,7 +201,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
         <div className="space-y-4 mt-6 pt-8 border-t border-[var(--color-border)]">
           <div className="flex items-center justify-between">
             <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)]">🔍 导读要点</h2>
-            <SpeakButton text={`导读要点。历史背景：${ch.historyContext_zh}。经文结构：${ch.structure_zh}。神学意涵：${ch.theology_zh}。基督的影子：${ch.christShadow_zh}`} lang="zh" />
+            <SpeakButton text={`导读要点。历史背景：${ch.historyContext_zh}。经文结构：${ch.structure_zh}。神学意涵：${ch.theology_zh}。基督的彰显：${ch.christShadow_zh}`} lang="zh" />
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">📍 历史背景</h3>
@@ -216,7 +216,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
             <div className="text-sm text-[var(--color-text)] leading-relaxed">{renderMd(ch.theology_zh || '')}</div>
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
-            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">✝️ 基督的影子</h3>
+            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">✝️ 基督的彰显</h3>
             <div className="text-sm text-[var(--color-text)] leading-relaxed">{renderMd(ch.christShadow_zh || '')}</div>
           </div>
         </div>
@@ -233,7 +233,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
         <div className="space-y-4 mt-6 pt-8 border-t border-[var(--color-border)]">
           <div className="flex items-center justify-between">
             <h2 className="font-serif-cn text-lg font-bold text-[var(--color-text)]">🔍 Key Points</h2>
-            <SpeakButton text={`Key Points. Historical Context: ${ch.historyContext_en}. Structure: ${ch.structure_en}. Theological Significance: ${ch.theology_en}. Shadow of Christ: ${ch.christShadow_en}`} lang="en" />
+            <SpeakButton text={`Key Points. Historical Context: ${ch.historyContext_en}. Structure: ${ch.structure_en}. Theological Significance: ${ch.theology_en}. Manifestation of Christ: ${ch.christShadow_en}`} lang="en" />
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
             <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">📍 Historical Context</h3>
@@ -248,7 +248,7 @@ export default function ReadingClient({ config, chapters: staticChapters }: { co
             <div className="text-sm text-[var(--color-text)] leading-relaxed">{renderMd(ch.theology_en || '')}</div>
           </div>
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
-            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">✝️ Shadow of Christ</h3>
+            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">✝️ Manifestation of Christ</h3>
             <div className="text-sm text-[var(--color-text)] leading-relaxed">{renderMd(ch.christShadow_en || '')}</div>
           </div>
         </div>

@@ -199,7 +199,7 @@ export default function GenesisClient({ chapters: staticChapters }: { chapters: 
           </div>
 
           <div className="rounded-xl bg-[var(--color-bg-secondary)] border border-[var(--color-border)] p-4">
-            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">✝️ 基督的影子 Shadow of Christ</h3>
+            <h3 className="font-bold text-sm text-[var(--color-text)] mb-2">✝️ 基督的彰显 Manifestation of Christ</h3>
             <div className="text-sm text-[var(--color-text)] leading-relaxed mb-2">{renderMd(ch.christShadow_zh || '')}</div>
             <div className="text-sm text-[var(--color-text-secondary)] italic leading-relaxed">{renderMd(ch.christShadow_en || '')}</div>
           </div>
