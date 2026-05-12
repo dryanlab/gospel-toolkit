@@ -126,20 +126,26 @@ function generateReading() {
 
 function generateLetter(id) {
   const src = fs.readFileSync(`${PROJECT}/web/src/data/letters.ts`, 'utf8');
-  
+
   // Auto-detect today's letter if no id provided
   if (!id) {
     const today = getToday();
-    const dateRe = /id:\s*'([^']+)'[\s\S]*?date:\s*'([^']+)'/g;
+    // Anchor `id:` to start-of-line so it doesn't match the substring
+    // `id:` inside body prose like `said: 'I am about to die; ...'` —
+    // that misfire (2026-05-09 cron failure: captured id="I am about
+    // to die..." then paired with the next legitimate date field)
+    // sent the Saturday letter-push cron into a permanent error loop.
+    // letters.ts always has `id:` as an object field on its own line.
+    const dateRe = /^\s*id:\s*'([^']+)'[\s\S]*?^\s*date:\s*'([^']+)'/gm;
     let m;
     while ((m = dateRe.exec(src)) !== null) {
       if (m[2] === today) { id = m[1]; break; }
     }
     if (!id) { console.error('No letter for today:', today); process.exit(1); }
   }
-  
-  // Find letter by id
-  const re = new RegExp(`id:\\s*'${id}'`);
+
+  // Find letter by id — same line-start anchor for symmetry.
+  const re = new RegExp(`^\\s*id:\\s*'${id.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')}'`, 'm');
   const idx = src.search(re);
   if (idx === -1) { console.error('Letter not found: ' + id); process.exit(1); }
   
