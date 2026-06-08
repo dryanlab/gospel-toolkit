@@ -5826,7 +5826,7 @@ On the way, something shocking happened: the LORD met Moses at a lodging place a
 Finally, the LORD sent Aaron to meet me in the wilderness. We met at the mountain of God. I told Aaron all the LORD's words and signs. Together we gathered the elders of Israel. Aaron spoke everything and performed the signs before the people. "And the people believed; and when they heard that the LORD had visited the people of Israel and that he had seen their affliction, they bowed their heads and worshiped."
 
  This chapter teaches us: God's call does not depend on our ability but on His. For every excuse I made, He had an answer. He does not need perfect vessels, only willing ones.`,
-  historyContext_zh: `出埃及记第四章的背景仍在何烈山（西奈山）。摩西已在米甸牧羊四十年，他的犹豫反映了一个长期远离公共生活之人的心态。三个神迹记号在古近东文化中具有重要意义，埃及法老也通过术士行奇事来证明神明的权柄，因此耶和华赐给摩西的记号是直接挑战埃及的宗教权威。割礼事件（24-26节）暗示摩西在米甸期间可能受妻子西坡拉的影响，没有给儿子行割礼。这在神学上极为严重，神与亚伯拉罕立约的记号若被忽略，就是对约的轻慢。神要在使命开始前纠正这个根本问题。`,
+  historyContext_zh: `出埃及记第4章的背景仍在何烈山（西奈山）。摩西已在米甸牧羊四十年，他的犹豫反映了一个长期远离公共生活之人的心态。三个神迹记号在古近东文化中具有重要意义，埃及法老也通过术士行奇事来证明神明的权柄，因此耶和华赐给摩西的记号是直接挑战埃及的宗教权威。割礼事件（24-26节）暗示摩西在米甸期间可能受妻子西坡拉的影响，没有给儿子行割礼。这在神学上极为严重，神与亚伯拉罕立约的记号若被忽略，就是对约的轻慢。神要在使命开始前纠正这个根本问题。`,
   historyContext_en: `Exodus 4 is still set at Horeb (Mount Sinai). Moses had been shepherding in Midian for forty years, and his hesitation reflects the mindset of someone long removed from public life. The three miraculous signs carried great significance in the ancient Near East, Egyptian pharaohs also used magicians to perform wonders proving divine authority, so the signs the LORD gave Moses directly challenged Egypt's religious establishment. The circumcision incident (vv. 24-26) suggests that during his time in Midian, possibly influenced by his wife Zipporah, Moses had neglected to circumcise his son. Theologically this was extremely serious, neglecting the sign of God's covenant with Abraham was contempt for the covenant itself. God needed to correct this fundamental issue before the mission began.`,
   structure_zh: `**三个神迹记号（1-9节）**：杖变蛇、手生麻疯复原、水变血，证实神的差遣。
 
@@ -5933,7 +5933,7 @@ Brothers and sisters, this is what everyone who obeys God's call may experience,
 Pharaoh's real purpose in intensifying the labor was not merely punishment but severing Israel's relationship with the LORD. He said "let heavier work be laid on the men that they may labor at it and pay no regard to lying words", in Pharaoh's view, the LORD's promises were "lying words." Satan operates the same way, when God begins to work, the enemy doubles the persecution, aiming to make the people doubt God's faithfulness and God's servant doubt his own calling.
 
 But the end of chapter 5 is the beginning of chapter 6, God is about to answer Moses' prayer with mighty power. The deeper the darkness, the nearer the light.`,
-  historyContext_zh: `出埃及记第五章的场景发生在埃及的王宫和砖窑工地。古埃及确实大量使用奴隶劳动制砖建造城市和神庙。考古发现的埃及文献记载了类似的做法，扣留原料同时维持产量，作为惩罚手段。法老自称为太阳神拉（Ra）的儿子，被视为神的化身，所以当摩西说"耶和华如此说"，法老的反应不仅是政治抗拒，更是宗教对抗，他不承认有比自己更高的神。以色列人制砖的苦工地点可能在尼罗河三角洲的兰塞和比东二城（出埃及记1:11），考古学在该区域发现了大量无草砖和有草砖的遗存。`,
+  historyContext_zh: `出埃及记第5章的场景发生在埃及的王宫和砖窑工地。古埃及确实大量使用奴隶劳动制砖建造城市和神庙。考古发现的埃及文献记载了类似的做法，扣留原料同时维持产量，作为惩罚手段。法老自称为太阳神拉（Ra）的儿子，被视为神的化身，所以当摩西说"耶和华如此说"，法老的反应不仅是政治抗拒，更是宗教对抗，他不承认有比自己更高的神。以色列人制砖的苦工地点可能在尼罗河三角洲的兰塞和比东二城（出埃及记1:11），考古学在该区域发现了大量无草砖和有草砖的遗存。`,
   historyContext_en: `Exodus 5 is set in the Egyptian palace and brick-making worksites. Ancient Egypt indeed used extensive slave labor for brick-making to construct cities and temples. Archaeological Egyptian documents record similar practices, withholding materials while maintaining quotas as a form of punishment. Pharaoh claimed to be the son of the sun god Ra and was regarded as a divine incarnation, so when Moses said "Thus says the LORD," Pharaoh's reaction was not merely political resistance but religious confrontation, he did not acknowledge any god above himself. The brick-making sites were likely at Raamses and Pithom in the Nile Delta (Exodus 1:11), where archaeology has uncovered extensive remains of both straw bricks and strawless bricks.`,
   structure_zh: `**摩西亚伦首见法老（1-3节）**：传达耶和华的命令、法老的傲慢拒绝。
 
@@ -6032,7 +6032,7 @@ God commanded me a second time to go before Pharaoh and demand Israel's release.
  Have you ever found yourself in such a place of despair? Hopes repeatedly dashed, efforts met with more hardship, prayers seemingly unanswered? Israel's experience tells us: God's promises do not fail because of present darkness. "I am the LORD", these words are the cornerstone of the entire book of Exodus, and the foundation of every believer's life. When everything shakes, God's name stands firm.
 
 God's redemption rarely comes according to our expected timetable or method. Sometimes things must get worse before they get better. But this is not because God forgot His promises. He is at work according to His plan, in His time, in His way, accomplishing His purpose, so that His name might be glorified, and so that we might truly know He is the LORD.`,
-  historyContext_zh: `出埃及记第六章发生在摩西首次觐见法老失败之后。法老不仅拒绝释放以色列人，反而停止提供制砖的草料，却要求同样数量的砖（出埃及记 5章）。这一背景极为重要：神的救赎计划开始时，情况反而恶化了。
+  historyContext_zh: `出埃及记第6章发生在摩西首次觐见法老失败之后。法老不仅拒绝释放以色列人，反而停止提供制砖的草料，却要求同样数量的砖（出埃及记 5章）。这一背景极为重要：神的救赎计划开始时，情况反而恶化了。
 
 从历史背景来看，"耶和华"（YHWH）这个名字在创世记中已出现，但其完整救赎含义要在出埃及事件中才得彰显。改革宗神学家卡尔·柏特认为，神在此是以更丰富的方式启示祂的约名，而非说列祖完全不知道这个名字。
 
@@ -6607,7 +6607,7 @@ This was Moses' final dialogue with Pharaoh. The next meeting would come after t
 
 **Final Negotiation and Rupture (vv. 24-29)**: Pharaoh demanding livestock stay, Moses insisting on taking everything, Pharaoh's final threat, the last dialogue.`,
   theology_zh: `**神的心意刚硬（Divine Hardening）**
-第一节明确说"我使他的心刚硬"。改革宗神学区分两种刚硬：神的主权刚硬（judicial hardening）和人自己的刚硬（self-hardening）。前几灾中法老自己硬着心（出8:15, 8:32, 9:34），后来神主动使他的心刚硬。韦敏斯德信条第五章第六条：对于那些因先前的罪而心被刚硬的恶人，神任凭他们的心刚硬。神的刚硬是审判性的，不是使无辜者变恶，而是让已经选择悖逆的人走到自己选择的终极后果。
+第1节明确说"我使他的心刚硬"。改革宗神学区分两种刚硬：神的主权刚硬（judicial hardening）和人自己的刚硬（self-hardening）。前几灾中法老自己硬着心（出8:15, 8:32, 9:34），后来神主动使他的心刚硬。韦敏斯德信条第五章第六条：对于那些因先前的罪而心被刚硬的恶人，神任凭他们的心刚硬。神的刚硬是审判性的，不是使无辜者变恶，而是让已经选择悖逆的人走到自己选择的终极后果。
 
 **以色列家中有光：分别之恩**
 黑暗笼罩全埃及，唯有以色列人家中有光。这不是自然现象，而是神恩典的分别。改革宗神学用"特殊恩典"（special grace）与"普通恩典"（common grace）来区分。以色列家中的光是特殊恩典，不是因为以色列人比埃及人好，而是因为神拣选了他们。以弗所书5:8说："从前你们是暗昧的，但如今在主里面是光明的。"
@@ -6673,16 +6673,16 @@ I also understood that all of this was under God's control. "The LORD said to Mo
 Standing in that moment, I could feel the axis of history turning. Four hundred years of slavery were about to end. The promise given to Abraham, "your offspring will be sojourners in a land that is not theirs and will be servants there, and they will be afflicted for four hundred years... but in the fourth generation they shall come back here" (Gen. 15:13-16), the moment of that promise had arrived. God is faithful; not one of His words falls to the ground. I stood in that historical moment, trembling with fear, yet filled with reverence and trust in God.
 
 The final plague was about to come, not because God is cruel, but because God is holy. Not because God hates Egyptians, but because sin must have its consequences and justice must be served. The coming angel of death would pass over the houses of Israel, not because of Israel's good deeds, but because the blood of the lamb was painted on the doorframes. This is grace: not what we have done, but what God has done for us.`,
-  historyContext_zh: `出埃及记第十一章发生在约公元前1446年（按早期出埃及年代学）或公元前1270年代（按晚期年代学）。埃及新王国时期正值鼎盛，法老掌握着古代世界最强大的军事和经济力量。以色列人在埃及为奴约四百年（参创 15:13），人口从雅各家族的七十人增长为一个庞大的民族，使埃及人心生恐惧（出 1:7-10）。
+  historyContext_zh: `出埃及记第11章发生在约公元前1446年（按早期出埃及年代学）或公元前1270年代（按晚期年代学）。埃及新王国时期正值鼎盛，法老掌握着古代世界最强大的军事和经济力量。以色列人在埃及为奴约四百年（参创 15:13），人口从雅各家族的七十人增长为一个庞大的民族，使埃及人心生恐惧（出 1:7-10）。
 
 九次灾难摧毁了埃及的经济基础：农业（蝗虫、雹子）、畜牧（瘟疫、头生牲畜之死）、宗教象征（尼罗河变血打击了河神哈比、青蛙女神赫克特等）。法老的刚硬不仅是个人意志问题，也是神主权掌管历史、成就祂旨意的明证。本章的金银财物赔偿也是神在历史中的公义补偿，四百年的无偿劳役将在出埃及时得到归还。`,
   historyContext_en: `Exodus chapter 11 takes place around 1446 BC (according to early Exodus chronology) or the 1270s BC (according to late chronology). During Egypt's New Kingdom at its height, Pharaoh commanded the most powerful military and economic force in the ancient world. The Israelites had been enslaved in Egypt for approximately four hundred years (cf. Gen. 15:13), growing from Jacob's family of seventy to an enormous nation, which caused the Egyptians to fear them (Ex. 1:7-10).
 
 Nine plagues had destroyed Egypt's economic foundation: agriculture (locusts, hail), livestock (pestilence, death of firstborn animals), and religious symbols (the Nile turning to blood attacked the river god Hapi, the frog goddess Heqet, and others). Pharaoh's hardness of heart was not merely a matter of personal will but also evidence of God's sovereign governance of history to accomplish His purposes. The compensation of silver and gold in this chapter also represents God's historical act of justice, four hundred years of unpaid labor would be repaid at the Exodus.`,
-  structure_zh: `第十一章结构简明，可分为三段：
+  structure_zh: `第11章结构简明，可分为三段：
 一、神向摩西宣告最后的灾难（11:1-3）：神的预告与以色列人的蒙恩；
 二、摩西向法老宣告第十灾内容（11:4-8）：死亡天使的降临与以色列人的被保护；
-三、过渡性总结（11:9-10）：法老的刚硬乃是神奇事增多的背景，为第十二章逾越节叙事做铺垫。`,
+三、过渡性总结（11:9-10）：法老的刚硬乃是神奇事增多的背景，为第12章逾越节叙事做铺垫。`,
   structure_en: `Chapter 11 has a concise structure divisible into three sections:
 I. God announces the final plague to Moses (11:1-3): God's forewarning and Israel's favor;
 II. Moses announces the tenth plague to Pharaoh (11:4-8): the coming of the death angel and Israel's protection;
@@ -6701,7 +6701,7 @@ III. Transitional summary (11:9-10): Pharaoh's hardness as the context for multi
 **God's Election and Distinction**: Israel's protection was not due to their own righteousness but to God's sovereign election and covenant faithfulness. This foreshadows the New Testament doctrine of election (Eph. 1:4-5).
 
 **Judgment and Grace Simultaneously Revealed**: In the same event, God executes judgment upon Egypt and shows mercy to Israel. This is the full manifestation of both God's holiness and His love.`,
-  christShadow_zh: `第十一章预告的最后审判，深深地指向基督：
+  christShadow_zh: `第11章预告的最后审判，深深地指向基督：
 
 **长子之死与神独生子**：每一个埃及家庭将失去长子，这是创世以来最深重的哀痛。然而神自己的独生子（约 3:16），在新约中因世人的罪而死，那是更深的哀痛，却成了全人类得救的根源。埃及的死亡是审判，基督的死亡是代赎。
 
@@ -6774,7 +6774,7 @@ Passover was not merely a historical event, it was a memorial to be observed for
 "About six hundred thousand men on foot" (Ex. 12:37), plus women, children, and mixed multitude, leads scholars to estimate the total number between two and three million people (with more conservative estimates also proposed). This enormous host required miraculous provision to survive in the wilderness, this was the prelude to forty years of sustained divine provision in the desert.
 
 Unleavened bread (Matzah) was the sign of hasty departure, but it became central to the Feast of Unleavened Bread (seven days), symbolizing the removal of the leaven of sin (cf. 1 Cor. 5:7-8). The "mixed multitude" who went up with Israel shows that the redemption in Exodus was not purely ethnic, all who believed and followed could join the people of God.`,
-  structure_zh: `第十二章是出埃及记叙事的高峰，结构宏大：
+  structure_zh: `第12章是出埃及记叙事的高峰，结构宏大：
 一、逾越节的规条（12:1-20）：羊羔的选取、血的涂抹、节期的守法；
 二、摩西将规条传给百姓（12:21-28）；
 三、第十灾的执行：击杀长子（12:29-32）；
@@ -6804,7 +6804,7 @@ V. Additional Passover regulations (12:43-51): who may eat the Passover.`,
 **God's Justice and Mercy**: Toward Egypt, righteous judgment; toward Israel, merciful redemption, both manifested on the same night. God is perfectly holy; sin cannot escape His presence. God is also perfectly loving; He has prepared a way of escape for His people.
 
 **Remembrance as an Act of Faith**: God commanded Israel to observe Passover for all generations, this is the theological prototype of sacramental remembrance. Remembering God's redemptive acts is not optional; it is central to the life of the covenant community.`,
-  christShadow_zh: `第十二章是整本圣经中最完整的基督预表章节之一：
+  christShadow_zh: `第12章是整本圣经中最完整的基督预表章节之一：
 
 **基督是我们的逾越节羔羊**：保罗明确宣告："我们逾越节的羔羊基督已经被杀献祭了。"（林前 5:7）逾越节羔羊的每一个细节都指向基督：无残疾（基督是完全无罪的；彼前 1:19）、一岁（生命的全盛，自愿献上）、骨头一根也不可折断（出 12:46，参约 19:36）。
 
@@ -6871,7 +6871,7 @@ The pillar of cloud and pillar of fire, these were the most beautiful visual pre
 This guiding God sheltered them by day from the scorching sun, and lit their way by night against the darkness. He was light and shelter, direction and warmth, everything His people needed. The pillars of cloud and fire were not merely directional indicators but the promise of God's presence: I am here, I am leading you, you are not alone.
 
 I watched the pillar of cloud slowly moving before our column, and my heart was filled with reverence and gratitude toward God. The One who had just displayed incomparable judicial authority in Egypt was now personally walking before His children in the wilderness. Authority and mercy coexist; judgment and presence stand together, this is the LORD our God.`,
-  historyContext_zh: `第十三章连接了逾越节（第十二章）与旷野征途（第十四章起）的叙事。神所选择的路线，经旷野去红海（出 13:18），绕开了非利士人的迦萨地道路，这是当时埃及通往迦南最主要的军事商道"何鲁斯之路"（或称"腓力斯丁之路"）。这条路有埃及军队把守的要塞，对刚从奴役中出来的民众来说极为危险。
+  historyContext_zh: `第13章连接了逾越节（第12章）与旷野征途（第14章起）的叙事。神所选择的路线，经旷野去红海（出 13:18），绕开了非利士人的迦萨地道路，这是当时埃及通往迦南最主要的军事商道"何鲁斯之路"（或称"腓力斯丁之路"）。这条路有埃及军队把守的要塞，对刚从奴役中出来的民众来说极为危险。
 
 约瑟的骸骨：约瑟约于公元前1805年去世（传统年代）。他的骸骨在以色列人中保存了约四百年，直到进入迦南后葬于示剑（书 24:32）。这个细节显示以色列人对神应许有持续的信仰，并强化了出埃及与列祖之约的连续性。
 
@@ -6881,7 +6881,7 @@ I watched the pillar of cloud slowly moving before our column, and my heart was 
 Joseph's bones: Joseph died around 1805 BC (traditional chronology). His bones were preserved among the Israelites for approximately four hundred years until they were buried at Shechem after entering Canaan (Josh. 24:32). This detail shows Israel's sustained faith in God's promise and reinforces the continuity between the Exodus and the covenant with the patriarchs.
 
 Pillar of cloud and fire: This was the primary manifestation of God's Shekinah Glory during the wilderness period, which later also filled the tabernacle (Ex. 40:34-38) and Solomon's temple (1 Kings 8:10-11).`,
-  structure_zh: `第十三章可分为三段：
+  structure_zh: `第13章可分为三段：
 一、头生的分别为圣（13:1-2）：原则的宣告；
 二、除酵节的记念与教导（13:3-16）：包含向儿女传授信仰的命令，以及头生之赎的规条；
 三、离埃及的路线与神的引导（13:17-22）：绕道旷野、约瑟骸骨、云柱火柱。`,
@@ -6903,7 +6903,7 @@ III. The route out of Egypt and God's guidance (13:17-22): the wilderness detour
 **Transmission of Faith**: "You shall tell your son on that day" (13:8) is one of the biblical foundations of Reformed educational theology (paedagogy). Faith is not private but communal and intergenerational. Parents have the responsibility to pass faith to their children, this is the renewal of the covenant promise in each generation.
 
 **God's Compassionate Guidance**: God's detour (13:17) is a paradigm of His compassionate guidance. God's ways are not always the shortest, but they are always the most suited for His people's growth. This aligns with the Reformed understanding of Providence: God sovereignly arranges all things in history, including "detours," for ultimate good.`,
-  christShadow_zh: `第十三章蕴含丰富的基督论预表：
+  christShadow_zh: `第13章蕴含丰富的基督论预表：
 
 **头生子的赎买与基督**：每一个头生的都需要用羔羊来赎，否则必死。基督是神的"头生子"（罗 8:29，启 1:5），却为我们这些理当死亡之人的罪而受死，成为终极的代赎。祂是赎买者，也是被献上的羔羊，二者在祂身上完全合一。
 
@@ -6992,7 +6992,7 @@ The Red Sea was the most profound ecclesial moment in Israel's history, God's pe
 Pharaoh's six hundred chosen chariots (14:7) represented the most elite military force of the time. Ancient Near Eastern chariot warfare was the most advanced military technology of the era, like tanks today. Israel faced the most powerful military machine in the ancient world, yet this was precisely the situation in which God could most glorify Himself.
 
 "Not one of them remained" (14:28) represents total military annihilation. This was not only Israel's rescue but the fundamental collapse of Pharaoh's power, from this point, Israel moved forward free from pursuit by Egyptian forces. This event was widely reported throughout the ancient Near East (cf. Josh. 2:10), becoming a testimony to God's mighty power.`,
-  structure_zh: `第十四章叙事张力极强，可分为四段：
+  structure_zh: `第14章叙事张力极强，可分为四段：
 一、神的战略安排与法老的追赶（14:1-14）：以色列的绝境与摩西的信心宣告；
 二、神的指示与分海神迹（14:15-22）：往前走、云柱移位保护、海水分开；
 三、埃及军队的覆灭（14:23-29）：车轮脱落、水归原位、全军覆没；
@@ -7095,7 +7095,7 @@ This log, this detail is worth pondering. God did not make the water sweet by Hi
 There the LORD made for them a statute and a rule, and there he tested them, saying, "If you will diligently listen to the voice of the LORD your God, and do that which is right in his eyes, and give ear to his commandments and keep all his statutes, I will put none of the diseases on you that I put on the Egyptians, for I am the LORD, your healer." (Ex. 15:25-26)
 
 "I am the LORD, your healer", in Hebrew, "Yahweh Rapha", this is a revelation of one of God's names. God is not only a judge, not only a redeemer; He is also a healer. The sweetening of Marah's bitter waters is a miniature of God's nature: He can turn bitter to sweet, death to life, despair to hope. Then we came to Elim, where there were twelve springs of water and seventy palm trees, and we encamped there by the water. (Ex. 15:27) After bitter waters come sweet springs; in the wilderness is an oasis. God's way always leads through testing to comfort, bitterness contains sweetness, and difficulty is followed by rest.`,
-  historyContext_zh: `出埃及记第十五章包含圣经中最古老的诗歌之一，摩西之歌（15:1-18）。语言学研究表明，这首诗歌可能使用了圣经希伯来文中最古老的诗歌体裁，与乌加里特诗歌有相似的文学结构，进一步支持其历史真实性与古老年代。
+  historyContext_zh: `出埃及记第15章包含圣经中最古老的诗歌之一，摩西之歌（15:1-18）。语言学研究表明，这首诗歌可能使用了圣经希伯来文中最古老的诗歌体裁，与乌加里特诗歌有相似的文学结构，进一步支持其历史真实性与古老年代。
 
 玛拉（Marah）意为"苦的"，以琳（Elim）意为"树木"或"大树"。玛拉的可能位置是今日西奈半岛的'Ain Hawarah，以琳被认为是靠近今日苏伊士湾的一处绿洲。
 
@@ -7105,7 +7105,7 @@ There the LORD made for them a statute and a rule, and there he tested them, say
 Marah (meaning "bitter") and Elim (meaning "trees" or "great trees"), Marah's probable location is present-day 'Ain Hawarah on the Sinai Peninsula, while Elim is believed to be an oasis near the present-day Gulf of Suez.
 
 Miriam is called "the prophetess" (Ex. 15:20), making her one of the earliest women in Scripture to bear the title of prophet. She was the sister of Moses and Aaron (Num. 26:59). Later, she was struck with leprosy by God for jealousy of Moses (Num. 12), but was restored after prayer, showing mercy within God's justice.`,
-  structure_zh: `第十五章由三大段构成：
+  structure_zh: `第15章由三大段构成：
 一、摩西之歌（15:1-18）：全会众的赞美，颂扬神在红海的胜利与将来在迦南的荣耀计划；
 二、米利暗之歌（15:19-21）：妇女的应和赞美，历史上妇女在庆典中用打鼓跳舞赞美的模式；
 三、玛拉的苦水与以琳（15:22-27）：旷野的第一个考验与神的医治供应，以琳的休息。`,
@@ -7127,9 +7127,9 @@ III. Marah's bitter waters and Elim (15:22-27): the first wilderness test and Go
 **Growth of Faith Through Hardship**: Marah's bitter waters are how God "tested" His people (15:25). The Reformed theological explanation of suffering: suffering (within a reconciled relationship with God) is not God's error or punishment, but His pastoral testing, aimed at refining faith (1 Pet. 1:6-7), cultivating obedience, and drawing people into deeper dependence on God.
 
 **God's Name: Yahweh Rapha**: This is an important entry in the series of God's names (Yahweh Jireh, Yahweh Shalom, Yahweh Nissi, etc.). God's names reveal His nature and acts. "I am the LORD your healer", this is not only physical healing but the healing of sin's wounds and the healing of the soul. Reformed theology emphasizes: redemption is the renewal of the whole person, including the healing and renewal of entire existence (cf. Rev. 21:4-5).`,
-  christShadow_zh: `第十五章在多个层次上指向基督：
+  christShadow_zh: `第15章在多个层次上指向基督：
 
-**摩西之歌与羔羊之歌**：启示录第十五章直接引用这首歌，称为"神的仆人摩西的歌，并羔羊的歌"（启 15:3）。在末世的最终得胜中，蒙救赎的人仍然唱摩西之歌，但现在它成了羔羊之歌，因为基督是终极的摩西，祂引导神的子民穿越最终的死亡，进入永恒的应许之地。
+**摩西之歌与羔羊之歌**：启示录第15章直接引用这首歌，称为"神的仆人摩西的歌，并羔羊的歌"（启 15:3）。在末世的最终得胜中，蒙救赎的人仍然唱摩西之歌，但现在它成了羔羊之歌，因为基督是终极的摩西，祂引导神的子民穿越最终的死亡，进入永恒的应许之地。
 
 **苦水中的树与十字架**：那棵被丢入苦水中使水变甜的树，是十字架最有力的预表之一。十字架是人类历史上最大的苦难，神子的死亡，然而正是这棵"树"（加 3:13，"被挂在木头上"），被丢入人类苦难与罪恶的深渊，使一切变甜，使生命从死亡中涌出。保罗说："基督既为我们受了咒诅，就赎出我们脱离律法的咒诅。"（加 3:13）
 
@@ -7186,7 +7186,7 @@ I confess that sometimes, when I watched the people complain again, violating Go
 God also commanded us to keep an omer of manna beside the ark of the covenant, so future generations could see it. This was an eternal memorial, God is the God who provides, the Father in the wilderness, the giver of heavenly bread. In the most desolate places, He does not forget His people.
 
 Forty years later, when we finally entered Canaan, the manna ceased. But God's provision did not cease, it only changed form. The wilderness journey ended, and the abundance of Canaan began. God never allows His people to hunger or thirst within His will. This is the deepest testimony of my life.`,
-  historyContext_zh: `出埃及记第十六章发生在以色列人出埃及后第45天（参16:1，"第二月十五日"）。从拉美西斯出发，经红海，到汛的旷野，行程约300公里。汛旷野位于西奈半岛西部，介于以琳和西奈山之间，是一片极度干旱的石灰岩高原。
+  historyContext_zh: `出埃及记第16章发生在以色列人出埃及后第45天（参16:1，"第二月十五日"）。从拉美西斯出发，经红海，到汛的旷野，行程约300公里。汛旷野位于西奈半岛西部，介于以琳和西奈山之间，是一片极度干旱的石灰岩高原。
 
 公元前13世纪的旷野，几乎没有可供两百万人口（约六十万成年男丁及其家属）维持生计的食物来源。考古和历史学家对出埃及的具体路线仍有争议，但旷野供应的神迹性质在文本中是明确的。
 
@@ -7200,13 +7200,13 @@ In the 13th century BC, this wilderness offered virtually no food sources suffic
 The word "manna" is related in Arabic and Semitic languages to secretions from aphids on tamarisk trees. Some scholars see this as a natural analogy, but the biblical text emphasizes its regularity, the double portion before the Sabbath, and its preservation beside the ark, all of which transcend natural explanation and point to its miraculous nature.
 
 One omer (approximately 2.2 liters) represents the basic daily food requirement for one adult in the ancient wilderness context, indicating that God's provision was precise and sufficient, neither extravagant nor lacking.`,
-  structure_zh: `第十六章结构清晰，分为四个单元：
+  structure_zh: `第16章结构清晰，分为四个单元：
 1. 百姓的抱怨（1-3节）：会众向摩西、亚伦发怨言，怀念埃及的食物。
 2. 神的应许与鹌鹑（4-13节）：神宣告将降粮食，傍晚鹌鹑飞来。
 3. 吗哪的降下与律例（14-30节）：吗哪出现、规定每日分量、安息日双倍收取的命令，以及百姓违背的记录。
 4. 永远的纪念（31-36节）：吗哪的名称确定，保留一俄梅珥为纪念，四十年供应直到进入迦南。
 
-本章以"抱怨→神的供应→律法的试验→纪念"为叙事弧线，将旷野供应与遵守律法的主题紧密联系，为后来的律法颁布（第二十章）作铺垫。`,
+本章以"抱怨→神的供应→律法的试验→纪念"为叙事弧线，将旷野供应与遵守律法的主题紧密联系，为后来的律法颁布（第20章）作铺垫。`,
   structure_en: `Chapter 16 has a clear structure in four units:
 1. The People's Complaint (vv. 1-3): The congregation grumbles against Moses and Aaron, longing for food in Egypt.
 2. God's Promise and the Quail (vv. 4-13): God announces the provision of bread; quail arrive in the evening.
@@ -7232,7 +7232,7 @@ The chapter's narrative arc, complaint → divine provision → legal testing �
 **Testing and Sanctification**: God says, "that I may test them, whether they will walk in my law or not" (v. 4), revealing that the wilderness is not merely a geographical journey but a school of sanctification for the soul. Hardship and limited provision are tools by which God sculpts the faith of His people.
 
 **God's Sufficiency**: One omer per person per day, no more, no less, is an image of God's sufficient grace. As 2 Corinthians 12:9 declares: "My grace is sufficient for you."`,
-  christShadow_zh: `出埃及记16章是新约中最明确的预表之一。约翰福音第六章，耶稣在五饼二鱼的神迹后，明确宣告：
+  christShadow_zh: `出埃及记16章是新约中最明确的预表之一。约翰福音第6章，耶稣在五饼二鱼的神迹后，明确宣告：
 
 "我就是生命的粮。到我这里来的，必定不饿；信我的，永远不渴。"（约6:35）
 "我是从天上降下来的粮……人若吃这粮，就必永远活着。我所要赐的粮，就是我的肉，为世人之生命所赐的。"（约6:51）
@@ -7309,7 +7309,7 @@ After the battle, God told me to write this as a memorial in a book. I built an 
 God also declared eternal judgment on Amalek: "I will utterly blot out the memory of Amalek from under heaven." This is the declaration of God's justice, those who attack His people will face His judgment. God is not a spectator; He is our banner, and He is our avenger.`,
   historyContext_zh: `利非订的地理位置有争议，多数学者将其置于西奈半岛中部的瓦迪·费兰（Wadi Feiran）地区，这里有古代水源，但干旱季节常常枯竭。
 
-亚玛力人是古代近东的游牧民族，活跃于内盖夫沙漠和西奈半岛一带。他们在整个旧约历史中都是以色列的敌人（参：撒母耳记上第十五章，扫罗与亚甲的故事）。申命记25:17-18详细记载他们攻击以色列落队者的方式，被称为历史上最懦弱的攻击之一。
+亚玛力人是古代近东的游牧民族，活跃于内盖夫沙漠和西奈半岛一带。他们在整个旧约历史中都是以色列的敌人（参：撒母耳记上第15章，扫罗与亚甲的故事）。申命记25:17-18详细记载他们攻击以色列落队者的方式，被称为历史上最懦弱的攻击之一。
 
 约书亚在此处第一次登上历史舞台，他后来成为摩西的接班人，率领以色列人进入迦南。他在这里展现的勇猛和对领袖权威的服从，预示了他后来的领导角色。
 
@@ -7321,7 +7321,7 @@ The Amalekites were a nomadic people of the ancient Near East, active in the Neg
 Joshua appears here for the first time in the narrative. He later becomes Moses' successor and leads Israel into Canaan. The courage and submission to leadership authority he demonstrates here foreshadows his later role.
 
 "Jehovah Nissi" (the LORD is my Banner) is a compound divine name. The banner symbol was of immense importance in ancient Near Eastern warfare, armies in the wilderness had to always be able to see the banner to confirm direction and allegiance.`,
-  structure_zh: `第十七章由两个平行的救恩叙事构成：
+  structure_zh: `第17章由两个平行的救恩叙事构成：
 
 **单元一：磐石出水（1-7节）**
 - 以色列在利非订扎营，缺水（1节）
@@ -7460,7 +7460,7 @@ Jethro's religious identity is complex. He is called "the priest of Midian", whi
 The governance structure Jethro recommends (chiefs of thousands, hundreds, fifties, tens) parallels military and administrative organizational structures in several ancient Near Eastern cultures, suggesting Jethro integrated universal human wisdom (common grace) with faith in Israel's God.
 
 The timing of Jethro's visit is debated among scholars. The chapter appears to place it before Sinai, but Numbers 10:29-32 mentions Hobab (Jethro's son or alternate name) after Sinai, possibly a second encounter, or Jethro may have briefly remained and returned.`,
-  structure_zh: `第十八章在出埃及记叙事中处于独特的"间奏"位置，夹在旷野的争战神迹（第十七章）和西奈山的律法颁布（第19-20章）之间，提供了一个人性化的、家庭性的场景，也构建了以色列的社会秩序框架。
+  structure_zh: `第18章在出埃及记叙事中处于独特的"间奏"位置，夹在旷野的争战神迹（第17章）和西奈山的律法颁布（第19-20章）之间，提供了一个人性化的、家庭性的场景，也构建了以色列的社会秩序框架。
 
 **结构划分：**
 1. 叶忒罗带家人来访（1-12节）：叶忒罗听见神作为、带来西坡拉和儿子、摩西迎接、叶忒罗的信仰表白、献祭与团契
@@ -7555,7 +7555,7 @@ And I myself? I will be honest, I was also afraid. Even I, one who had once stoo
 "The fear of the LORD is the beginning of wisdom", standing at the foot of Sinai, I felt the full weight of those words.`,
   historyContext_zh: `西奈山（也称何烈山）的确切位置至今仍有学术争议。传统观点将其定在西奈半岛南部的杰贝尔·穆萨（Gebel Musa，"摩西之山"），高约2,285米，基督徒和穆斯林都视之为圣地。另有学者将其置于西奈半岛东北部，靠近加低斯或亚拉伯半岛的赫加兹山区（麦地那附近），这一观点近年受到一些学者重视。
 
-从叙事结构来看，西奈山事件是出埃及记乃至整个摩西五经的神学中心。从第十九章到民数记第十章的漫长叙述，都发生在西奈山下，这是律法颁布、会幕建立、祭司制度设立的中心地点。
+从叙事结构来看，西奈山事件是出埃及记乃至整个摩西五经的神学中心。从第19章到民数记第10章的漫长叙述，都发生在西奈山下，这是律法颁布、会幕建立、祭司制度设立的中心地点。
 
 "祭司的国度"（kingdom of priests，19:6）这个表达在旧约中极为独特，直接被引用于新约（启1:6，彼前2:9），成为新约教会自我认同的核心语汇之一。`,
   historyContext_en: `The exact location of Mount Sinai (also called Horeb) remains academically contested. The traditional view places it at Gebel Musa ("Mountain of Moses") in the southern Sinai Peninsula, approximately 2,285 meters high, regarded as sacred by both Christians and Muslims. Other scholars locate it in the northeastern Sinai, near Kadesh, or in the Hejaz mountains of Arabia (near Medina), a view that has gained renewed attention in recent scholarship.
@@ -7563,7 +7563,7 @@ And I myself? I will be honest, I was also afraid. Even I, one who had once stoo
 From the perspective of narrative structure, the Sinai event is the theological center of Exodus and indeed of the entire Pentateuch. The extensive narrative from chapter 19 through Numbers 10 is set at the foot of Sinai, the central location for the giving of the law, the construction of the tabernacle, and the establishment of the priestly system.
 
 The expression "kingdom of priests" (19:6) is unique in the Old Testament, directly cited in the New Testament (Rev. 1:6; 1 Pet. 2:9), becoming one of the core vocabulary terms for the church's self-understanding in the New Testament.`,
-  structure_zh: `第十九章在叙事上是一个精心设计的"准备-降临"结构：
+  structure_zh: `第19章在叙事上是一个精心设计的"准备-降临"结构：
 
 **第一段：神的邀约与百姓的应允（1-9节）**
 - 以色列来到西奈（1-2节）
@@ -7599,7 +7599,7 @@ The expression "kingdom of priests" (19:6) is unique in the Old Testament, direc
 - Dialogue with Moses, repeatedly emphasizing the boundaries (vv. 19-25)
 
 The chapter emphasizes "the third day" three times (vv. 11, 15, 16). This number in Scripture is closely associated with resurrection, divine descent, and new beginnings, providing a clue for Christological interpretation.`,
-  theology_zh: `**神的圣洁（Holiness of God）**：第十九章是旧约中对神圣洁最强烈的戏剧性展现之一。雷电、火焰、烟雾、地震、号角，所有这些都在宣告：这位神不是人手所造的偶像，不是人类幻想的投射，祂是活生生的、令人敬畏的神。改革宗神学强调，神的圣洁是祂的核心属性，其他属性（慈爱、信实、公义）都在祂圣洁的光照下被理解。
+  theology_zh: `**神的圣洁（Holiness of God）**：第19章是旧约中对神圣洁最强烈的戏剧性展现之一。雷电、火焰、烟雾、地震、号角，所有这些都在宣告：这位神不是人手所造的偶像，不是人类幻想的投射，祂是活生生的、令人敬畏的神。改革宗神学强调，神的圣洁是祂的核心属性，其他属性（慈爱、信实、公义）都在祂圣洁的光照下被理解。
 
 **立约神学（Covenant Theology）**：西奈盟约是摩西之约，是神与以色列在恩典之约框架内建立的特殊关系。改革宗立约神学将其视为恩典之约（Covenant of Grace）在历史中的一种特殊管理形式，本质上仍然指向基督。条件性语言（"若……就"，19:5）不表示以色列靠行为得救，而是描述约关系的责任结构。
 
@@ -7730,7 +7730,7 @@ The numbering of the Ten Commandments has varied across traditions:
 The Ten Commandments in Exodus 20 differ subtly from those in Deuteronomy 5 (especially the reason given for the Sabbath commandment), showing that the law undergoes theological deepening in its re-presentation on different occasions.
 
 The Ten Commandments were later written on two stone tablets (Exod. 31:18), closely corresponding to the ancient Near Eastern Suzerainty Treaty form, the covenant of a sovereign king with a vassal state, including prologue (the king's identity), historical preamble (the king's acts), stipulations, and blessings/curses.`,
-  structure_zh: `第二十章结构分明：
+  structure_zh: `第20章结构分明：
 
 **序言（2节）**：神的自我宣告与救恩历史，律法颁布的前提和基础。
 
@@ -8683,7 +8683,7 @@ Yet in all this separation, there is also approach. The Tabernacle was God's gra
 
 从考古和文化背景看，古近东的神庙建筑通常是君王彰显自身荣耀的纪念碑，而会幕恰恰相反：结构可移动，材料来自百姓的奉献，目的是神同在于子民。这与当时埃及、迦南的神庙文化形成鲜明对比。
 
-第二十六章所述的幔子工艺（青色紫色朱红色捻线，绣基路伯）与当时已知的古代近东纺织工艺高度吻合，反映了出埃及前以色列人在埃及学到的精湛手艺，神借着以色列人从埃及带出的财物（12:35-36）来建造祂的居所，历史的吊诡，也是神的主权。`,
+第26章所述的幔子工艺（青色紫色朱红色捻线，绣基路伯）与当时已知的古代近东纺织工艺高度吻合，反映了出埃及前以色列人在埃及学到的精湛手艺，神借着以色列人从埃及带出的财物（12:35-36）来建造祂的居所，历史的吊诡，也是神的主权。`,
   historyContext_en: `Exodus 25–31 forms a unified literary unit scholars call the "Tabernacle Code." Notably, God speaks to Moses seven times within this section (25:1; 30:11, 17, 22, 34; 31:1, 12), paralleling the seven days of creation in Genesis 1–2. This literary parallel suggests the Tabernacle represents a new creation, God re-establishing His Eden-presence in the midst of Israel.
 
 Archaeologically, ancient Near Eastern temples were typically royal monuments glorifying the king who built them. The Tabernacle inverts this pattern: it was portable, constructed from the freewill offerings of the people, and its purpose was entirely relational, God dwelling among His covenant people. This stands in sharp contrast to the immovable temples of Egypt and Canaan.
@@ -9642,7 +9642,7 @@ That back was already more of God's glory than any human being in this life can 
 
 "会幕"（Tent of Meeting，ohel mo'ed）在此处指摩西在正式会幕建成前临时使用的帐篷，位于营外。这与后来利未记所描述的会幕不同；早期学者认为这一帐篷是预指正式会幕的前身。
 
-"面对面"（panim el-panim）这一表达在希伯来文中是一个成语，表示直接、亲密的交流，而非字面意义上的"看见神的面"，因为同章经文中神明确说"人不能见我的面存活"（第二十节）。两种表述的并列揭示了神启示的渐进性：摩西与神的关系是旧约中最亲密的先知关系（申三十四：10），但仍有其局限。
+"面对面"（panim el-panim）这一表达在希伯来文中是一个成语，表示直接、亲密的交流，而非字面意义上的"看见神的面"，因为同章经文中神明确说"人不能见我的面存活"（第20节）。两种表述的并列揭示了神启示的渐进性：摩西与神的关系是旧约中最亲密的先知关系（申三十四：10），但仍有其局限。
 
 "神的荣耀"（kabod YHWH，神的重量/辉煌）这一神学概念贯穿出埃及记，在此达到个人化的巅峰：摩西不只是集体地看见神的荣耀（如西奈山上的云火），他个人渴望亲见神自己。神将他安置在磐石穴中，用手遮掩，这个意象在基督教神学中被广泛用来指向基督作为"磐石"遮护信徒（林前十：4）。`,
   historyContext_en: `Exodus 33 stands between the golden calf incident (chapter 32) and the giving of the new tablets (chapter 34), functioning as a chapter of deep theological reflection and prayer.
@@ -9692,7 +9692,7 @@ The structure of the chapter embodies a theological progression: from "will God 
 
 **神的荣耀宣告（出三十四：6-7的铺垫）**
 
-第十八节摩西"求你显出你的荣耀"，在第三十四章得到了神的完整回应，神用言语宣告自己的属性（慈爱、恩惠、怜悯、真实、宽恕……审判）。这表明：神的荣耀不首先是一种视觉现象，而是一种道德/属性的彰显。神就是祂所是的那一位，祂的荣耀是祂全备性格的光照。`,
+第18节摩西"求你显出你的荣耀"，在第三十四章得到了神的完整回应，神用言语宣告自己的属性（慈爱、恩惠、怜悯、真实、宽恕……审判）。这表明：神的荣耀不首先是一种视觉现象，而是一种道德/属性的彰显。神就是祂所是的那一位，祂的荣耀是祂全备性格的光照。`,
   theology_en: `**Divine Presence**
 
 Moses' insistence, "If your presence will not go with me, do not bring us up from here", is one of the most classic expressions of the "God-human relationship" in Reformed theology. It demonstrates that for those who truly know God, His presence is more precious than any worldly benefit. The Westminster Shorter Catechism Question 1 answers: "Man's chief end is to glorify God, and to enjoy him forever." Moses' longing is the deepest personal embodiment of this answer in the Old Testament.
