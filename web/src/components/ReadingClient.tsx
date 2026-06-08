@@ -75,14 +75,20 @@ function renderMd(md: string) {
     if (trimmed.startsWith('> ')) {
       return <blockquote key={i} className="border-l-4 border-[var(--color-accent)] bg-[var(--color-bg-secondary)] pl-4 pr-3 py-2 my-3 text-[15px] text-[var(--color-text)] italic font-bold leading-[1.8] rounded-r-lg" dangerouslySetInnerHTML={{ __html: html.replace(/^>\s+/, '') }} />;
     }
+    // Section heading for outlines: Chinese 一、二、 / 甲、 or Roman numeral I. II. III.
+    // (used in 经文结构 / Structure). Gives larger top margin to separate groups,
+    // small bottom margin to hug its sub-items.
+    if (/^[一二三四五六七八九十]+、/.test(trimmed) || /^[IVX]+\.\s/.test(trimmed)) {
+      return <p key={i} className="font-bold text-[var(--color-text)] mt-5 mb-2 first:mt-0" dangerouslySetInnerHTML={{ __html: html.replace(/^\s+/, '') }} />;
+    }
     // Ordered list
     const olMatch = trimmed.match(/^(\d+)\.\s+(.*)$/);
     if (olMatch) {
-      return <li key={i} className="text-[15px] text-[var(--color-text)] leading-[1.8] ml-4 list-decimal mb-1" dangerouslySetInnerHTML={{ __html: html.replace(/^\d+\.\s+/, '') }} />;
+      return <li key={i} className="text-[15px] text-[var(--color-text)] leading-[1.8] ml-4 list-decimal mb-1" dangerouslySetInnerHTML={{ __html: html.replace(/^\s*\d+\.\s+/, '') }} />;
     }
     // Unordered list
     if (trimmed.startsWith('- ')) {
-      return <li key={i} className="text-[15px] text-[var(--color-text)] leading-[1.8] ml-4 list-disc" dangerouslySetInnerHTML={{ __html: html.replace(/^-\s+/, '') }} />;
+      return <li key={i} className="text-[15px] text-[var(--color-text)] leading-[1.8] ml-5 list-disc mb-1" dangerouslySetInnerHTML={{ __html: html.replace(/^\s*-\s+/, '') }} />;
     }
     // Horizontal rule
     if (trimmed === '---' || trimmed === '***') {
