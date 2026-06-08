@@ -5329,7 +5329,7 @@ The Reformed tradition teaches the OT points to Christ. Westminster Confession c
   title: '以色列人在埃及受苦', titleEn: 'Israel Suffers in Egypt',
   author: '摩西', authorEn: 'Moses',
   scripture: '出埃及记 1 / Exodus 1',
-  content_zh: `我摩西，在年迈的时候，常常回想我们民族那段黑暗的岁月。那是一段血与泪的历史，是铁炉中的磨炼，是神在暗夜中工作的奥秘。
+  content_zh: `我是摩西，在我年迈的时候，常常回想我们民族那段黑暗的岁月。那是一段血与泪的历史，是铁炉中的磨炼，是神在暗夜中工作的奥秘。
 
 我们的祖先雅各带着七十人下到埃及（出埃及记1:5），那是一段因约瑟蒙恩而得的庇护岁月。然而历史翻转，"一个不认识约瑟的新王起来，治理埃及"（出埃及记1:8）。这短短一句话，标志着以色列历史上四百年苦难的开始。约瑟的恩情被遗忘了，我们民族昔日对埃及的贡献被抹去了。当一个政权改变叙事，受苦的永远是软弱的族群。
 
@@ -5339,13 +5339,13 @@ The Reformed tradition teaches the OT points to Christ. Westminster Confession c
 
 第二步，法老秘密召见两位希伯来收生婆，示弗拉和普阿，命令她们杀死所有出生的男婴（出埃及记1:15-16）。这两位默默无名的女子，在信仰的历史上留下了永恒的脚印。她们是如何回应的？经文说："收生婆却敬畏神，不照埃及王的吩咐行，竟存留男孩的性命"（出埃及记1:17）。
 
-"敬畏神"，就这四个字，解释了一切。在人类所有的道德抉择中，最根本的问题是：你最怕谁？示弗拉和普阿面对法老的命令，没有说"我们不同意这道命令"，没有组织什么抵抗运动，而是简单地、静静地行了不同的事，因为她们更敬畏神。她们是圣经中最早记录的公民抗命的典范，她们的名字流传至今，而那位逼迫她们的法老的名字，历史却几乎已经遗忘。
+"敬畏神"，就这三个字，解释了一切。在人类所有的道德抉择中，最根本的问题是：你最怕谁？示弗拉和普阿面对法老的命令，没有说"我们不同意这道命令"，没有组织什么抵抗运动，而是简单地、静静地行了不同的事，因为她们更敬畏神。她们是圣经中最早记录的公民抗命的典范，她们的名字流传至今，而那位逼迫她们的法老的名字，历史却几乎已经遗忘。
 
 法老质问她们为何留存男孩性命，她们回答希伯来妇人比埃及妇女更强壮，在产婆来到之前就已生产（出埃及记1:19）。神因她们的信心而祝福她们，"赐她们生育"（出埃及记1:21）。
 
 第三步，法老恼羞成怒，将命令公开化：吩咐全体百姓，将希伯来人生的所有男孩都丢在尼罗河里（出埃及记1:22）。尼罗河，那个埃及生命的象征，神圣的母亲河，如今成了屠杀婴儿的墓场。
 
-我常常思想这段历史，神在其中的作为令我沉默。为什么神允许这一切发生？为什么祂不提早拯救？改革宗神学的先贤们教导我，神的时间不同于人的时间，祂的道路高过我们的道路（以赛亚书55:9）。那四百年的苦难，正是神实现救赎目的的必要路径：它使以色列人成为一个民族，使他们的哀声积聚成为向天的呼喊，使神的救赎从一次家族的迁移，升华为一场宇宙级的拯救大作为。
+我常常思想这段历史，神在其中的作为令我沉默。为什么神允许这一切发生？为什么祂不提早拯救？如同改革宗神学的先贤们后来所说：神的时间不同于人的时间，祂的道路高过我们的道路（以赛亚书55:9）。那四百年的苦难，正是神实现救赎目的的必要路径：它使以色列人成为一个民族，使他们的哀声积聚成为向天的呼喊，使神的救赎从一次家族的迁移，升华为一场宇宙级的拯救大作为。
 
 苦难不是神忘记我们的证据，而是祂正在做更大事情的序曲。那正在尼罗河边哭泣的婴孩，正在砖窑边喘息的奴隶，神都看见了。神在黑暗中守望，在沉默中工作，在苦难中预备，直到时候满足。
 
@@ -5354,7 +5354,7 @@ The Reformed tradition teaches the OT points to Christ. Westminster Confession c
 在埃及的铁炉中，神不仅保存了以色列人的生命，更在锤炼一个民族的灵魂。苦难使他们知道自己是谁，他们是亚伯拉罕的后裔，是被神拣选的人；苦难也使他们明白自己需要什么，他们需要一位救赎主，一位比任何人间的领袖都更强大的神。
 
 示弗拉和普阿的故事告诉我们：神的国度进展，往往不是靠权势和力量，而是靠那些在无名角落中敬畏神、安静行善的人。神记念她们，就如祂记念一切在黑暗中忠心的人。`,
-  content_en: `In my old age, I often recall that dark era of our people. It was a history written in blood and tears, a refining in the iron furnace, the mystery of God working in the night.
+  content_en: `I am Moses, and in my old age, I often recall that dark era of our people. It was a history written in blood and tears, a refining in the iron furnace, the mystery of God working in the night.
 
 Our ancestor Jacob brought seventy people down to Egypt (Exodus 1:5), a season of shelter enjoyed through Joseph's favor. Yet history turned: "Now there arose up a new king over Egypt, which knew not Joseph." (Exodus 1:8). This single brief sentence marks the beginning of four hundred years of suffering in Israel's history. Joseph's kindness was forgotten; our people's past contributions to Egypt were erased. When a regime changes its narrative, the weak are always the ones who suffer.
 
@@ -5370,7 +5370,7 @@ When Pharaoh questioned them about why they let the boys live, they answered tha
 
 Third, Pharaoh, enraged and humiliated, made his command public: he ordered all his people to throw every Hebrew boy born into the Nile (Exodus 1:22). The Nile, that symbol of Egyptian life, the sacred mother river, now became a graveyard for murdered infants.
 
-I often meditate on this history, and God's ways in it leave me speechless. Why did God allow all this? Why did He not rescue them sooner? The great teachers of Reformed theology have taught me that God's timing is not our timing, and His ways are higher than our ways (Isaiah 55:9). Those four hundred years of suffering were the necessary path for God to accomplish His redemptive purpose: it forged Israel into a nation, allowed their cry to accumulate into a shout reaching heaven, and elevated God's salvation from a family migration into a cosmic act of rescue.
+I often meditate on this history, and God's ways in it leave me speechless. Why did God allow all this? Why did He not rescue them sooner? Just as the great teachers of Reformed theology would later put it: God's timing is not our timing, and His ways are higher than our ways (Isaiah 55:9). Those four hundred years of suffering were the necessary path for God to accomplish His redemptive purpose: it forged Israel into a nation, allowed their cry to accumulate into a shout reaching heaven, and elevated God's salvation from a family migration into a cosmic act of rescue.
 
 Suffering is not evidence that God has forgotten us; it is the overture to something greater He is doing. The infant crying at the Nile's edge, the slave gasping at the brick kiln, God saw them all. God watches in the darkness, works in the silence, prepares in the suffering, until the time is full.
 
@@ -18878,56 +18878,140 @@ Contrast between the two events: the wedding is a private occasion, the temple a
   title: '你必须重生', titleEn: 'You Must Be Born Again',
   author: '约翰', authorEn: 'John',
   scripture: '约翰福音 3 / John 3',
-  content_zh: `有一个法利赛人,名叫尼哥底母,是犹太人的官。这人夜里来见耶稣,说:"拉比,我们知道你是由神那里来作师傅的;因为你所行的神迹,若没有神同在,无人能行。"主耶稣回答说:"我实实在在地告诉你:人若不重生,就不能见神的国。"
+  content_zh: `弟兄姐妹，我是约翰，主所爱的门徒。本章是整本福音的心脏。我把第二章的"水变酒"放在一个公开的婚宴上，把第三章的"重生"放在一个隐秘的夜里对话里：一个公开的记号显明祂是新郎，一个隐藏的对话显明祂是赐生命的圣子。婚宴和重生，两件事一前一后，把"恩典临到罪人"这一福音心脏从两端立起来。
 
-我作为约翰,主所爱的门徒,必须告诉你们,这段对话是何等重要。尼哥底母不是普通人，他是法利赛人,是犹太公会的成员,是以色列人的先生。他来"夜里"见主,可能是怕被同僚看见,也可能是想要有安静不被打扰的深谈。他称主为"拉比",承认主的神迹证明神与祂同在,这对一个法利赛人来说已是很大的让步。
+**夜里来的法利赛人（1至2节）**
 
-但主的回答直指核心:"人若不重生,就不能见神的国。"这话让尼哥底母困惑:"人已经老了,如何能重生呢?岂能再进母腹生出来吗?"主继续说:"我实实在在地告诉你:人若不是从水和圣灵生的,就不能进神的国。从肉身生的,就是肉身;从灵生的,就是灵。我说'你们必须重生',你不要以为希奇。风随着意思吹,你听见风的响声,却不晓得从哪里来,往哪里去;凡从圣灵生的,也是如此。"
+"有一个法利赛人，名叫尼哥底母，是犹太人的官。这人夜里来见耶稣"（3:1至2）。请注意"夜里"（νυκτός）这个字。在我笔下，"夜"从来不是中性的时间标记。后来犹大领了那块饼"立刻就出去；那时候是夜间了"（本卷 13:30）；约瑟和尼哥底母最后一起在"黑夜"埋葬主（本卷 19:38至42）。从夜里来求道，到夜里安葬主，尼哥底母这一生就在我"光与暗"的主线上走完。我把他三次摆出来（本章、本卷 7:50至51、19:39），是要告诉你：恩典对一个夜里来的人也够用。
 
-尼哥底母问:"怎能有这事呢?"主回答说:"你是以色列人的先生,还不明白这事吗?"这不是责备,而是提醒，旧约早已预言了这新约的应许。以西结书36:25-27说:"我必用清水洒在你们身上⋯⋯我也要赐给你们一个新心,将新灵放在你们里面。"重生不是人的努力,而是圣灵主权的工作。
+他开口说："拉比，我们知道你是由神那里来作师傅的。"两件事值得停一停。第一，他用了"我们"（οἴδαμεν，复数），暗示他不是孤身一人，公会里有一小群法利赛人对主有同样的判断（参本卷 12:42 "官长中也有好些信祂的"）。第二，他建立信心的根据是"神迹"（σημεῖα）。这是错的根据。我在第二章末已经埋下警告："耶稣却不将自己交托他们……因祂知道人心里所存的"（2:24至25）。神迹只能让人承认祂是"师傅"，神迹不能让人见神的国。尼哥底母代表着"神迹信"的最高样本：敬虔、有学问、地位崇高、对主友好。但这一切都不够。
 
-主继续说:"我们所说的,是我们知道的;我们所见证的,是我们见过的;你们却不领受我们的见证。我对你们说地上的事,你们尚且不信;若说天上的事,如何能信呢?除了从天降下仍旧在天的人子,没有人升过天。摩西在旷野怎样举蛇,人子也必照样被举起来,叫一切信祂的都得永生。"
+**γεννηθῇ ἄνωθεν，从上头生的（3至8节）**
 
-这里主预言了祂自己的十字架。民数记21章记载,以色列人在旷野因发怨言被火蛇所咬,摩西举起铜蛇,凡仰望的就得医治。铜蛇做成蛇的形状,却没有蛇的毒性,正如基督"成为罪身的形状"(罗8:3),却没有罪。仰望铜蛇的人得肉体的医治,仰望十字架上基督的人得灵魂的拯救。
+主不接他的开场白，直接掷出本章的钥匙："我实实在在地告诉你：人若不重生，就不能见神的国。"
 
-然后是那句最著名的经文,我永远不会忘记主说这话时的语气:"神爱世人,甚至将祂的独生子赐给他们,叫一切信祂的,不至灭亡,反得永生。因为神差祂的儿子降世,不是要定世人的罪,乃是要叫世人因祂得救。信祂的人,不被定罪;不信的人,罪已经定了,因为他不信神独生子的名。"
+这里要慢下来。希腊文是 γεννηθῇ ἄνωθεν，ἄνωθεν 这个字有两层意思：一层是**时间上**的"再一次"（again），一层是**空间上**的"从上头"（from above）。我刻意用了这个双关。本卷 3:31 我又用了一次："从天上来的（ὁ ἄνωθεν ἐρχόμενος）是在万有之上。"两次的 ἄνωθεν 是同一个字，遥相呼应：基督是"从上头来的"，所以人也必须"从上头被生"。
 
-这是福音的核心!神的爱不是抽象的情感,而是具体的行动，"将祂的独生子赐给他们"。"独生子"(μονογενής)强调基督的独特性和宝贵性,祂是父神唯一的、独一无二的儿子。父神舍弃祂,为要救赎我们这些罪人,这是何等的爱!
+尼哥底母只听到了"再一次"这一层，所以他问："人已经老了，如何能重生呢？岂能再进母腹生出来吗？"（3:4）。他不是愚钝，他是属灵的诚实。一个老法利赛人面对"再生一次"四个字，唯一能想到的是肉身的不可能。他没有错；他只是站在错的层面上看。
 
-主继续解释审判的原理:"光来到世间,世人因自己的行为是恶的,不爱光倒爱黑暗,定他们的罪就是在此。凡作恶的便恨光,并不来就光,恐怕他的行为受责备;但行真理的必来就光,要显明他所行的是靠神而行。"
+主于是把第二层意思摆出来："人若不是从水和圣灵生的，就不能进神的国。从肉身生的就是肉身，从灵生的就是灵。"（3:5至6）这里有一个微妙的从"见"到"进"的递进：3:3 "不能见"（οὐ δύναται ἰδεῖν）是认知层面的盲，3:5 "不能进"（οὐ δύναται εἰσελθεῖν）是参与层面的隔。重生既开你的眼，又开你的门。
 
-这事以后,主和我们到了犹太地,在那里居住施洗。那时约翰还没有下在监里,他也在靠近撒冷的哀嫩施洗,因为那里水多,众人都去受洗。约翰的门徒和一个犹太人辩论洁净的礼,就来见约翰说:"拉比,从前同你在约旦河外,你所见证的那位,现在施洗,众人都往祂那里去了。"
+"从水和圣灵生"是历世解经家争论的一句。我作为作者把这句的钥匙留在尼哥底母身上：主立刻反问他"你是以色列人的先生，还不明白这事吗？"（3:10）。这反问指向旧约一段尼哥底母不该不熟的经文，以西结书 36:25至27："我必用清水洒在你们身上，你们就洁净了……我也要赐给你们一个新心，将新灵放在你们里面。"这里水与灵并列：水是洁净，灵是更新。改革宗把"水"理解为神洁净的话语（参弗 5:26 "用水借着道把教会洗净"），不是说洗礼本身有重生的功效，而是说圣灵借着神的道在心里成就洁净与更新这双重工作。
 
-施洗约翰回答说:"若不是从天上赐的,人就不能得什么。我曾说'我不是基督,是奉差遣在祂前面的',你们自己可以给我作见证。娶新妇的就是新郎,新郎的朋友站着听见新郎的声音就甚喜乐;故此我这喜乐满足了。祂必兴旺,我必衰微。"
+然后是那个最美的比喻："风随着意思吹，你听见风的响声，却不晓得从哪里来，往哪里去；凡从圣灵生的，也是如此"（3:8）。希腊文 πνεῦμα 同时是"风"和"灵"两个意思，主借这一双关把圣灵的主权一次性铺出来：你不能预测、不能控制、不能催促、不能阻挡圣灵的工作；但你能听见祂的果效（响声）。这一节是改革宗"有效呼召"（effectual calling，参 WSC 31）和"不可抗拒的恩典"（irresistible grace）最深的圣经根。重生不是道德劝告，是从死里复活的工作；不是人重生神，是神重生人。
 
-这是何等美好的见证!约翰不嫉妒、不争竞,他清楚自己的身份和使命。他是新郎的朋友(好像伴郎),不是新郎。听见新郎的声音、看见新妇归向新郎,这就是他最大的喜乐。"祂必兴旺,我必衰微"，这应该是每一个传道人、每一个基督徒的心志。
+**ὑψόω，举起来（9至15节）**
 
-约翰继续说:"从天上来的是在万有之上⋯⋯父爱子,已将万有交在祂手里。信子的人有永生;不信子的人得不着永生,神的震怒常在他身上。"这最后的见证总结了整章的主题:基督从天而来,父神将万有交在祂手里,信祂的人有永生,不信的人面对神的震怒。`,
-  content_en: `There was a man of the Pharisees named Nicodemus, a ruler of the Jews. This man came to Jesus by night and said to Him, "Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do unless God is with him." Jesus answered him, "Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God."
+尼哥底母从"如何能重生"（οὐ δύναται）走到"怎能有这事呢"（πῶς），是个微小的进步。他从"不能"走到"如何"，从断然否定走到困惑请教。这一小步，是圣灵已经在他里头开始动工的迹象。
 
-I, John, the disciple whom Jesus loved, must tell you how important this conversation is. Nicodemus was no ordinary man, he was a Pharisee, a member of the Jewish Sanhedrin, a teacher of Israel. He came to the Lord "by night," perhaps fearing to be seen by his colleagues, or perhaps seeking quiet, uninterrupted conversation. He called the Lord "Rabbi" and acknowledged that His miracles proved God was with Him, for a Pharisee, this was already a significant concession.
+主的回答把对话从"地上的事"（重生）推到"天上的事"（基督的来源与归宿）："除了从天降下仍旧在天的人子，没有人升过天"（3:13）。"仍旧在天"（ὁ ὢν ἐν τῷ οὐρανῷ）是个惊人的现在分词：人子降下了，但同时仍旧在天上。这是基督神人二性最早的宣告之一：作人，祂是夜里坐在井边那位疲乏的拉比；作神，祂同时充满诸天。
 
-But the Lord's response went straight to the heart: "Unless one is born again he cannot see the kingdom of God." This puzzled Nicodemus: "How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?" The Lord continued: "Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. That which is born of the flesh is flesh, and that which is born of the Spirit is spirit. Do not marvel that I said to you, 'You must be born again.' The wind blows where it wishes, and you hear its sound, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit."
+接着是本章的第一个"举起来"："摩西在旷野怎样举蛇，人子也必照样被举起来；叫一切信祂的都得永生"（3:14至15）。希腊文 ὑψόω（被举起）在我笔下出现三次：本章 3:14、本卷 8:28、本卷 12:32至34。每一次都是双关，"举起到十架"（受难）和"举到高位"（得荣耀）压缩在同一个动词里。十字架的羞辱和复活升天的荣耀，在 ὑψόω 这一个字上合二为一。腓立比书 2:9 用了一个超级版本的同字根（ὑπερύψωσεν，"超级 ὑψόω"），是这条链的终点。
 
-Nicodemus asked, "How can these things be?" The Lord answered, "Are you the teacher of Israel and yet you do not understand these things?" This was not a rebuke but a reminder, the Old Testament had already prophesied this New Covenant promise. Ezekiel 36:25-27 says, "I will sprinkle clean water on you... And I will give you a new heart, and a new spirit I will put within you." Regeneration is not human effort but the sovereign work of the Holy Spirit.
+民数记 21:4至9 的铜蛇预表是主自己挑选的画面，也是宗教改革"唯独信心"（sola fide）最古老的圣经定义。被毒蛇咬的以色列人没有任何医治的能力，他们只能仰望那条神所立的铜蛇就活了。仰望不是工作（要做什么），仰望是"看哪里"（look where）。罗马书 4:5 "因信称义"在这里以叙事画面预演。铜蛇的奥秘还有一层：它是"用蛇形打败蛇"，正如基督"成为罪身的形状"（罗 8:3）却没有罪，借着祂"罪身的形状"打败那"古蛇就是魔鬼"（启 12:9）。这一层把创 3:15 的预言（"女人的后裔要伤你的头"）和启 12 的应验（"古蛇被摔下"）在十字架这中点合上。
 
-The Lord continued: "We speak of what we know, and bear witness to what we have seen, but you do not receive our testimony. If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things? No one has ascended into heaven except He who descended from heaven, the Son of Man. And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in Him may have eternal life."
+**ἔδωκεν，赐下了（16至21节）**
 
-Here the Lord prophesied His own cross. Numbers 21 records that when the Israelites in the wilderness complained and were bitten by fiery serpents, Moses lifted up a bronze serpent, and all who looked at it were healed. The bronze serpent was made in the form of a serpent but had no venom, just as Christ was made "For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:" (Rom 8:3) yet without sin. Those who looked at the bronze serpent received physical healing; those who look to Christ on the cross receive salvation of the soul.
+接着是全圣经被引用最多的一节："神爱世人，甚至将祂的独生子赐给他们，叫一切信祂的，不至灭亡，反得永生"（3:16）。这一节的每一个字都需要慢下来。
 
-Then came that most famous verse; I will never forget the tone in the Lord's voice when He said it: "For God so loved the world, that He gave His only Son, that whoever believes in Him should not perish but have eternal life. For God did not send His Son into the world to condemn the world, but in order that the world might be saved through Him. Whoever believes in Him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God."
+"爱"（ἠγάπησεν）是过去式，指向那一次决定性的爱，不是抽象的"普遍善意"。"世人"（τὸν κόσμον），这里 κόσμος 不是物质宇宙，是被罪辖制的人类。神爱的不是"可爱的人"，是"罪人"（罗 5:8 "唯有基督在我们还作罪人的时候为我们死，神的爱就在此向我们显明了"）。"甚至"（οὕτως）按希腊文严格译应是"如此地"或"以这种方式"，强调的是爱的**方式**，不是爱的**程度**。神不只是"爱了很多"，神"以这种方式爱"，方式就是"将祂的独生子赐给他们"。
 
-This is the core of the gospel! God's love is not an abstract emotion but concrete action, "He gave His only Son." "Only Son" (μονογενής) emphasizes Christ's uniqueness and preciousness; He is the Father's only, one-and-only Son. The Father gave Him up to redeem us sinners, what love this is!
+"独生子"（μονογενής）这个字在新约只出现 9 次，5 次都在我的著作里（本卷 1:14、1:18、3:16、3:18、约一 4:9）。这个字直接呼应创 22 章亚伯拉罕献以撒。神对亚伯拉罕说："你带着你的儿子，就是你独生的儿子，你所爱的以撒"（创 22:2，七十士译本同字 μονογενής）。亚伯拉罕的手在最后一刻被拦住，因为神预备了代替的公羊；但两千年后，天父真的把祂的独生子、祂所爱的赐下了，没有最后一刻的拦阻。摩利亚山的影子在各各他山落实。
 
-The Lord continued explaining the principle of judgment: "Light has come into the world, and people loved the darkness rather than the light because their works were evil. For everyone who does wicked things hates the light and does not come to the light, lest his works should be exposed. But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God."
+"赐"（ἔδωκεν）是 aorist 时态，表示一次性、决定性的交出。父神不是"将要赐"，也不是"渐渐赐"，是已经"决定性地赐下"。十字架的赐下是历史中的一个决定性事件，是父神主动的、白白的、单方面的动作，不是世人争取来的。
 
-After this, the Lord and we went into the Judean countryside, and there He remained and baptized. John also was baptizing at Aenon near Salim, because water was plentiful there, and people were coming and being baptized (for John had not yet been put in prison). Now a discussion arose between some of John's disciples and a Jew over purification. And they came to John and said to him, "Rabbi, He who was with you across the Jordan, to whom you bore witness, look, He is baptizing, and all are going to Him."
+3:17至18 接着把"信"和"不信"的两条路摆清楚："信祂的人，不被定罪；不信的人，罪已经定了"（ἤδη κέκριται，已经被定罪了，完成时）。注意这里的时态：不信的人不是末日才被定罪，他**现在已经**在定罪之下，因为他活在不信里。这与 3:36 "神的震怒常在他身上"（μένει，现在式表示持续状态）配合：神的震怒是现在的、真实的，不是末日才来的威胁。
 
-John the Baptist answered, "A person cannot receive even one thing unless it is given him from heaven. You yourselves bear me witness that I said, 'I am not the Christ, but I have been sent before Him.' The one who has the bride is the bridegroom. The friend of the bridegroom, who stands and hears him, rejoices greatly at the bridegroom's voice. Therefore this joy of mine is now complete. He must increase, but I must decrease."
+3:19至21 把审判的原理放在"光"和"暗"的对比上："光来到世间，世人因自己的行为是恶的，不爱光倒爱黑暗。"人不是被动的受害者，人是主动的爱者，**人爱黑暗**。重生改变人的"爱"：从爱黑暗变成爱光。这正是改革宗"全然败坏"（人爱错了对象）和"不可抗拒的恩典"（圣灵把人的爱重新定向）的根据。
 
-What a beautiful testimony! John was not jealous or competitive; he knew clearly his identity and mission. He was the friend of the bridegroom (like a best man), not the bridegroom himself. To hear the bridegroom's voice and see the bride come to the bridegroom, this was his greatest joy. "He must increase, but I must decrease", this should be the aspiration of every preacher, every Christian.
+**新郎与新郎的朋友（22至30节）**
 
-John continued: "He who comes from heaven is above all... The Father loves the Son and has given all things into His hand. Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him." This final testimony summarizes the theme of the entire chapter: Christ came from heaven, the Father has given all things into His hand, those who believe in Him have eternal life, those who do not believe face the wrath of God.`,
+第三章后半截换了场景：从耶路撒冷到犹太地的乡村，从主与法利赛人的对谈，到施洗约翰与他门徒的对谈。这一过渡不是叙事的松动，是神学的递进。前半截基督亲口讲"重生"，后半截施洗约翰用自己的事工活出"衰微"。前者是教义，后者是见证。
+
+约翰的门徒找到他，带着隐隐的不安："拉比，从前同你在约旦河外，你所见证的那位，现在施洗，众人都往祂那里去了"（3:26）。"众人都往祂那里去了"（πάντες ἔρχονται πρὸς αὐτόν），这句话里藏着门徒的嫉妒：从前我们老师是焦点，现在那个人成了焦点。
+
+约翰的回答是新约最干净的一段事工神学："若不是从天上赐的，人就不能得什么"（3:27）。然后他用"新郎/新郎的朋友"的婚礼比喻：娶新妇的就是新郎；新郎的朋友站着听见新郎的声音就甚喜乐。这话呼应创 24 章亚伯拉罕的仆人为以撒寻新妇的故事。那位无名的仆人全然为以撒的婚事而行，把利百加带到以撒面前就退场，不抢新郎的荣耀。施洗约翰把自己定位在那位无名仆人这条预表线上：他不是基督，他是为基督预备道路的声音；他不是新郎，他是听新郎声音就喜乐的朋友。
+
+然后是那一句金句："祂必兴旺，我必衰微"（αὐτὸν δεῖ αὐξάνειν, ἐμὲ δὲ ἐλαττοῦσθαι，3:30）。希腊文 δεῖ（必须）是神圣的"应当"，αὐξάνειν（兴旺）和 ἐλαττοῦσθαι（衰微）是两个对偶的动词。这一句应当是每一个传道人、每一个事奉者刻在讲台上的金科玉律。讲台上的人若没有这一句，就不是站在施洗约翰这条预表线上。
+
+**最后的总结（31至36节）**
+
+最后六节是约翰对全章的神学收束（也有解经家认为是我自己的编者总结，两种读法都可成立，神学方向一致）。这段把基督从天而来、领受圣灵无限量、父爱子并将万有交在祂手里、信子的得永生、不信的留在神震怒之下，五件事一气压缩。
+
+特别留意 3:36 末句："神的震怒常在他身上"（ὀργὴ τοῦ θεοῦ μένει ἐπʼ αὐτόν）。希腊文 μένει 是现在时态，意思是震怒**正在**常驻、**持续地**驻留。不是"将来要降下"，是"现在已经在"。这就是改革宗"刑罚性替代"（penal substitution）的圣经根：神的震怒是真实的、现在的状态，基督在十字架上代替我们承受这震怒（罗 3:25 "神设立耶稣作挽回祭"），世人只有两条路：要么藉着信子领受爱，要么留在震怒下。没有第三条路。
+
+亲爱的读者，本章是福音的浓缩。父神的爱（3:16）、子神的被举起（3:14至15）、圣灵的主权重生（3:5至8），三位一体在一个夜里的对话中齐齐出现。一个夜里来求道的法利赛人，他得到的是从创世记到启示录的全圣经主线，倾倒在他一个人身上。
+
+你今夜读到这里，主问的是同一个问题：你重生了吗？你仰望那被举起的人子吗？你认祂是新郎，自己甘心退到朋友的位置吗？你爱光还是爱黑暗？
+
+主仍在井边坐着，主仍在夜里等着。`,
+  content_en: `Brothers and sisters, I am John, the disciple whom Jesus loved. This chapter is the heart of the whole Gospel. I placed the "water turned to wine" of chapter two at a public wedding feast, and the "new birth" of chapter three inside a hidden nighttime conversation: a public sign declares Him the Bridegroom, a hidden conversation declares Him the life-giving Son. Wedding and rebirth, set side by side, frame the gospel's heart, that grace comes to sinners, from both ends.
+
+**The Pharisee Who Came by Night (vv. 1 to 2)**
+
+"There was a man of the Pharisees named Nicodemus, a ruler of the Jews. This man came to Jesus by night" (3:1 to 2). Mark the word "by night" (νυκτός). In my account, "night" is never a neutral marker of time. Later, Judas takes the morsel and "immediately went out, and it was night" (this account 13:30); Joseph and Nicodemus together bury the Lord in darkness (this account 19:38 to 42). From a night visit seeking truth, to a night burial of the crucified Christ, Nicodemus's whole life walks along my "light and darkness" axis. I bring him onstage three times (this chapter, 7:50 to 51, 19:39) to tell you one thing: grace is sufficient even for one who comes by night.
+
+He opens with: "Rabbi, we know that you are a teacher come from God." Two things deserve a pause. First, he says "we" (οἴδαμεν, plural), suggesting he is not alone; a small circle of Pharisees in the Sanhedrin shares his judgment (compare this account 12:42, "many even of the rulers believed in Him"). Second, he grounds his confidence on "signs" (σημεῖα). This is the wrong ground. I planted a warning at the end of chapter two: "Jesus did not entrust Himself to them… because He knew what was in man" (2:24 to 25). Signs can lead a man to call Jesus "teacher"; signs cannot let a man see the kingdom of God. Nicodemus is the highest sample of "signs faith": devout, learned, high in office, friendly to the Lord. And yet none of it is enough.
+
+**γεννηθῇ ἄνωθεν, Born from Above (vv. 3 to 8)**
+
+The Lord does not pick up his opening line. He throws down the key to the chapter: "Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God."
+
+Slow down here. The Greek is γεννηθῇ ἄνωθεν, and ἄνωθεν carries two senses: a **temporal** sense, "again," and a **spatial** sense, "from above." I chose the word for both. I use it again at this account 3:31, "He who comes from above (ὁ ἄνωθεν ἐρχόμενος) is above all." Both ἄνωθεν are the same word, echoing each other across the chapter: Christ is the One "from above," and so a man must also be "born from above."
+
+Nicodemus hears only the "again" half, and so he asks: "How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?" (3:4). This is not stupidity, it is spiritual honesty. An old Pharisee facing the words "born again" can only think of physical impossibility. He is not wrong; he is on the wrong plane.
+
+The Lord then unfolds the second sense: "Unless one is born of water and the Spirit, he cannot enter the kingdom of God. That which is born of the flesh is flesh, and that which is born of the Spirit is spirit" (3:5 to 6). Note a subtle progression from "see" to "enter": 3:3 "cannot see" (οὐ δύναται ἰδεῖν) is blindness on the cognitive plane; 3:5 "cannot enter" (οὐ δύναται εἰσελθεῖν) is exclusion on the participatory plane. New birth opens both your eyes and your door.
+
+"Born of water and the Spirit" is a clause exegetes have long debated. As the writer, I left the key to the clause in Nicodemus himself: the Lord immediately rebukes him, "Are you the teacher of Israel and yet you do not understand these things?" (3:10). That rebuke points to a passage no teacher of Israel should have failed to recognize, Ezekiel 36:25 to 27, "I will sprinkle clean water on you, and you shall be clean… I will give you a new heart, and a new spirit I will put within you." Water and Spirit stand side by side: water is cleansing, Spirit is renewal. The Reformed tradition reads "water" as the cleansing word of God (compare Eph 5:26, "having cleansed her by the washing of water with the word"), not that baptism itself has regenerating power, but that the Spirit, through the Word, accomplishes both cleansing and renewal in the heart.
+
+Then comes the loveliest of the analogies: "The wind blows where it wishes, and you hear its sound, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit" (3:8). Greek πνεῦμα is both "wind" and "Spirit," and the Lord uses this single double meaning to spread out the sovereignty of the Spirit at one stroke: you cannot predict, control, hasten, or hinder the Spirit's work; but you can hear its effects (the sound). This single verse is the deepest biblical root of the Reformed doctrine of effectual calling (WSC 31) and irresistible grace. New birth is not moral exhortation; it is a resurrection-from-the-dead operation. Man does not regenerate God; God regenerates man.
+
+**ὑψόω, Lifted Up (vv. 9 to 15)**
+
+Nicodemus moves from "How can he?" (οὐ δύναται) to "How can these things be?" (πῶς), and that is a small step forward. He has moved from outright denial to puzzled inquiry. That tiny step is itself the trace of the Spirit already at work in him.
+
+The Lord's reply lifts the conversation from "earthly things" (new birth) to "heavenly things" (Christ's origin and destination): "No one has ascended into heaven except He who descended from heaven, the Son of Man" (3:13). The phrase "who is in heaven" (ὁ ὢν ἐν τῷ οὐρανῷ, in many manuscripts) is a striking present participle: the Son of Man has come down, but at the same moment is still in heaven. This is one of the earliest declarations of Christ's two natures: as man, He is the weary Rabbi sitting beside a well at night; as God, He at the same time fills the heavens.
+
+Then comes the chapter's first "lifted up": "As Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in Him may have eternal life" (3:14 to 15). Greek ὑψόω (be lifted up) appears three times in my account: this chapter 3:14, this account 8:28, this account 12:32 to 34. Each time it is a deliberate double meaning, "lifted onto a cross" (suffering) and "lifted to a high place" (glorification) compressed into the same verb. The shame of the cross and the glory of resurrection-ascension fuse into the single word ὑψόω. Philippians 2:9 takes the same root and supercharges it (ὑπερύψωσεν, "super-ὑψόω"); that is the consummation of this chain.
+
+The bronze serpent type from Numbers 21:4 to 9 is the picture the Lord chose Himself, and it is the Reformation's oldest biblical image of "faith alone" (sola fide). Israelites bitten by snakes had no power to heal themselves; they could only look at the bronze serpent God had set up and live. Looking is not work (something to do); looking is a question of "where to look." Romans 4:5, "to the one who does not work but believes," is here pre-played as narrative. The bronze serpent has one further depth: it is "by the form of a serpent the serpent is defeated," just as Christ "in the likeness of sinful flesh" (Rom 8:3) yet without sin defeats the "ancient serpent, the devil" (Rev 12:9) by His "likeness of sinful flesh." That depth ties Genesis 3:15 ("the seed of the woman shall bruise your head") and Revelation 12 ("the great dragon was thrown down") together, with the cross at the meeting point.
+
+**ἔδωκεν, He Gave (vv. 16 to 21)**
+
+Then comes the most-quoted verse in all of Scripture: "For God so loved the world, that He gave His only Son, that whoever believes in Him should not perish but have eternal life" (3:16). Every word here deserves a slow reading.
+
+"Loved" (ἠγάπησεν) is aorist tense, pointing to that one decisive love, not an abstract "general benevolence." "World" (τὸν κόσμον), here κόσμος is not the material universe but humanity under the dominion of sin. The God of this verse loves not "the lovable" but "sinners" (Rom 5:8, "but God shows His love for us in that while we were still sinners, Christ died for us"). "So" (οὕτως) in strict Greek is "in this manner" or "thus," emphasizing the **manner** of the love, not the **degree**. God did not just "love a lot"; God loved "in this way," and the way is "He gave His only Son."
+
+"Only Son" (μονογενής) appears only nine times in the New Testament, five of them in my own writings (this account 1:14, 1:18, 3:16, 3:18, 1 John 4:9). The word echoes Genesis 22 directly, Abraham's offering of Isaac. God said to Abraham: "Take your son, your only son Isaac, whom you love" (Gen 22:2; the Septuagint uses the same μονογενής). Abraham's hand was held back at the last moment because God provided a substitutionary ram; but two thousand years later, the Father truly gave up His own Only Son, the One He loved, with no last-moment hand to stay the knife. The shadow of Mount Moriah comes to rest on Mount Calvary.
+
+"Gave" (ἔδωκεν) is aorist, expressing a once-for-all, decisive handing over. The Father is not "going to give," nor "gradually giving," but has already "decisively given." The giving on the cross is a definitive event in history, an active, free, unilateral act of the Father, not something the world earned.
+
+3:17 to 18 then sets out the two paths of faith and unbelief: "Whoever believes in Him is not condemned, but whoever does not believe is condemned already" (ἤδη κέκριται, perfect tense, "has already been condemned"). Mark the tense: the unbeliever is not awaiting condemnation at the last day; he **is already** under condemnation now, because he is living in unbelief. This pairs with 3:36, "the wrath of God remains on him" (μένει, present tense, indicating an ongoing state): God's wrath is present and real, not a threat reserved for the end.
+
+3:19 to 21 places the principle of judgment on the contrast of light and darkness: "The light has come into the world, and people loved the darkness rather than the light because their works were evil." Man is not a passive victim; man is an active lover, and **man loves darkness**. New birth changes the direction of human "love": from loving darkness to loving light. This is precisely the ground of the Reformed doctrines of total depravity (man loves the wrong object) and irresistible grace (the Spirit reorients the heart's loves).
+
+**The Bridegroom and the Friend of the Bridegroom (vv. 22 to 30)**
+
+The second half of chapter three changes the scene: from Jerusalem to the Judean countryside, from Christ in dialogue with a Pharisee, to John the Baptist in dialogue with his own disciples. The transition is not narrative slack; it is theological progression. In the first half, Christ Himself speaks of "new birth"; in the second half, John the Baptist lives out "decrease" through his own ministry. The first is doctrine; the second is testimony.
+
+John's disciples come to him with a quiet anxiety: "Rabbi, He who was with you across the Jordan, to whom you bore witness, look, He is baptizing, and all are going to Him" (3:26). "All are going to Him" (πάντες ἔρχονται πρὸς αὐτόν) carries the disciples' jealousy: our teacher used to be the center; now that man has become the center.
+
+John's reply is one of the cleanest pieces of ministry theology in the New Testament: "A person cannot receive even one thing unless it is given him from heaven" (3:27). Then he draws the wedding analogy of "bridegroom / friend of the bridegroom": the one who has the bride is the bridegroom; the friend of the bridegroom stands and hears him and rejoices greatly. This echoes Genesis 24, where Abraham's servant goes to find a bride for Isaac, that nameless servant who acts entirely for the marriage of his master, who brings Rebekah to Isaac and then steps offstage, never trying to take the bridegroom's glory. John the Baptist places himself on that nameless servant's typological line: he is not the Christ; he is the voice preparing the way; he is not the bridegroom; he is the friend who rejoices simply at hearing the bridegroom's voice.
+
+Then comes the golden line: "He must increase, but I must decrease" (αὐτὸν δεῖ αὐξάνειν, ἐμὲ δὲ ἐλαττοῦσθαι, 3:30). Greek δεῖ ("must") is the divine "ought"; αὐξάνειν ("increase") and ἐλαττοῦσθαι ("decrease") are paired opposing verbs. This single line ought to be carved on every preacher's pulpit. Any preacher without that line is not standing on John the Baptist's typological line.
+
+**The Final Summary (vv. 31 to 36)**
+
+The last six verses are John's theological coda to the chapter (some commentators read them as my own editorial summary; either reading works, the theology is the same). The passage compresses five things into one breath: Christ comes from above, He receives the Spirit without measure, the Father loves the Son and has given all things into His hand, whoever believes in the Son has eternal life, and whoever does not is left under God's wrath.
+
+Pay close attention to the closing line, 3:36, "the wrath of God remains on him" (ὀργὴ τοῦ θεοῦ μένει ἐπʼ αὐτόν). The Greek μένει is present tense, meaning the wrath **is presently** abiding, **continuously** resting. Not "shall come at the last day," but "is already here." This is the biblical root of the Reformed doctrine of penal substitution: God's wrath is a present, real condition, and Christ on the cross takes that wrath in our place (Rom 3:25, "whom God put forward as a propitiation"). The world has only two paths: receive love through the Son, or remain under wrath. There is no third path.
+
+Beloved reader, this chapter is the gospel in compression. The Father's love (3:16), the Son's being lifted up (3:14 to 15), the Spirit's sovereign regeneration (3:5 to 8), the Trinity appears together in a single nighttime conversation. A Pharisee comes by night seeking truth, and what he receives is the entire biblical mainline, from Genesis to Revelation, poured out on him alone.
+
+You who read this tonight, the Lord asks you the same question: Have you been born again? Do you look to the Son of Man lifted up? Will you confess Him as Bridegroom and gladly take the friend's place? Do you love the light, or the darkness?
+
+The Lord is still seated by the well; the Lord is still waiting through the night.`,
   historyContext_zh: `第3章发生在主公开事工的早期,地点先在耶路撒冷(尼哥底母夜访),后到犹太地的乡村(主和门徒施洗)。尼哥底母是法利赛人和犹太公会成员,公会有71位成员,是犹太人最高的宗教和司法机构。作为"以色列人的先生",他精通旧约律法和传统,但对"重生"的教导感到困惑,这显示了当时法利赛人对救恩的理解局限在外在遵守律法和血统身份上。
 
 "夜里"来见主可能有几个原因:避免公开与主接触引起同僚反对;夜晚更安静,适合深入对谈;也可能象征他此时仍在属灵的"黑暗"中,尚未完全认识真光。有趣的是,本卷后来记载尼哥底母两次为主说话:一次在公会为主辩护(7:50-51),一次在主受死后带着香料来膏主的身体(19:39-40)。这显示他的信心在成长,从夜里来见主,到公开表明立场。
