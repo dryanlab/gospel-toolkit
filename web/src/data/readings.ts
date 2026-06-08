@@ -5623,7 +5623,7 @@ Moses's basket floating on the Nile is a microcosm of every lost soul being prot
   title: '荆棘火焰中的呼召', titleEn: 'The Call from the Burning Bush',
   author: '摩西', authorEn: 'Moses',
   scripture: '出埃及记 3 / Exodus 3',
-  content_zh: `我摩西，在何烈山牧羊的那一天，我以为不过是平常的一天。我已经在米甸旷野牧羊四十年了，每一天都大同小异，赶着羊群，寻找水草，看着同样的山石和天空。那一年，我已经八十岁了（使徒行传7:30），在人看来，已是垂暮之年，早过了建功立业的时候。
+  content_zh: `我是摩西。在何烈山牧羊的那一天，我以为不过是平常的一天。我已经在米甸旷野牧羊四十年了，每一天都大同小异，赶着羊群，寻找水草，看着同样的山石和天空。那一年，我已经八十岁了（使徒行传7:30），在人看来，已是垂暮之年，早过了建功立业的时候。
 
 然而，神的呼召从不按人的时间表。
 
@@ -5652,7 +5652,7 @@ Moses's basket floating on the Nile is a microcosm of every lost soul being prot
 然后我问了那个改变了整个救赎史神学的问题："他们若问我说，他叫什么名字，我要对他们说什么呢？"（出埃及记3:13）。神的回答是宇宙中最深刻的自我启示："我是自有永有的"（出埃及记3:14），在希伯来语中，这是"ehyeh asher ehyeh"，直译为"我是我所是"，或"我将是我将是"。这个神名包含了存在的完全性、自足性和永恒性。祂不依赖任何外物而存在，祂就是存在本身。
 
 这个名字要告诉我和以色列人：引导你们的那一位，是不改变的、永恒的、自有的神。无论法老多么强大，无论旷野多么艰难，无论未来多么不可预测，"我是"永远是"我是"，祂昨日今日一直到永远都不改变。`,
-  content_en: `On the day I tended sheep at Horeb, I thought it would be an ordinary day. I had been shepherding flocks in the wilderness of Midian for forty years, each day much the same as the last: driving the sheep, seeking water and pasture, watching the same rocks and sky. That year I was already eighty years old (Acts 7:30), past what anyone would consider the age of achievement by human reckoning.
+  content_en: `I am Moses. On the day I tended sheep at Horeb, I thought it would be an ordinary day. I had been shepherding flocks in the wilderness of Midian for forty years, each day much the same as the last: driving the sheep, seeking water and pasture, watching the same rocks and sky. That year I was already eighty years old (Acts 7:30), past what anyone would consider the age of achievement by human reckoning.
 
 Yet God's calling never follows a human timetable.
 
