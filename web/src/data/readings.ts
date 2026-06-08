@@ -5994,7 +5994,7 @@ Moses' questioning of the LORD, "Why have you done evil to this people?", prefig
   title: '神重申应许', titleEn: 'God Reaffirms His Promises',
   author: '摩西', authorEn: 'Moses',
   scripture: '出埃及记 6 / Exodus 6',
-  content_zh: `我摩西，站在神与法老之间，是一个满怀惧怕却被神差遣的人。当我第一次去见法老，要求他释放以色列人，他不但不听，反而加重了百姓的劳役。以色列人因此埋怨我，我自己也向神倾诉内心的绝望："主啊，你为何苦待这百姓呢？你为何打发我去呢？"（出埃及记 5:22）
+  content_zh: `我是摩西。我站在神与法老之间，是一个满怀惧怕却被神差遣的人。当我第一次去见法老，要求他释放以色列人，他不但不听，反而加重了百姓的劳役。以色列人因此埋怨我，我自己也向神倾诉内心的绝望："主啊，你为何苦待这百姓呢？你为何打发我去呢？"（出埃及记 5:22）
 
 就在那绝望的深处，神再次对我说话。
 
@@ -6013,7 +6013,7 @@ Moses' questioning of the LORD, "Why have you done evil to this people?", prefig
 兄弟姐妹，你是否也曾处于那种绝望的处境中？盼望一再落空，努力换来的是更多困难，祷告似乎没有回应？以色列人的经历告诉我们：神的应许不会因现实的黑暗而失效。"我是耶和华"，这四个字是整本出埃及记的基石，也是信徒生命的根基。当一切都动摇时，神的名字屹立不倒。
 
 神的救赎往往不按我们期待的时间表和方式来临。有时，在事情变得更好之前，必须先变得更坏。但这不是因为神忘了祂的应许，而是因为祂正在按祂的计划，在祂的时间，用祂的方式，成就祂的旨意，好使祂的名得荣耀，好使我们认识祂真正是耶和华。`,
-  content_en: `I stood between God and Pharaoh, a man filled with fear yet sent by God. When I first went to Pharaoh demanding he release Israel, he not only refused but increased the people's burdens. The Israelites blamed me, and I poured out my own despair to God: "And Moses returned unto the LORD, and said, LORD, wherefore hast thou so evil entreated this people? why is it that thou hast sent me?" (Exodus 5:22)
+  content_en: `I am Moses. I stood between God and Pharaoh, a man filled with fear yet sent by God. When I first went to Pharaoh demanding he release Israel, he not only refused but increased the people's burdens. The Israelites blamed me, and I poured out my own despair to God: "And Moses returned unto the LORD, and said, LORD, wherefore hast thou so evil entreated this people? why is it that thou hast sent me?" (Exodus 5:22)
 
 It was in that depth of despair that God spoke to me again.
 
@@ -6119,7 +6119,7 @@ The genealogy in this chapter also carries theological significance: Christ's in
   title: '亚伦的杖与第一灾', titleEn: 'Aaron s Staff and the First Plague',
   author: '摩西', authorEn: 'Moses',
   scripture: '出埃及记 7 / Exodus 7',
-  content_zh: `我摩西，奉耶和华的命，带着八十岁的身躯，第二次走进法老的宫殿。这一次，神赐给了我一个记号。
+  content_zh: `我是摩西。我奉耶和华的命，带着八十岁的身躯，第二次走进法老的宫殿。这一次，神赐给了我一个记号。
 
 耶和华吩咐我："法老若问你们说，你们行个奇事吧！你就吩咐亚伦说，把杖扔在法老面前，那杖就成了蛇。"（出埃及记 7:9）我和亚伦照做了。亚伦把杖扔在法老面前，那杖果然变成了蛇。然而法老召来了他的术士和行法术的，"埃及行法术的人也用邪术照样而行，各人把杖扔下，也就成了蛇"（出埃及记 7:11-12）。法老的心似乎仍旧刚硬，直到神奇迹般的事情发生："亚伦的杖吞了他们的杖。"（出埃及记 7:12）
 
@@ -6136,7 +6136,7 @@ The genealogy in this chapter also carries theological significance: Christ's in
 我必须诚实地承认：这对我来说并不容易理解。神为什么要使法老的心刚硬？为什么不直接感化他的心？但慢慢地，我学会了不用自己有限的理性去衡量神无限的智慧。神的道路高过我的道路，神的意念高过我的意念（参以赛亚书 55:8-9）。
 
 我的百姓在苦难中，法老在骄傲中，而耶和华在宝座上，一切都在祂的掌控中。这场与埃及众神的较量，从一开始结局就已注定。`,
-  content_en: `At the age of eighty, I entered Pharaoh's palace a second time, commissioned by the LORD. This time, God had given us a sign.
+  content_en: `I am Moses. At the age of eighty, I entered Pharaoh's palace a second time, commissioned by the LORD. This time, God had given us a sign.
 
 The LORD instructed me: "When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast it before Pharaoh, and it shall become a serpent." (Exodus 7:9) Aaron and I obeyed. Aaron cast his staff down before Pharaoh, and it became a serpent. But Pharaoh summoned his wise men and sorcerers, and "Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments. For they cast down every man his rod, and they became serpents: but Aaron’s rod swallowed up their rods." (Exodus 7:11-12) Pharaoh's heart seemed as hard as ever, until something miraculous occurred: "For they cast down every man his rod, and they became serpents: but Aaron’s rod swallowed up their rods." (Exodus 7:12)
 
@@ -6222,7 +6222,7 @@ Third, Pharaoh's hardening and God's sovereignty prefigure both the rejection an
   title: '蛙灾、虱灾与蝇灾', titleEn: 'Plagues of Frogs, Gnats, and Flies',
   author: '摩西', authorEn: 'Moses',
   scripture: '出埃及记 8 / Exodus 8',
-  content_zh: `我摩西，继续站在神与法老之间，见证着一场史无前例的属灵争战。七天的血水之后，神差遣我再次去见法老，带来了接连三场灾难。每一场灾难，都是对埃及神明体系的精准打击，也是对法老刚硬之心的更深揭露。
+  content_zh: `我是摩西。我继续站在神与法老之间，见证着一场史无前例的属灵争战。七天的血水之后，神差遣我再次去见法老，带来了接连三场灾难。每一场灾难，都是对埃及神明体系的精准打击，也是对法老刚硬之心的更深揭露。
 
 第二灾：青蛙（出埃及记 8:1-15）
 
@@ -6256,7 +6256,7 @@ Third, Pharaoh's hardening and God's sovereignty prefigure both the rejection an
 每一次，法老都在试图控制和谈判，而非真正顺服。我们的神不接受这种谈判，祂要求完全的顺服。我向神祷告，苍蝇离去，"但法老这次也硬了心，不容百姓去"（出埃及记 8:32）。
 
 这三场灾难教导了我，也教导我们：神的审判是有步骤的，是有层次的，是有目的的。苦难可以软化人心，也可以使人心更刚硬，取决于人对神话语的回应。法老每一次暂时的悔软，都被随后更深的刚硬取代。这是拒绝神恩典的危险：每一次拒绝都使心更加硬化，直到到达无可挽回的地步。`,
-  content_en: `I continued to stand between God and Pharaoh, witnessing an unprecedented spiritual conflict. After seven days of the bloody Nile, God sent me again to Pharaoh, bringing three successive plagues. Each one was a precise strike against Egypt's divine system and a deeper exposure of Pharaoh's hardened heart.
+  content_en: `I am Moses. I continued to stand between God and Pharaoh, witnessing an unprecedented spiritual conflict. After seven days of the bloody Nile, God sent me again to Pharaoh, bringing three successive plagues. Each one was a precise strike against Egypt's divine system and a deeper exposure of Pharaoh's hardened heart.
 
 The Second Plague: Frogs (Exodus 8:1-15)
 
@@ -6379,7 +6379,7 @@ Pharaoh's three compromise proposals in the fly plague also typologically echo S
   title: '畜疫、疮灾与雹灾', titleEn: 'Plagues of Livestock, Boils, and Hail',
   author: '摩西', authorEn: 'Moses',
   scripture: '出埃及记 9 / Exodus 9',
-  content_zh: `我摩西，目睹了神的审判在埃及大地上一层层加深。第九章记载了三场灾难，它们的规模和烈度不断升级，同时也越来越清楚地彰显了神的目的：不只是要解放以色列，更是要向全地宣告祂是独一的真神。
+  content_zh: `我是摩西。我目睹了神的审判在埃及大地上一层层加深。第九章记载了三场灾难，它们的规模和烈度不断升级，同时也越来越清楚地彰显了神的目的：不只是要解放以色列，更是要向全地宣告祂是独一的真神。
 
 第五灾：畜疫（出埃及记 9:1-7）
 
@@ -6416,7 +6416,7 @@ Pharaoh's three compromise proposals in the fly plague also typologically echo S
 然而，当我祷告雹和雷停止之后，"法老见雨雹雷霆止住了，就越发犯罪，他和他的臣仆都硬着心"（出埃及记 9:34）。雷雨中的认罪，并非真实的悔改，这是苦难中的权宜之词，而非心灵的真实回转。
 
 三场灾难，每一场都在问同一个问题：你，法老，你真的认识耶和华是谁吗？你愿意顺服祂吗？每一次，法老的心都给出了否定的答案。而每一次否定，都让神的名在地上更加彰显。`,
-  content_en: `I witnessed God's judgment deepen layer by layer across the land of Egypt. Chapter 9 records three plagues of ever-increasing scale and intensity, progressively revealing God's purpose, not merely to liberate Israel, but to declare to all the earth that He alone is the true God.
+  content_en: `I am Moses. I witnessed God's judgment deepen layer by layer across the land of Egypt. Chapter 9 records three plagues of ever-increasing scale and intensity, progressively revealing God's purpose, not merely to liberate Israel, but to declare to all the earth that He alone is the true God.
 
 The Fifth Plague: Livestock Disease (Exodus 9:1-7)
 
@@ -8780,8 +8780,8 @@ The structure moves "from glory outward", the most holy things at the center, wi
 
 燔祭坛是会幕院子里最显眼的物件。百姓一进入院子，第一眼看见的就是那高大的铜坛，坛上的火不停燃烧，那火是从主而来的，永远不可熄灭（利6:13）。这是神给以色列的宣告：你们来到我面前，首先必须经过这坛。没有祭，就没有进深。没有流血，就没有赦免。这顺序不能颠倒，这是神圣洁的本性所要求的。
 
-我摩西，亲眼看过神的荣耀，俯伏在祂面前，深知一件事：神是不可冒犯的圣洁。然而就是这位圣洁的神，亲自设计了这个系统，坛、血、火、院子、光，让罪人可以接近祂。这不是人类的聪明，这是神的恩典。每一根帷柱，每一个铜环，都在诉说：神要赦免，神要与人同在。`,
-  content_en: `The wind moves across the desert camp, and I stand before the bronze altar, the smell of blood and fire filling my nostrils, the smoke rising in columns toward heaven. Decades later, I close my eyes and the memory is still vivid, not as something dreadful, but as something profound. That smell was the scent of sins forgiven. That smoke was the sign of God's acceptance.
+我是摩西。我亲眼看过神的荣耀，俯伏在祂面前，深知一件事：神是不可冒犯的圣洁。然而就是这位圣洁的神，亲自设计了这个系统，坛、血、火、院子、光，让罪人可以接近祂。这不是人类的聪明，这是神的恩典。每一根帷柱，每一个铜环，都在诉说：神要赦免，神要与人同在。`,
+  content_en: `I am Moses. The wind moves across the desert camp, and I stand before the bronze altar, the smell of blood and fire filling my nostrils, the smoke rising in columns toward heaven. Decades later, I close my eyes and the memory is still vivid, not as something dreadful, but as something profound. That smell was the scent of sins forgiven. That smoke was the sign of God's acceptance.
 
 On the mountain, the LORD described the altar: acacia wood, square, five cubits long and wide, three cubits high, with four horns at the corners. Those horns were not ornamental, blood was applied to them in the rite of atonement, for the horn speaks of power and salvation. The entire altar was overlaid with bronze. Every utensil, the pots for ashes, the shovels, the basins, the forks, the fire pans, all bronze. A grating of bronze network sat at the altar's midpoint, with four bronze rings at its corners for the carrying poles. This altar would travel with Israel through every stage of the wilderness journey.
 
