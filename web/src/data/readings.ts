@@ -6041,11 +6041,21 @@ I am Moses. I stood between God and Pharaoh, a man filled with fear yet sent by 
 
 It was in that depth of despair that God spoke to me again.
 
-The LORD said to me: "And God spake unto Moses, and said unto him, I am the LORD: And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them." (Exodus 6:2-3) These words shook my heart. God's name "the LORD", the self-existent, eternally faithful One who keeps covenant, was about to be revealed through this act of redemption. The patriarchs knew God Almighty (El Shaddai), but the faithfulness of the covenanting name "the LORD" (YHWH) would be fully displayed in the redemption from Egypt.
+The LORD said to me: "And God spake unto Moses, and said unto him, I am the LORD: And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them." (Exodus 6:2-3) These words shook my heart. God's name "the LORD", the self-existent, eternally faithful One who keeps covenant, was about to be revealed through this act of redemption. The patriarchs knew "God Almighty" (Hebrew El Shaddai, meaning "the Almighty" or "the All-Sufficient One," the principal name by which God revealed Himself in the patriarchal era, as in Genesis 17:1 to Abraham and 35:11 to Jacob), but the faithfulness of the covenanting name "the LORD" (YHWH) would be fully displayed in the redemption from Egypt. From El Shaddai to YHWH is the same God progressively revealing Himself across redemptive history.
 
 **Seven Promises of Redemption (vv. 6-8)**
 
-God then declared to me seven solemn promises: "Wherefore say unto the children of Israel, I am the LORD, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments: And I will take you to me for a people, and I will be to you a God: and ye shall know that I am the LORD your God, which bringeth you out from under the burdens of the Egyptians. And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I am the LORD." (Exodus 6:6-8) These seven "I will" statements are God's faithful pledges, declarations of His covenant grace. God made these promises not based on Israel's merit, but because He had covenanted with Abraham, Isaac, and Jacob; because He had heard His people's cry; because He is the LORD who keeps covenant and shows steadfast love.
+God then declared to me seven solemn "I will" promises (Exodus 6:6-8):
+
+> 1. "I will bring you out from under the burdens of the Egyptians" (Exodus 6:6)
+> 2. "I will rid you out of their bondage" (Exodus 6:6)
+> 3. "I will redeem you with a stretched out arm, and with great judgments" (Exodus 6:6)
+> 4. "I will take you to me for a people" (Exodus 6:7)
+> 5. "I will be to you a God" (Exodus 6:7)
+> 6. "I will bring you in unto the land" (Exodus 6:8)
+> 7. "I will give it you for an heritage" (Exodus 6:8)
+
+These seven "I will" statements are God's faithful pledges, declarations of His covenant grace. God made these promises not based on Israel's merit, but because He had covenanted with Abraham, Isaac, and Jacob; because He had heard His people's cry; because He is the LORD who keeps covenant and shows steadfast love.
 
 Brothers and sisters, consider carefully these five "I will" statements (I will bring you out, I will redeem, I will take, I will be your God, I will bring you in). Each "I" is a declaration of God's sovereignty; each "I" is the foundation of grace. Within the framework of Westminster covenant theology, the distinguishing mark of the Covenant of Grace lies precisely here: humanity cannot bear the conditions of the covenant, so God Himself bears both sides, being both the Covenant-maker and the Covenant-fulfiller. This stands in essential contrast to the covenant with Adam (the Covenant of Works), which demanded "do this and live," while the Covenant of Grace declares "I will make you live." This is the very heart of what Paul proclaims in Romans 8:32: "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?"
 
