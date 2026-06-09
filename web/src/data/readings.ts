@@ -6145,7 +6145,7 @@ IV. God Recommissions Moses (6:28-30)
 六章中神七个"我要"的应许是恩约（Covenant of Grace）无条件性的有力例证。神不等以色列人悔改或顺服，就宣告祂必定履行救赎。韦敏斯德信条第七章论及神的约，强调在堕落之后，神出于纯粹的怜悯主动与人立恩约，救赎完全出于神的主动。以色列人因苦不信，却丝毫不影响神应许的有效性，这正彰显了恩典的本质：它不依赖人的回应，而依赖神的信实。这对身处苦难中的信徒是极大的安慰：神的应许不是条件句，而是神自己的宣誓。
 
 【神学要点三：神使用软弱的器皿】
-摩西两次以"我是拙口拙舌的人"推辞，但神仍然差遣他，并为他安排了亚伦。改革宗神学强调"工具性因果"（instrumental causality）：神可以使用并不完美、甚至有明显缺陷的器皿成就祂的旨意。哥林多前书1:27-28说："神却拣选了世上软弱的，叫有能力的羞愧。"神拣选软弱的摩西，正是为了彰显力量属于神，荣耀归于神。这一原则贯穿整个救赎历史：神不寻找完美的工具，而是在软弱中彰显祂的全能。`,
+摩西两次以"我是拙口笨舌的人"推辞，但神仍然差遣他，并为他安排了亚伦。改革宗神学强调"工具性因果"（instrumental causality）：神可以使用并不完美、甚至有明显缺陷的器皿成就祂的旨意。哥林多前书1:27-28说："神却拣选了世上软弱的，叫有能力的羞愧。"神拣选软弱的摩西，正是为了彰显力量属于神，荣耀归于神。这一原则贯穿整个救赎历史：神不寻找完美的工具，而是在软弱中彰显祂的全能。`,
   theology_en: `[Theological Point 1: God's Self-Revelation Through His Name and Soteriology]
 The declaration "I am the LORD" is the theological heart of this chapter. Reformed theology emphasizes that God's self-revelation is progressive and organic, not contradictory but deepening. "God Almighty" (El Shaddai) stresses God's power and provision; "the LORD" (YHWH) reveals God's character as covenant-keeping Redeemer. Theologian Herman Bavinck taught that the revelation of God's name is part of His self-communication, an act of grace in which God stoops down to His creatures. Within the Westminster Confession framework, God's name reflects His being, attributes, and covenantal relationship. When God says "I am the LORD," He is not merely identifying Himself but declaring a relationship, a commitment, and a redemptive presence.
 
