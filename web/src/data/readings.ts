@@ -6199,13 +6199,14 @@ The genealogy in this chapter also carries theological significance: Christ's in
 
 然而"埃及的术士也用法术照样而行"（出埃及记 7:22），他们能在已成血水的环境中再制造更多血？或者他们在别处有少量干净的水？这显然已是强弩之末。但法老看见术士能行同样的事，"法老的心就刚硬了，不肯听摩西、亚伦，正如耶和华所说的"（出埃及记 7:22）。
 
-这七天（出埃及记 7:25）里，埃及人在尼罗河边挖地找水。我在旷野思考神的旨意：神为何要允许术士模仿神迹？我渐渐明白：神在硬化法老的心，不是出于不公义，而是出于主权的智慧。法老的刚硬是他本有的罪性的显现，神只是在坚固他已然选择的道路，好成就更大的目的，彰显神的大能，使神的名传遍天下，也使以色列人知道，他们的神是比埃及一切神明都更高的神。
+这七天（出埃及记 7:25）里，埃及人在尼罗河边挖地找水。我在旷野思考神的旨意：神为何要允许术士模仿神迹？我渐渐明白：神在硬化法老的心，不是出于不公义，而是出于主权的智慧。法老的刚硬首先出于他自己罪性的选择。圣经多次先记
+"法老硬着他的心"（出 8:15, 8:32, 9:34）, 之后才说"耶和华使法老的心刚硬"（出 9:12 起）。神不是主动制造他的悖逆, 而是以司法性的方式"任凭"（参罗 1:24-28）他陷入自己所拣选的道路。神在祂的主权中使用了法老的罪, 但神并未"造"罪：罪在法老，神是公义的。这样, 这场审判成就了神更大的救赎目的, 彰显神的大能，使神的名传遍天下，也使以色列人知道，他们的神是比埃及一切神明都更高的神。
 
 **神的主权与信心的功课**
 
 我必须诚实地承认：这对我来说并不容易理解。神为什么要使法老的心刚硬？为什么不直接感化他的心？但慢慢地，我学会了不用自己有限的理性去衡量神无限的智慧。神的道路高过我的道路，神的意念高过我的意念（参以赛亚书 55:8-9）。使徒保罗后来在罗马书 9:17-18 引用此事时说："因为经上有话向法老说：我将你兴起来，特要在你身上彰显我的权能，并要使我的名传遍天下。如此看来，神要怜悯谁，就怜悯谁；要叫谁刚硬，就叫谁刚硬。"这正是改革宗所持守的真理：神在祂的主权中，既怜悯人也任凭人，而祂的公义在这两面都得着彰显。
 
-亲爱的弟兄姊妹，今日的你在服事中若遇到属灵的抵挡，请记得：那抵挡不是偶然的，乃是属灵争战的一部分。撒但会兴起术士来模仿，会借着世人的权势来威吓，会让看似的"平手"动摇你的信心。但你要看亚伦的杖如何吞噬众蛇，看尼罗河如何在神一句话中变色。我们所事奉的，是那位掌管众水众神的耶和华。我的百姓在苦难中，法老在骄傲中，而耶和华在宝座上，一切都在祂的掌控中。这场与埃及众神的较量，从一开始结局就已注定。`,
+亲爱的弟兄姊妹，今日的你在服事中若遇到属灵的抵挡，请记得：那抵挡不是偶然的，乃是属灵争战的一部分。撒但会兴起术士来模仿，会借着世人的权势来威吓，会让看似的"平手"动摇你的信心。但你要看亚伦的杖如何吞噬众蛇，看尼罗河如何在神一句话中变色。我们所事奉的，是那位掌管众水，也审判埃及一切假神的耶和华。我的百姓在苦难中，法老在骄傲中，而耶和华在宝座上，一切都在祂的掌控中。这场与埃及众神的较量，从一开始结局就已注定。`,
   content_en: `**Moses Enters Pharaoh's Palace Again (vv. 1-7)**
 
 I am Moses. At the age of eighty, I entered Pharaoh's palace a second time, commissioned by the LORD. This time, God had given us a sign.
@@ -6226,13 +6227,13 @@ The LORD commanded me to tell Aaron: "And the LORD spake unto Moses, Say unto Aa
 
 Yet "And the magicians of Egypt did so with their enchantments: and Pharaoh’s heart was hardened, neither did he hearken unto them; as the LORD had said." (Exodus 7:22) Could they produce more blood in an already blood-saturated environment? Or did they find a small amount of clean water elsewhere? This was clearly a last gasp. But Pharaoh saw the magicians could do the same thing, and "And the magicians of Egypt did so with their enchantments: and Pharaoh’s heart was hardened, neither did he hearken unto them; as the LORD had said." (Exodus 7:22)
 
-For seven days (Exodus 7:25), the Egyptians dug along the banks of the Nile for water to drink. I reflected in the wilderness on God's purposes: why would God allow the magicians to imitate the miracles? Gradually I came to understand: God was hardening Pharaoh's heart, not out of injustice, but from sovereign wisdom. Pharaoh's hardness was the expression of his innate sinfulness; God was simply confirming the path he had already chosen, to accomplish a greater purpose, displaying God's power, spreading God's name throughout the earth, and showing Israel that their God was higher than all Egypt's gods.
+For seven days (Exodus 7:25), the Egyptians dug along the banks of the Nile for water to drink. I reflected in the wilderness on God's purposes: why would God allow the magicians to imitate the miracles? Gradually I came to understand: God was hardening Pharaoh's heart, not out of injustice, but from sovereign wisdom. Pharaoh's hardness arose first from his own sinful choice. Scripture repeatedly records first that "Pharaoh hardened his heart" (Exodus 8:15, 8:32, 9:34), and only afterward says that "the LORD hardened Pharaoh's heart" (Exodus 9:12 onward). God did not actively manufacture his rebellion; rather, in a judicial way He "gave him up" (cf. Romans 1:24-28) to the path Pharaoh himself had chosen. God in His sovereignty used Pharaoh's sin, yet God did not "author" sin: the sin belonged to Pharaoh, and God is righteous. Thus this judgment accomplished God's greater redemptive purpose, displaying God's power, spreading God's name throughout the earth, and showing Israel that their God was higher than all Egypt's gods.
 
 **God's Sovereignty and a Lesson in Faith**
 
 I must honestly confess: this was not easy for me to understand. Why would God harden Pharaoh's heart? Why not simply change it? But gradually I learned not to measure God's infinite wisdom by my finite reason. "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD." (Isaiah 55:8) The apostle Paul later cited this episode in Romans 9:17-18: "For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth. Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth." This is precisely the truth Reformed theology holds: in His sovereignty God both shows mercy and gives men over, and His justice is displayed on both sides.
 
-Dear brethren, if today you encounter spiritual resistance in your service, remember: that opposition is no accident, but a part of the spiritual conflict. Satan will raise up magicians to imitate, will use earthly powers to intimidate, will let the appearance of a "draw" shake your faith. But look at how Aaron's staff swallowed up the serpents, and how the Nile turned color at a single word from God. The One we serve is the LORD who governs all waters and all gods. My people were in suffering, Pharaoh was in pride, and the LORD was on His throne, everything was in His control. This confrontation with Egypt's gods had a predetermined outcome from the very beginning.`,
+Dear brethren, if today you encounter spiritual resistance in your service, remember: that opposition is no accident, but a part of the spiritual conflict. Satan will raise up magicians to imitate, will use earthly powers to intimidate, will let the appearance of a "draw" shake your faith. But look at how Aaron's staff swallowed up the serpents, and how the Nile turned color at a single word from God. The One we serve is the LORD who governs all waters and who judges all the false gods of Egypt. My people were in suffering, Pharaoh was in pride, and the LORD was on His throne, everything was in His control. This confrontation with Egypt's gods had a predetermined outcome from the very beginning.`,
   historyContext_zh: `第七章在历史上标志着十灾的正式开始。水变血是十灾中的第一灾，针对埃及最重要的神明，尼罗河神哈比（Hapi）。尼罗河是埃及文明的根基，每年的洪水泛滥带来肥沃的土壤，是埃及农业的生命源泉。
 
 关于埃及术士能行"同样的事"，改革宗神学家一般认为他们有某种真实的（尽管是有限的、由魔鬼赋予的）超自然能力，而非单纯的幻术。这与新约中假先知能行"大神迹"（马太福音 24:24）的描述一致。
