@@ -6982,11 +6982,11 @@ V. Additional Passover regulations (12:43-51): who may eat the Passover.`,
 
 我们也带上了约瑟的骸骨（出 13:19）。约瑟临死前吩咐以色列人说："神必眷顾你们，你们要把我的骸骨从这里带上去。"（创 50:25）那是约瑟对神应许的信心告白，相信神必将以色列人带回迦南。四百三十年后，我亲手履行了这个承诺。约瑟的骸骨与我们同行，是一个无声的见证：神应许的连续性，跨越几代人，从未改变。
 
-然后，耶和华在他们前面行，日间在云柱中领他们的路，夜间在火柱中光照他们，使他们日夜都可以行走。日间云柱，夜间火柱，总不离开百姓的面前（参出 13:21-22）。
+然后，耶和华在我们前面行，日间在云柱中领我们的路，夜间在火柱中光照我们，使我们日夜都可以行走。日间云柱，夜间火柱，总不离开百姓的面前（出 13:21-22）。
 
 云柱与火柱，这是我所见过最美的神学真理被看见的样子。神不是派遣天使来带领我们，也不是给我们一张地图，而是祂自己来。祂自己在云柱中、在火柱中行在我们前面。神与我们同在的应许，在旷野的沙土上、在夜空的火光中，变得清晰可见。
 
-这位引导的神，在白日遮蔽他们免受烈日炙烤，在夜晚照亮他们免陷黑暗。祂是光明与庇护，是方向与温暖，是祂子民所需要的一切。那云柱与火柱不只是方向指示，更是神同在的应许：我在这里，我带你们走，你们不孤单。
+这位引导的神，在白日遮蔽我们免受烈日炙烤，在夜晚照亮我们免陷黑暗。祂是光明与庇护，是方向与温暖，是祂子民所需要的一切。那云柱与火柱不只是方向指示，更是神同在的应许：我在这里，我带你们走，你们不孤单。
 
 我看着那云柱在我们队伍前方缓缓移动，心中充满了对神的敬畏与感恩。这位刚刚在埃及显示了无与伦比的审判大权的神，如今亲自在旷野中走在祂儿女的前面。权柄与怜悯并存，审判与同在并立，这就是耶和华，我们的神。`,
   content_en: `We left Egypt, carrying four hundred and thirty years of accumulated hope, marked by the blood of the Passover lamb, accompanied by God's miraculous presence, stepping into the wilderness journey. Yet the first thing God spoke to me was not about our next destination, but about belonging and remembrance.
@@ -7005,11 +7005,11 @@ For the road out of Egypt, God did not lead us the shortest way. The way of the 
 
 We also took the bones of Joseph with us (Ex. 13:19). Joseph had straitly sworn the children of Israel, saying, "God will surely visit you, and ye shall carry up my bones away hence with you." (Gen. 50:25) That was Joseph's confession of faith in God's promise, that God would surely bring Israel back to Canaan. Four hundred and thirty years later, I myself carried out that promise. Joseph's bones walked with us, a silent witness to the continuity of God's promises, spanning generations without change.
 
-Then the LORD went before them by day in a pillar of cloud to lead them along the way, and by night in a pillar of fire to give them light, that they might travel by day and by night. The pillar of cloud by day and the pillar of fire by night departed not from before the people (cf. Ex. 13:21-22).
+Then the LORD went before us by day in a pillar of cloud to lead us along the way, and by night in a pillar of fire to give us light, that we might travel by day and by night. The pillar of cloud by day and the pillar of fire by night departed not from before the people (Ex. 13:21-22).
 
 The pillar of cloud and pillar of fire, these were the most beautiful visible presentation of theological truth I had ever beheld. God did not send an angel to guide us, nor did He give us a map. He came Himself. He Himself in the pillar of cloud and the pillar of fire went before us. The promise of God with us became plainly visible upon the desert sand and in the firelight of the night sky.
 
-This guiding God sheltered them by day from the scorching sun, and lit their way by night against the darkness. He was light and shelter, direction and warmth, all that His people needed. The pillars of cloud and fire were not merely directional signs but the very pledge of God's presence: I am here, I am leading you, you are not alone.
+This guiding God sheltered us by day from the scorching sun, and lit our way by night against the darkness. He was light and shelter, direction and warmth, all that His people needed. The pillars of cloud and fire were not merely directional signs but the very pledge of God's presence: I am here, I am leading you, you are not alone.
 
 I watched the pillar of cloud moving slowly before our column, and my heart was filled with reverence and thanksgiving toward God. The One who had but lately shewn forth such incomparable judicial power in Egypt was now Himself walking before His children in the wilderness. Authority and mercy together, judgment and presence side by side: this is the LORD our God.`,
   historyContext_zh: `第13章连接了逾越节（第12章）与旷野征途（第14章起）的叙事。神所选择的路线，经旷野去红海（出 13:18），绕开了非利士人的迦萨地道路，这是当时埃及通往迦南最主要的军事商道"何鲁斯之路"（或称"腓力斯丁之路"）。这条路有埃及军队把守的要塞，对刚从奴役中出来的民众来说极为危险。
