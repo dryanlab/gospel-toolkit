@@ -6770,7 +6770,7 @@ Israel having light while Egypt was in darkness prefigures John 1:5's declaratio
   title: '预告击杀长子', titleEn: 'Warning of the Death of the Firstborn',
   author: '摩西', authorEn: 'Moses',
   scripture: '出埃及记 11 / Exodus 11',
-  content_zh: `我站在法老面前，心中清楚地知道，这是最后一次了。耶和华已经告诉我："我再使一样的灾殃临到法老和埃及，然后他必容你们离开这里。"（出埃及记 11:1）九次灾难过去了，埃及的大地已经满目疮痍，尼罗河变为血、青蛙铺天盖地、虱子遍布人畜、苍蝇蜂拥而至、牲畜瘟疫、毒疮脓包、雹子雷火、蝗虫遮天、三日黑暗，然而法老的心依然刚硬，就像耶和华所预言的那样。
+  content_zh: `我站在法老面前，心中清楚地知道，这是最后一次了。耶和华已经告诉我："我再使一样的灾殃临到法老和埃及，然后他必容你们离开这地。"（出埃及记 11:1）九次灾难过去了，埃及的大地已经满目疮痍，尼罗河变为血、青蛙铺天盖地、虱子遍布人畜、苍蝇蜂拥而至、牲畜瘟疫、毒疮脓包、雹子雷火、蝗虫遮天、三日黑暗，然而法老的心依然刚硬，就像耶和华所预言的那样。
 
 我知道，神的目的不只是要拯救以色列人出埃及。祂要在这件事上显明祂自己，祂是谁，祂的权能有多大，祂对祂百姓的忠信有多深。每一次灾难都是一次宣告，告诉埃及诸神，那尼罗河神、太阳神、青蛙神，它们不过是虚无，唯有耶和华是真神。
 
@@ -6778,11 +6778,11 @@ Israel having light while Egypt was in darkness prefigures John 1:5's declaratio
 
 如今我在天家回望，越发明白那金银首饰的意义。四百年前神对亚伯拉罕说："他们所要服事的那国，我要惩罚，后来他们必带着许多财物从那里出来。"（创 15:14）那一夜神对亚伯兰所说的话，没有一句落空。神不是健忘的神，祂记得每一滴汗水、每一道鞭痕、每一声哀哭。以色列人四百年的无偿劳役，神在祂的账册上一笔一笔地记着；到了日子满足的时候，祂使埃及人甘心情愿地把金银交在他百姓的手中。这不是抢夺，这是神公义的清算。亲爱的圣徒，你今日所受的一切冤屈，神都看见，神都记念，到了那日，祂必为你伸冤，加倍归还。
 
-我对法老说出了那可畏的话语："耶和华这样说：约到夜半，我必出去巡行埃及遍地，凡埃及地头生的，都必死，从坐宝座的法老长子，直到磨子后面奴婢的长子，以及一切头生的牲畜。"（出 11:4-5）当我说这话的时候，我的内心是沉重的。死亡不是耶和华轻易降下的事；神并不喜悦恶人的死亡。但法老一次又一次地硬着心肠，拒绝神的话语，拒绝放以色列人去。每一次刚硬，都是在积累神的审判。
+我对法老说出了那可畏的话语："耶和华这样说：约到半夜，我必出去巡行埃及遍地。凡在埃及地，从坐宝座的法老直到磨子后的婢女所有的长子，以及一切头生的牲畜，都必死。"（出 11:4-5）当我说这话的时候，我的内心是沉重的。死亡不是耶和华轻易降下的事；神并不喜悦恶人的死亡。但法老一次又一次地硬着心肠，拒绝神的话语，拒绝放以色列人去。每一次刚硬，都是在积累神的审判。
 
 头生的，在神眼中是何等贵重。头生的代表家族的延续，代表父亲的力量初现，代表产业与盼望。当神说要击杀埃及一切的头生时，我那时还不完全明白，但今日我在天家看得分明：那是神在预演一件更深的事。许多世代之后，神自己的独生爱子，那位真正的头生者，要为世人的罪被钉在十字架上。埃及众家的长子因法老的罪而死，而神的独生子却为我们的罪而死。一个是审判的公义，一个是代赎的恩典；一个使埃及大地哀号，一个使天上地下永远欢呼。
 
-"在埃及遍地必有大哀号，是从来没有的，也是以后没有的。但在以色列中，无论是人是牲畜，连狗也不敢向他们狺狺，好使你们知道耶和华是将埃及人和以色列人分开的。"（出 11:6-7）这个区分是关键的。不是因为以色列人更好、更义，而是因为耶和华拣选了他们，与亚伯拉罕、以撒、雅各立了约。神的拣选是祂主权的彰显，不基于人的功德，只基于祂自己的怜悯和旨意。
+"埃及遍地必有大哀号；从前没有这样的，后来也必没有。至于以色列中，无论是人是牲畜，连狗也不敢向他们摇舌，好叫你们知道耶和华是将埃及人和以色列人分别出来。"（出 11:6-7）这个区分是关键的。不是因为以色列人更好、更义，而是因为耶和华拣选了他们，与亚伯拉罕、以撒、雅各立了约。神的拣选是祂主权的彰显，不基于人的功德，只基于祂自己的怜悯和旨意。
 
 我说完这话，就气忿忿地离开法老出去了（出 11:8）。这一幕，我在天家回想起来，仍然记得清楚。我一生甚少这样动怒。在米甸，我是温柔的牧羊人；在旷野，我背负百姓四十年，他们悖逆我、毁谤我，我都忍了。圣经称我为地上极其谦和的人（民 12:3）。可是在那一刻，面对法老一次又一次的悖逆与诡诈，我的怒气如火烧起。亲爱的弟兄姊妹，你要知道，圣洁的怒气不是罪。当神的名被亵渎、当祂的百姓被苦待、当真理被践踏，一颗爱神的心怎能不痛、怎能不怒？然而我的怒气与神的公义之怒不可同日而语。神的忿怒是圣洁的、公义的、必然临到一切悖逆罪恶的审判。祂忍耐了这么久，给了法老一次又一次的机会，每次灾难都是一次呼召，悔改，放手，承认耶和华是神。法老就是不肯。
 
@@ -6795,13 +6795,13 @@ I understood that God's purpose was not only to deliver Israel from Egypt. He wa
 
 God also told me that the Israelites were to ask from the Egyptians silver and gold jewelry, and the LORD gave the people favor in the sight of the Egyptians, so that they received what they asked. (Ex. 11:2-3) And I myself was considered very great in the land of Egypt. This was not my glory, it was the glory of the LORD shining through a weak vessel. The shepherd who had said in the wilderness of Midian, "I am not eloquent," now made all of Egypt tremble. All of this was God's doing.
 
-I spoke those dreadful words to Pharaoh: "Thus says the LORD: 'About midnight I will go out in the midst of Egypt, and every firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the slave girl who is behind the handmill, and all the firstborn of the cattle.'" (Ex. 11:4-5) As I spoke these words, my heart was heavy. Death is not something the LORD brings down lightly; God takes no pleasure in the death of the wicked. But Pharaoh had hardened his heart again and again, refusing God's word, refusing to let Israel go. Each hardening was an accumulation of divine judgment.
+I spoke those dreadful words to Pharaoh: "Thus saith the LORD, About midnight will I go out into the midst of Egypt: And all the firstborn in the land of Egypt shall die, from the first born of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that is behind the mill; and all the firstborn of beasts." (Ex. 11:4-5) As I spoke these words, my heart was heavy. Death is not something the LORD brings down lightly; God takes no pleasure in the death of the wicked. But Pharaoh had hardened his heart again and again, refusing God's word, refusing to let Israel go. Each hardening was an accumulation of divine judgment.
 
-"There shall be a great cry throughout all the land of Egypt, such as there has never been, nor ever will be again. But not a dog shall growl against any of the people of Israel, either man or beast, that you may know that the LORD makes a distinction between Egypt and Israel." (Ex. 11:6-7) This distinction is crucial. Not because Israelites were better or more righteous, but because the LORD had chosen them and made a covenant with Abraham, Isaac, and Jacob. God's election is the expression of His sovereignty, not based on human merit, but solely on His mercy and will.
+"And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more. But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the LORD doth put a difference between the Egyptians and Israel." (Ex. 11:6-7) This distinction is crucial. Not because Israelites were better or more righteous, but because the LORD had chosen them and made a covenant with Abraham, Isaac, and Jacob. God's election is the expression of His sovereignty, not based on human merit, but solely on His mercy and will.
 
 My anger burned hot at that time, for Pharaoh's stubbornness was truly chilling. (Ex. 11:8) Yet my anger cannot be compared to God's holy wrath. God's anger is holy, righteous, and must fall upon all rebellion and evil. He had been patient so long, giving Pharaoh chance after chance, every plague a call, repent, release them, acknowledge that the LORD is God. Pharaoh simply would not.
 
-I also understood that all of this was under God's control. "The LORD said to Moses, 'Pharaoh will not listen to you, that my wonders may be multiplied in the land of Egypt.'" (Ex. 11:9) This was not failure, it was God's predetermined plan unfolding. The sovereign God rules in history, and even Pharaoh's hardness of heart was in God's hands, accomplishing His glorious purpose, spreading His name throughout the earth, making His mighty redemption of Israel known to all nations.
+I also understood that all of this was under God's control. "And the LORD said unto Moses, Pharaoh shall not hearken unto you; that my wonders may be multiplied in the land of Egypt." (Ex. 11:9) This was not failure, it was God's predetermined plan unfolding. The sovereign God rules in history, and even Pharaoh's hardness of heart was in God's hands, accomplishing His glorious purpose, spreading His name throughout the earth, making His mighty redemption of Israel known to all nations.
 
 Standing in that moment, I could feel the axis of history turning. Four hundred years of slavery were about to end. The promise given to Abraham, "your offspring will be sojourners in a land that is not theirs and will be servants there, and they will be afflicted for four hundred years... but in the fourth generation they shall come back here" (Gen. 15:13-16), the moment of that promise had arrived. God is faithful; not one of His words falls to the ground. I stood in that historical moment, trembling with fear, yet filled with reverence and trust in God.
 
