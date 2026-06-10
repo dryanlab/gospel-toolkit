@@ -7016,12 +7016,12 @@ I watched the pillar of cloud moving slowly before our column, and my heart was 
 
 约瑟的骸骨：约瑟约于公元前1805年去世（传统年代）。他的骸骨在以色列人中保存了约四百年，直到进入迦南后葬于示剑（书 24:32）。这个细节显示以色列人对神应许有持续的信仰，并强化了出埃及与列祖之约的连续性。
 
-云柱火柱：这是神的"舍金那荣耀"（Shekinah Glory）在旷野时期的主要显现方式，后来也充满了会幕（出 40:34-38）和所罗门圣殿（王上 8:10-11）。`,
+云柱火柱：这是神荣耀同在的可见彰显，后世犹太传统称之为"舍金那荣耀"（Shekinah Glory）。"舍金那"一词不在圣经原文中，它出自希伯来文动词 shakan（居住），指神亲自住在百姓中间时那可见的荣光；神吩咐造圣所时说"使我可以住在他们中间"（出 25:8），"会幕"（mishkan，居所）与它正是同一字根。这荣耀后来充满了会幕（出 40:34-38）和所罗门圣殿（王上 8:10-11）；到了新约，"道成了肉身，住在我们中间…我们也见过他的荣光"（约 1:14），那"住"字原文正是"支搭帐幕"，基督就是那终极的舍金那荣耀。`,
   historyContext_en: `Chapter 13 bridges the Passover narrative (chapter 12) with the wilderness journey (beginning in chapter 14). The route God chose, through the wilderness toward the Red Sea (Ex. 13:18), bypassed the road through Philistine territory, which was the main Egyptian military and commercial road to Canaan, known as the "Way of Horus" or "Way of the Philistines." This route was guarded by Egyptian military fortresses and would have been extremely dangerous for a people just emerging from slavery.
 
 Joseph's bones: Joseph died around 1805 BC (traditional chronology). His bones were preserved among the Israelites for approximately four hundred years until they were buried at Shechem after entering Canaan (Josh. 24:32). This detail shows Israel's sustained faith in God's promise and reinforces the continuity between the Exodus and the covenant with the patriarchs.
 
-Pillar of cloud and fire: This was the primary manifestation of God's Shekinah Glory during the wilderness period, which later also filled the tabernacle (Ex. 40:34-38) and Solomon's temple (1 Kings 8:10-11).`,
+Pillar of cloud and fire: This was the visible manifestation of God's glorious presence, which later Jewish tradition called the "Shekinah Glory." The word Shekinah does not appear in the biblical text itself; it derives from the Hebrew verb shakan, "to dwell," and denotes the visible glory of God dwelling among His people. When God commanded the sanctuary to be made He said, "that I may dwell among them" (Ex. 25:8), and "tabernacle" (mishkan, dwelling place) shares this very root. This glory later filled the tabernacle (Ex. 40:34-38) and Solomon's temple (1 Kings 8:10-11); and in the New Testament, "the Word was made flesh, and dwelt among us... and we beheld his glory" (John 1:14), where "dwelt" is literally "tabernacled": Christ is the ultimate Shekinah Glory.`,
   structure_zh: `第13章可分为三段：
 一、头生的分别为圣（13:1-2）：原则的宣告；
 二、除酵节的记念与教导（13:3-16）：包含向儿女传授信仰的命令，以及头生之赎的规条；
