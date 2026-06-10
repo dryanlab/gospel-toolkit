@@ -6737,18 +6737,18 @@ This was my final dialogue with Pharaoh. Counting back, Pharaoh confessed five t
 **The Ninth Plague: Darkness (vv. 21-23)**: Three days of tangible darkness, light in Israel's dwellings.
 
 **Final Negotiation and Rupture (vv. 24-29)**: Pharaoh demanding livestock stay, Moses insisting on taking everything, Pharaoh's final threat, the last dialogue.`,
-  theology_zh: `**神的心意刚硬（Divine Hardening）**
-第1节明确说"我使他的心刚硬"。改革宗神学区分两种刚硬：神的主权刚硬（judicial hardening）和人自己的刚硬（self-hardening）。前几灾中法老自己硬着心（出8:15, 8:32, 9:34），后来神主动使他的心刚硬。韦敏斯德信条第五章第六条：对于那些因先前的罪而心被刚硬的恶人，神任凭他们的心刚硬。神的刚硬是审判性的，不是使无辜者变恶，而是让已经选择悖逆的人走到自己选择的终极后果。
+  theology_zh: `**神司法性的任凭（Divine Hardening）**
+第1节明确说"我使他的心刚硬"。改革宗神学区分两种刚硬：神司法性的任凭（judicial hardening）和人自己的刚硬（self-hardening）。前几灾中法老自己硬着心（出8:15, 8:32, 9:34），后来神主动使他的心刚硬。这正如使徒保罗在罗马书1:24所说："所以，神任凭他们逞着心里的情欲行污秽的事"。"任凭"（希腊文 paradidomi）是司法性的"交出"：神并不主动制造罪，乃是让已经选择悖逆的人，走到自己所拣选的终极后果。韦敏斯德信条第五章第四条声明："神决不是罪的作者，亦不准许罪"；第六条补充：对于那些因先前的罪而心被刚硬的恶人，神任凭他们的心刚硬。神的刚硬是司法性的，不是使无辜者变恶，乃是审判已选悖逆者直至无可挽回。这正是出7章我们立的"罪在法老，神是公义"在出10章的延伸。
 
-**以色列家中有光：分别之恩**
+**以色列家中有光，分别之恩**
 黑暗笼罩全埃及，唯有以色列人家中有光。这不是自然现象，而是神恩典的分别。改革宗神学用"特殊恩典"（special grace）与"普通恩典"（common grace）来区分。以色列家中的光是特殊恩典，不是因为以色列人比埃及人好，而是因为神拣选了他们。以弗所书5:8说："从前你们是暗昧的，但如今在主里面是光明的。"
 
 **全部的奉献**
 摩西坚持"连一蹄也不留下"，这教导我们敬拜神需要全部的奉献。法老愿意让人去，但要留下牲畜，这是只给一半的信仰。改革宗传统强调信仰的整全性：基督是我们生活每个领域的主，不仅仅是"属灵"部分的主。路加福音14:33："你们无论甚么人，若不撇下一切所有的，就不能作我的门徒。"`,
-  theology_en: `**Divine Hardening**
-Verse 1 explicitly says "I have hardened his heart." Reformed theology distinguishes two kinds of hardening: God's sovereign judicial hardening and human self-hardening. In the earlier plagues, Pharaoh hardened his own heart (8:15, 8:32, 9:34); later God actively hardened it. Westminster Confession chapter 5, section 6: concerning those wicked whose hearts are hardened by prior sin, God gives them over to their own hardness. God's hardening is judicial, not making the innocent wicked but allowing those who have chosen rebellion to reach the ultimate consequence of their choice.
+  theology_en: `**God's Judicial Giving-Over (Divine Hardening)**
+Verse 1 explicitly says "I have hardened his heart." Reformed theology distinguishes two kinds of hardening: God's judicial giving-over (judicial hardening) and human self-hardening. In the earlier plagues, Pharaoh hardened his own heart (8:15, 8:32, 9:34); later God actively hardened it. As the Apostle Paul writes in Romans 1:24, "Wherefore God also gave them up to uncleanness through the lusts of their own hearts." The Greek paradidomi ("gave up / handed over") is judicial: God does not actively author sin but gives those who have chosen rebellion over to the ultimate consequence of their own choosing. Westminster Confession chapter 5, section 4 declares that "God is neither the author nor approver of sin"; section 6 adds that concerning those wicked whose hearts are hardened by prior sin, God gives them over to their own hardness. God's hardening is judicial, not making the innocent wicked but giving the rebellious over to their chosen end. This extends the line drawn in Exodus 7, that the sin belonged to Pharaoh, and God is righteous.
 
-**Light in Israel's Houses: The Grace of Separation**
+**Light in Israel's Houses, The Grace of Separation**
 Darkness covered all Egypt, yet Israel's homes had light. This was not natural phenomenon but God's separating grace. Reformed theology distinguishes "special grace" from "common grace." The light in Israel's houses was special grace, not because Israelites were better than Egyptians, but because God chose them. Ephesians 5:8 says, "For at one time you were darkness, but now you are light in the Lord."
 
 **Total Offering**
