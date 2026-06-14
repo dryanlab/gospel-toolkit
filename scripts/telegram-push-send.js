@@ -28,6 +28,13 @@ try {
   process.exit(1);
 }
 
+// A skip sentinel means "nothing scheduled today" — a benign no-op, not a
+// failure. Exit 0 so the upstream cron records success instead of an error.
+if (result.skip) {
+  console.log(`⏭️  ${type}: ${result.reason || 'skip'} — nothing to push today`);
+  process.exit(0);
+}
+
 const text = result.text;
 const url = result.url || '';
 

@@ -141,7 +141,17 @@ function generateLetter(id) {
     while ((m = dateRe.exec(src)) !== null) {
       if (m[2] === today) { id = m[1]; break; }
     }
-    if (!id) { console.error('No letter for today:', today); process.exit(1); }
+    if (!id) {
+      // No letter for today is a NORMAL condition for this sporadic weekly
+      // cron — letters aren't scheduled every Saturday. Emit a skip sentinel
+      // and exit 0 so the upstream mochi cron records a no-op success. A
+      // non-zero exit here used to climb consecutiveErrors every letterless
+      // Saturday → at 3 the cron is classified `permanent` and stops running,
+      // silently killing the letter channel even on Saturdays WITH a letter.
+      console.error('No letter for today:', today);
+      process.stdout.write(JSON.stringify({ skip: true, reason: 'no-letter-today' }));
+      process.exit(0);
+    }
   }
 
   // Find letter by id — same line-start anchor for symmetry.
