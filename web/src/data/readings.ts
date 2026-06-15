@@ -7190,9 +7190,11 @@ IV. Israel's response (14:30-31): fear of the LORD, belief in God and in Moses.`
 
 > "我要向耶和华歌唱，因祂大大得胜，将马和骑马的人投在海中。耶和华是我的力量，我的诗歌，也成了我的拯救。这是我的神，我要赞美祂；是我父亲的神，我要尊崇祂。"（出 15:1-2）
 
-这首歌后来被称为"摩西之歌"，是圣经里第一首大型的赞美诗，是诗篇传统的源头。在我之前，人们也曾对神说话，但从未有过这样规模的会众一同向耶和华歌唱。从这一刻开始，神的子民学会了用诗歌回应救赎。如今在天家，我才更明白这首歌的分量：使徒约翰在异象中看见末世得胜的圣徒站在玻璃海上，"唱神仆人摩西的歌和羔羊的歌"（启 15:3）。原来红海边的歌声，会一直唱到新天新地。
+这首歌后来被称为"摩西之歌"，是圣经里第一首大型的赞美诗，是诗篇传统的源头。在我之前，人们也曾对神说话，但从未有过这样规模的会众一同向耶和华歌唱。从这一刻开始，神的子民学会了用诗歌回应救赎。如今回望，我才更明白这首歌的分量：使徒约翰在异象中看见末世得胜的圣徒站在玻璃海上，"唱神仆人摩西的歌和羔羊的歌"（启 15:3）。原来红海边的歌声，会一直唱到新天新地。
 
-> "耶和华是战士；耶和华是祂的名。"（出 15:3）神是战士，这对受过和平主义文化熏陶的现代人可能感到不舒服，但这是真理。神是圣洁的，祂面对一切罪恶、一切压迫的终极回应是公义的争战。以色列人被奴役了四百年，神出手了，而且彻底地出手。
+> "耶和华是战士；耶和华是祂的名。"（出 15:3）
+
+神是战士，这对受过和平主义文化熏陶的现代人可能感到不舒服，但这是真理。神是圣洁的，祂面对一切罪恶、一切压迫的终极回应是公义的争战。以色列人被奴役了四百年，神出手了，而且彻底地出手。
 
 歌中描述神的大能，祂的右手有能力，甚是荣耀，祂以丰盛的荣威推倒那些起来攻击祂的。（出 15:6-7）我在歌中也说到了神的宏谋远略，祂要引导以色列人进入迦南，植在祂产业的山上，在圣所里立基。（出 15:17）出埃及不是目的，进迦南才是目标，而迦南也不是终点，神与人同住才是最终的异象。
 
@@ -7213,9 +7215,11 @@ IV. Israel's response (14:30-31): fear of the LORD, belief in God and in Moses.`
 
 > "I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea. The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him." (Ex. 15:1-2)
 
-This song would later be called "the Song of Moses," the first large-scale hymn of praise in Scripture, the headwaters of the Psalter. Before me, men had spoken to God, but never had an entire congregation lifted up such a song together. From this hour onward, God's people learned to answer redemption with song. Only now, here in the Father's house, do I understand its weight. The apostle John saw the saints of the last day standing on the sea of glass, "singing the song of Moses the servant of God, and the song of the Lamb" (Rev. 15:3). The song begun on the shore of the Red Sea will be sung straight into the new heavens and the new earth.
+This song would later be called "the Song of Moses," the first large-scale hymn of praise in Scripture, the headwaters of the Psalter. Before me, men had spoken to God, but never had an entire congregation lifted up such a song together. From this hour onward, God's people learned to answer redemption with song. Looking back now, I understand its weight more fully. The apostle John saw the saints of the last day standing on the sea of glass, "singing the song of Moses the servant of God, and the song of the Lamb" (Rev. 15:3). The song begun on the shore of the Red Sea will be sung straight into the new heavens and the new earth.
 
-> "The LORD is a man of war: the LORD is his name." (Ex. 15:3) God is a warrior; this may unsettle modern people raised in pacifist culture, but it is truth. God is holy, and His ultimate response to all evil and oppression is righteous warfare. Israel had been enslaved for four hundred years; God intervened, and He intervened completely.
+> "The LORD is a man of war: the LORD is his name." (Ex. 15:3)
+
+God is a warrior; this may unsettle modern people raised in pacifist culture, but it is truth. God is holy, and His ultimate response to all evil and oppression is righteous warfare. Israel had been enslaved for four hundred years; God intervened, and He intervened completely.
 
 The song describes God's great power: His right hand is glorious in power; in the greatness of His majesty He overthrows those who rise up against Him. (Ex. 15:6-7) In the song I also spoke of God's sweeping plan, that He would bring Israel into Canaan, plant them on the mountain of His inheritance, at the sanctuary His hands have established. (Ex. 15:17) The Exodus was not the destination; Canaan was the goal, and even Canaan was not the final end. God dwelling with His people was the ultimate vision.
 
